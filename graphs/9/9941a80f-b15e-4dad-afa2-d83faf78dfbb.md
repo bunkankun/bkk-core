@@ -1,0 +1,74 @@
+---
+uuid: 9941a80f-b15e-4dad-afa2-d83faf78dfbb
+type: graph
+graphs:
+  attested: 犙
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 牛三歳也又息含切
+xiaoyun:
+  headword: 搜
+  graph_count: 17
+fanqie:
+  shangzi:
+    attested: 所
+    standard: null
+  xiazi:
+    attested: 鳩
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '8658'
+  pan_wuyun_id: '8716'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '188'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: sōu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 生
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 平
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: ʃiu
+      pan_wuyun: ʃiu
+      wang_li: ʃĭəu
+      pulleyblank: ʂuw
+      shao_rongfen: ʃiəu
+      zhengzhang_shangfang: ʃɨu
+      karlgren: ʂi̯ə̯u
+    authorial_reconstructions:
+      baxter: null
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽1
+      phonetic: 參
+      oc: sru
+    zhengzhang_shangfang:
+      oc: sluum
+      yunbu: 侵3
+      phonetic: 參
+      notes: null
+---
+
+# 犙
+
+## Fanqie
+所鳩
+
+## Mandarin
+sōu

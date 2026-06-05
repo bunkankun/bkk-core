@@ -1,0 +1,44 @@
+---
+uuid: fba97bcf-5b9b-4d00-bdca-03dc7c28617e
+type: bibliography
+citation_label: LAPP 1992
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Linguistik der Ironie
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Edgar
+  family: Lapp
+  script: Latn
+  names:
+  - script: Latn
+    given: Edgar
+    family: Lapp
+origin:
+  place: Tübingen
+  publisher: Narr
+  date_issued: '1992'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# LAPP 1992
+
+## Title
+**Linguistik der Ironie**
+
+## Contributors
+- Edgar Lapp, author
+
+## Publication
+Tübingen: Narr, 1992.

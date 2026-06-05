@@ -1,0 +1,74 @@
+---
+uuid: 575bac7c-2ebc-4e00-baec-10f112aae8f5
+type: graph
+graphs:
+  attested: 輪
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 車輪周禮曰軫之方以象地蓋之圜以象天輪輻三十以象日月
+xiaoyun:
+  headword: 淪
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 力
+    standard: null
+  xiazi:
+    attested: 迍
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '4009'
+  pan_wuyun_id: '4044'
+locations:
+  guangyun_location: '107.33'
+  baxter_location: '107.29'
+  pan_wuyun_location: '87'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lún
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 三
+      呼: 合
+      韻部: 諄
+      調: 平
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: liuĕn
+      pan_wuyun: lʷin
+      wang_li: lĭuĕn
+      pulleyblank: lwin
+      shao_rongfen: ljuen
+      zhengzhang_shangfang: liuɪn
+      karlgren: li̯uĕn
+    authorial_reconstructions:
+      baxter: lwin
+  old_chinese:
+    pan_wuyun:
+      yunbu: 文2
+      phonetic: 侖
+      oc: ɡ-run
+    zhengzhang_shangfang:
+      oc: run
+      yunbu: 文2
+      phonetic: 侖
+      notes: null
+---
+
+# 輪
+
+## Fanqie
+力迍
+
+## Mandarin
+lún

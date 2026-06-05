@@ -1,0 +1,12 @@
+---
+uuid: d8198eab-b339-4c9d-ac6b-efecb23e0f90
+type: syntactic-function
+code: vt[0]{NEG}+.Vt[0](+V)
+source:
+  source_file: syntactic-functions.xml
+---
+
+# vt[0]{NEG}+.Vt[0](+V)
+
+## Description
+Negative verb with a lexically determinate omitted subject prededing and in construction with a transitive verbal construction of which the verbal complement is omitted and contextually determinate.

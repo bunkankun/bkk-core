@@ -1,0 +1,74 @@
+---
+uuid: 13d59b1a-f2cc-41a0-96fd-0d4eec65ccbb
+type: graph
+graphs:
+  attested: null
+  unemended: null
+  emended: null
+  standardised: 啍
+gloss: 詩云大車噋噋噋噋重遟皃
+xiaoyun:
+  headword: 暾
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 他
+    standard: null
+  xiazi:
+    attested: 昆
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '100031'
+  pan_wuyun_id: null
+locations:
+  guangyun_location: '119.30'
+  baxter_location: '119.06'
+  pan_wuyun_location: null
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 余校補同噋
+pronunciation:
+  mandarin:
+    jin: tūn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 透
+      等: 一
+      呼: 合
+      韻部: 元
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: tʰuən
+      pan_wuyun: tʰuon
+      wang_li: tʰuən
+      pulleyblank: tʰwən
+      shao_rongfen: tʰuən
+      zhengzhang_shangfang: tʰuən
+      karlgren: tʰuən
+    authorial_reconstructions:
+      baxter: thwon
+  old_chinese:
+    pan_wuyun:
+      yunbu: 文2
+      phonetic: 淳
+      oc: thuun
+    zhengzhang_shangfang:
+      oc: thuun
+      yunbu: 文2
+      phonetic: 敦
+      notes: 集韵作噋正体
+---
+
+# 啍 (standardized)
+
+## Fanqie
+他昆
+
+## Mandarin
+tūn

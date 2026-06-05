@@ -1,0 +1,36 @@
+---
+uuid: aa4507e5-24fa-4dec-bcdf-5fe202fc4f08
+type: bibliography
+citation_label: GRIMALDI 1994
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: La jalousie
+  lang: fre
+  script: Latn
+origin:
+  place: Paris
+  date_issued: '1994'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Radio France Culture Questions d'ethique by Canto-Sperber has a fine programme with Grimaldi on jealousy, dated Jan. 11, 2011.
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# GRIMALDI 1994
+
+## Title
+**La jalousie**
+
+## Publication
+Paris, 1994.
+
+## Notes
+Radio France Culture Questions d'ethique by Canto-Sperber has a fine programme with Grimaldi on jealousy, dated Jan. 11, 2011.

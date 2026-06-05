@@ -1,0 +1,74 @@
+---
+uuid: dc86decb-25cc-4033-ad2c-42c1d2bee6c7
+type: graph
+graphs:
+  attested: 濼
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 水名在齊南盧毒切又力各切一
+xiaoyun:
+  headword: 濼
+  graph_count: 1
+fanqie:
+  shangzi:
+    attested: 盧
+    standard: null
+  xiazi:
+    attested: 毒
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '20556'
+  pan_wuyun_id: '20715'
+locations:
+  guangyun_location: '451.28'
+  baxter_location: 451.28 452.14 461.03 505.45 507.17 521.29
+  pan_wuyun_location: '441'
+notes:
+  pan_wuyun_note_on_guangyun: 齊字廣韻各本作"濟"
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lù
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 一
+      呼: 合
+      韻部: 沃
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: lok
+      pan_wuyun: luok
+      wang_li: luok
+      pulleyblank: lawk
+      shao_rongfen: lok
+      zhengzhang_shangfang: luok
+      karlgren: luok
+    authorial_reconstructions:
+      baxter: lowk
+  old_chinese:
+    pan_wuyun:
+      yunbu: 藥3
+      phonetic: 樂
+      oc: ɡ-roowɡ
+    zhengzhang_shangfang:
+      oc: pqhlaawɢ
+      yunbu: 藥1
+      phonetic: 樂
+      notes: null
+---
+
+# 濼
+
+## Fanqie
+盧毒
+
+## Mandarin
+lù

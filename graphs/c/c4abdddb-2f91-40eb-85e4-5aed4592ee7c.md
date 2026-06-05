@@ -1,0 +1,74 @@
+---
+uuid: c4abdddb-2f91-40eb-85e4-5aed4592ee7c
+type: graph
+graphs:
+  attested: 嬜
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 貪妄又一含切
+xiaoyun:
+  headword: 蚶
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 呼
+    standard: null
+  xiazi:
+    attested: 談
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '9423'
+  pan_wuyun_id: '9492'
+locations:
+  guangyun_location: '222.03'
+  baxter_location: '225.03'
+  pan_wuyun_location: '205'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: hān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 一
+      呼: 開
+      韻部: 談
+      調: 平
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: xɑm
+      pan_wuyun: hɑm
+      wang_li: xɑm
+      pulleyblank: ham
+      shao_rongfen: xɑm
+      zhengzhang_shangfang: hɑm
+      karlgren: xɑm
+    authorial_reconstructions:
+      baxter: xam
+  old_chinese:
+    pan_wuyun:
+      yunbu: 談1
+      phonetic: 音
+      oc: qhaam
+    zhengzhang_shangfang:
+      oc: qɯɯm
+      yunbu: 侵1
+      phonetic: 音
+      notes: null
+---
+
+# 嬜
+
+## Fanqie
+呼談
+
+## Mandarin
+hān

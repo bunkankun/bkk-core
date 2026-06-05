@@ -1,0 +1,74 @@
+---
+uuid: bfee5bd1-29c5-4eb0-bbed-5d61d46f3d64
+type: graph
+graphs:
+  attested: 𡎰
+  unemended: null
+  emended: null
+  standardised: 墀
+gloss: 同墀
+xiaoyun:
+  headword: 墀
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 直
+    standard: null
+  xiazi:
+    attested: 尼
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1396'
+  pan_wuyun_id: '1410'
+locations:
+  guangyun_location: '053.49'
+  baxter_location: '053.48'
+  pan_wuyun_location: '33'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chí
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 澄
+      等: 三
+      呼: 開
+      韻部: 脂
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ȡji
+      pan_wuyun: ɖɯi
+      wang_li: ȡi
+      pulleyblank: ɖji
+      shao_rongfen: ȡiɪ
+      zhengzhang_shangfang: ɖɣiɪ
+      karlgren: ȡʱi
+    authorial_reconstructions:
+      baxter: drij
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: l'il
+      yunbu: 脂1
+      phonetic: 犀
+      notes: null
+---
+
+# 𡎰
+
+## Fanqie
+直尼
+
+## Mandarin
+chí

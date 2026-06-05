@@ -1,0 +1,57 @@
+---
+uuid: c87f6c49-be9d-4ba2-aef7-9fd17afefa5a
+type: bibliography
+citation_label: SUGITA YASUSHI 1998
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 介詞“于”的未完成用法
+  lang: jpn
+  script: Hant
+- title: Jieci "yu" de wei wancheng yongfa
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yasushi
+  family: Sugita
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Yasushi
+    family: Sugita
+  - lang: jpn
+    script: Hant
+    given: 泰史
+    family: 杉田
+origin:
+  issuance: continuing
+notes:
+- type: record-status
+  text: deficient record
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# SUGITA YASUSHI 1998
+
+## Title
+**介詞“于”的未完成用法**
+**Jieci "yu" de wei wancheng yongfa**
+
+## Contributors
+- Yasushi Sugita / 杉田泰史, author
+
+## Notes
+deficient record

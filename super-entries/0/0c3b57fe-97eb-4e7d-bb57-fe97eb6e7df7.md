@@ -1,0 +1,43 @@
+---
+uuid: 0c3b57fe-97eb-4e7d-bb57-fe97eb6e7df7
+type: super-entry
+orth: 邦
+'n': '2'
+forms:
+- orth: 邦
+- orth: 邦
+  graph_uuid: 1cdaf1e2-5e59-4da5-828c-28990daf00b9
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: bāng
+  - lang: zh-x-oc
+    value: prooŋ
+  - lang: zh-x-mc
+    value: pɣɔŋ
+entries:
+- uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  sense_count: 5
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  'n': '38'
+- uuid: b19faaeb-b949-408b-8863-79fe9a6f4ea1
+  sense_count: 1
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  'n': '3'
+source:
+  source_file: uuid-0c3b57fe-97eb-4e7d-bb57-fe97eb6e7df7.xml
+---
+
+# Super-entry: 邦
+
+## Forms
+- Orth: 邦
+- Orth: [邦](../../graphs/1/1cdaf1e2-5e59-4da5-828c-28990daf00b9.md)
+  - Pinyin: bāng
+  - Old Chinese: prooŋ
+  - Middle Chinese: pɣɔŋ
+
+## Words
+- [STATE](../../words/c/c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd.md) (5 senses, n=38)
+- [TERRITORY](../../words/b/b19faaeb-b949-408b-8863-79fe9a6f4ea1.md) (1 sense, n=3)

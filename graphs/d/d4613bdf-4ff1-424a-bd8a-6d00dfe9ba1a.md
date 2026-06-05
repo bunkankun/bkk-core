@@ -1,0 +1,74 @@
+---
+uuid: d4613bdf-4ff1-424a-bd8a-6d00dfe9ba1a
+type: graph
+graphs:
+  attested: 蘚
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 苔蘚
+xiaoyun:
+  headword: 獮
+  graph_count: 13
+fanqie:
+  shangzi:
+    attested: 息
+    standard: null
+  xiazi:
+    attested: 淺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12219'
+  pan_wuyun_id: '12315'
+locations:
+  guangyun_location: '290.33'
+  baxter_location: '290.21'
+  pan_wuyun_location: '270'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xiǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 三
+      呼: 開
+      韻部: 仙
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: siɛn
+      pan_wuyun: siɛn
+      wang_li: sĭɛn
+      pulleyblank: sian
+      shao_rongfen: sjæn
+      zhengzhang_shangfang: siᴇn
+      karlgren: si̯ɛn
+    authorial_reconstructions:
+      baxter: sjenX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: senʔ
+      yunbu: 元2
+      phonetic: 鮮
+      notes: null
+---
+
+# 蘚
+
+## Fanqie
+息淺
+
+## Mandarin
+xiǎn

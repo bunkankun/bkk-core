@@ -1,0 +1,74 @@
+---
+uuid: d7e0ea9d-5fb5-48d6-aeae-3bed9e88495d
+type: graph
+graphs:
+  attested: 𩔃
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 面不正
+xiaoyun:
+  headword: 遠
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 雲
+    standard: null
+  xiazi:
+    attested: 阮
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11668'
+  pan_wuyun_id: '11760'
+locations:
+  guangyun_location: '280.14'
+  baxter_location: 280.13 398.56
+  pan_wuyun_location: '260'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yuǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 云
+      等: 三
+      呼: 合
+      韻部: 元
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: ɣiuɐn
+      pan_wuyun: ɦʷiɐn
+      wang_li: ɣĭwɐn
+      pulleyblank: ɦuan
+      shao_rongfen: ɣiuɐn
+      zhengzhang_shangfang: ɦʉɐn
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: hjwonX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𩔃
+
+## Fanqie
+雲阮
+
+## Mandarin
+yuǎn

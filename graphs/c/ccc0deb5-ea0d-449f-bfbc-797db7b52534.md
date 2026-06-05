@@ -1,0 +1,74 @@
+---
+uuid: ccc0deb5-ea0d-449f-bfbc-797db7b52534
+type: graph
+graphs:
+  attested: 嵋
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 山形
+xiaoyun:
+  headword: 眉
+  graph_count: 23
+fanqie:
+  shangzi:
+    attested: 武
+    standard: null
+  xiazi:
+    attested: 悲
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1534'
+  pan_wuyun_id: '1549'
+locations:
+  guangyun_location: '057.08'
+  baxter_location: '057.06'
+  pan_wuyun_location: '37'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: méi
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 三
+      呼: 開
+      韻部: 脂
+      調: 平
+      重紐: b
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: mji
+      pan_wuyun: mɯi
+      wang_li: mi
+      pulleyblank: mji
+      shao_rongfen: miɪ
+      zhengzhang_shangfang: mɣiɪ
+      karlgren: mi
+    authorial_reconstructions:
+      baxter: mij
+  old_chinese:
+    pan_wuyun:
+      yunbu: 脂1
+      phonetic: 眉
+      oc: mril
+    zhengzhang_shangfang:
+      oc: bril
+      yunbu: 脂1
+      phonetic: 眉
+      notes: null
+---
+
+# 嵋
+
+## Fanqie
+武悲
+
+## Mandarin
+méi

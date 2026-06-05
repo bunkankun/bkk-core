@@ -1,0 +1,74 @@
+---
+uuid: 33f35e0e-2aee-4a3b-ac63-24f220abcbdf
+type: graph
+graphs:
+  attested: 㳶
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 説文水也
+xiaoyun:
+  headword: 㝅
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 乃
+    standard: null
+  xiazi:
+    attested: 后
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13987'
+  pan_wuyun_id: '14090'
+locations:
+  guangyun_location: '326.38'
+  baxter_location: 326.37 439.40
+  pan_wuyun_location: '306'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nǒu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 泥
+      等: 一
+      呼: 開
+      韻部: 侯
+      調: 上
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: nu
+      pan_wuyun: nəu
+      wang_li: nəu
+      pulleyblank: nəw
+      shao_rongfen: nəu
+      zhengzhang_shangfang: nəu
+      karlgren: nə̯u
+    authorial_reconstructions:
+      baxter: nuwX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㳶
+
+## Fanqie
+乃后
+
+## Mandarin
+nǒu

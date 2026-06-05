@@ -1,0 +1,74 @@
+---
+uuid: 0177afd4-ff2b-410a-acfd-b43a05bb0d1a
+type: graph
+graphs:
+  attested: 䠆
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 䠆跪方言曰東齊北燕之間謂跪曰䠆
+xiaoyun:
+  headword: 長
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 直
+    standard: null
+  xiazi:
+    attested: 良
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '7087'
+  pan_wuyun_id: '7138'
+locations:
+  guangyun_location: '174.18'
+  baxter_location: 174.14 313.16 425.37
+  pan_wuyun_location: '154'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: cháng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 澄
+      等: 三
+      呼: 開
+      韻部: 陽
+      調: 平
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: ȡiaŋ
+      pan_wuyun: ɖiɐŋ
+      wang_li: ȡĭaŋ
+      pulleyblank: ɖɨaŋ
+      shao_rongfen: ȡiɑŋ
+      zhengzhang_shangfang: ɖɨɐŋ
+      karlgren: ȡʱi̯aŋ
+    authorial_reconstructions:
+      baxter: drjang
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䠆
+
+## Fanqie
+直良
+
+## Mandarin
+cháng

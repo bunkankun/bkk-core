@@ -1,0 +1,9 @@
+---
+uuid: 4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+type: semantic-feature
+code: singular
+source:
+  source_file: semantic-features.xml
+---
+
+# singular

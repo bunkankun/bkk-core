@@ -1,0 +1,74 @@
+---
+uuid: 4abd76ac-79ed-4f2a-92db-c908cc3d5b4d
+type: graph
+graphs:
+  attested: 㦚
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 憂也亦曰急也
+xiaoyun:
+  headword: 褊
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 方
+    standard: null
+  xiazi:
+    attested: 緬
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12361'
+  pan_wuyun_id: '12457'
+locations:
+  guangyun_location: '293.09'
+  baxter_location: '293.08'
+  pan_wuyun_location: '273'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: biǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 三
+      呼: 開
+      韻部: 仙
+      調: 上
+      重紐: a
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: piɛn
+      pan_wuyun: piɛn
+      wang_li: pĭɛn
+      pulleyblank: pian
+      shao_rongfen: pjæn
+      zhengzhang_shangfang: piᴇn
+      karlgren: pi̯ɛn
+    authorial_reconstructions:
+      baxter: pjienX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㦚
+
+## Fanqie
+方緬
+
+## Mandarin
+biǎn

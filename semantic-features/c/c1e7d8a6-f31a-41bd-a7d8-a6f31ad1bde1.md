@@ -1,0 +1,11 @@
+---
+uuid: c1e7d8a6-f31a-41bd-a7d8-a6f31ad1bde1
+type: semantic-feature
+code: CONTROL
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2022-05-09T22:15:52.879+09:00'
+---
+
+# CONTROL

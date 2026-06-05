@@ -1,0 +1,11 @@
+---
+uuid: f94f929e-ddfc-4bb3-8f92-9eddfcfbb3d1
+type: syntactic-function
+code: ppostadN.+V
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2022-02-21T05:49:52.654+09:00'
+---
+
+# ppostadN.+V

@@ -1,0 +1,74 @@
+---
+uuid: fdc0ffd9-ee54-46ba-9ed7-b80f07c54fca
+type: graph
+graphs:
+  attested: 僒
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 同窘
+xiaoyun:
+  headword: 窘
+  graph_count: 11
+fanqie:
+  shangzi:
+    attested: 渠
+    standard: null
+  xiazi:
+    attested: 殞
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11485'
+  pan_wuyun_id: '11574'
+locations:
+  guangyun_location: '276.23'
+  baxter_location: '276.22'
+  pan_wuyun_location: '256'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同窘
+pronunciation:
+  mandarin:
+    jin: jiǒng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 合
+      韻部: 真
+      調: 上
+      重紐: b
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: ɡjuĕn
+      pan_wuyun: ɡʷɯin
+      wang_li: ɡǐĕn
+      pulleyblank: gjin
+      shao_rongfen: ɡiuen
+      zhengzhang_shangfang: ɡɣiuɪn
+      karlgren: gi̯ĕn
+    authorial_reconstructions:
+      baxter: gwinX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 文2
+      phonetic: 君
+      oc: ɡrunʔ
+    zhengzhang_shangfang:
+      oc: ɡrunʔ
+      yunbu: 文2
+      phonetic: 君
+      notes: 原列軫韵
+---
+
+# 僒
+
+## Fanqie
+渠殞
+
+## Mandarin
+jiǒng

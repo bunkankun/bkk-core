@@ -1,0 +1,11 @@
+---
+uuid: ba2d1d6e-e9ce-470e-ad1d-6ee9ce270e73
+type: semantic-feature
+code: descriptive 者也
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2022-08-25T17:25:20.249+09:00'
+---
+
+# descriptive 者也

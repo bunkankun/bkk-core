@@ -1,0 +1,74 @@
+---
+uuid: ae75b7c9-eac2-4faa-9836-f945e4d9acdb
+type: graph
+graphs:
+  attested: 齔
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 説文曰毀齒也男八月而齒生八歳而齔女七月而齒生七歳而齔俗作齔又初忍切
+xiaoyun:
+  headword: 櫬
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 初
+    standard: null
+  xiazi:
+    attested: 覲
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17202'
+  pan_wuyun_id: '17322'
+locations:
+  guangyun_location: '394.17'
+  baxter_location: '394.11'
+  pan_wuyun_location: '374'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chèn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 初
+      等: 三
+      呼: 開
+      韻部: 臻
+      調: 去
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: tʃʰiĕn
+      pan_wuyun: tʂʰɪn
+      wang_li: tʃʰĭen
+      pulleyblank: tʂʰin
+      shao_rongfen: tʃʰien
+      zhengzhang_shangfang: tʃʰɪn
+      karlgren: tʂʰi̯æn
+    authorial_reconstructions:
+      baxter: tsrhinH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 真1
+      phonetic: 齔
+      oc: tshrins
+    zhengzhang_shangfang:
+      oc: shrinʔ
+      yunbu: 真1
+      phonetic: 齔
+      notes: 原列隱韻
+---
+
+# 齔
+
+## Fanqie
+初覲
+
+## Mandarin
+chèn

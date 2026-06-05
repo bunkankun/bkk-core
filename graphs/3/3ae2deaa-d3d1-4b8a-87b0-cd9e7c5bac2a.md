@@ -1,0 +1,74 @@
+---
+uuid: 3ae2deaa-d3d1-4b8a-87b0-cd9e7c5bac2a
+type: graph
+graphs:
+  attested: 愪
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 憂也
+xiaoyun:
+  headword: 殞
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 于
+    standard: null
+  xiazi:
+    attested: 敏
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11537'
+  pan_wuyun_id: '11627'
+locations:
+  guangyun_location: '277.22'
+  baxter_location: '277.17'
+  pan_wuyun_location: '257'
+notes:
+  pan_wuyun_note_on_guangyun: '"員"原作"貟"'
+  pan_wuyun_note: 原在軫韵
+pronunciation:
+  mandarin:
+    jin: yǔn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 云
+      等: 三
+      呼: 合
+      韻部: 真
+      調: 上
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: ɣjuĕn
+      pan_wuyun: ɦʷɯin
+      wang_li: ɣǐĕn
+      pulleyblank: ɦjin
+      shao_rongfen: ɣiuen
+      zhengzhang_shangfang: ɦɣiuɪn
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: hwinX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 文2
+      phonetic: 員
+      oc: ɢunʔ
+    zhengzhang_shangfang:
+      oc: ɢunʔ
+      yunbu: 文2
+      phonetic: 員
+      notes: null
+---
+
+# 愪
+
+## Fanqie
+于敏
+
+## Mandarin
+yǔn

@@ -1,0 +1,11 @@
+---
+uuid: 4f50beac-05f7-4fad-90be-ac05f70fadbf
+type: semantic-feature
+code: Nab=teachings
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2023-07-22T20:38:19.304+09:00'
+---
+
+# Nab=teachings

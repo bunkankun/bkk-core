@@ -1,0 +1,74 @@
+---
+uuid: ec66d029-10db-45b6-bcef-e7a8e33bc3ce
+type: graph
+graphs:
+  attested: 福
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 德也祐也方六切十七
+xiaoyun:
+  headword: 福
+  graph_count: 17
+fanqie:
+  shangzi:
+    attested: 方
+    standard: null
+  xiazi:
+    attested: 六
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '20147'
+  pan_wuyun_id: '20303'
+locations:
+  guangyun_location: '453.04'
+  baxter_location: '453.04'
+  pan_wuyun_location: '433'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: fú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 三
+      呼: 合
+      韻部: 屋
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: piuk
+      pan_wuyun: piuk
+      wang_li: pĭuk
+      pulleyblank: puwk
+      shao_rongfen: piuk
+      zhengzhang_shangfang: pɨuk
+      karlgren: pi̯uk
+    authorial_reconstructions:
+      baxter: pjuwk
+  old_chinese:
+    pan_wuyun:
+      yunbu: 職
+      phonetic: 畐
+      oc: pɯɡ
+    zhengzhang_shangfang:
+      oc: pɯɡ
+      yunbu: 職
+      phonetic: 畐
+      notes: null
+---
+
+# 福
+
+## Fanqie
+方六
+
+## Mandarin
+fú

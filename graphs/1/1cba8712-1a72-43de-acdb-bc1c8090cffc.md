@@ -1,0 +1,74 @@
+---
+uuid: 1cba8712-1a72-43de-acdb-bc1c8090cffc
+type: graph
+graphs:
+  attested: 矕
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 視皃武板切二
+xiaoyun:
+  headword: 矕
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 武
+    standard: null
+  xiazi:
+    attested: 板
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12029'
+  pan_wuyun_id: '12123'
+locations:
+  guangyun_location: '287.05'
+  baxter_location: '287.05'
+  pan_wuyun_location: '267'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: mǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 二
+      呼: 開
+      韻部: 删
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: man
+      pan_wuyun: mɯan
+      wang_li: man
+      pulleyblank: maɨn
+      shao_rongfen: mɐn
+      zhengzhang_shangfang: mɣan
+      karlgren: man
+    authorial_reconstructions:
+      baxter: maenX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: _
+      oc: mbroonʔ
+    zhengzhang_shangfang:
+      oc: mroonʔ
+      yunbu: 元3
+      phonetic: 
+      notes: null
+---
+
+# 矕
+
+## Fanqie
+武板
+
+## Mandarin
+mǎn

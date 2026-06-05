@@ -1,0 +1,74 @@
+---
+uuid: ac0cf76f-2aa3-4efc-befa-a8b78a22a780
+type: graph
+graphs:
+  attested: 𧍲
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 𧍲䗠沙蝨也亦作𧍻
+xiaoyun:
+  headword: 便
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 房
+    standard: null
+  xiazi:
+    attested: 連
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5385'
+  pan_wuyun_id: '5434'
+locations:
+  guangyun_location: '139.34'
+  baxter_location: 139.27 412.10
+  pan_wuyun_location: '119'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: pián
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 並
+      等: 三
+      呼: 開
+      韻部: 仙
+      調: 平
+      重紐: a
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: biɛn
+      pan_wuyun: biɛn
+      wang_li: bĭɛn
+      pulleyblank: bian
+      shao_rongfen: bjæn
+      zhengzhang_shangfang: biᴇn
+      karlgren: bʱi̯ɛn
+    authorial_reconstructions:
+      baxter: bjien
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𧍲
+
+## Fanqie
+房連
+
+## Mandarin
+pián

@@ -1,0 +1,11 @@
+---
+uuid: aebcc526-9ed9-49be-bcc5-269ed9d9be77
+type: syntactic-function
+code: ppost-V1.adV2
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2021-06-03T04:03:36.726+09:00'
+---
+
+# ppost-V1.adV2

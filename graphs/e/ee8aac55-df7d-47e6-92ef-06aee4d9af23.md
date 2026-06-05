@@ -1,0 +1,74 @@
+---
+uuid: ee8aac55-df7d-47e6-92ef-06aee4d9af23
+type: graph
+graphs:
+  attested: 䖊
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 虎皃
+xiaoyun:
+  headword: 刈
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 魚
+    standard: null
+  xiazi:
+    attested: 肺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17065'
+  pan_wuyun_id: '17184'
+locations:
+  guangyun_location: '391.50'
+  baxter_location: '391.44'
+  pan_wuyun_location: '371'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 疑
+      等: 三
+      呼: 開
+      韻部: 廢
+      調: 去
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: ŋiɐi
+      pan_wuyun: ŋiɐi
+      wang_li: ŋĭɐi
+      pulleyblank: ŋɨaj
+      shao_rongfen: ŋiɐi
+      zhengzhang_shangfang: ŋɨɐi
+      karlgren: ŋi̯ɐi
+    authorial_reconstructions:
+      baxter: ngjojH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䖊
+
+## Fanqie
+魚肺
+
+## Mandarin
+yì

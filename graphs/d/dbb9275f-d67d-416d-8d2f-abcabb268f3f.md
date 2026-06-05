@@ -1,0 +1,74 @@
+---
+uuid: dbb9275f-d67d-416d-8d2f-abcabb268f3f
+type: graph
+graphs:
+  attested: 鯹
+  unemended: null
+  emended: null
+  standardised: 鮏
+gloss: 同鮏
+xiaoyun:
+  headword: 星
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 桑
+    standard: null
+  xiazi:
+    attested: 經
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '8060'
+  pan_wuyun_id: '8114'
+locations:
+  guangyun_location: '195.09'
+  baxter_location: '195.04'
+  pan_wuyun_location: '175'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同鮏
+pronunciation:
+  mandarin:
+    jin: xīng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 四
+      呼: 開
+      韻部: 青
+      調: 平
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: seŋ
+      pan_wuyun: seŋ
+      wang_li: sieŋ
+      pulleyblank: sɛjŋ
+      shao_rongfen: sɛŋ
+      zhengzhang_shangfang: seŋ
+      karlgren: sieŋ
+    authorial_reconstructions:
+      baxter: seng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 耕
+      phonetic: 生
+      oc: seeŋ
+    zhengzhang_shangfang:
+      oc: seeŋ
+      yunbu: 耕
+      phonetic: 生
+      notes: 说文作鮏后作腥
+---
+
+# 鯹
+
+## Fanqie
+桑經
+
+## Mandarin
+xīng

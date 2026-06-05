@@ -1,0 +1,74 @@
+---
+uuid: e17cbe91-f0ec-4aac-98cb-ff20f363d2c5
+type: graph
+graphs:
+  attested: 嬥
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 聲𩔖云細腰皃
+xiaoyun:
+  headword: 迢
+  graph_count: 22
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 聊
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5670'
+  pan_wuyun_id: '5720'
+locations:
+  guangyun_location: null
+  baxter_location: '144.49'
+  pan_wuyun_location: '125'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: tiáo
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 四
+      呼: 開
+      韻部: 蕭
+      調: 平
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: deu
+      pan_wuyun: deu
+      wang_li: dieu
+      pulleyblank: dɛw
+      shao_rongfen: deu
+      zhengzhang_shangfang: deu
+      karlgren: dʱieu
+    authorial_reconstructions:
+      baxter: dew
+  old_chinese:
+    pan_wuyun:
+      yunbu: 宵2
+      phonetic: 翟
+      oc: leew
+    zhengzhang_shangfang:
+      oc: l'eew
+      yunbu: 宵2
+      phonetic: 翟
+      notes: null
+---
+
+# 嬥
+
+## Fanqie
+徒聊
+
+## Mandarin
+tiáo

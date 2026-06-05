@@ -1,0 +1,74 @@
+---
+uuid: 3d7bfa6a-e05a-4afd-ab48-80ae5dbaebfe
+type: graph
+graphs:
+  attested: 儊
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 儊不滑也
+xiaoyun:
+  headword: 楚
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 瘡
+    standard: null
+  xiazi:
+    attested: 據
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '15614'
+  pan_wuyun_id: '15723'
+locations:
+  guangyun_location: null
+  baxter_location: 258.30 363.37
+  pan_wuyun_location: '343'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chù
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 初
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 去
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: tʃʰiɔ
+      pan_wuyun: tʂʰiɔ
+      wang_li: tʃʰĭo
+      pulleyblank: tʂʰɨə̆
+      shao_rongfen: tʃʰiɔ
+      zhengzhang_shangfang: tʃʰɨʌ
+      karlgren: tʂʰi̯wo
+    authorial_reconstructions:
+      baxter: tsrhjoX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: sŋhras
+      yunbu: 魚
+      phonetic: 疋
+      notes: null
+---
+
+# 儊
+
+## Fanqie
+瘡據
+
+## Mandarin
+chù

@@ -1,0 +1,74 @@
+---
+uuid: ff91dc7b-4dad-4bb7-aaf2-59e4b3c0a7ec
+type: graph
+graphs:
+  attested: 琪
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 玉也
+xiaoyun:
+  headword: 其
+  graph_count: 30
+fanqie:
+  shangzi:
+    attested: 渠
+    standard: null
+  xiazi:
+    attested: 之
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1683'
+  pan_wuyun_id: '1700'
+locations:
+  guangyun_location: '060.11'
+  baxter_location: 060.02 061.40
+  pan_wuyun_location: '40'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: qí
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 開
+      韻部: 之
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ɡiə
+      pan_wuyun: ɡɨ
+      wang_li: ɡĭə
+      pulleyblank: gɨ
+      shao_rongfen: ɡie
+      zhengzhang_shangfang: ɡɨ
+      karlgren: gi
+    authorial_reconstructions:
+      baxter: gi
+  old_chinese:
+    pan_wuyun:
+      yunbu: 之
+      phonetic: 其
+      oc: ɡɯ
+    zhengzhang_shangfang:
+      oc: ɡɯ
+      yunbu: 之
+      phonetic: 其
+      notes: null
+---
+
+# 琪
+
+## Fanqie
+渠之
+
+## Mandarin
+qí

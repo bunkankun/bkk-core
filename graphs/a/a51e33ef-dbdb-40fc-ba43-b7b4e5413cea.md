@@ -1,0 +1,74 @@
+---
+uuid: a51e33ef-dbdb-40fc-ba43-b7b4e5413cea
+type: graph
+graphs:
+  attested: 䏣
+  unemended: null
+  emended: null
+  standardised: 蛆
+gloss: 蟲在肉中
+xiaoyun:
+  headword: 疽
+  graph_count: 16
+fanqie:
+  shangzi:
+    attested: 七
+    standard: null
+  xiazi:
+    attested: 余
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2101'
+  pan_wuyun_id: '2121'
+locations:
+  guangyun_location: '068.44'
+  baxter_location: '068.36'
+  pan_wuyun_location: '48'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: qū
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 清
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: tsʰiɔ
+      pan_wuyun: tsʰiɔ
+      wang_li: tsʰĭo
+      pulleyblank: tsʰɨə̆
+      shao_rongfen: tsʰiɔ
+      zhengzhang_shangfang: tsʰɨʌ
+      karlgren: tsʰi̯wo
+    authorial_reconstructions:
+      baxter: tshjo
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: ʔsa
+      yunbu: 魚
+      phonetic: 且
+      notes: null
+---
+
+# 䏣
+
+## Fanqie
+七余
+
+## Mandarin
+qū

@@ -1,0 +1,74 @@
+---
+uuid: 3eff8cc0-81a9-42d3-bde4-f67accce74be
+type: graph
+graphs:
+  attested: 䢻
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 地名
+xiaoyun:
+  headword: 辰
+  graph_count: 13
+fanqie:
+  shangzi:
+    attested: 植
+    standard: null
+  xiazi:
+    attested: 鄰
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '3759'
+  pan_wuyun_id: '3794'
+locations:
+  guangyun_location: '102.19'
+  baxter_location: '102.08'
+  pan_wuyun_location: '82'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chén
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 禪
+      等: 三
+      呼: 開
+      韻部: 真
+      調: 平
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: ʑiĕn
+      pan_wuyun: dʑin
+      wang_li: ʑĭĕn
+      pulleyblank: dʑin
+      shao_rongfen: dʑjen
+      zhengzhang_shangfang: dʑiɪn
+      karlgren: ʑi̯ĕn
+    authorial_reconstructions:
+      baxter: dzyin
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䢻
+
+## Fanqie
+植鄰
+
+## Mandarin
+chén

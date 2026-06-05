@@ -1,0 +1,37 @@
+---
+uuid: 57cbb8fc-b7a0-460b-8bb8-fcb7a0960bfe
+type: super-entry
+orth: 喜樂
+'n': '1'
+forms:
+- orth: 喜樂
+- orth: 喜樂
+  graph_uuid: 'c4711853-e554-4934-bdf2-97e5b33fbc53 #uuid-1f0473d0-bab4-4f98-8738-da471ff6f59f'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: xǐ lè
+  - lang: zh-x-oc
+    value: qhɯʔ ɡ-raawɡ
+  - lang: zh-x-mc
+    value: hɨ lɑk
+entries:
+- uuid: 9a15d7d3-71a4-4fcd-802a-55cf02b68fb1
+  sense_count: 1
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  'n': '1'
+source:
+  source_file: uuid-57cbb8fc-b7a0-460b-8bb8-fcb7a0960bfe.xml
+---
+
+# Super-entry: 喜樂
+
+## Forms
+- Orth: 喜樂
+- Orth: [喜](../../graphs/c/c4711853-e554-4934-bdf2-97e5b33fbc53.md)[樂](../../graphs/1/1f0473d0-bab4-4f98-8738-da471ff6f59f.md)
+  - Pinyin: xǐ lè
+  - Old Chinese: qhɯʔ ɡ-raawɡ
+  - Middle Chinese: hɨ lɑk
+
+## Words
+- [DELIGHT](../../words/9/9a15d7d3-71a4-4fcd-802a-55cf02b68fb1.md) (1 sense, n=1)

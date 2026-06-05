@@ -1,0 +1,43 @@
+---
+uuid: bccb4f4f-e3b9-453c-a37d-ebb24ffb8c3a
+type: bibliography
+citation_label: SHEN GUANGHAI 1990
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 古漢語同義詞的形成及其辨析
+  script: Hant
+- title: Gu Hanyu tongyi ci de xingcheng ji qi bianxi
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Guanghai
+  family: Shen
+  script: Latn
+  names:
+  - script: Latn
+    given: Guanghai
+    transliteration: chinese/ala-lc
+    family: Shen
+  - script: Hant
+    given: 光海
+    family: 沈
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# SHEN GUANGHAI 1990
+
+## Title
+**古漢語同義詞的形成及其辨析**
+**Gu Hanyu tongyi ci de xingcheng ji qi bianxi**
+
+## Contributors
+- Guanghai Shen / 沈光海, author

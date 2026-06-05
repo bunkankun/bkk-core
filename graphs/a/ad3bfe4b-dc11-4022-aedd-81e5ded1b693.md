@@ -1,0 +1,74 @@
+---
+uuid: ad3bfe4b-dc11-4022-aedd-81e5ded1b693
+type: graph
+graphs:
+  attested: 𦥻
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 杵擊
+xiaoyun:
+  headword: 惴
+  graph_count: 3
+fanqie:
+  shangzi:
+    attested: 之
+    standard: null
+  xiazi:
+    attested: 睡
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '14749'
+  pan_wuyun_id: '14853'
+locations:
+  guangyun_location: '346.17'
+  baxter_location: '346.16'
+  pan_wuyun_location: '326'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhuì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 合
+      韻部: 支
+      調: 去
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: tɕiue
+      pan_wuyun: tɕʷiɛ
+      wang_li: tɕǐwe
+      pulleyblank: cwiə̆
+      shao_rongfen: tɕjuɛ
+      zhengzhang_shangfang: tɕiuᴇ
+      karlgren: tɕwie̯
+    authorial_reconstructions:
+      baxter: tsyweH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𦥻
+
+## Fanqie
+之睡
+
+## Mandarin
+zhuì

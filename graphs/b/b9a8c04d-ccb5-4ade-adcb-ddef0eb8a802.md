@@ -1,0 +1,73 @@
+---
+uuid: b9a8c04d-ccb5-4ade-adcb-ddef0eb8a802
+type: graph
+graphs:
+  attested: null
+  unemended: null
+  emended: null
+  standardised: 鐾
+xiaoyun:
+  headword: 薜
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 蒲
+    standard: null
+  xiazi:
+    attested: 計
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '100389'
+  pan_wuyun_id: null
+locations:
+  guangyun_location: null
+  baxter_location: 374.19 513.50
+  pan_wuyun_location: null
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 見于集韻
+pronunciation:
+  mandarin:
+    jin: bì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 並
+      等: 四
+      呼: 開
+      韻部: 齊
+      調: 去
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: bei
+      pan_wuyun: bei
+      wang_li: biei
+      pulleyblank: bɛj
+      shao_rongfen: bɛi
+      zhengzhang_shangfang: bei
+      karlgren: bʱiei
+    authorial_reconstructions:
+      baxter: bejH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 錫
+      phonetic: 辟
+      oc: beeɡs
+    zhengzhang_shangfang:
+      oc: beeɡs
+      yunbu: 辟賜
+      phonetic: '*'
+      notes: null
+---
+
+# 鐾 (standardized)
+
+## Fanqie
+蒲計
+
+## Mandarin
+bì

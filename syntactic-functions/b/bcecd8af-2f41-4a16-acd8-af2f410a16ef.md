@@ -1,0 +1,14 @@
+---
+uuid: bcecd8af-2f41-4a16-acd8-af2f410a16ef
+type: syntactic-function
+code: npro1.postnpro2:adV:.adS
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2026-03-14T05:36:41.153+09:00'
+---
+
+# npro1.postnpro2:adV:.adS
+
+## Description
+in case of npro2 V-ing then S

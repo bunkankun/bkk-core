@@ -1,0 +1,11 @@
+---
+uuid: 002becb7-ba2e-494d-abec-b7ba2e494d4f
+type: semantic-feature
+code: RESTRICTIVE, PASSIVE
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2024-06-19T08:09:58.225+09:00'
+---
+
+# RESTRICTIVE, PASSIVE

@@ -1,0 +1,74 @@
+---
+uuid: db9a0a7b-9d30-4e4f-baf5-47ee3aefb5df
+type: graph
+graphs:
+  attested: 㹏
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 牛馴也
+xiaoyun:
+  headword: 謹
+  graph_count: 11
+fanqie:
+  shangzi:
+    attested: 居
+    standard: null
+  xiazi:
+    attested: 隱
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11647'
+  pan_wuyun_id: '11738'
+locations:
+  guangyun_location: '279.42'
+  baxter_location: '279.40'
+  pan_wuyun_location: '259'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jǐn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 開
+      韻部: 欣
+      調: 上
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: kiən
+      pan_wuyun: kɨn
+      wang_li: kĭən
+      pulleyblank: kɨn
+      shao_rongfen: kiən
+      zhengzhang_shangfang: kɨn
+      karlgren: ki̯ən
+    authorial_reconstructions:
+      baxter: kj+nX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㹏
+
+## Fanqie
+居隱
+
+## Mandarin
+jǐn

@@ -1,0 +1,74 @@
+---
+uuid: d107ed2b-a0e7-4fb5-bf08-aaa5a1f08adb
+type: graph
+graphs:
+  attested: 令
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 漢書云金城郡有令居縣顔師古又音零
+xiaoyun:
+  headword: 連
+  graph_count: 13
+fanqie:
+  shangzi:
+    attested: 力
+    standard: null
+  xiazi:
+    attested: 延
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5364'
+  pan_wuyun_id: '5413'
+locations:
+  guangyun_location: '139.13'
+  baxter_location: '139.07'
+  pan_wuyun_location: '119'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lián
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 三
+      呼: 開
+      韻部: 仙
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: liɛn
+      pan_wuyun: liɛn
+      wang_li: lĭɛn
+      pulleyblank: lian
+      shao_rongfen: ljæn
+      zhengzhang_shangfang: liᴇn
+      karlgren: li̯ɛn
+    authorial_reconstructions:
+      baxter: ljen
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元2
+      phonetic: 令
+      oc: ɡ-ren
+    zhengzhang_shangfang:
+      oc: ren
+      yunbu: 元2
+      phonetic: 令
+      notes: null
+---
+
+# 令
+
+## Fanqie
+力延
+
+## Mandarin
+lián

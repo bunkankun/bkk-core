@@ -1,0 +1,42 @@
+---
+uuid: defae07b-1cbb-46f7-b188-b8e5d5436cce
+type: bibliography
+citation_label: PLATFORM SUTRA(B)
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 六祖大師法寶壇經
+  lang: chi
+  script: Hant
+- title: Liùzǔ dàshī fǎbǎo tánjīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Platform Scripture of the Sixth Patriarch on the Dharma-treasure
+  type: translated
+  lang: eng
+  script: Latn
+notes:
+- type: general
+  text: 'On the many versions of the PLATFORM SUUTRA see ZENSEKI KAIDAI: 459-461; this edition is based on a Yuan edition (the so-called Zōngbǎo 宗寶 edition).'
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# PLATFORM SUTRA(B)
+
+## Title
+**六祖大師法寶壇經**
+**Liùzǔ dàshī fǎbǎo tánjīng**
+**Platform Scripture of the Sixth Patriarch on the Dharma-treasure**
+
+## Notes
+On the many versions of the PLATFORM SUUTRA see ZENSEKI KAIDAI: 459-461; this edition is based on a Yuan edition (the so-called Zōngbǎo 宗寶 edition).
+CA

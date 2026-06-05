@@ -1,0 +1,47 @@
+---
+uuid: 6dbd1e8c-c1bd-4ed0-be56-ae5b5acaf4c9
+type: bibliography
+citation_label: HAGENAAR 1992
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Stream of consciousness and free indirect discourse in modern Chinese literature
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: E.
+  family: Hagenaar
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: E.
+    family: Hagenaar
+origin:
+  place: Leiden
+  publisher: CNWS
+  date_issued: '1992'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# HAGENAAR 1992
+
+## Title
+**Stream of consciousness and free indirect discourse in modern Chinese literature**
+
+## Contributors
+- E. Hagenaar, author
+
+## Publication
+Leiden: CNWS, 1992.

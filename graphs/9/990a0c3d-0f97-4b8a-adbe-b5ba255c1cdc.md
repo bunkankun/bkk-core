@@ -1,0 +1,73 @@
+---
+uuid: 990a0c3d-0f97-4b8a-adbe-b5ba255c1cdc
+type: graph
+graphs:
+  attested: null
+  unemended: null
+  emended: null
+  standardised: 撇
+xiaoyun:
+  headword: 撆
+  graph_count: 11
+fanqie:
+  shangzi:
+    attested: 普
+    standard: null
+  xiazi:
+    attested: 蔑
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '100590'
+  pan_wuyun_id: null
+locations:
+  guangyun_location: null
+  baxter_location: '495.51'
+  pan_wuyun_location: null
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 注內或体同撆
+pronunciation:
+  mandarin:
+    jin: piē
+    wen: null
+    yi: biē，piě
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 滂
+      等: 四
+      呼: 開
+      韻部: 屑
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: pʰet
+      pan_wuyun: pʰet
+      wang_li: pʰiet
+      pulleyblank: pʰɛt
+      shao_rongfen: pʰɛt
+      zhengzhang_shangfang: pʰet
+      karlgren: pʰiet
+    authorial_reconstructions:
+      baxter: phet
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月2
+      phonetic: 敝
+      oc: pheed
+    zhengzhang_shangfang:
+      oc: pheed
+      yunbu: 月2
+      phonetic: 敝
+      notes: 撆注或体
+---
+
+# 撇 (standardized)
+
+## Fanqie
+普蔑
+
+## Mandarin
+piē

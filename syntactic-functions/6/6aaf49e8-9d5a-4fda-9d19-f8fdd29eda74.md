@@ -1,0 +1,9 @@
+---
+uuid: 6aaf49e8-9d5a-4fda-9d19-f8fdd29eda74
+type: syntactic-function
+code: VPi[0]ad.VtoN
+source:
+  source_file: syntactic-functions.xml
+---
+
+# VPi[0]ad.VtoN

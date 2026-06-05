@@ -1,0 +1,74 @@
+---
+uuid: e1a0e2a1-bccd-4eae-844f-c0d36d72eef9
+type: graph
+graphs:
+  attested: 𢶀
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 𢶀倒損岀方言
+xiaoyun:
+  headword: 膗
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 仕
+    standard: null
+  xiazi:
+    attested: 懷
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '3402'
+  pan_wuyun_id: '3435'
+locations:
+  guangyun_location: '096.01'
+  baxter_location: '095.48'
+  pan_wuyun_location: '76'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chuái
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 崇
+      等: 二
+      呼: 合
+      韻部: 皆
+      調: 平
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: dʒuɛi
+      pan_wuyun: dʐʷɯæi
+      wang_li: dʒwɐi
+      pulleyblank: dʐwəɨj
+      shao_rongfen: dʒuɐi
+      zhengzhang_shangfang: dʒɣuɛi
+      karlgren: dʐʱwăi
+    authorial_reconstructions:
+      baxter: dzrweaj
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𢶀
+
+## Fanqie
+仕懷
+
+## Mandarin
+chuái

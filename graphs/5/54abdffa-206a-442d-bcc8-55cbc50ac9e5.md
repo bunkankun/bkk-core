@@ -1,0 +1,74 @@
+---
+uuid: 54abdffa-206a-442d-bcc8-55cbc50ac9e5
+type: graph
+graphs:
+  attested: 呁
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 唁也九峻切二
+xiaoyun:
+  headword: 呁
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 九
+    standard: null
+  xiazi:
+    attested: 峻
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17217'
+  pan_wuyun_id: '17337'
+locations:
+  guangyun_location: '394.32'
+  baxter_location: '394.32'
+  pan_wuyun_location: '374'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jùn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 合
+      韻部: 諄
+      調: 去
+      重紐: a
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: kiuĕn
+      pan_wuyun: kʷin
+      wang_li: kĭuĕn
+      pulleyblank: kwin
+      shao_rongfen: kjuen
+      zhengzhang_shangfang: kiuɪn
+      karlgren: ki̯uĕn
+    authorial_reconstructions:
+      baxter: kjwinH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: kʷins
+      yunbu: 真1
+      phonetic: 匀
+      notes: null
+---
+
+# 呁
+
+## Fanqie
+九峻
+
+## Mandarin
+jùn

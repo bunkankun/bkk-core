@@ -1,0 +1,73 @@
+---
+uuid: afa1eaf9-9b3c-4eed-9fc9-149fd66f1edf
+type: concept
+concept: DISAPPOINTED
+labels:
+- DESPARATION
+- UPSET
+- SADDENED
+- LET DOWN
+- CAST DOWN
+- DISHEARTENED
+- DOWNHEARTED
+- DOWNCAST
+- DEPRESSED
+- DISPIRITED
+- DISCOURAGED
+- DESPONDENT
+- DISMAYED
+- CRESTFALLEN
+- DISTRESSED
+- CHAGRINED
+- DISENCHANTED
+- DISILLUSIONED
+- DISPLEASED
+- DISCONTENTED
+- DISSATISFIED
+- FRUSTRATED
+- DISGRUNTLED
+- INFORMAL CHOKED
+- BUMMED (OUT)
+- MIFFED
+- CUT UP.
+- HOPELESSNESS
+- DISHEARTENMENT
+- DISCOURAGEMENT
+- DESPERATION
+- DISTRESS
+- ANGUISH
+- UNHAPPINESS
+- DESPONDENCY
+- DEPRESSION
+- DISCONSOLATENESS
+- MELANCHOLY
+- MISERY
+- WRETCHEDNESS
+- DEFEATISM
+- PESSIMISM
+zh: 絕望
+---
+# Concept: DISAPPOINTED
+# Definition
+SAD BECAUSE something HOPED for in the PAST was NOT OBTAINED.
+# Criteria and general notes
+## Modern Chinese Criteria
+絕望
+絕意 （金庸）
+失望
+廢然
+大失所望
+掃興
+敗興
+殺風景
+興致索然
+自暴自棄
+# Ontology
+
+## Hypernym
+[SAD](../5/5b70198e-c7bf-4f27-9c6c-b564199d1c12.md)
+# Bibliography
+- [LANGIUS 1631](../../bibliography/0/0e53b7a8-3acd-4859-ac83-596e75d42e7d.md)
+**Anthologia sive Florilegium rerum et materiarum selectarum**
+DESPERATIO
+# Words

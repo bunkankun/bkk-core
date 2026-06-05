@@ -1,0 +1,74 @@
+---
+uuid: e7169a9f-8d9d-49ab-a092-5ef1ff9ebbfe
+type: graph
+graphs:
+  attested: null
+  unemended: 𧅁
+  emended: 䕬
+  standardised: 薑
+gloss: 同薑
+xiaoyun:
+  headword: 薑
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 居
+    standard: null
+  xiazi:
+    attested: 良
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '7069'
+  pan_wuyun_id: '7120'
+locations:
+  guangyun_location: null
+  baxter_location: '173.40'
+  pan_wuyun_location: '153'
+notes:
+  pan_wuyun_note_on_guangyun: 原作"𧅁"，據周改
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jiāng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 開
+      韻部: 陽
+      調: 平
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: kiaŋ
+      pan_wuyun: kiɐŋ
+      wang_li: kĭaŋ
+      pulleyblank: kɨaŋ
+      shao_rongfen: kiɑŋ
+      zhengzhang_shangfang: kɨɐŋ
+      karlgren: ki̯aŋ
+    authorial_reconstructions:
+      baxter: kjang
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 畕
+      oc: kaŋ
+    zhengzhang_shangfang:
+      oc: kaŋ
+      yunbu: 陽
+      phonetic: 畺
+      notes: null
+---
+
+# 薑 (standardized)
+
+## Fanqie
+居良
+
+## Mandarin
+jiāng

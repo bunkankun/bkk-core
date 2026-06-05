@@ -1,0 +1,74 @@
+---
+uuid: 87b7eaad-64fa-4b13-b7d1-be8f5b5ffeb0
+type: graph
+graphs:
+  attested: 皣
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 草木白華
+xiaoyun:
+  headword: 曄
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 筠
+    standard: null
+  xiazi:
+    attested: 輒
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '24989'
+  pan_wuyun_id: '25178'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '520'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yè
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 云
+      等: 三
+      呼: 開
+      韻部: 葉
+      調: 入
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: ɣjɛp
+      pan_wuyun: ɦɯiɛp
+      wang_li: ɣĭɛp
+      pulleyblank: ɦjiap
+      shao_rongfen: ɣiæp
+      zhengzhang_shangfang: ɦɣiᴇp
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: null
+  old_chinese:
+    pan_wuyun:
+      yunbu: 盍2
+      phonetic: 曄
+      oc: ɢeb
+    zhengzhang_shangfang:
+      oc: ɢwrab
+      yunbu: 盍1
+      phonetic: 曄
+      notes: null
+---
+
+# 皣
+
+## Fanqie
+筠輒
+
+## Mandarin
+yè

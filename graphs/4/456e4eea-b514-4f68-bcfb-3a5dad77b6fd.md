@@ -1,0 +1,74 @@
+---
+uuid: 456e4eea-b514-4f68-bcfb-3a5dad77b6fd
+type: graph
+graphs:
+  attested: 蜅
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 小蟹
+xiaoyun:
+  headword: 甫
+  graph_count: 22
+fanqie:
+  shangzi:
+    attested: 方
+    standard: null
+  xiazi:
+    attested: 矩
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10783'
+  pan_wuyun_id: '10865'
+locations:
+  guangyun_location: '261.02'
+  baxter_location: '260.17'
+  pan_wuyun_location: '241'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: fǔ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 三
+      呼: 合
+      韻部: 虞
+      調: 上
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: pio
+      pan_wuyun: pio
+      wang_li: pĭu
+      pulleyblank: puə̆
+      shao_rongfen: pio
+      zhengzhang_shangfang: pɨo
+      karlgren: pi̯u
+    authorial_reconstructions:
+      baxter: pjuX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 魚
+      phonetic: 甫
+      oc: paʔ
+    zhengzhang_shangfang:
+      oc: baa
+      yunbu: 魚
+      phonetic: 甫
+      notes: null
+---
+
+# 蜅
+
+## Fanqie
+方矩
+
+## Mandarin
+fǔ

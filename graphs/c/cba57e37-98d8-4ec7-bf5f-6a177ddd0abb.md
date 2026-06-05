@@ -1,0 +1,74 @@
+---
+uuid: cba57e37-98d8-4ec7-bf5f-6a177ddd0abb
+type: graph
+graphs:
+  attested: 雪
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 凝雨也元命包曰隂凝爲雪釋名曰雪綏也水下遇寒氣而凝綏綏然下也又拭也除也相絶切四
+xiaoyun:
+  headword: 雪
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 相
+    standard: null
+  xiazi:
+    attested: 絕
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '22625'
+  pan_wuyun_id: '22797'
+locations:
+  guangyun_location: '498.30'
+  baxter_location: '498.30'
+  pan_wuyun_location: '478'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xuě
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 三
+      呼: 合
+      韻部: 薛
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: siuɛt
+      pan_wuyun: sʷiɛt
+      wang_li: sĭuɛt
+      pulleyblank: swiat
+      shao_rongfen: sjuæt
+      zhengzhang_shangfang: siuᴇt
+      karlgren: si̯wɛt
+    authorial_reconstructions:
+      baxter: sjwet
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月2
+      phonetic: 彗
+      oc: sqled
+    zhengzhang_shangfang:
+      oc: sqhʷed
+      yunbu: 月2
+      phonetic: 彗
+      notes: null
+---
+
+# 雪
+
+## Fanqie
+相絕
+
+## Mandarin
+xuě

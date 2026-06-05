@@ -1,0 +1,74 @@
+---
+uuid: c4bceca1-3fa6-4555-8a3d-6dc7a6bad34f
+type: graph
+graphs:
+  attested: 暫
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 左傳云婦人暫而免諸國暫猶卒也藏濫切三
+xiaoyun:
+  headword: 暫
+  graph_count: 3
+fanqie:
+  shangzi:
+    attested: 藏
+    standard: null
+  xiazi:
+    attested: 濫
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19751'
+  pan_wuyun_id: '19906'
+locations:
+  guangyun_location: '443.24'
+  baxter_location: '443.24'
+  pan_wuyun_location: '423'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 從
+      等: 一
+      呼: 開
+      韻部: 談
+      調: 去
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: dzɑm
+      pan_wuyun: dzɑm
+      wang_li: dzɑm
+      pulleyblank: dzam
+      shao_rongfen: dzɑm
+      zhengzhang_shangfang: dzɑm
+      karlgren: dzʱɑm
+    authorial_reconstructions:
+      baxter: dzamH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 談1
+      phonetic: 斬
+      oc: dzaams
+    zhengzhang_shangfang:
+      oc: zaams
+      yunbu: 談1
+      phonetic: 斬
+      notes: null
+---
+
+# 暫
+
+## Fanqie
+藏濫
+
+## Mandarin
+zàn

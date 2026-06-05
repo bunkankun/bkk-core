@@ -1,0 +1,74 @@
+---
+uuid: f3d9b8ff-f8bb-4fc0-add6-5d7e552a08ab
+type: graph
+graphs:
+  attested: 㤄
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 恨怒拂伐切一
+xiaoyun:
+  headword: 㤄
+  graph_count: 1
+fanqie:
+  shangzi:
+    attested: 拂
+    standard: null
+  xiazi:
+    attested: 伐
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '21555'
+  pan_wuyun_id: '21722'
+locations:
+  guangyun_location: '381.25'
+  baxter_location: 381.25 391.25 479.40 485.42
+  pan_wuyun_location: '459'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: fà
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 滂
+      等: 三
+      呼: 開
+      韻部: 月
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: pʰiuɐt
+      pan_wuyun: pʰʷiɐt
+      wang_li: pʰĭwɐt
+      pulleyblank: pʰuat
+      shao_rongfen: pʰiuɐt
+      zhengzhang_shangfang: pʰʉɐt
+      karlgren: pʰi̯wɐt
+    authorial_reconstructions:
+      baxter: phjot
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㤄
+
+## Fanqie
+拂伐
+
+## Mandarin
+fà

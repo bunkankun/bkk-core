@@ -1,0 +1,74 @@
+---
+uuid: bbaa6b47-4b45-4f60-accd-eec04a3d8c62
+type: graph
+graphs:
+  attested: 覵
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 視皃
+xiaoyun:
+  headword: 閒
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 閑
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '4980'
+  pan_wuyun_id: '5024'
+locations:
+  guangyun_location: '129.14'
+  baxter_location: 129.09 406.03
+  pan_wuyun_location: '109'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jiān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 二
+      呼: 開
+      韻部: 山
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: kɛn
+      pan_wuyun: kɯæn
+      wang_li: kæn
+      pulleyblank: kəɨn
+      shao_rongfen: kæn
+      zhengzhang_shangfang: kɣɛn
+      karlgren: kăn
+    authorial_reconstructions:
+      baxter: kean
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元2
+      phonetic: 閒
+      oc: kreen
+    zhengzhang_shangfang:
+      oc: kreen
+      yunbu: 元2
+      phonetic: 閒
+      notes: null
+---
+
+# 覵
+
+## Fanqie
+古閑
+
+## Mandarin
+jiān

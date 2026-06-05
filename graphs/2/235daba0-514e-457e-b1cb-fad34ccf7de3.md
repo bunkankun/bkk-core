@@ -1,0 +1,74 @@
+---
+uuid: 235daba0-514e-457e-b1cb-fad34ccf7de3
+type: graph
+graphs:
+  attested: 光
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 明也亦州名漢西陽縣地屬江夏郡梁置光州因浮光山爲名又姓田光之後秦末子孫避地以光爲氏晉有樂安光逸古黄切十四
+xiaoyun:
+  headword: 光
+  graph_count: 14
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 黃
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '7420'
+  pan_wuyun_id: '7472'
+locations:
+  guangyun_location: '181.45'
+  baxter_location: 181.45 428.42
+  pan_wuyun_location: '161'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: guāng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 一
+      呼: 合
+      韻部: 唐
+      調: 平
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: kuɑŋ
+      pan_wuyun: kʷɑŋ
+      wang_li: kuɑŋ
+      pulleyblank: kwaŋ
+      shao_rongfen: kuɑŋ
+      zhengzhang_shangfang: kwɑŋ
+      karlgren: kwɑŋ
+    authorial_reconstructions:
+      baxter: kwang
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 光
+      oc: kʷaaŋ
+    zhengzhang_shangfang:
+      oc: kʷaaŋ
+      yunbu: 陽
+      phonetic: 光
+      notes: 灮隶变
+---
+
+# 光
+
+## Fanqie
+古黃
+
+## Mandarin
+guāng

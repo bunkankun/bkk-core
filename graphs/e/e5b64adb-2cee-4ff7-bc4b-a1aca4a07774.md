@@ -1,0 +1,74 @@
+---
+uuid: e5b64adb-2cee-4ff7-bc4b-a1aca4a07774
+type: graph
+graphs:
+  attested: 岝
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 岝萼山髙
+xiaoyun:
+  headword: 昨
+  graph_count: 20
+fanqie:
+  shangzi:
+    attested: 在
+    standard: null
+  xiazi:
+    attested: 各
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '23139'
+  pan_wuyun_id: '23315'
+locations:
+  guangyun_location: '508.21'
+  baxter_location: '508.11'
+  pan_wuyun_location: '488'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zuó
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 從
+      等: 一
+      呼: 開
+      韻部: 鐸
+      調: 入
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: dzɑk
+      pan_wuyun: dzɑk
+      wang_li: dzɑk
+      pulleyblank: dzak
+      shao_rongfen: dzɑk
+      zhengzhang_shangfang: dzɑk
+      karlgren: dzʱɑk
+    authorial_reconstructions:
+      baxter: dzak
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: zaaɡ
+      yunbu: 鐸
+      phonetic: 乍
+      notes: null
+---
+
+# 岝
+
+## Fanqie
+在各
+
+## Mandarin
+zuó

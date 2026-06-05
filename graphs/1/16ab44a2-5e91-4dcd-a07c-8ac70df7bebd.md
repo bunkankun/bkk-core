@@ -1,0 +1,74 @@
+---
+uuid: 16ab44a2-5e91-4dcd-a07c-8ac70df7bebd
+type: graph
+graphs:
+  attested: 釱
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 鉗也又大計切
+xiaoyun:
+  headword: 大
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 蓋
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '16460'
+  pan_wuyun_id: '16576'
+locations:
+  guangyun_location: '380.26'
+  baxter_location: 380.23 419.33
+  pan_wuyun_location: '360'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dài
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 一
+      呼: 開
+      韻部: 泰
+      調: 去
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: dɑi
+      pan_wuyun: dɑi
+      wang_li: dɑi
+      pulleyblank: daj
+      shao_rongfen: dɑi
+      zhengzhang_shangfang: dɑi
+      karlgren: dʱɑi
+    authorial_reconstructions:
+      baxter: dajH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月1
+      phonetic: 大
+      oc: daads
+    zhengzhang_shangfang:
+      oc: daads
+      yunbu: 祭1
+      phonetic: 大
+      notes: null
+---
+
+# 釱
+
+## Fanqie
+徒蓋
+
+## Mandarin
+dài

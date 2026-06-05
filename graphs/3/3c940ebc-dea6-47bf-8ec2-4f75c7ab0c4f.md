@@ -1,0 +1,74 @@
+---
+uuid: 3c940ebc-dea6-47bf-8ec2-4f75c7ab0c4f
+type: graph
+graphs:
+  attested: 𡱼
+  unemended: null
+  emended: null
+  standardised: 髁
+gloss: 同髁
+xiaoyun:
+  headword: 課
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 苦
+    standard: null
+  xiazi:
+    attested: 卧
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18594'
+  pan_wuyun_id: '18734'
+locations:
+  guangyun_location: '420.23'
+  baxter_location: '420.19'
+  pan_wuyun_location: '400'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: kè
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 溪
+      等: 一
+      呼: 合
+      韻部: 戈
+      調: 去
+      重紐: null
+      攝: 果
+    yundianwang_reconstructions:
+      li_rong: kʰuɑ
+      pan_wuyun: kʰuɑ
+      wang_li: kʰuɑ
+      pulleyblank: kʰwa
+      shao_rongfen: kʰuɑ
+      zhengzhang_shangfang: kʰuɑ
+      karlgren: kʰuɑ
+    authorial_reconstructions:
+      baxter: khwaH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: khlool
+      yunbu: 歌3
+      phonetic: 果
+      notes: null
+---
+
+# 𡱼
+
+## Fanqie
+苦卧
+
+## Mandarin
+kè

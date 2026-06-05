@@ -1,0 +1,14 @@
+---
+uuid: bdb1583d-fdd4-4aa1-b158-3dfdd4faa183
+type: syntactic-function
+code: ppostadS1.post-S2
+source:
+  source_file: syntactic-functions.xml
+  resp: '#zadrapa'
+  created: '2020-06-04T23:07:51.235+09:00'
+---
+
+# ppostadS1.post-S2
+
+## Description
+particle modifying a preceding sentence, this phrase following and being modified by another sentence

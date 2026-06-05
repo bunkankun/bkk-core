@@ -1,0 +1,11 @@
+---
+uuid: 4cab05d5-f08c-4e5b-ab05-d5f08cbe5be8
+type: syntactic-function
+code: nproad.vtoN
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2025-02-26T04:25:13.379+09:00'
+---
+
+# nproad.vtoN

@@ -1,0 +1,74 @@
+---
+uuid: dff9dbdb-4ad6-44cc-a3c9-dd2e8f0a6c78
+type: graph
+graphs:
+  attested: 墮
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 同隓
+xiaoyun:
+  headword: 墮
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 許
+    standard: null
+  xiazi:
+    attested: 規
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '862'
+  pan_wuyun_id: '871'
+locations:
+  guangyun_location: null
+  baxter_location: 042.35 306.11 306.30
+  pan_wuyun_location: '22'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同隓
+pronunciation:
+  mandarin:
+    jin: huī
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 三
+      呼: 合
+      韻部: 支
+      調: 平
+      重紐: a
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: xiue
+      pan_wuyun: hʷiɛ
+      wang_li: xǐwe
+      pulleyblank: hwiə̆
+      shao_rongfen: xjuɛ
+      zhengzhang_shangfang: hiuᴇ
+      karlgren: xwie̯
+    authorial_reconstructions:
+      baxter: dwaX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 歌2
+      phonetic: 隓
+      oc: qhlol
+    zhengzhang_shangfang:
+      oc: lhoolʔ
+      yunbu: 歌3
+      phonetic: 隓
+      notes: null
+---
+
+# 墮
+
+## Fanqie
+許規
+
+## Mandarin
+huī

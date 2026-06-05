@@ -1,0 +1,74 @@
+---
+uuid: 0afddcfa-1bfb-4edd-927e-26d7abb258c5
+type: graph
+graphs:
+  attested: 犍
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 犍爲縣在嘉州
+xiaoyun:
+  headword: 乾
+  graph_count: 10
+fanqie:
+  shangzi:
+    attested: 渠
+    standard: null
+  xiazi:
+    attested: 焉
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5541'
+  pan_wuyun_id: '5591'
+locations:
+  guangyun_location: null
+  baxter_location: 122.38 142.27
+  pan_wuyun_location: '122'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: qián
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 開
+      韻部: 仙
+      調: 平
+      重紐: b
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: ɡjɛn
+      pan_wuyun: ɡɯiɛn
+      wang_li: ɡĭɛn
+      pulleyblank: gian
+      shao_rongfen: ɡiæn
+      zhengzhang_shangfang: ɡɣiᴇn
+      karlgren: gi̯ɛn
+    authorial_reconstructions:
+      baxter: gjen
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元1
+      phonetic: 建
+      oc: ɡran
+    zhengzhang_shangfang:
+      oc: ɡran
+      yunbu: 元1
+      phonetic: 建
+      notes: null
+---
+
+# 犍
+
+## Fanqie
+渠焉
+
+## Mandarin
+qián

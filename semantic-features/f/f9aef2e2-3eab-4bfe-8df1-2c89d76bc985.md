@@ -1,0 +1,9 @@
+---
+uuid: f9aef2e2-3eab-4bfe-8df1-2c89d76bc985
+type: semantic-feature
+code: allow
+source:
+  source_file: semantic-features.xml
+---
+
+# allow

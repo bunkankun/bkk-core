@@ -1,0 +1,74 @@
+---
+uuid: c112cac1-2e6e-448c-bdb2-af0c5ef2ff61
+type: graph
+graphs:
+  attested: 技
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 藝也説文巧也渠綺切六
+xiaoyun:
+  headword: 技
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 渠
+    standard: null
+  xiazi:
+    attested: 綺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10044'
+  pan_wuyun_id: '10121'
+locations:
+  guangyun_location: '242.37'
+  baxter_location: '242.37'
+  pan_wuyun_location: '222'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 上
+      重紐: b
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ɡje
+      pan_wuyun: ɡɯiɛ
+      wang_li: ɡǐe
+      pulleyblank: gjiə̆
+      shao_rongfen: ɡiɛ
+      zhengzhang_shangfang: ɡɣiᴇ
+      karlgren: gie̯
+    authorial_reconstructions:
+      baxter: gjeX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 支
+      oc: ɡreʔ
+    zhengzhang_shangfang:
+      oc: ɡreʔ
+      yunbu: 支
+      phonetic: 支
+      notes: null
+---
+
+# 技
+
+## Fanqie
+渠綺
+
+## Mandarin
+jì

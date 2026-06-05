@@ -1,0 +1,74 @@
+---
+uuid: 91ca8a6d-cc4c-4e18-a3e8-ed8c9b1dfe79
+type: graph
+graphs:
+  attested: 鯈
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 魚子又魚名也
+xiaoyun:
+  headword: 儔
+  graph_count: 28
+fanqie:
+  shangzi:
+    attested: 直
+    standard: null
+  xiazi:
+    attested: 由
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '8716'
+  pan_wuyun_id: '8775'
+locations:
+  guangyun_location: '209.48'
+  baxter_location: 209.35 417.16
+  pan_wuyun_location: '189'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chóu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 澄
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 平
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: ȡiu
+      pan_wuyun: ɖiu
+      wang_li: ȡĭəu
+      pulleyblank: ɖuw
+      shao_rongfen: ȡiəu
+      zhengzhang_shangfang: ɖɨu
+      karlgren: ȡʱi̯ə̯u
+    authorial_reconstructions:
+      baxter: drjuw
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 鯈
+
+## Fanqie
+直由
+
+## Mandarin
+chóu

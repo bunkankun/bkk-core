@@ -1,0 +1,23 @@
+---
+uuid: d5fd8b9f-1b6d-4cfa-beb2-9b572beaf25d
+type: concept
+concept: LACQUER
+zh: 漆
+och: 漆
+---
+# Concept: LACQUER
+# Definition
+SUBSTANCE USED to CAUSE SURFACES TO BECOME INTENSELY SMOOTH AND TO RESEMBLE GLASS. []
+# Criteria and general notes
+## Old Chinese Criteria
+1. The current general term for lacquer is qī [[漆]].
+2. Xiū [[髹]] refers either to the black and red lacquer, or to the lacquer in general.
+3. Yóu qī [[油漆]] can also refer to the lacquer, as it contains oil.
+# Ontology
+
+## Hypernym
+[SUBSTANCE](../3/36e940be-af4b-434e-b637-d9a633782aa4.md)
+# Bibliography
+- [SANBAITI 1987](../../bibliography/7/74ef242e-0300-4994-8992-f23c46362473.md)
+**中國文化史三百題** page 315
+# Words

@@ -1,0 +1,74 @@
+---
+uuid: aaf4d89b-e48e-4cd0-bdaa-44d2d1e9f89c
+type: graph
+graphs:
+  attested: 擯
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 擯斥
+xiaoyun:
+  headword: 儐
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 必
+    standard: null
+  xiazi:
+    attested: 刃
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17140'
+  pan_wuyun_id: '17260'
+locations:
+  guangyun_location: null
+  baxter_location: 103.22 393.03
+  pan_wuyun_location: '373'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: bìn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 三
+      呼: 開
+      韻部: 真
+      調: 去
+      重紐: a
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: piĕn
+      pan_wuyun: pin
+      wang_li: pĭĕn
+      pulleyblank: pin
+      shao_rongfen: pjen
+      zhengzhang_shangfang: piɪn
+      karlgren: pi̯ĕn
+    authorial_reconstructions:
+      baxter: pjinH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 真1
+      phonetic: 丏
+      oc: pins
+    zhengzhang_shangfang:
+      oc: pins
+      yunbu: 真1
+      phonetic: 賓
+      notes: null
+---
+
+# 擯
+
+## Fanqie
+必刃
+
+## Mandarin
+bìn

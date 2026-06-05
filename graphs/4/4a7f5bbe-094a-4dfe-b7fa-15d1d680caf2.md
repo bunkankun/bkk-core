@@ -1,0 +1,74 @@
+---
+uuid: 4a7f5bbe-094a-4dfe-b7fa-15d1d680caf2
+type: graph
+graphs:
+  attested: 𣄲
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 刖一足
+xiaoyun:
+  headword: 跪
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 去
+    standard: null
+  xiazi:
+    attested: 委
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10013'
+  pan_wuyun_id: '10090'
+locations:
+  guangyun_location: '242.06'
+  baxter_location: 242.05 246.50
+  pan_wuyun_location: '222'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: kuǐ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 溪
+      等: 三
+      呼: 合
+      韻部: 支
+      調: 上
+      重紐: b
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: kʰjue
+      pan_wuyun: kʰʷɯiɛ
+      wang_li: kʰǐwe
+      pulleyblank: kʰjwiə̆
+      shao_rongfen: kʰiuɛ
+      zhengzhang_shangfang: kʰɣiuᴇ
+      karlgren: kʰwie̯
+    authorial_reconstructions:
+      baxter: khjweX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𣄲
+
+## Fanqie
+去委
+
+## Mandarin
+kuǐ

@@ -1,0 +1,74 @@
+---
+uuid: b5e8c687-64eb-488a-bfbf-abf1bf8a865b
+type: graph
+graphs:
+  attested: 珷
+  unemended: null
+  emended: null
+  standardised: 碔
+gloss: 珷玞石次玉
+xiaoyun:
+  headword: 武
+  graph_count: 24
+fanqie:
+  shangzi:
+    attested: 文
+    standard: null
+  xiazi:
+    attested: 甫
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10801'
+  pan_wuyun_id: '10884'
+locations:
+  guangyun_location: '261.20'
+  baxter_location: '261.12'
+  pan_wuyun_location: '241'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: wǔ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 三
+      呼: 合
+      韻部: 虞
+      調: 上
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: mio
+      pan_wuyun: mio
+      wang_li: mĭu
+      pulleyblank: muə̆
+      shao_rongfen: mio
+      zhengzhang_shangfang: mɨo
+      karlgren: mi̯u
+    authorial_reconstructions:
+      baxter: mjuX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 魚
+      phonetic: 武
+      oc: mbaʔ
+    zhengzhang_shangfang:
+      oc: maʔ
+      yunbu: 魚
+      phonetic: 武
+      notes: 同珷见子虚赋
+---
+
+# 珷
+
+## Fanqie
+文甫
+
+## Mandarin
+wǔ

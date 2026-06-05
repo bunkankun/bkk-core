@@ -1,0 +1,74 @@
+---
+uuid: fdb2590f-de1e-4dd5-b69c-378edb9cb1c4
+type: graph
+graphs:
+  attested: 妵
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 人名左傳有華妵説文女字也
+xiaoyun:
+  headword: 𪌘
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 天
+    standard: null
+  xiazi:
+    attested: 口
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13958'
+  pan_wuyun_id: '14061'
+locations:
+  guangyun_location: '326.09'
+  baxter_location: '326.07'
+  pan_wuyun_location: '306'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: tǒu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 透
+      等: 一
+      呼: 開
+      韻部: 侯
+      調: 上
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: tʰu
+      pan_wuyun: tʰəu
+      wang_li: tʰəu
+      pulleyblank: tʰəw
+      shao_rongfen: tʰəu
+      zhengzhang_shangfang: tʰəu
+      karlgren: tʰə̯u
+    authorial_reconstructions:
+      baxter: thuwX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: thooʔ
+      yunbu: 侯
+      phonetic: 主
+      notes: null
+---
+
+# 妵
+
+## Fanqie
+天口
+
+## Mandarin
+tǒu

@@ -1,0 +1,74 @@
+---
+uuid: fae6bbf5-c99e-455a-bd74-5c4b51fe6bfb
+type: graph
+graphs:
+  attested: 銕
+  unemended: null
+  emended: null
+  standardised: 鐵
+gloss: 鐡古文
+xiaoyun:
+  headword: 鐵
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 他
+    standard: null
+  xiazi:
+    attested: 結
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '22370'
+  pan_wuyun_id: '22542'
+locations:
+  guangyun_location: '493.46'
+  baxter_location: '493.45'
+  pan_wuyun_location: '473'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: tiě
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 透
+      等: 四
+      呼: 開
+      韻部: 屑
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: tʰet
+      pan_wuyun: tʰet
+      wang_li: tʰiet
+      pulleyblank: tʰɛt
+      shao_rongfen: tʰɛt
+      zhengzhang_shangfang: tʰet
+      karlgren: tʰiet
+    authorial_reconstructions:
+      baxter: thet
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: l'iil
+      yunbu: 脂1
+      phonetic: 夷
+      notes: 古鐵字
+---
+
+# 銕
+
+## Fanqie
+他結
+
+## Mandarin
+tiě

@@ -1,0 +1,74 @@
+---
+uuid: ba3290b7-6eac-46c7-bbca-efa18d195ced
+type: graph
+graphs:
+  attested: 晹
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 日無光
+xiaoyun:
+  headword: 釋
+  graph_count: 16
+fanqie:
+  shangzi:
+    attested: 施
+    standard: null
+  xiazi:
+    attested: 隻
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '23658'
+  pan_wuyun_id: '23840'
+locations:
+  guangyun_location: '517.43'
+  baxter_location: '517.36'
+  pan_wuyun_location: '497'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: shì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 書
+      等: 三
+      呼: 開
+      韻部: 昔
+      調: 入
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: ɕiɛk
+      pan_wuyun: ɕiɛk
+      wang_li: ɕĭɛk
+      pulleyblank: ɕiajk
+      shao_rongfen: ɕiæk
+      zhengzhang_shangfang: ɕiᴇk
+      karlgren: ɕi̯ɛk
+    authorial_reconstructions:
+      baxter: syek
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: hljeɡ
+      yunbu: 錫
+      phonetic: 易
+      notes: null
+---
+
+# 晹
+
+## Fanqie
+施隻
+
+## Mandarin
+shì

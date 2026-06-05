@@ -1,0 +1,74 @@
+---
+uuid: ea2a4fd7-37ac-45a4-a0de-08fc8c6cdd85
+type: graph
+graphs:
+  attested: 珣
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 玉名
+xiaoyun:
+  headword: 荀
+  graph_count: 14
+fanqie:
+  shangzi:
+    attested: 相
+    standard: null
+  xiazi:
+    attested: 倫
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '3974'
+  pan_wuyun_id: '4009'
+locations:
+  guangyun_location: '106.55'
+  baxter_location: '106.50'
+  pan_wuyun_location: '86'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xún
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 三
+      呼: 合
+      韻部: 諄
+      調: 平
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: siuĕn
+      pan_wuyun: sʷin
+      wang_li: sĭuĕn
+      pulleyblank: swin
+      shao_rongfen: sjuen
+      zhengzhang_shangfang: siuɪn
+      karlgren: si̯uĕn
+    authorial_reconstructions:
+      baxter: swin
+  old_chinese:
+    pan_wuyun:
+      yunbu: 真1
+      phonetic: 勻
+      oc: sqʷlin
+    zhengzhang_shangfang:
+      oc: sqhʷin
+      yunbu: 真1
+      phonetic: 匀
+      notes: null
+---
+
+# 珣
+
+## Fanqie
+相倫
+
+## Mandarin
+xún

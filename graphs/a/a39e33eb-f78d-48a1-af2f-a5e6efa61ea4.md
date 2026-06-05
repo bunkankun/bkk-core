@@ -1,0 +1,74 @@
+---
+uuid: a39e33eb-f78d-48a1-af2f-a5e6efa61ea4
+type: graph
+graphs:
+  attested: 稬
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 方言云沛國呼稻也
+xiaoyun:
+  headword: 煗
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 乃
+    standard: null
+  xiazi:
+    attested: 管
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11970'
+  pan_wuyun_id: '12064'
+locations:
+  guangyun_location: '286.06'
+  baxter_location: '285.54'
+  pan_wuyun_location: '266'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nuǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 泥
+      等: 一
+      呼: 合
+      韻部: 桓
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: nuɑn
+      pan_wuyun: nʷɑn
+      wang_li: nuɑn
+      pulleyblank: nwan
+      shao_rongfen: nuɑn
+      zhengzhang_shangfang: nuɑn
+      karlgren: nuɑn
+    authorial_reconstructions:
+      baxter: nwanX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: 耎
+      oc: noonʔ
+    zhengzhang_shangfang:
+      oc: nools
+      yunbu: 歌3
+      phonetic: 耎
+      notes: null
+---
+
+# 稬
+
+## Fanqie
+乃管
+
+## Mandarin
+nuǎn

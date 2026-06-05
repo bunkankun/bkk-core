@@ -1,0 +1,72 @@
+---
+uuid: 13afe76a-ec8f-4a55-bab8-a2aea51dd2e9
+type: bibliography
+citation_label: HYDZD
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 漢語大字典
+  lang: chi
+  script: Hant
+- title: Hànyǔ dàzìdiǎn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Dictionary of Chinese Characters
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Géfēi
+  family: Lǐ
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Géfēi
+    family: Lǐ
+  - lang: chi
+    script: Hant
+    given: 格非
+    family: 李
+origin:
+  place: Wuhan
+  publisher: Hubei cishu chubanshe/Sichuan cishu chubanshe
+  date_issued: '1996'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: edition in reduced size
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# HYDZD
+
+## Title
+**漢語大字典**
+**Hànyǔ dàzìdiǎn**
+**Dictionary of Chinese Characters**
+
+## Contributors
+- Géfēi Lǐ / 李格非, editor
+
+## Publication
+Wuhan: Hubei cishu chubanshe/Sichuan cishu chubanshe, 1996.
+
+## Notes
+edition in reduced size
+CA

@@ -1,0 +1,74 @@
+---
+uuid: 1a4e039c-6a01-4fca-ad4b-baadc33873fc
+type: graph
+graphs:
+  attested: 方
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 四方也正也道也比也𩔖也法術也亦官名續漢書曰尚方令掌上手工巧作御刀劒諸好器物也又姓史記周大夫方叔之後府良切十三
+xiaoyun:
+  headword: 方
+  graph_count: 13
+fanqie:
+  shangzi:
+    attested: 府
+    standard: null
+  xiazi:
+    attested: 良
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '7112'
+  pan_wuyun_id: '7163'
+locations:
+  guangyun_location: '173.10'
+  baxter_location: 173.10 174.43
+  pan_wuyun_location: '154'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: fāng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 三
+      呼: 合
+      韻部: 陽
+      調: 平
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: piuaŋ
+      pan_wuyun: pʷiɐŋ
+      wang_li: pĭwaŋ
+      pulleyblank: puaŋ
+      shao_rongfen: piuɑŋ
+      zhengzhang_shangfang: pʉɐŋ
+      karlgren: piwaŋ
+    authorial_reconstructions:
+      baxter: pjang
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 方
+      oc: paŋ
+    zhengzhang_shangfang:
+      oc: paŋ
+      yunbu: 陽
+      phonetic: 方
+      notes: 甲金文象桨即榜初文，下初为单笔，犹旂左初亦作单杆
+---
+
+# 方
+
+## Fanqie
+府良
+
+## Mandarin
+fāng

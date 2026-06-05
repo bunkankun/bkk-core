@@ -1,0 +1,74 @@
+---
+uuid: 5cc1feae-a200-486e-94fa-32af7a4cace9
+type: graph
+graphs:
+  attested: 軘
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 兵車
+xiaoyun:
+  headword: 屯
+  graph_count: 22
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 渾
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '4532'
+  pan_wuyun_id: '4571'
+locations:
+  guangyun_location: null
+  baxter_location: 107.44 119.13
+  pan_wuyun_location: '99'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: tún
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 一
+      呼: 合
+      韻部: 魂
+      調: 平
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: duən
+      pan_wuyun: duon
+      wang_li: duən
+      pulleyblank: dwən
+      shao_rongfen: duən
+      zhengzhang_shangfang: duən
+      karlgren: dʱuən
+    authorial_reconstructions:
+      baxter: trwin
+  old_chinese:
+    pan_wuyun:
+      yunbu: 文2
+      phonetic: 屯
+      oc: duun
+    zhengzhang_shangfang:
+      oc: duun
+      yunbu: 文2
+      phonetic: 屯
+      notes: null
+---
+
+# 軘
+
+## Fanqie
+徒渾
+
+## Mandarin
+tún

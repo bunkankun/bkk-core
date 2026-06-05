@@ -1,0 +1,74 @@
+---
+uuid: 7d5043ec-adab-487d-b4e5-bb5e9b3fec3b
+type: graph
+graphs:
+  attested: 㵟
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 浽㵟小雨
+xiaoyun:
+  headword: 微
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 無
+    standard: null
+  xiazi:
+    attested: 非
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1855'
+  pan_wuyun_id: '1873'
+locations:
+  guangyun_location: '063.32'
+  baxter_location: '063.30'
+  pan_wuyun_location: '43'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: wēi
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 三
+      呼: 合
+      韻部: 微
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: miuəi
+      pan_wuyun: mʷɨi
+      wang_li: mĭwəi
+      pulleyblank: muj
+      shao_rongfen: miuəi
+      zhengzhang_shangfang: mʉi
+      karlgren: mwe̯i
+    authorial_reconstructions:
+      baxter: mj+j
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㵟
+
+## Fanqie
+無非
+
+## Mandarin
+wēi

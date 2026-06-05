@@ -1,0 +1,11 @@
+---
+uuid: a3d18fc7-4cef-42ef-918f-c74cefc2ef67
+type: semantic-feature
+code: reflexive, subjective
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2024-03-17T23:46:03.666+09:00'
+---
+
+# reflexive, subjective

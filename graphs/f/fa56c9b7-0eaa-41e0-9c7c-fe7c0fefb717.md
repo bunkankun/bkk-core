@@ -1,0 +1,74 @@
+---
+uuid: fa56c9b7-0eaa-41e0-9c7c-fe7c0fefb717
+type: graph
+graphs:
+  attested: 菌
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 蕈也又求敏切
+xiaoyun:
+  headword: 𧯦
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 求
+    standard: null
+  xiazi:
+    attested: 晚
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11714'
+  pan_wuyun_id: '11806'
+locations:
+  guangyun_location: '276.28'
+  baxter_location: 281.14 410.41
+  pan_wuyun_location: '261'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: juàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 合
+      韻部: 元
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: ɡiuɐn
+      pan_wuyun: ɡʷiɐn
+      wang_li: ɡĭwɐn
+      pulleyblank: guan
+      shao_rongfen: ɡiuɐn
+      zhengzhang_shangfang: ɡʉɐn
+      karlgren: gi̯wɐn
+    authorial_reconstructions:
+      baxter: gjwonX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: 囷
+      oc: ɡonʔ
+    zhengzhang_shangfang:
+      oc: ɡonʔ
+      yunbu: 元3
+      phonetic: 囷
+      notes: null
+---
+
+# 菌
+
+## Fanqie
+求晚
+
+## Mandarin
+juàn

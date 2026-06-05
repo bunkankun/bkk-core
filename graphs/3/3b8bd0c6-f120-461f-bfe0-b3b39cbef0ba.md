@@ -1,0 +1,74 @@
+---
+uuid: 3b8bd0c6-f120-461f-bfe0-b3b39cbef0ba
+type: graph
+graphs:
+  attested: 摕
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 捎取
+xiaoyun:
+  headword: 姪
+  graph_count: 35
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 結
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '22361'
+  pan_wuyun_id: '22533'
+locations:
+  guangyun_location: null
+  baxter_location: 468.25 493.10
+  pan_wuyun_location: '473'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dié
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 四
+      呼: 開
+      韻部: 屑
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: det
+      pan_wuyun: det
+      wang_li: diet
+      pulleyblank: dɛt
+      shao_rongfen: dɛt
+      zhengzhang_shangfang: det
+      karlgren: dʱiet
+    authorial_reconstructions:
+      baxter: det
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月2
+      phonetic: 帶
+      oc: deed
+    zhengzhang_shangfang:
+      oc: teeds
+      yunbu: 祭2
+      phonetic: 帶
+      notes: null
+---
+
+# 摕
+
+## Fanqie
+徒結
+
+## Mandarin
+dié

@@ -1,0 +1,29 @@
+---
+uuid: faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+type: syntactic-function
+code: vtoNPab{S}
+relations:
+- type: taxonymy
+  refs:
+  - uuid: 5eeab7fc-d3bc-4349-85b1-d4ef99ad7ef9
+    label: vtoNPab{S}.adV
+  - uuid: 5677a190-8545-47a1-8a57-8a6db03d43cf
+    label: vtoNPab{S}.postV
+source:
+  source_file: syntactic-functions.xml
+---
+
+# vtoNPab{S}
+
+## Description
+transitive verb followed by a nominalised sentential object
+
+## Notes
+We take the sentence "S" to be defined as a predicative (verbal or nominal) expression with an explicit or implicit subject. Nominalisation of this kind of sentence is categorised as NPab[S], i.e. an abstract noun phrase which is a nominalisation of a sentence. Nominal sentences are - we note in passing - not easily nominalised in classical Chinese, so that "Socrates's being a man" is not a logical construction that goes naturally into classical Chinese, and certainly not without the addition of a (nominalised) copula like 為 . 待考
+Nominalisation of sentences is standardly by qi2 其 replacing the subject or by the addition of 之 between subject and predicate. Unmarked nominalisation is often hard to be sure of and to diagnose with conviction.
+Evidently, this vt+NPab[S] may be viewed as a sub-class of ordinary vt+N, where N happens to be the nominalisation of a sentence labelled as NPab[S].
+
+## Links
+### Taxonomy
+- [vtoNPab{S}.adV](../5/5eeab7fc-d3bc-4349-85b1-d4ef99ad7ef9.md)
+- [vtoNPab{S}.postV](../5/5677a190-8545-47a1-8a57-8a6db03d43cf.md)

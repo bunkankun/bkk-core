@@ -1,0 +1,74 @@
+---
+uuid: 915f9f53-dfd3-4d5d-af7f-ab385a7efbe2
+type: graph
+graphs:
+  attested: 弮
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 古縣名在滎陽丘員切五
+xiaoyun:
+  headword: 弮
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 丘
+    standard: null
+  xiazi:
+    attested: 圓
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5586'
+  pan_wuyun_id: '5636'
+locations:
+  guangyun_location: '143.26'
+  baxter_location: 143.26 410.34
+  pan_wuyun_location: '123'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: quān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 溪
+      等: 三
+      呼: 合
+      韻部: 仙
+      調: 平
+      重紐: b
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: kʰjuɛn
+      pan_wuyun: kʰʷɯiɛn
+      wang_li: kʰĭwɛn
+      pulleyblank: kʰwian
+      shao_rongfen: kʰiuæn
+      zhengzhang_shangfang: kʰɣiuᴇn
+      karlgren: kʰi̯wɛn
+    authorial_reconstructions:
+      baxter: khjwen
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: _
+      oc: khron
+    zhengzhang_shangfang:
+      oc: khron
+      yunbu: 元3
+      phonetic: 
+      notes: null
+---
+
+# 弮
+
+## Fanqie
+丘圓
+
+## Mandarin
+quān

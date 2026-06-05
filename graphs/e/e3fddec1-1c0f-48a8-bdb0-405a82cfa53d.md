@@ -1,0 +1,74 @@
+---
+uuid: e3fddec1-1c0f-48a8-bdb0-405a82cfa53d
+type: graph
+graphs:
+  attested: 豜
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 大豕也一曰豕三歳
+xiaoyun:
+  headword: 堅
+  graph_count: 17
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 賢
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5081'
+  pan_wuyun_id: '5125'
+locations:
+  guangyun_location: null
+  baxter_location: 089.39 133.20
+  pan_wuyun_location: '113'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jiān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 四
+      呼: 開
+      韻部: 先
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: ken
+      pan_wuyun: ken
+      wang_li: kien
+      pulleyblank: kɛn
+      shao_rongfen: kɛn
+      zhengzhang_shangfang: ken
+      karlgren: kien
+    authorial_reconstructions:
+      baxter: ken
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元2
+      phonetic: 幵
+      oc: keen
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 豜
+
+## Fanqie
+古賢
+
+## Mandarin
+jiān

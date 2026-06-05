@@ -1,0 +1,37 @@
+---
+uuid: bffb7bdf-10de-4bdf-bb7b-df10de1bdf65
+type: super-entry
+orth: 舜若多
+'n': '1'
+forms:
+- orth: 舜若多
+- orth: 舜若多
+  graph_uuid: '06f3c1d4-071e-424a-9ac1-9ecb0e9b54c9 #uuid-f3cdf9db-509f-4926-b2b0-23f4035ecf61 #uuid-a07df213-b938-43db-9782-7161ec468c87'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: shùn rě duō
+  - lang: zh-x-oc
+    value: qjuns njaʔ k-laal
+  - lang: zh-x-mc
+    value: ɕʷin ȵɣɛ tɑ
+entries:
+- uuid: 339510d0-5bf8-48ca-9960-10be9a2082b9
+  sense_count: 1
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  'n': '0'
+source:
+  source_file: uuid-bffb7bdf-10de-4bdf-bb7b-df10de1bdf65.xml
+---
+
+# Super-entry: 舜若多
+
+## Forms
+- Orth: 舜若多
+- Orth: [舜](../../graphs/0/06f3c1d4-071e-424a-9ac1-9ecb0e9b54c9.md)[若](../../graphs/f/f3cdf9db-509f-4926-b2b0-23f4035ecf61.md)[多](../../graphs/a/a07df213-b938-43db-9782-7161ec468c87.md)
+  - Pinyin: shùn rě duō
+  - Old Chinese: qjuns njaʔ k-laal
+  - Middle Chinese: ɕʷin ȵɣɛ tɑ
+
+## Words
+- [EMPTY](../../words/3/339510d0-5bf8-48ca-9960-10be9a2082b9.md) (1 sense, n=0)

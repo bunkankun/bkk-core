@@ -1,0 +1,74 @@
+---
+uuid: 19c3d31c-bb49-469a-8feb-fdd4fda69af9
+type: graph
+graphs:
+  attested: 𪊍
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 鹿一歳曰𪋇一歳曰𪊍
+xiaoyun:
+  headword: 似
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 詳
+    standard: null
+  xiazi:
+    attested: 里
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10434'
+  pan_wuyun_id: '10516'
+locations:
+  guangyun_location: '252.08'
+  baxter_location: '251.26'
+  pan_wuyun_location: '232'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: sì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 邪
+      等: 三
+      呼: 開
+      韻部: 之
+      調: 上
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ziə
+      pan_wuyun: zɨ
+      wang_li: zĭə
+      pulleyblank: zɨ
+      shao_rongfen: zie
+      zhengzhang_shangfang: zɨ
+      karlgren: zi
+    authorial_reconstructions:
+      baxter: ziX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𪊍
+
+## Fanqie
+詳里
+
+## Mandarin
+sì

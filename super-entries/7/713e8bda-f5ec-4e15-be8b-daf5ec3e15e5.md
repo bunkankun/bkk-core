@@ -1,0 +1,40 @@
+---
+uuid: 713e8bda-f5ec-4e15-be8b-daf5ec3e15e5
+type: super-entry
+orth: 威權
+'n': '1'
+forms:
+- orth: 威權
+- orth: 威權
+  graph_uuid: '5b654542-eb48-47fa-826e-1f36d258e59c #uuid-45ad686c-5637-4415-9838-f6fccab6e682'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: wēi quán
+  - lang: zh-x-mc
+    value: '''jw+j gjwen'
+    resp: rec:baxter
+  - lang: zh-x-oc
+    value: qul ɡron
+    resp: rec:pan-wuyun
+entries:
+- uuid: baf04c2e-e66c-4d23-b04c-2ee66c9d230b
+  sense_count: 1
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  'n': '1'
+source:
+  source_file: uuid-713e8bda-f5ec-4e15-be8b-daf5ec3e15e5.xml
+---
+
+# Super-entry: 威權
+
+## Forms
+- Orth: 威權
+- Orth: [威](../../graphs/5/5b654542-eb48-47fa-826e-1f36d258e59c.md)[權](../../graphs/4/45ad686c-5637-4415-9838-f6fccab6e682.md)
+  - Pinyin: wēi quán
+  - Old Chinese: qul ɡron
+  - Middle Chinese: 'jw+j gjwen
+  - Provenance: zh-x-mc resp=rec:baxter, zh-x-oc resp=rec:pan-wuyun
+
+## Words
+- [POWER](../../words/b/baf04c2e-e66c-4d23-b04c-2ee66c9d230b.md) (1 sense, n=1)

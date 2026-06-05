@@ -1,0 +1,74 @@
+---
+uuid: f215b287-ee7e-4b2c-80ea-a7c8cfbcb7d0
+type: graph
+graphs:
+  attested: 頍
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 弁皃又舉頭皃
+xiaoyun:
+  headword: 跬
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 丘
+    standard: null
+  xiazi:
+    attested: 弭
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10230'
+  pan_wuyun_id: '10308'
+locations:
+  guangyun_location: null
+  baxter_location: '246.39'
+  pan_wuyun_location: '226'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 切語同開口企集韻犬橤切
+pronunciation:
+  mandarin:
+    jin: kuǐ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 溪
+      等: 三
+      呼: 合
+      韻部: 支
+      調: 上
+      重紐: a
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: kʰjue
+      pan_wuyun: kʰʷɯiɛ
+      wang_li: kʰǐwe
+      pulleyblank: kʰjwiə̆
+      shao_rongfen: kʰiuɛ
+      zhengzhang_shangfang: kʰɣiuᴇ
+      karlgren: kʰwie̯
+    authorial_reconstructions:
+      baxter: khjwieX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 支
+      oc: khʷeʔ
+    zhengzhang_shangfang:
+      oc: khʷeʔ
+      yunbu: 支
+      phonetic: 支
+      notes: 切語同開口企，集韻改犬橤切
+---
+
+# 頍
+
+## Fanqie
+丘弭
+
+## Mandarin
+kuǐ

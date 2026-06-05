@@ -1,0 +1,74 @@
+---
+uuid: 5da6c1cc-eece-49ed-a14d-c045ed8eb600
+type: graph
+graphs:
+  attested: 𧷿
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 賭勝出新字林
+xiaoyun:
+  headword: 都
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 當
+    standard: null
+  xiazi:
+    attested: 孤
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2887'
+  pan_wuyun_id: '2914'
+locations:
+  guangyun_location: '086.22'
+  baxter_location: '086.18'
+  pan_wuyun_location: '66'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dū
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 端
+      等: 一
+      呼: 合
+      韻部: 模
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: to
+      pan_wuyun: tuo
+      wang_li: tu
+      pulleyblank: tɔ
+      shao_rongfen: to
+      zhengzhang_shangfang: tuo
+      karlgren: tuo
+    authorial_reconstructions:
+      baxter: tu
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𧷿
+
+## Fanqie
+當孤
+
+## Mandarin
+dū

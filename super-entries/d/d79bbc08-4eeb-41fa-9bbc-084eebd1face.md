@@ -1,0 +1,37 @@
+---
+uuid: d79bbc08-4eeb-41fa-9bbc-084eebd1face
+type: super-entry
+orth: 顏貌
+'n': '1'
+forms:
+- orth: 顏貌
+- orth: 顏貌
+  graph_uuid: 'ea1b1773-3d65-4902-9d58-7f5dd9bbdb06 #uuid-80993705-fc43-4e1e-bb74-4e83d6c6aae4'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: yán mào
+  - lang: zh-x-oc
+    value: ŋraan mreews
+  - lang: zh-x-mc
+    value: ŋɣan mɣɛu
+entries:
+- uuid: 1d21053c-3758-4ce7-8855-7f45ede1ef1c
+  sense_count: 1
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  'n': '1'
+source:
+  source_file: uuid-d79bbc08-4eeb-41fa-9bbc-084eebd1face.xml
+---
+
+# Super-entry: 顏貌
+
+## Forms
+- Orth: 顏貌
+- Orth: [顏](../../graphs/e/ea1b1773-3d65-4902-9d58-7f5dd9bbdb06.md)[貌](../../graphs/8/80993705-fc43-4e1e-bb74-4e83d6c6aae4.md)
+  - Pinyin: yán mào
+  - Old Chinese: ŋraan mreews
+  - Middle Chinese: ŋɣan mɣɛu
+
+## Words
+- [FACE](../../words/1/1d21053c-3758-4ce7-8855-7f45ede1ef1c.md) (1 sense, n=1)

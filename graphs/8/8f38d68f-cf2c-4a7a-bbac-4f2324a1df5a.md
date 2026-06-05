@@ -1,0 +1,74 @@
+---
+uuid: 8f38d68f-cf2c-4a7a-bbac-4f2324a1df5a
+type: graph
+graphs:
+  attested: 漞
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 同汨
+xiaoyun:
+  headword: 覓
+  graph_count: 24
+fanqie:
+  shangzi:
+    attested: 莫
+    standard: null
+  xiazi:
+    attested: 狄
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '23971'
+  pan_wuyun_id: '24154'
+locations:
+  guangyun_location: '523.27'
+  baxter_location: '523.16'
+  pan_wuyun_location: '503'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同汨
+pronunciation:
+  mandarin:
+    jin: mì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 四
+      呼: 開
+      韻部: 錫
+      調: 入
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: mek
+      pan_wuyun: mek
+      wang_li: miek
+      pulleyblank: mɛjk
+      shao_rongfen: mɛk
+      zhengzhang_shangfang: mek
+      karlgren: miek
+    authorial_reconstructions:
+      baxter: mek
+  old_chinese:
+    pan_wuyun:
+      yunbu: 錫
+      phonetic: 覓
+      oc: meeɡ
+    zhengzhang_shangfang:
+      oc: meeɡ
+      yunbu: 錫
+      phonetic: 覓
+      notes: 同汨
+---
+
+# 漞
+
+## Fanqie
+莫狄
+
+## Mandarin
+mì

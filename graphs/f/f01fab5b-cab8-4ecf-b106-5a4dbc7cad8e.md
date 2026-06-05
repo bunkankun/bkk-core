@@ -1,0 +1,74 @@
+---
+uuid: f01fab5b-cab8-4ecf-b106-5a4dbc7cad8e
+type: graph
+graphs:
+  attested: 幞
+  unemended: null
+  emended: null
+  standardised: 襆
+gloss: 帊也又幞頭周武帝所制裁幅巾出四腳以幞頭乃名焉亦曰頭巾房玉切二
+xiaoyun:
+  headword: 幞
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 房
+    standard: null
+  xiazi:
+    attested: 玉
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '20671'
+  pan_wuyun_id: '20830'
+locations:
+  guangyun_location: '463.23'
+  baxter_location: '463.23'
+  pan_wuyun_location: '443'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: fú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 並
+      等: 三
+      呼: 合
+      韻部: 燭
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: biok
+      pan_wuyun: biok
+      wang_li: bĭwok
+      pulleyblank: buawk
+      shao_rongfen: biok
+      zhengzhang_shangfang: bɨok
+      karlgren: bʱi̯wok
+    authorial_reconstructions:
+      baxter: bjowk
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: boɡ
+      yunbu: 屋
+      phonetic: 菐
+      notes: 同纀
+---
+
+# 幞
+
+## Fanqie
+房玉
+
+## Mandarin
+fú

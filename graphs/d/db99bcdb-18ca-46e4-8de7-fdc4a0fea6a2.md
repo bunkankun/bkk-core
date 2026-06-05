@@ -1,0 +1,74 @@
+---
+uuid: db99bcdb-18ca-46e4-8de7-fdc4a0fea6a2
+type: graph
+graphs:
+  attested: 衍
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 達也亦姓字統云水朝宗於海故從水行
+xiaoyun:
+  headword: 演
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 以
+    standard: null
+  xiazi:
+    attested: 淺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12221'
+  pan_wuyun_id: '12317'
+locations:
+  guangyun_location: null
+  baxter_location: 276.40 290.34 392.31
+  pan_wuyun_location: '270'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 以
+      等: 三
+      呼: 開
+      韻部: 仙
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: n/a
+      pan_wuyun: jiɛn
+      wang_li: jĭɛn
+      pulleyblank: jian
+      shao_rongfen: n/a
+      zhengzhang_shangfang: jiᴇn
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: yenX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元1
+      phonetic: 衍
+      oc: k-lanʔ
+    zhengzhang_shangfang:
+      oc: lanʔ
+      yunbu: 元1
+      phonetic: 衍
+      notes: null
+---
+
+# 衍
+
+## Fanqie
+以淺
+
+## Mandarin
+yǎn

@@ -1,0 +1,64 @@
+---
+uuid: efbd70af-ec1c-4354-af2f-bdc49c8f6016
+type: bibliography
+citation_label: LIANG QIXIONG 1973
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 荀子柬釋
+  lang: chi
+  script: Hant
+- title: Xunzi jianshi
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Qixiong
+  family: Liang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Qixiong
+    family: Liang
+  - lang: chi
+    script: Hant
+    given: 啟雄
+    family: 梁
+origin:
+  place: Taibei
+  publisher: Shangwuyinshuguan
+  date_issued: '1973'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Reprint. Concise but thoroughly creative.
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# LIANG QIXIONG 1973
+
+## Title
+**荀子柬釋**
+**Xunzi jianshi**
+
+## Contributors
+- Qixiong Liang / 梁啟雄, author
+
+## Publication
+Taibei: Shangwuyinshuguan, 1973.
+
+## Notes
+Reprint. Concise but thoroughly creative.

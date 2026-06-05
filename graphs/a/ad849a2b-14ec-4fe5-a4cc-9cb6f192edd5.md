@@ -1,0 +1,74 @@
+---
+uuid: ad849a2b-14ec-4fe5-a4cc-9cb6f192edd5
+type: graph
+graphs:
+  attested: 堫
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 同䎫
+xiaoyun:
+  headword: 囪
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 楚
+    standard: null
+  xiazi:
+    attested: 江
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '696'
+  pan_wuyun_id: '705'
+locations:
+  guangyun_location: '032.02'
+  baxter_location: 031.24 039.20
+  pan_wuyun_location: '19'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chuāng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 初
+      等: 二
+      呼: 開
+      韻部: 江
+      調: 平
+      重紐: null
+      攝: 江
+    yundianwang_reconstructions:
+      li_rong: tʃʰɔŋ
+      pan_wuyun: tʂʰɯɔŋ
+      wang_li: tʃʰɔŋ
+      pulleyblank: tʂʰaɨwŋ
+      shao_rongfen: tʃʰɔŋ
+      zhengzhang_shangfang: tʃʰɣʌŋ
+      karlgren: tʂʰɔŋ
+    authorial_reconstructions:
+      baxter: tsrhaewng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 東
+      phonetic: 凶
+      oc: skhrooŋ
+    zhengzhang_shangfang:
+      oc: shrooŋ
+      yunbu: 東
+      phonetic: 翪
+      notes: null
+---
+
+# 堫
+
+## Fanqie
+楚江
+
+## Mandarin
+chuāng

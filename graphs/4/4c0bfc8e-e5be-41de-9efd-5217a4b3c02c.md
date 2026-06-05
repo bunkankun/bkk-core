@@ -1,0 +1,74 @@
+---
+uuid: 4c0bfc8e-e5be-41de-9efd-5217a4b3c02c
+type: graph
+graphs:
+  attested: 𨢬
+  unemended: null
+  emended: null
+  standardised: 酴
+gloss: 醎葅
+xiaoyun:
+  headword: 拙
+  graph_count: 11
+fanqie:
+  shangzi:
+    attested: 職
+    standard: null
+  xiazi:
+    attested: 悅
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '22655'
+  pan_wuyun_id: '22827'
+locations:
+  guangyun_location: null
+  baxter_location: '499.02'
+  pan_wuyun_location: '479'
+notes:
+  pan_wuyun_note_on_guangyun: 原作"𨢬"，據段改
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhuó
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 合
+      韻部: 薛
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: tɕiuɛt
+      pan_wuyun: tɕʷiɛt
+      wang_li: tɕĭuɛt
+      pulleyblank: cwiat
+      shao_rongfen: tɕjuæt
+      zhengzhang_shangfang: tɕiuᴇt
+      karlgren: tɕi̯wɛt
+    authorial_reconstructions:
+      baxter: tsywet
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: l'aa
+      yunbu: 魚
+      phonetic: 余
+      notes: null
+---
+
+# 𨢬
+
+## Fanqie
+職悅
+
+## Mandarin
+zhuó

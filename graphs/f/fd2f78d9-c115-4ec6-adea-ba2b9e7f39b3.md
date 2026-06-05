@@ -1,0 +1,74 @@
+---
+uuid: fd2f78d9-c115-4ec6-adea-ba2b9e7f39b3
+type: graph
+graphs:
+  attested: 堣
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 堣夷日所出處書亦作嵎
+xiaoyun:
+  headword: 虞
+  graph_count: 20
+fanqie:
+  shangzi:
+    attested: 遇
+    standard: null
+  xiazi:
+    attested: 俱
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2229'
+  pan_wuyun_id: '2251'
+locations:
+  guangyun_location: '072.13'
+  baxter_location: '072.08'
+  pan_wuyun_location: '52'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 疑
+      等: 三
+      呼: 合
+      韻部: 虞
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: ŋio
+      pan_wuyun: ŋio
+      wang_li: ŋĭu
+      pulleyblank: ŋuə̆
+      shao_rongfen: ŋio
+      zhengzhang_shangfang: ŋɨo
+      karlgren: ŋi̯u
+    authorial_reconstructions:
+      baxter: ngju
+  old_chinese:
+    pan_wuyun:
+      yunbu: 侯
+      phonetic: 禺
+      oc: ŋo
+    zhengzhang_shangfang:
+      oc: ŋo
+      yunbu: 侯
+      phonetic: 禺
+      notes: null
+---
+
+# 堣
+
+## Fanqie
+遇俱
+
+## Mandarin
+yú

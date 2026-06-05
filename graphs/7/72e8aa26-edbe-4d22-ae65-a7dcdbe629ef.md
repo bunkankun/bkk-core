@@ -1,0 +1,74 @@
+---
+uuid: 72e8aa26-edbe-4d22-ae65-a7dcdbe629ef
+type: graph
+graphs:
+  attested: 渲
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 小水
+xiaoyun:
+  headword: 選
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 息
+    standard: null
+  xiazi:
+    attested: 絹
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18117'
+  pan_wuyun_id: '18252'
+locations:
+  guangyun_location: null
+  baxter_location: 294.38 411.29
+  pan_wuyun_location: '391'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xuàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 三
+      呼: 合
+      韻部: 仙
+      調: 去
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: siuɛn
+      pan_wuyun: sʷiɛn
+      wang_li: sĭwɛn
+      pulleyblank: swian
+      shao_rongfen: sjuæn
+      zhengzhang_shangfang: siuᴇn
+      karlgren: si̯wɛn
+    authorial_reconstructions:
+      baxter: sjwenX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: sqhʷans
+      yunbu: 元1
+      phonetic: 亘
+      notes: null
+---
+
+# 渲
+
+## Fanqie
+息絹
+
+## Mandarin
+xuàn

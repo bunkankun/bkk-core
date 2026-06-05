@@ -1,0 +1,15 @@
+---
+uuid: d05c238f-f3ac-408d-afff-f9a56faf1efc
+type: syntactic-function
+code: vtoN1.-v{NUM}adN2:adS
+source:
+  source_file: syntactic-functions.xml
+---
+
+# vtoN1.-v{NUM}adN2:adS
+
+## Description
+transitive (co)verb with nominal time object, preceding and modified by a quantified nominal expression, this whole phrase preceding and modifying a sentence
+
+## Notes
+This is a puzzling marginal syntactic category of which there should also be antonymic examples such as 後 . But I have not yet been able to register any of these.

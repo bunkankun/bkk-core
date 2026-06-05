@@ -1,0 +1,51 @@
+---
+uuid: 9ddc5bf7-8f2b-4af5-9c5b-f78f2b8af5bd
+type: word
+super_entry_uuid: 52cd4b37-7535-491c-8d4b-377535291c21
+super_entry_orth: 於
+concept: WITH
+concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+'n': '1'
+form:
+  orth: 於
+  graph_uuid: fb67b697-a7f5-4e27-8090-d90ec205fd5c
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: yú
+  - lang: zh-x-mc
+    value: '''jo'
+    resp: rec:baxter
+  - lang: zh-x-oc
+    value: qa
+    resp: rec:pan-wuyun
+senses:
+- uuid: bc7bd66b-6e7b-4e16-bbd6-6b6e7b8e1628
+  body_number: 1
+  pos: V
+  syntactic_functions:
+  - label: vt[0]oN.postadV
+    uuid: 97424691-5023-4a2e-b90f-d60a1e3b5673
+  provenance:
+    resp: '#dsehnal'
+    created: '2026-05-23T00:41:45.834+09:00'
+provenance:
+  resp: '#dsehnal'
+  created: '2026-05-23T00:41:45.834+09:00'
+source:
+  source_file: uuid-52cd4b37-7535-491c-8d4b-377535291c21.xml
+---
+
+# 於: WITH
+
+- Super-entry: [於](../../super-entries/5/52cd4b37-7535-491c-8d4b-377535291c21.md)
+- Concept: [WITH](../../concepts/c/c08190df-f269-41d6-b698-8f159db25c98.md)
+
+## Form
+- Orth: [於](../../graphs/f/fb67b697-a7f5-4e27-8090-d90ec205fd5c.md)
+  - Pinyin: yú
+  - Old Chinese: qa
+  - Middle Chinese: 'jo
+  - Provenance: zh-x-mc resp=rec:baxter, zh-x-oc resp=rec:pan-wuyun
+
+## Senses
+1. **[vt\[0\]oN.postadV](../../syntactic-functions/9/97424691-5023-4a2e-b90f-d60a1e3b5673.md)** with NjQuery331043906931225034473_1779444084416 待考, cf. HDC

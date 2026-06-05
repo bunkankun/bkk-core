@@ -1,0 +1,74 @@
+---
+uuid: b4ddfdef-d3bb-4a7c-ab93-f1866c8cf578
+type: graph
+graphs:
+  attested: 摑
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 打也亦作𢼛
+xiaoyun:
+  headword: 蟈
+  graph_count: 16
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 獲
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '23423'
+  pan_wuyun_id: '23603'
+locations:
+  guangyun_location: '513.39'
+  baxter_location: '513.32'
+  pan_wuyun_location: '493'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: guó
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 二
+      呼: 合
+      韻部: 麥
+      調: 入
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: kuɛk
+      pan_wuyun: kʷɯæk
+      wang_li: kwæk
+      pulleyblank: kwəɨjk
+      shao_rongfen: kuɐk
+      zhengzhang_shangfang: kwɣɛk
+      karlgren: kwæk
+    authorial_reconstructions:
+      baxter: kweak
+  old_chinese:
+    pan_wuyun:
+      yunbu: 職
+      phonetic: 或
+      oc: kʷrɯɯɡ
+    zhengzhang_shangfang:
+      oc: kʷrɯɯɡ
+      yunbu: 職
+      phonetic: 或
+      notes: null
+---
+
+# 摑
+
+## Fanqie
+古獲
+
+## Mandarin
+guó

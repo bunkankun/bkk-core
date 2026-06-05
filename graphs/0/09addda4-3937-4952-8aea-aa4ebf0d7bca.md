@@ -1,0 +1,74 @@
+---
+uuid: 09addda4-3937-4952-8aea-aa4ebf0d7bca
+type: graph
+graphs:
+  attested: 棴
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 棴常樹名
+xiaoyun:
+  headword: 速
+  graph_count: 19
+fanqie:
+  shangzi:
+    attested: 桑
+    standard: null
+  xiazi:
+    attested: 谷
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '20030'
+  pan_wuyun_id: '20185'
+locations:
+  guangyun_location: '450.37'
+  baxter_location: '450.21'
+  pan_wuyun_location: '430'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: sù
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 一
+      呼: 合
+      韻部: 屋
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: suk
+      pan_wuyun: suk
+      wang_li: suk
+      pulleyblank: səwk
+      shao_rongfen: suk
+      zhengzhang_shangfang: suk
+      karlgren: suk
+    authorial_reconstructions:
+      baxter: suwk
+  old_chinese:
+    pan_wuyun:
+      yunbu: 屋
+      phonetic: 服
+      oc: sblooɡ
+    zhengzhang_shangfang:
+      oc: bɯɡ
+      yunbu: 職
+      phonetic: 服
+      notes: null
+---
+
+# 棴
+
+## Fanqie
+桑谷
+
+## Mandarin
+sù

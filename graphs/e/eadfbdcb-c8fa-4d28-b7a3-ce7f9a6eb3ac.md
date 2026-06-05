@@ -1,0 +1,73 @@
+---
+uuid: eadfbdcb-c8fa-4d28-b7a3-ce7f9a6eb3ac
+type: graph
+graphs:
+  attested: null
+  unemended: null
+  emended: null
+  standardised: 隶
+xiaoyun:
+  headword: 代
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 耐
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '100648'
+  pan_wuyun_id: '17070'
+locations:
+  guangyun_location: null
+  baxter_location: '389.35'
+  pan_wuyun_location: '369'
+notes:
+  pan_wuyun_note_on_guangyun: 原文脱
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dài
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 一
+      呼: 開
+      韻部: 咍
+      調: 去
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: dᴀi
+      pan_wuyun: dəi
+      wang_li: dɒi
+      pulleyblank: dəj
+      shao_rongfen: dɒi
+      zhengzhang_shangfang: dʌi
+      karlgren: dʱɑ̆i
+    authorial_reconstructions:
+      baxter: dojH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: lɯds
+      yunbu: 隊1
+      phonetic: 隶
+      notes: null
+---
+
+# 隶 (standardized)
+
+## Fanqie
+徒耐
+
+## Mandarin
+dài

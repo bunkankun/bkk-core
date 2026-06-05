@@ -1,0 +1,74 @@
+---
+uuid: ebc6cc31-2f1a-432a-b539-ccc08e17cebc
+type: graph
+graphs:
+  attested: 𪔰
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 鼔聲見兵書
+xiaoyun:
+  headword: 䫴
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 于
+    standard: null
+  xiazi:
+    attested: 禁
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19655'
+  pan_wuyun_id: '19810'
+locations:
+  guangyun_location: null
+  baxter_location: 329.27 441.29
+  pan_wuyun_location: '421'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yìn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 云
+      等: 三
+      呼: 開
+      韻部: 侵
+      調: 去
+      重紐: null
+      攝: 深
+    yundianwang_reconstructions:
+      li_rong: ɣjəm
+      pan_wuyun: ɦɯim
+      wang_li: ɣĭĕm
+      pulleyblank: ɦjim
+      shao_rongfen: ɣiem
+      zhengzhang_shangfang: ɦɣiɪm
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: himH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𪔰
+
+## Fanqie
+于禁
+
+## Mandarin
+yìn

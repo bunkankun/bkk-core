@@ -1,0 +1,74 @@
+---
+uuid: 23ed4a34-9dd4-4ccb-8b6e-68efbc4f89df
+type: graph
+graphs:
+  attested: 鉏
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 誅也又田器釋名曰鉏助也去穢助苗也説文曰立薅斫也又姓左傳有鉏麑土魚切六
+xiaoyun:
+  headword: 鉏
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 士
+    standard: null
+  xiazi:
+    attested: 魚
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2109'
+  pan_wuyun_id: '2129'
+locations:
+  guangyun_location: '069.05'
+  baxter_location: 069.05 259.01
+  pan_wuyun_location: '49'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 崇
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: dʒiɔ
+      pan_wuyun: dʐiɔ
+      wang_li: dʒĭo
+      pulleyblank: dʐɨə̆
+      shao_rongfen: dʒiɔ
+      zhengzhang_shangfang: dʒɨʌ
+      karlgren: dʐʱi̯wo
+    authorial_reconstructions:
+      baxter: dzrjo
+  old_chinese:
+    pan_wuyun:
+      yunbu: 魚
+      phonetic: 且
+      oc: sɡra
+    zhengzhang_shangfang:
+      oc: zra
+      yunbu: 魚
+      phonetic: 且
+      notes: 后作鋤
+---
+
+# 鉏
+
+## Fanqie
+士魚
+
+## Mandarin
+chú

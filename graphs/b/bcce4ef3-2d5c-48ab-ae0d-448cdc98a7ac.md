@@ -1,0 +1,74 @@
+---
+uuid: bcce4ef3-2d5c-48ab-ae0d-448cdc98a7ac
+type: graph
+graphs:
+  attested: 顤
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 五弔切五
+xiaoyun:
+  headword: 顤
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 五
+    standard: null
+  xiazi:
+    attested: 弔
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18217'
+  pan_wuyun_id: '18352'
+locations:
+  guangyun_location: '146.29'
+  baxter_location: 146.29 153.30 413.20
+  pan_wuyun_location: '393'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yào
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 疑
+      等: 四
+      呼: 開
+      韻部: 蕭
+      調: 去
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: ŋeu
+      pan_wuyun: ŋeu
+      wang_li: ŋieu
+      pulleyblank: ŋɛw
+      shao_rongfen: ŋeu
+      zhengzhang_shangfang: ŋeu
+      karlgren: ŋieu
+    authorial_reconstructions:
+      baxter: ngewH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 宵2
+      phonetic: 垚
+      oc: ŋɡeews
+    zhengzhang_shangfang:
+      oc: hŋreew
+      yunbu: 宵2
+      phonetic: 垚
+      notes: null
+---
+
+# 顤
+
+## Fanqie
+五弔
+
+## Mandarin
+yào

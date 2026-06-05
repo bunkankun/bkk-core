@@ -1,0 +1,11 @@
+---
+uuid: dc6ae52c-9f8c-47bc-aae5-2c9f8c27bc5f
+type: semantic-feature
+code: N1 specifies DETERMINANT CONTEXT OF THE SOCIAL RELATION2
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2026-03-18T19:40:24.216+09:00'
+---
+
+# N1 specifies DETERMINANT CONTEXT OF THE SOCIAL RELATION2

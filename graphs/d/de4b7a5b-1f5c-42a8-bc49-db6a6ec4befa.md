@@ -1,0 +1,74 @@
+---
+uuid: de4b7a5b-1f5c-42a8-bc49-db6a6ec4befa
+type: graph
+graphs:
+  attested: 䃁
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 碨䃁地形不平
+xiaoyun:
+  headword: 鴉
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 於
+    standard: null
+  xiazi:
+    attested: 加
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '6832'
+  pan_wuyun_id: '6882'
+locations:
+  guangyun_location: '167.30'
+  baxter_location: '167.24'
+  pan_wuyun_location: '147'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yā
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 影
+      等: 二
+      呼: 開
+      韻部: 麻
+      調: 平
+      重紐: null
+      攝: 假
+    yundianwang_reconstructions:
+      li_rong: ʔa
+      pan_wuyun: ʔɯa
+      wang_li: n/a
+      pulleyblank: ʔaɨ
+      shao_rongfen: ʔa
+      zhengzhang_shangfang: ʔɣa
+      karlgren: ʔa
+    authorial_reconstructions:
+      baxter: '''ae'
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䃁
+
+## Fanqie
+於加
+
+## Mandarin
+yā

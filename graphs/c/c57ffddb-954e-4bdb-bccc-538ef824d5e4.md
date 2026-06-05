@@ -1,0 +1,74 @@
+---
+uuid: c57ffddb-954e-4bdb-bccc-538ef824d5e4
+type: graph
+graphs:
+  attested: 什
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 篇什又什物也
+xiaoyun:
+  headword: 十
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 是
+    standard: null
+  xiazi:
+    attested: 執
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '24414'
+  pan_wuyun_id: '24599'
+locations:
+  guangyun_location: '531.17'
+  baxter_location: '531.16'
+  pan_wuyun_location: '511'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: shí
+    wen: null
+    yi: shén
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 禪
+      等: 三
+      呼: 開
+      韻部: 緝
+      調: 入
+      重紐: null
+      攝: 深
+    yundianwang_reconstructions:
+      li_rong: ʑiəp
+      pan_wuyun: dʑip
+      wang_li: ʑĭĕp
+      pulleyblank: dʑip
+      shao_rongfen: dʑjep
+      zhengzhang_shangfang: dʑiɪp
+      karlgren: ʑi̯əp
+    authorial_reconstructions:
+      baxter: dzyip
+  old_chinese:
+    pan_wuyun:
+      yunbu: 緝3
+      phonetic: 十
+      oc: ɡjub
+    zhengzhang_shangfang:
+      oc: ɡjub
+      yunbu: 緝3
+      phonetic: 十
+      notes: null
+---
+
+# 什
+
+## Fanqie
+是執
+
+## Mandarin
+shí

@@ -1,0 +1,74 @@
+---
+uuid: df0bcf55-a7c8-4ebe-b5ad-6ea6f70234b1
+type: graph
+graphs:
+  attested: 匑
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 謹敬之皃又音穹
+xiaoyun:
+  headword: 弓
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 居
+    standard: null
+  xiazi:
+    attested: 戎
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '119'
+  pan_wuyun_id: '120'
+locations:
+  guangyun_location: '026.01'
+  baxter_location: '025.40'
+  pan_wuyun_location: '6'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: gōng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 合
+      韻部: 東
+      調: 平
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: kiuŋ
+      pan_wuyun: kiuŋ
+      wang_li: kĭuŋ
+      pulleyblank: kuwŋ
+      shao_rongfen: kiuŋ
+      zhengzhang_shangfang: kɨuŋ
+      karlgren: ki̯uŋ
+    authorial_reconstructions:
+      baxter: kjuwng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 蒸
+      phonetic: 弓
+      oc: kʷɯŋ
+    zhengzhang_shangfang:
+      oc: kuŋ
+      yunbu: 終
+      phonetic: 躬
+      notes: null
+---
+
+# 匑
+
+## Fanqie
+居戎
+
+## Mandarin
+gōng

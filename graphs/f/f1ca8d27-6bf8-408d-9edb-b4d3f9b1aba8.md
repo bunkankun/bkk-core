@@ -1,0 +1,74 @@
+---
+uuid: f1ca8d27-6bf8-408d-9edb-b4d3f9b1aba8
+type: graph
+graphs:
+  attested: 𧼞
+  unemended: null
+  emended: null
+  standardised: 𧽸
+gloss: 同𧽸
+xiaoyun:
+  headword: 厥
+  graph_count: 20
+fanqie:
+  shangzi:
+    attested: 居
+    standard: null
+  xiazi:
+    attested: 月
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '21483'
+  pan_wuyun_id: '21649'
+locations:
+  guangyun_location: '478.21'
+  baxter_location: 476.05 478.16
+  pan_wuyun_location: '458'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jué
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 合
+      韻部: 月
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: kiuɐt
+      pan_wuyun: kʷiɐt
+      wang_li: kĭwɐt
+      pulleyblank: kuat
+      shao_rongfen: kiuɐt
+      zhengzhang_shangfang: kʉɐt
+      karlgren: ki̯wɐt
+    authorial_reconstructions:
+      baxter: kjwot
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𧼞
+
+## Fanqie
+居月
+
+## Mandarin
+jué

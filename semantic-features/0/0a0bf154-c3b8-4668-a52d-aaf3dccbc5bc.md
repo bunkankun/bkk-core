@@ -1,0 +1,9 @@
+---
+uuid: 0a0bf154-c3b8-4668-a52d-aaf3dccbc5bc
+type: semantic-feature
+code: non-emphatic
+source:
+  source_file: semantic-features.xml
+---
+
+# non-emphatic

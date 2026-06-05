@@ -1,0 +1,74 @@
+---
+uuid: 801d2e6d-fc4b-4bc8-8f8b-d0ec5edbc13f
+type: graph
+graphs:
+  attested: 𩩠
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 小骨
+xiaoyun:
+  headword: 捽
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 昨
+    standard: null
+  xiazi:
+    attested: 没
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '21716'
+  pan_wuyun_id: '21884'
+locations:
+  guangyun_location: null
+  baxter_location: 473.32 482.32
+  pan_wuyun_location: '462'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 從
+      等: 一
+      呼: 合
+      韻部: 没
+      調: 入
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: dzuət
+      pan_wuyun: dzuot
+      wang_li: dzuət
+      pulleyblank: dzwət
+      shao_rongfen: dzuət
+      zhengzhang_shangfang: dzuət
+      karlgren: dzʱuət
+    authorial_reconstructions:
+      baxter: dzwot
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𩩠
+
+## Fanqie
+昨没
+
+## Mandarin
+zú

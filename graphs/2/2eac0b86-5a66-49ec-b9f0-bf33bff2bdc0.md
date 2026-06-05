@@ -1,0 +1,74 @@
+---
+uuid: 2eac0b86-5a66-49ec-b9f0-bf33bff2bdc0
+type: graph
+graphs:
+  attested: 貺
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 賜也與也
+xiaoyun:
+  headword: 況
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 許
+    standard: null
+  xiazi:
+    attested: 訪
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18929'
+  pan_wuyun_id: '19075'
+locations:
+  guangyun_location: '426.38'
+  baxter_location: '426.35'
+  pan_wuyun_location: '406'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: kuàng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 三
+      呼: 合
+      韻部: 陽
+      調: 去
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: xiuaŋ
+      pan_wuyun: hʷiɐŋ
+      wang_li: xĭwaŋ
+      pulleyblank: huaŋ
+      shao_rongfen: xiuɑŋ
+      zhengzhang_shangfang: hʉɐŋ
+      karlgren: xiwaŋ
+    authorial_reconstructions:
+      baxter: xjwangH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 兄
+      oc: qhʷaŋs
+    zhengzhang_shangfang:
+      oc: hmaŋs
+      yunbu: 陽
+      phonetic: 兄
+      notes: null
+---
+
+# 貺
+
+## Fanqie
+許訪
+
+## Mandarin
+kuàng

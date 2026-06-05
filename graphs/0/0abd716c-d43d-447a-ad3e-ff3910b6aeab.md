@@ -1,0 +1,74 @@
+---
+uuid: 0abd716c-d43d-447a-ad3e-ff3910b6aeab
+type: graph
+graphs:
+  attested: 告
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 報也説文作告又音捁
+xiaoyun:
+  headword: 誥
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 到
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18450'
+  pan_wuyun_id: '18590'
+locations:
+  guangyun_location: '417.29'
+  baxter_location: '417.27'
+  pan_wuyun_location: '397'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: gào
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 一
+      呼: 開
+      韻部: 豪
+      調: 去
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: kɑu
+      pan_wuyun: kɑu
+      wang_li: kɑu
+      pulleyblank: kaw
+      shao_rongfen: kɑu
+      zhengzhang_shangfang: kɑu
+      karlgren: kɑu
+    authorial_reconstructions:
+      baxter: kawH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 覺1
+      phonetic: 告
+      oc: kuuɡs
+    zhengzhang_shangfang:
+      oc: kuuɡs
+      yunbu: 奥1
+      phonetic: 告
+      notes: null
+---
+
+# 告
+
+## Fanqie
+古到
+
+## Mandarin
+gào

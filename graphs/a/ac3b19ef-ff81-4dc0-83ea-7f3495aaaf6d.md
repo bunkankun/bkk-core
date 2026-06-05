@@ -1,0 +1,74 @@
+---
+uuid: ac3b19ef-ff81-4dc0-83ea-7f3495aaaf6d
+type: graph
+graphs:
+  attested: 潼
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 水名出廣漢郡亦關名又通衝二音
+xiaoyun:
+  headword: 同
+  graph_count: 45
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 紅
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '35'
+  pan_wuyun_id: '35'
+locations:
+  guangyun_location: '023.31'
+  baxter_location: '023.14'
+  pan_wuyun_location: '3'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: tóng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 一
+      呼: 合
+      韻部: 東
+      調: 平
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: duŋ
+      pan_wuyun: duŋ
+      wang_li: duŋ
+      pulleyblank: dəwŋ
+      shao_rongfen: duŋ
+      zhengzhang_shangfang: duŋ
+      karlgren: dʱuŋ
+    authorial_reconstructions:
+      baxter: duwng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 東
+      phonetic: 重
+      oc: dooŋ
+    zhengzhang_shangfang:
+      oc: dooŋ
+      yunbu: 東
+      phonetic: 重
+      notes: null
+---
+
+# 潼
+
+## Fanqie
+徒紅
+
+## Mandarin
+tóng

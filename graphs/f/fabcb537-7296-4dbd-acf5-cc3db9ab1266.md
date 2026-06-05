@@ -1,0 +1,74 @@
+---
+uuid: fabcb537-7296-4dbd-acf5-cc3db9ab1266
+type: graph
+graphs:
+  attested: 鏵
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 同鋘
+xiaoyun:
+  headword: 華
+  graph_count: 10
+fanqie:
+  shangzi:
+    attested: 戶
+    standard: null
+  xiazi:
+    attested: 花
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '6746'
+  pan_wuyun_id: '6799'
+locations:
+  guangyun_location: '165.42'
+  baxter_location: 165.37 166.11 423.35
+  pan_wuyun_location: '145'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同鋘
+pronunciation:
+  mandarin:
+    jin: huá
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 二
+      呼: 合
+      韻部: 麻
+      調: 平
+      重紐: null
+      攝: 假
+    yundianwang_reconstructions:
+      li_rong: ɣua
+      pan_wuyun: ɦʷɯa
+      wang_li: ɣwa
+      pulleyblank: ɦwaɨ
+      shao_rongfen: ɣua
+      zhengzhang_shangfang: ɦɣua
+      karlgren: ɣwa
+    authorial_reconstructions:
+      baxter: hwae
+  old_chinese:
+    pan_wuyun:
+      yunbu: 歌1
+      phonetic: 華
+      oc: ɢʷraal
+    zhengzhang_shangfang:
+      oc: ɡʷraa
+      yunbu: 魚
+      phonetic: 華
+      notes: 见方言同鋘
+---
+
+# 鏵
+
+## Fanqie
+戶花
+
+## Mandarin
+huá

@@ -1,0 +1,74 @@
+---
+uuid: 3bb0b672-c527-4eba-bc3e-fad62237ffcf
+type: graph
+graphs:
+  attested: 䓴
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 木耳
+xiaoyun:
+  headword: 輭
+  graph_count: 18
+fanqie:
+  shangzi:
+    attested: 而
+    standard: null
+  xiazi:
+    attested: 兖
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12403'
+  pan_wuyun_id: '12499'
+locations:
+  guangyun_location: null
+  baxter_location: '293.47'
+  pan_wuyun_location: '273'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: ruǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 日
+      等: 三
+      呼: 合
+      韻部: 仙
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: ȵiuɛn
+      pan_wuyun: ȵʷiɛn
+      wang_li: ȵʑĭwɛn
+      pulleyblank: ȵwian
+      shao_rongfen: ȵʑjuæn
+      zhengzhang_shangfang: ȵiuᴇn
+      karlgren: ȵʑi̯wɛn
+    authorial_reconstructions:
+      baxter: nywenX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䓴
+
+## Fanqie
+而兖
+
+## Mandarin
+ruǎn

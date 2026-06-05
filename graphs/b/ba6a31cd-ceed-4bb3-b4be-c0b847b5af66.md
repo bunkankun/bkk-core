@@ -1,0 +1,74 @@
+---
+uuid: ba6a31cd-ceed-4bb3-b4be-c0b847b5af66
+type: graph
+graphs:
+  attested: 𣬈
+  unemended: null
+  emended: null
+  standardised: 毗
+gloss: 説文曰人齎也今作毗通爲𣬈輔之毗房脂切二十三
+xiaoyun:
+  headword: 毗
+  graph_count: 23
+fanqie:
+  shangzi:
+    attested: 房
+    standard: null
+  xiazi:
+    attested: 脂
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1309'
+  pan_wuyun_id: '1323'
+locations:
+  guangyun_location: '052.06'
+  baxter_location: '052.07'
+  pan_wuyun_location: '32'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: pí
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 並
+      等: 三
+      呼: 開
+      韻部: 脂
+      調: 平
+      重紐: a
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: bi
+      pan_wuyun: bi
+      wang_li: bi
+      pulleyblank: bi
+      shao_rongfen: bjɪ
+      zhengzhang_shangfang: biɪ
+      karlgren: bʱi
+    authorial_reconstructions:
+      baxter: bjij
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: bi
+      yunbu: 脂2
+      phonetic: 比
+      notes: 右囟隶化变田
+---
+
+# 𣬈
+
+## Fanqie
+房脂
+
+## Mandarin
+pí

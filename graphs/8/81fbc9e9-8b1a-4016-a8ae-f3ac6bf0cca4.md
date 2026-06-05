@@ -1,0 +1,74 @@
+---
+uuid: 81fbc9e9-8b1a-4016-a8ae-f3ac6bf0cca4
+type: graph
+graphs:
+  attested: 荈
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 茗草名
+xiaoyun:
+  headword: 舛
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 昌
+    standard: null
+  xiazi:
+    attested: 兖
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12418'
+  pan_wuyun_id: '12515'
+locations:
+  guangyun_location: '294.13'
+  baxter_location: '294.11'
+  pan_wuyun_location: '274'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chuǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 昌
+      等: 三
+      呼: 合
+      韻部: 仙
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: tɕʰiuɛn
+      pan_wuyun: tɕʰʷiɛn
+      wang_li: tɕʰĭwɛn
+      pulleyblank: cʰwian
+      shao_rongfen: tɕʰjuæn
+      zhengzhang_shangfang: tɕʰiuᴇn
+      karlgren: tɕʰi̯wɛn
+    authorial_reconstructions:
+      baxter: tsyhwenX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: 舛
+      oc: thjonʔ
+    zhengzhang_shangfang:
+      oc: thjonʔ
+      yunbu: 元3
+      phonetic: 舛
+      notes: null
+---
+
+# 荈
+
+## Fanqie
+昌兖
+
+## Mandarin
+chuǎn

@@ -1,0 +1,74 @@
+---
+uuid: fc2eaddb-dc18-4e49-8597-faed6d41b7fa
+type: graph
+graphs:
+  attested: 炘
+  unemended: null
+  emended: null
+  standardised: 焮
+gloss: 同焮
+xiaoyun:
+  headword: 焮
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 香
+    standard: null
+  xiazi:
+    attested: 靳
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17327'
+  pan_wuyun_id: '17449'
+locations:
+  guangyun_location: '397.02'
+  baxter_location: '397.01'
+  pan_wuyun_location: '377'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xìn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 三
+      呼: 開
+      韻部: 欣
+      調: 去
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: xiən
+      pan_wuyun: hɨn
+      wang_li: xĭən
+      pulleyblank: hɨn
+      shao_rongfen: xiən
+      zhengzhang_shangfang: hɨn
+      karlgren: xi̯ən
+    authorial_reconstructions:
+      baxter: xj+nH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: qhɯn
+      yunbu: 文1
+      phonetic: 斤
+      notes: 左传作焮
+---
+
+# 炘
+
+## Fanqie
+香靳
+
+## Mandarin
+xìn

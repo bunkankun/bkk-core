@@ -1,0 +1,74 @@
+---
+uuid: 3a0f6ae4-2d22-48dd-b7bf-7febc6e5d03e
+type: graph
+graphs:
+  attested: 𧏾
+  unemended: null
+  emended: null
+  standardised: 𧈟
+gloss: 同𧈟
+xiaoyun:
+  headword: 匿
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 女
+    standard: null
+  xiazi:
+    attested: 力
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '24112'
+  pan_wuyun_id: '24296'
+locations:
+  guangyun_location: '526.04'
+  baxter_location: '526.02'
+  pan_wuyun_location: '506'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 娘
+      等: 三
+      呼: 開
+      韻部: 職
+      調: 入
+      重紐: null
+      攝: 曾
+    yundianwang_reconstructions:
+      li_rong: niək
+      pan_wuyun: ɳɨk
+      wang_li: nĭək
+      pulleyblank: ɳik
+      shao_rongfen: niek
+      zhengzhang_shangfang: ɳɨk
+      karlgren: ni̯ək
+    authorial_reconstructions:
+      baxter: nrik
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𧏾
+
+## Fanqie
+女力
+
+## Mandarin
+nì

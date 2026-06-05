@@ -1,0 +1,49 @@
+---
+uuid: b7c4dfba-6a8d-4c5c-abc5-b433e17a4c27
+type: word
+super_entry_uuid: b9b926f7-4da8-4ac0-b926-f74da87ac006
+super_entry_orth: 燭
+concept: LIGHT
+concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+'n': '2'
+form:
+  orth: 燭
+  graph_uuid: f05206d1-c37d-41ab-ab25-3d40d3182114
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: zhú
+  - lang: zh-x-mc
+    value: tsyowk
+    resp: rec:baxter
+  - lang: zh-x-oc
+    value: tjoɡ
+    resp: rec:pan-wuyun
+senses:
+- uuid: 29294be7-cc12-4583-a4fd-15f232d1a6cc
+  body_number: 1
+  'n': '2'
+  pos: 'N'
+  syntactic_functions:
+  - label: 'n'
+    uuid: 8717712d-14a4-4ae2-be7a-6e18e61d929b
+  provenance:
+    resp: '#CH'
+    created: '2019-10-18T22:35:09.291+09:00'
+source:
+  source_file: uuid-b9b926f7-4da8-4ac0-b926-f74da87ac006.xml
+---
+
+# 燭: LIGHT
+
+- Super-entry: [燭](../../super-entries/b/b9b926f7-4da8-4ac0-b926-f74da87ac006.md)
+- Concept: [LIGHT](../../concepts/6/67a4cfa8-efd2-4dcb-9de8-1c67be7f3697.md)
+
+## Form
+- Orth: [燭](../../graphs/f/f05206d1-c37d-41ab-ab25-3d40d3182114.md)
+  - Pinyin: zhú
+  - Old Chinese: tjoɡ
+  - Middle Chinese: tsyowk
+  - Provenance: zh-x-mc resp=rec:baxter, zh-x-oc resp=rec:pan-wuyun
+
+## Senses
+1. **[n](../../syntactic-functions/8/8717712d-14a4-4ae2-be7a-6e18e61d929b.md)** torch **[2 Attributions](#29294be7-cc12-4583-a4fd-15f232d1a6cc)**

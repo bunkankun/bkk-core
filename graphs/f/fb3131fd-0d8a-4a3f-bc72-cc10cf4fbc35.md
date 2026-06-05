@@ -1,0 +1,74 @@
+---
+uuid: fb3131fd-0d8a-4a3f-bc72-cc10cf4fbc35
+type: graph
+graphs:
+  attested: 鏋
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 金精
+xiaoyun:
+  headword: 滿
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 莫
+    standard: null
+  xiazi:
+    attested: 旱
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11986'
+  pan_wuyun_id: '12080'
+locations:
+  guangyun_location: '286.22'
+  baxter_location: '286.18'
+  pan_wuyun_location: '266'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: �
+pronunciation:
+  mandarin:
+    jin: mǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 一
+      呼: 合
+      韻部: 桓
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: muɑn
+      pan_wuyun: mʷɑn
+      wang_li: muɑn
+      pulleyblank: mwan
+      shao_rongfen: muɑn
+      zhengzhang_shangfang: muɑn
+      karlgren: muɑn
+    authorial_reconstructions:
+      baxter: manX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: _
+      oc: mboonʔ
+    zhengzhang_shangfang:
+      oc: moonʔ
+      yunbu: 元3
+      phonetic: 芇
+      notes: null
+---
+
+# 鏋
+
+## Fanqie
+莫旱
+
+## Mandarin
+mǎn

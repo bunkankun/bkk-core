@@ -1,0 +1,74 @@
+---
+uuid: 61afddee-34dc-4187-a4d2-bdfd1ab996ad
+type: graph
+graphs:
+  attested: 埿
+  unemended: null
+  emended: null
+  standardised: 泥
+gloss: 深泥也蒲鑑切二
+xiaoyun:
+  headword: 泥
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 蒲
+    standard: null
+  xiazi:
+    attested: 鑑
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19892'
+  pan_wuyun_id: '20047'
+locations:
+  guangyun_location: '445.53'
+  baxter_location: 091.30 374.58
+  pan_wuyun_location: '425'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: bàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 並
+      等: 二
+      呼: 開
+      韻部: 銜
+      調: 去
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: bam
+      pan_wuyun: bɯam
+      wang_li: bam
+      pulleyblank: baɨm
+      shao_rongfen: bam
+      zhengzhang_shangfang: bɣam
+      karlgren: bʱam
+    authorial_reconstructions:
+      baxter: nej
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: braams
+      yunbu: 談1
+      phonetic: 埿2
+      notes: 湴同此
+---
+
+# 埿
+
+## Fanqie
+蒲鑑
+
+## Mandarin
+bàn

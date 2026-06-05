@@ -1,0 +1,74 @@
+---
+uuid: 09eb2a6c-6f6e-4ddc-8ac8-6ee8c5cae687
+type: graph
+graphs:
+  attested: 𠂞
+  unemended: null
+  emended: null
+  standardised: 乎
+gloss: 乎古文
+xiaoyun:
+  headword: 胡
+  graph_count: 31
+fanqie:
+  shangzi:
+    attested: 戶
+    standard: null
+  xiazi:
+    attested: 吳
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2660'
+  pan_wuyun_id: '2684'
+locations:
+  guangyun_location: null
+  baxter_location: '081.06'
+  pan_wuyun_location: '61'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: hū
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 一
+      呼: 合
+      韻部: 模
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: ɣo
+      pan_wuyun: ɦuo
+      wang_li: ɣu
+      pulleyblank: ɦɔ
+      shao_rongfen: ɣo
+      zhengzhang_shangfang: ɦuo
+      karlgren: ɣuo
+    authorial_reconstructions:
+      baxter: hu
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: ɢaa
+      yunbu: 魚
+      phonetic: 乎
+      notes: null
+---
+
+# 𠂞
+
+## Fanqie
+戶吳
+
+## Mandarin
+hū

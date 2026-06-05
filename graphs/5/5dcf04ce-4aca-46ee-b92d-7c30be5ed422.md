@@ -1,0 +1,74 @@
+---
+uuid: 5dcf04ce-4aca-46ee-b92d-7c30be5ed422
+type: graph
+graphs:
+  attested: 鄦
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 地名也出史記
+xiaoyun:
+  headword: 許
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 虚
+    standard: null
+  xiazi:
+    attested: 吕
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10673'
+  pan_wuyun_id: '10755'
+locations:
+  guangyun_location: '258.04'
+  baxter_location: '258.03'
+  pan_wuyun_location: '238'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xǔ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 上
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: xiɔ
+      pan_wuyun: hiɔ
+      wang_li: xĭo
+      pulleyblank: hɨə̆
+      shao_rongfen: xiɔ
+      zhengzhang_shangfang: hɨʌ
+      karlgren: xi̯wo
+    authorial_reconstructions:
+      baxter: xjoX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: hmaʔ
+      yunbu: 魚
+      phonetic: 無
+      notes: null
+---
+
+# 鄦
+
+## Fanqie
+虚吕
+
+## Mandarin
+xǔ

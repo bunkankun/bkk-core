@@ -1,0 +1,37 @@
+---
+uuid: 51f6cd40-adb4-47ce-b6cd-40adb427cea2
+type: super-entry
+orth: 勢位
+'n': '1'
+forms:
+- orth: 勢位
+- orth: 勢位
+  graph_uuid: '48f70c90-139f-4de4-8c1b-936927c9ba45 #uuid-90be6953-f049-448f-9fbc-d10e00544baa'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: shì wèi
+  - lang: zh-x-oc
+    value: hŋljads ɢrubs
+  - lang: zh-x-mc
+    value: ɕiɛi ɦi
+entries:
+- uuid: d9ca3147-2ff3-4d97-a9d4-d1b282cb3755
+  sense_count: 1
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  'n': '2'
+source:
+  source_file: uuid-51f6cd40-adb4-47ce-b6cd-40adb427cea2.xml
+---
+
+# Super-entry: 勢位
+
+## Forms
+- Orth: 勢位
+- Orth: [勢](../../graphs/4/48f70c90-139f-4de4-8c1b-936927c9ba45.md)[位](../../graphs/9/90be6953-f049-448f-9fbc-d10e00544baa.md)
+  - Pinyin: shì wèi
+  - Old Chinese: hŋljads ɢrubs
+  - Middle Chinese: ɕiɛi ɦi
+
+## Words
+- [POWER](../../words/d/d9ca3147-2ff3-4d97-a9d4-d1b282cb3755.md) (1 sense, n=2)

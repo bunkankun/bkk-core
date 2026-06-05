@@ -1,0 +1,26 @@
+---
+uuid: c81f92f3-1dcc-4dd6-a9dc-29a1bbebfdaf
+type: concept
+concept: ARMPIT
+zh: 腋窩
+---
+# Concept: ARMPIT
+# Definition
+The HOLLOW under the ARM where THE ARM is JOINed IN-RELATION-TO the TRUNK of an ANIMAL.
+# Criteria and general notes
+## Old Chinese Criteria
+[BASIC/MARGINAL]
+[COMMON/RARE]
+1. The specific word for the armpit is yè [[腋]].
+[BASIC]; [[COMMON]]
+2. Xié [[脅]] "ribs" can be used to refer to the area of the armpits, and the word is also used for "carrying under one's armpit".
+[MARGINAL]; [[RARE]]
+## Modern Chinese Criteria
+腋
+胳肢窩 gāzhiwò
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+# Ontology
+
+## Hypernym
+[ARM](../e/ecc07637-d5e4-423c-ba73-fd1fc67d033f.md)
+# Words

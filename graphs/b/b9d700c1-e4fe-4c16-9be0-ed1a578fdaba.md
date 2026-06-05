@@ -1,0 +1,74 @@
+---
+uuid: b9d700c1-e4fe-4c16-9be0-ed1a578fdaba
+type: graph
+graphs:
+  attested: 櫅
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 櫅榆堪作車轂爾雅云白棗也
+xiaoyun:
+  headword: 齎
+  graph_count: 16
+fanqie:
+  shangzi:
+    attested: 祖
+    standard: null
+  xiazi:
+    attested: 稽
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '3150'
+  pan_wuyun_id: '3179'
+locations:
+  guangyun_location: null
+  baxter_location: 052.40 091.09
+  pan_wuyun_location: '71'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jī
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 精
+      等: 四
+      呼: 開
+      韻部: 齊
+      調: 平
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: tsei
+      pan_wuyun: tsei
+      wang_li: tsiei
+      pulleyblank: tsɛj
+      shao_rongfen: tsɛi
+      zhengzhang_shangfang: tsei
+      karlgren: tsiei
+    authorial_reconstructions:
+      baxter: tsej
+  old_chinese:
+    pan_wuyun:
+      yunbu: 脂1
+      phonetic: 齊
+      oc: null
+    zhengzhang_shangfang:
+      oc: ʔsliil
+      yunbu: 脂1
+      phonetic: 齊
+      notes: 祖由相校改
+---
+
+# 櫅
+
+## Fanqie
+祖稽
+
+## Mandarin
+jī

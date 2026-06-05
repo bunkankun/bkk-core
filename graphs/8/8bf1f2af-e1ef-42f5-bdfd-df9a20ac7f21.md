@@ -1,0 +1,74 @@
+---
+uuid: 8bf1f2af-e1ef-42f5-bdfd-df9a20ac7f21
+type: graph
+graphs:
+  attested: 旞
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 羽繫旌上
+xiaoyun:
+  headword: 遂
+  graph_count: 24
+fanqie:
+  shangzi:
+    attested: 徐
+    standard: null
+  xiazi:
+    attested: 醉
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '14947'
+  pan_wuyun_id: '15049'
+locations:
+  guangyun_location: '350.26'
+  baxter_location: '350.22'
+  pan_wuyun_location: '330'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: suì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 邪
+      等: 三
+      呼: 合
+      韻部: 脂
+      調: 去
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: zui
+      pan_wuyun: zʷi
+      wang_li: zwi
+      pulleyblank: zwi
+      shao_rongfen: zjuɪ
+      zhengzhang_shangfang: ziuɪ
+      karlgren: zwi
+    authorial_reconstructions:
+      baxter: zwijH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月3
+      phonetic: 隊
+      oc: sɢluds
+    zhengzhang_shangfang:
+      oc: ljuds
+      yunbu: 隊3
+      phonetic: 遂
+      notes: null
+---
+
+# 旞
+
+## Fanqie
+徐醉
+
+## Mandarin
+suì

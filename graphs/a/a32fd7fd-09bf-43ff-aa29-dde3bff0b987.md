@@ -1,0 +1,74 @@
+---
+uuid: a32fd7fd-09bf-43ff-aa29-dde3bff0b987
+type: graph
+graphs:
+  attested: null
+  unemended: 𥝤
+  emended: 𥝢
+  standardised: 利
+gloss: 利古文
+xiaoyun:
+  headword: 利
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 力
+    standard: null
+  xiazi:
+    attested: 至
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '15062'
+  pan_wuyun_id: '15164'
+locations:
+  guangyun_location: null
+  baxter_location: '352.37'
+  pan_wuyun_location: '332'
+notes:
+  pan_wuyun_note_on_guangyun: 原作"𥝤"據周校
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 三
+      呼: 開
+      韻部: 脂
+      調: 去
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: li
+      pan_wuyun: li
+      wang_li: li
+      pulleyblank: li
+      shao_rongfen: ljɪ
+      zhengzhang_shangfang: liɪ
+      karlgren: li
+    authorial_reconstructions:
+      baxter: lijH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 質1
+      phonetic: 利
+      oc: rids
+    zhengzhang_shangfang:
+      oc: rids
+      yunbu: 至1
+      phonetic: 利
+      notes: null
+---
+
+# 利 (standardized)
+
+## Fanqie
+力至
+
+## Mandarin
+lì

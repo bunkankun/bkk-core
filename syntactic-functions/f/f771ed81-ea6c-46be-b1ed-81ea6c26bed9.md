@@ -1,0 +1,14 @@
+---
+uuid: f771ed81-ea6c-46be-b1ed-81ea6c26bed9
+type: syntactic-function
+code: npropost.VtoN
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2026-03-20T08:07:57.04+09:00'
+---
+
+# npropost.VtoN
+
+## Description
+indirect object: for the benefit of npro

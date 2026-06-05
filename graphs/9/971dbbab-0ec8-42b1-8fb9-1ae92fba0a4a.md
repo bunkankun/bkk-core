@@ -1,0 +1,74 @@
+---
+uuid: 971dbbab-0ec8-42b1-8fb9-1ae92fba0a4a
+type: graph
+graphs:
+  attested: 灘
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 水濡而乾説文呼旰他丹二切
+xiaoyun:
+  headword: 罕
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 呼
+    standard: null
+  xiazi:
+    attested: 旱
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11910'
+  pan_wuyun_id: '12003'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '264'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: hǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 一
+      呼: 開
+      韻部: 寒
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: xɑn
+      pan_wuyun: hɑn
+      wang_li: xɑn
+      pulleyblank: han
+      shao_rongfen: xɑn
+      zhengzhang_shangfang: hɑn
+      karlgren: xɑn
+    authorial_reconstructions:
+      baxter: null
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元1
+      phonetic: 堇
+      oc: qhlaanʔ
+    zhengzhang_shangfang:
+      oc: nhaan
+      yunbu: 元1
+      phonetic: 暵
+      notes: null
+---
+
+# 灘
+
+## Fanqie
+呼旱
+
+## Mandarin
+hǎn

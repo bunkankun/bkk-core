@@ -1,0 +1,12 @@
+---
+uuid: 50cd6a6c-4fc5-4a7b-ae99-ddea8e058be6
+type: syntactic-function
+code: vadN{TOPIC}.+V{COMMENT}
+source:
+  source_file: syntactic-functions.xml
+---
+
+# vadN{TOPIC}.+V{COMMENT}
+
+## Description
+verb preceding a nominal topic, that whole expression being followed by a verbal predicate.

@@ -1,0 +1,48 @@
+---
+uuid: 79fefab0-ce5a-433b-befa-b0ce5a233bd1
+type: word
+super_entry_uuid: b624f648-9997-40f4-a4f6-489997e0f42c
+super_entry_orth: 勒
+concept: CONTROL
+concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+'n': '0'
+form:
+  orth: 勒
+  graph_uuid: 5adc6558-ea8e-4ee3-a118-875d17fb56b7
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: lè
+  - lang: zh-x-mc
+    value: lok
+    resp: rec:baxter
+  - lang: zh-x-oc
+    value: ɡ-rɯɯɡ
+    resp: rec:pan-wuyun
+senses:
+- uuid: 1f4d17fa-e7c4-453a-8d17-fae7c4053a38
+  body_number: 1
+  pos: V
+  syntactic_functions:
+  - label: vtoN
+    uuid: fbfb2371-2537-4a99-a876-41b15ec2463c
+  provenance:
+    resp: '#CH'
+    created: '2022-08-26T20:38:16.653+09:00'
+source:
+  source_file: uuid-b624f648-9997-40f4-a4f6-489997e0f42c.xml
+---
+
+# 勒: CONTROL
+
+- Super-entry: [勒](../../super-entries/b/b624f648-9997-40f4-a4f6-489997e0f42c.md)
+- Concept: [CONTROL](../../concepts/d/dfc9d96d-84c1-4c62-a62d-02d46f969149.md)
+
+## Form
+- Orth: [勒](../../graphs/5/5adc6558-ea8e-4ee3-a118-875d17fb56b7.md)
+  - Pinyin: lè
+  - Old Chinese: ɡ-rɯɯɡ
+  - Middle Chinese: lok
+  - Provenance: zh-x-mc resp=rec:baxter, zh-x-oc resp=rec:pan-wuyun
+
+## Senses
+1. **[vtoN](../../syntactic-functions/f/fbfb2371-2537-4a99-a876-41b15ec2463c.md)** get under control

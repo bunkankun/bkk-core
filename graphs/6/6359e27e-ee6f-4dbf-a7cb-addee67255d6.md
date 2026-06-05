@@ -1,0 +1,74 @@
+---
+uuid: 6359e27e-ee6f-4dbf-a7cb-addee67255d6
+type: graph
+graphs:
+  attested: 𡅽
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 同嚾出説文
+xiaoyun:
+  headword: 喚
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 火
+    standard: null
+  xiazi:
+    attested: 貫
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17692'
+  pan_wuyun_id: '17820'
+locations:
+  guangyun_location: '401.55'
+  baxter_location: '404.05'
+  pan_wuyun_location: '384'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: huàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 一
+      呼: 合
+      韻部: 桓
+      調: 去
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: xuɑn
+      pan_wuyun: hʷɑn
+      wang_li: xuɑn
+      pulleyblank: hwan
+      shao_rongfen: xuɑn
+      zhengzhang_shangfang: huɑn
+      karlgren: xuɑn
+    authorial_reconstructions:
+      baxter: xwanH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𡅽
+
+## Fanqie
+火貫
+
+## Mandarin
+huàn

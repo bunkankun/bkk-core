@@ -1,0 +1,74 @@
+---
+uuid: 0baef0f0-c1bd-4af3-abf9-7c141ad91d82
+type: graph
+graphs:
+  attested: 濘
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 濘陷
+xiaoyun:
+  headword: 泥
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 奴
+    standard: null
+  xiazi:
+    attested: 計
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '16172'
+  pan_wuyun_id: '16284'
+locations:
+  guangyun_location: null
+  baxter_location: 091.30 374.58
+  pan_wuyun_location: '355'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 泥
+      等: 四
+      呼: 開
+      韻部: 齊
+      調: 去
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: nei
+      pan_wuyun: nei
+      wang_li: niei
+      pulleyblank: nɛj
+      shao_rongfen: nɛi
+      zhengzhang_shangfang: nei
+      karlgren: niei
+    authorial_reconstructions:
+      baxter: nej
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 寧
+      oc: nees
+    zhengzhang_shangfang:
+      oc: nees
+      yunbu: 支
+      phonetic: 寧
+      notes: null
+---
+
+# 濘
+
+## Fanqie
+奴計
+
+## Mandarin
+nì

@@ -1,0 +1,74 @@
+---
+uuid: b5c34f2f-c14a-463c-aabf-7dea193a6e3d
+type: graph
+graphs:
+  attested: 髶
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 髮飾
+xiaoyun:
+  headword: 二
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 而
+    standard: null
+  xiazi:
+    attested: 至
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '15145'
+  pan_wuyun_id: '15247'
+locations:
+  guangyun_location: '354.07'
+  baxter_location: '354.03'
+  pan_wuyun_location: '334'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: èr
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 日
+      等: 三
+      呼: 開
+      韻部: 脂
+      調: 去
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ȵi
+      pan_wuyun: ȵi
+      wang_li: ȵʑi
+      pulleyblank: ȵi
+      shao_rongfen: ȵʑjɪ
+      zhengzhang_shangfang: ȵiɪ
+      karlgren: ȵʑi
+    authorial_reconstructions:
+      baxter: nyijH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: njis
+      yunbu: 脂2
+      phonetic: 耳
+      notes: null
+---
+
+# 髶
+
+## Fanqie
+而至
+
+## Mandarin
+èr

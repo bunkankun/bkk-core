@@ -1,0 +1,74 @@
+---
+uuid: fae452d1-50f2-448d-890e-abdcbef9bb8f
+type: graph
+graphs:
+  attested: 𥉺
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 𥉺𥅧
+xiaoyun:
+  headword: 窒
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 丁
+    standard: null
+  xiazi:
+    attested: 結
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '22508'
+  pan_wuyun_id: '22680'
+locations:
+  guangyun_location: null
+  baxter_location: 470.09 496.11
+  pan_wuyun_location: '476'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dié
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 端
+      等: 四
+      呼: 開
+      韻部: 屑
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: tet
+      pan_wuyun: tet
+      wang_li: tiet
+      pulleyblank: tɛt
+      shao_rongfen: tɛt
+      zhengzhang_shangfang: tet
+      karlgren: tiet
+    authorial_reconstructions:
+      baxter: trit
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𥉺
+
+## Fanqie
+丁結
+
+## Mandarin
+dié

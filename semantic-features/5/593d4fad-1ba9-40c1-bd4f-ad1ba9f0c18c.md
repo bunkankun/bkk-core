@@ -1,0 +1,11 @@
+---
+uuid: 593d4fad-1ba9-40c1-bd4f-ad1ba9f0c18c
+type: semantic-feature
+code: N2 PART of N1
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2024-06-30T18:09:04.733+09:00'
+---
+
+# N2 PART of N1

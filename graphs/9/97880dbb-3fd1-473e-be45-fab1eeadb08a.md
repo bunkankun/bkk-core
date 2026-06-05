@@ -1,0 +1,74 @@
+---
+uuid: 97880dbb-3fd1-473e-be45-fab1eeadb08a
+type: graph
+graphs:
+  attested: 編
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 編綃方典切一曰次第也又卑連切十一
+xiaoyun:
+  headword: 編
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 方
+    standard: null
+  xiazi:
+    attested: 典
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12161'
+  pan_wuyun_id: '12255'
+locations:
+  guangyun_location: null
+  baxter_location: 136.20 141.33 289.34
+  pan_wuyun_location: '269'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: biǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 四
+      呼: 開
+      韻部: 先
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: pen
+      pan_wuyun: pen
+      wang_li: pien
+      pulleyblank: pɛn
+      shao_rongfen: pɛn
+      zhengzhang_shangfang: pen
+      karlgren: pien
+    authorial_reconstructions:
+      baxter: penX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元2
+      phonetic: 扁
+      oc: peenʔ
+    zhengzhang_shangfang:
+      oc: pen
+      yunbu: 元2
+      phonetic: 扁
+      notes: null
+---
+
+# 編
+
+## Fanqie
+方典
+
+## Mandarin
+biǎn

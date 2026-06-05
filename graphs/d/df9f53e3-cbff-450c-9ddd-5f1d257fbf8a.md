@@ -1,0 +1,74 @@
+---
+uuid: df9f53e3-cbff-450c-9ddd-5f1d257fbf8a
+type: graph
+graphs:
+  attested: 鏕
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 鉅鏕郡名案漢書只作鹿
+xiaoyun:
+  headword: 祿
+  graph_count: 47
+fanqie:
+  shangzi:
+    attested: 盧
+    standard: null
+  xiazi:
+    attested: 谷
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '20071'
+  pan_wuyun_id: '20227'
+locations:
+  guangyun_location: null
+  baxter_location: '450.39'
+  pan_wuyun_location: '431'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lù
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 一
+      呼: 合
+      韻部: 屋
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: luk
+      pan_wuyun: luk
+      wang_li: luk
+      pulleyblank: ləwk
+      shao_rongfen: luk
+      zhengzhang_shangfang: luk
+      karlgren: luk
+    authorial_reconstructions:
+      baxter: luwk
+  old_chinese:
+    pan_wuyun:
+      yunbu: 屋
+      phonetic: 鹿
+      oc: b-rooɡ
+    zhengzhang_shangfang:
+      oc: rooɡ
+      yunbu: 屋
+      phonetic: 鹿
+      notes: 汉书作鉅鹿，类化
+---
+
+# 鏕
+
+## Fanqie
+盧谷
+
+## Mandarin
+lù

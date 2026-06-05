@@ -1,0 +1,74 @@
+---
+uuid: 7a2dbefa-d1c0-43dd-aceb-747b8a6242a4
+type: graph
+graphs:
+  attested: 𦓷
+  unemended: null
+  emended: null
+  standardised: 耘
+gloss: 同𦔐
+xiaoyun:
+  headword: 雲
+  graph_count: 22
+fanqie:
+  shangzi:
+    attested: 王
+    standard: null
+  xiazi:
+    attested: 分
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '4121'
+  pan_wuyun_id: '4158'
+locations:
+  guangyun_location: '110.04'
+  baxter_location: '109.46'
+  pan_wuyun_location: '90'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yún
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 云
+      等: 三
+      呼: 合
+      韻部: 文
+      調: 平
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: ɣiuən
+      pan_wuyun: ɦiun
+      wang_li: ɣĭuən
+      pulleyblank: ɦun
+      shao_rongfen: ɣiuən
+      zhengzhang_shangfang: ɦɨun
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: hjun
+  old_chinese:
+    pan_wuyun:
+      yunbu: 文2
+      phonetic: 云
+      oc: ɢun
+    zhengzhang_shangfang:
+      oc: ɢun
+      yunbu: 文2
+      phonetic: 云
+      notes: 説文從員
+---
+
+# 𦓷
+
+## Fanqie
+王分
+
+## Mandarin
+yún

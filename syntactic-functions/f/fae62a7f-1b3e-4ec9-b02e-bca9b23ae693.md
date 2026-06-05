@@ -1,0 +1,15 @@
+---
+uuid: fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+type: syntactic-function
+code: nab.post-N
+source:
+  source_file: syntactic-functions.xml
+---
+
+# nab.post-N
+
+## Description
+abstract noun modified by a preceding nominal expression.
+
+## Notes
+One needs to investigate which of the npost-N in our system should really be recategorised as nab.post-N. The more general point is that the subcategorisation of nouns has not so far been implemented systematically when these enter complex constructions.

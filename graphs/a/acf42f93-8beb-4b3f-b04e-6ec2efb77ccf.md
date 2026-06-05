@@ -1,0 +1,74 @@
+---
+uuid: acf42f93-8beb-4b3f-b04e-6ec2efb77ccf
+type: graph
+graphs:
+  attested: 獿
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 獸名
+xiaoyun:
+  headword: 猱
+  graph_count: 8
+fanqie:
+  shangzi:
+    attested: 奴
+    standard: null
+  xiazi:
+    attested: 刀
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '6399'
+  pan_wuyun_id: '6453'
+locations:
+  guangyun_location: '158.51'
+  baxter_location: 158.44 436.42
+  pan_wuyun_location: '138'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: náo
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 泥
+      等: 一
+      呼: 開
+      韻部: 豪
+      調: 平
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: nɑu
+      pan_wuyun: nɑu
+      wang_li: nɑu
+      pulleyblank: naw
+      shao_rongfen: nɑu
+      zhengzhang_shangfang: nɑu
+      karlgren: nɑu
+    authorial_reconstructions:
+      baxter: naw
+  old_chinese:
+    pan_wuyun:
+      yunbu: 宵1
+      phonetic: 夒
+      oc: naaw
+    zhengzhang_shangfang:
+      oc: nuuw
+      yunbu: 幽1
+      phonetic: 夒
+      notes: null
+---
+
+# 獿
+
+## Fanqie
+奴刀
+
+## Mandarin
+náo

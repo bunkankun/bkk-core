@@ -1,0 +1,74 @@
+---
+uuid: aed96bd9-ba9e-4603-b367-ca4aba145ebd
+type: graph
+graphs:
+  attested: 氏
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 月氏國名又閼氏匈奴皇后也又精是二音
+xiaoyun:
+  headword: 支
+  graph_count: 30
+fanqie:
+  shangzi:
+    attested: 章
+    standard: null
+  xiazi:
+    attested: 移
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '782'
+  pan_wuyun_id: '791'
+locations:
+  guangyun_location: '041.03'
+  baxter_location: '040.36'
+  pan_wuyun_location: '21'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhī
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: tɕie
+      pan_wuyun: tɕiɛ
+      wang_li: tɕǐe
+      pulleyblank: ciə̆
+      shao_rongfen: tɕjɛ
+      zhengzhang_shangfang: tɕiᴇ
+      karlgren: tɕie̯
+    authorial_reconstructions:
+      baxter: tsye
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 氏
+      oc: kje
+    zhengzhang_shangfang:
+      oc: skeŋ
+      yunbu: 耕
+      phonetic: 氏
+      notes: 汉县
+---
+
+# 氏
+
+## Fanqie
+章移
+
+## Mandarin
+zhī

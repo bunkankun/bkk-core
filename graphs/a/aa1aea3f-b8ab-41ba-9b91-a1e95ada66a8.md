@@ -1,0 +1,74 @@
+---
+uuid: aa1aea3f-b8ab-41ba-9b91-a1e95ada66a8
+type: graph
+graphs:
+  attested: 櫖
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 諸櫖山櫐爾雅作慮
+xiaoyun:
+  headword: 臚
+  graph_count: 17
+fanqie:
+  shangzi:
+    attested: 力
+    standard: null
+  xiazi:
+    attested: 居
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2163'
+  pan_wuyun_id: '2183'
+locations:
+  guangyun_location: '070.12'
+  baxter_location: '069.47'
+  pan_wuyun_location: '50'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lǘ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: liɔ
+      pan_wuyun: liɔ
+      wang_li: lĭo
+      pulleyblank: lɨə̆
+      shao_rongfen: liɔ
+      zhengzhang_shangfang: lɨʌ
+      karlgren: li̯wo
+    authorial_reconstructions:
+      baxter: ljo
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: ra
+      yunbu: 魚
+      phonetic: 虍
+      notes: null
+---
+
+# 櫖
+
+## Fanqie
+力居
+
+## Mandarin
+lǘ

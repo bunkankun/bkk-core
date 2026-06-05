@@ -1,0 +1,74 @@
+---
+uuid: 804fcf5f-faf0-4955-bfbc-a69f1bee7ff9
+type: graph
+graphs:
+  attested: 𤗇
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 穿垣出文字集略
+xiaoyun:
+  headword: 控
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 苦
+    standard: null
+  xiazi:
+    attested: 貢
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '14598'
+  pan_wuyun_id: '14702'
+locations:
+  guangyun_location: null
+  baxter_location: 040.09 342.30
+  pan_wuyun_location: '322'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: kòng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 溪
+      等: 一
+      呼: 合
+      韻部: 東
+      調: 去
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: kʰuŋ
+      pan_wuyun: kʰuŋ
+      wang_li: kʰuŋ
+      pulleyblank: kʰəwŋ
+      shao_rongfen: kʰuŋ
+      zhengzhang_shangfang: kʰuŋ
+      karlgren: kʰuŋ
+    authorial_reconstructions:
+      baxter: khuwngH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𤗇
+
+## Fanqie
+苦貢
+
+## Mandarin
+kòng

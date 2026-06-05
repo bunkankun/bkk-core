@@ -1,0 +1,74 @@
+---
+uuid: 6c68d9d8-cfaa-4f05-bf37-ecee6ed85be2
+type: graph
+graphs:
+  attested: 抧
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 開也
+xiaoyun:
+  headword: 紙
+  graph_count: 16
+fanqie:
+  shangzi:
+    attested: 諸
+    standard: null
+  xiazi:
+    attested: 氏
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '9969'
+  pan_wuyun_id: '10045'
+locations:
+  guangyun_location: '240.37'
+  baxter_location: '240.25'
+  pan_wuyun_location: '220'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhǐ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 上
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: tɕie
+      pan_wuyun: tɕiɛ
+      wang_li: tɕǐe
+      pulleyblank: ciə̆
+      shao_rongfen: tɕjɛ
+      zhengzhang_shangfang: tɕiᴇ
+      karlgren: tɕie̯
+    authorial_reconstructions:
+      baxter: tsyeX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 只
+      oc: kljeʔ
+    zhengzhang_shangfang:
+      oc: kljeʔ
+      yunbu: 支
+      phonetic: 只
+      notes: null
+---
+
+# 抧
+
+## Fanqie
+諸氏
+
+## Mandarin
+zhǐ

@@ -1,0 +1,74 @@
+---
+uuid: 82e92be9-cd35-4ebe-afcf-783ebc42eecc
+type: graph
+graphs:
+  attested: 𤸵
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 𤸵𤻱痞病又音歩
+xiaoyun:
+  headword: 怖
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 普
+    standard: null
+  xiazi:
+    attested: 故
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '15893'
+  pan_wuyun_id: '16004'
+locations:
+  guangyun_location: '369.50'
+  baxter_location: '369.46'
+  pan_wuyun_location: '349'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: pù
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 滂
+      等: 一
+      呼: 合
+      韻部: 模
+      調: 去
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: pʰo
+      pan_wuyun: pʰuo
+      wang_li: pʰu
+      pulleyblank: pʰɔ
+      shao_rongfen: pʰo
+      zhengzhang_shangfang: pʰuo
+      karlgren: pʰuo
+    authorial_reconstructions:
+      baxter: phuH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𤸵
+
+## Fanqie
+普故
+
+## Mandarin
+pù

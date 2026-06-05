@@ -1,0 +1,74 @@
+---
+uuid: ed4f7ce3-dc90-4ef3-ba68-84cd42ea9ec9
+type: graph
+graphs:
+  attested: 只
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 專辝又之爾切
+xiaoyun:
+  headword: 支
+  graph_count: 30
+fanqie:
+  shangzi:
+    attested: 章
+    standard: null
+  xiazi:
+    attested: 移
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '768'
+  pan_wuyun_id: '777'
+locations:
+  guangyun_location: '040.38'
+  baxter_location: '040.36'
+  pan_wuyun_location: '20'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhī
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: tɕie
+      pan_wuyun: tɕiɛ
+      wang_li: tɕǐe
+      pulleyblank: ciə̆
+      shao_rongfen: tɕjɛ
+      zhengzhang_shangfang: tɕiᴇ
+      karlgren: tɕie̯
+    authorial_reconstructions:
+      baxter: tsye
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 只
+      oc: klje
+    zhengzhang_shangfang:
+      oc: klje
+      yunbu: 支
+      phonetic: 只
+      notes: null
+---
+
+# 只
+
+## Fanqie
+章移
+
+## Mandarin
+zhī

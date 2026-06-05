@@ -1,0 +1,14 @@
+---
+uuid: 4244ff5d-c5ce-46cb-84ff-5dc5ce36cbae
+type: syntactic-function
+code: vt[oN.]adV
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2022-09-01T18:09:59.261+09:00'
+---
+
+# vt[oN.]adV
+
+## Description
+vt[oN.]adV

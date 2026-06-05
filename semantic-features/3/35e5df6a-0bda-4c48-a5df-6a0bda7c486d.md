@@ -1,0 +1,11 @@
+---
+uuid: 35e5df6a-0bda-4c48-a5df-6a0bda7c486d
+type: semantic-feature
+code: inversion, emphatic
+source:
+  source_file: semantic-features.xml
+  resp: '#dsehnal'
+  created: '2024-05-15T04:34:27.13+09:00'
+---
+
+# inversion, emphatic

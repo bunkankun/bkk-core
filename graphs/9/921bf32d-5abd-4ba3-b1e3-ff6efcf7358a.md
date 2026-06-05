@@ -1,0 +1,74 @@
+---
+uuid: 921bf32d-5abd-4ba3-b1e3-ff6efcf7358a
+type: graph
+graphs:
+  attested: 𢘉
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 𢘉喜
+xiaoyun:
+  headword: 狎
+  graph_count: 11
+fanqie:
+  shangzi:
+    attested: 胡
+    standard: null
+  xiazi:
+    attested: 甲
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '25224'
+  pan_wuyun_id: '25415'
+locations:
+  guangyun_location: '544.28'
+  baxter_location: '544.20'
+  pan_wuyun_location: '524'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xiá
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 二
+      呼: 開
+      韻部: 狎
+      調: 入
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: ɣap
+      pan_wuyun: ɦɯap
+      wang_li: ɣap
+      pulleyblank: ɦaɨp
+      shao_rongfen: ɣap
+      zhengzhang_shangfang: ɦɣap
+      karlgren: ɣap
+    authorial_reconstructions:
+      baxter: haep
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𢘉
+
+## Fanqie
+胡甲
+
+## Mandarin
+xiá

@@ -1,0 +1,48 @@
+---
+uuid: de07c225-f28b-485c-8d00-7eea3aadfcaf
+type: bibliography
+citation_label: FENG ZUOMIN 1983
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Baihua Zhanguoce
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zuomin
+  family: Feng
+  script: Latn
+  names:
+  - script: Latn
+    given: Zuomin
+    transliteration: chinese/ala-lc
+    family: Feng
+  - script: Hant
+    given: 作民
+    family: 馮
+origin:
+  place: Taibei
+  publisher: Xingguangchubanshe
+  date_issued: '1983'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# FENG ZUOMIN 1983
+
+## Title
+**Baihua Zhanguoce**
+
+## Contributors
+- Zuomin Feng / 馮作民, author
+
+## Publication
+Taibei: Xingguangchubanshe, 1983.

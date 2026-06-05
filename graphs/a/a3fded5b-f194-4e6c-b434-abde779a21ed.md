@@ -1,0 +1,74 @@
+---
+uuid: a3fded5b-f194-4e6c-b434-abde779a21ed
+type: graph
+graphs:
+  attested: null
+  unemended: 𩐅
+  emended: 㪪
+  standardised: null
+gloss: 㪪[立攴]起也出新字林
+xiaoyun:
+  headword: 𠎷
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 私
+    standard: null
+  xiazi:
+    attested: 盍
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '24814'
+  pan_wuyun_id: '25002'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '517'
+notes:
+  pan_wuyun_note_on_guangyun: 原作"𩐅"，據周改
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: sà
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 一
+      呼: 開
+      韻部: 盍
+      調: 入
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: sɑp
+      pan_wuyun: sɑp
+      wang_li: sɑp
+      pulleyblank: sap
+      shao_rongfen: sɑp
+      zhengzhang_shangfang: sɑp
+      karlgren: sɑp
+    authorial_reconstructions:
+      baxter: null
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# a3fded5b-f194-4e6c-b434-abde779a21ed
+
+## Fanqie
+私盍
+
+## Mandarin
+sà

@@ -1,0 +1,74 @@
+---
+uuid: 704f12ca-fe06-4ca9-a37a-bd4cd4bd92ca
+type: graph
+graphs:
+  attested: 鐕
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 無蓋釘也
+xiaoyun:
+  headword: 簪
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 作
+    standard: null
+  xiazi:
+    attested: 含
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '9315'
+  pan_wuyun_id: '9383'
+locations:
+  guangyun_location: '222.45'
+  baxter_location: 220.37 222.39
+  pan_wuyun_location: '202'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 精
+      等: 一
+      呼: 開
+      韻部: 覃
+      調: 平
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: tsᴀm
+      pan_wuyun: tsəm
+      wang_li: tsɒm
+      pulleyblank: tsəm
+      shao_rongfen: tsɒm
+      zhengzhang_shangfang: tsʌm
+      karlgren: tsăm
+    authorial_reconstructions:
+      baxter: tsom
+  old_chinese:
+    pan_wuyun:
+      yunbu: 侵1
+      phonetic: 兓
+      oc: skɯɯm
+    zhengzhang_shangfang:
+      oc: ʔsluum
+      yunbu: 侵3
+      phonetic: 兓
+      notes: null
+---
+
+# 鐕
+
+## Fanqie
+作含
+
+## Mandarin
+zān

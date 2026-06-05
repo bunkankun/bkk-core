@@ -1,0 +1,74 @@
+---
+uuid: d0b5e447-fbcb-4c66-8fbb-b84f189fce6d
+type: graph
+graphs:
+  attested: 奵
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 嫇奵
+xiaoyun:
+  headword: 頂
+  graph_count: 13
+fanqie:
+  shangzi:
+    attested: 都
+    standard: null
+  xiazi:
+    attested: 挺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13665'
+  pan_wuyun_id: '13767'
+locations:
+  guangyun_location: '319.38'
+  baxter_location: '319.35'
+  pan_wuyun_location: '299'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dǐng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 端
+      等: 四
+      呼: 開
+      韻部: 青
+      調: 上
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: teŋ
+      pan_wuyun: teŋ
+      wang_li: tieŋ
+      pulleyblank: tɛjŋ
+      shao_rongfen: tɛŋ
+      zhengzhang_shangfang: teŋ
+      karlgren: tieŋ
+    authorial_reconstructions:
+      baxter: tengX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 耕
+      phonetic: 丁
+      oc: teeŋʔ
+    zhengzhang_shangfang:
+      oc: teeŋʔ
+      yunbu: 耕
+      phonetic: 丁
+      notes: null
+---
+
+# 奵
+
+## Fanqie
+都挺
+
+## Mandarin
+dǐng

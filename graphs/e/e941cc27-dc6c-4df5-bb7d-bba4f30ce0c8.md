@@ -1,0 +1,74 @@
+---
+uuid: e941cc27-dc6c-4df5-bb7d-bba4f30ce0c8
+type: graph
+graphs:
+  attested: 孈
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 愚戇又多態也
+xiaoyun:
+  headword: 畫
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 胡
+    standard: null
+  xiazi:
+    attested: 卦
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '16627'
+  pan_wuyun_id: '16744'
+locations:
+  guangyun_location: '383.55'
+  baxter_location: 383.47 513.25
+  pan_wuyun_location: '363'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: huà
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 二
+      呼: 合
+      韻部: 佳
+      調: 去
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: ɣuɛ
+      pan_wuyun: ɦʷɯæ
+      wang_li: ɣwai
+      pulleyblank: ɦwaɨj
+      shao_rongfen: ɣuæi
+      zhengzhang_shangfang: ɦɣuɛ
+      karlgren: ɣwai
+    authorial_reconstructions:
+      baxter: hweaH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 佳
+      phonetic: 巂
+      oc: ɡʷrees
+    zhengzhang_shangfang:
+      oc: ɢweʔ
+      yunbu: 支
+      phonetic: 巂
+      notes: 此据《王一》尤尔反、集韵羽委切，余校改合口韋委切，按重四应同羊捶切
+---
+
+# 孈
+
+## Fanqie
+胡卦
+
+## Mandarin
+huà

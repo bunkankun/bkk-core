@@ -1,0 +1,74 @@
+---
+uuid: ffeffda3-abdc-419b-890a-5ed35279aab9
+type: graph
+graphs:
+  attested: 農
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 田農也説文作䢉耕也亦官名漢書曰治粟内史秦官也景帝更名大司農又姓風俗通云神農之後又羌複姓有蘇農氏奴冬切十二
+xiaoyun:
+  headword: 農
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 奴
+    standard: null
+  xiazi:
+    attested: 冬
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '398'
+  pan_wuyun_id: '402'
+locations:
+  guangyun_location: '033.21'
+  baxter_location: '033.21'
+  pan_wuyun_location: '13'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nóng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 泥
+      等: 一
+      呼: 合
+      韻部: 冬
+      調: 平
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: noŋ
+      pan_wuyun: nuoŋ
+      wang_li: nuoŋ
+      pulleyblank: nawŋ
+      shao_rongfen: noŋ
+      zhengzhang_shangfang: nuoŋ
+      karlgren: nuoŋ
+    authorial_reconstructions:
+      baxter: nowng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 中
+      phonetic: 囟
+      oc: nuuŋ
+    zhengzhang_shangfang:
+      oc: nuuŋ
+      yunbu: 終
+      phonetic: 農
+      notes: 金文从田不从囟
+---
+
+# 農
+
+## Fanqie
+奴冬
+
+## Mandarin
+nóng

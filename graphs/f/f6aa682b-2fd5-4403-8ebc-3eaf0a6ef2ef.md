@@ -1,0 +1,74 @@
+---
+uuid: f6aa682b-2fd5-4403-8ebc-3eaf0a6ef2ef
+type: graph
+graphs:
+  attested: 蒙
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 覆也奄也爾雅𥼶草曰蒙王女也莫紅切二十六
+xiaoyun:
+  headword: 蒙
+  graph_count: 27
+fanqie:
+  shangzi:
+    attested: 莫
+    standard: null
+  xiazi:
+    attested: 紅
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '204'
+  pan_wuyun_id: '205'
+locations:
+  guangyun_location: '029.13'
+  baxter_location: '029.13'
+  pan_wuyun_location: '9'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: méng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 一
+      呼: 合
+      韻部: 東
+      調: 平
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: muŋ
+      pan_wuyun: muŋ
+      wang_li: muŋ
+      pulleyblank: məwŋ
+      shao_rongfen: muŋ
+      zhengzhang_shangfang: muŋ
+      karlgren: muŋ
+    authorial_reconstructions:
+      baxter: muwng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 東
+      phonetic: 冡
+      oc: mooŋ
+    zhengzhang_shangfang:
+      oc: mooŋ
+      yunbu: 東
+      phonetic: 冡
+      notes: null
+---
+
+# 蒙
+
+## Fanqie
+莫紅
+
+## Mandarin
+méng

@@ -1,0 +1,74 @@
+---
+uuid: b063da9d-0cfd-40d1-a0a0-000bdce53beb
+type: graph
+graphs:
+  attested: 𩾺
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 鵧鳥
+xiaoyun:
+  headword: 馾
+  graph_count: 3
+fanqie:
+  shangzi:
+    attested: 丁
+    standard: null
+  xiazi:
+    attested: 紺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19702'
+  pan_wuyun_id: '19857'
+locations:
+  guangyun_location: '442.27'
+  baxter_location: '442.25'
+  pan_wuyun_location: '422'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 端
+      等: 一
+      呼: 開
+      韻部: 覃
+      調: 去
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: tᴀm
+      pan_wuyun: təm
+      wang_li: tɒm
+      pulleyblank: təm
+      shao_rongfen: tɒm
+      zhengzhang_shangfang: tʌm
+      karlgren: tăm
+    authorial_reconstructions:
+      baxter: tomH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𩾺
+
+## Fanqie
+丁紺
+
+## Mandarin
+dàn

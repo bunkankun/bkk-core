@@ -1,0 +1,74 @@
+---
+uuid: 07b41bde-2bfa-454c-af1c-def0edb66587
+type: graph
+graphs:
+  attested: 酐
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 苦酒
+xiaoyun:
+  headword: 汻
+  graph_count: 3
+fanqie:
+  shangzi:
+    attested: 呼
+    standard: null
+  xiazi:
+    attested: 朗
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13474'
+  pan_wuyun_id: '13576'
+locations:
+  guangyun_location: '315.38'
+  baxter_location: '315.37'
+  pan_wuyun_location: '295'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: hǎng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 一
+      呼: 開
+      韻部: 唐
+      調: 上
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: xɑŋ
+      pan_wuyun: hɑŋ
+      wang_li: xɑŋ
+      pulleyblank: haŋ
+      shao_rongfen: xɑŋ
+      zhengzhang_shangfang: hɑŋ
+      karlgren: xɑŋ
+    authorial_reconstructions:
+      baxter: xangX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: qhaaŋʔ
+      yunbu: 陽
+      phonetic: 干
+      notes: null
+---
+
+# 酐
+
+## Fanqie
+呼朗
+
+## Mandarin
+hǎng

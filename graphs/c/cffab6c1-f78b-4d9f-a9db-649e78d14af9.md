@@ -1,0 +1,74 @@
+---
+uuid: cffab6c1-f78b-4d9f-a9db-649e78d14af9
+type: graph
+graphs:
+  attested: 謾
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 欺謾
+xiaoyun:
+  headword: 慢
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 謨
+    standard: null
+  xiazi:
+    attested: 晏
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '17764'
+  pan_wuyun_id: '17894'
+locations:
+  guangyun_location: '404.26'
+  baxter_location: '405.21'
+  pan_wuyun_location: '385'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: màn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 二
+      呼: 開
+      韻部: 删
+      調: 去
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: man
+      pan_wuyun: mɯan
+      wang_li: man
+      pulleyblank: maɨn
+      shao_rongfen: mɐn
+      zhengzhang_shangfang: mɣan
+      karlgren: man
+    authorial_reconstructions:
+      baxter: maenH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: 曼
+      oc: mroons
+    zhengzhang_shangfang:
+      oc: mroon
+      yunbu: 元3
+      phonetic: 曼
+      notes: null
+---
+
+# 謾
+
+## Fanqie
+謨晏
+
+## Mandarin
+màn

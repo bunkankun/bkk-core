@@ -1,0 +1,74 @@
+---
+uuid: f09eaee3-fb48-4bee-bfaf-65c7637ebdf8
+type: graph
+graphs:
+  attested: 滅
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 盡也絶也亡列切二
+xiaoyun:
+  headword: 滅
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 亡
+    standard: null
+  xiazi:
+    attested: 列
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '22607'
+  pan_wuyun_id: '22779'
+locations:
+  guangyun_location: '498.12'
+  baxter_location: '498.12'
+  pan_wuyun_location: '478'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: miè
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 三
+      呼: 開
+      韻部: 薛
+      調: 入
+      重紐: a
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: miɛt
+      pan_wuyun: miɛt
+      wang_li: mĭɛt
+      pulleyblank: miat
+      shao_rongfen: mjæt
+      zhengzhang_shangfang: miᴇt
+      karlgren: mi̯ɛt
+    authorial_reconstructions:
+      baxter: mjiet
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月2
+      phonetic: 戌
+      oc: med
+    zhengzhang_shangfang:
+      oc: med
+      yunbu: 月2
+      phonetic: 戌
+      notes: 烕转注
+---
+
+# 滅
+
+## Fanqie
+亡列
+
+## Mandarin
+miè

@@ -1,0 +1,74 @@
+---
+uuid: 9e26caa5-ebf1-44bc-acbd-89e25dd5a282
+type: graph
+graphs:
+  attested: 㶛
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 水名
+xiaoyun:
+  headword: 余
+  graph_count: 29
+fanqie:
+  shangzi:
+    attested: 以
+    standard: null
+  xiazi:
+    attested: 諸
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2055'
+  pan_wuyun_id: '2076'
+locations:
+  guangyun_location: '067.43'
+  baxter_location: 067.40 169.01
+  pan_wuyun_location: '47'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 以
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: n/a
+      pan_wuyun: jiɔ
+      wang_li: jĭo
+      pulleyblank: jɨə̆
+      shao_rongfen: n/a
+      zhengzhang_shangfang: jɨʌ
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: yo
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㶛
+
+## Fanqie
+以諸
+
+## Mandarin
+yú

@@ -1,0 +1,74 @@
+---
+uuid: cf400d6f-6cea-433d-bcc7-b43ec4aeef54
+type: graph
+graphs:
+  attested: 鍇
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 鐡也
+xiaoyun:
+  headword: 皆
+  graph_count: 19
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 諧
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '3332'
+  pan_wuyun_id: '3363'
+locations:
+  guangyun_location: '094.27'
+  baxter_location: '094.09'
+  pan_wuyun_location: '74'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jiē
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 二
+      呼: 開
+      韻部: 皆
+      調: 平
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: kɛi
+      pan_wuyun: kɯæi
+      wang_li: kɐi
+      pulleyblank: kəɨj
+      shao_rongfen: kɐi
+      zhengzhang_shangfang: kɣɛi
+      karlgren: kăi
+    authorial_reconstructions:
+      baxter: keaj
+  old_chinese:
+    pan_wuyun:
+      yunbu: 質1
+      phonetic: 皆
+      oc: kriid
+    zhengzhang_shangfang:
+      oc: kriil
+      yunbu: 脂1
+      phonetic: 皆
+      notes: null
+---
+
+# 鍇
+
+## Fanqie
+古諧
+
+## Mandarin
+jiē

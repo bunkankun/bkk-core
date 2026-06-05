@@ -1,0 +1,74 @@
+---
+uuid: 50ae3baa-f8c7-4e66-b366-9af0ffa4be4d
+type: graph
+graphs:
+  attested: 詈
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 罵詈力智切六
+xiaoyun:
+  headword: 詈
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 力
+    standard: null
+  xiazi:
+    attested: 智
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '14751'
+  pan_wuyun_id: '14855'
+locations:
+  guangyun_location: '346.19'
+  baxter_location: '346.19'
+  pan_wuyun_location: '326'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: lì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 去
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: lie
+      pan_wuyun: liɛ
+      wang_li: lǐe
+      pulleyblank: liə̆
+      shao_rongfen: ljɛ
+      zhengzhang_shangfang: liᴇ
+      karlgren: lie̯
+    authorial_reconstructions:
+      baxter: ljeH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 歌1
+      phonetic: 詈
+      oc: rals
+    zhengzhang_shangfang:
+      oc: rals
+      yunbu: 歌1
+      phonetic: 詈
+      notes: null
+---
+
+# 詈
+
+## Fanqie
+力智
+
+## Mandarin
+lì

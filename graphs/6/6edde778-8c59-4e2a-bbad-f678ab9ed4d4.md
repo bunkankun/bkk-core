@@ -1,0 +1,74 @@
+---
+uuid: 6edde778-8c59-4e2a-bbad-f678ab9ed4d4
+type: graph
+graphs:
+  attested: 猵
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 獺屬又音邊
+xiaoyun:
+  headword: 牝
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 毗
+    standard: null
+  xiazi:
+    attested: 忍
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11477'
+  pan_wuyun_id: '11566'
+locations:
+  guangyun_location: null
+  baxter_location: 249.05 276.12
+  pan_wuyun_location: '256'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: bìn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 並
+      等: 三
+      呼: 開
+      韻部: 真
+      調: 上
+      重紐: a
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: biĕn
+      pan_wuyun: bin
+      wang_li: bĭĕn
+      pulleyblank: bin
+      shao_rongfen: bjen
+      zhengzhang_shangfang: biɪn
+      karlgren: bʱi̯ĕn
+    authorial_reconstructions:
+      baxter: bjijX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: peen
+      yunbu: 元2
+      phonetic: 扁
+      notes: null
+---
+
+# 猵
+
+## Fanqie
+毗忍
+
+## Mandarin
+bìn

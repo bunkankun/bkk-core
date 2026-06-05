@@ -1,0 +1,9 @@
+---
+uuid: d84bf7d5-3cfd-4d4c-bf03-0c76af93cf6a
+type: syntactic-function
+code: npost-V{NUM}.postYOU:post-N
+source:
+  source_file: syntactic-functions.xml
+---
+
+# npost-V{NUM}.postYOU:post-N

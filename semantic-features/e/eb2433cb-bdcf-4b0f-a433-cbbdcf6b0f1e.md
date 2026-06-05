@@ -1,0 +1,11 @@
+---
+uuid: eb2433cb-bdcf-4b0f-a433-cbbdcf6b0f1e
+type: semantic-feature
+code: non-referential, abstract
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2024-04-22T10:16:10.113+09:00'
+---
+
+# non-referential, abstract

@@ -1,0 +1,74 @@
+---
+uuid: e6339fbb-f64f-4dee-a2db-03ccacd8750d
+type: graph
+graphs:
+  attested: 顀
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 項顀
+xiaoyun:
+  headword: 鎚
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 直
+    standard: null
+  xiazi:
+    attested: 追
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1593'
+  pan_wuyun_id: '1609'
+locations:
+  guangyun_location: '058.19'
+  baxter_location: 058.15 097.51 356.04
+  pan_wuyun_location: '38'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chuí
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 澄
+      等: 三
+      呼: 合
+      韻部: 脂
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ȡjui
+      pan_wuyun: ɖʷɯi
+      wang_li: ȡwi
+      pulleyblank: ɖjwi
+      shao_rongfen: ȡiuɪ
+      zhengzhang_shangfang: ɖɣiuɪ
+      karlgren: ȡʱwi
+    authorial_reconstructions:
+      baxter: drwij
+  old_chinese:
+    pan_wuyun:
+      yunbu: 微2
+      phonetic: 隹
+      oc: ɡrlul
+    zhengzhang_shangfang:
+      oc: dul
+      yunbu: 微2
+      phonetic: 隹
+      notes: null
+---
+
+# 顀
+
+## Fanqie
+直追
+
+## Mandarin
+chuí

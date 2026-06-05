@@ -1,0 +1,74 @@
+---
+uuid: ddd911a5-eb4d-4a5e-a1d7-ea30f1b91f1a
+type: graph
+graphs:
+  attested: 疛
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 説文曰小腹痛
+xiaoyun:
+  headword: 肘
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 陟
+    standard: null
+  xiazi:
+    attested: 柳
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13791'
+  pan_wuyun_id: '13894'
+locations:
+  guangyun_location: '322.10'
+  baxter_location: '322.09'
+  pan_wuyun_location: '302'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhǒu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 知
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 上
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: ȶiu
+      pan_wuyun: ʈiu
+      wang_li: ȶĭəu
+      pulleyblank: ʈuw
+      shao_rongfen: ȶiəu
+      zhengzhang_shangfang: ʈɨu
+      karlgren: ȶi̯ə̯u
+    authorial_reconstructions:
+      baxter: trjuwX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: tuʔ
+      yunbu: 幽1
+      phonetic: 肘
+      notes: null
+---
+
+# 疛
+
+## Fanqie
+陟柳
+
+## Mandarin
+zhǒu

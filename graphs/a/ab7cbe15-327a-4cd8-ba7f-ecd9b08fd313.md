@@ -1,0 +1,74 @@
+---
+uuid: ab7cbe15-327a-4cd8-ba7f-ecd9b08fd313
+type: graph
+graphs:
+  attested: 矖
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 視也
+xiaoyun:
+  headword: 躧
+  graph_count: 11
+fanqie:
+  shangzi:
+    attested: 所
+    standard: null
+  xiazi:
+    attested: 綺
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10142'
+  pan_wuyun_id: '10220'
+locations:
+  guangyun_location: '244.43'
+  baxter_location: 244.35 271.14
+  pan_wuyun_location: '224'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xǐ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 生
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 上
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ʃje
+      pan_wuyun: ʃɯiɛ
+      wang_li: ʃǐe
+      pulleyblank: ʂjiə̆
+      shao_rongfen: ʃiɛ
+      zhengzhang_shangfang: ʃɣiᴇ
+      karlgren: ʂie̯
+    authorial_reconstructions:
+      baxter: srjeX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: rel
+      yunbu: 歌2
+      phonetic: 丽
+      notes: null
+---
+
+# 矖
+
+## Fanqie
+所綺
+
+## Mandarin
+xǐ

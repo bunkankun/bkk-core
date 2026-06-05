@@ -1,0 +1,74 @@
+---
+uuid: 200a7382-f244-4c5e-badd-b7b9fbdff0ce
+type: graph
+graphs:
+  attested: 珌
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 佩刀上飾
+xiaoyun:
+  headword: 必
+  graph_count: 27
+fanqie:
+  shangzi:
+    attested: 卑
+    standard: null
+  xiazi:
+    attested: 吉
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '21102'
+  pan_wuyun_id: '21264'
+locations:
+  guangyun_location: '471.10'
+  baxter_location: '470.56'
+  pan_wuyun_location: '451'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: bì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 三
+      呼: 開
+      韻部: 質
+      調: 入
+      重紐: a
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: piĕt
+      pan_wuyun: pit
+      wang_li: pĭĕt
+      pulleyblank: pit
+      shao_rongfen: pjet
+      zhengzhang_shangfang: piɪt
+      karlgren: pi̯ĕt
+    authorial_reconstructions:
+      baxter: pjit
+  old_chinese:
+    pan_wuyun:
+      yunbu: 質2
+      phonetic: 必
+      oc: piɡ
+    zhengzhang_shangfang:
+      oc: pliɡ
+      yunbu: 質2
+      phonetic: 必
+      notes: null
+---
+
+# 珌
+
+## Fanqie
+卑吉
+
+## Mandarin
+bì

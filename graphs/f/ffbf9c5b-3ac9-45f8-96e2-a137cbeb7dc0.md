@@ -1,0 +1,74 @@
+---
+uuid: ffbf9c5b-3ac9-45f8-96e2-a137cbeb7dc0
+type: graph
+graphs:
+  attested: 㹁
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 牻牛駁色
+xiaoyun:
+  headword: 良
+  graph_count: 18
+fanqie:
+  shangzi:
+    attested: 呂
+    standard: null
+  xiazi:
+    attested: 張
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '7008'
+  pan_wuyun_id: '7058'
+locations:
+  guangyun_location: '172.14'
+  baxter_location: '171.33'
+  pan_wuyun_location: '152'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: liáng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 來
+      等: 三
+      呼: 開
+      韻部: 陽
+      調: 平
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: liaŋ
+      pan_wuyun: liɐŋ
+      wang_li: lĭaŋ
+      pulleyblank: lɨaŋ
+      shao_rongfen: liɑŋ
+      zhengzhang_shangfang: lɨɐŋ
+      karlgren: li̯aŋ
+    authorial_reconstructions:
+      baxter: ljang
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㹁
+
+## Fanqie
+呂張
+
+## Mandarin
+liáng

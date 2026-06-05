@@ -1,0 +1,74 @@
+---
+uuid: dcb0b935-a90c-45c3-bfeb-391eaffab6ec
+type: graph
+graphs:
+  attested: 𢍏
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 説文曰博飯也隷省作眷字類從此俗作灷
+xiaoyun:
+  headword: 眷
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 居
+    standard: null
+  xiazi:
+    attested: 倦
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18067'
+  pan_wuyun_id: '18201'
+locations:
+  guangyun_location: null
+  baxter_location: '410.31'
+  pan_wuyun_location: '390'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: juàn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 合
+      韻部: 仙
+      調: 去
+      重紐: b
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: kjuɛn
+      pan_wuyun: kʷɯiɛn
+      wang_li: kĭwɛn
+      pulleyblank: kwian
+      shao_rongfen: kiuæn
+      zhengzhang_shangfang: kɣiuᴇn
+      karlgren: ki̯wɛn
+    authorial_reconstructions:
+      baxter: kjwenH
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𢍏
+
+## Fanqie
+居倦
+
+## Mandarin
+juàn

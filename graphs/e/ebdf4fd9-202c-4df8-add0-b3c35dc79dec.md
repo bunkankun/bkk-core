@@ -1,0 +1,74 @@
+---
+uuid: ebdf4fd9-202c-4df8-add0-b3c35dc79dec
+type: graph
+graphs:
+  attested: 𧃝
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 瑞草也
+xiaoyun:
+  headword: 醜
+  graph_count: 3
+fanqie:
+  shangzi:
+    attested: 昌
+    standard: null
+  xiazi:
+    attested: 九
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13812'
+  pan_wuyun_id: '13915'
+locations:
+  guangyun_location: '322.31'
+  baxter_location: '322.30'
+  pan_wuyun_location: '302'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chǒu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 昌
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 上
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: tɕʰiu
+      pan_wuyun: tɕʰiu
+      wang_li: tɕʰĭəu
+      pulleyblank: cʰuw
+      shao_rongfen: tɕʰiəu
+      zhengzhang_shangfang: tɕʰɨu
+      karlgren: tɕʰi̯ə̯u
+    authorial_reconstructions:
+      baxter: tsyhuwX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𧃝
+
+## Fanqie
+昌九
+
+## Mandarin
+chǒu

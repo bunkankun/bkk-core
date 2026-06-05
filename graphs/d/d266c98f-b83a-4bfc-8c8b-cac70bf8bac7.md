@@ -1,0 +1,74 @@
+---
+uuid: d266c98f-b83a-4bfc-8c8b-cac70bf8bac7
+type: graph
+graphs:
+  attested: 鄂
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 國名在武昌又姓漢安平侯卾君
+xiaoyun:
+  headword: 咢
+  graph_count: 26
+fanqie:
+  shangzi:
+    attested: 五
+    standard: null
+  xiazi:
+    attested: 各
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '23048'
+  pan_wuyun_id: '23223'
+locations:
+  guangyun_location: '506.34'
+  baxter_location: '506.32'
+  pan_wuyun_location: '486'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: è
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 疑
+      等: 一
+      呼: 開
+      韻部: 鐸
+      調: 入
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: ŋɑk
+      pan_wuyun: ŋɑk
+      wang_li: ŋɑk
+      pulleyblank: ŋak
+      shao_rongfen: ŋɑk
+      zhengzhang_shangfang: ŋɑk
+      karlgren: ŋɑk
+    authorial_reconstructions:
+      baxter: ngak
+  old_chinese:
+    pan_wuyun:
+      yunbu: 鐸
+      phonetic: 屰
+      oc: ŋɡlaaɡ
+    zhengzhang_shangfang:
+      oc: ŋaaɡ
+      yunbu: 鐸
+      phonetic: 屰
+      notes: null
+---
+
+# 鄂
+
+## Fanqie
+五各
+
+## Mandarin
+è

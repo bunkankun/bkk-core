@@ -1,0 +1,9 @@
+---
+uuid: bedce81f-bac5-4537-8e1f-191c7ff90bdb
+type: semantic-feature
+code: analogy
+source:
+  source_file: semantic-features.xml
+---
+
+# analogy

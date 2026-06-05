@@ -1,0 +1,74 @@
+---
+uuid: 3ad2b19e-f6a6-4eb0-8fcd-d8fe81bcc753
+type: graph
+graphs:
+  attested: 紩
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 縫紩
+xiaoyun:
+  headword: 秩
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 直
+    standard: null
+  xiazi:
+    attested: 一
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '20947'
+  pan_wuyun_id: '21109'
+locations:
+  guangyun_location: '468.20'
+  baxter_location: '468.19'
+  pan_wuyun_location: '448'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 澄
+      等: 三
+      呼: 開
+      韻部: 質
+      調: 入
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: ȡjĕt
+      pan_wuyun: ɖɯit
+      wang_li: ȡĭĕt
+      pulleyblank: ɖjit
+      shao_rongfen: ȡiet
+      zhengzhang_shangfang: ɖɣiɪt
+      karlgren: ȡʱi̯ĕt
+    authorial_reconstructions:
+      baxter: drit
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: l'iɡ
+      yunbu: 質2
+      phonetic: 失
+      notes: null
+---
+
+# 紩
+
+## Fanqie
+直一
+
+## Mandarin
+zhì

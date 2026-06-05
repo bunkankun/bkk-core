@@ -1,0 +1,74 @@
+---
+uuid: 81855ddf-37bd-4b23-bcdd-bf49fbee8b05
+type: graph
+graphs:
+  attested: 頤
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 頥養也説文亦同𦣞
+xiaoyun:
+  headword: 飴
+  graph_count: 27
+fanqie:
+  shangzi:
+    attested: 與
+    standard: null
+  xiazi:
+    attested: 之
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1636'
+  pan_wuyun_id: '1653'
+locations:
+  guangyun_location: '059.07'
+  baxter_location: '058.46'
+  pan_wuyun_location: '39'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yí
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 以
+      等: 三
+      呼: 開
+      韻部: 之
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: n/a
+      pan_wuyun: jɨ
+      wang_li: jĭə
+      pulleyblank: jɨ
+      shao_rongfen: n/a
+      zhengzhang_shangfang: jɨ
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: yi
+  old_chinese:
+    pan_wuyun:
+      yunbu: 之
+      phonetic: 頤
+      oc: k-lɯ
+    zhengzhang_shangfang:
+      oc: lɯ
+      yunbu: 之
+      phonetic: 頤
+      notes: 说文正体无頁此篆文
+---
+
+# 頤
+
+## Fanqie
+與之
+
+## Mandarin
+yí

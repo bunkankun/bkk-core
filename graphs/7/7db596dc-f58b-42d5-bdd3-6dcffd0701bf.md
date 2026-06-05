@@ -1,0 +1,74 @@
+---
+uuid: 7db596dc-f58b-42d5-bdd3-6dcffd0701bf
+type: graph
+graphs:
+  attested: 瀆
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 説文曰溝也一曰邑中溝爾雅曰江河淮濟爲四瀆
+xiaoyun:
+  headword: 獨
+  graph_count: 30
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 谷
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19952'
+  pan_wuyun_id: '20107'
+locations:
+  guangyun_location: '449.20'
+  baxter_location: '448.08'
+  pan_wuyun_location: '429'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 一
+      呼: 合
+      韻部: 屋
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: duk
+      pan_wuyun: duk
+      wang_li: duk
+      pulleyblank: dəwk
+      shao_rongfen: duk
+      zhengzhang_shangfang: duk
+      karlgren: dʱuk
+    authorial_reconstructions:
+      baxter: duwk
+  old_chinese:
+    pan_wuyun:
+      yunbu: 屋
+      phonetic: 賣
+      oc: ɡ-looɡ
+    zhengzhang_shangfang:
+      oc: l'ooɡ
+      yunbu: 屋
+      phonetic: 儥
+      notes: null
+---
+
+# 瀆
+
+## Fanqie
+徒谷
+
+## Mandarin
+dú

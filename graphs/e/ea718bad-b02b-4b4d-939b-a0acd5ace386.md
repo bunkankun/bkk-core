@@ -1,0 +1,74 @@
+---
+uuid: ea718bad-b02b-4b4d-939b-a0acd5ace386
+type: graph
+graphs:
+  attested: 眄
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 斜視又亡見切
+xiaoyun:
+  headword: 㨠
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 彌
+    standard: null
+  xiazi:
+    attested: 殄
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12156'
+  pan_wuyun_id: '12250'
+locations:
+  guangyun_location: '289.29'
+  baxter_location: '289.26'
+  pan_wuyun_location: '269'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: miǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 四
+      呼: 開
+      韻部: 先
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: men
+      pan_wuyun: men
+      wang_li: mien
+      pulleyblank: mɛn
+      shao_rongfen: mɛn
+      zhengzhang_shangfang: men
+      karlgren: mien
+    authorial_reconstructions:
+      baxter: menX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元2
+      phonetic: 丏
+      oc: mbiinʔ
+    zhengzhang_shangfang:
+      oc: meenʔ
+      yunbu: 元2
+      phonetic: 丏
+      notes: null
+---
+
+# 眄
+
+## Fanqie
+彌殄
+
+## Mandarin
+miǎn

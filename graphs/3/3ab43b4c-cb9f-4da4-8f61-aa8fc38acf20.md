@@ -1,0 +1,74 @@
+---
+uuid: 3ab43b4c-cb9f-4da4-8f61-aa8fc38acf20
+type: graph
+graphs:
+  attested: 𣫴
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 姓也
+xiaoyun:
+  headword: 攜
+  graph_count: 23
+fanqie:
+  shangzi:
+    attested: 戶
+    standard: null
+  xiazi:
+    attested: 圭
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '3220'
+  pan_wuyun_id: '3250'
+locations:
+  guangyun_location: null
+  baxter_location: '092.22'
+  pan_wuyun_location: '72'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xié
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 四
+      呼: 合
+      韻部: 齊
+      調: 平
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: ɣuei
+      pan_wuyun: ɦʷei
+      wang_li: ɣiwei
+      pulleyblank: ɦwɛj
+      shao_rongfen: ɣuɛi
+      zhengzhang_shangfang: ɦwei
+      karlgren: ɣiwei
+    authorial_reconstructions:
+      baxter: hwej
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𣫴
+
+## Fanqie
+戶圭
+
+## Mandarin
+xié

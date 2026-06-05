@@ -1,0 +1,9 @@
+---
+uuid: a1dafc5b-7fa1-4048-b1c0-0eaaeaa6f12a
+type: semantic-feature
+code: suffer-impact
+source:
+  source_file: semantic-features.xml
+---
+
+# suffer-impact

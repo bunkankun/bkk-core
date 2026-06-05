@@ -1,0 +1,74 @@
+---
+uuid: feec6dc7-dd19-4a3f-9aeb-d6dd58301a80
+type: graph
+graphs:
+  attested: 澩
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 動水聲下巧切説文音學六
+xiaoyun:
+  headword: 澩
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 下
+    standard: null
+  xiazi:
+    attested: 巧
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12703'
+  pan_wuyun_id: '12801'
+locations:
+  guangyun_location: '299.34'
+  baxter_location: 299.34 464.33 467.30
+  pan_wuyun_location: '279'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xiào
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 二
+      呼: 開
+      韻部: 肴
+      調: 上
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: ɣau
+      pan_wuyun: ɦɯau
+      wang_li: ɣau
+      pulleyblank: ɦaɨw
+      shao_rongfen: ɣau
+      zhengzhang_shangfang: ɦɣau
+      karlgren: ɣau
+    authorial_reconstructions:
+      baxter: haewX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽1
+      phonetic: 學
+      oc: ɡruuʔ
+    zhengzhang_shangfang:
+      oc: ɡruuʔ
+      yunbu: 幽1
+      phonetic: 學
+      notes: null
+---
+
+# 澩
+
+## Fanqie
+下巧
+
+## Mandarin
+xiào

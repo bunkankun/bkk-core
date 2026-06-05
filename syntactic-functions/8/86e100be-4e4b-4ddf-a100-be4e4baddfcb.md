@@ -1,0 +1,11 @@
+---
+uuid: 86e100be-4e4b-4ddf-a100-be4e4baddfcb
+type: syntactic-function
+code: nproadV
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2024-04-02T12:20:25.825+09:00'
+---
+
+# nproadV

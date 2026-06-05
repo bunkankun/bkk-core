@@ -1,0 +1,74 @@
+---
+uuid: 5cbaaffe-e8c8-4bbd-82d0-264848aa2bb2
+type: graph
+graphs:
+  attested: 幌
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 帷幔也晉惠起居注云有雲母幌
+xiaoyun:
+  headword: 晃
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 胡
+    standard: null
+  xiazi:
+    attested: 廣
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13451'
+  pan_wuyun_id: '13553'
+locations:
+  guangyun_location: '315.15'
+  baxter_location: '315.14'
+  pan_wuyun_location: '295'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: huàng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 匣
+      等: 一
+      呼: 合
+      韻部: 唐
+      調: 上
+      重紐: null
+      攝: 宕
+    yundianwang_reconstructions:
+      li_rong: ɣuɑŋ
+      pan_wuyun: ɦʷɑŋ
+      wang_li: ɣuɑŋ
+      pulleyblank: ɦwaŋ
+      shao_rongfen: ɣuɑŋ
+      zhengzhang_shangfang: ɦwɑŋ
+      karlgren: ɣwɑŋ
+    authorial_reconstructions:
+      baxter: hwangX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 光
+      oc: ɡʷaaŋʔ
+    zhengzhang_shangfang:
+      oc: ɡʷaaŋʔ
+      yunbu: 陽
+      phonetic: 光
+      notes: null
+---
+
+# 幌
+
+## Fanqie
+胡廣
+
+## Mandarin
+huàng

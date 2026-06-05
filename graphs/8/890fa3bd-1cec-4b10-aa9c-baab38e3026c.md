@@ -1,0 +1,74 @@
+---
+uuid: 890fa3bd-1cec-4b10-aa9c-baab38e3026c
+type: graph
+graphs:
+  attested: 廚
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 説文曰庖屋也俗作厨直誅切五
+xiaoyun:
+  headword: 廚
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 直
+    standard: null
+  xiazi:
+    attested: 誅
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '2597'
+  pan_wuyun_id: '2620'
+locations:
+  guangyun_location: '080.13'
+  baxter_location: '080.13'
+  pan_wuyun_location: '60'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 澄
+      等: 三
+      呼: 合
+      韻部: 虞
+      調: 平
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: ȡio
+      pan_wuyun: ɖio
+      wang_li: ȡĭu
+      pulleyblank: ɖuə̆
+      shao_rongfen: ȡio
+      zhengzhang_shangfang: ɖɨo
+      karlgren: ȡʱi̯u
+    authorial_reconstructions:
+      baxter: drju
+  old_chinese:
+    pan_wuyun:
+      yunbu: 侯
+      phonetic: 壴
+      oc: do
+    zhengzhang_shangfang:
+      oc: do
+      yunbu: 侯
+      phonetic: 壴
+      notes: 后又转注为橱
+---
+
+# 廚
+
+## Fanqie
+直誅
+
+## Mandarin
+chú

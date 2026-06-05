@@ -1,0 +1,74 @@
+---
+uuid: dd32e435-efab-489c-ab3d-02eadb297eb9
+type: graph
+graphs:
+  attested: 濡
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 水名出涿郡乃官切一
+xiaoyun:
+  headword: 濡
+  graph_count: 1
+fanqie:
+  shangzi:
+    attested: 乃
+    standard: null
+  xiazi:
+    attested: 官
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '4706'
+  pan_wuyun_id: '4745'
+locations:
+  guangyun_location: '075.18'
+  baxter_location: 075.18 123.32
+  pan_wuyun_location: '103'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 原列寒韵末集韻列桓韵
+pronunciation:
+  mandarin:
+    jin: nuán
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 泥
+      等: 一
+      呼: 合
+      韻部: 桓
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: nuɑn
+      pan_wuyun: nʷɑn
+      wang_li: nuɑn
+      pulleyblank: nwan
+      shao_rongfen: nuɑn
+      zhengzhang_shangfang: nuɑn
+      karlgren: nuɑn
+    authorial_reconstructions:
+      baxter: nwan
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: 而
+      oc: noon
+    zhengzhang_shangfang:
+      oc: njo
+      yunbu: 侯
+      phonetic: 需
+      notes: 需转注字
+---
+
+# 濡
+
+## Fanqie
+乃官
+
+## Mandarin
+nuán

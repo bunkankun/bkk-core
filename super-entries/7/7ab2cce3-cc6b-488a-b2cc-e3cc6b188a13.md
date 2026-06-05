@@ -1,0 +1,37 @@
+---
+uuid: 7ab2cce3-cc6b-488a-b2cc-e3cc6b188a13
+type: super-entry
+orth: 魯公子野
+'n': '1'
+forms:
+- orth: 魯公子野
+- orth: 魯公子野
+  graph_uuid: 'f8f76629-6ed0-44b8-befb-c4ddabf7d6fc #uuid-70c383f8-2df7-4ea7-b7de-c35874bb4e03 #uuid-07663ff4-7717-4a8f-a2d7-0c53aea2ca19 #uuid-35aad878-a61d-4368-8e00-10c916814ff8'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: lǔ gōng zǐ yě
+  - lang: zh-x-oc
+    value: ɡ-raaʔ klooŋ sklɯʔ laʔ
+  - lang: zh-x-mc
+    value: luo̝ kuŋ tsɨ jɣɛ
+entries:
+- uuid: 18a3c146-943e-4bf1-bb5d-2679764fc3c2
+  sense_count: 1
+  concept: ARISTOCRATS OF LU
+  concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+  'n': '0'
+source:
+  source_file: uuid-7ab2cce3-cc6b-488a-b2cc-e3cc6b188a13.xml
+---
+
+# Super-entry: 魯公子野
+
+## Forms
+- Orth: 魯公子野
+- Orth: [魯](../../graphs/f/f8f76629-6ed0-44b8-befb-c4ddabf7d6fc.md)[公](../../graphs/7/70c383f8-2df7-4ea7-b7de-c35874bb4e03.md)[子](../../graphs/0/07663ff4-7717-4a8f-a2d7-0c53aea2ca19.md)[野](../../graphs/3/35aad878-a61d-4368-8e00-10c916814ff8.md)
+  - Pinyin: lǔ gōng zǐ yě
+  - Old Chinese: ɡ-raaʔ klooŋ sklɯʔ laʔ
+  - Middle Chinese: luo̝ kuŋ tsɨ jɣɛ
+
+## Words
+- [ARISTOCRATS OF LU](../../words/1/18a3c146-943e-4bf1-bb5d-2679764fc3c2.md) (1 sense, n=0)

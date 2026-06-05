@@ -1,0 +1,51 @@
+---
+uuid: e422f4dd-ba08-4ee9-a2f4-ddba08cee98f
+type: word
+super_entry_uuid: 85f7c519-46f7-4c1e-b7c5-1946f71c1e79
+super_entry_orth: 檀
+concept: TREES
+concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+'n': '1'
+form:
+  orth: 檀
+  graph_uuid: eaa6af63-673d-4011-aff2-7396fc93db55
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: tán
+  - lang: zh-x-mc
+    value: dan
+    resp: rec:baxter
+  - lang: zh-x-oc
+    value: daan
+    resp: rec:pan-wuyun
+senses:
+- uuid: 6565f781-6041-4c9d-a5f7-8160410c9db6
+  body_number: 1
+  pos: 'N'
+  syntactic_functions:
+  - label: nm
+    uuid: e917a78b-5500-4276-a5fe-156b8bdecb7b
+  provenance:
+    resp: '#CH'
+    created: '2025-03-21T20:35:16.004+09:00'
+provenance:
+  resp: '#CH'
+  created: '2025-03-21T20:35:16.004+09:00'
+source:
+  source_file: uuid-85f7c519-46f7-4c1e-b7c5-1946f71c1e79.xml
+---
+
+# 檀: TREES
+
+- Super-entry: [檀](../../super-entries/8/85f7c519-46f7-4c1e-b7c5-1946f71c1e79.md)
+- Concept: [TREES](../../concepts/0/0b834778-a870-4ece-b10c-65205cfd2c2d.md)
+
+## Form
+- Orth: [檀](../../graphs/e/eaa6af63-673d-4011-aff2-7396fc93db55.md)
+  - Pinyin: tán
+  - Old Chinese: daan
+  - Middle Chinese: dan
+  - Provenance: zh-x-mc resp=rec:baxter, zh-x-oc resp=rec:pan-wuyun
+
+## Senses
+1. **[nm](../../syntactic-functions/e/e917a78b-5500-4276-a5fe-156b8bdecb7b.md)** spindlewood

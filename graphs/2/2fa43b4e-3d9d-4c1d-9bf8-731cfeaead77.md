@@ -1,0 +1,74 @@
+---
+uuid: 2fa43b4e-3d9d-4c1d-9bf8-731cfeaead77
+type: graph
+graphs:
+  attested: 敇
+  unemended: null
+  emended: null
+  standardised: 𢼋
+gloss: 同𢺷又横首皃
+xiaoyun:
+  headword: 奇
+  graph_count: 10
+fanqie:
+  shangzi:
+    attested: 渠
+    standard: null
+  xiazi:
+    attested: 羈
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '925'
+  pan_wuyun_id: '934'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '24'
+notes:
+  pan_wuyun_note_on_guangyun: 原作"敇"（字右爲支），據周改
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: qí
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 開
+      韻部: 支
+      調: 平
+      重紐: b
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ɡje
+      pan_wuyun: ɡɯiɛ
+      wang_li: ɡǐe
+      pulleyblank: gjiə̆
+      shao_rongfen: ɡiɛ
+      zhengzhang_shangfang: ɡɣiᴇ
+      karlgren: gie̯
+    authorial_reconstructions:
+      baxter: null
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 敇
+
+## Fanqie
+渠羈
+
+## Mandarin
+qí

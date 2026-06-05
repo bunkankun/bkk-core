@@ -1,0 +1,74 @@
+---
+uuid: adb1d549-de75-445e-822b-fb2dbfac2dc8
+type: graph
+graphs:
+  attested: 匿
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 藏也微也亡也隱也隂姦也女力切六
+xiaoyun:
+  headword: 匿
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 女
+    standard: null
+  xiazi:
+    attested: 力
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '24110'
+  pan_wuyun_id: '24294'
+locations:
+  guangyun_location: '526.02'
+  baxter_location: '526.02'
+  pan_wuyun_location: '506'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 娘
+      等: 三
+      呼: 開
+      韻部: 職
+      調: 入
+      重紐: null
+      攝: 曾
+    yundianwang_reconstructions:
+      li_rong: niək
+      pan_wuyun: ɳɨk
+      wang_li: nĭək
+      pulleyblank: ɳik
+      shao_rongfen: niek
+      zhengzhang_shangfang: ɳɨk
+      karlgren: ni̯ək
+    authorial_reconstructions:
+      baxter: nrik
+  old_chinese:
+    pan_wuyun:
+      yunbu: 職
+      phonetic: 匿
+      oc: nɯɡ
+    zhengzhang_shangfang:
+      oc: nɯɡ
+      yunbu: 職
+      phonetic: 匿
+      notes: 说文若声
+---
+
+# 匿
+
+## Fanqie
+女力
+
+## Mandarin
+nì

@@ -1,0 +1,38 @@
+---
+uuid: 6eedb05e-9bde-46db-ab9f-87da1623feef
+type: bibliography
+citation_label: CHAO YUEN REN 1956
+ref_usage: '1'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: Chinese terms of address
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yuen Ren
+  family: Chao
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Yuen Ren
+    family: Chao
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# CHAO YUEN REN 1956
+
+## Title
+**Chinese terms of address**
+
+## Contributors
+- Yuen Ren Chao, author

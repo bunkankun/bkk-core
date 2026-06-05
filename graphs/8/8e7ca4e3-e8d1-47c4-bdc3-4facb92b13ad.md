@@ -1,0 +1,74 @@
+---
+uuid: 8e7ca4e3-e8d1-47c4-bdc3-4facb92b13ad
+type: graph
+graphs:
+  attested: 跚
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 蹣𨀢跛行皃
+xiaoyun:
+  headword: 𦙽
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 蘇
+    standard: null
+  xiazi:
+    attested: 干
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '4643'
+  pan_wuyun_id: '4682'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '102'
+notes:
+  pan_wuyun_note_on_guangyun: 原右作"𠕋"
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: shān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 一
+      呼: 開
+      韻部: 寒
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: sɑn
+      pan_wuyun: sɑn
+      wang_li: sɑn
+      pulleyblank: san
+      shao_rongfen: sɑn
+      zhengzhang_shangfang: sɑn
+      karlgren: sɑn
+    authorial_reconstructions:
+      baxter: san
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元1
+      phonetic: 刪
+      oc: saan
+    zhengzhang_shangfang:
+      oc: slaan
+      yunbu: 元1
+      phonetic: 删
+      notes: null
+---
+
+# 跚
+
+## Fanqie
+蘇干
+
+## Mandarin
+shān

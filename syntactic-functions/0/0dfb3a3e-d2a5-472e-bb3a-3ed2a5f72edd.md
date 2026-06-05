@@ -1,0 +1,11 @@
+---
+uuid: 0dfb3a3e-d2a5-472e-bb3a-3ed2a5f72edd
+type: syntactic-function
+code: vtoN.post-S
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2022-09-01T02:31:28.948+09:00'
+---
+
+# vtoN.post-S

@@ -1,0 +1,74 @@
+---
+uuid: 78ceb5d2-abd7-45bd-ae8d-5b04e4d5bfac
+type: graph
+graphs:
+  attested: 好
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 善也美也呼晧切又呼号切二
+xiaoyun:
+  headword: 好
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 呼
+    standard: null
+  xiazi:
+    attested: 晧
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12869'
+  pan_wuyun_id: '12968'
+locations:
+  guangyun_location: '303.08'
+  baxter_location: 303.08 419.01
+  pan_wuyun_location: '283'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: hǎo
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 一
+      呼: 開
+      韻部: 豪
+      調: 上
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: xɑu
+      pan_wuyun: hɑu
+      wang_li: xɑu
+      pulleyblank: haw
+      shao_rongfen: xɑu
+      zhengzhang_shangfang: hɑu
+      karlgren: xɑu
+    authorial_reconstructions:
+      baxter: xawX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽1
+      phonetic: 好
+      oc: qhuuʔ
+    zhengzhang_shangfang:
+      oc: qhuuʔ
+      yunbu: 幽1
+      phonetic: 好
+      notes: 由女孩子会意美
+---
+
+# 好
+
+## Fanqie
+呼晧
+
+## Mandarin
+hǎo

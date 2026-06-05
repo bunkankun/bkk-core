@@ -1,0 +1,74 @@
+---
+uuid: fb7d4fc1-addf-4cff-a388-01278dbfc11e
+type: graph
+graphs:
+  attested: 䜙
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 不惠也又謔弄言五含切三
+xiaoyun:
+  headword: 䜙
+  graph_count: 3
+fanqie:
+  shangzi:
+    attested: 五
+    standard: null
+  xiazi:
+    attested: 含
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '9354'
+  pan_wuyun_id: '9423'
+locations:
+  guangyun_location: '223.25'
+  baxter_location: '223.25'
+  pan_wuyun_location: '203'
+notes:
+  pan_wuyun_note_on_guangyun: 王韻作儑
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: án
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 疑
+      等: 一
+      呼: 開
+      韻部: 覃
+      調: 平
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: ŋᴀm
+      pan_wuyun: ŋəm
+      wang_li: ŋɒm
+      pulleyblank: ŋəm
+      shao_rongfen: ŋɒm
+      zhengzhang_shangfang: ŋʌm
+      karlgren: ŋăm
+    authorial_reconstructions:
+      baxter: ngom
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䜙
+
+## Fanqie
+五含
+
+## Mandarin
+án

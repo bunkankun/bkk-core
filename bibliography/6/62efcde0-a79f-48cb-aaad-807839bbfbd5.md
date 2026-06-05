@@ -1,0 +1,43 @@
+---
+uuid: 62efcde0-a79f-48cb-aaad-807839bbfbd5
+type: bibliography
+citation_label: ZOU FENG 1984
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 詞典對同義詞細微義別的處理
+  script: Hant
+- title: Cidian dui tongyi ci xiwei bie de chuli
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Feng
+  family: Zou
+  script: Latn
+  names:
+  - script: Latn
+    given: Feng
+    transliteration: chinese/ala-lc
+    family: Zou
+  - script: Hant
+    given: 酆
+    family: 鄒
+source:
+  format: MODS
+  version: '3.6'
+---
+
+# ZOU FENG 1984
+
+## Title
+**詞典對同義詞細微義別的處理**
+**Cidian dui tongyi ci xiwei bie de chuli**
+
+## Contributors
+- Feng Zou / 鄒酆, author

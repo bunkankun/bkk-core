@@ -1,0 +1,74 @@
+---
+uuid: 6cf8ec1c-a0cb-47b4-b7b5-fb4fea45c301
+type: graph
+graphs:
+  attested: 睛
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 眳睛不恱目皃出字林又音精
+xiaoyun:
+  headword: 請
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 七
+    standard: null
+  xiazi:
+    attested: 靜
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '13631'
+  pan_wuyun_id: '13733'
+locations:
+  guangyun_location: '190.24'
+  baxter_location: 190.13 319.03 431.27
+  pan_wuyun_location: '299'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: qǐng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 清
+      等: 三
+      呼: 開
+      韻部: 清
+      調: 上
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: tsʰiɛŋ
+      pan_wuyun: tsʰiɛŋ
+      wang_li: tsʰĭɛŋ
+      pulleyblank: tsʰiajŋ
+      shao_rongfen: tsʰiæŋ
+      zhengzhang_shangfang: tsʰiᴇŋ
+      karlgren: tsʰi̯ɛŋ
+    authorial_reconstructions:
+      baxter: tshjengX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 耕
+      phonetic: 生
+      oc: tsheŋʔ
+    zhengzhang_shangfang:
+      oc: ʔsleŋ
+      yunbu: 耕
+      phonetic: 生
+      notes: null
+---
+
+# 睛
+
+## Fanqie
+七靜
+
+## Mandarin
+qǐng

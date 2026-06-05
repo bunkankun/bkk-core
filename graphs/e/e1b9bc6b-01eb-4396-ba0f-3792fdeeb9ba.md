@@ -1,0 +1,74 @@
+---
+uuid: e1b9bc6b-01eb-4396-ba0f-3792fdeeb9ba
+type: graph
+graphs:
+  attested: 縞
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 白縑又音蒿
+xiaoyun:
+  headword: 誥
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 到
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '18451'
+  pan_wuyun_id: '18591'
+locations:
+  guangyun_location: '417.30'
+  baxter_location: '417.27'
+  pan_wuyun_location: '397'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: gào
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 一
+      呼: 開
+      韻部: 豪
+      調: 去
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: kɑu
+      pan_wuyun: kɑu
+      wang_li: kɑu
+      pulleyblank: kaw
+      shao_rongfen: kɑu
+      zhengzhang_shangfang: kɑu
+      karlgren: kɑu
+    authorial_reconstructions:
+      baxter: kawH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 宵3
+      phonetic: 高
+      oc: koows
+    zhengzhang_shangfang:
+      oc: kaawʔ
+      yunbu: 宵1
+      phonetic: 高
+      notes: null
+---
+
+# 縞
+
+## Fanqie
+古到
+
+## Mandarin
+gào

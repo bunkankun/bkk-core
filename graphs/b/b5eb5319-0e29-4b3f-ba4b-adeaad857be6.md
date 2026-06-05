@@ -1,0 +1,74 @@
+---
+uuid: b5eb5319-0e29-4b3f-ba4b-adeaad857be6
+type: graph
+graphs:
+  attested: 箴
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 箴規也又姓風俗通云有衞大夫箴莊子
+xiaoyun:
+  headword: 斟
+  graph_count: 9
+fanqie:
+  shangzi:
+    attested: 職
+    standard: null
+  xiazi:
+    attested: 深
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '9067'
+  pan_wuyun_id: '9131'
+locations:
+  guangyun_location: '217.33'
+  baxter_location: '217.29'
+  pan_wuyun_location: '197'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhēn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 開
+      韻部: 侵
+      調: 平
+      重紐: null
+      攝: 深
+    yundianwang_reconstructions:
+      li_rong: tɕiəm
+      pan_wuyun: tɕim
+      wang_li: tɕĭĕm
+      pulleyblank: cim
+      shao_rongfen: tɕjem
+      zhengzhang_shangfang: tɕiɪm
+      karlgren: tɕi̯əm
+    authorial_reconstructions:
+      baxter: tsyim
+  old_chinese:
+    pan_wuyun:
+      yunbu: 侵3
+      phonetic: 咸
+      oc: kjum
+    zhengzhang_shangfang:
+      oc: kjɯm
+      yunbu: 侵3
+      phonetic: 咸
+      notes: null
+---
+
+# 箴
+
+## Fanqie
+職深
+
+## Mandarin
+zhēn

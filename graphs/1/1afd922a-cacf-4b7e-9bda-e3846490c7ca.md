@@ -1,0 +1,74 @@
+---
+uuid: 1afd922a-cacf-4b7e-9bda-e3846490c7ca
+type: graph
+graphs:
+  attested: 欸
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 相然譍也於改切四
+xiaoyun:
+  headword: 欸
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 於
+    standard: null
+  xiazi:
+    attested: 改
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11404'
+  pan_wuyun_id: '11493'
+locations:
+  guangyun_location: '099.09'
+  baxter_location: 099.09 274.41 385.22
+  pan_wuyun_location: '254'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: ǎi
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 影
+      等: 一
+      呼: 開
+      韻部: 咍
+      調: 上
+      重紐: null
+      攝: 蟹
+    yundianwang_reconstructions:
+      li_rong: ʔᴀi
+      pan_wuyun: ʔəi
+      wang_li: n/a
+      pulleyblank: ʔəj
+      shao_rongfen: ʔɒi
+      zhengzhang_shangfang: ʔʌi
+      karlgren: ʔɑ̆i
+    authorial_reconstructions:
+      baxter: '''ojX'
+  old_chinese:
+    pan_wuyun:
+      yunbu: 之
+      phonetic: 矣
+      oc: qɯɯʔ
+    zhengzhang_shangfang:
+      oc: qɯɯ
+      yunbu: 之
+      phonetic: 矣
+      notes: null
+---
+
+# 欸
+
+## Fanqie
+於改
+
+## Mandarin
+ǎi

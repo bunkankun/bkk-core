@@ -1,0 +1,74 @@
+---
+uuid: 1a8e30ec-a78b-4572-aee4-e6b21c2debfc
+type: graph
+graphs:
+  attested: 㫎
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 動旗
+xiaoyun:
+  headword: 揮
+  graph_count: 14
+fanqie:
+  shangzi:
+    attested: 許
+    standard: null
+  xiazi:
+    attested: 歸
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1872'
+  pan_wuyun_id: '1890'
+locations:
+  guangyun_location: '063.49'
+  baxter_location: '063.38'
+  pan_wuyun_location: '43'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: huī
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 曉
+      等: 三
+      呼: 合
+      韻部: 微
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: xiuəi
+      pan_wuyun: hʷɨi
+      wang_li: xĭwəi
+      pulleyblank: huj
+      shao_rongfen: xiuəi
+      zhengzhang_shangfang: hʉi
+      karlgren: xwe̯i
+    authorial_reconstructions:
+      baxter: xjw+j
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 㫎
+
+## Fanqie
+許歸
+
+## Mandarin
+huī

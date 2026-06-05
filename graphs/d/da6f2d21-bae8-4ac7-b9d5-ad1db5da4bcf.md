@@ -1,0 +1,74 @@
+---
+uuid: da6f2d21-bae8-4ac7-b9d5-ad1db5da4bcf
+type: graph
+graphs:
+  attested: 𪇆
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 𪇆𪂹鳥也
+xiaoyun:
+  headword: 獨
+  graph_count: 30
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 谷
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19958'
+  pan_wuyun_id: '20113'
+locations:
+  guangyun_location: '449.26'
+  baxter_location: '448.08'
+  pan_wuyun_location: '429'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dú
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 一
+      呼: 合
+      韻部: 屋
+      調: 入
+      重紐: null
+      攝: 通
+    yundianwang_reconstructions:
+      li_rong: duk
+      pan_wuyun: duk
+      wang_li: duk
+      pulleyblank: dəwk
+      shao_rongfen: duk
+      zhengzhang_shangfang: duk
+      karlgren: dʱuk
+    authorial_reconstructions:
+      baxter: duwk
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𪇆
+
+## Fanqie
+徒谷
+
+## Mandarin
+dú

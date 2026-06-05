@@ -1,0 +1,14 @@
+---
+uuid: 6984ebd2-cf5d-489a-84eb-d2cf5de89aaf
+type: syntactic-function
+code: npropostNpl.adNpr
+source:
+  source_file: syntactic-functions.xml
+  resp: '#CH'
+  created: '2026-03-24T01:21:09.015+09:00'
+---
+
+# npropostNpl.adNpr
+
+## Description
+the type represented by Zhougong in the place

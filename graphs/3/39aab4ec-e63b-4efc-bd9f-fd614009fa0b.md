@@ -1,0 +1,74 @@
+---
+uuid: 39aab4ec-e63b-4efc-bd9f-fd614009fa0b
+type: graph
+graphs:
+  attested: 偃
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 偃仰又息也説文僵也又姓左傳舒庸舒鳩並偃姓於幰切十二
+xiaoyun:
+  headword: 偃
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 於
+    standard: null
+  xiazi:
+    attested: 幰
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '11669'
+  pan_wuyun_id: '11761'
+locations:
+  guangyun_location: '280.15'
+  baxter_location: '280.15'
+  pan_wuyun_location: '260'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yǎn
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 影
+      等: 三
+      呼: 開
+      韻部: 元
+      調: 上
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: ʔiɐn
+      pan_wuyun: ʔiɐn
+      wang_li: n/a
+      pulleyblank: ʔɨan
+      shao_rongfen: ʔiɐn
+      zhengzhang_shangfang: ʔɨɐn
+      karlgren: ʔɨ̯ɐn
+    authorial_reconstructions:
+      baxter: '''jonX'
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元1
+      phonetic: 妟
+      oc: qanʔ
+    zhengzhang_shangfang:
+      oc: qanʔ
+      yunbu: 元1
+      phonetic: 妟
+      notes: null
+---
+
+# 偃
+
+## Fanqie
+於幰
+
+## Mandarin
+yǎn

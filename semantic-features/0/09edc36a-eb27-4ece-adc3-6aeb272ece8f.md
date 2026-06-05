@@ -1,0 +1,11 @@
+---
+uuid: 09edc36a-eb27-4ece-adc3-6aeb272ece8f
+type: semantic-feature
+code: N1=pivot
+source:
+  source_file: semantic-features.xml
+  resp: '#dsehnal'
+  created: '2024-06-23T04:50:58.637+09:00'
+---
+
+# N1=pivot

@@ -1,0 +1,74 @@
+---
+uuid: bd3fafe5-a298-43d0-aaa8-da1ccabcb90c
+type: graph
+graphs:
+  attested: 婤
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 女字左傳衛襄公有嬖人婤姶又音抽
+xiaoyun:
+  headword: 周
+  graph_count: 10
+fanqie:
+  shangzi:
+    attested: 職
+    standard: null
+  xiazi:
+    attested: 流
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '8588'
+  pan_wuyun_id: '8645'
+locations:
+  guangyun_location: '206.04'
+  baxter_location: 206.14 210.04
+  pan_wuyun_location: '186'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zhōu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 章
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 平
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: tɕiu
+      pan_wuyun: tɕiu
+      wang_li: tɕĭəu
+      pulleyblank: cuw
+      shao_rongfen: tɕiəu
+      zhengzhang_shangfang: tɕɨu
+      karlgren: tɕi̯ə̯u
+    authorial_reconstructions:
+      baxter: tsyuw
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽2
+      phonetic: 周
+      oc: tjɯw
+    zhengzhang_shangfang:
+      oc: thɯw
+      yunbu: 幽2
+      phonetic: 周
+      notes: null
+---
+
+# 婤
+
+## Fanqie
+職流
+
+## Mandarin
+zhōu

@@ -1,0 +1,74 @@
+---
+uuid: ae2f3dab-deeb-4de7-9e60-05acaf94b6c6
+type: graph
+graphs:
+  attested: 暎
+  unemended: null
+  emended: null
+  standardised: 映
+gloss: 同映
+xiaoyun:
+  headword: 映
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 於
+    standard: null
+  xiazi:
+    attested: 敬
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19031'
+  pan_wuyun_id: '19177'
+locations:
+  guangyun_location: null
+  baxter_location: 314.50 428.51
+  pan_wuyun_location: '408'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: yìng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 影
+      等: 三
+      呼: 開
+      韻部: 庚
+      調: 去
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: ʔiɐŋ
+      pan_wuyun: ʔɯiaŋ
+      wang_li: n/a
+      pulleyblank: ʔiajŋ
+      shao_rongfen: ʔiaŋ
+      zhengzhang_shangfang: ʔɣiæŋ
+      karlgren: ʔi̯ɐŋ
+    authorial_reconstructions:
+      baxter: '''jaengH'
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: qraŋs
+      yunbu: 陽
+      phonetic: 央
+      notes: 同映
+---
+
+# 暎
+
+## Fanqie
+於敬
+
+## Mandarin
+yìng

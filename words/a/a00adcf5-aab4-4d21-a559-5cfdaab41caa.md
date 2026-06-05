@@ -1,0 +1,46 @@
+---
+uuid: a00adcf5-aab4-4d21-a559-5cfdaab41caa
+type: word
+super_entry_uuid: 999db74e-4333-484e-9db7-4e4333384e14
+super_entry_orth: 江
+concept: STATES
+concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+'n': '1'
+form:
+  orth: 江
+  graph_uuid: 593cdf08-9470-4aae-9c30-a98bca4fce9c
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: jiāng
+  - lang: zh-x-oc
+    value: krooŋ
+  - lang: zh-x-mc
+    value: kɣɔŋ
+senses:
+- uuid: a7af342f-4088-499c-a446-a7cc817c0552
+  body_number: 1
+  'n': '1'
+  pos: 'N'
+  syntactic_functions:
+  - label: NPpr
+    uuid: c43c0bab-2810-42a4-a6be-e4641d9b6632
+source:
+  source_file: uuid-999db74e-4333-484e-9db7-4e4333384e14.xml
+---
+
+# 江: STATES
+
+- Super-entry: [江](../../super-entries/9/999db74e-4333-484e-9db7-4e4333384e14.md)
+- Concept: [STATES](../../concepts/7/7fd842b0-a38a-40b0-8332-f9bf6b059650.md)
+
+## Form
+- Orth: [江](../../graphs/5/593cdf08-9470-4aae-9c30-a98bca4fce9c.md)
+  - Pinyin: jiāng
+  - Old Chinese: krooŋ
+  - Middle Chinese: kɣɔŋ
+
+## Definition
+Jiāng 江 (CHEN PAN 1969, 571-575) Ruling clan: Yíng 嬴 (according to the Qín běnjì chapter of the Shǐ jì, and to the Shǔi jīng zhù). Rank: Unknown. Founded: According to the Shǐ jì (Qín běnjì chapter), the rulers of Jiāng belonged to the branch lineage of the ruling clan of Qín 秦. Destroyed: In 623 B.C. (Wen 4) by Chǔ 楚. Location: Uncertain. According to the Du Yu's commentary, Xù jùn guó zhì zhù etc., the state was located in the modern Xī 息 district (Taiwanese Zhèngyáng 正陽 district), Henan province. History: The state for the first time appears in CQ and ZUO in the entry for Xi 2 (658 B.C.).
+
+## Senses
+1. **[NPpr](../../syntactic-functions/c/c43c0bab-2810-42a4-a6be-e4641d9b6632.md)** Jiāng 江 (CHEN PAN 1969, 571-575)Ruling clan: Yíng 嬴 **[1 Attributions](#a7af342f-4088-499c-a446-a7cc817c0552)**

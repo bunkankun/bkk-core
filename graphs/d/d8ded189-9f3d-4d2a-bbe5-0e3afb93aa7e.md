@@ -1,0 +1,74 @@
+---
+uuid: d8ded189-9f3d-4d2a-bbe5-0e3afb93aa7e
+type: graph
+graphs:
+  attested: 郗
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 邑名又姓出髙平
+xiaoyun:
+  headword: 絺
+  graph_count: 7
+fanqie:
+  shangzi:
+    attested: 丑
+    standard: null
+  xiazi:
+    attested: 飢
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '1360'
+  pan_wuyun_id: '1374'
+locations:
+  guangyun_location: '053.13'
+  baxter_location: '053.11'
+  pan_wuyun_location: '33'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chī
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 徹
+      等: 三
+      呼: 開
+      韻部: 脂
+      調: 平
+      重紐: null
+      攝: 止
+    yundianwang_reconstructions:
+      li_rong: ȶʰji
+      pan_wuyun: ʈʰɯi
+      wang_li: ȶʰi
+      pulleyblank: ʈʰji
+      shao_rongfen: ȶʰiɪ
+      zhengzhang_shangfang: ʈʰɣiɪ
+      karlgren: ȶʰi
+    authorial_reconstructions:
+      baxter: trhij
+  old_chinese:
+    pan_wuyun:
+      yunbu: 脂1
+      phonetic: 希
+      oc: khrlil
+    zhengzhang_shangfang:
+      oc: lhɯl
+      yunbu: 微1
+      phonetic: 希
+      notes: null
+---
+
+# 郗
+
+## Fanqie
+丑飢
+
+## Mandarin
+chī

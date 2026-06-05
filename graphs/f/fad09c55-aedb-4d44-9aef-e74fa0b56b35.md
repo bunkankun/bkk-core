@@ -1,0 +1,73 @@
+---
+uuid: fad09c55-aedb-4d44-9aef-e74fa0b56b35
+type: graph
+graphs:
+  attested: null
+  unemended: null
+  emended: null
+  standardised: 歲
+xiaoyun:
+  headword: 雪
+  graph_count: 5
+fanqie:
+  shangzi:
+    attested: 相
+    standard: null
+  xiazi:
+    attested: 絕
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '100592'
+  pan_wuyun_id: null
+locations:
+  guangyun_location: null
+  baxter_location: '498.30'
+  pan_wuyun_location: null
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 見于集韻
+pronunciation:
+  mandarin:
+    jin: xuě
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 三
+      呼: 合
+      韻部: 薛
+      調: 入
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: siuɛt
+      pan_wuyun: sʷiɛt
+      wang_li: sĭuɛt
+      pulleyblank: swiat
+      shao_rongfen: sjuæt
+      zhengzhang_shangfang: siuᴇt
+      karlgren: si̯wɛt
+    authorial_reconstructions:
+      baxter: sjwet
+  old_chinese:
+    pan_wuyun:
+      yunbu: 月1
+      phonetic: 歲
+      oc: sqʷad
+    zhengzhang_shangfang:
+      oc: sqhʷads
+      yunbu: 祭1
+      phonetic: 歲
+      notes: 甲金文戉分化字，说文戌声非
+---
+
+# 歲 (standardized)
+
+## Fanqie
+相絕
+
+## Mandarin
+xuě

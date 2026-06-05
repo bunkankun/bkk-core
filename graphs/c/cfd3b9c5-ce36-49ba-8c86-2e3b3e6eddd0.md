@@ -1,0 +1,74 @@
+---
+uuid: cfd3b9c5-ce36-49ba-8c86-2e3b3e6eddd0
+type: graph
+graphs:
+  attested: 𥛱
+  unemended: null
+  emended: null
+  standardised: 祊
+gloss: 同祊
+xiaoyun:
+  headword: 閍
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 甫
+    standard: null
+  xiazi:
+    attested: 盲
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '7579'
+  pan_wuyun_id: '7631'
+locations:
+  guangyun_location: '184.43'
+  baxter_location: '184.41'
+  pan_wuyun_location: '164'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: bēng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 幫
+      等: 二
+      呼: 開
+      韻部: 庚
+      調: 平
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: pɐŋ
+      pan_wuyun: pɯaŋ
+      wang_li: pɐŋ
+      pulleyblank: paɨjŋ
+      shao_rongfen: paŋ
+      zhengzhang_shangfang: pɣæŋ
+      karlgren: pɐŋ
+    authorial_reconstructions:
+      baxter: paeng
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 方
+      oc: praaŋ
+    zhengzhang_shangfang:
+      oc: praaŋ
+      yunbu: 陽
+      phonetic: 方
+      notes: null
+---
+
+# 𥛱
+
+## Fanqie
+甫盲
+
+## Mandarin
+bēng

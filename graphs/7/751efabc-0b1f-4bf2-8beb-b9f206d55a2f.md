@@ -1,0 +1,74 @@
+---
+uuid: 751efabc-0b1f-4bf2-8beb-b9f206d55a2f
+type: graph
+graphs:
+  attested: 竟
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 窮也終也又姓出何氏姓苑
+xiaoyun:
+  headword: 敬
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 居
+    standard: null
+  xiazi:
+    attested: 慶
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19035'
+  pan_wuyun_id: '19181'
+locations:
+  guangyun_location: '429.01'
+  baxter_location: '428.55'
+  pan_wuyun_location: '409'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jìng
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 開
+      韻部: 庚
+      調: 去
+      重紐: null
+      攝: 梗
+    yundianwang_reconstructions:
+      li_rong: kiɐŋ
+      pan_wuyun: kɯiaŋ
+      wang_li: kĭɐŋ
+      pulleyblank: kiajŋ
+      shao_rongfen: kiaŋ
+      zhengzhang_shangfang: kɣiæŋ
+      karlgren: ki̯ɐŋ
+    authorial_reconstructions:
+      baxter: kjaengH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 陽
+      phonetic: 竟
+      oc: kraŋs
+    zhengzhang_shangfang:
+      oc: kraŋʔs
+      yunbu: 陽
+      phonetic: 竟
+      notes: null
+---
+
+# 竟
+
+## Fanqie
+居慶
+
+## Mandarin
+jìng

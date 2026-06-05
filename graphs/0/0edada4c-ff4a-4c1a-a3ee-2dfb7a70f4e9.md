@@ -1,0 +1,74 @@
+---
+uuid: 0edada4c-ff4a-4c1a-a3ee-2dfb7a70f4e9
+type: graph
+graphs:
+  attested: 抶
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 打也丑栗切四
+xiaoyun:
+  headword: 抶
+  graph_count: 4
+fanqie:
+  shangzi:
+    attested: 丑
+    standard: null
+  xiazi:
+    attested: 栗
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '21020'
+  pan_wuyun_id: '21182'
+locations:
+  guangyun_location: '469.45'
+  baxter_location: '469.45'
+  pan_wuyun_location: '449'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: chì
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 徹
+      等: 三
+      呼: 開
+      韻部: 質
+      調: 入
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: ȶʰjĕt
+      pan_wuyun: ʈʰɯit
+      wang_li: ȶʰĭĕt
+      pulleyblank: ʈʰjit
+      shao_rongfen: ȶʰiet
+      zhengzhang_shangfang: ʈʰɣiɪt
+      karlgren: ȶʰi̯ĕt
+    authorial_reconstructions:
+      baxter: trhit
+  old_chinese:
+    pan_wuyun:
+      yunbu: 質2
+      phonetic: 失
+      oc: rlʰiɡ
+    zhengzhang_shangfang:
+      oc: lhiɡ
+      yunbu: 質2
+      phonetic: 失
+      notes: null
+---
+
+# 抶
+
+## Fanqie
+丑栗
+
+## Mandarin
+chì

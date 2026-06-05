@@ -1,0 +1,74 @@
+---
+uuid: e02bbeed-1017-4aa3-bf19-cacb25add755
+type: graph
+graphs:
+  attested: 枮
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 木名
+xiaoyun:
+  headword: 銛
+  graph_count: 14
+fanqie:
+  shangzi:
+    attested: 息
+    standard: null
+  xiazi:
+    attested: 廉
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '9465'
+  pan_wuyun_id: '9534'
+locations:
+  guangyun_location: '226.02'
+  baxter_location: 225.45 335.37 486.03
+  pan_wuyun_location: '206'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: xiān
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 心
+      等: 三
+      呼: 開
+      韻部: 鹽
+      調: 平
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: siɛm
+      pan_wuyun: siɛm
+      wang_li: sĭɛm
+      pulleyblank: siam
+      shao_rongfen: sjæm
+      zhengzhang_shangfang: siᴇm
+      karlgren: si̯ɛm
+    authorial_reconstructions:
+      baxter: sjem
+  old_chinese:
+    pan_wuyun:
+      yunbu: 談2
+      phonetic: 占
+      oc: sqlem
+    zhengzhang_shangfang:
+      oc: slem
+      yunbu: 談2
+      phonetic: 占
+      notes: null
+---
+
+# 枮
+
+## Fanqie
+息廉
+
+## Mandarin
+xiān

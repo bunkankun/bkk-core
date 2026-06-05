@@ -1,0 +1,11 @@
+---
+uuid: a8b412fe-84eb-4ea9-b412-fe84ebdea9c0
+type: semantic-feature
+code: a certain n from Npr
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2025-08-26T22:47:53.13+09:00'
+---
+
+# a certain n from Npr

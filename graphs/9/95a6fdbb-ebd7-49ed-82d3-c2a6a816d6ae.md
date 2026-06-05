@@ -1,0 +1,74 @@
+---
+uuid: 95a6fdbb-ebd7-49ed-82d3-c2a6a816d6ae
+type: graph
+graphs:
+  attested: 鐻
+  unemended: null
+  emended: null
+  standardised: 虡
+gloss: 同虡
+xiaoyun:
+  headword: 巨
+  graph_count: 18
+fanqie:
+  shangzi:
+    attested: 其
+    standard: null
+  xiazi:
+    attested: 吕
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10683'
+  pan_wuyun_id: '10765'
+locations:
+  guangyun_location: '258.14'
+  baxter_location: '258.05'
+  pan_wuyun_location: '238'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同虡
+pronunciation:
+  mandarin:
+    jin: jù
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 群
+      等: 三
+      呼: 合
+      韻部: 魚
+      調: 上
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: ɡiɔ
+      pan_wuyun: ɡiɔ
+      wang_li: ɡĭo
+      pulleyblank: gɨə̆
+      shao_rongfen: ɡiɔ
+      zhengzhang_shangfang: ɡɨʌ
+      karlgren: gi̯wo
+    authorial_reconstructions:
+      baxter: gjoX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 魚
+      phonetic: 虍
+      oc: ɡlaʔ
+    zhengzhang_shangfang:
+      oc: kas
+      yunbu: 魚
+      phonetic: 虍
+      notes: null
+---
+
+# 鐻
+
+## Fanqie
+其吕
+
+## Mandarin
+jù

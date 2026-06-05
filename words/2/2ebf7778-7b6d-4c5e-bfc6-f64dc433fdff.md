@@ -1,0 +1,42 @@
+---
+uuid: 2ebf7778-7b6d-4c5e-bfc6-f64dc433fdff
+type: word
+super_entry_uuid: d0860612-891d-48f4-8606-12891d78f4f3
+super_entry_orth: 召忽
+concept: MALES OF QI
+concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+'n': '0'
+form:
+  orth: 召忽
+  graph_uuid: '4f4d2ed8-0e17-4d47-9452-cf45f7531326 #uuid-b17a37e7-db42-4971-8020-af720f20df6f'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: shào hū
+  - lang: zh-x-oc
+    value: ɡ-lews hmɯɯd
+  - lang: zh-x-mc
+    value: dʑiɛu huot
+senses:
+- uuid: e2280a0b-ba7c-4e6d-97e7-504a6798abf8
+  body_number: 1
+  pos: 'N'
+  syntactic_functions:
+  - label: NPpr
+    uuid: c43c0bab-2810-42a4-a6be-e4641d9b6632
+source:
+  source_file: uuid-d0860612-891d-48f4-8606-12891d78f4f3.xml
+---
+
+# 召忽: MALES OF QI
+
+- Super-entry: [召忽](../../super-entries/d/d0860612-891d-48f4-8606-12891d78f4f3.md)
+- Concept: [MALES OF QI](../../concepts/0/06a8072a-6fc5-4dab-b481-12f6519dc5cd.md)
+
+## Form
+- Orth: [召](../../graphs/4/4f4d2ed8-0e17-4d47-9452-cf45f7531326.md)[忽](../../graphs/b/b17a37e7-db42-4971-8020-af720f20df6f.md)
+  - Pinyin: shào hū
+  - Old Chinese: ɡ-lews hmɯɯd
+  - Middle Chinese: dʑiɛu huot
+
+## Senses
+1. **[NPpr](../../syntactic-functions/c/c43c0bab-2810-42a4-a6be-e4641d9b6632.md)** Unger no. 547

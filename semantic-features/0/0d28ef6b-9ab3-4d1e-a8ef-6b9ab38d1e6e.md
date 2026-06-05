@@ -1,0 +1,11 @@
+---
+uuid: 0d28ef6b-9ab3-4d1e-a8ef-6b9ab38d1e6e
+type: semantic-feature
+code: legally established
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2023-11-26T21:52:39.816+09:00'
+---
+
+# legally established

@@ -1,0 +1,74 @@
+---
+uuid: 2c5d98ac-ea17-43b9-acb3-fd1d69e2c3fc
+type: graph
+graphs:
+  attested: 䄚
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 祭豕先也
+xiaoyun:
+  headword: 曹
+  graph_count: 14
+fanqie:
+  shangzi:
+    attested: 昨
+    standard: null
+  xiazi:
+    attested: 勞
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '6381'
+  pan_wuyun_id: '6435'
+locations:
+  guangyun_location: '158.33'
+  baxter_location: '158.27'
+  pan_wuyun_location: '138'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: cáo
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 從
+      等: 一
+      呼: 開
+      韻部: 豪
+      調: 平
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: dzɑu
+      pan_wuyun: dzɑu
+      wang_li: dzɑu
+      pulleyblank: dzaw
+      shao_rongfen: dzɑu
+      zhengzhang_shangfang: dzɑu
+      karlgren: dzʱɑu
+    authorial_reconstructions:
+      baxter: dzaw
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䄚
+
+## Fanqie
+昨勞
+
+## Mandarin
+cáo

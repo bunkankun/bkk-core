@@ -1,0 +1,74 @@
+---
+uuid: 108ccb3a-6dab-4abf-827c-be5ba2aeb3cd
+type: graph
+graphs:
+  attested: 𠀔
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 無左臂也九勿切又九月切十
+xiaoyun:
+  headword: 𠀔
+  graph_count: 10
+fanqie:
+  shangzi:
+    attested: 九
+    standard: null
+  xiazi:
+    attested: 勿
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '21357'
+  pan_wuyun_id: '21521'
+locations:
+  guangyun_location: '476.02'
+  baxter_location: '476.02'
+  pan_wuyun_location: '456'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jué
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 三
+      呼: 合
+      韻部: 物
+      調: 入
+      重紐: null
+      攝: 臻
+    yundianwang_reconstructions:
+      li_rong: kiuət
+      pan_wuyun: kiut
+      wang_li: kĭuət
+      pulleyblank: kut
+      shao_rongfen: kiuət
+      zhengzhang_shangfang: kɨut
+      karlgren: ki̯uət
+    authorial_reconstructions:
+      baxter: kjut
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 𠀔
+
+## Fanqie
+九勿
+
+## Mandarin
+jué

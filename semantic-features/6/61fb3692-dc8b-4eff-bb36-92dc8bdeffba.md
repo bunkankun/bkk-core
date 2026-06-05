@@ -1,0 +1,11 @@
+---
+uuid: 61fb3692-dc8b-4eff-bb36-92dc8bdeffba
+type: semantic-feature
+code: N=meat
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2021-07-10T23:16:39.13+09:00'
+---
+
+# N=meat

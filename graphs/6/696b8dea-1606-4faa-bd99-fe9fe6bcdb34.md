@@ -1,0 +1,74 @@
+---
+uuid: 696b8dea-1606-4faa-bd99-fe9fe6bcdb34
+type: graph
+graphs:
+  attested: 啾
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 啾唧小聲
+xiaoyun:
+  headword: 遒
+  graph_count: 14
+fanqie:
+  shangzi:
+    attested: 即
+    standard: null
+  xiazi:
+    attested: 由
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '8542'
+  pan_wuyun_id: '8598'
+locations:
+  guangyun_location: '205.26'
+  baxter_location: 205.22 205.35
+  pan_wuyun_location: '185'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jiū
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 精
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 平
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: tsiu
+      pan_wuyun: tsiu
+      wang_li: tsĭəu
+      pulleyblank: tsuw
+      shao_rongfen: tsiəu
+      zhengzhang_shangfang: tsɨu
+      karlgren: tsi̯ə̯u
+    authorial_reconstructions:
+      baxter: tsjuw
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽3
+      phonetic: 秋
+      oc: tsiw
+    zhengzhang_shangfang:
+      oc: ʔsɯw
+      yunbu: 幽2
+      phonetic: 秋
+      notes: null
+---
+
+# 啾
+
+## Fanqie
+即由
+
+## Mandarin
+jiū

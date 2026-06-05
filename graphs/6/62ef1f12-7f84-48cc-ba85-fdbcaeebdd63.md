@@ -1,0 +1,74 @@
+---
+uuid: 62ef1f12-7f84-48cc-ba85-fdbcaeebdd63
+type: graph
+graphs:
+  attested: 女
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 禮記曰女者如也如男子之教尼吕切又尼慮切二
+xiaoyun:
+  headword: 女
+  graph_count: 2
+fanqie:
+  shangzi:
+    attested: 尼
+    standard: null
+  xiazi:
+    attested: 吕
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '10670'
+  pan_wuyun_id: '10752'
+locations:
+  guangyun_location: null
+  baxter_location: 258.01 363.35
+  pan_wuyun_location: '238'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: nǚ
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 娘
+      等: 三
+      呼: 開
+      韻部: 魚
+      調: 上
+      重紐: null
+      攝: 遇
+    yundianwang_reconstructions:
+      li_rong: niɔ
+      pan_wuyun: ɳiɔ
+      wang_li: nĭo
+      pulleyblank: ɳɨə̆
+      shao_rongfen: niɔ
+      zhengzhang_shangfang: ɳɨʌ
+      karlgren: ni̯wo
+    authorial_reconstructions:
+      baxter: nrjoX
+  old_chinese:
+    pan_wuyun:
+      yunbu: 魚
+      phonetic: 女
+      oc: naʔ
+    zhengzhang_shangfang:
+      oc: naʔ
+      yunbu: 魚
+      phonetic: 女
+      notes: null
+---
+
+# 女
+
+## Fanqie
+尼吕
+
+## Mandarin
+nǚ

@@ -1,0 +1,74 @@
+---
+uuid: 683e6ccc-cc1d-4ae1-bb4f-ed1d4e95b5cb
+type: graph
+graphs:
+  attested: 槎
+  unemended: null
+  emended: null
+  standardised: 楂
+gloss: 同楂
+xiaoyun:
+  headword: 楂
+  graph_count: 6
+fanqie:
+  shangzi:
+    attested: 鉏
+    standard: null
+  xiazi:
+    attested: 加
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '6921'
+  pan_wuyun_id: '6971'
+locations:
+  guangyun_location: null
+  baxter_location: null
+  pan_wuyun_location: '149'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 同楂
+pronunciation:
+  mandarin:
+    jin: chá
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 崇
+      等: 二
+      呼: 開
+      韻部: 麻
+      調: 平
+      重紐: null
+      攝: 假
+    yundianwang_reconstructions:
+      li_rong: dʒa
+      pan_wuyun: dʐɯa
+      wang_li: dʒa
+      pulleyblank: dʐaɨ
+      shao_rongfen: dʒa
+      zhengzhang_shangfang: dʒɣa
+      karlgren: dʐʱa
+    authorial_reconstructions:
+      baxter: null
+  old_chinese:
+    pan_wuyun:
+      yunbu: 歌1
+      phonetic: 左
+      oc: sɡraal
+    zhengzhang_shangfang:
+      oc: zraal
+      yunbu: 歌1
+      phonetic: 左
+      notes: null
+---
+
+# 槎
+
+## Fanqie
+鉏加
+
+## Mandarin
+chá

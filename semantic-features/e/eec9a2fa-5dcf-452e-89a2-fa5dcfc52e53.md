@@ -1,0 +1,11 @@
+---
+uuid: eec9a2fa-5dcf-452e-89a2-fa5dcfc52e53
+type: semantic-feature
+code: plural, specific
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2022-11-16T19:51:08.015+09:00'
+---
+
+# plural, specific

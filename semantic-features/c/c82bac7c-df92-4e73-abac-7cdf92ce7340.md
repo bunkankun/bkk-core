@@ -1,0 +1,11 @@
+---
+uuid: c82bac7c-df92-4e73-abac-7cdf92ce7340
+type: semantic-feature
+code: non-restrictive modification
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2022-03-20T02:50:56.892+09:00'
+---
+
+# non-restrictive modification

@@ -1,0 +1,74 @@
+---
+uuid: c04ab4eb-bf4d-426f-9a5f-a3b0c60beff0
+type: graph
+graphs:
+  attested: 貿
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 交易也市賣也又姓出姓苑東莞人
+xiaoyun:
+  headword: 茂
+  graph_count: 16
+fanqie:
+  shangzi:
+    attested: 莫
+    standard: null
+  xiazi:
+    attested: 候
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '19473'
+  pan_wuyun_id: '19627'
+locations:
+  guangyun_location: '438.05'
+  baxter_location: '438.04'
+  pan_wuyun_location: '418'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: mào
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 明
+      等: 一
+      呼: 開
+      韻部: 侯
+      調: 去
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: mu
+      pan_wuyun: məu
+      wang_li: məu
+      pulleyblank: məw
+      shao_rongfen: məu
+      zhengzhang_shangfang: məu
+      karlgren: mə̯u
+    authorial_reconstructions:
+      baxter: muwH
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽1
+      phonetic: 卯
+      oc: mblus
+    zhengzhang_shangfang:
+      oc: mlus
+      yunbu: 幽1
+      phonetic: 卯
+      notes: null
+---
+
+# 貿
+
+## Fanqie
+莫候
+
+## Mandarin
+mào

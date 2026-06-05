@@ -1,0 +1,11 @@
+---
+uuid: beb7f0dc-f4ba-4e59-b7f0-dcf4ba0e596f
+type: semantic-feature
+code: derived object
+source:
+  source_file: semantic-features.xml
+  resp: '#CH'
+  created: '2022-08-07T22:32:15.136+09:00'
+---
+
+# derived object

@@ -1,0 +1,74 @@
+---
+uuid: dbb9f91f-3564-41b5-b84c-da3ddb5b8cec
+type: graph
+graphs:
+  attested: 慴
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 懾也説文懼也
+xiaoyun:
+  headword: 牒
+  graph_count: 30
+fanqie:
+  shangzi:
+    attested: 徒
+    standard: null
+  xiazi:
+    attested: 協
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '25057'
+  pan_wuyun_id: '25246'
+locations:
+  guangyun_location: '540.08'
+  baxter_location: '541.39'
+  pan_wuyun_location: '521'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: dié
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 定
+      等: 四
+      呼: 開
+      韻部: 帖
+      調: 入
+      重紐: null
+      攝: 咸
+    yundianwang_reconstructions:
+      li_rong: dep
+      pan_wuyun: dep
+      wang_li: diep
+      pulleyblank: dɛp
+      shao_rongfen: dɛp
+      zhengzhang_shangfang: dep
+      karlgren: dʱiep
+    authorial_reconstructions:
+      baxter: dep
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: ʔljob
+      yunbu: 盍3
+      phonetic: 習
+      notes: null
+---
+
+# 慴
+
+## Fanqie
+徒協
+
+## Mandarin
+dié

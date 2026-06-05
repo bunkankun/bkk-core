@@ -1,0 +1,74 @@
+---
+uuid: ecb0d593-e0b9-40fa-b82c-beafbc4d3206
+type: graph
+graphs:
+  attested: 䘨
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 小袴
+xiaoyun:
+  headword: 皎
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 古
+    standard: null
+  xiazi:
+    attested: 了
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '12499'
+  pan_wuyun_id: '12596'
+locations:
+  guangyun_location: '295.41'
+  baxter_location: '295.31'
+  pan_wuyun_location: '275'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: jiǎo
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 見
+      等: 四
+      呼: 開
+      韻部: 蕭
+      調: 上
+      重紐: null
+      攝: 效
+    yundianwang_reconstructions:
+      li_rong: keu
+      pan_wuyun: keu
+      wang_li: kieu
+      pulleyblank: kɛw
+      shao_rongfen: keu
+      zhengzhang_shangfang: keu
+      karlgren: kieu
+    authorial_reconstructions:
+      baxter: kewX
+  old_chinese:
+    pan_wuyun:
+      yunbu: null
+      phonetic: null
+      oc: null
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 䘨
+
+## Fanqie
+古了
+
+## Mandarin
+jiǎo

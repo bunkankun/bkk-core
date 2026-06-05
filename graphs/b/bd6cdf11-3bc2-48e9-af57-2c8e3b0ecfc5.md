@@ -1,0 +1,74 @@
+---
+uuid: bd6cdf11-3bc2-48e9-af57-2c8e3b0ecfc5
+type: graph
+graphs:
+  attested: 黀
+  unemended: null
+  emended: null
+  standardised: null
+gloss: 聚麻
+xiaoyun:
+  headword: 鄒
+  graph_count: 15
+fanqie:
+  shangzi:
+    attested: 側
+    standard: null
+  xiazi:
+    attested: 鳩
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '8681'
+  pan_wuyun_id: '8739'
+locations:
+  guangyun_location: '209.13'
+  baxter_location: '208.52'
+  pan_wuyun_location: '189'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: null
+pronunciation:
+  mandarin:
+    jin: zōu
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 莊
+      等: 三
+      呼: 開
+      韻部: 尤
+      調: 平
+      重紐: null
+      攝: 流
+    yundianwang_reconstructions:
+      li_rong: tʃiu
+      pan_wuyun: tʂiu
+      wang_li: tʃĭəu
+      pulleyblank: tʂuw
+      shao_rongfen: tʃiəu
+      zhengzhang_shangfang: tʃɨu
+      karlgren: tʂi̯ə̯u
+    authorial_reconstructions:
+      baxter: tsrjuw
+  old_chinese:
+    pan_wuyun:
+      yunbu: 幽1
+      phonetic: 取
+      oc: skru
+    zhengzhang_shangfang:
+      oc: null
+      yunbu: null
+      phonetic: null
+      notes: null
+---
+
+# 黀
+
+## Fanqie
+側鳩
+
+## Mandarin
+zōu

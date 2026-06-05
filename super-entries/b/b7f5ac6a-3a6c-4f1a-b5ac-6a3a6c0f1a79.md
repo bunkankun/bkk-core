@@ -1,0 +1,37 @@
+---
+uuid: b7f5ac6a-3a6c-4f1a-b5ac-6a3a6c0f1a79
+type: super-entry
+orth: 橫說豎說
+'n': '1'
+forms:
+- orth: 橫說豎說
+- orth: 橫說豎說
+  graph_uuid: '0ed69864-16c3-4039-a24c-980d1d370a16 #uuid-08ee826a-8ac2-45df-9f16-72515d87430c #uuid-c8ed2de3-e7f9-46dc-a82d-09e5e4f04656 #uuid-08ee826a-8ac2-45df-9f16-72515d87430c'
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: héng shuō shù shuō
+  - lang: zh-x-oc
+    value: ɡʷraaŋ lʰod djoʔ lʰod
+  - lang: zh-x-mc
+    value: ɦɣaŋ ɕiɛt dʑi̯o ɕiɛt
+entries:
+- uuid: d8c894a7-1d3f-4116-a681-5654af6388a4
+  sense_count: 1
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  'n': '1'
+source:
+  source_file: uuid-b7f5ac6a-3a6c-4f1a-b5ac-6a3a6c0f1a79.xml
+---
+
+# Super-entry: 橫說豎說
+
+## Forms
+- Orth: 橫說豎說
+- Orth: [橫](../../graphs/0/0ed69864-16c3-4039-a24c-980d1d370a16.md)[說](../../graphs/0/08ee826a-8ac2-45df-9f16-72515d87430c.md)[豎](../../graphs/c/c8ed2de3-e7f9-46dc-a82d-09e5e4f04656.md)[說](../../graphs/0/08ee826a-8ac2-45df-9f16-72515d87430c.md)
+  - Pinyin: héng shuō shù shuō
+  - Old Chinese: ɡʷraaŋ lʰod djoʔ lʰod
+  - Middle Chinese: ɦɣaŋ ɕiɛt dʑi̯o ɕiɛt
+
+## Words
+- [SPEAK](../../words/d/d8c894a7-1d3f-4116-a681-5654af6388a4.md) (1 sense, n=1)

@@ -1,0 +1,74 @@
+---
+uuid: befa831f-1ff5-40fc-a976-2cec5de2bc45
+type: graph
+graphs:
+  attested: 縁
+  unemended: null
+  emended: null
+  standardised: 緣
+gloss: 縁由又羊絹切
+xiaoyun:
+  headword: 沿
+  graph_count: 12
+fanqie:
+  shangzi:
+    attested: 與
+    standard: null
+  xiazi:
+    attested: 專
+    standard: null
+ids:
+  guangyun_jiaoshi_id: '5450'
+  pan_wuyun_id: '5500'
+locations:
+  guangyun_location: null
+  baxter_location: '140.50'
+  pan_wuyun_location: '120'
+notes:
+  pan_wuyun_note_on_guangyun: null
+  pan_wuyun_note: 為緣的楷書異構，廣韻集韻皆作此
+pronunciation:
+  mandarin:
+    jin: yuán
+    wen: null
+    yi: null
+    bai: null
+    jiu: null
+  middle_chinese:
+    categories:
+      聲: 以
+      等: 三
+      呼: 合
+      韻部: 仙
+      調: 平
+      重紐: null
+      攝: 山
+    yundianwang_reconstructions:
+      li_rong: n/a
+      pan_wuyun: jʷiɛn
+      wang_li: jĭwɛn
+      pulleyblank: jwian
+      shao_rongfen: n/a
+      zhengzhang_shangfang: jiuᴇn
+      karlgren: n\a
+    authorial_reconstructions:
+      baxter: ywen
+  old_chinese:
+    pan_wuyun:
+      yunbu: 元3
+      phonetic: 彖
+      oc: k-lon
+    zhengzhang_shangfang:
+      oc: lon
+      yunbu: 元3
+      phonetic: 彖
+      notes: null
+---
+
+# 縁
+
+## Fanqie
+與專
+
+## Mandarin
+yuán
