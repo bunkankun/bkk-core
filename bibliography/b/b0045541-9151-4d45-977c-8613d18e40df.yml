@@ -1,0 +1,38 @@
+uuid: b0045541-9151-4d45-977c-8613d18e40df
+type: bibliography
+citation_label: WANG LIQI 1987
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Xinyu jiaozhu
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Liqi
+  family: Wang
+  script: Latn
+  names:
+  - script: Latn
+    given: Liqi
+    transliteration: chinese/ala-lc
+    family: Wang
+  - script: Hant
+    given: 利器
+    family: 王
+origin:
+  place: Peking
+  publisher: Zhonghuashuju
+  date_issued: '1987'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Reprint of Mainland edition. The standard critical edition.
+source:
+  format: MODS
+  version: '3.6'

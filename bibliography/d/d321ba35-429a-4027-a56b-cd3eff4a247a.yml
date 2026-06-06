@@ -1,0 +1,40 @@
+uuid: d321ba35-429a-4027-a56b-cd3eff4a247a
+type: bibliography
+citation_label: VIMALAKIRTI(B)
+ref_usage: '3'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 維摩詰所說經
+  lang: chi
+  script: Hant
+- title: Wéimójié suǒ shuō jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Vimalakīrti-nirdessa
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  family: Kumārajiiva
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    family: Kumārajiiva
+notes:
+- type: general
+  text: This is one of the central sutras in Chinese Buddhism. The main character in the sutra is not a Bodhisattva or disciple of Buddha but the lay person Vimalakirti who exceeds the disciples of Buddha in wisdom.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,32 @@
+uuid: 84937e7b-c2e4-4c2f-8882-aa7d59f541f6
+type: bibliography
+citation_label: GEORGES 1875
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Kleines deutsch-lateinisches Handwoerterbuch
+  lang: ger
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: K.E.
+  family: Georges
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: K.E.
+    family: Georges
+origin:
+  place: Leipzig
+  publisher: Hahn'sche
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

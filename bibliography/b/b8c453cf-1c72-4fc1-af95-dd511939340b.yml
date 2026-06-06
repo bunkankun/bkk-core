@@ -1,0 +1,53 @@
+uuid: b8c453cf-1c72-4fc1-af95-dd511939340b
+type: bibliography
+citation_label: JUEGUANLUN
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 絕觀論
+  lang: jpn
+  script: Hant
+- title: Juéguān lùn
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+- title: Treatise on the Transcendence of Cognition
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Daisetzu T.
+  family: Suzuki
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Daisetzu T.
+    family: Suzuki
+  - lang: jpn
+    script: Hant
+    given: 大拙
+    family: 鈴木
+origin:
+  place: Tokyo
+  publisher: Iwanami shoten
+  date_issued: '1968'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 'Originally on PELLIOT 2045. 2074. 2885. This text is attributed to Bodhidharma but actually contains materials of the early Chán School; the full title is: Sān-zāng fǎ-shī Pútídámó jué-guān lùn 三藏法師菩提達摩絕觀論; the text consists of a dialogue between ''Mister Entered-the- Principle'' (rù-lǐ xiān-shēng 入理先生) and his disciple ''Conditioned Teaching'' (Yuán-mén 緣門); the text is usually connected to the teaching of Niútóu 牛頭; on editions and studies of this text see ZENSEKI KAIDAI: 456'
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

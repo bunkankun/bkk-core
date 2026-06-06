@@ -1,0 +1,51 @@
+uuid: eaca0bf9-bb82-4919-80b6-21c4a050d556
+type: bibliography
+citation_label: KLIBANSKY 1964
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Saturn and Melancholy. Studies in the history of natural Philosophy, Religion and Art
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Raymund
+  family: Klibansky
+  script: Latn
+  names:
+  - script: Latn
+    given: Raymund
+    family: Klibansky
+- type: personal
+  roles:
+  - author
+  given: Erwin
+  family: Panowsky
+  script: Latn
+  names:
+  - script: Latn
+    given: Erwin
+    family: Panowsky
+- type: personal
+  roles:
+  - author
+  given: Fritz
+  family: Saxl
+  script: Latn
+  names:
+  - script: Latn
+    given: Fritz
+    family: Saxl
+origin:
+  place: Cambridge
+  publisher: Cambridge University Press
+  date_issued: '1964'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

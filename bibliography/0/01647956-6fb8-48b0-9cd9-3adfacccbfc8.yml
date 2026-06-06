@@ -1,0 +1,51 @@
+uuid: 01647956-6fb8-48b0-9cd9-3adfacccbfc8
+type: bibliography
+citation_label: TOKIWA 1934
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 《寶林傳》之研究
+  lang: jpn
+  script: Hant
+- title: Hōrinden no kenkyū
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+- title: Studies in the Baolin zhuan
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Daijō
+  family: Tokiwa
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Daijō
+    family: Tokiwa
+  - lang: jpn
+    script: Hant
+    given: 大定
+    family: 常盤
+origin:
+  place: Tokyo
+  publisher: Tōhō bunka gakuin Tōkyō kenkyūsho
+  date_issued: '1934'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

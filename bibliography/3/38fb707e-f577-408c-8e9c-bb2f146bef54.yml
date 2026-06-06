@@ -1,0 +1,47 @@
+uuid: 38fb707e-f577-408c-8e9c-bb2f146bef54
+type: bibliography
+citation_label: GUO AICHUN 1991
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 黃帝內經詞典
+  lang: chi
+  script: Hant
+- title: Huangdi neijing cidian
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Aichun
+  family: Guo
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Aichun
+    family: Guo
+  - lang: chi
+    script: Hant
+    given: 靄春
+    family: 郭
+origin:
+  place: Tianjin
+  publisher: Kexuejishuchubanshe
+  date_issued: '1991'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 1296 pages, wonderfully detailed dictionary.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,34 @@
+uuid: bcaa612b-203c-42b2-8efa-03af5e109e02
+type: bibliography
+citation_label: MURRAY 1998
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Suicide in the Middle Ages
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: A.
+  family: Murray
+  script: Latn
+  names:
+  - script: Latn
+    given: A.
+    family: Murray
+origin:
+  place: Oxford
+  publisher: Oxford University Press
+  date_issued: 1998ff
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Exhaustive detailed survey. Crucial reference work.
+source:
+  format: MODS
+  version: '3.6'

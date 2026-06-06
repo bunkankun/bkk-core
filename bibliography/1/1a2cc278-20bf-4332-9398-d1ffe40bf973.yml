@@ -1,0 +1,46 @@
+uuid: 1a2cc278-20bf-4332-9398-d1ffe40bf973
+type: bibliography
+citation_label: SHIMA KUNIO 1973
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 老子校正
+  lang: jpn
+  script: Hant
+- title: Roshi kosei
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Kunio
+  family: Shima
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Kunio
+    family: Shima
+  - lang: jpn
+    script: Hant
+    given: 邦男
+    family: 島
+origin:
+  place: Tokyo
+  date_issued: '1973'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Singularly useful definitve survey of traditional printed editions, excluding all excavated material. INDISPENSABLE tool for Laozi scholarship.
+source:
+  format: MODS
+  version: '3.6'

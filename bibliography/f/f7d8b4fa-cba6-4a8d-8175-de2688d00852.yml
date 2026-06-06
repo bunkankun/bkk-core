@@ -1,0 +1,44 @@
+uuid: f7d8b4fa-cba6-4a8d-8175-de2688d00852
+type: bibliography
+citation_label: KAHN 1973
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: The Verb "be" in Ancient Greek
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Charles H.
+  family: Kahn
+  script: Latn
+  names:
+  - script: Latn
+    given: Charles H.
+    family: Kahn
+- type: personal
+  roles:
+  - author
+  given: John W.M.
+  family: Verhaar
+  script: Latn
+  names:
+  - script: Latn
+    given: John W.M.
+    family: Verhaar
+origin:
+  place: Dordrecht
+  publisher: Reidel
+  date_issued: '1973'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: An indispensible classic of conceptual analysis.
+source:
+  format: MODS
+  version: '3.6'

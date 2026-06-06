@@ -1,0 +1,47 @@
+uuid: c78eed93-93f2-4ef9-aae8-a6727788d14b
+type: bibliography
+citation_label: GUAN MINYI 1988
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 呂氏春秋譯注
+  lang: chi
+  script: Hant
+- title: Lushichunqiu yishi
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Minyi
+  family: Guan
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Minyi
+    family: Guan
+  - lang: chi
+    script: Hant
+    given: 敏義
+    family: 管
+origin:
+  place: Yinchuan
+  publisher: Ningxiarenminchubanshe
+  date_issued: '1988'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Rough translation in the spirit of Chén Qiyóu's work.
+source:
+  format: MODS
+  version: '3.6'

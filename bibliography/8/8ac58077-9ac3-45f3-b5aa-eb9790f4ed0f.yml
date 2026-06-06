@@ -1,0 +1,41 @@
+uuid: 8ac58077-9ac3-45f3-b5aa-eb9790f4ed0f
+type: bibliography
+citation_label: SUAREZ 2010
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: The Oxford Companion to the Book
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Michael F. S.J.
+  family: Suarez
+  script: Latn
+  names:
+  - script: Latn
+    given: Michael F. S.J.
+    family: Suarez
+- type: personal
+  roles:
+  - editor
+  given: H.R.
+  family: Woudhuysen
+  script: Latn
+  names:
+  - script: Latn
+    given: H.R.
+    family: Woudhuysen
+origin:
+  place: Oxford
+  publisher: OUP
+  date_issued: '2010'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,38 @@
+uuid: 84b4f399-5b2f-43eb-92c8-b68660da1d24
+type: bibliography
+citation_label: LIU HUAQING 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Hanshu quanyi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Huaqing
+  family: Liu
+  script: Latn
+  names:
+  - script: Latn
+    given: Huaqing
+    transliteration: chinese/ala-lc
+    family: Liu
+  - script: Hant
+    given: 華清
+    family: 劉
+origin:
+  place: Guiyang
+  publisher: Guizhourenmin
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 5 vols. [Messy but useful transcription of the commentaries and translation.]
+source:
+  format: MODS
+  version: '3.6'

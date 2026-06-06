@@ -1,0 +1,55 @@
+uuid: 471c2aec-5f37-4be3-9c2a-ec5f37cbe315
+type: bibliography
+citation_label: Dogen 1990
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 正法眼藏
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - Author
+  family: Dogen
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Dogen
+  - lang: chi
+    script: Hant
+    family: 道元
+- type: personal
+  roles:
+  - Author
+  given: Yaoko
+  family: Mizuno
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Mizuno
+    given: Yaoko
+  - lang: chi
+    script: Hant
+    family: 水野
+    given: 弥穂子
+origin:
+  place: 東京
+  publisher: 岩波書店 Iwanami
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: chris
+source:
+  format: MODS
+  version: '3.6'

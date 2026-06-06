@@ -1,0 +1,38 @@
+uuid: 93d4c5c1-4ca7-4305-9343-5864efc84e0b
+type: bibliography
+citation_label: QU WANLI 1968
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Shangshu shiyi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Wanli
+  family: Qu
+  script: Latn
+  names:
+  - script: Latn
+    given: Wanli
+    transliteration: chinese/ala-lc
+    family: Qu
+  - script: Hant
+    given: 萬里
+    family: 屈
+origin:
+  place: Taibei
+  publisher: Zhonghuawenhua
+  date_issued: '1968'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Masterful concise traditional annotation.
+source:
+  format: MODS
+  version: '3.6'

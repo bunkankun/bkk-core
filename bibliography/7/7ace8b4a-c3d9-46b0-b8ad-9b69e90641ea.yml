@@ -1,0 +1,53 @@
+uuid: 7ace8b4a-c3d9-46b0-b8ad-9b69e90641ea
+type: bibliography
+citation_label: HYDCD(RED.)
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 漢語大詞典
+  subtitle: suóyìnběn
+  lang: chi
+  script: Hant
+- title: Hànyǔ dàcídiǎn
+  subtitle: suóyìnběn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Encyclopedic Dictionary of Chinese - Edition in Reduced Format
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Zhúfēng
+  family: Luó
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhúfēng
+    family: Luó
+  - lang: chi
+    script: Hant
+    given: 竹風
+    family: 羅
+origin:
+  place: Shanghai
+  publisher: Hanyu dacidian chubanshe
+  date_issued: '1997'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

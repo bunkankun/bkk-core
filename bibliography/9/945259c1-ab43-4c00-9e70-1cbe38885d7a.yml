@@ -1,0 +1,39 @@
+uuid: 945259c1-ab43-4c00-9e70-1cbe38885d7a
+type: bibliography
+citation_label: XU XINGDONG 2003
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 簡明古漢語同義詞詞典
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  family: Xu Xingdong
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Xu Xingdong
+  - lang: chi
+    script: Hant
+    given: 興東
+    family: 徐
+- roles:
+  - author
+origin:
+  place: Wuhan
+  publisher: Hubei Jiaoyu Chubanshe
+  date_issued: '2003'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

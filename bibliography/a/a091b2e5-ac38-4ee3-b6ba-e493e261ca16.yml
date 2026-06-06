@@ -1,0 +1,31 @@
+uuid: a091b2e5-ac38-4ee3-b6ba-e493e261ca16
+type: bibliography
+citation_label: RICKEN 1961
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: '"Gelehrter" und "Wissenschaft" im Franzoesischen'
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Ulrich
+  family: Ricken
+  script: Latn
+  names:
+  - script: Latn
+    given: Ulrich
+    family: Ricken
+origin:
+  place: Berlin
+  publisher: Akademie-Verlag
+  date_issued: '1961'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

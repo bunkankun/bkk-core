@@ -1,0 +1,53 @@
+uuid: 747e7884-dc0c-402f-87b7-0aee70bb68ea
+type: bibliography
+citation_label: 25 DYNASTIES
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 二十五史人名大辭典
+  lang: chi
+  script: Hant
+- title: Èrshǐwǔ-shǐ rénmíng dàcídiǎn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Dictionary of Personal Names in the Twenty-Five Histories
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Huìxián
+  family: Huáng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Huìxián
+    family: Huáng
+  - lang: chi
+    script: Hant
+    given: 惠賢
+    family: 黃
+origin:
+  place: Zhengzhou
+  publisher: Zhongguo guji chubanshe
+  date_issued: '1997'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This is an excellent dictionary for tracing personal names in the 25 Histores
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

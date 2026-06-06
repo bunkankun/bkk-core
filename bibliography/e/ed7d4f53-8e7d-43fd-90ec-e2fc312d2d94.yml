@@ -1,0 +1,42 @@
+uuid: ed7d4f53-8e7d-43fd-90ec-e2fc312d2d94
+type: bibliography
+citation_label: DUAN YUCAI 1981
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Shuowenjiezi zhu
+  lang: chi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yucai
+  family: Duan
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Yucai
+    family: Duan
+  - lang: chi
+    script: Hant
+    given: 玉裁
+    family: 段
+origin:
+  place: Shanghai
+  publisher: Shanghai guji chubanshe
+  date_issued: '1981'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This particular version has a useful Four Corner Index. This is not a conservative text, and it always needs to be compared with the plain text edition above.
+source:
+  format: MODS
+  version: '3.6'

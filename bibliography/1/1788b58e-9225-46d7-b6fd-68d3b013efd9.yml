@@ -1,0 +1,54 @@
+uuid: 1788b58e-9225-46d7-b6fd-68d3b013efd9
+type: bibliography
+citation_label: NIRVANA(C)
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 大般涅槃經
+  lang: chi
+  script: Hant
+- title: Dàbān nièpán jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Mahāparinirvāṇa sūtra
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+- type: personal
+  given: Língyùn
+  family: Xiè
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Língyùn
+    family: Xiè
+  - lang: chi
+    script: Hant
+    given: 靈運
+    family: 謝
+notes:
+- type: general
+  text: The so-called 'Southern Edition'
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

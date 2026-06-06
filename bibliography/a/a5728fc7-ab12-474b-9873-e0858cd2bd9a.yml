@@ -1,0 +1,35 @@
+uuid: a5728fc7-ab12-474b-9873-e0858cd2bd9a
+type: bibliography
+citation_label: ZHU XI 1985
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Sishu jizhu
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xi
+  family: Zhu
+  script: Latn
+  names:
+  - script: Latn
+    given: Xi
+    transliteration: chinese/ala-lc
+    family: Zhu
+  - script: Hant
+    given: 熹
+    family: 朱
+origin:
+  place: Changsha
+  publisher: Yuelushushe
+  date_issued: '1985'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

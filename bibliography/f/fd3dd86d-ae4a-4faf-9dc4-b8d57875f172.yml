@@ -1,0 +1,30 @@
+uuid: fd3dd86d-ae4a-4faf-9dc4-b8d57875f172
+type: bibliography
+citation_label: MINOIS 1996
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Histoire de l'avenir
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Georges
+  family: Minois
+  script: Latn
+  names:
+  - script: Latn
+    given: Georges
+    family: Minois
+origin:
+  place: Paris
+  date_issued: '1996'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

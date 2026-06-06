@@ -1,0 +1,34 @@
+uuid: b4748f11-4698-4481-b48f-114698b481c9
+type: bibliography
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 莊子校詮
+  lang: eng
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - Author
+  given: 叔岷
+  family: 王
+  lang: eng
+  script: Hant
+  names:
+  - lang: eng
+    script: Hant
+    family: 王
+    given: 叔岷
+origin:
+  place: 臺北
+  publisher: 中央研究院歷史語言研究所
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CH
+source:
+  format: MODS
+  version: '3.6'

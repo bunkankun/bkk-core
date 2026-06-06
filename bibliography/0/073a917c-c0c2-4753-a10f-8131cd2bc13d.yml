@@ -1,0 +1,50 @@
+uuid: 073a917c-c0c2-4753-a10f-8131cd2bc13d
+type: bibliography
+citation_label: ZHONGBENQIJING
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 中本起經
+  lang: chi
+  script: Hant
+- title: Zhōng běn-qǐ jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+- type: personal
+  given: Mèngxiáng
+  family: Kāng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Mèngxiáng
+    family: Kāng
+  - lang: chi
+    script: Hant
+    given: 孟詳
+    family: 康
+notes:
+- type: general
+  text: Tr. in the 2nd cent. A.D.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,104 @@
+uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+type: concept
+concept: BIRD
+zh: 鳥
+definition: ANIMAL that HAS TWO LEGS AND WINGS.
+criteria:
+- type: old-chinese-criteria
+  text: '[[COMMON/RARE]]
+
+
+    [COUNT/MASS]
+
+
+    [GENERAL/SPECIFIC]
+
+
+    [NON-REFERENTIAL/REFERENTIAL]
+
+
+    1. Niǎo [[鳥]] is by far the most common word for any bird, and this word can refer to individual creatures.
+
+
+    [COUNT], [GENERAL]; [[COMMON+]]
+
+
+    3. Qín [[禽]] refers to a large bird, typically a bird of prey that one might hunt for, and the word is predominantly used as a mass noun. (But note that the word can also be used to refer to wild beasts rather than birds.)
+
+
+    [MASS!], [SPECIFIC]
+
+
+    3. Fēi niǎo [[飛鳥]] is the generic and non-referential term.
+
+
+    [NON-REFERENTIAL]
+
+
+    4. Yǔ niǎo [[羽鳥]] is a rather formal general term for birds of all kinds.
+
+
+    [NON-REFERENTIAL]; [[RARE]]'
+- type: modern-chinese-criteria
+  text: '禽
+
+
+    鳥
+
+
+    飛禽
+
+
+    猛禽
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+hypernyms:
+- 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+hyponyms:
+- c4c38367-6d84-4160-8cf1-d2633210178e
+- 69bfb996-32c8-40d0-8a1f-5af36d5d6531
+- 87f2c14f-3890-4762-b7f8-8f3381d49311
+- a7b2a035-1dd4-4347-83c3-2247e8eeab5e
+see_also:
+- ce2731ff-8f9e-442a-9d28-67660ed1f104
+other_relations:
+- type: mereonymy
+  uuids:
+  - d4417b17-16f8-4c96-8499-f2047dbb8bde
+  - ce803475-ab64-4def-b475-4d3ca199c513
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '3.64'
+  scope_unit: page
+- bibliography_uuid: ab831347-9626-498d-aa1e-eb43eae72d05
+  notes:
+  - BIRD
+  - volucres refers to anything that flies, indluding winged insects.
+  - aves is the general term for a bird
+  - ales refers to larger birds only and is elevated stylistically.
+- bibliography_uuid: 56dd8ede-a572-47bc-8a1b-70c846775874
+  scope: '268'
+  scope_unit: page
+- bibliography_uuid: d905dccd-9c5f-458e-b56c-c2a7c09e2d72
+  scope: '3.1099'
+  scope_unit: page
+- bibliography_uuid: ceec1ff7-e9e2-4e81-8c76-a29b231e6074
+  scope: '335'
+  scope_unit: page
+- bibliography_uuid: 65cb3fa8-ba3e-4eef-b23e-5b43a8bb8651
+- bibliography_uuid: 28651fa3-edd7-40d4-a2b1-62f95a91e95c
+  notes:
+  - avis 'bird' [f. i] (Naev.+)
+  - 'Derivatives: avicula ''little bird'' (Varro+); auspex, -icis ''augur, bird-diviner'' (P1.+),'
+  - auspicium 'augury, omen' (Elog., Naev.+), auspicare/i 'to take the auspices, enter
+  - upon' (Naev.+); auceps, gen.sg. aucupis 'bird-catcher' (P1.+), aucupare/i 'to go
+  - bird-catching' (P1.+), aucupium 'bird-catching; wild fowl' (P1.+); auca 'bird, esp.
+  - goose' (Avianus [ca. 400 AD], gloss.).
+- bibliography_uuid: a4832799-5d07-494c-bc3a-4fd7db78c620
+  scope: '6.387'
+  scope_unit: page
+- bibliography_uuid: bbf731db-f5e8-4da6-9d88-b10c69b707ad
+  scope: no.345
+  scope_unit: page
+- bibliography_uuid: 31e9051b-e850-4ea8-a2ae-66e8cbef877c

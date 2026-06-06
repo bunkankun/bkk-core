@@ -1,0 +1,49 @@
+uuid: 090b7b7f-e599-48ab-bcc1-cab8eea6105d
+type: bibliography
+citation_label: BARK 2010
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Ästhetische Grundbegriffe (ÄGB)
+  subtitle: Historisches Wörterbuch in sieben Bänden
+  lang: ger
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Karlheinz
+  family: Barck
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: Karlheinz
+    family: Barck
+- type: personal
+  roles:
+  - editor
+  given: Martin
+  family: Fontius
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: Martin
+    family: Fontius
+- roles:
+  - editor
+origin:
+  place: Stuttgart
+  publisher: J.B. Metzler
+  date_issued: '2010'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

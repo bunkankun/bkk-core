@@ -1,0 +1,31 @@
+uuid: ddc8dc41-e703-448c-9f61-6db9445685a7
+type: bibliography
+citation_label: UNGER SACH
+ref_usage: '128'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: '"Sachwoerterbuch zum Alten China"'
+  subtitle: Unfinished Manuscript Draft
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Ulrich
+  family: Unger
+  script: Latn
+  names:
+  - script: Latn
+    given: Ulrich
+    family: Unger
+origin:
+  place: Münster
+  date_issued: ca. 1990
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

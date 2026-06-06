@@ -1,0 +1,36 @@
+uuid: aca3a0c6-f60a-44d4-bf12-99ee3c4d9c7c
+type: bibliography
+citation_label: QUINE 1987
+ref_usage: '49'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+contributors:
+- type: personal
+  roles:
+  - Author
+  given: W.V.O
+  family: Quine
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Quine
+    given: W.V.O
+origin:
+  place: Cambridge
+  publisher: Harvard University Press
+  date_issued: '1987'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Notes by one of the greatest of the analytic American philosophers.
+- type: information-basis
+  text: CH
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,35 @@
+uuid: 6a2dd3da-cb7c-44ea-bac0-47e0fcd90ae8
+type: word
+super_entry_uuid: 6199b542-973d-4103-99b5-42973d110382
+concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+'n': '6'
+form:
+  orth: 知有
+  graph_uuids:
+  - 66c0756c-fd79-48b2-a2cd-ee269a87f3c6
+  - 5ba72032-5f6c-406d-a1fc-05dc9395e991
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: zhī yǒu
+  - lang: zh-x-oc
+    value: te ɢʷɯʔ
+  - lang: zh-x-mc
+    value: ʈiɛ ɦɨu
+bibliography:
+- bibliography_uuid: 91cce1db-78cb-4b26-80cc-55ad3d26b0cf
+  scope: '265'
+  scope_unit: page
+  notes:
+  - The semanitcs of 有 is very weak in these kind of examples and it probably should be defined as verbal suffix/structure word. In ZTJ there are also examples of yo3usi4 有似 'to resemble'; another example in vernacular literature is 有請 'to ask; request' (JIANG/CAO 1997:421).
+- bibliography_uuid: e597a395-df4f-49cd-b4bb-d10b8f24d308
+  scope: '444'
+  scope_unit: page
+  notes:
+  - glossed as 知；知道
+  - Besides in ZTJ there are also examples in WUDENG
+sense_uuids:
+- f356cc79-8f45-4c01-a793-b0cb6865e8c9
+- aaf03ec3-b188-4534-b234-4dd4a3fbdd2d
+- 9bc7e69f-68d5-4d34-bc61-313de7664833
+source:
+  source_file: uuid-6199b542-973d-4103-99b5-42973d110382.xml

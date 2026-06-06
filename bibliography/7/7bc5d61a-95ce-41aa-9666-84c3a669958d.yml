@@ -1,0 +1,44 @@
+uuid: 7bc5d61a-95ce-41aa-9666-84c3a669958d
+type: bibliography
+citation_label: MA SHUTIAN 1999
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 華夏諸神
+  lang: chi
+  script: Hant
+- title: Huaxia zhu shen
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shutian
+  family: Ma
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shutian
+    family: Ma
+  - lang: chi
+    script: Hant
+    given: 書田
+    family: 馬
+origin:
+  place: Beijing
+  publisher: Beijing Yanshan chubanshe
+  date_issued: '1999'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

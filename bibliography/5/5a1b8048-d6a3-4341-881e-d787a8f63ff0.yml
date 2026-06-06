@@ -1,0 +1,37 @@
+uuid: 5a1b8048-d6a3-4341-881e-d787a8f63ff0
+type: bibliography
+citation_label: DENIS 2000
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Litterature et engagement
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Benoit
+  family: Denis
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Benoit
+    family: Denis
+origin:
+  place: Paris
+  publisher: Seuil
+  date_issued: '2000'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Remarkably clear survey based on French literature
+source:
+  format: MODS
+  version: '3.6'

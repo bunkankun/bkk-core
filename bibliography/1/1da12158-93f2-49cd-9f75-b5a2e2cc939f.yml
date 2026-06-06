@@ -1,0 +1,37 @@
+uuid: 1da12158-93f2-49cd-9f75-b5a2e2cc939f
+type: bibliography
+citation_label: BIELENSTEIN 1980
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: The Bureaucracy of Han Times
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hans
+  family: Bielenstein
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Hans
+    family: Bielenstein
+origin:
+  place: Cambridge
+  publisher: Cambridge University Press
+  date_issued: '1980'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: titles, Han
+source:
+  format: MODS
+  version: '3.6'

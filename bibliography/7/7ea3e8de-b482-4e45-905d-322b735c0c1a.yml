@@ -1,0 +1,47 @@
+uuid: 7ea3e8de-b482-4e45-905d-322b735c0c1a
+type: bibliography
+citation_label: CHEN GUANGZHONG 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 淮南子譯注
+  lang: chi
+  script: Hant
+- title: Huainanzi yi zhu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Guangzhong
+  family: Chen
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Guangzhong
+    family: Chen
+  - lang: chi
+    script: Hant
+    given: 廣忠
+    family: 陳
+origin:
+  place: Changchun
+  publisher: Jilin Wenshi
+  date_issued: '1993'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: '[Careful philological translation, with sparse annotation. Full philological edition by the same author is announced.]'
+source:
+  format: MODS
+  version: '3.6'

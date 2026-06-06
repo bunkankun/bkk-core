@@ -1,0 +1,35 @@
+uuid: 49c1bab6-b1f5-473d-bc63-01c9933e3a66
+type: word
+super_entry_uuid: a441b29e-8922-4b16-81b2-9e89220b16f1
+concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+'n': '16'
+form:
+  orth: 何物
+  graph_uuids:
+  - 9ff11b21-1353-47ba-bcda-66484aef3dc1
+  - 920cdc9d-a13f-4145-b5d6-a18eda88b3cc
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: hé wù
+  - lang: zh-x-oc
+    value: ɡlaal mɯd
+  - lang: zh-x-mc
+    value: ɦɑ mi̯ut
+bibliography:
+- bibliography_uuid: 91cce1db-78cb-4b26-80cc-55ad3d26b0cf
+  scope: 201-202
+  scope_unit: page
+  notes:
+  - The original meaning of the compound is 'what thing' (see e.g. GUAN). However, by the time of the Six Dynaties period the two words seem to have already merged into one compound. As in the case of he2shi4 何事 this is evidenced by its adnominal usage where the translation 'what thing' is not possible. In ZTJ he2wu4 is not used adnominally and in several instances the translation 'what thing' is preferable. However, in most instances he2wu4 substitutes abstract nouns.
+  - Early examples can be found in SHISHUO and SUISHU. (牛屋下是何物人).
+  - In BIANWEN the graphical form is 何勿.
+- bibliography_uuid: 4a517f92-28ea-42c8-a2c2-a507fe8e39d7
+  scope: '130'
+  scope_unit: page
+sense_uuids:
+- ab0d4633-b80a-4774-ace1-0004431194b7
+- 3814a864-d411-4ad4-9d3f-d1ee9a6d4ff5
+- 3b93c59a-9847-4d98-9084-00f0c24141e3
+- d7100d01-caea-4567-a34d-351b0b3c818d
+source:
+  source_file: uuid-a441b29e-8922-4b16-81b2-9e89220b16f1.xml

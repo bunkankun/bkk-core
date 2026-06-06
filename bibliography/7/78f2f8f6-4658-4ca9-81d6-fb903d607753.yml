@@ -1,0 +1,45 @@
+uuid: 78f2f8f6-4658-4ca9-81d6-fb903d607753
+type: bibliography
+citation_label: BODHISATTVABHUMI(A)
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 菩薩地持經
+  lang: chi
+  script: Hant
+- title: Púsà dìchí jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Bodhisatvabhūmi
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - translator
+  given: Wúchen
+  family: Tán
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Wúchen
+    family: Tán
+  - lang: chi
+    script: Hant
+    given: 無讖
+    family: 曇
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

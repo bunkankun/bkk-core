@@ -1,0 +1,58 @@
+uuid: c20780b3-41f9-491b-bb61-a269c1c4b48f
+type: syntactic-function
+code: vi
+description: 'intransitive verb, verb which has no explicit or implicit object.
+
+
+  vi is often hard to distinguish from a transitive verb with a contextually determinate omitted object vi(oN), and even more difficult to distinguish from a transitive verb with a lexically determinate omitted object as in the English "he drinks", for which see vt[oN].'
+notes: 'Criteria for the intransitivity of a verb X:
+
+
+  1. X is verbal and may not be preceded by the object pronoun suǒ 所 or followed by the object pronoun zhī 之 or an explicit nominal or verbal object without changing its meaning.
+
+
+  Note that yuē 曰 "say" would turn out intransitive if the acceptability of zhī 之 and suǒ 所 were taken as the sole criterion. Not all words that disallow pronominalisation of the object are for that reason intransitive.
+
+
+  2. X is verbal and cannot have a contextually determinate or contextually retrievable "understood" referential object.
+
+
+  3. "Diffuse" objects of verbs create a problem when they cannot be made explicit.
+
+
+  In practice, the decision whether a verb is or is not intransitive is often frustratingly complex and irresolvably problematic. When there is no object, as in English "he is jealous", the semantics of jealousy still involves an object. In this case we ascribe a semantic feature "trans", as in vi - tr. For example, there is no doubt that the English "complain" describes a speech act which involves complaining about something: there is no complaining that is not about something. Semantically and logically, at some deep level, there is always an object of complaint. Indeed, there typically is also an audience to which the complaint is addressed.
+
+
+  However, in a sentence like "She loves complaining" one would like to take complaining to be intransitive because both objects are not specified and no specific objects are understood. One could rest satisfied with this, if there weren''t examples like "She loves complaining about things." Here no object is specified, and yet there is an overt grammatical object, so that we have a clear case of vtt. Even worse is "She loves complaining to people about things". Here we have two overt grammatical objects (in our terminology a clear case of a ditransitive verb vtt, although none of the referential objects are specified.
+
+
+  In TLS we handle the problem as follows: a verb which occurs without any object, and without any specific object being understood is taken to be an instance of an intransitive verb.
+
+
+  When such a verb is followed, for example, by the very common indeterminate zhī 之 "something, things" we acknowledge this as a transitive use of the verb, with the semantic specifier - obj=unspecified, or - trans.
+
+
+  This still leaves some surprising problems: for one thing shā rén 殺人 "commit murder; kill others" is not usually used to distinguish between the killing of humans as opposed to killing animals, nor is it currently used to distinguish murder from suicide. Thus even this kind of rén 人 would have to count as an object triggering "obj=unspecified". The number of verbs that work like shā 殺 in this respect and take rén 人 as an unspecified object does not seem to be large and these verbs need to be identified and listed. A second problematic case is that of the spurious general indeterminate object pronoun zhī 之 which is often translatable and does not seem to convert the preceding vi into a semantic vt. These cases are worth collecting, and I propose to call them - obj=diffuse.'
+taxonomy_parents:
+- a922807b-cc05-48ad-ae43-c0d30b9bb742
+- 484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41
+- ef893f39-eaaf-4344-802d-545fc80372b1
+- cb85c2b3-7481-4f06-92aa-0fea8fda4818
+- f222ff7b-b760-43ca-a7f8-30bb85e74aea
+- 2480e000-36ce-4d7f-9127-3a5d5da599e1
+- 5c2d78cc-aedf-4ae0-993e-e7cc34f2b4f8
+- 05651820-3383-46c6-aee0-663e36b70465
+- e627d1e1-0e26-4069-9615-1025ebb7c0a2
+- a4ac7ae5-ac55-45d6-b390-3c41242eb09e
+- 537b108e-6c5a-4803-8260-c76326a86c79
+- 9ae64ed9-6581-4eaf-a3a9-83aaefc14b9e
+- 7392cd80-a0f4-4a91-840c-af16ff55bba4
+- 0f9954b0-2db1-4ed0-8640-3ee37ef149c1
+- 96f9cfaf-340c-42de-b479-5341d654faf6
+- 2e19ae54-8e8c-48e5-b1b2-098be9214f45
+- 1adf8cbe-6a77-4260-9457-64467e3bf6de
+- e035037b-d539-4336-a4d0-d2b2a1b1ca64
+- d6b2a20f-79ca-49b4-8fce-2184bef2e5a4
+- 8ee6f271-cb38-455c-96e4-bceb83ed4ec6
+source:
+  source_file: syntactic-functions.xml

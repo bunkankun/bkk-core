@@ -1,0 +1,44 @@
+uuid: 4356d110-ef4d-4c9a-994d-8cd073928aa9
+type: bibliography
+citation_label: FU XIREN 1982
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 新譯楚辭讀本
+  lang: chi
+  script: Hant
+- title: Xinyi Chuci duben
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xiren
+  family: Fu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Xiren
+    family: Fu
+  - lang: chi
+    script: Hant
+    given: 錫壬
+    family: 傅
+origin:
+  place: Taipei
+  publisher: Sanming shuju
+  date_issued: '1982'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

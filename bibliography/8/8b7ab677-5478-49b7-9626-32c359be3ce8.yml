@@ -1,0 +1,54 @@
+uuid: 8b7ab677-5478-49b7-9626-32c359be3ce8
+type: bibliography
+citation_label: ZHOU FAGAO 1965A
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 中國古代語法
+  subtitle: 'Volume 1: Zàojù piān'
+  lang: chi
+  script: Hant
+- title: Zhōngguó gǔdài yǔfǎ
+  subtitle: 'Volume 1: Zàojù piān'
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: The Grammar of Ancient Chinese
+  subtitle: Syntax
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Fǎgāo
+  family: Zhōu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Fǎgāo
+    family: Zhōu
+  - lang: chi
+    script: Hant
+    given: 法高
+    family: 周
+origin:
+  place: Taibei
+  publisher: Academica Sinica
+  date_issued: '1965'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

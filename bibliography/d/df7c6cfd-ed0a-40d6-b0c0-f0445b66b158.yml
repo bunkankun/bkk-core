@@ -1,0 +1,36 @@
+uuid: df7c6cfd-ed0a-40d6-b0c0-f0445b66b158
+type: bibliography
+citation_label: COQUART 1946
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: D Pisarev et l'idee du nihilisme en Russie
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: A
+  family: Coquart
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: A
+    family: Coquart
+origin:
+  place: Paris
+  date_issued: '1946'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Crucial for the early history of the concept.
+source:
+  format: MODS
+  version: '3.6'

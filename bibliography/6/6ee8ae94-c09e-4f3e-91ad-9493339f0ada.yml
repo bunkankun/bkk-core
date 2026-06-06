@@ -1,0 +1,44 @@
+uuid: 6ee8ae94-c09e-4f3e-91ad-9493339f0ada
+type: bibliography
+citation_label: CHEN ZHI 1979
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 史記新證
+  lang: chi
+  script: Hant
+- title: Shiji xinzheng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zhi
+  family: Chen
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhi
+    family: Chen
+  - lang: chi
+    script: Hant
+    given: 直
+    family: 陳
+origin:
+  place: Tianjin
+  publisher: Renmin Chubanshe
+  date_issued: '1979'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

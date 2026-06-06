@@ -1,0 +1,46 @@
+uuid: 4be2f4fc-e0b4-467e-aa0d-920213a6fe8c
+type: bibliography
+citation_label: MEI HANCHENG 1997C
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 釋“刑”、“法”
+  script: Hant
+- title: Shi "xing", "fa"
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hancheng
+  family: Mei
+  script: Latn
+  names:
+  - script: Latn
+    given: Hancheng
+    transliteration: chinese/ala-lc
+    family: Mei
+  - script: Hant
+    given: 漢成
+    family: 梅
+- type: personal
+  roles:
+  - author
+  given: Bing
+  family: Wang
+  script: Latn
+  names:
+  - script: Latn
+    given: Bing
+    transliteration: chinese/ala-lc
+    family: Wang
+  - script: Hant
+    given: 兵
+    family: 王
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,37 @@
+uuid: 1f93b32e-9716-4304-b1f3-a8b2b411ff90
+type: bibliography
+citation_label: EICHHORN 1969
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Heldensagen aus dem unteren Yangtse-Tal
+  lang: ger
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: W.
+  family: Eichhorn
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: W.
+    family: Eichhorn
+origin:
+  place: Wiesbaden
+  publisher: Franz Steiner
+  date_issued: '1969'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Complete cursory translation.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,64 @@
+uuid: f44a3b97-2479-4f60-9d63-62384c416d2e
+type: bibliography
+citation_label: QIAN XUAN 1998
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 三禮詞典
+  lang: chi
+  script: Hant
+- title: Sanli cidian
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xuan
+  family: Qian
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Xuan
+    family: Qian
+  - lang: chi
+    script: Hant
+    given: 玄
+    family: 錢
+- type: personal
+  roles:
+  - author
+  given: Xingqi
+  family: Qian
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Xingqi
+    family: Qian
+  - lang: chi
+    script: Hant
+    given: 興奇
+    family: 錢
+origin:
+  place: Nanjing
+  publisher: Jiangsu guji chubanshe
+  date_issued: '1998'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: The ultimate traditionalist dictionary on the three classics of ritual, by the legendary specialist in the field.
+source:
+  format: MODS
+  version: '3.6'

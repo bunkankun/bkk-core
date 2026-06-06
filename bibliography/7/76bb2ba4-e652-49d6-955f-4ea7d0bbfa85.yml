@@ -1,0 +1,39 @@
+uuid: 76bb2ba4-e652-49d6-955f-4ea7d0bbfa85
+type: bibliography
+citation_label: CLAUDE LARRE ET AL. 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Su Wen, Les 11 premiers traites
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Claude
+  family: Larre
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Claude
+    family: Larre
+- roles:
+  - author
+origin:
+  place: Paris
+  publisher: Maisonneuve
+  date_issued: '1993'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: '[Non-philological bilingual edition, quite stimulating though notoriously vague on many philological points.]'
+source:
+  format: MODS
+  version: '3.6'

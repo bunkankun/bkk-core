@@ -1,0 +1,32 @@
+uuid: 1f9492bc-8368-4331-a405-1a29b2e664bc
+type: bibliography
+citation_label: JIANG SHULI 1987
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: “年、歲” 异名考
+  script: Hant
+- title: '"Nian, sui" yi ming kao'
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shuli
+  family: Jiang
+  script: Latn
+  names:
+  - script: Latn
+    given: Shuli
+    transliteration: chinese/ala-lc
+    family: Jiang
+  - script: Hant
+    given: 書利
+    family: 姜
+source:
+  format: MODS
+  version: '3.6'

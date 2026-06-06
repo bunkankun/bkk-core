@@ -1,0 +1,34 @@
+uuid: d0e66d35-ec61-4bee-984a-73a71c388b48
+type: bibliography
+citation_label: MATORE 1951
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Le Vocabulaire et la Societe sous Louis-Philippe
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Georges
+  family: Matore
+  script: Latn
+  names:
+  - script: Latn
+    given: Georges
+    family: Matore
+origin:
+  place: Geneva
+  publisher: Droz
+  date_issued: '1951'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Series of books on the history of the French vocabulary
+source:
+  format: MODS
+  version: '3.6'

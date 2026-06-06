@@ -1,0 +1,42 @@
+uuid: 5d7f8508-ffdb-45ac-8fa1-0e8e201d9011
+type: bibliography
+citation_label: WANG ZIJIN 1999
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: '"忠"觀念研究'
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zijin
+  family: Wang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zijin
+    family: Wang
+  - lang: chi
+    script: Hant
+    given: 子今
+    family: 王
+origin:
+  place: Changchun
+  publisher: Jilin Jiaoyu Chubanshe
+  date_issued: '1999'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Very readable book
+source:
+  format: MODS
+  version: '3.6'

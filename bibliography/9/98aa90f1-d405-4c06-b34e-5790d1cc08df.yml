@@ -1,0 +1,40 @@
+uuid: 98aa90f1-d405-4c06-b34e-5790d1cc08df
+type: bibliography
+citation_label: FAJUJINGSHU(A)
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 法句經疏
+  lang: chi
+  script: Hant
+- title: Fǎjù jīng shū
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Commentary to the Fǎjù jīng
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  family: anonym.
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    family: anonym.
+notes:
+- type: general
+  text: PELLIOT 2325
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

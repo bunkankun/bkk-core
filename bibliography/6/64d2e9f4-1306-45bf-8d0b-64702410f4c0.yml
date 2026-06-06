@@ -1,0 +1,41 @@
+uuid: 64d2e9f4-1306-45bf-8d0b-64702410f4c0
+type: bibliography
+citation_label: XUGAOSENGZHUAN
+ref_usage: '6'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 續高僧傳
+  lang: chi
+  script: Hant
+- title: Xù gāosēng zhuàn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Continued Records of Eminent Monks
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+notes:
+- type: general
+  text: Dàoxuān 道宣(596-667)
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

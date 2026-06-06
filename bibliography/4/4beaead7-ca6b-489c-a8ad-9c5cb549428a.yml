@@ -1,0 +1,32 @@
+uuid: 4beaead7-ca6b-489c-a8ad-9c5cb549428a
+type: bibliography
+citation_label: LENNARD 1991
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: But I Digress
+  subtitle: The Exploitation of Parentheses in English Printed Verse
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: John
+  family: Lennard
+  script: Latn
+  names:
+  - script: Latn
+    given: John
+    family: Lennard
+origin:
+  place: Oxford
+  publisher: OUP
+  date_issued: '1991'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

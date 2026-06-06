@@ -1,0 +1,47 @@
+uuid: 72f01a7a-59fe-4a95-926f-528b22b5f8c8
+type: bibliography
+citation_label: YANG LIUQIAO 1991
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 莊子譯詁
+  lang: chi
+  script: Hant
+- title: Zhuangzi yigu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Liuqiao
+  family: Yang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Liuqiao
+    family: Yang
+  - lang: chi
+    script: Hant
+    given: 柳橋
+    family: 楊
+origin:
+  place: Shanghai
+  publisher: Shanghai guji chubanshe
+  date_issued: '1991'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Careful philological edition.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,59 @@
+uuid: 9ddf8438-0f49-4e2e-9589-5a66bedd5fa1
+type: bibliography
+citation_label: TANG SONGPO 1989
+ref_usage: '3'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 漢語修辭辭格大辭典
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Songbo
+  family: Tang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Songbo
+    family: Tang
+  - lang: chi
+    script: Hant
+    given: 松波
+    family: 唐
+- type: personal
+  roles:
+  - author
+  given: Jianlin
+  family: Huang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Jianlin
+    family: Huang
+  - lang: chi
+    script: Hant
+    given: 建霖
+    family: 黄
+origin:
+  place: Beijing
+  publisher: Zhongguo Guoji Guangbo Chubanshe
+  date_issued: '1989'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 156 rhetorical devices illustrated from modern texts. Detailed discussion of the examples. Systematically arranged in a taxonomy, with excellent alphabetical indices. 843 pages. ***
+source:
+  format: MODS
+  version: '3.6'

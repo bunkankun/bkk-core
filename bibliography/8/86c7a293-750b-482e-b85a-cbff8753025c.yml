@@ -1,0 +1,31 @@
+uuid: 86c7a293-750b-482e-b85a-cbff8753025c
+type: bibliography
+citation_label: SINGER 2002
+ref_usage: '16'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Thesaurus proverbiorum medii aevi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Samuel
+  family: Singer
+  script: Latn
+  names:
+  - script: Latn
+    given: Samuel
+    family: Singer
+origin:
+  place: Berlin
+  publisher: De Gruyter
+  date_issued: 1996-2002
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

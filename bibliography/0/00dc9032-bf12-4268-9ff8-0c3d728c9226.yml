@@ -1,0 +1,47 @@
+uuid: 00dc9032-bf12-4268-9ff8-0c3d728c9226
+type: bibliography
+citation_label: QUANZHOU FUZHI
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 泉州府志
+  lang: chi
+  script: Hant
+- title: Quánzhōu fǔzhì
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Shūdō
+  family: Ishii
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shūdō
+    family: Ishii
+  - lang: chi
+    script: Hant
+    given: 修道
+    family: 石井
+origin:
+  date_issued: '1986'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: see Ishii 1986
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

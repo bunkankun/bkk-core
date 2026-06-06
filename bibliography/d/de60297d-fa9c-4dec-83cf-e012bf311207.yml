@@ -1,0 +1,56 @@
+uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+type: bibliography
+citation_label: YANG BAOZHONG 2002
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 論衡訓詁資料纂輯
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Baozhong
+  family: Yang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Baozhong
+    family: Yang
+  - lang: chi
+    script: Hant
+    given: 寶忠
+    family: 楊
+- type: personal
+  roles:
+  - author
+  given: Jinping
+  family: Ma
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Jinping
+    family: Ma
+  - lang: chi
+    script: Hant
+    given: 金平
+    family: 馬
+origin:
+  place: Baoding
+  publisher: Hebei Daxue Chubanshe
+  date_issued: '2002'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

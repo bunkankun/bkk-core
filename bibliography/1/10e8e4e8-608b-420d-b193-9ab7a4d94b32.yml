@@ -1,0 +1,49 @@
+uuid: 10e8e4e8-608b-420d-b193-9ab7a4d94b32
+type: bibliography
+citation_label: ENCKELL 2003
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Dictionnaire des Onomatopées
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Pierre
+  family: Enkell
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Pierre
+    family: Enkell
+- type: personal
+  roles:
+  - author
+  given: Pierre
+  family: Reseau
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Pierre
+    family: Reseau
+origin:
+  place: Paris
+  publisher: Presses Universitaires de France
+  date_issued: '2003'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: A uniquely readable and abundantly documented detailed dictionary, with a fine detailed bibliography concentrating on French.
+source:
+  format: MODS
+  version: '3.6'

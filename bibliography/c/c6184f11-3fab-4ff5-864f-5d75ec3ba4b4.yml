@@ -1,0 +1,44 @@
+uuid: c6184f11-3fab-4ff5-864f-5d75ec3ba4b4
+type: bibliography
+citation_label: LIN XINGGUANG 1994
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 現代漢語辭海
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xingguang
+  family: Lin
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Xingguang
+    family: Lin
+  - lang: chi
+    script: Hant
+    given: 杏光
+    family: 林
+- roles:
+  - author
+origin:
+  place: Peking
+  publisher: Renmin Zhonguo Chubanshe
+  date_issued: '1994'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This extensive compilation lists all constructions that a word can enter into. The grammatical analysis is notoriously unreliable, but the listings are always helpful.
+source:
+  format: MODS
+  version: '3.6'

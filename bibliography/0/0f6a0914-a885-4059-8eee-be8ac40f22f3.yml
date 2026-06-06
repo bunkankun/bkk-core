@@ -1,0 +1,38 @@
+uuid: 0f6a0914-a885-4059-8eee-be8ac40f22f3
+type: bibliography
+citation_label: SEKIDA 1977
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Two Zen Classics
+  subtitle: Mumonkan and Hekiganroku
+  lang: jpn
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Katsuki
+  family: Sekida
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    given: Katsuki
+    family: Sekida
+origin:
+  place: New York
+  publisher: Weatherhill
+  date_issued: '1977'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

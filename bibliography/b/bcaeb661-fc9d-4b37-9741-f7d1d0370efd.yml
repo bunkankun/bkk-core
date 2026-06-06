@@ -1,0 +1,37 @@
+uuid: bcaeb661-fc9d-4b37-9741-f7d1d0370efd
+type: bibliography
+citation_label: COUVREUR 1950A
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Les Quatre Livres
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: S.
+  family: Couvreur
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: S.
+    family: Couvreur
+origin:
+  place: Paris
+  publisher: Cathasia
+  date_issued: '1950'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Fluent French translation with painfully literal Latin translation systematically based on Zhū Xi's interpretations.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,42 @@
+uuid: 8530a9e7-7672-4e71-b655-1d16e76d5b0f
+type: bibliography
+citation_label: WARTBURG 1962
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Begriffssystem als Grundlage fuer die Lexikographie. Versuch eines Ordnungsschemas.
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Rudolf
+  family: Hallig
+  script: Latn
+  names:
+  - script: Latn
+    given: Rudolf
+    family: Hallig
+- type: personal
+  roles:
+  - author
+  given: Walther von
+  family: Wartburg
+  script: Latn
+  names:
+  - script: Latn
+    given: Walther von
+    family: Wartburg
+origin:
+  place: Berlin
+  publisher: Akademie-Verlag
+  date_issued: '1961'
+  date_encoding: w3cdtf
+  edition: 2nd ed.
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

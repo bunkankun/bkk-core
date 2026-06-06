@@ -1,0 +1,32 @@
+uuid: 502bac08-7730-4ca7-a311-4bd5136e7adf
+type: bibliography
+citation_label: YANG HONG 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 古代文化詞辨釋二則
+  script: Hant
+- title: Gudai wenhua ci bianshi er ze
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hong
+  family: Yang
+  script: Latn
+  names:
+  - script: Latn
+    given: Hong
+    transliteration: chinese/ala-lc
+    family: Yang
+  - script: Hant
+    given: 泓
+    family: 楊
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,38 @@
+uuid: 2f29f474-251c-44c7-a2f2-73702ed9be58
+type: bibliography
+citation_label: HE JIANZHANG 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Baihua Zhanguoce
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Jianzhang
+  family: He
+  script: Latn
+  names:
+  - script: Latn
+    given: Jianzhang
+    transliteration: chinese/ala-lc
+    family: He
+  - script: Hant
+    given: 建章
+    family: 何
+origin:
+  place: Changsha
+  publisher: Yuelushushe
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Helpful companion to the preceding scholarly edition with a complete translation.
+source:
+  format: MODS
+  version: '3.6'

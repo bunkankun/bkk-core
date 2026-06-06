@@ -1,0 +1,34 @@
+uuid: aadaac65-7b20-4149-8d10-80274a13efe3
+type: word
+super_entry_uuid: 0e5c3390-fa3d-4dce-9c33-90fa3d0dce2b
+concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+'n': '1'
+form:
+  orth: 何意
+  graph_uuids:
+  - 9ff11b21-1353-47ba-bcda-66484aef3dc1
+  - 86e4a807-6fa6-4cba-82e7-b424cdf004e7
+  pronunciations:
+  - lang: zh-Latn-x-pinyin
+    value: hé yì
+  - lang: zh-x-oc
+    value: ɡlaal qɯɡs
+  - lang: zh-x-mc
+    value: ɦɑ ʔɨ
+bibliography:
+- bibliography_uuid: 91cce1db-78cb-4b26-80cc-55ad3d26b0cf
+  scope: 204-205
+  scope_unit: page
+  notes:
+  - This compound is also used in BIANWEN. In ZTJ there is only one example for the meaning 'why'. In the other occurrences he2yi4 is used in its literary meaning 'have what meaning'.
+  - It is possibly a graphic variant of 何以.
+- bibliography_uuid: 4a517f92-28ea-42c8-a2c2-a507fe8e39d7
+  scope: '131'
+  scope_unit: page
+  notes:
+  - Glossed as 豈料，何故
+  - possibly a garphic variant of 何以
+sense_uuids:
+- 53b12c10-c3c5-4402-887c-d04e0b07c302
+source:
+  source_file: uuid-0e5c3390-fa3d-4dce-9c33-90fa3d0dce2b.xml

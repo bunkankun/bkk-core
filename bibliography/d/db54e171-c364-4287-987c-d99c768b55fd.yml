@@ -1,0 +1,46 @@
+uuid: db54e171-c364-4287-987c-d99c768b55fd
+type: bibliography
+citation_label: MEI HANCHENG 1997B
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 辭与詞
+  script: Hant
+- title: Ci yu ci
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hancheng
+  family: Mei
+  script: Latn
+  names:
+  - script: Latn
+    given: Hancheng
+    transliteration: chinese/ala-lc
+    family: Mei
+  - script: Hant
+    given: 漢成
+    family: 梅
+- type: personal
+  roles:
+  - author
+  given: Bing
+  family: Wang
+  script: Latn
+  names:
+  - script: Latn
+    given: Bing
+    transliteration: chinese/ala-lc
+    family: Wang
+  - script: Hant
+    given: 兵
+    family: 王
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,38 @@
+uuid: 4e927604-6fca-44d5-a35b-cacc92593b66
+type: bibliography
+citation_label: GAO HENG 1974
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Shangjunshu zhuyi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Heng
+  family: Gao
+  script: Latn
+  names:
+  - script: Latn
+    given: Heng
+    transliteration: chinese/ala-lc
+    family: Gao
+  - script: Hant
+    given: 亨
+    family: 高
+origin:
+  place: Beijing
+  publisher: Zhonghuashuju
+  date_issued: '1974'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: The standard modern Chinese translation and edition, but in simplified characters.
+source:
+  format: MODS
+  version: '3.6'

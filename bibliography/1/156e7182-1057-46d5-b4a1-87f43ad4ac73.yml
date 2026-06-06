@@ -1,0 +1,32 @@
+uuid: 156e7182-1057-46d5-b4a1-87f43ad4ac73
+type: bibliography
+citation_label: MINOIS 1995
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Histoire du suicide
+  subtitle: La societe occidentale face a la mort volontaire
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Georges
+  family: Minois
+  script: Latn
+  names:
+  - script: Latn
+    given: Georges
+    family: Minois
+origin:
+  place: Paris
+  publisher: Fayard
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,49 @@
+uuid: f25296ab-12f1-4e7c-a378-d30180eeb3a9
+type: bibliography
+citation_label: SUISHU
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 隋書
+  lang: chi
+  script: Hant
+- title: Suíshū
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zhēng
+  family: Wèi
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhēng
+    family: Wèi
+  - lang: chi
+    script: Hant
+    given: 徵
+    family: 魏
+origin:
+  place: Beijing
+  publisher: Zhonghua shuju
+  date_issued: '1979'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Wèi Zhēng (580-643)
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

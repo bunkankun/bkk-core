@@ -1,0 +1,42 @@
+uuid: fbae3147-2e47-4b28-a266-da4682c57b55
+type: bibliography
+citation_label: CHI CHANGHAI 2002
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: “史記”同義詞研究
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Changhai
+  family: Chi
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Changhai
+    family: Chi
+  - lang: chi
+    script: Hant
+    given: 昌海
+    family: 池
+origin:
+  place: Shanghai
+  publisher: Shanghai Guji Chubanshe
+  date_issued: '2002'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Singularly useful apendix listing over 800 synonym groups.
+source:
+  format: MODS
+  version: '3.6'

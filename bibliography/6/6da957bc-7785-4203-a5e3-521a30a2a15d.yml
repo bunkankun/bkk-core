@@ -1,0 +1,56 @@
+uuid: 6da957bc-7785-4203-a5e3-521a30a2a15d
+type: bibliography
+citation_label: AO JINGHAO 1982
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 古漢語研究論文集
+  lang: chi
+  script: Hant
+- title: Gu Hanyu yanjiu lunwenji
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Jinghao
+  family: Ao
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Jinghao
+    family: Ao
+  - lang: chi
+    script: Hant
+    given: 鏡浩
+    family: 敖
+- type: personal
+  roles:
+  - editor
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+    given: 中國社會科學院語言研究所古漢語研究室
+origin:
+  place: Beijing
+  publisher: Beijing Chubanshe
+  date_issued: '1982'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,53 @@
+uuid: 45696398-1942-4031-93c7-21a241f657e5
+type: bibliography
+citation_label: PAN ZHONGGUI 1978
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 敦煌俗字譜
+  lang: chi
+  script: Hant
+- title: Dūnhuáng súzì pǔ
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: A List of Vernacular Chinese Characters in Dūnhuáng Texts
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zhòngguī
+  family: Pān
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhòngguī
+    family: Pān
+  - lang: chi
+    script: Hant
+    given: 重規
+    family: 潘
+- roles:
+  - author
+origin:
+  place: Taibei
+  publisher: Taiwan shimen tushugongsi
+  date_issued: '1978'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,32 @@
+uuid: 500f11a6-5ae1-4aae-84c7-d782471ecfea
+type: bibliography
+citation_label: LUCKA 1908
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Die Phantasie
+  subtitle: Eine psychologische Untersuchung
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Ernst
+  family: Lucka
+  script: Latn
+  names:
+  - script: Latn
+    given: Ernst
+    family: Lucka
+origin:
+  place: Wien
+  publisher: Braunmueller
+  date_issued: '1908'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

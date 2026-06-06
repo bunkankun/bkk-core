@@ -1,0 +1,34 @@
+uuid: c339faa3-1456-4bc9-abfe-8b1c0a4d135f
+type: bibliography
+citation_label: LAUSBERG 1990
+ref_usage: '11'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Handbuch der literarischen Rhetorik
+  lang: de
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Heinrich
+  family: Lausberg
+  lang: de
+  script: Latn
+  names:
+  - lang: de
+    script: Latn
+    given: Heinrich
+    family: Lausberg
+origin:
+  place: Stuttgart
+  publisher: Franz Steiner Verlag
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

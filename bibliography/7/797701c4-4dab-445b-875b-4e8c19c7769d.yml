@@ -1,0 +1,40 @@
+uuid: 797701c4-4dab-445b-875b-4e8c19c7769d
+type: bibliography
+citation_label: YIRIMONIJING
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 遺日摩尼寶經
+  lang: chi
+  script: Hant
+- title: Yírì móníbǎo jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Kāsyapaparivarta
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  family: LokakSsema
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    family: LokakSsema
+notes:
+- type: general
+  text: tr. in the 2nd cent. A.D.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

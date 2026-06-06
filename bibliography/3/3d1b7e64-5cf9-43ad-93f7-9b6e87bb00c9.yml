@@ -1,0 +1,61 @@
+uuid: 3d1b7e64-5cf9-43ad-93f7-9b6e87bb00c9
+type: bibliography
+citation_label: HEJI
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 甲骨文合集
+  lang: chi
+  script: Hant
+- title: Jiǎgǔwén héjí
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Collected Oracle Bone Writings
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Muoruo
+  family: Guo
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    given: Muoruo
+    family: Guo
+- type: personal
+  roles:
+  - editor
+  given: Houxuan
+  family: Hu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    given: Houxuan
+    family: Hu
+origin:
+  place: Beijing
+  publisher: Zhonghua shuju
+  date_issued: '1998'
+  date_encoding: w3cdtf
+  edition: reprint of 1979-1982 edition
+  issuance: monographic
+notes:
+- type: general
+  text: The HEJI contains 41,956 photographs of rubbings and lithographs of most of the main oracle-bone inscriptions discovered between 1899 and 1970.
+- type: information-basis
+  text: 'Wilkinson 2000: 400'
+source:
+  format: MODS
+  version: '3.6'

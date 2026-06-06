@@ -1,0 +1,51 @@
+uuid: 4a517f92-28ea-42c8-a2c2-a507fe8e39d7
+type: bibliography
+citation_label: JIANG SHAOYU 1994
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 近代漢語研究概況
+  lang: chi
+  script: Hant
+- title: Jìndài hànyǔ yánjiū gàikuàng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: A Survey Study on Early Mandarin
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shàoyú
+  family: Jiǎng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shàoyú
+    family: Jiǎng
+  - lang: chi
+    script: Hant
+    given: 紹愚
+    family: 蔣
+origin:
+  place: Beijing
+  publisher: Beijing daxue chubanshe
+  date_issued: '1994'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

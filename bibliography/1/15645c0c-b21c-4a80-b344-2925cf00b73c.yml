@@ -1,0 +1,32 @@
+uuid: 15645c0c-b21c-4a80-b344-2925cf00b73c
+type: bibliography
+citation_label: YANAGIDA 1964
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 《祖堂集》の本文研究
+  script: Hant
+- title: Sodōshū no honbun kenkyū [Textual Studies of ZTJ]
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Seizan
+  family: Yanagida
+  script: Latn
+  names:
+  - script: Latn
+    given: Seizan
+    transliteration: chinese/ala-lc
+    family: Yanagida
+  - script: Hant
+    given: 聖山
+    family: 柳田
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,40 @@
+uuid: bf1bda05-49b7-486d-853a-6ad45da95f49
+type: bibliography
+citation_label: DUPRIEZ 1991
+ref_usage: '5'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Dictionary of Literary Devices. Gradus, A-Z
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Bernard
+  family: Dupriez
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Bernard
+    family: Dupriez
+- type: personal
+  roles:
+  - editor
+  given: Albert W.
+  family: Halsall
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Albert W.
+    family: Halsall
+source:
+  format: MODS
+  version: '3.6'

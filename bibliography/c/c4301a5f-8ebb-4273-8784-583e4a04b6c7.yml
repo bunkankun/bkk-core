@@ -1,0 +1,41 @@
+uuid: c4301a5f-8ebb-4273-8784-583e4a04b6c7
+type: bibliography
+citation_label: YUANMINGLUN
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 圓名論
+  lang: chi
+  script: Hant
+- title: Yuánmíng lùn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Treatise on Perfect Illumination
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+notes:
+- type: general
+  text: 'The attribution to the Northern master Shénxiù (606?-706) is not certain. Ed. in McRae 1986: 18-44 (Chinese page numbers starting from the end of the book).'
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

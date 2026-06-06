@@ -1,0 +1,35 @@
+uuid: 9f75ea85-1cff-42b0-9daa-19a65103cd12
+type: bibliography
+citation_label: DOEHLEMANN 1995
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Langeweile?
+  subtitle: Deutung eines verbreiteten Phänomens
+  lang: ger
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Martin
+  family: Doehlemann
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: Martin
+    family: Doehlemann
+origin:
+  place: Frankfurt am Main
+  publisher: Suhrkamp
+  date_issued: '1991'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,38 @@
+uuid: c5b1a1e9-42d2-4d84-acec-02560888a04b
+type: bibliography
+citation_label: LI WANSHOU 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Yanzichunqiu quanyi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Wanshou
+  family: Li
+  script: Latn
+  names:
+  - script: Latn
+    given: Wanshou
+    transliteration: chinese/ala-lc
+    family: Li
+  - script: Hant
+    given: 萬壽
+    family: 李
+origin:
+  place: Guiyang
+  publisher: Guizho1urenmin
+  date_issued: '1993'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Useful complete translation with concise modern annotation.
+source:
+  format: MODS
+  version: '3.6'

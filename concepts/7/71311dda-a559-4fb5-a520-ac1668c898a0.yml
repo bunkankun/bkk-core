@@ -1,0 +1,92 @@
+uuid: 71311dda-a559-4fb5-a520-ac1668c898a0
+type: concept
+concept: BOOK
+zh: 書
+definition: BIG DOCUMENT CONTAINING MANY CHAPTERS.
+criteria:
+- type: old-chinese-criteria
+  text: When exactly does [[書]] come to designate a book rather than any document. It is not obvious how one could determine this with any precision.
+- type: huang-jingui
+  text: 'HUANG JINGUI 2006
+
+
+    EDUCATION 2.
+
+
+    編，本指用繩串編起來的整部書籍；指其中一部分，側重在對已有目錄的重新編排，但數量無定。
+
+
+    卷，本指卷曲起來的整部書籍，即帛書；指其中一部分，多表示書籍的冊和本。
+
+
+    篇，本指寫在竹簡上的較短書籍，後世多用於完整的詩文；指其中一部分，是最小的一個獨立篇章。'
+- type: modern-chinese-criteria
+  text: '書籍
+
+
+    書本
+
+
+    書
+
+
+    芸帙
+
+
+    芸編
+
+
+    青編
+
+
+    青簡
+
+
+    編簡
+
+
+    黃卷
+
+
+    汗簡
+
+
+    圖書
+
+
+    書簡
+
+
+    經籍
+
+
+    本本
+
+
+    書冊'
+hypernyms:
+- 42b11726-0033-4229-8329-4e0e443f1fa9
+hyponyms:
+- 6b791e70-fb80-4807-8f81-da0bfe7401f9
+bibliography:
+- bibliography_uuid: 0e53b7a8-3acd-4859-ac83-596e75d42e7d
+  notes:
+  - LIBRI
+- bibliography_uuid: d905dccd-9c5f-458e-b56c-c2a7c09e2d72
+  scope: '3.117'
+  scope_unit: page
+- bibliography_uuid: 8ac58077-9ac3-45f3-b5aa-eb9790f4ed0f
+- bibliography_uuid: 5058f490-4d8b-43b1-a3da-a7f078897c3d
+  scope: 3.247-300
+  scope_unit: page
+- bibliography_uuid: 7fede423-9ddf-4c45-9d79-c88d5a457eb7
+  scope: '59'
+  scope_unit: page
+- bibliography_uuid: dd880ef8-7a84-4159-b910-4eac902c9273
+  scope: '513'
+  scope_unit: page
+  notes:
+  - LOGOS/WORD
+- bibliography_uuid: 57350e2c-978e-4013-b566-812ce1ea8cbf
+  scope: 77B
+  scope_unit: page

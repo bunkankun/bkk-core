@@ -1,0 +1,43 @@
+uuid: 18eda39a-528d-47c9-8df1-80072863b30c
+type: bibliography
+citation_label: ZHOU ZUOQIU 1981
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 中學語文詞語辨析
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zuoqiu
+  family: Zhou
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zuoqiu
+    family: Zhou
+  - lang: chi
+    script: Hant
+    given: 作秋
+    family: 周
+- roles:
+  - author
+origin:
+  publisher: Guangdong Renming Chubanshe
+  date_issued: '1981'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 'WANG TONGWEI NOTES: 《前言》“本書從全國通用的中學語文課本裡挑選出477個同義詞和近義詞，分171組”“其中有些不一定是同義詞或近義詞，而只是有某些相同之處，用起來又容易混淆的。”'
+source:
+  format: MODS
+  version: '3.6'

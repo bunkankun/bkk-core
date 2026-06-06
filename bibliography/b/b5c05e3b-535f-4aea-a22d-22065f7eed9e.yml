@@ -1,0 +1,41 @@
+uuid: b5c05e3b-535f-4aea-a22d-22065f7eed9e
+type: bibliography
+citation_label: ROSEN 2004
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Free speech in classical antiquity
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Mark
+  family: Rosen
+  script: Latn
+  names:
+  - script: Latn
+    given: Mark
+    family: Rosen
+- type: personal
+  roles:
+  - editor
+  given: Ineke
+  family: Sluiter
+  script: Latn
+  names:
+  - script: Latn
+    given: Ineke
+    family: Sluiter
+origin:
+  place: Leiden
+  publisher: Brill
+  date_issued: '2004'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

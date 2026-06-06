@@ -1,0 +1,41 @@
+uuid: 1e4865d2-09cd-4ed4-ba54-02abebca469e
+type: bibliography
+citation_label: ZENSEKI KAIDAI
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 禪籍解題
+  lang: jpn
+  script: Hant
+- title: Zenseki kaidai [Explanation of Zen Literary Works]
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Seizan
+  family: Yanagida
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Seizan
+    family: Yanagida
+  - lang: jpn
+    script: Hant
+    given: 聖山
+    family: 柳田
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,52 @@
+uuid: 65211d88-b5c5-47bd-824d-72d882a38788
+type: bibliography
+citation_label: ZANG LIHE 1982
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 中國古今地名大辭典
+  lang: chi
+  script: Hant
+- title: Zhōngguó gǔjīn dìmíng dàcídiǎn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Encyclopedic Dictionary of Historical and Modern Chinese Place Names
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Lìhé
+  family: Zāng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Lìhé
+    family: Zāng
+  - lang: chi
+    script: Hant
+    given: 勵和
+    family: 藏
+origin:
+  place: Hong Kong
+  publisher: Shangwu yinshuguan Xianggang fenguan
+  date_issued: '1982'
+  date_encoding: w3cdtf
+  edition: reprint of 1931 edition
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

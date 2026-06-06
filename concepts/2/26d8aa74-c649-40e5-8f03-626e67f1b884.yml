@@ -1,0 +1,64 @@
+uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+type: concept
+concept: PLANT
+alt_labels:
+- FLOWER
+- VEGETABLE
+- HERB
+- SHRUB
+- WEED
+- (PLANTS) VEGETATION
+- GREENERY
+- FLORA
+- HERBAGE
+- VERDURE
+zh: 植物
+definition: CREATURE that CAN NOT VOLUTARILY MOVE.
+criteria:
+- type: old-chinese-criteria
+  text: '1. The general abstract term for a plant, rarely used, is zhí wù [[植物]].
+
+
+    2. The current term for plants or vegetation in general is cǎo mù [[草木]] "grasses and trees".
+
+
+    3. Cǎo [[草]] can refer to plants or all sorts, including flowers, but always to plants smaller than bushes.'
+- type: modern-chinese-criteria
+  text: '植物
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+hypernyms:
+- 7fbdcac8-ef20-48c8-9e33-233020456e38
+hyponyms:
+- a0b6a347-8dcc-43ab-9d96-c0eaf40ec24b
+- cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+- 856d203f-5d4f-4d33-98ec-546e0b930124
+- 4c9fc2d4-8571-4b3c-b705-f6571db030c6
+- 046c80e0-ee93-48c4-bb59-af509d3c60ae
+- 1760f18a-04e2-4f14-8976-7309970308b7
+- 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+- be1b0859-c516-4c8f-be40-bb65e2643fbf
+- 5a419c4c-2508-482a-86d0-5378ca825d37
+- b07cedc9-1443-4ab8-99c8-9b11f600159e
+- 659af973-78c5-4b82-862c-08298984161c
+other_relations:
+- type: mereonymy
+  uuids:
+  - 6d2ba07c-b6ff-4435-ac20-61155c77154c
+  - 86575c27-928a-420b-bd2a-2cbad60b1dfc
+  - 4c201b1a-8f1e-4b2d-9dbe-cb32e7976778
+  - 3499581a-eba5-4b00-8006-4c8f3b0e3e9d
+  - 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '8.53'
+  scope_unit: page
+- bibliography_uuid: 3b236090-4acd-46ce-b995-92f04f6fa024
+  scope: 180-204
+  scope_unit: page
+  notes:
+  - Basic botanical terminology simply explained.
+- bibliography_uuid: ddc8dc41-e703-448c-9f61-6db9445685a7
+  notes:
+  - PFLANZE

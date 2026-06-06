@@ -1,0 +1,51 @@
+uuid: 87e3c9d9-977b-4a25-a79f-2cdff4298207
+type: bibliography
+citation_label: ERRU SIXING LUN(B)
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 二入四行論
+  lang: chi
+  script: Hant
+- title: Èrrù sìxíng lùn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Treatise on the Two Entries and Four Practices
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+- type: personal
+  roles:
+  - editor
+  family: SUZUKI 1968
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    family: SUZUKI 1968
+notes:
+- type: general
+  text: attr. to Bodhidharma; STEIN 2715, 3375, 7159; PELLIOT 2923, 3018, 4634
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,157 @@
+uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+type: concept
+concept: CITY
+alt_labels:
+- TOWN
+- MUNICIPALITY
+- METROPOLIS
+- MEGALOPOLIS
+- MEGACITY
+- CONURBATION
+- URBAN AREA
+- METROPOLITAN AREA
+- URBAN MUNICIPALITY
+- BOROUGH
+- TOWNSHIP
+zh: 城市
+och: 邑
+definition: BIG PLACE that CONTAINS MANY STREETS AND GOVERNMENT BUILDINGS, AND where INTENSELY MANY PEOPLE LIVE NEAR TOGETHER.
+criteria:
+- type: old-chinese-criteria
+  text: '1. The most general term for walled urban or semi-urban administrative centres and settlements below the level of the capital, and above the level of the village without any presence of the state administration, is [[邑]]. In OBI the word can also refer to the royal capital.
+
+
+    2. Dū [[都]] refers to a larger urbanised settlement with an ancestral shrine for the leading family in the town, and with representatives of the central state government in permanent residence. The word came to refer quite generally to a city in post-Warring States times.
+
+
+    3. Chéng [[城]] refers specifically to the part of a city surrounded by the inner city wall chéng [[城]]. But the word is also sometimes used to refer more generally to walled cities.
+
+
+    4. Guō [[郭]] refers to the part of a walled city outside the inner city walls chéng [[城]] but inside the outer city walls guō [[郭]]. Sometimes the outer walls are added on one side only of the inner city walls thus creating a kind of second-level walled city.
+
+
+    5. Fú [[郛]] refers to a large guō [[郭]] "inhabited area between inner and outer city walls".
+
+
+    6. Jiāo [[郊]] refers to the cultivated area outside the guō [[郭]] and bounded by yě [[野]] "open countryside". See SUBURB'
+- type: modern-chinese-criteria
+  text: '城市
+
+
+    市
+
+
+    城
+
+
+    都
+
+
+    邑
+
+
+    垣
+
+
+    都會
+
+
+    都市
+
+
+    都邑
+
+
+    城邑
+
+
+    城池
+
+
+    通都大邑
+
+
+    town:
+
+
+    集鎮
+
+
+    鎮
+
+
+    鎮子
+
+
+    市鎮
+
+
+    鄉鎮
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+antonyms:
+- 519d9f60-de87-4384-8af8-3069c914135d
+- 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+hypernyms:
+- 9ad2188b-a1fe-4493-9868-b5683a3a0606
+hyponyms:
+- 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+- 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+see_also:
+- d00e5efd-6c89-45a1-adad-cbc53b11aa70
+other_relations:
+- type: mereonymy
+  uuids:
+  - 097ce0e4-819b-489f-b034-a9d4906938e1
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '19.15'
+  scope_unit: page
+- bibliography_uuid: c6a5120d-a888-44ce-b517-b0cbba82518a
+  scope: '961'
+  scope_unit: page
+  notes:
+  - POLIS
+- bibliography_uuid: 4af55868-d85f-4a0a-b22a-adbf6ab4a3a8
+  scope: '329'
+  scope_unit: page
+  notes:
+  - '587. Ex Serv. ad ill. II Aen.: Festa velamus fronde per Urbem. Vid. Non. dictionibus. Inter Urbem, et Civitatem. Al. Ut urbe moenia civitatis significet, civitate incolas urbis.'
+  - '-- Urbem autem. Serv. ad ill. I En., Urbs antiqua fuit: et Donat. ad ill. V Urbem designat aratro.'
+  - '[col. 68C] -- Aratrum, vel. Pars aratri non aratrum, neque sulcus, sed quod sulcus fit, melius distinctiusque ipse lib. Etymolog. XV, cap. 2.'
+  - '[col. 68D] -- Ab orbe. Servius, loco citato, ab orbe, quod antiquae civitates in orbem fiebant.'
+  - ']'
+  - '587. Inter Urbem et civitatem ita distinguit Cicero, ut urbem moenia civitatis significent, civitas incolas urbis. Nam ad Dolabellam sic scripsit: Liberasti urbem a periculo, civitatem a metu. Urbem autem ab urbo, quem aratrum vel sulcum veteres dicebant, aut ab orbe dictam putant, cujus in se imaginem respublica contineret. Porro oppidum ad habitantes pertinet, civitas ad leges, urbs ad utrumque.'
+- bibliography_uuid: 5aaabca2-df18-4c0b-8f98-2515ef3a8df3
+  scope: '1309'
+  scope_unit: page
+- bibliography_uuid: 0e53b7a8-3acd-4859-ac83-596e75d42e7d
+  notes:
+  - URBS
+- bibliography_uuid: abc2f8ad-0bc4-4663-a70c-806e480d7081
+  scope: '49'
+  scope_unit: page
+- bibliography_uuid: d905dccd-9c5f-458e-b56c-c2a7c09e2d72
+  scope: '4.1915'
+  scope_unit: page
+- bibliography_uuid: be4461ef-350c-4c36-b3f4-aa5d10e78e12
+  scope: '716'
+  scope_unit: page
+- bibliography_uuid: ddc8dc41-e703-448c-9f61-6db9445685a7
+  notes:
+  - PFRUENDEN 食邑
+  - CITY
+- bibliography_uuid: ebe4710d-bf7c-496a-8815-9e6f1c15c1a9
+  scope: '1463'
+  scope_unit: page
+  notes:
+  - 邑，都，國
+- bibliography_uuid: 65cb3fa8-ba3e-4eef-b23e-5b43a8bb8651
+- bibliography_uuid: bbf731db-f5e8-4da6-9d88-b10c69b707ad
+  scope: no.105
+  scope_unit: page
+- bibliography_uuid: bbf731db-f5e8-4da6-9d88-b10c69b707ad
+  scope: no.363
+  scope_unit: page
+- bibliography_uuid: 13b8c22a-fe16-4ea1-aa90-86814381e229

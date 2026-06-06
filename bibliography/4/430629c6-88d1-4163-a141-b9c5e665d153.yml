@@ -1,0 +1,47 @@
+uuid: 430629c6-88d1-4163-a141-b9c5e665d153
+type: bibliography
+citation_label: HUANG HUI 1990
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 論衡校釋（附劉盼遂集解）
+  lang: chi
+  script: Hant
+- title: Lunheng jiaoshi (fu Liu Pansui jijie)
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hui
+  family: Huang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Hui
+    family: Huang
+  - lang: chi
+    script: Hant
+    given: 暉
+    family: 黃
+origin:
+  place: Peking
+  publisher: Zhonghuashuju
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 4 vols. [The standard critical annotated text.]
+source:
+  format: MODS
+  version: '3.6'

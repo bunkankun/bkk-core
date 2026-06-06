@@ -1,0 +1,47 @@
+uuid: 14f33fd0-1fd1-4c50-88e4-329c8ee7c15b
+type: bibliography
+citation_label: QIAN CHAOCHEN 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 戰國策譯注
+  lang: chi
+  script: Hant
+- title: Zhanguoce yizhu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Chaochen
+  family: Qian
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Chaochen
+    family: Qian
+  - lang: chi
+    script: Hant
+    given: 超塵
+    family: 錢
+origin:
+  place: Peking
+  publisher: Beijing yanchu chubanshe
+  date_issued: '1993'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Convenient crib.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,77 @@
+uuid: a81dc54d-3432-4d57-a936-2e1d2987fb41
+type: concept
+concept: INJURY
+alt_labels:
+- WOUND
+- BRUISE
+- CUT
+- GASH
+- LACERATION
+- SCRATCH
+- GRAZE
+- ABRASION
+- CONTUSION
+- LESION
+- MEDICINE TRAUMA
+zh: 傷口
+definition: TYPICALLY VISIBLE DAMAGE to the BODY, CAUSED by being INJURED.
+criteria:
+- type: old-chinese-criteria
+  text: '1. The current general word for an injury is shāng [[傷]].
+
+
+    2. Chuàng [[創]] refers very concretely to the wound inflicted, the laceration of the skin.'
+- type: modern-chinese-criteria
+  text: '外傷
+
+
+    金瘡
+
+
+    瘡傷
+
+
+    傷口
+
+
+    瘡
+
+
+    花
+
+
+    痿
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+hypernyms:
+- 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+hyponyms:
+- 1d09ba7a-9193-40dd-89a2-b974e23ccc21
+see_also:
+- c62a7113-5160-455e-b93e-d9af30f0190c
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '4.85'
+  scope_unit: page
+- bibliography_uuid: ab831347-9626-498d-aa1e-eb43eae72d05
+  notes:
+  - WOUND
+  - vulnus refers to a wound caused by a weapon or another kind of cutting instrument.
+  - plaga refers to a wound caused by any instrument carried with an intention to injure.
+  - ulcus refers to any open or sore place in the body insofar as this has started to fester.
+  - cicatrix refers to the scar that is lefter after a wound is healed.
+- bibliography_uuid: 0e53b7a8-3acd-4859-ac83-596e75d42e7d
+  notes:
+  - VULNUS
+- bibliography_uuid: abc2f8ad-0bc4-4663-a70c-806e480d7081
+  scope: ７５
+  scope_unit: page
+- bibliography_uuid: ebe4710d-bf7c-496a-8815-9e6f1c15c1a9
+  scope: '754'
+  scope_unit: page
+  notes:
+  - 疻，痏
+- bibliography_uuid: bbf731db-f5e8-4da6-9d88-b10c69b707ad
+  scope: no.208
+  scope_unit: page

@@ -1,0 +1,37 @@
+uuid: 5bdc2962-1233-4b7e-8dcc-586488843651
+type: bibliography
+citation_label: GRAHAM 1960
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Lieh Tzu
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: A.C.
+  family: Graham
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: A.C.
+    family: Graham
+origin:
+  place: London
+  publisher: John Murray
+  date_issued: '1960'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: One of Graham's finest achievements as a translator.
+source:
+  format: MODS
+  version: '3.6'

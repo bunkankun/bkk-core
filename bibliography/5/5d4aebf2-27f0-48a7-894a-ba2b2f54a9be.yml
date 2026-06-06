@@ -1,0 +1,34 @@
+uuid: 5d4aebf2-27f0-48a7-894a-ba2b2f54a9be
+type: bibliography
+citation_label: Schmidt 1876ff
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Synonymik der griechischen Sprache
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: J.H. Heinrich
+  family: Schmidt
+  script: Latn
+  names:
+  - script: Latn
+    given: J.H. Heinrich
+    family: Schmidt
+origin:
+  place: Leipzig
+  publisher: B.G. Teubner
+  date_issued: 1876ff
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: A remarkable philological tour de force, with much emphasis on etymology, and less success in semantic analysis.
+source:
+  format: MODS
+  version: '3.6'

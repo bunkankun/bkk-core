@@ -1,0 +1,32 @@
+uuid: a556208f-699e-4317-966d-654625628e02
+type: bibliography
+citation_label: ZANG LI 1983
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: “疾”和“疾病”
+  script: Hant
+- title: '"Ji" he "jibing"'
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Li
+  family: Zang
+  script: Latn
+  names:
+  - script: Latn
+    given: Li
+    transliteration: chinese/ala-lc
+    family: Zang
+  - script: Hant
+    given: 立
+    family: 臧
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,41 @@
+uuid: e988df69-b383-4560-b42a-14040e035ed7
+type: bibliography
+citation_label: CHUANFABAOJI
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 傳法寶紀
+  lang: chi
+  script: Hant
+- title: Chuán fǎbǎo jì
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Annals of the Transmission of the Dharma-treasure
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+notes:
+- type: general
+  text: 'orig. on PELLIOT 3559. Tr. in YANAGIDA 1971: 329-435 and MCRAE 1986: 255-269. This is an early Chán transmission text which was written in 712 A.D. by a member of the Northern Chán School. The text creates a connection between the ‘Patriarchs’ Dàoxìn 道信, Sēngcàn 僧璨, and Hóngrěn 弘忍.'
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,37 @@
+uuid: e6275095-a24d-4717-ba03-3272215e4570
+type: bibliography
+citation_label: DRAGUNOV 1960
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Untersuchungen zur Grammatik der Modernen Chinesischen Sprache
+  lang: ger
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: A. A.
+  family: Dragunov
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: A. A.
+    family: Dragunov
+origin:
+  place: Berlin
+  publisher: Akademie Verlag
+  date_issued: '1960'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

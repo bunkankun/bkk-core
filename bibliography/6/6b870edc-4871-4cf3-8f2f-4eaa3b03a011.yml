@@ -1,0 +1,41 @@
+uuid: 6b870edc-4871-4cf3-8f2f-4eaa3b03a011
+type: bibliography
+citation_label: NIRVANA(A)
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 大般泥洹經
+  lang: chi
+  script: Hant
+- title: Dàbān níhuán jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Mahāparinirvāna sūtra
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - translator
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+notes:
+- type: general
+  text: One of the central Mahayana texts in China, important for the development of the Buddha-nature doctrines.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

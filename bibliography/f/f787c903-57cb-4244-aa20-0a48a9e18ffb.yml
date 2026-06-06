@@ -1,0 +1,37 @@
+uuid: f787c903-57cb-4244-aa20-0a48a9e18ffb
+type: bibliography
+citation_label: FAYUAN ZHULIN
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 法苑珠林
+  lang: chi
+  script: Hant
+- title: Fǎyuàn zhūlín
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+notes:
+- type: general
+  text: ca. 668
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

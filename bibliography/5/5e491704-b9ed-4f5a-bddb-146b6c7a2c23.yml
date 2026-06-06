@@ -1,0 +1,31 @@
+uuid: 5e491704-b9ed-4f5a-bddb-146b6c7a2c23
+type: bibliography
+citation_label: VIGARELLO 2010
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 'Les métamorphoses du gras : Histoire de l''obésité du Moyen Age au XXe siècle'
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Georges
+  family: Vigarello
+  script: Latn
+  names:
+  - script: Latn
+    given: Georges
+    family: Vigarello
+origin:
+  place: Paris
+  publisher: Gallimard
+  date_issued: '2010'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

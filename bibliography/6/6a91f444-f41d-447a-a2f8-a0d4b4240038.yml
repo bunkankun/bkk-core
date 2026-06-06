@@ -1,0 +1,41 @@
+uuid: 6a91f444-f41d-447a-a2f8-a0d4b4240038
+type: bibliography
+citation_label: YANG RENZHI
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 尚書今注今譯
+  lang: chi
+  script: Hant
+- title: Shangshu jinzhu jinyi
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Renzhi
+  family: Yang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Renzhi
+    family: Yang
+  - lang: chi
+    script: Hant
+    given: 任之
+    family: 楊
+origin:
+  place: Peking
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

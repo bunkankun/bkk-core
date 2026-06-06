@@ -1,0 +1,53 @@
+uuid: 85bfeb9b-ad90-48d9-861d-4be2919fcd9e
+type: bibliography
+citation_label: DASHENG XINXING LUN(C)
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 大乘心行論
+  lang: chi
+  script: Hant
+- title: Dàshèng xīnxíng lùn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Treatise on the Practice of Mind in Mahāyāna
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+- type: personal
+  roles:
+  - editor
+  given: 84-125
+  family: 'ANDERL 1995:'
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    given: 84-125
+    family: 'ANDERL 1995:'
+notes:
+- type: general
+  text: this is a complete and heavily annotated translation into German; the text is also placed in the context of similar texts of the early 8th cent.; orig. on PELLIOT 3559, plates 28-33; the attribution to Sengchou (480-560) is very doubtful and the text was probably composed in the beginning of the 8th century by members of the early Chán School.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

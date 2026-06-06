@@ -1,0 +1,33 @@
+uuid: 8a163aa1-9d22-431a-a12f-6dd02de156a4
+type: bibliography
+citation_label: FUGIER 1963
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Recherches sur l'expression du sacre dans la langue latine
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: H.
+  family: Fugier
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: H.
+    family: Fugier
+origin:
+  place: Strasbourg
+  date_issued: '1963'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

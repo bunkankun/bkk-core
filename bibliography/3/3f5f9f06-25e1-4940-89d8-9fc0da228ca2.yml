@@ -1,0 +1,37 @@
+uuid: 3f5f9f06-25e1-4940-89d8-9fc0da228ca2
+type: bibliography
+citation_label: HERNANDEZ 2000
+ref_usage: '35'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Semantica del Griego Antiguo
+  lang: spn
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Marcos Martinez
+  family: Hernandes
+  lang: spn
+  script: Latn
+  names:
+  - lang: spn
+    script: Latn
+    given: Marcos Martinez
+    family: Hernandes
+origin:
+  place: Madrid
+  publisher: EdicionesClasicas
+  date_issued: '2000'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This is a remarkably rich treasury of bibliographic information about classical Greek synonyms and semantic analyses of Greek concepts.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,39 @@
+uuid: 4c422735-54b7-4a18-a4ed-0038f2f74bc4
+type: bibliography
+citation_label: LIU ZHAO 2003
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 郭店楚簡
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zhao
+  family: Liu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhao
+    family: Liu
+  - lang: chi
+    script: Hant
+    given: 釗
+    family: 劉
+origin:
+  place: Xiamen
+  publisher: Fujian Renminchubanshe
+  date_issued: '2005'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,35 @@
+uuid: 94f4fe17-0905-402c-98b9-7c75def24a9a
+type: bibliography
+citation_label: BIBLE/BULLINGER 1898
+ref_usage: '9'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Figures of Speech Used in the Bible. Explained and Illustrated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: E.W.
+  family: Bullinger
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: E.W.
+    family: Bullinger
+origin:
+  place: Grand Rapids, Michigan
+  publisher: Baker Book House
+  date_issued: '1981'
+  date_encoding: w3cdtf
+  edition: reprint of 1898 edition
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

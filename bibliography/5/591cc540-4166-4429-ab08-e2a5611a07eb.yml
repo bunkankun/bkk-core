@@ -1,0 +1,47 @@
+uuid: 591cc540-4166-4429-ab08-e2a5611a07eb
+type: bibliography
+citation_label: ZENGAKU
+ref_usage: '15'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 禪學大辭典
+  lang: chi
+  script: Hant
+- title: Zengaku Daijiten
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: An Encyclopedic Dictionary of Zen Buddhism
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+origin:
+  place: Tokyo
+  publisher: Taishukan shoten
+  date_issued: '1977'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This is one of the standard dictionaries for Chán/Zen Buddhism; includes references to terminlogy, persoanl names, temples, schools, doctrines, etc.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

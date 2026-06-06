@@ -1,0 +1,50 @@
+uuid: 9def2453-a61c-4e60-ac91-cdb890277520
+type: bibliography
+citation_label: YU GU 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 禪宗語言和文獻
+  lang: chi
+  script: Hant
+- title: Chánzōng yǔyán hé wénxiàn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: The Language and Literary Works of the Zen School
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Gǔ
+  family: Yú
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Gǔ
+    family: Yú
+  - lang: chi
+    script: Hant
+    given: 谷
+    family: 于
+origin:
+  publisher: Jiangxi renmin chubanshe
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

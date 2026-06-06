@@ -1,0 +1,34 @@
+uuid: 56113ec2-e7ff-4f5d-b376-b32d5ad9cf8b
+type: bibliography
+citation_label: SUNG 1935
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: The Text of Yi King
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Z.D.
+  family: Sung
+  script: Latn
+  names:
+  - script: Latn
+    given: Z.D.
+    family: Sung
+origin:
+  place: Shanghai
+  publisher: The China Modern Education Company
+  date_issued: '1935'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Thoroughly convenient bilingual edition of J. Legge's translation.
+source:
+  format: MODS
+  version: '3.6'

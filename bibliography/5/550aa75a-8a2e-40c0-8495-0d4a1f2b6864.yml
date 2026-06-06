@@ -1,0 +1,38 @@
+uuid: 550aa75a-8a2e-40c0-8495-0d4a1f2b6864
+type: bibliography
+citation_label: CREAMER 1991
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: A Chinese-English Dictionary of the Wu dialect
+  subtitle: featuring the dialect of the city of Shanghai
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Thomas
+  family: Creamer
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Thomas
+    family: Creamer
+origin:
+  place: Kensington
+  publisher: Dunwoody Press
+  date_issued: '1991'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

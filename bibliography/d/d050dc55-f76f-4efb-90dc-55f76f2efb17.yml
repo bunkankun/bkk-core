@@ -1,0 +1,27 @@
+uuid: d050dc55-f76f-4efb-90dc-55f76f2efb17
+type: bibliography
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+contributors:
+- type: personal
+  roles:
+  - Author
+  family: Wittern
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Wittern
+origin:
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CW
+source:
+  format: MODS
+  version: '3.6'

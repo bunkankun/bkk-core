@@ -1,0 +1,31 @@
+uuid: 03c91298-e6f6-4b5e-b214-b020ea161800
+type: bibliography
+citation_label: PECK 1965
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Harper's Dictionary of Classical Literature and Antiquities
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Harry Thurston
+  family: Peck
+  script: Latn
+  names:
+  - script: Latn
+    given: Harry Thurston
+    family: Peck
+origin:
+  place: New York
+  publisher: Cooper Square Publishers, Inc.
+  date_issued: '1965'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

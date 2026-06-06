@@ -1,0 +1,47 @@
+uuid: eb06aa63-2552-4355-a1e8-4cccfc6942bd
+type: bibliography
+citation_label: WANG SHOUQIAN 1992
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 戰國策全譯
+  lang: chi
+  script: Hant
+- title: Zhanguoce quanyi
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shouqian
+  family: Wang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shouqian
+    family: Wang
+  - lang: chi
+    script: Hant
+    given: 守謙
+    family: 王
+origin:
+  place: Guiyang
+  publisher: Guizhourenmin
+  date_issued: '1992'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Very convenient crib.
+source:
+  format: MODS
+  version: '3.6'

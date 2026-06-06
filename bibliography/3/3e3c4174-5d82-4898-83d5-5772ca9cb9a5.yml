@@ -1,0 +1,38 @@
+uuid: 3e3c4174-5d82-4898-83d5-5772ca9cb9a5
+type: bibliography
+citation_label: CHU SHUIAN 1986
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 文言複式虛詞
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+    given: 水安
+    family: 楚
+origin:
+  place: Peking
+  publisher: Zhongguo Renmindaxue Chubanshe
+  date_issued: '1986'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 542 pages, alphabetically arranged by first character. Very convenient handbook.
+source:
+  format: MODS
+  version: '3.6'

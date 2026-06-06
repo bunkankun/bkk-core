@@ -1,0 +1,40 @@
+uuid: ae697063-c34c-4543-bd34-54a6fbeee92e
+type: bibliography
+citation_label: LANKA(B)
+ref_usage: '2'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 入楞伽經
+  lang: chi
+  script: Hant
+- title: Rù Léngqié jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Laṇkāvatāra sūtra
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  family: Bodhiruci (?-527)
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    family: Bodhiruci (?-527)
+notes:
+- type: general
+  text: One of the important Mahayana sutras in China. It includes a discussion of the nature of consciousness and tries to combine Yogacara thought (alayavijnana) with Tathagatagarbha (Buddha nature) theories. A translation see in Suzuki 1973; for an analysis of the content see Suzuki 1991.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

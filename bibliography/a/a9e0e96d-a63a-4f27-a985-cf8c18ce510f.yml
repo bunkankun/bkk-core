@@ -1,0 +1,42 @@
+uuid: a9e0e96d-a63a-4f27-a985-cf8c18ce510f
+type: bibliography
+citation_label: CHENG SHUDE 1990
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Lunyu jishi
+  lang: chi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shude
+  family: Cheng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shude
+    family: Cheng
+  - lang: chi
+    script: Hant
+    given: 樹德
+    family: 程
+origin:
+  place: Peking
+  publisher: Zhonghua shuju
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 4 vols.
+source:
+  format: MODS
+  version: '3.6'

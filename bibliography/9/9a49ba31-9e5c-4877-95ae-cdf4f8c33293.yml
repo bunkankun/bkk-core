@@ -1,0 +1,47 @@
+uuid: 9a49ba31-9e5c-4877-95ae-cdf4f8c33293
+type: bibliography
+citation_label: WANG LIQI 2002
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 呂氏春秋注疏
+  lang: chi
+  script: Hant
+- title: Lüshi chunqiu zhushu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Liqi
+  family: Wang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Liqi
+    family: Wang
+  - lang: chi
+    script: Hant
+    given: 利器
+    family: 王
+origin:
+  place: Chengdu
+  publisher: Bashushushe
+  date_issued: '2002'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: By far the most detailed critical edition. Manages to disregard Chen Qiyou, and concentrates on textual criticism rather than meaning.
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,38 @@
+uuid: 4f1c2c32-6d96-4cfc-8d00-1e50263caea3
+type: bibliography
+citation_label: FOBEN XINGJI JING
+ref_usage: '6'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 佛本行集經
+  lang: chi
+  script: Hant
+- title: Fóběn xíngjí jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Abhiniṣkramaṇa sūtra ?
+  type: translated
+  lang: san
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  family: Jñānagupta
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    family: Jñānagupta
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,32 @@
+uuid: eec1612d-56ee-4dd2-901e-8eb2e75f6121
+type: bibliography
+citation_label: LI CHUANSHU 1997
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 《說文》异詞同訓的定位分析
+  script: Hant
+- title: '"Shuowen" yi ci tong xun de dingwei fenxi'
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Chuanshu
+  family: Li
+  script: Latn
+  names:
+  - script: Latn
+    given: Chuanshu
+    transliteration: chinese/ala-lc
+    family: Li
+  - script: Hant
+    given: 傳書
+    family: 李
+source:
+  format: MODS
+  version: '3.6'

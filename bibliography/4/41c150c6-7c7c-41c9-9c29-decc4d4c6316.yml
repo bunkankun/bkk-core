@@ -1,0 +1,45 @@
+uuid: 41c150c6-7c7c-41c9-9c29-decc4d4c6316
+type: bibliography
+citation_label: TAISHOO INDEX
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 大正新修大藏經所引
+  lang: chi
+  script: Hant
+- title: Taishō shinshū daizōkyō sakuin
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Index to the Taishō Tripitaka
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+origin:
+  place: Tokyo
+  publisher: Taishō shinshū daizōkyō kankōkai
+  date_issued: 1940-1947
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

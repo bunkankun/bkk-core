@@ -1,0 +1,61 @@
+uuid: 2bb26b62-a1a4-4bba-811b-601e3fc46682
+type: bibliography
+citation_label: LIN YUSHAN 1987
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 同義反義成語詞典
+  lang: chi
+  script: Hant
+- title: Tongyi fanyi chengyi cidian
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yushan
+  family: Lin
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Yushan
+    family: Lin
+  - lang: chi
+    script: Hant
+    given: 玉山
+    family: 林
+- type: personal
+  roles:
+  - author
+  given: Yingying
+  family: Lin
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Yingying
+    family: Lin
+  - lang: chi
+    script: Hant
+    given: 英英
+    family: 林
+origin:
+  place: Shenzhen
+  publisher: Haitian Chubanshe
+  date_issued: '1987'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

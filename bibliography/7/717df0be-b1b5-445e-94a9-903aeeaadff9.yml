@@ -1,0 +1,39 @@
+uuid: 717df0be-b1b5-445e-94a9-903aeeaadff9
+type: bibliography
+citation_label: LYJS
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 論語集釋
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shude
+  family: Cheng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shude
+    family: Cheng
+  - lang: chi
+    script: Hant
+    given: 樹德
+    family: 程
+origin:
+  place: Beijing
+  publisher: Zhonghuashuju
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

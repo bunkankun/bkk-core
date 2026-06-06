@@ -1,0 +1,46 @@
+uuid: 015f0cda-099e-45d3-9d44-4936f17d2e05
+type: bibliography
+citation_label: GONCOURT 1875
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: L'Amour au dix-huitieme siecle
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Edmond de
+  family: Goncourt
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Edmond de
+    family: Goncourt
+- type: personal
+  roles:
+  - author
+  given: Jules de
+  family: Goncourt
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Jules de
+    family: Goncourt
+origin:
+  place: Paris
+  publisher: E. Dentu
+  date_issued: '1875'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

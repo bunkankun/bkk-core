@@ -1,0 +1,53 @@
+uuid: 34f874a8-77c2-42eb-87f6-a71d3b25f066
+type: bibliography
+citation_label: MA BEIJIA 2002
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 近代漢語介詞
+  lang: chi
+  script: Hant
+- title: Jìndài hànyǔ jiècí
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Prepositions of Middle Chinese/Early Mandarin
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Bèijiā
+  family: Mǎ
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Bèijiā
+    family: Mǎ
+  - lang: chi
+    script: Hant
+    given: 貝加
+    family: 馬
+origin:
+  place: Beijing
+  publisher: Zhonghua shuju
+  date_issued: '2002'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This is a very good study on the historical development of prepositions/coverbs; supplies many examples
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,38 @@
+uuid: 7302e93c-bd56-4b3b-8f06-cc118d09459e
+type: bibliography
+citation_label: LAI YANYUAN 1972
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Hanshiwaizhuan jinzhu jinyi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yanyuan
+  family: Lai
+  script: Latn
+  names:
+  - script: Latn
+    given: Yanyuan
+    transliteration: chinese/ala-lc
+    family: Lai
+  - script: Hant
+    given: 炎元,
+    family: 賴
+origin:
+  place: Taibei
+  publisher: Shangwuyinshuguan
+  date_issued: '1972'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: '[Useful translation but unreliable text.]'
+source:
+  format: MODS
+  version: '3.6'

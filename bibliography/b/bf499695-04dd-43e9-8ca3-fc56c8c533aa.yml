@@ -1,0 +1,42 @@
+uuid: bf499695-04dd-43e9-8ca3-fc56c8c533aa
+type: bibliography
+citation_label: DONGGUO XUN 1997
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 忍學大全
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xun
+  family: Dongguo
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Xun
+    family: Dongguo
+  - lang: chi
+    script: Hant
+    given: 遜
+    family: 東郭
+origin:
+  place: Beijing
+  publisher: Zhongguo Shehui Chubanshe
+  date_issued: '1997'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: A popular detailed commentary for moral edification.
+source:
+  format: MODS
+  version: '3.6'

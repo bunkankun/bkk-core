@@ -1,0 +1,19 @@
+uuid: 3473071e-1407-4804-a185-2db288ee8726
+type: syntactic-function
+code: nt
+description: 'transitive or relational noun.
+
+
+  A noun is deemed nt insofar as its semantics essentially involves a relation to something else. For example, the concept of MOTHER essentially involves being MOTHER OF someone else, just as the semantics of DISCIPLE involves being DISCIPLE of someone else.
+
+
+  transitive concrete noun'
+notes: 'This very important class, like its even more important sister class, the nab.t has not yet been fully implemented. It will assemble all those nouns for the semantics of which it is constitutive that they involve relations: thus one is a wife exactly to the extent that one has a certain relation to a husband, and one is a father exactly to the extent that one has a certain relation to a child. Needless to say, the valency of nouns presents many unresolved problems, but a first step towards their solution will be to assemble the candidates in a syntactic group.
+
+
+  The notion that not only abstract nouns but also concrete nouns can be transitive is current from many studies in the valency of words. MEL''CUK 1984-1999 presents many relevant cases in what he calles the "regime" of a noun. The notion of a ruler is transitive because a ruler is only a ruler to the extent that he is a ruler of a realm. A protector is only a protector to the extent that there is something which he protects. A murderer is only a murderer to the extent that there is someone he has killed. All agent nominalisations of transitive verbs retain the transitivity of the verb from which they derive in this abstract sense. Even the notion of a "wife" differs from that of a woman that the former is relational and technically speaking transitive whereas the latter is not. Thus the class of transitive nouns that are modified by other nouns that precede them in this specific "transitive" way is considerable. A large number of what are now still simply nouns in TLS will have to be reclassified as ntpost-N.'
+taxonomy_parents:
+- 217ce3cc-f0c8-4180-afaa-125da9931035
+- bb2a4515-fd03-4786-900c-d7381aa38f63
+source:
+  source_file: syntactic-functions.xml

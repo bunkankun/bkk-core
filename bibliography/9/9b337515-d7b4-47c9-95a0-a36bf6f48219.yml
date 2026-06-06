@@ -1,0 +1,39 @@
+uuid: 9b337515-d7b4-47c9-95a0-a36bf6f48219
+type: bibliography
+citation_label: WU YUJIANG 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Mozi jiaozhu
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yujiang
+  family: Wu
+  script: Latn
+  names:
+  - script: Latn
+    given: Yujiang
+    transliteration: chinese/ala-lc
+    family: Wu
+  - script: Hant
+    given: 毓江
+    family: 吳
+origin:
+  place: Peking
+  publisher: Zhonghuashuju
+  date_issued: '1993'
+  date_encoding: w3cdtf
+  edition: reprint of 1992 edition
+  issuance: monographic
+notes:
+- type: general
+  text: The new standard critical edition of the text , also available in a very beautiful interlinear version
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,44 @@
+uuid: ae94408f-843f-4360-bdcb-c6a5890d725e
+type: bibliography
+citation_label: GAO SHOUGANG 1994
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 古代漢語詞義通論
+  lang: chi
+  script: Hant
+- title: Gudai Hanyu ciyi tonglun
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shougang
+  family: Gao
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shougang
+    family: Gao
+  - lang: chi
+    script: Hant
+    given: 守綱
+    family: 高
+origin:
+  place: Beijing
+  publisher: Yuwenchubanshe
+  date_issued: '1964'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

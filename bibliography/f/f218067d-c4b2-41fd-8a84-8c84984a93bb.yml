@@ -1,0 +1,45 @@
+uuid: f218067d-c4b2-41fd-8a84-8c84984a93bb
+type: bibliography
+citation_label: LOTUS(B)
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 正法華經
+  lang: chi
+  script: Hant
+- title: Zhèng fǎhuá jīng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Saddharmapunnarnkasūtra, Lotus sutra
+  type: translated
+  lang: mul
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - translator
+  family: Dharmarakṣa
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Dharmarakṣa
+  - lang: chi
+    script: Hant
+    given: 法護
+    family: 竺
+notes:
+- type: general
+  text: For a glossary with English translations see KARASHIMA 1998
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

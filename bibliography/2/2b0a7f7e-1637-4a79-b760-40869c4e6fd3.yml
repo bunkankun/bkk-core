@@ -1,0 +1,61 @@
+uuid: 2b0a7f7e-1637-4a79-b760-40869c4e6fd3
+type: bibliography
+citation_label: QU SHOUYUAN 1996
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 韓詩外傳箋疏
+  lang: chi
+  script: Hant
+- title: Han Shi waizhuan jianshu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Shouyuan
+  family: Qu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shouyuan
+    family: Qu
+  - lang: chi
+    script: Hant
+    given: 守元
+    family: 屈
+- type: personal
+  roles:
+  - compiler
+  given: Shouyuan
+  family: Qu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shouyuan
+    family: Qu
+  - lang: chi
+    script: Hant
+    given: 守元
+    family: 屈
+origin:
+  place: Chengdu
+  publisher: Ba Shu Shushe
+  date_issued: '1996'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

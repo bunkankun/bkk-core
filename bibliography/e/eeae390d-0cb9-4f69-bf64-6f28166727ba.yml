@@ -1,0 +1,54 @@
+uuid: eeae390d-0cb9-4f69-bf64-6f28166727ba
+type: bibliography
+citation_label: ZHANG MEILAN 2003
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 《祖堂集》語法研究
+  lang: chi
+  script: Hant
+- title: Zǔtáng jí yǔfǎ yánjiū
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Studies in the Grammar of Zutang ji
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Měilán
+  family: Zhāng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Měilán
+    family: Zhāng
+  - lang: chi
+    script: Hant
+    given: 美蘭
+    family: 張
+origin:
+  place: Beijing
+  publisher: Shangwu yinshuguan
+  date_issued: '2003'
+  date_encoding: w3cdtf
+  edition: 2nd ed.
+  issuance: monographic
+notes:
+- type: general
+  text: this is the publication of her dissertation
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

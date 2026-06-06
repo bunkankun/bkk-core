@@ -1,0 +1,49 @@
+uuid: 9e55a19d-6b12-4571-9ef5-d0e637ccbafd
+type: bibliography
+citation_label: TAKASAKI 1983
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 佛教入門
+  lang: jpn
+  script: Hant
+- title: Bukkyō nyūmon
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Jikido
+  family: Takasaki
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Jikido
+    family: Takasaki
+  - lang: jpn
+    script: Hant
+    given: 直道
+    family: 高崎
+origin:
+  place: Tokyo
+  publisher: Tokyo daigaku shuppankai
+  date_issued: '1983'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: The book was tr. into English by Rolf W. Giebel; see Takasaki 1987.
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,54 @@
+uuid: 2a9313ba-6822-4b64-a530-b0299755b95a
+type: bibliography
+citation_label: WANG LI 1958
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 漢語史稿
+  lang: chi
+  script: Hant
+- title: Hànyǔshǐ gǎo
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Outline of the History of Chinese
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Lì
+  family: Wáng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Lì
+    family: Wáng
+  - lang: chi
+    script: Hant
+    given: 力
+    family: 王
+origin:
+  place: Beijing
+  publisher: Kexue chubanshe
+  date_issued: '1958'
+  date_encoding: w3cdtf
+  edition: revised edition
+  issuance: monographic
+notes:
+- type: general
+  text: Reprinted in Hongkong, Bōwén shūjú 波文書局
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,44 @@
+uuid: a360f677-31c9-4024-8b58-6aba8a133902
+type: bibliography
+citation_label: LIN JIALI 1996
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 賈長沙集
+  lang: chi
+  script: Hant
+- title: Jia Changsha ji
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Jiali
+  family: Lin
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Jiali
+    family: Lin
+  - lang: chi
+    script: Hant
+    given: 家驪
+    family: 林
+origin:
+  place: Taipei
+  publisher: Sanminchubanshe
+  date_issued: '1996'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

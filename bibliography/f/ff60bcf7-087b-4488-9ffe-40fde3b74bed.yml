@@ -1,0 +1,45 @@
+uuid: ff60bcf7-087b-4488-9ffe-40fde3b74bed
+type: bibliography
+citation_label: TANG HISTORY 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 中國歷史大辭典﹣隨唐五代史
+  lang: chi
+  script: Hant
+- title: Zhōngguó lìshǐ dàcídiǎn - Suí Táng Wǔ-dài shǐ
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: Encyclopedic Historical Dictionary of China - the Histories of the Suí, Táng and Five Dynasties Periods
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+  - lang: chi
+    script: Hant
+origin:
+  place: Shanghai
+  publisher: Shanghai cishu chubanshe
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

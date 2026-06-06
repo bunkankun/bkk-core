@@ -1,0 +1,37 @@
+uuid: 9ea1a161-3733-4309-a332-e663ee172ca3
+type: bibliography
+citation_label: BARTELS 1975
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Was ist der Mensch?
+  lang: ger
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Karl
+  family: Bartels
+  lang: ger
+  script: Latn
+  names:
+  - lang: ger
+    script: Latn
+    given: Karl
+    family: Bartels
+origin:
+  place: München
+  publisher: Heimeran
+  date_issued: '1975'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Unambitious pleasant anthology of ancient opinions on what defines man.
+source:
+  format: MODS
+  version: '3.6'

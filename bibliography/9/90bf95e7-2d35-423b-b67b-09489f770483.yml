@@ -1,0 +1,47 @@
+uuid: 90bf95e7-2d35-423b-b67b-09489f770483
+type: bibliography
+citation_label: QIAN YI 1991
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 方言箋疏,
+  lang: chi
+  script: Hant
+- title: Fangyan jianshu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yi
+  family: Qian
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Yi
+    family: Qian
+  - lang: chi
+    script: Hant
+    given: 繹
+    family: 錢
+origin:
+  place: Peking
+  publisher: Zhonghuashuju
+  date_issued: '1991'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Extensive Qing commentary, quite readable. With a convenient Four Corner Index
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,32 @@
+uuid: 0ec7170c-f60d-42de-b2b2-2f2db9b83f26
+type: bibliography
+citation_label: YANG SHISHOU 1991
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 媒人的稱謂及特點（上、下）
+  script: Hant
+- title: Mo ren de chengwei ji tedian (shang, xia)
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shishou
+  family: Yang
+  script: Latn
+  names:
+  - script: Latn
+    given: Shishou
+    transliteration: chinese/ala-lc
+    family: Yang
+  - script: Hant
+    given: 士首
+    family: 楊
+source:
+  format: MODS
+  version: '3.6'

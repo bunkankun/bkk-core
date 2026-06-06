@@ -1,0 +1,32 @@
+uuid: e9ce0f57-bfa6-4aba-b429-6fdf4ff49234
+type: bibliography
+citation_label: WEBSTER 1973
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Webster's New Dictionary of Synonyms
+  subtitle: A Dictionary of Discriminated Synonyms with Antonyms and Analogous and Contrasted Words
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: P.B.
+  family: Gove
+  script: Latn
+  names:
+  - script: Latn
+    given: P.B.
+    family: Gove
+origin:
+  place: Springfield
+  publisher: G. and C. Merriam Company
+  date_issued: '1973'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

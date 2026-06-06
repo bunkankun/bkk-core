@@ -1,0 +1,160 @@
+uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+type: concept
+concept: DOCUMENT
+alt_labels:
+- WRITING
+- WORKS
+- COMPOSITIONS
+- BOOKS
+- PUBLICATIONS
+- OEUVRE
+- PAPERS
+- ARTICLES
+- ESSAYS
+zh: 文獻
+och: 書
+definition: ARTEFACT PRODUCED FOR CONTAINING WRITING.
+criteria:
+- type: old-chinese-criteria
+  text: '1. The dominant general word for everything written is shū [[書]]. (However, note that the word also refers specifically to a letter.)
+
+
+    2. Zhì [[志]] typically refers to a systematic coherent record.
+
+
+    3. Jì [[記]] refers to an ordered record designed to serve as an aide-memoire.
+
+
+    4. Jí [[籍]] refers to a formal and official record, typically a population register or a written official statute.
+
+
+    5. Zhuàn [[傳]] refers to an explanatory record, typically a record based on or commenting upon other written sources.
+
+
+    6. Lǎn [[覽]] refers to a comprehensive survey on a subject.
+
+
+    7. Xí [[檄]] refers to a written military command.
+
+
+    8. Sān chǐ [[三尺]] refers to the text of a law formally inscribed on large three-foot tablets.
+
+
+    9. Cè [[冊]]／[[策]] refers to a document, typically in the form of a bundle of bamboo strips.
+
+
+    NB: Xìn [[信]] "letter" is post-Han.'
+- type: huang-jingui
+  text: 'HUANG JINGUI 2006
+
+
+    COMMUNICATIONS 4.
+
+
+    書，一切書面記錄。
+
+
+    籍，文獻檔案的通稱。
+
+
+    簿，賬目和文書記事本； “ 帳 ” 出現後， “ 簿 ” 專表文書記事本。
+
+
+    帳，錢財進出的記錄本。'
+- type: modern-chinese-criteria
+  text: '文獻
+
+
+    公文
+
+
+    文件
+
+
+    証書
+
+
+    証券
+
+
+    縹帙
+
+
+    緗帙
+
+
+    縹緗
+
+
+    卷帙
+
+
+    卷帙浩繁
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+hypernyms:
+- e6b6915f-ba7f-4489-88b7-e3fbf53188d2
+hyponyms:
+- 013632ce-8c4d-4488-a08e-011c2e5b94d8
+- af101f73-75b8-43eb-bcbf-6a0af87d7704
+- d99afd6b-0531-4c74-8b27-11dcb6f0987d
+- 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+- 4c227fb6-2e28-4efb-ada8-6709ac89d0ee
+- 790d3e00-92c8-4399-8d9d-1ea702afcef3
+- eeb1d04d-63cc-47b9-8752-96e05355edf2
+- 1da658dc-936c-4a63-87dc-4ee0c570322b
+- 5e412412-9d52-47ef-b5c0-a9563fde53c6
+- 71311dda-a559-4fb5-a520-ac1668c898a0
+- 6ce57a18-eece-44be-9d53-96e4a799318c
+- a808e25d-58c6-404a-a13e-6d25cf9eef48
+- 14476b5a-c08a-4312-b7ae-a4e265acfc26
+- a8aa6721-be14-4656-b54c-e70e49d0d5cb
+- 824e301f-4d12-4c64-9d89-d39cc94941ea
+see_also:
+- 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+- 1dbde2c8-76ec-4b31-99be-686e6183470d
+other_relations:
+- type: mereonymy
+  uuids:
+  - 45fa64b2-57b3-42fb-893b-001111c44469
+  - 8bab444f-0b3a-4cfa-ad01-643240019455
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '18.61'
+  scope_unit: page
+- bibliography_uuid: d9f914e1-ebc9-4ba0-85f5-f2bdd943ed24
+  scope: '236'
+  scope_unit: page
+  notes:
+  - 'Schreibaefelchen:'
+- bibliography_uuid: dcdec461-c248-4809-a141-385e6610d74c
+  scope: '729'
+  scope_unit: page
+  notes:
+  - 'Buch:'
+  - F collects many Han reliefs depicting books.
+- bibliography_uuid: dcdec461-c248-4809-a141-385e6610d74c
+  scope: '800'
+  scope_unit: page
+  notes:
+  - 'Schriftstueck:'
+- bibliography_uuid: 67c97ad0-3944-4d76-b7c8-25be0e1ed222
+- bibliography_uuid: 0e53b7a8-3acd-4859-ac83-596e75d42e7d
+  notes:
+  - SCRIPTIO
+- bibliography_uuid: abc2f8ad-0bc4-4663-a70c-806e480d7081
+  scope: '89'
+  scope_unit: page
+- bibliography_uuid: 56dd8ede-a572-47bc-8a1b-70c846775874
+  scope: '232'
+  scope_unit: page
+- bibliography_uuid: d905dccd-9c5f-458e-b56c-c2a7c09e2d72
+  scope: '3.341'
+  scope_unit: page
+- bibliography_uuid: ddc8dc41-e703-448c-9f61-6db9445685a7
+  notes:
+  - NEKROLOG
+- bibliography_uuid: ecfe1810-16d7-46f0-901d-6fc0c0808a34
+  scope: '125'
+  scope_unit: page

@@ -1,0 +1,44 @@
+uuid: 81a40d4d-1541-4a41-b4d9-b7499859ba2e
+type: bibliography
+citation_label: SUN YUNHOU 1981
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 《同源字典·同源字論》
+  lang: chi
+  script: Hant
+- title: Tong yuan zidian. tong yuan zi lun
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yunhou
+  family: Sun
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Yunhou
+    family: Sun
+  - lang: chi
+    script: Hant
+    given: 雲鶴
+    family: 孫
+origin:
+  place: Chengdu
+  publisher: Sichuan renmin chubanshe
+  date_issued: '1981'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,49 @@
+uuid: 084c32ee-5fe9-47da-832f-4a778af2e853
+type: bibliography
+citation_label: LETTRES PERSANES
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Lettres Persanes
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  family: Montesquieu
+  script: Latn
+  names:
+  - script: Latn
+    family: Montesquieu
+- type: personal
+  roles:
+  - editor
+  given: Paul
+  family: Vernière
+  script: Latn
+  names:
+  - script: Latn
+    given: Paul
+    family: Vernière
+- type: personal
+  roles:
+  - editor
+  given: Cathrine
+  family: Volpilhac-Auger
+  script: Latn
+  names:
+  - script: Latn
+    given: Cathrine
+    family: Volpilhac-Auger
+origin:
+  place: Paris
+  publisher: Livres de Poche
+  date_issued: '2001'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

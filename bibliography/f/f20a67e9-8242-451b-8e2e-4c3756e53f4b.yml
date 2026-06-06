@@ -1,0 +1,44 @@
+uuid: f20a67e9-8242-451b-8e2e-4c3756e53f4b
+type: bibliography
+citation_label: LIU XIAOGAN 2006
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 老子古今
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - Author
+  given: Xiaogan
+  family: Liu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    family: Liu
+    given: Xiaogan
+  - lang: chi
+    script: Hant
+    family: 劉
+    given: 笑敢
+origin:
+  place: Beijing
+  publisher: Shehuikexue Chubanshe
+  date_issued: '2006'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Singularly highly readable argumentative edition accompanied by an indispensable index to 5 editions of the book, and preceded by a lucidly argued methodological introduction.This is not just a commentary on Laozi, but an extremely rich collection of detailed discussions on issues raised by the Laozi.
+- type: information-basis
+  text: chris
+source:
+  format: MODS
+  version: '3.6'

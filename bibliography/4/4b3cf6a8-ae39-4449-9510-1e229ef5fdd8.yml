@@ -1,0 +1,100 @@
+uuid: 4b3cf6a8-ae39-4449-9510-1e229ef5fdd8
+type: bibliography
+citation_label: ZTJ/WU/GU 1996
+ref_usage: '5'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 祖堂集
+  lang: chi
+  script: Hant
+- title: Zǔtáng jí
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Fúxiáng
+  family: Wú
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Fúxiáng
+    family: Wú
+  - lang: chi
+    script: Hant
+    given: 福祥
+    family: 吳
+- type: personal
+  roles:
+  - compiler
+  given: Fúxiáng
+  family: Wú
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Fúxiáng
+    family: Wú
+  - lang: chi
+    script: Hant
+    given: 福祥
+    family: 吳
+- type: personal
+  roles:
+  - editor
+  given: Zhīchuān
+  family: Gù
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhīchuān
+    family: Gù
+  - lang: chi
+    script: Hant
+    given: 之川
+    family: 顧
+- type: personal
+  roles:
+  - compiler
+  given: Zhīchuān
+  family: Gù
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhīchuān
+    family: Gù
+  - lang: chi
+    script: Hant
+    given: 之川
+    family: 顧
+origin:
+  place: Changsha
+  publisher: Yuelu shushe
+  date_issued: '1996'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: The source for this edition seems to be the Yanagida edition. In addition, the authors consulted other editions and Liú Jiān's 劉堅掇 Xiàndài hànyǔ dúběn 現代漢語讀本 and Xiàndài hànyǔ yǔfǎ zīliào huìbiān 近代漢語語法資料匯編. There is a short introduction to the work, including a selective history of research. The text is arranged according to the twenty fascicles of ZTJ and each biographic entry has a seperate header. The edition has a total of 454 pages. Variant graphs are usually converted into their modern standardized graphs and a note on their original forms is occasionally added at the end of each biographic entry. Misprints and erroneous graphs are changed into the supposedly right graphs and notes are added. The edition is punctuated. At the end of the book a biography of the editions and reseach materials about ZTJ are added. This is a very helpful edition, however, there is a great number of misprints and mistakes. Another disatvantage is the unorganized presentation of Chinese graphs, mixing old and modern simplified forms of graphs, sometimes recording the original variant and sometimes replacing it by the standard form. The edition is useful (especically the notes and punctuations) but not reliable and should only be used in combination with other editions.
+- type: information-basis
+  text: 'Anderl 2004B: 29'
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,42 @@
+uuid: cab0ad8b-b344-4dab-b286-85ca81fa7678
+type: bibliography
+citation_label: POPMA 1769
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: De differntis verborum itemque de usu antiquae locutionis libri.
+  subtitle: Retractati ab J.C.Messerschmid
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: A
+  family: Popma
+  script: Latn
+  names:
+  - script: Latn
+    given: A
+    family: Popma
+- type: personal
+  roles:
+  - editor
+  given: J.C.
+  family: Messerschmidt
+  script: Latn
+  names:
+  - script: Latn
+    given: J.C.
+    family: Messerschmidt
+origin:
+  place: Dresden
+  publisher: Gerlach
+  date_issued: '1769'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

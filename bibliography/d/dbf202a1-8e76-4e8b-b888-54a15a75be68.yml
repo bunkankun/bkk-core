@@ -1,0 +1,51 @@
+uuid: dbf202a1-8e76-4e8b-b888-54a15a75be68
+type: bibliography
+citation_label: LEIPIAN
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 類篇
+  lang: chi
+  script: Hant
+- title: Lèipiān
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Guāng
+  family: Sīmǎ
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Guāng
+    family: Sīmǎ
+  - lang: chi
+    script: Hant
+    given: 光
+    family: 司馬
+- roles:
+  - author
+origin:
+  place: Beijing
+  publisher: Zhonghua shuju
+  date_issued: '1984'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: ed. in 1066; The Zhonghuo shuju edition is based on the 1706 edition
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

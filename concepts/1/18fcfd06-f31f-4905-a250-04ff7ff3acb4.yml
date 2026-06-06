@@ -1,0 +1,89 @@
+uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+type: concept
+concept: CARRIAGE
+alt_labels:
+- COACH
+- CAR
+- PASSENGER CAR
+- FLATCAR
+- BOXCAR
+zh: 載人車
+och: 軒
+definition: VEHICLE PULLED by HORSES, USED by HUMANS FOR TRAVEL.
+criteria:
+- type: old-chinese-criteria
+  text: '1. The most general word for high class means of personal transport is perhaps xuān [[軒]], but see chē [[車]] in the more general VEHICLE.
+
+
+    2. Niǎn [[輦]] refers to a man-drawn and man-held cart.
+
+
+    3. Lù [[輅]] refers to a carriage for very high officials or even the Son of Heaven himself, typically drawn by four horses.
+
+
+    4. Quán [[輇]] refers to a Han dynasty carriage with solid wooden wheels.
+
+
+    5. Yáo [[軺]] refers to a convenient and fast small carriage drawn by one horse.
+
+
+    6. Píng [[軿]] refers to a carriage especially designed for the transportation of distinguished women, with curtains on all sides.
+
+
+    7. Wēn [[轀]] refers to a comfortable coach for long distance transportation.'
+- type: huang-jingui
+  text: 'HUANG JINGUI 2006
+
+
+    COMM 16. 重，載重車、輜重車的通稱，用來載物，并可作臥車。
+
+
+    重車因其用途、形制的不同而有不同的名稱。
+
+
+    棧車，一種是士人所乘簡易車，不可臥；另一種是役車，裝載雜物的簡易臥車。
+
+
+    ?? 車，西周後期已出現，上古是華美的車，也可作喪車用，漢代起主要作帝王或重要柱臣的高級喪車, 遂易其名為 “?? 輬 ” 。
+
+
+    兩種車均可臥死人，基本形制是：多輪，人牽挽，輿箱方而大，頂蓋及四周封閉，但有門窗可開合調溫；其式樣也多。
+
+
+    輜車，頂部有捲篷，還有後轅以延伸堆物，可以載物與臥人。
+
+
+    軿車，頂部與四周都障蔽，只留前面供上下車，無後轅，是供貴婦人坐臥的專車。'
+- type: modern-chinese-criteria
+  text: '轎車
+
+
+    馬車
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+hypernyms:
+- 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+see_also:
+- aa638007-598c-48fe-a8bf-c2100b6cd8f3
+other_relations:
+- type: mereonymy
+  uuids:
+  - 5ee75842-ac52-4055-9d15-ecec19fa2ac1
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '10.75'
+  scope_unit: page
+- bibliography_uuid: ebe4710d-bf7c-496a-8815-9e6f1c15c1a9
+  scope: '1400'
+  scope_unit: page
+  notes:
+  - 車，輿，輦，軒，軺，
+- bibliography_uuid: ebe4710d-bf7c-496a-8815-9e6f1c15c1a9
+  scope: '1400'
+  scope_unit: page
+  notes:
+  - 軿，輜
+- bibliography_uuid: ceec1ff7-e9e2-4e81-8c76-a29b231e6074
+  scope: '328'
+  scope_unit: page

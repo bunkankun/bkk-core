@@ -1,0 +1,38 @@
+uuid: 1b619696-1bd5-4854-8368-e5eb6c20f3a6
+type: bibliography
+citation_label: GU BAOTIAN 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Shangshu yizhu
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Baotian
+  family: Gu
+  script: Latn
+  names:
+  - script: Latn
+    given: Baotian
+    transliteration: chinese/ala-lc
+    family: Gu
+  - script: Hant
+    given: 寶田
+    family: 顧
+origin:
+  place: Changchun
+  publisher: Jilin Wenshichubanshe
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Disciplined concise edition, always useful to compare.
+source:
+  format: MODS
+  version: '3.6'

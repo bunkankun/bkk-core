@@ -1,0 +1,34 @@
+uuid: 8c96920f-a2d7-4883-a63c-dc221c762a46
+type: bibliography
+citation_label: HYDCD
+ref_usage: '6'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 漢語大詞典
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: 竹鳳
+  family: 羅
+  lang: chi
+  script: Hant
+  names:
+  - lang: chi
+    script: Hant
+    given: 竹鳳
+    family: 羅
+origin:
+  place: Shanghai
+  publisher: Shanghai cishu chubanshe
+  date_issued: 1986-1994
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

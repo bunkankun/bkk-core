@@ -1,0 +1,37 @@
+uuid: 1989ee9e-bf8c-4d3a-875e-25f872ec93a2
+type: bibliography
+citation_label: COUVRER 1934
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Cheu king. Texte chinois avec une double traduction en francais et en latin, une introduction et un vocabulaire
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: S.
+  family: Couvreur
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: S.
+    family: Couvreur
+origin:
+  place: Sien Hien
+  publisher: Imprimerie de la Mission catholique
+  date_issued: '1934'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Fine French translation with painfully literal Latin paraphrase based on standard Song interpretations throughout.
+source:
+  format: MODS
+  version: '3.6'

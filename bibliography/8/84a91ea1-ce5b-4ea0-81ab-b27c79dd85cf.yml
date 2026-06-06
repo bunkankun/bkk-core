@@ -1,0 +1,38 @@
+uuid: 84a91ea1-ce5b-4ea0-81ab-b27c79dd85cf
+type: bibliography
+citation_label: WANG XIANQIAN 1983
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Hanshu buzhu
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xianqian
+  family: Wang
+  script: Latn
+  names:
+  - script: Latn
+    given: Xianqian
+    transliteration: chinese/ala-lc
+    family: Wang
+  - script: Hant
+    given: 先謙
+    family: 王
+origin:
+  place: Peking
+  publisher: Zhonghuashuju
+  date_issued: '1983'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: '[Standard critical edition which it is always necessary to consult in case of doubt. [I have correlated the pagination with the Pekng edition for the purpose.]]'
+source:
+  format: MODS
+  version: '3.6'

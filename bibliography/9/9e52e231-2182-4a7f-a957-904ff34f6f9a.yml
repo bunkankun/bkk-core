@@ -1,0 +1,34 @@
+uuid: 9e52e231-2182-4a7f-a957-904ff34f6f9a
+type: bibliography
+citation_label: PLOPPER 1935
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Chinese Religion Seen Through the Proverb
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Cliffort H.
+  family: Plopper
+  script: Latn
+  names:
+  - script: Latn
+    given: Cliffort H.
+    family: Plopper
+origin:
+  place: Shanghai
+  publisher: Shanghai Modern Publishing House
+  date_issued: '1935'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 成語 proverbs, philosopholklore, religion
+source:
+  format: MODS
+  version: '3.6'

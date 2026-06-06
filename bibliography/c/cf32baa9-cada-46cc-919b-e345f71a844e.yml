@@ -1,0 +1,31 @@
+uuid: cf32baa9-cada-46cc-919b-e345f71a844e
+type: bibliography
+citation_label: LINCOLN 1935
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: The Dream in Primitive Cultures
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: J.S.
+  family: Lincoln
+  script: Latn
+  names:
+  - script: Latn
+    given: J.S.
+    family: Lincoln
+origin:
+  place: London
+  publisher: Cresset Press
+  date_issued: '1935'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

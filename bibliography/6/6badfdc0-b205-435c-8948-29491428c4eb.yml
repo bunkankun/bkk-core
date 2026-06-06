@@ -1,0 +1,41 @@
+uuid: 6badfdc0-b205-435c-8948-29491428c4eb
+type: bibliography
+citation_label: TANAKA 1985
+ref_usage: '1'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 初期禪宗における守心-觀心の系譜
+  lang: jpn
+  script: Hant
+- title: Shoki Zenshū ni okeru shuusin kanshin no keifu
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Ryōshō
+  family: Tanaka
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Ryōshō
+    family: Tanaka
+  - lang: jpn
+    script: Hant
+    given: 良昭
+    family: 田中
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

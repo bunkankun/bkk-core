@@ -1,0 +1,38 @@
+uuid: 3234926c-220b-4129-b606-bd70fe0ccad5
+type: bibliography
+citation_label: YUAN YUAN 1992
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Shijing quanyi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Yuan
+  family: Yuan
+  script: Latn
+  names:
+  - script: Latn
+    given: Yuan
+    transliteration: chinese/ala-lc
+    family: Yuan
+  - script: Hant
+    given: 愈荌
+    family: 袁
+origin:
+  place: Guiyang
+  publisher: Guizho1urenmin
+  date_issued: '1992'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Serviceable complete concisely annotated edition
+source:
+  format: MODS
+  version: '3.6'

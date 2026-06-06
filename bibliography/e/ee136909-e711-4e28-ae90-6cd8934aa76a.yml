@@ -1,0 +1,44 @@
+uuid: ee136909-e711-4e28-ae90-6cd8934aa76a
+type: bibliography
+citation_label: WANG DEMING 1998
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 孔子家語譯注
+  lang: chi
+  script: Hant
+- title: Kongzi jiayu shizhu
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Deming
+  family: Wang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Deming
+    family: Wang
+  - lang: chi
+    script: Hant
+    given: 德明
+    family: 王
+origin:
+  place: Canton
+  publisher: Guangxishifandaxue chubanshe
+  date_issued: '1998'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

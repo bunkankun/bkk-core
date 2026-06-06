@@ -1,0 +1,32 @@
+uuid: 5af6fca6-1dfe-45e0-958a-3f03b603264b
+type: bibliography
+citation_label: LIU KEBING 1987
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 《爾雅》的詞義辨析
+  script: Hant
+- title: '"Erya" de ci yi bianxi'
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Kebing
+  family: Liu
+  script: Latn
+  names:
+  - script: Latn
+    given: Kebing
+    transliteration: chinese/ala-lc
+    family: Liu
+  - script: Hant
+    given: 克炳
+    family: 劉
+source:
+  format: MODS
+  version: '3.6'

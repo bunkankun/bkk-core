@@ -1,0 +1,44 @@
+uuid: 846b4f25-d2f5-428d-8a6e-2a7ffd6d921d
+type: bibliography
+citation_label: DENG QIUBO 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 白話帛書周易
+  lang: chi
+  script: Hant
+- title: Baihua boshu Zhouyi
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Qiubo
+  family: Deng
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Qiubo
+    family: Deng
+  - lang: chi
+    script: Hant
+    given: 球伯
+    family: 鄧
+origin:
+  place: Changsha
+  publisher: Yuelushushe
+  date_issued: '1995'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

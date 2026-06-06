@@ -1,0 +1,45 @@
+uuid: ca1fd3d3-3daa-40c1-aecb-d19f1a8d5b03
+type: bibliography
+citation_label: PAO ERH-LI 1981
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Woerterbuch der chinesischen redensarten Chinesisch-Deutsch
+  subtitle: Tetragramme des modernen Chinesisch
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Erh-li
+  family: Pao
+  script: Latn
+  names:
+  - script: Latn
+    given: Erh-li
+    family: Pao
+- type: personal
+  roles:
+  - author
+  given: Ying
+  family: Cheng
+  script: Latn
+  names:
+  - script: Latn
+    given: Ying
+    family: Cheng
+origin:
+  place: Berlin
+  publisher: De Gruyter
+  date_issued: '1981'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 成語 proverbs syntax of chengyu
+source:
+  format: MODS
+  version: '3.6'

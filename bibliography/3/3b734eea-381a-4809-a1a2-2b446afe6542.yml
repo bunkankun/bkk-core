@@ -1,0 +1,42 @@
+uuid: 3b734eea-381a-4809-a1a2-2b446afe6542
+type: bibliography
+citation_label: YANG ZHISHUI 2000
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 詩經名物新証
+  lang: chi
+  script: Hant
+- title: Shijing mingwu xin zheng
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Zhishui
+  family: Yang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Zhishui
+    family: Yang
+  - lang: chi
+    script: Hant
+    given: 之水
+    family: 楊
+origin:
+  date_issued: '2000'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

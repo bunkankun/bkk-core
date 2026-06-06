@@ -1,0 +1,56 @@
+uuid: dde0e745-6e82-45e0-b791-f391e88078df
+type: bibliography
+citation_label: HE LESHI 1992
+ref_usage: '4'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 古漢語語法及其發展
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Leshi
+  family: He
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Leshi
+    family: He
+  - lang: chi
+    script: Hant
+    given: 樂士
+    family: 何
+- type: personal
+  roles:
+  - author
+  given: Bojun
+  family: Yang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Bojun
+    family: Yang
+  - lang: chi
+    script: Hant
+    given: 伯峻
+    family: 揚
+origin:
+  place: Peking
+  publisher: Yuwen Chubanshe
+  date_issued: '1992'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

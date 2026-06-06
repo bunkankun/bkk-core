@@ -1,0 +1,35 @@
+uuid: 5aa05892-3502-427d-8eaa-2e012120ea53
+type: bibliography
+citation_label: KARASHIMA 1997
+ref_usage: '1'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 漢譯佛典的語言研究
+  script: Hant
+- title: Hànyì Fódiǎn de yǔyán yánjiū [Studies in the Language of Buddhist Texts from the Han Period]
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Seishi
+  family: Karshima
+  script: Latn
+  names:
+  - script: Latn
+    given: Seishi
+    transliteration: chinese/ala-lc
+    family: Karshima
+  - script: Hant
+    given: 靜志
+    family: 辛
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

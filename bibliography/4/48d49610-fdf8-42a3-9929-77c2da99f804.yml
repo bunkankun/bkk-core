@@ -1,0 +1,41 @@
+uuid: 48d49610-fdf8-42a3-9929-77c2da99f804
+type: bibliography
+citation_label: WANG SHUSHENG 1989
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 學生同義詞辨析詞典
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shusheng
+  family: Wang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shusheng
+    family: Wang
+  - lang: chi
+    script: Hant
+    given: 書聲
+    family: 王
+origin:
+  publisher: Fujiang Renmin Chubanshe
+  date_issued: '1989'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: 'WANG TONGWEI NOTES: 《凡例》：“本詞典以中小學學生、中小學語文教師和語文愛好者為對象。”“本詞典選收中小學語文課本和課外讀物中常見易混的同義詞語1884個，編成892組同義詞。”構組原則“1、學生經常對應混用的。2、基本義相同的。3、音節相同的。4、多義詞與幾個不同的詞構成同義關係，分別編組。”'
+source:
+  format: MODS
+  version: '3.6'

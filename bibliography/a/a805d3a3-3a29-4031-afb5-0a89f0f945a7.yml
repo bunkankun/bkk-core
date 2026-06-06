@@ -1,0 +1,51 @@
+uuid: a805d3a3-3a29-4031-afb5-0a89f0f945a7
+type: bibliography
+citation_label: SUN XIXIN 1992
+ref_usage: '4'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 漢語歷史語法要略
+  lang: chi
+  script: Hant
+- title: Hànyǔ lìshǐ yǔfǎ yào lüè
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+- title: An Outline of a Historical Grammar of Chinese
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Xíxìn
+  family: Sūn
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Xíxìn
+    family: Sūn
+  - lang: chi
+    script: Hant
+    given: 錫信
+    family: 孫
+origin:
+  place: Shanghai
+  publisher: Fudan daxue chubanshe
+  date_issued: '1992'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

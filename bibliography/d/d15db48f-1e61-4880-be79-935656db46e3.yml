@@ -1,0 +1,31 @@
+uuid: d15db48f-1e61-4880-be79-935656db46e3
+type: bibliography
+citation_label: RYFMAN 2008
+ref_usage: '1'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Histoire de l'humanitaire
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Philippe
+  family: Ryfman
+  script: Latn
+  names:
+  - script: Latn
+    given: Philippe
+    family: Ryfman
+origin:
+  place: Paris
+  publisher: Editions La Découverte
+  date_issued: '2008'
+  date_encoding: w3cdtf
+  issuance: monographic
+source:
+  format: MODS
+  version: '3.6'

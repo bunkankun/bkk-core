@@ -1,0 +1,38 @@
+uuid: ec899baf-a3eb-41f3-a8d1-f0096c994943
+type: bibliography
+citation_label: JIANG HAO 1990
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Jinguwen Shangshu quan yi
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hao
+  family: Jiang
+  script: Latn
+  names:
+  - script: Latn
+    given: Hao
+    transliteration: chinese/ala-lc
+    family: Jiang
+  - script: Hant
+    given: 灝
+    family: 江
+origin:
+  place: Guiyang
+  publisher: Guizhourenmin
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Serviceable complete annotated translation.
+source:
+  format: MODS
+  version: '3.6'

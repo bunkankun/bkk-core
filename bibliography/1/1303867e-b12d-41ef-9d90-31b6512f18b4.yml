@@ -1,0 +1,50 @@
+uuid: 1303867e-b12d-41ef-9d90-31b6512f18b4
+type: bibliography
+citation_label: HEINE/WRIGHT 2000
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: The Koan [The Kōan]
+  subtitle: Texts and Contexts in Zen Buddhism
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - editor
+  given: Steven
+  family: Heine
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Steven
+    family: Heine
+- type: personal
+  roles:
+  - editor
+  given: Dale S.
+  family: Wright
+  lang: eng
+  script: Latn
+  names:
+  - lang: eng
+    script: Latn
+    given: Dale S.
+    family: Wright
+origin:
+  place: New York
+  publisher: Oxford University Press
+  date_issued: '2000'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

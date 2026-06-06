@@ -1,0 +1,53 @@
+uuid: be7d5897-5698-4129-9d0a-5908fdc44d57
+type: bibliography
+citation_label: NAKAMURA
+ref_usage: '69'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 佛教語大辭典
+  lang: jpn
+  script: Hant
+- title: Bukkyōgo daijiten
+  type: translated
+  lang: jpn
+  script: Latn
+  transliteration: japanese/ala-lc
+- title: Encyclopedic Dictionary of Buddhist Terms
+  type: translated
+  lang: eng
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hajime
+  family: Nakamura
+  lang: jpn
+  script: Latn
+  names:
+  - lang: jpn
+    script: Latn
+    transliteration: japanese/ala-lc
+    given: Hajime
+    family: Nakamura
+  - lang: jpn
+    script: Hant
+    given: 信亨
+    family: 望月
+origin:
+  place: Tokyo
+  publisher: Tōkyō shoseki
+  date_issued: '1975'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: This is still the standard dictionary for Chinese Buddhist terminology
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,65 @@
+uuid: 110209dc-d9d6-408f-b8cb-262cecef10fc
+type: bibliography
+citation_label: OKAYAMA/KOROMOGAWA/OGAWA 1999
+ref_usage: '1'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 《祖堂集》牛頭法融章疏證
+  subtitle: 《祖堂集》研究會報告一
+  script: Hant
+- title: Sodōshū Gozu Hōyu shō soshō [Commentaries on the Chapter on Niútóu Fǎróng in Zǔtáng jí]
+  subtitle: Sodōshū kenkyuukai hookoku 1 [Report Number 3 of the Zutang ji Research Association]
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Hajime
+  family: Okayama
+  script: Latn
+  names:
+  - script: Latn
+    given: Hajime
+    transliteration: chinese/ala-lc
+    family: Okayama
+  - script: Hant
+    given: 新
+    family: 丘山
+- type: personal
+  roles:
+  - author
+  given: Kenji
+  family: Koromogawa
+  script: Latn
+  names:
+  - script: Latn
+    given: Kenji
+    transliteration: chinese/ala-lc
+    family: Koromogawa
+  - script: Hant
+    given: 賢次
+    family: 衣川
+- type: personal
+  roles:
+  - author
+  given: Takashi
+  family: Ogawa
+  script: Latn
+  names:
+  - script: Latn
+    given: Takashi
+    transliteration: chinese/ala-lc
+    family: Ogawa
+  - script: Hant
+    given: 隆
+    family: 小川
+notes:
+- type: information-basis
+  text: CA
+source:
+  format: MODS
+  version: '3.6'

@@ -1,0 +1,62 @@
+uuid: 726fde12-1c46-4bf4-bbb8-cadeb7abdd34
+type: bibliography
+citation_label: AUROUX 1990
+ref_usage: '3'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Les notions philosophiques
+  subtitle: Dictionnaire
+  lang: fre
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Sylvain
+  family: Auroux
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Sylvain
+    family: Auroux
+- type: personal
+  roles:
+  - author
+  given: Jacques
+  family: Deschamps
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: Jacques
+    family: Deschamps
+- type: personal
+  roles:
+  - author
+  given: François
+  family: Duchesneau
+  lang: fre
+  script: Latn
+  names:
+  - lang: fre
+    script: Latn
+    given: François
+    family: Duchesneau
+origin:
+  place: Paris
+  publisher: Presses Universitaires de France
+  date_issued: '1990'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: In spite of the editorial insouciance, and in spite of its manifest lack of analytic rigour, this remains a splendid resource to sample French sensibilities on conceptual history.
+source:
+  format: MODS
+  version: '3.6'

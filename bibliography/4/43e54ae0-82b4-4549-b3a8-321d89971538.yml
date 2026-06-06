@@ -1,0 +1,38 @@
+uuid: 43e54ae0-82b4-4549-b3a8-321d89971538
+type: bibliography
+citation_label: LIU WENDIAN 1969
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Huainanhonglie jijie
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Wendian
+  family: Liu
+  script: Latn
+  names:
+  - script: Latn
+    given: Wendian
+    transliteration: chinese/ala-lc
+    family: Liu
+  - script: Hant
+    given: 文典
+    family: 劉
+origin:
+  place: Taibei
+  publisher: Shangwuyinshuguan
+  date_issued: '1969'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: '[Photographic reprint. Still the most useful edition because of its commentaries, but for the text itself one still needs to consult SBCK.]'
+source:
+  format: MODS
+  version: '3.6'

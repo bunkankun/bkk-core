@@ -1,0 +1,38 @@
+uuid: 142299aa-b0a9-4b72-8ad8-02dbae03bd96
+type: bibliography
+citation_label: WANG RONGBAO 1958
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: Fayan yishu
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Rongbao
+  family: Wang
+  script: Latn
+  names:
+  - script: Latn
+    given: Rongbao
+    transliteration: chinese/ala-lc
+    family: Wang
+  - script: Hant
+    given: 榮寶
+    family: 汪
+origin:
+  place: Taibei
+  publisher: Shijie shuju
+  date_issued: '1958'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: The most detailed traditional edition. Indispensible
+source:
+  format: MODS
+  version: '3.6'

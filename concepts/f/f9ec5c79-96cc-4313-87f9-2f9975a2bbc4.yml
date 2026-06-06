@@ -1,0 +1,78 @@
+uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+type: concept
+concept: WALL
+alt_labels:
+- BARRIER
+- PARTITION
+- ENCLOSURE
+- SCREEN
+- PANEL
+- DIVIDER
+- BULKHEAD
+zh: 牆壁
+definition: SLIM, AND TYPICALLY HIGH VERTICAL PART of a BUILDING, TYPICALLY SURROUNDING a ROOM, OR USED FOR SHOWING a BOUNDARY OR PROTECTING a PLACE INSIDE.
+criteria:
+- type: huang-jingui
+  text: 'HUANG JINGUI 2006
+
+
+    ARCHITECTURE 13.
+
+
+    牆，最早是木骨泥牆，後多用夯土或土坯製成土牆，明代始有磚牆。
+
+
+    垣，環繞居舍的矮牆。
+
+
+    牆，獨立外牆的總稱。
+
+
+    壁，建築物的內牆。
+
+
+    墉，宮室的北牆。堵，一段牆。'
+- type: modern-chinese-criteria
+  text: '牆壁
+
+
+    牆
+
+
+    壁
+
+
+    垣
+
+
+    堵
+
+
+    rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／'
+hypernyms:
+- e109fd21-43a6-45b6-b6f0-908360d08218
+hyponyms:
+- 097ce0e4-819b-489f-b034-a9d4906938e1
+- ff820037-7e9a-495f-9f43-f2069d7f71b7
+bibliography:
+- bibliography_uuid: 60d39cc0-d76b-4275-8490-886ace4204be
+  scope: '7.27'
+  scope_unit: page
+- bibliography_uuid: ab831347-9626-498d-aa1e-eb43eae72d05
+  notes:
+  - WALL
+  - murus refers to any sort of wall, merely with reference to its form, without reference to its use.
+  - paries refers specifically to the outer walls in a house, or the walls within a house.
+  - moenia refers to the city walls, used as a defense against an enemy.
+  - munimenta refers to the system of walls in a fortress.
+  - maceria is the outer wall of a compound to mark the boundaries and to exclude thieves, and the word may refer to a garden wall.
+  - parietina is a wall that has crumbled and lies in ruins.
+- bibliography_uuid: 8a7b3e79-a326-45b5-8419-1ea3245117f8
+  scope: '48'
+  scope_unit: page
+- bibliography_uuid: 56dd8ede-a572-47bc-8a1b-70c846775874
+  scope: '192'
+  scope_unit: page
+- bibliography_uuid: bbf731db-f5e8-4da6-9d88-b10c69b707ad
+  scope: no.380
+  scope_unit: page

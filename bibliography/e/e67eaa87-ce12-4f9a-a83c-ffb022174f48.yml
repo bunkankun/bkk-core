@@ -1,0 +1,32 @@
+uuid: e67eaa87-ce12-4f9a-a83c-ffb022174f48
+type: bibliography
+citation_label: XUE GONGMU 1995
+ref_usage: '0'
+resource_type: text
+genres:
+- value: article
+  authority: marcgt
+titles:
+- title: 文、字、名辨
+  script: Hant
+- title: Wen, zi, ming bian
+  type: translated
+  script: Latn
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Gongmu
+  family: Xue
+  script: Latn
+  names:
+  - script: Latn
+    given: Gongmu
+    transliteration: chinese/ala-lc
+    family: Xue
+  - script: Hant
+    given: 恭穆
+    family: 薛
+source:
+  format: MODS
+  version: '3.6'

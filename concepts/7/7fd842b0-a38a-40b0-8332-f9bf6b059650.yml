@@ -1,0 +1,34 @@
+uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+type: concept
+concept: STATES
+zh: 國家類
+definition: An individual STATE, names of major states in the Warring States period.
+criteria:
+- type: old-chinese-criteria
+  text: '[TO BE ENTERED: 1. Location and general characteristics
+
+
+    2. The order of geographical size.
+
+
+    3. The order of political importance, and the change of this hierarchy, ending with the predominance of Qin.
+
+
+    4. Distinctive prominent features economically and culturally.
+
+
+    5. Current opinion on every state, where applicable.]'
+hypernyms:
+- 723efc5a-352b-43ce-b8eb-e92ff5302db9
+other_relations:
+- type: mereonymy
+  uuids:
+  - 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+bibliography:
+- bibliography_uuid: 80d7dd9f-4545-4784-8419-dfc8d0f1b818
+- bibliography_uuid: ebe4710d-bf7c-496a-8815-9e6f1c15c1a9
+  scope: '1053'
+  scope_unit: page
+  notes:
+  - 楚，荊
+  - '1. Ji1ng is certainly the deprecatory term for Chu3. But it is not true that HF uses mainly Ji1ng: Chu3 is used ca. 64 times, Ji1ng something like 80 times depending on what editions one bases oneself on.'

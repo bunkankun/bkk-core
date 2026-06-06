@@ -1,0 +1,81 @@
+uuid: 43fe3412-4960-424f-96d2-2835666677a9
+type: bibliography
+citation_label: ZHANG SHUANGDI 1993
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 呂氏春秋詞典
+  lang: chi
+  script: Hant
+- title: Lv3shǐ chūnqiū cídiǎn
+  type: translated
+  lang: chi
+  script: Latn
+  transliteration: chinese/ala-lc
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Shuangdi
+  family: Zhang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Shuangdi
+    family: Zhang
+  - lang: chi
+    script: Hant
+    given: 雙棣
+    family: 張
+- type: personal
+  roles:
+  - author
+  given: Haiguang
+  family: Yin
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Haiguang
+    family: Yin
+  - lang: chi
+    script: Hant
+    given: 國光
+    family: 殷
+- type: personal
+  roles:
+  - author
+  given: Tao
+  family: Chen
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Tao
+    family: Chen
+  - lang: chi
+    script: Hant
+    given: 濤
+    family: 陳
+origin:
+  place: Jinan
+  publisher: Shandong Jiaoyu Chubanshe
+  date_issued: '1993'
+  date_encoding: w3cdtf
+  issuance: monographic
+notes:
+- type: general
+  text: Specifies not only word-classes but also position in the sentence. A brilliantly original departure in Chinese lexicography.
+source:
+  format: MODS
+  version: '3.6'

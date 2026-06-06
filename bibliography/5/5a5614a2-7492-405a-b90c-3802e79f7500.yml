@@ -1,0 +1,57 @@
+uuid: 5a5614a2-7492-405a-b90c-3802e79f7500
+type: bibliography
+citation_label: HU ANSHUN 1968
+ref_usage: '0'
+resource_type: text
+genres:
+- value: book
+  authority: marcgt
+titles:
+- title: 白話淮南子
+  lang: chi
+  script: Hant
+contributors:
+- type: personal
+  roles:
+  - author
+  given: Anshun
+  family: Hu
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Anshun
+    family: Hu
+  - lang: chi
+    script: Hant
+    given: 安順
+    family: 胡
+- type: personal
+  roles:
+  - author
+  given: Wennian
+  family: Zhang
+  lang: chi
+  script: Latn
+  names:
+  - lang: chi
+    script: Latn
+    transliteration: chinese/ala-lc
+    given: Wennian
+    family: Zhang
+  - lang: chi
+    script: Hant
+    given: 文年
+    family: 張
+origin:
+  place: Xi'an
+  publisher: San qinchubanshe
+  issuance: monographic
+notes:
+- type: general
+  text: Convenient crib.
+source:
+  format: MODS
+  version: '3.6'
