@@ -1,9 +1,0 @@
----
-uuid: 15ea77ec-e5d1-4dc9-b8c3-b6aaab9b53ea
-type: semantic-feature
-code: beating
-source:
-  source_file: semantic-features.xml
----
-
-# beating

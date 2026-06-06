@@ -1,9 +1,0 @@
----
-uuid: a7cbeb37-6dac-432f-b9d2-dc9ac1b862b5
-type: syntactic-function
-code: npost-V{NUM}.postadV
-source:
-  source_file: syntactic-functions.xml
----
-
-# npost-V{NUM}.postadV

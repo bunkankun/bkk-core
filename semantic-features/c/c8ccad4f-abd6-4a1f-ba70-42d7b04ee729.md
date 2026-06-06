@@ -1,9 +1,0 @@
----
-uuid: c8ccad4f-abd6-4a1f-ba70-42d7b04ee729
-type: semantic-feature
-code: reference=emperor
-source:
-  source_file: semantic-features.xml
----
-
-# reference=emperor

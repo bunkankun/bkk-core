@@ -1,9 +1,0 @@
----
-uuid: 1e2b0afe-b7cb-4a26-b7f0-7ec64aaf919b
-type: semantic-feature
-code: all at once
-source:
-  source_file: semantic-features.xml
----
-
-# all at once

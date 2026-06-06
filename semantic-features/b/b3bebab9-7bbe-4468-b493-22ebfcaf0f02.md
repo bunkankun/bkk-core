@@ -1,9 +1,0 @@
----
-uuid: b3bebab9-7bbe-4468-b493-22ebfcaf0f02
-type: semantic-feature
-code: mention
-source:
-  source_file: semantic-features.xml
----
-
-# mention

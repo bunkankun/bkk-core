@@ -1,9 +1,0 @@
----
-uuid: 65ff7542-4fbd-4ee6-beb7-be84000bcbdb
-type: semantic-feature
-code: reference=nonhu
-source:
-  source_file: semantic-features.xml
----
-
-# reference=nonhu

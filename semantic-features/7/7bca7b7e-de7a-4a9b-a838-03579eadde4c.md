@@ -1,9 +1,0 @@
----
-uuid: 7bca7b7e-de7a-4a9b-a838-03579eadde4c
-type: semantic-feature
-code: geographic
-source:
-  source_file: semantic-features.xml
----
-
-# geographic

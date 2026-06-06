@@ -1,9 +1,0 @@
----
-uuid: dbe144af-f452-4ac0-bf26-ad69ddc5dc7b
-type: syntactic-function
-code: nab.-N
-source:
-  source_file: syntactic-functions.xml
----
-
-# nab.-N

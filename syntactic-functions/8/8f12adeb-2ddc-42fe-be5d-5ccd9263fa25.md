@@ -1,9 +1,0 @@
----
-uuid: 8f12adeb-2ddc-42fe-be5d-5ccd9263fa25
-type: syntactic-function
-code: PPpostN{SUBJ}.adV:adS
-source:
-  source_file: syntactic-functions.xml
----
-
-# PPpostN{SUBJ}.adV:adS

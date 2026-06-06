@@ -1,9 +1,0 @@
----
-uuid: c28b0dd5-ffa0-442e-affe-c55cc7843b5d
-type: semantic-feature
-code: N=obj
-source:
-  source_file: semantic-features.xml
----
-
-# N=obj

@@ -1,9 +1,0 @@
----
-uuid: cfa10af3-c11e-4d1d-bca3-1baf01828de6
-type: syntactic-function
-code: n{OBJ}+Vt
-source:
-  source_file: syntactic-functions.xml
----
-
-# n{OBJ}+Vt

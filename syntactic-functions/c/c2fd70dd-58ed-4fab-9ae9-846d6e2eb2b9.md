@@ -1,9 +1,0 @@
----
-uuid: c2fd70dd-58ed-4fab-9ae9-846d6e2eb2b9
-type: syntactic-function
-code: vt+V[0].adV
-source:
-  source_file: syntactic-functions.xml
----
-
-# vt+V[0].adV

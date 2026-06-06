@@ -1,9 +1,0 @@
----
-uuid: a7ab71bf-00f8-469b-b2ae-ccff15e4e7c2
-type: semantic-feature
-code: distal
-source:
-  source_file: semantic-features.xml
----
-
-# distal

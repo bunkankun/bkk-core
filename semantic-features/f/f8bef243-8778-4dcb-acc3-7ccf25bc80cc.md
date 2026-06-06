@@ -1,9 +1,0 @@
----
-uuid: f8bef243-8778-4dcb-acc3-7ccf25bc80cc
-type: semantic-feature
-code: even
-source:
-  source_file: semantic-features.xml
----
-
-# even

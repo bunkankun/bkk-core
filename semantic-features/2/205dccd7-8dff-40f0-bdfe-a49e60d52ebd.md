@@ -1,9 +1,0 @@
----
-uuid: 205dccd7-8dff-40f0-bdfe-a49e60d52ebd
-type: semantic-feature
-code: N=situation
-source:
-  source_file: semantic-features.xml
----
-
-# N=situation

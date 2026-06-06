@@ -1,9 +1,0 @@
----
-uuid: 78a438aa-5a82-4dd2-a50d-d73cecdaa5af
-type: semantic-feature
-code: ad two Ns
-source:
-  source_file: semantic-features.xml
----
-
-# ad two Ns

@@ -1,9 +1,0 @@
----
-uuid: f7794b9d-8d4a-473e-aef2-afc8aba2e97d
-type: semantic-feature
-code: state
-source:
-  source_file: semantic-features.xml
----
-
-# state

@@ -1,9 +1,0 @@
----
-uuid: 329c3ad4-fb6d-4ac0-a2d3-af398ccc3b7b
-type: semantic-feature
-code: feminine
-source:
-  source_file: semantic-features.xml
----
-
-# feminine

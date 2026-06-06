@@ -1,9 +1,0 @@
----
-uuid: 1c4967a2-47ec-4ccb-af7b-154cf3ceee6e
-type: syntactic-function
-code: vt.postN{OBJ}.adV
-source:
-  source_file: syntactic-functions.xml
----
-
-# vt.postN{OBJ}.adV
