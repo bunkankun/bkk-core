@@ -1,0 +1,76 @@
+uuid: d1570a65-ac17-425e-a611-a6316bcc88b0
+type: tax-char
+heads:
+- 染
+pronunciations:
+- reading: rǎn
+  old_chinese: njomʔ
+  middle_chinese: ȵiɛm
+  fanqie: 而琰切
+  tone: 上
+  guangyun: 染色周禮染人掌染綏帛又姓石勒時有染閔
+  senses:
+  - concept_uuid: 4bb9333e-a44e-4049-81bd-c3b4948d3a91
+    concept_label: DYE
+    children:
+    - gloss: result
+      concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+      concept_label: COLOUR
+    - gloss: generalised, pejorative> CONTAMINATE
+      children:
+      - gloss: result, medical
+        concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+        concept_label: ILLNESS
+      - gloss: specific result
+        concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+        concept_label: DIRTY
+        children:
+        - gloss: metaphorical
+          concept_uuid: d09ae4f5-db47-4dda-90bf-48e4e33d0a4d
+          concept_label: CORRUPT
+          children:
+          - gloss: metaphorical, declarative
+            concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+            concept_label: SLANDER
+      - gloss: result
+        concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+        concept_label: PREGNANT
+        children:
+        - gloss: related action
+          concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+          concept_label: COPULATE
+    - gloss: generalised
+      concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+      concept_label: INFLUENCE
+      children:
+      - gloss: social
+        concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+        concept_label: INVOLVE
+      - gloss: abstract result
+        concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+        concept_label: CUSTOM
+      - gloss: 'passive: be cognitively influenced'
+        concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+        concept_label: LEARN
+        children:
+        - gloss: result
+          concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+          concept_label: KNOW
+          children:
+          - gloss: express
+            concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+            concept_label: WRITE
+    - gloss: generalised
+      concept_uuid: 7098bab6-3f00-4d07-a53b-9168ef582e74
+      concept_label: DIP
+      children:
+      - gloss: generalised
+        concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+        concept_label: PUT
+      - gloss: 'object: what is dipped into'
+        concept_uuid: 56c89ae6-b5c8-44e6-a51f-80f79f6cf40b
+        concept_label: SAUCE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

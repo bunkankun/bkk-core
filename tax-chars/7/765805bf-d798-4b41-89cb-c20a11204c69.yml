@@ -1,0 +1,37 @@
+uuid: 765805bf-d798-4b41-89cb-c20a11204c69
+type: tax-char
+heads:
+- 永
+pronunciations:
+- reading: yǒng
+  old_chinese: ɢʷaŋʔ
+  middle_chinese: ɦʷɯiaŋ
+  fanqie: 于憬切
+  tone: 上
+  guangyun: 長也引也逺也遐也亦姓岀何氏姓苑于憬切二
+  senses:
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+    children:
+    - gloss: figurative
+      concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+      concept_label: LONG
+      children:
+      - gloss: separation
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+      - gloss: causative
+        concept_uuid: c9eaed89-c52f-4cbf-ae6e-e0304111543d
+        concept_label: EXPAND
+    - gloss: abstract
+      concept_uuid: 0e3bab62-f545-4014-a620-c848fe3c1a13
+      concept_label: ETERNAL
+    - gloss: 'generalised: throughout'
+      concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+      concept_label: COMPLETE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: =詠
+  - gloss: =泳
+source:
+  source_file: taxchar.xml

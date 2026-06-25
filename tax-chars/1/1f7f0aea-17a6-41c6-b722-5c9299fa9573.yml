@@ -1,0 +1,31 @@
+uuid: 1f7f0aea-17a6-41c6-b722-5c9299fa9573
+type: tax-char
+heads:
+- 俱
+pronunciations:
+- reading: jù
+  old_chinese: ɡos
+  middle_chinese: ɡio
+  fanqie: 其遇切
+  tone: 去
+  senses:
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+- reading: jū
+  old_chinese: ko
+  middle_chinese: kio
+  fanqie: 舉朱切
+  tone: 平
+  guangyun: 皆也具也又姓南涼録有將軍俱延
+  senses:
+  - concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+    children:
+    - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+      concept_label: TOGETHER
+    - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+      concept_label: PROVIDE
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: d067e46a-e754-4bbc-8419-9c6e72f04fac
+type: tax-char
+heads:
+- 沼
+pronunciations:
+- reading: zhǎo
+  old_chinese: kljewʔ
+  middle_chinese: tɕiɛu
+  fanqie: 之少切
+  tone: 上
+  guangyun: 池沼之少切三
+  senses:
+  - concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+    concept_label: LAKE
+  - concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+    concept_label: POND
+  - concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+source:
+  source_file: taxchar.xml

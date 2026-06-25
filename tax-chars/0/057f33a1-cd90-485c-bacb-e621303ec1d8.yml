@@ -1,0 +1,31 @@
+uuid: 057f33a1-cd90-485c-bacb-e621303ec1d8
+type: tax-char
+heads:
+- 晨
+pronunciations:
+- reading: chén
+  old_chinese: ɡljɯn
+  middle_chinese: dʑin
+  fanqie: 植鄰切
+  tone: 平
+  guangyun: 早也明也
+  senses:
+  - concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+    concept_label: MORNING
+    children:
+    - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+      concept_label: STARS
+      children:
+      - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+        concept_label: DRAGON
+  - gloss: =辰
+    concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+- reading: shén
+  old_chinese: ɢljɯn
+  middle_chinese: ʑin
+  fanqie: 食鄰切
+  tone: 平
+  guangyun: 又植鄰切
+source:
+  source_file: taxchar.xml

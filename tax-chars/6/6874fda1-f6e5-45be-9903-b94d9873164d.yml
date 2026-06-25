@@ -1,0 +1,29 @@
+uuid: 6874fda1-f6e5-45be-9903-b94d9873164d
+type: tax-char
+heads:
+- 儉
+pronunciations:
+- reading: jiǎn
+  old_chinese: ɡromʔ
+  middle_chinese: ɡɯiɛm
+  fanqie: 巨險切
+  tone: 上
+  guangyun: 約也少也饑饉也又姓出姓苑巨險切二
+  senses:
+  - concept_uuid: 1f07ab5a-cffd-4ab0-8f20-4ed59626143e
+    concept_label: CHEAP
+  - concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+    concept_label: DECENT
+  - concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+    concept_label: FRUGAL
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+  - concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+    concept_label: STINGY
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 險
+source:
+  source_file: taxchar.xml

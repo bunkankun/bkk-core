@@ -1,0 +1,55 @@
+uuid: fb864474-d65b-4846-88a3-687d0f51a459
+type: tax-char
+heads:
+- 察
+pronunciations:
+- reading: chá
+  old_chinese: skhreed
+  middle_chinese: tʂʰɯæt
+  fanqie: 初八切
+  tone: 入
+  guangyun: 監察也諦也知也至也審也案説文云察覆也詧言微親詧也今通用亦姓岀何氏姓苑
+  senses:
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+    children:
+    - gloss: resultative
+      concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+      concept_label: PROMOTE
+    - gloss: resultative
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: 'generalising: visually, exactly'
+        concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+        concept_label: SEE
+        children:
+        - gloss: specific
+          concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+          concept_label: DISTINGUISH
+      - gloss: feature
+        concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+        concept_label: INTELLIGENT
+      - gloss: feature of what is understood
+        concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+        concept_label: CLEAR
+        children:
+        - gloss: causative
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+- reading: qiè
+  old_chinese: shreed
+  middle_chinese: tsʰet
+  fanqie: 千結切
+  tone: 入
+  guangyun: 説文曰言微親詧也又音察
+  senses:
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+unattributed_senses:
+- gloss: 察 ｃｕｉ４《集韻》初芮切，去祭初。
+  children:
+  - concept_uuid: 520ec0d4-3a92-436d-b30d-bb45584b38d6
+    concept_label: OBSERVE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,137 @@
+uuid: 3e2f4637-7e9b-4e72-b99e-7878d1b257cc
+type: tax-char
+heads:
+- 介
+pronunciations:
+- reading: jiè
+  old_chinese: kreeds
+  middle_chinese: kɯæi
+  fanqie: 古拜切
+  tone: 去
+  guangyun: 大也助也佑也甲也閱也耿介也説文作？畫也俗作〈人／力〉又 姓介之推是
+  senses:
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: SEPARATE
+    children:
+    - gloss: feature
+      concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+      concept_label: ALONE
+      children:
+      - gloss: abstract
+        concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+        concept_label: SPECIAL
+    - gloss: feature
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+    - gloss: from natural movement
+      concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+      concept_label: BLOCK
+      children:
+      - gloss: from danger
+        concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+        concept_label: SAFEGUARD
+        children:
+        - gloss: (wear armour)
+          concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+          concept_label: WEAR
+          children:
+          - gloss: =甲 (worn armour)
+            concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+            concept_label: ARMOUR
+            children:
+            - gloss: feature>ARMOURED
+              children:
+              - gloss: feature
+                concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+                concept_label: SOLID
+                children:
+                - gloss: 'abstract: temporal'
+                  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+                  concept_label: CONSTANT
+                  children:
+                  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+                    concept_label: REMAIN
+            - gloss: specific
+              concept_uuid: 105c35ae-f0cd-4f0a-93f8-83f2d866f2b6
+              concept_label: SHELL
+            - gloss: specific
+              concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+              concept_label: PUT
+        - gloss: resulting
+          concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+          concept_label: COURAGE
+          children:
+          - gloss: generalised>BEHAVIOUR
+            children:
+            - gloss: abstract
+              concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+              concept_label: PRINCIPLE
+    - gloss: relation
+      concept_uuid: 62dbda50-113a-42b2-a2fc-ba3399469619
+      concept_label: BETWEEN
+      children:
+      - gloss: feature of what is between
+        concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+        concept_label: SMALL
+        children:
+        - gloss: abstract
+          concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+          concept_label: TENUOUS
+      - gloss: grammaticalised
+        concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+        concept_label: SUDDENLY
+      - gloss: go between
+        concept_uuid: ae949ca3-c257-4406-8b08-7bc8482a23c4
+        concept_label: MESSENGER
+        children:
+        - gloss: specific
+          concept_uuid: 2aa3ffa6-acb8-4f34-8976-e3950cac6f53
+          concept_label: INTRODUCE
+          children:
+          - gloss: genearlised
+            concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+            concept_label: HELP
+            children:
+            - gloss: helper
+              concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+              concept_label: SERVANT
+            - gloss: passive
+              concept_uuid: 97510283-af73-45e3-97a7-942029408956
+              concept_label: RELY ON
+            - concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+              concept_label: INCREASE
+              children:
+              - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+                concept_label: BIG
+                children:
+                - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+                  concept_label: COMPLETE
+    - gloss: into parts
+      concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+      concept_label: DIVIDE
+    - gloss: resultative
+      concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+      concept_label: DIFFERENT
+    - gloss: （一音兀） cut off foot
+      concept_uuid: 25a72224-9be8-4fd4-82ad-4a2a28e44f16
+      concept_label: MUTILATE
+  - gloss: grammaticalised
+    concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+    concept_label: THIS
+  - gloss: 'grammaticalised: adverbial'
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - gloss: of rivers and lakes
+    concept_uuid: dfa62de8-41ec-463e-a33c-824697b24b24
+    concept_label: BANK
+  - gloss: =界
+    concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - gloss: =芥
+  - gloss: =价
+source:
+  source_file: taxchar.xml

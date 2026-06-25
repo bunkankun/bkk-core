@@ -1,0 +1,71 @@
+uuid: 302e13b7-57b0-438f-b09c-77cdc46482cd
+type: tax-char
+heads:
+- 主
+pronunciations:
+- reading: zhǔ
+  old_chinese: tjoʔ
+  middle_chinese: tɕio
+  fanqie: 之庾切
+  tone: 上
+  guangyun: 掌也領也典也守也君也説文曰鐙中火主又姓出姓苑之𢈔切五
+  senses:
+  - concept_uuid: e52c9643-b8a7-4bab-953d-ca134baacc1a
+    concept_label: HOST
+    children:
+    - gloss: generalised
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: action
+        concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+        concept_label: GOVERN
+        children:
+        - gloss: relevant action
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+          children:
+          - gloss: generalised
+            concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+            concept_label: CAUSE
+            children:
+            - gloss: agent
+              concept_uuid: 44c6f9f9-20b9-419f-acee-b7f35b2704e3
+              concept_label: CULPRIT
+          - gloss: lead use of
+            concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+            concept_label: POSSESS
+            children:
+            - gloss: exclusively
+              concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+              concept_label: MONOPOLISE
+        - gloss: medical
+          concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+          concept_label: CURE
+      - gloss: figurative:ruling feature
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+        children:
+        - gloss: feature
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+      - gloss: female
+        concept_uuid: 6eacedb2-4e43-47d5-9411-510e9235eea7
+        concept_label: PRINCESS
+      - gloss: metaphorical:spiritual tablet
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+        children:
+        - gloss: religious:ancestral symbol
+          concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+          concept_label: SYMBOL
+      - gloss: 'grammaticalised: polite'
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+    - gloss: occupy as host
+      concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-11-18T04:04:46.086+09:00'

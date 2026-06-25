@@ -1,0 +1,38 @@
+uuid: 1e758a7e-9f31-48e8-8771-4573b872f191
+type: tax-char
+heads:
+- 澆
+pronunciations:
+- reading: ào
+  old_chinese: ŋɡeews
+  middle_chinese: ŋeu
+  fanqie: 五弔切
+  tone: 去
+  guangyun: 韓浞子名又音梟
+- reading: jiāo
+  old_chinese: keew
+  middle_chinese: keu
+  fanqie: 古堯切
+  tone: 平
+  guangyun: 沃也薄也
+  senses:
+  - concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+    concept_label: IRRIGATE
+  - concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+    concept_label: SUPERFICIAL
+  - concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+    concept_label: POUR
+  - concept_uuid: 85b96863-45e0-4270-abf9-80baef2e4c55
+    concept_label: SPLASH
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+    concept_label: THIN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+source:
+  source_file: taxchar.xml

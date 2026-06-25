@@ -1,0 +1,22 @@
+uuid: 5dc400c7-4e36-4075-b99e-3accdadec3e9
+type: tax-char
+heads:
+- 曜
+pronunciations:
+- reading: yào
+  old_chinese: lewɡs
+  middle_chinese: jiɛu
+  fanqie: 弋照切
+  tone: 去
+  guangyun: 日光也又照也
+  senses:
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+    concept_label: CELESTIAL BODY
+source:
+  source_file: taxchar.xml

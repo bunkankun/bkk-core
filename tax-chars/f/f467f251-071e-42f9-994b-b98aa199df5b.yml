@@ -1,0 +1,21 @@
+uuid: f467f251-071e-42f9-994b-b98aa199df5b
+type: tax-char
+heads:
+- 碩
+pronunciations:
+- reading: shuò
+  old_chinese: djaɡ
+  middle_chinese: dʑiɛk
+  fanqie: 常隻切
+  tone: 入
+  guangyun: 大也
+  senses:
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: f5297627-12cb-43a5-86a8-4f655e954227
+    concept_label: LEARNED
+  - concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+    concept_label: PROFOUND
+  - gloss: = 石
+source:
+  source_file: taxchar.xml

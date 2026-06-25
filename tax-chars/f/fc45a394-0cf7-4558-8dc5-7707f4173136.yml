@@ -1,0 +1,65 @@
+uuid: fc45a394-0cf7-4558-8dc5-7707f4173136
+type: tax-char
+heads:
+- 曠
+pronunciations:
+- reading: kuàng
+  old_chinese: khʷaaŋs
+  middle_chinese: kʰʷɑŋ
+  fanqie: 苦謗切
+  tone: 去
+  guangyun: 空明也逺也大也乆也又姓苦謗切五
+  senses:
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+    children:
+    - gloss: feature
+      concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+      concept_label: EMPTY
+      children:
+      - gloss: abstract
+        concept_uuid: eb176907-f405-4ffe-95ec-0e8097a5de6b
+        concept_label: USELESS
+        children:
+        - gloss: putative
+          concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+          concept_label: NEGLECT
+      - gloss: of company
+        concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+        concept_label: ALONE
+        children:
+        - gloss: psychological
+          concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+          concept_label: LONELY
+    - gloss: feature
+      concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+      concept_label: BARREN
+      children:
+      - gloss: grammaticalised
+        concept_uuid: c17ceabd-9788-4c01-bfe7-9185ebe09e89
+        concept_label: IN VAIN
+      - gloss: exocentric
+        concept_uuid: 7e64ee84-3065-4153-bd09-1511189d1f2e
+        concept_label: DESERT
+    - gloss: and unbounded
+      concept_uuid: a1bc4e89-f29d-4361-babb-3f2211dd6e62
+      concept_label: INFINITE
+      children:
+      - gloss: dynamic
+        concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+        concept_label: UNRESTRAINED
+        children:
+        - concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+          concept_label: WASTE
+    - gloss: intellectually, far-sighted
+      concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+      concept_label: INTELLIGENT
+    - gloss: gemporal
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: BRILLIANT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,35 @@
+uuid: 06215ae1-ee8a-4faf-8183-d2d598985dac
+type: tax-char
+heads:
+- 翅
+pronunciations:
+- reading: chì
+  old_chinese: qhjes
+  middle_chinese: ɕiɛ
+  fanqie: 施智切
+  tone: 去
+  guangyun: 同翅
+- reading: chì
+  old_chinese: qhjes
+  middle_chinese: ɕiɛ
+  fanqie: 施智切
+  tone: 去
+  guangyun: 同翅
+- reading: chì
+  old_chinese: qhjes
+  middle_chinese: ɕiɛ
+  fanqie: 施智切
+  tone: 去
+  guangyun: 鳥翼施智切十三
+  senses:
+  - concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+    concept_label: FEATHER
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: ce803475-ab64-4def-b475-4d3ca199c513
+    concept_label: WINGS
+  - concept_uuid: b44b9918-bc47-4be8-aa53-d081b4746747
+    concept_label: FIN
+  - gloss: = 啻
+source:
+  source_file: taxchar.xml

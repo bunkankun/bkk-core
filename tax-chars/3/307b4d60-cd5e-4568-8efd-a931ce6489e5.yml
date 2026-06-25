@@ -1,0 +1,55 @@
+uuid: 307b4d60-cd5e-4568-8efd-a931ce6489e5
+type: tax-char
+heads:
+- 位
+pronunciations:
+- reading: wèi
+  old_chinese: ɢrubs
+  middle_chinese: ɦʷɯi
+  fanqie: 于愧切
+  tone: 去
+  guangyun: 正也列也莅也中庭之左右謂之位于愧切一
+  senses:
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+    children:
+    - gloss: 'object: what you do to a place'
+      concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+      concept_label: BE IN
+    - gloss: specifically
+      concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+      concept_label: STAND
+      children:
+      - gloss: causative
+        concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+        concept_label: FIX
+      - gloss: 'object: what you sit in'
+        concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+        concept_label: SEAT
+        children:
+        - gloss: in hierarchy, at court, expecially high
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+          children:
+          - gloss: 'highest rank: member of imperial family'
+            concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+            concept_label: EMPEROR
+          - gloss: 'mathematical technical term: rank in the number grid'
+            concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+            concept_label: NUMBER
+        - gloss: social, function
+          concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+          concept_label: OFFICE
+          children:
+          - gloss: feature attaching to
+            concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+            concept_label: POWER
+          - gloss: generalised abstract
+            concept_uuid: 6fb98658-8ce7-4580-b863-77476114cd18
+            concept_label: ROLE
+unattributed_senses:
+- gloss: 位 li4《集韻》力至切，去至來。微部。
+  children:
+  - gloss: =立 "stand"
+source:
+  source_file: taxchar.xml

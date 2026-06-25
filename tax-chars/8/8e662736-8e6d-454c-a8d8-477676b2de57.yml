@@ -1,0 +1,65 @@
+uuid: 8e662736-8e6d-454c-a8d8-477676b2de57
+type: tax-char
+heads:
+- 讓
+pronunciations:
+- reading: ràng
+  old_chinese: njaŋs
+  middle_chinese: ȵiɐŋ
+  fanqie: 人樣切
+  tone: 去
+  guangyun: 退讓責讓又交讓木名兩樹相對一枯則一生岷山有之人㨾切三
+  senses:
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+    children:
+    - gloss: blame onself and
+      concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+      concept_label: YIELD
+      children:
+      - gloss: feature of yielding politely etc
+        concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+        concept_label: DECENT
+      - gloss: transitive, of desirables to another
+        concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+        concept_label: TRANSFER
+      - gloss: generalised
+        concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+        concept_label: WITHDRAW
+        children:
+        - gloss: so as not to have to face
+          concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+          concept_label: AVOID
+          children:
+          - gloss: declarative
+            concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+            concept_label: REFUSE
+      - gloss: 'abstract: yield to in quality'
+        concept_uuid: 6557e5a6-3bf5-4df5-b39a-e80ffa163024
+        concept_label: INFERIOR
+        children:
+        - gloss: assess oneself as inferior to another
+          concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+          concept_label: PRAISE
+      - gloss: yield permission to
+        concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+        concept_label: ALLOW
+        children:
+        - gloss: 'grammaticalised: allow oneself to be VERBed'
+          concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+          concept_label: PASSIVE MARKER
+        - gloss: allow to come
+          concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+          concept_label: INVITE
+          children:
+          - gloss: generalised
+            concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+            concept_label: GREET
+  - gloss: DIARHEE
+  - gloss: =攘
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

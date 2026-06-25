@@ -1,0 +1,78 @@
+uuid: e46883d9-787f-4495-a070-9f0e2cfb125a
+type: tax-char
+heads:
+- 在
+pronunciations:
+- reading: zài
+  old_chinese: sɡɯɯs
+  middle_chinese: dzəi
+  fanqie: 昨代切
+  tone: 去
+  guangyun: 所在
+- reading: zài
+  old_chinese: sɡɯɯʔ
+  middle_chinese: dzəi
+  fanqie: 昨宰切
+  tone: 上
+  guangyun: 居也存也昨宰切一
+  senses:
+  - concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+    concept_label: BE IN
+    children:
+    - gloss: cause to be on/in
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+      children:
+      - gloss: put into
+        concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+        concept_label: FILL
+      - gloss: derived:put one's attention into
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: think about so as to understand
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+    - gloss: what something is in
+      concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+      concept_label: PLACE
+    - gloss: continuative
+      concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+      concept_label: PERSIST
+      children:
+      - gloss: persist as one pleases
+        concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+        concept_label: UNRESTRAINED
+      - gloss: the universe
+        concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+        concept_label: EXIST
+        children:
+        - gloss: as a persistent living creature
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+          children:
+          - concept_uuid: fc866ed3-ca33-4f25-9f56-f5726cbb29c4
+            concept_label: BE ON
+            children:
+            - concept_uuid: 18111d76-cd07-4adf-a21d-e4c273df9d48
+              concept_label: DEPEND ON
+              children:
+              - gloss: what much depends on
+                concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+                concept_label: IMPORTANT
+              - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+                concept_label: RELY ON
+                children:
+                - gloss: explanatory
+                  concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+                  concept_label: BECAUSE
+          - gloss: object dwelling
+            concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+            concept_label: DWELL
+        - gloss: grammaticalised
+          concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+          concept_label: FINAL PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T16:48:46.645+09:00'

@@ -1,0 +1,20 @@
+uuid: 75bfe290-16b8-40cb-876f-108b0db034da
+type: tax-char
+heads:
+- 濃
+pronunciations:
+- reading: nóng
+  old_chinese: noŋ
+  middle_chinese: ɳioŋ
+  fanqie: 女容切
+  tone: 平
+  guangyun: 厚也
+  senses:
+  - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+    concept_label: DENSE
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: INTENSE
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

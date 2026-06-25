@@ -1,0 +1,30 @@
+uuid: c13c2607-af45-43a5-befc-f420a77fe808
+type: tax-char
+heads:
+- 央
+pronunciations:
+- reading: yāng
+  old_chinese: qaŋ
+  middle_chinese: ʔiɐŋ
+  fanqie: 於良切
+  tone: 平
+  guangyun: 中央一曰久也於良切九
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+  - concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+    concept_label: INSIDE
+  - concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+    concept_label: MIDDLE
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+source:
+  source_file: taxchar.xml

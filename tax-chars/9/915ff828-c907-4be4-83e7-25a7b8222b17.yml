@@ -1,0 +1,39 @@
+uuid: 915ff828-c907-4be4-83e7-25a7b8222b17
+type: tax-char
+heads:
+- 祇
+pronunciations:
+- reading: qí
+  old_chinese: ɡe
+  middle_chinese: ɡiɛ
+  fanqie: 巨支切
+  tone: 平
+  guangyun: 地祗神也巨支切二十五
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+    concept_label: TOPIC MARKER
+  - concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+    concept_label: THIS
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+- reading: zhī
+  old_chinese: kje
+  middle_chinese: tɕiɛ
+  fanqie: 章移切
+  tone: 平
+  guangyun: 適也又巨支切
+  senses:
+  - concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+    concept_label: WHY
+source:
+  source_file: taxchar.xml

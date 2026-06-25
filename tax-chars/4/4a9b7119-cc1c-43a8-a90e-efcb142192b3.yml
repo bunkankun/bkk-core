@@ -1,0 +1,22 @@
+uuid: 4a9b7119-cc1c-43a8-a90e-efcb142192b3
+type: tax-char
+heads:
+- 俄
+pronunciations:
+- reading: é
+  old_chinese: ŋaal
+  middle_chinese: ŋɑ
+  fanqie: 五何切
+  tone: 平
+  guangyun: 俄頃速也
+  senses:
+  - concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+    concept_label: THEREUPON
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

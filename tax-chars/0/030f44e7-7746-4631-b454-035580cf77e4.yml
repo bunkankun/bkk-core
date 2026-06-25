@@ -1,0 +1,22 @@
+uuid: 030f44e7-7746-4631-b454-035580cf77e4
+type: tax-char
+heads:
+- 嶽
+pronunciations:
+- reading: yuè
+  old_chinese: ŋrooɡ
+  middle_chinese: ŋɯɔk
+  fanqie: 五角切
+  tone: 入
+  guangyun: 五嶽也五角切八
+  senses:
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+    concept_label: SUMMIT
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 8b5fc151-916c-4530-98e3-fc7754079058
+    concept_label: SACRED MOUNTAINS
+source:
+  source_file: taxchar.xml

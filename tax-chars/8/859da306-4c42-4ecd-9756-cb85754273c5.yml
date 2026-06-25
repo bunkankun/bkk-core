@@ -1,0 +1,38 @@
+uuid: 859da306-4c42-4ecd-9756-cb85754273c5
+type: tax-char
+heads:
+- 醫
+pronunciations:
+- reading: yī
+  old_chinese: qɯ
+  middle_chinese: ʔɨ
+  fanqie: 於其切
+  tone: 平
+  guangyun: 醫療也亦官名漢太常屬官有太醫令續漢書曰秩六百石有藥丞主藥方説文曰巫彭初作醫於其切五
+  senses:
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+  - concept_uuid: 4f3f44a0-2d10-4b09-ac7e-24e804772157
+    concept_label: PHYSICIAN
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+    concept_label: MEDICINE
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: WINE
+  - gloss: = 翳
+- reading: yì
+  old_chinese: qɯ
+  middle_chinese: ʔei
+  fanqie: 於計切
+  tone: 去
+- reading: yī
+  old_chinese: qɯ
+  middle_chinese: ʔɨ
+  fanqie: 於其切
+  tone: 平
+  guangyun: 同醫
+source:
+  source_file: taxchar.xml

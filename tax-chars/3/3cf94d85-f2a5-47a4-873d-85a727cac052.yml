@@ -1,0 +1,26 @@
+uuid: 3cf94d85-f2a5-47a4-873d-85a727cac052
+type: tax-char
+heads:
+- 聯
+pronunciations:
+- reading: lián
+  old_chinese: ɡ-ron
+  middle_chinese: liɛn
+  fanqie: 力延切
+  tone: 平
+  guangyun: 聮綿不絶説文作䏈
+  senses:
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+    concept_label: UNITE
+  - concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+    concept_label: SEW
+  - concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+    concept_label: PEOPLE
+  - concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+    concept_label: TEXT
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

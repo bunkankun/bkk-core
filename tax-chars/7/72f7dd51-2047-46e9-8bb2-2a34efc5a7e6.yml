@@ -1,0 +1,31 @@
+uuid: 72f7dd51-2047-46e9-8bb2-2a34efc5a7e6
+type: tax-char
+heads:
+- 刀
+pronunciations:
+- reading: dāo
+  old_chinese: k-laaw
+  middle_chinese: tɑu
+  fanqie: 都牢切
+  tone: 平
+  guangyun: 釋名曰刀到也以斬伐到其所也説文云兵也都牢切七
+  senses:
+  - gloss: (single-edged)
+    concept_uuid: 641c1d3c-1f7f-40a4-aba6-41fb8c9895c3
+    concept_label: KNIFE
+    children:
+    - gloss: 'typical action using it as instrument: slaughter'
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+    - gloss: single-edged, large
+      concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+      concept_label: SWORD
+    - gloss: currency in the shape of
+      concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+      concept_label: MONEY
+  - gloss: =舫
+    concept_uuid: b0f970f1-b4bb-44e3-b14f-2770e9792e45
+    concept_label: BOAT
+  - gloss: BARBARIANS
+source:
+  source_file: taxchar.xml

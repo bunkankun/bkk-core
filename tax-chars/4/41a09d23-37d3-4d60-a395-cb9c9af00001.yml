@@ -1,0 +1,23 @@
+uuid: 41a09d23-37d3-4d60-a395-cb9c9af00001
+type: tax-char
+heads:
+- 秘
+pronunciations:
+- reading: mì
+  old_chinese: mpriɡs
+  middle_chinese: pɯi
+  fanqie: 兵媚切
+  tone: 去
+  senses:
+  - concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+    concept_label: SECRET
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: SHUT
+  - concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+    concept_label: EMPEROR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,29 @@
+uuid: 36356e5b-1a1c-447e-a4e1-1323274b9cf8
+type: tax-char
+heads:
+- 雞
+- 鶏
+pronunciations:
+- reading: jī
+  old_chinese: kee
+  middle_chinese: kei
+  fanqie: 古奚切
+  tone: 平
+  guangyun: 説文曰知時畜也易曰巽爲雞古奚切十
+- reading: jī
+  old_chinese: kee
+  middle_chinese: kei
+  fanqie: 古奚切
+  tone: 平
+  guangyun: 雞籀文
+  senses:
+  - concept_uuid: 7ed2254c-2f56-4e85-9887-7d593ec689e0
+    concept_label: CHICKEN
+    children:
+    - gloss: male
+      concept_uuid: 61a59ec4-9322-4176-a5d4-521f57c0fd43
+      concept_label: COCK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:28:52.611+09:00'

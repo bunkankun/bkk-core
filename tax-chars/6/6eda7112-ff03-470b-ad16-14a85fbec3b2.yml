@@ -1,0 +1,67 @@
+uuid: 6eda7112-ff03-470b-ad16-14a85fbec3b2
+type: tax-char
+heads:
+- 污
+- 汙
+pronunciations:
+- reading: wù
+  old_chinese: qʷlaas
+  middle_chinese: ʔuo
+  fanqie: 烏路切
+  tone: 去
+- reading: wū
+  old_chinese: qʷlaa
+  middle_chinese: ʔuo
+  fanqie: 哀都切
+  tone: 平
+  guangyun: 同洿又一故切
+  senses:
+  - concept_uuid: 4010f454-9f59-4984-90be-b1371b7d6c21
+    concept_label: MUD
+    children:
+    - gloss: feature
+      concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+      concept_label: MOIST
+      children:
+      - gloss: subject
+        concept_uuid: eb2179a7-57c0-4003-b071-9155bfd6dc29
+        concept_label: PUDDLE
+        children:
+        - gloss: characterised by puddles
+          concept_uuid: 1d168988-768f-41d1-adb5-cd633b503ead
+          concept_label: MARSH
+        - gloss: large
+          concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+          concept_label: LAKE
+      - gloss: feature
+        concept_uuid: f3e13579-7f52-46be-aa49-a573417c0d6a
+        concept_label: LOW
+        children:
+        - gloss: metaphorical
+          concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+          concept_label: HUMBLE
+          children:
+          - gloss: status
+            concept_uuid: 6557e5a6-3bf5-4df5-b39a-e80ffa163024
+            concept_label: INFERIOR
+            children:
+            - gloss: inchoative general
+              concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+              concept_label: DECLINE
+    - gloss: feature
+      concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+      concept_label: DIRTY
+      children:
+      - gloss: generalised
+        concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+        concept_label: IMPURE
+        children:
+        - gloss: moral
+          concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+          concept_label: WICKED
+          children:
+          - gloss: psychological
+            concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+            concept_label: SHAME
+source:
+  source_file: taxchar.xml

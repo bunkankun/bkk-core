@@ -1,0 +1,44 @@
+uuid: 9c6e8d65-3a72-4d41-93dd-fe2cbf0545a8
+type: tax-char
+heads:
+- 僕
+pronunciations:
+- reading: pú
+  old_chinese: buuɡ
+  middle_chinese: buok
+  fanqie: 蒲沃切
+  tone: 入
+  guangyun: 僮僕説文曰給事者也漢書曰太僕秦官掌輿馬亦姓風俗通云漢有渾梁侯僕多又虜複姓後魏書僕蘭氏後改爲僕氏蒲沃切六
+- reading: pú
+  old_chinese: booɡ
+  middle_chinese: buk
+  fanqie: 蒲木切
+  tone: 入
+  guangyun: 侍從人也
+  senses:
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+    children:
+    - gloss: in public employment
+      concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+      concept_label: OFFICIAL
+    - gloss: specific> DRIVER
+      children:
+      - gloss: action
+        concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+        concept_label: DRIVE
+    - gloss: grammaticalised
+      concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 僕 ｐｕ１《集韻》普木切，入屋滂。
+  children:
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+- gloss: 僕 ｂｕ２《集韻》博木切，入屋幫。
+  children:
+  - gloss: =轐
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,79 @@
+uuid: 75381b27-7e40-4733-867e-123d45a55387
+type: tax-char
+heads:
+- 調
+pronunciations:
+- reading: tiáo
+  old_chinese: dɯɯw
+  middle_chinese: deu
+  fanqie: 徒聊切
+  tone: 平
+  guangyun: 和也又姓周禮有調人其後氏焉又徒料切
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+    children:
+    - gloss: different elements
+      concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+      concept_label: BLEND
+      children:
+      - gloss: resultative state
+        concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+        concept_label: HARMONY
+      - gloss: resulting state
+        concept_uuid: 8bf9e455-5bb7-4cf9-afc1-c7086a2a8fe7
+        concept_label: FIT
+      - gloss: causative
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: causative, of animals
+          concept_uuid: a0dd511b-e11d-4d07-8383-7ac7069b782c
+          concept_label: TAME
+          children:
+          - gloss: of humans
+            concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+            concept_label: TEACH
+            children:
+            - gloss: negative
+              concept_uuid: 14a83efe-3bd6-458e-b596-c2e57150739f
+              concept_label: INCITE
+            - gloss: humorously
+              concept_uuid: f8d0fa63-774b-4e2d-ade4-5ad8cc925146
+              concept_label: TEASE
+              children:
+              - gloss: with words
+                concept_uuid: e6b4e1e1-6e1e-4f01-a01b-4d658b1fb7d4
+                concept_label: MOCK
+- reading: zhōu
+  old_chinese: tɯw
+  middle_chinese: ʈiu
+  fanqie: 張流切
+  tone: 平
+  guangyun: 朝也詩云惄如調飢本又音條
+- reading: diào
+  old_chinese: dɯɯws
+  middle_chinese: deu
+  fanqie: 徒弔切
+  tone: 去
+  guangyun: 選也韻調也又音苕
+  senses:
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+    children:
+    - gloss: military
+      concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+      concept_label: MOBILISE
+      children:
+      - gloss: generalised
+        concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+        concept_label: ASSEMBLE
+      - gloss: semantically
+        concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+        concept_label: MEAN
+        children:
+        - gloss: 'musically: tune'
+          concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+          concept_label: SONG
+source:
+  source_file: taxchar.xml

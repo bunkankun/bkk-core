@@ -1,0 +1,65 @@
+uuid: 180fb686-ca53-4744-a0e3-a3e404f54a3c
+type: tax-char
+heads:
+- 役
+pronunciations:
+- reading: yì
+  old_chinese: ɢʷleɡ
+  middle_chinese: jʷiɛk
+  fanqie: 營隻切
+  tone: 入
+  guangyun: 古從人今從彳説文曰戍邊也營隻切十二
+  senses:
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+    children:
+    - gloss: intellectual
+      concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+      concept_label: STUDENT
+      children:
+      - gloss: related action, figurative
+        concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+        concept_label: FOLLOW
+    - gloss: military
+      concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+      concept_label: SOLDIER
+      children:
+      - gloss: related activity
+        concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+        concept_label: BATTLE
+    - gloss: related action
+      concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+      concept_label: SERVE
+      children:
+      - gloss: agent
+        concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+        concept_label: WORKER
+        children:
+        - gloss: specific
+          concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+          concept_label: SLAVE
+          children:
+          - gloss: related action
+            concept_uuid: 2f844934-733e-4e0c-90df-5369a0338e96
+            concept_label: LABOUR
+          - gloss: as insult
+            concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+            concept_label: VILLAIN
+    - gloss: abstract
+      concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+      concept_label: DUTY
+    - gloss: voluntary
+      concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+      concept_label: HELP
+    - gloss: genralised
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: result
+        concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+        concept_label: SITUATION
+  - gloss: 'causative: cause to serve'
+    concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+source:
+  source_file: taxchar.xml

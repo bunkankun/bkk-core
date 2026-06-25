@@ -1,0 +1,69 @@
+uuid: 5254683c-9222-4c38-b686-d501030ba87f
+type: tax-char
+heads:
+- 骨
+pronunciations:
+- reading: gǔ
+  old_chinese: kuud
+  middle_chinese: kuot
+  fanqie: 古忽切
+  tone: 入
+  guangyun: 説文曰肉之覈也尸子曰徐偃王有筋無骨亦見史記又姓古忽切十六
+  senses:
+  - concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+    concept_label: BONE
+    children:
+    - gloss: 'analogy: biological'
+      concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+      concept_label: ROOT
+    - gloss: generalised
+      concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+      concept_label: INSIDE
+      children:
+      - gloss: psychological
+        concept_uuid: 3267f662-31c8-4634-96c4-f21978fcd1dc
+        concept_label: THOUGHT
+        children:
+        - gloss: entertainer of thought
+          concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+          concept_label: MIND
+          children:
+          - gloss: container of
+            concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+            concept_label: SOUL
+        - gloss: hidden thought
+          concept_uuid: 02770268-84ec-4888-b4ba-8da67e71c882
+          concept_label: MEANING
+      - gloss: abstract
+        concept_uuid: 971de0fb-3246-44a5-8e15-819f083ff24b
+        concept_label: NATURE
+    - gloss: dead bones
+      concept_uuid: 2c6ca376-008e-4a2f-a9f6-53cab2cb828e
+      concept_label: CORPSE
+      children:
+      - gloss: generalised
+        concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+        concept_label: BODY
+        children:
+        - gloss: used in sacrifice
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+        - gloss: abstract
+          concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+          concept_label: REALITY
+        - gloss: feature
+          concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+          concept_label: SLIM
+        - gloss: 'figurative: of persons'
+          concept_uuid: 35b29f22-c6a4-44b6-8597-fc4f5ede63e8
+          concept_label: CHARACTER
+          children:
+          - gloss: 'aesthetic: force'
+            concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+            concept_label: STRONG
+            children:
+            - gloss: generalised
+              concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+              concept_label: STYLE
+source:
+  source_file: taxchar.xml

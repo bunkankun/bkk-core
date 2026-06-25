@@ -1,0 +1,44 @@
+uuid: 609cbce3-cf13-4d9f-9917-4dac0b873553
+type: tax-char
+heads:
+- 戮
+pronunciations:
+- reading: lù
+  old_chinese: ɡ-ruɡ
+  middle_chinese: liuk
+  fanqie: 力竹切
+  tone: 入
+  guangyun: 刑戮説文殺也爾雅病也
+  senses:
+  - concept_uuid: 6c7873f8-335a-41dd-931f-fb75cce3ab2b
+    concept_label: BEHEAD
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+    concept_label: EXECUTE
+  - concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+    concept_label: HUMILIATE
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+- reading: lù
+  old_chinese: ɡ-ruɡ
+  middle_chinese: liuk
+  fanqie: 力竹切
+  tone: 入
+  guangyun: 同戮
+- reading: liú
+  old_chinese: ɡ-ru
+  middle_chinese: liu
+  fanqie: 力求切
+  tone: 平
+  guangyun: 并力也又力逐切
+- reading: liù
+  old_chinese: rɯw
+  middle_chinese: liu
+  fanqie: 力救切
+  tone: 去
+  guangyun: 併力又力竹切
+source:
+  source_file: taxchar.xml

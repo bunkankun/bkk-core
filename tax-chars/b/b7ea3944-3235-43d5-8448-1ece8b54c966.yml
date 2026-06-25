@@ -1,0 +1,24 @@
+uuid: b7ea3944-3235-43d5-8448-1ece8b54c966
+type: tax-char
+heads:
+- 嘶
+pronunciations:
+- reading: sī
+  old_chinese: see
+  middle_chinese: sei
+  fanqie: 先稽切
+  tone: 平
+  guangyun: 馬嘶
+  senses:
+  - concept_uuid: e44d10a7-8cb4-4642-a49e-b92ed122a966
+    concept_label: ANIMAL SOUNDS
+  - concept_uuid: 5ba44d2b-76cf-428b-9597-1f37467392d6
+    concept_label: HOARSE
+  - concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+    concept_label: WEEP
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+source:
+  source_file: taxchar.xml

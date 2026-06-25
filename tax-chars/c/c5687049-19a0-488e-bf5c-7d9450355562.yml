@@ -1,0 +1,27 @@
+uuid: c5687049-19a0-488e-bf5c-7d9450355562
+type: tax-char
+heads:
+- 吳
+pronunciations:
+- reading: wú
+  old_chinese: ŋʷaa
+  middle_chinese: ŋuo
+  fanqie: 五乎切
+  tone: 平
+  guangyun: 吳越又姓本自太伯之後始封於吴因以命氏後季札避國子孫家于魯衞之間今望在濮陽
+  senses:
+  - concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+    concept_label: SHOUT
+  - gloss: personal names
+    concept_uuid: f3a14d13-123c-4b2f-aa0b-0b25d42047ac
+    concept_label: FEMALES
+  - gloss: personal names
+    concept_uuid: eeef90f7-991e-4a06-80bf-112fb3de3161
+    concept_label: RULERS OF WU
+  - gloss: personal names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T05:31:32.367+09:00'

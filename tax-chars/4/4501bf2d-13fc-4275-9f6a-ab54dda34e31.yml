@@ -1,0 +1,84 @@
+uuid: 4501bf2d-13fc-4275-9f6a-ab54dda34e31
+type: tax-char
+heads:
+- 機
+pronunciations:
+- reading: jī
+  old_chinese: kɯl
+  middle_chinese: kɨi
+  fanqie: 居依切
+  tone: 平
+  guangyun: 㑹也萬機也説文云主發謂之機書曰若虞機張傳云機弩牙也居依切十六
+  senses:
+  - concept_uuid: fa1e5dd9-f684-41a0-8585-603f943480be
+    concept_label: TRIGGER
+  - gloss: crucial part of skeleton
+    concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+    concept_label: BONE
+    children:
+    - gloss: generalised
+      concept_uuid: baa4be13-15b2-4539-a393-3b9b4c29c380
+      concept_label: MACHINE
+      children:
+      - gloss: 'specific: bed for dead body'
+        concept_uuid: 836bebdf-9889-41ee-b863-a319e2aa175d
+        concept_label: BIER
+      - gloss: 'specific: for catching birds etc'
+        concept_uuid: 21e54e28-946b-4cd7-9293-c8784a3174c7
+        concept_label: TRAP
+      - gloss: 'specific: for weaving'
+        concept_uuid: 3ba821c8-320c-45e6-8432-c9cc56527bbb
+        concept_label: LOOM
+      - gloss: 'metaphorical: feature'
+        concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+        concept_label: CRAFTY
+        children:
+        - gloss: postitive> EFFICIENT
+          children:
+          - gloss: generalised
+            concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+            concept_label: INTELLIGENT
+            children:
+            - gloss: superior innate
+              concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+              concept_label: TALENT
+        - gloss: consequently
+          concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+          concept_label: QUICK
+        - gloss: consequently inaccessible
+          concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+          concept_label: SECRET
+      - gloss: abstract<
+        concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+        concept_label: CAUSE
+        children:
+        - gloss: physical
+          concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+          concept_label: ENERGY
+        - gloss: appraisive
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+        - gloss: abstract
+          concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+          concept_label: PRINCIPLE
+          children:
+          - gloss: deliberate
+            concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+            concept_label: PLAN
+        - gloss: temporal
+          concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+          concept_label: OPPORTUNITY
+          children:
+          - gloss: abstract
+            concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+            concept_label: MOMENT
+            children:
+            - gloss: abstract
+              concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+              concept_label: TIME
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - gloss: =幾
+  - gloss: =璣
+source:
+  source_file: taxchar.xml

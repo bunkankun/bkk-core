@@ -1,0 +1,41 @@
+uuid: f420d82c-417e-44af-b5b3-0c3ff28caa65
+type: tax-char
+heads:
+- 省
+pronunciations:
+- reading: xǐng
+  old_chinese: seŋʔ
+  middle_chinese: siɛŋ
+  fanqie: 息井切
+  tone: 上
+  guangyun: 察也審也息井切六
+  senses:
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+    children:
+    - gloss: visually
+      concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+      concept_label: LOOK
+      children:
+      - gloss: go and see
+        concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+        concept_label: VISIT
+    - gloss: reflexive
+      concept_uuid: ef1adf39-e2a8-4f5c-ad4f-57dc47ce9d86
+      concept_label: REFLECT
+    - gloss: resultative
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: resultative
+        concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+        concept_label: REMEMBER
+      - gloss: feature
+        concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+        concept_label: CLEAR
+        children:
+        - gloss: generalised
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+source:
+  source_file: taxchar.xml

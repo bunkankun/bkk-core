@@ -1,0 +1,22 @@
+uuid: 7dc3bfb7-6e7b-4a82-a5a2-ea242f9f903c
+type: tax-char
+heads:
+- 欄
+pronunciations:
+- reading: lán
+  old_chinese: ɡ-raan
+  middle_chinese: lɑn
+  fanqie: 落干切
+  tone: 平
+  guangyun: 木名
+  senses:
+  - concept_uuid: ef95796d-7e3a-4201-9a4a-cf48877073ad
+    concept_label: FENCE
+  - concept_uuid: e9664def-f19c-4780-9d1f-41a1ac64e63e
+    concept_label: STABLE
+  - concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+    concept_label: ROW
+  - concept_uuid: 709a3751-303e-442d-8c54-7c27f01c1921
+    concept_label: NEWSPAPER COLUMN
+source:
+  source_file: taxchar.xml

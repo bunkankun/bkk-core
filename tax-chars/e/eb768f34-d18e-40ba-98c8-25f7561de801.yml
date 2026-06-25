@@ -1,0 +1,36 @@
+uuid: eb768f34-d18e-40ba-98c8-25f7561de801
+type: tax-char
+heads:
+- 狐
+pronunciations:
+- reading: hú
+  old_chinese: ɡʷaa
+  middle_chinese: ɦuo
+  fanqie: 戶吳切
+  tone: 平
+  guangyun: 狐狢説文曰妖獸也鬼所乗有三德其色中和小前豐後死則首丘又姓左傳晉有狐氏代爲卿大夫
+  senses:
+  - concept_uuid: 78121e18-c323-4dbc-864d-8fbae1068169
+    concept_label: FOX
+    children:
+    - gloss: feature
+      concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+      concept_label: VULGAR
+    - gloss: 'feature: psychological'
+      concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+      concept_label: DOUBT
+    - gloss: 'exocentric: specific'
+      concept_uuid: 79eb81a8-8570-4305-a801-19f3f528dbbc
+      concept_label: ACTOR
+    - gloss: exocentric
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+    - gloss: part of
+      concept_uuid: 54171046-fc50-4322-88de-a5e5c292ee35
+      concept_label: FUR
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - concept_uuid: 65ed27ba-f6b9-4814-8cc0-1aa7239561ca
+    concept_label: MALES OF QIN
+source:
+  source_file: taxchar.xml

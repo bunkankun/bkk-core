@@ -1,0 +1,48 @@
+uuid: a3b5fb39-ab4b-4abe-b423-cbaa3f678076
+type: tax-char
+heads:
+- 奏
+pronunciations:
+- reading: zòu
+  old_chinese: skoos
+  middle_chinese: tsəu
+  fanqie: 則候切
+  tone: 去
+  guangyun: 進也説文作𡴨則𠋫切二
+  senses:
+  - concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+    children:
+    - gloss: object document
+      concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+      concept_label: PROPOSE
+      children:
+      - gloss: specific
+        concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+        concept_label: MEMORIAL
+        children:
+        - gloss: specific
+          concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+          concept_label: REPORT
+          children:
+          - gloss: 'generalised: what is signified by announcement'
+            concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+            concept_label: ACHIEVE
+            children:
+            - gloss: musical performance> PERFORM
+              children:
+              - gloss: 'specific: gong etc'
+                concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+                concept_label: KNOCK
+                children:
+                - gloss: what is indicated by such knocking
+                  concept_uuid: bb1012b5-797b-46a2-a1b5-5215db623780
+                  concept_label: RHYTHM
+              - gloss: 'specific: string instruments'
+                concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+                concept_label: PLUCK STRINGS
+              - gloss: 'generalised: any instrument or tool'
+                concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+                concept_label: WIELD
+source:
+  source_file: taxchar.xml

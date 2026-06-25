@@ -1,0 +1,29 @@
+uuid: 02943acf-152a-460e-9d6f-66ecd0de6d64
+type: tax-char
+heads:
+- 禍
+pronunciations:
+- reading: huò
+  old_chinese: ɡloolʔ
+  middle_chinese: ɦuɑ
+  fanqie: 胡果切
+  tone: 上
+  guangyun: 害也胡果切七
+  senses:
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+    children:
+    - gloss: concrete physical
+      concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+      concept_label: DAMAGE
+      children:
+      - gloss: object disaster
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+    - gloss: imminent
+      concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+      concept_label: DANGER
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+source:
+  source_file: taxchar.xml

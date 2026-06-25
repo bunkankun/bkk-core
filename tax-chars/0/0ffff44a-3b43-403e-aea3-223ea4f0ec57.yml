@@ -1,0 +1,113 @@
+uuid: 0ffff44a-3b43-403e-aea3-223ea4f0ec57
+type: tax-char
+heads:
+- 經
+pronunciations:
+- reading: jīng
+  old_chinese: keeŋ
+  middle_chinese: keŋ
+  fanqie: 古靈切
+  tone: 平
+  guangyun: 常也絞也徑也亦經緯又姓出何氏姓苑古靈切又音徑四
+- reading: jìng
+  old_chinese: keeŋs
+  middle_chinese: keŋ
+  fanqie: 古定切
+  tone: 去
+  guangyun: 經緯又古靈切
+  senses:
+  - gloss: main
+    concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+    children:
+    - gloss: 'metonymy: medical, conduit'
+      concept_uuid: 076ddefe-e440-492d-90da-31151ed87031
+      concept_label: TUBE
+      children:
+      - gloss: 'geographic: river bed'
+        concept_uuid: f1da6b37-4037-41ad-b913-fe8f357b0c8f
+        concept_label: CHANNEL
+    - gloss: abstract
+      concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+      concept_label: STANDARD
+      children:
+      - gloss: of measurement
+        concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+        concept_label: MEASURE
+      - gloss: time
+        concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+        concept_label: ALWAYS
+      - gloss: concrete
+        concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+        concept_label: RULE
+        children:
+        - gloss: systematic
+          concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+          concept_label: METHOD
+          children:
+          - gloss: concrete for future
+            concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+            concept_label: PLAN
+          - gloss: 'attitudinal, treat as: conform to as rule'
+            concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+            concept_label: CONFORM
+          - gloss: social
+            concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+            concept_label: LAW
+          - gloss: philosophical
+            concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+            concept_label: PRINCIPLE
+      - gloss: literary
+        concept_uuid: af101f73-75b8-43eb-bcbf-6a0af87d7704
+        concept_label: CLASSIC
+        children:
+        - gloss: generalised
+          concept_uuid: 71311dda-a559-4fb5-a520-ac1668c898a0
+          concept_label: BOOK
+          children:
+          - gloss: abstract
+            concept_uuid: 1da658dc-936c-4a63-87dc-4ee0c570322b
+            concept_label: LITERATURE
+      - gloss: 'action: imposed regular activity'
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+        children:
+        - gloss: leading
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+          children:
+          - gloss: 'generalised: systematic'
+            concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+            concept_label: CONTROL
+  - gloss: use to hang oneself
+    concept_uuid: ec275871-9869-48f3-890b-a7dceadab50d
+    concept_label: STRANGLE
+    children:
+    - gloss: reflexive
+      concept_uuid: dd9aeb4f-a422-431e-9925-807ba494d82e
+      concept_label: SUICIDE
+    - gloss: generalised
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+    - gloss: 'action: thread through'
+      concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+      concept_label: CROSS OVER
+      children:
+      - gloss: go through and experience
+        concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+        concept_label: ENCOUNTER
+        children:
+        - gloss: 'passive: be encountered'
+          concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+          concept_label: HAPPEN
+          children:
+          - gloss: 'grammaticalised: after S has occurred'
+            concept_uuid: 4032bd30-62b2-4abb-b9d8-16b747fa885a
+            concept_label: ONLY THEN
+  - gloss: ten billion
+    concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T02:18:41.821+09:00'

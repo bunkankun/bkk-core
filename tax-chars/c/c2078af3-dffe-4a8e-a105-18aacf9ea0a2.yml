@@ -1,0 +1,27 @@
+uuid: c2078af3-dffe-4a8e-a105-18aacf9ea0a2
+type: tax-char
+heads:
+- 桑
+pronunciations:
+- reading: sāng
+  old_chinese: saaŋ
+  middle_chinese: sɑŋ
+  fanqie: 息郎切
+  tone: 平
+  guangyun: 木名史記曰齊魯千𠭇桑麻其人與千戸侯等又姓秦大夫子桑之後漢有御史大夫桑弘羊息郎切六
+  senses:
+  - gloss: TREE, KINDS
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+    children:
+    - gloss: part of
+      concept_uuid: 86575c27-928a-420b-bd2a-2cbad60b1dfc
+      concept_label: LEAF
+    - gloss: 'related action: mulberry leaves'
+      concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+      concept_label: PLUCK
+    - gloss: related action> breeding of
+      concept_uuid: bfc00057-59ea-43a9-b864-9108cc565160
+      concept_label: SILKWORM
+source:
+  source_file: taxchar.xml

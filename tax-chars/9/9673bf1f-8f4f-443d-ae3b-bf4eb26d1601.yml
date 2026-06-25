@@ -1,0 +1,48 @@
+uuid: 9673bf1f-8f4f-443d-ae3b-bf4eb26d1601
+type: tax-char
+heads:
+- 萬
+pronunciations:
+- reading: wàn
+  old_chinese: mans
+  middle_chinese: mʷiɐn
+  fanqie: 無販切
+  tone: 去
+  guangyun: 十千又虜三字姓二氏西魏有柱國万忸于謹周書唐瑾樊深並賜姓万紐于氏無販切十八
+  senses:
+  - gloss: 'wàn (OC: mblans MC: mʷiɐn) 無販切 去 廣韻：【萬舞字林云萬蟲名也亦州名自漢及梁猶爲𦚧䏰縣地後魏分置萬川郡及魚泉縣武德初割信州南浦置浦州貞觀改爲萬州又姓孟軻門人萬章 】'
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+    children:
+    - gloss: generalised
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+      children:
+      - gloss: in degree
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+      - gloss: extreme
+        concept_uuid: a1bc4e89-f29d-4361-babb-3f2211dd6e62
+        concept_label: INFINITE
+        children:
+        - gloss: exhaustive
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+          children:
+          - gloss: abstract
+            concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+            concept_label: COMPLETE
+            children:
+            - gloss: derived, abstract
+              concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+              concept_label: CERTAIN
+  - concept_uuid: b63836dd-3cd4-4685-93f6-2d6289316f99
+    concept_label: INSECT
+    children:
+    - gloss: scorpion dance
+      concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+      concept_label: DANCE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-27T19:36:03.244+09:00'

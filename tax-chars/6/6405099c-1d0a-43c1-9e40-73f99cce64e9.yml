@@ -1,0 +1,26 @@
+uuid: 6405099c-1d0a-43c1-9e40-73f99cce64e9
+type: tax-char
+heads:
+- 餞
+pronunciations:
+- reading: jiàn
+  old_chinese: dzenʔ
+  middle_chinese: dziɛn
+  fanqie: 慈演切
+  tone: 上
+  guangyun: 酒食送人又疾箭切
+- reading: jiàn
+  old_chinese: dzens
+  middle_chinese: dziɛn
+  fanqie: 才線切
+  tone: 去
+  guangyun: 酒食送人
+  senses:
+  - concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+    concept_label: FAREWELL
+  - concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+    concept_label: ACCOMPANY
+  - concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+    concept_label: FRUIT
+source:
+  source_file: taxchar.xml

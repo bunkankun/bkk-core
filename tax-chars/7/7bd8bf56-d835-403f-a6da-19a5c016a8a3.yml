@@ -1,0 +1,42 @@
+uuid: 7bd8bf56-d835-403f-a6da-19a5c016a8a3
+type: tax-char
+heads:
+- 餌
+pronunciations:
+- reading: ěr
+  old_chinese: mljɯs
+  middle_chinese: ȵɨ
+  fanqie: 仍吏切
+  tone: 去
+  guangyun: 食也説文粉餅也仍吏切十六
+  senses:
+  - concept_uuid: df1d533f-acd8-4496-bd4c-5776efad36fb
+    concept_label: BAIT
+  - concept_uuid: d8b43ba9-19b9-47ee-a7ed-25903aa70abf
+    concept_label: CAKE
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: 7fd350e4-7aa9-4cfb-8c72-f769a2e40a45
+    concept_label: SINEW
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+    concept_label: FISHING
+  - concept_uuid: 7fd350e4-7aa9-4cfb-8c72-f769a2e40a45
+    concept_label: SINEW
+  - concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+    concept_label: DRUG
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+    concept_label: SWALLOW
+- reading: ěr
+  old_chinese: njɯs
+  middle_chinese: ȵɨ
+  fanqie: 仍吏切
+  tone: 去
+  guangyun: 同餌
+source:
+  source_file: taxchar.xml

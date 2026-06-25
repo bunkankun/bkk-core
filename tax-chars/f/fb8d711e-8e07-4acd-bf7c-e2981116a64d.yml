@@ -1,0 +1,122 @@
+uuid: fb8d711e-8e07-4acd-bf7c-e2981116a64d
+type: tax-char
+heads:
+- 子
+pronunciations:
+- reading: zǐ
+  old_chinese: sklɯʔ
+  middle_chinese: tsɨ
+  fanqie: 即里切
+  tone: 上
+  guangyun: 子息環濟要略曰子猶孳也孳恤下之稱也亦辰名爾雅云太歳在子曰困敦又殷姓又漢複姓十一氏左傳鄭大夫子人氏魯大夫子服氏子家羈莊子有子桑扈皇子告敖何氏姓苑有子乾子仲子工子革子臧子師等氏即里切八
+- reading: zǐ
+  old_chinese: sklɯʔ
+  middle_chinese: tsɨ
+  fanqie: 即里切
+  tone: 上
+  guangyun: 子古文
+  senses:
+  - concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+    children:
+    - gloss: female
+      concept_uuid: ea2f94a9-d0e9-4db8-b532-e9cddacd939b
+      concept_label: DAUGHTER
+    - gloss: male
+      concept_uuid: 1b8a3aac-d13b-436a-9766-80ebc2d07757
+      concept_label: SON
+      children:
+      - gloss: generalised
+        concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+        concept_label: BOY
+      - gloss: generalised
+        concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+        concept_label: DESCENDANT
+        children:
+        - gloss: 'generalised: of human descent'
+          concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+          concept_label: HUMAN
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+            concept_label: SUFFIX
+        - gloss: metaphorical
+          concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+          concept_label: STUDENT
+          children:
+          - gloss: inherited status
+            concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+            concept_label: RANK
+          - gloss: person who has studets
+            concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+            concept_label: TEACHER
+            children:
+            - gloss: vocative
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+              children:
+              - gloss: plural
+                concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+                concept_label: YOU/PLUR
+        - gloss: 'generalised: of human descent'
+          concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+          concept_label: HUMAN
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+            concept_label: SUFFIX
+        - gloss: inherited status
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+        - gloss: metaphorical
+          concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+          concept_label: STUDENT
+          children:
+          - gloss: person who has studets
+            concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+            concept_label: TEACHER
+            children:
+            - gloss: vocative
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+              children:
+              - gloss: plural
+                concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+                concept_label: YOU/PLUR
+    - gloss: non-human creature
+      concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+      concept_label: ANIMAL
+    - gloss: event producing child
+      concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+      concept_label: BIRTH
+    - gloss: of birds
+      concept_uuid: b7dab087-a7f4-45e7-9a0d-bb6b4ab2d3c3
+      concept_label: EGG
+  - gloss: of trees
+    concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+    concept_label: FRUIT
+    children:
+    - gloss: metaphorical
+      concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+      concept_label: PROFIT
+    - gloss: of plants
+      concept_uuid: 3499581a-eba5-4b00-8006-4c8f3b0e3e9d
+      concept_label: SEED
+  - gloss: symbolic
+    concept_uuid: e7afe64f-af0d-4862-94d6-7afd165036a7
+    concept_label: EARTH BRANCH
+    children:
+    - gloss: temporal
+      concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+      concept_label: PERIOD
+    - gloss: arithmetic
+      concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+      concept_label: NUMBER
+unattributed_senses:
+- gloss: zǐ
+  concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+  concept_label: TOOL
+source:
+  source_file: taxchar.xml
+  resp: chris
+  date: '2022-11-18T18:46:27.112+09:00'

@@ -1,0 +1,59 @@
+uuid: 761bfd5b-0a59-4d8d-9fa8-2782a01bd7ea
+type: tax-char
+heads:
+- 敷
+pronunciations:
+- reading: fū
+  old_chinese: phla
+  middle_chinese: pʰio
+  fanqie: 芳無切
+  tone: 平
+  guangyun: 散也説文从尃施也芳無切三十六
+  senses:
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: SPREAD
+    children:
+    - gloss: in order to benefit
+      concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+      concept_label: DISTRIBUTE
+      children:
+      - gloss: abstract
+        concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+        concept_label: EVERYWHERE
+      - gloss: object message
+        concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+        concept_label: TRANSMIT
+        children:
+        - gloss: making explicit
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+          children:
+          - gloss: speciic
+            concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+            concept_label: DISTINGUISH
+      - gloss: 'object: necessities'
+        concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+        concept_label: PROVIDE
+        children:
+        - gloss: result
+          concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+          concept_label: SUFFICIENT
+          children:
+          - gloss: high degree
+            concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+            concept_label: ABUNDANT
+            children:
+            - gloss: process
+              concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+              concept_label: GROW
+              children:
+              - gloss: result
+                concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+                concept_label: FLOWER
+    - gloss: result
+      concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+      concept_label: SUPERFICIAL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,42 @@
+uuid: e28844dd-9592-4d25-89bd-5106b658ebe8
+type: tax-char
+heads:
+- 趙
+pronunciations:
+- reading: zhào
+  old_chinese: rlewʔ
+  middle_chinese: ɖɯiɛu
+  fanqie: 治小切
+  tone: 上
+  guangyun: 少也久也字林云趍也亦州名春秋屬晉秦屬邯鄲郡後魏以廣阿城置殷州至齊改爲趙州又姓本自伯益孫造父善御幸於周穆王賜以趙城因封爲氏簡襄始大列爲諸侯今岀天水南陽金城下邳潁川五望
+  senses:
+  - concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+    concept_label: RUN
+  - concept_uuid: 259b57ae-5a7a-4ad9-8ac9-0ac11f8054c5
+    concept_label: LITTLE
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+    concept_label: SKILLFUL
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 6b8bacb6-d2b7-48e0-bf4f-23c19ba0882c
+    concept_label: LIE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 148b9c56-bfc8-4306-b327-9862ac4b359c
+    concept_label: ARISTOCRATS OF JIN
+  - concept_uuid: f1269adf-c297-4c56-b825-17a3cb11b69c
+    concept_label: ARISTOCRATS OF ZHAO
+  - concept_uuid: 475d1d1e-8e44-4b57-95c5-712f8b737997
+    concept_label: RULERS OF ZHAO
+unattributed_senses:
+- gloss: 趙 ｄｉａｏ４《集韻》徒了切，上篠定。
+  children:
+  - gloss: remove weeds
+    concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+    concept_label: WEED
+source:
+  source_file: taxchar.xml

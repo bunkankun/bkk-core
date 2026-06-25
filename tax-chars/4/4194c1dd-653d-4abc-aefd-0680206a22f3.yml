@@ -1,0 +1,64 @@
+uuid: 4194c1dd-653d-4abc-aefd-0680206a22f3
+type: tax-char
+heads:
+- 漏
+pronunciations:
+- reading: lòu
+  old_chinese: roos
+  middle_chinese: ləu
+  fanqie: 盧候切
+  tone: 去
+  guangyun: 漏刻説文曰漏以銅受水刻節晝夜百刻爾雅曰西北隅謂之屋漏又禹耳三漏
+  senses:
+  - concept_uuid: f2284c79-c50f-45e3-b898-f646400b5573
+    concept_label: CLOCK
+    children:
+    - gloss: result
+      concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+      concept_label: MOMENT
+    - gloss: feature
+      concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+      concept_label: LEAK
+      children:
+      - gloss: result
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+      - gloss: generalised
+        concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+        concept_label: FLOW
+      - gloss: result
+        concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+        concept_label: DIRTY
+      - gloss: result
+        concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+        concept_label: DRY
+      - gloss: result
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+        children:
+        - gloss: abstract
+          concept_uuid: 7fc70648-17f5-4181-a267-dd2747e9c31b
+          concept_label: FORGET
+        - gloss: perfective
+          concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+          concept_label: EXHAUST
+      - gloss: medical
+        concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+        concept_label: ILLNESS
+      - gloss: medium
+        concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+        concept_label: HOLE
+        children:
+        - gloss: specific
+          concept_uuid: 2274ddb0-f4c8-4960-be73-4fc398aba5a3
+          concept_label: DRAIN
+    - gloss: action
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+  - gloss: =陋
+    concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

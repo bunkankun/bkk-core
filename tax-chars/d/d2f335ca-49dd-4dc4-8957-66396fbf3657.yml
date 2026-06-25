@@ -1,0 +1,61 @@
+uuid: d2f335ca-49dd-4dc4-8957-66396fbf3657
+type: tax-char
+heads:
+- 照
+pronunciations:
+- reading: zhào
+  old_chinese: kljews
+  middle_chinese: tɕiɛu
+  fanqie: 之少切
+  tone: 去
+  guangyun: 明也之少切三
+  senses:
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+- reading: zhào
+  old_chinese: kljews
+  middle_chinese: tɕiɛu
+  fanqie: 之少切
+  tone: 去
+  guangyun: 同照
+  senses:
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+    children:
+    - gloss: feature
+      concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+      concept_label: BRIGHT
+    - gloss: 'figurative: abstract'
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: 'nominalised: feature'
+        concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+        concept_label: INTELLIGENT
+      - gloss: think of
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: relational
+          concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+          concept_label: COMPARE
+      - gloss: 'causative, make understand: linguistially'
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+        children:
+        - gloss: 'causative: physically'
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+        - gloss: 'causative: intellectually'
+          concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+          concept_label: PROVE
+        - gloss: instrument for
+          concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+          concept_label: MIRROR
+          children:
+          - gloss: what mirrors something else
+            concept_uuid: 6aa1a2d6-99fa-4e3d-8d14-24fbeb5dbaea
+            concept_label: PICTURE
+          - gloss: grammaticalised> ACCORDING TO
+source:
+  source_file: taxchar.xml

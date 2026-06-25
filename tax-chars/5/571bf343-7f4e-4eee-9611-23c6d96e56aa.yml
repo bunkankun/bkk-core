@@ -1,0 +1,108 @@
+uuid: 571bf343-7f4e-4eee-9611-23c6d96e56aa
+type: tax-char
+heads:
+- 比
+pronunciations:
+- reading: bǐ
+  old_chinese: piʔ
+  middle_chinese: pi
+  fanqie: 卑履切
+  tone: 上
+  guangyun: 校也並也爾雅曰北方有比肩民焉迭食而迭望蓋半體人也又毗鼻邲三音
+- reading: bì
+  old_chinese: bis
+  middle_chinese: bi
+  fanqie: 毗至切
+  tone: 去
+  guangyun: 近也又阿黨也又房脂必履扶必三切
+  senses:
+  - gloss: bì
+    concept_uuid: 8bf9e455-5bb7-4cf9-afc1-c7086a2a8fe7
+    concept_label: FIT
+- reading: bì
+  old_chinese: biɡ
+  middle_chinese: bit
+  fanqie: 毗必切
+  tone: 入
+  guangyun: 比次又毗妣鼻三音
+- reading: bì
+  old_chinese: pis
+  middle_chinese: pi
+  fanqie: 必至切
+  tone: 去
+  guangyun: 近也併也
+- reading: pí
+  old_chinese: bi
+  middle_chinese: bi
+  fanqie: 房脂切
+  tone: 平
+  guangyun: 和也並也又匕鼻邲三音
+unattributed_senses:
+- concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+  concept_label: JUXTAPOSE
+  children:
+  - gloss: assemblage
+    concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - gloss: cognitive
+    concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - gloss: resultative
+    concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+    children:
+    - gloss: 'grammaticalised: in time'
+      concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+      concept_label: WHEN
+      children:
+      - gloss: specifically
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+    - gloss: action
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: conative
+        concept_uuid: 4c3d1748-7c81-4aa6-bb51-6521c3caecfc
+        concept_label: EMULATE
+      - gloss: abstract
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+        children:
+        - gloss: at many resembling times
+          concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+          concept_label: OFTEN
+  - gloss: social
+    concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+    concept_label: COOPERATE
+    children:
+    - gloss: agent
+      concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+      concept_label: FRIEND
+      children:
+      - gloss: keep to
+        concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+        concept_label: FOLLOW
+        children:
+        - gloss: join
+          concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+          concept_label: RALLY
+          children:
+          - gloss: group
+            concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+            concept_label: FACTION
+            children:
+            - gloss: 'feature: specific'
+              concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+              concept_label: PARTIAL
+      - gloss: 'action: support'
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+          concept_label: FOR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T20:15:32.59+09:00'

@@ -1,0 +1,65 @@
+uuid: 443b4f12-173c-4414-acb7-e84aa2764061
+type: tax-char
+heads:
+- 先
+pronunciations:
+- reading: xiàn
+  old_chinese: sɯɯns
+  middle_chinese: sen
+  fanqie: 蘇佃切
+  tone: 去
+  guangyun: 先後猶娣姒又姓出河東又蘇前切
+- reading: xiān
+  old_chinese: sɯɯn
+  middle_chinese: sen
+  fanqie: 蘇前切
+  tone: 平
+  guangyun: 先後也又姓左傳晉有先軫蘇前切又蘇薦切四
+  senses:
+  - concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+    concept_label: PRECEDE
+    children:
+    - gloss: 'putative, metaphorical: give precedence to'
+      concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+      concept_label: PREFER
+      children:
+      - gloss: feature
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+    - gloss: preceding the expected time
+      concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+      concept_label: EARLY
+      children:
+      - gloss: earlier than present
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+      - gloss: earlier generation
+        concept_uuid: c6d90627-45f2-4e7e-888b-7bfb8a894b96
+        concept_label: PARENT
+        children:
+        - concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+          concept_label: ANCESTOR
+      - gloss: dead
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+    - gloss: inchoative
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - gloss: at the beginning stage
+        concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+        concept_label: ORIGINALLY
+      - gloss: jussive:enjoining to begin action
+        concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+        concept_label: ENCOURAGE
+        children:
+        - gloss: active
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+      - gloss: 'medieval: grammaticalised'
+        concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+        concept_label: ALREADY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T22:26:21.272+09:00'

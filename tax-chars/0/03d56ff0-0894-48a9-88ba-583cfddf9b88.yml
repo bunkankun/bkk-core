@@ -1,0 +1,29 @@
+uuid: 03d56ff0-0894-48a9-88ba-583cfddf9b88
+type: tax-char
+heads:
+- 蟠
+pronunciations:
+- reading: pán
+  old_chinese: baan
+  middle_chinese: bʷɑn
+  fanqie: 薄官切
+  tone: 平
+  guangyun: 䑕負蟲又龍蟠也
+  senses:
+  - concept_uuid: 362ff7ea-a564-430d-a3f0-a3b355fdd85a
+    concept_label: RING
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+- reading: fán
+  old_chinese: ban
+  middle_chinese: bʷiɐn
+  fanqie: 附袁切
+  tone: 平
+  guangyun: 𧑓負又扶干切
+  senses:
+  - concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+    concept_label: INSECTS
+source:
+  source_file: taxchar.xml

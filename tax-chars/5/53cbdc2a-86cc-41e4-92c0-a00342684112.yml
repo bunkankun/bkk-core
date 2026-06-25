@@ -1,0 +1,46 @@
+uuid: 53cbdc2a-86cc-41e4-92c0-a00342684112
+type: tax-char
+heads:
+- 府
+pronunciations:
+- reading: fǔ
+  old_chinese: poʔ
+  middle_chinese: pio
+  fanqie: 方矩切
+  tone: 上
+  guangyun: 官府説文曰府文書藏也風俗通曰府聚也公卿牧守道德之所聚也又舎也亦姓風俗通云漢有司徒掾府悝
+  senses:
+  - concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+    concept_label: STOREHOUSE
+    children:
+    - gloss: related activity
+      concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+      concept_label: KEEP
+      children:
+      - gloss: related activity
+        concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+        concept_label: GATHER
+        children:
+        - gloss: related activity
+          concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+          concept_label: TAKE
+    - gloss: generalised
+      concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+      concept_label: PUBLIC BUILDING
+      children:
+      - gloss: specific
+        concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+        concept_label: OFFICE
+        children:
+        - gloss: occupant
+          concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+          concept_label: OFFICIAL
+          children:
+          - gloss: residence of
+            concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+            concept_label: DWELLING
+    - gloss: metaphorical
+      concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+      concept_label: INNARDS
+source:
+  source_file: taxchar.xml

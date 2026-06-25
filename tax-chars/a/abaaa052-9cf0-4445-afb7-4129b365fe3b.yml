@@ -1,0 +1,39 @@
+uuid: abaaa052-9cf0-4445-afb7-4129b365fe3b
+type: tax-char
+heads:
+- 儻
+pronunciations:
+- reading: tǎng
+  old_chinese: thaaŋʔ
+  middle_chinese: tʰɑŋ
+  fanqie: 他朗切
+  tone: 上
+  guangyun: 倜儻不羈又他浪切
+  senses:
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: 12ab0c4e-8261-434b-a805-a5e3dc7d24ed
+    concept_label: PERHAPS
+  - concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+  - concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+    concept_label: PARTIAL
+- reading: tàng
+  old_chinese: thaaŋs
+  middle_chinese: tʰɑŋ
+  fanqie: 他浪切
+  tone: 去
+  guangyun: 倖也他浪切六
+  senses:
+  - concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+    concept_label: COINCIDENCE
+  - concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+    concept_label: HOPE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 躺
+  - gloss: = 淌
+source:
+  source_file: taxchar.xml

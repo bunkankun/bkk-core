@@ -1,0 +1,105 @@
+uuid: e0705568-8330-426c-a5f2-55dd0e12ca15
+type: tax-char
+heads:
+- 覆
+pronunciations:
+- reading: fù
+  old_chinese: phuɡ
+  middle_chinese: pʰiuk
+  fanqie: 芳福切
+  tone: 入
+  guangyun: 反覆又敗也倒也審也又敷救切
+  senses:
+  - concept_uuid: 51ed079c-2675-4502-b206-9dfec4fe64ae
+    concept_label: OVERTURN
+    children:
+    - gloss: result
+      concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+      concept_label: SINK
+    - gloss: continuous
+      concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+      concept_label: REVOLVE
+      children:
+      - gloss: revolve above
+        concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+        concept_label: FLY
+      - gloss: abstract<
+        concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+        concept_label: REPEAT
+      - gloss: abstract
+        concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+        concept_label: OPPOSITE
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+          concept_label: HOWEVER
+        - gloss: action
+          concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+          concept_label: OFFEND
+    - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+      concept_label: COVER
+      children:
+      - gloss: result
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+        children:
+        - concept_uuid: 117e7254-f1c4-4825-a17c-ce30cc81a396
+          concept_label: PROTECT
+        - gloss: (hidden) meaning
+          concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+          concept_label: MEAN
+          children:
+          - concept_uuid: 99d0b32d-3285-4114-90ca-dee9e12975b8
+            concept_label: AMBUSH
+            children:
+            - gloss: generalised
+              concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+              concept_label: ATTACK
+              children:
+              - gloss: successful
+                concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+                concept_label: DEFEAT
+                children:
+                - gloss: resultative
+                  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+                  concept_label: DESTROY
+                  children:
+                  - gloss: resulting process
+                    concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+                    concept_label: COLLAPSE
+              - concept_uuid: b81c5103-4414-42e2-99ea-d00bcd91003d
+                concept_label: INTERROGATE
+                children:
+                - concept_uuid: 9061b621-93dc-47b4-a4cd-feeb3ee4b3db
+                  concept_label: INSPECT
+  - gloss: =復
+    concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+    concept_label: REPLY
+  - gloss: =愎
+- reading: fù
+  old_chinese: phuɡs
+  middle_chinese: pʰiu
+  fanqie: 敷救切
+  tone: 去
+  guangyun: 蓋也又敷六切
+  senses:
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+- reading: fù
+  old_chinese: buɡs
+  middle_chinese: biu
+  fanqie: 扶富切
+  tone: 去
+  guangyun: 伏兵曰覆
+  senses:
+  - gloss: 'exocentric: hidden soliders'
+    concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+    concept_label: SOLDIER
+- reading: fù
+  old_chinese: phɯɯɡ
+  middle_chinese: pʰək
+  fanqie: 匹北切
+  tone: 入
+  guangyun: 匹北切三
+source:
+  source_file: taxchar.xml

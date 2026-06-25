@@ -1,0 +1,75 @@
+uuid: 7d19bf9e-19e6-4af6-b9b8-af3bf50b6a58
+type: tax-char
+heads:
+- 策
+pronunciations:
+- reading: cè
+  old_chinese: skhreeɡ
+  middle_chinese: tʂʰɯæk
+  fanqie: 楚革切
+  tone: 入
+  guangyun: 謀也籌也釋名曰䇿書敎令於上所以驅䇿諸下也又馬箠也楚革切十四
+  senses:
+  - concept_uuid: 671b14e2-b38f-451a-ad00-c1a0acde9345
+    concept_label: WHIP
+  - gloss: typical use
+    concept_uuid: 5131a598-0caa-4251-a4ec-20f8375fd04b
+    concept_label: FLAY
+    children:
+    - gloss: generalised
+      concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+      concept_label: STICK
+      children:
+      - gloss: small, on tree
+        concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+        concept_label: BRANCH
+    - gloss: typical use
+      concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+      concept_label: SUPPORT
+    - gloss: psychological
+      concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+      concept_label: ENCOURAGE
+      children:
+      - gloss: specific
+        concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+        concept_label: DRIVE
+        children:
+        - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+          concept_label: COMMAND
+          children:
+          - concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+            concept_label: DECREE
+          - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+            concept_label: DOCUMENT
+            children:
+            - gloss: specific
+              concept_uuid: 093241ac-abf2-4159-ac85-822eec8f1483
+              concept_label: EXAMINATION
+            - gloss: action of producing
+              concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+              concept_label: RECORD
+            - gloss: large
+              concept_uuid: 4c227fb6-2e28-4efb-ada8-6709ac89d0ee
+              concept_label: BOOK VOLUME
+              children:
+              - gloss: complete
+                concept_uuid: 71311dda-a559-4fb5-a520-ac1668c898a0
+                concept_label: BOOK
+            - gloss: proto-typically written
+              concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+              concept_label: PLAN
+              children:
+              - gloss: generalised
+                concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+                concept_label: ESTIMATE
+                children:
+                - gloss: 'exocentric: estimated/assigned'
+                  concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+                  concept_label: NUMBER
+                - gloss: psychological
+                  concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+                  concept_label: GUESS
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+source:
+  source_file: taxchar.xml

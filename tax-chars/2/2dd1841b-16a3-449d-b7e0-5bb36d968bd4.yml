@@ -1,0 +1,23 @@
+uuid: 2dd1841b-16a3-449d-b7e0-5bb36d968bd4
+type: tax-char
+heads:
+- 島
+pronunciations:
+- reading: diǎo
+  old_chinese: tuuwʔ
+  middle_chinese: teu
+  fanqie: 都了切
+  tone: 上
+- reading: dǎo
+  old_chinese: taawʔ
+  middle_chinese: tɑu
+  fanqie: 都晧切
+  tone: 上
+  guangyun: 説文曰海中往往有山可依止也又音鳥
+  senses:
+  - concept_uuid: 98faf991-5a11-4015-b0e3-87363c78905c
+    concept_label: ISLAND
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

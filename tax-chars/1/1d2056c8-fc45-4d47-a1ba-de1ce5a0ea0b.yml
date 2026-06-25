@@ -1,0 +1,48 @@
+uuid: 1d2056c8-fc45-4d47-a1ba-de1ce5a0ea0b
+type: tax-char
+heads:
+- 迴
+pronunciations:
+- reading: huí
+  old_chinese: ɢuul
+  middle_chinese: ɦuoi
+  fanqie: 戶恢切
+  tone: 平
+  guangyun: 還也
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+    concept_label: MOMENT
+  - concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+    concept_label: RETURN
+  - concept_uuid: 50d39b76-3946-438d-98e5-b2b1599be8eb
+    concept_label: TURN BACK
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+  - concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+    concept_label: REPEAT
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CROOKED
+  - concept_uuid: df71c3bd-ec8c-46ac-99a3-971cd5b8b6b5
+    concept_label: INACCESSIBLE
+  - concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+  - concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+    concept_label: REMEMBER
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+    concept_label: AGAIN
+- reading: huì
+  old_chinese: ɢuuls
+  middle_chinese: ɦuoi
+  fanqie: 胡對切
+  tone: 去
+  guangyun: 曲也又音回又作匯
+source:
+  source_file: taxchar.xml

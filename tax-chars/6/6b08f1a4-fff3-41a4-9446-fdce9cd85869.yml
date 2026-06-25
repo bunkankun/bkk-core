@@ -1,0 +1,91 @@
+uuid: 6b08f1a4-fff3-41a4-9446-fdce9cd85869
+type: tax-char
+heads:
+- 極
+pronunciations:
+- reading: jí
+  old_chinese: ɡɯɡ
+  middle_chinese: ɡɨk
+  fanqie: 渠力切
+  tone: 入
+  guangyun: 中也至也終也窮也髙也逺也説文棟也渠力切一
+  senses:
+  - gloss: ridgepole (at rooftop)
+    concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+    concept_label: BEAM
+    children:
+    - gloss: jí
+      concept_uuid: 56391328-912b-4408-91c8-ed8d3f602e6c
+      concept_label: ROOF
+    - gloss: top
+      concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+      concept_label: SUMMIT
+      children:
+      - gloss: exocentric:astronomic
+        concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+        concept_label: STAR
+      - gloss: figurative
+        concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+        concept_label: EXTREME
+        children:
+        - gloss: metaphorical
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+          children:
+          - gloss: supreme feature
+            concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+            concept_label: PERFECT
+            children:
+            - gloss: concrete
+              concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+              concept_label: MODEL
+              children:
+              - gloss: abstract:metaphysical
+                concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+                concept_label: PRINCIPLE
+                children:
+                - gloss: relevant action
+                  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+                  concept_label: ASSESS
+                  children:
+                  - gloss: in writing
+                    concept_uuid: 8259454f-ba01-4a8a-8bc0-3126c9fc7dd3
+                    concept_label: DESCRIBE
+                    children:
+                    - gloss: psychological:intellectual
+                      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+                      concept_label: UNDERSTAND
+        - gloss: boundary
+          concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+          concept_label: LIMIT
+          children:
+          - gloss: related action
+            concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+            concept_label: REACH
+            children:
+            - gloss: feature:speed
+              concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+              concept_label: QUICK
+              children:
+              - gloss: degree
+                concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+                concept_label: EXCESSIVE
+                children:
+                - gloss: related action
+                  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+                  concept_label: EXHAUST
+                  children:
+                  - gloss: resultative
+                    concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+                    concept_label: TIRED
+                    children:
+                    - gloss: generalised
+                      concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+                      concept_label: DISTRESS
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-19T19:30:01.446+09:00'

@@ -1,0 +1,39 @@
+uuid: 7b615a27-285b-4881-8980-9ebad515fa08
+type: tax-char
+heads:
+- 寓
+pronunciations:
+- reading: yù
+  old_chinese: ŋos
+  middle_chinese: ŋio
+  fanqie: 牛具切
+  tone: 去
+  guangyun: 同寓
+- reading: yù
+  old_chinese: ŋos
+  middle_chinese: ŋio
+  fanqie: 牛具切
+  tone: 去
+  guangyun: 寄也
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+    concept_label: ENTRUST
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+    concept_label: DWELLING
+  - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+  - concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+    concept_label: HOPE
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: c0148b85-2506-4691-8908-29a12bf868b7
+    concept_label: ULCER
+  - concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+    concept_label: FAKE
+  - gloss: = 偶
+source:
+  source_file: taxchar.xml

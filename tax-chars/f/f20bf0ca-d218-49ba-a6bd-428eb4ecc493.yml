@@ -1,0 +1,24 @@
+uuid: f20bf0ca-d218-49ba-a6bd-428eb4ecc493
+type: tax-char
+heads:
+- 愈
+pronunciations:
+- reading: yù
+  old_chinese: loʔ
+  middle_chinese: jio
+  fanqie: 以主切
+  tone: 上
+  guangyun: 差也賢也勝也
+  senses:
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+    concept_label: INCREASE
+  - concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+    concept_label: MORE
+  - concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+    concept_label: SUPERIOR
+source:
+  source_file: taxchar.xml

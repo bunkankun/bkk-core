@@ -1,0 +1,23 @@
+uuid: 6fb82d60-9880-469d-b984-1654eb976a2c
+type: tax-char
+heads:
+- 佳
+pronunciations:
+- reading: jiā
+  old_chinese: kree
+  middle_chinese: kɯæ
+  fanqie: 古膎切
+  tone: 平
+  guangyun: 善也大也好也古膎切二
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+    children:
+    - gloss: abstract
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+    - gloss: putative
+      concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+      concept_label: APPRECIATE
+source:
+  source_file: taxchar.xml

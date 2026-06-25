@@ -1,0 +1,22 @@
+uuid: 5a800453-9295-4cf3-b5d9-2d374a949331
+type: tax-char
+heads:
+- 淮
+pronunciations:
+- reading: huái
+  old_chinese: ɡruul
+  middle_chinese: ɦʷɯæi
+  fanqie: 戶乖切
+  tone: 平
+  guangyun: 水名出桐栢又姓也
+  senses:
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+source:
+  source_file: taxchar.xml

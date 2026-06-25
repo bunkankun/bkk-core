@@ -1,0 +1,71 @@
+uuid: 0313cfff-bbbc-4cac-bf90-cf04d485cd9c
+type: tax-char
+heads:
+- 夷
+pronunciations:
+- reading: yí
+  old_chinese: li
+  middle_chinese: ji
+  fanqie: 以脂切
+  tone: 平
+  guangyun: 夷猶等也滅也易也説文平也从大弓又曰南蠻從虫北狄從犬西羌從羊唯東夷從大人俗仁而壽有君子不死之國亦姓齊大夫夷仲年又漢複姓六氏史記范蠡適齊爲鴟夷子左傳宋公子目夷之後以目夷爲氏祝融後董父之胤其後以融夷爲氏淮夷虎夷皆國名後並爲氏秦末虎夷渠帥助番君攻秦丗本云宋襄公子墨夷須爲大司馬其後有墨夷皐
+  senses:
+  - concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+    concept_label: FLAT
+    children:
+    - gloss: cause to be even
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+      children:
+      - gloss: tool for arranging
+        concept_uuid: eccb969b-d1db-4fb1-b450-b15e305865f3
+        concept_label: HOE
+    - gloss: causative:flatten
+      concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+      concept_label: DESTROY
+      children:
+      - gloss: partially
+        concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+        concept_label: INJURE
+        children:
+        - gloss: result
+          concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+          concept_label: KILL
+    - gloss: abstract
+      concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+      concept_label: SAME
+    - gloss: squat flat on the ground
+      concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+      concept_label: SIT
+    - gloss: figurative, also causative "pacify"
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+      children:
+      - gloss: supremely
+        concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+        concept_label: GREAT
+      - gloss: emotion
+        concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+        concept_label: DELIGHT
+  - gloss: 'grammaticalised: archaic'
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+  - gloss: proper name
+    concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - gloss: proper name
+    concept_uuid: 3d9048f2-a399-4946-88e3-8897807ffb5d
+    concept_label: THINKERS
+  - gloss: proper name
+    concept_uuid: e72dd19b-10d8-41fc-8dfd-fa873f219bcc
+    concept_label: RULERS
+  - gloss: proper name
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: proper name
+    concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:18:21.688+09:00'

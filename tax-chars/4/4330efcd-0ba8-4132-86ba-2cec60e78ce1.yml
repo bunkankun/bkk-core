@@ -1,0 +1,26 @@
+uuid: 4330efcd-0ba8-4132-86ba-2cec60e78ce1
+type: tax-char
+heads:
+- 筐
+pronunciations:
+- reading: kuāng
+  old_chinese: khʷaŋ
+  middle_chinese: kʰʷiɐŋ
+  fanqie: 去王切
+  tone: 平
+  guangyun: 筐籠
+  senses:
+  - concept_uuid: 42e8e9de-a0cc-4a37-b606-8e15a660e2a2
+    concept_label: BASKET
+  - concept_uuid: 4aaec65e-de56-4889-9ccd-1738f14d758a
+    concept_label: BED
+  - concept_uuid: 6c84593c-1c36-4757-983e-b3a9bcecc0c5
+    concept_label: FOOD BASKET
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+  - concept_uuid: 363a904e-6fa7-4584-a5c5-a5e443014a8a
+    concept_label: HAIRPIN
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,71 @@
+uuid: a679dc37-7272-4250-934a-4f69cec48536
+type: tax-char
+heads:
+- 莊
+pronunciations:
+- reading: zhuāng
+  old_chinese: skraŋ
+  middle_chinese: tʂiɐŋ
+  fanqie: 側羊切
+  tone: 平
+  guangyun: 俗莊
+- reading: zhuāng
+  old_chinese: skraŋ
+  middle_chinese: tʂiɐŋ
+  fanqie: 側羊切
+  tone: 平
+  guangyun: 嚴也又莊田爾雅曰六達謂之莊亦姓莊周著書也側羊切五
+  senses:
+  - concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+    concept_label: SERIOUS
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+    concept_label: ORNAMENT
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: ROAD
+  - concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+    concept_label: VILLAGE
+  - concept_uuid: 8157f743-bc82-4e8f-916a-28242511090d
+    concept_label: PEASANT
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+    concept_label: REGION
+  - concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+    concept_label: COMPANY
+  - concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+    concept_label: SHOP
+  - concept_uuid: d168c1e1-0c22-4ebe-a094-c1181e947580
+    concept_label: GAMBLE
+  - gloss: MEASURING UNIT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 6110fd86-30d4-4772-b304-f5c43e6776ba
+    concept_label: MALES OF SONG
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+  - concept_uuid: 6499795e-1eb9-405e-9288-691066c4da9f
+    concept_label: RULERS OF SHAO
+  - concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+    concept_label: RULERS OF ZHENG
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml

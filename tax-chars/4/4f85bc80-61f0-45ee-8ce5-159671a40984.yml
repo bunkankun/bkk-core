@@ -1,0 +1,96 @@
+uuid: 4f85bc80-61f0-45ee-8ce5-159671a40984
+type: tax-char
+heads:
+- 使
+pronunciations:
+- reading: shǐ
+  old_chinese: srɯʔ
+  middle_chinese: ʃɨ
+  fanqie: 疏士切
+  tone: 上
+  guangyun: 役也令也又踈事切
+- reading: shì
+  old_chinese: srɯʔ
+  middle_chinese: ʃɨ
+  fanqie: 疏吏切
+  tone: 去
+  guangyun: 又色里切
+- reading: shǐ
+  old_chinese: srɯʔ
+  middle_chinese: ʃɨ
+  fanqie: 疏士切
+  tone: 上
+  guangyun: 役也令也又踈事切
+- reading: shì
+  old_chinese: srɯʔ
+  middle_chinese: ʃɨ
+  fanqie: 疏吏切
+  tone: 去
+  guangyun: 又色里切
+unattributed_senses:
+- concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+  concept_label: CAUSE TO
+  children:
+  - gloss: systematically cause certain behaviour> shǐ 使
+    concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+    children:
+    - gloss: control politically, be in charge of> shǐ 使
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+    - gloss: control so as to make use of> shǐ 使
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - gloss: use excessively (wine etc)> shǐ 使
+        concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+        concept_label: UNRESTRAINED
+  - gloss: cause something to be done by issuing a command> shǐ 使
+    concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+    children:
+    - gloss: being commanded cause something to be done> shǐ 使
+      concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+      concept_label: OBEY
+      children:
+      - gloss: obey so as to be in the service of shǐ 使
+        concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+        concept_label: SERVE
+    - gloss: command people to serve one shǐ 使
+      concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+      concept_label: DEPLOY
+      children:
+      - gloss: command someone to become an employee> shǐ 使
+        concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+        concept_label: EMPLOY
+        children:
+        - gloss: someone employed on an official mission> shǐ 使
+          concept_uuid: ec1fcce1-ed79-49c9-a262-04b12dc7a1a5
+          concept_label: ENVOY
+    - gloss: command something to be moved> shǐ 使
+      concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+      concept_label: SEND
+- gloss: cause something to be feasible/permissible> shǐ 使
+  concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+  concept_label: PERMIT
+  children:
+  - gloss: cause to in a hypothetical mode> shǐ 使
+    concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+    children:
+    - gloss: cause to in a counterfactual hypothetical mode> shǐ 使
+      concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+      concept_label: COUNTERFACTUAL
+- gloss: shǐ
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+  concept_label: APPOINT
+- gloss: shǐ
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+  concept_label: GO TO
+- gloss: shǐ
+  concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+  concept_label: UTINAM
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-22T21:07:22.53+09:00'

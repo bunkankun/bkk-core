@@ -1,0 +1,43 @@
+uuid: 5e80d509-d875-480e-b124-128bdca95f4a
+type: tax-char
+heads:
+- 蟻
+pronunciations:
+- reading: yǐ
+  old_chinese: ŋralʔ
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚倚切
+  tone: 上
+  guangyun: 同蟻見禮
+- reading: yǐ
+  old_chinese: ŋralʔ
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚倚切
+  tone: 上
+  guangyun: 同螘
+  senses:
+  - concept_uuid: b409829d-de2c-438e-9781-14ef6afd2d96
+    concept_label: ANT
+  - concept_uuid: 33bd683e-b7a8-49be-9f34-b0041e779296
+    concept_label: BUBBLE
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: WINE
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: bfc00057-59ea-43a9-b864-9108cc565160
+    concept_label: SILKWORM
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: yǐ
+  old_chinese: ŋɡralʔ
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚倚切
+  tone: 上
+  guangyun: 爾雅曰蚍蜉大螘小者螘魚倚切十二
+  senses:
+  - concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+    concept_label: INSECTS
+source:
+  source_file: taxchar.xml

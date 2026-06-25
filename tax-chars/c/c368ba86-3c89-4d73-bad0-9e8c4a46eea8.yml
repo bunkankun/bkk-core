@@ -1,0 +1,44 @@
+uuid: c368ba86-3c89-4d73-bad0-9e8c4a46eea8
+type: tax-char
+heads:
+- 游
+- 遊
+pronunciations:
+- reading: yóu
+  old_chinese: lu
+  middle_chinese: jiu
+  fanqie: 以周切
+  tone: 平
+  guangyun: 浮也放也又姓出馮翊廣平前燕慕容廆以廣平游邃爲股肱
+  senses:
+  - concept_uuid: 8ac2c103-2517-4ad1-b55e-5aae5299cfd7
+    concept_label: SWIM
+    children:
+    - gloss: general
+      concept_uuid: 03ca3b9c-0961-4724-bbb4-6cb3f7517f48
+      concept_label: SPORTS
+    - gloss: 'process: the flow of water'
+      concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+      concept_label: FLOW
+    - gloss: move on water or land
+      concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+      concept_label: TRAVEL
+      children:
+      - gloss: 'causative: cause to move in all directions'
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+      - gloss: =遊 move on land
+        concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+        concept_label: WALK
+        children:
+        - gloss: free time
+          concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+          concept_label: LEISURE
+          children:
+          - gloss: of animals frolicking freely
+            concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+            concept_label: COPULATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T04:14:24.66+09:00'

@@ -1,0 +1,27 @@
+uuid: 9c468347-3022-443e-a896-f46a5a98094b
+type: tax-char
+heads:
+- 湍
+pronunciations:
+- reading: tuān
+  old_chinese: thoon
+  middle_chinese: tʰʷɑn
+  fanqie: 他端切
+  tone: 平
+  guangyun: 急瀨也他端切又音專六
+  senses:
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+- reading: zhuān
+  old_chinese: tjon
+  middle_chinese: tɕʷiɛn
+  fanqie: 職緣切
+  tone: 平
+  guangyun: 水名在鄧州又音煓
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

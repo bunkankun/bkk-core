@@ -1,0 +1,30 @@
+uuid: 4183b5c8-d0f8-416c-aa3c-b0494d48f9c3
+type: tax-char
+heads:
+- 圃
+pronunciations:
+- reading: bù
+  old_chinese: paas
+  middle_chinese: puo
+  fanqie: 博故切
+  tone: 去
+  guangyun: 園圃説文曰種菜曰圃又音補
+- reading: pǔ
+  old_chinese: paaʔ
+  middle_chinese: puo
+  fanqie: 博古切
+  tone: 上
+  guangyun: 園圃説文種菜曰圃亦姓又博故切
+  senses:
+  - concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+    concept_label: AGRICULTURE
+  - concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: GARDEN
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+source:
+  source_file: taxchar.xml

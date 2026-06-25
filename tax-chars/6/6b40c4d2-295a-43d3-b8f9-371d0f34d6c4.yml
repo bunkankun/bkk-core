@@ -1,0 +1,31 @@
+uuid: 6b40c4d2-295a-43d3-b8f9-371d0f34d6c4
+type: tax-char
+heads:
+- 純
+pronunciations:
+- reading: chún
+  old_chinese: djun
+  middle_chinese: dʑʷin
+  fanqie: 常倫切
+  tone: 平
+  guangyun: 篤也至也好也文也大也常倫切十三
+  senses:
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+- reading: zhǔn
+  old_chinese: tjunʔ
+  middle_chinese: tɕʷin
+  fanqie: 之尹切
+  tone: 上
+  guangyun: 縁也又音淳
+  senses:
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: 181dff9e-7def-4cfa-bff0-928de1b99049
+    concept_label: HEM
+source:
+  source_file: taxchar.xml

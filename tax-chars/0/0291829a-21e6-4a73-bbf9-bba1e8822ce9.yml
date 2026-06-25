@@ -1,0 +1,26 @@
+uuid: 0291829a-21e6-4a73-bbf9-bba1e8822ce9
+type: tax-char
+heads:
+- 驂
+pronunciations:
+- reading: cān
+  old_chinese: tshuum
+  middle_chinese: tsʰəm
+  fanqie: 倉含切
+  tone: 平
+  guangyun: 驂馬
+  senses:
+  - concept_uuid: 39b6fd36-ea59-4983-80cb-fa2e9b674e9d
+    concept_label: CARRIAGE HORSE
+  - concept_uuid: e1da7261-fef3-440d-9304-1beed07b0ef2
+    concept_label: JOIN
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: 12c122a4-f3e4-41f3-b24d-afdaf85bf0e4
+    concept_label: RIDE
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

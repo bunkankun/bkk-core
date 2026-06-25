@@ -1,0 +1,24 @@
+uuid: 324ddd3d-4de4-47b7-94a5-b9ff38a58469
+type: tax-char
+heads:
+- 肖
+pronunciations:
+- reading: xiào
+  old_chinese: smews
+  middle_chinese: siɛu
+  fanqie: 私妙切
+  tone: 去
+  guangyun: 似也小也法也像也
+  senses:
+  - concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+    concept_label: DECLINE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

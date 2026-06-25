@@ -1,0 +1,42 @@
+uuid: 38bfbbb5-dd64-4fa2-b21c-b02329ccc4ab
+type: tax-char
+heads:
+- 枉
+pronunciations:
+- reading: wǎng
+  old_chinese: qʷaŋʔ
+  middle_chinese: ʔʷiɐŋ
+  fanqie: 紆往切
+  tone: 上
+  guangyun: 邪曲也亦姓今虢州有紆往切四
+  senses:
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+    children:
+    - gloss: causative
+      concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+      concept_label: TWIST
+      children:
+      - gloss: abstract
+        concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+        concept_label: OPPOSE
+        children:
+        - gloss: break rules
+          concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+          concept_label: MISTAKE
+        - gloss: twisting the moral standards
+          concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+          concept_label: UNJUST
+          children:
+          - gloss: psychological
+            concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+            concept_label: WICKED
+            children:
+            - gloss: towards inferiors
+              concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+              concept_label: ARROGANT
+    - gloss: as in bowing gesture
+      concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+      concept_label: POLITE
+source:
+  source_file: taxchar.xml

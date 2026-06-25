@@ -1,0 +1,22 @@
+uuid: 3c2fe625-d500-4af9-abdf-442b171645e0
+type: tax-char
+heads:
+- 蹊
+pronunciations:
+- reading: xī
+  old_chinese: ɡee
+  middle_chinese: ɦei
+  fanqie: 胡雞切
+  tone: 平
+  guangyun: 徑路
+  senses:
+  - concept_uuid: 07a0323c-f326-44e7-a6e8-16d747e3a604
+    concept_label: PATH
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: 87210bed-6567-4fdf-b137-a04e0cc14f83
+    concept_label: FOOTPRINT
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+source:
+  source_file: taxchar.xml

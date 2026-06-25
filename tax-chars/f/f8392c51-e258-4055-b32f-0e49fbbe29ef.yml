@@ -1,0 +1,68 @@
+uuid: f8392c51-e258-4055-b32f-0e49fbbe29ef
+type: tax-char
+heads:
+- 門
+pronunciations:
+- reading: mén
+  old_chinese: mɯɯn
+  middle_chinese: muon
+  fanqie: 莫奔切
+  tone: 平
+  guangyun: 問也聞也字從兩戸亦姓周禮云公卿之子入王端之左敎以六藝謂之門子其後氏焉又漢複姓十四氏左傳魯卿東門襄仲宋樂大心爲右師居桐門後因氏焉伍子胥抉眼吳門因謂子胥門子孫乃以胥門爲氏呉有胥門巢丗本晉大夫下門聦齊臨淄大夫車門遽陳有鬬門氏戰國策有雍門周魏侯嬴爲夷門抱關者後姓夷門氏吕氏春秋有陽門介夫後以陽門爲氏古今表有逢門子豹宋諸公子食采於木門者後遂爲氏漢書儒林傳有闕門慶忌何氏姓苑云弋門氏今漁陽人又有剌門氏莫奔切十三
+  senses:
+  - concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+    concept_label: GATE
+    children:
+    - gloss: synecdoche
+      concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+      concept_label: TEMPLE
+    - gloss: in landscape
+      concept_uuid: a862f88d-6ba7-42fa-9ae1-b9211027fbd1
+      concept_label: PASS
+      children:
+      - gloss: official
+        concept_uuid: 61faa862-5387-426d-a629-e7edcdaa5cfb
+        concept_label: GATEKEEPER
+        children:
+        - gloss: gate-tax levied by
+          concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+          concept_label: TAX
+  - gloss: lesser
+    concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+    concept_label: DOOR
+    children:
+    - gloss: 'metaphorical:'
+      concept_uuid: 6b73416e-f84f-44c8-85b3-a801677d2d13
+      concept_label: ORGAN
+    - gloss: 'metaphorical: door to understanding'
+      concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+      concept_label: METHOD
+      children:
+      - gloss: semantic
+        concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+        concept_label: CATEGORY
+    - gloss: synecdoche
+      concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+      concept_label: HOME
+      children:
+      - gloss: members of
+        concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+        concept_label: FAMILY
+        children:
+        - gloss: ritual of
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+    - gloss: institution behind
+      concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+      concept_label: SCHOOL
+    - gloss: 'read me4n by some: attack gate of'
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+      children:
+      - gloss: object attacker
+        concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+        concept_label: DEFEND
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T02:12:08.084+09:00'

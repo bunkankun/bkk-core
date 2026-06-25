@@ -1,0 +1,61 @@
+uuid: 941aa7a3-ba3e-4b18-a884-6a5cd2f38de9
+type: tax-char
+heads:
+- 地
+pronunciations:
+- reading: dì
+  old_chinese: lils
+  middle_chinese: di
+  fanqie: 徒四切
+  tone: 去
+  guangyun: 土地説文曰元气初分輕清陽爲天重濁隂爲地萬物所陳𠛱也元命包曰地者易也言養萬物懷任交易變化含吐應節故立字亦從水土者爲地又虜複姓有地連氏地倫氏徒四切二
+  senses:
+  - concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+    concept_label: EARTH
+    children:
+    - gloss: physical appearance
+      concept_uuid: 045058b4-86fe-4afd-8795-62f5ad1bbf94
+      concept_label: LANDSCAPE
+      children:
+      - gloss: location
+        concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+        concept_label: PLACE
+        children:
+        - gloss: geographic
+          concept_uuid: 3976062a-a968-4062-826a-af9934ecf699
+          concept_label: REALM
+          children:
+          - gloss: delimited
+            concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+            concept_label: TERRITORY
+            children:
+            - gloss: own
+              concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+              concept_label: HOME
+        - gloss: abstract
+          concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+          concept_label: SITUATION
+          children:
+          - gloss: aspect of
+            concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+            concept_label: FEATURE
+            children:
+            - gloss: abstract:in bureaucratic hierarchy
+              concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+              concept_label: RANK
+    - gloss: surface:ground
+      concept_uuid: 58f93d98-fc77-4fba-8d8b-db78013d55ba
+      concept_label: FLOOR
+  - gloss: substance
+    concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+    concept_label: SOIL
+  - gloss: post-Buddhist:grammaticalised
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - gloss: personal names
+    concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-03T22:34:21.153+09:00'

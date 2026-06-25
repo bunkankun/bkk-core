@@ -1,0 +1,27 @@
+uuid: de2df39e-829b-4450-983b-a9595ab09157
+type: tax-char
+heads:
+- 慨
+pronunciations:
+- reading: kǎi
+  old_chinese: khɯɯds
+  middle_chinese: kʰɑi
+  fanqie: 苦摡切
+  tone: 去
+  guangyun: 慷慨苦蓋切六
+- reading: kài
+  old_chinese: khɯɯds
+  middle_chinese: kʰɑi
+  fanqie: 苦蓋切
+  tone: 去
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+    concept_label: SIGH
+  - concept_uuid: 16f9a752-a3d3-40c3-860b-72052d703065
+    concept_label: EXCITED
+  - concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+    concept_label: GENEROUS
+source:
+  source_file: taxchar.xml

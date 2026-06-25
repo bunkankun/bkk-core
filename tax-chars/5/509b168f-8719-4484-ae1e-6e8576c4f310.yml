@@ -1,0 +1,50 @@
+uuid: 509b168f-8719-4484-ae1e-6e8576c4f310
+type: tax-char
+heads:
+- 憂
+pronunciations:
+- reading: yōu
+  old_chinese: qu
+  middle_chinese: ʔiu
+  fanqie: 於求切
+  tone: 平
+  guangyun: 愁也又姓出姓苑於求切十七
+- reading: yòu
+  old_chinese: ɢʷɯs
+  middle_chinese: ɦiu
+  fanqie: 于救切
+  tone: 去
+  guangyun: 動也
+unattributed_senses:
+- concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+  concept_label: WORRY
+  children:
+  - gloss: intense
+    concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+    children:
+    - gloss: object
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+  - gloss: towards future
+    concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - gloss: realistic
+    concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+    children:
+    - gloss: empathetic
+      concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+      concept_label: SYMPATHY
+      children:
+      - gloss: for deceased
+        concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+        concept_label: GRIEF
+        children:
+        - gloss: practical
+          concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+          concept_label: MOURNING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T18:08:45.33+09:00'

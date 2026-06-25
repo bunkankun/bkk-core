@@ -1,0 +1,76 @@
+uuid: 754db409-8fb2-4ea3-833f-0c0cdda0dc78
+type: tax-char
+heads:
+- 布
+pronunciations:
+- reading: bù
+  old_chinese: paas
+  middle_chinese: puo
+  fanqie: 博故切
+  tone: 去
+  guangyun: 布帛也又陳也周禮錢行之曰布藏之曰帛又姓陶侃列傳有江夏布興博故切六
+  senses:
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: CLOTH
+    children:
+    - gloss: used as currency
+      concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+      concept_label: MONEY
+      children:
+      - gloss: owed to state
+        concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+        concept_label: TAX
+      - gloss: made of
+        concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+        concept_label: GARMENT
+      - gloss: commercial
+        concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+        concept_label: PROPERTY
+        children:
+        - gloss: 'generally: transact'
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+          children:
+          - gloss: generously
+            concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+            concept_label: DISTRIBUTE
+            children:
+            - gloss: irrgegularly
+              concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+              concept_label: SCATTER
+              children:
+              - gloss: publicly
+                concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+                concept_label: ISSUE
+                children:
+                - gloss: 'object: texts'
+                  concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+                  concept_label: PUBLICISE
+                  children:
+                  - gloss: by direct communication
+                    concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+                    concept_label: DECLARE
+                    children:
+                    - gloss: psychological
+                      concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+                      concept_label: EXPRESS
+                      children:
+                      - gloss: generalised
+                        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+                        concept_label: SHOW
+                        children:
+                        - gloss: specific
+                          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+                          concept_label: ARRANGE
+                          children:
+                          - gloss: lay out food for guests
+                            concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+                            concept_label: FEED
+                          - gloss: generalised
+                            concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+                            concept_label: PUT
+                        - gloss: show through overt action
+                          concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+                          concept_label: ACT
+source:
+  source_file: taxchar.xml

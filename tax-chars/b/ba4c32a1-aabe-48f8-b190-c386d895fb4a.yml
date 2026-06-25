@@ -1,0 +1,59 @@
+uuid: ba4c32a1-aabe-48f8-b190-c386d895fb4a
+type: tax-char
+heads:
+- 爰
+pronunciations:
+- reading: yuán
+  old_chinese: ɢʷan
+  middle_chinese: ɦʷiɐn
+  fanqie: 雨元切
+  tone: 平
+  guangyun: 於也行也爲也哀也引也亦姓出濮陽亦舜裔胡公之後袁或作爰
+  senses:
+  - concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+    concept_label: COPULA
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+    concept_label: FROM
+  - concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+  - concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+    concept_label: THEREFORE
+  - concept_uuid: 5a2cd1f0-f6a3-4fc7-829d-632dfc3ca043
+    concept_label: THERE
+  - concept_uuid: 04482dbe-a266-41c0-b7f0-e0ba31a4763f
+    concept_label: HERE
+  - concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+    concept_label: WHERE
+  - concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+    concept_label: WITH
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - gloss: =蝯猨
+    concept_uuid: 9fdeee3d-964a-4dd5-af0d-6776da94afa9
+    concept_label: MONKEY
+  - gloss: =轅
+    concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+    concept_label: BEAM
+  - gloss: =諼
+    concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - gloss: =咺
+    concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - gloss: =援
+    concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

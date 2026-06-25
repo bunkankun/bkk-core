@@ -1,0 +1,48 @@
+uuid: da35279f-7ae7-443d-ba90-93f4a088e428
+type: tax-char
+heads:
+- 消
+pronunciations:
+- reading: xiāo
+  old_chinese: smew
+  middle_chinese: siɛu
+  fanqie: 相邀切
+  tone: 平
+  guangyun: 滅也盡也息也
+  senses:
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: REDUCE
+  - concept_uuid: d443ef9b-08a1-4be8-9a9f-ed512af47e0f
+    concept_label: SMELT
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+    concept_label: WASTE
+  - concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+    concept_label: ENJOY
+  - concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+  - concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+    concept_label: DESERVE
+  - concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+    concept_label: SELL
+  - concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+    concept_label: NEED
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+  - concept_uuid: 7ce96f96-8ea3-4581-a18a-1afff78da647
+    concept_label: FRY
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+    concept_label: KNOW
+  - concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+    concept_label: SALT
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

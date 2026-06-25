@@ -1,0 +1,80 @@
+uuid: 2277b9fa-2ac6-4199-be8a-09cde2bb4164
+type: tax-char
+heads:
+- 向
+pronunciations:
+- reading: xiàng
+  old_chinese: qhaŋs
+  middle_chinese: hiɐŋ
+  fanqie: 許亮切
+  tone: 去
+  guangyun: 對也䆫也説文曰北出牖也从宀口詩云塞向墐戸許亮切八
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+      concept_label: DIRECTION
+      children:
+      - concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+        concept_label: ADDRESS
+      - gloss: 'exocentric: window facing north'
+        concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+        concept_label: WINDOW
+    - gloss: resulting state
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: generalised
+        concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+        concept_label: BE IN
+        children:
+        - gloss: point of departure
+          concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+          concept_label: FROM
+      - gloss: object others
+        concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+        concept_label: MEET
+        children:
+        - gloss: social
+          concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+          concept_label: RALLY
+          children:
+          - gloss: psychological
+            concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+            concept_label: LIKE
+            children:
+            - gloss: spiritual
+              concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+              concept_label: ASPIRATION
+      - gloss: just now
+        concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+        concept_label: NOW
+        children:
+        - gloss: =曏 recent
+          concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+          concept_label: PAST
+          children:
+          - gloss: in the past, continuously
+            concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+            concept_label: ALWAYS
+  - gloss: 'grammaticalised: when it came to'
+    concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+    concept_label: WHEN
+    children:
+    - gloss: conditional
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+- reading: shàng
+  old_chinese: qhjaŋs
+  middle_chinese: ɕiɐŋ
+  fanqie: 式亮切
+  tone: 去
+  guangyun: 人姓岀河内本自有殷宋文公支子向文旰旰孫戍以王父字爲氏又許亮切
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:11:26.698+09:00'

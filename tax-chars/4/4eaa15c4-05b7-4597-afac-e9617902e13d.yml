@@ -1,0 +1,28 @@
+uuid: 4eaa15c4-05b7-4597-afac-e9617902e13d
+type: tax-char
+heads:
+- 荊
+pronunciations:
+- reading: jīng
+  old_chinese: kreŋ
+  middle_chinese: kɯiaŋ
+  fanqie: 舉卿切
+  tone: 平
+  guangyun: 荆楚亦木名可染又州名夏及周並爲州秦爲南郡即郢都之渚宫又姓燕刺客荆軻
+  senses:
+  - gloss: TREES, KIND OF
+    children:
+    - gloss: 'generalised: thorny'
+      concept_uuid: b3e14ddb-e2c7-4076-b72d-50e04512d2c4
+      concept_label: BUSH
+      children:
+      - gloss: thorny mate
+        concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+        concept_label: WIFE
+      - gloss: thorny landscape
+        concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+        concept_label: MOUNTAINS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

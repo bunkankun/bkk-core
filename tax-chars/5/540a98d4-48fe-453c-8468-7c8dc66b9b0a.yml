@@ -1,0 +1,41 @@
+uuid: 540a98d4-48fe-453c-8468-7c8dc66b9b0a
+type: tax-char
+heads:
+- 謬
+pronunciations:
+- reading: miù
+  old_chinese: mɢrus
+  middle_chinese: mɨu
+  fanqie: 靡幼切
+  tone: 去
+  guangyun: 誤也詐也差也欺也靡幼切二
+  senses:
+  - concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+    concept_label: UNTRUE
+  - gloss: feature
+    concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+    concept_label: CRAZY
+  - gloss: also self-deprecatory/ironic
+    concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - gloss: event> ERR
+  - gloss: feature
+    concept_uuid: 175d5264-4103-49d7-8bd3-a0d40b1ee93f
+    concept_label: ABSURD
+  - gloss: causative
+    concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: DECEIVE
+  - gloss: causative
+    concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - gloss: by mistake
+    concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+    concept_label: DEEP
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

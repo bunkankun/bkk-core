@@ -1,0 +1,22 @@
+uuid: 1c16d2dc-3b92-4e3f-84bd-2e4ce356b975
+type: tax-char
+heads:
+- 煩
+pronunciations:
+- reading: fán
+  old_chinese: ban
+  middle_chinese: bʷiɐn
+  fanqie: 附袁切
+  tone: 平
+  guangyun: 勞也説文曰熱頭痛也附袁切三十八
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+source:
+  source_file: taxchar.xml

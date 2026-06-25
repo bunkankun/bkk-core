@@ -1,0 +1,39 @@
+uuid: a304d792-4635-4fea-a664-f3a499009c29
+type: tax-char
+heads:
+- 血
+pronunciations:
+- reading: xuè
+  old_chinese: qhʷiiɡ
+  middle_chinese: hʷet
+  fanqie: 呼決切
+  tone: 入
+  guangyun: 釋名曰血濊也岀於肉流而濊濊也呼決切十二
+  senses:
+  - concept_uuid: 30c7ee56-1df4-4e57-b2f5-29f1e7e1f9c2
+    concept_label: BLOOD
+    children:
+    - gloss: causative
+      concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+      concept_label: INJURE
+    - gloss: feature
+      concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+      concept_label: RED
+    - gloss: blood-
+      concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+      concept_label: RELATIVE
+    - gloss: metaphorical
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: (intensely felt)
+        concept_uuid: 7b951f9a-7b82-42db-8a23-5bcfc0c2a94e
+        concept_label: TEARS
+    - gloss: related activity
+      concept_uuid: 4cabc60a-c17e-4a7a-8cd7-e0836f03b003
+      concept_label: SMEAR
+  - gloss: =恤
+    concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+source:
+  source_file: taxchar.xml

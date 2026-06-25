@@ -1,0 +1,29 @@
+uuid: ef4f21cf-8163-49e4-b789-9987f8b6b8aa
+type: tax-char
+heads:
+- 殘
+pronunciations:
+- reading: cán
+  old_chinese: dzaan
+  middle_chinese: dzɑn
+  fanqie: 昨干切
+  tone: 平
+  guangyun: 餘也説文贓也昨干切七
+  senses:
+  - concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+    concept_label: CRUEL
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+    concept_label: MURDER
+  - concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+    concept_label: SURPLUS
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+- reading: zàn
+  old_chinese: dzaans
+  middle_chinese: dzɑn
+  fanqie: 徂贊切
+  tone: 去
+source:
+  source_file: taxchar.xml

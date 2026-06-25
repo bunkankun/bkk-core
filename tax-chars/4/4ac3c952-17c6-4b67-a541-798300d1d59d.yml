@@ -1,0 +1,60 @@
+uuid: 4ac3c952-17c6-4b67-a541-798300d1d59d
+type: tax-char
+heads:
+- 逐
+pronunciations:
+- reading: zhú
+  old_chinese: rlɯwɡ
+  middle_chinese: ɖiuk
+  fanqie: 直六切
+  tone: 入
+  guangyun: 追也驅也從也疾也強也走也直六切十二
+  senses:
+  - concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+    concept_label: PURSUE
+    children:
+    - gloss: 'object: sexual partner'
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+    - gloss: generalised
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - gloss: abstract
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+      - gloss: 'grammaticalised, adverbial: one after the other'
+        concept_label: SEQUENCE
+      - gloss: 'specific: sport'
+        concept_uuid: 8ba01741-c552-4ff5-b5ea-d00f18f0087d
+        concept_label: RACING
+        children:
+        - gloss: generalised
+          concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+          concept_label: COMPETE
+          children:
+          - gloss: successfully
+            concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+            concept_label: FLOURISH
+            children:
+            - gloss: psychologial
+              concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+              concept_label: UNRESTRAINED
+    - gloss: so as to chase away
+      concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+      concept_label: BANISH
+      children:
+      - gloss: passive
+        concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+        concept_label: FLEE
+        children:
+        - gloss: 'causative: generalised'
+          concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+          concept_label: DEFEAT
+  - gloss: grammaticalised
+    concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T17:34:10.247+09:00'

@@ -1,0 +1,24 @@
+uuid: 3cdefcd8-f5f8-45dc-ba29-0ee51ffd06c3
+type: tax-char
+heads:
+- 殃
+pronunciations:
+- reading: yāng
+  old_chinese: qaŋ
+  middle_chinese: ʔiɐŋ
+  fanqie: 於良切
+  tone: 平
+  guangyun: 同殃
+- reading: yāng
+  old_chinese: qaŋ
+  middle_chinese: ʔiɐŋ
+  fanqie: 於良切
+  tone: 平
+  guangyun: 禍也咎也罰也敗也
+  senses:
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,64 @@
+uuid: 757c7d81-5f25-445a-880b-05cf4d2f9f53
+type: tax-char
+heads:
+- 仰
+pronunciations:
+- reading: yǎng
+  old_chinese: ŋaŋʔ
+  middle_chinese: ŋiɐŋ
+  fanqie: 魚兩切
+  tone: 上
+  guangyun: 偃仰也説文舉也魚兩切三
+  senses:
+  - concept_uuid: df3e2b33-735b-4cc6-ab38-c478d4776eed
+    concept_label: LOOK UP
+    children:
+    - gloss: 'gramamticalised: looking up (… and looking down)'
+      concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+      concept_label: AND
+      children:
+      - gloss: position
+        concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+        concept_label: HIGH
+        children:
+        - gloss: causative
+          concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+          concept_label: LIFT
+          children:
+          - gloss: place
+            concept_uuid: f5018723-71ea-49c5-8911-415a8745d1a8
+            concept_label: TOP
+    - gloss: 'grammaticalised:'
+      concept_uuid: 4fc17050-533b-485c-9ddc-2b1cea64005a
+      concept_label: UPWARD
+      children:
+      - gloss: colloquial
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: psychological
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+          children:
+          - gloss: emotionally
+            concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+            concept_label: DELIGHT
+- reading: yàng
+  old_chinese: ŋaŋs
+  middle_chinese: ŋiɐŋ
+  fanqie: 魚向切
+  tone: 去
+  guangyun: 又魚兩切
+  senses:
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+unattributed_senses:
+- concept_label: 仰 áng《集韻》魚剛切，平唐疑。
+  children:
+  - gloss: adverbial, reduplicated
+    concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+    concept_label: AUTHORITY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:06:51.888+09:00'

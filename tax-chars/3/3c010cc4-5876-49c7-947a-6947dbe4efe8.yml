@@ -1,0 +1,30 @@
+uuid: 3c010cc4-5876-49c7-947a-6947dbe4efe8
+type: tax-char
+heads:
+- 泠
+pronunciations:
+- reading: líng
+  old_chinese: ɡ-reeŋ
+  middle_chinese: leŋ
+  fanqie: 郎丁切
+  tone: 平
+  guangyun: 清泠水也又水名出丹陽又姓左傳周大夫泠州鳩
+  senses:
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+  - concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+    concept_label: EASY
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

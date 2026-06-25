@@ -1,0 +1,22 @@
+uuid: 1fef6aa5-4381-4e0b-a18c-c5186a58a22d
+type: tax-char
+heads:
+- 奮
+pronunciations:
+- reading: fèn
+  old_chinese: pɯns
+  middle_chinese: piun
+  fanqie: 方問切
+  tone: 去
+  guangyun: 揚也鳥張毛羽奮奞也又姓左傳楚有司馬奮揚
+  senses:
+  - concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+    concept_label: FIGHT
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+source:
+  source_file: taxchar.xml

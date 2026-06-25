@@ -1,0 +1,52 @@
+uuid: a17c4f7e-b539-4be3-b5c2-0c7c71d1a506
+type: tax-char
+heads:
+- 井
+pronunciations:
+- reading: jǐng
+  old_chinese: skeŋʔ
+  middle_chinese: tsiɛŋ
+  fanqie: 子郢切
+  tone: 上
+- reading: jǐng
+  old_chinese: skeŋʔ
+  middle_chinese: tsiɛŋ
+  fanqie: 子郢切
+  tone: 上
+  guangyun: 説文曰八家一丼象構韓形·𦉥之象也古者伯益初作丼今作井見經典省又姓姜子牙之後也左傳有井伯子郢切二
+  senses:
+  - concept_uuid: c9d57235-3ad4-4d03-b0e6-a90777082a37
+    concept_label: WELL
+    children:
+    - gloss: content
+      concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+      concept_label: WATER
+    - gloss: specifically dirty
+      concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+      concept_label: POND
+    - gloss: (pit)
+      concept_label: SHAFT
+    - gloss: surrounding area
+      concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+      concept_label: VILLAGE
+    - gloss: similar
+      concept_label: CONSTELLATIONS
+    - gloss: similar architecture
+      concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+      concept_label: TOMB
+    - gloss: inspired by shape of
+      concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+      concept_label: STANDARD
+      children:
+      - gloss: 'feature: reduplicated'
+        concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+        concept_label: ORDERLY
+      - gloss: according to this pattern
+        concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+        concept_label: FIELD
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:32:37.349+09:00'

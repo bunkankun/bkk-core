@@ -1,0 +1,25 @@
+uuid: 54703754-6baa-46bf-af6d-5c721b1f4f31
+type: tax-char
+heads:
+- 幣
+pronunciations:
+- reading: bì
+  old_chinese: beds
+  middle_chinese: biɛi
+  fanqie: 毗祭切
+  tone: 去
+  guangyun: 幣帛
+  senses:
+  - concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+    concept_label: BRIBE
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+    concept_label: GIFT
+  - gloss: = 敝
+source:
+  source_file: taxchar.xml

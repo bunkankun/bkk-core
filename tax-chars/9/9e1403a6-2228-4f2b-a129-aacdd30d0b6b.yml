@@ -1,0 +1,45 @@
+uuid: 9e1403a6-2228-4f2b-a129-aacdd30d0b6b
+type: tax-char
+heads:
+- 何
+pronunciations:
+- reading: hé
+  old_chinese: ɡlaal
+  middle_chinese: ɦɑ
+  fanqie: 胡歌切
+  tone: 平
+  guangyun: 辝也説文儋也又姓出自周成王母弟唐叔虞後封於韓韓滅子孫分散江淮間音以韓爲何字隨音變遂爲何氏出廬江東海陳郡三望胡歌切七
+  senses:
+  - gloss: 'impersonal: what object?'
+    concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+    concept_label: WHAT
+    children:
+    - gloss: what person?
+      concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+      concept_label: WHO
+      children:
+      - gloss: object
+        concept_uuid: 98506c6b-03a1-4f1a-9993-30b67eae19c5
+        concept_label: WHOM
+    - gloss: grammaticalised:how!
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+    - gloss: in what place?
+      concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+      concept_label: WHERE
+    - gloss: because of what object?
+      concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+      concept_label: WHY
+      children:
+      - gloss: by what means
+        concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+        concept_label: HOW
+unattributed_senses:
+- gloss: proper names
+  concept_uuid: 475d1d1e-8e44-4b57-95c5-712f8b737997
+  concept_label: RULERS OF ZHAO
+- gloss: '何 hè (OC: ɡlaalʔ MC: ɦɑ) 胡可切 上 廣韻：【同荷 】 JIE HUIQUAN 2005: 248'
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-12T22:04:40.113+09:00'

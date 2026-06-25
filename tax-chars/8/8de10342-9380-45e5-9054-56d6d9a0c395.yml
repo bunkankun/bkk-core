@@ -1,0 +1,33 @@
+uuid: 8de10342-9380-45e5-9054-56d6d9a0c395
+type: tax-char
+heads:
+- 三
+pronunciations:
+- reading: sān
+  old_chinese: saam
+  middle_chinese: sɑm
+  fanqie: 蘇甘切
+  tone: 平
+  guangyun: 數名又漢複姓五氏三閭氏三閭大夫屈原之後也沛上計三烏群三烏大夫之後也三飯尞之後有三飯氏三州孝子之後有三州氏後單姓州蜀志有三丘務蘇甘切五
+- reading: sàn
+  old_chinese: saams
+  middle_chinese: sɑm
+  fanqie: 蘇暫切
+  tone: 去
+  guangyun: 三思蘇暫切又蘇甘切一
+  senses:
+  - gloss: 'derived adverbial: thrice'
+    concept_uuid: 373de8d0-0d58-4780-ae06-8270d91edc3a
+    concept_label: THREE
+unattributed_senses:
+- gloss: number
+  concept_uuid: 373de8d0-0d58-4780-ae06-8270d91edc3a
+  concept_label: THREE
+  children:
+  - gloss: derived
+    concept_uuid: a21c67c7-657c-41c7-ad21-d81fabd47f47
+    concept_label: SEVERAL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-22T20:58:29.977+09:00'

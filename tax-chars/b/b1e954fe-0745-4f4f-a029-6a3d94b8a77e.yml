@@ -1,0 +1,34 @@
+uuid: b1e954fe-0745-4f4f-a029-6a3d94b8a77e
+type: tax-char
+heads:
+- 頌
+pronunciations:
+- reading: sòng
+  old_chinese: sɢloŋs
+  middle_chinese: zioŋ
+  fanqie: 似用切
+  tone: 去
+  guangyun: 歌也詩云吉甫作頌穆如清風又姓出何氏姓苑似用切四
+  senses:
+  - concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+    concept_label: CHANT
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+  - concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+    concept_label: DIVINATION
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+    concept_label: CONGRATULATE
+- reading: róng
+  old_chinese: k-loŋ
+  middle_chinese: jioŋ
+  fanqie: 餘封切
+  tone: 平
+  guangyun: 形頌又似用切
+  senses:
+  - gloss: = 容
+source:
+  source_file: taxchar.xml

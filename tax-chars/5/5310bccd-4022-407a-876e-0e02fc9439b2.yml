@@ -1,0 +1,29 @@
+uuid: 5310bccd-4022-407a-876e-0e02fc9439b2
+type: tax-char
+heads:
+- 泉
+pronunciations:
+- reading: quán
+  old_chinese: dzon
+  middle_chinese: dzʷiɛn
+  fanqie: 疾緣切
+  tone: 平
+  guangyun: 水源也又錢別名
+  senses:
+  - gloss: spring
+    concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+    concept_label: SOURCE
+    children:
+    - gloss: playful/figurative
+      concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+      concept_label: MONEY
+  - gloss: content
+    concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+  - gloss: place below the earth
+    concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml

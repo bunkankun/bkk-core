@@ -1,0 +1,35 @@
+uuid: 767dbea2-647e-4350-9b63-5754f8721c74
+type: tax-char
+heads:
+- 切
+pronunciations:
+- reading: qiē,
+  old_chinese: snʰiid
+  middle_chinese: tsʰet
+  fanqie: 千結切
+  tone: 入
+  guangyun: 割也刻也近也迫也義也説文折也千結切八
+  senses:
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+    concept_label: GRIND
+  - concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+    concept_label: RUB
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+- reading: qiè
+  old_chinese: snʰiids
+  middle_chinese: tsʰei
+  fanqie: 七計切
+  tone: 去
+  guangyun: 衆也又千結切
+  senses:
+  - concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+    concept_label: IMPORTANT
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

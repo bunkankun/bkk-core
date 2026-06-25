@@ -1,0 +1,34 @@
+uuid: 9d7337a9-d4ea-41b3-b1a0-b434d4f89359
+type: tax-char
+heads:
+- 矩
+pronunciations:
+- reading: jǔ
+  old_chinese: kʷaʔ
+  middle_chinese: kio
+  fanqie: 俱雨切
+  tone: 上
+  guangyun: 同矩説文又其吕切
+- reading: jǔ
+  old_chinese: kʷaʔ
+  middle_chinese: kio
+  fanqie: 俱雨切
+  tone: 上
+  guangyun: 法也常也俱雨切十一
+  senses:
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 2acb28a6-9a96-4833-a492-cd355964728f
+    concept_label: SQUARE-TOOL
+  - concept_uuid: ff492103-d171-4ff2-bea1-70c36deb3067
+    concept_label: SQUARE
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+    concept_label: SEASON
+  - concept_uuid: f1f6bbab-4d3f-448c-bae4-636687c488cd
+    concept_label: ANGLE
+source:
+  source_file: taxchar.xml

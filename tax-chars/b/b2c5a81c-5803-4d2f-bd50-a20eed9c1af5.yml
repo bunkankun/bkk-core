@@ -1,0 +1,39 @@
+uuid: b2c5a81c-5803-4d2f-bd50-a20eed9c1af5
+type: tax-char
+heads:
+- 忠
+pronunciations:
+- reading: zhōng
+  old_chinese: krluŋ
+  middle_chinese: ʈiuŋ
+  fanqie: 陟弓切
+  tone: 平
+  guangyun: 無私也敬也直也厚也亦州名本漢臨江縣屬巴郡後魏置臨州貞觀爲忠州
+  senses:
+  - concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+    concept_label: FAITHFUL
+    children:
+    - gloss: abstract
+      concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+      concept_label: VIRTUE
+    - gloss: and truthful, from one's heart
+      concept_uuid: db01e61e-a6ed-432b-8187-613a971a759f
+      concept_label: HONEST
+    - gloss: and non-selfish
+      concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+      concept_label: GENEROUS
+      children:
+      - gloss: generalised moral
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+    - gloss: 'exocentric: faithful effort'
+      concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+      concept_label: EFFORT
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+unattributed_senses:
+- concept_label: 忠 zhang1 康熙字典： 又、叶陟良切，音張。【漢溧陽長潘乾𥓓】彬文烈武，扶弱抑强。龕刈骾雄，流惡顯忠
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:55:18.231+09:00'

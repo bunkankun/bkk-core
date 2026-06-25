@@ -1,0 +1,28 @@
+uuid: 53b24776-1ab7-49e2-8065-80e02dac3926
+type: tax-char
+heads:
+- 灼
+pronunciations:
+- reading: zhuó
+  old_chinese: pljewɡ
+  middle_chinese: tɕiɐk
+  fanqie: 之若切
+  tone: 入
+  guangyun: 燒也炙也熱也之若切十六
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

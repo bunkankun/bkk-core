@@ -1,0 +1,47 @@
+uuid: 6d789f1e-e547-4cfd-83d1-ac9b785f1f1c
+type: tax-char
+heads:
+- 臣
+pronunciations:
+- reading: chén
+  old_chinese: ɡjiŋ
+  middle_chinese: dʑin
+  fanqie: 植鄰切
+  tone: 平
+  guangyun: 伏也男子賤稱春秋説曰正氣爲帝間氣爲臣孝經説曰臣者堅也
+  senses:
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+    children:
+    - gloss: 'specifically:'
+      concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+      concept_label: PRISONER
+      children:
+      - gloss: 'specifically: male'
+        concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+        concept_label: SLAVE
+    - gloss: specifically
+      concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+      concept_label: MINISTER
+  - gloss: political
+    concept_uuid: 5acb758c-2fbe-4054-9f7e-1efe98bd7c27
+    concept_label: SUBJECT
+    children:
+    - gloss: grammaticalised:self-deprecatory
+      concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+      children:
+      - gloss: plural
+        concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+        concept_label: WE
+      - gloss: action
+        concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+        concept_label: SERVE
+        children:
+        - gloss: 'causative: coerce so as to become subject'
+          concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+          concept_label: CONQUER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T23:42:58.122+09:00'

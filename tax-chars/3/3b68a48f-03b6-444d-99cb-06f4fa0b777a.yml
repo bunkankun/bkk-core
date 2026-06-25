@@ -1,0 +1,81 @@
+uuid: 3b68a48f-03b6-444d-99cb-06f4fa0b777a
+type: tax-char
+heads:
+- 後
+pronunciations:
+- reading: hòu
+  old_chinese: ɡoos
+  middle_chinese: ɦəu
+  fanqie: 胡遘切
+  tone: 去
+  guangyun: 方言云先後猶娣姒
+- reading: hòu
+  old_chinese: ɡooʔ
+  middle_chinese: ɦəu
+  fanqie: 胡口切
+  tone: 上
+  guangyun: 後古文
+- reading: hòu
+  old_chinese: ɡooʔ
+  middle_chinese: ɦəu
+  fanqie: 胡口切
+  tone: 上
+  guangyun: 先後説文遟也又胡豆切
+unattributed_senses:
+- concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+  concept_label: BEHIND
+  children:
+  - gloss: move backwards
+    concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+  - gloss: move behind, conforming
+    concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - gloss: behind the present in time
+    concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+    concept_label: FUTURE
+    children:
+    - gloss: grammaticalised:at the time coming behind> hòu 後
+      concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+      concept_label: THEREUPON
+      children:
+      - gloss: more future
+        concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+        concept_label: LATE
+        children:
+        - gloss: relative, postposed
+          concept_uuid: bcb6986f-3280-48f8-973c-c3d5283d75e3
+          concept_label: AFTER
+          children:
+          - gloss: most future
+            concept_uuid: 65f2bb5a-4974-410b-a35d-8c4033a5da80
+            concept_label: LAST
+            children:
+            - gloss: causal
+              concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+              concept_label: RESULT
+        - gloss: future generation> hòu 後
+          concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+          concept_label: DESCENDANT
+          children:
+          - gloss: inheriting descendant
+            concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+            concept_label: HEIR
+        - gloss: 'figurative: in importantce'
+          concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+          concept_label: UNIMPORTANT
+          children:
+          - gloss: 'putative: regard as coming behind oneself'
+            concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+            concept_label: DESPISE
+  - gloss: anatomical
+    concept_uuid: 75669179-f12f-4d6c-8824-d73bfe2dfc14
+    concept_label: RUMP
+    children:
+    - gloss: part of
+      concept_uuid: 40d28742-b6a7-4f07-82c7-f29c51326ccd
+      concept_label: ANUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T00:31:28.094+09:00'

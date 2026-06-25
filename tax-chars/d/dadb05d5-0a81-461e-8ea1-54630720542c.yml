@@ -1,0 +1,35 @@
+uuid: dadb05d5-0a81-461e-8ea1-54630720542c
+type: tax-char
+heads:
+- 思
+pronunciations:
+- reading: sī
+  old_chinese: snɯ
+  middle_chinese: sɨ
+  fanqie: 息兹切
+  tone: 平
+  guangyun: 思念也息兹切又息吏切十五
+  senses:
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+    children:
+    - gloss: morally thoughtful
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+    - gloss: longingly
+      concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+      concept_label: YEARN
+      children:
+      - gloss: negative emotion
+        concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+        concept_label: SAD
+  - gloss: 'late: stative, emotional'
+    concept_uuid: 78ca5698-e5df-4086-8c4f-68c94698662e
+    concept_label: MOOD
+  - gloss: grammaticalised:in poetry
+    concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-31T22:46:35.656+09:00'

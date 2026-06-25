@@ -1,0 +1,57 @@
+uuid: fa325546-2cf5-4139-9076-3c14d886332f
+type: tax-char
+heads:
+- 全
+pronunciations:
+- reading: quán
+  old_chinese: sɡon
+  middle_chinese: dzʷiɛn
+  fanqie: 疾緣切
+  tone: 平
+  guangyun: 完也具也又姓吴有大司馬全琮疾縁切七
+  senses:
+  - concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+    concept_label: WHOLE
+    children:
+    - gloss: lastingly
+      concept_uuid: 056420a0-1add-4ebb-ac5d-9006d57b1135
+      concept_label: SAFE
+      children:
+      - gloss: causative
+        concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+        concept_label: SAFEGUARD
+    - gloss: causative
+      concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+      concept_label: COMPLETE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+        concept_label: ALL
+      - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+      - gloss: in content
+        concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+        concept_label: FULL
+        children:
+        - gloss: grammaticalised
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+      - gloss: in quality
+        concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+        concept_label: PERFECT
+        children:
+        - gloss: stone
+          concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+          concept_label: JADE
+          children:
+          - gloss: physically
+            concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+            concept_label: PURE
+          - gloss: attitudinal
+            concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+            concept_label: CONFORM
+  - gloss: =痊
+    concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+source:
+  source_file: taxchar.xml

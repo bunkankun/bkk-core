@@ -1,0 +1,77 @@
+uuid: 934d90f8-20f2-4b95-b4cc-42dbe580e198
+type: tax-char
+heads:
+- 營
+pronunciations:
+- reading: yíng
+  old_chinese: ɢʷleŋ
+  middle_chinese: jʷiɛŋ
+  senses:
+  - concept_uuid: 6317db9e-f402-42e9-b1e0-8d04fca07bf7
+    concept_label: CAMP
+    children:
+    - gloss: dominated by the camp
+      concept_uuid: 3ac38710-8bfa-4014-bff4-f7d7040b7219
+      concept_label: AREA
+    - gloss: associated activity
+      concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+      concept_label: SURROUND
+    - gloss: associated activity
+      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+      concept_label: STOP
+    - gloss: associated activity
+      concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+      concept_label: PLAN
+      children:
+      - gloss: psychological
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+      - gloss: psychological
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+        children:
+        - gloss: perfective
+          concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+          concept_label: OBTAIN
+      - gloss: associated activity
+        concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+        concept_label: ASSESS
+      - gloss: associated activity
+        concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+        concept_label: DEFEND
+        children:
+        - gloss: generalised
+          concept_uuid: 117e7254-f1c4-4825-a17c-ce30cc81a396
+          concept_label: PROTECT
+    - gloss: associated activity
+      concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+      concept_label: BUILD
+      children:
+      - gloss: generalised
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+        children:
+        - gloss: specific
+          concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+          concept_label: AGRICULTURE
+      - gloss: result
+        concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+        concept_label: BUILDING
+      - gloss: generalised
+        concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+        concept_label: LEAD
+        children:
+        - gloss: generalised
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+          children:
+          - gloss: subject congtrolling person
+            concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+            concept_label: SOUL
+  - gloss: DIRECTIONS
+  - gloss: =CONFUSED
+  - gloss: PLACES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

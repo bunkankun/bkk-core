@@ -1,0 +1,65 @@
+uuid: 968e6321-2147-4fb7-b7e5-e7de01c1bdb0
+type: tax-char
+heads:
+- 采
+pronunciations:
+- reading: cǎi
+  old_chinese: tshɯɯʔ
+  middle_chinese: tsʰəi
+  fanqie: 倉宰切
+  tone: 上
+  guangyun: 事也又取也亦姓風俗通云漢有度遼將軍采皓倉宰切七
+  senses:
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+    children:
+    - gloss: 'object: animate'
+      concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+      concept_label: CATCH
+    - gloss: generalised
+      concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+      concept_label: CHOOSE
+      children:
+      - gloss: conative
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+      - gloss: bureaucratic
+        concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+        concept_label: EMPLOY
+      - gloss: on some scale
+        concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+        concept_label: GATHER
+  - gloss: =彩
+    concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+    concept_label: COLOUR
+    children:
+    - gloss: 'exocentric, expressive: facial expression'
+      concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+      concept_label: FACE
+    - gloss: exocentric
+      concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+      concept_label: CLOTH
+      children:
+      - gloss: specific
+        concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+        concept_label: SILK
+      - gloss: 'abstract: pattern of'
+        concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+        concept_label: PATTERN
+        children:
+        - gloss: generalised
+          concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+          concept_label: ORNAMENT
+          children:
+          - gloss: sign of
+            concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+            concept_label: RANK
+            children:
+            - gloss: duties of
+              concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+              concept_label: OFFICE
+  - gloss: LUCKY
+  - gloss: =睬
+  - gloss: =菜
+source:
+  source_file: taxchar.xml

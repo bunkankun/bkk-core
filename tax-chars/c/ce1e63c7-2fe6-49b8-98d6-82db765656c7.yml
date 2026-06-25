@@ -1,0 +1,50 @@
+uuid: ce1e63c7-2fe6-49b8-98d6-82db765656c7
+type: tax-char
+heads:
+- 殷
+pronunciations:
+- reading: yān
+  old_chinese: qrɯɯn
+  middle_chinese: ʔɯæn
+  fanqie: 烏閑切
+  tone: 平
+  guangyun: 赤黒色也左傳云左輪朱殷
+  senses:
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: RED
+- reading: yīn
+  old_chinese: qɯn
+  middle_chinese: ʔɨn
+  fanqie: 於斤切
+  tone: 平
+  guangyun: 衆也正也大也中也説文从㐆殳作樂之盛稱殷亦姓武王剋紂子孫分散以殷爲氏出陳郡於斤切四
+  senses:
+  - gloss: magnificent
+    concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+    concept_label: MUSIC
+    children:
+    - gloss: feature
+      concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+      concept_label: ABUNDANT
+      children:
+      - gloss: dynamic
+        concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+        concept_label: FLOURISH
+      - gloss: property
+        concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+        concept_label: RICH
+        children:
+        - gloss: generalised:numerical
+          concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+          concept_label: MANY
+  - gloss: =?
+    concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_label: DYNASTIES
+  - concept_label: =慇
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T00:33:46.918+09:00'

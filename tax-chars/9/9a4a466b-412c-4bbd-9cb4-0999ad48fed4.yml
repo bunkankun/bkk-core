@@ -1,0 +1,24 @@
+uuid: 9a4a466b-412c-4bbd-9cb4-0999ad48fed4
+type: tax-char
+heads:
+- 績
+pronunciations:
+- reading: jī
+  old_chinese: skleeɡ
+  middle_chinese: tsek
+  fanqie: 則歷切
+  tone: 入
+  guangyun: 緝也功業也繼也事也成也則歷切四
+  senses:
+  - concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+    concept_label: MERIT
+  - concept_uuid: f56301bb-66fa-4636-bd4e-172946f7c083
+    concept_label: SPIN
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 1df98e98-9970-4587-b7b9-a65ef2f2fbc4
+    concept_label: SKIRT
+  - concept_uuid: a97cd503-c435-4bd0-80a1-2526af4825d2
+    concept_label: SPIT
+source:
+  source_file: taxchar.xml

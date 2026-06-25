@@ -1,0 +1,42 @@
+uuid: 5e51fba7-ac95-4327-91a3-22f720cfc5e7
+type: tax-char
+heads:
+- 片
+pronunciations:
+- reading: piàn
+  old_chinese: pheens
+  middle_chinese: pʰen
+  fanqie: 普麵切
+  tone: 去
+  guangyun: 半也判也析木也普麵切三
+  senses:
+  - concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+    concept_label: PART
+  - concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+    concept_label: PARTIAL
+  - concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+    concept_label: SHORT
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+  - concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+    concept_label: SLICE
+  - concept_uuid: b71e8416-6f79-4966-803a-b66dff5aba7d
+    concept_label: CARD
+  - concept_uuid: c4a1d71b-7cb2-4c05-9250-06fc858c96bb
+    concept_label: BLOSSOM PART
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+    concept_label: ALONE
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 425f4752-7e1b-43ae-a1c1-f9e5808b6cff
+    concept_label: TEA
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,45 @@
+uuid: b7153290-967e-4936-86a0-22b01cb0e329
+type: tax-char
+heads:
+- 惠
+pronunciations:
+- reading: huì
+  old_chinese: ɢʷiids
+  middle_chinese: ɦʷei
+  fanqie: 胡桂切
+  tone: 去
+  guangyun: 仁也亦惠然順也又姓出琅邪周惠王之後梁有惠施
+  senses:
+  - concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+    concept_label: BENEVOLENCE
+    children:
+    - gloss: generalised
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+      children:
+      - gloss: personal feature
+        concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+        concept_label: WISE
+        children:
+        - gloss: 'specific: social'
+          concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+          concept_label: GENEROUS
+        - gloss: 'specific: legal'
+          concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+          concept_label: LENIENT
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 4b3f2784-425e-4c8d-999d-812308d7c2a4
+    concept_label: RULERS OF WEI
+  - concept_uuid: 475d1d1e-8e44-4b57-95c5-712f8b737997
+    concept_label: RULERS OF ZHAO
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-23T01:17:32.947+09:00'

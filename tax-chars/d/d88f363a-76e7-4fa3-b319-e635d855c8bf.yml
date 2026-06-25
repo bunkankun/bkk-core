@@ -1,0 +1,31 @@
+uuid: d88f363a-76e7-4fa3-b319-e635d855c8bf
+type: tax-char
+heads:
+- 下
+pronunciations:
+- reading: xià
+  old_chinese: ɢraaʔ
+  middle_chinese: ɦɯa
+  fanqie: 胡雅切
+  tone: 上
+  guangyun: 賤也去也後也底也降也胡雅切四
+- reading: xià
+  old_chinese: ɢraaʔ
+  middle_chinese: ɦɯa
+  fanqie: 胡雅切
+  tone: 上
+  guangyun: 下古文
+- reading: xià
+  old_chinese: ɢraas
+  middle_chinese: ɦɯa
+  fanqie: 胡駕切
+  tone: 去
+  guangyun: 行下又胡雅切
+  senses:
+  - gloss: '{late colloquial}'
+    concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+    concept_label: EVENT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T03:12:55.694+09:00'

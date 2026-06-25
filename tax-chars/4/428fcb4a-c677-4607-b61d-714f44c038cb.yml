@@ -1,0 +1,34 @@
+uuid: 428fcb4a-c677-4607-b61d-714f44c038cb
+type: tax-char
+heads:
+- 僻
+pronunciations:
+- reading: pì
+  old_chinese: pheɡ
+  middle_chinese: pʰiɛk
+  fanqie: 芳辟切
+  tone: 入
+  guangyun: 誤也邪僻也芳辟切四
+- reading: pì
+  old_chinese: pheeɡ
+  middle_chinese: pʰek
+  fanqie: 普擊切
+  tone: 入
+  guangyun: 邪僻
+  senses:
+  - concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+    concept_label: COUNTRYSIDE
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+    concept_label: AVOID
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+source:
+  source_file: taxchar.xml

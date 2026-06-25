@@ -1,0 +1,30 @@
+uuid: 8ed459c2-de5f-42bf-99d3-7a2249e8bc35
+type: tax-char
+heads:
+- 增
+pronunciations:
+- reading: zēng
+  old_chinese: tsɯɯŋ
+  middle_chinese: tsəŋ
+  fanqie: 作滕切
+  tone: 平
+  guangyun: 益也加也重也又埋幣曰増作滕切十二
+  senses:
+  - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+  - concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+    concept_label: INCREASE
+  - concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+    concept_label: REPEAT
+  - concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+    concept_label: MORE
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+- reading: zèng
+  old_chinese: tsɯɯŋs
+  middle_chinese: tsəŋ
+  fanqie: 子鄧切
+  tone: 去
+  guangyun: 剰也子鄧切一
+source:
+  source_file: taxchar.xml

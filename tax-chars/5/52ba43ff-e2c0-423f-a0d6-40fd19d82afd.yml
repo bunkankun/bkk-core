@@ -1,0 +1,73 @@
+uuid: 52ba43ff-e2c0-423f-a0d6-40fd19d82afd
+type: tax-char
+heads:
+- 挾
+pronunciations:
+- reading: xié
+  old_chinese: ɡeeb
+  middle_chinese: ɦep
+  fanqie: 胡頰切
+  tone: 入
+  guangyun: 懷也持也藏也護也
+  senses:
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+    children:
+    - gloss: secretly
+      concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+      concept_label: CONCEAL
+    - gloss: so as to keep safe
+      concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+      concept_label: SAFEGUARD
+      children:
+      - gloss: generalised
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+    - gloss: 'abstract: as property'
+      concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+      concept_label: POSSESS
+    - gloss: specific
+      concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+      concept_label: WEAR
+    - gloss: onto for support
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: abstract
+        concept_uuid: 18111d76-cd07-4adf-a21d-e4c273df9d48
+        concept_label: DEPEND ON
+    - gloss: intensely
+      concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+      concept_label: SQUEEZE
+    - gloss: object person
+      concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+      concept_label: EMBRACE
+    - gloss: military=浹
+      concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+      concept_label: SURROUND
+    - gloss: result
+      concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+      concept_label: RESTRAIN
+      children:
+      - gloss: generalised
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: military
+          concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+          concept_label: CONQUER
+        - gloss: result
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+    - gloss: abstract
+      concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+      concept_label: CONTAIN
+      children:
+      - gloss: resulting feature
+        concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+        concept_label: MIXED
+      - gloss: in mind
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+source:
+  source_file: taxchar.xml

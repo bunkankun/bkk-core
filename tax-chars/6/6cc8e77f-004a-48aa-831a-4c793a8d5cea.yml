@@ -1,0 +1,45 @@
+uuid: 6cc8e77f-004a-48aa-831a-4c793a8d5cea
+type: tax-char
+heads:
+- 給
+pronunciations:
+- reading: jǐ
+  old_chinese: krub
+  middle_chinese: kɯip
+  fanqie: 居立切
+  tone: 入
+  guangyun: 供給又姓出姓苑
+  senses:
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+    concept_label: SUFFICIENT
+  - concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+    concept_label: SERVE
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 給 gěi
+  children:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+  - concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+    concept_label: FOR
+  - concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+    concept_label: ADDRESS
+  - concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+    concept_label: PASSIVE MARKER
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+source:
+  source_file: taxchar.xml

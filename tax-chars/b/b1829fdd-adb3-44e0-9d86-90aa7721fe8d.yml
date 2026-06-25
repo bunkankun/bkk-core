@@ -1,0 +1,34 @@
+uuid: b1829fdd-adb3-44e0-9d86-90aa7721fe8d
+type: tax-char
+heads:
+- 翁
+pronunciations:
+- reading: wēng
+  old_chinese: qlooŋ
+  middle_chinese: ʔuŋ
+  fanqie: 烏紅切
+  tone: 平
+  guangyun: 老稱也亦鳥頸毛又姓漢書貨殖傳有翁伯販脂而傾縣邑烏紅切八
+  senses:
+  - concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+    concept_label: FATHER
+  - concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+    concept_label: OLD MAN
+  - concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+    concept_label: FEATHER
+  - concept_uuid: 8a57b5bb-2d6f-40a9-ab81-07cfb8330f94
+    concept_label: FATHER-IN-LAW
+  - concept_uuid: 220865a8-acaf-4033-9598-63f2b1cba396
+    concept_label: GRANDFATHER
+  - concept_uuid: ae67b4eb-957a-44ce-8084-568833722d45
+    concept_label: UNCLE
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

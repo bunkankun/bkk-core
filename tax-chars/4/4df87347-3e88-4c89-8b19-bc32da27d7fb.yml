@@ -1,0 +1,58 @@
+uuid: 4df87347-3e88-4c89-8b19-bc32da27d7fb
+type: tax-char
+heads:
+- 手
+pronunciations:
+- reading: shǒu
+  old_chinese: hmljuʔ
+  middle_chinese: ɕiu
+  fanqie: 書九切
+  tone: 上
+  guangyun: 手足
+  senses:
+  - concept_uuid: b8794663-3320-4e0e-ada8-33476189ddf6
+    concept_label: HAND
+    children:
+    - gloss: metonymy
+      concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+      concept_label: HUMAN
+    - gloss: general
+      concept_uuid: ecc07637-d5e4-423c-ba73-fd1fc67d033f
+      concept_label: ARM
+    - gloss: use hand
+      concept_uuid: fb4b8b85-67a4-4cbf-9af2-bed7617e2abf
+      concept_label: PICK UP
+      children:
+      - gloss: stative
+        concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+        concept_label: HOLD
+        children:
+        - gloss: use hand
+          concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+          concept_label: BIND
+        - gloss: kill with one's hands
+          concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+          concept_label: KILL
+    - gloss: in use of hands
+      concept_label: SKILL
+      children:
+      - gloss: exocentric
+        concept_uuid: ee979ffd-7edb-4439-8909-34c3173003b7
+        concept_label: SPECIALIST
+        children:
+        - gloss: handwriting
+          concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+          concept_label: WRITE
+        - gloss: generalised
+          concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+          concept_label: WORKER
+    - gloss: figurative:with one's own hands
+      concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+      concept_label: PERSONALLY
+  - gloss: 'grammaticalised: "upper part"'
+    concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T01:58:32.368+09:00'

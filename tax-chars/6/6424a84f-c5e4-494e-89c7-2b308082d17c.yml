@@ -1,0 +1,82 @@
+uuid: 6424a84f-c5e4-494e-89c7-2b308082d17c
+type: tax-char
+heads:
+- 角
+pronunciations:
+- reading: jue2
+  old_chinese: krooɡ
+  middle_chinese: kɯɔk
+  fanqie: 古岳切
+  tone: 入
+  guangyun: 芒也競也觸也説文曰獸角也又角抵戲漢武故事曰未央庭中設角扺戲角抵者六國時所造也使角力相抵觸亦大角軍器徐廣車服儀制曰角前丗書記所不載或云本岀羌胡以驚中國之馬也又姓後漢有角善叔
+  senses:
+  - concept_uuid: 62a07cea-0c1d-4ff0-9666-6722b2cc78b7
+    concept_label: HORN
+    children:
+    - gloss: product made of
+      concept_uuid: b40fb143-e752-4466-b2f0-73a4d94973c8
+      concept_label: WIND INSTRUMENTS
+      children:
+      - gloss: generalised
+        concept_uuid: f6bdf64f-3f6a-4d18-b375-1983d90178d2
+        concept_label: PIPE
+    - gloss: product made of
+      concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+      concept_label: CUP
+    - gloss: similar
+      concept_uuid: d4417b17-16f8-4c96-8499-f2047dbb8bde
+      concept_label: BEAK
+      children:
+      - gloss: action using
+        concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+        concept_label: KNOCK
+        children:
+        - gloss: analogous action
+          concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+          concept_label: ATTACK
+          children:
+          - gloss: generalised
+            concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+            concept_label: COMPETE
+    - gloss: similar
+      concept_uuid: a434b70f-c079-4aff-a1ca-bcf568aa3cfd
+      concept_label: FOREHEAD
+    - gloss: similar
+      concept_uuid: 3624aada-f603-40a7-a028-e703ade2ea00
+      concept_label: BEARD
+    - gloss: similar
+      concept_uuid: 98faf991-5a11-4015-b0e3-87363c78905c
+      concept_label: ISLAND
+    - gloss: similar
+      concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+      concept_label: CONSTELLATION
+    - gloss: similar(late colloquial)
+      concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+      concept_label: MONEY
+    - gloss: analogous
+      concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+      concept_label: CORNER
+      children:
+      - gloss: analogous
+        concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+        concept_label: SLANT
+      - gloss: generalised
+        concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+        concept_label: PART
+    - gloss: similar, grammaticalised> MEASURE
+      concept_uuid: aecf371d-2cfd-4924-9e21-fee14f8e43e2
+      concept_label: WORD
+- reading: lù
+  old_chinese: ɡ-rooɡ
+  middle_chinese: luk
+  fanqie: 盧谷切
+  tone: 入
+  guangyun: 角里先生漢時四皓名又音覺
+unattributed_senses:
+- concept_label: 角 ｇｕ３《字彙補》古酷切。
+  children:
+  - concept_label: ONOMATOPOEICS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-20T18:10:40.756+09:00'

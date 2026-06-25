@@ -1,0 +1,48 @@
+uuid: 5d2f4636-9540-413b-941e-caf456e6a862
+type: tax-char
+heads:
+- 矢
+pronunciations:
+- reading: nil
+  old_chinese: lʰiʔ
+  middle_chinese: ɕɯi
+  fanqie: 式視切
+  tone: 上
+  guangyun: 又作〈竹／𠂕〉並俗矢
+- reading: shǐ
+  old_chinese: lʰiʔ
+  middle_chinese: ɕɯi
+  fanqie: 式視切
+  tone: 上
+  guangyun: 陳也誓也正也直也説文曰弓弩矢也古者夷牟初作矢式視切四
+  senses:
+  - concept_uuid: dccfac2b-3aa1-4eea-a933-6b1b6854817f
+    concept_label: ARROW
+  - concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+    concept_label: STICK
+  - concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+    concept_label: STRAIGHT
+  - gloss: MATHEMATICAL
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - gloss: EXCREMENT(屎)
+  - concept_uuid: 462e5628-50ee-4e3d-b155-699fbc111c42
+    concept_label: DEFECATE
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 627ef940-0fa4-40c1-95f6-2b853df4e150
+    concept_label: BOW
+  - concept_uuid: d12adeb9-a0e6-4650-96ac-3024c723420a
+    concept_label: OATH
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+source:
+  source_file: taxchar.xml

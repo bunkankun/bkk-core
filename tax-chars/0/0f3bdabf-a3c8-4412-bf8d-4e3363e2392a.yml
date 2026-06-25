@@ -1,0 +1,48 @@
+uuid: 0f3bdabf-a3c8-4412-bf8d-4e3363e2392a
+type: tax-char
+heads:
+- 纓
+pronunciations:
+- reading: yīng
+  old_chinese: qeŋ
+  middle_chinese: ʔiɛŋ
+  fanqie: 於盈切
+  tone: 平
+  guangyun: 冠纓禮記玉藻曰玄冠朱組纓
+  senses:
+  - concept_uuid: 2c1b9e8c-9b60-47a2-bd66-ab3e56cf5c0f
+    concept_label: RIBBON
+    children:
+    - gloss: specific
+      concept_uuid: 2d174c46-a88e-4999-b48b-73e2bc3fa0fe
+      concept_label: BELT
+      children:
+      - gloss: person wearing
+        concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+        concept_label: NOBLE
+      - gloss: generalised
+        concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+        concept_label: ORNAMENT
+        children:
+        - gloss: part of
+          concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+          concept_label: FEATHER
+        - gloss: part of
+          concept_uuid: 86575c27-928a-420b-bd2a-2cbad60b1dfc
+          concept_label: LEAF
+      - gloss: =嬰 associated action
+        concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+        concept_label: WRAP
+    - gloss: generalised
+      concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+      concept_label: ROPE
+      children:
+      - gloss: action
+        concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+        concept_label: TIE UP
+        children:
+        - gloss: 'metaphorical: associate'
+          concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+          concept_label: THINK
+source:
+  source_file: taxchar.xml

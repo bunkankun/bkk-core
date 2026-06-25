@@ -1,0 +1,33 @@
+uuid: b88cc4dd-64c3-4d3d-bc45-83bd459cb3bb
+type: tax-char
+heads:
+- 鼻
+pronunciations:
+- reading: bí
+  old_chinese: bids
+  middle_chinese: bi
+  fanqie: 毗至切
+  tone: 去
+  guangyun: 説文曰引气自卑也毗至切十
+  senses:
+  - concept_uuid: 7f924e8a-0d73-43a9-9fb5-8c2301c2dc67
+    concept_label: NOSE
+  - concept_uuid: 9cbcbc3d-997a-46ba-8cc7-a072e4c6ff18
+    concept_label: SPOUT
+  - gloss: PROTRUSION
+  - concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: HOLE
+  - concept_uuid: 9bf7a297-3656-483f-a477-7b618b474da6
+    concept_label: SMELL
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+  - concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+    concept_label: STEM
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

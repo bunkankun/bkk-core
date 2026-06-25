@@ -1,0 +1,86 @@
+uuid: c0d69a07-73e8-4516-abe1-5c05f0bd3056
+type: tax-char
+heads:
+- 宿
+pronunciations:
+- reading: sù
+  old_chinese: suɡ
+  middle_chinese: siuk
+  fanqie: 息逐切
+  tone: 入
+  guangyun: 素也大也舎也説文作㝛止也左傳曰一宿爲舎再宿爲信又姓風俗通云漢有鴈門太守宿詳又虜複姓後魏未有賊帥勤宿明達又虜三字姓後魏書宿六斤氏後改爲宿氏又息救切
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+    children:
+    - gloss: typical part
+      concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+      concept_label: SLEEP
+      children:
+      - gloss: place to sleep
+        concept_uuid: b8d6fd7f-a061-4416-9e25-5d2308c0678f
+        concept_label: HOTEL
+      - gloss: sù
+        concept_uuid: b8d6fd7f-a061-4416-9e25-5d2308c0678f
+        concept_label: HOTEL
+      - gloss: time of
+        concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+        concept_label: NIGHT
+        children:
+        - gloss: night-watch
+          concept_uuid: 3fecb448-28bb-47fa-8d0a-6c18829c09a0
+          concept_label: GUARD
+    - gloss: before the night
+      concept_uuid: a1f8ce17-dcf1-4f20-a8da-8f946b2accad
+      concept_label: YESTERDAY
+      children:
+      - gloss: general
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+    - gloss: generalised
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: 'exocentric: sitting bird'
+        concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+        concept_label: BIRD
+      - gloss: feature
+        concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+        concept_label: ENDURING
+        children:
+        - gloss: causative
+          concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+          concept_label: SAFEGUARD
+        - gloss: feature
+          concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+          concept_label: PEACEFUL
+  - gloss: grammaticalised
+    concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+    concept_label: THEREUPON
+  - concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+    concept_label: ARISTOCRATS OF LU
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+- reading: xiù
+  old_chinese: sus
+  middle_chinese: siu
+  fanqie: 息救切
+  tone: 去
+  guangyun: 星宿亦宿留又音夙
+  senses:
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+    children:
+    - gloss: part of
+      concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+      concept_label: STAR
+unattributed_senses:
+- concept_label: 宿 xiǔ 《廣韻》息逐切，入屋，心。
+  children:
+  - gloss: of nights spent in hotels etc
+    concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:19:24.785+09:00'

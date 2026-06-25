@@ -1,0 +1,58 @@
+uuid: c8d0751e-97bf-4642-b4fa-2396630e0df5
+type: tax-char
+heads:
+- 云
+pronunciations:
+- reading: yún
+  old_chinese: ɢun
+  middle_chinese: ɦiun
+  fanqie: 王分切
+  tone: 平
+  guangyun: 辝也言也説文古文雲字亦姓出自祝融之後
+  senses:
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+    children:
+    - gloss: specifically
+      concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+      concept_label: PRAISE
+    - gloss: 'grammaticalised: quotation “saying” finished'
+      concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+      concept_label: FINAL PARTICLES
+  - gloss: grammaticalised “suppose one says”
+    concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+      concept_label: COPULA
+      children:
+      - gloss: approximate
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+        children:
+        - gloss: resemble oneself
+          concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+          concept_label: EXIST
+      - gloss: specifically
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+        children:
+        - gloss: so as to have
+          concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+          concept_label: OBTAIN
+          children:
+          - gloss: abstract
+            concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+            concept_label: REACH
+          - gloss: resultative
+            concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+            concept_label: HAVE
+unattributed_senses:
+- gloss: =雲
+  concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+  concept_label: CLOUD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T17:16:48.194+09:00'

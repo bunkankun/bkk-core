@@ -1,0 +1,43 @@
+uuid: ce157ea3-5439-4a6e-ba12-557b311f4586
+type: tax-char
+heads:
+- 吹
+pronunciations:
+- reading: chuì
+  old_chinese: khjol
+  middle_chinese: tɕʰʷiɛ
+  fanqie: 尺偽切
+  tone: 去
+  guangyun: 古文
+- reading: chuī
+  old_chinese: khjol
+  middle_chinese: tɕʰʷiɛ
+  fanqie: 昌垂切
+  tone: 平
+  guangyun: 吹嘘昌垂切又尺僞切三
+  senses:
+  - concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+    concept_label: BLOW
+    children:
+    - gloss: blow on so as to set on fire
+      concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+      concept_label: BURN
+    - gloss: of animals, blow air in and out
+      concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+      concept_label: BREATHE
+      children:
+      - gloss: 'generalised: physcially'
+        concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+        concept_label: PUSH
+        children:
+        - gloss: cooperatively
+          concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+          concept_label: HELP
+        - gloss: abstract
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+    - gloss: (colloquial) figurative
+      concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+      concept_label: FAIL
+source:
+  source_file: taxchar.xml

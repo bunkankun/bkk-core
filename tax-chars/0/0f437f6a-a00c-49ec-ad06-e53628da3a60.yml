@@ -1,0 +1,56 @@
+uuid: 0f437f6a-a00c-49ec-ad06-e53628da3a60
+type: tax-char
+heads:
+- 渾
+pronunciations:
+- reading: hún
+  old_chinese: ɡuun
+  middle_chinese: ɦuon
+  fanqie: 戶昆切
+  tone: 平
+  guangyun: 渾濁益部𦒿舊傳曰漢武時洛下閎明曉天文於地中轉渾天定時節亦姓左傳鄭大夫渾罕又胡本切
+  senses:
+  - concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+    concept_label: WHOLE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+    concept_label: DIRTY
+  - concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: MIXED
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+    concept_label: SIMPLE
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+    concept_label: NEARLY
+  - concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+    concept_label: STILL
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: 7c576f96-3e2b-48c1-b4b8-7d97505d587e
+    concept_label: COSMOLOGY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 混
+- reading: hùn
+  old_chinese: ɡuunʔ
+  middle_chinese: ɦuon
+  fanqie: 胡本切
+  tone: 上
+  guangyun: 渾元又戸昆切
+  senses:
+  - concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+    concept_label: DIRTY
+  - concept_uuid: 315ce152-3c9e-4648-87aa-dde4fe97c199
+    concept_label: JOKE
+source:
+  source_file: taxchar.xml

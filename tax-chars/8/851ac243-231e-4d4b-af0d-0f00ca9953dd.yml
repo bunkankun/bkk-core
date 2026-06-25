@@ -1,0 +1,25 @@
+uuid: 851ac243-231e-4d4b-af0d-0f00ca9953dd
+type: tax-char
+heads:
+- 梧
+pronunciations:
+- reading: wú
+  old_chinese: ŋaa
+  middle_chinese: ŋuo
+  fanqie: 五乎切
+  tone: 平
+  guangyun: 梧桐木名又姓
+  senses:
+  - gloss: TREE, KINDS
+  - concept_uuid: 56391328-912b-4408-91c8-ed8d3f602e6c
+    concept_label: ROOF
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

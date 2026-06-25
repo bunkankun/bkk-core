@@ -1,0 +1,71 @@
+uuid: 62789416-7344-4365-a6db-ce2d34504314
+type: tax-char
+heads:
+- 則
+pronunciations:
+- reading: zé
+  old_chinese: skɯɯɡ
+  middle_chinese: tsək
+  fanqie: 子德切
+  tone: 入
+  guangyun: 法則子德切三
+- reading: zé
+  old_chinese: ʔsɯɯɡ
+  middle_chinese: tsək
+  fanqie: 子德切
+  tone: 入
+  guangyun: 則籀文
+- reading: zé
+  old_chinese: ʔsɯɯɡ
+  middle_chinese: tsək
+  fanqie: 子德切
+  tone: 入
+  guangyun: 則古文
+  senses:
+  - gloss: abstract
+    concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+    children:
+    - gloss: act according to
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: by identification
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+        children:
+        - gloss: 'object: what one acts in accordance with'
+          concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+          concept_label: MODEL
+          children:
+          - gloss: concrete object that illustrates
+            concept_uuid: 8484f979-154f-4ed2-8d5b-d3dc925e91a2
+            concept_label: EXAMPLE
+      - gloss: grammaticalised:conforming logically to
+        concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+        concept_label: THEN
+        children:
+        - gloss: when it comes to N, then
+          concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+          concept_label: TOPIC MARKER
+          children:
+          - gloss: contrastive topic
+            concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+            concept_label: BUT
+            children:
+            - gloss: focussing on new object
+              concept_uuid: ae246003-0d83-45db-acf6-014dd831307c
+              concept_label: OBJECT
+        - gloss: in a new sentence
+          concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+          concept_label: THEREFORE
+    - gloss: abstract
+      concept_uuid: 2b1d35b0-f651-44ba-a4a2-9b654592a0a8
+      concept_label: LAW OF NATURE
+  - gloss: in proper names
+    concept_uuid: 0aa44f4e-1b75-4f3b-84b4-6909c4e3b43a
+    concept_label: RULERS OF QIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-15T22:24:31.58+09:00'

@@ -1,0 +1,40 @@
+uuid: 252aebd0-dab0-4af8-bdb2-302a7099e7b9
+type: tax-char
+heads:
+- 土
+unattributed_senses:
+- gloss: tǔ 土
+  concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+  concept_label: SOIL
+  children:
+  - gloss: area of soil> tǔ 土
+    concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+    children:
+    - gloss: agricultural territory> tǔ 土
+      concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+      concept_label: FIELD
+    - gloss: territory as that of a polity> tǔ 土
+      concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+      concept_label: STATE
+      children:
+      - gloss: spirit of the territory, deity of the land> tǔ 土
+        concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+        concept_label: DEITY
+    - gloss: territory one comes from
+      concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+      concept_label: HOME
+      children:
+      - gloss: 'late medieval: characteristic of one’s local origins> tǔ 土 RUSTIC'
+  - gloss: soil suitable for pottery> tǔ 土
+    concept_uuid: dae1d007-9c13-4620-8ee4-e3ddbf77ef14
+    concept_label: CLAY
+    children:
+    - gloss: vessel made of clay> tǔ 土
+      concept_uuid: 07f162ec-bb01-4fe1-846b-ad21059b44ed
+      concept_label: EARTHENWARE
+- gloss: '~杜: tǔ 土'
+  concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+  concept_label: ROOT
+source:
+  source_file: taxchar.xml

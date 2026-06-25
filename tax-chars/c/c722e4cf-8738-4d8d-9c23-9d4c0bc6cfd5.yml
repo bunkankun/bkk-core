@@ -1,0 +1,35 @@
+uuid: c722e4cf-8738-4d8d-9c23-9d4c0bc6cfd5
+type: tax-char
+heads:
+- 仲
+pronunciations:
+- reading: zhòng
+  old_chinese: ɡrluŋs
+  middle_chinese: ɖiuŋ
+  fanqie: 直衆切
+  tone: 去
+  guangyun: 中也爾雅曰中籥謂之仲亦姓風俗通云凡氏於字伯仲叔季是也湯左相有仲虺又漢複姓四氏左傳衛大夫仲叔圉魯有仲顔莊叔宋有司馬仲行寅後漢有山陽仲長統直衆切三
+  senses:
+  - gloss: next-eldest
+    concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+    concept_label: BROTHER
+    children:
+    - gloss: abstract
+      concept_uuid: 635912f0-e3af-4e12-90d3-243df2a9622f
+      concept_label: NEXT
+      children:
+      - gloss: abstract
+        concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+        concept_label: MIDDLE
+  - concept_uuid: edb21bf5-7c56-4d54-b5bf-8303f43de2b1
+    concept_label: ARISTOCRATS OF QI
+  - concept_uuid: 63b72ebc-0e46-4945-afac-530e42814b6d
+    concept_label: ARISTOCRATS OF ZHOU
+  - concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+  - concept_uuid: 7d4f7d98-8124-41fb-9cc8-b4cf2b478c33
+    concept_label: MALES OF LU
+  - concept_uuid: 1c0f8910-9039-4c9f-8302-a20290254582
+    concept_label: MALES OF ZHOU
+source:
+  source_file: taxchar.xml

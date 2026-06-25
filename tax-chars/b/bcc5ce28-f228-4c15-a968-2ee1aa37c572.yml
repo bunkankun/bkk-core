@@ -1,0 +1,33 @@
+uuid: bcc5ce28-f228-4c15-a968-2ee1aa37c572
+type: tax-char
+heads:
+- 灰
+pronunciations:
+- reading: huī
+  old_chinese: qhʷɯɯ
+  middle_chinese: huoi
+  fanqie: 呼恢切
+  tone: 平
+  guangyun: 説文曰死火也淮南子云女媧積蘆灰而止淫水呼恢切六
+  senses:
+  - concept_uuid: a4082d41-8d5a-49e4-8fae-a2728c892bec
+    concept_label: ASH
+  - concept_uuid: 33c110e0-d2f6-41f0-be53-a74361ee3f69
+    concept_label: DUST
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: c6ea8871-fe2b-4015-98f8-23b5952ea2f5
+    concept_label: GREY
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+    concept_label: PAINT
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - gloss: LIME
+source:
+  source_file: taxchar.xml

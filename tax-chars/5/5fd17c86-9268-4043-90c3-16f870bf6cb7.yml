@@ -1,0 +1,85 @@
+uuid: 5fd17c86-9268-4043-90c3-16f870bf6cb7
+type: tax-char
+heads:
+- 披
+pronunciations:
+- reading: pī
+  old_chinese: phral
+  middle_chinese: pʰɯiɛ
+  fanqie: 敷羈切
+  tone: 平
+  guangyun: 又作翍開也分也散也
+  senses:
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+    children:
+    - gloss: generalised
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+    - gloss: result
+      concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+      concept_label: SCATTER
+    - gloss: splitable object
+      concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+      concept_label: OPEN
+      children:
+      - gloss: generalised
+        concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+        concept_label: BEND
+        children:
+        - gloss: to cover body
+          concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+          concept_label: WEAR
+          children:
+          - gloss: resultative
+            concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+            concept_label: COVER
+            children:
+            - gloss: generalised
+              concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+              concept_label: APPROACH
+            - gloss: 'architecture: what is covered'
+              concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+              concept_label: ROOM
+      - gloss: result
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: to many
+          concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+          concept_label: PUBLISH
+      - gloss: object mouth
+        concept_uuid: 3f23b956-1cc9-4a96-8dc3-b14f0275896f
+        concept_label: GESTURE
+    - gloss: intellectually
+      concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+      concept_label: DISTINGUISH
+      children:
+      - gloss: conative
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: visually
+          concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+          concept_label: LOOK
+          children:
+          - gloss: sustained
+            concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+            concept_label: STUDY
+  - gloss: =批
+    concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+    concept_label: STRIKE
+  - gloss: SURNAME
+- reading: pǐ
+  old_chinese: phralʔ
+  middle_chinese: pʰɯiɛ
+  fanqie: 匹靡切
+  tone: 上
+  guangyun: 開也又偏羈切
+unattributed_senses:
+- gloss: 披 bì
+  children:
+  - concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+    concept_label: COFFIN
+source:
+  source_file: taxchar.xml

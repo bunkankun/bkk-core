@@ -1,0 +1,52 @@
+uuid: 64065e47-930d-4c2f-9a64-3a81e564b5b0
+type: tax-char
+heads:
+- 石
+pronunciations:
+- reading: shí
+  old_chinese: djaɡ
+  middle_chinese: dʑiɛk
+  fanqie: 常隻切
+  tone: 入
+  guangyun: 釋名曰山體爲石亦州名秦伐趙取離石周因邑以名州又姓左傳有衞大夫石碏又漢複姓二氏孔子弟子有石作蜀何氏姓苑有石牛氏常隻切七
+  senses:
+  - gloss: small
+    concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+    concept_label: STONE
+    children:
+    - concept_uuid: 31a8226c-d5cc-439f-bcfd-ba9e070309dd
+      concept_label: NEEDLE
+      children:
+      - gloss: action using
+        concept_uuid: 62982456-4541-4be1-8477-44184dbe8688
+        concept_label: PRICK
+      - gloss: 'generalised: medical instruments'
+        concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+        concept_label: TOOL
+    - gloss: salient quality of
+      concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+      concept_label: HARD
+    - gloss: salient quality of
+      concept_uuid: fb7a4e64-37f1-412d-9625-b5c75aa7eb8f
+      concept_label: STERILE
+    - concept_uuid: 7aa759ee-1c1d-45b2-a333-98c8588fc388
+      concept_label: STONE MUSICAL INSTRUMENTS
+    - gloss: also read dàn
+      concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+      concept_label: VOLUME MEASURES
+  - gloss: large
+    concept_uuid: 26115fe2-bca5-4a8e-a131-9a1a15d18554
+    concept_label: ROCK
+    children:
+    - gloss: inscribed
+      concept_label: STELE
+    - gloss: multifarious and large
+      concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+      concept_label: MOUNTAIN
+  - gloss: read dàn, grammaticalised
+    concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T01:31:01.885+09:00'

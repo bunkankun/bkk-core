@@ -1,0 +1,47 @@
+uuid: a66303a9-33af-4b8b-8e35-8f29179637b2
+type: tax-char
+heads:
+- 久
+pronunciations:
+- reading: jiǔ
+  old_chinese: klɯʔ
+  middle_chinese: kiu
+  fanqie: 舉有切
+  tone: 上
+  guangyun: 長久也舉有切七
+  senses:
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+    children:
+    - gloss: action
+      concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+      concept_label: PERSIST
+    - gloss: absolute
+      concept_uuid: 0e3bab62-f545-4014-a620-c848fe3c1a13
+      concept_label: ETERNAL
+    - gloss: lasting from olden times
+      concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+      concept_label: OLD
+      children:
+      - gloss: in olden times
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+  - gloss: action, general
+    concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+    children:
+    - gloss: in same place
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: in expectation
+        concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+        concept_label: WAIT
+        children:
+        - gloss: having been waited for
+          concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+          concept_label: LATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T19:15:50.494+09:00'

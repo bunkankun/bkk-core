@@ -1,0 +1,30 @@
+uuid: be7fff45-afd3-41ff-bf39-686bdaf9bd0e
+type: tax-char
+heads:
+- 貢
+pronunciations:
+- reading: gòng
+  old_chinese: kooŋs
+  middle_chinese: kuŋ
+  fanqie: 古送切
+  tone: 去
+  guangyun: 獻也薦也又姓漢有琅邪貢禹古送切十
+  senses:
+  - concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+    concept_label: GIFT
+  - concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+    concept_label: TRIBUTE
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

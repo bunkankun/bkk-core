@@ -1,0 +1,70 @@
+uuid: 49f77d7e-2101-4ca2-87cc-bda15c7b71e4
+type: tax-char
+heads:
+- 者
+pronunciations:
+- reading: zhě
+  old_chinese: kljaʔ
+  middle_chinese: tɕia
+  fanqie: 章也切
+  tone: 上
+  guangyun: 語助章也切三
+  senses:
+  - gloss: pronominal head modified by preceding verbal or nominal predicate
+    concept_uuid: c1654743-3e55-4188-816b-511da251682f
+    concept_label: PRONOUN
+    children:
+    - gloss: head pronoun
+      concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+      concept_label: HUMAN
+    - gloss: head pronoun, inanimate
+      concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+      concept_label: THING
+      children:
+      - gloss: head pronoun, factual
+        concept_uuid: 20b08188-1ce2-49a4-9b9a-ec563e00de4e
+        concept_label: FACT
+        children:
+        - gloss: head pronoun
+          concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+          concept_label: FEATURE
+    - gloss: marker of predicative nominal
+      concept_uuid: bdd6fe0b-a401-4d0e-a2e4-507199049e9a
+      concept_label: POSTNOMINAL PARTICLE
+      children:
+      - gloss: metalinguistic
+        concept_uuid: 9947a411-73ef-4a80-a6e7-da950cf31a4d
+        concept_label: QUOTATION MARKER
+    - gloss: grammaticalised
+      concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+      concept_label: FINAL PARTICLES
+      children:
+      - gloss: post-sentential, temporal
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+        children:
+        - gloss: marker of postposed modification
+          concept_uuid: fb689ff5-7e05-4a06-92f0-8c7f6908885c
+          concept_label: RELATIVE CLAUSE MARKER
+        - gloss: post-sentential, argumentative
+          concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+          concept_label: BECAUSE
+          children:
+          - gloss: conditional
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+            children:
+            - gloss: negative
+              concept_uuid: 29d7a1b8-ff20-42eb-b987-5a20ae2ae348
+              concept_label: IF NOT
+      - gloss: grammaticalised> INTERROGATIVE PARTICLES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =這
+    concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+    concept_label: THIS
+  - gloss: '=著/着 JIE HUIQUAN 2005: 1115'
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-12T19:10:51.591+09:00'

@@ -1,0 +1,33 @@
+uuid: 54740c52-b3f9-44ed-ba73-79bb0c493686
+type: tax-char
+heads:
+- 瞿
+pronunciations:
+- reading: qú
+  old_chinese: ɡʷa
+  middle_chinese: ɡio
+  fanqie: 其俱切
+  tone: 平
+  guangyun: 鷹隼視也又姓王僧孺百家譜曰裴桃兒取蒼梧瞿寶女又有瞿曇氏西國姓又九遇切
+  senses:
+  - concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+    concept_label: LANCE
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: jù
+  old_chinese: kʷas
+  middle_chinese: kio
+  fanqie: 九遇切
+  tone: 去
+  guangyun: 視皃又音衢
+  senses:
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+    concept_label: GROW
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,74 @@
+uuid: 52d90e52-8be2-4012-b0de-0c2960033781
+type: tax-char
+heads:
+- 且
+pronunciations:
+- reading: jū
+  old_chinese: ska
+  middle_chinese: tsiɔ
+  fanqie: 子魚切
+  tone: 平
+  guangyun: 語辭也説文薦也子魚切又七也切四
+- reading: qiě
+  old_chinese: shjaaʔ
+  middle_chinese: tsʰia
+  fanqie: 七也切
+  tone: 上
+  guangyun: 語辝七也切又子余切一
+  senses:
+  - gloss: qiě
+    concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+    concept_label: MOREOVER
+    children:
+    - gloss: qiě
+      concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+      concept_label: AND
+      children:
+      - gloss: qiě
+        concept_uuid: 443583c8-91ba-4fd9-bc0a-20ac4eb76fcb
+        concept_label: MEANWHILE
+        children:
+        - gloss: at that point of time
+          concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+          concept_label: THEN
+          children:
+          - gloss: without delay
+            concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+            concept_label: IMMEDIATELY
+            children:
+            - gloss: after the present
+              concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+              concept_label: FUTURE
+              children:
+              - gloss: for immediate future
+                concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+                concept_label: IMPERATIVE MARKER
+            - gloss: deliberately
+              concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+              concept_label: INTEND
+              children:
+              - gloss: 'deontic:'
+                concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+                concept_label: SHOULD
+      - gloss: in addition
+        concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+        concept_label: ALSO
+        children:
+        - gloss: as another possibility
+          concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+          concept_label: OR
+        - gloss: contrary to expectations
+          concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+          concept_label: NONETHELESS
+          children:
+          - gloss: against expectations
+            concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+            concept_label: EVEN
+            children:
+            - gloss: in spite of everything
+              concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+              concept_label: UNRESTRAINED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-30T17:31:52.159+09:00'

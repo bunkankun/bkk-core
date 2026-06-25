@@ -1,0 +1,22 @@
+uuid: 55ddfaed-14a9-405b-92c2-87ed31848dfc
+type: tax-char
+heads:
+- 砂
+pronunciations:
+- reading: shā
+  old_chinese: sraal
+  middle_chinese: ʃɯa
+  fanqie: 所加切
+  tone: 平
+  guangyun: 俗沙
+  senses:
+  - concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+    concept_label: STONE
+  - concept_uuid: 2b16854a-211e-4b92-916f-b9f202ae98cf
+    concept_label: SAND
+  - concept_uuid: 3f1f766a-a090-4b07-84fa-bb496121b57d
+    concept_label: POWDER
+  - concept_uuid: e06baca1-00f9-4540-bdad-3806453953f0
+    concept_label: CINNABAR
+source:
+  source_file: taxchar.xml

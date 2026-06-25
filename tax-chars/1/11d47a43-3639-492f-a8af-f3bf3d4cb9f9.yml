@@ -1,0 +1,35 @@
+uuid: 11d47a43-3639-492f-a8af-f3bf3d4cb9f9
+type: tax-char
+heads:
+- 寅
+pronunciations:
+- reading: yí
+  old_chinese: lil
+  middle_chinese: ji
+  fanqie: 以脂切
+  tone: 平
+  guangyun: 敬也亦辰名爾雅云太歳在寅曰攝提格又引人切
+- reading: yín
+  old_chinese: lin
+  middle_chinese: jin
+  fanqie: 翼眞切
+  tone: 平
+  guangyun: 辰名説文作寅翼眞切又以之切六
+  senses:
+  - concept_uuid: e7afe64f-af0d-4862-94d6-7afd165036a7
+    concept_label: EARTH BRANCH
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+    concept_label: ADVANCE
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 夤
+  - gloss: = 殥
+  - gloss: = 濥
+source:
+  source_file: taxchar.xml

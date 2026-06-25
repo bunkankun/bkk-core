@@ -1,0 +1,32 @@
+uuid: 2166d1ad-4917-4585-9156-cf8776426a72
+type: tax-char
+heads:
+- 駢
+pronunciations:
+- reading: pián
+  old_chinese: been
+  middle_chinese: ben
+  fanqie: 部田切
+  tone: 平
+  guangyun: 并駕二馬
+  senses:
+  - concept_uuid: 39b6fd36-ea59-4983-80cb-fa2e9b674e9d
+    concept_label: CARRIAGE HORSE
+  - concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+    concept_label: PROSE
+  - concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+    concept_label: TWO
+  - concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+    concept_label: JUXTAPOSE
+  - concept_uuid: e6ab76d9-658c-4fa2-a5c5-4247e053f6da
+    concept_label: EVEN-NUMBER
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

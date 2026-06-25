@@ -1,0 +1,32 @@
+uuid: a7232892-ef18-41ed-a085-e29ac82b753d
+type: tax-char
+heads:
+- 腰
+pronunciations:
+- reading: yāo
+  old_chinese: qew
+  middle_chinese: ʔiɛu
+  fanqie: 於霄切
+  tone: 平
+  guangyun: 見要注亦作𦝫
+  senses:
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+  - concept_uuid: 8422d721-632c-4a62-94be-9b198bb373a3
+    concept_label: WAIST
+  - concept_uuid: 7100d5d0-3417-4f61-803f-5b2d2f104730
+    concept_label: KIDNEY
+  - concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+    concept_label: MIDDLE
+  - concept_uuid: 2d174c46-a88e-4999-b48b-73e2bc3fa0fe
+    concept_label: BELT
+  - concept_uuid: 989f1ac1-51fd-4f3e-b089-60135f58db94
+    concept_label: POCKET
+  - concept_uuid: af60fc4d-91eb-4de4-9b85-e8c25f9cc839
+    concept_label: GARMENT PARTS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

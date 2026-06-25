@@ -1,0 +1,28 @@
+uuid: 320d25ff-9931-4935-9425-1868fb92e436
+type: tax-char
+heads:
+- 耀
+pronunciations:
+- reading: yào
+  old_chinese: lewɡs
+  middle_chinese: jiɛu
+  fanqie: 弋照切
+  tone: 去
+  guangyun: 光耀
+  senses:
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+    concept_label: NOBLE
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 5d6cc99a-78c3-4708-b63f-4001d96ad170
+type: tax-char
+heads:
+- 價
+pronunciations:
+- reading: jià
+  old_chinese: kraas
+  middle_chinese: kɯa
+  fanqie: 古訝切
+  tone: 去
+  guangyun: 價數
+  senses:
+  - concept_uuid: adf91939-0b56-4d2e-a2c9-6780abbde6e8
+    concept_label: COST
+  - concept_uuid: cdf2a1cd-79e2-42eb-8f27-7cc2e19c2e61
+    concept_label: PRICE
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+    concept_label: FAMOUS
+  - concept_uuid: 86d7f1b7-6549-485d-a91d-afff19e91281
+    concept_label: CHEMISTRY
+source:
+  source_file: taxchar.xml

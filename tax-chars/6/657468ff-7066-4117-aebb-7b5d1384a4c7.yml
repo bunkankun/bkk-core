@@ -1,0 +1,70 @@
+uuid: 657468ff-7066-4117-aebb-7b5d1384a4c7
+type: tax-char
+heads:
+- 歸
+pronunciations:
+- reading: guī
+  old_chinese: klul
+  middle_chinese: kʷɨi
+  fanqie: 舉韋切
+  tone: 平
+  guangyun: 還也公羊傳曰婦人謂嫁曰歸亦州名古子國武德初割夔州之秭歸巴東二縣置州取歸國爲名也舉韋切三
+- reading: guī
+  old_chinese: klulʔktul
+  middle_chinese: kʷɨi
+  fanqie: 舉韋切
+  tone: 平
+  guangyun: 歸籀文
+  senses:
+  - concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+    concept_label: RETURN
+    children:
+    - gloss: stay where one belongs
+      concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+      children:
+      - gloss: whereto one returns, residence
+        concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+        concept_label: BUILDING
+    - gloss: causative:cause things to return to where they come from
+      concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+      concept_label: GIVE BACK
+      children:
+      - gloss: generalised:give to appropriate recipient
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+    - gloss: leave from where one has gone
+      concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+      concept_label: WITHDRAW
+    - gloss: in support of a cause
+      concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+      concept_label: RALLY
+      children:
+      - gloss: action-wise
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: what one rallies to
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+      - gloss: go to, as one should
+        concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+        children:
+        - gloss: 'finally: end up where one belongs'
+          concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+          concept_label: END
+        - gloss: causative, logically
+          concept_uuid: 4977f342-0d3f-4880-a636-0866767917e5
+          concept_label: CLASSIFY
+          children:
+          - gloss: stative:be classified as pertaining to
+            concept_uuid: dc9ec6cd-c3dd-4ec0-9ec6-cdc3dd8ec0d0
+            concept_label: BELONG
+        - gloss: husband’s home
+          concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+          concept_label: MARRY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T00:56:34.392+09:00'

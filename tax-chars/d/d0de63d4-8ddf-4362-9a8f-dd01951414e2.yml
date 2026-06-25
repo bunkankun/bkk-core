@@ -1,0 +1,45 @@
+uuid: d0de63d4-8ddf-4362-9a8f-dd01951414e2
+type: tax-char
+heads:
+- 抗
+pronunciations:
+- reading: kàng
+  old_chinese: khaaŋs
+  middle_chinese: kʰɑŋ
+  fanqie: 苦浪切
+  tone: 去
+  guangyun: 以手抗舉也縣也振也苦浪切十二
+  senses:
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+    concept_label: NOBLE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+    concept_label: RESCUE
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+    concept_label: FRIGHTEN
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+    concept_label: EXTREME
+  - concept_uuid: 1362b3c0-6b31-4264-9ac3-a07552b41734
+    concept_label: FRANK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 扛
+- reading: háng
+  old_chinese: ɡaaŋ
+  middle_chinese: ɦɑŋ
+  fanqie: 胡郎切
+  tone: 平
+  guangyun: 舉也又苦浪切
+source:
+  source_file: taxchar.xml

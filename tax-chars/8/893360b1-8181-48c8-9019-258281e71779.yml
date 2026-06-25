@@ -1,0 +1,51 @@
+uuid: 893360b1-8181-48c8-9019-258281e71779
+type: tax-char
+heads:
+- 饒
+pronunciations:
+- reading: rào
+  old_chinese: nɢjews
+  middle_chinese: ȵiɛu
+  fanqie: 人要切
+  tone: 去
+  guangyun: 益饒人要切又人招切二
+- reading: ráo
+  old_chinese: nɢjew
+  middle_chinese: ȵiɛu
+  fanqie: 如招切
+  tone: 平
+  guangyun: 益也飽也餘也又姓風俗通云漢有饒斌爲漁陽太守如招切六
+  senses:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: 4ba683a6-974f-4812-a94a-6b5ae8818e19
+    concept_label: FERTILE
+  - concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+    concept_label: FORGIVE
+  - concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+    concept_label: RICH
+  - gloss: SUPLUS
+  - concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+    concept_label: FULL
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: INTENSE
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+    concept_label: ADD
+  - concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+    concept_label: LEISURE
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+    concept_label: EVEN IF
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

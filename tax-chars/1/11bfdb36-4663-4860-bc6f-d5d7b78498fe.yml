@@ -1,0 +1,44 @@
+uuid: 11bfdb36-4663-4860-bc6f-d5d7b78498fe
+type: tax-char
+heads:
+- 包
+pronunciations:
+- reading: bāo
+  old_chinese: pruu
+  middle_chinese: pɯau
+  fanqie: 布交切
+  tone: 平
+  guangyun: 包裹亦姓楚大夫申包胥之後後漢有大鴻臚包咸布交切五
+  senses:
+  - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+    concept_label: ANNEX
+  - concept_uuid: 6203b39e-77a2-434b-bf90-0a7ed4476aae
+    concept_label: BAG
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: 95acda11-f087-4154-bf7d-385a4a509c40
+    concept_label: SUMMARISE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 19d0b30c-d01f-4ee9-b5ff-34080bdf5890
+    concept_label: RESPONSIBILITY
+  - concept_uuid: 1faaec3a-083c-41f2-8115-ef29c607dc48
+    concept_label: GUARANTEE
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+  - concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+    concept_label: FRUIT
+  - concept_uuid: c0148b85-2506-4691-8908-29a12bf868b7
+    concept_label: ULCER
+  - concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+    concept_label: GROW
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,51 @@
+uuid: 341125d5-e993-467a-b2e3-80454888ce94
+type: tax-char
+heads:
+- 兒
+pronunciations:
+- reading: ér
+  old_chinese: ŋje
+  middle_chinese: ȵiɛ
+  fanqie: 汝移切
+  tone: 平
+  guangyun: 同兒
+- reading: ér
+  old_chinese: ŋje
+  middle_chinese: ȵiɛ
+  fanqie: 汝移切
+  tone: 平
+  guangyun: 嬰兒又虜姓官氏志云賀兒氏後改爲兒氏汝移切四
+  senses:
+  - concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+  - concept_uuid: 200bb046-69e4-4795-80ad-ab31b567564e
+    concept_label: MAN
+  - concept_uuid: 1b8a3aac-d13b-436a-9766-80ebc2d07757
+    concept_label: SON
+  - concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+  - concept_uuid: ea2f94a9-d0e9-4db8-b532-e9cddacd939b
+    concept_label: DAUGHTER
+  - gloss: grammaticalised
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - gloss: grammaticalised
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - gloss: late
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+- reading: ní
+  old_chinese: ŋee
+  middle_chinese: ŋei
+  fanqie: 五稽切
+  tone: 平
+  guangyun: 姓也漢御史大夫兒寛千乗人
+  senses:
+  - concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+    concept_label: TOOTH
+  - gloss: =倪
+    concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+source:
+  source_file: taxchar.xml

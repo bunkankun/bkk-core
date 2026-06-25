@@ -1,0 +1,80 @@
+uuid: fc9ae409-5568-4f6d-8139-408e1f9f3c31
+type: tax-char
+heads:
+- 宣
+pronunciations:
+- reading: xuān
+  old_chinese: sqon
+  middle_chinese: sʷiɛn
+  fanqie: 須緣切
+  tone: 平
+  guangyun: 布也明也徧也通也緩也散也須縁切九
+  senses:
+  - concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+    concept_label: ISSUE
+    children:
+    - gloss: texts
+      concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+      concept_label: PUBLICISE
+      children:
+      - gloss: places
+        concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+        concept_label: EVERYWHERE
+        children:
+        - gloss: grammaticalised.
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+        - gloss: generalised
+          concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+          concept_label: SCATTER
+      - gloss: object publicised
+        concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+        concept_label: EDICT
+        children:
+        - gloss: place where edicts originate
+          concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+          concept_label: PALACE
+          children:
+          - gloss: feature
+            concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+            concept_label: NOBLE
+            children:
+            - gloss: generalised
+              concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+              concept_label: BIG
+        - gloss: typical function
+          concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+          concept_label: SUMMON
+        - gloss: specifically
+          concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+          concept_label: ENCOURAGE
+          children:
+          - gloss: 'object: with language'
+            concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+            concept_label: TEACH
+            children:
+            - gloss: resultative
+              concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+              concept_label: UNDERSTAND
+            - gloss: non-linguistically
+              concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+              concept_label: SHOW
+              children:
+              - gloss: generalised
+                concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+                concept_label: EXPRESS
+              - gloss: excessively
+                concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+                concept_label: EXTRAVAGANT
+        - gloss: material on which edict is written
+          concept_uuid: 1f877f60-9e95-4662-8506-82fc2c8d3700
+          concept_label: PAPER
+          children:
+          - gloss: 'by extension of colour: of hair'
+            concept_uuid: c6ea8871-fe2b-4015-98f8-23b5952ea2f5
+            concept_label: GREY
+  - gloss: =喧
+    concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+    concept_label: LOUD
+source:
+  source_file: taxchar.xml

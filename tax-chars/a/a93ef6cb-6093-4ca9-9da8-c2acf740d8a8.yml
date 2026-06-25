@@ -1,0 +1,22 @@
+uuid: a93ef6cb-6093-4ca9-9da8-c2acf740d8a8
+type: tax-char
+heads:
+- 凋
+pronunciations:
+- reading: diāo
+  old_chinese: tɯɯw
+  middle_chinese: teu
+  fanqie: 都聊切
+  tone: 平
+  guangyun: 凋落
+  senses:
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+  - concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+    concept_label: DECLINE
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

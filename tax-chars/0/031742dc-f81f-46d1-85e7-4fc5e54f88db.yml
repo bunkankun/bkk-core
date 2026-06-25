@@ -1,0 +1,32 @@
+uuid: 031742dc-f81f-46d1-85e7-4fc5e54f88db
+type: tax-char
+heads:
+- 坤
+pronunciations:
+- reading: kūn
+  old_chinese: khuun
+  middle_chinese: kʰuon
+  fanqie: 苦昆切
+  tone: 平
+  guangyun: 乾坤苦昆切七
+  senses:
+  - concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+    concept_label: EARTH
+  - concept_uuid: c0f27216-391e-4b2d-a205-2b1bc7c5823d
+    concept_label: TRIGRAMS
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+  - concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+    concept_label: FEMALE
+  - concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+    concept_label: MOTHER
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+- reading: kūn
+  old_chinese: khuun
+  middle_chinese: kʰuon
+  fanqie: 苦昆切
+  tone: 平
+  guangyun: 坤古文
+source:
+  source_file: taxchar.xml

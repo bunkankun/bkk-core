@@ -1,0 +1,65 @@
+uuid: eb2244be-4a37-4ef9-9b23-a4c8c9a48a50
+type: tax-char
+heads:
+- 字
+pronunciations:
+- reading: zì
+  old_chinese: sɡlɯs
+  middle_chinese: dzɨ
+  fanqie: 疾置切
+  tone: 去
+  guangyun: 春秋説題辝曰字者飾也説文乳也又愛也疾置切六
+  senses:
+  - concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+    concept_label: BIRTH
+    children:
+    - gloss: related state
+      concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+      concept_label: PREGNANT
+    - gloss: related state
+      concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+      concept_label: LOVE
+      children:
+      - gloss: related activity
+        concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+        concept_label: FEED
+        children:
+        - gloss: abstract
+          concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+          concept_label: TEACH
+    - gloss: result of related activity
+      concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+      concept_label: PERSONAL NAME
+      children:
+      - gloss: generalised
+        concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+        concept_label: NAME
+        children:
+        - gloss: abstract
+          concept_uuid: 3267f662-31c8-4634-96c4-f21978fcd1dc
+          concept_label: CONCEPT
+        - gloss: meanings of recording
+          concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+          concept_label: WRITTEN CHARACTER
+          children:
+          - gloss: related object
+            concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+            concept_label: DOCUMENT
+            children:
+            - gloss: 'related feature: literary culture'
+              concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+              concept_label: KNOW
+            - gloss: specific
+              concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+              concept_label: LETTER
+              children:
+              - gloss: specific
+                concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+                concept_label: CONTRACT
+                children:
+                - gloss: 'marital: engage to be married> BETROTH'
+            - gloss: specific
+              concept_uuid: 95ca0002-dd36-4de9-871f-16d208c4d2d2
+              concept_label: INSCRIPTION
+source:
+  source_file: taxchar.xml

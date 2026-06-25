@@ -1,0 +1,32 @@
+uuid: 9b75ffe4-4d97-4238-9562-99ea3a27e267
+type: tax-char
+heads:
+- 古
+pronunciations:
+- reading: gǔ
+  old_chinese: kaaʔ
+  middle_chinese: kuo
+  fanqie: 公戶切
+  tone: 上
+  guangyun: 故也又姓周太王去邠適歧稱古公其後氏焉蜀志有廣漢功曹古牧又漢複姓晏子春秋有齊勇士古冶子又虜三字姓後漢書有古口引氏公戸切二十一
+  senses:
+  - concept_uuid: 338ea661-050b-48b3-831e-977100799f31
+    concept_label: ANCIENT
+    children:
+    - gloss: 'exocentric: men of antiquity'
+      concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+      concept_label: HUMAN
+    - gloss: not new
+      concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+      concept_label: OLD
+      children:
+      - gloss: not up-to-date
+        concept_uuid: faf0a071-6006-44d8-b396-42100e8f437d
+        concept_label: OLD-FASHIONED
+      - gloss: generalised
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-02T19:22:33.82+09:00'

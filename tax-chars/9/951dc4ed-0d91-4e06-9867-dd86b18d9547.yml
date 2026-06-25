@@ -1,0 +1,67 @@
+uuid: 951dc4ed-0d91-4e06-9867-dd86b18d9547
+type: tax-char
+heads:
+- 深
+pronunciations:
+- reading: shēn
+  old_chinese: qhljum
+  middle_chinese: ɕim
+  fanqie: 式針切
+  tone: 平
+  guangyun: 逺也又水名出桂陽南平式針切二
+- reading: shèn
+  old_chinese: qhljums
+  middle_chinese: ɕim
+  fanqie: 式禁切
+  tone: 去
+  guangyun: 不淺也式禁切又式今切二
+unattributed_senses:
+- concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  concept_label: DEEP
+  children:
+  - gloss: inaccessible
+    concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+    concept_label: DIFFICULT
+    children:
+    - gloss: abstract
+      concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+      concept_label: PROFOUND
+      children:
+      - gloss: enter deeply into
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+  - gloss: 'action: enter deep into'
+    concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+    concept_label: ENTER
+    children:
+    - gloss: 'specifically: withdraw deep into'
+      concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+      concept_label: WITHDRAW
+      children:
+      - gloss: causative:move away into depth
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+  - gloss: grammaticalised
+    concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+    children:
+    - gloss: positive process
+      concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+      concept_label: FLOURISH
+      children:
+      - gloss: continuously
+        concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+        concept_label: ENDURING
+    - gloss: of authorities
+      concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+      concept_label: SEVERE
+    - gloss: of debt, heavy
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+- gloss: proper names
+  concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+  concept_label: RIVERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T03:11:22.819+09:00'

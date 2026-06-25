@@ -1,0 +1,45 @@
+uuid: 0b6bc059-798d-4d14-9858-ba903b36c315
+type: tax-char
+heads:
+- 識
+pronunciations:
+- reading: shí
+  old_chinese: qhljɯɡ
+  middle_chinese: ɕɨk
+  fanqie: 賞職切
+  tone: 入
+  guangyun: 説文云常也一曰知也賞職切十
+  senses:
+  - concept_uuid: 493c2644-5dda-4f7b-9ae5-8665715a0fea
+    concept_label: AWARE
+    children:
+    - gloss: relevant organ
+      concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+      concept_label: MIND
+    - gloss: assertive and factive
+      concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+      concept_label: KNOW
+      children:
+      - gloss: awareness of past
+        concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+        concept_label: REMEMBER
+      - gloss: reasoned
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+        children:
+        - gloss: resulting feature
+          concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+          concept_label: INTELLIGENT
+  - gloss: metaphorical, playful:derivation
+    concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+- reading: zhì
+  old_chinese: kljɯɡs
+  middle_chinese: tɕɨ
+  fanqie: 職吏切
+  tone: 去
+  guangyun: 標識見禮本音式
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-11-18T03:45:13.404+09:00'

@@ -1,0 +1,26 @@
+uuid: 171095ba-d85a-4912-91fd-7a8e45b1ac4c
+type: tax-char
+heads:
+- 酒
+pronunciations:
+- reading: jiǔ
+  old_chinese: skluʔ
+  middle_chinese: tsiu
+  fanqie: 子酉切
+  tone: 上
+  guangyun: 酒醴戰國䇿曰帝女儀狄作而進於禹亦云杜康作元命包曰酒乳也又酒泉縣在肅州匈奴傳云水甘如酒因以名之亦姓也子酉切一
+  senses:
+  - gloss: ale (not wine)
+    concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+    concept_label: LIQUOR
+    children:
+    - gloss: 'exocentric: occasion for'
+      concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+      concept_label: FEAST
+    - gloss: consume
+      concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+      concept_label: DRINK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T23:45:34.688+09:00'

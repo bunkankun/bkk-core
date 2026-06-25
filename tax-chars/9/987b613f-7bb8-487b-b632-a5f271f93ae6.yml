@@ -1,0 +1,50 @@
+uuid: 987b613f-7bb8-487b-b632-a5f271f93ae6
+type: tax-char
+heads:
+- 梁
+pronunciations:
+- reading: liáng
+  old_chinese: k-raŋ
+  middle_chinese: liɐŋ
+  fanqie: 呂張切
+  tone: 平
+  guangyun: 梁棟又州名書曰華陽黒水惟梁州晉太康記云梁者言西方金剛之氣強梁故因名之舜置也秦爲漢中郡後其地入蜀魏未克蜀分廣漢三巴涪陵以北七郡爲梁州梁大同年復移在南鄭亦姓出安定天水河南三望本自秦仲周平王封其少子康於夏陽梁山是爲梁伯後爲秦并子孫奔晉以國爲氏又漢複姓十二氏左傳有梁其踁魯伯禽庶子梁其之後又魯有仲梁懷晉有梁餘子養梁由靡秦有強梁皐莊子有卜梁倚楚文王庶子有食邑諸梁者其後爲氏魯有榖梁赤治春秋史記有將梁氏漢光武時有侍御史梁垣烈新垣衍之後漢明帝時有梁成恢善歴數
+  senses:
+  - concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+    concept_label: BEAM
+    children:
+    - gloss: built with beams
+      concept_uuid: 334b6662-31c2-493c-944f-1bb1c348515c
+      concept_label: BRIDGE
+      children:
+      - gloss: of bridges
+        concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+        concept_label: BUILD
+    - gloss: mobile, large
+      concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+      concept_label: STICK
+      children:
+      - gloss: specifically
+        concept_uuid: 35feb9c4-3da9-4cc9-97a3-44ab92e1e85a
+        concept_label: CARRIAGE POLE
+      - gloss: at top
+        concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+        concept_label: SUMMIT
+  - gloss: one of the 九州
+    concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+    concept_label: REGION
+  - gloss: proper name
+    concept_label: DYNASTIES
+  - gloss: personal names
+    concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+  - gloss: proper name
+    concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - gloss: proper name
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:24:31.474+09:00'

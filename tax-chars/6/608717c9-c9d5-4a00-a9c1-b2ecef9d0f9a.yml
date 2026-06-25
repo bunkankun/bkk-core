@@ -1,0 +1,48 @@
+uuid: 608717c9-c9d5-4a00-a9c1-b2ecef9d0f9a
+type: tax-char
+heads:
+- 戎
+pronunciations:
+- reading: róng
+  old_chinese: njuŋ
+  middle_chinese: ȵiuŋ
+  fanqie: 如融切
+  tone: 平
+  guangyun: 戎狄亦助也説文作𢦦兵也又姓漢宣帝戎婕妤生中山哀王竟
+  senses:
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+    children:
+    - gloss: abstract
+      concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+      concept_label: WARFARE
+      children:
+      - gloss: object
+        concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+        concept_label: ENEMY
+      - gloss: specific
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+      - gloss: supportive
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+    - gloss: instrument
+      concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+      concept_label: WEAPON
+      children:
+      - gloss: specific
+        concept_uuid: aa638007-598c-48fe-a8bf-c2100b6cd8f3
+        concept_label: CHARIOT
+    - gloss: mighty
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+  - concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+    concept_label: WE
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

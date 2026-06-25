@@ -1,0 +1,48 @@
+uuid: a488b87e-7182-4269-891b-bed6b6975b53
+type: tax-char
+heads:
+- 愆
+pronunciations:
+- reading: qiān
+  old_chinese: khran
+  middle_chinese: kʰɯiɛn
+  fanqie: 去乾切
+  tone: 平
+  guangyun: 籀文愆
+- reading: qiān
+  old_chinese: khran
+  middle_chinese: kʰɯiɛn
+  fanqie: 去乾切
+  tone: 平
+  guangyun: 過也去乾切十
+  senses:
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+  - concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+    concept_label: GUILT
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+    concept_label: CAUSE
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+- reading: qiān
+  old_chinese: khran
+  middle_chinese: kʰɯiɛn
+  fanqie: 去乾切
+  tone: 平
+  guangyun: 古文愆
+- reading: qiān
+  old_chinese: khran
+  middle_chinese: kʰɯiɛn
+  fanqie: 去乾切
+  tone: 平
+  guangyun: 俗諐
+source:
+  source_file: taxchar.xml

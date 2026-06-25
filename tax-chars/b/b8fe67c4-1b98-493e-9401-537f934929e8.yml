@@ -1,0 +1,20 @@
+uuid: b8fe67c4-1b98-493e-9401-537f934929e8
+type: tax-char
+heads:
+- 換
+pronunciations:
+- reading: huàn
+  old_chinese: ɢloons
+  middle_chinese: ɦʷɑn
+  fanqie: 胡玩切
+  tone: 去
+  guangyun: 易也胡玩切九
+  senses:
+  - concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+    concept_label: EXCHANGE
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+source:
+  source_file: taxchar.xml

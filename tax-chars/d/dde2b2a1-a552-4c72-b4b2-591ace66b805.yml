@@ -1,0 +1,37 @@
+uuid: dde2b2a1-a552-4c72-b4b2-591ace66b805
+type: tax-char
+heads:
+- 英
+pronunciations:
+- reading: yīng
+  old_chinese: qraŋ
+  middle_chinese: ʔɯiaŋ
+  fanqie: 於驚切
+  tone: 平
+  guangyun: 華也榮而不實曰英也又英俊亦姓漢有英布
+  senses:
+  - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+    concept_label: BLOSSOM
+    children:
+    - gloss: generalised:brilliant surface, sheen
+      concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+      concept_label: SHINE
+      children:
+      - gloss: =瑛 exocentric
+        concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+        concept_label: JADE
+      - gloss: 'typical example: on shield'
+        concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+        concept_label: ORNAMENT
+        children:
+        - gloss: 'exocentric: polite'
+          concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+          concept_label: TEXT
+        - gloss: 'exocentric: commendatory'
+          concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+          concept_label: HERO
+      - gloss: 'abstract: best of'
+        concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+        concept_label: ESSENCE
+source:
+  source_file: taxchar.xml

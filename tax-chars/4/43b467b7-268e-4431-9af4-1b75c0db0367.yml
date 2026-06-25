@@ -1,0 +1,38 @@
+uuid: 43b467b7-268e-4431-9af4-1b75c0db0367
+type: tax-char
+heads:
+- 檻
+pronunciations:
+- reading: xiàn
+  old_chinese: ɡraams
+  middle_chinese: ɦɯam
+  fanqie: 胡懺切
+  tone: 去
+- reading: jiàn
+  old_chinese: ɡraamʔ
+  middle_chinese: ɦɯam
+  fanqie: 胡黤切
+  tone: 上
+  guangyun: 闌也説文曰攏也一曰圈胡黤切十
+  senses:
+  - concept_uuid: ef95796d-7e3a-4201-9a4a-cf48877073ad
+    concept_label: FENCE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 7563d1be-7721-4544-ab12-c172ccb9e1dc
+    concept_label: PRISON VEHICLE
+  - concept_uuid: e9664def-f19c-4780-9d1f-41a1ac64e63e
+    concept_label: STABLE
+  - concept_uuid: e0c9c25d-b6e0-4f6f-8937-8c3895464d61
+    concept_label: THRESHOLD
+  - concept_uuid: ee833d1d-6fed-40a2-b0e8-eb9f3ddd24f1
+    concept_label: CAGE
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+    concept_label: SHIP
+  - concept_uuid: 090f029e-664c-4d59-97d9-b294fdbdfc32
+    concept_label: RACK
+  - gloss: = 濫
+source:
+  source_file: taxchar.xml

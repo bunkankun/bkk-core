@@ -1,0 +1,54 @@
+uuid: 52c64b16-484e-4d83-b484-e0c18bce8cc7
+type: tax-char
+heads:
+- 守
+pronunciations:
+- reading: shǒu
+  old_chinese: qhjuʔ
+  middle_chinese: ɕiu
+  fanqie: 書九切
+  tone: 上
+  guangyun: 主守亦姓出姓苑
+- reading: shòu
+  old_chinese: qhjus
+  middle_chinese: ɕiu
+  fanqie: 舒救切
+  tone: 去
+  guangyun: 太守
+  senses:
+  - gloss: 'shòu derivation by tone change: exocentric'
+    concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+    children:
+    - gloss: action
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+      children:
+      - gloss: what one performs when governing
+        concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+        concept_label: DUTY
+unattributed_senses:
+- concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  concept_label: SAFEGUARD
+  children:
+  - gloss: against attack etc
+    concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+    children:
+    - gloss: 'object: enemy'
+      concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+      concept_label: FEND OFF
+    - gloss: generalised
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+  - gloss: by acting in accordance with
+    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+    children:
+    - gloss: object conformed to
+      concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+      concept_label: PRINCIPLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T21:37:45.872+09:00'

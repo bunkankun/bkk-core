@@ -1,0 +1,62 @@
+uuid: d2ff6ced-bad9-4215-91c9-7e1a62f69a44
+type: tax-char
+heads:
+- 童
+pronunciations:
+- reading: tóng
+  old_chinese: dooŋ
+  middle_chinese: duŋ
+  fanqie: 徒紅切
+  tone: 平
+  guangyun: 童獨也言童子未有室家也又姓出東莞漢有琅邪内史童仲玉
+  senses:
+  - concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+    concept_label: BOY
+    children:
+    - gloss: feature
+      concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+      concept_label: YOUNG
+      children:
+      - gloss: typical physical feature
+        concept_uuid: 41e78ed2-7fdc-4b17-842e-b9ff7a411a25
+        concept_label: FRESH
+    - gloss: figurative
+      concept_uuid: 0f602a76-537c-468f-a2f8-21b230f33b71
+      concept_label: PUPIL
+      children:
+      - gloss: social
+        concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+        concept_label: SLAVE
+    - gloss: generalised
+      concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+      concept_label: CHILD
+      children:
+      - gloss: feature
+        concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+        concept_label: SIMPLE
+        children:
+        - gloss: landscape
+          concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+          concept_label: BARREN
+          children:
+          - gloss: tóng
+            concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+            concept_label: EMPTY
+          - gloss: feature
+            concept_uuid: e02d1fdf-2eff-40bd-b767-076adb48965f
+            concept_label: BALD
+        - gloss: philosophical
+          concept_uuid: 7592652a-7114-4fce-b798-b8407930f652
+          concept_label: NAIVE
+          children:
+          - gloss: psychological
+            concept_uuid: be5f23cb-ca41-467a-9907-bc24126ac1cc
+            concept_label: INNOCENT
+            children:
+            - gloss: intellectual
+              concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+              concept_label: STUPID
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-02-09T00:36:17.393+09:00'

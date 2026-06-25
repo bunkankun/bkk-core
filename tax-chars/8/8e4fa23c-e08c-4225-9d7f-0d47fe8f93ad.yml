@@ -1,0 +1,20 @@
+uuid: 8e4fa23c-e08c-4225-9d7f-0d47fe8f93ad
+type: tax-char
+heads:
+- 腹
+pronunciations:
+- reading: fù
+  old_chinese: puɡ
+  middle_chinese: piuk
+  fanqie: 方六切
+  tone: 入
+  guangyun: 腹肚
+  senses:
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+  - concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+    concept_label: MIND
+  - concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+    concept_label: STOMACH
+source:
+  source_file: taxchar.xml

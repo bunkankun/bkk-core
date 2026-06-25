@@ -1,0 +1,77 @@
+uuid: 154d4c30-e70c-49b4-a851-af27bf206e3e
+type: tax-char
+heads:
+- 設
+pronunciations:
+- reading: shè
+  old_chinese: qhjed
+  middle_chinese: ɕiɛt
+  fanqie: 識列切
+  tone: 入
+  guangyun: 置也陳也合也識列切二
+  senses:
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+    children:
+    - gloss: be properly arranged
+      concept_uuid: 8bf9e455-5bb7-4cf9-afc1-c7086a2a8fe7
+      concept_label: FIT
+    - gloss: generalised
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+      children:
+      - gloss: abstract
+        concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+        concept_label: INSIST
+        children:
+        - gloss: 'grammaticalised: hypothetically, contrary to fact'
+          concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+          concept_label: COUNTERFACTUAL
+          children:
+          - gloss: generalised
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+    - gloss: arrange for possibility of
+      concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+      concept_label: ALLOW
+    - gloss: 'psychologically: arrange for possibility of future action'
+      concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+      concept_label: PLAN
+      children:
+      - gloss: concrete
+        concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+        concept_label: BUILD
+        children:
+        - gloss: feature
+          concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+          concept_label: STRONG
+        - gloss: social
+          concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+          concept_label: ESTABLISH
+          children:
+          - gloss: enact in practice
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+            children:
+            - gloss: use in practice
+              concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+              concept_label: DEPLOY
+              children:
+              - gloss: generalised
+                concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+                concept_label: USE
+    - gloss: 'object: festive food'
+      concept_uuid: 3ed11fd2-9383-4078-93ac-837845fbad3b
+      concept_label: MEAL
+      children:
+      - gloss: generalised
+        concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+        concept_label: FOOD
+    - gloss: 'grammaticalised: arrange fully'
+      concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+      concept_label: COMPLETE
+    - gloss: trap
+      concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+      concept_label: CATCH
+source:
+  source_file: taxchar.xml

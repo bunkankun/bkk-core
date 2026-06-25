@@ -1,0 +1,38 @@
+uuid: 7d457858-b808-4683-a909-67e67c19502b
+type: tax-char
+heads:
+- 伊
+pronunciations:
+- reading: yī
+  old_chinese: qlil
+  middle_chinese: ʔi
+  fanqie: 於脂切
+  tone: 平
+  guangyun: 惟也因也侯也亦水名又州本伊吾廬地在燉煌之北大磧之外秦末有之漢爲伊吾屯隋爲郡貞觀初慕化内附置伊州焉又姓伊尹之後今山陽人於脂切五
+  senses:
+  - concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+    concept_label: THIS
+    children:
+    - gloss: third person
+      concept_uuid: 2eed7588-dc39-4e3e-bd7f-3fcac71fe9b8
+      concept_label: THIRD PERSON PRONOUNS
+      children:
+      - gloss: second person
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+  - gloss: time
+    concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+    children:
+    - gloss: abstract:additive
+      concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+      concept_label: MOREOVER
+  - gloss: grammaticalised
+    concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-13T23:26:18.863+09:00'

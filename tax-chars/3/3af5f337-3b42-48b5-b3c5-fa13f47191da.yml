@@ -1,0 +1,28 @@
+uuid: 3af5f337-3b42-48b5-b3c5-fa13f47191da
+type: tax-char
+heads:
+- 訪
+pronunciations:
+- reading: fǎng
+  old_chinese: phaŋs
+  middle_chinese: pʰʷiɐŋ
+  fanqie: 敷亮切
+  tone: 去
+  guangyun: 謀也敷亮切三
+  senses:
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

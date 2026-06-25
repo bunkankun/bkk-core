@@ -1,0 +1,26 @@
+uuid: 235c804c-1a58-4266-b1c4-2756962c23b3
+type: tax-char
+heads:
+- 麥
+pronunciations:
+- reading: mài
+  old_chinese: mrɯɯɡ
+  middle_chinese: mɯæk
+  fanqie: 莫獲切
+  tone: 入
+  guangyun: 白虎通曰麥金也金王而生火王而死又姓隋有將軍麥鐡杖嶺南人俗作麦莫獲切八
+  senses:
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: bccb1e29-6f0b-4d02-b1ba-6fd816ea65e3
+    concept_label: WHEAT
+  - concept_uuid: 1f9971be-e6cb-4b76-a411-739b3cbc0542
+    concept_label: RYE
+  - gloss: BARLEY
+  - concept_uuid: c40bfe1f-ff0b-48e2-b393-9277a20f3471
+    concept_label: OATS
+  - gloss: PHYSICAL UNITS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

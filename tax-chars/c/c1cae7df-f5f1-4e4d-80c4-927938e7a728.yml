@@ -1,0 +1,124 @@
+uuid: c1cae7df-f5f1-4e4d-80c4-927938e7a728
+type: tax-char
+heads:
+- 得
+pronunciations:
+- reading: dé
+  old_chinese: tɯɯɡ
+  middle_chinese: tək
+  fanqie: 多則切
+  tone: 入
+  guangyun: 得失
+- reading: dé
+  old_chinese: tɯɯɡ
+  middle_chinese: tək
+  fanqie: 多則切
+  tone: 入
+  guangyun: 説文取也今作㝵同
+  senses:
+  - concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+    concept_label: OBTAIN
+    children:
+    - gloss: by chance
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: negative results
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+          concept_label: PASSIVE MARKER
+      - gloss: grammaticalised
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+    - gloss: what moves and tries to escape
+      concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+      concept_label: CATCH
+      children:
+      - gloss: obtain the favours of
+        concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+        concept_label: FAVOURITE
+        children:
+        - gloss: specifically
+          concept_uuid: 4d2115b4-dee5-4729-bd99-55ee2c88b1fc
+          concept_label: WIN TRUST
+          children:
+          - gloss: ?emotion
+            concept_uuid: 45ec8b18-c9d0-48ad-abc1-a532217157af
+            concept_label: GRATEFUL
+    - gloss: having looked for
+      concept_uuid: aba8d2b3-44ef-4332-a142-b1920f4de57a
+      concept_label: FIND
+      children:
+      - gloss: find the exact quantative result
+        concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+        concept_label: CALCULATE
+    - gloss: perfective
+      concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+      concept_label: HAVE
+      children:
+      - gloss: and be able to dispose of
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+    - gloss: what one has wanted to obtain
+      concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+      concept_label: PROFIT
+    - gloss: intellectually
+      concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+      concept_label: LEARN
+      children:
+      - gloss: 'resultative: in depth'
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+      - gloss: resultative:by oral means
+        concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+        concept_label: HEAR
+      - gloss: resultative:by visual means
+        concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+        concept_label: SEE
+      - gloss: resultative, general
+        concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+        concept_label: ABLE
+        children:
+        - gloss: subject inanimate
+          concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+          concept_label: POSSIBLE
+  - gloss: cause to obtain permission to
+    concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+    concept_label: PERMIT
+    children:
+    - gloss: 'mostly post-Han:'
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+      children:
+      - gloss: what one must pay
+        concept_uuid: adf91939-0b56-4d2e-a2c9-6780abbde6e8
+        concept_label: COST
+    - gloss: 'object: goal'
+      concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+      concept_label: REACH
+      children:
+      - gloss: and manage to get into
+        concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+        concept_label: ENTER
+      - gloss: abstract goal
+        concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+        concept_label: SUCCEED
+        children:
+        - gloss: 'transitive: succeed in doing/creating'
+          concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+          concept_label: ACHIEVE
+          children:
+          - gloss: omitting nothing
+            concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+            concept_label: COMPLETE
+unattributed_senses:
+- gloss: =德
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  concept_label: GENEROUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-17T19:19:06.356+09:00'

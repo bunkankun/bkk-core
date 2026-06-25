@@ -1,0 +1,29 @@
+uuid: bfd41764-32ac-4e72-b7f5-b1db251d711e
+type: tax-char
+heads:
+- 豬
+pronunciations:
+- reading: zhū
+  old_chinese: k-la
+  middle_chinese: ʈiɔ
+  fanqie: 陟魚切
+  tone: 平
+  guangyun: 爾雅曰豕子豬陟魚切六
+  senses:
+  - concept_uuid: e780a853-9d2a-4088-8c67-978fa2be3515
+    concept_label: PIG
+  - gloss: = 瀦
+- reading: zhū
+  old_chinese: ta
+  middle_chinese: ʈiɔ
+  fanqie: 陟魚切
+  tone: 平
+  guangyun: 俗豬
+- reading: zhū
+  old_chinese: ta
+  middle_chinese: ʈiɔ
+  fanqie: 陟魚切
+  tone: 平
+  guangyun: 同豬
+source:
+  source_file: taxchar.xml

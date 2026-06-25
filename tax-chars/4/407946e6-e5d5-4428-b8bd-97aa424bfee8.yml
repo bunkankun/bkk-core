@@ -1,0 +1,37 @@
+uuid: 407946e6-e5d5-4428-b8bd-97aa424bfee8
+type: tax-char
+heads:
+- 奴
+pronunciations:
+- reading: nú
+  old_chinese: naa
+  middle_chinese: nuo
+  fanqie: 乃都切
+  tone: 平
+  guangyun: 人之下也乃都切七
+  senses:
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+    concept_label: SLAVE
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+  - concept_uuid: ab3538ad-2cf6-4224-80bf-0edfb299b8af
+    concept_label: STAGNANT
+  - concept_uuid: 81d6dc77-c2bf-4e06-b1ec-a26f4abe42a8
+    concept_label: INSULT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - gloss: = 駑
+- reading: nú
+  old_chinese: naa
+  middle_chinese: nuo
+  fanqie: 乃都切
+  tone: 平
+  guangyun: 奴古文
+source:
+  source_file: taxchar.xml

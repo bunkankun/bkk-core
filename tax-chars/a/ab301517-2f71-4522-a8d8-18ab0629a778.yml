@@ -1,0 +1,32 @@
+uuid: ab301517-2f71-4522-a8d8-18ab0629a778
+type: tax-char
+heads:
+- 彈
+pronunciations:
+- reading: dàn
+  old_chinese: daans
+  middle_chinese: dɑn
+  fanqie: 徒案切
+  tone: 去
+  guangyun: 行丸又徒丹切
+- reading: tán
+  old_chinese: daan
+  middle_chinese: dɑn
+  fanqie: 徒干切
+  tone: 平
+  guangyun: 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切
+  senses:
+  - concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+    concept_label: ACCUSE
+  - concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+    concept_label: CRITICISE
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+  - concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+    concept_label: PLUCK STRINGS
+  - concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+    concept_label: SHOOT
+source:
+  source_file: taxchar.xml

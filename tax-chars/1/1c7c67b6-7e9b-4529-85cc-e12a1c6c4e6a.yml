@@ -1,0 +1,73 @@
+uuid: 1c7c67b6-7e9b-4529-85cc-e12a1c6c4e6a
+type: tax-char
+heads:
+- 善
+pronunciations:
+- reading: shàn
+  old_chinese: ɡjenʔ
+  middle_chinese: dʑiɛn
+  fanqie: 常演切
+  tone: 上
+  guangyun: 良也大也佳也説文作譱吉也又姓吕氏春秋云善卷堯師常演切十一
+unattributed_senses:
+- gloss: shàn
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  concept_label: GOOD
+  children:
+  - gloss: virtue
+    concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+    concept_label: BENEVOLENCE
+  - gloss: putative
+    concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+    concept_label: LIKE
+    children:
+    - gloss: resulting feature
+      concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+      concept_label: INTIMATE
+    - gloss: object:whom one likes
+      concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+      concept_label: FRIEND
+    - gloss: declarative
+      concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+      concept_label: ASSENT
+      children:
+      - gloss: practical
+        concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+        concept_label: COOPERATE
+    - gloss: like to, hence prone to
+      concept_uuid: ed636f99-e1ef-4ace-a961-1bed7ed93df6
+      concept_label: TENDENCY
+      children:
+      - gloss: grammaticalised
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+  - gloss: comparatively
+    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+    children:
+    - gloss: 'declarative: declare excellent'
+      concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+      concept_label: PRAISE
+    - gloss: in performance
+      concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+      concept_label: DILIGENT
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+        concept_label: IMPERATIVE MARKER
+    - gloss: causative:degree
+      concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+      concept_label: IMPROVE
+    - gloss: hence valuable
+      concept_uuid: 9dcfacdd-91c6-42d6-b3b9-f17494ffefab
+      concept_label: EXPENSIVE
+    - gloss: abilities
+      concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+      concept_label: TALENT
+    - gloss: subjective
+      concept_uuid: bdc229bb-f9d0-42c8-aa80-087257089e55
+      concept_label: SATISFACTORY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T01:21:57.765+09:00'

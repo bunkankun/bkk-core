@@ -1,0 +1,87 @@
+uuid: c8357fbc-f6d9-4873-8536-fc383576638f
+type: tax-char
+heads:
+- 說
+pronunciations:
+- reading: shuō
+  old_chinese: lʰod
+  middle_chinese: ɕʷiɛt
+  fanqie: 失爇切
+  tone: 入
+  guangyun: 告也釋名曰説者述也宣述又意也失𤑔切又恱稅二音一
+- reading: shuì
+  old_chinese: lʰods
+  middle_chinese: ɕʷiɛi
+  fanqie: 舒芮切
+  tone: 去
+  guangyun: 説誘
+  senses:
+  - gloss: shuì
+    concept_uuid: df302e69-b571-43a8-af45-96d598ea2ca2
+    concept_label: PERSUADE
+  - gloss: shuì
+    concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+- reading: yuè
+  old_chinese: lod
+  middle_chinese: jʷiɛt
+  fanqie: 弋雪切
+  tone: 入
+  guangyun: 姓傳説之後又失𤑔始銳二切
+  senses:
+  - gloss: yuè
+    concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+    children:
+    - gloss: emotional
+      concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+      concept_label: LIKE
+      children:
+      - gloss: causative
+        concept_label: PLEASE
+    - gloss: shuì
+      concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+      concept_label: REST
+    - gloss: yuè
+      concept_uuid: bdc229bb-f9d0-42c8-aa80-087257089e55
+      concept_label: SATISFACTORY
+unattributed_senses:
+- concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+  concept_label: EXPLAIN
+  children:
+  - gloss: in conversation
+    concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+    concept_label: DISCUSS
+    children:
+    - concept_label: literary genre> TREATISE (rearrange hyponyms for DOCUMENT) 師說
+  - gloss: text
+    concept_uuid: 5e412412-9d52-47ef-b5c0-a9563fde53c6
+    concept_label: COMMENTARY
+  - gloss: object
+    concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+    concept_label: DOCTRINE
+    children:
+    - gloss: 'object: guilt'
+      concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+      concept_label: BLAME
+      children:
+      - gloss: shuō
+        concept_uuid: a98104c1-d140-4140-b7a2-b1accc813ecd
+        concept_label: RUMOUR
+    - gloss: generalised
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+      children:
+      - gloss: abstract, figurative
+        concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+        concept_label: MEAN
+      - gloss: conveying message
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+      - gloss: specialised
+        concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+        concept_label: CHANT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T18:04:10.502+09:00'

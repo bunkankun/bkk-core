@@ -1,0 +1,97 @@
+uuid: 1b07186f-4a80-426e-ba61-2a3bddca9a6d
+type: tax-char
+heads:
+- 便
+pronunciations:
+- reading: biàn
+  old_chinese: bens
+  middle_chinese: biɛn
+  fanqie: 婢面切
+  tone: 去
+  guangyun: 利也婢面切又音平聲
+  senses:
+  - gloss: (profitable)
+    concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+    concept_label: PROFIT
+    children:
+    - gloss: generalised
+      concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+      concept_label: APPROPRIATE
+      children:
+      - gloss: appropriately equipped for
+        concept_label: EXCEL
+        children:
+        - gloss: generalised
+          concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+          concept_label: SKILLFUL
+    - gloss: causative:be convenient for
+      concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+      concept_label: HELP
+      children:
+      - gloss: appropriate to oneself
+        concept_uuid: a9d1c339-21ed-4464-80d7-78e11cddf9bc
+        concept_label: CONVENIENT
+        children:
+        - gloss: occasion
+          concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+          concept_label: OPPORTUNITY
+        - gloss: 'putative: consider convenient'
+          concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+          concept_label: ACCEPT
+        - gloss: attitude disregarding others
+          concept_label: UNCONSTRAINED
+        - gloss: do as is convenient
+          concept_uuid: 462e5628-50ee-4e3d-b155-699fbc111c42
+          concept_label: DEFECATE
+          children:
+          - gloss: object
+            concept_label: SHIT
+        - gloss: conveniently well-supplied
+          concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+          concept_label: RICH
+        - gloss: conforming to the past
+          concept_label: ACCUSTOMED
+        - gloss: to the majority of cases
+          concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+          concept_label: ORDINARY
+        - gloss: 'grammaticalised: as convienient without delay'
+          concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+          concept_label: IMMEDIATELY
+          children:
+          - gloss: in spite of objections
+            concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+            concept_label: NONETHELESS
+            children:
+            - gloss: 'abstract: in fact'
+              concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+              concept_label: REALITY
+          - gloss: temporal
+            concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+            concept_label: THEREUPON
+            children:
+            - gloss: logical> given something else
+              concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+              concept_label: THEN
+      - gloss: attitudinal
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: to orders
+          concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+          concept_label: OBEY
+        - gloss: to direction taken
+          concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+          concept_label: FOLLOW
+- reading: pián
+  old_chinese: ben
+  middle_chinese: biɛn
+  fanqie: 房連切
+  tone: 平
+  guangyun: 辯也僻也安也又姓漢有少府便樂成房連切又去聲九
+  senses:
+  - concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+    concept_label: FAVOURITE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-01T03:45:03.86+09:00'

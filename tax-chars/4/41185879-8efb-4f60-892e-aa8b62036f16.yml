@@ -1,0 +1,54 @@
+uuid: 41185879-8efb-4f60-892e-aa8b62036f16
+type: tax-char
+heads:
+- 橋
+pronunciations:
+- reading: qiáo
+  old_chinese: ɡrew
+  middle_chinese: ɡɯiɛu
+  fanqie: 巨嬌切
+  tone: 平
+  guangyun: 水梁也又姓出梁國後漢有太尉橋玄
+  senses:
+  - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+    children:
+    - gloss: part of
+      concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+      concept_label: BEAM
+      children:
+      - gloss: crucial constituent of
+        concept_uuid: c7de08e5-5719-4cb8-bed3-58f91b17f356
+        concept_label: PUMP
+      - gloss: specific
+        concept_uuid: 334b6662-31c2-493c-944f-1bb1c348515c
+        concept_label: BRIDGE
+      - gloss: abstract
+        concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+        concept_label: LINK
+  - gloss: =喬
+    concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - gloss: =槁
+    concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 7d4f7d98-8124-41fb-9cc8-b4cf2b478c33
+    concept_label: MALES OF LU
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: qia1o
+  children:
+  - concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+    concept_label: VEHICLE
+- gloss: jia3o
+  children:
+  - gloss: =矯
+    concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+    concept_label: STRAIGHT
+source:
+  source_file: taxchar.xml

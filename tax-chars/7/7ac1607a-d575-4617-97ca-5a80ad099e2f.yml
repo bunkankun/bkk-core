@@ -1,0 +1,37 @@
+uuid: 7ac1607a-d575-4617-97ca-5a80ad099e2f
+type: tax-char
+heads:
+- 祿
+pronunciations:
+- reading: lù
+  old_chinese: b-rooɡ
+  middle_chinese: luk
+  fanqie: 盧谷切
+  tone: 入
+  guangyun: 俸也善也福也録也又姓紂子禄父之後盧谷切四十七
+  senses:
+  - concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+    concept_label: SALARY
+    children:
+    - gloss: what one gets emoluments for
+      concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+      concept_label: RANK
+    - gloss: what one buys for salary
+      concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+      concept_label: FOOD
+    - gloss: 'exocentric: belonging to an endowed official'
+      concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+      concept_label: CITY
+    - gloss: the good fortune of having an endowment
+      concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+      concept_label: LUCK
+    - gloss: survive on
+      concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+      concept_label: LIVE
+  - concept_label: =錄
+  - concept_uuid: 8ac44e87-389e-4d0d-b9d4-86cd5d0a3acd
+    concept_label: ARISTOCRATS OF SHANG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-23T23:56:38.757+09:00'

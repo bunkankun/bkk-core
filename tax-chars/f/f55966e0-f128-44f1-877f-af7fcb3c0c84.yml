@@ -1,0 +1,37 @@
+uuid: f55966e0-f128-44f1-877f-af7fcb3c0c84
+type: tax-char
+heads:
+- 孤
+pronunciations:
+- reading: gū
+  old_chinese: kʷaa
+  middle_chinese: kuo
+  fanqie: 古胡切
+  tone: 平
+  guangyun: 孤子又虜複姓有獨孤温孤歩鹿孤歩六孤乙速孤氏古胡切二十八
+  senses:
+  - concept_uuid: 4c710940-344b-43f5-8bab-cecf6bf228df
+    concept_label: ORPHAN
+    children:
+    - gloss: 'grammaticalised: of rulers'
+      concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+    - gloss: by analogy> without children
+      concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+      concept_label: LONELY
+      children:
+      - gloss: hency of low status
+        concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+        concept_label: HUMBLE
+      - gloss: 'attitude: treat well because lonely'
+        concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+        concept_label: SYMPATHY
+      - gloss: objective
+        concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+        concept_label: ALONE
+        children:
+        - gloss: feature
+          concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+          concept_label: SPECIAL
+source:
+  source_file: taxchar.xml

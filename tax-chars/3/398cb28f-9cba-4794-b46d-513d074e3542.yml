@@ -1,0 +1,30 @@
+uuid: 398cb28f-9cba-4794-b46d-513d074e3542
+type: tax-char
+heads:
+- 毀
+pronunciations:
+- reading: huǐ
+  old_chinese: qhʷralʔ
+  middle_chinese: hʷɯiɛ
+  fanqie: 許委切
+  tone: 上
+  guangyun: 壞也破也缺也虧也許委切十
+  senses:
+  - concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+    concept_label: CRITICISE
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 733e8da8-66c3-4428-acc9-2ae59625e73d
+    concept_label: JADE DEFECT
+  - concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+    concept_label: SLANDER
+  - concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+    concept_label: TATTERED
+- reading: huì
+  old_chinese: qhʷrals
+  middle_chinese: hʷɯiɛ
+  fanqie: 況偽切
+  tone: 去
+  guangyun: 男八歳女七歳而毀齒況僞切一
+source:
+  source_file: taxchar.xml

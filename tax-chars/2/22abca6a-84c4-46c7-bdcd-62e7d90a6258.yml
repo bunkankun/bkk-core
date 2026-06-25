@@ -1,0 +1,37 @@
+uuid: 22abca6a-84c4-46c7-bdcd-62e7d90a6258
+type: tax-char
+heads:
+- 晚
+pronunciations:
+- reading: wǎn
+  old_chinese: monʔ
+  middle_chinese: mʷiɐn
+  fanqie: 無遠切
+  tone: 上
+  guangyun: 暮也無逺切七
+  senses:
+  - concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+    concept_label: EVENING
+    children:
+    - gloss: generalised
+      concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+      concept_label: LATE
+      children:
+      - gloss: later generation
+        concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+        concept_label: STUDENT
+        children:
+        - gloss: 'grammaticalised: self-effacing'
+          concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+          concept_label: EGO
+      - gloss: by extension
+        concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+        concept_label: NIGHT
+      - gloss: of period
+        concept_uuid: 65f2bb5a-4974-410b-a35d-8c4033a5da80
+        concept_label: LAST
+      - gloss: age
+        concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+        concept_label: OLD
+source:
+  source_file: taxchar.xml

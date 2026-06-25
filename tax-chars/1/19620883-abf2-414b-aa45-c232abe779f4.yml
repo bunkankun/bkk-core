@@ -1,0 +1,20 @@
+uuid: 19620883-abf2-414b-aa45-c232abe779f4
+type: tax-char
+heads:
+- 誚
+pronunciations:
+- reading: qiào
+  old_chinese: dzewɡs
+  middle_chinese: dziɛu
+  fanqie: 才笑切
+  tone: 去
+  guangyun: 責也
+  senses:
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+    concept_label: LAUGH
+  - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+source:
+  source_file: taxchar.xml

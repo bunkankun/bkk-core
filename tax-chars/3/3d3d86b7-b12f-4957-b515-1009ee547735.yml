@@ -1,0 +1,42 @@
+uuid: 3d3d86b7-b12f-4957-b515-1009ee547735
+type: tax-char
+heads:
+- 史
+pronunciations:
+- reading: shǐ
+  old_chinese: srɯʔ
+  middle_chinese: ʃɨ
+  fanqie: 疏士切
+  tone: 上
+  guangyun: 史籍説文作㕜記事者也亦姓周卿史佚之後出建康又漢複姓五氏丗本衞有史朝朱駒漢書藝文志有靑史氏著書又有新豐令王史音吴有東萊太守太史慈晉有東萊侯史光踈士切四
+  senses:
+  - concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+    concept_label: OFFICER
+    children:
+    - gloss: civil
+      concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+      concept_label: OFFICIAL
+      children:
+      - gloss: legal
+        concept_uuid: 2fefdb44-2eb9-41d9-95fb-30124c412ed8
+        concept_label: JUDGE-OFFICIAL
+      - gloss: specifically
+        concept_uuid: 066f00b2-4f40-4c1f-bd5e-d7b8b10307a4
+        concept_label: SCRIBE
+        children:
+        - gloss: work of, "history"
+          concept_uuid: 71311dda-a559-4fb5-a520-ac1668c898a0
+          concept_label: BOOK
+      - gloss: 'specifically: agent (painter)'
+        concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+        concept_label: PAINT
+        children:
+        - gloss: action
+          concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+          concept_label: EMBELLISH
+  - concept_uuid: 1c0f8910-9039-4c9f-8302-a20290254582
+    concept_label: MALES OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:38:42.574+09:00'

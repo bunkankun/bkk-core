@@ -1,0 +1,42 @@
+uuid: 520d8272-0e65-427b-a51c-ea0e89ad38f4
+type: tax-char
+heads:
+- 渠
+pronunciations:
+- reading: qú
+  old_chinese: ɡa
+  middle_chinese: ɡiɔ
+  fanqie: 強魚切
+  tone: 平
+  guangyun: 溝渠也亦州名宋置宕渠郡周仍爲郡武德初改置州亦有宕渠山又姓左傳衞有渠孔御戎強魚切二十六
+  senses:
+  - concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+    concept_label: CANAL
+  - gloss: related action
+    concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - gloss: related tool
+    concept_uuid: 2999ca14-172c-458b-96ca-2b03dcf9d6e3
+    concept_label: WHEEL
+  - gloss: like a wheel
+    concept_uuid: 703e26d2-b7a7-4ead-be62-3c6076f8645e
+    concept_label: SHIELD
+  - gloss: like a shield
+    concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+    concept_label: WALL
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 0a9831fa-8b1a-4afa-88d7-630c12afc8c6
+    concept_label: MALES OF ZHENG
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - gloss: =巨
+    concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - gloss: =詎
+    concept_uuid: 2eed7588-dc39-4e3e-bd7f-3fcac71fe9b8
+    concept_label: THIRD PERSON PRONOUNS
+source:
+  source_file: taxchar.xml

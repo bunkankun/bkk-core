@@ -1,0 +1,48 @@
+uuid: 97096a0f-68da-4f1b-b38d-ce0a22bb5490
+type: tax-char
+heads:
+- 編
+pronunciations:
+- reading: biǎn
+  old_chinese: peenʔ
+  middle_chinese: pen
+  fanqie: 方典切
+  tone: 上
+  guangyun: 編綃方典切一曰次第也又卑連切十一
+- reading: biān
+  old_chinese: peen
+  middle_chinese: pen
+  fanqie: 布玄切
+  tone: 平
+  guangyun: 次也又方泫切
+- reading: biān
+  old_chinese: pen
+  middle_chinese: piɛn
+  fanqie: 卑連切
+  tone: 平
+  guangyun: 次也又布干方典二切
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 4c227fb6-2e28-4efb-ada8-6709ac89d0ee
+    concept_label: BOOK VOLUME
+  - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: 8b6b0e4f-e876-4cdc-984b-124e382954ed
+    concept_label: PLAIT
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

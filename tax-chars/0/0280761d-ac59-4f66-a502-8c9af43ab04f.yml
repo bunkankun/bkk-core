@@ -1,0 +1,33 @@
+uuid: 0280761d-ac59-4f66-a502-8c9af43ab04f
+type: tax-char
+heads:
+- 乾
+pronunciations:
+- reading: gān
+  old_chinese: kaan
+  middle_chinese: kɑn
+  fanqie: 古寒切
+  tone: 平
+  guangyun: 字㨾云本音虔今借爲乾濕字又姓出何氏姓苑
+  senses:
+  - concept_uuid: 4e54c8b0-a7c5-4b06-b215-6b928be209df
+    concept_label: DRIED MEAT
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+- reading: qián
+  old_chinese: ɡran
+  middle_chinese: ɡɯiɛn
+  fanqie: 渠焉切
+  tone: 平
+  guangyun: 天也君也堅也渠焉切又音干九
+  senses:
+  - concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+    concept_label: SKY
+- reading: gān
+  old_chinese: kaan
+  middle_chinese: kɑn
+  fanqie: 古寒切
+  tone: 平
+  guangyun: 乾古文
+source:
+  source_file: taxchar.xml

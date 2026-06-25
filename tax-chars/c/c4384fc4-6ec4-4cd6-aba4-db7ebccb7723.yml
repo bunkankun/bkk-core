@@ -1,0 +1,26 @@
+uuid: c4384fc4-6ec4-4cd6-aba4-db7ebccb7723
+type: tax-char
+heads:
+- 性
+pronunciations:
+- reading: xìng
+  old_chinese: seŋs
+  middle_chinese: siɛŋ
+  fanqie: 息正切
+  tone: 去
+  guangyun: 性行也息正切二
+  senses:
+  - concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+    concept_label: BASIC NATURE
+    children:
+    - gloss: generalised
+      concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+      concept_label: FEATURE
+      children:
+      - gloss: concrete potential
+        concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+        concept_label: ABLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T01:50:18.287+09:00'

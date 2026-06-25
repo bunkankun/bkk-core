@@ -1,0 +1,73 @@
+uuid: b397c633-577b-4cb3-960d-ee6282772555
+type: tax-char
+heads:
+- 康
+pronunciations:
+- reading: kāng
+  old_chinese: khlaaŋ
+  middle_chinese: kʰɑŋ
+  fanqie: 苦岡切
+  tone: 平
+  guangyun: 和也樂也又姓衞康叔之後亦西胡姓苦岡切十四
+  senses:
+  - concept_uuid: c752541d-4ef4-4f86-8ca6-1ab1acd1e076
+    concept_label: HEALTHY
+    children:
+    - gloss: result
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+      children:
+      - gloss: undisturbed by content??
+        concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+        concept_label: EMPTY
+        children:
+        - gloss: psychological
+          concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+          concept_label: HUNGRY
+      - gloss: period of
+        concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+        concept_label: LEISURE
+      - gloss: feature
+        concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+        concept_label: HAPPY
+        children:
+        - gloss: action
+          concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+          concept_label: ENJOY
+    - gloss: generalised
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+      children:
+      - gloss: well-endowed
+        concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+        concept_label: RICH
+      - gloss: declarative
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+      - gloss: attitudinal
+        concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+        concept_label: SUPPORT
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: 68c2fcb8-f3eb-43a8-b411-ebd7dea6463f
+    concept_label: RULERS OF LIU
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+  - concept_uuid: 0aa44f4e-1b75-4f3b-84b4-6909c4e3b43a
+    concept_label: RULERS OF QIN
+  - concept_uuid: 6499795e-1eb9-405e-9288-691066c4da9f
+    concept_label: RULERS OF SHAO
+  - concept_uuid: 59f82040-712a-4326-9c5a-56b0ac103dc9
+    concept_label: RULERS OF SONG
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+unattributed_senses:
+- gloss: 康 ｋａｎｇ４《集韻》口浪切，去宕溪。
+  children:
+  - gloss: =亢
+    concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,65 @@
+uuid: 2a11fd40-b5af-45a3-8395-614f3e07f780
+type: tax-char
+heads:
+- 蓋
+pronunciations:
+- reading: gài
+  old_chinese: kaabs
+  middle_chinese: kɑi
+  fanqie: 古太切
+  tone: 去
+  guangyun: 覆也掩也通俗文曰張帛也禮記曰敝蓋不棄爲埋狗也又發語端也説文曰苫也俗作盖古太切三
+  senses:
+  - concept_uuid: cd51051b-05ed-4b6c-82ae-0217e3229146
+    concept_label: LID
+    children:
+    - gloss: generalised
+      concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+      concept_label: COVER
+      children:
+      - gloss: over vehicles
+        concept_uuid: 5ee75842-ac52-4055-9d15-ecec19fa2ac1
+        concept_label: BALDACHIN
+      - gloss: cause to cover all sorts of places
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+    - gloss: from sight
+      concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+      concept_label: CONCEAL
+      children:
+      - gloss: concealed from other's view
+        concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+        concept_label: PERSONALLY
+        children:
+        - gloss: adverbially
+          concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+          concept_label: REALITY
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+            concept_label: MODAL PARTICLES
+      - gloss: concealed and not (yet) certain
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+- reading: hé
+  old_chinese: ɡaab
+  middle_chinese: ɦɑp
+  fanqie: 胡臘切
+  tone: 入
+  guangyun: 苫蓋
+  senses:
+  - concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+    concept_label: WHY
+- reading: gě
+  old_chinese: kaab
+  middle_chinese: kɑp
+  fanqie: 古盍切
+  tone: 入
+  guangyun: 姓也漢有蓋寛饒字書作𨜴
+  senses:
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:26:42.909+09:00'

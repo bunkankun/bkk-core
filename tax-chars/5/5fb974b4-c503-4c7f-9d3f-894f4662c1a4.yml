@@ -1,0 +1,40 @@
+uuid: 5fb974b4-c503-4c7f-9d3f-894f4662c1a4
+type: tax-char
+heads:
+- 團
+pronunciations:
+- reading: tuán
+  old_chinese: doon
+  middle_chinese: dʷɑn
+  fanqie: 度官切
+  tone: 平
+  guangyun: 團圎度官切十二
+  senses:
+  - concept_uuid: e8771fdd-0e09-482b-a7c6-d7b75416f26a
+    concept_label: BALL
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 30fa5df8-a9ff-43d7-9041-24f2279e5ca5
+    concept_label: CONGEAL
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+    concept_label: GROUP
+  - concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+    concept_label: COMPANY
+  - concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+    concept_label: SHOP
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

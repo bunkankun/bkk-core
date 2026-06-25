@@ -1,0 +1,80 @@
+uuid: 7d2b1131-5e64-4084-bab5-573ec184163a
+type: tax-char
+heads:
+- 定
+pronunciations:
+- reading: dìng
+  old_chinese: deeŋs
+  middle_chinese: deŋ
+  fanqie: 徒徑切
+  tone: 去
+  guangyun: 安也亦州名帝堯始封唐國之城秦爲趙郡鉅鹿二郡漢爲中山郡後魏置安州又改爲定州以安定天下爲名徒徑切四
+- reading: dìng
+  old_chinese: teeŋs
+  middle_chinese: teŋ
+  fanqie: 丁定切
+  tone: 去
+  guangyun: 題額詩云定方之中定營室也又徒徑切
+  senses:
+  - gloss: =顁
+    concept_uuid: a434b70f-c079-4aff-a1ca-bcf568aa3cfd
+    concept_label: FOREHEAD
+unattributed_senses:
+- concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+  concept_label: FIX
+  children:
+  - gloss: spatial:in a place
+    concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+    children:
+    - gloss: move, physical
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+  - gloss: abstract state
+    concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+    children:
+    - gloss: feature
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+      children:
+      - gloss: causative
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: generalised
+          concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+          concept_label: ACHIEVE
+          children:
+          - gloss: productive
+            concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+            concept_label: COOK
+            children:
+            - gloss: 'exocentric: object cooked'
+              concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+              concept_label: FOOD
+    - gloss: 'exocentric: fixed heavenly body'
+      concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+      concept_label: STAR
+    - gloss: intellectually
+      concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+      concept_label: JUDGE
+      children:
+      - gloss: 'abstract: plan for oneself'
+        concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+        concept_label: DECIDE
+        children:
+        - gloss: 'psychological: attention'
+          concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+          concept_label: CONCENTRATE
+        - gloss: feature, abstract
+          concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+          concept_label: CERTAIN
+          children:
+          - gloss: 'grammaticalised: in fact'
+            concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+            concept_label: REALITY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T19:51:28.419+09:00'

@@ -1,0 +1,109 @@
+uuid: 38493665-9a38-4757-bbbd-f582b0d15aec
+type: tax-char
+heads:
+- 偏
+pronunciations:
+- reading: piān
+  old_chinese: phen
+  middle_chinese: pʰiɛn
+  fanqie: 芳連切
+  tone: 平
+  guangyun: 不正也鄙也衺也又姓急就章有偏吕張
+  senses:
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+    children:
+    - gloss: what one is slanted towards
+      concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+      concept_label: SIDE
+      children:
+      - gloss: relation
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+        children:
+        - gloss: feature
+          concept_uuid: 21da7354-c5a6-487d-8e9e-9501d698f615
+          concept_label: ISOLATED
+          children:
+          - gloss: exocentric
+            concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+            concept_label: COUNTRYSIDE
+    - gloss: 'grammaticalised: abstract'
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: generalised
+        concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+        concept_label: SPECIAL
+        children:
+        - gloss: and beyond expectation
+          concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+          concept_label: SUDDENLY
+    - gloss: towards oneself
+      concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+      concept_label: SELFISH
+      children:
+      - gloss: generalised
+        concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+        concept_label: WICKED
+    - gloss: physically
+      concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+      concept_label: APPROACH
+      children:
+      - gloss: 'grammaticalised, temporally: just'
+        concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+        concept_label: MOMENT
+    - gloss: hierarchically
+      concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+      concept_label: SUBORDINATE
+      children:
+      - gloss: action
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+    - gloss: psychologically
+      concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+      concept_label: PREFER
+    - gloss: socially
+      concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+      concept_label: PARTIAL
+    - gloss: medically unbalanced
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+    - gloss: hence incomplete
+      concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+      concept_label: PART
+      children:
+      - gloss: specifically
+        concept_uuid: f4511985-ff3c-45ff-88e1-6b80d517b4a6
+        concept_label: HALF
+        children:
+        - gloss: generalised
+          concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+          concept_label: FEW
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+            concept_label: ONLY
+          - gloss: causative
+            concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+            concept_label: REMOVE
+            children:
+            - gloss: constraints
+              concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+              concept_label: UNRESTRAINED
+  - concept_uuid: 80a2464f-3efe-4f42-9b15-bcf88291d9e4
+    concept_label: BATTALION
+  - gloss: =諞
+    concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+    concept_label: FLATTER
+  - gloss: =翩 (flutter)
+    concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+- reading: piàn
+  old_chinese: phens
+  middle_chinese: pʰiɛn
+  fanqie: 匹戰切
+  tone: 去
+  guangyun: 又音篇
+source:
+  source_file: taxchar.xml

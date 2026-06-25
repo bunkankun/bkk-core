@@ -1,0 +1,55 @@
+uuid: 1379b547-f119-4e08-8810-59ddef3d14ee
+type: tax-char
+heads:
+- 輸
+pronunciations:
+- reading: shù
+  old_chinese: lʰos
+  middle_chinese: ɕio
+  fanqie: 傷遇切
+  tone: 去
+  guangyun: 送也又式朱切
+- reading: shū
+  old_chinese: lʰo
+  middle_chinese: ɕio
+  fanqie: 式朱切
+  tone: 平
+  guangyun: 盡也寫也墮也説文曰委輸也式朱切又式注切三
+  senses:
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+  - concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+    concept_label: TRANSPORT
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+    concept_label: DEFEAT
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+  - concept_uuid: 5aeffb52-55ad-4e71-bb8a-e94d47a9d2cf
+    concept_label: PUNITIVE LABOUR
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+  - concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+    concept_label: NAVIGATE
+  - concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+    concept_label: POUR
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 渝
+source:
+  source_file: taxchar.xml

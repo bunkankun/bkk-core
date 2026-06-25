@@ -1,0 +1,25 @@
+uuid: 844501cc-bff5-47ac-98be-91c42e643fdc
+type: tax-char
+heads:
+- 蓮
+pronunciations:
+- reading: lián
+  old_chinese: b-reen
+  middle_chinese: len
+  fanqie: 落賢切
+  tone: 平
+  guangyun: 爾雅云荷芙蕖其實蓮落賢切八
+  senses:
+  - concept_uuid: a15eaab1-2a29-40f0-934a-b776efd0535f
+    concept_label: AROMATIC PLANTS
+- reading: liǎn
+  old_chinese: b-renʔ
+  middle_chinese: liɛn
+  fanqie: 力展切
+  tone: 上
+  guangyun: 蓮芍縣名在馮翊又音憐
+  senses:
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

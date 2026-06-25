@@ -1,0 +1,91 @@
+uuid: 8630251e-b8a3-441e-8c5a-098b1b1da063
+type: tax-char
+heads:
+- 會
+pronunciations:
+- reading: huì
+  old_chinese: ɡloobs
+  middle_chinese: ɦʷɑi
+  senses:
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+    children:
+    - gloss: join meeting
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+      children:
+      - gloss: location of meeting
+        concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+        concept_label: PLACE
+      - gloss: object ally
+        concept_uuid: e1da7261-fef3-440d-9304-1beed07b0ef2
+        concept_label: JOIN
+    - gloss: military
+      concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+      concept_label: BATTLE
+    - gloss: festive
+      concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+      concept_label: FEAST
+      children:
+      - gloss: political
+        concept_uuid: 8fc9304b-5d5b-4019-9f09-3da3de389201
+        concept_label: AUDIENCE
+    - gloss: physical
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: GATHER
+      children:
+      - gloss: causative
+        concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+        concept_label: COMBINE
+        children:
+        - gloss: abstract
+          concept_uuid: 8bf9e455-5bb7-4cf9-afc1-c7086a2a8fe7
+          concept_label: FIT
+          children:
+          - gloss: 'adverbial: the facts'
+            concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+            concept_label: CERTAIN
+          - gloss: cosmic
+            concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+            concept_label: COINCIDENCE
+            children:
+            - gloss: subjective
+              concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+              concept_label: OPPORTUNITY
+              children:
+              - gloss: generalised
+                concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+                concept_label: TIME
+        - gloss: mathematical
+          concept_uuid: 1a945368-8fe0-42d1-8db9-05b2781e1056
+          concept_label: COUNT
+          children:
+          - gloss: abstract
+            concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+            concept_label: CALCULATE
+        - gloss: 'object: combined with a main vessel'
+          concept_uuid: cd51051b-05ed-4b6c-82ae-0217e3229146
+          concept_label: LID
+    - gloss: sexual
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+    - gloss: vernacular:meet requirements
+      concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+      concept_label: ABLE
+      children:
+      - gloss: meet intellectual requirements
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+- reading: kuài
+  old_chinese: kloobs
+  middle_chinese: kʷɑi
+  senses:
+  - gloss: kuài
+    concept_uuid: 00c867e2-c6ae-4429-82a2-6b33599f873d
+    concept_label: ACCOUNTANCY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T01:49:47.936+09:00'

@@ -1,0 +1,24 @@
+uuid: 1aa574d2-6f58-4d22-8acc-e8890201a009
+type: tax-char
+heads:
+- 禱
+pronunciations:
+- reading: dào
+  old_chinese: tuus
+  middle_chinese: tɑu
+  fanqie: 都導切
+  tone: 去
+  guangyun: 祭也請也文字音義云得福曰祠求福曰禱又當老切
+- reading: dǎo
+  old_chinese: tuuʔ
+  middle_chinese: tɑu
+  fanqie: 都晧切
+  tone: 上
+  guangyun: 請也求福也
+  senses:
+  - concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+    concept_label: PRAY
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,28 @@
+uuid: c38a76f3-c5fd-4bf6-813c-b0515bf90796
+type: tax-char
+heads:
+- 喚
+pronunciations:
+- reading: huàn
+  old_chinese: qhoons
+  middle_chinese: hʷɑn
+  fanqie: 火貫切
+  tone: 去
+  guangyun: 同喚
+- reading: huàn
+  old_chinese: qhloons
+  middle_chinese: hʷɑn
+  fanqie: 火貫切
+  tone: 去
+  guangyun: 呼也火貫切八
+  senses:
+  - concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+    concept_label: NAME
+  - concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+    concept_label: SHOUT
+  - concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+    concept_label: SUMMON
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+source:
+  source_file: taxchar.xml

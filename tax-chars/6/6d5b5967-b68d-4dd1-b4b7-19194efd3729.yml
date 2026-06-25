@@ -1,0 +1,44 @@
+uuid: 6d5b5967-b68d-4dd1-b4b7-19194efd3729
+type: tax-char
+heads:
+- 色
+pronunciations:
+- reading: sè
+  old_chinese: sqrɯɡ
+  middle_chinese: ʃɨk
+  fanqie: 所力切
+  tone: 入
+  guangyun: 顔色所力切十五
+  senses:
+  - concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+    concept_label: COLOUR
+    children:
+    - gloss: generalised
+      concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+      concept_label: APPEARANCE
+      children:
+      - gloss: expressive
+        concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+        concept_label: FACE
+        children:
+        - gloss: feature
+          concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+          concept_label: BEAUTIFUL
+        - gloss: specifically
+          concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+          concept_label: SEXY
+      - gloss: general
+        concept_uuid: 045058b4-86fe-4afd-8795-62f5ad1bbf94
+        concept_label: LANDSCAPE
+        children:
+        - gloss: generalised
+          concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+          concept_label: THING
+          children:
+          - gloss: abstract
+            concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+            concept_label: CATEGORY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:09:15.073+09:00'

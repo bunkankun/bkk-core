@@ -1,0 +1,38 @@
+uuid: def10f27-5055-4cc9-a0f0-782f7c4c8b7c
+type: tax-char
+heads:
+- 股
+pronunciations:
+- reading: gǔ
+  old_chinese: kaaʔ
+  middle_chinese: kuo
+  fanqie: 公戶切
+  tone: 上
+  guangyun: 髀股
+  senses:
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 0b6c7196-54e3-422e-b381-f96776677cbe
+    concept_label: THIGH
+  - concept_uuid: 29d9355e-9957-476d-b2b8-415faedfb5e5
+    concept_label: LEG
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 7aa759ee-1c1d-45b2-a333-98c8588fc388
+    concept_label: STONE MUSICAL INSTRUMENTS
+  - concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+    concept_label: GEOMETRIC SHAPE
+  - concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+    concept_label: GROUP
+  - concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+    concept_label: PROPERTY
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: gǔ
+  old_chinese: klaaʔ
+  middle_chinese: kuo
+  fanqie: 公戶切
+  tone: 上
+  guangyun: 同股
+source:
+  source_file: taxchar.xml

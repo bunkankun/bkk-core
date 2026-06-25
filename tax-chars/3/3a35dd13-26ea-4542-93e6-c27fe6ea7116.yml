@@ -1,0 +1,63 @@
+uuid: 3a35dd13-26ea-4542-93e6-c27fe6ea7116
+type: tax-char
+heads:
+- 信
+pronunciations:
+- reading: xìn
+  old_chinese: sins
+  middle_chinese: sin
+  fanqie: 息晉切
+  tone: 去
+  guangyun: 忠信又驗也極也用也重也誠也又姓魏信陵君無忌之後又漢複姓何氏姓苑有信都信平二氏息晉切十一
+  senses:
+  - concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+    concept_label: FAITHFUL
+    children:
+    - gloss: action
+      concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+      concept_label: TRUST
+      children:
+      - gloss: obediently
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+      - gloss: trustworthy
+        concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+        concept_label: 'TRUE'
+        children:
+        - gloss: feature
+          concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+          concept_label: CERTAIN
+          children:
+          - gloss: vouch for as
+            concept_uuid: 1faaec3a-083c-41f2-8115-ef29c607dc48
+            concept_label: GUARANTEE
+        - gloss: putative
+          concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+          concept_label: BELIEVE
+          children:
+          - gloss: religious
+            concept_uuid: b838ea7b-4d97-4fdb-8f59-7ad11005aaa7
+            concept_label: FAITH
+        - gloss: objective:really
+          concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+          concept_label: REALITY
+  - gloss: addressed written meassage
+    concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+    concept_label: LETTER
+    children:
+    - gloss: generalised
+      concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+      concept_label: DOCUMENT
+    - gloss: deliverer of
+      concept_uuid: ae949ca3-c257-4406-8b08-7bc8482a23c4
+      concept_label: MESSENGER
+  - gloss: =?
+    concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - gloss: =伸
+    concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-05T01:27:29.692+09:00'

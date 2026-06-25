@@ -1,0 +1,76 @@
+uuid: 9c24acd5-70f4-47dd-92cb-b5ff9694aedb
+type: tax-char
+heads:
+- 塗
+pronunciations:
+- reading: chá
+  old_chinese: ɡrlaa
+  middle_chinese: ɖɯa
+  fanqie: 宅加切
+  tone: 平
+  guangyun: 塗飾又音徒
+- reading: tú
+  old_chinese: laa
+  middle_chinese: duo
+  fanqie: 同都切
+  tone: 平
+  guangyun: 塗泥也路也亦姓風俗通云漢諌議大夫塗禪
+  senses:
+  - concept_uuid: 4010f454-9f59-4984-90be-b1371b7d6c21
+    concept_label: MUD
+    children:
+    - gloss: mudpath, path
+      concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+      concept_label: WAY
+      children:
+      - gloss: related action
+        concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+        concept_label: TRAVEL
+      - gloss: abstract
+        concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+        concept_label: METHOD
+    - gloss: feature
+      concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+      concept_label: DIRTY
+    - gloss: abstract, causative
+      concept_label: DEFILE
+    - gloss: dryish
+      concept_uuid: dae1d007-9c13-4620-8ee4-e3ddbf77ef14
+      concept_label: CLAY
+    - gloss: 'action typically involving: spread'
+      concept_uuid: 4cabc60a-c17e-4a7a-8cd7-e0836f03b003
+      concept_label: SMEAR
+      children:
+      - gloss: so as to scatter substance
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+        children:
+        - gloss: specific
+          concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+          concept_label: PAINT
+          children:
+          - gloss: generalised
+            concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+            concept_label: EMBELLISH
+      - gloss: specific, impacting surface
+        concept_uuid: ba82af8b-b1d9-4907-baec-da112c8751a2
+        concept_label: SCRATCH
+      - gloss: so as to
+        concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+        concept_label: COVER
+        children:
+        - gloss: and then to put something new
+          concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+          concept_label: REPLACE
+        - gloss: so as to block opening
+          concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+          concept_label: BLOCK
+unattributed_senses:
+- concept_label: 塗 dù《集韻》徒故切，去暮定。
+  children:
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:43:18.681+09:00'

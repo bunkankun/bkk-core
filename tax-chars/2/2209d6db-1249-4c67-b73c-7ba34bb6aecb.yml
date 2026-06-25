@@ -1,0 +1,52 @@
+uuid: 2209d6db-1249-4c67-b73c-7ba34bb6aecb
+type: tax-char
+heads:
+- 寄
+pronunciations:
+- reading: jì
+  old_chinese: krals
+  middle_chinese: kɯiɛ
+  fanqie: 居義切
+  tone: 去
+  guangyun: 寄附説文託也居義切三
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+    children:
+    - gloss: 'abstract: dwell on in thought'
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+    - gloss: generalised
+      concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+      concept_label: BE IN
+      children:
+      - gloss: get permission to control and be in
+        concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+        concept_label: BORROW
+      - gloss: causative
+        concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+        concept_label: PUT
+        children:
+        - gloss: 'figurative: in the care of someone'
+          concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+          concept_label: ENTRUST
+        - gloss: 'reflexive: entrust oneself to'
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+        - gloss: outside confinement
+          concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+          concept_label: RELEASE
+        - gloss: in the hands of someone else
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+          children:
+          - gloss: at a distance
+            concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+            concept_label: SEND
+            children:
+            - gloss: 'figurative: into a new language; exocentric: official agent'
+              concept_uuid: a88a9039-f05e-4fe8-95e5-8492c81f8140
+              concept_label: TRANSLATE
+  - gloss: =暨
+source:
+  source_file: taxchar.xml

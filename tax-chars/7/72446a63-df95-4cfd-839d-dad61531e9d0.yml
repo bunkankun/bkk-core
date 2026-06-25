@@ -1,0 +1,104 @@
+uuid: 72446a63-df95-4cfd-839d-dad61531e9d0
+type: tax-char
+heads:
+- 索
+pronunciations:
+- reading: sè
+  old_chinese: slaaɡ
+  middle_chinese: ʃɯæk
+  fanqie: 山責切
+  tone: 入
+  guangyun: 求也取也好也
+- reading: suǒ
+  old_chinese: slaaɡ
+  middle_chinese: ʃɯiak
+  fanqie: 山戟切
+  tone: 入
+  guangyun: 求也山戟切又蘇各切六
+- reading: sè
+  old_chinese: sreeɡ
+  middle_chinese: ʃɯæk
+  fanqie: 山責切
+  tone: 入
+  guangyun: 同𡩡
+- reading: suǒ
+  old_chinese: sraaɡ
+  middle_chinese: ʃɯiak
+  fanqie: 山戟切
+  tone: 入
+  guangyun: 同𡩡
+- reading: suǒ
+  old_chinese: saaɡ
+  middle_chinese: sɑk
+  fanqie: 蘇各切
+  tone: 入
+  guangyun: 盡也散也又繩索亦姓出燉煌蘇各切又所㦸切六
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+    children:
+    - gloss: 'figurative: moral'
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+      children:
+      - gloss: means to enforce
+        concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+        concept_label: LAW
+    - gloss: specifically
+      concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+      concept_label: SQUEEZE
+    - gloss: means:(large)
+      concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+      concept_label: ROPE
+      children:
+      - gloss: made of metal
+        concept_uuid: 77bda498-65e4-4cf3-9802-a1a4582ead40
+        concept_label: CHAIN
+      - gloss: metonymy> HAIRCUT
+      - gloss: related action
+        concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+        concept_label: PULL
+        children:
+        - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+          concept_label: REQUEST
+          children:
+          - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+            concept_label: SEEK
+            children:
+            - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+              concept_label: EXHAUST
+              children:
+              - gloss: 'of tears: completely'
+                concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+                concept_label: FLOW
+              - gloss: grammaticalised
+                concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+                concept_label: ALL
+              - gloss: resultative.TOUCH
+                children:
+                - gloss: abstract, general
+                  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+                  concept_label: CHOOSE
+                  children:
+                  - gloss: psychological, intellectual
+                    concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+                    concept_label: THINK
+                    children:
+                    - gloss: systematic
+                      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+                      concept_label: INVESTIGATE
+                      children:
+                      - gloss: 'grammaticalised: in accordance with investigation,really'
+                        concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+                        concept_label: REALITY
+                  - gloss: choosing one's actions freely
+                    concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+                    concept_label: UNRESTRAINED
+                  - gloss: wife
+                    concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+                    concept_label: MARRY
+              - gloss: conative
+                concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+                concept_label: PURSUE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,26 @@
+uuid: 17a3f44f-bb44-41ab-abaf-1adc45c4cde3
+type: tax-char
+heads:
+- 囚
+pronunciations:
+- reading: qiú
+  old_chinese: lju
+  middle_chinese: ziu
+  fanqie: 似由切
+  tone: 平
+  guangyun: 拘也繫也似由切六
+  senses:
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+    concept_label: PRISONER
+  - concept_uuid: d67ec1a1-b300-459d-9abe-a5bd962d8f30
+    concept_label: HOSTAGE
+  - concept_uuid: b7bb8c1b-1379-45ce-94da-8855452ed3be
+    concept_label: CRIMINAL
+  - concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+    concept_label: LITIGATE
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+source:
+  source_file: taxchar.xml

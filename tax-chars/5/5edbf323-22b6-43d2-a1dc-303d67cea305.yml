@@ -1,0 +1,44 @@
+uuid: 5edbf323-22b6-43d2-a1dc-303d67cea305
+type: tax-char
+heads:
+- 池
+pronunciations:
+- reading: chí
+  old_chinese: rlal
+  middle_chinese: ɖɯiɛ
+  fanqie: 直離切
+  tone: 平
+  guangyun: 停水曰池廣雅曰沼也又姓漢有中牟令池瑗出風俗通又有池仲魚城門失火仲魚燒死故諺曰城門失火殃及池魚
+  senses:
+  - concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+    concept_label: MOAT
+    children:
+    - gloss: figurative:on garments
+      concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+      concept_label: ORNAMENT
+  - gloss: generalised
+    concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+    concept_label: CANAL
+  - gloss: round
+    concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+    concept_label: POND
+    children:
+    - gloss: reminiscent object
+      concept_uuid: 8d8af95f-b12b-4c1d-8b9a-05f84588e506
+      concept_label: INKSTONE
+- reading: tuó
+  old_chinese: laal
+  middle_chinese: dɑ
+  fanqie: 徒河切
+  tone: 平
+  guangyun: 虖池水名在并州界出周禮又音馳
+unattributed_senses:
+- concept_label: 池 chè《洪武正韻》直列切。
+  children:
+  - gloss: =撤
+    concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T23:48:33.579+09:00'

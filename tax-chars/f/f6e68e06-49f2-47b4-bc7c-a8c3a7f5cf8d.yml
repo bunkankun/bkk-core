@@ -1,0 +1,63 @@
+uuid: f6e68e06-49f2-47b4-bc7c-a8c3a7f5cf8d
+type: tax-char
+heads:
+- 曹
+pronunciations:
+- reading: cáo
+  old_chinese: dzuu
+  middle_chinese: dzɑu
+  fanqie: 昨勞切
+  tone: 平
+  guangyun: 曹局也又輩也衆也群也亦州名蓋取古國以名之又姓本自顓頊玄孫陸終之子六安是爲曹姓周武王封曹挾於邾故邾曹姓也魏武作家傳自云曹叔振鐸之後周武王封母弟振鐸於曹後以國爲氏出譙國彭城髙平鉅鹿四望昨勞切十四
+  senses:
+  - concept_uuid: efd8ec75-2eee-4d2c-aa55-0db1518b7a8e
+    concept_label: HERD
+    children:
+    - gloss: 'abstract:'
+      concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+      concept_label: GROUP
+      children:
+      - gloss: abstract
+        concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+        concept_label: CATEGORY
+        children:
+        - gloss: 'grammaticalised: 1. and 2. pronouns for inferiors'
+          concept_uuid: 43c5b81c-6c32-44c7-b8fa-f82f18c2e69f
+          concept_label: PLURAL SUFFIXES
+    - concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+      concept_label: ORDINARY
+      children:
+      - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+        concept_label: SERVANT
+        children:
+        - gloss: public minor
+          concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+          concept_label: OFFICIAL
+          children:
+          - gloss: institutional
+            concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+            concept_label: OFFICE
+    - gloss: specific> PAIR
+      children:
+      - gloss: 'exocentric: litigating parties'
+        concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+        concept_label: LITIGATE
+    - gloss: causative
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: GATHER
+  - gloss: (late:)
+    concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+    children:
+    - gloss: related feature
+      concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+      concept_label: ROTTEN
+  - concept_uuid: dc9f0f31-9059-4b7c-bfc0-a399e236053d
+    concept_label: RULERS OF CAO
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: =遭
+    concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+source:
+  source_file: taxchar.xml

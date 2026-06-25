@@ -1,0 +1,66 @@
+uuid: 4e97209a-ec84-4bab-a9f1-1f54e4d653dc
+type: tax-char
+heads:
+- 然
+pronunciations:
+- reading: rán
+  old_chinese: njen
+  middle_chinese: ȵiɛn
+  fanqie: 如延切
+  tone: 平
+  guangyun: 語助又如也是也説文曰燒也俗作燃又姓左傳楚有然舟何氏姓苑云今蒼梧人如延切九
+  senses:
+  - gloss: be like this
+    concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+    children:
+    - gloss: act thus
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: be thus
+        concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+        concept_label: COPULA
+        children:
+        - gloss: 'grammaticalised: sentence connective'
+          concept_uuid: 117152ee-1bfc-446b-8947-fc010bd3ae85
+          concept_label: THUS
+          children:
+          - gloss: post-verbal particle
+            concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+            concept_label: SUFFIX
+            children:
+            - gloss: rán
+              concept_uuid: 75bddb10-6c2f-4e54-828b-30e1175f7540
+              concept_label: VERBAL SUFFIX
+        - gloss: of a proposition:obtain, be so
+          concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+          concept_label: 'TRUE'
+          children:
+          - gloss: declare to be true
+            concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+            concept_label: ASSENT
+          - gloss: turn out to be true
+            concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+            concept_label: HAPPEN
+            children:
+            - gloss: be true nonetheless
+              concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+              concept_label: NONETHELESS
+            - gloss: be likely to happen
+              concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+              concept_label: PROBABLE
+  - gloss: loan for 焉
+    concept_uuid: c1654743-3e55-4188-816b-511da251682f
+    concept_label: PRONOUN
+  - gloss: loan for 燃
+    concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+unattributed_senses:
+- gloss: rán
+  concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+  concept_label: PARTICLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T20:20:04.037+09:00'

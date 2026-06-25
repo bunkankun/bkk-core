@@ -1,0 +1,28 @@
+uuid: e21927fd-1e6e-412b-bf4a-16dde21b67e1
+type: tax-char
+heads:
+- 竹
+pronunciations:
+- reading: zhú
+  old_chinese: tuɡ
+  middle_chinese: ʈiuk
+  fanqie: 張六切
+  tone: 入
+  guangyun: 説文作"个个"冬生草也象形下垂者箁箬也史記曰渭川千畮竹其人與千戸侯等亦姓本姜姓封爲孤竹君至伯夷叔齊之後以竹爲氏今遼西孤竹城是後漢有下邳相竹曾張六切六
+  senses:
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+    children:
+    - gloss: made of bamboo
+      concept_uuid: f6bdf64f-3f6a-4d18-b375-1983d90178d2
+      concept_label: PIPE
+    - gloss: specifically
+      concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+      concept_label: STATIONARY
+    - gloss: specifically
+      concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+      concept_label: TALLY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T21:31:20.118+09:00'

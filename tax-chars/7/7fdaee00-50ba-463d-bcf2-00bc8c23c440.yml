@@ -1,0 +1,38 @@
+uuid: 7fdaee00-50ba-463d-bcf2-00bc8c23c440
+type: tax-char
+heads:
+- 厭
+pronunciations:
+- reading: yā
+  old_chinese: qeb
+  middle_chinese: ʔiɛp
+  fanqie: 於葉切
+  tone: 入
+  guangyun: 厭伏亦惡夢又於琰切六
+- reading: yàn
+  old_chinese: qems
+  middle_chinese: ʔiɛm
+  fanqie: 於豔切
+  tone: 去
+  guangyun: 論語曰食不厭精於豔切五
+  senses:
+  - concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+    concept_label: BOREDOM
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+  - concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+    concept_label: DISSATISFIED
+  - concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+    concept_label: EAGER
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+- reading: yǎn
+  old_chinese: qemʔ
+  middle_chinese: ʔiɛm
+  fanqie: 於琰切
+  tone: 上
+  guangyun: 厭魅也又於豔切
+source:
+  source_file: taxchar.xml

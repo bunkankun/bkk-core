@@ -1,0 +1,68 @@
+uuid: e0e3b35d-a13b-4b1f-acdd-e6a142dca75a
+type: tax-char
+heads:
+- 揚
+pronunciations:
+- reading: yáng
+  old_chinese: k-laŋ
+  middle_chinese: jiɐŋ
+  fanqie: 與章切
+  tone: 平
+  guangyun: 舉也説也導也明也又州名禹貢曰淮海惟揚州李巡曰江南之氣躁勁厥性輕揚故曰揚州
+  senses:
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+    children:
+    - gloss: causative
+      concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+      concept_label: LIFT
+      children:
+      - gloss: 'object: what one lifts up'
+        concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+        concept_label: AXE
+      - gloss: eyes
+        concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+        concept_label: LOOK
+    - gloss: causative
+      concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+      concept_label: SCATTER
+      children:
+      - gloss: continuous
+        concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+        concept_label: STRETCH OUT
+      - gloss: through vocal strength
+        concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+        concept_label: LOUD
+        children:
+        - gloss: optical
+          concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+          concept_label: BRIGHT
+          children:
+          - gloss: 'generalised: flashing'
+            concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+            concept_label: BEAUTIFUL
+            children:
+            - gloss: declarative
+              concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+              concept_label: PRAISE
+              children:
+              - gloss: for an employment
+                concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+                concept_label: RECOMMEND
+                children:
+                - gloss: generalised
+                  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+                  concept_label: SHOW
+                  children:
+                  - gloss: generalised
+                    concept_uuid: bf236491-24df-4502-b928-cea735658b61
+                    concept_label: CONTINUE
+        - gloss: figurative
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T23:41:01.876+09:00'

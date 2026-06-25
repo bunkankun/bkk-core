@@ -1,0 +1,52 @@
+uuid: b3d42ee9-c31c-41dd-bae4-0914d23f187b
+type: tax-char
+heads:
+- 預
+- 豫
+pronunciations:
+- reading: yù
+  old_chinese: las
+  middle_chinese: jiɔ
+  fanqie: 羊洳切
+  tone: 去
+  guangyun: 安也先也廁也樂也佚也猒也怠也
+  senses:
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+    concept_label: EARLY
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+  - concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+    concept_label: KNOW
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+- reading: yù
+  old_chinese: las
+  middle_chinese: jiɔ
+  fanqie: 羊洳切
+  tone: 去
+  guangyun: 逸也備先也辨也早也安也猒也敘也又州名尚書禹貢曰荆河爲豫州釋名云豫州在九州中京師東常安豫也秦爲三川郡漢爲河南郡後魏置司州又改爲豫州亦獸名象屬又姓晉有豫讓羊洳切二十
+  senses:
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+    concept_label: EARLY
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+    concept_label: TRAVEL
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+source:
+  source_file: taxchar.xml

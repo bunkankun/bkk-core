@@ -1,0 +1,86 @@
+uuid: c32c2bc9-05e7-40ed-a9d3-6cf8bffaf2ad
+type: tax-char
+heads:
+- 敦
+pronunciations:
+- reading: tuán
+  old_chinese: doon
+  middle_chinese: dʷɑn
+  fanqie: 度官切
+  tone: 平
+  guangyun: 詩云有敦𤓰苦又都昆切
+  senses:
+  - concept_uuid: 11aec024-937d-4ac6-a54d-a20ffa8ae3d4
+    concept_label: ROUND
+- reading: dùn
+  old_chinese: tuuns
+  middle_chinese: tuon
+  fanqie: 都困切
+  tone: 去
+  guangyun: 豎也又都昆徒官二切
+  senses:
+  - concept_uuid: cf6bfb0d-e1aa-41f4-99a1-b17a35c10545
+    concept_label: VERTICAL
+- reading: dūn
+  old_chinese: tuun
+  middle_chinese: tuon
+  fanqie: 都昆切
+  tone: 平
+  guangyun: 迫也亦厚也又姓敦洽衞之醜人也都昆切七
+  senses:
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+    concept_label: GENEROUS
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - concept_uuid: ecf525a1-eb64-467b-9ed1-628e4f12ae08
+    concept_label: URGE
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+  - concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+    concept_label: INTIMATE
+  - concept_uuid: 4aa10180-a0c8-4bf2-9762-043bdbd2a4f4
+    concept_label: THICK
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: 2b8cad76-d05c-4793-84c3-0766768bddfe
+    concept_label: CASTRATE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 屯
+  - gloss: = 彫
+- reading: duī
+  old_chinese: tuul
+  middle_chinese: tuoi
+  fanqie: 都回切
+  tone: 平
+  guangyun: 詩曰敦彼獨宿
+  senses:
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: 1d0d10c8-9b84-4897-8860-1bb1d880ddab
+    concept_label: STEADY
+  - concept_uuid: 48d327c2-dd93-4300-aecc-044eb8389095
+    concept_label: COMPEL
+unattributed_senses:
+- gloss: 敦 duì
+  children:
+  - concept_uuid: 90acd163-bc09-472b-b190-121231185aa5
+    concept_label: FOOD VESSEL
+- gloss: 敦 zhǔn
+  children:
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+source:
+  source_file: taxchar.xml

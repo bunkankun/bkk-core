@@ -1,0 +1,52 @@
+uuid: ed8bd4c3-668a-44c9-a98a-625f03e5b430
+type: tax-char
+heads:
+- 絮
+pronunciations:
+- reading: nǜ
+  old_chinese: nas
+  middle_chinese: ɳiɔ
+  fanqie: 尼據切
+  tone: 去
+  guangyun: 姓也漢有絮舜
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: xù
+  old_chinese: snas
+  middle_chinese: siɔ
+  fanqie: 息據切
+  tone: 去
+  guangyun: 説文曰敝緜也息據切又抽據尼恕二切一
+  senses:
+  - concept_uuid: 49db33f6-2e70-4296-a8b6-a74129679508
+    concept_label: SILK PADDING
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: bb611323-d8ea-443c-9dd4-bb50bfd9800d
+    concept_label: COTTON
+  - concept_uuid: f192250b-eaa6-44d1-b59b-fc954df38692
+    concept_label: TURBAN
+  - concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+  - concept_uuid: d5e8911d-df18-4d79-9378-eb3186c32704
+    concept_label: TALKATIVE
+  - concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+    concept_label: BOREDOM
+- reading: chù
+  old_chinese: nʰas
+  middle_chinese: ʈʰiɔ
+  fanqie: 抽據切
+  tone: 去
+  guangyun: 和調食也抽據切三
+  senses:
+  - concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+    concept_label: COOK
+- reading: nà
+  old_chinese: rnaas
+  middle_chinese: nɯa
+  fanqie: 乃亞切
+  tone: 去
+  guangyun: 絲結亂也
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,31 @@
+uuid: 7f220181-c048-4c68-b141-138e825e27ac
+type: tax-char
+heads:
+- 渡
+pronunciations:
+- reading: dù
+  old_chinese: ɡ-laaɡs
+  middle_chinese: duo
+  fanqie: 徒故切
+  tone: 去
+  guangyun: 濟也過也去也徒故切五
+  senses:
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - gloss: causative, generalised
+    concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - gloss: 'abstract: spend time'
+    concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+    concept_label: LIVE
+  - gloss: specific
+    concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+    concept_label: LEAP OVER
+  - gloss: abstract
+    concept_uuid: be6f26ab-b13a-4bbf-ae2d-88d52adb6d8f
+    concept_label: TRANSCEND
+  - gloss: generalised object
+    concept_uuid: 5c40388e-b06d-4f8c-bb39-2d7fce66093b
+    concept_label: CROSSROADS
+source:
+  source_file: taxchar.xml

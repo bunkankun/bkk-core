@@ -1,0 +1,22 @@
+uuid: 1b19e545-c7ba-442b-abe3-6ae258da1e81
+type: tax-char
+heads:
+- 驗
+pronunciations:
+- reading: yàn
+  old_chinese: ŋɡroms
+  middle_chinese: ŋɯiɛm
+  fanqie: 魚窆切
+  tone: 去
+  guangyun: 證也徴也效也説文云馬名也魚窆切三
+  senses:
+  - concept_uuid: bb9ab141-adfb-443f-9908-f7485cbd7560
+    concept_label: CHECK
+  - concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+    concept_label: PROVE
+  - concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+    concept_label: EFFECT
+  - concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+    concept_label: SYMBOL
+source:
+  source_file: taxchar.xml

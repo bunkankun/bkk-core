@@ -1,0 +1,30 @@
+uuid: a0f4b255-7013-4664-a7c4-0d1719c1e06e
+type: tax-char
+heads:
+- 匠
+pronunciations:
+- reading: jiàng
+  old_chinese: sbaŋs
+  middle_chinese: dziɐŋ
+  fanqie: 疾亮切
+  tone: 去
+  guangyun: 工匠漢書曰將作少府秦官掌理官室又姓風俗通云凡氏於事巫卜陶匠是也疾亮切三
+  senses:
+  - concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+    concept_label: ARTISAN
+  - concept_uuid: 95a05433-8265-4179-aae6-831617ad0037
+    concept_label: CARPENTER
+  - concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+    concept_label: PRODUCE
+  - concept_uuid: 0c933384-0748-47e6-98c6-81ebe6b2f89c
+    concept_label: EDUCATE
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

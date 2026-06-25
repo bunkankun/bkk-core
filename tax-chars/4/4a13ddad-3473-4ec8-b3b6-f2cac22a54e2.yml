@@ -1,0 +1,56 @@
+uuid: 4a13ddad-3473-4ec8-b3b6-f2cac22a54e2
+type: tax-char
+heads:
+- 禮
+pronunciations:
+- reading: lǐ
+  old_chinese: riiʔ
+  middle_chinese: lei
+  fanqie: 盧啓切
+  tone: 上
+  guangyun: 説文曰履也所以事神致福也釋名曰禮體也得其事體也又姓左傳有衛大夫禮孔盧啓切十六
+unattributed_senses:
+- concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  concept_label: RITUAL
+  children:
+  - gloss: social
+    concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+    concept_label: CUSTOM
+    children:
+    - gloss: specifically
+      concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+      concept_label: FEAST
+  - gloss: moral
+    concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+    concept_label: POLITE
+    children:
+    - gloss: transitive attitude
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+      children:
+      - gloss: moral
+        concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+        concept_label: DUTY
+        children:
+        - gloss: towards non-relatives
+          concept_uuid: f3219f5d-2da3-4e80-88bc-cdb6f2957a65
+          concept_label: HOSPITALITY
+      - gloss: specifically
+        concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+        concept_label: GREET
+        children:
+        - gloss: in accordance to ritual
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+          children:
+          - gloss: specifically
+            concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+            concept_label: GIFT
+            children:
+            - gloss: specifically
+              concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+              concept_label: LIQUOR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:04:31.488+09:00'

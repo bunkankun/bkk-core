@@ -1,0 +1,60 @@
+uuid: 9dd4ee34-35bb-42d3-a56f-315522589b39
+type: tax-char
+heads:
+- 唯
+pronunciations:
+- reading: wéi
+  old_chinese: k-lul
+  middle_chinese: jʷi
+  fanqie: 以追切
+  tone: 平
+  guangyun: 獨也又以癸切
+  senses:
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+    children:
+    - gloss: 'grammaticalised: only because'
+      concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+      concept_label: BECAUSE
+      children:
+      - gloss: 'grammaticalised: supposing as a determinging cause'
+        concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+        concept_label: IF
+    - gloss: grammaticalised> if only
+      concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+      concept_label: HOPE
+      children:
+      - gloss: counterfactual
+        concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+        concept_label: UTINAM
+  - gloss: grammaticalised, general
+    concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+    concept_label: COPULA
+    children:
+    - gloss: contrastive
+      concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+      concept_label: NONETHELESS
+    - gloss: putative
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+      children:
+      - gloss: be mindful of in action
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+- reading: wěi
+  old_chinese: k-lulʔ
+  middle_chinese: jʷi
+  fanqie: 以水切
+  tone: 上
+  guangyun: 諾也以水切又音惟八
+  senses:
+  - concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+    concept_label: ANSWER
+    children:
+    - gloss: in the positive
+      concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+      concept_label: AGREE TO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T05:38:55.992+09:00'

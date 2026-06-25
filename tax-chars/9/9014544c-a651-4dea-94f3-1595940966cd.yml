@@ -1,0 +1,33 @@
+uuid: 9014544c-a651-4dea-94f3-1595940966cd
+type: tax-char
+heads:
+- 海
+pronunciations:
+- reading: hǎi
+  old_chinese: hmlɯɯʔ
+  middle_chinese: həi
+  fanqie: 呼改切
+  tone: 上
+  guangyun: 説文曰天池也以納百川者亦州禹貢徐州之域七國時屬楚秦爲薛郡漢爲東海郡後魏爲海州亦姓呼改切三
+  senses:
+  - concept_uuid: dd7585ff-f781-43d6-8bd4-d43b15415838
+    concept_label: SEA
+    children:
+    - gloss: small
+      concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+      concept_label: LAKE
+      children:
+      - gloss: playfully:smaller
+        concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+        concept_label: POND
+    - gloss: 'feature: multitude'
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+      children:
+      - gloss: comprehensive:the sea of everything
+        concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+        concept_label: WORLD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-20T19:33:05.021+09:00'

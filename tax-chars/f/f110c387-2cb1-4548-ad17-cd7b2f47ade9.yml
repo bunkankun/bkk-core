@@ -1,0 +1,30 @@
+uuid: f110c387-2cb1-4548-ad17-cd7b2f47ade9
+type: tax-char
+heads:
+- 瑣
+pronunciations:
+- reading: suǒ
+  old_chinese: soolʔ
+  middle_chinese: suɑ
+  fanqie: 蘇果切
+  tone: 上
+  guangyun: 青瑣漢書儀曰黄門令日暮入對靑瑣丹墀拜名曰夕郎又瑣小皃
+  senses:
+  - concept_uuid: 77bda498-65e4-4cf3-9802-a1a4582ead40
+    concept_label: CHAIN
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+  - concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+    concept_label: DETAILED
+  - concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+    concept_label: ORNAMENT
+  - concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+    concept_label: GATE
+  - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: LOCK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

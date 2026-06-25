@@ -1,0 +1,43 @@
+uuid: 87974074-1923-48f3-bc15-5c62fb6fdd20
+type: tax-char
+heads:
+- 蕃
+pronunciations:
+- reading: fān
+  old_chinese: pan
+  middle_chinese: pʷiɐn
+  fanqie: 甫煩切
+  tone: 平
+  guangyun: 蕃屏甫煩切六
+  senses:
+  - concept_uuid: 419ef76c-7738-4fe5-b9dc-040a0445ce81
+    concept_label: CHEEK
+  - concept_uuid: 9cb1a891-6624-426e-9c54-5906dd554b1c
+    concept_label: ABROAD
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - gloss: = 藩
+- reading: fán
+  old_chinese: ban
+  middle_chinese: bʷiɐn
+  fanqie: 附袁切
+  tone: 平
+  guangyun: 茂也息也滋也又音藩
+  senses:
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+    concept_label: INCREASE
+  - concept_uuid: 96ab7fc3-1d95-410a-9a09-6d447bc46878
+    concept_label: PROCREATE
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - gloss: = 繁
+source:
+  source_file: taxchar.xml

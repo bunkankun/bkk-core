@@ -1,0 +1,26 @@
+uuid: 9df1f4af-275e-4cf4-a2f8-ad040ea1a1ab
+type: tax-char
+heads:
+- 帳
+pronunciations:
+- reading: zhàng
+  old_chinese: krlaŋs
+  middle_chinese: ʈiɐŋ
+  fanqie: 知亮切
+  tone: 去
+  guangyun: 帷帳釋名曰小帳曰斗帳形如覆斗也漢書曰東方朔云陛下誠能用臣朔之計推甲乙之帳知亮切五
+  senses:
+  - concept_uuid: b1410f27-7b6e-40da-ac9d-a944ef149e9f
+    concept_label: CURTAIN
+    children:
+    - gloss: constructed with
+      concept_uuid: 5bfdaf2e-5888-495d-b48d-ad290c7ad5a3
+      concept_label: TENT
+      children:
+      - gloss: complex> PAVILLION
+    - gloss: generalised
+      concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+      concept_label: CLOTH
+  - gloss: =賬
+source:
+  source_file: taxchar.xml

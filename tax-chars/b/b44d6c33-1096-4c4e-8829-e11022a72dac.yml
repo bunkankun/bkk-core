@@ -1,0 +1,71 @@
+uuid: b44d6c33-1096-4c4e-8829-e11022a72dac
+type: tax-char
+heads:
+- 立
+pronunciations:
+- reading: lì
+  old_chinese: ɡ-rub
+  middle_chinese: lip
+  fanqie: 力入切
+  tone: 入
+  guangyun: 行立又住也成也又漢複姓魯有賢人立如子力入切九
+  senses:
+  - concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+    concept_label: STAND
+    children:
+    - gloss: abstract, continuative
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: figurative, abstract, “remain in existence”
+        concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+        concept_label: EXIST
+    - gloss: causative
+      concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+      concept_label: ESTABLISH
+      children:
+      - gloss: reflexive
+        concept_uuid: f036ca69-5150-41bd-9aaa-52bb69ed53b9
+        concept_label: FREE
+      - gloss: object:army
+        concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+        concept_label: MOBILISE
+      - gloss: 'abstract: what one has tried'
+        concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+        concept_label: ACHIEVE
+        children:
+        - gloss: something important
+          concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+          concept_label: SUCCEED
+      - gloss: politically
+        concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+        concept_label: INSTALL
+        children:
+        - gloss: be installed as ruler
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+        - gloss: establishing a new practice
+          concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+          concept_label: BEGIN
+          children:
+          - gloss: dwelling
+            concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+            concept_label: BUILD
+            children:
+            - gloss: 'abstract: family'
+              concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+              concept_label: MARRY
+            - gloss: 'abstract: any artifact'
+              concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+              concept_label: CREATE
+              children:
+              - gloss: object:text
+                concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+                concept_label: WRITE
+    - gloss: grammaticalised:stante pede
+      concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+      concept_label: IMMEDIATELY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T18:18:41.841+09:00'

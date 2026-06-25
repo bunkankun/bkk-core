@@ -1,0 +1,34 @@
+uuid: 84e916b7-0456-4c65-a4c0-5a9173fe8214
+type: tax-char
+heads:
+- 愁
+pronunciations:
+- reading: chóu
+  old_chinese: dzriw
+  middle_chinese: dʐiu
+  fanqie: 士尤切
+  tone: 平
+  guangyun: 憂也悲也苦也士尤切二
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+    children:
+    - gloss: about death
+      concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+      concept_label: MOURNING
+    - gloss: about future
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+    - gloss: profound and lasting
+      concept_uuid: 29d65978-f787-49b1-86ff-e119be3b913a
+      concept_label: MELANCHOLY
+    - gloss: intensely directed against someone
+      concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+      concept_label: ANGER
+      children:
+      - gloss: lasting, aggressive> RESENT
+unattributed_senses:
+- gloss: 愁 ｑｉａｏ３《集韻》子小切，上小精。
+- gloss: 愁 ｊｉｕ１《集韻》將由切，平尤精。
+source:
+  source_file: taxchar.xml

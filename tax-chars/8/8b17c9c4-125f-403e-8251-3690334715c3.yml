@@ -1,0 +1,40 @@
+uuid: 8b17c9c4-125f-403e-8251-3690334715c3
+type: tax-char
+heads:
+- 桀
+pronunciations:
+- reading: jié
+  old_chinese: ɡrad
+  middle_chinese: ɡɯiɛt
+  fanqie: 渠列切
+  tone: 入
+  guangyun: 磔也又夏王名
+  senses:
+  - gloss: =榤
+    concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+    concept_label: BEAM
+  - gloss: =傑
+    concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+    concept_label: HERO
+  - gloss: =傑
+    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+    concept_label: VIRTUE
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+    concept_label: CRUEL
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: 163cab3e-7077-4ed2-884e-d4ac15ff382e
+    concept_label: PROPER NAMES
+  - concept_uuid: 69b0a99e-0e0f-4174-b7ec-95e74d3f31c8
+    concept_label: RULERS OF XIA
+  - gloss: =揭
+    concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+source:
+  source_file: taxchar.xml

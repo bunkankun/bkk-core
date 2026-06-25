@@ -1,0 +1,37 @@
+uuid: 3e36a8eb-5072-4ff5-be46-ac7fe58d39af
+type: tax-char
+heads:
+- 拳
+pronunciations:
+- reading: quán
+  old_chinese: ɡron
+  middle_chinese: ɡʷɯiɛn
+  fanqie: 巨員切
+  tone: 平
+  guangyun: 屈手也廣雅云拳拳憂也又拳拳奉持之皃又姓衞大夫拳彌
+  senses:
+  - concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+    concept_label: EVENT
+  - concept_uuid: b8794663-3320-4e0e-ada8-33476189ddf6
+    concept_label: HAND
+  - concept_uuid: 3e010b68-9b90-458f-842f-adcc37c19ab8
+    concept_label: CLAWS
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 4739f90a-fd0a-45ef-8a83-ee6472880f3d
+    concept_label: MARTIAL ARTS
+  - concept_uuid: 1362b3c0-6b31-4264-9ac3-a07552b41734
+    concept_label: FRANK
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 18746cc0-e827-412b-8712-5aa045a0e964
+    concept_label: VERBAL MEASURE WORDS
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 弮
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,38 @@
+uuid: 33b5adfb-57ec-4adf-9164-9db1783eb37b
+type: tax-char
+heads:
+- 四
+pronunciations:
+- reading: sì
+  old_chinese: plids
+  middle_chinese: si
+  fanqie: 息利切
+  tone: 去
+  guangyun: 四籀文
+- reading: sì
+  old_chinese: plids
+  middle_chinese: si
+  fanqie: 息利切
+  tone: 去
+  guangyun: 四古文
+- reading: sì
+  old_chinese: plids
+  middle_chinese: si
+  fanqie: 息利切
+  tone: 去
+  guangyun: 説文曰隂數也象四分之形息利切十四
+  senses:
+  - concept_uuid: 855f9807-26e6-4e4a-b1f0-d0d5421e9eec
+    concept_label: FOUR
+    children:
+    - gloss: everyone in all four directions
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+      children:
+      - gloss: places
+        concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+        concept_label: EVERYWHERE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T22:29:06.745+09:00'

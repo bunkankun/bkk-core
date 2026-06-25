@@ -1,0 +1,27 @@
+uuid: 0267201c-575a-4e7b-afc5-daf26da16d74
+type: tax-char
+heads:
+- 婦
+pronunciations:
+- reading: fù
+  old_chinese: buʔ
+  middle_chinese: biu
+  fanqie: 房久切
+  tone: 上
+  guangyun: 説文曰婦服也从女持帚洒埽也房久切十五
+  senses:
+  - concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+    concept_label: WOMAN
+    children:
+    - gloss: transitive
+      concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+      concept_label: WIFE
+    - gloss: of one's son
+      concept_uuid: 87623a35-32b3-40db-8188-b3ee14cfd70b
+      concept_label: DAUGHTER-IN-LAW
+      children:
+      - gloss: generalised
+        concept_uuid: 327c1724-a571-4bf6-a05d-bf9246c1bc27
+        concept_label: IN-LAWS
+source:
+  source_file: taxchar.xml

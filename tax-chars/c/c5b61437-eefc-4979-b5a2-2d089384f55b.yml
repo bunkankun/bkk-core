@@ -1,0 +1,24 @@
+uuid: c5b61437-eefc-4979-b5a2-2d089384f55b
+type: tax-char
+heads:
+- 返
+pronunciations:
+- reading: fǎn
+  old_chinese: panʔ
+  middle_chinese: pʷiɐn
+  fanqie: 府遠切
+  tone: 上
+  guangyun: 還也
+  senses:
+  - concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+    concept_label: CONTRARY
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+    concept_label: RETURN
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+source:
+  source_file: taxchar.xml

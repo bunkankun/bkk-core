@@ -1,0 +1,33 @@
+uuid: 9104a839-2d54-4a02-8ae2-0e2d52ba048c
+type: tax-char
+heads:
+- 吾
+pronunciations:
+- reading: wú
+  old_chinese: ŋaa
+  middle_chinese: ŋuo
+  fanqie: 五乎切
+  tone: 平
+  guangyun: 我也漢改中尉爲執金吾吾御也執金革以御非常亦姓漢有廣陵令吾扈又漢複姓五氏鄭公子有食采於徐吾之郷後以爲氏左傳有鍾吾子其後氏焉昆吾氏昆吾國之後由吾氏秦相由余之後古有肩吾子隱者五乎切二十一
+- reading: yá
+  old_chinese: ŋraa
+  middle_chinese: ŋɯa
+  fanqie: 五加切
+  tone: 平
+  guangyun: 漢書金城郡有允吾縣允音船
+  senses:
+  - gloss: unstressed, non-contrastive
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+    children:
+    - gloss: impersonal “you”
+      concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+      concept_label: ONESELF
+    - gloss: plural
+      concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+      concept_label: WE
+  - gloss: =圄/御
+    concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+source:
+  source_file: taxchar.xml

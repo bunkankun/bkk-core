@@ -1,0 +1,45 @@
+uuid: 2872a5f4-e37b-4218-8783-2fc21c73c0aa
+type: tax-char
+heads:
+- 革
+pronunciations:
+- reading: gé
+  old_chinese: krɯɯɡ
+  middle_chinese: kɯæk
+  fanqie: 古核切
+  tone: 入
+  guangyun: 改也獸皮也兵革也亦姓漢功臣表有煑棗侯革朱
+  senses:
+  - concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+    concept_label: ARMOUR
+  - concept_uuid: b9e6c405-60f5-431f-b916-b8fb48c11036
+    concept_label: BRIDLE
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: f5ec67c7-9094-410c-a3fc-9514ba62816a
+    concept_label: LEATHER
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+    concept_label: DISMISS
+  - concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+  - concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+    concept_label: CAUTIOUS
+  - concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+    concept_label: CARRIAGE
+  - concept_uuid: 6203b39e-77a2-434b-bf90-0a7ed4476aae
+    concept_label: BAG
+  - gloss: MUSICAL INSTRUMENTS
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+  - concept_uuid: ceefc317-5bf3-4d9f-b2e0-eb130d374050
+    concept_label: PULSE
+  - concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+    concept_label: WING
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

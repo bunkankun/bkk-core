@@ -1,0 +1,34 @@
+uuid: fedd9848-22ee-427b-875e-1ce552009391
+type: tax-char
+heads:
+- 葉
+pronunciations:
+- reading: yè
+  old_chinese: leb
+  middle_chinese: jiɛp
+  fanqie: 與涉切
+  tone: 入
+  guangyun: 枝葉又姓吳志孫堅傳有都尉葉雄與渉切又式涉切十
+  senses:
+  - concept_uuid: 86575c27-928a-420b-bd2a-2cbad60b1dfc
+    concept_label: LEAF
+    children:
+    - gloss: figurative
+      concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+      concept_label: DESCENDANT
+    - gloss: similar
+      concept_uuid: 45fa64b2-57b3-42fb-893b-001111c44469
+      concept_label: PAGE
+- reading: shè
+  old_chinese: lʰeb
+  middle_chinese: ɕiɛp
+  fanqie: 書涉切
+  tone: 入
+  guangyun: 縣名在汝州又余涉切
+  senses:
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T21:34:49.128+09:00'

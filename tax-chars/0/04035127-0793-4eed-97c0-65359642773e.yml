@@ -1,0 +1,156 @@
+uuid: 04035127-0793-4eed-97c0-65359642773e
+type: tax-char
+heads:
+- 出
+pronunciations:
+- reading: chuì
+  old_chinese: khljuds
+  middle_chinese: tɕʰʷi
+  fanqie: 尺類切
+  tone: 去
+  guangyun: 尺類切又昌律切一
+- reading: chū
+  old_chinese: khljud
+  middle_chinese: tɕʰʷit
+  fanqie: 赤律切
+  tone: 入
+  guangyun: 進也見也逺也赤律切又赤季切一
+  senses:
+  - gloss: move out
+    concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+    concept_label: ISSUE
+    children:
+    - gloss: move out into existence
+      concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+      concept_label: ARISE
+      children:
+      - gloss: of events
+        concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+        concept_label: HAPPEN
+      - gloss: cause to arise
+        concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+        concept_label: BEGIN
+      - gloss: cause to exist for the first time
+        concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+        concept_label: CREATE
+      - gloss: begin life
+        concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+        concept_label: BIRTH
+        children:
+        - gloss: be born from, have as ancestor
+          concept_uuid: d7d791a7-6c04-4aaa-8c98-26ab3f901513
+          concept_label: DESCEND FROM
+        - gloss: who has begun life
+          concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+          concept_label: CHILD
+    - concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+      concept_label: OUTSIDE
+  - gloss: move outside
+    concept_uuid: 8364b0bd-096f-41e2-8c67-21e23a1fbf8a
+    concept_label: AWAY
+    children:
+    - gloss: from the state
+      concept_uuid: 9cb1a891-6624-426e-9c54-5906dd554b1c
+      concept_label: ABROAD
+    - gloss: move away
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+    - gloss: cause to be away
+      concept_uuid: 89830aaf-48a4-49cf-8f0c-4132c2f21dcd
+      concept_label: DIVORCE
+    - gloss: consider to be outside/irrelevant
+      concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+      concept_label: DISREGARD
+    - gloss: go in the direction of somewhere else
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+      children:
+      - gloss: leave home so as to to to a place
+        concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+        concept_label: TRAVEL
+        children:
+        - gloss: move away towards
+          concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+          concept_label: GO TO
+          children:
+          - gloss: go to and reach
+            concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+            concept_label: REACH
+            children:
+            - gloss: cause to go to
+              concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+              concept_label: LEAD
+          - gloss: travel so as to escape from a place
+            concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+            concept_label: FLEE
+            children:
+            - gloss: having fled, be away from one’s state
+              concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+              concept_label: EXILE
+              children:
+              - gloss: cause to be in exile
+                concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+                concept_label: BANISH
+                children:
+                - gloss: leave one’s place to launch a military attack
+                  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+                  concept_label: ATTACK
+                - gloss: allow to leave
+                  concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+                  concept_label: RELEASE
+    - gloss: cause to be away and belong to someone else
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: give away money for something
+        concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+        concept_label: PAY
+        children:
+        - gloss: money paid for something
+          concept_uuid: 5552df50-2a71-41a4-a567-79af5c252e65
+          concept_label: EXPENSE
+      - gloss: be outside and accessible to everyone
+        concept_uuid: 334a18e8-17db-41fa-b42d-17e7d2ce31bb
+        concept_label: PUBLIC
+        children:
+        - gloss: cause to become publicly accessible
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+      - gloss: as creatice action
+        concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+        concept_label: PRODUCE
+        children:
+        - concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+          concept_label: PUBLISH
+          children:
+          - gloss: somethign new
+            concept_uuid: b1bba123-4636-40ce-b77a-bcf517811143
+            concept_label: INVENT
+          - gloss: through language
+            concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+            concept_label: SPEAK
+            children:
+            - gloss: public dialogue
+              concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+              concept_label: DIALOGUE
+          - gloss: what emerges in the end
+            concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+            concept_label: RESULT
+    - gloss: begin to be beyond
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+      children:
+      - gloss: surpassing in quality
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+      - gloss: standardly surpass in status
+        concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+        concept_label: SUPERIOR
+unattributed_senses:
+- gloss: chū
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  concept_label: RISE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-20T00:21:50.194+09:00'

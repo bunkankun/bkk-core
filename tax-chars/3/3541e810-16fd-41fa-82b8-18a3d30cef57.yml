@@ -1,0 +1,25 @@
+uuid: 3541e810-16fd-41fa-82b8-18a3d30cef57
+type: tax-char
+heads:
+- 龍
+pronunciations:
+- reading: lóng
+  old_chinese: b-roŋ
+  middle_chinese: lioŋ
+  fanqie: 力鍾切
+  tone: 平
+  guangyun: 通也和也寵也鱗蟲之長也易曰雲從龍又姓舜納言龍之後力鍾切九
+  senses:
+  - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+    concept_label: DRAGON
+    children:
+    - gloss: metaphorical
+      concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+      concept_label: EMPEROR
+    - gloss: concrete
+      concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+      concept_label: HORSE
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-11-18T03:53:09.02+09:00'

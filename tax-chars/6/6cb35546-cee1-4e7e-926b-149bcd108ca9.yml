@@ -1,0 +1,30 @@
+uuid: 6cb35546-cee1-4e7e-926b-149bcd108ca9
+type: tax-char
+heads:
+- 娥
+pronunciations:
+- reading: é
+  old_chinese: ŋaal
+  middle_chinese: ŋɑ
+  fanqie: 五何切
+  tone: 平
+  guangyun: 同娥
+- reading: é
+  old_chinese: ŋaal
+  middle_chinese: ŋɑ
+  fanqie: 五何切
+  tone: 平
+  guangyun: 美好也又姓後魏將軍娥清
+  senses:
+  - concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+    concept_label: SEXY
+  - concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+    concept_label: WOMAN
+  - concept_uuid: 29330eb2-85fb-4157-9608-12f41767cacd
+    concept_label: PERSONAL NAMES
+  - concept_uuid: 63c676ac-f347-43ed-b49a-0c58d699ba07
+    concept_label: EYEBROW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

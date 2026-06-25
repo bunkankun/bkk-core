@@ -1,0 +1,73 @@
+uuid: 0e5d2de3-f041-4a80-bef3-f530eb3c80b5
+type: tax-char
+heads:
+- 執
+pronunciations:
+- reading: zhí
+  old_chinese: tjib
+  middle_chinese: tɕip
+  fanqie: 之入切
+  tone: 入
+  guangyun: 持也操也守也攝也説文作𡙕捕辠人也之入切六
+  senses:
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+    children:
+    - gloss: and deploy
+      concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+      concept_label: WIELD
+      children:
+      - gloss: hold onto in practice
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: continuous, as duty commands
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+          children:
+          - gloss: so as to impose oneself
+            concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+            concept_label: CONTROL
+            children:
+            - gloss: for a considerable time
+              concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+              concept_label: KEEP
+              children:
+              - gloss: and defend
+                concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+                concept_label: SAFEGUARD
+                children:
+                - gloss: intellectual:what one holds onto
+                  concept_uuid: 5a4f31a6-fd71-4d54-b1cc-5a45a848a677
+                  concept_label: OPINION
+            - gloss: intellectually or legally
+              concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+              concept_label: JUDGE
+    - gloss: inchoative
+      concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+      concept_label: TAKE
+      children:
+      - gloss: object person
+        concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+        concept_label: ARREST
+        children:
+        - gloss: with difficulty
+          concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+          concept_label: CATCH
+      - gloss: 'intellectual: try to get hold of'
+        concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+        concept_label: STUDY
+    - gloss: psychological:hold onto
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: recognise as friend
+        concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+        concept_label: GREET
+      - gloss: 'exocentric: person one relies on'
+        concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+        concept_label: FRIEND
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:13:00.539+09:00'

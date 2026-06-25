@@ -1,0 +1,28 @@
+uuid: 2bfd4631-6ea4-4f13-a81b-38a6875f0c05
+type: tax-char
+heads:
+- 汲
+pronunciations:
+- reading: jí
+  old_chinese: krɯb
+  middle_chinese: kɯip
+  fanqie: 居立切
+  tone: 入
+  guangyun: 汲引也又縣名在衞州又姓漢有中尉汲黯河東人
+  senses:
+  - concept_uuid: b98512b1-e27b-4c94-8efa-44119f9a2d4b
+    concept_label: FETCH
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+    concept_label: PROMOTE
+  - concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+    concept_label: LEARN
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

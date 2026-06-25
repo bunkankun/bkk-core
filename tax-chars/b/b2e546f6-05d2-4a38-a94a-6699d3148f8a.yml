@@ -1,0 +1,39 @@
+uuid: b2e546f6-05d2-4a38-a94a-6699d3148f8a
+type: tax-char
+heads:
+- 姿
+pronunciations:
+- reading: zī
+  old_chinese: sti
+  middle_chinese: tsi
+  fanqie: 即夷切
+  tone: 平
+  guangyun: 姿態
+  senses:
+  - concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+    concept_label: APPEARANCE
+    children:
+    - gloss: commendatory
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+      children:
+      - gloss: 'specific: charming'
+        concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+        concept_label: SEXY
+        children:
+        - gloss: of action and character
+          concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+          concept_label: UNRESTRAINED
+    - gloss: habitual performative
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: psychological
+        concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+        concept_label: ATTITUDE
+        children:
+        - gloss: =資
+          concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+          concept_label: TALENT
+source:
+  source_file: taxchar.xml

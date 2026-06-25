@@ -1,0 +1,41 @@
+uuid: 6b7a2c30-f9b8-4136-8bbb-2a590c0b7ce5
+type: tax-char
+heads:
+- 帥
+pronunciations:
+- reading: shuài
+  old_chinese: srud
+  middle_chinese: ʃʷit
+  fanqie: 所律切
+  tone: 入
+  guangyun: 佩巾又將帥亦姓本姓師晉景帝諱改爲帥氏晉有尚書郎帥昺又所類切
+  senses:
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+  - concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+    concept_label: SEXY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: shuài
+  old_chinese: sruds
+  middle_chinese: ʃʷɯi
+  fanqie: 所類切
+  tone: 去
+  guangyun: 將帥也曹憲文字指歸云佩巾也所類切又所律切二
+  senses:
+  - concept_uuid: 28015ba4-ad05-4a94-91a6-4772f7efd10a
+    concept_label: GENERAL
+  - concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+    concept_label: IMPORTANT
+source:
+  source_file: taxchar.xml

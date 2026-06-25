@@ -1,0 +1,106 @@
+uuid: fcff39a7-9c5a-4472-b50c-913fe01fcf2f
+type: tax-char
+heads:
+- 流
+pronunciations:
+- reading: liú
+  old_chinese: ru
+  middle_chinese: liu
+  fanqie: 力求切
+  tone: 平
+  guangyun: 演也求也覃也放也説文曰水行也
+unattributed_senses:
+- concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+  concept_label: FLOW
+  children:
+  - gloss: causative
+    concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+    concept_label: POUR
+    children:
+    - gloss: 'causative: by inundating'
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+  - gloss: specifically:subject
+    concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+    children:
+    - gloss: moving
+      concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+      concept_label: RIVER
+    - gloss: be moved along on
+      concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+      concept_label: FLOAT
+      children:
+      - gloss: action
+        concept_uuid: 8ac2c103-2517-4ad1-b55e-5aae5299cfd7
+        concept_label: SWIM
+      - gloss: psychological:without orientation
+        concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+        concept_label: CONFUSED
+        children:
+        - gloss: deliberate
+          concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+          concept_label: UNRESTRAINED
+        - gloss: social
+          concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+          concept_label: VULGAR
+  - gloss: inchoative
+    concept_uuid: ffacdeed-ca72-445e-88ce-79e2fc9db89a
+    concept_label: MELT
+    children:
+    - gloss: general
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+      children:
+      - gloss: gradual
+        concept_uuid: 18041b84-6283-43f5-be85-45c6e4adfb0c
+        concept_label: DEVELOPMENT
+        children:
+        - gloss: causative
+          concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+          concept_label: INFLUENCE
+        - gloss: place
+          concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+          concept_label: MOVE
+          children:
+          - gloss: 'causative: spread'
+            concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+            concept_label: DISTRIBUTE
+            children:
+            - gloss: 'figurative: inherited'
+              concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+              concept_label: TRANSMIT
+            - gloss: causative, interactive
+              concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+              concept_label: EXCHANGE
+          - gloss: action
+            concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+            concept_label: TRAVEL
+            children:
+            - gloss: causative
+              concept_uuid: 9255ee0d-15de-40ba-9be7-06f336bc007f
+              concept_label: SEND DOWN
+            - gloss: causative
+              concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+              concept_label: BANISH
+      - gloss: into parts
+        concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+        concept_label: DIVIDE
+        children:
+        - gloss: set divided off
+          concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+          concept_label: GROUP
+          children:
+          - gloss: political
+            concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+            concept_label: FACTION
+          - gloss: abstract
+            concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+            concept_label: CATEGORY
+  - gloss: =?
+    concept_uuid: c1e904d1-c323-4f07-921d-9782ac32c047
+    concept_label: VESSEL PARTS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T18:22:19.198+09:00'

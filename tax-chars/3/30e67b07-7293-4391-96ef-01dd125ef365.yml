@@ -1,0 +1,97 @@
+uuid: 30e67b07-7293-4391-96ef-01dd125ef365
+type: tax-char
+heads:
+- 安
+pronunciations:
+- reading: ān
+  old_chinese: qaan
+  middle_chinese: ʔɑn
+  fanqie: 烏寒切
+  tone: 平
+  guangyun: 安徐也寧也止也平也亦州名春秋時鄖國漢屬江夏郡宋分江夏郡爲安陸郡武德年討平王丗充改爲安州有鄖水亦姓風俗通云漢有安成爲太守廬山記有安息國王子安髙又漢複姓有安都氏烏寒切五
+  senses:
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+    children:
+    - gloss: thus inert
+      concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+      concept_label: SLOW
+    - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+      children:
+      - gloss: 'causative: cause to remain in one place'
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+      - gloss: 'abstract:'
+        concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+        concept_label: BE IN
+        children:
+        - gloss: settle in kneeling/sitting position
+          concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+          concept_label: SIT
+        - gloss: 'grammaticalised: at that point of time'
+          concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+          concept_label: THEREUPON
+        - gloss: 'causative:'
+          concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+          concept_label: PUT
+        - gloss: feel well in
+          concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+          concept_label: COMFORTABLE
+          children:
+          - gloss: cause to be smooth and comfortable
+            concept_uuid: 394a0980-04a6-4a42-b28f-ceea8dc2b09a
+            concept_label: MANAGE
+          - gloss: what one feels comfortable with
+            concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+            concept_label: HABIT
+          - gloss: medically
+            concept_uuid: c752541d-4ef4-4f86-8ca6-1ab1acd1e076
+            concept_label: HEALTHY
+          - gloss: mood-wise
+            concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+            concept_label: HAPPY
+            children:
+            - gloss: find happiness in
+              concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+              concept_label: ENJOY
+              children:
+              - gloss: thus associate with
+                concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+                concept_label: FOLLOW
+              - gloss: intensely
+                concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+                concept_label: LOVE
+            - gloss: 'causative (conative):'
+              concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+              concept_label: CONSOLE
+          - gloss: security-wise
+            concept_uuid: 056420a0-1add-4ebb-ac5d-9006d57b1135
+            concept_label: SAFE
+  - gloss: grammaticalised:manner
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+    children:
+    - gloss: place
+      concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+      concept_label: WHERE
+    - gloss: origin
+      concept_uuid: 0ef96ca0-241c-462a-9699-d38083e92c4e
+      concept_label: WHENCE
+    - gloss: goal
+      concept_uuid: a181a8dd-f86c-487b-80d4-a5cace7646fb
+      concept_label: WHITHER
+    - gloss: how justified
+      concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+      concept_label: WHY
+    - gloss: object
+      concept_uuid: 98506c6b-03a1-4f1a-9993-30b67eae19c5
+      concept_label: WHOM
+unattributed_senses:
+- gloss: =案
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+  concept_label: THEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T20:47:00.153+09:00'

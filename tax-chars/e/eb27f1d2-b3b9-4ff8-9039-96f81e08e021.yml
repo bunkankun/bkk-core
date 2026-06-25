@@ -1,0 +1,81 @@
+uuid: eb27f1d2-b3b9-4ff8-9039-96f81e08e021
+type: tax-char
+heads:
+- 大
+pronunciations:
+- reading: duò
+  old_chinese: daads
+  middle_chinese: dɑ
+  fanqie: 唐佐切
+  tone: 去
+  guangyun: 又唐蓋切
+- reading: dà
+  old_chinese: daads
+  middle_chinese: dɑi
+  fanqie: 徒蓋切
+  tone: 去
+  guangyun: 小大也説文曰天大地大人亦大故大象人形又漢複姓五氏晉獻公娶大狐氏楚襄王時有黃邑大夫大心子成史記秦將軍大羅洪周禮大羅氏掌鳥獸者其後氏焉又大庭氏古天子 之号其後氏焉又有大叔氏又虜複姓後魏末有南州刺史大野拔又虜三字姓周書蔡祐賜姓大利稽氏周末有尉回將軍大莫于玄章後魏書南方大洛稽氏後改爲稽氏徒蓋切八
+  senses:
+  - gloss: in bulk
+    concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+    children:
+    - gloss: in extent
+      concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+      concept_label: LARGE
+      children:
+      - gloss: lateral
+        concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+        concept_label: BROAD
+      - gloss: big in respect of the size of constitutive small parts
+        concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+        concept_label: COARSE
+    - gloss: in number
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+    - gloss: 'human: in age'
+      concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+      concept_label: ADULT
+      children:
+      - gloss: comparative
+        concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+        concept_label: SENIOR
+    - gloss: abstract
+      concept_uuid: beb5de81-af3e-4a12-a638-76b1b41ea24c
+      concept_label: SIZE
+      children:
+      - gloss: generalised
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: sound-wise
+          concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+          concept_label: LOUD
+        - gloss: speak of as being more intensely the case than really
+          concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+          concept_label: EXAGGERATE
+        - gloss: significance-wise
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+          children:
+          - gloss: very important
+            concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+            concept_label: GREAT
+            children:
+            - gloss: deem great/superior
+              concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+              concept_label: CHOOSE
+            - gloss: declarative, hyperbolic:declare oneself great
+              concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+              concept_label: BOAST
+        - gloss: 'polite cicrumlocution: your'
+          concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+          concept_label: YOU
+unattributed_senses:
+- gloss: tài
+  concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+  concept_label: EXCESSIVE
+source:
+  source_file: taxchar.xml
+  resp: chris
+  date: '2022-10-22T12:42:03.245+09:00'

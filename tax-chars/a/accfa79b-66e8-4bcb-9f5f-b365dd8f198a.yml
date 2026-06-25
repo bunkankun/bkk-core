@@ -1,0 +1,53 @@
+uuid: accfa79b-66e8-4bcb-9f5f-b365dd8f198a
+type: tax-char
+heads:
+- 料
+pronunciations:
+- reading: liáo
+  old_chinese: reew
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 料理也量也又郎弔切
+  senses:
+  - concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+    concept_label: RUB
+- reading: liào
+  old_chinese: reews
+  middle_chinese: leu
+  fanqie: 力弔切
+  tone: 去
+  guangyun: 料度量也又音僚
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+    concept_label: BELIEVE
+  - concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+    concept_label: CALCULATE
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+    concept_label: CARE FOR
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: THROW
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 27187bb6-4dc1-4049-8337-5c9399a070ad
+    concept_label: PRECIOUS STONE
+  - concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+    concept_label: SALARY
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: MATERIAL
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

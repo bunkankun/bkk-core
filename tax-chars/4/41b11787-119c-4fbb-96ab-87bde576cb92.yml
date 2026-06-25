@@ -1,0 +1,34 @@
+uuid: 41b11787-119c-4fbb-96ab-87bde576cb92
+type: tax-char
+heads:
+- 我
+pronunciations:
+- reading: wǒ
+  old_chinese: ŋaalʔ
+  middle_chinese: ŋɑ
+  fanqie: 五可切
+  tone: 上
+  guangyun: 己稱又姓我子古賢者著書五可切五
+  senses:
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+    children:
+    - gloss: plural
+      concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+      concept_label: WE
+    - gloss: impersonal
+      concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+      concept_label: ONESELF
+      children:
+      - gloss: 'abstract: the Self'
+        concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+        concept_label: SELF
+        children:
+        - gloss: abstractly
+          concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+          concept_label: SELFISH
+        - gloss: specifically> one’s own land
+          concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+          concept_label: TERRITORY
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,29 @@
+uuid: caa8e037-e4d1-4d4e-bd3e-c299c45e3e54
+type: tax-char
+heads:
+- 羹
+pronunciations:
+- reading: gēng
+  old_chinese: kraaŋ
+  middle_chinese: kɯaŋ
+  fanqie: 古行切
+  tone: 平
+  guangyun: 古文羹
+- reading: gēng
+  old_chinese: kraaŋ
+  middle_chinese: kɯaŋ
+  fanqie: 古行切
+  tone: 平
+  guangyun: 羮𦞦爾雅曰肉謂之羮
+  senses:
+  - concept_uuid: 3057ae98-478b-43eb-a718-868f1b63f9b3
+    concept_label: SOUP
+    children:
+    - gloss: possible ingredient
+      concept_uuid: 64e14266-2800-4a4f-bb3a-23d1754a3cf7
+      concept_label: PICKLED MEAT
+    - gloss: action
+      concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+      concept_label: COOK
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,69 @@
+uuid: 6eb35944-a203-4208-a167-c353513db951
+type: tax-char
+heads:
+- 壯
+pronunciations:
+- reading: zhuàng
+  old_chinese: skraŋs
+  middle_chinese: tʂiɐŋ
+  fanqie: 側亮切
+  tone: 去
+  guangyun: 大也側亮切三
+  senses:
+  - concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+    concept_label: ADULT
+    children:
+    - gloss: not yet old
+      concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+      concept_label: YOUNG
+      children:
+      - gloss: abstract
+        concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+        concept_label: AGE
+      - gloss: typical feature
+        concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+        concept_label: STRONG
+        children:
+        - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+          concept_label: SOLID
+          children:
+          - gloss: feature
+            concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+            concept_label: HARD
+        - gloss: process
+          concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+          concept_label: FLOURISH
+          children:
+          - gloss: quantitative
+            concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+            concept_label: ABUNDANT
+          - gloss: feature
+            concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+            concept_label: QUICK
+        - gloss: specifically
+          concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+          concept_label: COURAGE
+        - gloss: specifically
+          concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+          concept_label: BEAUTIFUL
+          children:
+          - gloss: elevated
+            concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+            concept_label: ELEGANT
+            children:
+            - gloss: declarative
+              concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+              concept_label: PRAISE
+              children:
+              - gloss: specifically
+                concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+                concept_label: RECOMMEND
+  - gloss: BARBARIANS
+  - gloss: =莊
+    concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+  - gloss: =戕
+    concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,36 @@
+uuid: d1dc8f40-b970-4499-8de6-bb7e41da151e
+type: tax-char
+heads:
+- 背
+pronunciations:
+- reading: bèi
+  old_chinese: bɯɯɡs
+  middle_chinese: buoi
+  fanqie: 蒲昧切
+  tone: 去
+  guangyun: 弃背又姓也又補妹切
+  senses:
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+    children:
+    - gloss: politically
+      concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+      concept_label: REVOLT
+- reading: bèi
+  old_chinese: pɯɯɡs
+  middle_chinese: puoi
+  fanqie: 補妹切
+  tone: 去
+  guangyun: 脊背補妹切三
+  senses:
+  - concept_uuid: 7d3a14a0-d3e8-4197-8e0c-2c8a387eaa03
+    concept_label: SPINE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+      concept_label: BEHIND
+    - gloss: 'related action: on back'
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+source:
+  source_file: taxchar.xml

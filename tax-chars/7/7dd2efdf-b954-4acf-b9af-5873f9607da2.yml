@@ -1,0 +1,52 @@
+uuid: 7dd2efdf-b954-4acf-b9af-5873f9607da2
+type: tax-char
+heads:
+- 群
+pronunciations:
+- reading: qún
+  old_chinese: ɡlun
+  middle_chinese: ɡiun
+  fanqie: 渠云切
+  tone: 平
+  guangyun: 羣隊也説文輩也亦作群渠云切五
+  senses:
+  - concept_uuid: efd8ec75-2eee-4d2c-aa55-0db1518b7a8e
+    concept_label: HERD
+    children:
+    - gloss: causative
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: GATHER
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+        concept_label: ALL
+        children:
+        - gloss: grammaticalised
+          concept_uuid: e3d9db5b-2c53-4e29-be60-5b415b6a29b8
+          concept_label: PLURAL PREFIXES
+    - gloss: generalised
+      concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+      concept_label: GROUP
+      children:
+      - gloss: generic
+        concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+        concept_label: PEOPLE
+        children:
+        - gloss: political
+          concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+          concept_label: FACTION
+          children:
+          - gloss: 'action: form cooperative groups'
+            concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+            concept_label: COOPERATE
+            children:
+            - gloss: grammaticalised:_the_numerous
+              concept_uuid: e3d9db5b-2c53-4e29-be60-5b415b6a29b8
+              concept_label: PLURAL PREFIXES
+              children:
+              - gloss: exhaustive:_all_the
+                concept_label: ALL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-23T00:41:16.767+09:00'

@@ -1,0 +1,35 @@
+uuid: d3ac601d-124e-49e3-8794-5ee117bc4004
+type: tax-char
+heads:
+- 驚
+pronunciations:
+- reading: jīng
+  old_chinese: kreŋ
+  middle_chinese: kɯiaŋ
+  fanqie: 舉卿切
+  tone: 平
+  guangyun: 懼也説文曰馬駭也舉卿切七
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+    children:
+    - gloss: intellectual
+      concept_uuid: 42056888-4ede-4f26-adb1-3702567a9486
+      concept_label: SURPRISED
+    - gloss: causative
+      concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+      concept_label: FRIGHTEN
+      children:
+      - gloss: figurative
+        concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+        concept_label: SHAKE
+        children:
+        - gloss: feature
+          concept_label: FAST
+  - gloss: =警
+    concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T17:53:33.285+09:00'

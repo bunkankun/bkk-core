@@ -1,0 +1,26 @@
+uuid: e7d2a7a2-bc6e-4feb-9a33-35f1e1b31e77
+type: tax-char
+heads:
+- 菌
+pronunciations:
+- reading: jùn
+  old_chinese: ɡrunʔ
+  middle_chinese: ɡʷɯin
+  fanqie: 渠殞切
+  tone: 上
+  guangyun: 地菌又姓出姓苑
+  senses:
+  - concept_uuid: 5a419c4c-2508-482a-86d0-5378ca825d37
+    concept_label: MUSHROOM
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: 50a0fc91-6d63-4ec9-adc0-629d58591efe
+    concept_label: BACTERIUM
+- reading: juàn
+  old_chinese: ɡonʔ
+  middle_chinese: ɡʷiɐn
+  fanqie: 求晚切
+  tone: 上
+  guangyun: 蕈也又求敏切
+source:
+  source_file: taxchar.xml

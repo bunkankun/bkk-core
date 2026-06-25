@@ -1,0 +1,38 @@
+uuid: 0e798eee-5e8d-43f1-b357-2bbcf3d1eb3a
+type: tax-char
+heads:
+- 奚
+pronunciations:
+- reading: xī
+  old_chinese: ɡee
+  middle_chinese: ɦei
+  fanqie: 胡雞切
+  tone: 平
+  guangyun: 何也説文曰大腹也又東北夷名亦姓夏車正奚仲又虜複姓後魏書有達奚薄奚統奚吐奚等四氏胡雞切十八
+  senses:
+  - gloss: BARBARIANS
+    children:
+    - concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+      concept_label: SLAVE
+      children:
+      - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+        concept_label: SERVANT
+  - gloss: grammaticalised
+    concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+    concept_label: WHAT
+  - gloss: grammaticalised
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - gloss: grammaticalised
+    concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+    concept_label: WHERE
+  - gloss: grammaticalised
+    concept_uuid: a181a8dd-f86c-487b-80d4-a5cace7646fb
+    concept_label: WHITHER
+  - gloss: grammaticalised
+    concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+    concept_label: WHY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

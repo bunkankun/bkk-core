@@ -1,0 +1,81 @@
+uuid: 826f7e86-d073-40d8-b5ee-709b7500663d
+type: tax-char
+heads:
+- 離
+pronunciations:
+- reading: lí
+  old_chinese: b-rel
+  middle_chinese: liɛ
+  fanqie: 呂支切
+  tone: 平
+  guangyun: 近曰離逺曰别説文曰離黄倉庚鳴則蠶生今用鸝爲鸝黄借離爲離别也又姓孟軻門人有離婁吕支切三十七
+- reading: lì
+  old_chinese: b-rels
+  middle_chinese: liɛ
+  fanqie: 力智切
+  tone: 去
+  guangyun: 去也又力知切
+- reading: lì
+  old_chinese: b-reels
+  middle_chinese: lei
+  fanqie: 郎計切
+  tone: 去
+  guangyun: 漢書云附離著也
+unattributed_senses:
+- concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+  concept_label: LEAVE
+  children:
+  - gloss: object undesirable
+    concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: FLEE
+    children:
+    - gloss: general
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+      children:
+      - gloss: flee in vain
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+        children:
+        - gloss: general
+          concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+          concept_label: ENCOUNTER
+      - gloss: subjective
+        concept_uuid: cc904ef7-5afa-4730-811a-90532c83bcb5
+        concept_label: EXPERIENCE
+      - gloss: action
+        concept_uuid: 36e1fa8e-0596-4eed-a000-dfae2593bf0f
+        concept_label: RISK
+  - gloss: resultative
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+    children:
+    - gloss: abstract
+      concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+      concept_label: DIFFERENT
+      children:
+      - gloss: deviate in action
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+        children:
+        - gloss: mutual
+          concept_uuid: 1006db8e-cb61-453f-beb7-d37f4c343e12
+          concept_label: CONFLICT
+    - gloss: putative
+      concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+      concept_label: DISTINGUISH
+      children:
+      - gloss: physically
+        concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+        concept_label: DIVIDE
+        children:
+        - gloss: in language:set out distinctly
+          concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+          concept_label: WRITE
+        - gloss: into many small parts
+          concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+          concept_label: SCATTER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T23:51:37.878+09:00'

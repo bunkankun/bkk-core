@@ -1,0 +1,32 @@
+uuid: d0e3c57f-1b10-45df-b35e-7a65846adcf0
+type: tax-char
+heads:
+- 耳
+pronunciations:
+- reading: ěr
+  old_chinese: mljɯʔ
+  middle_chinese: ȵɨ
+  fanqie: 而止切
+  tone: 上
+  guangyun: 辝也説文云主聽也而止切五
+  senses:
+  - concept_uuid: cfec8c6f-06c5-479d-96a4-5ea48af644f2
+    concept_label: EAR
+    children:
+    - gloss: process
+      concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+      concept_label: HEAR
+      children:
+      - gloss: conative
+        concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+        concept_label: LISTEN
+      - gloss: metonymy, “ears of grain”
+        concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+        concept_label: SPROUT
+  - gloss: grammaticalised:=而已
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-16T22:59:07.113+09:00'

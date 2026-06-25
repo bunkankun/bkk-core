@@ -1,0 +1,52 @@
+uuid: 8c23fa3c-6084-4a56-aa26-70560e7c3715
+type: tax-char
+heads:
+- 彌
+pronunciations:
+- reading: mí
+  old_chinese: mel
+  middle_chinese: miɛ
+  fanqie: 武移切
+  tone: 平
+  guangyun: 益也長也久也亦姓三輔決録有新豐彌升又羌複姓後秦將軍彌姐婆觸武移切十七
+  senses:
+  - concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+    concept_label: MORE
+    children:
+    - gloss: action
+      concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+      concept_label: SPREAD
+      children:
+      - gloss: generalised
+        concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+        concept_label: LINK
+      - gloss: completely
+        concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+        concept_label: FILL
+        children:
+        - gloss: perfective
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+      - gloss: 'feature: spatial'
+        concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+        concept_label: BROAD
+      - gloss: 'feature: relation'
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+        children:
+        - gloss: space
+          concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+          concept_label: EVERYWHERE
+unattributed_senses:
+- gloss: 彌 ｍｉ３《集韻》母婢切，上紙明。支部。
+  children:
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+    children:
+    - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+      concept_label: REST
+- gloss: 彌 ｎｉ２《集韻》研奚切，平齊疑。ｎｉ２《集韻》研奚切，平齊疑。
+  children:
+  - gloss: =婗
+source:
+  source_file: taxchar.xml

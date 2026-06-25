@@ -1,0 +1,57 @@
+uuid: fb35172a-d464-4625-a003-60cb6f206193
+type: tax-char
+heads:
+- 清
+pronunciations:
+- reading: qīng
+  old_chinese: tsheŋ
+  middle_chinese: tsʰiɛŋ
+  fanqie: 七情切
+  tone: 平
+  guangyun: 山海經曰太畤之山淸水出焉釋名曰淸靑也去濁逺穢色如靑也又靜也澄也潔也七情切二
+  senses:
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+    children:
+    - gloss: abstract
+      concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+      concept_label: ORDERLY
+    - gloss: music
+      concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+      concept_label: TONE
+    - gloss: general feature
+      concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+      concept_label: CLEAN
+      children:
+      - gloss: optical
+        concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+        concept_label: SHINE
+        children:
+        - gloss: feature
+          concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+          concept_label: BRIGHT
+      - gloss: temperature
+        concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+        concept_label: COLD
+        children:
+        - gloss: =圊 euphemism
+          concept_uuid: e28bae05-21a2-4745-8033-0d59e4998fdf
+          concept_label: TOILET
+      - gloss: intellectual
+        concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+        concept_label: CLEAR
+        children:
+        - gloss: causative
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+      - gloss: moral
+        concept_uuid: db01e61e-a6ed-432b-8187-613a971a759f
+        concept_label: HONEST
+        children:
+        - gloss: generalised
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T20:32:49.657+09:00'

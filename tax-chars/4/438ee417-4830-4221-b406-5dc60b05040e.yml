@@ -1,0 +1,95 @@
+uuid: 438ee417-4830-4221-b406-5dc60b05040e
+type: tax-char
+heads:
+- 入
+pronunciations:
+- reading: rù
+  old_chinese: njub
+  middle_chinese: ȵip
+  fanqie: 人執切
+  tone: 入
+  guangyun: 得也内也納也人執切二
+  senses:
+  - concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+    concept_label: ENTER
+    children:
+    - gloss: involuntary, lower place
+      concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+      concept_label: FALL
+    - gloss: what one enters/has entered
+      concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+      concept_label: INSIDE
+      children:
+      - gloss: 'abstract:'
+        concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+        concept_label: PRIVATE
+    - gloss: 'stative:'
+      concept_uuid: d54ee83d-bcf5-44c0-8ac1-66ee701ab3b3
+      concept_label: BE AT HOME
+    - gloss: react to someone arriving/entering
+      concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+      concept_label: WELCOME
+    - gloss: with hostile intent
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+    - gloss: the place one comes from/belongs to
+      concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+      concept_label: RETURN
+    - gloss: specifically:one’s grave
+      concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+      concept_label: DIE
+      children:
+      - gloss: generalised
+        concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+        concept_label: DISAPPEAR
+    - gloss: 'figurative: enter someone els''s business'
+      concept_uuid: 9064faa7-c062-4cbc-9d5a-e6f133a7a1a0
+      concept_label: INTERFERE
+    - gloss: 'specific, financially: what enters one''s coffers'
+      concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+      concept_label: PROFIT
+      children:
+      - gloss: as reward for work
+        concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+        concept_label: SALARY
+    - gloss: 'causative: enter into the hands of someone else'
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: to superiors
+        concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+        concept_label: HAND UP
+        children:
+        - gloss: money to where it is owed
+          concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+          concept_label: PAY
+    - gloss: cause to enter one's state
+      concept_uuid: 74307e41-f2c8-45c2-b07e-41f2c8a5c244
+      concept_label: IMPORT
+      children:
+      - gloss: cause to enter one's realm of control
+        concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+        concept_label: OBTAIN
+        children:
+        - gloss: 'permissive: allow to enter'
+          concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+          concept_label: ACCEPT
+          children:
+          - gloss: of opinions
+            concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+            concept_label: ASSENT
+            children:
+            - gloss: enter current practice in or of
+              concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+              concept_label: CONFORM
+    - gloss: 'permissive: allow to enter and present views'
+      concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+      concept_label: LISTEN
+      children:
+      - gloss: 'metaphorical, causative:'
+        concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+        concept_label: INSTALL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T20:19:49.934+09:00'

@@ -1,0 +1,34 @@
+uuid: 5b88fd00-4451-4042-b5bd-2d2a4c82e84c
+type: tax-char
+heads:
+- 福
+pronunciations:
+- reading: fú
+  old_chinese: pɯɡ
+  middle_chinese: piuk
+  fanqie: 方六切
+  tone: 入
+  guangyun: 德也祐也方六切十七
+  senses:
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+    concept_label: RICH
+  - concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+    concept_label: MERIT
+  - concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+  - gloss: sacrificial
+    concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+    concept_label: GREET
+unattributed_senses:
+- gloss: 福 ｆｕ４《集韻》敷救切，去宥敷
+  children:
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: HIDE
+source:
+  source_file: taxchar.xml

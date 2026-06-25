@@ -1,0 +1,33 @@
+uuid: 51f4edb4-3a6a-4857-a92a-b4e9a27d59b6
+type: tax-char
+heads:
+- 驪
+pronunciations:
+- reading: lí
+  old_chinese: b-rel
+  middle_chinese: liɛ
+  fanqie: 呂支切
+  tone: 平
+  guangyun: 馬深黒色又姓驪戎國之後
+  senses:
+  - concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+    concept_label: DRAGON
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 麗
+- reading: lí
+  old_chinese: b-reel
+  middle_chinese: lei
+  fanqie: 郎奚切
+  tone: 平
+  guangyun: 穆天子駿馬名盗驪緑耳又力知切
+source:
+  source_file: taxchar.xml

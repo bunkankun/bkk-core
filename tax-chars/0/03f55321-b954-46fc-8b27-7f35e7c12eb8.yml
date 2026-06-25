@@ -1,0 +1,26 @@
+uuid: 03f55321-b954-46fc-8b27-7f35e7c12eb8
+type: tax-char
+heads:
+- 江
+pronunciations:
+- reading: jiāng
+  old_chinese: krooŋ
+  middle_chinese: kɯɔŋ
+  fanqie: 古雙切
+  tone: 平
+  guangyun: 江海書有九江㝷陽記云烏江蚌江烏白江嘉靡江畎江沔江廪江提江菌江亦姓出陳留本顓頊玄孫伯益之後爵封於江陵爲楚所㓕後以國爲氏古雙切十一
+  senses:
+  - concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+    concept_label: RIVER
+    children:
+    - gloss: proper names
+      concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+      concept_label: RIVERS
+      children:
+      - gloss: proper names
+        concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+        concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T03:04:26.909+09:00'

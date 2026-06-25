@@ -1,0 +1,69 @@
+uuid: 45113242-2389-45ae-bde8-ef751e486c28
+type: tax-char
+heads:
+- 除
+pronunciations:
+- reading: chú
+  old_chinese: rla
+  middle_chinese: ɖiɔ
+  fanqie: 直魚切
+  tone: 平
+  guangyun: 階也又去也直魚切十三
+  senses:
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+    children:
+    - gloss: dirt
+      concept_uuid: 5f498860-5aee-4af9-9545-85a48a76ec1f
+      concept_label: CLEANSE
+      children:
+      - gloss: resulting feature
+        concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+        concept_label: CLEAN
+    - gloss: disease
+      concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+      concept_label: CURE
+      children:
+      - gloss: official> ADMINISTRATION
+        children:
+        - gloss: bureaucratic
+          concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+          concept_label: APPOINT
+    - gloss: radically
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+      children:
+      - gloss: discard unity???
+        concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+        concept_label: DIVIDE
+      - gloss: from life
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+      - gloss: from detention
+        concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+        concept_label: RELEASE
+      - gloss: garments
+        concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+        concept_label: TAKE OFF
+        children:
+        - gloss: take offf mourning clothes
+          concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+          concept_label: MOURNING
+    - gloss: dangerous prospect
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+    - gloss: grammaticalised
+      concept_uuid: 9fe06619-da66-4a6b-9987-bbcdd1f703d3
+      concept_label: EXCEPT
+  - concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+    concept_label: GATE
+    children:
+    - gloss: passage behind and before screen
+      concept_uuid: 65cd301e-3276-4e32-96d6-ab68adf5c304
+      concept_label: CORRIDOR
+      children:
+      - gloss: steps behind
+        concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+        concept_label: STAIRS
+source:
+  source_file: taxchar.xml

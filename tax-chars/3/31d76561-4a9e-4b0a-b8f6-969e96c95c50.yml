@@ -1,0 +1,38 @@
+uuid: 31d76561-4a9e-4b0a-b8f6-969e96c95c50
+type: tax-char
+heads:
+- 攢
+pronunciations:
+- reading: zǎn
+  old_chinese: liilʔ
+  middle_chinese: dei
+  fanqie: 子罕切
+  tone: 上
+  senses:
+  - concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+    concept_label: BEND
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - gloss: = 趲
+- reading: zàn
+  old_chinese: tsaans
+  middle_chinese: tsɑn
+  fanqie: 則旰切
+  tone: 去
+  guangyun: 訟也
+- reading: cuán
+  old_chinese: zoons
+  middle_chinese: dzʷɑn
+  fanqie: 在玩切
+  tone: 去
+  guangyun: 聚也在玩切一
+  senses:
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+    concept_label: COFFIN
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 攥
+source:
+  source_file: taxchar.xml

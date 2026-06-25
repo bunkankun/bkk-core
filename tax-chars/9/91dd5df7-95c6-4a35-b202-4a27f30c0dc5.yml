@@ -1,0 +1,29 @@
+uuid: 91dd5df7-95c6-4a35-b202-4a27f30c0dc5
+type: tax-char
+heads:
+- 篤
+pronunciations:
+- reading: dǔ
+  old_chinese: tuuɡ
+  middle_chinese: tuok
+  fanqie: 冬毒切
+  tone: 入
+  guangyun: 厚也説文曰馬行頓遟冬毒切十一
+  senses:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+    concept_label: SERIOUS
+  - concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+    concept_label: APPROPRIATE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 督
+source:
+  source_file: taxchar.xml

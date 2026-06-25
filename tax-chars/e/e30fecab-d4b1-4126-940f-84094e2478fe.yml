@@ -1,0 +1,22 @@
+uuid: e30fecab-d4b1-4126-940f-84094e2478fe
+type: tax-char
+heads:
+- 俎
+pronunciations:
+- reading: zǔ
+  old_chinese: skraʔ
+  middle_chinese: tʂiɔ
+  fanqie: 側吕切
+  tone: 上
+  guangyun: 俎豆
+  senses:
+  - concept_uuid: 2a790324-4787-4145-82dd-f309d53bfb83
+    concept_label: CHOPPING BLOCK
+  - concept_uuid: c34b2d9b-60bf-4e33-8c1b-7ef584be8218
+    concept_label: KITCHEN UTENSIL
+  - concept_uuid: 6138f0de-3527-4a80-8210-fdbdf169f7d0
+    concept_label: TABLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

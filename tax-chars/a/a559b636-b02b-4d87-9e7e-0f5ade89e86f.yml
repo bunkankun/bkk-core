@@ -1,0 +1,36 @@
+uuid: a559b636-b02b-4d87-9e7e-0f5ade89e86f
+type: tax-char
+heads:
+- 拱
+pronunciations:
+- reading: gǒng
+  old_chinese: koŋʔ
+  middle_chinese: kioŋ
+  fanqie: 居悚切
+  tone: 上
+  guangyun: 手抱也又歛手也居悚切十八
+  senses:
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 6cc02768-d56b-470d-a605-10d4c5fd329f
+    concept_label: INACTIVE
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: e78b6039-54f8-4945-962b-4fed10c03db6
+    concept_label: BREAK THROUGH
+source:
+  source_file: taxchar.xml

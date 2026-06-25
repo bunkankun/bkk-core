@@ -1,0 +1,22 @@
+uuid: ee6d5bd2-19ed-4b7b-b358-06eb757916b2
+type: tax-char
+heads:
+- 西
+pronunciations:
+- reading: xī
+  old_chinese: sqɯɯl
+  middle_chinese: sei
+  fanqie: 先稽切
+  tone: 平
+  guangyun: 秋方説文曰鳥在巢上也日在西方而鳥西故因以爲東西之西篆文作㢴象形亦州名本漢車師國之地至貞觀討平以其地爲西州亦姓又漢複姓十一氏左傳秦師西乞術宋大夫西鉏吾西郷錯出丗本又黄帝娶西陵氏爲妃名纍祖史記魏文侯鄴令西門豹周末分爲東西二周武公庶子西周爲氏晉有北海西郭陽何承天以爲西朝名士慕容廆以北平西方䖍爲股肱何氏姓苑有西野氏西宫氏王符濳夫論姓氏志曰如有東門西郭南宫北郭皆是因居也先稽切十六
+  senses:
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+    children:
+    - gloss: 'action: set out westwards'
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:17:06.105+09:00'

@@ -1,0 +1,40 @@
+uuid: d5e4af7f-6b32-48d2-85a6-8c282ecc7273
+type: tax-char
+heads:
+- 虧
+pronunciations:
+- reading: kuī
+  old_chinese: khʷral
+  middle_chinese: kʰʷɯiɛ
+  fanqie: 去為切
+  tone: 平
+  guangyun: 缺也俗作𧇊去爲切一
+  senses:
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: REDUCE
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+    concept_label: FAIL
+  - concept_uuid: a91eea17-4433-416d-98a8-530eefa5b7af
+    concept_label: OWE
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 259b57ae-5a7a-4ad9-8ac9-0ac11f8054c5
+    concept_label: LITTLE
+  - concept_uuid: afa1eaf9-9b3c-4eed-9fc9-149fd66f1edf
+    concept_label: DISAPPOINTED
+  - concept_uuid: c37e2c6f-c0a7-42cf-a7c6-6e3a703c2486
+    concept_label: FORTUNATELY
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+source:
+  source_file: taxchar.xml

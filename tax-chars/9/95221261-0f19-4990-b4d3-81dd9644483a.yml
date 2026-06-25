@@ -1,0 +1,76 @@
+uuid: 95221261-0f19-4990-b4d3-81dd9644483a
+type: tax-char
+heads:
+- 號
+pronunciations:
+- reading: háo
+  old_chinese: ɢluu
+  middle_chinese: ɦɑu
+  fanqie: 胡刀切
+  tone: 平
+  guangyun: 大呼也又哭也詩云或號或呼易云先號咷而後𥬇又乎到切
+  senses:
+  - concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+    concept_label: SHOUT
+    children:
+    - gloss: analogy> of physical phenomena
+      concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+      concept_label: SOUND
+    - gloss: instrument
+      concept_uuid: 62a07cea-0c1d-4ff0-9666-6722b2cc78b7
+      concept_label: HORN
+    - gloss: specifically, loudly
+      concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+      concept_label: WEEP
+      children:
+      - gloss: specifically
+        concept_label: LAMENT
+    - gloss: related action
+      concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+      concept_label: BLOW
+- reading: hào
+  old_chinese: ɢluus
+  middle_chinese: ɦɑu
+  fanqie: 胡到切
+  tone: 去
+  guangyun: 号令又召也呼也謚也亦作號胡到切六
+  senses:
+  - gloss: with loud voice
+    concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+    concept_label: SUMMON
+    children:
+    - gloss: generalised
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+      children:
+      - gloss: 'related object: document'
+        concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+        concept_label: LAW
+      - gloss: 'generalised: factual'
+        concept_uuid: 6501917c-5225-4eda-8191-7c52256eda3e
+        concept_label: DECLARE
+        children:
+        - gloss: 'instrument: means of'
+          concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+          concept_label: SIGNAL
+          children:
+          - gloss: specifically> give a name
+            concept_label: CALL
+            children:
+            - gloss: object
+              concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+              concept_label: NAME
+              children:
+              - gloss: specifically
+                concept_label: NICKNAME
+              - gloss: generalised, pejorative name
+                concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+                concept_label: CATEGORY
+  - concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+    concept_label: PERSONAL NAME
+unattributed_senses:
+- concept_label: 號 háo《廣韻》胡刀切，平豪匣。宵部。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-20T02:10:35.186+09:00'

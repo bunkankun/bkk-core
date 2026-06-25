@@ -1,0 +1,42 @@
+uuid: 2283c01b-de42-479c-98c3-45792981d5b9
+type: tax-char
+heads:
+- 研
+pronunciations:
+- reading: yán
+  old_chinese: ŋɡeen
+  middle_chinese: ŋen
+  fanqie: 五堅切
+  tone: 平
+  guangyun: 磨也
+  senses:
+  - concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+    concept_label: GRIND
+  - concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+    concept_label: STUDY
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+  - concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+    concept_label: DETAILED
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: yán
+  old_chinese: ŋɡeen
+  middle_chinese: ŋen
+  fanqie: 五堅切
+  tone: 平
+  guangyun: 同研
+- reading: yàn
+  old_chinese: ŋɡeens
+  middle_chinese: ŋen
+  fanqie: 吾甸切
+  tone: 去
+  guangyun: 磨研又音平聲
+  senses:
+  - concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+    concept_label: STRAIGHT
+  - gloss: = 硯
+source:
+  source_file: taxchar.xml

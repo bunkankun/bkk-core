@@ -1,0 +1,45 @@
+uuid: 90e8acb4-10ee-4602-a979-1601a8cb1300
+type: tax-char
+heads:
+- 銳
+pronunciations:
+- reading: ruì
+  old_chinese: lods
+  middle_chinese: jʷiɛi
+  fanqie: 以芮切
+  tone: 去
+  guangyun: 利也又姓姓苑云升平中鮮卑有御史中丞銳管以芮切六
+  senses:
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+    concept_label: UNIMPORTANT
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: duì
+  old_chinese: loods
+  middle_chinese: dʷɑi
+  fanqie: 杜外切
+  tone: 去
+  guangyun: 矛也又弋稅切
+  senses:
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+source:
+  source_file: taxchar.xml

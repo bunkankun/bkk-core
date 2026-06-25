@@ -1,0 +1,39 @@
+uuid: b66a6ab8-3a86-4d3d-995c-d301674e6313
+type: tax-char
+heads:
+- 纔
+pronunciations:
+- reading: zài
+  old_chinese: dzɯɯs
+  middle_chinese: dzəi
+  fanqie: 昨代切
+  tone: 去
+  guangyun: 僅也
+- reading: cái
+  old_chinese: dzɯɯ
+  middle_chinese: dzəi
+  fanqie: 昨哉切
+  tone: 平
+  guangyun: 僅也又藏代切
+  senses:
+  - concept_uuid: f367335b-2217-4e3e-bebc-006faa5f68ec
+    concept_label: AS SOON AS
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 4032bd30-62b2-4abb-b9d8-16b747fa885a
+    concept_label: ONLY THEN
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+- reading: shān
+  old_chinese: sraam
+  middle_chinese: ʃɯam
+  fanqie: 所銜切
+  tone: 平
+  guangyun: 帛靑色又音裁
+  senses:
+  - concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+source:
+  source_file: taxchar.xml

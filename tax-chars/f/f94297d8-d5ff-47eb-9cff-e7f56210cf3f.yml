@@ -1,0 +1,26 @@
+uuid: f94297d8-d5ff-47eb-9cff-e7f56210cf3f
+type: tax-char
+heads:
+- 諾
+pronunciations:
+- reading: nuò
+  old_chinese: naaɡ
+  middle_chinese: nɑk
+  fanqie: 奴各切
+  tone: 入
+  guangyun: 説文譍也奴各切一
+  senses:
+  - concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+    concept_label: AGREE TO
+  - concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+  - concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+    concept_label: PROMISE
+  - concept_uuid: 2cd25e4e-a164-428d-8bbb-e2d8a4003309
+    concept_label: 'YES'
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

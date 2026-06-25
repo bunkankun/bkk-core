@@ -1,0 +1,50 @@
+uuid: 3740b13d-cd40-4a48-9e19-dc626dbe14c3
+type: tax-char
+heads:
+- 雪
+pronunciations:
+- reading: xuě
+  old_chinese: sqhʷed
+  middle_chinese: sʷiɛt
+  fanqie: 相絕切
+  tone: 入
+  guangyun: 同雪出説文
+- reading: xuě
+  old_chinese: sqled
+  middle_chinese: sʷiɛt
+  fanqie: 相絕切
+  tone: 入
+  guangyun: 凝雨也元命包曰隂凝爲雪釋名曰雪綏也水下遇寒氣而凝綏綏然下也又拭也除也相絶切四
+  senses:
+  - concept_uuid: d045ba19-84b3-418c-9303-dcc0d7a1a1be
+    concept_label: SNOW
+    children:
+    - gloss: feature
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+      children:
+      - gloss: generalised
+        concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+        concept_label: CLEAN
+        children:
+        - gloss: causative
+          concept_uuid: cb0086fd-2b5e-46a7-a9fd-a071eef8a7a3
+          concept_label: WIPE
+          children:
+          - gloss: using much water
+            concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+            concept_label: WASH
+            children:
+            - gloss: generalised
+              concept_uuid: 5f498860-5aee-4af9-9545-85a48a76ec1f
+              concept_label: CLEANSE
+              children:
+              - gloss: 'figurative: articultate'
+                concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+                concept_label: EXPLAIN
+                children:
+                - gloss: bad points of
+                  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+                  concept_label: BLAME
+source:
+  source_file: taxchar.xml

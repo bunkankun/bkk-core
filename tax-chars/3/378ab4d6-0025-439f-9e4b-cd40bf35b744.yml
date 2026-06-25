@@ -1,0 +1,62 @@
+uuid: 378ab4d6-0025-439f-9e4b-cd40bf35b744
+type: tax-char
+heads:
+- 賈
+pronunciations:
+- reading: jià
+  old_chinese: kraas
+  middle_chinese: kɯa
+  fanqie: 古訝切
+  tone: 去
+  guangyun: 賈人知善惡
+  senses:
+  - concept_uuid: cdf2a1cd-79e2-42eb-8f27-7cc2e19c2e61
+    concept_label: PRICE
+    children:
+    - gloss: 'putative: consider to be of high value'
+      concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+      concept_label: APPRECIATE
+- reading: gǔ
+  old_chinese: kaaʔ
+  middle_chinese: kuo
+  fanqie: 公戶切
+  tone: 上
+  guangyun: 商賈又古下切
+  senses:
+  - concept_uuid: b3fe42b5-03c3-4bd8-bc21-ebb16e6f50f8
+    concept_label: MERCHANT
+    children:
+    - gloss: associated action
+      concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+      concept_label: BUY
+      children:
+      - gloss: result
+        concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+        concept_label: COLLECT
+      - gloss: generalised
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+      - gloss: associated action
+        concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+        concept_label: SELL
+        children:
+        - concept_uuid: 58a9785e-4e20-4cd9-b19d-a500114ac7a9
+          concept_label: TEMPT
+    - gloss: generalised associated actions
+      concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+      concept_label: TRADE
+- reading: jiǎ
+  old_chinese: kraaʔ
+  middle_chinese: kɯa
+  fanqie: 古疋切
+  tone: 上
+  guangyun: 姓也岀河東本自周賈伯之後又音古
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

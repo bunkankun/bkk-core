@@ -1,0 +1,73 @@
+uuid: 2643c17f-07f7-4015-a198-d5ce267423de
+type: tax-char
+heads:
+- 降
+pronunciations:
+- reading: jiàng
+  old_chinese: kruums
+  middle_chinese: kɯɔŋ
+  fanqie: 古巷切
+  tone: 去
+  guangyun: 下也歸也落也又音缸伏也
+  senses:
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+    children:
+    - gloss: causative
+      concept_uuid: 9255ee0d-15de-40ba-9be7-06f336bc007f
+      concept_label: SEND DOWN
+    - gloss: causative
+      concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+      concept_label: DEMOTE
+      children:
+      - gloss: 'social: marry off daughter to person of lower status'
+        concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+        concept_label: MARRY
+      - gloss: 'causative> social: reduce to humble status'
+        concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+        concept_label: HUMBLE
+      - gloss: physically
+        concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+        concept_label: TAKE OFF
+    - gloss: action
+      concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+      concept_label: DESCEND
+      children:
+      - gloss: 'figurative: descend into this world'
+        concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+        concept_label: BIRTH
+      - gloss: of birds:fall off the tree
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+      - gloss: 'grammaticlised: space'
+        concept_label: UNDER
+        children:
+        - gloss: 'grammaticalised: time'
+          concept_uuid: bcb6986f-3280-48f8-973c-c3d5283d75e3
+          concept_label: AFTER
+- reading: xiáng
+  old_chinese: ɡruum
+  middle_chinese: ɦɯɔŋ
+  fanqie: 下江切
+  tone: 平
+  guangyun: 降伏又古巷切
+  senses:
+  - concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+    concept_label: SURRENDER
+    children:
+    - gloss: causative
+      concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+      concept_label: CONQUER
+      children:
+      - gloss: 'causative: make peaceful'
+        concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+unattributed_senses:
+- concept_label: 降 xiang4 《集韻》胡降切，去絳，匣。
+  children:
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T05:27:50.535+09:00'

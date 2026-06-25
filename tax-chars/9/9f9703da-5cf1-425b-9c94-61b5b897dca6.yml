@@ -1,0 +1,28 @@
+uuid: 9f9703da-5cf1-425b-9c94-61b5b897dca6
+type: tax-char
+heads:
+- 按
+pronunciations:
+- reading: àn
+  old_chinese: qaans
+  middle_chinese: ʔɑn
+  fanqie: 烏旰切
+  tone: 去
+  guangyun: 抑也止也烏旰切七
+  senses:
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+    concept_label: LEAN ON
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+    concept_label: SQUEEZE
+source:
+  source_file: taxchar.xml

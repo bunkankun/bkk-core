@@ -1,0 +1,27 @@
+uuid: 13b3aeb6-0730-4bb4-b20b-f48e23987f9b
+type: tax-char
+heads:
+- 帆
+pronunciations:
+- reading: fán
+  old_chinese: blom
+  middle_chinese: biɐm
+  fanqie: 符䒦切
+  tone: 平
+  guangyun: 船上幔也亦作颿又扶汎切
+  senses:
+  - concept_uuid: 801135b9-293a-478c-82e9-d045a11f210e
+    concept_label: SAIL
+  - concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+    concept_label: SHIP
+- reading: fàn
+  old_chinese: bloms
+  middle_chinese: biɐm
+  fanqie: 扶泛切
+  tone: 去
+  guangyun: 船使風又音凡
+  senses:
+  - concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+    concept_label: NAVIGATE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,50 @@
+uuid: d1d9da95-6aeb-4d83-99a9-0621925f7883
+type: tax-char
+heads:
+- 賢
+pronunciations:
+- reading: xián
+  old_chinese: ɡiin
+  middle_chinese: ɦen
+  fanqie: 胡田切
+  tone: 平
+  guangyun: 古文賢又口閒切
+- reading: xián
+  old_chinese: ɡiin
+  middle_chinese: ɦen
+  fanqie: 胡田切
+  tone: 平
+  guangyun: 善也能也大也亦姓胡田切十七
+  senses:
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+    children:
+    - gloss: generalised
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+      children:
+      - gloss: politically relevant
+        concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+        concept_label: TALENT
+        children:
+        - gloss: exercising talent
+          concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+          concept_label: DILIGENT
+          children:
+          - gloss: exercising talented moral diligence
+            concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+            concept_label: HERO
+    - gloss: associated status
+      concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+  - gloss: comparative
+    concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+    children:
+    - gloss: grammaticalised, honorific
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T17:08:03.969+09:00'

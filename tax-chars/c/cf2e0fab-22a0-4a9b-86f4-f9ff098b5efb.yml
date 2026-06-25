@@ -1,0 +1,28 @@
+uuid: cf2e0fab-22a0-4a9b-86f4-f9ff098b5efb
+type: tax-char
+heads:
+- 擢
+pronunciations:
+- reading: zhuó
+  old_chinese: rleewɡ
+  middle_chinese: ɖɯɔk
+  fanqie: 直角切
+  tone: 入
+  guangyun: 拔也抽也出也
+  senses:
+  - concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+    concept_label: PROMOTE
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 101e33f0-12dc-4e44-860b-01dfdeff2af1
+    concept_label: EARN
+  - concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+    concept_label: NAVIGATE
+  - gloss: = 戳
+  - gloss: = 掉
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,29 @@
+uuid: 8621ac0d-c706-4c28-9d79-b22c4432b910
+type: tax-char
+heads:
+- 梅
+pronunciations:
+- reading: méi
+  old_chinese: mɯɯ
+  middle_chinese: muoi
+  fanqie: 莫杯切
+  tone: 平
+  guangyun: 果名又姓岀汝南本自子姓殷有梅伯爲紂所醢漢有梅鋗
+  senses:
+  - concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+    concept_label: FRUIT
+  - gloss: TREE, KINDS
+  - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+    concept_label: BLOSSOM
+  - concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+    concept_label: MINISTER
+  - concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+    concept_label: SEASON
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

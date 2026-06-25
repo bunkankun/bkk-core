@@ -1,0 +1,26 @@
+uuid: 6238e6a1-0a7d-4e01-91c8-0cda0d3ca78a
+type: tax-char
+heads:
+- 層
+pronunciations:
+- reading: céng
+  old_chinese: dzɯɯŋ
+  middle_chinese: dzəŋ
+  fanqie: 昨棱切
+  tone: 平
+  guangyun: 重屋也昨棱切又作滕切三
+  senses:
+  - concept_uuid: ea2d80c3-c4f5-44c0-be8a-6034a2415e2e
+    concept_label: LAYER
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+    concept_label: STAIRS
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

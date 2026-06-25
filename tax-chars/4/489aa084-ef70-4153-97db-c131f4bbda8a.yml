@@ -1,0 +1,49 @@
+uuid: 489aa084-ef70-4153-97db-c131f4bbda8a
+type: tax-char
+heads:
+- 術
+pronunciations:
+- reading: shù
+  old_chinese: ɢljud
+  middle_chinese: ʑʷit
+  fanqie: 食聿切
+  tone: 入
+  guangyun: 技術説文曰邑中道也又姓食聿切十一
+  senses:
+  - gloss: (in city, street)
+    concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+    children:
+    - gloss: in water
+      concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+      concept_label: CANAL
+    - gloss: abstract
+      concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+      concept_label: METHOD
+      children:
+      - gloss: professional
+        concept_uuid: d3cbb229-6196-444e-b9bf-4ad1932f6dd4
+        concept_label: CRAFT
+        children:
+        - gloss: explicit
+          concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+          concept_label: DOCTRINE
+          children:
+          - gloss: related action
+            concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+            concept_label: CONFORM
+          - gloss: intellectual conative
+            concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+            concept_label: STUDY
+          - gloss: object person
+            concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+            concept_label: IMITATE
+      - gloss: political
+        concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+        concept_label: GOVERN
+      - gloss: concrete future
+        concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+        concept_label: PLAN
+  - gloss: =述
+source:
+  source_file: taxchar.xml

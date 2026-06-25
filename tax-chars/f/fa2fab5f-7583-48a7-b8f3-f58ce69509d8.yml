@@ -1,0 +1,34 @@
+uuid: fa2fab5f-7583-48a7-b8f3-f58ce69509d8
+type: tax-char
+heads:
+- 沐
+pronunciations:
+- reading: mù
+  old_chinese: mooɡ
+  middle_chinese: muk
+  fanqie: 莫卜切
+  tone: 入
+  guangyun: 沐浴説文曰濯髮也禮記曰頭有創則沐又姓風俗通曰漢有東平太守沐寵又漢複姓有沐簡氏何氏姓苑云今任城人
+  senses:
+  - concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+    concept_label: BATHE
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+  - concept_uuid: c824e06d-c840-4dd2-b724-71991640af5d
+    concept_label: HOLIDAY
+  - concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,75 @@
+uuid: e674908a-1a0e-4f15-9afb-f4ab6b078da0
+type: tax-char
+heads:
+- 身
+pronunciations:
+- reading: shēn
+  old_chinese: qhjin
+  middle_chinese: ɕin
+  fanqie: 失人切
+  tone: 平
+  guangyun: 親也躬也
+  senses:
+  - gloss: typically human
+    concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+    concept_label: BODY
+    children:
+    - gloss: 'occasionally, by metonymy: trunk of tree> shēn'
+      concept_uuid: 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+      concept_label: TRUNK
+    - gloss: unborn
+      concept_uuid: f0de2edb-53eb-437b-ba5c-a8cde3d073d0
+      concept_label: FOETUS
+    - gloss: dead body
+      concept_uuid: 2c6ca376-008e-4a2f-a9f6-53cab2cb828e
+      concept_label: CORPSE
+  - gloss: living body
+    concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+    concept_label: HUMAN
+    children:
+    - gloss: 'specifically: torso, main part of human body'
+      concept_uuid: a8d06d79-57a5-4451-ab99-0f8b767a77a1
+      concept_label: TORSO
+    - gloss: 'Buddhist: re-embodied individual'
+      concept_uuid: c59b53b5-ad2e-411f-986f-8af4fd933d51
+      concept_label: INCARNATION
+    - gloss: abstract:considered as a moral agent, personality
+      concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+      concept_label: PERSON
+      children:
+      - gloss: personal qualifications
+        concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+        concept_label: VIRTUE
+      - gloss: place in hierarchy
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+      - gloss: self-reference of speaker
+        concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+        concept_label: EGO
+        children:
+        - gloss: addressee’s person
+          concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+          concept_label: YOU
+          children:
+          - gloss: generalised/pronominalised
+            concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+            concept_label: ONESELF
+            children:
+            - gloss: 'abstractly: the Self'
+              concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+              concept_label: SELF
+              children:
+              - gloss: social role played in life
+                concept_uuid: 6fb98658-8ce7-4580-b863-77476114cd18
+                concept_label: ROLE
+                children:
+                - gloss: conduct oneself as a living person
+                  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+                  concept_label: LIVE
+      - gloss: as an emphatic/contrastive subject
+        concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+        concept_label: PERSONALLY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-29T00:14:15.491+09:00'

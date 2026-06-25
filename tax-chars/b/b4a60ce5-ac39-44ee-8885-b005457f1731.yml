@@ -1,0 +1,63 @@
+uuid: b4a60ce5-ac39-44ee-8885-b005457f1731
+type: tax-char
+heads:
+- 畢
+pronunciations:
+- reading: bì
+  old_chinese: pid
+  middle_chinese: pit
+  fanqie: 卑吉切
+  tone: 入
+  guangyun: 竟也説文作畢田罔也又姓出泰山本畢公髙之後晉有畢卓
+  senses:
+  - concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+    children:
+    - gloss: 'metonymy: reminiscent of shape?'
+      concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+      concept_label: CONSTELLATION
+    - gloss: exhaustive activity using
+      concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+      concept_label: CATCH
+      children:
+      - gloss: abstract
+        concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+        concept_label: EXHAUST
+        children:
+        - gloss: generalised
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+            concept_label: ALL
+            children:
+            - gloss: exhaustive action
+              concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+              concept_label: PROVIDE
+              children:
+              - gloss: skill involved
+                concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+                concept_label: SKILLFUL
+                children:
+                - gloss: feature
+                  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+                  concept_label: QUICK
+                  children:
+                  - gloss: process
+                    concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+                    concept_label: END
+                    children:
+                    - gloss: action, causative
+                      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+                      concept_label: STOP
+                      children:
+                      - gloss: grammaticalised
+                        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+                        concept_label: WHEN
+  - concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+    concept_label: STATIONARY
+  - concept_uuid: 9f40634b-9ae4-4018-8836-35796cf119f3
+    concept_label: FORK
+source:
+  source_file: taxchar.xml

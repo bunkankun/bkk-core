@@ -1,0 +1,29 @@
+uuid: c9ef9c92-b81e-4394-8ab4-2cef8d3affd5
+type: tax-char
+heads:
+- 蹤
+pronunciations:
+- reading: zōng
+  old_chinese: tsoŋ
+  middle_chinese: tsioŋ
+- reading: zōng
+  old_chinese: tsoŋ
+  middle_chinese: tsioŋ
+  fanqie: 即容切
+  tone: 平
+  guangyun: 蹤跡
+  senses:
+  - concept_uuid: 87210bed-6567-4fdf-b137-a04e0cc14f83
+    concept_label: FOOTPRINT
+  - concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+    concept_label: EVENT
+  - concept_uuid: 2db68bb6-4a61-4573-8049-ba9754c8bba0
+    concept_label: TRACE
+  - concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+    concept_label: PURSUE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

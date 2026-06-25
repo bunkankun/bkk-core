@@ -1,0 +1,58 @@
+uuid: c6fccc96-e260-4c8b-aeab-10585e00f6d8
+type: tax-char
+heads:
+- 校
+pronunciations:
+- reading: jiào
+  old_chinese: kreews
+  middle_chinese: kɯau
+  fanqie: 古孝切
+  tone: 去
+  guangyun: 檢校又考校
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+    concept_label: FETTERS
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: 5ad2c08a-e2f2-45a1-a30b-798f3f183771
+    concept_label: REVENGE
+  - concept_uuid: c1e904d1-c323-4f07-921d-9782ac32c047
+    concept_label: VESSEL PARTS
+  - concept_uuid: ef95796d-7e3a-4201-9a4a-cf48877073ad
+    concept_label: FENCE
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+    concept_label: OFFICER
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 1a945368-8fe0-42d1-8db9-05b2781e1056
+    concept_label: COUNT
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+  - concept_uuid: 0f085078-9078-4d45-a0b9-ef480decf305
+    concept_label: DIFFER
+- reading: xiào
+  old_chinese: ɡreews
+  middle_chinese: ɦɯau
+  fanqie: 胡教切
+  tone: 去
+  guangyun: 校尉官名亦姓周禮校人之後又音敎
+  senses:
+  - concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+    concept_label: SCHOOL
+  - concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+    concept_label: OFFICER
+  - gloss: TEACG
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 效
+  - gloss: = 恔
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,30 @@
+uuid: 24481f94-d7f7-43e1-aee3-1bd1fe3e3135
+type: tax-char
+heads:
+- 那
+pronunciations:
+- reading: nuó
+  old_chinese: naal
+  middle_chinese: nɑ
+  fanqie: 諾何切
+  tone: 平
+  guangyun: 何也都也於也盡也詩云受福不那那多也亦朝那縣名在安定又姓西魏揚州刺史那椿諾何切九
+- reading: nǎ
+  old_chinese: naalʔ
+  middle_chinese: nɑ
+  fanqie: 奴可切
+  tone: 上
+  guangyun: 俗言𨙻事本音儺
+  senses:
+  - concept_uuid: 5a2cd1f0-f6a3-4fc7-829d-632dfc3ca043
+    concept_label: THERE
+  - concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+    concept_label: WHERE
+- reading: nà
+  old_chinese: naals
+  middle_chinese: nɑ
+  fanqie: 奴箇切
+  tone: 去
+  guangyun: 語助又奴哥切
+source:
+  source_file: taxchar.xml

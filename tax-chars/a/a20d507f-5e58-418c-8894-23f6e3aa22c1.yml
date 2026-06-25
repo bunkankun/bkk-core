@@ -1,0 +1,37 @@
+uuid: a20d507f-5e58-418c-8894-23f6e3aa22c1
+type: tax-char
+heads:
+- 搜
+pronunciations:
+- reading: sōu
+  old_chinese: sru
+  middle_chinese: ʃiu
+  fanqie: 所鳩切
+  tone: 平
+  guangyun: 同𢯱凡從叜者作叟同
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+- reading: sōu
+  old_chinese: sru
+  middle_chinese: ʃiu
+  fanqie: 所鳩切
+  tone: 平
+  guangyun: 索也求也聚也所鳩切十七
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - gloss: = 獀
+  - gloss: = 掃
+source:
+  source_file: taxchar.xml

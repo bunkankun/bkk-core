@@ -1,0 +1,33 @@
+uuid: 129d7485-0f14-4d67-b62b-18811a5ab4b6
+type: tax-char
+heads:
+- 城
+pronunciations:
+- reading: chéng
+  old_chinese: djeŋ
+  middle_chinese: dʑiɛŋ
+  fanqie: 是征切
+  tone: 平
+  guangyun: 城郭崔豹古今注云城者盛也所以盛受民物也又淮南子曰鮌作城亦姓風俗通云氏於事者城郭園池是也
+  senses:
+  - concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+    concept_label: CITY WALL
+    children:
+    - gloss: metonymy
+      concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+      concept_label: CITY
+      children:
+      - gloss: typically relevant action
+        concept_uuid: 117e7254-f1c4-4825-a17c-ce30cc81a396
+        concept_label: FORTIFY
+        children:
+        - gloss: 'action:'
+          concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+          concept_label: DEFEND
+    - gloss: generalised
+      concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+      concept_label: WALL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T21:40:50.054+09:00'

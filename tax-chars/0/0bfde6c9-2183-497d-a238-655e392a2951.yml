@@ -1,0 +1,49 @@
+uuid: 0bfde6c9-2183-497d-a238-655e392a2951
+type: tax-char
+heads:
+- 區
+pronunciations:
+- reading: qū
+  old_chinese: kho
+  middle_chinese: kʰio
+  fanqie: 豈俱切
+  tone: 平
+  guangyun: 具區吴藪名又禮曰草木茂區萌逹注云屈生曰區亦姓後漢末有長沙區景豈俱切八
+  senses:
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 21539a58-0cd5-4d5b-9321-533b0a48add8
+    concept_label: GOVERNMENT
+  - concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+    concept_label: DWELLING
+  - concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+    concept_label: FIELD
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 驅
+  - gloss: = 句
+- reading: ōu
+  old_chinese: qoo
+  middle_chinese: ʔəu
+  fanqie: 烏侯切
+  tone: 平
+  guangyun: 姓也古善劒區冶子之後今郴州有之
+  senses:
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+    concept_label: PIT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

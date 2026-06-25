@@ -1,0 +1,33 @@
+uuid: 688ad16e-1962-48d3-9273-d1a30d2977aa
+type: tax-char
+heads:
+- 妻
+pronunciations:
+- reading: qī
+  old_chinese: tshiil
+  middle_chinese: tsʰei
+  fanqie: 七稽切
+  tone: 平
+  guangyun: 齊也七稽切又七計切十
+  senses:
+  - concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+    concept_label: WIFE
+    children:
+    - gloss: early meaning, specifically royal
+      concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+      concept_label: CONCUBINE
+- reading: qì
+  old_chinese: tshiils
+  middle_chinese: tsʰei
+  fanqie: 七計切
+  tone: 去
+  guangyun: 以女妻人又七兮切
+  senses:
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+    children:
+    - gloss: object lady married to someone else
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+source:
+  source_file: taxchar.xml

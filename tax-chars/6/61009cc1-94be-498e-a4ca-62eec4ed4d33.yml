@@ -1,0 +1,24 @@
+uuid: 61009cc1-94be-498e-a4ca-62eec4ed4d33
+type: tax-char
+heads:
+- 把
+pronunciations:
+- reading: bǎ
+  old_chinese: praaʔ
+  middle_chinese: pɯa
+  fanqie: 博下切
+  tone: 上
+  guangyun: 持也執也博下切一
+  senses:
+  - concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+  - concept_uuid: 7279726c-2c19-46b1-b97d-7fc8e5e606c9
+    concept_label: HANDLE
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+    concept_label: OBJECT MARKER
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: bdefe837-f6fc-4cb5-b8eb-6165f6f0a623
+type: tax-char
+heads:
+- 旅
+pronunciations:
+- reading: lǚ
+  old_chinese: raʔ
+  middle_chinese: liɔ
+  fanqie: 力舉切
+  tone: 上
+  guangyun: 師旅説文曰軍五百人也亦姓漢功臣表有旅卿封昌平侯俗作𢬜
+  senses:
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: b395c4c7-2b4a-4ea7-b418-05b315260940
+    concept_label: FOREIGNER
+  - concept_uuid: 62559838-ff41-4b20-8b43-8842802bbda7
+    concept_label: SACRIFICE TO HEAVEN AND EARTH
+  - concept_uuid: f1c90c31-351f-4b4b-9caf-d0ae182b0689
+    concept_label: TOAST
+source:
+  source_file: taxchar.xml

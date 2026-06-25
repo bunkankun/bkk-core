@@ -1,0 +1,52 @@
+uuid: 09e9e7a2-82f5-4a87-8d93-56dfb63e3931
+type: tax-char
+heads:
+- 顧
+pronunciations:
+- reading: gù
+  old_chinese: klaas
+  middle_chinese: kuo
+  fanqie: 古暮切
+  tone: 去
+  guangyun: 迴視也眷也又姓出吴郡古暮切十五
+  senses:
+  - gloss: turn head and
+    concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+    children:
+    - gloss: move to
+      concept_label: TURN
+    - gloss: go to see
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+    - gloss: movement
+      concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+      concept_label: RETURN
+    - gloss: abstract
+      concept_uuid: cb631a55-ef0b-42b1-a0c4-34cfd9d07807
+      concept_label: ATTENTION
+      children:
+      - gloss: with care
+        concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+        concept_label: SAFEGUARD
+      - gloss: action
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+      - gloss: away from
+        concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+        concept_label: DISREGARD
+    - gloss: grammaticalised
+      concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+      concept_label: BUT
+      children:
+      - gloss: rhetorical
+        concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+        concept_label: HOW
+  - gloss: proper names
+    concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+  - concept_label: =雇
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T23:42:58.769+09:00'

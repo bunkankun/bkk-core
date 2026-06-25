@@ -1,0 +1,43 @@
+uuid: 133c865f-2392-46e2-bb9f-ac45f36574c9
+type: tax-char
+heads:
+- 悠
+pronunciations:
+- reading: yōu
+  old_chinese: k-lɯw
+  middle_chinese: jiu
+  fanqie: 以周切
+  tone: 平
+  guangyun: 逺也遐也思也憂也
+  senses:
+  - concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+    concept_label: YEARN
+    children:
+    - gloss: for an uncertain future
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+      children:
+      - gloss: feature
+        concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+        concept_label: SAD
+    - gloss: feature of what one is yearning for
+      concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+      concept_label: DISTANT
+      children:
+      - gloss: temporal
+        concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+        concept_label: ENDURING
+        children:
+        - gloss: feature
+          concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+          concept_label: PEACEFUL
+  - concept_uuid: 2042b102-980f-49b2-a014-734f543f5970
+    concept_label: FLUTTER
+  - gloss: causative
+    concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - gloss: Ming dynasty colloquial
+    concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 61ebd00f-d159-43cd-8722-678a8a043b27
+type: tax-char
+heads:
+- 觴
+pronunciations:
+- reading: shāng
+  old_chinese: lʰaŋ
+  middle_chinese: ɕiɐŋ
+  fanqie: 式羊切
+  tone: 平
+  guangyun: 酒器俗作𨢩
+  senses:
+  - concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+    concept_label: CUP
+    children:
+    - gloss: associated action
+      concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+      concept_label: DRINK
+      children:
+      - gloss: 'specific: the health of others'
+        concept_uuid: f1c90c31-351f-4b4b-9caf-d0ae182b0689
+        concept_label: TOAST
+source:
+  source_file: taxchar.xml

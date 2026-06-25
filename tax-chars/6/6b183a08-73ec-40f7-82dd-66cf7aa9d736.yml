@@ -1,0 +1,56 @@
+uuid: 6b183a08-73ec-40f7-82dd-66cf7aa9d736
+type: tax-char
+heads:
+- 終
+pronunciations:
+- reading: zhōng
+  old_chinese: tjuŋ
+  middle_chinese: tɕiuŋ
+  fanqie: 職戎切
+  tone: 平
+  guangyun: 極也窮也竟也又姓漢有濟南終軍又漢複姓二氏東觀漢記有終利恭何氏姓苑云今下邳人也左傳殷人七族有終葵氏職
+  senses:
+  - concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+    children:
+    - gloss: perfective:finish one's utterance
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+    - gloss: finish one's life
+      concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+      concept_label: DIE
+      children:
+      - gloss: causative
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+    - gloss: action:carry out to the end
+      concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+      concept_label: EXHAUST
+      children:
+      - gloss: resultative
+        concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+        concept_label: COMPLETE
+        children:
+        - gloss: abstract
+          concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+          concept_label: WHOLE
+          children:
+          - gloss: specific, temporal
+            concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+            concept_label: YEAR
+        - gloss: active, perfective
+          concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+          concept_label: ACHIEVE
+        - gloss: 'grammaticalised: having finished, then also'
+          concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+          concept_label: MOREOVER
+    - gloss: in the end, en fin de compte
+      concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+      concept_label: CERTAIN
+    - gloss: to the end
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T21:13:35.522+09:00'

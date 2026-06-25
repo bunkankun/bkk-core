@@ -1,0 +1,90 @@
+uuid: 4358b236-0752-4185-961a-0f86f4fb3f8a
+type: tax-char
+heads:
+- 結
+pronunciations:
+- reading: jié
+  old_chinese: kiid
+  middle_chinese: ket
+  fanqie: 古屑切
+  tone: 入
+  guangyun: 締也古屑切十五
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+    children:
+    - gloss: bound, hence unchanging
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+    - gloss: so as to close opening
+      concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+      concept_label: BLOCK
+      children:
+      - gloss: abstract
+        concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+        concept_label: END
+        children:
+        - gloss: end by making decision
+          concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+          concept_label: JUDGE
+    - gloss: general
+      concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+      concept_label: TURN
+      children:
+      - gloss: object
+        concept_uuid: 3e5282d8-d693-4ee5-ae2a-f8f8fc610aa1
+        concept_label: KNOT
+        children:
+        - gloss: figurative
+          concept_uuid: 30fa5df8-a9ff-43d7-9041-24f2279e5ca5
+          concept_label: CONGEAL
+          children:
+          - gloss: abstract> take shape
+            concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+            concept_label: ARISE
+      - gloss: transitive
+        concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+        concept_label: TIE TO
+        children:
+        - gloss: two objects
+          concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+          concept_label: LINK
+          children:
+          - gloss: abstract
+            concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+            concept_label: COMBINE
+            children:
+            - gloss: so as to appropriate
+              concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+              concept_label: GRASP
+              children:
+              - gloss: so as to bring together as an assembly of things
+                concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+                concept_label: GATHER
+                children:
+                - gloss: so as to create the existence of
+                  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+                  concept_label: ESTABLISH
+          - gloss: with others through action
+            concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+            concept_label: INTERACT
+            children:
+            - gloss: positively
+              concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+              concept_label: COOPERATE
+              children:
+              - gloss: group of cooperating individuals
+                concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+                concept_label: FACTION
+        - gloss: 'psychological: pent-up dissatisfaction'
+          concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+          concept_label: SAD
+        - gloss: 'figurative: knotty'
+          concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+          concept_label: DIFFICULT
+unattributed_senses:
+- gloss: 結 ji４《集韻》吉詣切，去霽見。
+  children:
+  - gloss: =髻
+source:
+  source_file: taxchar.xml

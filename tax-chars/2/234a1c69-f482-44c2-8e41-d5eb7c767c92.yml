@@ -1,0 +1,82 @@
+uuid: 234a1c69-f482-44c2-8e41-d5eb7c767c92
+type: tax-char
+heads:
+- 干
+pronunciations:
+- reading: gān
+  old_chinese: kaan
+  middle_chinese: kɑn
+  fanqie: 古寒切
+  tone: 平
+  guangyun: 求也犯也觸也亦姓左傳宋有干犨又漢複姓何氏姓苑漢有干已衍爲京兆尹古寒切十六
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+    children:
+    - gloss: 'psychological: object own action'
+      concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+      concept_label: INTEND
+      children:
+      - gloss: 'resultative: object person'
+        concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+        concept_label: VISIT
+      - gloss: to create through own effort
+        concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+        concept_label: ESTABLISH
+    - gloss: 'abstract, psychological: resultative'
+      concept_uuid: 4d2115b4-dee5-4729-bd99-55ee2c88b1fc
+      concept_label: WIN TRUST
+    - gloss: 'physical: resultative'
+      concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+      concept_label: TOUCH
+      children:
+      - gloss: abstract
+        concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+        concept_label: STIMULATE
+        children:
+        - gloss: mutual
+          concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+          concept_label: INTERACT
+          children:
+          - gloss: negatively
+            concept_uuid: 59007c08-4ecf-4f74-8427-680c3f86344b
+            concept_label: DISTURB
+            children:
+            - gloss: object person
+              concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+              concept_label: OFFEND
+          - gloss: systematic
+            concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+            concept_label: WORK
+            children:
+            - gloss: agents
+              concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+              concept_label: GROUP
+          - gloss: 'causative: cause to interact in group'
+            concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+            concept_label: GOVERN
+          - gloss: abstract
+            concept_uuid: 8259454f-ba01-4a8a-8bc0-3126c9fc7dd3
+            concept_label: RELATE
+  - concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+    concept_label: BROOK
+  - concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+  - concept_uuid: 703e26d2-b7a7-4ead-be62-3c6076f8645e
+    concept_label: SHIELD
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 8ac44e87-389e-4d0d-b9d4-86cd5d0a3acd
+    concept_label: ARISTOCRATS OF SHANG
+unattributed_senses:
+- gloss: 干 ｇａｎ４《集韻》居案切，去翰見。元部。
+  children:
+  - gloss: =矸
+  - gloss: =邗
+- gloss: 干 ａｎ４《集韻》魚旰切，去翰疑。元部。
+  children:
+  - gloss: =豻
+    concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+    concept_label: DOG
+source:
+  source_file: taxchar.xml

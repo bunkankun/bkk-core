@@ -1,0 +1,40 @@
+uuid: 3de10589-06d0-4d3d-8b90-f90a29ed098c
+type: tax-char
+heads:
+- 誠
+pronunciations:
+- reading: chéng
+  old_chinese: djeŋ
+  middle_chinese: dʑiɛŋ
+  fanqie: 是征切
+  tone: 平
+  guangyun: 審也敬也信也
+  senses:
+  - gloss: personal
+    concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+    children:
+    - concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+      concept_label: GENUINE
+    - gloss: linguistic
+      concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+      concept_label: 'TRUE'
+      children:
+      - gloss: philosophical
+        concept_uuid: c2589821-83c8-4cf5-bcb2-ad5f08ef80c1
+        concept_label: OBJECTIVE
+      - gloss: 'grammaticalised: really'
+        concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+        concept_label: REALITY
+        children:
+        - gloss: 'subordinating: if really'
+          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+          concept_label: IF
+      - gloss: social
+        concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+        concept_label: FAITHFUL
+      - gloss: moral
+        concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+        concept_label: ASPIRATION
+source:
+  source_file: taxchar.xml

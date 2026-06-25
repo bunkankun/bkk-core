@@ -1,0 +1,36 @@
+uuid: 4c02c565-0b42-4b38-94ee-ef2fcc7d4cef
+type: tax-char
+heads:
+- 奠
+pronunciations:
+- reading: diàn
+  old_chinese: diiŋs
+  middle_chinese: den
+  fanqie: 堂練切
+  tone: 去
+  guangyun: 設奠禮注云薦也陳也書傳云定也
+  senses:
+  - concept_uuid: 21c455d2-1240-471a-9e8a-2eda100042e7
+    concept_label: ANCESTRAL SACRIFICE
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+    concept_label: FIX
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 6cceefee-9b63-4e07-aabd-284e495c6e9e
+    concept_label: SACRIFICIAL MEAT
+- reading: dìng
+  old_chinese: diiŋs
+  middle_chinese: teŋ
+  fanqie: 丁定切
+  tone: 去
+  guangyun: 同飣
+source:
+  source_file: taxchar.xml

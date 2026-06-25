@@ -1,0 +1,20 @@
+uuid: 1ab4d497-b295-4f8a-8a1d-91fcec3d8e52
+type: tax-char
+heads:
+- 芬
+pronunciations:
+- reading: fēn
+  old_chinese: phɯn
+  middle_chinese: pʰiun
+  fanqie: 撫文切
+  tone: 平
+  guangyun: 芬芳又姓戰國䇿晉有大夫芬質府又切十三
+  senses:
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+source:
+  source_file: taxchar.xml

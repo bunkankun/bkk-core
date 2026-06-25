@@ -1,0 +1,33 @@
+uuid: f83e5067-f420-400c-8ca7-a707df41015a
+type: tax-char
+heads:
+- 魏
+pronunciations:
+- reading: wèi
+  old_chinese: ŋɡuls
+  middle_chinese: ŋʷɨi
+  fanqie: 魚貴切
+  tone: 去
+  guangyun: 魏闕又州名夏觀扈之國春秋時晉地秦爲東郡隋爲武陽郡武德初平竇建德改置魏州亦姓本自周武王母弟受封於畢至畢萬仕晉封魏城後因氏焉出鉅鹿任城二望魚貴切二
+  senses:
+  - concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+  - concept_uuid: 07d5a5b4-003e-4915-82d9-27f6fd796a49
+    concept_label: ARISTOCRATS OF WEI
+  - concept_uuid: 4b3f2784-425e-4c8d-999d-812308d7c2a4
+    concept_label: RULERS OF WEI
+  - gloss: DYNASTIES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+unattributed_senses:
+- gloss: 魏 wei2 《集韻》語韋切，平微疑。微部。音巍
+  children:
+  - concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+    concept_label: ALONE
+  - concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+    concept_label: TENUOUS
+  - gloss: =巍
+    concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+source:
+  source_file: taxchar.xml

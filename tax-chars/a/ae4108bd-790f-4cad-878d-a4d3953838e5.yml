@@ -1,0 +1,70 @@
+uuid: ae4108bd-790f-4cad-878d-a4d3953838e5
+type: tax-char
+heads:
+- 非
+pronunciations:
+- reading: fēi
+  old_chinese: pɯl
+  middle_chinese: pʷɨi
+  fanqie: 甫微切
+  tone: 平
+  guangyun: 不是也責也違也亦姓風俗通有非子伯益之後
+  senses:
+  - gloss: fēi 非
+    concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+    children:
+    - gloss: hot have
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+    - gloss: preverbally in subordinate clauses:in the case of conditions lacking
+      concept_uuid: 29d7a1b8-ff20-42eb-b987-5a20ae2ae348
+      concept_label: IF NOT
+      children:
+      - gloss: only if
+        concept_uuid: 9fd2d90f-4be7-44be-a843-28d9c1d6a305
+        concept_label: UNLESS
+        children:
+        - gloss: contrary to general rule
+          concept_uuid: 9fe06619-da66-4a6b-9987-bbcdd1f703d3
+          concept_label: EXCEPT
+  - gloss: active
+    concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+    children:
+    - gloss: publicly refuse to accept claims
+      concept_uuid: dd3de4ff-729c-487d-b762-f32b60f7cc45
+      concept_label: DENY
+      children:
+      - gloss: deny, maintaining alternative
+        concept_uuid: a9ce2789-dac0-45ea-8428-c483b4ffb65c
+        concept_label: DISAGREE
+        children:
+        - gloss: disagree pointing out weaknesses
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+          children:
+          - gloss: prove wrong what is asserted
+            concept_uuid: fc3754c3-1af0-41cc-969b-58bb9a1fc6e4
+            concept_label: REFUTE
+        - gloss: in practice, fail to conform
+          concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+          concept_label: OFFEND
+      - gloss: not true
+        concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+        concept_label: UNTRUE
+        children:
+        - gloss: socially
+          concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+          concept_label: BAD
+          children:
+          - gloss: inadvertently:not right
+            concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+            concept_label: MISTAKE
+          - gloss: morally:not good
+            concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+            concept_label: WICKED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-23T19:59:13.791+09:00'

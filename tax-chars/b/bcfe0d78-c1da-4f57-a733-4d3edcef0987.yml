@@ -1,0 +1,64 @@
+uuid: bcfe0d78-c1da-4f57-a733-4d3edcef0987
+type: tax-char
+heads:
+- 衡
+pronunciations:
+- reading: héng
+  old_chinese: ɢraaŋ
+  middle_chinese: ɦɯaŋ
+  fanqie: 戶庚切
+  tone: 平
+  guangyun: 横也平也又姓風俗通云阿衡伊尹之後又云衡魯公字後乃氏焉
+  senses:
+  - concept_uuid: a3fd0875-c354-445d-95cc-20900fcce69e
+    concept_label: YOKE
+    children:
+    - gloss: 'generalised: horizontal'
+      concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+      concept_label: BEAM
+  - gloss: abstract
+    concept_uuid: 9db09585-7114-44e5-bd6a-600131180a9c
+    concept_label: HORIZONTAL
+    children:
+    - gloss: 'generalised: plane'
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: LEVEL
+    - gloss: horizontal clasp in
+      concept_uuid: 5105a846-220e-4184-b605-09a8822dd974
+      concept_label: HEADDRESS
+    - gloss: 'concrete: horizontal crossbeam'
+      concept_uuid: 35feb9c4-3da9-4cc9-97a3-44ab92e1e85a
+      concept_label: CARRIAGE POLE
+    - gloss: 'concrete: horizontal space between> EYEBROWS'
+    - gloss: concrete
+      concept_uuid: 51f3e644-6a3d-484b-b92e-db27d286e973
+      concept_label: SCALES
+      children:
+      - gloss: associated action
+        concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+        concept_label: WEIGH
+        children:
+        - gloss: abstract
+          concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+          concept_label: ASSESS
+          children:
+          - gloss: abstract means
+            concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+            concept_label: CRITERION
+    - gloss: 'abstract: action'
+      concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+      concept_label: OPPOSE
+      children:
+      - gloss: feature
+        concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+        concept_label: WICKED
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

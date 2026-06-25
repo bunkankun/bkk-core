@@ -1,0 +1,53 @@
+uuid: 3f5f5d9c-8eaa-47fe-90f0-b2c17b8913a6
+type: tax-char
+heads:
+- 曰
+pronunciations:
+- reading: yuē
+  old_chinese: ɢʷad
+  middle_chinese: ɦʷiɐt
+  fanqie: 王伐切
+  tone: 入
+  guangyun: 辝也於也之也
+  senses:
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+    children:
+    - gloss: scribally
+      concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+      concept_label: WRITE
+    - gloss: abstractly
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+      children:
+      - gloss: semantically
+        concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+        concept_label: MEAN
+        children:
+        - gloss: syntactically:be
+          concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+          concept_label: COPULA
+          children:
+          - gloss: embedded
+            concept_uuid: fb689ff5-7e05-4a06-92f0-8c7f6908885c
+            concept_label: RELATIVE CLAUSE MARKER
+  - gloss: grammaticalised
+    concept_uuid: 9947a411-73ef-4a80-a6e7-da950cf31a4d
+    concept_label: QUOTATION MARKER
+    children:
+    - gloss: conclusion
+      concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+      concept_label: RESULT
+    - gloss: interrogative
+      concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+      concept_label: ASK
+    - gloss: imperative
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+    - gloss: linguistic:designate
+      concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+      concept_label: NAME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T03:09:36.6+09:00'

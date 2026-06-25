@@ -1,0 +1,32 @@
+uuid: 7112ba8f-f14c-410a-9fd7-1cb453b81e8a
+type: tax-char
+heads:
+- 詎
+pronunciations:
+- reading: jù
+  old_chinese: ɡaʔ
+  middle_chinese: ɡiɔ
+  fanqie: 其吕切
+  tone: 上
+  guangyun: 豈也又音遽
+  senses:
+  - concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+  - concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+    concept_label: OR
+  - concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+    concept_label: UNTIL
+  - concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+    concept_label: BELIEVE
+- reading: jù
+  old_chinese: ɡas
+  middle_chinese: ɡiɔ
+  fanqie: 其據切
+  tone: 去
+  guangyun: 又其吕切
+source:
+  source_file: taxchar.xml

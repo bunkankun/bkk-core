@@ -1,0 +1,103 @@
+uuid: 4645a454-e0df-4749-b693-fb3b209bf4f4
+type: tax-char
+heads:
+- 時
+pronunciations:
+- reading: shí
+  old_chinese: ɡljɯ
+  middle_chinese: dʑɨ
+  fanqie: 市之切
+  tone: 平
+  guangyun: 辰也廣雅曰時伺也又善也中也是也又姓良吏傳有時苗何氏姓苑云今鉅鹿人市之切七
+- reading: shí
+  old_chinese: ɡljɯ
+  middle_chinese: dʑɨ
+  fanqie: 市之切
+  tone: 平
+  guangyun: 時古文
+unattributed_senses:
+- gloss: shí 時
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  concept_label: SEASON
+  children:
+  - gloss: system of the seasons etc> shí 時
+    concept_uuid: 013632ce-8c4d-4488-a08e-011c2e5b94d8
+    concept_label: CALENDAR
+  - gloss: abstract
+    concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+    children:
+    - gloss: delimited
+      concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+      concept_label: PERIOD
+      children:
+      - gloss: short period> shí 時
+        concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+        concept_label: MOMENT
+        children:
+        - gloss: specifically> shí 時
+          concept_uuid: bc41ae85-c94f-4f50-84d7-c33d6fce55d5
+          concept_label: HOUR
+        - gloss: right moment> shí 時
+          concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+          concept_label: OPPORTUNITY
+          children:
+          - gloss: the fated moment
+            concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+            concept_label: FATE
+          - gloss: at the right moment
+            concept_uuid: 192687fc-6722-4783-8131-d1a95005a098
+            concept_label: TIMELY
+            children:
+            - gloss: consequently
+              concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+              concept_label: GOOD
+        - gloss: what is timely
+          concept_uuid: 92848cbd-fef5-4bc9-9110-9901324541a1
+          concept_label: FASHION
+          children:
+          - gloss: belonging to its bygone time
+            concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+            concept_label: PAST
+        - gloss: right after that moment
+          concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+          concept_label: THEREUPON
+          children:
+          - gloss: when that moment occurred
+            concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+            concept_label: WHEN
+        - gloss: 'logical: when the circumstances prevail'
+          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+          concept_label: IF
+        - gloss: some moments
+          concept_uuid: b34d1e99-5d41-4698-a1cf-a9cec247b2d4
+          concept_label: SOMETIMES
+          children:
+          - gloss: unpredictable moments
+            concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+            concept_label: COINCIDENCE
+        - gloss: many moments
+          concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+          concept_label: OFTEN
+      - gloss: 'long period: for a long time'
+        concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+        concept_label: ENDURING
+        children:
+        - gloss: constantly, but intermittently
+          concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+          concept_label: ALWAYS
+          children:
+          - gloss: of the time only
+            concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+            concept_label: ORDINARY
+            children:
+            - gloss: specifically a lifespan
+              concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+              concept_label: GENERATION
+- gloss: archaic:=是
+  concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+  concept_label: THIS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-22T23:34:17.651+09:00'

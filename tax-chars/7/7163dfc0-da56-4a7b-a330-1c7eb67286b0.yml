@@ -1,0 +1,24 @@
+uuid: 7163dfc0-da56-4a7b-a330-1c7eb67286b0
+type: tax-char
+heads:
+- 慢
+pronunciations:
+- reading: màn
+  old_chinese: mroons
+  middle_chinese: mɯan
+  fanqie: 謨晏切
+  tone: 去
+  guangyun: 怠也倨也易也俗作𢢔謨晏切五
+  senses:
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: baec0e2f-c355-4a37-b0ac-c70fc945590f
+    concept_label: IMPOLITE
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+source:
+  source_file: taxchar.xml

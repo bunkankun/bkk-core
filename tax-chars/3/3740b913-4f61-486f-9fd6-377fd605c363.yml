@@ -1,0 +1,42 @@
+uuid: 3740b913-4f61-486f-9fd6-377fd605c363
+type: tax-char
+heads:
+- 社
+pronunciations:
+- reading: shè
+  old_chinese: ɡljaʔ
+  middle_chinese: dʑia
+  fanqie: 常者切
+  tone: 上
+  guangyun: 社稷又漢複姓二氏風俗通云齊昌徙居社南因以爲氏何氏姓苑云右扶風有焉又有社北氏常者切三
+  senses:
+  - concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+    children:
+    - gloss: exocentric(short for 社稷)
+      concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+      concept_label: STATE
+    - gloss: typical activity
+      concept_uuid: bd0c39e5-8e51-41cf-97e1-eba78707ffdc
+      concept_label: ANIMISTIC SACRIFICE
+      children:
+      - gloss: entity sacrificed to
+        concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+        concept_label: DEITY
+      - gloss: object representing the deity> STELE
+      - gloss: occasion celebrating the deity
+        concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+        concept_label: FEAST
+      - gloss: 'exocentric: land attached to'
+        concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+        concept_label: TERRITORY
+        children:
+        - gloss: inhabitants of
+          concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+          concept_label: GROUP
+  - concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+    concept_label: MOTHER
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+source:
+  source_file: taxchar.xml

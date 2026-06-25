@@ -1,0 +1,23 @@
+uuid: f263e6e3-6c4e-4dd7-a78b-e2f64fbc9fbe
+type: tax-char
+heads:
+- 旱
+pronunciations:
+- reading: hàn
+  old_chinese: ɡaanʔ
+  middle_chinese: ɦɑn
+  fanqie: 胡笴切
+  tone: 上
+  guangyun: 不雨胡笴切五
+  senses:
+  - concept_uuid: eadecdab-71e5-4d3f-b2e5-481f0479edb3
+    concept_label: DROUGHT
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - gloss: = 悍
+source:
+  source_file: taxchar.xml

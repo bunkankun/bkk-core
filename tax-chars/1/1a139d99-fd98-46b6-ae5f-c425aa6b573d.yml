@@ -1,0 +1,77 @@
+uuid: 1a139d99-fd98-46b6-ae5f-c425aa6b573d
+type: tax-char
+heads:
+- 懷
+pronunciations:
+- reading: huái
+  old_chinese: ɡruul
+  middle_chinese: ɦʷɯæi
+  fanqie: 戶乖切
+  tone: 平
+  guangyun: 抱也和也來也思也亦州名春秋時野王邑漢爲河内郡武德初於相崖城置懐州又姓吴志顧雍傳有尚書郎懐叙戸乖切十二
+  senses:
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+    children:
+    - gloss: place of
+      concept_uuid: aebff601-a3a8-4c54-9f1c-74a9a765a4a7
+      concept_label: CHEST
+      children:
+      - gloss: hold in chest
+        concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+        concept_label: HOLD
+    - gloss: concrete
+      concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+      concept_label: CONTAIN
+      children:
+      - gloss: 'object: an embryo'
+        concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+        concept_label: PREGNANT
+      - gloss: and move
+        concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+        concept_label: CARRY
+        children:
+        - gloss: continuative
+          concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+          concept_label: KEEP
+          children:
+          - gloss: caringly
+            concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+            concept_label: SAFEGUARD
+            children:
+            - gloss: in mind
+              concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+              concept_label: REMEMBER
+      - gloss: 'causative: cause to contain and have'
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+      - gloss: abstract
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: emotionally
+          concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+          concept_label: FEEL
+          children:
+          - gloss: intensely and fondly
+            concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+            concept_label: YEARN
+            children:
+            - gloss: erotically
+              concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+              concept_label: LOVE
+              children:
+              - gloss: cause to love one
+                concept_uuid: 4d2115b4-dee5-4729-bd99-55ee2c88b1fc
+                concept_label: WIN TRUST
+          - gloss: abstract:nominalised
+            concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+            concept_label: FEELING
+      - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+        concept_label: RULERS OF CHU
+      - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+        concept_label: RULERS OF JIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T23:11:58.855+09:00'

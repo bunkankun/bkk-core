@@ -1,0 +1,48 @@
+uuid: 2948e896-e4e2-43dc-b77d-21a0f88bbc30
+type: tax-char
+heads:
+- 變
+pronunciations:
+- reading: biàn
+  old_chinese: prons
+  middle_chinese: pɯiɛn
+  fanqie: 彼眷切
+  tone: 去
+  guangyun: 化也通也易也又姓出姓苑彼眷切一
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+    children:
+    - gloss: to the worse
+      concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+      concept_label: DECLINE
+      children:
+      - gloss: to the worse
+        concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+        concept_label: DISASTER
+    - gloss: action in response
+      concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+      concept_label: REACT
+      children:
+      - gloss: revolutionary
+        concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+        concept_label: REVOLT
+      - gloss: transitive:complete and essential affecting identity
+        concept_uuid: 6ec00eb0-2e19-4d05-871a-823bed5c5db2
+        concept_label: TRANSFORM
+      - gloss: feature:prone to proper changing
+        concept_label: FLEXIBLE
+    - gloss: feature:generalised
+      concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+      concept_label: DIFFERENT
+      children:
+      - gloss: 'from the usual: unfamiliar'
+        concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+        concept_label: SPECIAL
+  - gloss: Buddhist technical term
+    concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+    concept_label: MERIT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-30T00:49:24.628+09:00'

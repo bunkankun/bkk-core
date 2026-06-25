@@ -1,0 +1,70 @@
+uuid: 677f2ce1-5168-48c8-8e00-504fcc549dc9
+type: tax-char
+heads:
+- 延
+pronunciations:
+- reading: yán
+  old_chinese: lan
+  middle_chinese: jiɛn
+  fanqie: 以然切
+  tone: 平
+  guangyun: 稅也逺也進也長也陳也言也亦州漢髙如縣取延川爲延安郡又姓漢有延篤南陽人爲京兆尹殺梁兾使者以然切十三
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+    children:
+    - gloss: 'causative: disparately'
+      concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+      concept_label: SPREAD
+    - gloss: 'causative: cause to be continuous'
+      concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+      concept_label: LINK
+    - gloss: 'causative: in time'
+      concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+      concept_label: TRANSMIT
+    - gloss: 'feature: "continuing in one dimension'
+      concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+      concept_label: LONG
+      children:
+      - gloss: 'causative: make longer'
+        concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+        concept_label: STRETCH OUT
+      - gloss: 'feature: topographic'
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+        children:
+        - gloss: cause to be distant in time
+          concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+          concept_label: DELAY
+    - gloss: 'feature: three-dimensional'
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+  - gloss: 'specifically: upwards'
+    concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - gloss: continue in state of expectation
+    concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+    concept_label: WAIT
+  - gloss: for the arrival of visitor
+    concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+  - gloss: declarative
+    concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+    concept_label: INVITE
+  - gloss: against resistance
+    concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - gloss: resultative
+    concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - gloss: =誕
+  - gloss: =埏
+  - gloss: =綖
+- reading: yàn
+  old_chinese: lans
+  middle_chinese: jiɛn
+  fanqie: 予線切
+  tone: 去
+  guangyun: 曼延不斷其莚也
+source:
+  source_file: taxchar.xml

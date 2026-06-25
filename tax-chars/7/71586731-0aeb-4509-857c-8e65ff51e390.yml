@@ -1,0 +1,26 @@
+uuid: 71586731-0aeb-4509-857c-8e65ff51e390
+type: tax-char
+heads:
+- 萃
+pronunciations:
+- reading: cuì
+  old_chinese: sɡuds
+  middle_chinese: dzʷi
+  fanqie: 秦醉切
+  tone: 去
+  guangyun: 集也聚也秦醉切六
+  senses:
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+    concept_label: GROUP
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+  - gloss: = 悴
+  - gloss: = 倅
+source:
+  source_file: taxchar.xml

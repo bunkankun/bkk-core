@@ -1,0 +1,29 @@
+uuid: 463fe9f9-ff8a-4668-b00c-597bb45e2caf
+type: tax-char
+heads:
+- 玩
+pronunciations:
+- reading: wán
+  old_chinese: ŋɡoons
+  middle_chinese: ŋʷɑn
+  fanqie: 五換切
+  tone: 去
+  guangyun: 弄也五換切五
+  senses:
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+    concept_label: PLAY
+  - concept_uuid: 74ff311e-a845-49f3-b5dc-333cf34779ee
+    concept_label: TOY
+  - concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+    concept_label: STUDY
+  - concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+    concept_label: APPRECIATE
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+  - gloss: = 忨
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,52 @@
+uuid: 07fd0475-e43b-4c94-8864-ad338360a4fb
+type: tax-char
+heads:
+- 宜
+pronunciations:
+- reading: yí
+  old_chinese: ŋɡral
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚羈切
+  tone: 平
+  guangyun: 宜古文
+- reading: yí
+  old_chinese: ŋɡral
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚羈切
+  tone: 平
+  guangyun: 宜古文
+  senses:
+  - gloss: 'yí (OC: ŋɡral MC: ŋɯiɛ) 魚羈切 平 廣韻：【說文本作宐所安也俗作冝亦姓出姓苑魚羈切十一 】'
+  - concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+    concept_label: APPROPRIATE
+    children:
+    - gloss: exocentric:religious
+      concept_uuid: bd0c39e5-8e51-41cf-97e1-eba78707ffdc
+      concept_label: ANIMISTIC SACRIFICE
+    - gloss: 'suitable:'
+      concept_uuid: a9d1c339-21ed-4464-80d7-78e11cddf9bc
+      concept_label: CONVENIENT
+    - gloss: be on appropriate harmonious terms
+      concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+      concept_label: FRIEND
+    - gloss: 'causative: cause to be of appropriate taste'
+      concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+      concept_label: COOK
+  - gloss: grammaticalised
+    concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+    concept_label: SHOULD
+    children:
+    - gloss: grammaticalised
+      concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+      concept_label: PROBABLE
+      children:
+      - gloss: specific
+        concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+        concept_label: NATURALLY
+      - gloss: intensitive
+        concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+        concept_label: CERTAIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T23:42:09.018+09:00'

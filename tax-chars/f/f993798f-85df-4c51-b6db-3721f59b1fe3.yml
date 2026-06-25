@@ -1,0 +1,47 @@
+uuid: f993798f-85df-4c51-b6db-3721f59b1fe3
+type: tax-char
+heads:
+- 木
+pronunciations:
+- reading: mù
+  old_chinese: mooɡ
+  middle_chinese: muk
+  fanqie: 莫卜切
+  tone: 入
+  guangyun: 樹木説文曰木冒也冒地而生東方之行又姓木華字玄虚作海賦莫卜切十二
+  senses:
+  - gloss: synekdoche
+    concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+    concept_label: TREE
+    children:
+    - gloss: feature:unadorned
+      concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+      concept_label: SIMPLE
+      children:
+      - gloss: abstract
+        concept_uuid: 7592652a-7114-4fce-b798-b8407930f652
+        concept_label: NAIVE
+        children:
+        - gloss: psychological
+          concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+          concept_label: STUPID
+    - gloss: product from
+      concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+      concept_label: TIMBER
+      children:
+      - gloss: synekdoche:things made of timber> MUSICAL
+        concept_label: INSTRUMENTS
+      - gloss: synekdoche
+        concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+        concept_label: SHIP
+        children:
+        - gloss: 'specifically: small and simple'
+          concept_uuid: 25f58d5a-7a03-471d-9ee3-d86f42e724c6
+          concept_label: RAFT
+      - gloss: synekdoche
+        concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+        concept_label: COFFIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T19:43:48.532+09:00'

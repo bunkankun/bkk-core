@@ -1,0 +1,41 @@
+uuid: 8234a0f8-15f8-421c-90e9-cf8b92bc50e0
+type: tax-char
+heads:
+- 墮
+pronunciations:
+- reading: duò
+  old_chinese: ɡ-loolʔ
+  middle_chinese: duɑ
+  fanqie: 徒果切
+  tone: 上
+  guangyun: 落也徒果切又他果切十四
+  senses:
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+    children:
+    - gloss: 'causative: send down'
+      concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+      concept_label: SEND
+    - gloss: rebirth
+      concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+      concept_label: BIRTH
+    - gloss: result
+      concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+      concept_label: WITHER
+  - gloss: =惰
+    concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+    concept_label: LAZY
+- reading: tuǒ
+  old_chinese: kh-loolʔ
+  middle_chinese: tʰuɑ
+  fanqie: 他果切
+  tone: 上
+  guangyun: 倭墮鬌也又徒果切
+- reading: huī
+  old_chinese: qhlol
+  middle_chinese: hʷiɛ
+  fanqie: 許規切
+  tone: 平
+  guangyun: 同隓
+source:
+  source_file: taxchar.xml

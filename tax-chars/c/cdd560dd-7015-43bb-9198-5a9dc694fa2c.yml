@@ -1,0 +1,49 @@
+uuid: cdd560dd-7015-43bb-9198-5a9dc694fa2c
+type: tax-char
+heads:
+- 罪
+pronunciations:
+- reading: zuì
+  old_chinese: sbuulʔ
+  middle_chinese: dzuoi
+  fanqie: 徂賄切
+  tone: 上
+  guangyun: 文字音義云辠從自辛也言辠人蹙鼻辛苦之憂始皇以辠字似皇乃改爲罪也徂賄切三
+  senses:
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+    children:
+    - gloss: inadvertent
+      concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+      concept_label: MISTAKE
+    - gloss: declarative
+      concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+      concept_label: ACCUSE
+      children:
+      - gloss: administrative
+        concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+        concept_label: PUNISH
+    - gloss: subjective
+      concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+      concept_label: GUILT
+      children:
+      - gloss: spiritual
+        concept_uuid: d5605d15-1ee3-4b7a-b5fc-b7d04f235139
+        concept_label: SIN
+      - gloss: declarative
+        concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+        concept_label: BLAME
+        children:
+        - gloss: person blamed
+          concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+          concept_label: VILLAIN
+        - gloss: objective
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+  - gloss: =?
+    concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:37:49.224+09:00'

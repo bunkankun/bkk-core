@@ -1,0 +1,112 @@
+uuid: 12bd670d-b038-44d6-84a8-e83e47c58270
+type: tax-char
+heads:
+- 著
+pronunciations:
+- reading: zhuó
+  old_chinese: ɡ-laɡ
+  middle_chinese: ɖiɐk
+  fanqie: 直略切
+  tone: 入
+  guangyun: 附也直略切一
+  senses:
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+  - concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+    concept_label: SUFFER
+- reading: zhuó
+  old_chinese: k-laɡ
+  middle_chinese: ʈiɐk
+  fanqie: 張略切
+  tone: 入
+  guangyun: 服衣於身又直略張豫二切
+  senses:
+  - concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+    children:
+    - gloss: by chance
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+    - gloss: resulting state
+      concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+      concept_label: BE IN
+      children:
+      - gloss: what something fits into
+        concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+        concept_label: CATEGORY
+      - gloss: causative
+        concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+        concept_label: PUT
+        children:
+        - gloss: causative
+          concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+          concept_label: TIE TO
+          children:
+          - gloss: put on
+            concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+            concept_label: WEAR
+  - gloss: appetitively
+    concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+    concept_label: LIKE
+    children:
+    - gloss: 'putative: treat as important for oneself'
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+    - gloss: action
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 0ec307f0-0c61-4f89-8d21-7ca15a4396f6
+        concept_label: WEAK VERBAL SUFFIX
+        children:
+        - gloss: sentential
+          concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+          concept_label: FINAL PARTICLES
+- reading: chú
+  old_chinese: ɡ-la
+  middle_chinese: ɖiɔ
+  fanqie: 直魚切
+  tone: 平
+  guangyun: 爾雅云太歳在戊曰著雍又直略陟慮陟略三切
+- reading: zhǔ
+  old_chinese: k-laʔ
+  middle_chinese: ʈiɔ
+  fanqie: 丁吕切
+  tone: 上
+  guangyun: 著任又張慮直略二切
+- reading: zhù
+  old_chinese: k-las
+  middle_chinese: ʈiɔ
+  fanqie: 陟慮切
+  tone: 去
+  guangyun: 明也處也立也補也成也定也陟慮切又張略長略二切二
+  senses:
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+    children:
+    - gloss: generalised
+      concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+      concept_label: PRODUCE
+    - gloss: facts
+      concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+      concept_label: RECORD
+      children:
+      - gloss: 'object: literary work'
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+      - gloss: generalised
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: resultative
+          concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+          concept_label: CLEAR
+          children:
+          - gloss: resultative
+            concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+            concept_label: FAMOUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T00:57:24.708+09:00'

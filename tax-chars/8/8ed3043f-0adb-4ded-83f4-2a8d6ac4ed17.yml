@@ -1,0 +1,77 @@
+uuid: 8ed3043f-0adb-4ded-83f4-2a8d6ac4ed17
+type: tax-char
+heads:
+- 令
+pronunciations:
+- reading: lìng
+  old_chinese: ɡ-reŋs
+  middle_chinese: liɛŋ
+  fanqie: 力政切
+  tone: 去
+  guangyun: 善也命也律也法也力政切又力盈切又歴丁切二
+- reading: líng
+  old_chinese: ɡ-reeŋ
+  middle_chinese: leŋ
+  fanqie: 郎丁切
+  tone: 平
+  guangyun: 漢複姓有令狐氏本自畢萬之後國語云晉大夫令狐文子即魏顆也自漢已後丗本太原至邁爲王莽所誅邁少子始居墩煌也
+- reading: lìng
+  old_chinese: ɡ-reŋ
+  middle_chinese: liɛŋ
+  fanqie: 呂貞切
+  tone: 平
+  guangyun: 使也又吕鄭郎丁二切
+- reading: lián
+  old_chinese: ɡ-ren
+  middle_chinese: liɛn
+  fanqie: 力延切
+  tone: 平
+  guangyun: 漢書云金城郡有令居縣顔師古又音零
+- reading: lìng
+  old_chinese: ɡ-reeŋs
+  middle_chinese: leŋ
+  fanqie: 郎定切
+  tone: 去
+  guangyun: 令支縣在遼西郡
+unattributed_senses:
+- concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  concept_label: COMMAND
+  children:
+  - gloss: generalised
+    concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+    concept_label: CAUSE TO
+    children:
+    - gloss: 'conative: exhortative'
+      concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+      concept_label: ADVISE
+    - gloss: cause to be allowed to
+      concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+      concept_label: PERMIT
+      children:
+      - gloss: hypothetical:suppose that
+        concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+        concept_label: IF
+  - gloss: systematic legal
+    concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+    children:
+    - gloss: royal
+      concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+      concept_label: DECREE
+  - gloss: 'agent: person in command'
+    concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+  - gloss: recipient> commanded
+    concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+    concept_label: MINISTER
+  - gloss: commanding, senior
+    concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+    concept_label: NOBLE
+    children:
+    - gloss: 'abstract: moral'
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-07T22:28:30.936+09:00'

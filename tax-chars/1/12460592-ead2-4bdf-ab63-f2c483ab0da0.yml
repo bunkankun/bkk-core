@@ -1,0 +1,68 @@
+uuid: 12460592-ead2-4bdf-ab63-f2c483ab0da0
+type: tax-char
+heads:
+- 操
+pronunciations:
+- reading: sóu
+  old_chinese: soowʔ
+  middle_chinese: səu
+  fanqie: 蘇后切
+  tone: 上
+  guangyun: 車轂中空
+- reading: cào
+  old_chinese: tshaaws
+  middle_chinese: tsʰɑu
+  fanqie: 七到切
+  tone: 去
+  guangyun: 持也又志操七到切又七刀切七
+  senses:
+  - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+- reading: cāo
+  old_chinese: tshaaw
+  middle_chinese: tsʰɑu
+  fanqie: 七刀切
+  tone: 平
+  guangyun: 操持七刀切又七到切四
+  senses:
+  - concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+    concept_label: WIELD
+    children:
+    - gloss: musical instruments
+      concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+      concept_label: PLUCK
+    - gloss: musical instruments
+      concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+      concept_label: KNOCK
+      children:
+      - gloss: what is performed
+        concept_uuid: 55a6d0ed-c1a7-4dd1-96a6-1115480aa6be
+        concept_label: TUNE
+    - gloss: generalised
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+      children:
+      - gloss: generalised
+        concept_uuid: 907c0327-4325-4bc5-95a6-a9da3e851fe5
+        concept_label: BEHAVIOUR
+        children:
+        - gloss: underlying pattern of
+          concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+          concept_label: PRINCIPLE
+          children:
+          - gloss: public
+            concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+            concept_label: STANDARD
+      - gloss: military drill> EXERCISE
+    - gloss: generalised
+      concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+      concept_label: HOLD
+      children:
+      - gloss: 'socially: hold the control of'
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =躁
+source:
+  source_file: taxchar.xml

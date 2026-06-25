@@ -1,0 +1,24 @@
+uuid: 3d7fbce8-ef35-4699-bd4e-1310b748b245
+type: tax-char
+heads:
+- 圍
+pronunciations:
+- reading: wéi
+  old_chinese: ɢul
+  middle_chinese: ɦʷɨi
+  fanqie: 雨非切
+  tone: 平
+  guangyun: 守也圜也遶也
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+- reading: wèi
+  old_chinese: ɢuls
+  middle_chinese: ɦʷɨi
+  fanqie: 于貴切
+  tone: 去
+  guangyun: 繞也又音韋
+source:
+  source_file: taxchar.xml

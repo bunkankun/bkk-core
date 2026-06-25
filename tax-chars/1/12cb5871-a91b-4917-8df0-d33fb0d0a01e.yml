@@ -1,0 +1,33 @@
+uuid: 12cb5871-a91b-4917-8df0-d33fb0d0a01e
+type: tax-char
+heads:
+- 兄
+pronunciations:
+- reading: xiōng
+  old_chinese: qhʷraŋ
+  middle_chinese: hʷɯiaŋ
+  fanqie: 許榮切
+  tone: 平
+  guangyun: 爾雅男子先生曰兄説文長也許榮切一
+  senses:
+  - gloss: (elder)
+    concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+    concept_label: BROTHER
+    children:
+    - gloss: figurative
+      concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+      concept_label: GREAT
+      children:
+      - gloss: honorific
+        concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+        concept_label: FRIEND
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+          concept_label: YOU
+unattributed_senses:
+- concept_label: =況 ｋｕａｎｇ４《集韻》許放切，去漾曉。陽部。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:44:14.218+09:00'

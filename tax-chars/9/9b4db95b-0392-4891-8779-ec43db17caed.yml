@@ -1,0 +1,52 @@
+uuid: 9b4db95b-0392-4891-8779-ec43db17caed
+type: tax-char
+heads:
+- 跡
+- 迹
+pronunciations:
+- reading: jì,
+  old_chinese: sklaɡ
+  middle_chinese: tsiɛk
+  fanqie: 資昔切
+  tone: 入
+  guangyun: 足迹
+- reading: jì,
+  old_chinese: sklaɡ
+  middle_chinese: tsiɛk
+  fanqie: 資昔切
+  tone: 入
+  guangyun: 同迹
+  senses:
+  - concept_uuid: 87210bed-6567-4fdf-b137-a04e0cc14f83
+    concept_label: FOOTPRINT
+    children:
+    - gloss: follow in the footsteps
+      concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+      concept_label: IMITATE
+      children:
+      - gloss: concrete
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: 'figurative: results'
+          concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+          concept_label: ACHIEVE
+      - gloss: pursue traces
+        concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+        concept_label: STUDY
+        children:
+        - gloss: successfully
+          concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+          concept_label: PROVE
+    - gloss: generalised
+      concept_uuid: 2db68bb6-4a61-4573-8049-ba9754c8bba0
+      concept_label: TRACE
+      children:
+      - gloss: 'figurative: trace of injury'
+        concept_uuid: 99d8e2bb-e7df-4fac-854e-6869ab62a716
+        concept_label: WOUND
+      - gloss: 'abstract: of the Sages, the Way'
+        concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+        concept_label: METHOD
+source:
+  source_file: taxchar.xml

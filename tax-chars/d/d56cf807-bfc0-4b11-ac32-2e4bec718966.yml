@@ -1,0 +1,69 @@
+uuid: d56cf807-bfc0-4b11-ac32-2e4bec718966
+type: tax-char
+heads:
+- 磨
+pronunciations:
+- reading: mò
+  old_chinese: maals
+  middle_chinese: muɑ
+  fanqie: 摸卧切
+  tone: 去
+  guangyun: 磑也摸卧切又莫禾切四
+  senses:
+  - concept_uuid: 2b02173a-4036-4917-911f-fc00505a6adf
+    concept_label: GRINDSTONE
+  - concept_uuid: f92eda9f-49e5-4b3a-84c3-f5c7491ab7a7
+    concept_label: MORTAR
+  - concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+    concept_label: GRIND
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+    concept_label: ROLL
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+- reading: mò
+  old_chinese: maal
+  middle_chinese: muɑ
+  fanqie: 摸卧切
+  tone: 去
+  guangyun: 同磨
+- reading: mó
+  old_chinese: maal
+  middle_chinese: muɑ
+  fanqie: 莫婆切
+  tone: 平
+  guangyun: 磨礪爾雅曰石謂之磨
+  senses:
+  - concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+    concept_label: GRIND
+  - concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+    concept_label: RUB
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: e4f27013-ca16-4fdf-b7a1-075d72b062cb
+    concept_label: POLISH
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+  - concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+  - concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+    concept_label: STUDY
+  - concept_uuid: 75d82552-03d8-4313-b2df-89401a85505e
+    concept_label: TORMENT
+  - concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+    concept_label: PROBLEM
+  - concept_uuid: 59007c08-4ecf-4f74-8427-680c3f86344b
+    concept_label: DISTURB
+  - concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+    concept_label: WASTE
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 麽
+  - gloss: = 摩
+source:
+  source_file: taxchar.xml

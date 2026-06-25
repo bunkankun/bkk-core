@@ -1,0 +1,27 @@
+uuid: 7c2ae364-88ae-4b2b-ae7a-370367194c98
+type: tax-char
+heads:
+- 館
+pronunciations:
+- reading: guàn
+  old_chinese: koons
+  middle_chinese: kʷɑn
+  fanqie: 古玩切
+  tone: 去
+  guangyun: 館舍也周禮五十里有市市有館館有積以待朝聘之客俗作舘
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+    concept_label: GUEST HOUSE
+  - concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+    concept_label: PUBLIC BUILDING
+  - concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+    concept_label: SCHOOL
+- reading: guǎn
+  old_chinese: ruulʔ
+  middle_chinese: luoi
+  fanqie: 古緩切
+  tone: 上
+source:
+  source_file: taxchar.xml

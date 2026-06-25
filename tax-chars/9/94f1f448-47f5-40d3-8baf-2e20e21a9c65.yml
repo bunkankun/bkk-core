@@ -1,0 +1,39 @@
+uuid: 94f1f448-47f5-40d3-8baf-2e20e21a9c65
+type: tax-char
+heads:
+- 環
+pronunciations:
+- reading: huán
+  old_chinese: ɡʷraan
+  middle_chinese: ɦʷɯan
+  fanqie: 戶關切
+  tone: 平
+  guangyun: 玉環爾雅曰肉好若一謂之環又姓古有楚賢者環淵後有環濟撰要略一部
+  senses:
+  - concept_uuid: 362ff7ea-a564-430d-a3f0-a3b355fdd85a
+    concept_label: RING
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+    concept_label: LINK
+  - concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+    concept_label: TURN
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+    concept_label: EVERYWHERE
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - gloss: MEASURING UNIT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

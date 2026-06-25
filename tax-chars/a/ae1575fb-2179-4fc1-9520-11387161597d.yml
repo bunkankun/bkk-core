@@ -1,0 +1,45 @@
+uuid: ae1575fb-2179-4fc1-9520-11387161597d
+type: tax-char
+heads:
+- 頃
+pronunciations:
+- reading: qǐng
+  old_chinese: khʷeŋ
+  middle_chinese: kʰʷiɛŋ
+  fanqie: 去潁切
+  tone: 上
+  guangyun: 頃古文
+- reading: qīng
+  old_chinese: khʷleŋ
+  middle_chinese: kʰʷiɛŋ
+  fanqie: 去營切
+  tone: 平
+  guangyun: 西頃地名出地理志説文曰頭不正也又去潁切
+  senses:
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+  - concept_uuid: 51ed079c-2675-4502-b206-9dfec4fe64ae
+    concept_label: OVERTURN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: qǐng
+  old_chinese: khʷleŋʔ
+  middle_chinese: kʰʷiɛŋ
+  fanqie: 去潁切
+  tone: 上
+  guangyun: 田百𠭇也去潁切六
+  senses:
+  - concept_uuid: e468d8fd-5fc2-4d12-b0e8-7a0afee32be9
+    concept_label: AREA MEASURES
+  - concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+    concept_label: MOMENT
+  - concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+  - concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+  - concept_uuid: 82bda3bd-7190-48c9-b821-6c19d0221a45
+    concept_label: RECENT
+  - concept_uuid: e1bb6797-3909-4002-889d-384d5a843ee7
+    concept_label: APPROXIMATE
+source:
+  source_file: taxchar.xml

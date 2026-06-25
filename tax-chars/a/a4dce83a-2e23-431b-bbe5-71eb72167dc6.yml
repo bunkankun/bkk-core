@@ -1,0 +1,36 @@
+uuid: a4dce83a-2e23-431b-bbe5-71eb72167dc6
+type: tax-char
+heads:
+- 劍
+pronunciations:
+- reading: jiàn
+  old_chinese: kloms
+  middle_chinese: kiɐm
+  fanqie: 居欠切
+  tone: 去
+  guangyun: 釋名曰劒檢也所以防檢非常也廣雅曰龍泉太阿干將鏌鋣斷蛇魚腸純鋼燕支葵偷屬陳干隊堂谿墨陽巨闕辟閭並劒名也崔豹古今注云吴太皇帝有寶劒六一曰白虹二曰紫電三曰辟邪四曰流星五曰靑冥六曰百里列子云孔周有三劒一曰含光二曰承影三曰霄陳吴王賜子胥屬鏤之劒而死周穆王有錕鋙劒切玉如泥居欠切一
+  senses:
+  - concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+    concept_label: SWORD
+    children:
+    - gloss: art of swordsmanship
+      concept_uuid: a0c230bf-9312-48af-8de2-fc34059c83f3
+      concept_label: ART
+    - gloss: carry sword
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+      children:
+      - gloss: exocentric
+        concept_uuid: ce671d7f-3b7a-413a-a489-04a4d1ba7449
+        concept_label: KNIGHT
+    - gloss: use sword to
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+      children:
+      - gloss: object living creatures
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:10:42.004+09:00'

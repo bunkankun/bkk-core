@@ -1,0 +1,31 @@
+uuid: 09470d13-7bf9-448e-8d19-bc61c439d5db
+type: tax-char
+heads:
+- 太
+- 泰
+pronunciations:
+- reading: tài
+  old_chinese: thaads
+  middle_chinese: tʰɑi
+  fanqie: 他蓋切
+  tone: 去
+  guangyun: 甚也大也通也周禮曰太史掌建邦之六典宋書曰太史掌歴數靈臺專候日月星氣焉經典本作大亦漢複姓六氏漢有尚書太叔雄古今人表有太師庇何氏姓苑云太征氏下邳人太士氏永嘉人又有太室氏太祝氏
+  senses:
+  - concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+    concept_label: GREAT
+    children:
+    - gloss: status
+      concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+      concept_label: SENIOR
+    - gloss: greater degree
+      concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+      concept_label: EXCESSIVE
+      children:
+      - gloss: 'late colloquial: grammaticalised'
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+  - gloss: resulting state
+    concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+source:
+  source_file: taxchar.xml

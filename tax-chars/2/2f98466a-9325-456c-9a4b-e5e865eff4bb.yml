@@ -1,0 +1,72 @@
+uuid: 2f98466a-9325-456c-9a4b-e5e865eff4bb
+type: tax-char
+heads:
+- 廢
+pronunciations:
+- reading: fèi
+  old_chinese: pods
+  middle_chinese: pʷiɐi
+  fanqie: 方肺切
+  tone: 去
+  guangyun: 止也大也方肺切九
+  senses:
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+    children:
+    - gloss: resulting feature
+      concept_uuid: eb176907-f405-4ffe-95ec-0e8097a5de6b
+      concept_label: USELESS
+      children:
+      - gloss: make useless use of
+        concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+        concept_label: WASTE
+      - gloss: 'exocentric: useless plants'
+        concept_uuid: 8aadcd2d-503d-47eb-af15-2f52c5e8424d
+        concept_label: WEEDS
+      - gloss: become more useless
+        concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+        concept_label: DECLINE
+        children:
+        - gloss: resultative
+          concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+          concept_label: FAIL
+          children:
+          - gloss: 'specific: fail to upright or in control'
+            concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+            concept_label: FALL
+          - gloss: deliberate
+            concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+            concept_label: STOP
+      - gloss: treat as useless
+        concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+        concept_label: DISCARD
+        children:
+        - gloss: rules of respect
+          concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+          concept_label: OFFEND
+        - gloss: from the place it was
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+          children:
+          - gloss: from the living
+            concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+            concept_label: KILL
+            children:
+            - gloss: from existence
+              concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+              concept_label: DESTROY
+          - gloss: from position held
+            concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+            concept_label: DISMISS
+            children:
+            - gloss: generalised
+              concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+              concept_label: PUNISH
+              children:
+              - gloss: physical
+                concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+                concept_label: INJURE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:54:07.43+09:00'

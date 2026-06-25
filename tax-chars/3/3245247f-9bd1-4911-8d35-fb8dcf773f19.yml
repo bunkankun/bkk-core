@@ -1,0 +1,33 @@
+uuid: 3245247f-9bd1-4911-8d35-fb8dcf773f19
+type: tax-char
+heads:
+- 潘
+pronunciations:
+- reading: pān
+  old_chinese: phaan
+  middle_chinese: pʰʷɑn
+  fanqie: 普官切
+  tone: 平
+  guangyun: 淅米汁又姓周文王畢公之子季孫食采於潘因氏焉出廣宗河南二望普官切六
+  senses:
+  - concept_uuid: 2226d6a6-981a-49da-a923-5b87a022e03b
+    concept_label: GRUEL
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: fān
+  old_chinese: phaan
+  middle_chinese: pʰʷiɐn
+  fanqie: 孚袁切
+  tone: 平
+  guangyun: 米汁
+  senses:
+  - concept_uuid: 2226d6a6-981a-49da-a923-5b87a022e03b
+    concept_label: GRUEL
+source:
+  source_file: taxchar.xml

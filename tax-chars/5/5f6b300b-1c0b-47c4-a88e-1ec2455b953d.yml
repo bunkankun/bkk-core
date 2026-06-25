@@ -1,0 +1,65 @@
+uuid: 5f6b300b-1c0b-47c4-a88e-1ec2455b953d
+type: tax-char
+heads:
+- 舍
+pronunciations:
+- reading: shě
+  old_chinese: lʰaʔ
+  middle_chinese: ɕia
+  fanqie: 書冶切
+  tone: 上
+  guangyun: 止息亦同捨又音赦
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - gloss: distance covered with one over-night stay
+    concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+    children:
+    - gloss: place
+      concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+      concept_label: DWELLING
+      children:
+      - gloss: specifically
+        concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+        concept_label: GUEST HOUSE
+  - gloss: proper name
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+unattributed_senses:
+- concept_label: =捨 shě 康熙字典：《集韻》《韻會》《正韻》始野切，音捨。止息也，廢也，置也。
+  children:
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+    children:
+    - gloss: object offer
+      concept_uuid: c632e13b-a2ea-4b93-b2e1-3ba2eaab9325
+      concept_label: REJECT
+    - gloss: intellectually
+      concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+      concept_label: DISREGARD
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 9fe06619-da66-4a6b-9987-bbcdd1f703d3
+        concept_label: EXCEPT
+    - gloss: an option
+      concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+      concept_label: REFUSE
+      children:
+      - gloss: desist
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+- concept_label: 舍 =釋 shì 康熙字典：《集韻》始隻切《正韻》施隻切。並與釋同。
+  children:
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+  - gloss: morally and legally
+    concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+    concept_label: PARDON
+- concept_label: 舍 xie3 康熙字典：又《五音集韻》悉姐切，音寫。《揚子·方言》發挩舍車。
+- concept_label: 舍 康熙字典：又《韻補》叶舂遇切，音戍。
+- concept_label: 舍 康熙字典：又叶始賀切。
+source:
+  source_file: taxchar.xml
+  resp: dsehnal
+  date: '2023-01-01T21:59:51.477+09:00'

@@ -1,0 +1,102 @@
+uuid: aae4c16b-d283-4fa3-8b60-7ba1b7699006
+type: tax-char
+heads:
+- 焉
+pronunciations:
+- reading: yān
+  old_chinese: qan
+  middle_chinese: ʔiɐn
+  fanqie: 謁言切
+  tone: 平
+  guangyun: 安也又不言也
+- reading: yān
+  old_chinese: qran
+  middle_chinese: ʔɯiɛn
+  fanqie: 於乾切
+  tone: 平
+  guangyun: 何也又鳥雜毛説文曰鳥黄色出江淮間於乾切五
+- reading: yān
+  old_chinese: qran
+  middle_chinese: ʔɯiɛn
+  fanqie: 於乾切
+  tone: 平
+  guangyun: 何也又鳥雜毛説文曰鳥黄色出江淮間於乾切五
+  senses:
+  - gloss: 'yān (OC: ɢan MC: ɦɯiɛn) 有乾切 平 廣韻：【語助也又於乾切 】 語助也又於乾切 Pan Wuyun: ɢan 何也又鳥雜毛説文曰鳥黄色出江淮間於乾切 Pan Wuyun: qran 安也又不言也 Pan Wuyun qan'
+  - gloss: sentence-final with pronominal reference
+    concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+    concept_label: FINAL PARTICLES
+    children:
+    - gloss: referential
+      concept_uuid: c1654743-3e55-4188-816b-511da251682f
+      concept_label: PRONOUN
+      children:
+      - gloss: reference to addressee
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+      - gloss: reference to speaker
+        concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+        concept_label: EGO
+      - gloss: grammaticalised:preposition with pronominal object
+        concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+        concept_label: RELATION
+        children:
+        - gloss: comparative
+          concept_uuid: 537799e2-cfbb-488f-93bd-013276b87c05
+          concept_label: THAN
+        - gloss: 'spatial: in that place'
+          concept_uuid: 5a2cd1f0-f6a3-4fc7-829d-632dfc3ca043
+          concept_label: THERE
+          children:
+          - concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+            concept_label: THEN
+            children:
+            - concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+              concept_label: THEREFORE
+          - gloss: interrogative:spatial
+            concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+            concept_label: WHERE
+            children:
+            - gloss: direction
+              concept_uuid: a181a8dd-f86c-487b-80d4-a5cace7646fb
+              concept_label: WHITHER
+              children:
+              - gloss: source
+                concept_uuid: 0ef96ca0-241c-462a-9699-d38083e92c4e
+                concept_label: WHENCE
+                children:
+                - gloss: manner
+                  concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+                  concept_label: HOW
+                  children:
+                  - gloss: reason
+                    concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+                    concept_label: WHY
+                  - gloss: enclitic:manner
+                    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+                    concept_label: SUFFIX
+            - gloss: temporal
+              concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+              concept_label: WHEN
+          - gloss: abstract:relational
+            concept_uuid: a716fa73-5434-40ce-96e9-b46b6c0ac50a
+            concept_label: AMONG
+  - gloss: =顏
+    concept_uuid: a434b70f-c079-4aff-a1ca-bcf568aa3cfd
+    concept_label: FOREHEAD
+- reading: yān
+  old_chinese: qan
+  middle_chinese: ʔiɐn
+  fanqie: 謁言切
+  tone: 平
+  guangyun: 安也又不言也
+- reading: yān
+  old_chinese: ɢan
+  middle_chinese: ɦɯiɛn
+  fanqie: 有乾切
+  tone: 平
+  guangyun: 語助也又於乾切
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-27T18:38:18.308+09:00'

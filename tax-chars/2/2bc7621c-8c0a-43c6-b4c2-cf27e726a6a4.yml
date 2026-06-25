@@ -1,0 +1,56 @@
+uuid: 2bc7621c-8c0a-43c6-b4c2-cf27e726a6a4
+type: tax-char
+heads:
+- 溫
+pronunciations:
+- reading: wēn
+  old_chinese: quun
+  middle_chinese: ʔuon
+  fanqie: 烏渾切
+  tone: 平
+  guangyun: 水名出犍爲又和也善也良也柔也暖也又姓唐叔虞之後受封於河内温因以命氏又卻至食采於温亦号温季因以爲族出大原又漢複姓二氏莊子有温伯雪子姓苑又有温稽氏
+  senses:
+  - concept_uuid: 278eb26c-ce4a-4ce0-bbb2-008fa6ea5669
+    concept_label: WARM
+    children:
+    - gloss: fever> =瘟
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+    - gloss: generalisation
+      concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+      concept_label: HARMONY
+      children:
+      - gloss: modern, abstract
+        concept_uuid: 7cfeacb0-cdf4-4f72-a83d-856e39540183
+        concept_label: TEMPERATURE
+      - gloss: 'abstract: action> EXERCISE'
+        children:
+        - gloss: intellectually
+          concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+          concept_label: STUDY
+          children:
+          - gloss: resultative
+            concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+            concept_label: UNDERSTAND
+    - gloss: morally
+      concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+      concept_label: KIND
+      children:
+      - gloss: generally
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+      - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+        concept_label: ABUNDANT
+  - gloss: =轀 hearse
+    concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+    concept_label: CARRIAGE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

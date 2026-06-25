@@ -1,0 +1,32 @@
+uuid: 3b9c655e-ca29-4894-8d9b-f599243e2d69
+type: tax-char
+heads:
+- 詩
+pronunciations:
+- reading: shī
+  old_chinese: qhljɯ
+  middle_chinese: ɕɨ
+  fanqie: 書之切
+  tone: 平
+  guangyun: 説文曰志也詩序云發言爲詩釋名曰詩之也志之所之也書之切六
+  senses:
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+    children:
+    - gloss: text only
+      concept_uuid: a808e25d-58c6-404a-a13e-6d25cf9eef48
+      concept_label: POEM
+      children:
+      - gloss: relevant action
+        concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+        concept_label: CHANT
+      - gloss: genre defined by
+        concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+        concept_label: LITERARY GENRE
+    - gloss: typical related action
+      concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+      concept_label: SING
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-11-18T03:34:07.585+09:00'

@@ -1,0 +1,76 @@
+uuid: d41cdfde-a4ba-43d2-bf04-99e8dcf382d5
+type: tax-char
+heads:
+- 薄
+pronunciations:
+- reading: báo
+  old_chinese: baaɡ
+  middle_chinese: bʷɑk
+  fanqie: 傍各切
+  tone: 入
+  guangyun: 厚薄説文曰林薄也又姓漢文帝母薄氏
+  senses:
+  - concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+    concept_label: THIN
+    children:
+    - gloss: at close distance
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: dynamically
+        concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+        concept_label: URGENT
+      - gloss: transitive action
+        concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+        concept_label: APPROACH
+    - gloss: generalised
+      concept_uuid: 259b57ae-5a7a-4ad9-8ac9-0ac11f8054c5
+      concept_label: LITTLE
+      children:
+      - gloss: in quality
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+        children:
+        - gloss: in productive power
+          concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+          concept_label: WEAK
+          children:
+          - gloss: in luminosity of moon etc
+            concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+            concept_label: DARK
+        - gloss: in generosity
+          concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+          concept_label: STINGY
+          children:
+          - gloss: tenuous in empathy, callous
+            concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+            concept_label: CRUEL
+        - gloss: philosophical
+          concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+          concept_label: UNIMPORTANT
+          children:
+          - gloss: social
+            concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+            concept_label: VULGAR
+          - gloss: putative
+            concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+            concept_label: DESPISE
+        - gloss: grammaticalised:to a weak degree
+          concept_uuid: 04ab2f04-8e86-4176-b0ec-a40e3a6a7129
+          concept_label: SLIGHTLY
+      - gloss: numerically
+        concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+        concept_label: FEW
+        children:
+        - gloss: 'causative: taxes etc'
+          concept_label: DECREASE
+  - gloss: with trees near to each other
+    concept_uuid: 71380132-9a2c-4d60-a9c1-5dfc910069cc
+    concept_label: FOREST
+  - concept_label: =箔 “curtain”
+  - gloss: grammaticalised
+    concept_label: PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T22:42:10.924+09:00'

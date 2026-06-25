@@ -1,0 +1,23 @@
+uuid: 81fa4092-ca7a-4f90-b238-79b9cf486056
+type: tax-char
+heads:
+- 稀
+pronunciations:
+- reading: xī
+  old_chinese: qhlɯl
+  middle_chinese: hɨi
+  fanqie: 香衣切
+  tone: 平
+  guangyun: 稀踈
+  senses:
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+  - concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+    concept_label: RARE
+  - gloss: řídký
+  - concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+    concept_label: SOFT
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

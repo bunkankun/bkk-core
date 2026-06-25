@@ -1,0 +1,73 @@
+uuid: 08dd670e-ed21-4cdb-9fd5-c23f7e90286c
+type: tax-char
+heads:
+- 自
+pronunciations:
+- reading: zì
+  old_chinese: sblids
+  middle_chinese: dzi
+  fanqie: 疾二切
+  tone: 去
+  guangyun: 從也用也由也率也疾二切二
+  senses:
+  - concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+    concept_label: FROM
+    children:
+    - gloss: temporal:preceding time
+      concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+      concept_label: ALREADY
+    - gloss: physically
+      concept_uuid: f2c1d0d1-3f16-4523-8b7c-648b22b332ed
+      concept_label: THROUGH
+    - gloss: dynamically:that from which the effect flows
+      concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+      concept_label: CAUSE
+      children:
+      - gloss: subordinating:factive
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+        children:
+        - gloss: the reason being hypothetical
+          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+          concept_label: IF
+        - gloss: temporal:factive,from the time
+          concept_uuid: bf9ba337-f179-4a74-bbb1-5bc886d43727
+          concept_label: SINCE
+        - gloss: for natural reasons
+          concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+          concept_label: NATURALLY
+          children:
+          - gloss: in spite of appearances to the contrary
+            concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+            concept_label: EVEN
+          - gloss: plain and not artificial
+            concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+            concept_label: SIMPLE
+          - gloss: that from which one is
+            concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+            concept_label: SELF
+            children:
+            - gloss: preoccupied by
+              concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+              concept_label: SELFISH
+            - gloss: generic referece
+              concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+              concept_label: ONESELF
+              children:
+              - gloss: belonging to oneself only
+                concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+                concept_label: PRIVATE
+              - gloss: modal
+                concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+                concept_label: PERSONALLY
+                children:
+                - gloss: volitional
+                  concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+                  concept_label: INTEND
+  - gloss: colloquial, grammaticalised
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-16T17:07:00.882+09:00'

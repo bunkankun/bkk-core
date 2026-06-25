@@ -1,0 +1,49 @@
+uuid: 78e84a6f-60a6-4d18-af35-a7f9c91b4b8e
+type: tax-char
+heads:
+- 金
+pronunciations:
+- reading: jīn
+  old_chinese: krɯm
+  middle_chinese: kɯim
+  fanqie: 居吟切
+  tone: 平
+  guangyun: 金寶説文曰五色金也黄爲之長久薶不生衣百錬不輕从革不違西方之行生於土亦州名周爲附庸國魏於安康縣置東梁州後周改金州又金鼔釋名曰金禁也爲進退之禁也又姓古天子金天氏之後也又漢複姓有金留氏出姓苑居吟切九
+  senses:
+  - concept_uuid: 678eda4e-9edf-42e1-aa07-b5d5c0081ead
+    concept_label: METAL
+    children:
+    - gloss: salient quality
+      concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+      concept_label: HARD
+      children:
+      - gloss: object made of
+        concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+        concept_label: VESSEL
+      - gloss: specifically
+        concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+        concept_label: WEAPON
+        children:
+        - gloss: action with use of
+          concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+          concept_label: PUNISH
+    - gloss: salient quality
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+    - gloss: specifically
+      concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+      concept_label: MUSICAL INSTRUMENT
+  - gloss: 'specifically:'
+    concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+    concept_label: GOLD
+    children:
+    - gloss: colour
+      concept_uuid: 6be60b62-3c4c-48ec-b3b5-ec5556e20d3c
+      concept_label: YELLOW
+    - gloss: economic
+      concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+      concept_label: MONEY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:21:27.996+09:00'

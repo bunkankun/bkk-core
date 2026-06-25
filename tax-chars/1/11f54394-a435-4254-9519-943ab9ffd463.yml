@@ -1,0 +1,26 @@
+uuid: 11f54394-a435-4254-9519-943ab9ffd463
+type: tax-char
+heads:
+- 株
+pronunciations:
+- reading: zhū
+  old_chinese: to
+  middle_chinese: ʈio
+  fanqie: 陟輸切
+  tone: 平
+  guangyun: 木根也陟輸切十一
+  senses:
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+    concept_label: TRUNK
+  - concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+    concept_label: PLANT
+  - concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+    concept_label: ROOT
+  - concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+    concept_label: WIN
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

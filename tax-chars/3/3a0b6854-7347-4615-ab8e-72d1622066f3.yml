@@ -1,0 +1,54 @@
+uuid: 3a0b6854-7347-4615-ab8e-72d1622066f3
+type: tax-char
+heads:
+- 牢
+pronunciations:
+- reading: láo
+  old_chinese: ruu
+  middle_chinese: lɑu
+  fanqie: 魯刀切
+  tone: 平
+  guangyun: 養牛馬圈亦堅也固也又蒲牢獸名又姓孔子弟子琴牢之後漢石顯之黨有牢梁
+  senses:
+  - concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+    concept_label: BOVINE
+  - concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+    concept_label: DOMESTIC ANIMAL
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+    concept_label: PRISON
+  - concept_uuid: 9e770f6d-bff0-4dc6-8915-ee1ae85da6dd
+    concept_label: SACRIFICIAL ANIMAL
+  - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: SHUT
+  - concept_uuid: e9664def-f19c-4780-9d1f-41a1ac64e63e
+    concept_label: STABLE
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+    concept_label: FAITHFUL
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 37573186-7d6b-4b03-adfe-2013e0e15afe
+    concept_label: IRRITATE
+  - concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+    concept_label: MEDICINE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: láo
+  old_chinese: ruu
+  middle_chinese: lɑu
+  fanqie: 魯刀切
+  tone: 平
+  guangyun: 同牢
+source:
+  source_file: taxchar.xml

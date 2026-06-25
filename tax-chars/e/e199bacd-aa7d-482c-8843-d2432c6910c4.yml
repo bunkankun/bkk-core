@@ -1,0 +1,37 @@
+uuid: e199bacd-aa7d-482c-8843-d2432c6910c4
+type: tax-char
+heads:
+- 磬
+pronunciations:
+- reading: qìng
+  old_chinese: kheeŋs
+  middle_chinese: kʰeŋ
+  fanqie: 苦定切
+  tone: 去
+  guangyun: 磬籀文
+- reading: qìng
+  old_chinese: kheeŋs
+  middle_chinese: kʰeŋ
+  fanqie: 苦定切
+  tone: 去
+  guangyun: 磬石樂器周禮曰磬人爲磬
+  senses:
+  - concept_uuid: 7aa759ee-1c1d-45b2-a333-98c8588fc388
+    concept_label: STONE MUSICAL INSTRUMENTS
+  - concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+    concept_label: STONE
+  - concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+  - concept_uuid: f2284c79-c50f-45e3-b898-f646400b5573
+    concept_label: CLOCK
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+    concept_label: EXECUTE
+  - concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+  - gloss: = 俔
+  - gloss: = 罄
+  - gloss: = 騁
+source:
+  source_file: taxchar.xml

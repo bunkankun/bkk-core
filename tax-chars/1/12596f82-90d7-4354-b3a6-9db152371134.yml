@@ -1,0 +1,92 @@
+uuid: 12596f82-90d7-4354-b3a6-9db152371134
+type: tax-char
+heads:
+- 散
+pronunciations:
+- reading: sǎn
+  old_chinese: sqaanʔ
+  middle_chinese: sɑn
+  fanqie: 蘇旱切
+  tone: 上
+  guangyun: 散誕説文作𢽳分離也又作𢿱雜肉也今通作散又姓史記文王四友散宜生蘇旱切又蘇汗切十一
+  senses:
+  - concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+    concept_label: ORDINARY
+    children:
+    - gloss: negative
+      concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+      concept_label: VULGAR
+    - gloss: 'specific in medicine, of pulse: diffuse'
+      concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+      concept_label: SUPERFICIAL
+      children:
+      - gloss: psychological
+        concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+        concept_label: UNRESTRAINED
+        children:
+        - gloss: 'exocentric: unrhymed text'
+          concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+          concept_label: PROSE
+      - gloss: 'physical: disorderly'
+        concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+        concept_label: CHAOS
+  - gloss: for wine
+    concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+    concept_label: CUP
+- reading: sǎn
+  old_chinese: saanʔ
+  middle_chinese: sɑn
+  fanqie: 蘇旱切
+  tone: 上
+  guangyun: 見散注
+- reading: sàn
+  old_chinese: saanʔ
+  middle_chinese: sɑn
+  fanqie: 蘇旰切
+  tone: 去
+  guangyun: 分離也布也説文作𢽳分離也𢿱雜肉也今通作散又蘇旱切
+- reading: sàn
+  old_chinese: sqaans
+  middle_chinese: sɑn
+  fanqie: 蘇旰切
+  tone: 去
+  guangyun: 見上注
+  senses:
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+    children:
+    - gloss: in a deliberate way
+      concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+      concept_label: DISTRIBUTE
+    - gloss: 'feature: separated'
+      concept_label: SEPARATE
+    - gloss: 'physical: emit'
+      concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+      concept_label: ISSUE
+      children:
+      - gloss: abstract
+        concept_label: FINISH
+    - gloss: of meat
+      concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+      concept_label: MIXED
+    - gloss: 'permissive: allow to go'
+      concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+      concept_label: RELEASE
+      children:
+      - gloss: generalised
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+        children:
+        - gloss: 'specific: object leaves'
+          concept_label: SHRIVEL
+        - gloss: 'causative: dispel'
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+          children:
+          - gloss: remove what blocks
+            concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+            concept_label: OPEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T23:43:54.712+09:00'

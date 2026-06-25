@@ -1,0 +1,34 @@
+uuid: d40a467b-45e8-4e40-9739-a18cee1c9dc5
+type: tax-char
+heads:
+- 夙
+pronunciations:
+- reading: sù
+  old_chinese: suɡ
+  middle_chinese: siuk
+  fanqie: 息逐切
+  tone: 入
+  guangyun: 夙古文出説文
+- reading: sù
+  old_chinese: suɡ
+  middle_chinese: siuk
+  fanqie: 息逐切
+  tone: 入
+  guangyun: 早也説文作𡖊早敬也从丮持事雖夕不休早敬者也丮音㦸又姓魯大夫季孫夙之後
+  senses:
+  - concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+    concept_label: EARLY
+  - concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+    concept_label: MORNING
+  - concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+  - concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+    concept_label: ALWAYS
+  - concept_uuid: f4e6eea9-7459-4b77-84f9-704a6029ef49
+    concept_label: INHERIT
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

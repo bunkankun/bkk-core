@@ -1,0 +1,63 @@
+uuid: 6804bd9e-77f2-4dda-b5c2-1e23649e57fe
+type: tax-char
+heads:
+- 容
+pronunciations:
+- reading: róng
+  old_chinese: k-loŋ
+  middle_chinese: jioŋ
+  fanqie: 餘封切
+  tone: 平
+  guangyun: 盛也儀也受也爾雅曰容謂之防郭璞云形如今牀頭小曲屏風唱䠶者所以自防隱司馬法云軍容不入國國容不入軍是也又州名又姓八凱仲容之後禮記有徐大夫容居餘封切三十五
+- reading: róng
+  old_chinese: k-loŋ
+  middle_chinese: jioŋ
+  fanqie: 餘封切
+  tone: 平
+  guangyun: 㝐盛也説文云古文容
+  senses:
+  - concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+    concept_label: FACE
+    children:
+    - gloss: 'generalised: outline'
+      concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+      concept_label: SHAPE
+      children:
+      - gloss: complex
+        concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+        concept_label: PATTERN
+      - gloss: abstract
+        concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+        concept_label: APPEARANCE
+        children:
+        - gloss: causative
+          concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+          concept_label: EMBELLISH
+      - gloss: what is outlined
+        concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+        concept_label: CONTAIN
+        children:
+        - gloss: causative
+          concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+          concept_label: PUT
+        - gloss: action
+          concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+          concept_label: ENTER
+        - gloss: allow
+          concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+          concept_label: PERMIT
+          children:
+          - gloss: reflexive
+            concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+            concept_label: UNRESTRAINED
+          - gloss: specific
+            concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+            concept_label: FORGIVE
+        - gloss: specific
+          concept_uuid: 9758306d-fada-4130-b20c-509086479851
+          concept_label: TOLERANCE
+        - gloss: logical
+          concept_uuid: 81c88835-f82d-4be2-8f26-a44f5e491609
+          concept_label: CONSISTENT
+source:
+  source_file: taxchar.xml

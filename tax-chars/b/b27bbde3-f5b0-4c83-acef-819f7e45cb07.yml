@@ -1,0 +1,53 @@
+uuid: b27bbde3-f5b0-4c83-acef-819f7e45cb07
+type: tax-char
+heads:
+- 刑
+pronunciations:
+- reading: xíng
+  old_chinese: ɡeeŋ
+  middle_chinese: ɦeŋ
+  fanqie: 戶經切
+  tone: 平
+  guangyun: 法也禮曰刑者侀也侀者成也一成而不可變故君子盡心焉説文剄也
+  senses:
+  - gloss: (nominal)
+    concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: PUNISH
+    children:
+    - gloss: monetary only
+      concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+      concept_label: FINE
+    - gloss: penal>LAW
+    - gloss: corporal
+      concept_uuid: 25a72224-9be8-4fd4-82ad-4a2a28e44f16
+      concept_label: MUTILATE
+      children:
+      - gloss: specifically
+        concept_uuid: 2b8cad76-d05c-4793-84c3-0766768bddfe
+        concept_label: CASTRATE
+    - gloss: mortal
+      concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+      concept_label: EXECUTE
+      children:
+      - gloss: generalised
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+        children:
+        - gloss: generalised
+          concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+          concept_label: DAMAGE
+    - gloss: what one is punished for
+      concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+      concept_label: CRIME
+      children:
+      - gloss: 'exocentric: those guilty of a crime deserving mutilation'
+        concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+        concept_label: GUILT
+  - gloss: =形
+  - gloss: =型 abstract
+    concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+  - gloss: =鉶
+  - gloss: =侀
+source:
+  source_file: taxchar.xml

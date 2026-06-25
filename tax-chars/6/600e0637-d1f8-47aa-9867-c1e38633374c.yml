@@ -1,0 +1,32 @@
+uuid: 600e0637-d1f8-47aa-9867-c1e38633374c
+type: tax-char
+heads:
+- 陶
+pronunciations:
+- reading: táo
+  old_chinese: b-lu
+  middle_chinese: dɑu
+  fanqie: 徒刀切
+  tone: 平
+  guangyun: 陶甄尸子曰夏桀臣昆吾作陶周書神農作瓦器又陶正官名齊職儀曰左右甄官署掌塼瓦之作也又喜也正也化也亦姓陶唐之後今出丹陽徒刀切二十五
+  senses:
+  - concept_uuid: 07f162ec-bb01-4fe1-846b-ad21059b44ed
+    concept_label: EARTHENWARE
+  - gloss: object earthenware vessels
+    concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+    concept_label: PRODUCE
+  - gloss: specialist in
+    concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+    concept_label: ARTISAN
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+- reading: yáo
+  old_chinese: b-lew
+  middle_chinese: jiɛu
+  fanqie: 餘昭切
+  tone: 平
+  guangyun: 臯陶舜臣又徒刀切
+source:
+  source_file: taxchar.xml

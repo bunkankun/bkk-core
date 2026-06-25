@@ -1,0 +1,27 @@
+uuid: 1821382c-539e-435c-ae41-866d2e67197b
+type: tax-char
+heads:
+- 雁
+pronunciations:
+- reading: yàn
+  old_chinese: ŋraans
+  middle_chinese: ŋɯan
+  fanqie: 五晏切
+  tone: 去
+  guangyun: 鳥也出説文
+  senses:
+  - concept_uuid: 5ce07c6e-e4b1-444b-81d2-96d33ebf7771
+    concept_label: GOOSE
+    children:
+    - concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+      concept_label: LETTER
+    - concept_uuid: e85f3767-f78a-4678-aca7-2aead905c2fa
+      concept_label: BATTLE ARRAY
+      children:
+      - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+        concept_label: ARMY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =贋FAKE
+source:
+  source_file: taxchar.xml

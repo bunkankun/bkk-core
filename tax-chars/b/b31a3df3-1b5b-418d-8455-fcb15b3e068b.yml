@@ -1,0 +1,27 @@
+uuid: b31a3df3-1b5b-418d-8455-fcb15b3e068b
+type: tax-char
+heads:
+- 迭
+pronunciations:
+- reading: dié
+  old_chinese: liiɡ
+  middle_chinese: det
+  fanqie: 徒結切
+  tone: 入
+  guangyun: 遞也更也道也
+  senses:
+  - concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+    concept_label: REPLACE
+  - concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: 8ffa4531-1f93-473b-b468-7d0cf9390af1
+    concept_label: GENITIVE PARTICLES
+  - concept_uuid: 7d24e5c5-3ca6-4d31-866a-1b10b3ca6825
+    concept_label: ALTERNATE
+  - gloss: = 軼
+source:
+  source_file: taxchar.xml

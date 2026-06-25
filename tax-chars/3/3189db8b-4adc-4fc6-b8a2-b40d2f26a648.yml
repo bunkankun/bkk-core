@@ -1,0 +1,94 @@
+uuid: 3189db8b-4adc-4fc6-b8a2-b40d2f26a648
+type: tax-char
+heads:
+- 絕
+pronunciations:
+- reading: jué
+  old_chinese: dzod
+  middle_chinese: dzʷiɛt
+  fanqie: 情雪切
+  tone: 入
+  guangyun: 斷也作絶非情雪切一
+  senses:
+  - concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+    concept_label: BREAK OFF
+    children:
+    - gloss: resultative
+      concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+      concept_label: FALL
+    - gloss: object head
+      concept_uuid: 6c7873f8-335a-41dd-931f-fb75cce3ab2b
+      concept_label: BEHEAD
+    - gloss: 'action: object communality with'
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+      children:
+      - gloss: physical
+        concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+        concept_label: CROSS OVER
+      - gloss: feature
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: positive
+          concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+          concept_label: EXCELLENT
+          children:
+          - gloss: superlative
+            concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+            concept_label: PERFECT
+  - gloss: 'feature: spatially cut-off'
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+    children:
+    - gloss: bend markedly
+      concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+      concept_label: BOW DOWN
+    - gloss: resultative
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+      children:
+      - gloss: so as to pass on
+        concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+        concept_label: YIELD
+      - gloss: a possibility of action
+        concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+        concept_label: REFUSE
+      - gloss: inadvertently
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+      - gloss: a wife
+        concept_uuid: 89830aaf-48a4-49cf-8f0c-4132c2f21dcd
+        concept_label: DIVORCE
+      - gloss: resulting state
+        concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+        concept_label: LACK
+        children:
+        - gloss: necessities
+          concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+          concept_label: POOR
+        - gloss: awareness
+          concept_uuid: 032b3692-b51c-4c93-ba69-0bbe05b306d4
+          concept_label: UNCONSCIOUS
+      - gloss: so as to annihilate
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+        children:
+        - gloss: passive
+          concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+          concept_label: DIE
+          children:
+          - gloss: jué
+            concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+            concept_label: STOP
+            children:
+            - gloss: generalised
+              concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+              concept_label: END
+      - gloss: one’s home
+        concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+        concept_label: FLEE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T17:42:06.285+09:00'

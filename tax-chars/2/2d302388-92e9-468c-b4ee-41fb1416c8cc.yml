@@ -1,0 +1,75 @@
+uuid: 2d302388-92e9-468c-b4ee-41fb1416c8cc
+type: tax-char
+heads:
+- 破
+pronunciations:
+- reading: pò
+  old_chinese: phaals
+  middle_chinese: pʰuɑ
+  fanqie: 普過切
+  tone: 去
+  guangyun: 破壞又虜三字姓三氏北齊書有破六韓常後魏書有北境賊破六汗拔陵又西方破多羅氏後改爲潘氏普過切二
+  senses:
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+    children:
+    - gloss: what hides something
+      concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+      concept_label: SHOW
+    - gloss: 'late colloquial: perfective> VERBAL SUFFIXES'
+    - gloss: grammaticalised, late colloquial
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+    - gloss: resultative
+      concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+      concept_label: TATTERED
+      children:
+      - gloss: generalised
+        concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+        concept_label: CHANGE
+        children:
+        - gloss: generalised
+          concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+          concept_label: HAPPEN
+      - gloss: generalised
+        concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+        concept_label: BAD
+        children:
+        - gloss: fated> UNLUCKY
+    - gloss: military
+      concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+      concept_label: DEFEAT
+      children:
+      - gloss: in argument
+        concept_uuid: fc3754c3-1af0-41cc-969b-58bb9a1fc6e4
+        concept_label: REFUTE
+      - gloss: in discourse
+        concept_uuid: dd3de4ff-729c-487d-b762-f32b60f7cc45
+        concept_label: DENY
+      - gloss: in action
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+      - gloss: 'resultative: spatial'
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+        children:
+        - gloss: financial
+          concept_uuid: 26f60644-292c-40f8-9d43-17951e2349f8
+          concept_label: SPEND
+        - gloss: so as to grow
+          concept_uuid: c9eaed89-c52f-4cbf-ae6e-e0304111543d
+          concept_label: EXPAND
+        - gloss: partly
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+        - gloss: into two
+          concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+          concept_label: SPLIT
+          children:
+          - gloss: conceptually
+            concept_uuid: ad0cb391-810d-4740-9994-266d02712d0f
+            concept_label: ANALYSE
+  - concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+source:
+  source_file: taxchar.xml

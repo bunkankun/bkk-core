@@ -1,0 +1,38 @@
+uuid: f1fce0bc-69a1-4671-a8ee-f672249933cb
+type: tax-char
+heads:
+- 闔
+pronunciations:
+- reading: hé
+  old_chinese: ɡaab
+  middle_chinese: ɦɑp
+  fanqie: 胡臘切
+  tone: 入
+  guangyun: 閶闔説文云門扇也一曰閉也
+  senses:
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+    concept_label: DOOR
+  - concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+    concept_label: GATE
+  - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: SHUT
+  - concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+    concept_label: WHOLE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 合
+  - gloss: = 曷
+  - gloss: = 盍
+  - gloss: = 蓋
+- reading: hé
+  old_chinese: ɡaab
+  middle_chinese: ɦɑp
+  fanqie: 胡臘切
+  tone: 入
+  guangyun: 俗闔
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,53 @@
+uuid: 144b9eca-acd8-408a-8c22-e4bb7298921d
+type: tax-char
+heads:
+- 宰
+pronunciations:
+- reading: zǎi
+  old_chinese: tsɯɯʔ
+  middle_chinese: tsəi
+  fanqie: 作亥切
+  tone: 上
+  guangyun: 冢宰又制也亦姓孔子弟子宰予作亥切四
+  senses:
+  - concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+    concept_label: SLAVE
+    children:
+    - gloss: administrative
+      concept_uuid: 1445093e-a5b6-4b45-85be-e4073438c61f
+      concept_label: TITLE
+      children:
+      - gloss: 'general: in clan or state'
+        concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+        concept_label: OFFICIAL
+        children:
+        - gloss: 'typical activity: be in charge of'
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+          children:
+          - gloss: generalised
+            concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+            concept_label: GOVERN
+    - gloss: 'typical activity: object animals'
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+      children:
+      - gloss: 'specific: object animals'
+        concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+        concept_label: SACRIFICE
+      - gloss: typical activity
+        concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+        concept_label: COOK
+        children:
+        - gloss: 'generalised: in preparing food'
+          concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+          concept_label: CUT
+        - gloss: generalised
+          concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+          concept_label: DIVIDE
+  - concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

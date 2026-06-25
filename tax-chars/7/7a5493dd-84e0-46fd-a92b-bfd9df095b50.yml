@@ -1,0 +1,24 @@
+uuid: 7a5493dd-84e0-46fd-a92b-bfd9df095b50
+type: tax-char
+heads:
+- 暉
+pronunciations:
+- reading: huī
+  old_chinese: qhul
+  middle_chinese: hʷɨi
+  fanqie: 許歸切
+  tone: 平
+  guangyun: 亦同煇又日色
+  senses:
+  - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+    concept_label: DRAGON
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGN
+source:
+  source_file: taxchar.xml

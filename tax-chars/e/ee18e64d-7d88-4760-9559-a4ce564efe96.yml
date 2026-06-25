@@ -1,0 +1,53 @@
+uuid: ee18e64d-7d88-4760-9559-a4ce564efe96
+type: tax-char
+heads:
+- 二
+pronunciations:
+- reading: èr
+  old_chinese: njis
+  middle_chinese: ȵi
+  fanqie: 而至切
+  tone: 去
+  guangyun: 二古文
+- reading: èr
+  old_chinese: njis
+  middle_chinese: ȵi
+  fanqie: 而至切
+  tone: 去
+  guangyun: 説文云地之數也而至切五
+  senses:
+  - concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+    concept_label: TWO
+    children:
+    - gloss: of the same sort
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: EQUAL
+    - gloss: regarding features
+      concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+      concept_label: DIFFERENT
+      children:
+      - gloss: psychologically “in two different minds”
+        concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+        concept_label: CONFUSED
+        children:
+        - gloss: specifically
+          concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+          concept_label: DOUBT
+          children:
+          - gloss: objective
+            concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+            concept_label: CHAOS
+      - gloss: in identity
+        concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+        concept_label: OTHER
+        children:
+        - gloss: in allegiance> =貳
+          concept_uuid: ee9f58b1-8bc7-4f9c-bc64-d945c5cd6958
+          concept_label: DISLOYAL
+    - gloss: ownership of two
+      concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+      concept_label: HAVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-29T00:30:51.825+09:00'

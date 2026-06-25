@@ -1,0 +1,24 @@
+uuid: 032ceb08-dedc-404b-870e-2dd3a3d0875c
+type: tax-char
+heads:
+- 聘
+pronunciations:
+- reading: pìn
+  old_chinese: phleŋs
+  middle_chinese: pʰiɛŋ
+  fanqie: 匹正切
+  tone: 去
+  guangyun: 聘問也訪也匹正切三
+  senses:
+  - concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+    concept_label: INVITE
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+    concept_label: GIFT
+source:
+  source_file: taxchar.xml

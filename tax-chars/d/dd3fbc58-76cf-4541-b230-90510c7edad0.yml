@@ -1,0 +1,108 @@
+uuid: dd3fbc58-76cf-4541-b230-90510c7edad0
+type: tax-char
+heads:
+- 簡
+pronunciations:
+- reading: jiǎn
+  old_chinese: kreenʔ
+  middle_chinese: kɯæn
+  fanqie: 古限切
+  tone: 上
+  guangyun: 札也牒也略也釋名曰簡間也編之扁扁有間也又姓左氏傳魯大夫簡叔蜀志簡雍傳云本幽州人姓耿後音訛改爲簡古限切七
+  senses:
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+    children:
+    - gloss: bamboo-made
+      concept_uuid: 671b14e2-b38f-451a-ad00-c1a0acde9345
+      concept_label: WHIP
+    - gloss: 'generalised: stationary'
+      concept_uuid: 485ae3fe-3888-4367-8c5a-fd834178d569
+      concept_label: BOARD
+      children:
+      - gloss: large
+        concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+        concept_label: PLANK
+      - gloss: without inscription
+        concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+        concept_label: STATIONARY
+      - gloss: with inscription
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+        children:
+        - gloss: generalised
+          concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+          concept_label: LETTER
+          children:
+          - gloss: feature
+            concept_uuid: 6a39e8d4-8e37-43ee-a09f-56b121cd95ea
+            concept_label: BRIEF
+            children:
+            - gloss: brief part of poem
+              concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+              concept_label: LINE
+            - gloss: be excessively brief on
+              concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+              concept_label: NEGLECT
+              children:
+              - gloss: personally
+                concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+                concept_label: LAZY
+              - gloss: socially
+                concept_uuid: baec0e2f-c355-4a37-b0ac-c70fc945590f
+                concept_label: IMPOLITE
+                children:
+                - gloss: overt
+                  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+                  concept_label: RUDE
+            - gloss: generalised
+              concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+              concept_label: SIMPLE
+              children:
+              - gloss: simple-minded
+                concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+                concept_label: STUPID
+              - gloss: intellectually
+                concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+                concept_label: EASY
+              - gloss: in use of resources
+                concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+                concept_label: FRUGAL
+                children:
+                - gloss: in number of occurrences
+                  concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+                  concept_label: RARE
+        - gloss: associated activity
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+          children:
+          - gloss: result
+            concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+            concept_label: DISTINGUISH
+            children:
+            - gloss: result
+              concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+              concept_label: CHOOSE
+              children:
+              - gloss: what is offered
+                concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+                concept_label: ACCEPT
+            - gloss: result
+              concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+              concept_label: DISCARD
+          - gloss: number of
+            concept_uuid: 1a945368-8fe0-42d1-8db9-05b2781e1056
+            concept_label: COUNT
+  - gloss: MUSICAL INSTRUMENTS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+  - concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+    concept_label: RULERS OF ZHENG
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml

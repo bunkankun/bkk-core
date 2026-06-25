@@ -1,0 +1,46 @@
+uuid: cfa8671e-7528-4673-8954-6f48c9da48d6
+type: tax-char
+heads:
+- 羨
+pronunciations:
+- reading: xiàn
+  old_chinese: ljans
+  middle_chinese: ziɛn
+  fanqie: 似面切
+  tone: 去
+  guangyun: 貪慕又餘也又姓列仙傳有羡門似面切二
+  senses:
+  - concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+    concept_label: ADMIRE
+  - concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+    concept_label: SURPLUS
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+    concept_label: LONG
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: yí
+  old_chinese: lil
+  middle_chinese: ji
+  fanqie: 以脂切
+  tone: 平
+  guangyun: 沙羨邑名在江夏岀地理志又羊箭祥面二切
+  senses:
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+- reading: yàn
+  old_chinese: lans
+  middle_chinese: jiɛn
+  fanqie: 予線切
+  tone: 去
+  guangyun: 延也進也
+  senses:
+  - gloss: = 延
+  - gloss: = 埏
+source:
+  source_file: taxchar.xml

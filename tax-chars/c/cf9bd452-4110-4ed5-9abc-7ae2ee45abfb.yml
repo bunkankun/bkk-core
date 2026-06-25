@@ -1,0 +1,32 @@
+uuid: cf9bd452-4110-4ed5-9abc-7ae2ee45abfb
+type: tax-char
+heads:
+- 智
+pronunciations:
+- reading: zhì
+  old_chinese: tes
+  middle_chinese: ʈɯiɛ
+  fanqie: 知義切
+  tone: 去
+  guangyun: 知也又姓晉有智伯知義切三
+  senses:
+  - concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+    concept_label: WISE
+    children:
+    - gloss: in practical intellectual tasks
+      concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+      concept_label: INTELLIGENT
+    - gloss: immorally
+      concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+      concept_label: CRAFTY
+unattributed_senses:
+- gloss: =知
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  concept_label: UNDERSTAND
+- gloss: =知
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  concept_label: KNOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-09-18T23:13:27.5+09:00'

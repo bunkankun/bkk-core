@@ -1,0 +1,50 @@
+uuid: 604e8692-4238-42f9-b87b-a923d4a6f2e6
+type: tax-char
+heads:
+- 艷
+- 豔
+pronunciations:
+- reading: yàn
+  old_chinese: lams
+  middle_chinese: jiɛm
+  fanqie: 以贍切
+  tone: 去
+- reading: yàn
+  old_chinese: lams
+  middle_chinese: jiɛm
+  fanqie: 以贍切
+  tone: 去
+  guangyun: 俗豔
+- reading: yàn
+  old_chinese: lams
+  middle_chinese: jiɛm
+  fanqie: 以贍切
+  tone: 去
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+    concept_label: FLOWER
+  - concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+    concept_label: ADMIRE
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+    concept_label: DENSE
+  - concept_uuid: a14b3089-406f-4eea-bb20-3e24cc36ef62
+    concept_label: SONGS
+- reading: yàn
+  old_chinese: lams
+  middle_chinese: jiɛm
+  fanqie: 以贍切
+  tone: 去
+  guangyun: 美色也以贍切九
+  senses:
+  - concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+    concept_label: SEXY
+source:
+  source_file: taxchar.xml

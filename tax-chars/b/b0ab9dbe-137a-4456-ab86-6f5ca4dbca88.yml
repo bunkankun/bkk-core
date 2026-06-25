@@ -1,0 +1,46 @@
+uuid: b0ab9dbe-137a-4456-ab86-6f5ca4dbca88
+type: tax-char
+heads:
+- 形
+pronunciations:
+- reading: xíng
+  old_chinese: ɡeeŋ
+  middle_chinese: ɦeŋ
+  fanqie: 戶經切
+  tone: 平
+  guangyun: 容也常也
+  senses:
+  - concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+    concept_label: SHAPE
+    children:
+    - gloss: physical
+      concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+      concept_label: BODY
+    - gloss: adjectival
+      concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+      concept_label: VISIBLE
+      children:
+      - gloss: subjective
+        concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+        concept_label: SEEM
+      - gloss: causative:make visible an image of
+        concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+        concept_label: DEPICT
+      - gloss: what makes visible
+        concept_uuid: c5ef2394-ab9d-4c60-af23-94ab9ddc60bc
+        concept_label: SIGN
+        children:
+        - gloss: act out
+          concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+          concept_label: ACT
+    - gloss: 'abstract: constellation'
+      concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+      concept_label: SITUATION
+unattributed_senses:
+- concept_label: =刑
+- concept_label: =鉶
+- concept_label: =型
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-01T23:11:19.585+09:00'

@@ -1,0 +1,36 @@
+uuid: 844ef29f-9e9e-491a-a067-535d3f63d15b
+type: tax-char
+heads:
+- 皆
+pronunciations:
+- reading: jiē
+  old_chinese: kriid
+  middle_chinese: kɯæi
+  fanqie: 古諧切
+  tone: 平
+  guangyun: 説文作皆俱詞也古諧切十九
+  senses:
+  - gloss: preverbal and prenominal
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+    children:
+    - gloss: agents at a time and place
+      concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+      concept_label: TOGETHER
+      children:
+      - gloss: objects
+        concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+        concept_label: COMPARE
+      - gloss: abstract
+        concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+        concept_label: COMPLETE
+    - gloss: spatial
+      concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+      concept_label: EVERYWHERE
+    - gloss: temporal
+      concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+      concept_label: ALWAYS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-27T19:28:08.403+09:00'

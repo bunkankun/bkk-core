@@ -1,0 +1,77 @@
+uuid: 2295121d-0379-4b84-b744-3e75ca37da58
+type: tax-char
+heads:
+- 病
+pronunciations:
+- reading: bìng
+  old_chinese: bɢraŋs
+  middle_chinese: bɯiaŋ
+  fanqie: 皮命切
+  tone: 去
+  guangyun: 憂也苦也說文曰疾加也皮命切四
+  senses:
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+    children:
+    - gloss: 'specific: mild'
+      concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+      concept_label: TIRED
+      children:
+      - gloss: external conditions
+        concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+        concept_label: POOR
+    - gloss: generalised:feature
+      concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+      concept_label: BAD
+      children:
+      - gloss: subjective
+        concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+        concept_label: DISTRESS
+      - gloss: general
+        concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+        concept_label: DEFECT
+        children:
+        - gloss: temporary
+          concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+          concept_label: MISTAKE
+          children:
+          - gloss: event
+            concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+            concept_label: FAIL
+          - gloss: 'feature: psychological'
+            concept_uuid: d1bd7eaf-5991-49fa-8897-775a4097e69f
+            concept_label: VICE
+        - gloss: 'generalised: external'
+          concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+          concept_label: DAMAGE
+          children:
+          - gloss: inflict damage on
+            concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+            concept_label: ATTACK
+          - gloss: 'suffer damage from: be defeated'
+            concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+            concept_label: DEFEAT
+          - gloss: major
+            concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+            concept_label: DISASTER
+          - gloss: 'putative: be concerned with possible damage'
+            concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+            concept_label: WORRY
+            children:
+            - gloss: find morally worrysome, be ashamed of
+              concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+              concept_label: SHAME
+          - gloss: judgemental
+            concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+            concept_label: DISSATISFIED
+            children:
+            - gloss: intensitive:emotional
+              concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+              concept_label: HATE
+            - gloss: declarative:intellectual
+              concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+              concept_label: CRITICISE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T23:38:18.384+09:00'

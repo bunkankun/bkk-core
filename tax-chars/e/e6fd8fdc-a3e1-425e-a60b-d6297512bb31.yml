@@ -1,0 +1,68 @@
+uuid: e6fd8fdc-a3e1-425e-a60b-d6297512bb31
+type: tax-char
+heads:
+- 假
+pronunciations:
+- reading: jiǎ
+  old_chinese: kraaʔ
+  middle_chinese: kɯa
+  fanqie: 古疋切
+  tone: 上
+  guangyun: 且也借也非眞也説文又作徦至也又姓漢有假倉
+  senses:
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+    children:
+    - gloss: generalised
+      concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+      concept_label: REQUEST
+      children:
+      - gloss: as requested
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+        children:
+        - gloss: as necessary means towards something
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+          children:
+          - gloss: vehicle, for transport
+            concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+            concept_label: DRIVE
+          - gloss: ship, for transport> SAILING
+          - gloss: 'grammaticalised: relying on for the sake of argument'
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+            children:
+            - gloss: counter to fact
+              concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+              concept_label: COUNTERFACTUAL
+              children:
+              - gloss: feature
+                concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+                concept_label: MISTAKE
+          - gloss: 'causative: make rely on'
+            concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+            concept_label: PRETEND
+            children:
+            - gloss: generalised
+              concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+              concept_label: FAKE
+    - gloss: 'causative: cause to borrow'
+      concept_uuid: 53ff44cc-869d-42cc-9fbf-e31581bcfc31
+      concept_label: LEND OUT
+      children:
+      - gloss: generalised
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: 'figurative: permission'
+          concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+          concept_label: PERMIT
+        - gloss: =嘏 support
+          concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+          concept_label: HELP
+  - gloss: =瘕
+    concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+source:
+  source_file: taxchar.xml

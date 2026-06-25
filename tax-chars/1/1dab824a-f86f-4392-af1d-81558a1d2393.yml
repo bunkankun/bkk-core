@@ -1,0 +1,20 @@
+uuid: 1dab824a-f86f-4392-af1d-81558a1d2393
+type: tax-char
+heads:
+- 戀
+pronunciations:
+- reading: liàn
+  old_chinese: b-rons
+  middle_chinese: lʷiɛn
+  fanqie: 力卷切
+  tone: 去
+  guangyun: 棊也力卷切四
+  senses:
+  - concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+    concept_label: LOVE
+  - concept_uuid: 8fa6e1ed-9a4e-499b-8df7-e74741d926a9
+    concept_label: NOSTALGIA
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

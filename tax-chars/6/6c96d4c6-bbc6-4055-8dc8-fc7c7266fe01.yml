@@ -1,0 +1,38 @@
+uuid: 6c96d4c6-bbc6-4055-8dc8-fc7c7266fe01
+type: tax-char
+heads:
+- 詭
+pronunciations:
+- reading: guǐ
+  old_chinese: krolʔ
+  middle_chinese: kʷɯiɛ
+  fanqie: 過委切
+  tone: 上
+  guangyun: 詐也又横財物爲詭遇也過委切十九
+  senses:
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+    concept_label: CONTRARY
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+    concept_label: PRETEND
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 19d0b30c-d01f-4ee9-b5ff-34080bdf5890
+    concept_label: RESPONSIBILITY
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+    concept_label: MYTHICAL ANIMALS
+  - concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+    concept_label: BONE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

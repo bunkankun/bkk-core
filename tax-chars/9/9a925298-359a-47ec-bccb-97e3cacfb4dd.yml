@@ -1,0 +1,159 @@
+uuid: 9a925298-359a-47ec-bccb-97e3cacfb4dd
+type: tax-char
+heads:
+- 行
+pronunciations:
+- reading: háng
+  old_chinese: ɢaaŋ
+  middle_chinese: ɦɑŋ
+  fanqie: 胡郎切
+  tone: 平
+  guangyun: 伍也列也又戸庚戸浪戸孟三切
+- reading: háng
+  old_chinese: ɢaaŋ
+  middle_chinese: ɦɑŋ
+  fanqie: 胡郎切
+  tone: 平
+  guangyun: 伍也列也又戸庚戸浪戸孟三切
+  senses:
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+    children:
+    - gloss: aligned series
+      concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+      concept_label: ROW
+      children:
+      - gloss: of aligned ages
+        concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+        concept_label: GENERATION
+      - gloss: aligned military units
+        concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+        concept_label: ARMY
+      - gloss: aligned row of characters
+        concept_uuid: c5130015-aca2-4c11-9277-d8410aa61068
+        concept_label: LINE OF WRITING
+- reading: hàng
+  old_chinese: ɢaaŋs
+  middle_chinese: ɦɑŋ
+  fanqie: 下浪切
+  tone: 去
+  guangyun: 次第
+- reading: xíng
+  old_chinese: ɢraaŋs
+  middle_chinese: ɦɯaŋ
+  fanqie: 下更切
+  tone: 去
+  guangyun: 景迹又事也言也下更切又胡郎胡浪胡庚三切五
+- reading: xíng
+  old_chinese: ɢraaŋ
+  middle_chinese: ɦɯaŋ
+  fanqie: 戶庚切
+  tone: 平
+  guangyun: 行歩也適也往也去也又姓周有大行人之官其後氏焉戸庚切又戸剛戸浪下孟三切十
+- reading: xíng
+  old_chinese: ɢraaŋ
+  middle_chinese: ɦɯaŋ
+  fanqie: 戶庚切
+  tone: 平
+  guangyun: 行歩也適也往也去也又姓周有大行人之官其後氏焉戸庚切又戸剛戸浪下孟三切十
+  senses:
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+    children:
+    - gloss: away from
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+    - gloss: towards a goal
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+      children:
+      - gloss: specifically
+        concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+        concept_label: TRAVEL
+        children:
+        - gloss: travel by sea
+          concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+          concept_label: NAVIGATE
+        - gloss: more generally
+          concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+          concept_label: MOVE
+          children:
+          - gloss: ?one musical go/movement
+            concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+            concept_label: SONG
+          - gloss: move along as liquid
+            concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+            concept_label: FLOW
+          - gloss: in circles
+            concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+            concept_label: REVOLVE
+          - gloss: 'specifically: be transmitted'
+            concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+            concept_label: TRANSMIT
+          - gloss: deliberate and typically administrative
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+            children:
+            - gloss: feasible
+              concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+              concept_label: POSSIBLE
+            - gloss: be in active existence
+              concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+              concept_label: EXIST
+            - gloss: towards others
+              concept_uuid: 2db9e492-7dfb-4d6a-9139-eed947249aa4
+              concept_label: TREAT
+            - gloss: xìng
+              concept_uuid: 907c0327-4325-4bc5-95a6-a9da3e851fe5
+              concept_label: BEHAVIOUR
+              children:
+              - gloss: xìng
+                concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+                concept_label: STANDARD
+            - gloss: cosmic agent
+              concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+              concept_label: ENERGY
+              children:
+              - gloss: metaphysical:agent/entity
+                concept_uuid: ae246003-0d83-45db-acf6-014dd831307c
+                concept_label: OBJECT
+            - gloss: act on with an ulterior purpose
+              concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+              concept_label: USE
+            - gloss: act in accordance
+              concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+              concept_label: CONFORM
+              children:
+              - gloss: be in agreeable harmony
+                concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+                concept_label: HAPPY
+              - gloss: cause to conform to one's leadership
+                concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+                concept_label: GOVERN
+              - gloss: act with an aim or target
+                concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+                concept_label: FOR
+                children:
+                - concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+                  concept_label: STRIVE FOR
+                  children:
+                  - gloss: resultative
+                    concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+                    concept_label: SUCCEED
+            - gloss: specifically:administrative act of giving
+              concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+              concept_label: GIVE
+      - gloss: on military campaign
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+  - gloss: abstract
+    concept_uuid: 18041b84-6283-43f5-be85-45c6e4adfb0c
+    concept_label: DEVELOPMENT
+unattributed_senses:
+- gloss: personal names
+  concept_uuid: b57edc65-10b7-45ce-96b9-03e318cd566c
+  concept_label: SHANG DIVINERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-17T23:36:42.969+09:00'

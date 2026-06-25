@@ -1,0 +1,26 @@
+uuid: 5e332448-764a-4ba0-9a24-b86699c31482
+type: tax-char
+heads:
+- 兔
+pronunciations:
+- reading: tù
+  old_chinese: thaas
+  middle_chinese: tʰuo
+  fanqie: 湯故切
+  tone: 去
+  guangyun: 獸名崔豹古今注云兔口有缺尻有九孔論衡曰兔舐豪而孕及其生子從口而岀説文曰象踞後其尾形兔頭與㲋頭同
+  senses:
+  - concept_uuid: 72ed14b8-33e1-4bc9-a9de-271273a5a5ee
+    concept_label: HARE
+  - concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+    concept_label: HUNT
+  - concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+    concept_label: MOON
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 2095bac4-6e1b-4bdb-9876-a012aa10a869
+    concept_label: BRUSH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

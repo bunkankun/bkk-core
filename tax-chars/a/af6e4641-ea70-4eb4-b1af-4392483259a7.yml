@@ -1,0 +1,80 @@
+uuid: af6e4641-ea70-4eb4-b1af-4392483259a7
+type: tax-char
+heads:
+- 過
+pronunciations:
+- reading: guō
+  old_chinese: klool
+  middle_chinese: kuɑ
+  fanqie: 古禾切
+  tone: 平
+  guangyun: 經也又過所也釋名曰過所至關津以示之也或曰傳過也移所在識以爲信也亦姓風俗通云過國夏諸侯後因爲氏漢有兖州刺史過栩
+  senses:
+  - gloss: pass by
+    concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: object person
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+    - gloss: generalised
+      concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+      concept_label: WALK
+- reading: guò
+  old_chinese: klools
+  middle_chinese: kuɑ
+  fanqie: 古卧切
+  tone: 去
+  guangyun: 誤也越也責也度也古卧切七
+  senses:
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+    children:
+    - gloss: towards the next world
+      concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+      concept_label: DIE
+    - gloss: of periods of time, “pass”
+      concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+      concept_label: HAPPEN
+    - gloss: grammaticalised
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: abstract
+        concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+        concept_label: EXCESSIVE
+        children:
+        - gloss: in delay
+          concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+          concept_label: LATE
+  - concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+    concept_label: LEAP OVER
+    children:
+    - gloss: figurative
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+    - gloss: 'metaphorically: intellectually'
+      concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+      concept_label: NEGLECT
+      children:
+      - gloss: in relation to studying texts:superficially
+        concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+        concept_label: READ
+    - gloss: norms
+      concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+      concept_label: MISTAKE
+      children:
+      - gloss: legal
+        concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+        concept_label: CRIME
+        children:
+        - gloss: declarative
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+        - gloss: religious
+          concept_uuid: d5605d15-1ee3-4b7a-b5fc-b7d04f235139
+          concept_label: SIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-02T04:19:50.201+09:00'

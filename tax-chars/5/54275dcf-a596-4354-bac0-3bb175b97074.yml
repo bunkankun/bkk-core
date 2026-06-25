@@ -1,0 +1,33 @@
+uuid: 54275dcf-a596-4354-bac0-3bb175b97074
+type: tax-char
+heads:
+- 勸
+pronunciations:
+- reading: quàn
+  old_chinese: khons
+  middle_chinese: kʰʷiɐn
+  fanqie: 去願切
+  tone: 去
+  guangyun: 獎勸也勉也助也教也又姓
+  senses:
+  - concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+    concept_label: ENCOURAGE
+    children:
+    - gloss: intellectual
+      concept_uuid: df302e69-b571-43a8-af45-96d598ea2ca2
+      concept_label: PERSUADE
+      children:
+      - gloss: pragmatic
+        concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+        concept_label: ADVISE
+        children:
+        - gloss: feature
+          concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+          concept_label: DILIGENT
+        - gloss: feel encouraged to work
+          concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+          concept_label: EFFORT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T18:30:02.605+09:00'

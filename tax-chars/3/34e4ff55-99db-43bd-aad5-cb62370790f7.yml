@@ -1,0 +1,78 @@
+uuid: 34e4ff55-99db-43bd-aad5-cb62370790f7
+type: tax-char
+heads:
+- 已
+pronunciations:
+- reading: yǐ
+  old_chinese: k-lɯʔ
+  middle_chinese: jɨ
+  fanqie: 羊己切
+  tone: 上
+  guangyun: 止也此也甚也訖也又音似
+- reading: yì
+  old_chinese: k-lɯs
+  middle_chinese: jɨ
+  fanqie: 羊吏切
+  tone: 去
+  guangyun: 過事語辝又去也弃也成也
+unattributed_senses:
+- concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  concept_label: STOP
+  children:
+  - gloss: 'exclamatory: that is it'
+    concept_uuid: 881db76b-4657-4340-8d1d-84bda6041faf
+    concept_label: ALAS
+  - gloss: cause to cease to exist
+    concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+    children:
+    - gloss: cause employment to cease
+      concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+      concept_label: DISMISS
+    - gloss: cause disease to cease to exist
+      concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+      concept_label: CURE
+  - gloss: stop after succeeding
+    concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+      concept_label: ALREADY
+      children:
+      - gloss: what has already occurred
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+      - gloss: 'sentence connective: a situation already being present'
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+      - gloss: right after an event is past
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+        children:
+        - gloss: past and thus assured
+          concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+          concept_label: CERTAIN
+          children:
+          - gloss: emphatic:certain and intense
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+            children:
+            - gloss: comparative and incremental
+              concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+              concept_label: MORE
+              children:
+              - gloss: more intensely than appropriate
+                concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+                concept_label: EXCESSIVE
+    - gloss: and that finishes it
+      concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+      concept_label: MODAL PARTICLES
+      children:
+      - gloss: sentence-final
+        concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+        concept_label: FINAL PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-23T23:49:40.984+09:00'

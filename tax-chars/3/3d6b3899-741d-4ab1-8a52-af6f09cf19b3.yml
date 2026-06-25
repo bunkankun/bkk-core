@@ -1,0 +1,35 @@
+uuid: 3d6b3899-741d-4ab1-8a52-af6f09cf19b3
+type: tax-char
+heads:
+- 構
+pronunciations:
+- reading: gòu
+  old_chinese: koos
+  middle_chinese: kəu
+  fanqie: 古候切
+  tone: 去
+  guangyun: 架也合也成也蓋也亂也
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+    concept_label: BUILD
+  - concept_uuid: 1006db8e-cb61-453f-beb7-d37f4c343e12
+    concept_label: CONFLICT
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+    concept_label: PRODUCE
+  - concept_uuid: 712a2a18-acad-4f11-82bb-3fe640f10b37
+    concept_label: ACHIEVEMENT
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: 3eec489f-a629-4423-aa35-09d250630bd4
+    concept_label: LITERARY WORK
+  - gloss: TREE, KINDS
+source:
+  source_file: taxchar.xml

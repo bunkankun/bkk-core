@@ -1,0 +1,31 @@
+uuid: e61d33b6-327c-4683-907b-1be75039d7ba
+type: tax-char
+heads:
+- 椒
+pronunciations:
+- reading: jiāo
+  old_chinese: sklaw
+  middle_chinese: tsiɛu
+  fanqie: 即消切
+  tone: 平
+  guangyun: 同椒
+- reading: jiāo
+  old_chinese: sklaw
+  middle_chinese: tsiɛu
+  fanqie: 即消切
+  tone: 平
+  guangyun: 木名爾雅云檓大椒又椒榝醜莍莍實也應劭漢官儀曰皇后稱椒房以椒塗壁取其温也又山巓亦姓楚有大夫椒舉
+  senses:
+  - concept_uuid: 744c6d14-40b2-4921-9298-a98b550801ea
+    concept_label: PEPPER
+  - gloss: TREE, KINDS
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+    concept_label: SUMMIT
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

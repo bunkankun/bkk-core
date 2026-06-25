@@ -1,0 +1,18 @@
+uuid: 523a6237-ce3e-4fc2-bc61-6b8417c7d4a4
+type: tax-char
+heads:
+- 餓
+pronunciations:
+- reading: è
+  old_chinese: ŋaals
+  middle_chinese: ŋɑ
+  fanqie: 五个切
+  tone: 去
+  guangyun: 不飽也五个切一
+  senses:
+  - concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+    concept_label: HUNGRY
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,32 @@
+uuid: 17e35826-28a0-4220-841a-40f6576602fa
+type: tax-char
+heads:
+- 盟
+pronunciations:
+- reading: mèng
+  old_chinese: mraaŋs
+  middle_chinese: mɯaŋ
+  fanqie: 莫更切
+  tone: 去
+  guangyun: 盟津又音明
+- reading: méng
+  old_chinese: mraŋ
+  middle_chinese: mɯiaŋ
+  fanqie: 武兵切
+  tone: 平
+  guangyun: 同盟
+- reading: méng
+  old_chinese: mraŋ
+  middle_chinese: mɯiaŋ
+  fanqie: 武兵切
+  tone: 平
+  guangyun: 盟約殺牲歃血也周禮有司盟
+  senses:
+  - concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+    concept_label: CONTRACT
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: 5a8d8afa-7376-499f-9131-0ee75b06f151
+    concept_label: ASSOCIATION
+source:
+  source_file: taxchar.xml

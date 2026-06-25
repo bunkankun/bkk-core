@@ -1,0 +1,50 @@
+uuid: d132b5f8-ab0c-4fb1-8f41-25db80593100
+type: tax-char
+heads:
+- 寶
+pronunciations:
+- reading: bǎo
+  old_chinese: puuʔ
+  middle_chinese: pɑu
+  fanqie: 博抱切
+  tone: 上
+  guangyun: 寶古文
+- reading: bǎo
+  old_chinese: puuʔ
+  middle_chinese: pɑu
+  fanqie: 博抱切
+  tone: 上
+  guangyun: 珍寶又瑞也符也道也禮記曰地不藏其寶又天寶晉灼云天寶雞頭人身又姓出何氏姓苑博抱切十五
+  senses:
+  - concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+    children:
+    - gloss: specific
+      concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+      concept_label: ORNAMENT
+      children:
+      - gloss: 'specific: imperial'
+        concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+        concept_label: SEAL
+      - gloss: used for economic exchange
+        concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+        concept_label: MONEY
+        children:
+        - gloss: feature
+          concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+          concept_label: PRECIOUS
+          children:
+          - gloss: putative
+            concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+            concept_label: APPRECIATE
+            children:
+            - gloss: your precious, your
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+            - gloss: figurative
+              concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+              concept_label: VIRTUE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T20:23:16.351+09:00'

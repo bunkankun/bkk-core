@@ -1,0 +1,109 @@
+uuid: 41d10309-36a2-48db-b6bb-da70be4022e5
+type: tax-char
+heads:
+- 從
+pronunciations:
+- reading: cóng
+  old_chinese: dzoŋ
+  middle_chinese: dzioŋ
+  fanqie: 疾容切
+  tone: 平
+  guangyun: 就也又姓漢有將軍從公何氏姓苑云今東莞人疾容切又即容七㳟秦用三切三
+- reading: cōng
+  old_chinese: tshoŋ
+  middle_chinese: tsʰioŋ
+  fanqie: 七恭切
+  tone: 平
+  guangyun: 從容又疾容秦用二切
+- reading: zòng
+  old_chinese: dzoŋs
+  middle_chinese: dzioŋ
+  fanqie: 疾用切
+  tone: 去
+  guangyun: 隨行也疾用切又才容切一
+- reading: cóng
+  old_chinese: dzoŋ
+  middle_chinese: dzioŋ
+  fanqie: 疾容切
+  tone: 平
+  guangyun: 從古文説文曰相聽也
+  senses:
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+    children:
+    - gloss: trying to catch up
+      concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+      concept_label: PURSUE
+    - gloss: a person, openly
+      concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+      concept_label: ACCOMPANY
+      children:
+      - gloss: as a subordinate
+        concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+        concept_label: SERVE
+      - gloss: as a student
+        concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+        concept_label: STUDY
+      - gloss: subject, static
+        concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+        concept_label: SIDE
+  - gloss: course of action
+    concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+    children:
+    - gloss: pattern/rule
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: cause to conform so as to form one unit
+        concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+        concept_label: COMBINE
+      - gloss: to preceding behaviour
+        concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+        children:
+        - gloss: cumulative:mathematical
+          concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+          concept_label: ADD
+      - gloss: obligatory task
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+      - gloss: order(s of)
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+      - gloss: person
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+    - gloss: request
+      concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+      concept_label: AGREE TO
+    - gloss: grammaticalised
+      concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+      concept_label: FROM
+      children:
+      - gloss: the middle of
+        concept_uuid: f2c1d0d1-3f16-4523-8b7c-648b22b332ed
+        concept_label: THROUGH
+      - gloss: 'abstract: following from'
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+  - gloss: =縱
+    concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+    concept_label: EVEN IF
+  - gloss: =縱
+    concept_uuid: cf6bfb0d-e1aa-41f4-99a1-b17a35c10545
+    concept_label: VERTICAL
+  - gloss: =縱
+    concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - gloss: =縱
+    concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+unattributed_senses:
+- gloss: zòng
+  concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+  concept_label: LONG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T17:02:18.921+09:00'

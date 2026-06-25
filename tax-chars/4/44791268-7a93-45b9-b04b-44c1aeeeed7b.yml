@@ -1,0 +1,181 @@
+uuid: 44791268-7a93-45b9-b04b-44c1aeeeed7b
+type: tax-char
+heads:
+- 為
+- 爲
+pronunciations:
+- reading: wéi
+  old_chinese: ɢʷal
+  middle_chinese: ɦʷɯiɛ
+  fanqie: 薳支切
+  tone: 平
+  guangyun: 爾雅曰作造爲也説文曰母猴也又姓風俗通云漢有南郡太守爲昆薳支切又王僞切六
+- reading: wèi
+  old_chinese: ɢʷals
+  middle_chinese: ɦʷɯiɛ
+  fanqie: 于偽切
+  tone: 去
+  guangyun: 助也于僞切又允危切一
+unattributed_senses:
+- gloss: engage in action
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  concept_label: ACT
+  children:
+  - gloss: conative
+    concept_uuid: 7d16f180-72e5-4880-b20c-dc135e68166c
+    concept_label: TRY
+    children:
+    - gloss: to understand and become capable
+      concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+      concept_label: STUDY
+  - gloss: regularly in the course of duty
+    concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+    children:
+    - gloss: resultative
+      concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+      concept_label: ACHIEVE
+      children:
+      - gloss: apply
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+    - gloss: politically:so as to order and control
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+      children:
+      - gloss: perfective:medical
+        concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+        concept_label: CURE
+      - gloss: causative:political
+        concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+        concept_label: APPOINT
+  - gloss: logical
+    concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+    concept_label: COPULA
+    children:
+    - gloss: be owned by
+      concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+      concept_label: PROPERTY
+    - gloss: alternatively
+      concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+      concept_label: OR
+    - gloss: temporally:be about to
+      concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+      concept_label: FUTURE
+      children:
+      - gloss: inchoative
+        concept_uuid: 1a308a52-d691-4ffa-82ec-acf6db84a199
+        concept_label: BECOME
+        children:
+        - gloss: become different
+          concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+          concept_label: CHANGE
+          children:
+          - gloss: by external causes
+            concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+            concept_label: PASSIVE MARKER
+        - gloss: by emulation
+          concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+          concept_label: IMITATE
+          children:
+          - gloss: deceptively
+            concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+            concept_label: FAKE
+            children:
+            - gloss: psychological
+              concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+              concept_label: PRETEND
+        - gloss: causative
+          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+          concept_label: ARRANGE
+        - gloss: become an existing thing
+          concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+          concept_label: ARISE
+          children:
+          - gloss: cause to arise
+            concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+            concept_label: CAUSE
+            children:
+            - gloss: with physical object
+              concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+              concept_label: PRODUCE
+              children:
+              - gloss: architectural objects
+                concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+                concept_label: BUILD
+              - gloss: text
+                concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+                concept_label: WRITE
+              - gloss: necessities for
+                concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+                concept_label: PROVIDE
+              - gloss: agricultural
+                concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+                concept_label: PLANT
+            - gloss: unprecedented
+              concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+              concept_label: CREATE
+              children:
+              - gloss: innovative
+                concept_uuid: b1bba123-4636-40ce-b77a-bcf517811143
+                concept_label: INVENT
+            - gloss: culinary
+              concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+              concept_label: COOK
+            - gloss: pivotal:with verbal complement
+              concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+              concept_label: CAUSE TO
+      - gloss: volitional
+        concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+        concept_label: INTEND
+    - gloss: putative:stative
+      concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+      concept_label: BELIEVE
+      children:
+      - gloss: active
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+    - gloss: metaphysically:what one bassically is
+      concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+      concept_label: BASIC NATURE
+      children:
+      - gloss: metaphorically only
+        concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+        concept_label: SYMBOL
+    - gloss: adverbially:by virtue of being something
+      concept_uuid: c686e697-5994-4310-83b2-db70c27995a8
+      concept_label: AS
+    - gloss: 'grammaticalised:'
+      concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+      concept_label: MODAL PARTICLES
+      children:
+      - gloss: emphatic
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+    - gloss: grammaticalised:hypothetical
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+        concept_label: THEN
+- gloss: act in the interest of
+  concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+  concept_label: FOR
+  children:
+  - gloss: psychological>act motivated by
+    concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+    concept_label: BECAUSE
+  - gloss: social:act in the service of
+    concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+    concept_label: SERVE
+  - gloss: act in place of
+    concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+    concept_label: REPLACE
+- gloss: grammaticalised:idiomatic interrogative
+  concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+  concept_label: HOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-20T03:53:23.937+09:00'

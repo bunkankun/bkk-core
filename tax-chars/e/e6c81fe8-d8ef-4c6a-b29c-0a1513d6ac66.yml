@@ -1,0 +1,37 @@
+uuid: e6c81fe8-d8ef-4c6a-b29c-0a1513d6ac66
+type: tax-char
+heads:
+- 遙
+pronunciations:
+- reading: yáo
+  old_chinese: k-lew
+  middle_chinese: jiɛu
+  fanqie: 餘昭切
+  tone: 平
+  guangyun: 逺也行也餘昭切三十六
+  senses:
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+    children:
+    - gloss: physically extended
+      concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+      concept_label: LONG
+    - gloss: go to distance
+      concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+      concept_label: TRAVEL
+      children:
+      - gloss: (dialect)
+        concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+        concept_label: HURRY
+      - gloss: specific
+        concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+        concept_label: ROAM
+        children:
+        - gloss: physical
+          concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+          concept_label: FLOAT
+        - gloss: feature
+          concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+          concept_label: UNRESTRAINED
+source:
+  source_file: taxchar.xml

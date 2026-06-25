@@ -1,0 +1,33 @@
+uuid: d94b7fad-617d-4bdc-b255-932b7e4c4bb0
+type: tax-char
+heads:
+- 縣
+pronunciations:
+- reading: xuán
+  old_chinese: ɢʷeen
+  middle_chinese: ɦʷen
+  fanqie: 胡涓切
+  tone: 平
+  guangyun: 説文云繫也相承借爲州縣字
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+- reading: xiàn
+  old_chinese: ɢʷeens
+  middle_chinese: ɦʷen
+  fanqie: 黃練切
+  tone: 去
+  guangyun: 郡縣也釋名曰縣懸也懸於郡也古作寰楚莊王滅陳爲縣縣名自此始也又姓孔子門人縣單父黄練切十五
+  senses:
+  - concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+  - concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+    concept_label: REGION
+source:
+  source_file: taxchar.xml

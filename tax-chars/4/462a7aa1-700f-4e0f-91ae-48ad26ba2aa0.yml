@@ -1,0 +1,67 @@
+uuid: 462a7aa1-700f-4e0f-91ae-48ad26ba2aa0
+type: tax-char
+heads:
+- 納
+pronunciations:
+- reading: nà
+  old_chinese: nuub
+  middle_chinese: nəp
+  fanqie: 奴答切
+  tone: 入
+  guangyun: 内也又姓出何氏姓苑奴荅切八
+  senses:
+  - concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+    concept_label: ENTER
+  - concept_uuid: 2aa3ffa6-acb8-4f34-8976-e3950cac6f53
+    concept_label: INTRODUCE
+  - concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+    concept_label: INSIDE
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+    concept_label: ACCEPT
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+    concept_label: INSTALL
+  - concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+    concept_label: BRIBE
+  - concept_uuid: 162d87f4-b15a-417e-9fb4-11ad6d5c3576
+    concept_label: CONFISCATE
+  - concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+  - concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+    concept_label: ASSENT
+  - concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+    concept_label: BREATHE
+  - concept_uuid: 811258cf-a100-4c80-ac25-2dea8ef6182b
+    concept_label: BUDDHIST GARMENT
+  - concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+    concept_label: RETURN
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+    concept_label: SOW
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+    concept_label: REPAIR
+  - concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+    concept_label: SHOUT
+  - concept_uuid: d6c64827-08e0-420b-895f-6cf0552d566e
+    concept_label: REINS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - gloss: PREFIX (nano-)
+source:
+  source_file: taxchar.xml

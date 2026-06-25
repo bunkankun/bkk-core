@@ -1,0 +1,32 @@
+uuid: 32506e14-f21d-4ea9-acdc-a20cf9ce02ce
+type: tax-char
+heads:
+- 凶
+pronunciations:
+- reading: xiōng
+  old_chinese: qhoŋ
+  middle_chinese: hioŋ
+  fanqie: 許容切
+  tone: 平
+  guangyun: 凶禍
+  senses:
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+    concept_label: INAUSPICIOUS
+  - concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: MOURNING
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+- reading: xiōng
+  old_chinese: qhoŋ
+  middle_chinese: hioŋ
+  fanqie: 許容切
+  tone: 平
+  guangyun: 凶古文
+source:
+  source_file: taxchar.xml

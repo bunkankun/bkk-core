@@ -1,0 +1,62 @@
+uuid: e7d67c71-c403-4214-ac57-08986aa5f7c9
+type: tax-char
+heads:
+- 移
+pronunciations:
+- reading: yí
+  old_chinese: k-lal
+  middle_chinese: jiɛ
+  fanqie: 弋支切
+  tone: 平
+  guangyun: 遷也遺也延也徙也易也説文曰禾相𠋣移也又官曹公府不相臨敬則爲移書蔑表之類也亦姓風俗通云漢有弘農太守移良弋支切三十二
+  senses:
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+    children:
+    - gloss: 'action appropriate to: in new place, replant'
+      concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+      concept_label: PLANT
+      children:
+      - gloss: generalised
+        concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+        concept_label: MOVE
+        children:
+        - gloss: generalised
+          concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+          concept_label: CHANGE
+        - gloss: back and forth
+          concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+          concept_label: SHAKE
+        - gloss: into a new direction
+          concept_label: TURN
+        - gloss: 'transitive: move from'
+          concept_uuid: f2ac46b3-e062-42cd-9ab9-9c57452c6eb3
+          concept_label: DISPLACE
+        - gloss: to later in time
+          concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+          concept_label: DELAY
+          children:
+          - gloss: direction away from scene
+            concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+            concept_label: REMOVE
+        - gloss: so as to belong to another
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+          children:
+          - gloss: abstract
+            concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+            concept_label: TRANSMIT
+          - gloss: 'specific: at distance'
+            concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+            concept_label: SEND
+            children:
+            - gloss: object
+              concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+              concept_label: LETTER
+            - gloss: communicate by missive
+              concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+              concept_label: REPORT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-24T00:26:16.918+09:00'

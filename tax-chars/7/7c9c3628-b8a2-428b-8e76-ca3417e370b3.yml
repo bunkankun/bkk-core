@@ -1,0 +1,22 @@
+uuid: 7c9c3628-b8a2-428b-8e76-ca3417e370b3
+type: tax-char
+heads:
+- 貞
+pronunciations:
+- reading: zhēn
+  old_chinese: teŋ
+  middle_chinese: ʈiɛŋ
+  fanqie: 陟盈切
+  tone: 平
+  guangyun: 正也陟盈切六
+  senses:
+  - concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+    concept_label: DIVINATION
+  - concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+    concept_label: FAITHFUL
+  - concept_uuid: 5719998a-7808-4ae4-a03d-2c5c58bb7d1a
+    concept_label: HEXAGRAM
+  - concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+    concept_label: STRAIGHT
+source:
+  source_file: taxchar.xml

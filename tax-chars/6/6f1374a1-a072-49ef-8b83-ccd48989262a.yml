@@ -1,0 +1,52 @@
+uuid: 6f1374a1-a072-49ef-8b83-ccd48989262a
+type: tax-char
+heads:
+- 兩
+pronunciations:
+- reading: liǎng
+  old_chinese: raŋʔ
+  middle_chinese: liɐŋ
+  fanqie: 良㢡切
+  tone: 上
+  guangyun: 同㒳説文曰二十四銖爲一兩
+- reading: liàng
+  old_chinese: raŋs
+  middle_chinese: liɐŋ
+  fanqie: 力讓切
+  tone: 去
+  guangyun: 車數
+- reading: liǎng
+  old_chinese: raŋʔ
+  middle_chinese: liɐŋ
+  fanqie: 良㢡切
+  tone: 上
+  guangyun: 説文曰再也易云參天㒳地今通作兩良㢡切八
+  senses:
+  - concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+    concept_label: TWO
+    children:
+    - gloss: generalised
+      concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+      concept_label: FEW
+    - gloss: specifically of pairs
+      concept_uuid: c5eafb9d-92b0-463e-97d0-e70b6df4c821
+      concept_label: BOTH
+      children:
+      - gloss: causative
+        concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+        concept_label: COMBINE
+  - gloss: 'causative: cause to be two'
+    concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+    children:
+    - gloss: possess two
+      concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+      concept_label: HAVE
+    - gloss: 'exocentric: two-wheeled'
+      concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+      concept_label: VEHICLE
+  - concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+  - gloss: 25 men????> BATTALLION
+source:
+  source_file: taxchar.xml

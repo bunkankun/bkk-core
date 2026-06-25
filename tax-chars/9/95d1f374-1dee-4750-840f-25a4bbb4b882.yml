@@ -1,0 +1,30 @@
+uuid: 95d1f374-1dee-4750-840f-25a4bbb4b882
+type: tax-char
+heads:
+- 欺
+pronunciations:
+- reading: qī
+  old_chinese: khɯ
+  middle_chinese: kʰɨ
+  fanqie: 去其切
+  tone: 平
+  guangyun: 詐也去其切十一
+  senses:
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+    children:
+    - gloss: with respect to presence of
+      concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+      concept_label: CONCEAL
+    - gloss: psychological
+      concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+      concept_label: HUMILIATE
+      children:
+      - gloss: political
+        concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+        concept_label: OPPRESS
+    - gloss: result
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+source:
+  source_file: taxchar.xml

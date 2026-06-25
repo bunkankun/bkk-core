@@ -1,0 +1,58 @@
+uuid: e2b553ce-8067-4dc6-842b-282f5805c2ef
+type: tax-char
+heads:
+- 宅
+pronunciations:
+- reading: zhái
+  old_chinese: r'aaɡ
+  middle_chinese: ɖɯak
+  fanqie: 場伯切
+  tone: 入
+  guangyun: 宅古文
+- reading: zhái
+  old_chinese: brlaaɡ
+  middle_chinese: ɖɯak
+  fanqie: 場伯切
+  tone: 入
+  guangyun: 居也説文云宅託也人所投託也釋名曰宅擇也擇吉處而營之也瑒伯切十三
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+    children:
+    - gloss: related activity
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+      children:
+      - gloss: inchoative, come to work for and support
+        concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+        concept_label: RALLY
+      - gloss: causative
+        concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+        concept_label: EMPLOY
+    - gloss: 'causative: cause to dwell with'
+      concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+      concept_label: ENTRUST
+    - gloss: related feature
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+    - gloss: object
+      concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+      concept_label: DWELLING
+      children:
+      - gloss: generalised
+        concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+        concept_label: HOME
+      - gloss: of the dead
+        concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+        concept_label: TOMB
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+unattributed_senses:
+- gloss: 宅 ｃｈｅ４《集韻》恥格切，入陌
+  children:
+  - gloss: =坼
+- gloss: 宅 ｄｕ４《集韻》徒故切，去暮定。
+  children:
+  - gloss: =度
+source:
+  source_file: taxchar.xml

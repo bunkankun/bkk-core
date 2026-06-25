@@ -1,0 +1,130 @@
+uuid: 1787847b-1960-4389-98b6-229da86262f1
+type: tax-char
+heads:
+- 重
+pronunciations:
+- reading: chóng
+  old_chinese: doŋ
+  middle_chinese: ɖioŋ
+  fanqie: 直容切
+  tone: 平
+  guangyun: 複也疊也宜容切又直勇直用二切六
+- reading: zhòng
+  old_chinese: doŋʔ
+  middle_chinese: ɖioŋ
+  fanqie: 直隴切
+  tone: 上
+  guangyun: 多也厚也善也愼也直隴切又直龍直用二切四
+- reading: zhòng
+  old_chinese: doŋs
+  middle_chinese: ɖioŋ
+  fanqie: 柱用切
+  tone: 去
+  guangyun: 更爲也柱用切又直容切三
+- reading: zhòng
+  old_chinese: doŋʔ
+  middle_chinese: ɖioŋ
+  fanqie: 直隴切
+  tone: 上
+  guangyun: 多也厚也善也愼也直隴切又直龍直用二切四
+  senses:
+  - concept_uuid: 3840f8d4-5b8f-449a-a230-4434b8bc9533
+    concept_label: HEAVY
+    children:
+    - gloss: 'subject: what is heavy'
+      concept_uuid: be050ecf-05c0-433c-89d1-b00ebfe58e34
+      concept_label: BURDEN
+      children:
+      - gloss: 'specifically: advanced “bearing a heavy child”'
+        concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+        concept_label: PREGNANT
+      - gloss: exocentric:vehicle for heavy burden
+        concept_uuid: aa638007-598c-48fe-a8bf-c2100b6cd8f3
+        concept_label: CHARIOT
+    - gloss: abstract
+      concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+      concept_label: DIFFICULT
+      children:
+      - gloss: degree
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: attitude
+          concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+          concept_label: SERIOUS
+          children:
+          - gloss: rhetorical
+            concept_uuid: c75c9f91-6ddf-47b6-a920-362d8b9aa00a
+            concept_label: EMPHASISE
+          - gloss: legal practice
+            concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+            concept_label: SEVERE
+        - gloss: 'taste: strong'
+          concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+          concept_label: SAVOURY
+        - gloss: 'specifically: affecting one intensely'
+          concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+          concept_label: SAD
+        - gloss: change
+          concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+          concept_label: INCREASE
+    - gloss: metaphorical
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+      children:
+      - gloss: rare
+        concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+        concept_label: PRECIOUS
+      - gloss: 'abstract:'
+        concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+        concept_label: POWER
+      - gloss: putative
+        concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+        concept_label: APPRECIATE
+        children:
+        - gloss: intensely
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+          children:
+          - gloss: superiors
+            concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+            concept_label: RESPECT
+          - gloss: resulting attitude
+            concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+            concept_label: PARTIAL
+      - gloss: price
+        concept_uuid: 9dcfacdd-91c6-42d6-b3b9-f17494ffefab
+        concept_label: EXPENSIVE
+- reading: chóng
+  old_chinese: doŋ
+  middle_chinese: ɖioŋ
+  fanqie: 直容切
+  tone: 平
+  guangyun: 複也疊也宜容切又直勇直用二切六
+  senses:
+  - concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+    concept_label: REPEAT
+    children:
+    - gloss: 'grammaticalised:'
+      concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+      concept_label: AGAIN
+      children:
+      - gloss: 'specifically: twice'
+        concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+        concept_label: TWO
+        children:
+        - gloss: generalised
+          concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+          concept_label: OFTEN
+          children:
+          - gloss: structural
+            concept_uuid: ea2d80c3-c4f5-44c0-be8a-6034a2415e2e
+            concept_label: LAYER
+            children:
+            - gloss: causative
+              concept_uuid: 0d86c620-596f-4b84-9abb-a0c2f5a83a08
+              concept_label: COMPLEX
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T01:30:38.703+09:00'

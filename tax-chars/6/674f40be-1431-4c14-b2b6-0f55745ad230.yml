@@ -1,0 +1,23 @@
+uuid: 674f40be-1431-4c14-b2b6-0f55745ad230
+type: tax-char
+heads:
+- 燔
+pronunciations:
+- reading: fán
+  old_chinese: ban
+  middle_chinese: bʷiɐn
+  fanqie: 附袁切
+  tone: 平
+  guangyun: 炙也
+  senses:
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+    concept_label: MEAT
+  - concept_uuid: 4f2633ae-88e7-4aef-9c5d-facfb9485cf6
+    concept_label: ROAST
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - gloss: = 膰
+source:
+  source_file: taxchar.xml

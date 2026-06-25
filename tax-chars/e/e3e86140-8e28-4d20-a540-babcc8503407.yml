@@ -1,0 +1,26 @@
+uuid: e3e86140-8e28-4d20-a540-babcc8503407
+type: tax-char
+heads:
+- 溪
+pronunciations:
+- reading: xī
+  old_chinese: khee
+  middle_chinese: kʰei
+  fanqie: 苦奚切
+  tone: 平
+  guangyun: 同谿
+  senses:
+  - concept_uuid: 347a5e50-8487-48e3-a9da-281cf332d42e
+    concept_label: MOUNTAIN BROOK
+    children:
+    - concept_uuid: aec4cc37-a2e4-4cf3-b5df-d7fe714d2734
+      concept_label: VALLEY
+      children:
+      - concept_uuid: 07a0323c-f326-44e7-a6e8-16d747e3a604
+        concept_label: PATH
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

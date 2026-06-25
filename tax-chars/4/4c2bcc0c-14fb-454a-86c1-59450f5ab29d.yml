@@ -1,0 +1,20 @@
+uuid: 4c2bcc0c-14fb-454a-86c1-59450f5ab29d
+type: tax-char
+heads:
+- 添
+pronunciations:
+- reading: tiān
+  old_chinese: lʰiim
+  middle_chinese: tʰem
+  fanqie: 他兼切
+  tone: 平
+  guangyun: 益也他兼切四
+  senses:
+  - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+    concept_label: ADD
+  - concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+    concept_label: BIRTH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,32 @@
+uuid: b1e4c1e7-9cfb-4b9c-a781-a67c9f28c718
+type: tax-char
+heads:
+- 墟
+pronunciations:
+- reading: xū
+  old_chinese: khla
+  middle_chinese: kʰiɔ
+  fanqie: 去魚切
+  tone: 平
+  guangyun: 同虚
+  senses:
+  - concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+  - concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+    concept_label: MARKET
+  - concept_uuid: ced1a5ab-6f14-4e3f-afad-929f4f06a8d7
+    concept_label: RUINS
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+  - concept_uuid: 29d65978-f787-49b1-86ff-e119be3b913a
+    concept_label: DESOLATE
+  - concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+    concept_label: VILLAGE
+  - concept_uuid: 68d6c566-9c41-41aa-9890-055d41e973ef
+    concept_label: ASTRONOMY
+source:
+  source_file: taxchar.xml

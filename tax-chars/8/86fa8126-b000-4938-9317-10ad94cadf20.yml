@@ -1,0 +1,71 @@
+uuid: 86fa8126-b000-4938-9317-10ad94cadf20
+type: tax-char
+heads:
+- 退
+pronunciations:
+- reading: tuì
+  old_chinese: thuubs
+  middle_chinese: tʰuoi
+  fanqie: 他內切
+  tone: 去
+  guangyun: 郤也説文作𢓴他内切五
+  senses:
+  - concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+    children:
+    - gloss: withdraw from so as to be free from
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+      children:
+      - gloss: retire to moral self-assessment
+        concept_uuid: bf8717a3-b18c-4a63-afc1-f9344720a409
+        concept_label: REPENT
+    - gloss: from office
+      concept_uuid: 313c2e26-b826-4590-a81c-3afec1499312
+      concept_label: RETIRE
+      children:
+      - gloss: from a higher position to a lower one
+        concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+        concept_label: DEMOTE
+      - gloss: 'feature: withdrawn and avoiding dangers'
+        concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+        children:
+        - gloss: withdraw so as not to displace oneself permanently
+          concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+          concept_label: REMAIN
+          children:
+          - gloss: having remained for a long time
+            concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+            concept_label: OLD
+    - gloss: politely giving precedence to others
+      concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+      concept_label: YIELD
+    - gloss: so as not aim for speed in proceeding
+      concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+      concept_label: SLOW
+    - gloss: so as to leave the place where one is
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+      children:
+      - gloss: 'abstract: withdraw from agreements etc'
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+      - gloss: so as to go to where one came from
+        concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+        concept_label: RETURN
+        children:
+        - gloss: abstract, causative
+          concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+          concept_label: GIVE BACK
+      - gloss: so as to be no more in a place
+        concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+        concept_label: DISAPPEAR
+        children:
+        - gloss: causative
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-13T22:59:56.898+09:00'

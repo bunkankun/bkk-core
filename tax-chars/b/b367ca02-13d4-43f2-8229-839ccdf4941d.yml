@@ -1,0 +1,39 @@
+uuid: b367ca02-13d4-43f2-8229-839ccdf4941d
+type: tax-char
+heads:
+- 孟
+pronunciations:
+- reading: mèng
+  old_chinese: mraaŋs
+  middle_chinese: mɯaŋ
+  fanqie: 莫更切
+  tone: 去
+  guangyun: 長也勉也始也又姓出平昌武威二望本自周公魯桓公之子仲孫之㣧仲孫爲三桓之孟故曰孟氏莫更切四
+  senses:
+  - gloss: eldest
+    concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+    concept_label: BROTHER
+    children:
+    - gloss: generalised
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+    - gloss: first of a season
+      concept_uuid: a4f255d5-fdc0-44c5-a7c0-71632973937e
+      concept_label: MONTH
+  - gloss: specifically
+    concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+    concept_label: EFFORT
+  - concept_uuid: 148b9c56-bfc8-4306-b327-9862ac4b359c
+    concept_label: ARISTOCRATS OF JIN
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+  - concept_uuid: f3a14d13-123c-4b2f-aa0b-0b25d42047ac
+    concept_label: FEMALES
+  - concept_uuid: e6e4b3bf-f0df-4aa7-b5c1-855f9ef06855
+    concept_label: MALES
+  - concept_uuid: 3d9048f2-a399-4946-88e3-8897807ffb5d
+    concept_label: THINKERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:34:10.196+09:00'

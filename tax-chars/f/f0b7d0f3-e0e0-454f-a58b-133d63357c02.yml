@@ -1,0 +1,91 @@
+uuid: f0b7d0f3-e0e0-454f-a58b-133d63357c02
+type: tax-char
+heads:
+- 論
+pronunciations:
+- reading: lún
+  old_chinese: ɡ-ruun
+  middle_chinese: luon
+  fanqie: 盧昆切
+  tone: 平
+  guangyun: 説也議也思也盧昆切又力旬盧鈍二切四
+- reading: lún
+  old_chinese: ɡ-run
+  middle_chinese: lʷin
+  fanqie: 力迍切
+  tone: 平
+  guangyun: 有言理出字書又盧昆切
+  senses:
+  - gloss: =倫
+    concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - gloss: =掄
+    concept_label: SELECT
+- reading: lùn
+  old_chinese: ɡ-ruuns
+  middle_chinese: luon
+  fanqie: 盧困切
+  tone: 去
+  guangyun: 議也盧困切又虜昆切三
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+    children:
+    - gloss: try to assess
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+      children:
+      - gloss: and explore
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: grammaticalised:based on
+          concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+          concept_label: BASIS
+        - gloss: report investigation
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+          children:
+          - gloss: with systematic attention to different possibilities
+            concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+            concept_label: DISCUSS
+            children:
+            - gloss: end discussion successfully
+              concept_uuid: 8509a1c5-7d43-4af0-ae05-aeddff8c6fb6
+              concept_label: CONCLUDE
+              children:
+              - gloss: summary of what is concluded
+                concept_uuid: c393b987-4d76-4e8b-8d39-6a48ed7d59ca
+                concept_label: THEORY
+              - gloss: popular, not based on fact
+                concept_uuid: a98104c1-d140-4140-b7a2-b1accc813ecd
+                concept_label: RUMOUR
+            - gloss: written, essay
+              concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+              concept_label: DOCUMENT
+              children:
+              - gloss: kind of
+                concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+                concept_label: LITERARY GENRE
+                children:
+                - gloss: abstract
+                  concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+                  concept_label: CATEGORY
+              - gloss: expounding a text
+                concept_uuid: 5e412412-9d52-47ef-b5c0-a9563fde53c6
+                concept_label: COMMENTARY
+          - gloss: explain guilt of
+            concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+            concept_label: ACCUSE
+            children:
+            - gloss: conclude concerning guilt of
+              concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+              concept_label: JUDGE
+              children:
+              - gloss: conclude that someone is guilty
+                concept_uuid: 3e05f58a-3f28-48af-bf2b-fa92fcf1d91b
+                concept_label: CONDEMN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T00:23:03.484+09:00'

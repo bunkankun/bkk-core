@@ -1,0 +1,77 @@
+uuid: f767832c-d466-45e0-89e8-afa8c86f8807
+type: tax-char
+heads:
+- 更
+pronunciations:
+- reading: gēng
+  old_chinese: kraaŋ
+  middle_chinese: kɯaŋ
+  fanqie: 古行切
+  tone: 平
+  guangyun: 代也償也改也又古孟切
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+    children:
+    - gloss: generalised
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+    - gloss: and replace
+      concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+      concept_label: REPLACE
+      children:
+      - gloss: recompense service with suitable recompense
+        concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+        concept_label: REWARD
+      - gloss: of military service until change of guard or office
+        concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+        concept_label: PERIOD
+    - gloss: so as to conform with
+      concept_label: ADJUST
+      children:
+      - gloss: well adjusted
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+  - gloss: pass through
+    concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - gloss: grammaticalised
+    concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+- reading: gèng
+  old_chinese: kraaŋs
+  middle_chinese: kɯaŋ
+  fanqie: 古孟切
+  tone: 去
+  guangyun: 易也改也説文作㪅古孟切又古衡切一
+  senses:
+  - concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+    concept_label: AGAIN
+    children:
+    - gloss: temporal
+      concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+      concept_label: FUTURE
+    - gloss: additive
+      concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+      concept_label: MOREOVER
+      children:
+      - gloss: contrastive
+        concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+        concept_label: BUT
+      - gloss: concessive
+        concept_label: ALTHOUGH
+    - gloss: intensitive
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: comparative
+        concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+        concept_label: MORE
+        children:
+        - gloss: differentiating
+          concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+          concept_label: OTHER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:22:38.71+09:00'

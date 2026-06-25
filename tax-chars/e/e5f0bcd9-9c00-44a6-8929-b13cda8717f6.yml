@@ -1,0 +1,118 @@
+uuid: e5f0bcd9-9c00-44a6-8929-b13cda8717f6
+type: tax-char
+heads:
+- 沉
+- 沈
+pronunciations:
+- reading: chén
+  old_chinese: ɡrlum
+  middle_chinese: ɖɯim
+  fanqie: 直深切
+  tone: 平
+  guangyun: 俗沈
+- reading: chén
+  old_chinese: ɡrlum
+  middle_chinese: ɖɯim
+  fanqie: 直深切
+  tone: 平
+  guangyun: 俗沈
+- reading: shěn
+  old_chinese: qhljumʔ
+  middle_chinese: ɕim
+  fanqie: 式荏切
+  tone: 上
+  guangyun: 沈古文
+- reading: chén
+  old_chinese: ɡrlum
+  middle_chinese: ɖɯim
+  fanqie: 直深切
+  tone: 平
+  guangyun: 沒也説文曰陵上滈水也又漢複姓魯有沈猶氏常朝飲其羊何氏姓苑云今泰山人直深切又尸甚切九
+  senses:
+  - gloss: by causing to sink
+    concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+    children:
+    - gloss: place of sacrifice
+      concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+      concept_label: LAKE
+      children:
+      - gloss: feature
+        concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+        concept_label: DEEP
+        children:
+        - gloss: figurative
+          concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+          concept_label: PROFOUND
+          children:
+          - gloss: colour
+            concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+            concept_label: DARK
+        - gloss: grammaticalised
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+          children:
+          - gloss: for a long time
+            concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+            concept_label: ENDURING
+    - gloss: related process
+      concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+      concept_label: SINK
+      children:
+      - gloss: generalised
+        concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+        concept_label: DISAPPEAR
+      - gloss: process
+        concept_uuid: 2f918b16-defb-4b2c-88fb-c3e8b1cd7e32
+        concept_label: DROWN
+        children:
+        - gloss: cause to drown
+          concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+          concept_label: KILL
+          children:
+          - gloss: oneself
+            concept_uuid: dd9aeb4f-a422-431e-9925-807ba494d82e
+            concept_label: SUICIDE
+        - gloss: cause to sink so as to get wet
+          concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+          concept_label: SOAK
+          children:
+          - gloss: soaked earth
+            concept_uuid: 4010f454-9f59-4984-90be-b1371b7d6c21
+            concept_label: MUD
+      - gloss: 'figurative: sink into alcohol etc.'
+        concept_uuid: 16c56e86-cab7-4df2-8b9e-aa8565c10372
+        concept_label: ADDICTED
+        children:
+        - gloss: intellectually
+          concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+          concept_label: CONFUSED
+- reading: shěn
+  old_chinese: qhljumʔ
+  middle_chinese: ɕim
+  fanqie: 式荏切
+  tone: 上
+  guangyun: 國名古作邥亦姓出吴興本自周文王第十子聃季食采於沈即汝南平輿沈亭是也子孫以國爲氏式任切又丈林切十四
+  senses:
+  - gloss: =瀋
+    concept_uuid: b0efc5ff-4d2b-4c80-9e8c-da57f1268678
+    concept_label: LIQUID
+    children:
+    - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+      concept_label: STATES
+    - concept_label: REGIONS
+- reading: zhèn
+  old_chinese: ɡrlums
+  middle_chinese: ɖɯim
+  fanqie: 直禁切
+  tone: 去
+  guangyun: 又直壬切
+unattributed_senses:
+- concept_label: tán《集韻》徒南切，平覃定。
+- gloss: of dwellings
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  concept_label: DEEP
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T21:25:55.988+09:00'

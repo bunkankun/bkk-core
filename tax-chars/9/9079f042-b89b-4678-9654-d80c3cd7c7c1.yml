@@ -1,0 +1,20 @@
+uuid: 9079f042-b89b-4678-9654-d80c3cd7c7c1
+type: tax-char
+heads:
+- 駐
+pronunciations:
+- reading: zhù
+  old_chinese: tos
+  middle_chinese: ʈio
+  fanqie: 中句切
+  tone: 去
+  guangyun: 止馬
+  senses:
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+source:
+  source_file: taxchar.xml

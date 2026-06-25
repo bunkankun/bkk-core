@@ -1,0 +1,20 @@
+uuid: 5583c62d-36de-495c-a5d3-d64c7b9dc17e
+type: tax-char
+heads:
+- 耕
+pronunciations:
+- reading: gēng
+  old_chinese: kreeŋ
+  middle_chinese: kɯæŋ
+  fanqie: 古莖切
+  tone: 平
+  guangyun: 犂也周書曰神農之時天雨粟神農耕田而種之古莖切一
+  senses:
+  - concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+    concept_label: AGRICULTURE
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+  - concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+    concept_label: CULTIVATE
+source:
+  source_file: taxchar.xml

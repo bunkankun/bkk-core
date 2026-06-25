@@ -1,0 +1,46 @@
+uuid: 618d0fb1-c743-45dd-9064-a2643a4fd498
+type: tax-char
+heads:
+- 秀
+pronunciations:
+- reading: xiù
+  old_chinese: slus
+  middle_chinese: siu
+  fanqie: 息救切
+  tone: 去
+  guangyun: 出也榮也息救切五
+  senses:
+  - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+    concept_label: BLOSSOM
+    children:
+    - gloss: generalised
+      concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+      concept_label: FLOURISH
+      children:
+      - gloss: resultative
+        concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+        concept_label: GROW
+        children:
+        - gloss: specific
+          concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+          concept_label: FLOWER
+          children:
+          - gloss: generalised
+            concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+            concept_label: PLANT
+            children:
+            - gloss: specific:???
+              concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+              concept_label: MILLET
+          - gloss: feature
+            concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+            concept_label: BEAUTIFUL
+          - gloss: 'feature: of persons'
+            concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+            concept_label: EXCELLENT
+            children:
+            - gloss: grammaticalised
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+source:
+  source_file: taxchar.xml

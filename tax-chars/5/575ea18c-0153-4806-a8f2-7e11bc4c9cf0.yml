@@ -1,0 +1,73 @@
+uuid: 575ea18c-0153-4806-a8f2-7e11bc4c9cf0
+type: tax-char
+heads:
+- 積
+pronunciations:
+- reading: jī
+  old_chinese: skleɡ
+  middle_chinese: tsiɛk
+  fanqie: 資昔切
+  tone: 入
+  guangyun: 聚也資昔切又資賜切十八
+  senses:
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+    children:
+    - gloss: what one accumulates, a multiplicity
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+      children:
+      - gloss: abstract
+        concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+        concept_label: NUMBER
+    - gloss: to something
+      concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+      concept_label: ADD
+      children:
+      - gloss: grammaticalised
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: pejorative
+          concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+          concept_label: EXCESSIVE
+        - gloss: comparative
+          concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+          concept_label: SURPASS
+    - gloss: 'object: earth accumulated'
+      concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+      concept_label: HEAP
+    - gloss: 'object: edibles'
+      concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+      concept_label: FOOD
+    - gloss: 'abstract: result accumulated through action'
+      concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+      concept_label: RESULT
+    - gloss: 'abstract: pile up thoughts'
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+      children:
+      - gloss: 'abstract: attention on one subject'
+        concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+        concept_label: CONCENTRATE
+    - gloss: 'figurative: add up years'
+      concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+      concept_label: LIVE
+    - gloss: 'resultative: so as to stop up things'
+      concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+      concept_label: BLOCK
+  - gloss: 'grammaticalised: time'
+    concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+    children:
+    - gloss: habitual
+      concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+      concept_label: HABIT
+- reading: zì
+  old_chinese: skleɡs
+  middle_chinese: tsiɛ
+  fanqie: 子智切
+  tone: 去
+  guangyun: 委積也子智切又子昔切四
+source:
+  source_file: taxchar.xml

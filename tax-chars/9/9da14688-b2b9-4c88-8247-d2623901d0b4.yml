@@ -1,0 +1,20 @@
+uuid: 9da14688-b2b9-4c88-8247-d2623901d0b4
+type: tax-char
+heads:
+- 線
+pronunciations:
+- reading: xiàn
+  old_chinese: sons
+  middle_chinese: siɛn
+  fanqie: 私箭切
+  tone: 去
+  guangyun: 線縷也周禮云縫人掌王宫縫線之事以役女御縫王及后衣服私箭切四
+  senses:
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: 2b8cad76-d05c-4793-84c3-0766768bddfe
+    concept_label: CASTRATE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

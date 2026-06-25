@@ -1,0 +1,42 @@
+uuid: c6e6a502-4cac-42ab-a3e7-3d889deb89d7
+type: tax-char
+heads:
+- 洪
+pronunciations:
+- reading: hóng
+  old_chinese: ɡooŋ
+  middle_chinese: ɦuŋ
+  fanqie: 戸戶公切
+  tone: 平
+  guangyun: 大也亦姓共工氏之後本姓共氏後改爲洪氏戸公切二十二
+  senses:
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+    children:
+    - gloss: audible feature
+      concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+      concept_label: ONOMATOPOETICA
+    - gloss: feature
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+    - gloss: characteristic action
+      concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+      concept_label: FLOW
+      children:
+      - gloss: subject
+        concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+        concept_label: STREAM
+        children:
+        - gloss: related event
+          concept_uuid: 2f918b16-defb-4b2c-88fb-c3e8b1cd7e32
+          concept_label: DROWN
+  - concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+  - gloss: PARTICLES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: REIGNS (洪武之省略)
+source:
+  source_file: taxchar.xml

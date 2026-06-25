@@ -1,0 +1,41 @@
+uuid: 559b4f02-705f-425e-9734-595f686079e8
+type: tax-char
+heads:
+- 敬
+pronunciations:
+- reading: jìng
+  old_chinese: kreŋs
+  middle_chinese: kɯiaŋ
+  fanqie: 居慶切
+  tone: 去
+  guangyun: 恭也肅也慎也又姓陳敬仲之後出風俗通後漢有揚州刺史敬歆居慶切四
+  senses:
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+    children:
+    - gloss: show respectful diligence
+      concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+      concept_label: DILIGENT
+      children:
+      - gloss: through diligent subservience action
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+      - gloss: 'grammaticalised: self-deprecating'
+        concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+        concept_label: POLITE
+        children:
+        - gloss: 'politely: show one''s respect through a gift'
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+          children:
+          - gloss: show respectful gratitude, with presents
+            concept_uuid: 734977cc-9b88-46a3-9f07-c09fea268775
+            concept_label: THANK
+  - concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T23:49:33.033+09:00'

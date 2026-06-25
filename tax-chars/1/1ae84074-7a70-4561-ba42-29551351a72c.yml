@@ -1,0 +1,37 @@
+uuid: 1ae84074-7a70-4561-ba42-29551351a72c
+type: tax-char
+heads:
+- 試
+pronunciations:
+- reading: shì
+  old_chinese: lʰɯɡs
+  middle_chinese: ɕɨ
+  fanqie: 式吏切
+  tone: 去
+  guangyun: 用也式吏切四
+  senses:
+  - concept_uuid: 370547be-ddf0-46fc-acd6-4eb1ab534866
+    concept_label: TEST
+    children:
+    - gloss: tentatively, taste
+      concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+      concept_label: EAT
+    - gloss: specific
+      concept_uuid: 093241ac-abf2-4159-ac85-822eec8f1483
+      concept_label: EXAMINATION
+    - gloss: generalised
+      concept_uuid: 7d16f180-72e5-4880-b20c-dc135e68166c
+      concept_label: TRY
+      children:
+      - gloss: to see
+        concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+        concept_label: LOOK
+        children:
+        - gloss: to understand
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+  - gloss: 'grammaticalised: for the time being, tentatively'
+    concept_uuid: 443583c8-91ba-4fd9-bc0a-20ac4eb76fcb
+    concept_label: MEANWHILE
+source:
+  source_file: taxchar.xml

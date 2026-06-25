@@ -1,0 +1,31 @@
+uuid: 372e3058-3cb8-41be-bafd-f9c9f18ff1b4
+type: tax-char
+heads:
+- 魄
+pronunciations:
+- reading: pò
+  old_chinese: phraaɡ
+  middle_chinese: pʰɯak
+  fanqie: 普伯切
+  tone: 入
+  guangyun: 魂魄
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+    concept_label: SOUL
+  - concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+    concept_label: BODY
+  - concept_uuid: 8f844d19-d2d4-4733-957f-e161496251e7
+    concept_label: OMEN
+  - gloss: = 霸
+  - gloss: = 粕
+  - gloss: = 珀
+- reading: tuò
+  old_chinese: pthaaɡ
+  middle_chinese: tʰɑk
+  fanqie: 他各切
+  tone: 入
+  guangyun: 落魄貧無家業出史記本音拍
+source:
+  source_file: taxchar.xml

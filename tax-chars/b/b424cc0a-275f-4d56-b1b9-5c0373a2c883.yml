@@ -1,0 +1,28 @@
+uuid: b424cc0a-275f-4d56-b1b9-5c0373a2c883
+type: tax-char
+heads:
+- 驛
+pronunciations:
+- reading: yì
+  old_chinese: laɡ
+  middle_chinese: jiɛk
+  fanqie: 羊益切
+  tone: 入
+  guangyun: 驛馬
+  senses:
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+    concept_label: GUEST HOUSE
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: 5ea20a9a-c418-40f0-9538-0b93f2bbe792
+    concept_label: POSTAL SYSTEM
+  - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - gloss: = 譯
+  - gloss: = 圛
+source:
+  source_file: taxchar.xml

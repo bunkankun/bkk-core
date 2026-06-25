@@ -1,0 +1,56 @@
+uuid: c1d8bef3-ba1b-4799-b8fa-4349a8d463d3
+type: tax-char
+heads:
+- 詞
+pronunciations:
+- reading: cí
+  old_chinese: sɢlɯ
+  middle_chinese: zɨ
+  fanqie: 似兹切
+  tone: 平
+  guangyun: 請也説也吿也説文曰意内而言外也似兹切七
+  senses:
+  - gloss: modern
+    concept_uuid: aecf371d-2cfd-4924-9e21-fee14f8e43e2
+    concept_label: WORD
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+      concept_label: PARTICLE
+    - gloss: generalised
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+      children:
+      - gloss: object, rhymed
+        concept_uuid: a808e25d-58c6-404a-a13e-6d25cf9eef48
+        concept_label: POEM
+        children:
+        - gloss: with tune
+          concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+          concept_label: SONG
+          children:
+          - gloss: generalised
+            concept_uuid: 827ce87b-5100-4277-97a6-cb9c65f56d1c
+            concept_label: RHETORIC
+      - gloss: so as to inform
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+        children:
+        - gloss: specific
+          concept_uuid: 189949e4-f0a0-4aaf-9e49-75064b0f4a46
+          concept_label: PRETEXT
+        - gloss: legal
+          concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+          concept_label: ACCUSE
+          children:
+          - gloss: generalised
+            concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+            concept_label: LAWSUIT
+  - concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+    concept_label: FAREWELL
+  - concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+  - concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+    concept_label: HEIR
+source:
+  source_file: taxchar.xml

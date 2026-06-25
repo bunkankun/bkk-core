@@ -1,0 +1,29 @@
+uuid: aa1f3ff4-e0e1-483f-8d8a-6035fa30df88
+type: tax-char
+heads:
+- 誕
+pronunciations:
+- reading: dàn
+  old_chinese: laanʔ
+  middle_chinese: dɑn
+  fanqie: 徒旱切
+  tone: 上
+  guangyun: 大也育也欺也信也
+  senses:
+  - concept_uuid: 175d5264-4103-49d7-8bd3-a0d40b1ee93f
+    concept_label: ABSURD
+  - concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+    concept_label: BIRTH
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: 6b8bacb6-d2b7-48e0-bf4f-23c19ba0882c
+    concept_label: LIE
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+    concept_label: LEWD
+  - gloss: PARTICLES
+  - concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+    concept_label: TRUST
+source:
+  source_file: taxchar.xml

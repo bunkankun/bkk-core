@@ -1,0 +1,54 @@
+uuid: 5fa5c709-35e8-4723-b99c-30505a1011c4
+type: tax-char
+heads:
+- 雜
+pronunciations:
+- reading: zá
+  old_chinese: sɡuub
+  middle_chinese: dzəp
+  fanqie: 徂合切
+  tone: 入
+  guangyun: 帀也集也猝也穿也説文曰五綵相合也徂合切七
+  senses:
+  - concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: MIXED
+    children:
+    - gloss: pigment> MULTICOLOURED
+      children:
+      - gloss: causative
+        concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+        concept_label: EMBELLISH
+      - gloss: causative
+        concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+        concept_label: COMBINE
+        children:
+        - gloss: grammaticalised> spatial
+          concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+          concept_label: TOGETHER
+          children:
+          - gloss: 'abstract: intensitive'
+            concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+            concept_label: ALL
+            children:
+            - gloss: generalised
+              concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+              concept_label: MANY
+    - gloss: feature
+      concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+      concept_label: IMPURE
+    - gloss: pejorative
+      concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+      concept_label: CHAOS
+    - gloss: psychological
+      concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+      concept_label: CONFUSED
+    - gloss: 'intellectual: slight, tenuous'
+      concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+      concept_label: UNIMPORTANT
+      children:
+      - gloss: 'exocentric: in unimportant role'
+        concept_uuid: 79eb81a8-8570-4305-a801-19f3f528dbbc
+        concept_label: ACTOR
+  - gloss: =匝
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 3319c3a7-c1d8-4cdb-8d45-2d0d44a90eac
+type: tax-char
+heads:
+- 悼
+pronunciations:
+- reading: dào
+  old_chinese: deewɡs
+  middle_chinese: dɑu
+  fanqie: 徒到切
+  tone: 去
+  guangyun: 傷悼
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: MOURNING
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 50ed529a-449f-4621-b5db-c11909f9a6c5
+    concept_label: REGRET
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+source:
+  source_file: taxchar.xml

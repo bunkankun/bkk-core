@@ -1,0 +1,29 @@
+uuid: c23c9fa7-979e-4556-861b-42892c1ec492
+type: tax-char
+heads:
+- 樵
+pronunciations:
+- reading: qiáo
+  old_chinese: dzew
+  middle_chinese: dziɛu
+  fanqie: 昨焦切
+  tone: 平
+  guangyun: 柴也説文木也昨焦切十五
+  senses:
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: 92129761-23a4-4faf-aff0-13ff78929163
+    concept_label: FIREWOOD
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - gloss: = 醮
+- reading: qiáo
+  old_chinese: dzew
+  middle_chinese: dziɛu
+  fanqie: 昨焦切
+  tone: 平
+  guangyun: 同樵
+source:
+  source_file: taxchar.xml

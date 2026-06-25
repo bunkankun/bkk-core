@@ -1,0 +1,82 @@
+uuid: fbe27f3e-51db-4418-b73e-21b0f7948f33
+type: tax-char
+heads:
+- 穆
+pronunciations:
+- reading: mù
+  old_chinese: muɡ
+  middle_chinese: miuk
+  fanqie: 莫六切
+  tone: 入
+  guangyun: 和也美也敬也厚也淸也又姓漢有穆生
+  senses:
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+    children:
+    - gloss: object
+      concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+      concept_label: ANCESTOR
+    - gloss: place in temple of, on the right> DIRECTIONS
+    - gloss: feature
+      concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+      concept_label: SERIOUS
+      children:
+      - gloss: hence
+        concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+        concept_label: GENEROUS
+        children:
+        - gloss: hence
+          concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+          concept_label: FAMOUS
+    - gloss: in action
+      concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+      concept_label: OBEY
+      children:
+      - gloss: feature
+        concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+        concept_label: FAITHFUL
+      - gloss: hence
+        concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+        children:
+        - gloss: psychological
+          concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+          concept_label: HAPPY
+        - gloss: structural
+          concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+          concept_label: HARMONY
+          children:
+          - gloss: feature> SUBTLE
+            children:
+            - gloss: superior
+              concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+              concept_label: MYSTERIOUS
+            - gloss: hence
+              concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+              concept_label: PURE
+              children:
+              - gloss: hence
+                concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+                concept_label: BEAUTIFUL
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 0aa44f4e-1b75-4f3b-84b4-6909c4e3b43a
+    concept_label: RULERS OF QIN
+  - concept_uuid: 59f82040-712a-4326-9c5a-56b0ac103dc9
+    concept_label: RULERS OF SONG
+  - concept_uuid: 63a5d69c-4ff0-410d-a427-d37b4f4f8d43
+    concept_label: RULERS OF WEY
+  - concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+    concept_label: RULERS OF ZHENG
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+source:
+  source_file: taxchar.xml

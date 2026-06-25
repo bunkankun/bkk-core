@@ -1,0 +1,30 @@
+uuid: c2570855-3901-4002-b692-a192a544a019
+type: tax-char
+heads:
+- 丸
+pronunciations:
+- reading: wán
+  old_chinese: ɢoon
+  middle_chinese: ɦʷɑn
+  fanqie: 胡官切
+  tone: 平
+  guangyun: 彈丸
+  senses:
+  - concept_uuid: e8771fdd-0e09-482b-a7c6-d7b75416f26a
+    concept_label: BALL
+  - concept_uuid: d8b43ba9-19b9-47ee-a7ed-25903aa70abf
+    concept_label: CAKE
+  - concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+    concept_label: DRUG
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: b7dab087-a7f4-45e7-9a0d-bb6b4ab2d3c3
+    concept_label: EGG
+  - concept_uuid: 1feaadc4-a593-45b7-a2e2-57fb08d0cf13
+    concept_label: KNEAD
+  - concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+    concept_label: CONCENTRATE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

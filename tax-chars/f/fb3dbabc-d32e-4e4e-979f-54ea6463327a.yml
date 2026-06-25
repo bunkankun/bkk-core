@@ -1,0 +1,29 @@
+uuid: fb3dbabc-d32e-4e4e-979f-54ea6463327a
+type: tax-char
+heads:
+- 擇
+pronunciations:
+- reading: zé
+  old_chinese: ɡrlaaɡ
+  middle_chinese: ɖɯak
+  fanqie: 場伯切
+  tone: 入
+  guangyun: 選擇
+  senses:
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - gloss: =殬
+    concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+unattributed_senses:
+- gloss: 擇 ｙｉ４《集韻》夷益切，入昔以。
+  children:
+  - gloss: NAMES
+source:
+  source_file: taxchar.xml

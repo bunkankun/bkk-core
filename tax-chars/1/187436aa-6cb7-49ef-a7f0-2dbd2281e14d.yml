@@ -1,0 +1,20 @@
+uuid: 187436aa-6cb7-49ef-a7f0-2dbd2281e14d
+type: tax-char
+heads:
+- 澡
+pronunciations:
+- reading: zǎo
+  old_chinese: tsaawʔ
+  middle_chinese: tsɑu
+  fanqie: 子晧切
+  tone: 上
+  guangyun: 澡洗
+  senses:
+  - concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+    concept_label: BATHE
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+source:
+  source_file: taxchar.xml

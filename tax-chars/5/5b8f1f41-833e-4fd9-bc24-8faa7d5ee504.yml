@@ -1,0 +1,22 @@
+uuid: 5b8f1f41-833e-4fd9-bc24-8faa7d5ee504
+type: tax-char
+heads:
+- 羊
+pronunciations:
+- reading: yáng
+  old_chinese: k-laŋ
+  middle_chinese: jiɐŋ
+  fanqie: 與章切
+  tone: 平
+  guangyun: 牛羊禮記凡祭羊曰柔毛崔豹古今注云羊一名髯須主簿又姓出泰山本自羊舌大夫之後戰國策有羊千者著書顯名又漢複姓二氏列士傳有羊角哀左傳晉大夫有羊舌職
+  senses:
+  - concept_uuid: 6f80b3ea-7724-4514-acaf-39426d96a8ff
+    concept_label: OVINE
+    children:
+    - gloss: 'exocentric: meat of'
+      concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+      concept_label: MEAT
+  - gloss: =祥 xiang2
+  - gloss: =詳 xiang2
+source:
+  source_file: taxchar.xml

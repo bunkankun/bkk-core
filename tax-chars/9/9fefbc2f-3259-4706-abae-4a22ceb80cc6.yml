@@ -1,0 +1,32 @@
+uuid: 9fefbc2f-3259-4706-abae-4a22ceb80cc6
+type: tax-char
+heads:
+- 撫
+pronunciations:
+- reading: fǔ
+  old_chinese: mhaʔ
+  middle_chinese: pʰio
+  fanqie: 芳武切
+  tone: 上
+  guangyun: 同撫
+- reading: fǔ
+  old_chinese: mʰaʔ
+  middle_chinese: pʰio
+  fanqie: 芳武切
+  tone: 上
+  guangyun: 安存也又持也循也芳武切十三
+  senses:
+  - concept_uuid: e0711cd3-14c1-4202-a52d-d2feb43d48c2
+    concept_label: CARESS
+  - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+    concept_label: CONSOLE
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+    concept_label: PLUCK STRINGS
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+    concept_label: TOUCH
+source:
+  source_file: taxchar.xml

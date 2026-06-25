@@ -1,0 +1,23 @@
+uuid: 9b984aac-3703-4552-8184-536107057d11
+type: tax-char
+heads:
+- 韓
+pronunciations:
+- reading: hán
+  old_chinese: ɡaan
+  middle_chinese: ɦɑn
+  fanqie: 胡安切
+  tone: 平
+  guangyun: 亦作韓井垣也亦國名又姓出自唐叔虞之後曲沃桓叔之子萬食邑於韓因以爲氏代爲晉卿後分晉爲國韓爲秦滅復以國爲氏出潁川後韓騫避王莽亂移居南陽故有潁川南陽二望
+  senses:
+  - gloss: (round well)
+    concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+    concept_label: WALL
+  - concept_uuid: e6e4b3bf-f0df-4aa7-b5c1-855f9ef06855
+    concept_label: MALES
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

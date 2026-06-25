@@ -1,0 +1,51 @@
+uuid: cb8d9a15-02d1-4d9b-bd95-b5881fab0395
+type: tax-char
+heads:
+- 掩
+pronunciations:
+- reading: yǎn
+  old_chinese: qromʔ
+  middle_chinese: ʔɯiɛm
+  fanqie: 衣儉切
+  tone: 上
+  guangyun: 閉取也説文云斂也小上曰掩
+  senses:
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+    children:
+    - gloss: generalised
+      concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+      concept_label: CONCEAL
+    - gloss: with pressure
+      concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+      concept_label: SQUEEZE
+    - gloss: so as to make impenetrable
+      concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+      concept_label: BLOCK
+      children:
+      - gloss: what is designed to be blocked
+        concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+        concept_label: SHUT
+      - gloss: generalised
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+        children:
+        - gloss: 'object: enemy'
+          concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+          concept_label: FEND OFF
+          children:
+          - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+            concept_label: ATTACK
+  - gloss: generalised
+    concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - gloss: specific
+    concept_uuid: d168c1e1-0c22-4ebe-a094-c1181e947580
+    concept_label: GAMBLE
+  - gloss: grammaticalised
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+source:
+  source_file: taxchar.xml

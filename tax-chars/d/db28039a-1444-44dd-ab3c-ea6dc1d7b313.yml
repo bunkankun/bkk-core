@@ -1,0 +1,42 @@
+uuid: db28039a-1444-44dd-ab3c-ea6dc1d7b313
+type: tax-char
+heads:
+- 冠
+pronunciations:
+- reading: guān
+  old_chinese: koon
+  middle_chinese: kʷɑn
+  fanqie: 古丸切
+  tone: 平
+  guangyun: 首飾説文曰絭也所以絭髮弁冕之緫名也亦姓風俗通云古賢者鶡冠子之後又音灌
+- reading: guàn
+  old_chinese: koons
+  middle_chinese: kʷɑn
+  fanqie: 古玩切
+  tone: 去
+  guangyun: 冠束白虎通曰男子幼娶必冠女子幼嫁必笄又姓列仙傳有仙人冠先又音官
+  senses:
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+    children:
+    - gloss: 'inchoative: ritual marking the beginning of wearing an adult cap'
+      concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+      concept_label: RITUAL
+    - gloss: generalising
+      concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+      concept_label: COVER
+unattributed_senses:
+- concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+  concept_label: HAT
+  children:
+  - gloss: specifically
+    concept_uuid: 3a73f7de-6879-4f8b-ac62-9d71cecd9cd4
+    concept_label: OFFICIAL HAT
+    children:
+    - gloss: one who wears such
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-09-15T20:52:33.859+09:00'

@@ -1,0 +1,76 @@
+uuid: 50ee2542-a54c-4f67-aebc-160f1ab72fa9
+type: tax-char
+heads:
+- 交
+pronunciations:
+- reading: jiāo
+  old_chinese: kreew
+  middle_chinese: kɯau
+  fanqie: 古肴切
+  tone: 平
+  guangyun: 戾也共也合也領也古肴切二十二
+  senses:
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+    children:
+    - gloss: specific
+      concept_uuid: f810b015-015a-4515-9e5c-4f1940026344
+      concept_label: MUTUAL
+      children:
+      - gloss: positively
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+    - gloss: physically
+      concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+      concept_label: CROSS OVER
+      children:
+      - gloss: 'in space: coincide'
+        concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+        concept_label: BOUNDARY
+        children:
+        - gloss: in sequence of time
+          concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+          concept_label: FOLLOW
+    - gloss: semantically
+      concept_uuid: 6da17544-5ea6-457e-80df-a73c69745ce6
+      concept_label: COMMUNICATE
+      children:
+      - gloss: socially
+        concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+        concept_label: MEET
+        children:
+        - gloss: emotionally
+          concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+          concept_label: FRIEND
+          children:
+          - gloss: 'sexually: mostly of animals'
+            concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+            concept_label: COPULATE
+      - gloss: socially
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: mutually
+          concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+          concept_label: EXCHANGE
+  - gloss: abstract
+    concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+    concept_label: CAUSE TO
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+    - gloss: cause to be together
+      concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+      concept_label: COMBINE
+      children:
+      - gloss: combining things that do not belong together
+        concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+        concept_label: CONFUSED
+      - gloss: rhetorically
+        concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+        concept_label: COMPARE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T01:53:12.204+09:00'

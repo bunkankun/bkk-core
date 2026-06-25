@@ -1,0 +1,68 @@
+uuid: 37ba9b10-91f6-454e-a97e-f1acdce420f5
+type: tax-char
+heads:
+- 右
+pronunciations:
+- reading: yòu
+  old_chinese: ɢʷɯʔ
+  middle_chinese: ɦiu
+  fanqie: 云久切
+  tone: 上
+  guangyun: 左右也又漢複姓五氏左傳宋樂大心爲右師其後因官爲氏漢有中郎右師譚晉賈華爲右行因官爲氏漢有御史中丞右行綽何氏姓苑有右閭右扈右南等氏
+  senses:
+  - gloss: right
+    concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+    children:
+    - concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+      children:
+      - gloss: admired
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+        children:
+        - gloss: comparative
+          concept_label: EXCEL
+        - gloss: 'putative: place on the honoured right side'
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+          children:
+          - gloss: overt
+            concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+            concept_label: RESPECT
+          - gloss: emotional
+            concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+            concept_label: DESIRE
+    - gloss: exocentric
+      concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+      concept_label: OFFICER
+    - gloss: 'exocentric: right branch of military force'
+      concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+      concept_label: ARMY
+    - gloss: exocentric
+      concept_uuid: b8794663-3320-4e0e-ada8-33476189ddf6
+      concept_label: HAND
+- reading: yòu
+  old_chinese: ɢʷɯs
+  middle_chinese: ɦiu
+  fanqie: 于救切
+  tone: 去
+  guangyun: 左右又于久切
+  senses:
+  - gloss: =佑
+    concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+    children:
+    - gloss: =祐
+      concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+      concept_label: SAFEGUARD
+    - gloss: be supportive of and close to
+      concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+      concept_label: INTIMATE
+    - gloss: as superior
+      concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+      concept_label: ASSENT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:48:10.402+09:00'

@@ -1,0 +1,40 @@
+uuid: ded3aa79-62d9-4e14-bb44-19cfc3911716
+type: tax-char
+heads:
+- 棄
+pronunciations:
+- reading: qì
+  old_chinese: khils
+  middle_chinese: kʰi
+  fanqie: 詰利切
+  tone: 去
+  guangyun: 説文捐也詰利切五
+  senses:
+  - concept_label: 上古音系： 聲符 棄 韻部 至 韻部細分 1 對應廣韻小韻 棄 擬音 kʰlids
+  - concept_label: 'Baxter:止開三去至A溪 (白一平: khjijH; 古韻: khjiih)'
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+    children:
+    - gloss: improperly
+      concept_uuid: 42b36b25-735c-42c0-9644-15df57265a2f
+      concept_label: ABANDON
+    - gloss: place on is in
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+    - gloss: psychological
+      concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+      concept_label: DISREGARD
+      children:
+      - gloss: inadvertently
+        concept_uuid: 7fc70648-17f5-4181-a267-dd2747e9c31b
+        concept_label: FORGET
+      - gloss: inadvertently, as a consequence
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+    - gloss: 'concrete: object wife'
+      concept_uuid: 89830aaf-48a4-49cf-8f0c-4132c2f21dcd
+      concept_label: DIVORCE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T23:33:05.722+09:00'

@@ -1,0 +1,68 @@
+uuid: 5d7cfd86-040f-4f7a-89e8-8c681cb940a2
+type: tax-char
+heads:
+- 皇
+pronunciations:
+- reading: huáng
+  old_chinese: ɡʷaaŋ
+  middle_chinese: ɦʷɑŋ
+  fanqie: 胡光切
+  tone: 平
+  guangyun: 君也美也天也説文作皇大也又姓左傳鄭大夫夫皇頡
+  senses:
+  - concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+    concept_label: GREAT
+    children:
+    - gloss: 'subject: cosmological'
+      concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+      concept_label: HEAVEN
+      children:
+      - gloss: huáng
+        concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+        concept_label: FATHER
+        children:
+        - gloss: subject:political
+          concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+          concept_label: RULER
+          children:
+          - gloss: emperor
+            concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+            concept_label: KING
+            children:
+            - gloss: grammaticalised
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+          - gloss: feature
+            concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+            concept_label: SEVERE
+            children:
+            - gloss: typical attitude
+              concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+              concept_label: FEAR
+      - gloss: physical
+        concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+        concept_label: SKY
+        children:
+        - gloss: resplendent
+          concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+          concept_label: BRIGHT
+          children:
+          - gloss: generalised
+            concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+            concept_label: BEAUTIFUL
+            children:
+            - gloss: 'delarative: declare admirable'
+              concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+              concept_label: PRAISE
+          - gloss: 'exocentric: off-white horse'
+            concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+            concept_label: HORSE
+  - concept_label: =惶
+  - concept_label: =遑
+  - gloss: =匡
+    concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-23T00:36:11.235+09:00'

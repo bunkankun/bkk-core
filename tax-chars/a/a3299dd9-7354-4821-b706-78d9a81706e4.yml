@@ -1,0 +1,75 @@
+uuid: a3299dd9-7354-4821-b706-78d9a81706e4
+type: tax-char
+heads:
+- 亡
+pronunciations:
+- reading: wáng
+  old_chinese: maŋ
+  middle_chinese: mʷiɐŋ
+  fanqie: 武方切
+  tone: 平
+  guangyun: 無也滅也進也説文正作亾武方切十二
+  senses:
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+    children:
+    - gloss: inchoative
+      concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+      concept_label: DISAPPEAR
+      children:
+      - gloss: 'process: from life'
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+        children:
+        - gloss: causative
+          concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+          concept_label: KILL
+      - gloss: have disappear
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+        children:
+        - gloss: derivation by tone change:involuntarily
+          concept_uuid: 7fc70648-17f5-4181-a267-dd2747e9c31b
+          concept_label: FORGET
+          children:
+          - gloss: wàng:voluntarily
+            concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+            concept_label: DISREGARD
+      - gloss: causative
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+        children:
+        - gloss: causative
+          concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+          concept_label: DEFEAT
+        - gloss: headed for destruction
+          concept_label: DOOMED
+      - gloss: resultative feature
+        concept_uuid: fd91e5db-8b39-4511-a24e-052ebaa95986
+        concept_label: ABSENT
+        children:
+        - gloss: action
+          concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+          concept_label: LEAVE
+          children:
+          - gloss: from dangerous place
+            concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+            concept_label: FLEE
+            children:
+            - gloss: from state
+              concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+              concept_label: EXILE
+              children:
+              - gloss: causative
+                concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+                concept_label: BANISH
+          - gloss: from dependence
+            concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+            concept_label: INDEPENDENT
+    - gloss: 'grammaticalised: negation (義訓 reading wú)'
+      concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+      concept_label: NOT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:55:05.538+09:00'

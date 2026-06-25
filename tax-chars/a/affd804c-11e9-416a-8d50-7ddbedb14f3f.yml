@@ -1,0 +1,44 @@
+uuid: affd804c-11e9-416a-8d50-7ddbedb14f3f
+type: tax-char
+heads:
+- 薰
+pronunciations:
+- reading: xùn
+  old_chinese: qhuns
+  middle_chinese: hiun
+  fanqie: 許運切
+  tone: 去
+  guangyun: 薫香又許云切
+- reading: xūn
+  old_chinese: qhun
+  middle_chinese: hiun
+  fanqie: 許云切
+  tone: 平
+  guangyun: 香草韻略曰薫陸香出大秦國亦姓出何氏姓苑許云切十二
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: ef0793d1-efb0-4012-9e04-408f0450cbbb
+    concept_label: SUFFOCATE
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+    concept_label: INFLUENCE
+  - concept_uuid: 278eb26c-ce4a-4ce0-bbb2-008fa6ea5669
+    concept_label: WARM
+  - concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+    concept_label: WIND
+  - concept_uuid: 6a6f3a7a-f6f5-46ff-a3ff-ae921a8757b6
+    concept_label: SMOKE
+  - concept_uuid: 1760f18a-04e2-4f14-8976-7309970308b7
+    concept_label: VEGETABLES
+  - concept_uuid: 4a684e54-f684-4584-80d6-59c2dbb56d4f
+    concept_label: INCENSE BURNER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

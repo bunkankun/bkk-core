@@ -1,0 +1,37 @@
+uuid: 86b3ef40-d523-458b-bdb8-7f661a85ee34
+type: tax-char
+heads:
+- 賞
+pronunciations:
+- reading: shǎng
+  old_chinese: lʰaŋʔ
+  middle_chinese: ɕiɐŋ
+  fanqie: 書兩切
+  tone: 上
+  guangyun: 賜也又吴姓有賞氏書兩切五
+  senses:
+  - concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+    concept_label: REWARD
+    children:
+    - gloss: generalised
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: helpful talk
+        concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+        concept_label: ADVISE
+    - gloss: 'psychological: appreciate'
+      concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+      concept_label: ADMIRE
+      children:
+      - gloss: as superior
+        concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+        concept_label: RESPECT
+      - gloss: show public respect
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+      - gloss: engage in with approval and admiration
+        concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+        concept_label: ENJOY
+source:
+  source_file: taxchar.xml

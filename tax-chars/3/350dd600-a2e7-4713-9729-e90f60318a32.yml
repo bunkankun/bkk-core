@@ -1,0 +1,34 @@
+uuid: 350dd600-a2e7-4713-9729-e90f60318a32
+type: tax-char
+heads:
+- 蔓
+pronunciations:
+- reading: mán
+  old_chinese: moon
+  middle_chinese: mʷɑn
+  fanqie: 母官切
+  tone: 平
+  guangyun: 蔓菁菜也
+- reading: màn
+  old_chinese: mons
+  middle_chinese: mʷiɐn
+  fanqie: 無販切
+  tone: 去
+  guangyun: 𤓰蔓又姓左傳楚有蔓成然
+  senses:
+  - concept_uuid: a0b6a347-8dcc-43ab-9d96-c0eaf40ec24b
+    concept_label: CREEPER
+    children:
+    - gloss: associated action
+      concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+      concept_label: GROW
+    - gloss: generalised
+      concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+      concept_label: EXTEND
+  - gloss: (modern)
+    concept_uuid: 001da9d0-648e-43f2-a759-18d3c1217356
+    concept_label: DEPOSIT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

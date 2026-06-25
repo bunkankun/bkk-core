@@ -1,0 +1,30 @@
+uuid: be96e08c-b062-423a-b8e3-fb9061945c66
+type: tax-char
+heads:
+- 階
+pronunciations:
+- reading: jiē
+  old_chinese: kriid
+  middle_chinese: kɯæi
+  fanqie: 古諧切
+  tone: 平
+  guangyun: 階級也説文曰階陛釋名曰階梯也如梯之等差也
+  senses:
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: e72b353f-d9f9-45ef-9644-df4dfe0605c3
+    concept_label: LADDER
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+    concept_label: STAIRS
+- reading: jiē
+  old_chinese: kriid
+  middle_chinese: kɯæi
+  fanqie: 古諧切
+  tone: 平
+  guangyun: 堦砌
+source:
+  source_file: taxchar.xml

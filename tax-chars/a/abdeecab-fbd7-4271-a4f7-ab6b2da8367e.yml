@@ -1,0 +1,41 @@
+uuid: abdeecab-fbd7-4271-a4f7-ab6b2da8367e
+type: tax-char
+heads:
+- 軸
+pronunciations:
+- reading: zhóu
+  old_chinese: rliwɡ
+  middle_chinese: ɖiuk
+  fanqie: 直六切
+  tone: 入
+  guangyun: 車軸
+  senses:
+  - concept_uuid: a4e68d31-6719-4ece-9849-774464d21cc0
+    concept_label: AXLE
+  - concept_uuid: 973c1446-e573-4c96-bfb1-8bd0b28f6a32
+    concept_label: AXIS
+  - concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+    concept_label: VEHICLE
+  - concept_uuid: 5429a028-7992-45a7-bcc6-8955c7090639
+    concept_label: RUDDER
+  - concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+    concept_label: SHIP
+  - concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+    concept_label: IMPORTANT
+  - concept_uuid: 836bebdf-9889-41ee-b863-a319e2aa175d
+    concept_label: BIER
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: PEG
+  - concept_uuid: 0b5948ff-b9d0-400c-b83c-c0ac323070b0
+    concept_label: LOOM PARTS
+  - concept_uuid: 6aa1a2d6-99fa-4e3d-8d14-24fbeb5dbaea
+    concept_label: PICTURE
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 逐
+source:
+  source_file: taxchar.xml

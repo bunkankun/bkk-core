@@ -1,0 +1,28 @@
+uuid: b67c2495-1d65-4091-96f9-3240393b567c
+type: tax-char
+heads:
+- 矛
+pronunciations:
+- reading: máo
+  old_chinese: mu
+  middle_chinese: miu
+  fanqie: 莫浮切
+  tone: 平
+  guangyun: 古文矛
+- reading: máo
+  old_chinese: mu
+  middle_chinese: miu
+  fanqie: 莫浮切
+  tone: 平
+  guangyun: 戈矛説文曰酋矛也建於兵車長二丈象形吴越春秋曰越王以屈盧之矛歩光之劒獻於吴王
+  senses:
+  - concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+    concept_label: LANCE
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+    concept_label: INSECTS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

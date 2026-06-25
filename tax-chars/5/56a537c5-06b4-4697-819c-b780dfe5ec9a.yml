@@ -1,0 +1,34 @@
+uuid: 56a537c5-06b4-4697-819c-b780dfe5ec9a
+type: tax-char
+heads:
+- 捨
+pronunciations:
+- reading: shě
+  old_chinese: lʰaʔ
+  middle_chinese: ɕia
+  fanqie: 書冶切
+  tone: 上
+  guangyun: 釋也書冶切五
+  senses:
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+    concept_label: DISREGARD
+  - concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+    concept_label: PARDON
+  - concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+    concept_label: LEAVE
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

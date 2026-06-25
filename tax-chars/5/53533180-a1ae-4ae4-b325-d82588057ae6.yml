@@ -1,0 +1,35 @@
+uuid: 53533180-a1ae-4ae4-b325-d82588057ae6
+type: tax-char
+heads:
+- 量
+pronunciations:
+- reading: liàng
+  old_chinese: ɡ-raŋs
+  middle_chinese: liɐŋ
+  fanqie: 力讓切
+  tone: 去
+  guangyun: 合斗斛
+  senses:
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+  - concept_uuid: 1bebc2e6-a495-453e-aa66-4919c1ddaf15
+    concept_label: PREDICT
+- reading: liáng
+  old_chinese: ɡ-raŋ
+  middle_chinese: liɐŋ
+  fanqie: 呂張切
+  tone: 平
+  guangyun: 量度又力向切
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+    concept_label: CALCULATE
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+source:
+  source_file: taxchar.xml

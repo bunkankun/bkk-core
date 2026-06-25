@@ -1,0 +1,51 @@
+uuid: ec6c9ac7-5716-43dd-80b9-a2bbc0120c75
+type: tax-char
+heads:
+- 侍
+pronunciations:
+- reading: shì
+  old_chinese: ɡljɯs
+  middle_chinese: dʑɨ
+  fanqie: 時吏切
+  tone: 去
+  guangyun: 近也從也承也時吏切三
+  senses:
+  - concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+    concept_label: ACCOMPANY
+    children:
+    - gloss: in subservient function
+      concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+      concept_label: SERVE
+      children:
+      - gloss: 'subject: female'
+        concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+        concept_label: SERVANT
+      - gloss: follower
+        concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+        concept_label: FOLLOW
+        children:
+        - gloss: senior
+          concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+          concept_label: OFFICIAL
+          children:
+          - gloss: function of
+            concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+            concept_label: ADVISE
+      - gloss: as an aide
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+        children:
+        - gloss: specifically
+          concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+          concept_label: NOURISH
+      - gloss: attend (funerals etc)
+        concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+  - gloss: =恃
+    concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - gloss: =待
+    concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+    concept_label: WAIT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,47 @@
+uuid: 5310c66f-6f68-4a97-b5ab-6c317b9e0ead
+type: tax-char
+heads:
+- 突
+pronunciations:
+- reading: tū
+  old_chinese: thuud
+  middle_chinese: tʰuot
+  fanqie: 他骨切
+  tone: 入
+  guangyun: 出皃他骨切六
+- reading: tū
+  old_chinese: duud
+  middle_chinese: duot
+  fanqie: 陀骨切
+  tone: 入
+  guangyun: 觸也欺也説文曰犬从穴中暫出也一曰滑也陀骨切十四
+  senses:
+  - concept_uuid: 6580b194-f6ef-451e-9543-c5e528d33511
+    concept_label: CHIMNEY
+  - concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+    concept_label: PIERCE
+  - concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+  - concept_uuid: e936e1cf-709a-4995-b105-e7aff4ee1732
+    concept_label: CAVITY
+  - concept_uuid: 7edf7df0-622c-4670-b581-3ec4051a7764
+    concept_label: TUNNEL
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - gloss: BUMP
+  - concept_uuid: 7e62baf1-4af9-4e1b-b742-e4d3abe24b85
+    concept_label: PROTRUDE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - gloss: = 塗
+- reading: tū
+  old_chinese: thuud
+  middle_chinese: tʰuot
+  fanqie: 他骨切
+  tone: 入
+source:
+  source_file: taxchar.xml

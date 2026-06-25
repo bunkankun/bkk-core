@@ -1,0 +1,69 @@
+uuid: 2bf1942b-5ddc-4700-a61a-433df65ac629
+type: tax-char
+heads:
+- 壽
+pronunciations:
+- reading: shòu
+  old_chinese: djuʔ
+  middle_chinese: dʑiu
+  fanqie: 殖酉切
+  tone: 上
+  guangyun: 壽考又州名楚孝烈王自陳徙都壽春號曰郡秦爲九江郡魏爲淮南郡梁爲南豫州周爲揚州隋平陳爲壽州亦靈壽木名生日南又姓王莽兖州牧壽良又漢複姓前漢燕王遣壽西長之長安蘇林云壽西姓也又承呪切
+  senses:
+  - concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+  - gloss: generalised
+    concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+    children:
+    - gloss: measure of
+      concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+      concept_label: YEAR
+      children:
+      - gloss: lasting for years
+        concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+        concept_label: ENDURING
+        children:
+        - gloss: process
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+          children:
+          - gloss: shòu
+            concept_uuid: 0253f062-ec1c-4af9-8d78-6d22ef588077
+            concept_label: LIFE
+    - gloss: anniversary
+      concept_label: BIRTHDAY
+      children:
+      - gloss: appropriate action
+        concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+        concept_label: CONGRATULATE
+        children:
+        - gloss: instrument for relevant action
+          concept_uuid: a3fbcd2f-2422-4324-a7eb-7387fce35b10
+          concept_label: DRUM
+        - gloss: 'concrete: with drinking of wine'
+          concept_uuid: f1c90c31-351f-4b4b-9caf-d0ae182b0689
+          concept_label: TOAST
+          children:
+          - gloss: 'concrete: make birthday presents'
+            concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+            concept_label: GIVE
+          - gloss: desired:ensure continued existence
+            concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+            concept_label: SAFEGUARD
+          - gloss: shòu
+            concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+            concept_label: DRINK
+        - gloss: 'generalised:'
+          concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+          concept_label: GREET
+- reading: shòu
+  old_chinese: djuʔ
+  middle_chinese: dʑiu
+  fanqie: 承咒切
+  tone: 去
+  guangyun: 壽考
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:18:07.945+09:00'

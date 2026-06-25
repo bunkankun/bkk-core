@@ -1,0 +1,59 @@
+uuid: 25d38db1-20b9-4a85-99f7-955e536ceaee
+type: tax-char
+heads:
+- 義
+pronunciations:
+- reading: yì
+  old_chinese: ŋrals
+  middle_chinese: ŋɯiɛ
+  fanqie: 宜寄切
+  tone: 去
+  guangyun: 仁義釋名曰義者宜也裁制事物使合宜也又姓漢有義縱又複姓西戎義渠爲秦所滅後因氏焉漢有光禄大夫義渠安國
+  senses:
+  - concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+    concept_label: APPROPRIATE
+    children:
+    - gloss: abstract, moral
+      concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+      concept_label: RECTITUDE
+      children:
+      - gloss: social
+        concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+        concept_label: DUTY
+        children:
+        - gloss: public
+          concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+          concept_label: JUSTICE
+          children:
+          - gloss: abstract
+            concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+            concept_label: PRINCIPLE
+            children:
+            - gloss: semantic feature
+              concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+              concept_label: 'TRUE'
+              children:
+              - gloss: linguistic act
+                concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+                concept_label: MEAN
+                children:
+                - gloss: psychological
+                  concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+                  concept_label: JUDGE
+        - gloss: fixing duties
+          concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+          concept_label: CONTRACT
+        - gloss: moral feelings
+          concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+          concept_label: FEELING
+          children:
+          - gloss: specifically
+            concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+            concept_label: GENEROUS
+  - gloss: =議
+    concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+    concept_label: DISCUSS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T21:27:59.12+09:00'

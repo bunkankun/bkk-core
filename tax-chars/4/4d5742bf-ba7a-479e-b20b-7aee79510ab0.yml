@@ -1,0 +1,26 @@
+uuid: 4d5742bf-ba7a-479e-b20b-7aee79510ab0
+type: tax-char
+heads:
+- 謁
+pronunciations:
+- reading: yè
+  old_chinese: qad
+  middle_chinese: ʔiɐt
+  fanqie: 於歇切
+  tone: 入
+  guangyun: 請也告也白也又姓風俗通云漢有汝南太守謁渙於歇切五
+  senses:
+  - concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

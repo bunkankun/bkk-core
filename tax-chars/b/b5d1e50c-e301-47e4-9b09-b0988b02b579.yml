@@ -1,0 +1,40 @@
+uuid: b5d1e50c-e301-47e4-9b09-b0988b02b579
+type: tax-char
+heads:
+- 活
+pronunciations:
+- reading: guō
+  old_chinese: kood
+  middle_chinese: kʷɑt
+  fanqie: 古活切
+  tone: 入
+  guangyun: 同活
+- reading: guō
+  old_chinese: kood
+  middle_chinese: kʷɑt
+  fanqie: 古活切
+  tone: 入
+  guangyun: 水流聲又乎括切
+- reading: huó
+  old_chinese: ɡood
+  middle_chinese: ɦʷɑt
+  fanqie: 戶括切
+  tone: 入
+  guangyun: 不死也又水流聲戸括切八
+  senses:
+  - concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+    concept_label: LIVE
+  - concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+    concept_label: PERSIST
+  - concept_uuid: ffd86371-cb57-4550-aed2-c98206f4300d
+    concept_label: LIVELY
+  - concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+    concept_label: RESCUE
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: JOB
+  - concept_uuid: e6b6915f-ba7f-4489-88b7-e3fbf53188d2
+    concept_label: ARTEFACT
+  - concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+    concept_label: 'TRUE'
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,100 @@
+uuid: 7c03e3cb-c4dc-4f35-8d88-82ce01cbb9f9
+type: tax-char
+heads:
+- 合
+pronunciations:
+- reading: hé
+  old_chinese: ɡloob
+  middle_chinese: ɦəp
+  fanqie: 侯閤切
+  tone: 入
+  guangyun: 合同亦器名亦六合天地四方對也又州名秦爲巴郡宋爲宕渠郡後魏置合州蓋涪漢二水合流之處因以名之又姓左傳宋有大夫合左師又漢複姓髙帝功臣表有合博虞侯閤切又音閤十一
+- reading: gě
+  old_chinese: kloob
+  middle_chinese: kəp
+  fanqie: 古沓切
+  tone: 入
+  guangyun: 合集又音䢔
+unattributed_senses:
+- concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  concept_label: CONFORM
+  children:
+  - gloss: in features
+    concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+  - gloss: linguistically
+    concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+    concept_label: ASSENT
+    children:
+    - gloss: deontic
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+  - gloss: place
+    concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+    children:
+    - gloss: 'inchoative: get together'
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+      children:
+      - gloss: object human
+        concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+        concept_label: COOPERATE
+        children:
+        - gloss: agreement to
+          concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+          concept_label: CONTRACT
+        - gloss: sexually
+          concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+          concept_label: COPULATE
+    - gloss: transitive
+      concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+      concept_label: JUXTAPOSE
+      children:
+      - gloss: object to be juxtaposed
+        concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+        concept_label: TALLY
+      - gloss: wings of gate
+        concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+        concept_label: SHUT
+      - gloss: stative
+        concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+        concept_label: SURROUND
+      - gloss: for interaction
+        concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+        concept_label: COMBINE
+        children:
+        - gloss: resulting feature
+          concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+          concept_label: MIXED
+        - gloss: the whole being an assembly
+          concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+          concept_label: GATHER
+          children:
+          - gloss: causative
+            concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+            concept_label: SUMMON
+          - gloss: causative:to make into one
+            concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+            concept_label: UNITE
+            children:
+            - gloss: complete
+              concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+              concept_label: WHOLE
+            - gloss: cognitive
+              concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+              concept_label: COMPARE
+              children:
+              - gloss: intellectually
+                concept_uuid: bb9ab141-adfb-443f-9908-f7485cbd7560
+                concept_label: CHECK
+            - gloss: aesthetic
+              concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+              concept_label: HARMONY
+            - gloss: 'mathematical: equals'
+              concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+              concept_label: SAME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T01:01:37.212+09:00'

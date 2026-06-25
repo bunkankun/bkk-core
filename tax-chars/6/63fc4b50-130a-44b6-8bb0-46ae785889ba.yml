@@ -1,0 +1,36 @@
+uuid: 63fc4b50-130a-44b6-8bb0-46ae785889ba
+type: tax-char
+heads:
+- 濱
+pronunciations:
+- reading: běng
+  old_chinese: preeŋ<-aaŋ
+  middle_chinese: pɯaŋ
+  fanqie: 布梗切
+  tone: 上
+  guangyun: 浦名布梗切又布耕切三
+- reading: bīn
+  old_chinese: pin
+  middle_chinese: pin
+  fanqie: 必鄰切
+  tone: 平
+  guangyun: 水際
+  senses:
+  - concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: bāng
+  old_chinese: preeŋ
+  middle_chinese: pɯæŋ
+  fanqie: 布耕切
+  tone: 平
+  guangyun: 布耕切安船溝又布耿切三
+source:
+  source_file: taxchar.xml

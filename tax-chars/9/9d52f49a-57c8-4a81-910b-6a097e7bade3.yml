@@ -1,0 +1,37 @@
+uuid: 9d52f49a-57c8-4a81-910b-6a097e7bade3
+type: tax-char
+heads:
+- 柏
+pronunciations:
+- reading: bó
+  old_chinese: praaɡ
+  middle_chinese: pɯak
+  fanqie: 博陌切
+  tone: 入
+  guangyun: 木名五經通義曰諸侯墓樹柏又姓晉趙王倫母曰柏夫人亦作栢
+  senses:
+  - gloss: TREE, KINDS
+  - gloss: object consisting of
+    concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+  - gloss: part of
+    concept_uuid: 86575c27-928a-420b-bd2a-2cbad60b1dfc
+    concept_label: LEAF
+  - gloss: =伯
+    concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - gloss: =伯
+    concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - gloss: =箔
+    concept_uuid: ff820037-7e9a-495f-9f43-f2069d7f71b7
+    concept_label: SCREEN
+  - gloss: =迫
+    concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

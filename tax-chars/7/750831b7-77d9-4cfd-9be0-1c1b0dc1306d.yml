@@ -1,0 +1,43 @@
+uuid: 750831b7-77d9-4cfd-9be0-1c1b0dc1306d
+type: tax-char
+heads:
+- 陸
+pronunciations:
+- reading: lù
+  old_chinese: m-ruɡ
+  middle_chinese: liuk
+  fanqie: 力竹切
+  tone: 入
+  guangyun: 髙平曰陸又髙也厚也亦陸離參差也又姓出吳郡河南二望夲自古天子陸終後
+  senses:
+  - concept_uuid: efdc4b8f-69b3-48e3-aa30-530327da0efe
+    concept_label: MAINLAND
+    children:
+    - gloss: genralised
+      concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+      concept_label: EARTH
+      children:
+      - gloss: used for transport
+        concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+        concept_label: WAY
+      - gloss: accumulated
+        concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+        concept_label: MOUNTAIN
+        children:
+        - gloss: feature
+          concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+          concept_label: HIGH
+          children:
+          - gloss: move across
+            concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+            concept_label: JUMP
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 91fe22c9-b1c6-49c7-a4fc-f3d310ec22b8
+    concept_label: PHILOLOGISTS
+unattributed_senses:
+- gloss: 陸 liù
+  children:
+  - gloss: =六 NUMBERS
+source:
+  source_file: taxchar.xml

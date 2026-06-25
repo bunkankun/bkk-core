@@ -1,0 +1,60 @@
+uuid: aff88117-9154-47ed-8d11-be8e70e25202
+type: tax-char
+heads:
+- 牙
+pronunciations:
+- reading: yá
+  old_chinese: ŋɡraa
+  middle_chinese: ŋɯa
+  fanqie: 五加切
+  tone: 平
+  guangyun: 牙齒又牙旗吴志曰孫權因瑞作黄龍大牙常在軍中諸軍進退視其所向又姓風俗通云周大司徒君牙之後五加切七
+  senses:
+  - concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+    concept_label: TOOTH
+    children:
+    - gloss: reminiscent
+      concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+      concept_label: MUSICAL INSTRUMENT
+    - gloss: reminiscent> BOW PARTS
+    - gloss: reminiscent
+      concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+      concept_label: BANNER
+      children:
+      - gloss: reminiscent
+        concept_uuid: 6317db9e-f402-42e9-b1e0-8d04fca07bf7
+        concept_label: CAMP
+        children:
+        - gloss: part of
+          concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+          concept_label: SHOP
+          children:
+          - gloss: activity in
+            concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+            concept_label: TRADE
+            children:
+            - gloss: part of
+              concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+              concept_label: BUILDING
+    - gloss: action involving
+      concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+      concept_label: BITE
+    - gloss: of elephants
+      concept_uuid: e12c6df1-6102-4b32-9cea-f85e2cc7c881
+      concept_label: IVORY
+  - concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+  - gloss: SURNAME
+  - concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+  - gloss: =伢
+    concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+  - gloss: =芽
+    concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+    concept_label: SPROUT
+  - gloss: =衙
+    concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+    concept_label: PUBLIC BUILDING
+source:
+  source_file: taxchar.xml

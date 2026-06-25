@@ -1,0 +1,53 @@
+uuid: 311da88f-e6cd-42b7-b151-279e76e7e626
+type: tax-char
+heads:
+- 畫
+pronunciations:
+- reading: huà
+  old_chinese: ɢʷreeɡs
+  middle_chinese: ɦʷɯæ
+  fanqie: 胡卦切
+  tone: 去
+  guangyun: 釋名曰畫挂也以五色挂物象也俗作𥁞胡卦切又胡麥切九
+  senses:
+  - concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+    concept_label: DRAW
+    children:
+    - gloss: object
+      concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+      concept_label: LINE
+      children:
+      - gloss: object
+        concept_uuid: 6aa1a2d6-99fa-4e3d-8d14-24fbeb5dbaea
+        concept_label: PICTURE
+        children:
+        - gloss: abstract
+          concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+          concept_label: PLAN
+        - gloss: generalised
+          concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+          concept_label: RESTRAIN
+          children:
+          - gloss: specific
+            concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+            concept_label: STOP
+          - gloss: one's respect??
+            concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+            concept_label: DESPISE
+        - gloss: written> SIGNATURE
+      - gloss: abstract
+        concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+        concept_label: LIMIT
+        children:
+        - gloss: causative
+          concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+          concept_label: DIVIDE
+    - gloss: with colour
+      concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+      concept_label: PAINT
+      children:
+      - gloss: abstract
+        concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+        concept_label: EMBELLISH
+source:
+  source_file: taxchar.xml

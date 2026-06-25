@@ -1,0 +1,39 @@
+uuid: 67390dc8-7817-4a95-9058-6167069a9f5b
+type: tax-char
+heads:
+- 夾
+pronunciations:
+- reading: jiā
+  old_chinese: kreeb
+  middle_chinese: kɯæp
+  fanqie: 古洽切
+  tone: 入
+  guangyun: 持也古洽切十五
+  senses:
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+    children:
+    - gloss: generalised
+      concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+      concept_label: SAFEGUARD
+      children:
+      - gloss: to enable action
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+    - gloss: generalised
+      concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+      concept_label: INTERACT
+    - gloss: instrument> PINCER
+      children:
+      - gloss: from both/all sides
+        concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+        concept_label: EVERYWHERE
+      - gloss: action> INSERT
+        children:
+        - gloss: result
+          concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+          concept_label: MIXED
+  - gloss: =狹 NARROW
+  - gloss: =鋏 HILT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,49 @@
+uuid: b44c1f56-2088-4cac-8836-9fc72b7e99a3
+type: tax-char
+heads:
+- 虞
+pronunciations:
+- reading: yú
+  old_chinese: ŋʷa
+  middle_chinese: ŋio
+  fanqie: 遇俱切
+  tone: 平
+  guangyun: 度也説文曰騶虞仁獸白虎黒文尾長於身不食生物俗作𩦢又周禮有山虞澤虞掌山澤之官也亦姓出㑹稽濟陽二望風俗通云凡氏之興九事一氏於號唐虞夏殷是也遇俱切二十
+  senses:
+  - gloss: professionally
+    concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+    children:
+    - gloss: reasoned
+      concept_uuid: 334716e8-8f40-4a81-9caa-b49371c683f9
+      concept_label: EXPECT
+      children:
+      - gloss: object positive
+        concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+        concept_label: HOPE
+        children:
+        - gloss: ritual expression of
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+      - gloss: object negative
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+        children:
+        - gloss: emotional
+          concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+          concept_label: FEAR
+  - gloss: =?
+    concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - gloss: =?"forester"
+    concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+    concept_label: OFFICER
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: =娛
+    concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-24T01:33:10.694+09:00'

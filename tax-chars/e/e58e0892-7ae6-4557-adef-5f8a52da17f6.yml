@@ -1,0 +1,30 @@
+uuid: e58e0892-7ae6-4557-adef-5f8a52da17f6
+type: tax-char
+heads:
+- 剪
+- 翦
+pronunciations:
+- reading: jiǎn
+  old_chinese: tsenʔ
+  middle_chinese: tsiɛn
+  fanqie: 即淺切
+  tone: 上
+  guangyun: 俗翦
+  senses:
+  - concept_uuid: 6e9cb3a0-eb8b-43c2-9157-24f2af1d30e4
+    concept_label: CUT HAIR
+- reading: jiǎn
+  old_chinese: tsenʔ
+  middle_chinese: tsiɛn
+  fanqie: 即淺切
+  tone: 上
+  guangyun: 𢧵也齊也殺也勒也俗作剪即淺切十四
+  senses:
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+source:
+  source_file: taxchar.xml

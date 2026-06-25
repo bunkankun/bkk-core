@@ -1,0 +1,42 @@
+uuid: 181631e2-5bce-4051-89fd-65933d4b55be
+type: tax-char
+heads:
+- 勁
+pronunciations:
+- reading: jìn
+  old_chinese: kɯns
+  middle_chinese: kɨn
+  fanqie: 居焮切
+  tone: 去
+  guangyun: 多力皃
+  senses:
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+    concept_label: APPEARANCE
+  - concept_uuid: 78ca5698-e5df-4086-8c4f-68c94698662e
+    concept_label: MOOD
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+  - concept_uuid: 37bab730-db08-4012-a3f6-59858a2cf9f5
+    concept_label: DEGREE
+- reading: jìn
+  old_chinese: kɯns
+  middle_chinese: kɨn
+  fanqie: 居焮切
+  tone: 去
+- reading: jìng
+  old_chinese: keŋs
+  middle_chinese: kiɛŋ
+  fanqie: 居正切
+  tone: 去
+  guangyun: 勁徤也居正切一
+  senses:
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+source:
+  source_file: taxchar.xml

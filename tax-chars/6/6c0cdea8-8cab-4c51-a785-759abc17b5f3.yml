@@ -1,0 +1,28 @@
+uuid: 6c0cdea8-8cab-4c51-a785-759abc17b5f3
+type: tax-char
+heads:
+- 談
+pronunciations:
+- reading: tán
+  old_chinese: ɡ-laam
+  middle_chinese: dɑm
+  fanqie: 徒甘切
+  tone: 平
+  guangyun: 談話又言論也戲調也又姓蜀録云晉有征東將軍談巴徒甘切十一
+  senses:
+  - concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+    concept_label: DIALOGUE
+    children:
+    - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+    - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+      children:
+      - concept_uuid: f8d0fa63-774b-4e2d-ade4-5ad8cc925146
+        concept_label: TEASE
+      - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

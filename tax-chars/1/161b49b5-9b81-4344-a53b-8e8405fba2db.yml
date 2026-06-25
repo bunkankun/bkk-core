@@ -1,0 +1,24 @@
+uuid: 161b49b5-9b81-4344-a53b-8e8405fba2db
+type: tax-char
+heads:
+- 絳
+pronunciations:
+- reading: jiàng
+  old_chinese: kruums
+  middle_chinese: kɯɔŋ
+  fanqie: 古巷切
+  tone: 去
+  guangyun: 赤色又州詩譜云晉穆侯遷都於絳曾孫孝侯改爲翼翼晉之舊都後獻公又命爲絳邑秦爲河東郡後魏置東雍州周爲絳州又姓古巷切五
+  senses:
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: RED
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

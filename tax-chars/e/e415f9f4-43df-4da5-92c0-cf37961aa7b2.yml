@@ -1,0 +1,93 @@
+uuid: e415f9f4-43df-4da5-92c0-cf37961aa7b2
+type: tax-char
+heads:
+- 惡
+pronunciations:
+- reading: è
+  old_chinese: qaaɡ
+  middle_chinese: ʔɑk
+  fanqie: 烏各切
+  tone: 入
+  guangyun: 不善也説文曰過也烏各切又烏故切四
+- reading: wū
+  old_chinese: qaa
+  middle_chinese: ʔuo
+  fanqie: 哀都切
+  tone: 平
+  guangyun: 安也
+- reading: wù
+  old_chinese: qaaɡs
+  middle_chinese: ʔuo
+  fanqie: 烏路切
+  tone: 去
+  guangyun: 憎惡也又烏各切
+unattributed_senses:
+- concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  concept_label: BAD
+  children:
+  - gloss: morally
+    concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+    children:
+    - gloss: subject
+      concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+      concept_label: VILLAIN
+      children:
+      - gloss: psychological/social
+        concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+        concept_label: CRUEL
+    - gloss: object committed
+      concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+      concept_label: CRIME
+  - gloss: aesthetically
+    concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+    concept_label: UGLY
+    children:
+    - gloss: subject:physical
+      concept_uuid: ed12cb69-ffb9-4e99-ba16-f44c8369aa82
+      concept_label: EXCREMENT
+  - gloss: feature
+    concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+    concept_label: DEFECT
+    children:
+    - gloss: event
+      concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+      concept_label: DISASTER
+    - gloss: medical
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+    - gloss: in ability
+      concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+      concept_label: INCOMPETENT
+      children:
+      - gloss: “badly”
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+- concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+  concept_label: ONOMATOPOETICA
+- gloss: grammatical:source
+  concept_uuid: 0ef96ca0-241c-462a-9699-d38083e92c4e
+  concept_label: WHENCE
+  children:
+  - gloss: mode
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+- gloss: consider to be bad
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  concept_label: HATE
+  children:
+  - gloss: physically
+    concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+    children:
+    - gloss: 'verbally: direct'
+      concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+      concept_label: CRITICISE
+      children:
+      - gloss: verbally, behind the back
+        concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+        concept_label: SLANDER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T22:03:42.281+09:00'

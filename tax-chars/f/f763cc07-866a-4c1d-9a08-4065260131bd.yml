@@ -1,0 +1,31 @@
+uuid: f763cc07-866a-4c1d-9a08-4065260131bd
+type: tax-char
+heads:
+- 蚤
+pronunciations:
+- reading: zǎo
+  old_chinese: ʔsuuʔ
+  middle_chinese: tsɑu
+  fanqie: 子晧切
+  tone: 上
+  guangyun: 齧人跳蟲抱朴子曰𧎮蝨攻君卧不獲安
+- reading: zǎo
+  old_chinese: tsuuʔ
+  middle_chinese: tsɑu
+  fanqie: 子晧切
+  tone: 上
+  guangyun: 同𧎮又古借爲蚤暮字
+  senses:
+  - concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+    concept_label: EARLY
+  - concept_uuid: be3a8a35-f3dc-4ec0-8b48-34e330a5a9b5
+    concept_label: FLEA
+  - concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+    concept_label: MORNING
+  - concept_uuid: 192687fc-6722-4783-8131-d1a95005a098
+    concept_label: TIMELY
+  - concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+  - gloss: = 爪
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,49 @@
+uuid: 6974ffd8-be25-4b54-9c48-4830f3bfb044
+type: tax-char
+heads:
+- 堅
+pronunciations:
+- reading: jiān
+  old_chinese: kiin
+  middle_chinese: ken
+  fanqie: 古賢切
+  tone: 平
+  guangyun: 固也長也強也又姓漢二十八將有揚化將軍潁川堅鐔古賢切十七
+  senses:
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+    children:
+    - gloss: generalised
+      concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+      concept_label: SOLID
+      children:
+      - gloss: dynamic
+        concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+        concept_label: STRONG
+        children:
+        - gloss: causative
+          concept_uuid: 117e7254-f1c4-4825-a17c-ce30cc81a396
+          concept_label: FORTIFY
+          children:
+          - gloss: resultative
+            concept_uuid: 056420a0-1add-4ebb-ac5d-9006d57b1135
+            concept_label: SAFE
+            children:
+            - gloss: resultative
+              concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+              concept_label: ENDURING
+              children:
+              - gloss: active
+                concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+                concept_label: INSIST
+                children:
+                - gloss: dynamic
+                  concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+                  concept_label: EFFORT
+                - gloss: on having in one's hands
+                  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+                  concept_label: HOLD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

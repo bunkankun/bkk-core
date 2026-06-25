@@ -1,0 +1,50 @@
+uuid: db65f334-c4ae-42f2-9b00-e5e4e5488ceb
+type: tax-char
+heads:
+- 灌
+pronunciations:
+- reading: guàn
+  old_chinese: koons
+  middle_chinese: kʷɑn
+  fanqie: 古玩切
+  tone: 去
+  guangyun: 水名在廬江又聚也澆也漬也又姓漢有灌嬰
+  senses:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+    concept_label: ENTER
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+    concept_label: IRRIGATE
+  - concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+    concept_label: POUR
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - concept_uuid: f1c90c31-351f-4b4b-9caf-d0ae182b0689
+    concept_label: TOAST
+  - concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+    concept_label: DRINK
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: d443ef9b-08a1-4be8-9a9f-ed512af47e0f
+    concept_label: SMELT
+  - concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+    concept_label: RECORD
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: 71380132-9a2c-4d60-a9c1-5dfc910069cc
+    concept_label: FOREST
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

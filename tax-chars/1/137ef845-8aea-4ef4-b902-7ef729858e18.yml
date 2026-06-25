@@ -1,0 +1,24 @@
+uuid: 137ef845-8aea-4ef4-b902-7ef729858e18
+type: tax-char
+heads:
+- 芝
+pronunciations:
+- reading: zhī
+  old_chinese: kljɯ
+  middle_chinese: tɕɨ
+  fanqie: 止而切
+  tone: 平
+  guangyun: 芝草論衡曰芝生於土土氣和故芝草生古瑞命記曰王者慈仁則芝草生也
+  senses:
+  - concept_uuid: 5a419c4c-2508-482a-86d0-5378ca825d37
+    concept_label: MUSHROOM
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 5ee75842-ac52-4055-9d15-ecec19fa2ac1
+    concept_label: BALDACHIN
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

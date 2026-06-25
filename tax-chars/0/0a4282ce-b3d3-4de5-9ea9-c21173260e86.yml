@@ -1,0 +1,56 @@
+uuid: 0a4282ce-b3d3-4de5-9ea9-c21173260e86
+type: tax-char
+heads:
+- 距
+pronunciations:
+- reading: jù
+  old_chinese: ɡaʔ
+  middle_chinese: ɡiɔ
+  fanqie: 其吕切
+  tone: 上
+  guangyun: 同距
+- reading: jù
+  old_chinese: ɡaʔ
+  middle_chinese: ɡiɔ
+  fanqie: 其吕切
+  tone: 上
+  guangyun: 雞距
+  senses:
+  - concept_uuid: 53e07e48-14dc-4606-b213-5d794c64b26f
+    concept_label: HEEL
+  - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+  - concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+  - concept_uuid: 3e5cc39e-2874-4ba3-aae3-80b2186a13ea
+    concept_label: SPURS
+  - concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+    concept_label: FOOT
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+  - concept_uuid: 7580f81e-0340-443b-88a3-04c3f129428c
+    concept_label: HOOK
+  - gloss: REMNANT
+  - concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+    concept_label: FROM
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: 7a83ff00-885d-47b0-98da-0c23c163b5a8
+    concept_label: PILLAR
+  - concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+  - concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+    concept_label: FLOWER
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - gloss: = 拒
+  - gloss: = 巨
+  - gloss: = 詎
+source:
+  source_file: taxchar.xml

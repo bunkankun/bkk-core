@@ -1,0 +1,49 @@
+uuid: cde14c6c-6987-4a16-85b4-36ce8a96d02f
+type: tax-char
+heads:
+- 女
+pronunciations:
+- reading: nǚ
+  old_chinese: naʔ
+  middle_chinese: ɳiɔ
+  fanqie: 尼吕切
+  tone: 上
+  guangyun: 禮記曰女者如也如男子之教尼吕切又尼慮切二
+- reading: nǜ
+  old_chinese: nas
+  middle_chinese: ɳiɔ
+  fanqie: 尼據切
+  tone: 去
+  guangyun: 以女妻人也尼據切二
+  senses:
+  - concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+    concept_label: FEMALE
+    children:
+    - gloss: feature
+      concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+      concept_label: SOFT
+    - gloss: adult
+      concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+      concept_label: WOMAN
+      children:
+      - gloss: married
+        concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+        concept_label: WIFE
+        children:
+        - gloss: marked derivation:nǜ marry off woman
+          concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+          concept_label: MARRY
+  - gloss: young
+    concept_uuid: e90baee3-dd79-4f70-9764-9d79d55bc244
+    concept_label: GIRL
+    children:
+    - gloss: offspring
+      concept_uuid: ea2f94a9-d0e9-4db8-b532-e9cddacd939b
+      concept_label: DAUGHTER
+  - gloss: =汝
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T01:24:47.527+09:00'

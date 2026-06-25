@@ -1,0 +1,55 @@
+uuid: 32c1c718-5f63-47f1-86d9-0402e08e2f30
+type: tax-char
+heads:
+- 衍
+pronunciations:
+- reading: yàn
+  old_chinese: k-lans
+  middle_chinese: jiɛn
+  fanqie: 予線切
+  tone: 去
+  guangyun: 水也溢也豐也于線切又以淺切八
+- reading: yǎn
+  old_chinese: k-lanʔ
+  middle_chinese: jiɛn
+  fanqie: 以淺切
+  tone: 上
+  guangyun: 達也亦姓字統云水朝宗於海故從水行
+  senses:
+  - concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+    concept_label: EXTRAVAGANT
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: 1d168988-768f-41d1-adb5-cd633b503ead
+    concept_label: MARSH
+  - concept_uuid: 8b1bc95f-ccb4-420a-bf5d-04555214c56b
+    concept_label: OVERFLOW
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+    concept_label: EXCESSIVE
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: SPREAD
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - concept_uuid: 42e8e9de-a0cc-4a37-b606-8e15a660e2a2
+    concept_label: BASKET
+  - concept_uuid: e9eaa0f7-bc0c-4ee6-a5ef-4ee7fe6c74ac
+    concept_label: PLAIN
+  - concept_uuid: f1f6bbab-4d3f-448c-bae4-636687c488cd
+    concept_label: SLOPE
+  - concept_uuid: 6ec00eb0-2e19-4d05-871a-823bed5c5db2
+    concept_label: TRANSFORM
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 愆
+source:
+  source_file: taxchar.xml

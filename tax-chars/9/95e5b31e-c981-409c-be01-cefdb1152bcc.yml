@@ -1,0 +1,118 @@
+uuid: 95e5b31e-c981-409c-be01-cefdb1152bcc
+type: tax-char
+heads:
+- 靡
+pronunciations:
+- reading: mǐ
+  old_chinese: mralʔ
+  middle_chinese: mɯiɛ
+  fanqie: 文彼切
+  tone: 上
+  guangyun: 無也偃也又靡曼美色也説文曰披靡也文彼切七
+  senses:
+  - concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+    concept_label: TENUOUS
+    children:
+    - gloss: generalised
+      concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+      concept_label: WEAK
+      children:
+      - gloss: inchoative
+        concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+        concept_label: BEGIN
+        children:
+        - gloss: feature of what begins
+          concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+          concept_label: SMALL
+      - gloss: typical action
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: to orders
+          concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+          concept_label: OBEY
+          children:
+          - gloss: military
+            concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+            concept_label: SURRENDER
+            children:
+            - gloss: military
+              concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+              concept_label: WITHDRAW
+        - gloss: 'causative: physial'
+          concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+          concept_label: BEND
+          children:
+          - gloss: intensitive
+            concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+            concept_label: TWIST
+            children:
+            - gloss: causing harm
+              concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+              concept_label: INJURE
+    - gloss: transitive
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+      children:
+      - gloss: lack support
+        concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+        concept_label: FALL
+        children:
+        - gloss: generalised
+          concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+          concept_label: MISTAKE
+          children:
+          - gloss: temporal
+            concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+            concept_label: DELAY
+        - gloss: and be damaged
+          concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+          concept_label: COLLAPSE
+          children:
+          - gloss: resultative> >>SPREAD
+            children:
+            - gloss: liquids
+              concept_uuid: 85b96863-45e0-4270-abf9-80baef2e4c55
+              concept_label: SPLASH
+            - gloss: gifts
+              concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+              concept_label: GENEROUS
+              children:
+              - gloss: excessive
+                concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+                concept_label: EXTRAVAGANT
+              - gloss: generalised
+                concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+                concept_label: GIVE
+              - gloss: aesthetically
+                concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+                concept_label: BEAUTIFUL
+      - gloss: grammaticalised
+        concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+        concept_label: NOT
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+  - gloss: =為
+    concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+unattributed_senses:
+- gloss: 靡 ｍｉ２《集韻》忙皮切，平支明。
+  children:
+  - concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+    concept_label: WASTE
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+- gloss: 靡 ｍａ２《集韻》謨加切，平麻明。
+  children:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

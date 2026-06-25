@@ -1,0 +1,51 @@
+uuid: 67876401-16c5-47c8-aebf-4a54045dc7a9
+type: tax-char
+heads:
+- 伯
+pronunciations:
+- reading: bó
+  old_chinese: praaɡ
+  middle_chinese: pɯak
+  fanqie: 博陌切
+  tone: 入
+  guangyun: 長也又侯伯周書曰率衆時作謂之伯亦姓左傳晉有大夫伯宗又漢複姓二氏韓子有伯夫氏墨家流莊子有伯成子髙博陌切八
+  senses:
+  - concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+    concept_label: BROTHER
+    children:
+    - gloss: specifically father's elder brother
+      concept_uuid: ae67b4eb-957a-44ce-8084-568833722d45
+      concept_label: UNCLE
+      children:
+      - gloss: figurative
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+      - gloss: grammaticalised, polite
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+  - gloss: proper name
+    concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+    children:
+    - gloss: sacrifice to deity
+      concept_uuid: bd0c39e5-8e51-41cf-97e1-eba78707ffdc
+      concept_label: ANIMISTIC SACRIFICE
+  - gloss: proper name
+    concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+    concept_label: STATE
+unattributed_senses:
+- concept_label: 伯 訓讀bà
+  children:
+  - concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+    children:
+    - gloss: 'specific: leader of the feudal lords'
+      concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+      concept_label: LEAD
+- gloss: bǎi/bó=百
+  concept_uuid: 11be8e80-38e2-4adc-b33d-c0ae11088b67
+  concept_label: HUNDRED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:49:02.641+09:00'

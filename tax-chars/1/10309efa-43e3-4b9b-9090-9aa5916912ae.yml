@@ -1,0 +1,56 @@
+uuid: 10309efa-43e3-4b9b-9090-9aa5916912ae
+type: tax-char
+heads:
+- 原
+pronunciations:
+- reading: yuán
+  old_chinese: ŋɡon
+  middle_chinese: ŋʷiɐn
+  fanqie: 愚袁切
+  tone: 平
+  guangyun: 廣平曰原亦州名漢髙平縣魏爲鎭州又改原州蓋取髙平曰原爲名又姓孔子弟子有原憲説文本作邍原即與厵同
+  senses:
+  - gloss: =源
+    concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+    concept_label: SOURCE
+    children:
+    - gloss: abstract
+      concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+      concept_label: CAUSE
+      children:
+      - gloss: 'abstract: logical'
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+    - gloss: figurative
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - gloss: try to find basic features of
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: understand and as a result
+          concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+          concept_label: FORGIVE
+  - gloss: for a second time, twice
+    concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+    concept_label: AGAIN
+  - gloss: plane
+    concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_label: =羱
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: personal names
+    concept_uuid: fb500771-dde4-45c1-babb-a146877e3733
+    concept_label: POETS
+  - gloss: proper names
+    concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+unattributed_senses:
+- concept_label: 上古音系：聲符 原 韻部 元 韻部細分 1 對應廣韻小韻 元 擬音 ŋʷan 金文象泉源，爲源初文
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T05:51:21.486+09:00'

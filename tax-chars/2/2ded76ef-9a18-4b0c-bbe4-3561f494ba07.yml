@@ -1,0 +1,70 @@
+uuid: 2ded76ef-9a18-4b0c-bbe4-3561f494ba07
+type: tax-char
+heads:
+- 武
+pronunciations:
+- reading: wǔ
+  old_chinese: mbaʔ
+  middle_chinese: mio
+  fanqie: 文甫切
+  tone: 上
+  guangyun: 止戈爲武又迹也曲禮曰堂上接武又州名本自白馬玄地魏文徙武都郡於美陽今好畤縣界武都古城是也後魏平仇池山築城置武都鎭即今州是也亦姓風俗通云宋武功之後漢有武臣又漢複姓六氏漢有乗黄令武安恭出自武安君白起之後風俗通云漢武強侯王梁其後因封爲氏世本云夏時有武羅國其後氏焉何氏姓苑有廣武氏出自陳餘之後又武成氏武仲氏又虜複姓西秦録有武都氏文甫切二十四
+  senses:
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+    children:
+    - gloss: cultural activity involving
+      concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+      concept_label: ARTS
+    - gloss: abstract
+      concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+      concept_label: WARFARE
+      children:
+      - gloss: wǔ
+        concept_uuid: 87210bed-6567-4fdf-b137-a04e0cc14f83
+        concept_label: FOOTPRINT
+        children:
+        - gloss: standard of
+          concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+          concept_label: LENGTH MEASURES
+      - gloss: follow footsteps
+        concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+        children:
+        - gloss: 'figurative: follow in official function'
+          concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+          concept_label: SUCCEED
+      - gloss: personal result obtained in
+        concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+        concept_label: MERIT
+      - gloss: prowess in
+        concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+        concept_label: COURAGE
+        children:
+        - gloss: reckless
+          concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+          concept_label: VIOLENT
+        - gloss: abstract
+          concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+          concept_label: VIRTUE
+      - gloss: salient tool in
+        concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+        concept_label: WEAPON
+      - gloss: senior agentin
+        concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+        concept_label: OFFICER
+      - gloss: associated practice
+        concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+        concept_label: MUSIC
+        children:
+        - gloss: relevant tool
+          concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+          concept_label: MUSICAL INSTRUMENT
+unattributed_senses:
+- gloss: personal names
+  concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+  concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T00:55:53.62+09:00'

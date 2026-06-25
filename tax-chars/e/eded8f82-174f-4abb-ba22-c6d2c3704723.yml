@@ -1,0 +1,55 @@
+uuid: eded8f82-174f-4abb-ba22-c6d2c3704723
+type: tax-char
+heads:
+- 根
+pronunciations:
+- reading: gēn
+  old_chinese: kɯɯn
+  middle_chinese: kən
+  fanqie: 古痕切
+  tone: 平
+  guangyun: 根柢也亦姓根牟子古賢者著書出風俗通古痕切四
+  senses:
+  - concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+    concept_label: ROOT
+    children:
+    - gloss: uproot
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+    - gloss: generalised
+      concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+      concept_label: STEM
+      children:
+      - gloss: metaphorical
+        concept_uuid: d7158159-74c5-4463-a85a-2e27a4104944
+        concept_label: PENIS
+        children:
+        - gloss: generalised
+          concept_uuid: 6b73416e-f84f-44c8-85b3-a801677d2d13
+          concept_label: ORGAN
+    - gloss: abstract
+      concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+      concept_label: BASIS
+      children:
+      - gloss: 'specific: foot of mountain etc'
+        concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+        concept_label: SIDE
+      - gloss: dynamic
+        concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+        concept_label: CAUSE
+        children:
+        - gloss: of performance
+          concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+          concept_label: TALENT
+        - gloss: pursue causes of
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+        - gloss: temporal
+          concept_uuid: 304e1390-02d6-4b01-a81b-3af4ee0eff6c
+          concept_label: ORIGIN
+          children:
+          - gloss: process
+            concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+            concept_label: BEGIN
+source:
+  source_file: taxchar.xml

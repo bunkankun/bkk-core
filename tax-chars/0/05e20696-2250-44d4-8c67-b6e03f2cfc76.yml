@@ -1,0 +1,59 @@
+uuid: 05e20696-2250-44d4-8c67-b6e03f2cfc76
+type: tax-char
+heads:
+- 創
+pronunciations:
+- reading: chuāng
+  old_chinese: skhraŋ
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初良切
+  tone: 平
+  guangyun: 説文曰傷也禮曰頭有創則沐今作瘡初良切又初亮切三
+  senses:
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: a81dc54d-3432-4d57-a936-2e1d2987fb41
+    concept_label: INJURY
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - gloss: = 瘡
+- reading: chuàng
+  old_chinese: skhraŋs
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初亮切
+  tone: 去
+  guangyun: 同𠛝又初良切
+  senses:
+  - concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+    concept_label: CREATE
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: PUNISH
+  - concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+    concept_label: WHEN
+  - concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+    concept_label: BUILD
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+- reading: chuàng
+  old_chinese: skhraŋs
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初亮切
+  tone: 去
+- reading: chuāng
+  old_chinese: skhraŋ
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初良切
+  tone: 平
+  guangyun: 俗創
+- reading: chuàng
+  old_chinese: shraŋ
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初亮切
+  tone: 去
+  guangyun: 初也説文曰造法剏業也初亮切四
+source:
+  source_file: taxchar.xml

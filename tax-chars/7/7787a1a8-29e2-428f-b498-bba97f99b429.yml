@@ -1,0 +1,28 @@
+uuid: 7787a1a8-29e2-428f-b498-bba97f99b429
+type: tax-char
+heads:
+- 冀
+pronunciations:
+- reading: jì
+  old_chinese: krɯls
+  middle_chinese: kɯi
+  fanqie: 几利切
+  tone: 去
+  guangyun: 同冀見經典省
+- reading: jì
+  old_chinese: krɯls
+  middle_chinese: kɯi
+  fanqie: 几利切
+  tone: 去
+  guangyun: 九州名爾雅曰兩河間曰冀州續漢書安平國故信都郡光武師薊南行太守任光開門出迎今州城是又姓左傳晉大夫冀芮几利切八
+  senses:
+  - concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+    concept_label: HOPE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

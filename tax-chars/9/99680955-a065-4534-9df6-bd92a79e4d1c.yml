@@ -1,0 +1,30 @@
+uuid: 99680955-a065-4534-9df6-bd92a79e4d1c
+type: tax-char
+heads:
+- 靄
+pronunciations:
+- reading: è
+  old_chinese: qaad
+  middle_chinese: ʔɑt
+  fanqie: 烏葛切
+  tone: 入
+  guangyun: 雲狀又於蓋切
+- reading: ǎi
+  old_chinese: qaads
+  middle_chinese: ʔɑi
+  fanqie: 於蓋切
+  tone: 去
+  guangyun: 雲狀又於葛切
+  senses:
+  - concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+    concept_label: CLOUD
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+    concept_label: DENSE
+source:
+  source_file: taxchar.xml

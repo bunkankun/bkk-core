@@ -1,0 +1,34 @@
+uuid: e2018c07-0bf6-4978-ba6a-52c9dd0cc595
+type: tax-char
+heads:
+- 敘
+pronunciations:
+- reading: xù
+  old_chinese: ljaʔ
+  middle_chinese: ziɔ
+  fanqie: 徐吕切
+  tone: 上
+  guangyun: 次弟爾雅曰叙緒也又姓徐吕切十一
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+    concept_label: EXPLAIN
+  - concept_uuid: a8aa6721-be14-4656-b54c-e70e49d0d5cb
+    concept_label: PREFACE
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+    concept_label: PROMOTE
+  - concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+    concept_label: REWARD
+  - concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+    concept_label: METHOD
+  - concept_uuid: 8259454f-ba01-4a8a-8bc0-3126c9fc7dd3
+    concept_label: DESCRIBE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

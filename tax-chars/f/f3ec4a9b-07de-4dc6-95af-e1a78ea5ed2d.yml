@@ -1,0 +1,137 @@
+uuid: f3ec4a9b-07de-4dc6-95af-e1a78ea5ed2d
+type: tax-char
+heads:
+- 與
+pronunciations:
+- reading: yú
+  old_chinese: k-la
+  middle_chinese: jiɔ
+  fanqie: 以諸切
+  tone: 平
+  guangyun: 同歟本又餘佇切
+- reading: nil
+  old_chinese: la
+  middle_chinese: jiɔ
+  fanqie: 余吕切
+  tone: 上
+  guangyun: 与古文
+- reading: yǔ
+  old_chinese: k-laʔ
+  middle_chinese: jiɔ
+  fanqie: 余吕切
+  tone: 上
+  guangyun: 同與
+- reading: yǔ
+  old_chinese: k-laʔ
+  middle_chinese: jiɔ
+  fanqie: 余吕切
+  tone: 上
+  guangyun: 善也待也説文曰黨與也余吕切又余譽二音七
+- reading: yù
+  old_chinese: k-las
+  middle_chinese: jiɔ
+  fanqie: 羊洳切
+  tone: 去
+  guangyun: 參與也
+unattributed_senses:
+- gloss: 'current: =yu2 歟'
+  concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+  concept_label: MODAL PARTICLES
+  children:
+  - gloss: yú
+    concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+    concept_label: QUESTION PARTICLES
+  - gloss: interrogative
+    concept_uuid: 7212308e-097a-4e5a-b9a6-cbe57204bad0
+    concept_label: INTERROGATORY PARTICLES
+  - gloss: grammaticalised
+    concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+    concept_label: EXCLAMATORY PARTICLE
+- concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+  concept_label: INTERACT
+  children:
+  - gloss: abstract
+    concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+    concept_label: RELATION
+  - gloss: 'inchoative: enter into relation'
+    concept_uuid: e1da7261-fef3-440d-9304-1beed07b0ef2
+    concept_label: JOIN
+    children:
+    - gloss: in battle
+      concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+      concept_label: FIGHT
+    - gloss: in alliance
+      concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+      concept_label: CONTRACT
+    - gloss: in walking/travelling
+      concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+      concept_label: ACCOMPANY
+      children:
+      - gloss: 'metaphorical: along the same lines (though not together)'
+        concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+        concept_label: ALSO
+    - gloss: in opinion
+      concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+      concept_label: ASSENT
+    - gloss: in apprearance
+      concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+      concept_label: RESEMBLE
+    - gloss: in behaviour
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+    - gloss: in common effort
+      concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+      concept_label: COOPERATE
+      children:
+      - gloss: cooperating human
+        concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+        concept_label: FRIEND
+      - gloss: in an effort undertaken by another
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+          concept_label: FOR
+        - gloss: through transfer
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+      - gloss: of money, pay up
+        concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+        concept_label: PAY
+      - gloss: of rights, powers or authority
+        concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+        concept_label: YIELD
+      - gloss: permission
+        concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+        concept_label: PERMIT
+    - gloss: causative
+      concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+      concept_label: COMPARE
+    - gloss: 'grammaticalised: in interaction with and thus “by”'
+      concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+      concept_label: PASSIVE MARKER
+  - gloss: jointly and equally
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - gloss: collaborating with
+    concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+    concept_label: WITH
+    children:
+    - gloss: 'adverbial: jointly'
+      concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+      concept_label: TOGETHER
+    - gloss: 'between nominals: as a pair'
+      concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+      concept_label: AND
+      children:
+      - gloss: as another alternative
+        concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+        concept_label: OR
+- gloss: yǔ
+  concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+  concept_label: IF
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-14T18:16:59.573+09:00'

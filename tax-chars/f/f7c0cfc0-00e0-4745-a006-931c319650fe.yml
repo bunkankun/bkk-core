@@ -1,0 +1,35 @@
+uuid: f7c0cfc0-00e0-4745-a006-931c319650fe
+type: tax-char
+heads:
+- 鳴
+pronunciations:
+- reading: míng
+  old_chinese: mreŋ
+  middle_chinese: mɯiaŋ
+  fanqie: 武兵切
+  tone: 平
+  guangyun: 嘶鳴又姓出姓苑
+  senses:
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+    children:
+    - gloss: 'generalised: make sound'
+      concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+      concept_label: SOUND
+      children:
+      - gloss: 'causative: of bells, cause to sound'
+        concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+        concept_label: KNOCK
+      - gloss: 'concrete: of humans'
+        concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+        concept_label: SHOUT
+        children:
+        - gloss: specifically
+          concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+          concept_label: GREET
+          children:
+          - gloss: 'generalised: speak up'
+            concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+            concept_label: SPEAK
+source:
+  source_file: taxchar.xml

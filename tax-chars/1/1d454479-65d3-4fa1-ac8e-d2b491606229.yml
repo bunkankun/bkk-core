@@ -1,0 +1,22 @@
+uuid: 1d454479-65d3-4fa1-ac8e-d2b491606229
+type: tax-char
+heads:
+- 娶
+pronunciations:
+- reading: xū
+  old_chinese: sqlo
+  middle_chinese: sio
+  fanqie: 相俞切
+  tone: 平
+  guangyun: 荀卿子曰問娶之媒又七句切
+- reading: qǔ
+  old_chinese: skhos
+  middle_chinese: tsʰio
+  fanqie: 七句切
+  tone: 去
+  guangyun: 説文曰取婦也七句切二
+  senses:
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+source:
+  source_file: taxchar.xml

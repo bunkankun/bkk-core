@@ -1,0 +1,30 @@
+uuid: 8fd5ac64-0dfe-41fa-8a06-db5c7a5e113e
+type: tax-char
+heads:
+- 紙
+pronunciations:
+- reading: zhǐ
+  old_chinese: kjeʔ
+  middle_chinese: tɕiɛ
+  fanqie: 諸氏切
+  tone: 上
+  guangyun: 同紙
+- reading: zhǐ
+  old_chinese: kjeʔ
+  middle_chinese: tɕiɛ
+  fanqie: 諸氏切
+  tone: 上
+  guangyun: 釋名曰紙砥也平滑如砥石也後漢蔡倫以魚網木皮爲紙又姓後魏書官氏志云渇侯氏後改爲紙氏諸氏切十六
+  senses:
+  - concept_uuid: 1f877f60-9e95-4662-8506-82fc2c8d3700
+    concept_label: PAPER
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+    concept_label: CONTRACT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

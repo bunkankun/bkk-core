@@ -1,0 +1,26 @@
+uuid: 608d81f4-2549-4ed7-9b88-08f86459d707
+type: tax-char
+heads:
+- 途
+pronunciations:
+- reading: tú
+  old_chinese: laa
+  middle_chinese: duo
+  fanqie: 同都切
+  tone: 平
+  guangyun: 道也
+  senses:
+  - concept_uuid: dae1d007-9c13-4620-8ee4-e3ddbf77ef14
+    concept_label: CLAY
+  - concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+    concept_label: PERMIT
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+    concept_label: METHOD
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+source:
+  source_file: taxchar.xml

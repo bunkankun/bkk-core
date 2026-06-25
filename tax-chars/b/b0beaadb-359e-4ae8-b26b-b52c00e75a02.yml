@@ -1,0 +1,49 @@
+uuid: b0beaadb-359e-4ae8-b26b-b52c00e75a02
+type: tax-char
+heads:
+- 侯
+pronunciations:
+- reading: hóu
+  old_chinese: ɡoo
+  middle_chinese: ɦəu
+  fanqie: 戶鉤切
+  tone: 平
+  guangyun: 候也何也美也辝也爾雅曰父侯君也又乃也又周禮司裘氏王大射則共虎侯熊侯豹侯諸侯則共熊侯豹侯卿大夫則共麋侯皆設其鵠鄭司農云方十尺曰侯四尺曰鵠説文本作矦从人从厂象張布之狀矢在其下又姓出上谷河南二望亦漢複姓八氏夏侯氏出自夏禹之後杞簡公爲楚所滅其弟佗奔魯魯悼公以佗出自夏后氏受爵爲侯謂之夏侯因而命氏後有去魯之沛者分沛立譙遂有譙魯二望羅國爲楚所滅其後号羅侯氏韓詩外傳云周宣王大夫韓侯子有賢德史記魏有屈侯鮒左傳曹有豎侯孺漢有尚書郎栢侯雋吴有張昭師白侯子安又虜三字姓二氏周書有侯莫陳氏侯崇傳云其先魏之别部也又周有大將軍伏侯龍氏名恩戸鉤切二十四
+  senses:
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+    children:
+    - concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+      - concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+        concept_label: STATE
+  - gloss: in excavated texts
+    concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+    children:
+    - gloss: time sequence
+      concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+      concept_label: THEREUPON
+  - gloss: in excavated texts
+    concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+    concept_label: WHY
+  - gloss: in excavated texts
+    concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+    concept_label: BECAUSE
+  - gloss: in excavated texts> MODAL
+    concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - gloss: =?
+    concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+    concept_label: TARGET
+  - gloss: personal names
+    concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:05:32.076+09:00'

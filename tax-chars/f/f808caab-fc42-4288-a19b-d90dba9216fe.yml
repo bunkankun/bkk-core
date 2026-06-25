@@ -1,0 +1,97 @@
+uuid: f808caab-fc42-4288-a19b-d90dba9216fe
+type: tax-char
+heads:
+- 望
+pronunciations:
+- reading: wàng
+  old_chinese: maŋs
+  middle_chinese: mʷiɐŋ
+  fanqie: 巫放切
+  tone: 去
+  guangyun: 看望説文曰出亡在外望其還也亦祭名又姓何氏姓苑云魏興人又音亡
+- reading: (wáng)
+  old_chinese: maŋ
+  middle_chinese: mʷiɐŋ
+  fanqie: 武方切
+  tone: 平
+  guangyun: 看望又音妄
+unattributed_senses:
+- gloss: distanced
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+  concept_label: LOOK
+  children:
+  - gloss: so as to assess by comparison
+    concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - gloss: upwards
+    concept_uuid: df3e2b33-735b-4cc6-ab38-c478d4776eed
+    concept_label: LOOK UP
+    children:
+    - gloss: anticipate
+      concept_uuid: 334716e8-8f40-4a81-9caa-b49371c683f9
+      concept_label: EXPECT
+      children:
+      - gloss: positive
+        concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+        concept_label: HOPE
+        children:
+        - gloss: important, regarding oneself
+          concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+          concept_label: ASPIRATION
+    - gloss: feature:looked-up-to as known by many
+      concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+      concept_label: WELL-KNOWN
+      children:
+      - gloss: abstract
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+        children:
+        - gloss: what one admires and imitates
+          concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+          concept_label: MODEL
+        - gloss: 'positive:'
+          concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+          concept_label: FAMOUS
+    - gloss: what one looks up to
+      concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+      concept_label: MOON
+      children:
+      - gloss: full moon day (on which one looks up at the moon)
+        concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+        concept_label: DAY
+    - gloss: contemptuous
+      concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+      concept_label: DESPISE
+      children:
+      - gloss: hostile
+        concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+        concept_label: HATE
+        children:
+        - gloss: acute
+          concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+          concept_label: ANGER
+          children:
+          - gloss: action
+            concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+            concept_label: ACCUSE
+    - gloss: allowing one to look
+      concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+      concept_label: WINDOW
+  - gloss: facing towards
+    concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+    children:
+    - gloss: 'grammaticalised: from'
+      concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+      concept_label: DISTANT
+      children:
+      - gloss: ritual sacrifice directed to distant mountains and rivers
+        concept_uuid: bd0c39e5-8e51-41cf-97e1-eba78707ffdc
+        concept_label: ANIMISTIC SACRIFICE
+    - gloss: grammaticalised=往
+      concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+      concept_label: TOWARDS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-05T20:27:12.699+09:00'

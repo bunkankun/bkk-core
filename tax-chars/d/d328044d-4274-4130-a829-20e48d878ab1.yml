@@ -1,0 +1,71 @@
+uuid: d328044d-4274-4130-a829-20e48d878ab1
+type: tax-char
+heads:
+- 陳
+pronunciations:
+- reading: chén
+  old_chinese: ɡrliŋ
+  middle_chinese: ɖɯin
+  fanqie: 直珍切
+  tone: 平
+  guangyun: 陳列也張也衆也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出穎川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五
+  senses:
+  - concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+    concept_label: DEPLOY
+    children:
+    - gloss: state
+      concept_uuid: e85f3767-f78a-4678-aca7-2aead905c2fa
+      concept_label: BATTLE ARRAY
+    - gloss: general
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+      children:
+      - gloss: architectural straight lined up structure
+        concept_uuid: 65cd301e-3276-4e32-96d6-ab68adf5c304
+        concept_label: CORRIDOR
+      - gloss: for display
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: using language
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+          children:
+          - gloss: by giving features
+            concept_uuid: 8259454f-ba01-4a8a-8bc0-3126c9fc7dd3
+            concept_label: DESCRIBE
+          - gloss: addressing information to audience
+            concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+            concept_label: REPORT
+            children:
+            - gloss: generalised
+              concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+              concept_label: SPEAK
+        - gloss: already shown, hence
+          concept_uuid: faf0a071-6006-44d8-b396-42100e8f437d
+          concept_label: OLD-FASHIONED
+          children:
+          - gloss: general
+            concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+            concept_label: OLD
+            children:
+            - gloss: alternative result
+              concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+              concept_label: TASTELESS
+            - gloss: result
+              concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+              concept_label: ROTTEN
+            - gloss: general
+              concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+              concept_label: ENDURING
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+unattributed_senses:
+- gloss: personal consorts
+  concept_uuid: c5d500f3-84ad-4e6b-8793-4f5a06156866
+  concept_label: RULER'S CONSORTS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T22:20:45.51+09:00'

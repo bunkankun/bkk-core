@@ -1,0 +1,50 @@
+uuid: ad8bc541-3eee-4d53-b48a-f5ad1a0c98af
+type: tax-char
+heads:
+- 眇
+pronunciations:
+- reading: miǎo
+  old_chinese: mewʔ
+  middle_chinese: miɛu
+  fanqie: 亡沼切
+  tone: 上
+  guangyun: 説文曰一目小也亡沼切十
+  senses:
+  - concept_uuid: c3251d75-8c5d-4b90-9ca1-3b3907540687
+    concept_label: SQUINT
+    children:
+    - gloss: related feature
+      concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+      concept_label: BLIND
+    - gloss: generalised
+      concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+      concept_label: LOOK
+      children:
+      - gloss: closely
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: object> SUBTLE
+        - gloss: 'abstract, generalised: encompass'
+          concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+          concept_label: REACH
+  - gloss: =秒
+    concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+    concept_label: UNIMPORTANT
+  - gloss: =渺
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - gloss: =邈 poetically
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - gloss: =杪
+    concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+unattributed_senses:
+- gloss: miào
+  children:
+  - gloss: =妙 SUBTLE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,96 @@
+uuid: 2f05d397-9729-4715-9aca-043de9f6f5f2
+type: tax-char
+heads:
+- 刺
+pronunciations:
+- reading: cì
+  old_chinese: skhleɡs
+  middle_chinese: tsʰiɛ
+  fanqie: 七賜切
+  tone: 去
+  guangyun: 針刺爾雅曰刺殺也釋名曰書姓名於奏白曰刺漢武帝初置部刺史掌奉詔察州成帝更名牧哀帝復爲刺史七賜切又七亦切十
+  senses:
+  - concept_uuid: 3a56af4e-c91b-45ac-8a04-e95bdb19d0e3
+    concept_label: STAB
+    children:
+    - gloss: instrument for
+      concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+      concept_label: WEAPON
+      children:
+      - gloss: important part of
+        concept_uuid: 4a814208-81d1-48ac-b35c-122a725e170a
+        concept_label: TIP
+    - gloss: with lethal effect
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+      children:
+      - gloss: illegally
+        concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+        concept_label: MURDER
+        children:
+        - gloss: generalised
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+    - gloss: by slight incision
+      concept_uuid: 62982456-4541-4be1-8477-44184dbe8688
+      concept_label: PRICK
+      children:
+      - gloss: as a legal measure
+        concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+        concept_label: PUNISH
+      - gloss: (by incision)
+        concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+        concept_label: WRITE
+        children:
+        - gloss: object
+          concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+          concept_label: DOCUMENT
+    - gloss: push and punt (boat)
+      concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+      concept_label: NAVIGATE
+    - gloss: generalised
+      concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+      concept_label: STIMULATE
+      children:
+      - gloss: negative action
+        concept_uuid: 37573186-7d6b-4b03-adfe-2013e0e15afe
+        concept_label: PROVOKE
+    - gloss: perfective
+      concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+      concept_label: PIERCE
+      children:
+      - gloss: so as to repair
+        concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+        concept_label: SEW
+      - gloss: 'subject: what pierces'
+        concept_uuid: db89d1f9-32e4-4179-bdeb-74084f6b7c1a
+        concept_label: THORN
+      - gloss: metaphorical
+        concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+        concept_label: CONTRARY
+      - gloss: in order to understand
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: resultative
+          concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+          concept_label: CHOOSE
+        - gloss: conclusion
+          concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+          concept_label: JUDGE
+        - gloss: negative
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+          children:
+          - gloss: criminal
+            concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+            concept_label: BLAME
+            children:
+            - gloss: 'exocentric: writing that criticises'
+              concept_uuid: a808e25d-58c6-404a-a13e-6d25cf9eef48
+              concept_label: POEM
+          - gloss: react
+            concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+            concept_label: LAUGH
+source:
+  source_file: taxchar.xml

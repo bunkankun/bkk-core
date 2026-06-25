@@ -1,0 +1,26 @@
+uuid: 869fbea3-b1d6-4e9d-ad05-846f49880348
+type: tax-char
+heads:
+- 鄙
+pronunciations:
+- reading: bǐ
+  old_chinese: prɯʔ
+  middle_chinese: pɯi
+  fanqie: 方美切
+  tone: 上
+  guangyun: 陋也又邊鄙也方美切四
+  senses:
+  - concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+    concept_label: BORDER AREA
+  - concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+    concept_label: COUNTRYSIDE
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+source:
+  source_file: taxchar.xml

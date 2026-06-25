@@ -1,0 +1,22 @@
+uuid: 62567719-89ab-4552-9804-7b016138195d
+type: tax-char
+heads:
+- 笙
+pronunciations:
+- reading: shēng
+  old_chinese: sraaŋ
+  middle_chinese: ʃɯaŋ
+  fanqie: 所庚切
+  tone: 平
+  guangyun: 樂器也禮記女媧造笙簧釋名曰笙生也象物貫地而生也又簟也吴都賦曰桃笙象簟
+  senses:
+  - concept_uuid: 21a32240-451b-40a3-aa66-1191287bff1f
+    concept_label: BAMBOO MAT
+  - concept_uuid: 8bc8d719-5899-4140-8644-2e220113fce9
+    concept_label: MOUTH ORGAN
+  - concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+    concept_label: MUSIC
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+source:
+  source_file: taxchar.xml

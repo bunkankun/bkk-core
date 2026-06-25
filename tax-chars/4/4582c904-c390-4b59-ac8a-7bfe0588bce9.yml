@@ -1,0 +1,32 @@
+uuid: 4582c904-c390-4b59-ac8a-7bfe0588bce9
+type: tax-char
+heads:
+- 闊
+pronunciations:
+- reading: kuò
+  old_chinese: khood
+  middle_chinese: kʰʷɑt
+  fanqie: 苦栝切
+  tone: 入
+  guangyun: 廣也逺也䟽也苦括切六
+  senses:
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: da23df6b-934b-4237-beee-cdccd8963456
+    concept_label: ABSTRACT
+  - concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+    concept_label: LEAVE
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+  - concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+    concept_label: COMFORTABLE
+  - concept_uuid: 905d6c71-ee6f-4678-aebd-e3764ddf05f8
+    concept_label: RELAX
+  - concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+    concept_label: LONG
+source:
+  source_file: taxchar.xml

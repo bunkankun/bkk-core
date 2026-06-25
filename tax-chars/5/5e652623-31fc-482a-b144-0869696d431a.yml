@@ -1,0 +1,40 @@
+uuid: 5e652623-31fc-482a-b144-0869696d431a
+type: tax-char
+heads:
+- 蟲
+pronunciations:
+- reading: chóng
+  old_chinese: ɡrluŋ
+  middle_chinese: ɖiuŋ
+  fanqie: 直弓切
+  tone: 平
+  guangyun: 爾雅曰有足曰蟲無足曰豸又姓漢功臣表有曲成侯蟲進
+  senses:
+  - concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+    concept_label: ANIMAL
+    children:
+    - concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+      concept_label: INSECTS
+      children:
+      - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+        concept_label: DISASTER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: zhòng
+  old_chinese: ɡrluŋs
+  middle_chinese: ɖiuŋ
+  fanqie: 直衆切
+  tone: 去
+  guangyun: 蟲食物又音冲或作蚛
+  senses:
+  - gloss: '(of insects: sting or bite)'
+    concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+unattributed_senses:
+- gloss: 蟲 ｔｏｎｇ２《集韻》徒冬切，平冬定。冬部。
+  children:
+  - gloss: (sear)
+    concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+    concept_label: HOT
+source:
+  source_file: taxchar.xml

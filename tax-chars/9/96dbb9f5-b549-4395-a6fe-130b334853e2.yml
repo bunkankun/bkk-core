@@ -1,0 +1,54 @@
+uuid: 96dbb9f5-b549-4395-a6fe-130b334853e2
+type: tax-char
+heads:
+- 憚
+pronunciations:
+- reading: dàn
+  old_chinese: daans
+  middle_chinese: dɑn
+  fanqie: 徒案切
+  tone: 去
+  guangyun: 難也又忌惡也徒案切六
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+    children:
+    - gloss: causative
+      concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+      concept_label: FRIGHTEN
+      children:
+      - gloss: feature
+        concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+        concept_label: POWER
+  - gloss: seniors, politely
+    concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - gloss: with dislike
+    concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - gloss: flinch
+    concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+    children:
+    - gloss: feeling
+      concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+      concept_label: SHAME
+      children:
+      - gloss: and truthful
+        concept_uuid: db01e61e-a6ed-432b-8187-613a971a759f
+        concept_label: HONEST
+        children:
+        - gloss: attitude
+          concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+          concept_label: EARNEST
+  - gloss: beware
+    concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+    concept_label: CAUTIOUS
+  - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+    concept_label: EXHAUST
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: JOY
+source:
+  source_file: taxchar.xml

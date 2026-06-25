@@ -1,0 +1,66 @@
+uuid: 1c5eb397-e497-4845-952c-887ff0c06d15
+type: tax-char
+heads:
+- 光
+pronunciations:
+- reading: guāng
+  old_chinese: kʷaaŋ
+  middle_chinese: kʷɑŋ
+  fanqie: 古黃切
+  tone: 平
+  guangyun: 明也亦州名漢西陽縣地屬江夏郡梁置光州因浮光山爲名又姓田光之後秦末子孫避地以光爲氏晉有樂安光逸古黄切十四
+- reading: guàng
+  old_chinese: kʷaaŋs
+  middle_chinese: kʷɑŋ
+  fanqie: 古曠切
+  tone: 去
+  guangyun: 上色又古黃切
+unattributed_senses:
+- concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+  concept_label: LIGHT
+  children:
+  - concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+    concept_label: GENEROUS
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+    children:
+    - gloss: process
+      concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+      concept_label: SHINE
+      children:
+      - gloss: subject human
+        concept_uuid: e033744f-13da-488e-915f-3944c0edac4b
+        concept_label: NAKED
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+          concept_label: ONLY
+      - gloss: subject
+        concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+        concept_label: STAR
+        children:
+        - gloss: abstract
+          concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+          concept_label: TIME
+    - gloss: fig
+      concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+      concept_label: FAMOUS
+    - gloss: bearer of salient feature
+      concept_uuid: 39ec3bea-feb6-4638-a367-12ed383908c2
+      concept_label: FIRE
+    - gloss: 'grammaticalised: polite, shining'
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+    - gloss: personal names
+      concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+      concept_label: RULERS OF QI
+    - gloss: personal names
+      concept_uuid: eeef90f7-991e-4a06-80bf-112fb3de3161
+      concept_label: RULERS OF WU
+    - gloss: personal names
+      concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+      concept_label: RULERS OF JIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T00:27:05.04+09:00'

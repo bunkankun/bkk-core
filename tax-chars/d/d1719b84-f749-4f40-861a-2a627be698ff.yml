@@ -1,0 +1,28 @@
+uuid: d1719b84-f749-4f40-861a-2a627be698ff
+type: tax-char
+heads:
+- 糧
+pronunciations:
+- reading: liáng
+  old_chinese: ɡ-raŋ
+  middle_chinese: liɐŋ
+  fanqie: 呂張切
+  tone: 平
+  guangyun: 同粮
+- reading: liáng
+  old_chinese: ɡ-raŋ
+  middle_chinese: liɐŋ
+  fanqie: 呂張切
+  tone: 平
+  guangyun: 粮食
+  senses:
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+    concept_label: SALARY
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+source:
+  source_file: taxchar.xml

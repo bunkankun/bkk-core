@@ -1,0 +1,100 @@
+uuid: 18941721-35f6-48a2-9c5d-8641817fb8f1
+type: tax-char
+heads:
+- 齊
+pronunciations:
+- reading: jì
+  old_chinese: dziils
+  middle_chinese: dzei
+  fanqie: 在詣切
+  tone: 去
+  guangyun: 火齊似雲母重沓而開色黃赤似金出日南又齊和又徂兮切
+- reading: qí
+  old_chinese: dziil
+  middle_chinese: dzei
+  fanqie: 徂奚切
+  tone: 平
+  guangyun: 整也中也莊也好也疾也等也亦州名春秋時齊國秦爲郡後魏置州因齊地以名之又姓風俗通氏姓篇序曰四氏於國齊魯宋衛是也徂奚切九
+  senses:
+  - gloss: aligned
+    concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+    children:
+    - gloss: in status
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: EQUAL
+      children:
+      - gloss: level
+        concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+        concept_label: FLAT
+      - gloss: transitive
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: in feature
+          concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+          concept_label: RESEMBLE
+          children:
+          - gloss: resemble all
+            concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+            concept_label: ORDINARY
+        - gloss: musically etc.
+          concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+          concept_label: HARMONY
+        - gloss: as many
+          concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+          concept_label: ORDINARY
+        - gloss: place
+          concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+          concept_label: TOGETHER
+          children:
+          - gloss: equally
+            concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+            concept_label: ALL
+            children:
+            - gloss: abstract
+              concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+              concept_label: COMPLETE
+          - gloss: 'causative: call together'
+            concept_label: ASSEMBLE
+            children:
+            - gloss: qí
+              concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+              concept_label: GATHER
+          - gloss: causative
+            concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+            concept_label: JUXTAPOSE
+            children:
+            - gloss: fitting together
+              concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+              concept_label: APPROPRIATE
+              children:
+              - gloss: properly aligned
+                concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+                concept_label: CORRECT
+                children:
+                - gloss: exocentric:cloth
+                  concept_uuid: 181dff9e-7def-4cfa-bff0-928de1b99049
+                  concept_label: HEM
+            - gloss: 'causative: order properly'
+              concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+              concept_label: GOVERN
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+    children:
+    - gloss: speak the Qi dialect
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+  - concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+    concept_label: STATE
+  - gloss: =齋
+    concept_uuid: 25e7b11e-14a3-4520-a760-db14ef1bd044
+    concept_label: FASTING
+  - gloss: =臍
+    concept_uuid: 180333c4-4544-4d47-996a-da7675b16cb7
+    concept_label: NAVEL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-10T00:07:30.442+09:00'

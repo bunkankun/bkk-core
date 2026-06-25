@@ -1,0 +1,34 @@
+uuid: adcefc47-2abd-4dcb-9ebc-5f7bd6f16059
+type: tax-char
+heads:
+- 抽
+pronunciations:
+- reading: chōu
+  old_chinese: rlʰiw
+  middle_chinese: ʈʰiu
+  fanqie: 丑鳩切
+  tone: 平
+  guangyun: 同抽
+- reading: chōu
+  old_chinese: rlʰiw
+  middle_chinese: ʈʰiu
+  fanqie: 丑鳩切
+  tone: 平
+  guangyun: 同抽見説文
+- reading: chōu
+  old_chinese: rlʰiw
+  middle_chinese: ʈʰiu
+  fanqie: 丑鳩切
+  tone: 平
+  guangyun: 抜也引也或作紬紬引其端緒也丑鳩切八
+  senses:
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,33 @@
+uuid: 14cf2496-36a2-40f1-9493-ab6bc4a05595
+type: tax-char
+heads:
+- 猗
+pronunciations:
+- reading: yī
+  old_chinese: qral
+  middle_chinese: ʔɯiɛ
+  fanqie: 於離切
+  tone: 平
+  guangyun: 長也𠋣也施也又犗犬出字林或作犄
+  senses:
+  - concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+    concept_label: EXCLAMATORY PARTICLE
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: yǐ
+  old_chinese: qralʔ
+  middle_chinese: ʔɯiɛ
+  fanqie: 於綺切
+  tone: 上
+  guangyun: 猗狔猶窈窕也又於羈切
+  senses:
+  - gloss: = 倚
+  - gloss: = 掎
+source:
+  source_file: taxchar.xml

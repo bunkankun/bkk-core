@@ -1,0 +1,32 @@
+uuid: 73ea796b-6396-4e69-bbba-a707a7e419e8
+type: tax-char
+heads:
+- 弔
+pronunciations:
+- reading: diào
+  old_chinese: teewɡs
+  middle_chinese: teu
+  fanqie: 多嘯切
+  tone: 去
+  guangyun: 弔生曰唁弔死曰弔多嘯切又音的七
+  senses:
+  - concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: MOURNING
+    children:
+    - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+      concept_label: CONSOLE
+    - concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+      concept_label: SYMPATHY
+    - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+      concept_label: SAD
+- reading: dì
+  old_chinese: tiiwɢs
+  middle_chinese: tek
+  fanqie: 都歷切
+  tone: 入
+  guangyun: 至也又音釣
+  senses:
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+source:
+  source_file: taxchar.xml

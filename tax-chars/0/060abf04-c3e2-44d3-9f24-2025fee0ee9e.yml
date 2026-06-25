@@ -1,0 +1,36 @@
+uuid: 060abf04-c3e2-44d3-9f24-2025fee0ee9e
+type: tax-char
+heads:
+- 稅
+pronunciations:
+- reading: shuì
+  old_chinese: lʰods
+  middle_chinese: ɕʷiɛi
+  fanqie: 舒芮切
+  tone: 去
+  guangyun: 斂也舎也又姓盛弘之荆州記云建平信陵縣有稅氏舒芮切九
+  senses:
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+  - concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+    concept_label: TAKE OFF
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: a3b41487-8afe-4d30-8434-d8a6b801ca01
+    concept_label: UNTIE
+  - concept_uuid: c9c20a8f-2a0e-4e9c-aecf-cb8ccb579c6f
+    concept_label: RENT
+  - concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+    concept_label: TRADE
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+  - concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+    concept_label: PROFIT
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 繐
+  - gloss: = 悅
+source:
+  source_file: taxchar.xml

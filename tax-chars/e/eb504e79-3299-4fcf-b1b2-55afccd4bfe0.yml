@@ -1,0 +1,22 @@
+uuid: eb504e79-3299-4fcf-b1b2-55afccd4bfe0
+type: tax-char
+heads:
+- 萋
+pronunciations:
+- reading: qī
+  old_chinese: shiil
+  middle_chinese: tsʰei
+  fanqie: 七稽切
+  tone: 平
+  guangyun: 草盛皃
+  senses:
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+    concept_label: PATTERN
+source:
+  source_file: taxchar.xml

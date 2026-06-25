@@ -1,0 +1,39 @@
+uuid: 815de1f8-7434-40aa-bd1d-65552951093a
+type: tax-char
+heads:
+- 翳
+pronunciations:
+- reading: yī
+  old_chinese: qee
+  middle_chinese: ʔei
+  fanqie: 烏奚切
+  tone: 平
+  guangyun: 蔽也又烏計切
+- reading: yì
+  old_chinese: qees
+  middle_chinese: ʔei
+  fanqie: 於計切
+  tone: 去
+  guangyun: 羽葆也又隱也奄也障也又鳥名似鳯於計切十七
+  senses:
+  - concept_uuid: 5ee75842-ac52-4055-9d15-ecec19fa2ac1
+    concept_label: BALDACHIN
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+    concept_label: SECRET
+  - concept_uuid: 703e26d2-b7a7-4ead-be62-3c6076f8645e
+    concept_label: SHIELD
+  - concept_uuid: c47c55eb-be89-4288-bb9a-d97cf537bdd4
+    concept_label: SHADE
+  - concept_uuid: 909bf501-b390-4af9-848f-e11556142d69
+    concept_label: MIST
+  - concept_uuid: 03229b34-f25c-418b-a1fa-ac10fd4c7991
+    concept_label: EYE ILLNESSES
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - gloss: = 殪
+source:
+  source_file: taxchar.xml

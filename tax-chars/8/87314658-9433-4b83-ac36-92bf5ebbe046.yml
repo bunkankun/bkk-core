@@ -1,0 +1,31 @@
+uuid: 87314658-9433-4b83-ac36-92bf5ebbe046
+type: tax-char
+heads:
+- 亟
+pronunciations:
+- reading: qì
+  old_chinese: khɯɡs
+  middle_chinese: kʰɨ
+  fanqie: 去吏切
+  tone: 去
+  guangyun: 數也遽也去吏切又紀力切三
+  senses:
+  - concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+- reading: jí
+  old_chinese: kɯɡ
+  middle_chinese: kɨk
+  fanqie: 紀力切
+  tone: 入
+  guangyun: 急也疾也趣也又音氣
+  senses:
+  - concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+    concept_label: EAGER
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: URGENT
+source:
+  source_file: taxchar.xml

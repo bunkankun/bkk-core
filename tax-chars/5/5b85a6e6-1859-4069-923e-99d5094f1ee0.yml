@@ -1,0 +1,45 @@
+uuid: 5b85a6e6-1859-4069-923e-99d5094f1ee0
+type: tax-char
+heads:
+- 吐
+pronunciations:
+- reading: tǔ
+  old_chinese: kh-laaʔ
+  middle_chinese: tʰuo
+  fanqie: 他魯切
+  tone: 上
+  guangyun: 口吐亦虜複姓三氏後魏書有吐奚吐難吐萬氏又虜三字姓三氏慕容廆庶長兄吐谷渾後將所部居西零以西甘松之南極乎白蘭數千里其孫葉廷曰禮云孫子得以王父字爲氏遂以吐谷渾爲氏又後魏書吐伏盧氏
+  senses:
+  - concept_uuid: a97cd503-c435-4bd0-80a1-2526af4825d2
+    concept_label: SPIT
+    children:
+    - gloss: generalised
+      concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+      concept_label: ISSUE
+      children:
+      - gloss: 'causative: from the inside'
+        concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+        concept_label: REMOVE
+        children:
+        - gloss: 'remove and replace, object: air'
+          concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+          concept_label: BREATHE
+      - gloss: 'resultative: so as to make visible>SHOW'
+        children:
+        - gloss: using language
+          concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+          concept_label: SPEAK
+          children:
+          - gloss: 'object: meaning'
+            concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+            concept_label: EXPRESS
+            children:
+            - gloss: 'abstract: laying out properly'
+              concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+              concept_label: ARRANGE
+      - gloss: 'intransitive: process'
+        concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+        concept_label: GROW
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

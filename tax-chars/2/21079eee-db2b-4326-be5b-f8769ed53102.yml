@@ -1,0 +1,76 @@
+uuid: 21079eee-db2b-4326-be5b-f8769ed53102
+type: tax-char
+heads:
+- 沒
+pronunciations:
+- reading: mò
+  old_chinese: mɯɯd
+  middle_chinese: muot
+  fanqie: 莫勃切
+  tone: 入
+  guangyun: 沈也又虜三字姓有沒路眞氏出後魏書莫勃切六
+  senses:
+  - concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+    concept_label: SINK
+    children:
+    - gloss: in air
+      concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+      concept_label: FALL
+      children:
+      - gloss: have fall out (from one's mouth)
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+    - gloss: resultative
+      concept_uuid: 2f918b16-defb-4b2c-88fb-c3e8b1cd7e32
+      concept_label: DROWN
+      children:
+      - gloss: generalised
+        concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+        concept_label: DISAPPEAR
+        children:
+        - gloss: causative
+          concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+          concept_label: EXHAUST
+          children:
+          - gloss: 'concrete: take away all'
+            concept_uuid: 162d87f4-b15a-417e-9fb4-11ad6d5c3576
+            concept_label: CONFISCATE
+            children:
+            - gloss: abstract
+              concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+              concept_label: WHOLE
+          - gloss: one's energy
+            concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+            concept_label: TIRED
+          - gloss: possibilities of profit
+            concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+            concept_label: GREEDY
+          - gloss: causative
+            concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+            concept_label: DESTROY
+            children:
+            - gloss: resultative
+              concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+              concept_label: WIN
+          - gloss: 'object: lifetime> =歿 figurative'
+            concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+            concept_label: DIE
+            children:
+            - gloss: causative
+              concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+              concept_label: KILL
+              children:
+              - gloss: reflexive
+                concept_uuid: dd9aeb4f-a422-431e-9925-807ba494d82e
+                concept_label: SUICIDE
+                children:
+                - gloss: related activity
+                  concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+                  concept_label: BURY
+  - gloss: =莫
+  - gloss: =昧
+unattributed_senses:
+- gloss: 没 mei4 【集韻】莫佩切，音妹。亦沈也。
+- gloss: 没 mo4《集韻》母果切，上果明。《集韻。果韻》：没，不知而問曰"拾没".
+source:
+  source_file: taxchar.xml

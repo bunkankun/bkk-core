@@ -1,0 +1,70 @@
+uuid: aaad6c76-d9bf-41ee-89dc-81ed28bc1d69
+type: tax-char
+heads:
+- 素
+pronunciations:
+- reading: sù
+  old_chinese: saas
+  middle_chinese: suo
+  fanqie: 桑故切
+  tone: 去
+  guangyun: 列子曰太素者質之始也又空也故也帛也説文作𦃃白緻繒也又虜複姓二氏後趙録有宜陽公素和明又後魏書云素黎氏後改爲黎氏
+  senses:
+  - gloss: fresh
+    concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+    children:
+    - gloss: concrete
+      concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+      concept_label: CLOTH
+    - gloss: feature
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+      children:
+      - gloss: generalised
+        concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+        concept_label: PURE
+        children:
+        - gloss: 'abstract> unadorned:'
+          concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+          concept_label: SIMPLE
+          children:
+          - gloss: psychological
+            concept_uuid: 7592652a-7114-4fce-b798-b8407930f652
+            concept_label: NAIVE
+            children:
+            - gloss: non-religious
+              concept_uuid: a9cd9b55-25a4-4c86-bc18-185e30a540b8
+              concept_label: SECULAR
+          - gloss: economic
+            concept_uuid: 7e47a1a2-1882-430b-963f-5da7d2e552a7
+            concept_label: GRATIS
+    - gloss: abstract
+      concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+      concept_label: BASIS
+      children:
+      - gloss: grammaticalised
+        concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+        concept_label: ORIGINALLY
+        children:
+        - gloss: before the event
+          concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+          concept_label: EARLY
+          children:
+          - gloss: continuative
+            concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+            concept_label: ENDURING
+            children:
+            - gloss: old_friendship
+              concept_label: FRIEND
+      - gloss: basic motivation
+        concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+        concept_label: ASPIRATION
+        children:
+        - gloss: psychological
+          concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+          concept_label: ATTITUDE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T19:07:57.296+09:00'

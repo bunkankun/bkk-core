@@ -1,0 +1,94 @@
+uuid: 36f5ac1d-a766-429a-a849-bf219e5541a3
+type: tax-char
+heads:
+- 轉
+pronunciations:
+- reading: zhuàn
+  old_chinese: tons
+  middle_chinese: ʈʷɯiɛn
+  fanqie: 知戀切
+  tone: 去
+  guangyun: 流轉又張兖切
+  senses:
+  - concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+    concept_label: GRADUALLY
+- reading: zhuǎn
+  old_chinese: tonʔ
+  middle_chinese: ʈʷɯiɛn
+  fanqie: 陟兖切
+  tone: 上
+  guangyun: 動也運也陟兖切二
+  senses:
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+    children:
+    - gloss: plant again> TILL
+    - gloss: turn on its head
+      concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+      concept_label: TURN
+    - gloss: 'generalised:'
+      concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+      concept_label: MOVE
+      children:
+      - gloss: oneself so as to escape
+        concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+        concept_label: FLEE
+      - gloss: back and forth
+        concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+        concept_label: SHAKE
+      - gloss: to music
+        concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+        concept_label: DANCE
+    - gloss: figurative
+      concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+      concept_label: GIVE BACK
+      children:
+      - gloss: from one owner to another
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: at a price
+          concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+          concept_label: SELL
+        - gloss: from one place to another
+          concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+          concept_label: TRANSPORT
+          children:
+          - gloss: 'figurative: of thoughts'
+            concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+            concept_label: TRANSMIT
+            children:
+            - gloss: text by recital
+              concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+              concept_label: CHANT
+      - gloss: quality or state
+        concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+        concept_label: CHANGE
+        children:
+        - gloss: of situation
+          concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+          concept_label: EVENT
+        - gloss: profoundly
+          concept_uuid: 6ec00eb0-2e19-4d05-871a-823bed5c5db2
+          concept_label: TRANSFORM
+          children:
+          - gloss: the truth by what one is saying
+            concept_uuid: 6b8bacb6-d2b7-48e0-bf4f-23c19ba0882c
+            concept_label: LIE
+        - gloss: 'grammaticalised: from a changed point of view'
+          concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+          concept_label: BUT
+        - gloss: so as to make more
+          concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+          concept_label: INCREASE
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+            concept_label: MORE
+          - gloss: the length of time something is being done
+            concept_uuid: bf236491-24df-4502-b928-cea735658b61
+            concept_label: CONTINUE
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+source:
+  source_file: taxchar.xml

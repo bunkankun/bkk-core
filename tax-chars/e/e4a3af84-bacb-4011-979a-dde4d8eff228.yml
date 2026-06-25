@@ -1,0 +1,28 @@
+uuid: e4a3af84-bacb-4011-979a-dde4d8eff228
+type: tax-char
+heads:
+- 裔
+pronunciations:
+- reading: yì
+  old_chinese: leds
+  middle_chinese: jiɛi
+  fanqie: 餘制切
+  tone: 去
+  guangyun: 邊也苗裔也又容裔也説文曰衣裾也俗作𧜟
+  senses:
+  - concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+  - concept_uuid: 181dff9e-7def-4cfa-bff0-928de1b99049
+    concept_label: HEM
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+  - concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+    concept_label: PEOPLE
+  - concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+    concept_label: SURPLUS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

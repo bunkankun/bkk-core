@@ -1,0 +1,34 @@
+uuid: b8b708a4-55e4-4053-bd59-8142d68b49c4
+type: tax-char
+heads:
+- 齋
+pronunciations:
+- reading: zhāi
+  old_chinese: tsriid
+  middle_chinese: tʂɯæi
+  fanqie: 側皆切
+  tone: 平
+  guangyun: 齋潔也亦莊也敬也經典通用齊也側皆切一
+  senses:
+  - concept_uuid: 25e7b11e-14a3-4520-a760-db14ef1bd044
+    concept_label: FASTING
+  - concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+    concept_label: FORBID
+  - concept_uuid: 3ed11fd2-9383-4078-93ac-837845fbad3b
+    concept_label: MEAL
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+    concept_label: ROOM
+  - concept_uuid: f1a574bd-efef-47a9-be12-892971573f5f
+    concept_label: LIBRARY
+  - concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+    concept_label: SHOP
+  - concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+    concept_label: PRAY
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+source:
+  source_file: taxchar.xml

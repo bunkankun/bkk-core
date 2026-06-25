@@ -1,0 +1,50 @@
+uuid: cc69c32b-21a0-45b2-be61-b28e5691a313
+type: tax-char
+heads:
+- 唐
+pronunciations:
+- reading: táng
+  old_chinese: ɡ-laaŋ
+  middle_chinese: dɑŋ
+  fanqie: 徒郎切
+  tone: 平
+  guangyun: 説文曰大言也又州春秋時楚地戰國時屬晉後入於韓秦屬南陽郡後魏爲淮州隋爲顯州貞觀改爲唐州因唐城山爲名即髙鳯隱所亦姓唐堯之後子孫氏焉出晉昌北海魯國三望徒郎切四十
+  senses:
+  - concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+    concept_label: EXAGGERATE
+    children:
+    - gloss: own qualities
+      concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+      concept_label: BOAST
+      children:
+      - gloss: feature
+        concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+        concept_label: EMPTY
+      - gloss: in empty space between buildings
+        concept_uuid: 65cd301e-3276-4e32-96d6-ab68adf5c304
+        concept_label: CORRIDOR
+      - gloss: concrete feature
+        concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+        concept_label: BROAD
+      - gloss: grammaticalised
+        concept_uuid: c17ceabd-9788-4c01-bfe7-9185ebe09e89
+        concept_label: IN VAIN
+      - gloss: lost
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+  - concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+    concept_label: CHINA
+    children:
+    - gloss: exocentric
+      concept_uuid: f101e14d-9b02-4646-8a6d-135c509b55cd
+      concept_label: CHINESE LANGUAGE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+    concept_label: DYNASTY
+  - gloss: =塘 DYKE
+  - gloss: =螗
+  - gloss: =煻
+  - gloss: =蓎 "dodder"
+source:
+  source_file: taxchar.xml

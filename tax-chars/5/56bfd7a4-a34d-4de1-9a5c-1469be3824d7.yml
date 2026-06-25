@@ -1,0 +1,30 @@
+uuid: 56bfd7a4-a34d-4de1-9a5c-1469be3824d7
+type: tax-char
+heads:
+- 渝
+pronunciations:
+- reading: yú
+  old_chinese: lo
+  middle_chinese: jio
+  fanqie: 羊朱切
+  tone: 平
+  guangyun: 渝變也亦州名本巴國漢爲巴郡之江州縣梁於巴郡置楚州隋改爲渝州因渝水爲名
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+  - concept_uuid: 8b1bc95f-ccb4-420a-bf5d-04555214c56b
+    concept_label: OVERFLOW
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - gloss: = 愉
+  - gloss: = 窬
+  - gloss: = 偷
+  - gloss: = 輸
+source:
+  source_file: taxchar.xml

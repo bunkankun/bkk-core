@@ -1,0 +1,52 @@
+uuid: e42ca41e-86b0-417b-a12f-1163890d3034
+type: tax-char
+heads:
+- 蔽
+pronunciations:
+- reading: bì
+  old_chinese: peds
+  middle_chinese: piɛi
+  fanqie: 必袂切
+  tone: 去
+  guangyun: 掩也必袂切四
+  senses:
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+  - concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+    concept_label: AVOID
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+    concept_label: ARMOUR
+  - gloss: SCREAN
+  - concept_uuid: cfdd6a95-bb45-47f8-9985-554cec5012e3
+    concept_label: MASK
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+  - concept_uuid: 95acda11-f087-4154-bf7d-385a4a509c40
+    concept_label: SUMMARISE
+  - concept_uuid: cfec8c6f-06c5-479d-96a4-5ea48af644f2
+    concept_label: EAR
+  - concept_uuid: d168c1e1-0c22-4ebe-a094-c1181e947580
+    concept_label: GAMBLE
+  - concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+    concept_label: TATTERED
+  - concept_uuid: 2f418adc-ec70-4213-97da-3852e4e7f711
+    concept_label: SWEEP
+  - gloss: GARMENT FOR MOURNING?? (fú)
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

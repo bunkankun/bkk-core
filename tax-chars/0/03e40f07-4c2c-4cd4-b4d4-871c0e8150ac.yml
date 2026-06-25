@@ -1,0 +1,26 @@
+uuid: 03e40f07-4c2c-4cd4-b4d4-871c0e8150ac
+type: tax-char
+heads:
+- 酣
+pronunciations:
+- reading: hān
+  old_chinese: ɡaam
+  middle_chinese: ɦɑm
+  fanqie: 胡甘切
+  tone: 平
+  guangyun: 酣飲應劭曰洽也張晏曰中酒曰酣又樂也胡甘切八
+  senses:
+  - concept_uuid: d015c25b-106e-4b88-9ff7-d13f67c0e446
+    concept_label: DRUNK
+  - concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+    concept_label: EAGER
+  - concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+    concept_label: ENJOY
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: INTENSE
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,30 @@
+uuid: 808e42c2-a49d-4ab7-b277-1d91ec2a6c1c
+type: tax-char
+heads:
+- 眷
+pronunciations:
+- reading: juàn
+  old_chinese: krons
+  middle_chinese: kʷɯiɛn
+  fanqie: 居倦切
+  tone: 去
+  guangyun: 眷屬説文顧也居倦切十五
+  senses:
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+  - concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+    concept_label: RELATIVES
+  - concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+    concept_label: CARE FOR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: juàn
+  old_chinese: krons
+  middle_chinese: kʷɯiɛn
+  fanqie: 居倦切
+  tone: 去
+  guangyun: 同眷
+source:
+  source_file: taxchar.xml

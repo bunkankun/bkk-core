@@ -1,0 +1,42 @@
+uuid: 05881ed5-2253-4ccc-bd97-493fe916157e
+type: tax-char
+heads:
+- 芒
+pronunciations:
+- reading: máng
+  old_chinese: maaŋ
+  middle_chinese: mɑŋ
+  fanqie: 莫郎切
+  tone: 平
+  guangyun: 草端亦姓史記有魏相芒卯又音亡
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: db89d1f9-32e4-4179-bdeb-74084f6b7c1a
+    concept_label: THORN
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: MEASURES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 茫
+  - gloss: = 恍
+- reading: wáng
+  old_chinese: maŋ
+  middle_chinese: mʷiɐŋ
+  fanqie: 武方切
+  tone: 平
+  guangyun: 草端也
+source:
+  source_file: taxchar.xml

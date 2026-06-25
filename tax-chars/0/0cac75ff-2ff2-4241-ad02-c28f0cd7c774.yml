@@ -1,0 +1,30 @@
+uuid: 0cac75ff-2ff2-4241-ad02-c28f0cd7c774
+type: tax-char
+heads:
+- 膽
+pronunciations:
+- reading: tán
+  old_chinese: ɡ-laan
+  middle_chinese: dɑn
+  fanqie: 徒干切
+  tone: 平
+  guangyun: 胆口脂澤出證俗文
+- reading: dǎn
+  old_chinese: k-laamʔ
+  middle_chinese: tɑm
+  fanqie: 都敢切
+  tone: 上
+  guangyun: 肝膽都敢切六
+  senses:
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - concept_uuid: 2c96459e-67a2-4054-8b58-7bd74c4488ec
+    concept_label: GALL
+  - concept_uuid: 46face44-76d7-4747-8af1-cd7f34a82d11
+    concept_label: IDEA
+  - concept_uuid: cb0086fd-2b5e-46a7-a9fd-a071eef8a7a3
+    concept_label: WIPE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

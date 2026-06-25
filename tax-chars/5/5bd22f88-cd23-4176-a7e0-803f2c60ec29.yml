@@ -1,0 +1,35 @@
+uuid: 5bd22f88-cd23-4176-a7e0-803f2c60ec29
+type: tax-char
+heads:
+- 徐
+pronunciations:
+- reading: xú
+  old_chinese: lja
+  middle_chinese: ziɔ
+  fanqie: 似魚切
+  tone: 平
+  guangyun: 緩也説文安行也亦州名古之彭國禹爲徐州秦屬泗水郡漢爲郡復置徐州又姓自顓頊之後春秋時徐偃王行仁義爲楚文王所滅其後氏焉出東海髙平東莞琅邪濮陽五望似魚切四
+  senses:
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+    children:
+    - gloss: not noisily
+      concept_uuid: 4bfbe7c4-ef18-4cd1-9d47-548d0c50166f
+      concept_label: QUIET
+    - gloss: stative
+      concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+      concept_label: COMFORTABLE
+      children:
+      - gloss: abstract
+        concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+        concept_label: LEISURE
+    - gloss: 'exocentric: slowly'
+      concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+      concept_label: WALK
+  - gloss: grammaticalised
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,52 @@
+uuid: 90ec42dd-d6b7-442d-8625-4cf15558ae8e
+type: tax-char
+heads:
+- 左
+pronunciations:
+- reading: zuò
+  old_chinese: skaals
+  middle_chinese: tsɑ
+  fanqie: 則箇切
+  tone: 去
+  guangyun: 左右又作可切
+- reading: zuǒ
+  old_chinese: skaalʔ
+  middle_chinese: tsɑ
+  fanqie: 臧可切
+  tone: 上
+  guangyun: 左右也亦姓齊之公族有左右公子後因氏焉又漢複姓二氏左傳宋公子目夷爲左師其後爲氏秦有左師觸龍晉先蔑爲左行其後爲氏漢有御史左行恢臧可切三
+- reading: zuǒ
+  old_chinese: ʔsaalʔ
+  middle_chinese: tsɑ
+  fanqie: 臧可切
+  tone: 上
+  guangyun: 戾也説文曰左手也象形
+  senses:
+  - gloss: LEFT
+    children:
+    - gloss: 'geographic: east'
+      concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+      concept_label: DIRECTION
+    - gloss: metaphorical
+      concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+      concept_label: BAD
+      children:
+      - gloss: putative
+        concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+        concept_label: DESPISE
+      - gloss: putative
+        concept_uuid: a9ce2789-dac0-45ea-8428-c483b4ffb65c
+        concept_label: DISAGREE
+        children:
+        - gloss: active
+          concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+          concept_label: HINDER
+  - gloss: 'exocentric: cf. German die Linke'
+    concept_uuid: b8794663-3320-4e0e-ada8-33476189ddf6
+    concept_label: HAND
+    children:
+    - gloss: 'exocentric: left'
+      concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+      concept_label: ARMY
+source:
+  source_file: taxchar.xml

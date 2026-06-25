@@ -1,0 +1,22 @@
+uuid: d1613f5e-ead7-4e5e-94bf-53b76a912665
+type: tax-char
+heads:
+- 歧
+pronunciations:
+- reading: qí
+  old_chinese: ɡe
+  middle_chinese: ɡiɛ
+  fanqie: 巨支切
+  tone: 平
+  guangyun: 歧路
+  senses:
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

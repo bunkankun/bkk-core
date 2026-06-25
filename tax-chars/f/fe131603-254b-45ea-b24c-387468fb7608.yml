@@ -1,0 +1,29 @@
+uuid: fe131603-254b-45ea-b24c-387468fb7608
+type: tax-char
+heads:
+- 苞
+pronunciations:
+- reading: bāo
+  old_chinese: pruu
+  middle_chinese: pɯau
+  fanqie: 布交切
+  tone: 平
+  guangyun: 叢生也豐也茂也又苞筍又姓
+  senses:
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+    concept_label: GROW
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+    concept_label: BLOSSOM
+  - concept_uuid: 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+    concept_label: TRUNK
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - gloss: = 包
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

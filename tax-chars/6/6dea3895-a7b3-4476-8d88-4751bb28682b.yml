@@ -1,0 +1,44 @@
+uuid: 6dea3895-a7b3-4476-8d88-4751bb28682b
+type: tax-char
+heads:
+- 益
+pronunciations:
+- reading: yì
+  old_chinese: qleɡ
+  middle_chinese: ʔiɛk
+  fanqie: 伊昔切
+  tone: 入
+  guangyun: 増也進也伊昔切八
+  senses:
+  - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+    concept_label: ADD
+    children:
+    - gloss: resultative
+      concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+      concept_label: INCREASE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+        concept_label: MORE
+        children:
+        - gloss: economic
+          concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+          concept_label: PROFIT
+          children:
+          - gloss: generalised
+            concept_uuid: 6233dcf4-4cd0-412f-a89a-250da251f779
+            concept_label: PROGRESS
+        - gloss: non-comparative
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+    - gloss: as present
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: typical purpose
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T17:54:43.672+09:00'

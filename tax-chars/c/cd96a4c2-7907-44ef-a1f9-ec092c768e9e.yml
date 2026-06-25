@@ -1,0 +1,50 @@
+uuid: cd96a4c2-7907-44ef-a1f9-ec092c768e9e
+type: tax-char
+heads:
+- 鼎
+pronunciations:
+- reading: dǐng
+  old_chinese: teeŋʔ
+  middle_chinese: teŋ
+  fanqie: 都挺切
+  tone: 上
+  guangyun: 説文云鼎三足兩耳和五味之寶器禹收九牧之金鑄鼎荆山之下
+  senses:
+  - concept_uuid: 90acd163-bc09-472b-b190-121231185aa5
+    concept_label: FOOD VESSEL
+    children:
+    - gloss: associated activity
+      concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+      concept_label: SACRIFICE
+      children:
+      - gloss: three-legged torture instrument> TORTURE INSTRUMENT
+    - gloss: feature
+      concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+      children:
+      - gloss: 'generalised:'
+        concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+        concept_label: STRONG
+        children:
+        - gloss: grammaticalised
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+      - gloss: subject
+        concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+        concept_label: LEADER
+  - gloss: grammaticalised "just then"
+    concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+  - gloss: grammaticalised continuative
+    concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+  - gloss: reduplicated
+    concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+    concept_label: COMFORTABLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =頂
+    concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: RESIST
+source:
+  source_file: taxchar.xml

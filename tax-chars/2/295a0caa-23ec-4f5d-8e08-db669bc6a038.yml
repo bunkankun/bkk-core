@@ -1,0 +1,115 @@
+uuid: 295a0caa-23ec-4f5d-8e08-db669bc6a038
+type: tax-char
+heads:
+- 復
+pronunciations:
+- reading: fù
+  old_chinese: buɡs
+  middle_chinese: biu
+  fanqie: 扶富切
+  tone: 去
+  guangyun: 復古文
+- reading: fù
+  old_chinese: buɡs
+  middle_chinese: biu
+  fanqie: 扶富切
+  tone: 去
+  guangyun: 又也返也往來也安也白也告也扶富切又音服八
+  senses:
+  - gloss: 'fù (OC: buɡ MC: biuk) 房六切 入 廣韻：【返也重也亦州名古竟陵縣春秋時屬楚秦屬南郡隋爲江陽郡武德初爲復州 】'
+  - concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+    concept_label: REPEAT
+    children:
+    - gloss: continuous
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+      children:
+      - gloss: 'grammaticalised: after all'
+        concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+        concept_label: CERTAIN
+    - gloss: additional person or action
+      concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+      concept_label: ALSO
+      children:
+      - gloss: additionally
+        concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+        concept_label: MORE
+        children:
+        - gloss: double-lined
+          concept_uuid: 4aa10180-a0c8-4bf2-9762-043bdbd2a4f4
+          concept_label: THICK
+        - gloss: 'causative: quality'
+          concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+          concept_label: IMPROVE
+      - gloss: additional proposition
+        concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+        concept_label: MOREOVER
+        children:
+        - gloss: later in time
+          concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+          concept_label: THEREUPON
+          children:
+          - gloss: extended period henceforth
+            concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+            concept_label: FUTURE
+          - gloss: contrast
+            concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+            concept_label: NONETHELESS
+            children:
+            - gloss: in spite of the passing of time
+              concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+              concept_label: STILL
+      - gloss: be also like that
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+    - gloss: grammaticalised
+      concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+      concept_label: AGAIN
+      children:
+      - gloss: move again to original place
+        concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+        concept_label: RETURN
+        children:
+        - gloss: return to backward position
+          concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+          concept_label: WITHDRAW
+        - gloss: cause thing to return to owner
+          concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+          concept_label: GIVE BACK
+      - gloss: cause to have original state again
+        concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+        concept_label: REPAIR
+        children:
+        - gloss: injustice
+          concept_uuid: 5ad2c08a-e2f2-45a1-a30b-798f3f183771
+          concept_label: REVENGE
+      - gloss: cause to be installed again
+        concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+        concept_label: INSTALL
+      - gloss: cause to be again in the state before something came to exist
+        concept_uuid: 51ed079c-2675-4502-b206-9dfec4fe64ae
+        concept_label: OVERTURN
+      - gloss: set free again
+        concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+        concept_label: RELEASE
+      - gloss: speak again after having been spoken to
+        concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+        concept_label: ANSWER
+        children:
+        - gloss: act in response
+          concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+          concept_label: ACT
+        - gloss: as part of one’s duty
+          concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+          concept_label: REPORT
+          children:
+          - gloss: generalised
+            concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+            concept_label: SPEAK
+    - gloss: grammaticalised
+      concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+      concept_label: QUESTION PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-28T04:53:55.712+09:00'

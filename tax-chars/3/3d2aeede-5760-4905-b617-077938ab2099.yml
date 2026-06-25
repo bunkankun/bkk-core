@@ -1,0 +1,27 @@
+uuid: 3d2aeede-5760-4905-b617-077938ab2099
+type: tax-char
+heads:
+- 軀
+pronunciations:
+- reading: qū
+  old_chinese: kho
+  middle_chinese: kʰio
+  fanqie: 豈俱切
+  tone: 平
+  guangyun: 身也
+  senses:
+  - concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+    concept_label: BODY
+  - concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+    concept_label: LIVE
+  - concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+    concept_label: PERSON
+  - concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+    concept_label: PREGNANT
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 驅
+source:
+  source_file: taxchar.xml

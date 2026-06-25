@@ -1,0 +1,21 @@
+uuid: c2918583-b5b4-441d-9185-83b5b4541def
+type: tax-char
+heads:
+- 棋
+pronunciations:
+- reading: qí
+  fanqie: 渠之
+  tone: 平
+  guangyun: 博物志曰舜造圍棊丹朱善之
+  senses:
+  - concept_uuid: cb3756a9-55e1-42cc-90bb-cf00c0e74c90
+    concept_label: BOARD-GAMES
+    children:
+    - concept_uuid: 31d657de-a9be-4a7d-9f2e-1594166bf221
+      concept_label: GO-GAMES
+  - concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+    concept_label: GEOMETRIC SHAPE
+source:
+  source_file: taxchar.xml
+  resp: chris
+  date: '2022-09-02T11:58:45.07+09:00'

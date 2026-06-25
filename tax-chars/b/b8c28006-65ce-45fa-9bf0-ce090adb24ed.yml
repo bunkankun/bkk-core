@@ -1,0 +1,58 @@
+uuid: b8c28006-65ce-45fa-9bf0-ce090adb24ed
+type: tax-char
+heads:
+- 鋪
+pronunciations:
+- reading: pū
+  old_chinese: phaa
+  middle_chinese: pʰuo
+  fanqie: 普胡切
+  tone: 平
+  guangyun: 鋪設也陳也布也又音孚
+  senses:
+  - concept_uuid: 0b30aa32-df11-472a-91fe-92cf24229ec9
+    concept_label: DOOR KNOCKER
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 37ec64e6-563e-4494-b46a-536f2ef093d3
+    concept_label: NARRATE
+  - concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+    concept_label: COMMON
+  - concept_uuid: cd7f956f-6b2a-4fc6-93d6-b5374a10eb34
+    concept_label: BOWL
+  - concept_uuid: 8b1bc95f-ccb4-420a-bf5d-04555214c56b
+    concept_label: OVERFLOW
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - gloss: = 痡
+- reading: fū
+  old_chinese: pha
+  middle_chinese: pʰio
+  fanqie: 芳無切
+  tone: 平
+  guangyun: 又普胡切
+- reading: pù
+  old_chinese: phaas
+  middle_chinese: pʰuo
+  fanqie: 普故切
+  tone: 去
+  guangyun: 設也又普胡切
+  senses:
+  - concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+    concept_label: SHOP
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+  - concept_uuid: 5ea20a9a-c418-40f0-9538-0b93f2bbe792
+    concept_label: POSTAL SYSTEM
+  - concept_uuid: 4aaec65e-de56-4889-9ccd-1738f14d758a
+    concept_label: BED
+source:
+  source_file: taxchar.xml

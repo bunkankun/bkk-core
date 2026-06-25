@@ -1,0 +1,124 @@
+uuid: fbec94c1-113f-49ac-be99-ac80e6d97e31
+type: tax-char
+heads:
+- 委
+pronunciations:
+- reading: wēi
+  old_chinese: qrol
+  middle_chinese: ʔʷɯiɛ
+  fanqie: 於為切
+  tone: 平
+  guangyun: 委委佗佗美也
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+- reading: wěi
+  old_chinese: qrolʔ
+  middle_chinese: ʔʷɯiɛ
+  fanqie: 於詭切
+  tone: 上
+  guangyun: 委曲也亦委積又屬也棄也隨也任也又姓漢有太原太守委進出風俗通於詭切五
+  senses:
+  - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+    children:
+    - gloss: 'spatial: downwards'
+      concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+      concept_label: HANG
+      children:
+      - gloss: 'physical: of cloth/headgear'
+        concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+        concept_label: RIM
+        children:
+        - gloss: temporal
+          concept_uuid: 65f2bb5a-4974-410b-a35d-8c4033a5da80
+          concept_label: LAST
+          children:
+          - gloss: final part
+            concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+            concept_label: END
+            children:
+            - gloss: of causative chain
+              concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+              concept_label: RESULT
+      - gloss: getting detached
+        concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+        concept_label: FALL
+        children:
+        - gloss: causative
+          concept_uuid: 26eca572-4729-4928-8646-a70d3a40eacd
+          concept_label: DROP
+          children:
+          - gloss: 'abstract: cause to be away'
+            concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+            concept_label: DISCARD
+            children:
+            - gloss: cause to remain absent
+              concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+              concept_label: AVOID
+              children:
+              - gloss: what should be avoided
+                concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+                concept_label: UNJUST
+    - gloss: transfer to a new owner
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: for good care
+        concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+        concept_label: ENTRUST
+        children:
+        - gloss: psychological
+          concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+          concept_label: TRUST
+          children:
+          - gloss: epistemic
+            concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+            concept_label: KNOW
+          - gloss: in action
+            concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+            concept_label: OBEY
+            children:
+            - gloss: physically, spatially
+              concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+              concept_label: FOLLOW
+          - gloss: resultative
+            concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+            concept_label: PEACEFUL
+      - gloss: transfer to a new place
+        concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+        concept_label: PUT
+        children:
+        - gloss: many things in the same place
+          concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+          concept_label: ACCUMULATE
+        - gloss: accumulated water
+          concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+          concept_label: POOL
+          children:
+          - gloss: systematically
+            concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+            concept_label: COLLECT
+            children:
+            - gloss: comprising a systematic variety
+              concept_uuid: 0d86c620-596f-4b84-9abb-a0c2f5a83a08
+              concept_label: COMPLEX
+        - gloss: transfer metaphorically, to a bureaucratic post
+          concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+          concept_label: APPOINT
+  - gloss: round
+    concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+  - gloss: round
+    concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+    concept_label: HAT
+  - gloss: 'grammaticalised: adverbial'
+    concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+    concept_label: REALITY
+unattributed_senses:
+- gloss: 委 ｗｅｉ４《集韻》於偽切，去寘影。微部。
+  children:
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: PROVISIONS
+source:
+  source_file: taxchar.xml

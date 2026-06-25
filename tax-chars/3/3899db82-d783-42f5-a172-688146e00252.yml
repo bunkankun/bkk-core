@@ -1,0 +1,70 @@
+uuid: 3899db82-d783-42f5-a172-688146e00252
+type: tax-char
+heads:
+- 走
+pronunciations:
+- reading: zòu
+  old_chinese: tsoos
+  middle_chinese: tsəu
+  fanqie: 則候切
+  tone: 去
+  guangyun: 釋名曰疾趨曰走又祖苟切
+- reading: zǒu
+  old_chinese: tsooʔ
+  middle_chinese: tsəu
+  fanqie: 子苟切
+  tone: 上
+  guangyun: 趨也子苟切又音奏一
+  senses:
+  - concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+    concept_label: RUN
+    children:
+    - gloss: feature
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+    - gloss: so as to get away
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+    - gloss: 'Exocentric: animal able to run'
+      concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+      concept_label: BEAST
+    - gloss: 'exocentric: person running in service for an employer跑腿的'
+      concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+      concept_label: SERVANT
+    - gloss: (as if) on horseback
+      concept_uuid: 06e0eefe-b216-47cb-919c-aceb22a66c32
+      concept_label: GALLOP
+    - gloss: generalised
+      concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+      concept_label: WALK
+      children:
+      - gloss: towards a certain goal
+        concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+        children:
+        - gloss: causative, figurative
+          concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+          concept_label: HAND UP
+        - gloss: so as to socialise
+          concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+          concept_label: VISIT
+          children:
+          - gloss: so as to support
+            concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+            concept_label: RALLY
+      - gloss: away from, also insultingly imperative
+        concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+        concept_label: LEAVE
+        children:
+        - gloss: 'causative: cause to leave, make flow away'
+          concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+          concept_label: FLOW
+        - gloss: abstract> move away from, turn into
+          concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+          concept_label: CHANGE
+          children:
+          - gloss: euphemistic, periphrastic figurative, late
+            concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+            concept_label: DIE
+source:
+  source_file: taxchar.xml

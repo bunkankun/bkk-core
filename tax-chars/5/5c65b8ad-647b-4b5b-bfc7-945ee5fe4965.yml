@@ -1,0 +1,38 @@
+uuid: 5c65b8ad-647b-4b5b-bfc7-945ee5fe4965
+type: tax-char
+heads:
+- 蒼
+pronunciations:
+- reading: cāng
+  old_chinese: skhaaŋ
+  middle_chinese: tsʰɑŋ
+  fanqie: 七岡切
+  tone: 平
+  guangyun: 蒼色也又姓漢江夏太守蒼英
+  senses:
+  - concept_uuid: 180e1eca-7df8-42da-b199-7f1e24d33489
+    concept_label: BLUE
+    children:
+    - gloss: weakened
+      concept_uuid: c6ea8871-fe2b-4015-98f8-23b5952ea2f5
+      concept_label: GREY
+      children:
+      - gloss: figurative, inchoative
+        concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+        concept_label: OLD
+      - gloss: exocentric
+        concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+        concept_label: SKY
+      - gloss: exocentric
+        concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+        concept_label: PEOPLE
+- reading: cǎng
+  old_chinese: skhaaŋʔ
+  middle_chinese: tsʰɑŋ
+  fanqie: 麁朗切
+  tone: 上
+  guangyun: 莽蒼麁朗切一
+  senses:
+  - gloss: SUBURBS
+source:
+  source_file: taxchar.xml

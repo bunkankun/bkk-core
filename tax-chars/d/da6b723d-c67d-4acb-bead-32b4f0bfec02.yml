@@ -1,0 +1,63 @@
+uuid: da6b723d-c67d-4acb-bead-32b4f0bfec02
+type: tax-char
+heads:
+- 種
+pronunciations:
+- reading: zhòng
+  old_chinese: tjoŋs
+  middle_chinese: tɕioŋ
+  fanqie: 之用切
+  tone: 去
+  guangyun: 種埴也之用切又之隴切三
+  senses:
+  - concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+    concept_label: SOW
+    children:
+    - gloss: 'figurative: give birth to'
+      concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+      concept_label: BIRTH
+      children:
+      - gloss: generalised
+        concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+        concept_label: FEED
+      - gloss: 'object: fire'
+        concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+        concept_label: BURN
+- reading: zhǒng
+  old_chinese: tjoŋʔ
+  middle_chinese: tɕioŋ
+  fanqie: 之隴切
+  tone: 上
+  guangyun: 種類也又之用切
+  senses:
+  - concept_uuid: 3499581a-eba5-4b00-8006-4c8f3b0e3e9d
+    concept_label: SEED
+    children:
+    - gloss: feature
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+    - gloss: humans of common seed
+      concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+      concept_label: FAMILY
+      children:
+      - gloss: 'specific: of later generation'
+        concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+        concept_label: DESCENDANT
+      - gloss: generalised
+        concept_uuid: 1ff62964-438b-4e76-836d-068f88050a4e
+        concept_label: RACE
+        children:
+        - gloss: generalised
+          concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+          concept_label: CATEGORY
+          children:
+          - gloss: abstract
+            concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+            concept_label: FEATURE
+            children:
+            - gloss: grammaticalised
+              concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+              concept_label: CLASSIFIERS
+  - gloss: =腫
+source:
+  source_file: taxchar.xml

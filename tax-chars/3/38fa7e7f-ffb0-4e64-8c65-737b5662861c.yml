@@ -1,0 +1,28 @@
+uuid: 38fa7e7f-ffb0-4e64-8c65-737b5662861c
+type: tax-char
+heads:
+- 旨
+pronunciations:
+- reading: zhǐ
+  old_chinese: kjiʔ
+  middle_chinese: tɕɯi
+  fanqie: 職雉切
+  tone: 上
+  guangyun: 説文云美也从匕日又志也亦作〈二/日〉見經典職雉切八
+  senses:
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 46face44-76d7-4747-8af1-cd7f34a82d11
+    concept_label: IDEA
+  - concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+    concept_label: SAVOURY
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+    concept_label: INTEND
+  - concept_uuid: 02770268-84ec-4888-b4ba-8da67e71c882
+    concept_label: MEANING
+  - concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+    concept_label: DECREE
+source:
+  source_file: taxchar.xml

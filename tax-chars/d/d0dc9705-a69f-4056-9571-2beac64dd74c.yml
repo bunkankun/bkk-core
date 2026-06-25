@@ -1,0 +1,24 @@
+uuid: d0dc9705-a69f-4056-9571-2beac64dd74c
+type: tax-char
+heads:
+- 剖
+pronunciations:
+- reading: fǔ
+  old_chinese: phɯʔ
+  middle_chinese: pʰio
+  fanqie: 芳武切
+  tone: 上
+  guangyun: 判也又普厚切
+- reading: pōu
+  old_chinese: phɯʔ
+  middle_chinese: pʰəu
+  fanqie: 普后切
+  tone: 上
+  guangyun: 判也破也普后切五
+  senses:
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+source:
+  source_file: taxchar.xml

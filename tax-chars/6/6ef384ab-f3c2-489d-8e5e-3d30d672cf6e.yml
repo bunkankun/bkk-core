@@ -1,0 +1,101 @@
+uuid: 6ef384ab-f3c2-489d-8e5e-3d30d672cf6e
+type: tax-char
+heads:
+- 將
+pronunciations:
+- reading: jiàng
+  old_chinese: skaŋs
+  middle_chinese: tsiɐŋ
+  fanqie: 子亮切
+  tone: 去
+  guangyun: 將帥
+- reading: jiāng
+  old_chinese: skaŋ
+  middle_chinese: tsiɐŋ
+  fanqie: 即良切
+  tone: 平
+  guangyun: 送也行也大也助也辝也又姓後趙録有常山太守將容即良切又子諒切六
+- reading: jiāng
+  old_chinese: skaŋ
+  middle_chinese: tsiɐŋ
+  fanqie: 即良切
+  tone: 平
+  guangyun: 送也行也大也助也辝也又姓後趙録有常山太守將容即良切又子諒切六
+  senses:
+  - concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+    concept_label: FUTURE
+    children:
+    - gloss: grammaticalised:afterwards
+      concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+      concept_label: THEN
+    - gloss: 'modal: uncertain'
+      concept_uuid: 12ab0c4e-8261-434b-a805-a5e3dc7d24ed
+      concept_label: PERHAPS
+      children:
+      - gloss: but expected
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+      - gloss: alternative
+        concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+        concept_label: OR
+        children:
+        - gloss: subordinating:hypothetical/counterfactual
+          concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+          concept_label: COUNTERFACTUAL
+    - gloss: as actively envisaged
+      concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+      concept_label: INTEND
+      children:
+      - gloss: injunctive/moral:should intend to, read qiāng
+        concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+        concept_label: SHOULD
+        children:
+        - gloss: express the hope that the addressee would, read qiāng
+          concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+          concept_label: REQUEST
+      - gloss: 'inchoative: act on'
+        concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+        concept_label: BEGIN
+        children:
+        - gloss: cause others to to follow one's intentions
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+          children:
+          - gloss: be lead
+            concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+            concept_label: ACCOMPANY
+          - gloss: one who leads armed forces
+            concept_uuid: 28015ba4-ad05-4a94-91a6-4772f7efd10a
+            concept_label: GENERAL
+          - gloss: inchoative
+            concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+            concept_label: TAKE
+            children:
+            - gloss: continuative
+              concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+              concept_label: HOLD
+              children:
+              - gloss: and move
+                concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+                concept_label: PUSH
+              - gloss: abstract:hold up
+                concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+                concept_label: SUPPORT
+            - gloss: continuative:leading along
+              concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+              concept_label: WITH
+              children:
+              - gloss: 'grammaticalised: taking along so as to use'
+                concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+                concept_label: USE
+                children:
+                - gloss: grammaticalised, dispose of
+                  concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+                  concept_label: OBJECT MARKER
+          - gloss: powerful as a leader
+            concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+            concept_label: POWER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T19:33:53.623+09:00'

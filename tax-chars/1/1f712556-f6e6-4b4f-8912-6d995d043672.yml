@@ -1,0 +1,27 @@
+uuid: 1f712556-f6e6-4b4f-8912-6d995d043672
+type: tax-char
+heads:
+- 斧
+pronunciations:
+- reading: fǔ
+  old_chinese: paʔ
+  middle_chinese: pio
+  fanqie: 方矩切
+  tone: 上
+  guangyun: 斧鉞周書曰神農作陶冶斤斧
+  senses:
+  - concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+    concept_label: AXE
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+    concept_label: IMPROVE
+  - gloss: =黼
+    concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+    concept_label: ORNAMENT
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+source:
+  source_file: taxchar.xml

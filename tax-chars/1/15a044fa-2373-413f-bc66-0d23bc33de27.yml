@@ -1,0 +1,35 @@
+uuid: 15a044fa-2373-413f-bc66-0d23bc33de27
+type: tax-char
+heads:
+- 牛
+pronunciations:
+- reading: niú
+  old_chinese: ŋɯ
+  middle_chinese: ŋiu
+  fanqie: 語求切
+  tone: 平
+  guangyun: 大牲也丗本曰黄帝臣胲作服牛史記曰紂倒曵九牛又姓出隴西本自殷周封微子於宋其裔司冦牛父帥師敗狄長丘死之子孫以王父字爲氏風俗通云漢有牛崇爲隴西主簿馬文淵爲太守羊喜爲功曹涼部云三牲備具語求切一
+  senses:
+  - concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+    concept_label: BOVINE
+    children:
+    - gloss: 'meat of: beef'
+      concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+      concept_label: MEAT
+    - gloss: feature of
+      concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+      concept_label: STUBBORN
+      children:
+      - gloss: abstract> be disobedient
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+      - gloss: 'exocentric: someone serving like a buffalo'
+        concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+        concept_label: SERVANT
+  - gloss: image
+    concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T00:53:09.735+09:00'

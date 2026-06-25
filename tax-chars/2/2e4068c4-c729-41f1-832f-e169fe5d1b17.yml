@@ -1,0 +1,57 @@
+uuid: 2e4068c4-c729-41f1-832f-e169fe5d1b17
+type: tax-char
+heads:
+- 擊
+pronunciations:
+- reading: jī
+  old_chinese: keeɡ
+  middle_chinese: kek
+  fanqie: 古歷切
+  tone: 入
+  guangyun: 打也
+  senses:
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+    children:
+    - gloss: beat one's wings
+      concept_label: FLUTTER
+    - gloss: resultative
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+    - gloss: be exposed to
+      concept_uuid: c26fec6d-5ca6-4692-afb7-d104df41b7a5
+      concept_label: PERCEIVE
+      children:
+      - gloss: causative> =激
+        concept_label: EXCITE
+    - gloss: object knocked> MUSICAL
+      concept_label: INSTRUMENTS
+      children:
+      - gloss: with skill
+        concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+        concept_label: STRIKE
+      - gloss: generalised
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+        children:
+        - gloss: in response
+          concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+          concept_label: OPPOSE
+          children:
+          - gloss: resultative
+            concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+            concept_label: REMOVE
+          - gloss: in games
+            concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+            concept_label: PLAY
+unattributed_senses:
+- concept_label: 擊 ｊｉ４《集韻》吉詣切，去霽見。 人名。《集韻•霽韻》：“《春秋傳》：晉有屠擊。”
+- concept_label: 擊 ｘｉ２《集韻》刑狄切，入錫匣。錫部。
+  children:
+  - gloss: =覡 (male)
+    concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+    concept_label: SHAMAN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-23T18:01:52.566+09:00'

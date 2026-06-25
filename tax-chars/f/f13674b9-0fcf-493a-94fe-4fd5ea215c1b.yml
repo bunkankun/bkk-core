@@ -1,0 +1,57 @@
+uuid: f13674b9-0fcf-493a-94fe-4fd5ea215c1b
+type: tax-char
+heads:
+- 壇
+pronunciations:
+- reading: tán
+  old_chinese: daan
+  middle_chinese: dɑn
+  fanqie: 徒干切
+  tone: 平
+  guangyun: 封土祭處徒干切十五
+  senses:
+  - concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+  - gloss: associated object
+    concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+  - gloss: metaphorical
+    concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+    concept_label: BASIS
+  - gloss: container
+    concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+    concept_label: TEMPLE
+  - gloss: part of
+    concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+  - gloss: surroundings
+    concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: GARDEN
+  - gloss: attached institution
+    concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+    concept_label: SCHOOL
+  - gloss: attached building
+    concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+    concept_label: COURT
+  - gloss: related humans
+    concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+    concept_label: GROUP
+  - gloss: abstract
+    concept_uuid: d45e380b-186e-4fea-9e42-877a9415025f
+    concept_label: PUBLIC SPHERE
+  - gloss: related activity
+    concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 98faf991-5a11-4015-b0e3-87363c78905c
+    concept_label: ISLAND
+  - gloss: CLASSIFIER
+  - gloss: =廛
+    concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+    concept_label: VILLAGE
+unattributed_senses:
+- gloss: da4n
+  children:
+  - concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+    concept_label: FLAT
+source:
+  source_file: taxchar.xml

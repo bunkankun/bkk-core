@@ -1,0 +1,32 @@
+uuid: 539f3091-773d-4a31-9232-2e22773c3550
+type: tax-char
+heads:
+- 朽
+pronunciations:
+- reading: xiǔ
+  old_chinese: qhluʔ
+  middle_chinese: hiu
+  fanqie: 許久切
+  tone: 上
+  guangyun: 同朽
+- reading: xiǔ
+  old_chinese: qhuʔ
+  middle_chinese: hiu
+  fanqie: 許久切
+  tone: 上
+  guangyun: 腐也許乆切四
+  senses:
+  - concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+    concept_label: ROTTEN
+  - concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+    concept_label: DEPICT
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+  - concept_uuid: dd396b03-ebdf-4208-a5b3-38ba6f0dfc3c
+    concept_label: STINK
+source:
+  source_file: taxchar.xml

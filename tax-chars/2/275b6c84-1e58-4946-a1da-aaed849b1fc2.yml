@@ -1,0 +1,24 @@
+uuid: 275b6c84-1e58-4946-a1da-aaed849b1fc2
+type: tax-char
+heads:
+- 松
+pronunciations:
+- reading: sōng
+  old_chinese: sɢloŋ
+  middle_chinese: zioŋ
+  fanqie: 祥容切
+  tone: 平
+  guangyun: 木名玄中記曰松脂淪入地千歳爲茯苓亦州舜竄三苗於三危河關之西南羌是也後魏末始統其城改置州焉祥容切四
+  senses:
+  - gloss: TREE,
+    concept_label: KINDS
+    children:
+    - gloss: feature
+      concept_label: SOLID
+    - gloss: 'feature: symbol of longevitude'
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T20:17:09.18+09:00'

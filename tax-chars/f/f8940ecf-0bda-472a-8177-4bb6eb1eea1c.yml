@@ -1,0 +1,35 @@
+uuid: f8940ecf-0bda-472a-8177-4bb6eb1eea1c
+type: tax-char
+heads:
+- 鱗
+pronunciations:
+- reading: lín
+  old_chinese: rin
+  middle_chinese: lin
+  fanqie: 力珍切
+  tone: 平
+  guangyun: 魚甲又姓左傳宋大夫鱗朱
+  senses:
+  - concept_uuid: 9ffb2c11-2835-4d6c-8fec-91d47ef90809
+    concept_label: FISH
+    children:
+    - gloss: part of
+      concept_uuid: 285d2eb0-8df0-4566-9d75-5318c6cfd492
+      concept_label: FISH PARTS
+      children:
+      - gloss: generalised
+        concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+        concept_label: PART
+      - gloss: generalised
+        concept_uuid: bae1d109-4310-4c80-b0d1-d3249d131c27
+        concept_label: AQUATIC ANIMALS
+        children:
+        - gloss: by extension> REPTILES
+        - gloss: metaphorical
+          concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+          concept_label: MYTHICAL ANIMALS
+  - concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+    concept_label: LETTER
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

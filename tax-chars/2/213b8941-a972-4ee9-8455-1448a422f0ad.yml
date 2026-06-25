@@ -1,0 +1,28 @@
+uuid: 213b8941-a972-4ee9-8455-1448a422f0ad
+type: tax-char
+heads:
+- 寸
+pronunciations:
+- reading: cùn
+  old_chinese: tshuuns
+  middle_chinese: tsʰuon
+  fanqie: 倉困切
+  tone: 去
+  guangyun: 説文曰度量衡以粟生之十粟爲一分十分爲一寸十寸爲一尺家語云孔子曰布指知寸倉困切二
+  senses:
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - gloss: intensitive
+    concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - gloss: small conduits
+    concept_uuid: 44dc1796-61ae-4b3b-bf6b-5a6da6063c55
+    concept_label: VEINS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 寸 ｃｕｎ３《集韻》取本切，上混清。
+  children:
+  - gloss: =忖
+source:
+  source_file: taxchar.xml

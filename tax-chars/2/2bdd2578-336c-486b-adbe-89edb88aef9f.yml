@@ -1,0 +1,34 @@
+uuid: 2bdd2578-336c-486b-adbe-89edb88aef9f
+type: tax-char
+heads:
+- 震
+pronunciations:
+- reading: zhèn
+  old_chinese: kljɯns
+  middle_chinese: tɕin
+  fanqie: 章刃切
+  tone: 去
+  guangyun: 雷震也又動也懼也起也威也章刃切十一
+  senses:
+  - concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+    concept_label: POWER
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: 112ed6ac-08ec-4341-bd13-22ba52c7d742
+    concept_label: THUNDER
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+    concept_label: POWER
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: 16f9a752-a3d3-40c3-860b-72052d703065
+    concept_label: EXCITED
+  - gloss: DIRECTIONS
+  - concept_uuid: c0f27216-391e-4b2d-a205-2b1bc7c5823d
+    concept_label: TRIGRAMS
+  - gloss: = 娠
+source:
+  source_file: taxchar.xml

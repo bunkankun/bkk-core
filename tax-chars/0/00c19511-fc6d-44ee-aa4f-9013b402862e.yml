@@ -1,0 +1,32 @@
+uuid: 00c19511-fc6d-44ee-aa4f-9013b402862e
+type: tax-char
+heads:
+- 步
+pronunciations:
+- reading: bù
+  old_chinese: baas
+  middle_chinese: buo
+  fanqie: 薄故切
+  tone: 去
+  guangyun: 行歩爾雅曰堂下謂之歩白虎通曰人踐三尺法天地人再舉足歩備隂陽也又姓左傳晉有歩塲食采於歩後因氏焉又虜三字姓三氏後魏書歩六孤氏後改爲陸氏又西方歩鹿根氏後改爲歩氏北齊書有歩大汗氏
+  senses:
+  - concept_uuid: c747afdb-b3af-41c7-b2b4-438404c677fe
+    concept_label: STEP
+    children:
+    - gloss: movement
+      concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+      concept_label: WALK
+      children:
+      - gloss: place to walk off ship
+        concept_uuid: 28804f3a-42f6-42b2-b06d-28362f415058
+        concept_label: HARBOUR
+      - gloss: generalised
+        concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+        concept_label: MOVE
+    - gloss: exocentric, on foot
+      concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+      concept_label: SOLDIER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-28T21:42:04.344+09:00'

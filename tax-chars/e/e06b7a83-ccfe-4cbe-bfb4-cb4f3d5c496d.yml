@@ -1,0 +1,48 @@
+uuid: e06b7a83-ccfe-4cbe-bfb4-cb4f3d5c496d
+type: tax-char
+heads:
+- 寧
+pronunciations:
+- reading: níng
+  old_chinese: neeŋ
+  middle_chinese: neŋ
+  fanqie: 奴丁切
+  tone: 平
+  guangyun: 安也説文曰願詞也亦州名禹貢古西戎地秦爲北地郡亦爲豳州又爲寧州奴丁切九
+  senses:
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+    children:
+    - gloss: optative:well-wishing
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+      children:
+      - gloss: religious
+        concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+        concept_label: SACRIFICE
+  - gloss: grammaticalised
+    concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+    concept_label: QUESTION PARTICLES
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: nìng
+  old_chinese: neeŋs
+  middle_chinese: neŋ
+  fanqie: 乃定切
+  tone: 去
+  guangyun: 邑名亦姓説文作寗所願也乃定切四
+  senses:
+  - gloss: should rather
+    concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+    concept_label: PREFER
+  - gloss: nìng
+    concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+    concept_label: WHY
+  - concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T21:20:21.652+09:00'

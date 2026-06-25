@@ -1,0 +1,24 @@
+uuid: 577533cf-93bd-4649-ba29-9ee5bbcc4901
+type: tax-char
+heads:
+- 廉
+pronunciations:
+- reading: lián
+  old_chinese: ɡ-rem
+  middle_chinese: liɛm
+  fanqie: 力鹽切
+  tone: 平
+  guangyun: 廉儉也釋名曰廉斂也自檢斂也亦姓趙有廉頗力鹽切二十
+  senses:
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+  - concept_uuid: 1f07ab5a-cffd-4ab0-8f20-4ed59626143e
+    concept_label: CHEAP
+  - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+    concept_label: DRAGON
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+source:
+  source_file: taxchar.xml

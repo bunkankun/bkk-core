@@ -1,0 +1,30 @@
+uuid: 3c9b2449-8515-452f-ba12-8505d2a124c8
+type: tax-char
+heads:
+- 皓
+pronunciations:
+- reading: hào
+  old_chinese: ɡuuʔ
+  middle_chinese: ɦɑu
+  fanqie: 胡老切
+  tone: 上
+  guangyun: 光也明也日出皃也胡老切十六
+- reading: hào
+  old_chinese: kljeʔ
+  middle_chinese: tɕiɛ
+  fanqie: 下老切
+  tone: 上
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+    concept_label: WHITE
+  - concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+    concept_label: OLD MAN
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 昊
+source:
+  source_file: taxchar.xml

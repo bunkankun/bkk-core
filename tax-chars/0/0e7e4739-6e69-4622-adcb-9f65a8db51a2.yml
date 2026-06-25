@@ -1,0 +1,20 @@
+uuid: 0e7e4739-6e69-4622-adcb-9f65a8db51a2
+type: tax-char
+heads:
+- 寇
+pronunciations:
+- reading: kòu
+  old_chinese: khoos
+  middle_chinese: kʰəu
+  fanqie: 苦候切
+  tone: 去
+  guangyun: 鈔也暴也又姓出馮翊河南二望陳留風俗傳云浚儀有寇氏黃帝之後風俗通云蘇忿生爲武王司寇後以官爲氏苦𠋫切十
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+    concept_label: ENEMY
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+source:
+  source_file: taxchar.xml

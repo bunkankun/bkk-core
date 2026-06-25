@@ -1,0 +1,67 @@
+uuid: a804e554-d209-41dd-98b2-c88d2a2582b0
+type: tax-char
+heads:
+- 扶
+pronunciations:
+- reading: fū
+  old_chinese: pa
+  middle_chinese: pio
+  fanqie: 甫無切
+  tone: 平
+  guangyun: 公羊傳云扶寸而合注云側手曰扶案指曰寸
+  senses:
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+- reading: fú
+  old_chinese: ba
+  middle_chinese: bio
+  fanqie: 防無切
+  tone: 平
+  guangyun: 扶持也佐也漢三輔有扶風郡扶助也風化也魏爲𡵨州又扶州在隴右元魏置管同昌怡夷二縣又姓漢有廷尉扶嘉防無切二十六
+  senses:
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+    children:
+    - gloss: 'specific: with gesture'
+      concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+      concept_label: STROKE
+    - gloss: 'specific: with nourishment'
+      concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+      concept_label: REAR
+      children:
+      - gloss: resulting feature
+        concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+        concept_label: ABUNDANT
+    - gloss: use for support
+      concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+      concept_label: LEAN ON
+      children:
+      - gloss: object ground
+        concept_uuid: a076835f-2bcc-4bcb-bae2-a60aefddfaaa
+        concept_label: KNEEL
+    - gloss: object someone in need
+      concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+      concept_label: HELP
+      children:
+      - gloss: generalised
+        concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+        concept_label: APPROACH
+        children:
+        - gloss: what one approaches
+          concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+          concept_label: SIDE
+        - gloss: 'generalised: continuous'
+          concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+          concept_label: FOLLOW
+          children:
+          - gloss: feature
+            concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+            concept_label: STRAIGHT
+            children:
+            - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+              concept_label: THREAD
+  - gloss: SURNAME
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+source:
+  source_file: taxchar.xml

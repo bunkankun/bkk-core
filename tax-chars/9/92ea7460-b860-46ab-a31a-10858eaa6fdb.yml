@@ -1,0 +1,27 @@
+uuid: 92ea7460-b860-46ab-a31a-10858eaa6fdb
+type: tax-char
+heads:
+- 稻
+pronunciations:
+- reading: tǎo
+  old_chinese: l'uuʔ
+  middle_chinese: tʰɑu
+  fanqie: 他浩切
+  tone: 上
+- reading: dào
+  old_chinese: ɡ-luuʔ
+  middle_chinese: dɑu
+  fanqie: 徒晧切
+  tone: 上
+  guangyun: 秔稻禮記曰凡祭宗廟之禮稻曰嘉蔬又姓何氏姓苑云今晉陵人
+  senses:
+  - concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+    concept_label: RICE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

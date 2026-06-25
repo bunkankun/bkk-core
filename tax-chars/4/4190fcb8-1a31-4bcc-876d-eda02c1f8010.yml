@@ -1,0 +1,84 @@
+uuid: 4190fcb8-1a31-4bcc-876d-eda02c1f8010
+type: tax-char
+heads:
+- 端
+pronunciations:
+- reading: duān
+  old_chinese: toon
+  middle_chinese: tʷɑn
+  fanqie: 多官切
+  tone: 平
+  guangyun: 正也直也緒也等也亦姓出姓苑又漢複姓孔子弟子端木賜也多官切十一
+  senses:
+  - gloss: beginnning
+    concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+    children:
+    - gloss: physical
+      concept_uuid: 4a814208-81d1-48ac-b35c-122a725e170a
+      concept_label: TIP
+      children:
+      - gloss: abstract
+        concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+        concept_label: LIMIT
+        children:
+        - gloss: philosophial
+          concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+          concept_label: BASIS
+          children:
+          - gloss: rhetorical
+            concept_uuid: 77331b37-ad87-4fbb-8bbc-4cd53212da2a
+            concept_label: TOPIC
+          - gloss: metaphysical
+            concept_uuid: 8f844d19-d2d4-4733-957f-e161496251e7
+            concept_label: OMEN
+          - gloss: basically and not superficially
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+            children:
+            - gloss: psychological
+              concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+              concept_label: FEELING
+          - gloss: basic question
+            concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+            concept_label: PROBLEM
+            children:
+            - gloss: basic approach
+              concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+              concept_label: METHOD
+            - gloss: basic aspect
+              concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+              concept_label: PRINCIPLE
+              children:
+              - gloss: feature
+                concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+                concept_label: STRAIGHT
+                children:
+                - gloss: abstract
+                  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+                  concept_label: JUSTICE
+                  children:
+                  - gloss: generalised
+                    concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+                    concept_label: GOOD
+                - gloss: abstract
+                  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+                  concept_label: CORRECT
+                  children:
+                  - gloss: exocentric:garment
+                    concept_uuid: fa1089c7-061e-4023-afaa-2b57eea4a7bf
+                    concept_label: COURT DRESS
+                    children:
+                    - gloss: typical action
+                      concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+                      concept_label: WEAR
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+unattributed_senses:
+- gloss: =喘
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  concept_label: BREATHE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T19:02:19.318+09:00'

@@ -1,0 +1,34 @@
+uuid: ae3a9c66-b61d-4468-bf08-a40cf35af715
+type: tax-char
+heads:
+- 讓
+unattributed_senses:
+- concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+  concept_label: YIELD
+  children:
+  - concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+    concept_label: DECENT
+  - concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+    concept_label: SUFFER
+    children:
+    - gloss: PASSIVE
+- concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+  concept_label: PERMIT
+  children:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+    children:
+    - concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+      concept_label: APPOINT
+      children:
+      - concept_uuid: 552752b4-3ee4-4a11-8e6d-6d7c422994d1
+        concept_label: ABDICATE
+  - concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: RETREAT
+    children:
+    - concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+      concept_label: GREET
+- concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+  concept_label: BLAME
+source:
+  source_file: taxchar.xml

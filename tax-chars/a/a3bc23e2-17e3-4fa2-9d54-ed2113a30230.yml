@@ -1,0 +1,56 @@
+uuid: a3bc23e2-17e3-4fa2-9d54-ed2113a30230
+type: tax-char
+heads:
+- 墨
+pronunciations:
+- reading: mò
+  old_chinese: mɯɯɡ
+  middle_chinese: mək
+  fanqie: 莫北切
+  tone: 入
+  guangyun: 筆墨又姓墨翟是也亦即墨縣名莫北切十二
+  senses:
+  - concept_uuid: 3ce4fa1c-e7b3-45b5-8239-485587bb3ff8
+    concept_label: INK
+  - gloss: feature
+    concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+  - gloss: 'exocentric: on divination turtle shell'
+    concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+    concept_label: PATTERN
+  - gloss: exocentric
+    concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+    concept_label: TEXT
+  - gloss: 'exocentric: inkline'
+    concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - gloss: exocentric
+    concept_uuid: e10ace81-269c-4817-ab59-920c50bd7287
+    concept_label: SOOT
+  - gloss: 'causative: slash and burn'
+    concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - gloss: generalised
+    concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - gloss: metaphorical
+    concept_uuid: d09ae4f5-db47-4dda-90bf-48e4e33d0a4d
+    concept_label: CORRUPT
+  - gloss: 'typical action using: punishment'
+    concept_uuid: 39bee04c-35bb-4688-b183-21be931d0188
+    concept_label: BRAND
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: e40f3ec7-c027-4563-a325-3e7f8dbdb502
+    concept_label: MOHISTS
+  - concept_uuid: 3d0ee556-737f-4910-9b12-541696812ce3
+    concept_label: SCHOLAR
+unattributed_senses:
+- gloss: 墨 ｍｅｉ４《集韻》莫佩切，去隊明。
+  children:
+  - concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+    concept_label: SLANDER
+source:
+  source_file: taxchar.xml

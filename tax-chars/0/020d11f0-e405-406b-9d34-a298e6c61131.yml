@@ -1,0 +1,36 @@
+uuid: 020d11f0-e405-406b-9d34-a298e6c61131
+type: tax-char
+heads:
+- 惑
+pronunciations:
+- reading: huò
+  old_chinese: ɡʷɯɯɡ
+  middle_chinese: ɦʷək
+  fanqie: 胡國切
+  tone: 入
+  guangyun: 迷惑
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+    children:
+    - gloss: practical
+      concept_uuid: b6bad94f-a9c3-4700-934c-61e8f885ff81
+      concept_label: GO ASTRAY
+      children:
+      - gloss: causative
+        concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+        concept_label: CHEAT
+      - gloss: abstract
+        concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+        concept_label: MISTAKE
+      - gloss: social
+        concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+        concept_label: CHAOS
+      - gloss: intensitive
+        concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+        concept_label: MAD
+    - gloss: deliberate
+      concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+      concept_label: SUSPECT
+source:
+  source_file: taxchar.xml

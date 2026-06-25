@@ -1,0 +1,34 @@
+uuid: dd546697-d792-45a7-ab17-cc628c25579e
+type: tax-char
+heads:
+- 弓
+pronunciations:
+- reading: gōng
+  old_chinese: kʷɯŋ
+  middle_chinese: kiuŋ
+  fanqie: 居戎切
+  tone: 平
+  guangyun: 弓矢釋名曰弓穹也張之穹穹然也其末曰簫又謂之弭以骨爲之滑弭弭也中央曰弣弣撫也人所撫持也簫弣之間曰淵淵宛也言曲宛然也丗本曰黄帝臣揮作弓墨子曰羿作弓孫子曰傜作弓又姓魯大夫叔弓之後
+  senses:
+  - concept_uuid: 627ef940-0fa4-40c1-95f6-2b853df4e150
+    concept_label: BOW
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+      concept_label: LENGTH MEASURES
+    - gloss: related activity
+      concept_uuid: 7dc4196a-d4e9-48ab-9f3a-3cec77f2b637
+      concept_label: ARCHERY
+      children:
+      - gloss: related action
+        concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+        concept_label: BEND
+        children:
+        - gloss: specifically
+          concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+          concept_label: BOW DOWN
+        - gloss: resultative
+          concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+          concept_label: CURVED
+source:
+  source_file: taxchar.xml

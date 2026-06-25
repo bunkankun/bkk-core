@@ -1,0 +1,65 @@
+uuid: ed3c60ac-ca25-4e49-b1f7-8e8a56933a31
+type: tax-char
+heads:
+- 條
+pronunciations:
+- reading: tiáo
+  old_chinese: ɡ-lɯɯw
+  middle_chinese: deu
+  fanqie: 徒聊切
+  tone: 平
+  guangyun: 小枝也貫也教也爾雅云柚條似橙而實酸又姓左傳殷人七族有條氏後趙録冉閔司空條攸姓苑云安定人
+  senses:
+  - gloss: TREE, KINDS
+  - gloss: part of
+    concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+    concept_label: BRANCH
+    children:
+    - gloss: feature
+      concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+      concept_label: LONG
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+        concept_label: CLASSIFIERS
+      - gloss: abstract
+        concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+        concept_label: REACH
+      - gloss: tool like
+        concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+        concept_label: STICK
+        children:
+        - gloss: in form like stick
+          concept_uuid: ed12cb69-ffb9-4e99-ba16-f44c8369aa82
+          concept_label: SHIT
+    - gloss: 'abstract: of law'
+      concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+      concept_label: RULE
+      children:
+      - gloss: 'feature:'
+        concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+        concept_label: ORDERLY
+        children:
+        - gloss: textual arrangement
+          concept_uuid: 8bab444f-0b3a-4cfa-ad01-643240019455
+          concept_label: PARAGRAPH
+      - gloss: specific
+        concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+        concept_label: COMMAND
+      - gloss: 'causative: according to rule'
+        concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+        concept_label: ARRANGE
+        children:
+        - gloss: in ordered speech
+          concept_uuid: 69f9092a-b61c-4ba2-8aea-1e01c90d10e3
+          concept_label: MENTION
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - gloss: =絛
+  - gloss: =滌
+unattributed_senses:
+- gloss: 條 ｔｉａｏ１《集韻》他雕切，平蕭透。幽部。
+  children:
+  - gloss: =挑
+source:
+  source_file: taxchar.xml

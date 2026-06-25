@@ -1,0 +1,45 @@
+uuid: 49c78cf1-2ada-436c-9fd0-deac4b7370a2
+type: tax-char
+heads:
+- 庭
+pronunciations:
+- reading: tíng
+  old_chinese: deeŋ
+  middle_chinese: deŋ
+  fanqie: 特丁切
+  tone: 平
+  guangyun: 門庭又直也亦州名即漢車師後王庭之地本烏孫國土也其前王庭即交河縣是也特丁切二十一
+  senses:
+  - gloss: main
+    concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - gloss: public office building
+    concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+    concept_label: COURT
+    children:
+    - gloss: show one's respect through attendance at court
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+    - gloss: generalised
+      concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+      concept_label: PUBLIC BUILDING
+      children:
+      - gloss: space before
+        concept_uuid: eda452d9-7993-480c-99c1-e73d9750d5d1
+        concept_label: COURTYARD
+      - gloss: administrative
+        concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+        concept_label: OFFICE
+      - gloss: minority people's main settlement site
+        concept_uuid: 17c8f382-15f3-4555-ab9f-aff69c10532f
+        concept_label: CAPITAL
+  - concept_label: REGIONS
+unattributed_senses:
+- concept_label: tìng 《集韻》他定切，去徑透。
+  children:
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-16T02:57:51.976+09:00'

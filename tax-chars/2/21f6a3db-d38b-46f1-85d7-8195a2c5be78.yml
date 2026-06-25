@@ -1,0 +1,32 @@
+uuid: 21f6a3db-d38b-46f1-85d7-8195a2c5be78
+type: tax-char
+heads:
+- 炙
+pronunciations:
+- reading: zhè
+  old_chinese: tjaaɡs
+  middle_chinese: tɕia
+  fanqie: 之夜切
+  tone: 去
+  guangyun: 炙肉周書曰黃帝始燔肉爲炙又之石切
+- reading: zhì
+  old_chinese: tjaɡ
+  middle_chinese: tɕiɛk
+  fanqie: 之石切
+  tone: 入
+  guangyun: 説文曰炮肉也从肉在火上
+  senses:
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - concept_uuid: 9a909e97-b33d-4e8a-977d-8cfaec2a833d
+    concept_label: GRILL
+  - concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+    concept_label: MEAT
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: 6cfc8ffa-6680-436e-ab48-1a9d7734c107
+    concept_label: BAKE
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+source:
+  source_file: taxchar.xml

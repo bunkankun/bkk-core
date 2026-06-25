@@ -1,0 +1,49 @@
+uuid: b8316a26-e0e3-44e1-bda3-94424c234bba
+type: tax-char
+heads:
+- 喪
+pronunciations:
+- reading: sàng
+  old_chinese: smaaŋs
+  middle_chinese: sɑŋ
+  fanqie: 蘇浪切
+  tone: 去
+  guangyun: 亡也蘇浪切又音桑二
+  senses:
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+    children:
+    - gloss: disappear from
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+    - gloss: cause to be lost
+      concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+      concept_label: DESTROY
+      children:
+      - gloss: causative:military
+        concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+        concept_label: DEFEAT
+- reading: sāng
+  old_chinese: smaaŋ
+  middle_chinese: sɑŋ
+  fanqie: 息郎切
+  tone: 平
+  guangyun: 同𠸶
+  senses:
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+    children:
+    - gloss: action
+      concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+      concept_label: BURY
+    - gloss: reaction
+      concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+      concept_label: MOURNING
+      children:
+      - gloss: 'exocentric: means of'
+        concept_uuid: a048c75b-69f2-47fc-9848-35ef4a83db76
+        concept_label: GARMENT FOR MOURNING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-01T23:06:52.669+09:00'

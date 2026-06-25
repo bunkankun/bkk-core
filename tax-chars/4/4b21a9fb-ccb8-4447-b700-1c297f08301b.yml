@@ -1,0 +1,35 @@
+uuid: 4b21a9fb-ccb8-4447-b700-1c297f08301b
+type: tax-char
+heads:
+- 續
+pronunciations:
+- reading: xù
+  old_chinese: sɢloɡ
+  middle_chinese: ziok
+  fanqie: 似足切
+  tone: 入
+  guangyun: 繼也連也又姓舜七友有續牙似足切四
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+    concept_label: ADD
+  - concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+    concept_label: TIE TO
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+  - concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: xù
+  old_chinese: snʰiin
+  middle_chinese: pʰʷiɐt
+  fanqie: 辭屢切
+  tone: 去
+source:
+  source_file: taxchar.xml

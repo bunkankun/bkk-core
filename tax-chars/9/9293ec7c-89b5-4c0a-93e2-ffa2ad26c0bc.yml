@@ -1,0 +1,24 @@
+uuid: 9293ec7c-89b5-4c0a-93e2-ffa2ad26c0bc
+type: tax-char
+heads:
+- 雌
+pronunciations:
+- reading: cí
+  old_chinese: tshe
+  middle_chinese: tsʰiɛ
+  fanqie: 此移切
+  tone: 平
+  guangyun: 牝也説文曰鳥母也此移切五
+  senses:
+  - concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+    concept_label: FEMALE
+  - concept_uuid: 94b01545-d643-4488-b69c-c9d80548d1a2
+    concept_label: RAINBOW
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: STAY
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+  - concept_uuid: dd3de4ff-729c-487d-b762-f32b60f7cc45
+    concept_label: DENY
+source:
+  source_file: taxchar.xml

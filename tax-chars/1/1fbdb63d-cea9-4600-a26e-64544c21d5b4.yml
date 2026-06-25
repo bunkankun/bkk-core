@@ -1,0 +1,41 @@
+uuid: 1fbdb63d-cea9-4600-a26e-64544c21d5b4
+type: tax-char
+heads:
+- 仙
+pronunciations:
+- reading: xiān
+  old_chinese: sen
+  middle_chinese: siɛn
+  fanqie: 相然切
+  tone: 平
+  guangyun: 神仙釋名曰老而不死曰仙仙遷也遷入山也故字從人旁山相然切十二
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+    children:
+    - gloss: grammaticalised
+      concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+      concept_label: YOU/PLUR
+      children:
+      - gloss: 'adnominal: imperial'
+        concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+        concept_label: EMPEROR
+    - gloss: feature
+      concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+      concept_label: SUPERNATURAL
+    - gloss: typical action
+      concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+      concept_label: ASCEND
+      children:
+      - gloss: specifically
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+      - gloss: typical action
+        concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+        concept_label: DANCE
+unattributed_senses:
+- gloss: 仙 ｘｉａｎ３《集韻》息淺切，上獮心。
+  children:
+  - gloss: =尟（鮮）
+source:
+  source_file: taxchar.xml

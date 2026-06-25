@@ -1,0 +1,30 @@
+uuid: dd731dad-5428-47ed-bbec-d2a158004695
+type: tax-char
+heads:
+- 熊
+pronunciations:
+- reading: xióng
+  old_chinese: ɢum
+  middle_chinese: ɦiuŋ
+  fanqie: 羽弓切
+  tone: 平
+  guangyun: 獸名似豕魏略曰大秦之國出玄熊亦姓左傳賢者熊冝僚又漢複姓左傳楚大夫熊率且比
+  senses:
+  - concept_uuid: e0fdd327-6135-4ea5-8704-3c462e961c04
+    concept_label: BEAR
+  - concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+    concept_label: TARGET
+  - concept_uuid: 274dd192-78a3-45df-9faf-fe824f64633a
+    concept_label: SCOLD
+  - concept_uuid: f8d0fa63-774b-4e2d-ade4-5ad8cc925146
+    concept_label: TEASE
+  - concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+    concept_label: INCOMPETENT
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

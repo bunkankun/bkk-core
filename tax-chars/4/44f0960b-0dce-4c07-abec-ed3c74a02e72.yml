@@ -1,0 +1,64 @@
+uuid: 44f0960b-0dce-4c07-abec-ed3c74a02e72
+type: tax-char
+heads:
+- 潛
+pronunciations:
+- reading: qián
+  old_chinese: sɡam
+  middle_chinese: dziɛm
+  fanqie: 昨鹽切
+  tone: 平
+  guangyun: 水伏流又藏也亦水名又姓姓苑云臨川人昨鹽切九
+  senses:
+  - gloss: (of river at ford)
+    concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+    children:
+    - gloss: action
+      concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+      concept_label: DIVE
+      children:
+      - gloss: resulting process
+        concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+        concept_label: SINK
+      - gloss: direction of diving
+        concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+        concept_label: DEEP
+        children:
+        - gloss: extremity
+          concept_uuid: 6c700f10-1cf2-49c9-9643-c601fdb7d4e6
+          concept_label: BOTTOM
+      - gloss: generalised
+        concept_uuid: cc5afe89-9ccc-4ed5-b8cf-a33decee7547
+        concept_label: HIDE ONESELF
+        children:
+        - gloss: from official life
+          concept_uuid: 313c2e26-b826-4590-a81c-3afec1499312
+          concept_label: RETIRE
+        - gloss: cause to be hidden
+          concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+          concept_label: CONCEAL
+          children:
+          - gloss: result
+            concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+            concept_label: SECRET
+            children:
+            - gloss: explore to the secret bottom
+              concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+              concept_label: INVESTIGATE
+              children:
+              - gloss: with uncertainty about success
+                concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+                concept_label: GUESS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+- reading: jiàn
+  old_chinese: sɡams
+  middle_chinese: dziɛm
+  fanqie: 慈豔切
+  tone: 去
+  guangyun: 藏也慈豔切一
+source:
+  source_file: taxchar.xml

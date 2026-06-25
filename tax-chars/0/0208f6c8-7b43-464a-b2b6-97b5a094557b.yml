@@ -1,0 +1,53 @@
+uuid: 0208f6c8-7b43-464a-b2b6-97b5a094557b
+type: tax-char
+heads:
+- 所
+pronunciations:
+- reading: suǒ
+  old_chinese: sqhraʔ
+  middle_chinese: ʃiɔ
+  fanqie: 疏舉切
+  tone: 上
+  guangyun: 俗所
+- reading: suǒ
+  old_chinese: sqraʔ
+  middle_chinese: ʃiɔ
+  fanqie: 疏舉切
+  tone: 上
+  guangyun: 説文云伐木聲也詩曰伐木所所又處所也詩曰獻于公所亦姓漢有諫議大夫所忠踈舉切七
+  senses:
+  - gloss: pronoun referring to the object of the transitive verb phrase which it precedes
+    concept_uuid: c1654743-3e55-4188-816b-511da251682f
+    concept_label: PRONOUN
+    children:
+    - gloss: anaphoric
+      concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+      concept_label: THIS
+    - gloss: grammaticalised
+      concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+      concept_label: APPROXIMATELY
+    - gloss: 'elliptic: that which something follows'
+      concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+      concept_label: PRINCIPLE
+    - gloss: that which something spatially occupies
+      concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+      concept_label: PLACE
+      children:
+      - gloss: all places
+        concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+        concept_label: EVERYWHERE
+      - gloss: being that which is in a place>CLASSIFIER
+      - gloss: that wherein
+        concept_uuid: c17cb017-3387-47f7-a92f-f0de0d7a135b
+        concept_label: WHERE
+    - gloss: that whereby
+      concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+      concept_label: CAUSE
+      children:
+      - gloss: that which is supposed
+        concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+        concept_label: IF
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-12T19:18:26.288+09:00'

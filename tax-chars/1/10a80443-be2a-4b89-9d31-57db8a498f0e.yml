@@ -1,0 +1,22 @@
+uuid: 10a80443-be2a-4b89-9d31-57db8a498f0e
+type: tax-char
+heads:
+- 瞽
+pronunciations:
+- reading: gǔ
+  old_chinese: kaaʔ
+  middle_chinese: kuo
+  fanqie: 公戶切
+  tone: 上
+  guangyun: 無目
+  senses:
+  - concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+    concept_label: BLIND
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: feb4ba97-43e3-4b03-857b-34c5f0f3d166
+    concept_label: POET
+  - concept_uuid: b6ce5719-53d1-482f-b617-78561d269e60
+    concept_label: MUSICIAN
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: e08af790-3820-432a-94c8-4353ad13a836
+type: tax-char
+heads:
+- 充
+pronunciations:
+- reading: chōng
+  old_chinese: thjuŋ
+  middle_chinese: tɕʰiuŋ
+  fanqie: 昌終切
+  tone: 平
+  guangyun: 美也塞也行也滿也昌終切七
+  senses:
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+  - concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+    concept_label: FULL
+  - concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+    concept_label: SUFFICIENT
+source:
+  source_file: taxchar.xml

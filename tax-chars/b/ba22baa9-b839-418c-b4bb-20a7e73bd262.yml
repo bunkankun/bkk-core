@@ -1,0 +1,58 @@
+uuid: ba22baa9-b839-418c-b4bb-20a7e73bd262
+type: tax-char
+heads:
+- 第
+pronunciations:
+- reading: dì
+  old_chinese: liils
+  middle_chinese: dei
+  fanqie: 特計切
+  tone: 去
+  guangyun: 次第説文本作弟韋束之次弟也今爲兄弟字又漢複姓二氏後漢書第五倫傳云齊諸田徙園陵者多故以次第爲氏有第五第八等氏特計切二十九
+  senses:
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+    children:
+    - gloss: grammaticalised> PREFIX
+    - gloss: social
+      concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+      concept_label: RANK
+      children:
+      - gloss: corresponding
+        concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+        concept_label: DWELLING
+    - gloss: logical
+      concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+      concept_label: CATEGORY
+      children:
+      - gloss: related action
+        concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+        concept_label: ASSESS
+        children:
+        - gloss: generalised
+          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+          concept_label: ARRANGE
+        - gloss: generalised
+          concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+          concept_label: JUDGE
+        - gloss: social
+          concept_uuid: 093241ac-abf2-4159-ac85-822eec8f1483
+          concept_label: EXAMINATION
+    - gloss: 'grammaticalised: temporal'
+      concept_uuid: 443583c8-91ba-4fd9-bc0a-20ac4eb76fcb
+      concept_label: MEANWHILE
+      children:
+      - gloss: 'grammaticalised: logical'
+        concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+        concept_label: NEVERTHELESS
+        children:
+        - gloss: 'grammaticalised: hypothetical'
+          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+          concept_label: IF
+        - gloss: 'grammaticalised: restrictive'
+          concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+          concept_label: ONLY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

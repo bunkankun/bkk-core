@@ -1,0 +1,31 @@
+uuid: 9f8d7e45-ddd8-46f7-99c7-5a9092294153
+type: tax-char
+heads:
+- 魚
+pronunciations:
+- reading: yú
+  old_chinese: ŋɡla
+  middle_chinese: ŋiɔ
+  fanqie: 語居切
+  tone: 平
+  guangyun: 説文曰水蟲也亦姓出馮翊風俗通云宋公子魚賢而有謀以字爲族又漢複姓二氏左傳晉有長魚矯史記有修魚氏語居切十
+  senses:
+  - concept_uuid: 9ffb2c11-2835-4d6c-8fec-91d47ef90809
+    concept_label: FISH
+    children:
+    - gloss: generalised
+      concept_uuid: bae1d109-4310-4c80-b0d1-d3249d131c27
+      concept_label: AQUATIC ANIMALS
+  - gloss: =漁:action
+    concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+    concept_label: FISHING
+  - gloss: =余?
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:52:13.253+09:00'

@@ -1,0 +1,56 @@
+uuid: e28514d0-cc79-46b2-9039-8caf2fe61b1d
+type: tax-char
+heads:
+- 側
+pronunciations:
+- reading: cè
+  old_chinese: skrɯɡ
+  middle_chinese: tʂɨk
+  fanqie: 阻力切
+  tone: 入
+  guangyun: 傍側
+  senses:
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+    children:
+    - gloss: action
+      concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+      concept_label: ACCOMPANY
+      children:
+      - gloss: continuative
+        concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+        concept_label: REVOLVE
+      - gloss: 'inchoative: settle in with'
+        concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+        concept_label: DWELL
+      - gloss: on the side, non-main> SECONDARY????????????
+    - gloss: 'transitive: move to the side'
+      concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+      concept_label: BEND
+      children:
+      - gloss: 'causative resultative: hide oneself'
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+        children:
+        - gloss: 'causative: physical'
+          concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+          concept_label: SLANT
+          children:
+          - gloss: 'emotional: towards'
+            concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+            concept_label: SYMPATHY
+            children:
+            - gloss: strategic
+              concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+              concept_label: PARTIAL
+              children:
+              - gloss: intellectual
+                concept_uuid: 3fded652-eacb-4053-9fda-e1914b075d6f
+                concept_label: PREJUDICE
+                children:
+                - concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+                  concept_label: UNJUST
+  - concept_uuid: 5e9cd33c-c2ba-41e8-b1b9-c3732306f4a5
+    concept_label: ARISTOCRATS OF CHU
+source:
+  source_file: taxchar.xml

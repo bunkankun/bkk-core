@@ -1,0 +1,33 @@
+uuid: 72f04eb6-0b24-4e3b-bb66-9bca4c811fde
+type: tax-char
+heads:
+- 馳
+pronunciations:
+- reading: chí
+  old_chinese: rlal
+  middle_chinese: ɖɯiɛ
+  fanqie: 直離切
+  tone: 平
+  guangyun: 馳騖也疾驅也又姓出姓苑直離切十三
+  senses:
+  - concept_uuid: 06e0eefe-b216-47cb-919c-aceb22a66c32
+    concept_label: GALLOP
+    children:
+    - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+      concept_label: HURRY
+      children:
+      - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+      - gloss: causative
+        concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+        concept_label: SPREAD
+        children:
+        - gloss: spread oneself visibly
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+      - concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+        concept_label: PURSUE
+    - concept_uuid: 8ba01741-c552-4ff5-b5ea-d00f18f0087d
+      concept_label: RACING
+source:
+  source_file: taxchar.xml

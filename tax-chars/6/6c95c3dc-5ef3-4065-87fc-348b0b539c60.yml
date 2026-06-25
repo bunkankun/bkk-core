@@ -1,0 +1,75 @@
+uuid: 6c95c3dc-5ef3-4065-87fc-348b0b539c60
+type: tax-char
+heads:
+- 猶
+pronunciations:
+- reading: yóu
+  old_chinese: k-lu
+  middle_chinese: jiu
+  fanqie: 以周切
+  tone: 平
+  guangyun: 同猷又尚也似也
+- reading: jiù
+  old_chinese: klus
+  middle_chinese: kiu
+  fanqie: 居祐切
+  tone: 去
+  guangyun: 爾雅云猶如麂善登木又音由音柚
+- reading: yòu
+  old_chinese: k-lus
+  middle_chinese: jiu
+  fanqie: 余救切
+  tone: 去
+  guangyun: 獸似麂善登木
+unattributed_senses:
+- concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  concept_label: RESEMBLE
+  children:
+  - gloss: completely
+    concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+    children:
+    - gloss: act
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: counterfactua
+        concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+        concept_label: AS IF
+  - gloss: grammaticalised
+    concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+    concept_label: ALSO
+    children:
+    - gloss: in spite of difference in time
+      concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+      concept_label: STILL
+      children:
+      - gloss: despite appearances
+        concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+        concept_label: NONETHELESS
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+          concept_label: EVEN
+- gloss: =由
+  concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+  concept_label: FROM
+- gloss: =搖
+  concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+  concept_label: SHAKE
+- gloss: =猷
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  concept_label: PLAN
+- gloss: =?
+  concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+  concept_label: HESITATE
+- gloss: =尤
+  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+  concept_label: BLAME
+- gloss: personal names
+  concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+  concept_label: RULERS OF CHU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-03T22:52:30.783+09:00'

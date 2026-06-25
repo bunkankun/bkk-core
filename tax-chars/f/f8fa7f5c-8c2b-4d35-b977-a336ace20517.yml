@@ -1,0 +1,36 @@
+uuid: f8fa7f5c-8c2b-4d35-b977-a336ace20517
+type: tax-char
+heads:
+- 躋
+pronunciations:
+- reading: jì
+  old_chinese: tsiils
+  middle_chinese: tsei
+  fanqie: 子計切
+  tone: 去
+  guangyun: 同隮
+- reading: jī
+  old_chinese: ʔsliil
+  middle_chinese: tsei
+  fanqie: 祖稽切
+  tone: 平
+  guangyun: 登也𦫵也又音霽
+  senses:
+  - concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+    concept_label: ADVANCE
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+    concept_label: PROMOTE
+  - concept_uuid: 6f0fabe2-64cd-4f4a-82ac-cd5b5a074a0d
+    concept_label: STEEP
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: f02c4fed-eba6-416f-be20-600a39b82755
+    concept_label: LAMP
+source:
+  source_file: taxchar.xml

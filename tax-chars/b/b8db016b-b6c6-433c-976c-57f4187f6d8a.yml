@@ -1,0 +1,57 @@
+uuid: b8db016b-b6c6-433c-976c-57f4187f6d8a
+type: tax-char
+heads:
+- 草
+pronunciations:
+- reading: cǎo
+  old_chinese: tshuuʔ
+  middle_chinese: tsʰɑu
+  fanqie: 采老切
+  tone: 上
+  guangyun: 説文作艸百卉也經典相承作草采老切七
+  senses:
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+    children:
+    - gloss: action with grass as object:remove grass
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+      children:
+      - gloss: dry for feeding
+        concept_uuid: 850a98f1-b50e-4008-9410-ad92c84e0d32
+        concept_label: HAY
+        children:
+        - gloss: of animals:grass-eating and not yet grain-eating
+          concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+          concept_label: YOUNG
+        - gloss: dry grass-like
+          concept_uuid: b9e44d1d-4f2b-4f56-a103-30e61639e0b1
+          concept_label: STRAW
+    - gloss: of medical use:herb
+      concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+      concept_label: MEDICINE
+    - gloss: abstract
+      concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+      concept_label: PLANT
+    - gloss: 'specific: wild-growing'
+      concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+      concept_label: WEED
+      children:
+      - gloss: exocentric
+        concept_uuid: 045058b4-86fe-4afd-8795-62f5ad1bbf94
+        concept_label: LANDSCAPE
+      - gloss: metonymy:feature
+        concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+        concept_label: COARSE
+        children:
+        - gloss: 'exocentric: coarsely written'
+          concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+          concept_label: WRITTEN CHARACTER
+          children:
+          - gloss: 'exocentric: draft'
+            concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+            concept_label: DOCUMENT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-05T00:10:44.319+09:00'

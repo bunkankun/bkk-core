@@ -1,0 +1,40 @@
+uuid: aee318e2-a765-4069-9927-a86debd088a0
+type: tax-char
+heads:
+- 胡
+pronunciations:
+- reading: hú
+  old_chinese: ɡaa
+  middle_chinese: ɦuo
+  fanqie: 戶吳切
+  tone: 平
+  guangyun: 何也又胡虜説文曰牛頷垂也亦姓出安定新蔡二望又漢複姓二氏齊宣王母弟別封母郷逺本胡公近娶母邑故爲胡母氏又胡公之後有公子非因以胡非爲氏又虜複姓南涼録秃髮壽闐之母姓胡掖氏戸吴切三十
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+    children:
+    - gloss: generalised
+      concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+      concept_label: BARBARIAN
+      children:
+      - gloss: 'feature: unruly'
+        concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+        concept_label: CHAOS
+  - gloss: grammaticalised
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+    children:
+    - gloss: 'specifically: by what reason'
+      concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+      concept_label: WHY
+    - gloss: 'specifically: by whose action'
+      concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+      concept_label: WHO
+unattributed_senses:
+- gloss: personal names
+  concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+  concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-29T00:26:19.727+09:00'

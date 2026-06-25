@@ -1,0 +1,58 @@
+uuid: 5c00afe2-8b50-49b8-942b-250b5bb3c33e
+type: tax-char
+heads:
+- 慘
+pronunciations:
+- reading: cǎn
+  old_chinese: tshuumʔ
+  middle_chinese: tsʰəm
+  fanqie: 七感切
+  tone: 上
+  guangyun: 憾慼也説文毒也七感切八
+  senses:
+  - concept_uuid: 1babfc6a-dc73-4072-bb8a-21a58f671735
+    concept_label: PAIN
+    children:
+    - gloss: mental
+      concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+      concept_label: SAD
+      children:
+      - gloss: specific
+        concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+        concept_label: MOURNING
+        children:
+        - gloss: typical feature
+          concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+          concept_label: DILIGENT
+    - gloss: general feature
+      concept_uuid: 29d65978-f787-49b1-86ff-e119be3b913a
+      concept_label: MISERABLE
+      children:
+      - gloss: acute
+        concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+        concept_label: ANGUISH
+        children:
+        - gloss: aggressive
+          concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+          concept_label: CRUEL
+      - gloss: reflexive
+        concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+        concept_label: SHAME
+      - gloss: prospective
+        concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+        concept_label: FEAR
+        children:
+        - gloss: resulting state
+          concept_uuid: cd7aa261-2ec3-4d4e-9c10-c09f3196c4d5
+          concept_label: PALE
+          children:
+          - gloss: 'specific: natural'
+            concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+            concept_label: WITHER
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - gloss: grammaticalised
+    concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+source:
+  source_file: taxchar.xml

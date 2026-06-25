@@ -1,0 +1,50 @@
+uuid: 3d812b31-e8e4-41cb-bcaf-53ef24d0ba5b
+type: tax-char
+heads:
+- 恐
+pronunciations:
+- reading: kǒng
+  old_chinese: khoŋʔ
+  middle_chinese: kʰioŋ
+  fanqie: 丘隴切
+  tone: 上
+  guangyun: 懼也丘隴切又丘用切三
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+    children:
+    - gloss: causative
+      concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+      concept_label: FRIGHTEN
+      children:
+      - gloss: what frightens one
+        concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+        concept_label: DISASTER
+- reading: kòng
+  old_chinese: khoŋs
+  middle_chinese: kʰioŋ
+  fanqie: 區用切
+  tone: 去
+  guangyun: 疑也區用切三
+  senses:
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+    children:
+    - gloss: cognitive
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+      children:
+      - gloss: cognitive
+        concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+        concept_label: BELIEVE
+        children:
+        - gloss: what one might believe
+          concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+          concept_label: COINCIDENCE
+        - gloss: grammaticalised
+          concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+          concept_label: CERTAIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T23:49:19.08+09:00'

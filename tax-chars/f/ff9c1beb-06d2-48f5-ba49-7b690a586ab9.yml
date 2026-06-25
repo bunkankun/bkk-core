@@ -1,0 +1,82 @@
+uuid: ff9c1beb-06d2-48f5-ba49-7b690a586ab9
+type: tax-char
+heads:
+- 廣
+pronunciations:
+- reading: guǎng
+  old_chinese: kʷaaŋʔ
+  middle_chinese: kʷɑŋ
+  fanqie: 古晃切
+  tone: 上
+  guangyun: 大也闊也古晃切二
+  senses:
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+    children:
+    - gloss: length between
+      concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+      concept_label: DISTANT
+    - gloss: 'exocentric: broad'
+      concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+      concept_label: ROOM
+    - gloss: 'grammaticalised: adverbiL'
+      concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+      concept_label: EVERYWHERE
+      children:
+      - gloss: 'abstract: objects'
+        concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+        concept_label: ALL
+        children:
+        - gloss: restriced
+          concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+          concept_label: MANY
+        - gloss: comparative
+          concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+          concept_label: MORE
+          children:
+          - gloss: action> causative
+            concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+            concept_label: ADD
+      - gloss: cause to be everywhere
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+        children:
+        - gloss: figurative
+          concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+          concept_label: PUBLICISE
+        - gloss: distribute goodness
+          concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+          concept_label: GENEROUS
+    - gloss: generalised
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+      children:
+      - gloss: causative, figurative
+        concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+        concept_label: EXAGGERATE
+        children:
+        - gloss: 'exocentric: ambitious'
+          concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+          concept_label: ASPIRATION
+    - gloss: expand on
+      concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+      concept_label: EXPLAIN
+unattributed_senses:
+- concept_label: 廣 guàng《集韻》古曠切，去宕見。陽部。
+  children:
+  - concept_uuid: aa638007-598c-48fe-a8bf-c2100b6cd8f3
+    concept_label: CHARIOT
+    children:
+    - gloss: general
+      concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+      concept_label: VEHICLE
+    - gloss: soldiers belonging to
+      concept_uuid: 80a2464f-3efe-4f42-9b15-bcf88291d9e4
+      concept_label: BATTALION
+- concept_label: 廣 kuàng《正字通》音曠。
+  children:
+  - concept_label: =曠
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-23T01:16:47.064+09:00'

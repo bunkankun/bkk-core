@@ -1,0 +1,44 @@
+uuid: 534b2573-7941-493d-aa1c-4d0d233df193
+type: tax-char
+heads:
+- 蓄
+pronunciations:
+- reading: xù
+  old_chinese: qhluɡ
+  middle_chinese: hiuk
+  fanqie: 許竹切
+  tone: 入
+  guangyun: 同蓄
+- reading: xù
+  old_chinese: qhluɡ
+  middle_chinese: hiuk
+  fanqie: 許竹切
+  tone: 入
+  guangyun: 蓄冬菜也許竹切又丑六切十
+  senses:
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+    concept_label: WAIT
+  - concept_uuid: 1760f18a-04e2-4f14-8976-7309970308b7
+    concept_label: VEGETABLES
+- reading: chù
+  old_chinese: khrluɡ
+  middle_chinese: ʈʰiuk
+  fanqie: 丑六切
+  tone: 入
+  guangyun: 蓄冬菜詩曰我有旨蓄鄭玄云蓄聚美菜以禦冬月乏無時也本亦作畜丑六切十
+- reading: chù
+  old_chinese: lhuɡ
+  middle_chinese: ʈʰiuk
+  fanqie: 丑六切
+  tone: 入
+  guangyun: 同蓄
+source:
+  source_file: taxchar.xml

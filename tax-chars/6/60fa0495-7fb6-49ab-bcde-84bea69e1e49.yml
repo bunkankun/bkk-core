@@ -1,0 +1,27 @@
+uuid: 60fa0495-7fb6-49ab-bcde-84bea69e1e49
+type: tax-char
+heads:
+- 懼
+pronunciations:
+- reading: jù
+  old_chinese: ɡʷas
+  middle_chinese: ɡio
+  fanqie: 其遇切
+  tone: 去
+  guangyun: 怖懼其遇切四
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+    children:
+    - gloss: causative
+      concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+      concept_label: FRIGHTEN
+    - gloss: 'grammaticalised, parenthetic: one fears'
+      concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+      concept_label: PROBABLE
+    - gloss: distant
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+  - gloss: =瞿
+source:
+  source_file: taxchar.xml

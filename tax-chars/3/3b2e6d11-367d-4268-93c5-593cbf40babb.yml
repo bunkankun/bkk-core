@@ -1,0 +1,28 @@
+uuid: 3b2e6d11-367d-4268-93c5-593cbf40babb
+type: tax-char
+heads:
+- 覓
+pronunciations:
+- reading: mì
+  old_chinese: meeɡ
+  middle_chinese: mek
+  fanqie: 莫狄切
+  tone: 入
+  guangyun: 求也莫狄切二十三
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+- reading: mì
+  old_chinese: mbeeɡ
+  middle_chinese: mek
+  fanqie: 莫狄切
+  tone: 入
+  guangyun: 同覓説文曰衺視也
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,44 @@
+uuid: 004e7643-6074-46c9-abeb-b1bcdd1d2317
+type: tax-char
+heads:
+- 尾
+pronunciations:
+- reading: wěi
+  old_chinese: mɯlʔ
+  middle_chinese: mʷɨi
+  fanqie: 無匪切
+  tone: 上
+  guangyun: 首尾也易曰履虎尾又姓史記有尾生無匪切八
+  senses:
+  - concept_uuid: f9403b9d-aec6-4063-b05e-5afa0cfc3797
+    concept_label: TAIL
+    children:
+    - gloss: 'grammaticalised: for fish'
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+    - gloss: generalised
+      concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+      concept_label: BEHIND
+    - gloss: generalised
+      concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+      concept_label: END
+      children:
+      - gloss: of territory
+        concept_uuid: 547143e8-8876-4ad1-976b-599f63e3c4fc
+        concept_label: BORDER
+    - gloss: come after the end of
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - gloss: of animals
+        concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+        concept_label: COPULATE
+      - gloss: lower reaches of
+        concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+        concept_label: RIVER
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

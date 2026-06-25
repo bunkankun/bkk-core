@@ -1,0 +1,91 @@
+uuid: 130dee51-cbc7-448c-92c4-632f449ea32c
+type: tax-char
+heads:
+- 平
+pronunciations:
+- reading: píng
+  old_chinese: breŋ
+  middle_chinese: bɯiaŋ
+  fanqie: 符兵切
+  tone: 平
+  guangyun: 正也和也易也亦州名古山戎孤竹白狄𡵟子二國之地秦爲遼西郡隋爲北平郡武德初爲平州有盧龍塞又姓齊相晏平仲之後漢有丞相平當又漢複姓何氏姓苑云有平陵平寧二氏符兵切八
+- reading: pián
+  old_chinese: ben
+  middle_chinese: biɛn
+  fanqie: 房連切
+  tone: 平
+  guangyun: 書傳云平平辨治也又皮明切
+unattributed_senses:
+- concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  concept_label: PEACEFUL
+  children:
+  - gloss: feature
+    concept_uuid: 82a12bdd-5f0d-4bf6-b4da-8b92ce215217
+    concept_label: PEACE
+  - gloss: moral
+    concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - gloss: mood
+    concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+    children:
+    - gloss: 'time: complete long'
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+    - gloss: surface
+      concept_uuid: 530f4782-d196-4d93-b5f4-4384112fe678
+      concept_label: SMOOTH
+      children:
+      - gloss: píng
+        concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+        concept_label: COMFORTABLE
+      - gloss: píng
+        concept_uuid: d891b859-3e99-4e7b-a798-745724e04d2a
+        concept_label: BALANCE
+        children:
+        - gloss: even
+          concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+          concept_label: FLAT
+          children:
+          - gloss: specifically:featureless
+            concept_uuid: 045058b4-86fe-4afd-8795-62f5ad1bbf94
+            concept_label: LANDSCAPE
+            children:
+            - gloss: technical term:non-steep
+              concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+              concept_label: STAIRS
+        - gloss: píng
+          concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+          concept_label: JUSTICE
+      - gloss: 'causative: make even'
+        concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+        concept_label: ARRANGE
+        children:
+        - gloss: intellectually
+          concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+          concept_label: ASSESS
+          children:
+          - gloss: social
+            concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+            concept_label: GOVERN
+            children:
+            - gloss: inchoative:get to govern
+              concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+              concept_label: CONQUER
+              children:
+              - gloss: 'causative: flatten'
+                concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+                concept_label: DESTROY
+              - gloss: cause to be subservient
+                concept_uuid: e81488de-065e-4277-9488-de065ec2775a
+                concept_label: SUBJUGATE
+- gloss: personal names
+  concept_uuid: fb500771-dde4-45c1-babb-a146877e3733
+  concept_label: POETS
+- gloss: personal names
+  concept_uuid: 6a422b44-1faa-4604-84c1-b087b1f179ee
+  concept_label: RULERS OF YAN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T21:43:20.118+09:00'

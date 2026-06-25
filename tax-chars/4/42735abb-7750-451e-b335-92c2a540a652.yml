@@ -1,0 +1,30 @@
+uuid: 42735abb-7750-451e-b335-92c2a540a652
+type: tax-char
+heads:
+- 凍
+pronunciations:
+- reading: dòng
+  old_chinese: tooŋs
+  middle_chinese: tuŋ
+  fanqie: 多貢切
+  tone: 去
+  guangyun: 冰凍又音東
+  senses:
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+  - concept_uuid: 757e854c-90b7-4d06-8762-cc2866351120
+    concept_label: ICE
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: dōng
+  old_chinese: tooŋ
+  middle_chinese: tuŋ
+  fanqie: 德紅切
+  tone: 平
+  guangyun: 凍凌又都貢切
+source:
+  source_file: taxchar.xml

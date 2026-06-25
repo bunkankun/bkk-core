@@ -1,0 +1,34 @@
+uuid: 36bc0529-23aa-48f7-97ab-f15137f240d5
+type: tax-char
+heads:
+- 但
+pronunciations:
+- reading: dàn
+  old_chinese: daans
+  middle_chinese: dɑn
+  fanqie: 徒案切
+  tone: 去
+  guangyun: 辤也又徒亶切
+- reading: tán
+  old_chinese: daan
+  middle_chinese: dɑn
+  fanqie: 徒干切
+  tone: 平
+  guangyun: 語辝亦姓何氏姓苑云漢有但巴爲濟隂太守又徒旱切又徒旦切
+- reading: dàn
+  old_chinese: daanʔ
+  middle_chinese: dɑn
+  fanqie: 徒旱切
+  tone: 上
+  guangyun: 語辝又空也徒也徒旱切十一
+  senses:
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+  - concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+    concept_label: IMPERATIVE MARKER
+  - concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+    concept_label: NONETHELESS
+source:
+  source_file: taxchar.xml

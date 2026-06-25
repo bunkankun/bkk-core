@@ -1,0 +1,26 @@
+uuid: 6b79f183-1659-4579-b60e-7bf1cefb466f
+type: tax-char
+heads:
+- 芋
+pronunciations:
+- reading: yù
+  old_chinese: ɢʷras
+  middle_chinese: ɦio
+  fanqie: 王遇切
+  tone: 去
+  guangyun: 一名蹲鴟廣雅云蜀漢以芋爲資凡十四等大如斗魁其車聲鋸子旁巨靑鳥等四等多子王遇切五
+  senses:
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 164f2fc4-9ee0-4447-a9ca-2d0754b88dbd
+    concept_label: POTATO
+- reading: yú
+  old_chinese: ɢʷra
+  middle_chinese: ɦio
+  fanqie: 羽俱切
+  tone: 平
+  guangyun: 草盛皃又王遇切
+source:
+  source_file: taxchar.xml

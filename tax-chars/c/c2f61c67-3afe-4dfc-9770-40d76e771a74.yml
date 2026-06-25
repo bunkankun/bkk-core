@@ -1,0 +1,27 @@
+uuid: c2f61c67-3afe-4dfc-9770-40d76e771a74
+type: tax-char
+heads:
+- 絃
+pronunciations:
+- reading: xián
+  old_chinese: ɡeen
+  middle_chinese: ɦen
+  fanqie: 胡田切
+  tone: 平
+  guangyun: 俗弦見弦注
+  senses:
+  - concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+    concept_label: PLUCK STRINGS
+  - concept_uuid: cb1283bf-ff17-4816-8711-21cff46b1a89
+    concept_label: STRING
+- reading: xuàn
+  old_chinese: qhʷeens
+  middle_chinese: hʷen
+  fanqie: 許縣切
+  tone: 去
+  guangyun: 同絢
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

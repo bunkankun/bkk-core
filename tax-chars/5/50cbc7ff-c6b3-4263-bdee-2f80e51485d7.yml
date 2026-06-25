@@ -1,0 +1,27 @@
+uuid: 50cbc7ff-c6b3-4263-bdee-2f80e51485d7
+type: tax-char
+heads:
+- 弛
+pronunciations:
+- reading: chí
+  old_chinese: lʰelʔ
+  middle_chinese: ɕiɛ
+  fanqie: 施是切
+  tone: 上
+  guangyun: 釋也説文云弓解也施是切三
+  senses:
+  - concept_uuid: fca95f35-7f10-4653-9dae-b902e38e9c36
+    concept_label: LOOSEN
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+    concept_label: DELAY
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - gloss: = 施
+source:
+  source_file: taxchar.xml

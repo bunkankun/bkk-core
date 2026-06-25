@@ -1,0 +1,29 @@
+uuid: 83f52f2c-4e70-42db-9735-ccd7a9383894
+type: tax-char
+heads:
+- 翕
+pronunciations:
+- reading: xī
+  old_chinese: qhrub
+  middle_chinese: hɯip
+  fanqie: 許及切
+  tone: 入
+  guangyun: 火炙一曰起也又斂也合也動也聚也盛也
+  senses:
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+    concept_label: ENTER
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - gloss: = 吸
+source:
+  source_file: taxchar.xml

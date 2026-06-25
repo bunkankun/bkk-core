@@ -1,0 +1,50 @@
+uuid: 2bdf35bf-efe6-4b94-a490-01dc0ee1abbe
+type: tax-char
+heads:
+- 院
+pronunciations:
+- reading: huán
+  old_chinese: ɡoon
+  middle_chinese: ɦʷɑn
+  fanqie: 胡官切
+  tone: 平
+  guangyun: 同寏
+- reading: huán
+  old_chinese: ɢloon
+  middle_chinese: ɦʷɑn
+  fanqie: 胡官切
+  tone: 平
+  guangyun: 周垣
+- reading: yuàn
+  old_chinese: ɢons
+  middle_chinese: ɦʷɯiɛn
+  fanqie: 王眷切
+  tone: 去
+  guangyun: 垣院
+  senses:
+  - concept_uuid: eda452d9-7993-480c-99c1-e73d9750d5d1
+    concept_label: COURTYARD
+  - concept_uuid: 59b03676-0d77-4d61-9744-21ff2a050f67
+    concept_label: MONASTERY
+  - concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+    concept_label: WALL
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+    concept_label: PALACE
+  - concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+    concept_label: CONCUBINE
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: GARDEN
+  - concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+    concept_label: SCHOOL
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: INSTITUTE
+  - concept_uuid: c7744653-51dc-4f60-8d2d-0a4f4182bd24
+    concept_label: BROTHEL
+source:
+  source_file: taxchar.xml

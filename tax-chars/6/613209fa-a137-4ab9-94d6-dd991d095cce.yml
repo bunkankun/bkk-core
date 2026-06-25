@@ -1,0 +1,57 @@
+uuid: 613209fa-a137-4ab9-94d6-dd991d095cce
+type: tax-char
+heads:
+- 尋
+pronunciations:
+- reading: xún
+  old_chinese: ljum
+  middle_chinese: zim
+  fanqie: 徐林切
+  tone: 平
+  guangyun: 同尋出説文
+- reading: xún
+  old_chinese: ljum
+  middle_chinese: zim
+  fanqie: 徐林切
+  tone: 平
+  guangyun: 長也又尋常六尺曰尋倍尋曰常山海經曰尋木長千里生河邊又姓晉有尋曾字子貢徐林切十六
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+    children:
+    - gloss: for use
+      concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+      concept_label: DEPLOY
+    - gloss: for punishment
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+    - gloss: abstract
+      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+      concept_label: INVESTIGATE
+    - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+        children:
+        - concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+          concept_label: LONG
+          children:
+          - gloss: causatie
+            concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+            concept_label: STRETCH
+          - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+            concept_label: LENGTH MEASURES
+        - gloss: at intervals>OFTEN
+      - gloss: grammaticalised
+        concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+        concept_label: IMMEDIATELY
+        children:
+        - gloss: relational
+          concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+          concept_label: THEREUPON
+      - gloss: renew
+        concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+        concept_label: REPEAT
+source:
+  source_file: taxchar.xml

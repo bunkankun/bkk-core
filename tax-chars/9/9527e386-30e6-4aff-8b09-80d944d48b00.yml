@@ -1,0 +1,59 @@
+uuid: 9527e386-30e6-4aff-8b09-80d944d48b00
+type: tax-char
+heads:
+- 高
+pronunciations:
+- reading: gāo
+  old_chinese: koow
+  middle_chinese: kɑu
+  fanqie: 古勞切
+  tone: 平
+  guangyun: 上也崇也逺也敬也又姓齊太公之後食采於髙因氏焉出渤海漁陽遼東廣陵河南五望又漢複姓髙堂氏出泰山古勞切二十一
+  senses:
+  - gloss: spatial
+    concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+    children:
+    - gloss: downwards
+      concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+      concept_label: DEEP
+    - gloss: shape
+      concept_uuid: 04fcc112-1401-43d6-94bf-01d2987e5cca
+      concept_label: TALL
+    - gloss: derived temporal
+      concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+      concept_label: OLD
+      children:
+      - gloss: 'medieval meaning: voice'
+        concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+        concept_label: LOUD
+      - gloss: metaphorical
+        concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+        concept_label: NOBLE
+        children:
+        - gloss: generalised
+          concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+          concept_label: EXCELLENT
+          children:
+          - gloss: comparative
+            concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+            concept_label: SUPERIOR
+            children:
+            - gloss: perception of
+              concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+              concept_label: APPRECIATE
+              children:
+              - gloss: attitude towards
+                concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+                concept_label: ADMIRE
+                children:
+                - gloss: what is most admired
+                  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+                  concept_label: VIRTUE
+    - gloss: proper names
+      concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+      concept_label: SURNAMES
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-12-01T04:18:36.786+09:00'

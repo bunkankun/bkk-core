@@ -1,0 +1,33 @@
+uuid: 4b796999-0d64-4bb3-81b2-2ca026f933b7
+type: tax-char
+heads:
+- 北
+pronunciations:
+- reading: běi
+  old_chinese: pɯɯɡ
+  middle_chinese: pək
+  fanqie: 博墨切
+  tone: 入
+  guangyun: 南北亦奔也又髙麗姓又漢複姓七氏左傳衞大夫北宫貞子莊子有北門成漢有北唐子眞治京氏易丗本云晉有髙人隱於此唐因以爲氏晏子云齊有北郭先生名騷古有北人無擇淸身絜己疾丗之濁自投淸冷之淵姓苑有北郷北野氏博墨切二
+  senses:
+  - gloss: what one turns one\s back to facing south?
+    concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+    children:
+    - gloss: 'action, causative: lead northwards'
+      concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+      concept_label: LEAD
+unattributed_senses:
+- concept_label: 北 bei4 《集韻》補妹切，去隊，幫。
+  children:
+  - gloss: =背：turn back and
+    concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: FLEE
+    children:
+    - gloss: cause to flee
+      concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+      concept_label: DEFEAT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-05T00:06:10.566+09:00'

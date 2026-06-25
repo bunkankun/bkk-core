@@ -1,0 +1,53 @@
+uuid: 539d4d1a-698d-4a97-aacf-d0c79bc5654a
+type: tax-char
+heads:
+- 休
+pronunciations:
+- reading: xiū
+  old_chinese: qhu
+  middle_chinese: hiu
+  fanqie: 許尤切
+  tone: 平
+  guangyun: 美也善也慶也息也又木名許尤切十三
+  senses:
+  - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+    concept_label: REST
+    children:
+    - gloss: 'exocentric: time when'
+      concept_uuid: c824e06d-c840-4dd2-b724-71991640af5d
+      concept_label: HOLIDAY
+    - gloss: feature
+      concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+      concept_label: HAPPY
+      children:
+      - gloss: coincidental
+        concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+        concept_label: LUCK
+      - gloss: generalised
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+        children:
+        - gloss: declarative
+          concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+          concept_label: PRAISE
+    - gloss: cease
+      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+      concept_label: STOP
+      children:
+      - gloss: 'grammaticalised:'
+        concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+        concept_label: DON'T
+      - gloss: cease being where one was
+        concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+        concept_label: LEAVE
+        children:
+        - gloss: causative
+          concept_uuid: 89830aaf-48a4-49cf-8f0c-4132c2f21dcd
+          concept_label: DIVORCE
+  - gloss: grammaticalised
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:08:07.253+09:00'

@@ -1,0 +1,32 @@
+uuid: 349e8fdc-e269-4838-8341-d54e88ad6c4b
+type: tax-char
+heads:
+- 彩
+pronunciations:
+- reading: cǎi
+  old_chinese: tshɯɯʔ
+  middle_chinese: tsʰəi
+  fanqie: 倉宰切
+  tone: 上
+  guangyun: 光彩
+  senses:
+  - concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+    concept_label: COLOUR
+  - concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: VARIEGATED
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: 394a0980-04a6-4a42-b28f-ceea8dc2b09a
+    concept_label: CONDUCT
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: a81dc54d-3432-4d57-a936-2e1d2987fb41
+    concept_label: INJURY
+  - concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+    concept_label: PROFIT
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: TRICK
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+source:
+  source_file: taxchar.xml

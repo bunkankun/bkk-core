@@ -1,0 +1,29 @@
+uuid: 4a053500-79ba-4627-8e1e-0439efea2067
+type: tax-char
+heads:
+- 鋒
+pronunciations:
+- reading: fēng
+  old_chinese: phoŋ
+  middle_chinese: pʰioŋ
+  fanqie: 敷容切
+  tone: 平
+  guangyun: 劒刃鋒也
+  senses:
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+  - concept_uuid: 4a814208-81d1-48ac-b35c-122a725e170a
+    concept_label: TIP
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+  - concept_uuid: c37aa631-d300-40ae-85a4-3ded10b1e7ae
+    concept_label: PLOUGH
+  - concept_uuid: ff4443d1-1419-4415-87e8-53c5973cb5e2
+    concept_label: WEATHER
+  - gloss: = 蜂
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,28 @@
+uuid: 485ace93-da76-4311-aee2-76576da59779
+type: tax-char
+heads:
+- 匹
+pronunciations:
+- reading: pǐ
+  old_chinese: phid
+  middle_chinese: pʰit
+  fanqie: 譬吉切
+  tone: 入
+  guangyun: 偶也配也合也二也説文云四丈也从八匚八揲一匹俗作疋譬吉切四
+  senses:
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+    concept_label: INTIMATE
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 40d911ce-d453-41c0-b2a6-fe07e7b6c423
+    concept_label: MATE
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+source:
+  source_file: taxchar.xml

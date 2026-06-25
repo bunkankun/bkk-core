@@ -1,0 +1,58 @@
+uuid: 36d0d045-e1ef-4c29-ad0e-3aa76b7f3a64
+type: tax-char
+heads:
+- 拂
+pronunciations:
+- reading: fú
+  old_chinese: phɯd
+  middle_chinese: pʰiut
+  fanqie: 敷勿切
+  tone: 入
+  guangyun: 去也拭也除也擊也敷勿切十二
+  senses:
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+  - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+  - concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+    concept_label: RUB
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - gloss: calligraphy
+    concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+    concept_label: LINE
+  - gloss: pull up skirt and thus greet respectfully
+    concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+    concept_label: GREET
+  - concept_uuid: 2095bac4-6e1b-4bdb-9876-a012aa10a869
+    concept_label: BRUSH
+  - concept_uuid: cd1f9cdf-e84e-4b55-beb5-5ecfc770f703
+    concept_label: MAKE-UP
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: SPREAD
+unattributed_senses:
+- gloss: 拂 ｂｉ４《集韻》簿宓切，入質並。術部。
+  children:
+  - gloss: =弼
+    concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+- gloss: 拂 ｐｉ４《集韻》普密切，入質滂。
+  children:
+  - concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+    concept_label: BLOW
+- gloss: 拂 ｆｅｉ４《集韻》父沸切，去未奉
+  children:
+  - concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+    concept_label: BOX
+source:
+  source_file: taxchar.xml

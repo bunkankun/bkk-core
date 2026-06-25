@@ -1,0 +1,24 @@
+uuid: 058e0244-f540-4eec-8040-972865bb2a3b
+type: tax-char
+heads:
+- 妓
+pronunciations:
+- reading: jī
+  old_chinese: kre
+  middle_chinese: kɯiɛ
+  fanqie: 居宜切
+  tone: 平
+  guangyun: 妓姕態皃又渠綺切
+- reading: jì
+  old_chinese: ɡreʔ
+  middle_chinese: ɡɯiɛ
+  fanqie: 渠綺切
+  tone: 上
+  guangyun: 女樂
+  senses:
+  - concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+    concept_label: ACROBATICS
+  - concept_uuid: fbf961e3-c80b-4698-9868-8498043e6166
+    concept_label: PROSTITUTE
+source:
+  source_file: taxchar.xml

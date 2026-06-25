@@ -1,0 +1,40 @@
+uuid: 5e6b2b3f-022c-47e4-b669-775ad89aa4bf
+type: tax-char
+heads:
+- 宮
+pronunciations:
+- reading: gōng
+  old_chinese: kuŋ
+  middle_chinese: kiuŋ
+  fanqie: 居戎切
+  tone: 平
+  guangyun: 白虎通曰黄帝作宫室以避寒暑宫之言中也丗本曰禹作宫亦官名漢書曰少府官有守宫令主御筆墨紙封書泥也又姓左傳虞有宫之竒
+  senses:
+  - concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+    concept_label: DWELLING
+    children:
+    - gloss: generalised
+      concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+      concept_label: BUILDING
+      children:
+      - gloss: ruler’s
+        concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+        concept_label: PALACE
+        children:
+        - gloss: inner part of
+          concept_uuid: e96ed05f-8b11-4f09-9179-281ff55b7bd8
+          concept_label: HAREM
+        - gloss: in honour of ancestors/deities
+          concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+          concept_label: TEMPLE
+          children:
+          - gloss: punishment performed in?
+            concept_uuid: 2b8cad76-d05c-4793-84c3-0766768bddfe
+            concept_label: CASTRATE
+  - gloss: first of the Five Tones
+    concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+    concept_label: TONE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T23:09:09.183+09:00'

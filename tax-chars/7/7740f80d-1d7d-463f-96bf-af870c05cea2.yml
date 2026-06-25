@@ -1,0 +1,18 @@
+uuid: 7740f80d-1d7d-463f-96bf-af870c05cea2
+type: tax-char
+heads:
+- 箭
+pronunciations:
+- reading: jiàn
+  old_chinese: tsens
+  middle_chinese: tsiɛn
+  fanqie: 子賤切
+  tone: 去
+  guangyun: 箭竹髙一丈節間三尺可爲矢爾雅曰東南之美者有㑹稽之竹箭子賤切九
+  senses:
+  - concept_uuid: dccfac2b-3aa1-4eea-a933-6b1b6854817f
+    concept_label: ARROW
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+source:
+  source_file: taxchar.xml

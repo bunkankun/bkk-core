@@ -1,0 +1,34 @@
+uuid: a0b518af-33dc-4402-9823-db2d0f08663f
+type: tax-char
+heads:
+- 裝
+pronunciations:
+- reading: zhuàng
+  old_chinese: skraŋs
+  middle_chinese: tʂiɐŋ
+  fanqie: 側亮切
+  tone: 去
+  guangyun: 行裝又側良切
+- reading: zhuāng
+  old_chinese: skraŋ
+  middle_chinese: tʂiɐŋ
+  fanqie: 側羊切
+  tone: 平
+  guangyun: 裝束又側亮切
+  senses:
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+    concept_label: PRETEND
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 098dceb1-9ff5-47db-a55b-d4ebafe225fc
+    concept_label: BOOK BINDING
+source:
+  source_file: taxchar.xml

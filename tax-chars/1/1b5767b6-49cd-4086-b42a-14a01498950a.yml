@@ -1,0 +1,44 @@
+uuid: 1b5767b6-49cd-4086-b42a-14a01498950a
+type: tax-char
+heads:
+- 嬌
+pronunciations:
+- reading: qiáo
+  old_chinese: ɡrew
+  middle_chinese: ɡɯiɛu
+  fanqie: 巨嬌切
+  tone: 平
+  guangyun: 廣雅云禹妃之名又音驕
+- reading: jiǎo
+  old_chinese: krewʔ
+  middle_chinese: kɯiɛu
+  fanqie: 居夭切
+  tone: 上
+  guangyun: 女字又居喬切
+- reading: jiāo
+  old_chinese: krew
+  middle_chinese: kɯiɛu
+  fanqie: 舉喬切
+  tone: 平
+  guangyun: 女字亦態
+  senses:
+  - concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+    concept_label: SEXY
+  - concept_uuid: 74b7b586-081a-4d67-8062-1b2929578897
+    concept_label: PLEASANT
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+    concept_label: LOVE
+  - concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+    concept_label: STUBBORN
+  - concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+    concept_label: WOMAN
+  - concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - concept_uuid: 48b6defd-9f1f-411c-b7af-319b2d5a93e7
+    concept_label: FLIRT
+source:
+  source_file: taxchar.xml

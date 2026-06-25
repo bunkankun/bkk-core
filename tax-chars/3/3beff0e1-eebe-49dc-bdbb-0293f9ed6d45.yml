@@ -1,0 +1,64 @@
+uuid: 3beff0e1-eebe-49dc-bdbb-0293f9ed6d45
+type: tax-char
+heads:
+- 幾
+pronunciations:
+- reading: jǐ
+  old_chinese: kɯlʔ
+  middle_chinese: kɨi
+  fanqie: 居狶切
+  tone: 上
+  guangyun: 幾何又旣狶切
+- reading: jī
+  old_chinese: kɯl
+  middle_chinese: kɨi
+  fanqie: 居依切
+  tone: 平
+  guangyun: 庻幾又祈蟣二音
+- reading: qí
+  old_chinese: ɡɯl
+  middle_chinese: ɡɨi
+  fanqie: 渠希切
+  tone: 平
+  guangyun: 近也又居依居豈二切
+- reading: jì
+  old_chinese: ɡɯls
+  middle_chinese: ɡɨi
+  fanqie: 其既切
+  tone: 去
+  guangyun: 未巳又音蟣音機
+  senses:
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+    children:
+    - gloss: 'action: come close to'
+      concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+      concept_label: SUCCEED
+      children:
+      - gloss: anticipatory
+        concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+        concept_label: HOPE
+    - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+      concept_label: SMALL
+      children:
+      - gloss: 'grammaticalised: by a small margin'
+        concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+        concept_label: APPROXIMATELY
+      - gloss: of small intensity
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+  - gloss: psychological
+    concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+    children:
+    - gloss: 'exocentric: objective'
+      concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+      concept_label: DANGER
+  - gloss: jǐ
+    concept_uuid: 04a1e10c-6836-40c1-8f37-60555fd6d8b7
+    concept_label: HOW MANY
+    children:
+    - concept_uuid: a21c67c7-657c-41c7-ad21-d81fabd47f47
+      concept_label: SEVERAL
+source:
+  source_file: taxchar.xml

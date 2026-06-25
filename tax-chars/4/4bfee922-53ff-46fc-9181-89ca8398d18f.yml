@@ -1,0 +1,93 @@
+uuid: 4bfee922-53ff-46fc-9181-89ca8398d18f
+type: tax-char
+heads:
+- 揭
+pronunciations:
+- reading: jié
+  old_chinese: khrads
+  middle_chinese: ɡiɐt
+  fanqie: 其謁切
+  tone: 入
+  guangyun: 擔𢷒物也本亦作揭其謁切五
+- reading: qiè
+  old_chinese: khrad
+  middle_chinese: kʰɯiɛt
+  fanqie: 丘竭切
+  tone: 入
+  guangyun: 髙舉也又擔也
+- reading: jié
+  old_chinese: ked
+  middle_chinese: kɯiɛt
+  fanqie: 居列切
+  tone: 入
+  guangyun: 揭起
+- reading: jié
+  old_chinese: ɡad
+  middle_chinese: ɡiɐt
+  fanqie: 其謁切
+  tone: 入
+  guangyun: 同𢷒
+- reading: jiē
+  old_chinese: kad
+  middle_chinese: kiɐt
+  fanqie: 居竭切
+  tone: 入
+  guangyun: 揭起説文曰髙舉也
+  senses:
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+    concept_label: ROLL UP
+  - concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+    concept_label: VISIBLE
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGNAL
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+    concept_label: LOUD
+  - gloss: TILL
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+  - concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+    concept_label: TIMBER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: qì
+  old_chinese: khrads
+  middle_chinese: kʰɯiɛi
+  fanqie: 去例切
+  tone: 去
+  guangyun: 褰衣渡水由膝已下曰揭
+  senses:
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+    concept_label: REST
+- reading: jié
+  old_chinese: ɡrad
+  middle_chinese: ɡɯiɛt
+  fanqie: 渠列切
+  tone: 入
+  guangyun: 髙舉又朅許二音
+  senses:
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+- reading: jiē
+  old_chinese: khrads
+  middle_chinese: kiɐt
+  fanqie: 居竭切
+  tone: 入
+  guangyun: 俗揭
+source:
+  source_file: taxchar.xml

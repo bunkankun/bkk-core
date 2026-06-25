@@ -1,0 +1,51 @@
+uuid: 7d536990-887c-4c39-b40f-afc7fc6bb0d3
+type: tax-char
+heads:
+- 莽
+pronunciations:
+- reading: mǔ
+  old_chinese: maaʔ
+  middle_chinese: muo
+  fanqie: 莫補切
+  tone: 上
+  guangyun: 宿草又音蟒
+  senses:
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+- reading: mǎng
+  old_chinese: maaŋʔ
+  middle_chinese: mɑŋ
+  fanqie: 模朗切
+  tone: 上
+  guangyun: 莫莽説文曰南昌謂犬善逐兔於艸中爲莽又姓前漢反者馬何羅後漢明德馬后恥與同宗改爲莾氏模朗切又莫古切十
+  senses:
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 8aadcd2d-503d-47eb-af15-2f52c5e8424d
+    concept_label: WEEDS
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+    concept_label: DENSE
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+  - concept_uuid: bbd019a7-d06b-4235-b148-b04b5d5ee631
+    concept_label: VAGUE
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+  - concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+    concept_label: WHAT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: mǒu
+  old_chinese: mooʔ
+  middle_chinese: məu
+  fanqie: 莫厚切
+  tone: 上
+  guangyun: 草莽
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,61 @@
+uuid: c2d33594-83ab-41c5-a7ce-b16fefad990f
+type: tax-char
+heads:
+- 榮
+pronunciations:
+- reading: róng
+  old_chinese: ɢʷeŋ
+  middle_chinese: ɦʷɯiaŋ
+  fanqie: 永兵切
+  tone: 平
+  guangyun: 榮華又姓漢有榮啓期永兵切六
+  senses:
+  - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+    concept_label: BLOSSOM
+    children:
+    - gloss: on roof eaves
+      concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+      concept_label: ORNAMENT
+    - gloss: feature
+      concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+      concept_label: FLOURISH
+      children:
+      - gloss: psychologically
+        concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+        concept_label: HAPPY
+      - gloss: and thus
+        concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+        concept_label: BEAUTIFUL
+        children:
+        - gloss: and thus
+          concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+          concept_label: FAMOUS
+          children:
+          - gloss: declarative
+            concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+            concept_label: PRAISE
+          - gloss: socially
+            concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+            concept_label: NOBLE
+    - gloss: materially
+      concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+      concept_label: RICH
+      children:
+      - gloss: genealised
+        concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+        concept_label: ABUNDANT
+        children:
+        - gloss: numerically
+          concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+          concept_label: MANY
+  - gloss: =營
+    concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: e72dd19b-10d8-41fc-8dfd-fa873f219bcc
+    concept_label: RULERS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T01:40:15.785+09:00'

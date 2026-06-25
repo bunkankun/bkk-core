@@ -1,0 +1,34 @@
+uuid: 42acdc29-cb86-48eb-b7a3-c329aafddc57
+type: tax-char
+heads:
+- 喬
+pronunciations:
+- reading: qiáo
+  old_chinese: ɡrew
+  middle_chinese: ɡɯiɛu
+  fanqie: 巨嬌切
+  tone: 平
+  guangyun: 髙也説文曰髙而曲也又虜姓前代録云匈奴貴姓喬氏代爲輔相巨嬌切十六
+  senses:
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: e15fa01c-f631-43e2-9fdf-60b4c17d5ce6
+    concept_label: HALBERD PARTS
+  - concept_uuid: baec0e2f-c355-4a37-b0ac-c70fc945590f
+    concept_label: IMPOLITE
+  - concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+    concept_label: PRETEND
+  - concept_uuid: 37573186-7d6b-4b03-adfe-2013e0e15afe
+    concept_label: IRRITATE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: jiāo
+  old_chinese: krew
+  middle_chinese: kɯiɛu
+  fanqie: 舉喬切
+  tone: 平
+  guangyun: 爾雅云句如羽喬郭璞曰樹枝曲卷似鳥毛羽
+  senses:
+  - gloss: = 驕
+source:
+  source_file: taxchar.xml

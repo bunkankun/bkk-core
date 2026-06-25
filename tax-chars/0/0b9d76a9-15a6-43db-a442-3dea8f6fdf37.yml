@@ -1,0 +1,33 @@
+uuid: 0b9d76a9-15a6-43db-a442-3dea8f6fdf37
+type: tax-char
+heads:
+- 辱
+pronunciations:
+- reading: rǔ
+  old_chinese: njoɡ
+  middle_chinese: ȵiok
+  fanqie: 而蜀切
+  tone: 入
+  guangyun: 恥辱又汚也惡也又姓出姓苑而蜀切十一
+  senses:
+  - concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+    concept_label: SHAME
+  - concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+    concept_label: DIRTY
+  - concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+    concept_label: HUMILIATE
+  - gloss: DISAPPOINT
+  - gloss: reflexive, polite> humbly
+    concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+    concept_label: HUMBLE
+  - concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+    concept_label: AGREE TO
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+  - gloss: =溽
+    concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

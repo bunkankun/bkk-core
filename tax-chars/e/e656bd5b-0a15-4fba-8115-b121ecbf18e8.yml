@@ -1,0 +1,58 @@
+uuid: e656bd5b-0a15-4fba-8115-b121ecbf18e8
+type: tax-char
+heads:
+- 職
+pronunciations:
+- reading: zhí
+  old_chinese: tjɯɡ
+  middle_chinese: tɕɨk
+  fanqie: 之翼切
+  tone: 入
+  guangyun: 俗職
+- reading: zhí
+  old_chinese: kljɯɡ
+  middle_chinese: tɕɨk
+  fanqie: 之翼切
+  tone: 入
+  guangyun: 爾雅云職主也常也博雅云業也字林云記微也又姓周禮有職方氏其後因官爲姓風俗通云漢有山陽令職洪之翼切九
+  senses:
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+    children:
+    - gloss: generalised
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+      children:
+      - gloss: associated feature
+        concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+        concept_label: ABLE
+    - gloss: institution
+      concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+      concept_label: OFFICE
+      children:
+      - gloss: related
+        concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+        concept_label: DUTY
+        children:
+        - gloss: specific
+          concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+          concept_label: TAX
+          children:
+          - gloss: political
+            concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+            concept_label: TRIBUTE
+        - gloss: related
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+        - gloss: feature
+          concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+          concept_label: ALWAYS
+        - gloss: feature
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 職 ｔｅ４《集韻》敵德切，入德定。職部。
+source:
+  source_file: taxchar.xml

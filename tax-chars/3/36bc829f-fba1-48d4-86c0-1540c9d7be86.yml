@@ -1,0 +1,40 @@
+uuid: 36bc829f-fba1-48d4-86c0-1540c9d7be86
+type: tax-char
+heads:
+- 鹽
+pronunciations:
+- reading: yán
+  old_chinese: k-lam
+  middle_chinese: jiɛm
+  fanqie: 余廉切
+  tone: 平
+  guangyun: 説文曰鹹也古者宿沙初作煑海爲鹽亦州近北鹽池因以名之又姓魯國先賢傳有北海相鹽津余廉切十五
+  senses:
+  - concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+    concept_label: SALT
+- reading: yán
+  old_chinese: k-lam
+  middle_chinese: jiɛm
+  fanqie: 余廉切
+  tone: 平
+  guangyun: 俗鹽
+- reading: yàn
+  old_chinese: ɡ·lam
+  middle_chinese: jiɛm
+  fanqie: 以贍切
+  tone: 去
+  guangyun: 同鹽
+- reading: yàn
+  old_chinese: k-lams
+  middle_chinese: jiɛm
+  fanqie: 以贍切
+  tone: 去
+  guangyun: 以鹽醃也本音平聲
+  senses:
+  - concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+    concept_label: SALT
+  - concept_uuid: a14b3089-406f-4eea-bb20-3e24cc36ef62
+    concept_label: SONGS
+  - gloss: = 艷
+source:
+  source_file: taxchar.xml

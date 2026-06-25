@@ -1,0 +1,75 @@
+uuid: 1798cd67-cbb9-4a21-957a-016a417780fd
+type: tax-char
+heads:
+- 少
+pronunciations:
+- reading: shǎo
+  old_chinese: hmljewʔ
+  middle_chinese: ɕiɛu
+  fanqie: 書沼切
+  tone: 上
+  guangyun: 不多也書沼切又式照切三
+  senses:
+  - gloss: in number
+    concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+    children:
+    - gloss: generalised
+      concept_uuid: 259b57ae-5a7a-4ad9-8ac9-0ac11f8054c5
+      concept_label: LITTLE
+      children:
+      - gloss: degree
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+        children:
+        - gloss: causative
+          concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+          concept_label: REDUCE
+        - gloss: adverbial
+          concept_uuid: 04ab2f04-8e86-4176-b0ec-a40e3a6a7129
+          concept_label: SLIGHTLY
+        - gloss: subjective
+          concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+          concept_label: UNIMPORTANT
+          children:
+          - gloss: putative
+            concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+            concept_label: DESPISE
+          - gloss: social
+            concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+            concept_label: HUMBLE
+    - gloss: comparative
+      concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+      concept_label: INSUFFICIENT
+      children:
+      - gloss: thus mistaken, mathematical
+        concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+        concept_label: MISTAKE
+  - gloss: event
+    concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+    concept_label: RARE
+    children:
+    - gloss: short time
+      concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+      concept_label: MOMENT
+      children:
+      - gloss: grammaticalised:after a short time
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+- reading: shào
+  old_chinese: hmljews
+  middle_chinese: ɕiɛu
+  fanqie: 失照切
+  tone: 去
+  guangyun: 幼少漢書曰少府秦官掌山海池澤之稅以給供養又漢複姓五氏説苑趙簡子御有少室周魯惠公子施叔之後有少施氏家語魯有少正卯孔子弟子有少叔乗何氏姓苑有少師氏失照切又失沼切二
+  senses:
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+    children:
+    - gloss: junior
+      concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+      concept_label: ASSISTANT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T01:56:19.618+09:00'

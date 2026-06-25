@@ -1,0 +1,28 @@
+uuid: 59a88266-e052-442a-9c19-b8cec15ecddb
+type: tax-char
+heads:
+- 馭
+pronunciations:
+- reading: yù
+  old_chinese: ŋas
+  middle_chinese: ŋiɔ
+  fanqie: 牛倨切
+  tone: 去
+  guangyun: 使馬也
+  senses:
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+    concept_label: CARRIAGE
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+    concept_label: AUTHORITY
+  - concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+    concept_label: COPULATE
+source:
+  source_file: taxchar.xml

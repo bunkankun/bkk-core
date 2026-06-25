@@ -1,0 +1,29 @@
+uuid: 7661527f-4319-4ef0-81b4-3c35e9dd68cf
+type: tax-char
+heads:
+- 帝
+pronunciations:
+- reading: dì
+  old_chinese: k-leeɡs
+  middle_chinese: tei
+  fanqie: 都計切
+  tone: 去
+  guangyun: 説文曰諦也王天下之號也爾雅曰君也都計切二十三
+  senses:
+  - concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+    concept_label: ANCESTOR
+    children:
+    - gloss: ancestral
+      concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+      concept_label: GOD
+      children:
+      - gloss: your divine
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+    - gloss: divine:ancestral, deceased
+      concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+      concept_label: KING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T19:36:13.926+09:00'

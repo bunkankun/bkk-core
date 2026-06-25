@@ -1,0 +1,41 @@
+uuid: ec1a1915-8f3d-4b27-bac3-ff039afb7513
+type: tax-char
+heads:
+- 賤
+pronunciations:
+- reading: jiàn
+  old_chinese: dzens
+  middle_chinese: dziɛn
+  fanqie: 才線切
+  tone: 去
+  guangyun: 輕賤又姓風俗通云漢有北平太守賤瓊才線切三
+  senses:
+  - concept_uuid: 1f07ab5a-cffd-4ab0-8f20-4ed59626143e
+    concept_label: CHEAP
+    children:
+    - gloss: of low quality
+      concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+      concept_label: BAD
+      children:
+      - gloss: socially
+        concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+        concept_label: HUMBLE
+        children:
+        - gloss: gramaticalised, self-deprecatory
+          concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+          concept_label: EGO
+        - gloss: morally and aesthetically
+          concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+          concept_label: VULGAR
+        - gloss: causative
+          concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+          concept_label: DEMOTE
+        - gloss: putative
+          concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+          concept_label: DESPISE
+        - gloss: 'attitudinal: action'
+          concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+          concept_label: DISCARD
+  - gloss: =踐 “practice, act out"
+source:
+  source_file: taxchar.xml

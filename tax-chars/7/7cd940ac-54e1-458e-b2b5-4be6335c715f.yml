@@ -1,0 +1,33 @@
+uuid: 7cd940ac-54e1-458e-b2b5-4be6335c715f
+type: tax-char
+heads:
+- 里
+pronunciations:
+- reading: lǐ
+  old_chinese: ɡ-rɯʔ
+  middle_chinese: lɨ
+  fanqie: 良士切
+  tone: 上
+  guangyun: 周禮五家爲鄰五鄰爲里風俗通云五家爲軌十軌爲里里者止也五十家共居止也又姓左傳晉大夫里克又漢複姓有相里氏良士切十
+  senses:
+  - concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+    concept_label: VILLAGE
+    children:
+    - gloss: part of
+      concept_uuid: d10affc9-c77e-4d25-8cac-c6da4d3342bf
+      concept_label: HUT
+      children:
+      - gloss: associated action
+        concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+        concept_label: DWELL
+    - gloss: abstract
+      concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+      concept_label: LENGTH MEASURES
+      children:
+      - gloss: derived
+        concept_uuid: e468d8fd-5fc2-4d12-b0e8-7a0afee32be9
+        concept_label: AREA MEASURES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T23:52:18.806+09:00'

@@ -1,0 +1,22 @@
+uuid: f2b85597-4ad6-400f-8085-76a7142ad0be
+type: tax-char
+heads:
+- 沫
+pronunciations:
+- reading: mò
+  old_chinese: maad
+  middle_chinese: mʷɑt
+  fanqie: 莫撥切
+  tone: 入
+  guangyun: 水沫一曰水名在蜀又武泰切
+  senses:
+  - concept_uuid: 33bd683e-b7a8-49be-9f34-b0041e779296
+    concept_label: BUBBLE
+  - concept_uuid: bb42ab93-ad17-4d0e-8c69-3344a4f9a42b
+    concept_label: SALIVA
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

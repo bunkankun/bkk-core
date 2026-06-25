@@ -1,0 +1,44 @@
+uuid: 29e8f5b1-436a-41bd-8e5b-a15b548f9b05
+type: tax-char
+heads:
+- 堂
+pronunciations:
+- reading: táng
+  old_chinese: daaŋ
+  middle_chinese: dɑŋ
+  fanqie: 徒郎切
+  tone: 平
+  guangyun: 堂除亦屋白虎通曰天子之堂髙九尺天子尊故極陽之數九尺也堂之爲言明也所以明禮義也禮記曰天子之堂九尺諸侯七尺大夫五尺士三尺又姓風俗通云堂楚邑大夫五尚爲之其後氏焉
+  senses:
+  - concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+    concept_label: ROOM
+    children:
+    - gloss: generalised
+      concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+      concept_label: BUILDING
+      children:
+      - gloss: feature
+        concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+        concept_label: HIGH
+      - gloss: public
+        concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+        concept_label: PUBLIC BUILDING
+        children:
+        - gloss: official
+          concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+          concept_label: COURT
+          children:
+          - gloss: feature of preceedings in
+            concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+            concept_label: SERIOUS
+    - gloss: figurative in appellations for
+      concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+      concept_label: MOTHER
+      children:
+      - gloss: collective
+        concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+        concept_label: FAMILY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T00:23:03.98+09:00'

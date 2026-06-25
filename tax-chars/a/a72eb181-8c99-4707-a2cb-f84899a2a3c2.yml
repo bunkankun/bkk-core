@@ -1,0 +1,34 @@
+uuid: a72eb181-8c99-4707-a2cb-f84899a2a3c2
+type: tax-char
+heads:
+- 萊
+pronunciations:
+- reading: lài
+  old_chinese: rɯɯs
+  middle_chinese: ləi
+  fanqie: 洛代切
+  tone: 去
+  guangyun: 草也又音來
+- reading: lái
+  old_chinese: rɯɯ
+  middle_chinese: ləi
+  fanqie: 落哀切
+  tone: 平
+  guangyun: 藜草亦州名漢掖縣屬東萊郡秦屬齊郡後魏分青州置光州取界内光水爲名隋改爲萊州又姓左傳晉與秦戰干郩萊駒爲右
+  senses:
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+    concept_label: WEED
+  - concept_uuid: 8aadcd2d-503d-47eb-af15-2f52c5e8424d
+    concept_label: WEEDS
+  - concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+    concept_label: FIELD
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

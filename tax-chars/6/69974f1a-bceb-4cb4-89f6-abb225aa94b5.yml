@@ -1,0 +1,30 @@
+uuid: 69974f1a-bceb-4cb4-89f6-abb225aa94b5
+type: tax-char
+heads:
+- 克
+pronunciations:
+- reading: kè
+  old_chinese: khɯɯɡ
+  middle_chinese: kʰək
+  fanqie: 苦得切
+  tone: 入
+  guangyun: 能也勝也説文作𡱠肩也
+  senses:
+  - concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+    concept_label: CONQUER
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - concept_uuid: 163cab3e-7077-4ed2-884e-d4ac15ff382e
+    concept_label: PROPER NAMES
+  - concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+    concept_label: SUCCEED
+  - concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+    concept_label: WIN
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,21 @@
+uuid: b392fc41-7513-4977-b422-4856bb0de9fa
+type: tax-char
+heads:
+- 岩
+- 巖
+pronunciations:
+- reading: yán
+  old_chinese: ŋɡraam
+  middle_chinese: ŋɯam
+  fanqie: 五銜切
+  tone: 平
+  guangyun: 峯也險也峻廊也五銜切三
+  senses:
+  - concept_uuid: c512e905-9006-4595-a0e5-d64d3e84b91c
+    concept_label: CRAGGY
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+source:
+  source_file: taxchar.xml

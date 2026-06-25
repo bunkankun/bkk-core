@@ -1,0 +1,47 @@
+uuid: 868fe473-c013-464c-a510-eba75989b69b
+type: tax-char
+heads:
+- 火
+pronunciations:
+- reading: huǒ
+  old_chinese: qphaalʔ
+  middle_chinese: huɑ
+  fanqie: 呼果切
+  tone: 上
+  guangyun: 河圖挺左輔曰伏羲禪於伯牛鑚木作火説文曰燬也南方之行炎而上象形呼果切二
+  senses:
+  - concept_uuid: 39ec3bea-feb6-4638-a367-12ed383908c2
+    concept_label: FIRE
+    children:
+    - gloss: concrete
+      concept_uuid: 67400650-71ab-426c-a90d-93c8dda0924b
+      concept_label: LIGHTNING
+    - gloss: process
+      concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+      concept_label: BURN
+      children:
+      - gloss: 'figurative: “burning” intense'
+        concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+        concept_label: FEELING
+        children:
+        - gloss: 'emotional: concrete'
+          concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+          concept_label: ANGER
+      - gloss: subject
+        concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+        concept_label: SUN
+      - gloss: 'subject:'
+        concept_uuid: 7ecb2648-ac00-4599-869c-ca0031791618
+        concept_label: TORCH
+      - gloss: subject
+        concept_uuid: f02c4fed-eba6-416f-be20-600a39b82755
+        concept_label: LAMP
+        children:
+        - gloss: product
+          concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+          concept_label: LIGHT
+      - gloss: 'subject: Antares'
+        concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+        concept_label: STAR
+source:
+  source_file: taxchar.xml

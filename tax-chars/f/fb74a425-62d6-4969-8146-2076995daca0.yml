@@ -1,0 +1,92 @@
+uuid: fb74a425-62d6-4969-8146-2076995daca0
+type: tax-char
+heads:
+- 毛
+pronunciations:
+- reading: máo
+  old_chinese: moow
+  middle_chinese: mɑu
+  fanqie: 莫袍切
+  tone: 平
+  guangyun: 説文曰眉髮及獸毛也亦姓本自周武王母弟毛公後以爲氏本居鉅鹿避讎滎陽也莫袍切一十
+  senses:
+  - concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+    concept_label: HAIR
+    children:
+    - gloss: on entire body
+      concept_uuid: 54171046-fc50-4322-88de-a5e5c292ee35
+      concept_label: FUR
+      children:
+      - gloss: 'exocentric: furry'
+        concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+        concept_label: ANIMAL
+      - gloss: 'exocentric: clothes'
+        concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+        concept_label: GARMENT
+    - gloss: facial
+      concept_uuid: 3624aada-f603-40a7-a028-e703ade2ea00
+      concept_label: BEARD
+    - gloss: equivalent on birds
+      concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+      concept_label: FEATHER
+    - gloss: typical feature
+      concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+      concept_label: SMALL
+      children:
+      - gloss: abstract
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+        children:
+        - gloss: putative
+          concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+          concept_label: NEGLECT
+          children:
+          - gloss: neglecting detail
+            concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+            concept_label: APPROXIMATELY
+            children:
+            - gloss: resulting feature
+              concept_uuid: bbd019a7-d06b-4235-b148-b04b5d5ee631
+              concept_label: VAGUE
+              children:
+              - gloss: physical
+                concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+                concept_label: COARSE
+    - gloss: 'metaphorical: vegetation'
+      concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+      concept_label: PLANT
+      children:
+      - gloss: FUNGUS
+      - concept_uuid: 659af973-78c5-4b82-862c-08298984161c
+        concept_label: MOSS
+  - gloss: modern
+    concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - gloss: modern
+    concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+    concept_label: DIRTY
+  - gloss: modern
+    concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - gloss: phonetic loan?
+    concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+- reading: mào
+  old_chinese: moows
+  middle_chinese: mɑu
+  fanqie: 莫報切
+  tone: 去
+  guangyun: 毛鷹鷂鸇
+  senses:
+  - gloss: (hair from fur)
+    concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - gloss: on the basis of fur quality
+    concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+unattributed_senses:
+- gloss: 毛 ｍａｏ４《集韻》莫報切，去〓明。宵部。
+source:
+  source_file: taxchar.xml

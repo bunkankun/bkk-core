@@ -1,0 +1,79 @@
+uuid: 0e33b73f-4109-4e76-9767-bd8646597305
+type: tax-char
+heads:
+- 遷
+pronunciations:
+- reading: qiān
+  old_chinese: tshen
+  middle_chinese: tsʰiɛn
+  fanqie: 七然切
+  tone: 平
+  guangyun: 去下之髙也詩云遷于喬木七然切八
+  senses:
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+    children:
+    - gloss: oneself from scene
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+    - gloss: move to join
+      concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+      concept_label: RALLY
+    - gloss: upwards
+      concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+      concept_label: ASCEND
+      children:
+      - gloss: 'figurative: be moved to delight'
+        concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+        concept_label: DELIGHT
+    - gloss: transitive
+      concept_uuid: f2ac46b3-e062-42cd-9ab9-9c57452c6eb3
+      concept_label: DISPLACE
+      children:
+      - gloss: 'causative: concrete'
+        concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+        concept_label: TRANSPORT
+        children:
+        - gloss: abstract
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+          children:
+          - gloss: ownership
+            concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+            concept_label: SELL
+      - gloss: so as to become absent
+        concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+        concept_label: REMOVE
+        children:
+        - gloss: by order, from state
+          concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+          concept_label: EXILE
+      - gloss: in all directions
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+    - gloss: 'abstract: one''s qualities'
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+      children:
+      - gloss: negative
+        concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+        concept_label: DAMAGE
+      - gloss: positive
+        concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+        concept_label: IMPROVE
+    - gloss: 'administrative: upwards in status'
+      concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+      concept_label: PROMOTE
+    - gloss: 'administrative: downwards in status'
+      concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+      concept_label: DEMOTE
+- reading: qiān
+  old_chinese: snʰiin
+  middle_chinese: tsʰen
+  fanqie: 蒼先切
+  tone: 平
+  guangyun: 伺候也進也又迁葬又標記也
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-25T00:16:19.934+09:00'

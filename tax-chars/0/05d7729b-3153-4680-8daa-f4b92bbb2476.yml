@@ -1,0 +1,55 @@
+uuid: 05d7729b-3153-4680-8daa-f4b92bbb2476
+type: tax-char
+heads:
+- 馮
+pronunciations:
+- reading: féng
+  old_chinese: blɯŋ
+  middle_chinese: biuŋ
+  fanqie: 房戎切
+  tone: 平
+  guangyun: 馮翊郡名又姓畢公髙之後食采於馮城因而命氏出杜陵及長樂房戎切七
+  senses:
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: píng
+  old_chinese: brɯŋ
+  middle_chinese: bɨŋ
+  fanqie: 扶冰切
+  tone: 平
+  guangyun: 周禮馮相氏鄭玄云馮乗也相視也丗登髙臺以視天文又防戎切
+  senses:
+  - concept_uuid: 06e0eefe-b216-47cb-919c-aceb22a66c32
+    concept_label: GALLOP
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+    concept_label: GREEDY
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+  - concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+    concept_label: LEAN ON
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+    concept_label: PROVE
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+source:
+  source_file: taxchar.xml

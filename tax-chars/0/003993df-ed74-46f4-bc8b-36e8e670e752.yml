@@ -1,0 +1,83 @@
+uuid: 003993df-ed74-46f4-bc8b-36e8e670e752
+type: tax-char
+heads:
+- 制
+pronunciations:
+- reading: zhì
+  old_chinese: kjeds
+  middle_chinese: tɕiɛi
+  fanqie: 征例切
+  tone: 去
+  guangyun: 見上注
+- reading: zhì
+  old_chinese: kjeds
+  middle_chinese: tɕiɛi
+  fanqie: 征例切
+  tone: 去
+  guangyun: 禁制又斷也止也勝也説文作利裁也从刀从未物有滋味可裁斷也征例切十八
+  senses:
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+    children:
+    - gloss: figurative
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: perfective
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+      - gloss: systematic
+        concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+        concept_label: RESTRAIN
+        children:
+        - gloss: thus dominate
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+          children:
+          - concept_uuid: ef0251ed-2c77-481b-929c-455bd198a56e
+            concept_label: SYSTEM
+            children:
+            - gloss: regime of
+              concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+              concept_label: MOURNING
+          - gloss: controlling command
+            concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+            concept_label: DECREE
+            children:
+            - gloss: psychological
+              concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+              concept_label: DECIDE
+            - gloss: action
+              concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+              concept_label: COMMAND
+            - gloss: general
+              concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+              concept_label: LAW
+              children:
+              - gloss: causative action
+                concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+                concept_label: ESTABLISH
+                children:
+                - gloss: generalised
+                  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+                  concept_label: PRODUCE
+                  children:
+                  - gloss: 'object: text'
+                    concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+                    concept_label: WRITE
+                    children:
+                    - gloss: generalised
+                      concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+                      concept_label: CREATE
+              - gloss: law concerning weights and measures
+                concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+                concept_label: STANDARD
+                children:
+                - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+                  concept_label: LENGTH MEASURES
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:36:52.032+09:00'

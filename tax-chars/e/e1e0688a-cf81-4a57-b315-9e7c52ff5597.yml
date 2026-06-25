@@ -1,0 +1,50 @@
+uuid: e1e0688a-cf81-4a57-b315-9e7c52ff5597
+type: tax-char
+heads:
+- 衣
+pronunciations:
+- reading: yī
+  old_chinese: qɯl
+  middle_chinese: ʔɨi
+  fanqie: 於希切
+  tone: 平
+  guangyun: 上曰衣下曰裳丗本曰胡曹作衣白虎通云衣者隱也裳者障也所以隱形自障蔽也又姓出姓苑
+- reading: yì
+  old_chinese: qɯls
+  middle_chinese: ʔɨi
+  fanqie: 於既切
+  tone: 去
+  guangyun: 衣著於旣切又音依一
+  senses:
+  - gloss: yì derivation by tone change
+    concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+    children:
+    - gloss: 'figurative: generalised'
+      concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+      concept_label: COVER
+unattributed_senses:
+- concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  concept_label: GARMENT
+  children:
+  - gloss: specifically
+    concept_uuid: c6de422f-347d-4380-abeb-62a79d73cef8
+    concept_label: JACKET
+  - gloss: generalised:cloth
+    concept_uuid: d5d3fb95-4e6c-4c5d-9797-6d4eca230f87
+    concept_label: BLANKET
+    children:
+    - gloss: 'figurative:'
+      concept_uuid: 659af973-78c5-4b82-862c-08298984161c
+      concept_label: MOSS
+      children:
+      - gloss: 'figurative:'
+        concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+        concept_label: FEATHER
+      - gloss: 'figurative: peel of fruit etc'
+        concept_uuid: 076be8ba-36c2-49c9-b580-fbd55fab2202
+        concept_label: RIND
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:16:21.693+09:00'

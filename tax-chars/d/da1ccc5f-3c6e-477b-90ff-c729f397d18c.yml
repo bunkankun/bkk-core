@@ -1,0 +1,25 @@
+uuid: da1ccc5f-3c6e-477b-90ff-c729f397d18c
+type: tax-char
+heads:
+- 愴
+pronunciations:
+- reading: chuàng
+  old_chinese: skhraŋs
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初亮切
+  tone: 去
+  guangyun: 悽愴
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+- reading: chuǎng
+  old_chinese: skhraŋʔ
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初兩切
+  tone: 上
+  guangyun: 愴怳失意皃又音創
+  senses:
+  - concept_uuid: afa1eaf9-9b3c-4eed-9fc9-149fd66f1edf
+    concept_label: DISAPPOINTED
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,23 @@
+uuid: 38b7dd34-3919-4a64-b0c0-b35b0f5ebbd0
+type: tax-char
+heads:
+- 贈
+pronunciations:
+- reading: zèng
+  old_chinese: dzɯɯŋs
+  middle_chinese: dzəŋ
+  fanqie: 昨亘切
+  tone: 去
+  guangyun: 玩也好也相送也昨亘切二
+  senses:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+    children:
+    - gloss: object given
+      concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+      concept_label: GIFT
+    - gloss: 'causative: generalised'
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+source:
+  source_file: taxchar.xml

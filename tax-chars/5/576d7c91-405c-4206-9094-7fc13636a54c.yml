@@ -1,0 +1,41 @@
+uuid: 576d7c91-405c-4206-9094-7fc13636a54c
+type: tax-char
+heads:
+- 恭
+pronunciations:
+- reading: gōng
+  old_chinese: koŋ
+  middle_chinese: kioŋ
+  fanqie: 九容切
+  tone: 平
+  guangyun: 恭敬也説文本作𢙄肅也又姓晉太子申生號恭君其後氏焉出國語九容切陸以恭蜙縱等入冬韻非也十
+  senses:
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+    children:
+    - gloss: feature
+      concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+      concept_label: POLITE
+    - gloss: superior
+      concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+      concept_label: SERVE
+      children:
+      - gloss: required mode
+        concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+        concept_label: DILIGENT
+      - gloss: as one is obliged to
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+    - gloss: as sign of respect>> (=供）
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+  - gloss: (modern)
+    concept_uuid: ed12cb69-ffb9-4e99-ba16-f44c8369aa82
+    concept_label: SHIT
+  - gloss: =拱
+    concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+    concept_label: GREET
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

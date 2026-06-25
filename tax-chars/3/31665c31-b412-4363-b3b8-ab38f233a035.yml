@@ -1,0 +1,55 @@
+uuid: 31665c31-b412-4363-b3b8-ab38f233a035
+type: tax-char
+heads:
+- 市
+pronunciations:
+- reading: shì
+  old_chinese: djɯʔ
+  middle_chinese: dʑɨ
+  fanqie: 時止切
+  tone: 上
+  guangyun: 説文云買賣所之也周禮曰司市掌市之治教政形量度禁令大市日側而市百族爲主朝市朝時而市商賈爲主夕市夕時而市販夫販婦爲主古吏考曰神農作市丗本曰祝融作市時止切三
+  senses:
+  - concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+    concept_label: MARKET
+    children:
+    - gloss: multiplicity present at
+      concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+      concept_label: CROWD
+    - gloss: person in charge of
+      concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+      concept_label: OFFICIAL
+    - gloss: surrounding settlement
+      concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+      concept_label: CITY
+    - gloss: activity at
+      concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+      concept_label: TRADE
+      children:
+      - gloss: obtain throug trade
+        concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+        concept_label: BUY
+      - gloss: 'causative: cause others to buy'
+        concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+        concept_label: SELL
+        children:
+        - gloss: associated feature
+          concept_uuid: cdf2a1cd-79e2-42eb-8f27-7cc2e19c2e61
+          concept_label: PRICE
+        - gloss: byt through barter
+          concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+          concept_label: EXCHANGE
+        - gloss: buy favours from superiors
+          concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+          concept_label: BRIBE
+      - gloss: 'generalised: aim to obtain'
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+        children:
+        - gloss: sexual contact
+          concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+          concept_label: SEDUCE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

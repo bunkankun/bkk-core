@@ -1,0 +1,31 @@
+uuid: a91dcd51-fc51-4975-9250-c247fed3c4b4
+type: tax-char
+heads:
+- 墜
+pronunciations:
+- reading: zhuì
+  old_chinese: ɡrluds
+  middle_chinese: ɖʷɯi
+  fanqie: 直類切
+  tone: 去
+  guangyun: 落也直類切三
+  senses:
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+    concept_label: ORNAMENT
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: THROW
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - gloss: MEASURING UNIT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,26 @@
+uuid: d39e09fa-509d-468f-8004-453a3152a3a6
+type: tax-char
+heads:
+- 烹
+pronunciations:
+- reading: pēng
+  old_chinese: pqhraaŋ
+  middle_chinese: pʰɯiaŋ
+  fanqie: 撫庚切
+  tone: 平
+  guangyun: 煑也俗作烹又許庚許兩二切
+  senses:
+  - concept_uuid: bb6e394b-930f-436d-8159-1571b4820169
+    concept_label: BOIL
+  - concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+    concept_label: EXECUTE
+  - concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+    concept_label: COOK
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: d443ef9b-08a1-4be8-9a9f-ed512af47e0f
+    concept_label: SMELT
+  - concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+    concept_label: FRIGHTEN
+source:
+  source_file: taxchar.xml

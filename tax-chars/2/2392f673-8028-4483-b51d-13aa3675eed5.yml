@@ -1,0 +1,48 @@
+uuid: 2392f673-8028-4483-b51d-13aa3675eed5
+type: tax-char
+heads:
+- 剛
+pronunciations:
+- reading: gāng
+  old_chinese: kaaŋ
+  middle_chinese: kɑŋ
+  fanqie: 古郎切
+  tone: 平
+  guangyun: 強也
+  senses:
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 47b75098-f7c0-4bb8-ae58-ee58b3889610
+    concept_label: ODD-NUMBER
+  - concept_uuid: 15eb9b56-96d3-4016-9e5c-d5a550e80344
+    concept_label: OX
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+    concept_label: EVEN
+  - concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+    concept_label: CARRIAGE
+  - concept_uuid: a3fbcd2f-2422-4324-a7eb-7387fce35b10
+    concept_label: DRUM
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: gāng
+  old_chinese: kaaŋ
+  middle_chinese: kɑŋ
+  fanqie: 古郎切
+  tone: 平
+  guangyun: 俗剛
+source:
+  source_file: taxchar.xml

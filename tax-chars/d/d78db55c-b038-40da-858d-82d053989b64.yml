@@ -1,0 +1,84 @@
+uuid: d78db55c-b038-40da-858d-82d053989b64
+type: tax-char
+heads:
+- 靈
+pronunciations:
+- reading: líng
+  old_chinese: reeŋ
+  middle_chinese: leŋ
+  fanqie: 郎丁切
+  tone: 平
+  guangyun: 字𩔖云小熱皃
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+    children:
+    - gloss: exocentric, polite paraphrase addressing the deceased person
+      concept_uuid: 2c6ca376-008e-4a2f-a9f6-53cab2cb828e
+      concept_label: CORPSE
+      children:
+      - gloss: container
+        concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+        concept_label: COFFIN
+    - gloss: feature
+      concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+      concept_label: SUPERNATURAL
+      children:
+      - gloss: supernatural gleaming
+        concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+        concept_label: LIGHT
+        children:
+        - gloss: 'feature: supernaturally'
+          concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+          concept_label: STRANGE
+      - gloss: feature
+        concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+        concept_label: ENERGY
+        children:
+        - gloss: 'exocentric: person'
+          concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+          concept_label: SHAMAN
+          children:
+          - gloss: 'exocentric: person edowed with supernatural political authority'
+            concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+            concept_label: RULER
+          - gloss: also generally
+            concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+            concept_label: INTELLIGENT
+            children:
+            - gloss: supremely
+              concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+              concept_label: WISE
+              children:
+              - gloss: logical
+                concept_uuid: 80d2d0a1-6ab1-4c9f-b46c-f6100a85519d
+                concept_label: RATIONAL
+            - gloss: 'supernatural:'
+              concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+              concept_label: AUTHORITY
+              children:
+              - gloss: 'supernatural positive feature:'
+                concept_label: LUCKY
+                children:
+                - gloss: supernaturally and generally
+                  concept_label: EFFECTIVE
+      - gloss: 'exocentric: supernatural part of person'
+        concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+        concept_label: SOUL
+        children:
+        - gloss: 'general: non-physical'
+          concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+          concept_label: MIND
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - concept_uuid: 63a5d69c-4ff0-410d-a427-d37b4f4f8d43
+    concept_label: RULERS OF WEY
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+  - concept_label: =零 "shrivelled"
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-13T23:16:58.344+09:00'

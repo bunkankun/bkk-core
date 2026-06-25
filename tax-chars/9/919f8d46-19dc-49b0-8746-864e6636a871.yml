@@ -1,0 +1,40 @@
+uuid: 919f8d46-19dc-49b0-8746-864e6636a871
+type: tax-char
+heads:
+- 壅
+pronunciations:
+- reading: yòng
+  old_chinese: qoŋ
+  middle_chinese: ʔioŋ
+  fanqie: 於用切
+  tone: 去
+  guangyun: 加土㙲田
+- reading: yòng
+  old_chinese: qoŋs
+  middle_chinese: ʔioŋ
+  fanqie: 於用切
+  tone: 去
+- reading: yǒng
+  old_chinese: qoŋʔ
+  middle_chinese: ʔioŋ
+  fanqie: 於隴切
+  tone: 上
+  guangyun: 壅堨亦塞也障也又音邕
+- reading: yōng
+  old_chinese: qoŋ
+  middle_chinese: ʔioŋ
+  fanqie: 於容切
+  tone: 平
+  guangyun: 塞又音擁
+  senses:
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: 30fa5df8-a9ff-43d7-9041-24f2279e5ca5
+    concept_label: CONGEAL
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - gloss: TILL
+  - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+source:
+  source_file: taxchar.xml

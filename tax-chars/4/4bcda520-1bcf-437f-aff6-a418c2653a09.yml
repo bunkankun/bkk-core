@@ -1,0 +1,32 @@
+uuid: 4bcda520-1bcf-437f-aff6-a418c2653a09
+type: tax-char
+heads:
+- 蹈
+pronunciations:
+- reading: dào
+  old_chinese: ɡ-luus
+  middle_chinese: dɑu
+  fanqie: 徒到切
+  tone: 去
+  guangyun: 踐也
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+    concept_label: DANCE
+  - concept_uuid: 2f918b16-defb-4b2c-88fb-c3e8b1cd7e32
+    concept_label: DROWN
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+source:
+  source_file: taxchar.xml

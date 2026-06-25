@@ -1,0 +1,37 @@
+uuid: 99443bb1-237a-4ceb-82aa-0b2b78b77f72
+type: tax-char
+heads:
+- 考
+pronunciations:
+- reading: kǎo
+  old_chinese: khuuʔ
+  middle_chinese: kʰɑu
+  fanqie: 苦浩切
+  tone: 上
+  guangyun: 考古文
+  senses:
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+- reading: kǎo
+  old_chinese: khuuʔ
+  middle_chinese: kʰɑu
+  fanqie: 苦浩切
+  tone: 上
+  guangyun: 校也成也引也亦瑕釁淮南子云夏后氏之璜不能無考是也又姓岀何氏姓苑苦浩切十
+  senses:
+  - concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+    concept_label: ANCESTOR
+  - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+  - concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+    concept_label: FATHER
+  - concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+  - concept_uuid: 6461352c-c806-402a-a524-4929879d25a3
+    concept_label: RULERS OF CHU
+  - concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+    concept_label: STRIKE
+  - concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+    concept_label: STUDY
+source:
+  source_file: taxchar.xml

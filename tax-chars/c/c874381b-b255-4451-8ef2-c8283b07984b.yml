@@ -1,0 +1,77 @@
+uuid: c874381b-b255-4451-8ef2-c8283b07984b
+type: tax-char
+heads:
+- 儀
+pronunciations:
+- reading: yí
+  old_chinese: ŋral
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚羈切
+  tone: 平
+  guangyun: 同儀
+- reading: yí
+  old_chinese: ŋral
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚羈切
+  tone: 平
+  guangyun: 儀容又義也正也亦州名本漢涅縣地秦爲上黨郡武德爲遼州又爲箕州今爲儀州亦姓左傳徐大夫儀楚
+  senses:
+  - concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+    concept_label: RITUAL
+    children:
+    - gloss: abstract
+      concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+      concept_label: VIRTUE
+    - gloss: standard of
+      concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+      concept_label: CRITERION
+      children:
+      - gloss: feature
+        concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+        concept_label: APPROPRIATE
+        children:
+        - gloss: 'exocentric: properly aligned'
+          concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+          concept_label: ARMY
+        - gloss: 'abstract: proper'
+          concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+          concept_label: APPEARANCE
+        - gloss: officially
+          concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+          concept_label: CORRECT
+          children:
+          - gloss: morally
+            concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+            concept_label: GOOD
+      - gloss: action
+        concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+        concept_label: ASSESS
+        children:
+        - gloss: generalised
+          concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+          concept_label: LOOK
+      - gloss: typical action
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: causative
+          concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+          concept_label: SUMMON
+        - gloss: conforming to same pattern
+          concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+          concept_label: FRIEND
+    - gloss: ritually required
+      concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+      concept_label: GIFT
+    - gloss: ritually required
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+  - gloss: grammaticalised
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 07d5a5b4-003e-4915-82d9-27f6fd796a49
+    concept_label: ARISTOCRATS OF WEI
+source:
+  source_file: taxchar.xml

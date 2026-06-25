@@ -1,0 +1,28 @@
+uuid: 365cdcd8-15ea-40f0-a597-73c1b9a14868
+type: tax-char
+heads:
+- 百
+pronunciations:
+- reading: bǎi
+  old_chinese: praaɡ
+  middle_chinese: pɯak
+  fanqie: 博陌切
+  tone: 入
+  guangyun: 數名又姓秦有大夫百里奚
+  senses:
+  - concept_uuid: 11be8e80-38e2-4adc-b33d-c0ae11088b67
+    concept_label: HUNDRED
+    children:
+    - gloss: generalised
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+      children:
+      - gloss: exhaustively
+        concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+        concept_label: ALL
+  - concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T00:17:16.613+09:00'

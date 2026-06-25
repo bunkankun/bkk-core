@@ -1,0 +1,28 @@
+uuid: 6cb7b5df-2c28-4eb7-b24d-5649e570edd5
+type: tax-char
+heads:
+- 芻
+pronunciations:
+- reading: chú
+  old_chinese: tshro
+  middle_chinese: tʂʰio
+  fanqie: 測隅切
+  tone: 平
+  guangyun: 芻豢説文云刈草也俗作蒭亦姓出何氏姓苑測隅切二
+  senses:
+  - concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+    concept_label: DOMESTIC ANIMAL
+  - concept_uuid: 850a98f1-b50e-4008-9410-ad92c84e0d32
+    concept_label: HAY
+  - concept_uuid: b9e44d1d-4f2b-4f56-a103-30e61639e0b1
+    concept_label: STRAW
+  - concept_uuid: 1d836548-a153-40cb-92de-ec3dffd7a2e0
+    concept_label: MOW
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+    concept_label: UNIMPORTANT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

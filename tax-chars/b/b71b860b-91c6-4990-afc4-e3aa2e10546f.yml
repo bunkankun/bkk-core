@@ -1,0 +1,139 @@
+uuid: b71b860b-91c6-4990-afc4-e3aa2e10546f
+type: tax-char
+heads:
+- 當
+pronunciations:
+- reading: dàng
+  old_chinese: taaŋs
+  middle_chinese: tɑŋ
+  fanqie: 丁浪切
+  tone: 去
+  guangyun: 主當又底也亦音蟷
+- reading: dāng
+  old_chinese: taaŋ
+  middle_chinese: tɑŋ
+  fanqie: 都郎切
+  tone: 平
+  guangyun: 敵也直也主也值也亦州本羌地周置同昌郡隋改爲嘉城鎮貞觀中改爲當州蓋取燒當羌以名之又姓也都郎切十一
+  senses:
+  - concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+    concept_label: SHOULD
+    children:
+    - gloss: '[post-Buddhist:]tense'
+      concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+      concept_label: FUTURE
+    - gloss: grammaticalised
+      concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+      concept_label: IMPERATIVE MARKER
+      children:
+      - gloss: immediate
+        concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+        concept_label: NOW
+        children:
+        - gloss: th present
+          concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+          concept_label: THIS
+        - gloss: conditional
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+    - gloss: should receive
+      concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+      concept_label: DESERVE
+      children:
+      - gloss: action
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: mutually
+          concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+          concept_label: EQUAL
+          children:
+          - gloss: to a price
+            concept_uuid: adf91939-0b56-4d2e-a2c9-6780abbde6e8
+            concept_label: COST
+        - gloss: causative
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+          children:
+          - gloss: systematically
+            concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+            concept_label: GOVERN
+          - gloss: prohibitive
+            concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+            concept_label: BLOCK
+        - gloss: place or time
+          concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+          concept_label: BE IN
+          children:
+          - gloss: move
+            concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+            concept_label: APPROACH
+          - gloss: towards
+            concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+            concept_label: DIRECTION
+        - gloss: to a feature or role
+          concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+          concept_label: COPULA
+          children:
+          - gloss: intensitive
+            concept_uuid: c8ecf111-72bd-481a-b746-2701df3c1c41
+            concept_label: NECESSITY
+            children:
+            - gloss: weakened:likely
+              concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+              concept_label: PROBABLE
+          - gloss: be a guarantee
+            concept_uuid: b6f13407-084a-48e5-bd91-cba8fac3b537
+            concept_label: PAWN
+          - gloss: act as
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+            children:
+            - gloss: serve as employee
+              concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+              concept_label: WORK
+          - gloss: 'putative/declarative: believe/declare to be'
+            concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+            concept_label: JUDGE
+          - gloss: be exposed to
+            concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+            concept_label: SUFFER
+  - gloss: '[post-Buddhist:]grammaticalised, euphonic'
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - gloss: da4ng
+    concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+    concept_label: APPROPRIATE
+    children:
+    - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+      concept_label: CORRECT
+      children:
+      - concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+        concept_label: 'TRUE'
+        children:
+        - gloss: dàng
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+        - gloss: 'putative:'
+          concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+          concept_label: BELIEVE
+  - gloss: da4ng =??
+    concept_uuid: c1e904d1-c323-4f07-921d-9782ac32c047
+    concept_label: VESSEL PARTS
+  - gloss: dàng
+    concept_uuid: 6c700f10-1cf2-49c9-9643-c601fdb7d4e6
+    concept_label: BOTTOM
+  - gloss: da1ng =璫
+    concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+  - gloss: da3ng =擋
+    concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+    children:
+    - gloss: action
+      concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+      concept_label: FIGHT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-30T22:14:22.478+09:00'

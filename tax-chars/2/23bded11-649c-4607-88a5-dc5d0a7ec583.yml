@@ -1,0 +1,28 @@
+uuid: 23bded11-649c-4607-88a5-dc5d0a7ec583
+type: tax-char
+heads:
+- 斟
+pronunciations:
+- reading: zhēn
+  old_chinese: kljum
+  middle_chinese: tɕim
+  fanqie: 職深切
+  tone: 平
+  guangyun: 斟酌也益也又姓國語云祝融之後侯伯八姓斟姓無後賈逵注云斟姓是曹姓之後又漢複姓有斟弋氏岀史記職深切九
+  senses:
+  - concept_uuid: b4e10029-452b-4cf1-90e1-39bb34d71164
+    concept_label: LADLE
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+  - concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+    concept_label: POUR
+  - concept_uuid: 3057ae98-478b-43eb-a718-868f1b63f9b3
+    concept_label: SOUP
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

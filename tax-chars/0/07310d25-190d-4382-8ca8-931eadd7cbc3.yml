@@ -1,0 +1,24 @@
+uuid: 07310d25-190d-4382-8ca8-931eadd7cbc3
+type: tax-char
+heads:
+- 庇
+pronunciations:
+- reading: bì
+  old_chinese: pis
+  middle_chinese: pi
+  fanqie: 必至切
+  tone: 去
+  guangyun: 庇廕
+  senses:
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 81f3cc7b-d5f8-4259-90f6-018c0b8abaf6
+    concept_label: SHELTER
+  - concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+    concept_label: FORGIVE
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+source:
+  source_file: taxchar.xml

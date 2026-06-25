@@ -1,0 +1,40 @@
+uuid: 648537b4-b3f8-45a7-b5a6-7c17c0019378
+type: tax-char
+heads:
+- 疊
+pronunciations:
+- reading: dié
+  old_chinese: l'ɯɯb
+  middle_chinese: dep
+  fanqie: 徒協切
+  tone: 入
+  guangyun: 重也墮也明也累也積也説文云楊雄説以爲古理官決罪三日得其宜乃行之从晶从冝亡新以爲曡从三日太盛改爲三田亦州名禹貢梁州之域自秦至魏諸羌據焉周武帝始逐諸羌乃置曡州蓋以山重曡而名之
+- reading: dié
+  old_chinese: dɯɯb
+  middle_chinese: dep
+  fanqie: 徒協切
+  tone: 入
+  guangyun: 同曡
+  senses:
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+    concept_label: ACROBATICS
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: CLOTH
+  - concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+  - concept_uuid: ec8b5ef9-b575-426f-8709-e04992124c57
+    concept_label: FOLD
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+    concept_label: BEAT
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+  - gloss: = 碟
+  - gloss: NOMINAL MEASURE WORD
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

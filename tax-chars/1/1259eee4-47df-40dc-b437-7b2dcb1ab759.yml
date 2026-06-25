@@ -1,0 +1,78 @@
+uuid: 1259eee4-47df-40dc-b437-7b2dcb1ab759
+type: tax-char
+heads:
+- 履
+pronunciations:
+- reading: lǚ
+  old_chinese: riʔ
+  middle_chinese: li
+  fanqie: 力几切
+  tone: 上
+  guangyun: 踐也禄也幸也福也字書云草曰屝麻曰屨皮曰履黄帝臣於則所造又姓出姓苑力几切一
+  senses:
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+    children:
+    - gloss: as footwear
+      concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+      concept_label: WEAR
+      children:
+      - gloss: object
+        concept_uuid: f2e43d69-4324-4c7b-bff3-b202d9d14997
+        concept_label: FOOTWEAR
+      - gloss: So as to move in space
+        concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+        concept_label: WALK
+        children:
+        - gloss: perfective
+          concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+          concept_label: ARRIVE
+          children:
+          - gloss: 'abstract: pass through'
+            concept_uuid: cc904ef7-5afa-4730-811a-90532c83bcb5
+            concept_label: EXPERIENCE
+            children:
+            - gloss: frequentative
+              concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+              concept_label: OFTEN
+    - gloss: 'generalised, social: stative'
+      concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+      concept_label: BE IN
+      children:
+      - gloss: object
+        concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+        concept_label: TERRITORY
+        children:
+        - gloss: limits of
+          concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+          concept_label: BOUNDARY
+      - gloss: 'active: generalised'
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+      - gloss: 'transitive: so as to bring about'
+        concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+        concept_label: PROVIDE
+      - gloss: generalised
+        concept_uuid: 907c0327-4325-4bc5-95a6-a9da3e851fe5
+        concept_label: BEHAVIOUR
+        children:
+        - gloss: daily life
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+        - gloss: 'abstract: social'
+          concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+          concept_label: CUSTOM
+          children:
+          - gloss: formal
+            concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+            concept_label: RITUAL
+  - gloss: object> =釐
+    concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+  - gloss: =厲
+    concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,36 @@
+uuid: 0589658e-2479-4b6c-ac6d-c9ef6f712302
+type: tax-char
+heads:
+- 粟
+pronunciations:
+- reading: sù
+  old_chinese: soɡ
+  middle_chinese: siok
+  fanqie: 相玉切
+  tone: 入
+  guangyun: 同粟見説文
+- reading: sù
+  old_chinese: soɡ
+  middle_chinese: siok
+  fanqie: 相玉切
+  tone: 入
+  guangyun: 禾子也淮南子曰昔蒼頡作書而天雨粟又姓袁紹魏郡太守粟舉相玉切七
+  senses:
+  - concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+    concept_label: MILLET
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - gloss: TRESH
+  - gloss: COLD?? (Gänsehaut)
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+    concept_label: SALARY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

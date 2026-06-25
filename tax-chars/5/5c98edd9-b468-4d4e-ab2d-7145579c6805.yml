@@ -1,0 +1,34 @@
+uuid: 5c98edd9-b468-4d4e-ab2d-7145579c6805
+type: tax-char
+heads:
+- 減
+pronunciations:
+- reading: xiàn
+  old_chinese: ɡroomʔ
+  middle_chinese: ɦɯæm
+  fanqie: 下斬切
+  tone: 上
+  guangyun: 減耗又古斬切
+- reading: jiǎn
+  old_chinese: kroomʔ
+  middle_chinese: kɯæm
+  fanqie: 古斬切
+  tone: 上
+  guangyun: 損也又姓漢有減宣
+  senses:
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: REDUCE
+  - concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+    concept_label: DECLINE
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: 6557e5a6-3bf5-4df5-b39a-e80ffa163024
+    concept_label: INFERIOR
+  - concept_uuid: 23a8a188-beec-4d68-9f1f-22c9340ed189
+    concept_label: MATHEMATICS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

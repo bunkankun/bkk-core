@@ -1,0 +1,37 @@
+uuid: 87bd2db3-ee25-4937-822d-7206b9dd23d6
+type: tax-char
+heads:
+- 緒
+pronunciations:
+- reading: xù
+  old_chinese: sɢlaʔ
+  middle_chinese: ziɔ
+  fanqie: 徐吕切
+  tone: 上
+  guangyun: 基緒説文曰絲耑也亦姓
+  senses:
+  - concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+    concept_label: SURPLUS
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: c6980587-de65-4a18-a79c-eda1e95b4914
+    concept_label: GENEALOGY
+  - concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+    concept_label: ROW
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+  - concept_uuid: 78ca5698-e5df-4086-8c4f-68c94698662e
+    concept_label: MOOD
+  - concept_uuid: 8259454f-ba01-4a8a-8bc0-3126c9fc7dd3
+    concept_label: DESCRIBE
+  - concept_uuid: a8aa6721-be14-4656-b54c-e70e49d0d5cb
+    concept_label: PREFACE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 絮
+source:
+  source_file: taxchar.xml

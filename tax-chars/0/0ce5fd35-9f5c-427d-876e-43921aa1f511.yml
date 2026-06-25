@@ -1,0 +1,38 @@
+uuid: 0ce5fd35-9f5c-427d-876e-43921aa1f511
+type: tax-char
+heads:
+- 濕
+pronunciations:
+- reading: shī
+  old_chinese: qhljɯb
+  middle_chinese: ɕip
+  fanqie: 失入切
+  tone: 入
+  guangyun: 水霑也失入切三
+  senses:
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+  - gloss: = 隰
+- reading: tà
+  old_chinese: kh-lɯɯb
+  middle_chinese: tʰəp
+  fanqie: 他合切
+  tone: 入
+  guangyun: 同漯
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: shī
+  old_chinese: qhljɯb
+  middle_chinese: ɕip
+  fanqie: 失入切
+  tone: 入
+  guangyun: 同溼見經典又他合切
+source:
+  source_file: taxchar.xml

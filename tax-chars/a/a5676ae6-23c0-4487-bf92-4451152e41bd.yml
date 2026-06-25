@@ -1,0 +1,52 @@
+uuid: a5676ae6-23c0-4487-bf92-4451152e41bd
+type: tax-char
+heads:
+- 召
+pronunciations:
+- reading: zhāo
+  old_chinese: kljew
+  middle_chinese: tɕiɛu
+  fanqie: 止遙切
+  tone: 平
+- reading: zhào
+  old_chinese: ɡrlews
+  middle_chinese: ɖɯiɛu
+  fanqie: 直照切
+  tone: 去
+  guangyun: 呼也直照切一
+  senses:
+  - concept_label: CALL
+    children:
+    - gloss: inferior
+      concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+      concept_label: SUMMON
+      children:
+      - gloss: politely
+        concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+        concept_label: INVITE
+        children:
+        - gloss: generalised
+          concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+          concept_label: CAUSE TO
+      - gloss: and tell that
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+- reading: shào
+  old_chinese: ɡ-lews
+  middle_chinese: dʑiɛu
+  fanqie: 寔照切
+  tone: 去
+  guangyun: 同邵
+  senses:
+  - gloss: =邵
+    concept_uuid: 6499795e-1eb9-405e-9288-691066c4da9f
+    concept_label: RULERS OF SHAO
+  - gloss: ＝邵
+    concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:18:11.88+09:00'

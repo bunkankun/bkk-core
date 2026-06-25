@@ -1,0 +1,40 @@
+uuid: 1e101ef9-f86c-49a7-9ad2-239648ff8268
+type: tax-char
+heads:
+- 迫
+pronunciations:
+- reading: pò
+  old_chinese: praaɡ
+  middle_chinese: pɯak
+  fanqie: 博陌切
+  tone: 入
+  guangyun: 逼也近也急也附也
+  senses:
+  - concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+    concept_label: THREATEN
+  - concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+    concept_label: ENCOURAGE
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: URGENT
+  - concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+    concept_label: NARROW
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: 6cfc8ffa-6680-436e-ab48-1a9d7734c107
+    concept_label: BAKE
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+- reading: pò
+  old_chinese: praaɡ
+  middle_chinese: pɯak
+  fanqie: 博陌切
+  tone: 入
+  guangyun: 同迫
+source:
+  source_file: taxchar.xml

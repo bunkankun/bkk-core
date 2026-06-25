@@ -1,0 +1,36 @@
+uuid: 4398bc97-9715-42cc-b5e9-440cfad7b152
+type: tax-char
+heads:
+- 藝
+pronunciations:
+- reading: yì
+  old_chinese: ŋeds
+  middle_chinese: ŋiɛi
+  fanqie: 魚祭切
+  tone: 去
+  guangyun: 才能也静也常也準也又姓出姓苑魚祭切八
+  senses:
+  - concept_uuid: e6b6915f-ba7f-4489-88b7-e3fbf53188d2
+    concept_label: ARTEFACT
+  - concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+    concept_label: ARTS
+  - concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+    concept_label: SOW
+  - concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: af101f73-75b8-43eb-bcbf-6a0af87d7704
+    concept_label: CLASSIC
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+    concept_label: TARGET
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

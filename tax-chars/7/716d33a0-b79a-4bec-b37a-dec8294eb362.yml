@@ -1,0 +1,28 @@
+uuid: 716d33a0-b79a-4bec-b37a-dec8294eb362
+type: tax-char
+heads:
+- 蔭
+pronunciations:
+- reading: yìn
+  old_chinese: qrɯms
+  middle_chinese: ʔɯim
+  fanqie: 於禁切
+  tone: 去
+  guangyun: 説文曰草隂地也於禁切七
+  senses:
+  - concept_uuid: 81f3cc7b-d5f8-4259-90f6-018c0b8abaf6
+    concept_label: SHELTER
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: a9d1c339-21ed-4464-80d7-78e11cddf9bc
+    concept_label: CONVENIENT
+  - concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+    concept_label: CAVE
+  - concept_uuid: c47c55eb-be89-4288-bb9a-d97cf537bdd4
+    concept_label: SHADE
+  - concept_uuid: 98f0a561-121d-43fb-a211-d6e3b31eb675
+    concept_label: SHADOW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,38 @@
+uuid: f0c824eb-2035-49d9-821e-71addd3cac83
+type: tax-char
+heads:
+- 閔
+pronunciations:
+- reading: mǐn
+  old_chinese: mrɯnʔ
+  middle_chinese: mɯin
+  fanqie: 眉殞切
+  tone: 上
+  guangyun: 傷也病也又姓孔子弟子閔損
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+  - concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+    concept_label: STRIVE FOR
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 7d4f7d98-8124-41fb-9cc8-b4cf2b478c33
+    concept_label: MALES OF LU
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+source:
+  source_file: taxchar.xml

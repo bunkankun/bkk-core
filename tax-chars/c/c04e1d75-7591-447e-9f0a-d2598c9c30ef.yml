@@ -1,0 +1,33 @@
+uuid: c04e1d75-7591-447e-9f0a-d2598c9c30ef
+type: tax-char
+heads:
+- 稽
+pronunciations:
+- reading: qǐ
+  old_chinese: khiiʔ
+  middle_chinese: kʰei
+  fanqie: 康禮切
+  tone: 上
+  guangyun: 同䭬又古兮切
+  senses:
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+- reading: jī
+  old_chinese: kii
+  middle_chinese: kei
+  fanqie: 古奚切
+  tone: 平
+  guangyun: 考也同也當也留止也又山名亦姓吕氏春秋有秦賢者稽黄
+  senses:
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+source:
+  source_file: taxchar.xml

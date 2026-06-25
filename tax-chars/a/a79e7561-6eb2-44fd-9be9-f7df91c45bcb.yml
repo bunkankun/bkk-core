@@ -1,0 +1,45 @@
+uuid: a79e7561-6eb2-44fd-9be9-f7df91c45bcb
+type: tax-char
+heads:
+- 曾
+pronunciations:
+- reading: céng
+  old_chinese: dzɯɯŋ
+  middle_chinese: dzəŋ
+  fanqie: 昨棱切
+  tone: 平
+  guangyun: 經也又作滕切
+  senses:
+  - concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+  - gloss: zēng
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+    children:
+    - gloss: grammaticalied
+      concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+      concept_label: HOW
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_label: =層
+- reading: zēng
+  old_chinese: tsɯɯŋ
+  middle_chinese: tsəŋ
+  fanqie: 作滕切
+  tone: 平
+  guangyun: 則也亦姓曾參之後漢有尚書曾偉古作曾又音層
+unattributed_senses:
+- gloss: =增
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  concept_label: INCREASE
+  children:
+  - gloss: zēng
+    concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+    concept_label: EVEN
+- gloss: personal name
+  concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+  concept_label: CONFUCIANS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-22T23:59:45.985+09:00'

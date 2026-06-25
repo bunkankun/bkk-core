@@ -1,0 +1,107 @@
+uuid: b0ca21f0-575a-439a-ab0b-525975605139
+type: tax-char
+heads:
+- 班
+pronunciations:
+- reading: bān
+  old_chinese: praan
+  middle_chinese: pɯan
+  fanqie: 布還切
+  tone: 平
+  guangyun: 説文曰分瑞玉俗作𤦦亦姓出扶風風俗通云楚令尹鬭班之後布還切十三
+  senses:
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+    children:
+    - gloss: generalised
+      concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+      concept_label: DIVIDE
+    - gloss: so as to give away to many>DISTRIBUTE
+      children:
+      - gloss: generalised
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: for service rendered
+          concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+          concept_label: REWARD
+        - gloss: for information
+          concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+          concept_label: PUBLISH
+      - gloss: reflexive
+        concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+        concept_label: LEAVE
+        children:
+        - gloss: so as to return
+          concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+          concept_label: WITHDRAW
+          children:
+          - gloss: generalised
+            concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+            concept_label: RETURN
+          - gloss: feature
+            concept_uuid: 21da7354-c5a6-487d-8e9e-9501d698f615
+            concept_label: ISOLATED
+      - gloss: what one divides into
+        concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+        concept_label: CATEGORY
+        children:
+        - gloss: feature
+          concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+          concept_label: EQUAL
+        - gloss: of humans
+          concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+          concept_label: GROUP
+          children:
+          - gloss: of actors in drama
+            concept_uuid: 79eb81a8-8570-4305-a801-19f3f528dbbc
+            concept_label: ACTOR
+            children:
+            - gloss: specifically
+              concept_uuid: c7744653-51dc-4f60-8d2d-0a4f4182bd24
+              concept_label: BROTHEL
+          - gloss: of official status
+            concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+            concept_label: RANK
+            children:
+            - gloss: subject
+              concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+              concept_label: OFFICER
+          - gloss: of soldiers
+            concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+            concept_label: ARMY
+        - gloss: spatially arranged
+          concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+          concept_label: ROW
+          children:
+          - gloss: causative
+            concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+            concept_label: ARRANGE
+            children:
+            - gloss: so as to disperse
+              concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+              concept_label: SPREAD
+              children:
+              - gloss: abstract
+                concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+                concept_label: EXTEND
+  - gloss: late colloquial
+    concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+  - gloss: =般 pa2n
+    concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+  - gloss: =斑
+    concept_uuid: 18077152-effe-42f8-bc0b-a04afe162b1e
+    concept_label: COLOURFUL
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: (Spain)
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: e67fd69d-7a99-4955-8320-76e4766f254f
+    concept_label: ARISTOCRATS OF ZHENG
+source:
+  source_file: taxchar.xml

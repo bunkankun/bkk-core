@@ -1,0 +1,48 @@
+uuid: 914272cc-3d6f-491f-b4ce-d23ab10f56f5
+type: tax-char
+heads:
+- 浮
+pronunciations:
+- reading: fú
+  old_chinese: bu
+  middle_chinese: biu
+  fanqie: 縛謀切
+  tone: 平
+  guangyun: 汎也縳謀切二十四
+  senses:
+  - concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+    concept_label: FLOAT
+    children:
+    - gloss: 'exocentric: floating pulse'
+      concept_uuid: bf3f42cc-0866-43c5-bf42-cc086653c5bf
+      concept_label: PULSE
+    - gloss: float above
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+    - gloss: action
+      concept_uuid: 8ac2c103-2517-4ad1-b55e-5aae5299cfd7
+      concept_label: SWIM
+      children:
+      - concept_label: 'figurative, jocular, iussive: order to trink alcohol as punishment> PUNISH18'
+      - gloss: in ship
+        concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+        concept_label: NAVIGATE
+    - gloss: generalised, physically unstable
+      concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+      concept_label: MOVE
+      children:
+      - gloss: cognitively unstable
+        concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+        concept_label: CONFUSED
+        children:
+        - gloss: deliberate
+          concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+          concept_label: FRIVOLOUS
+          children:
+          - gloss: philosophically:meaningless
+            concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+            concept_label: EMPTY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:25:42.879+09:00'

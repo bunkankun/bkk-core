@@ -1,0 +1,53 @@
+uuid: fce4b7de-0321-47f1-8462-beb7c050ea31
+type: tax-char
+heads:
+- 閒
+- 間
+unattributed_senses:
+- concept_uuid: 62dbda50-113a-42b2-a2fc-ba3399469619
+  concept_label: BETWEEN
+  children:
+  - gloss: 'jia4n: abstract:'
+    concept_uuid: a716fa73-5434-40ce-96e9-b46b6c0ac50a
+    concept_label: AMONG
+  - gloss: 'jia1n: between surfaces'
+    concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+    concept_label: INSIDE
+    children:
+    - gloss: hidden
+      concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+      concept_label: SECRET
+      children:
+      - gloss: action
+        concept_uuid: 022a6b10-cab1-425f-b5e6-db8f9af791a5
+        concept_label: ESPIONAGE
+    - gloss: empty space
+      concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+      concept_label: PLACE
+      children:
+      - gloss: creating
+        concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+        concept_label: BUILDING
+        children:
+        - gloss: part of
+          concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+          concept_label: ROOM
+    - gloss: between events
+      concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+      concept_label: TIME
+      children:
+      - gloss: after a time
+        concept_uuid: 82bda3bd-7190-48c9-b821-6c19d0221a45
+        concept_label: RECENT
+      - gloss: for a time
+        concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+        concept_label: REMAIN
+- gloss: 'jia4n: empty: rift'
+  concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+  concept_label: HOLE
+  children:
+  - gloss: abstract
+    concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+    concept_label: DEFECT
+source:
+  source_file: taxchar.xml

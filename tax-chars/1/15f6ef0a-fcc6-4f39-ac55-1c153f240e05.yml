@@ -1,0 +1,54 @@
+uuid: 15f6ef0a-fcc6-4f39-ac55-1c153f240e05
+type: tax-char
+heads:
+- 怒
+pronunciations:
+- reading: nù
+  old_chinese: naas
+  middle_chinese: nuo
+  fanqie: 乃故切
+  tone: 去
+  guangyun: 恚也又音努
+  senses:
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+    children:
+    - gloss: 'symptom: breathe heavily'
+      concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+      concept_label: BREATHE
+      children:
+      - gloss: burst into action
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+      - gloss: 'general feature: energetic'
+        concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+        concept_label: STRONG
+        children:
+        - gloss: abstract
+          concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+          concept_label: SURPASS
+    - gloss: express anger
+      concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+      concept_label: BLAME
+      children:
+      - gloss: as a result
+        concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+        concept_label: DEMAND
+      - gloss: 'general: show dominance'
+        concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+        concept_label: AUTHORITY
+  - gloss: Guangyun only
+    concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+- reading: nǔ
+  old_chinese: naaʔ
+  middle_chinese: nuo
+  fanqie: 奴古切
+  tone: 上
+  guangyun: 恚也奴古切又奴故切五
+unattributed_senses:
+- concept_label: 怒 nú 康熙字典：【顏師古·糾謬正俗曰】怒有二音，詩小雅君子如怒，大雅逢天僤怒，讀爲上聲。邶風逢彼之怒，小雅畏此譴怒，讀爲去聲。今山東河北人但知怒有去聲，不知有上聲，失其眞矣，蓋字有動靜音，人多不講，皆此類也。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:57:48.132+09:00'

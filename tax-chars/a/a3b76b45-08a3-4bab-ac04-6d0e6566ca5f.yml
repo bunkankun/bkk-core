@@ -1,0 +1,59 @@
+uuid: a3b76b45-08a3-4bab-ac04-6d0e6566ca5f
+type: tax-char
+heads:
+- 莫
+pronunciations:
+- reading: mò
+  old_chinese: maaɡ
+  middle_chinese: mɑk
+  fanqie: 慕各切
+  tone: 入
+  guangyun: 無也定也説文本模故切日旦冥也从日在茻中茻音莽又州名開元十三年改鄭州去邑亦姓楚莫敖之後又虜複姓五氏西秦録有左衛將軍莫者羖羝南涼州刺史莫侯悌眷後魏末有亂宼莫折念生又有莫輿氏莫盧氏又虜三字姓周太祖賜廣寧楊纂姓莫胡盧氏慕各切十六
+  senses:
+  - gloss: pronoun
+    concept_uuid: f14b64b3-c0e6-4097-b842-fef3b132f1a5
+    concept_label: NONE
+    children:
+    - gloss: gramaticalised
+      concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+      concept_label: NOT
+      children:
+      - gloss: not have
+        concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+        concept_label: LACK
+      - gloss: not certain
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+      - gloss: imperative
+        concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+        concept_label: DON'T
+        children:
+        - gloss: jussive
+          concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+          concept_label: FORBID
+unattributed_senses:
+- gloss: =暮
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+  concept_label: EVENING
+  children:
+  - gloss: generalised from "end of day"
+    concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+    children:
+    - gloss: specifically:final engraving
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+- gloss: loan?
+  concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+  concept_label: PLANTS
+  children:
+  - gloss: loan?
+    concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+- gloss: =漠
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  concept_label: BIG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-28T23:33:04.986+09:00'

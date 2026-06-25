@@ -1,0 +1,42 @@
+uuid: e7bfe787-637c-448b-b3e4-2e37d557f8c0
+type: tax-char
+heads:
+- 蹇
+pronunciations:
+- reading: jiǎn
+  old_chinese: kanʔ
+  middle_chinese: kiɐn
+  fanqie: 居偃切
+  tone: 上
+  guangyun: 跛也屯難也亦卦名又居免切
+- reading: jiǎn
+  old_chinese: kranʔ
+  middle_chinese: kɯiɛn
+  fanqie: 九輦切
+  tone: 上
+  guangyun: 跛也屯難也又姓秦有蹇叔九輦切十一
+  senses:
+  - concept_uuid: a1dfacc1-4ea4-4d20-bf16-b5074bef3de3
+    concept_label: LIMP
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+  - concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+    concept_label: PROBLEM
+  - concept_uuid: 9e013653-f50a-43f1-b769-fee7c363a579
+    concept_label: STUTTER
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 褰
+  - gloss: = 攓
+source:
+  source_file: taxchar.xml

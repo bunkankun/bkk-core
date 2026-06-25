@@ -1,0 +1,39 @@
+uuid: c437e11b-667e-4890-9c86-4f6e17671c9c
+type: tax-char
+heads:
+- 雍
+pronunciations:
+- reading: yòng
+  old_chinese: qoŋs
+  middle_chinese: ʔioŋ
+  fanqie: 於用切
+  tone: 去
+  guangyun: 九州名雍擁也東崤西漢南商北居庸四山之所擁翳也又姓風俗通云文王子雍伯之後於用切又於容切三
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - gloss: = 甕
+- reading: yōng
+  old_chinese: qoŋ
+  middle_chinese: ʔioŋ
+  fanqie: 於容切
+  tone: 平
+  guangyun: 和也與邕略同又雍奴縣名在幽州水經云四方有水曰雍不流曰奴亦姓左傳有雍糾又於用切
+  senses:
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: a14b3089-406f-4eea-bb20-3e24cc36ef62
+    concept_label: SONGS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 饔
+  - gloss: = 廱
+  - gloss: = 癰
+  - gloss: = 擁
+  - gloss: = 壅
+source:
+  source_file: taxchar.xml

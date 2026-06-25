@@ -1,0 +1,88 @@
+uuid: d9cb85c9-8202-4b04-8719-b9c67a416017
+type: tax-char
+heads:
+- 界
+pronunciations:
+- reading: jiè
+  old_chinese: kreeds
+  middle_chinese: kɯæi
+  fanqie: 古拜切
+  tone: 去
+  guangyun: 境也垂也
+  senses:
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+    children:
+    - gloss: feature
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: subject
+        concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+        concept_label: NEIGHBOUR
+    - gloss: specific
+      concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+      concept_label: SHORE
+    - gloss: specific
+      concept_uuid: c5130015-aca2-4c11-9277-d8410aa61068
+      concept_label: LINE OF WRITING
+    - gloss: abstract
+      concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+      concept_label: LIMIT
+      children:
+      - gloss: temporal
+        concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+        concept_label: MOMENT
+      - gloss: what is delimited
+        concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+        concept_label: CATEGORY
+        children:
+        - gloss: transitive
+          concept_uuid: 4977f342-0d3f-4880-a636-0866767917e5
+          concept_label: CLASSIFY
+        - gloss: part
+          concept_uuid: 1ed11b24-7c4c-4244-ae39-4b879c9eb544
+          concept_label: ELEMENT
+          children:
+          - gloss: specific
+            concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+            concept_label: MONEY
+    - gloss: what is within boundaries
+      concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+      concept_label: REGION
+      children:
+      - gloss: abstract
+        concept_uuid: 3976062a-a968-4062-826a-af9934ecf699
+        concept_label: REALM
+        children:
+        - gloss: abstract
+          concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+          concept_label: WORLD
+    - gloss: related action
+      concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+      concept_label: FEND OFF
+      children:
+      - gloss: abstract
+        concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+        concept_label: SEPARATE
+        children:
+        - gloss: feature
+          concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+          concept_label: DISTANT
+  - gloss: =介
+    concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+    concept_label: ARMOUR
+  - gloss: =介
+    concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - gloss: =介
+    concept_uuid: 62dbda50-113a-42b2-a2fc-ba3399469619
+    concept_label: BETWEEN
+  - gloss: =介
+    concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+  - gloss: =屆
+    concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,40 @@
+uuid: 7ce1c27b-f2c2-40da-b868-8b35ff31f0a0
+type: tax-char
+heads:
+- 星
+pronunciations:
+- reading: xīng
+  old_chinese: seeŋ
+  middle_chinese: seŋ
+  fanqie: 桑經切
+  tone: 平
+  guangyun: 星宿説文曰萬物之精上爲列星淮南子曰日月之淫氣精者爲星辰也又姓羊氏家傳曰南陽太守羊續娶濟北星重女桑經切十二
+  senses:
+  - concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+    concept_label: STAR
+    children:
+    - gloss: feature
+      concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+      concept_label: SMALL
+      children:
+      - gloss: additional feature
+        concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+        concept_label: MANY
+    - gloss: feature of movement
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+    - gloss: feature colour
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+    - gloss: period measured by th position of the stars
+      concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+      concept_label: YEAR
+    - gloss: time when stars are visible
+      concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+      concept_label: NIGHT
+    - gloss: group of stars> CONSTELLATIONS
+    - gloss: 'exocentric: study of, astrology/astronomy'
+      concept_uuid: 68d6c566-9c41-41aa-9890-055d41e973ef
+      concept_label: ASTRONOMY
+source:
+  source_file: taxchar.xml

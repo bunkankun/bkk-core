@@ -1,0 +1,80 @@
+uuid: ac47b5a7-f8fb-4ef2-b0b9-971f670172a6
+type: tax-char
+heads:
+- 器
+pronunciations:
+- reading: qì
+  old_chinese: khrɯds
+  middle_chinese: kʰɯi
+  fanqie: 去冀切
+  tone: 去
+  guangyun: 器皿史記曰舜作什器於壽丘又姓岀姓苑去冀切一
+  senses:
+  - concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+    concept_label: TOOL
+    children:
+    - gloss: culinary
+      concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+      concept_label: VESSEL
+    - gloss: military
+      concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+      concept_label: WEAPON
+      children:
+      - gloss: generalised
+        concept_uuid: 685d083c-2ab7-442d-8fb2-f90cfc0a0c87
+        concept_label: BOOTY
+    - gloss: ritual
+      concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+      concept_label: COFFIN
+    - gloss: related action
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+    - gloss: organic
+      concept_uuid: 6b73416e-f84f-44c8-85b3-a801677d2d13
+      concept_label: ORGAN
+    - gloss: generalised
+      concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+      concept_label: INNARDS
+    - gloss: generalised
+      concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+      concept_label: BODY
+      children:
+      - gloss: generalised
+        concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+        concept_label: THING
+        children:
+        - gloss: abstract
+          concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+          concept_label: SHAPE
+    - gloss: moral tool
+      concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+      concept_label: TALENT
+      children:
+      - gloss: related action
+        concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+        concept_label: APPRECIATE
+        children:
+        - gloss: emotional
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+      - gloss: political
+        concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+        concept_label: POWER
+      - gloss: generalised
+        concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+        concept_label: METHOD
+      - gloss: moral
+        concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+        concept_label: VIRTUE
+      - gloss: abstract
+        concept_uuid: 971de0fb-3246-44a5-8e15-819f083ff24b
+        concept_label: NATURE
+      - gloss: political
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+        children:
+        - gloss: symbol of
+          concept_uuid: 14dd3c10-229c-4587-97a2-f16c5cfe9439
+          concept_label: INSIGNIA
+source:
+  source_file: taxchar.xml

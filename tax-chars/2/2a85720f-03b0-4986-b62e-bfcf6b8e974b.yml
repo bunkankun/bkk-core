@@ -1,0 +1,34 @@
+uuid: 2a85720f-03b0-4986-b62e-bfcf6b8e974b
+type: tax-char
+heads:
+- 健
+pronunciations:
+- reading: jiàn
+  old_chinese: ɡans
+  middle_chinese: ɡiɐn
+  fanqie: 渠建切
+  tone: 去
+  guangyun: 伉也易曰天行健渠建切二
+  senses:
+  - concept_uuid: c752541d-4ef4-4f86-8ca6-1ab1acd1e076
+    concept_label: HEALTHY
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+    concept_label: ELOQUENT
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: INTENSE
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+  - concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+    concept_label: SOLDIER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

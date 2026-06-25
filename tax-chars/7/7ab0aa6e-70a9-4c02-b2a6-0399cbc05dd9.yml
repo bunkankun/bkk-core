@@ -1,0 +1,24 @@
+uuid: 7ab0aa6e-70a9-4c02-b2a6-0399cbc05dd9
+type: tax-char
+heads:
+- 鑄
+pronunciations:
+- reading: zhù
+  old_chinese: djos
+  middle_chinese: tɕio
+  fanqie: 之戍切
+  tone: 去
+  guangyun: 鎔鑄又姓堯後以國爲氏
+  senses:
+  - concept_uuid: 10acfb82-1363-4740-be12-ab43658d40c7
+    concept_label: FORGE
+  - concept_uuid: d443ef9b-08a1-4be8-9a9f-ed512af47e0f
+    concept_label: SMELT
+  - concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+    concept_label: IMPROVE
+  - concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+    concept_label: REMEMBER
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

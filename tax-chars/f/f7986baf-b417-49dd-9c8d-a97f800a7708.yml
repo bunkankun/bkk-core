@@ -1,0 +1,66 @@
+uuid: f7986baf-b417-49dd-9c8d-a97f800a7708
+type: tax-char
+heads:
+- 受
+pronunciations:
+- reading: shòu
+  old_chinese: djuʔ
+  middle_chinese: dʑiu
+  fanqie: 殖酉切
+  tone: 上
+  guangyun: 容納也承也盛也得也繼也殖酉切五
+- reading: dào
+  old_chinese: tuus
+  middle_chinese: tɑu
+  fanqie: 都導切
+  tone: 去
+  guangyun: 姓也出河内
+unattributed_senses:
+- concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  concept_label: RECEIVE
+  children:
+  - gloss: authoritative instructions
+    concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+    children:
+    - gloss: instruction on
+      concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+      concept_label: STUDY
+  - gloss: passive experience
+    concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+    children:
+    - gloss: negative
+      concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+      concept_label: SUFFER
+      children:
+      - gloss: 'grammaticalised:'
+        concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+        concept_label: PASSIVE MARKER
+  - gloss: positive object received
+    concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+    concept_label: PROFIT
+    children:
+    - gloss: transitive, with desirable object
+      concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+      concept_label: OBTAIN
+      children:
+      - gloss: not refuse what is offered
+        concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+        concept_label: ACCEPT
+    - gloss: physiological
+      concept_uuid: c26fec6d-5ca6-4692-afb7-d104df41b7a5
+      concept_label: PERCEIVE
+    - gloss: emotional
+      concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+      concept_label: FEEL
+    - gloss: active:appropriate response
+      concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+      concept_label: REACT
+    - gloss: =shòu 授:derivation by tone change(sic!)
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T01:10:56.055+09:00'

@@ -1,0 +1,94 @@
+uuid: 21639d12-38f3-4f5a-807f-fbaf3a21da8f
+type: tax-char
+heads:
+- 造
+pronunciations:
+- reading: zào
+  old_chinese: skhuuɡs
+  middle_chinese: tsʰɑu
+  fanqie: 七到切
+  tone: 去
+  guangyun: 至也又昨早切
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: quickly
+      concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+      concept_label: HURRY
+      children:
+      - gloss: 'grammaticalised:'
+        concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+        concept_label: SUDDENLY
+    - gloss: with specific purpose
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+  - concept_label: =蹙 cu4
+  - concept_label: =曹 cao2
+- reading: zào
+  old_chinese: sɡuuʔ
+  middle_chinese: dzɑu
+  fanqie: 昨早切
+  tone: 上
+  guangyun: 造作又七到切
+  senses:
+  - concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+    concept_label: CREATE
+    children:
+    - gloss: generalised
+      concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+      concept_label: ACHIEVE
+      children:
+      - gloss: physically
+        concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+        concept_label: PRODUCE
+        children:
+        - gloss: sustain
+          concept_label: NOURISH
+          children:
+          - gloss: religious:ancestors
+            concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+            concept_label: SACRIFICE
+          - gloss: feature
+            concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+            concept_label: GENEROUS
+            children:
+            - gloss: abstract
+              concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+              concept_label: AUSPICIOUS
+        - gloss: building
+          concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+          concept_label: BUILD
+        - gloss: text
+          concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+          concept_label: WRITE
+          children:
+          - gloss: fraudulently
+            concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+            concept_label: FAKE
+      - gloss: abstract
+        concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+        concept_label: ESTABLISH
+    - gloss: abstract
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - gloss: action
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: classification
+          concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+          concept_label: COPULA
+  - gloss: (Qin and Han)
+    concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+unattributed_senses:
+- concept_label: 造 ｃａｏ１《集韻》倉刀切，平豪清。
+  children:
+  - concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+    concept_label: ADVANCE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:18:51.688+09:00'

@@ -1,0 +1,65 @@
+uuid: 4726e37a-7ce9-4610-95ef-17ca90eeeb3c
+type: tax-char
+heads:
+- 依
+pronunciations:
+- reading: yī
+  old_chinese: qɯl
+  middle_chinese: ʔɨi
+  fanqie: 於希切
+  tone: 平
+  guangyun: 𠋣也禄也於希切八
+  senses:
+  - concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+    concept_label: LEAN ON
+    children:
+    - gloss: figurative, stative
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+    - gloss: 'generalised: practically'
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: 'as mode: also grammaticalised ''according to'''
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: physically
+          concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+          concept_label: FOLLOW
+          children:
+          - gloss: 'late: speech act> AGREE'
+            children:
+            - gloss: object someone's actions or methods
+              concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+              concept_label: IMITATE
+            - gloss: 'object: what one relies on'
+              concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+              concept_label: SUPPORT
+            - gloss: 'lean towards: intellectually'
+              concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+              concept_label: PREFER
+              children:
+              - gloss: 'emotionally: intensitive, love more'
+                concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+                concept_label: LOVE
+              - gloss: 'continuative: feel comfortable in/with'
+                concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+                concept_label: COMFORTABLE
+              - gloss: reduplicated
+                concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+                concept_label: SEXY
+                children:
+                - gloss: 'figurative: of plants'
+                  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+                  concept_label: FLOURISH
+unattributed_senses:
+- gloss: 依 yi3 《集韻》隱豈切，上尾影。微部。
+  children:
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - gloss: 'abstract: rhetorical'
+    concept_uuid: d336faa5-ed46-4484-82e0-f3caefc1eb7a
+    concept_label: METAPHOR
+source:
+  source_file: taxchar.xml

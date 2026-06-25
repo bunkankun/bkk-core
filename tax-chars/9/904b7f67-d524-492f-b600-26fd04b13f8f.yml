@@ -1,0 +1,43 @@
+uuid: 904b7f67-d524-492f-b600-26fd04b13f8f
+type: tax-char
+heads:
+- 斗
+pronunciations:
+- reading: dǒu
+  old_chinese: tooʔ
+  middle_chinese: təu
+  fanqie: 當口切
+  tone: 上
+  guangyun: 説文作？十升也有柄象形石經作斗當口切八
+  senses:
+  - concept_uuid: b4e10029-452b-4cf1-90e1-39bb34d71164
+    concept_label: LADLE
+    children:
+    - concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+      concept_label: CUP
+      children:
+      - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+        concept_label: SMALL
+        children:
+        - concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+          concept_label: UNIMPORTANT
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: 8d2be249-549f-4e58-9d8e-eacd6ea6d98b
+    concept_label: PILLAR CAPITAL
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - gloss: =陡
+    concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - gloss: =陡
+    concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+unattributed_senses:
+- gloss: 斗 ｚｈｕ３《集韻》腫庾切，上麌章。侯部。
+  children:
+  - gloss: =枓
+    concept_uuid: b4e10029-452b-4cf1-90e1-39bb34d71164
+    concept_label: LADLE
+source:
+  source_file: taxchar.xml

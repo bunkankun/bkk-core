@@ -1,0 +1,31 @@
+uuid: c64e51b7-328c-4666-ab00-9384b41b96fe
+type: tax-char
+heads:
+- 丞
+pronunciations:
+- reading: shèng
+  old_chinese: ɡjɯŋs
+  middle_chinese: dʑɨŋ
+  fanqie: 常證切
+  tone: 去
+  guangyun: 縣名在沂州匡衡所居常證切又音承一
+  senses:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: chéng
+  old_chinese: ɡjɯŋ
+  middle_chinese: dʑɨŋ
+  fanqie: 署陵切
+  tone: 平
+  guangyun: 佐也翊也物理論曰髙祖定天下置丞相以統文德立大司馬以整武事爲二府也
+  senses:
+  - concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+    concept_label: ASSISTANT
+  - concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+    concept_label: MINISTER
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - gloss: = 承
+  - gloss: = 烝
+source:
+  source_file: taxchar.xml

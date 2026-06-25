@@ -1,0 +1,39 @@
+uuid: a3cd9c3a-a246-43cb-8754-e137856e330c
+type: tax-char
+heads:
+- 決
+pronunciations:
+- reading: jué
+  old_chinese: kʷeed
+  middle_chinese: kʷet
+  fanqie: 古穴切
+  tone: 入
+  guangyun: 流行也廬江有決水出大别山又斷也破也俗作决
+  senses:
+  - concept_uuid: 7dc4196a-d4e9-48ab-9f3a-3cec77f2b637
+    concept_label: ARCHERY
+  - concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+    concept_label: BREAK OFF
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+    concept_label: EXPLAIN
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+  - concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+    concept_label: PAY
+- reading: xuè
+  old_chinese: qhʷeed
+  middle_chinese: hʷet
+  fanqie: 呼決切
+  tone: 入
+  guangyun: 莊子云決起而搶榆枋決小飛皃
+- reading: jué
+  old_chinese: kʷeed
+  middle_chinese: kʷet
+  fanqie: 古穴切
+  tone: 入
+source:
+  source_file: taxchar.xml

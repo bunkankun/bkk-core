@@ -1,0 +1,22 @@
+uuid: 671260da-108d-49a2-807d-0aad0af0d584
+type: tax-char
+heads:
+- 侮
+pronunciations:
+- reading: wǔ
+  old_chinese: moʔ
+  middle_chinese: mio
+  fanqie: 文甫切
+  tone: 上
+  guangyun: 侮慢也侵也輕也
+  senses:
+  - concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+    concept_label: HUMILIATE
+  - concept_uuid: baec0e2f-c355-4a37-b0ac-c70fc945590f
+    concept_label: IMPOLITE
+  - concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+    concept_label: SHAME
+  - concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+    concept_label: OPPRESS
+source:
+  source_file: taxchar.xml

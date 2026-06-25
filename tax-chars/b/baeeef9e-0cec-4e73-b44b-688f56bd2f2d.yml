@@ -1,0 +1,24 @@
+uuid: baeeef9e-0cec-4e73-b44b-688f56bd2f2d
+type: tax-char
+heads:
+- 蕭
+pronunciations:
+- reading: xiāo
+  old_chinese: sɯɯw
+  middle_chinese: seu
+  fanqie: 蘇彫切
+  tone: 平
+  guangyun: 蒿也詩云采蕭穫菽亦縣名在沛郡新語云蕭斧名又姓出蘭陵廣陵二望本自宋支子食采於蕭後因爲氏漢侍中蕭彪始居蘭陵彪玄孫望之居杜陵望之孫紹復還蘭陵紹十一代孫整始過江爲廣陵人風俗通云宋樂叔以討南宫萬立御説之功受封於蕭列附庸之國漢相國蕭何即其後氏也蘇彫切十六
+  senses:
+  - concept_uuid: a15eaab1-2a29-40f0-934a-b776efd0535f
+    concept_label: AROMATIC PLANTS
+    children:
+    - gloss: 'feature: sparse>RARE'
+      children:
+      - gloss: 'inchoative: become sparse and dry'
+        concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+        concept_label: WITHER
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

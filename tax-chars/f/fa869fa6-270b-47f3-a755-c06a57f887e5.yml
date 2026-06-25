@@ -1,0 +1,24 @@
+uuid: fa869fa6-270b-47f3-a755-c06a57f887e5
+type: tax-char
+heads:
+- 妝
+pronunciations:
+- reading: zhuāng
+  old_chinese: skraŋ
+  middle_chinese: tʂiɐŋ
+  fanqie: 側羊切
+  tone: 平
+  guangyun: 女字又飾也
+  senses:
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: fbb24f01-58ea-41fb-9c8b-de7fa231019d
+    concept_label: MAKE UP
+  - concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+    concept_label: PRETEND
+  - concept_uuid: 028d02a2-7c9d-46ca-9989-1c73ebd64fee
+    concept_label: DOWRY
+  - concept_uuid: 69a72b31-390b-4af9-8697-ea78db746135
+    concept_label: MONETARY UNIT
+source:
+  source_file: taxchar.xml

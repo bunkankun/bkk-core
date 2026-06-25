@@ -1,0 +1,45 @@
+uuid: 0f9f943f-7568-45e2-918f-bf72c818fb20
+type: tax-char
+heads:
+- 屑
+pronunciations:
+- reading: sù
+  old_chinese: slɯɯd
+  middle_chinese: suot
+  fanqie: 蘇骨切
+  tone: 入
+  guangyun: 動進皃説文本先節切
+- reading: sù
+  old_chinese: sblɯɯd
+  middle_chinese: suot
+  fanqie: 蘇骨切
+  tone: 入
+- reading: xiè
+  old_chinese: pliid
+  middle_chinese: set
+  fanqie: 先結切
+  tone: 入
+  guangyun: 動作屑屑又清也敬也顧也勞也説文作屑先結切十一
+  senses:
+  - concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+    concept_label: PART
+  - concept_uuid: 8d4b507f-efde-48ff-ab34-8934bc7604e5
+    concept_label: FRAGMENT
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+  - concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+    concept_label: GRIND
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+    concept_label: CLEAR
+  - concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+    concept_label: CARE FOR
+  - concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+    concept_label: DESERVE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,57 @@
+uuid: d8936b8c-cd40-4514-899e-3ee31b4a2e4a
+type: tax-char
+heads:
+- 隔
+pronunciations:
+- reading: gé
+  old_chinese: kreeɡ
+  middle_chinese: kɯæk
+  fanqie: 古核切
+  tone: 入
+  guangyun: 塞也古核切十六
+  senses:
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+    children:
+    - gloss: generalised
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+    - gloss: specific
+      concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+      concept_label: SQUEEZE
+    - gloss: limit set
+      concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+      concept_label: BOUNDARY
+      children:
+      - gloss: 'action: set limits'
+        concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+        concept_label: SEPARATE
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 62dbda50-113a-42b2-a2fc-ba3399469619
+          concept_label: BETWEEN
+        - gloss: cross limits of place
+          concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+          concept_label: LEAVE
+          children:
+          - gloss: leave current state
+            concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+            concept_label: CHANGE
+          - gloss: result
+            concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+            concept_label: FAR
+            children:
+            - gloss: 'qualitatively: disharmonious'
+              concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+              concept_label: OPPOSE
+  - gloss: =膈 (midriff)
+    concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+    concept_label: INNARDS
+unattributed_senses:
+- gloss: 隔 ｊｉ１《集韻》古歷切，入錫見。
+  children:
+  - gloss: =擊
+    concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+source:
+  source_file: taxchar.xml

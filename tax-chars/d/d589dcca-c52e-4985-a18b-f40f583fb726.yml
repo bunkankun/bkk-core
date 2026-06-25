@@ -1,0 +1,60 @@
+uuid: d589dcca-c52e-4985-a18b-f40f583fb726
+type: tax-char
+heads:
+- 貴
+pronunciations:
+- reading: guì
+  old_chinese: kluds
+  middle_chinese: kʷɨi
+  fanqie: 居胃切
+  tone: 去
+  guangyun: 尊也髙也釋名曰貴歸也物所歸仰也説文作䝿亦姓出自陸終之後風俗通有貴遷爲廬江太守居胃切三
+  senses:
+  - concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+    concept_label: NOBLE
+    children:
+    - gloss: putative
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+      children:
+      - gloss: declarative
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+    - gloss: general
+      concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+      concept_label: PRECIOUS
+      children:
+      - gloss: economic
+        concept_uuid: 9dcfacdd-91c6-42d6-b3b9-f17494ffefab
+        concept_label: EXPENSIVE
+      - gloss: social
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+        children:
+        - gloss: modal
+          concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+          concept_label: NEED
+        - gloss: putative
+          concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+          concept_label: APPRECIATE
+          children:
+          - gloss: comparative
+            concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+            concept_label: PREFER
+            children:
+            - gloss: emotional
+              concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+              concept_label: DESIRE
+              children:
+              - gloss: future
+                concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+                concept_label: HOPE
+  - gloss: 'grammaticalised: honorific'
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T21:53:25.372+09:00'

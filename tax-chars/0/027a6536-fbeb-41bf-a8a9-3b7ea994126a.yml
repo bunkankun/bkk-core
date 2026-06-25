@@ -1,0 +1,33 @@
+uuid: 027a6536-fbeb-41bf-a8a9-3b7ea994126a
+type: tax-char
+heads:
+- 年
+pronunciations:
+- reading: nián
+  old_chinese: niin
+  middle_chinese: nen
+  fanqie: 奴顚切
+  tone: 平
+  guangyun: 同秊
+- reading: nián
+  old_chinese: niin
+  middle_chinese: nen
+  fanqie: 奴顚切
+  tone: 平
+  guangyun: 榖熟曰年奴顚切三
+  senses:
+  - concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+    concept_label: HARVEST
+    children:
+    - gloss: abstract, time
+      concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+      concept_label: YEAR
+      children:
+      - gloss: exact number of in one’s life
+        concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+        concept_label: AGE
+      - gloss: series of
+        concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+        concept_label: PERIOD
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: 84bf03ee-b54b-4e63-93fa-f6bf3c47bfe9
+type: tax-char
+heads:
+- 粹
+pronunciations:
+- reading: cuì
+  old_chinese: squds
+  middle_chinese: sʷi
+  fanqie: 雖遂切
+  tone: 去
+  guangyun: 易曰純粹精也
+  senses:
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - gloss: = 碎
+  - gloss: = 萃
+source:
+  source_file: taxchar.xml

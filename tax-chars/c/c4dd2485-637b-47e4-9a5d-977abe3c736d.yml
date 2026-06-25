@@ -1,0 +1,93 @@
+uuid: c4dd2485-637b-47e4-9a5d-977abe3c736d
+type: tax-char
+heads:
+- 及
+pronunciations:
+- reading: jí
+  old_chinese: ɡrɯb
+  middle_chinese: ɡɯip
+  fanqie: 其立切
+  tone: 入
+  guangyun: 至也逮也連也辝也其立切七
+unattributed_senses:
+- concept_uuid: 333c0f68-fc44-4b75-86aa-60163e40d917
+  concept_label: CATCH UP
+  children:
+  - gloss: abstract
+    concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+    concept_label: ACHIEVE
+    children:
+    - gloss: new generation
+      concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+      concept_label: SUCCEED
+  - gloss: grammaticalised:joining
+    concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+    concept_label: WITH
+    children:
+    - gloss: additive
+      concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+      concept_label: AND
+      children:
+      - gloss: action
+        concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+  - gloss: generalised
+    concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+    children:
+    - gloss: a place
+      concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+      concept_label: ARRIVE
+    - gloss: a quality
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: EQUAL
+      children:
+      - gloss: high degree
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+    - gloss: by coincidence
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: social
+        concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+        concept_label: INTERACT
+        children:
+        - gloss: abstract, dynamic
+          concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+          concept_label: INFLUENCE
+      - gloss: what is encountered
+        concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+        concept_label: HAPPEN
+    - gloss: intellectually
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+    - gloss: resulting feature
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: appropriate moment
+        concept_uuid: 192687fc-6722-4783-8131-d1a95005a098
+        concept_label: TIMELY
+        children:
+        - gloss: 'grammaticalised: connective'
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+        - gloss: grammaticalised
+          concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+          concept_label: UNTIL
+    - gloss: 'grammaticalised: when it comes to'
+      concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+      concept_label: TOPIC MARKER
+      children:
+      - gloss: refer
+        concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+        concept_label: NAME
+        children:
+        - gloss: talk about
+          concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+          concept_label: SPEAK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-02T19:14:04.7+09:00'

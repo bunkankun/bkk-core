@@ -1,0 +1,52 @@
+uuid: d5fbf452-0bf6-4cfb-95c7-4e595b47d189
+type: tax-char
+heads:
+- 異
+pronunciations:
+- reading: yì
+  old_chinese: p-lɯɡs
+  middle_chinese: jɨ
+  fanqie: 羊吏切
+  tone: 去
+  guangyun: 奇也説文分也羊吏切七
+  senses:
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+    children:
+    - gloss: and preferable
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+    - gloss: identity-wise
+      concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+      concept_label: OTHER
+      children:
+      - gloss: putative
+        concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+        concept_label: DISTINGUISH
+      - gloss: in order
+        concept_uuid: 635912f0-e3af-4e12-90d3-243df2a9622f
+        concept_label: NEXT
+    - gloss: opinion
+      concept_uuid: a9ce2789-dac0-45ea-8428-c483b4ffb65c
+      concept_label: DISAGREE
+      children:
+      - gloss: religious
+        concept_uuid: 35aa0280-d177-4c5a-8602-741d4c41ca38
+        concept_label: HETERODOX
+    - gloss: from the ordinary
+      concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+      concept_label: STRANGE
+      children:
+      - gloss: 'putative: find strange'
+        concept_uuid: 42056888-4ede-4f26-adb1-3702567a9486
+        concept_label: SURPRISED
+      - gloss: by degree
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+    - gloss: become different
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T19:50:16.361+09:00'

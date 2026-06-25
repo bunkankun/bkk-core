@@ -1,0 +1,24 @@
+uuid: cbb443f2-26a7-47f3-9523-77dda13b4abd
+type: tax-char
+heads:
+- 尼
+pronunciations:
+- reading: ní
+  old_chinese: nil
+  middle_chinese: ɳɯi
+  fanqie: 女夷切
+  tone: 平
+  guangyun: 和也女夷切八
+  senses:
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: cedcd9b1-d4dd-4842-9930-bd70cc2446cb
+    concept_label: NUN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

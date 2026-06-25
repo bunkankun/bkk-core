@@ -1,0 +1,51 @@
+uuid: 7e047145-2121-4bca-be6a-20ddaa104f5f
+type: tax-char
+heads:
+- 凝
+pronunciations:
+- reading: níng
+  old_chinese: ŋɡɯŋ
+  middle_chinese: ŋɨŋ
+  fanqie: 魚陵切
+  tone: 平
+  guangyun: 水結也又成也魚陵切一
+  senses:
+  - concept_uuid: 30fa5df8-a9ff-43d7-9041-24f2279e5ca5
+    concept_label: CONGEAL
+    children:
+    - gloss: so as to become inactive
+      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+      concept_label: CEASE
+    - gloss: 'figurative: causative of thoughts/attention'
+      concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+      concept_label: CONCENTRATE
+    - gloss: 'abstract: take form'
+      concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+      concept_label: ARISE
+      children:
+      - gloss: causative
+        concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+        concept_label: ACHIEVE
+      - gloss: stative
+        concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+        concept_label: SOLID
+        children:
+        - gloss: 'specifically of colours: saturated'
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+        - gloss: 'specifically of music: intense and'
+          concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+          concept_label: SLOW
+        - gloss: 'exocentric: water'
+          concept_uuid: 757e854c-90b7-4d06-8762-cc2866351120
+          concept_label: ICE
+          children:
+          - gloss: typical feature
+            concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+            concept_label: COLD
+            children:
+            - gloss: figurative
+              concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+              concept_label: SEVERE
+source:
+  source_file: taxchar.xml

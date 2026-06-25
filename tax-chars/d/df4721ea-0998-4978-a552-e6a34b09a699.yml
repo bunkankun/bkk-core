@@ -1,0 +1,44 @@
+uuid: df4721ea-0998-4978-a552-e6a34b09a699
+type: tax-char
+heads:
+- 對
+pronunciations:
+- reading: duì
+  old_chinese: k-luubs
+  middle_chinese: tuoi
+  fanqie: 都隊切
+  tone: 去
+  guangyun: 荅也當也配也揚也應也古作𡭊漢文責𡭊而面言多謂非誠𡭊故去其口以從土也都隊切六
+  senses:
+  - concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+    concept_label: ADDRESS
+    children:
+    - gloss: generalised
+      concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+      concept_label: LOOK
+      children:
+      - gloss: generalised
+        concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+        concept_label: DIRECTION
+    - gloss: with words
+      concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+      concept_label: ANSWER
+      children:
+      - gloss: generalised
+        concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+        concept_label: REACT
+        children:
+        - gloss: respond in battle
+          concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+          concept_label: FIGHT
+          children:
+          - gloss: who is being fought against
+            concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+            concept_label: ENEMY
+    - gloss: grammaticalised
+      concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+      concept_label: OBJECT MARKER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:09:46.589+09:00'

@@ -1,0 +1,63 @@
+uuid: 1fffd115-421d-473d-9fd2-f1ca25b58973
+type: tax-char
+heads:
+- 獨
+pronunciations:
+- reading: dú
+  old_chinese: dooɡ
+  middle_chinese: duk
+  fanqie: 徒谷切
+  tone: 入
+  guangyun: 説文曰犬相得而鬬也羊爲羣犬爲獨一曰獨𤞞獸名如虎白身豕鬛馬尾出北嚻山𤞞音欲亦單獨又虜複姓有獨孤氏後魏書云西方獨孤渾氏後改爲杜氏徒谷切三十
+  senses:
+  - concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+    concept_label: ALONE
+    children:
+    - gloss: personal
+      concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+      concept_label: PRIVATE
+    - gloss: feature
+      concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+      concept_label: INDEPENDENT
+      children:
+      - gloss: against expectation
+        concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+        concept_label: INSIST
+      - gloss: and independent
+        concept_uuid: f036ca69-5150-41bd-9aaa-52bb69ed53b9
+        concept_label: FREE
+        children:
+        - gloss: singularly
+          concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+          concept_label: SPECIAL
+          children:
+          - gloss: unique
+            concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+            concept_label: EXCELLENT
+    - gloss: psychological
+      concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+      concept_label: LONELY
+      children:
+      - gloss: because of death of relative
+        concept_uuid: b6caba39-5f9a-4e80-add6-a3ace5b0ef5d
+        concept_label: BEREAVED
+    - gloss: grammaticalised
+      concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+      concept_label: ONLY
+      children:
+      - gloss: action:focus only on
+        concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+        concept_label: CONCENTRATE
+    - gloss: grammaticalised
+      concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+      concept_label: MODAL PARTICLES
+      children:
+      - gloss: interrogative
+        concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+        concept_label: QUESTION PARTICLES
+  - concept_uuid: 9fdeee3d-964a-4dd5-af0d-6776da94afa9
+    concept_label: MONKEY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-06T19:36:57.174+09:00'

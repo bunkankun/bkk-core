@@ -1,0 +1,20 @@
+uuid: 1ad983ae-ec18-4c28-8524-e7cc0d8d81e5
+type: tax-char
+heads:
+- 躇
+pronunciations:
+- reading: chú
+  old_chinese: ɡ-la
+  middle_chinese: ɖiɔ
+  fanqie: 直魚切
+  tone: 平
+  guangyun: 躊躇
+  senses:
+  - concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: 1ea0113c-9b0c-4f8c-a741-48469f9bd0bc
+    concept_label: ENTANGLE
+source:
+  source_file: taxchar.xml

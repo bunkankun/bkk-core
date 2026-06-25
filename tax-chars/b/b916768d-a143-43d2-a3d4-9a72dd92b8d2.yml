@@ -1,0 +1,32 @@
+uuid: b916768d-a143-43d2-a3d4-9a72dd92b8d2
+type: tax-char
+heads:
+- 樓
+pronunciations:
+- reading: lóu
+  old_chinese: ɡ-roo
+  middle_chinese: ləu
+  fanqie: 落侯切
+  tone: 平
+  guangyun: 亦作婁重屋也亦姓夏少康之裔周封爲東樓公子孫因氏焉漢末樓秦自譙徙居㑹稽因以東陽爲望也又虜複姓有蓋樓氏賀樓氏落侯切二十九
+  senses:
+  - gloss: (many-storeyed)
+    concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+    children:
+    - gloss: for serving food
+      concept_uuid: 924e52bb-2ebb-4714-95af-cdc986ea2af4
+      concept_label: RESTAURANT
+    - gloss: many-storeyed
+      concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+      concept_label: SHIP
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+unattributed_senses:
+- gloss: 樓 ｌｕ２《集韻》龍珠切，平虞來。
+  children:
+  - gloss: 離樓
+    concept_uuid: 71380132-9a2c-4d60-a9c1-5dfc910069cc
+    concept_label: FOREST
+source:
+  source_file: taxchar.xml

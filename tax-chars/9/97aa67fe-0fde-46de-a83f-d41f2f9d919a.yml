@@ -1,0 +1,71 @@
+uuid: 97aa67fe-0fde-46de-a83f-d41f2f9d919a
+type: tax-char
+heads:
+- 興
+pronunciations:
+- reading: xīng
+  old_chinese: qhɯŋ
+  middle_chinese: hɨŋ
+  fanqie: 虚陵切
+  tone: 平
+  guangyun: 盛也舉也善也説文曰起也从舁从同同力也亦州名戰國時爲白馬玄之地漢置武都郡魏立東益州梁爲興州因武興山而名虚陵切又許應切三
+- reading: xìng
+  old_chinese: qhɯŋs
+  middle_chinese: hɨŋ
+  fanqie: 許應切
+  tone: 去
+  guangyun: 許應切又許陵切三
+  senses:
+  - gloss: xìng derivation by tone change, object action
+    concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+    concept_label: EAGER
+    children:
+    - gloss: object things
+      concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+      concept_label: LIKE
+unattributed_senses:
+- concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  concept_label: RISE
+  children:
+  - gloss: specific
+    concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+    concept_label: WAKE UP
+  - gloss: figurative
+    concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+    concept_label: ARISE
+    children:
+    - gloss: frequentative
+      concept_label: CURRENT
+    - gloss: causative
+      concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+      concept_label: STIMULATE
+      children:
+      - gloss: causative
+        concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+        concept_label: MOBILISE
+    - gloss: 'perfective: successfully'
+      concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+      concept_label: FLOURISH
+      children:
+      - gloss: causative
+        concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+        concept_label: SUPPORT
+      - gloss: generalised
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: causative
+          concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+          concept_label: BUILD
+          children:
+          - gloss: fig
+            concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+            concept_label: ESTABLISH
+            children:
+            - gloss: innovative
+              concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+              concept_label: CREATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T17:40:01.958+09:00'

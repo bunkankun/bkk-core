@@ -1,0 +1,41 @@
+uuid: b6a8813a-f830-4a35-8d46-fc36a0f6efc4
+type: tax-char
+heads:
+- 虺
+pronunciations:
+- reading: huǐ
+  old_chinese: qhlulʔ
+  middle_chinese: hʷɨi
+  fanqie: 許偉切
+  tone: 上
+  guangyun: 蛇虺許偉切五
+  senses:
+  - concept_uuid: 92a331ef-692c-4ff2-b974-dc1d6c57c485
+    concept_label: SNAKE
+  - concept_uuid: 468212ba-206e-4f17-9ae9-ce1e18e3a014
+    concept_label: LIZARD
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+- reading: huī
+  old_chinese: qhruul
+  middle_chinese: hʷɯæi
+  fanqie: 呼懷切
+  tone: 平
+  guangyun: 虺尵馬病呼懐切又灰毀二音一
+- reading: kuī
+  old_chinese: khʷee
+  middle_chinese: kʰʷei
+  fanqie: 苦圭切
+  tone: 平
+  guangyun: 蛹也
+- reading: huī
+  old_chinese: qhluul
+  middle_chinese: huoi
+  fanqie: 呼恢切
+  tone: 平
+  guangyun: 虺尵
+  senses:
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+source:
+  source_file: taxchar.xml

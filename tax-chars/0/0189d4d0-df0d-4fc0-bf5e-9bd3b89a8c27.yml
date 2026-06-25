@@ -1,0 +1,45 @@
+uuid: 0189d4d0-df0d-4fc0-bf5e-9bd3b89a8c27
+type: tax-char
+heads:
+- 置
+pronunciations:
+- reading: zhì
+  old_chinese: tɯɡs
+  middle_chinese: ʈɨ
+  fanqie: 陟吏切
+  tone: 去
+  guangyun: 安置也驛也設也説文赦也陟吏切二
+  senses:
+  - concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+    concept_label: BUILD
+  - concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+    concept_label: BUY
+  - concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+    concept_label: DISREGARD
+  - concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+    concept_label: ESTABLISH
+  - concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+    concept_label: INSTALL
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+    concept_label: REST
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+    concept_label: PARDON
+  - concept_uuid: ef5d9841-0995-4c73-9db9-1d5de0e14f2c
+    concept_label: TO PLANT
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 5ea20a9a-c418-40f0-9538-0b93f2bbe792
+    concept_label: POSTAL SYSTEM
+  - concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+    concept_label: ENTRUST
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - gloss: = 值
+  - gloss: = 植
+  - gloss: = 德
+source:
+  source_file: taxchar.xml

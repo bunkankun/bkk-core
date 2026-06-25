@@ -1,0 +1,69 @@
+uuid: 163cf9cd-42d9-4d96-b6ce-3db565adc1a0
+type: tax-char
+heads:
+- 志
+pronunciations:
+- reading: zhì
+  old_chinese: kljɯs
+  middle_chinese: tɕɨ
+  fanqie: 職吏切
+  tone: 去
+  guangyun: 意慕也詩云在心爲志爾雅曰骨鏃不翦羽謂之志職吏切七
+  senses:
+  - concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+    concept_label: ASPIRATION
+    children:
+    - gloss: 'virtue: determination'
+      concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+      concept_label: COURAGE
+    - gloss: generalised
+      concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+      concept_label: INTEND
+      children:
+      - gloss: psychological
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: organ of
+          concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+          concept_label: MIND
+        - gloss: resultative
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+          children:
+          - gloss: emotional reaction
+            concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+            concept_label: FEELING
+          - gloss: of past
+            concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+            concept_label: REMEMBER
+        - gloss: method
+          concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+          concept_label: CONCENTRATE
+          children:
+          - gloss: object
+            concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+            concept_label: TARGET
+      - gloss: abstract:semantically
+        concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+        concept_label: MEAN
+        children:
+        - gloss: causative
+          concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+          concept_label: EXPRESS
+          children:
+          - gloss: through writing
+            concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+            concept_label: WRITE
+            children:
+            - gloss: officially
+              concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+              concept_label: RECORD
+              children:
+              - gloss: =誌 what is written
+                concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+                concept_label: DOCUMENT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T00:21:42.847+09:00'

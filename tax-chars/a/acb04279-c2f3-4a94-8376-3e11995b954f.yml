@@ -1,0 +1,24 @@
+uuid: acb04279-c2f3-4a94-8376-3e11995b954f
+type: tax-char
+heads:
+- 斫
+pronunciations:
+- reading: zhuó
+  old_chinese: tjaɡ
+  middle_chinese: tɕiɐk
+  fanqie: 之若切
+  tone: 入
+  guangyun: 刀斫又漢複姓有斫胥氏何氏姓苑云今平陽人
+  senses:
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+  - concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+    concept_label: STRIKE
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: eccb969b-d1db-4fb1-b450-b15e305865f3
+    concept_label: HOE
+source:
+  source_file: taxchar.xml

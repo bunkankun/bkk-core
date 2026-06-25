@@ -1,0 +1,31 @@
+uuid: 20c750fb-759d-4c7e-8d28-96d0072a5a02
+type: tax-char
+heads:
+- 春
+pronunciations:
+- reading: chūn
+  old_chinese: thjun
+  middle_chinese: tɕʰʷin
+  fanqie: 昌脣切
+  tone: 平
+  guangyun: 四時之首尚書大傳曰春出也萬物之出也春秋説題曰春蠢也蠢興也春秋繁露曰春喜氣又姓何氏姓苑云春申君黃歇之後昌脣切一
+  senses:
+  - concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+    concept_label: SEASON
+    children:
+    - gloss: of life
+      concept_label: YOUTH
+    - gloss: metonymy
+      concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+      concept_label: DESIRE
+      children:
+      - gloss: metonymy
+        concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+        concept_label: LIQUOR
+  - gloss: generalised
+    concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+    concept_label: YEAR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T19:40:41.731+09:00'

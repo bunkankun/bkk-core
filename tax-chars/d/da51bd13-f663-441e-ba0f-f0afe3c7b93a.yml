@@ -1,0 +1,26 @@
+uuid: da51bd13-f663-441e-ba0f-f0afe3c7b93a
+type: tax-char
+heads:
+- 轍
+pronunciations:
+- reading: zhé
+  old_chinese: ded
+  middle_chinese: ɖɯiɛt
+  fanqie: 直列切
+  tone: 入
+  guangyun: 車轍直列切五
+  senses:
+  - concept_uuid: 6b22c3be-21ac-4c55-92a5-97cc2d59318b
+    concept_label: RUT
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+    concept_label: METHOD
+  - concept_uuid: 8658a8cb-3ac3-4283-bf09-5271f06a16d6
+    concept_label: RHYME
+source:
+  source_file: taxchar.xml

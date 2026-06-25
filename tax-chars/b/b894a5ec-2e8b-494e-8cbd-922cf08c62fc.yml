@@ -1,0 +1,45 @@
+uuid: b894a5ec-2e8b-494e-8cbd-922cf08c62fc
+type: tax-char
+heads:
+- 搖
+pronunciations:
+- reading: yáo
+  old_chinese: k-lew
+  middle_chinese: jiɛu
+  fanqie: 餘昭切
+  tone: 平
+  guangyun: 動也作也又姓東越王摇句踐之後
+  senses:
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+    children:
+    - gloss: metaphorical
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+    - gloss: object hand
+      concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+      concept_label: WAVE
+    - gloss: intransitive
+      concept_uuid: 2042b102-980f-49b2-a014-734f543f5970
+      concept_label: FLUTTER
+      children:
+      - gloss: feature
+        concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+        concept_label: QUICK
+      - gloss: typical agents
+        concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+        concept_label: BIRDS
+      - gloss: resultative
+        concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+        concept_label: RISE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =遙
+- reading: yào
+  old_chinese: k-lews
+  middle_chinese: jiɛu
+  fanqie: 弋照切
+  tone: 去
+  guangyun: 摇動又音遥
+source:
+  source_file: taxchar.xml

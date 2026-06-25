@@ -1,0 +1,57 @@
+uuid: 674b8bf8-4fa9-421f-b1f9-c74acf9e449e
+type: tax-char
+heads:
+- 焦
+pronunciations:
+- reading: jiāo
+  old_chinese: tsew
+  middle_chinese: tsiɛu
+  fanqie: 即消切
+  tone: 平
+  guangyun: 籀文焦
+- reading: jiāo
+  old_chinese: tsew
+  middle_chinese: tsiɛu
+  fanqie: 即消切
+  tone: 平
+  guangyun: 傷火也又姓周武王封神農之後於焦後以國爲氏出南安即消切十七
+  senses:
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: dd396b03-ebdf-4208-a5b3-38ba6f0dfc3c
+    concept_label: STINK
+  - concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+    concept_label: COLOUR
+  - concept_uuid: c53b377b-b2e4-486e-a638-9cac7a8442bf
+    concept_label: CRISP
+  - concept_uuid: 3ca8bea8-210f-4977-8061-e459b06a0192
+    concept_label: COAL
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+    concept_label: MIDDLE
+  - concept_uuid: 7ecb2648-ac00-4599-869c-ca0031791618
+    concept_label: TORCH
+  - concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+    concept_label: MEDICINE
+  - concept_uuid: eca74e49-3635-4535-b0be-6b5787bbd56e
+    concept_label: KETTLE
+  - concept_uuid: 26115fe2-bca5-4a8e-a131-9a1a15d18554
+    concept_label: ROCK
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: UNIT OF MEASUREMENT
+source:
+  source_file: taxchar.xml

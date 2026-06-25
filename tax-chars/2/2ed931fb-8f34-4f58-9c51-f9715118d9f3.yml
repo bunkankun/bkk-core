@@ -1,0 +1,20 @@
+uuid: 2ed931fb-8f34-4f58-9c51-f9715118d9f3
+type: tax-char
+heads:
+- 罰
+pronunciations:
+- reading: fá
+  old_chinese: bod
+  middle_chinese: bʷiɐt
+  fanqie: 房越切
+  tone: 入
+  guangyun: 罪罰元命包曰网言爲詈刀詈爲罰罰之言网陷於害
+  senses:
+  - concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+    concept_label: GUILT
+  - concept_uuid: 26945df2-203d-4158-9bc5-7f93783b7c06
+    concept_label: PENALTY
+  - concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: PUNISH
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,55 @@
+uuid: 07878366-7b4b-4b77-acce-48e44a667991
+type: tax-char
+heads:
+- 託
+pronunciations:
+- reading: tuō
+  old_chinese: ph-laaɡ
+  middle_chinese: tʰɑk
+  fanqie: 他各切
+  tone: 入
+  guangyun: 寄也他各切十八
+  senses:
+  - concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+    concept_label: ENTRUST
+    children:
+    - gloss: generalised
+      concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+      concept_label: PREPARE
+    - gloss: object
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+    - gloss: 'grammaticalised: relying on the supposition that'
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+      children:
+      - gloss: 'inchoative: other''s property'
+        concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+        concept_label: BORROW
+        children:
+        - gloss: insistent, declarative
+          concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+          concept_label: DEMAND
+      - gloss: 'specifically: take refuge in, flee to'
+        concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+        concept_label: FLEE
+        children:
+        - gloss: 'figurative: take refuge in pretense'
+          concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+          concept_label: PRETEND
+          children:
+          - gloss: 'specific: give impression that something is not there'
+            concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+            concept_label: CONCEAL
+            children:
+            - gloss: but indirectly
+              concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+              concept_label: EXPRESS
+              children:
+              - gloss: set off, emphasise
+                concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+                concept_label: EXAGGERATE
+  - concept_uuid: e6e4b3bf-f0df-4aa7-b5c1-855f9ef06855
+    concept_label: MALES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: aad08408-7379-49ac-b951-dfb2cfcea009
+type: tax-char
+heads:
+- 雲
+pronunciations:
+- reading: yún
+  old_chinese: ɢun
+  middle_chinese: ɦiun
+  fanqie: 王分切
+  tone: 平
+  guangyun: 説文云山川气也从雨云象雲回轉形河圖曰雲者天地之本傅子曰以雲母飾車謂之雲母車臣不得乗之又姓縉雲氏之後又後魏書宥連氏後改爲雲氏王分切二十二
+  senses:
+  - concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+    concept_label: CLOUD
+    children:
+    - gloss: salient feature
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+source:
+  source_file: taxchar.xml

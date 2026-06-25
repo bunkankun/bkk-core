@@ -1,0 +1,109 @@
+uuid: 9ed427dd-9d1a-45d5-b4db-8bd8786e56ec
+type: tax-char
+heads:
+- 表
+pronunciations:
+- reading: biǎo
+  old_chinese: prawʔ
+  middle_chinese: pɯiɛu
+  fanqie: 陂嬌切
+  tone: 上
+  guangyun: 明也亦牋表釋名云下言於上曰表説文作𧘝上衣也古者衣裘以毛爲表也又姓岀姓苑陂嬌切四
+  senses:
+  - concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+    children:
+    - gloss: inchoative action
+      concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+      concept_label: WEAR
+      children:
+      - gloss: generalised
+        concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+        concept_label: WRAP
+        children:
+        - gloss: abstract
+          concept_uuid: 45370506-d66f-4cae-85f9-6cde4b77d3db
+          concept_label: SURFACE
+          children:
+          - gloss: generalised
+            concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+            concept_label: OUTSIDE
+            children:
+            - gloss: outer protection
+              concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+              concept_label: DEFEND
+            - gloss: outside reaching close to
+              concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+              concept_label: NEAR
+            - gloss: abstract, in kinship
+              concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+              concept_label: DISTANT
+            - gloss: 'of trees: outside appearance'
+              concept_uuid: 86575c27-928a-420b-bd2a-2cbad60b1dfc
+              concept_label: LEAF
+              children:
+              - gloss: grammaticalised
+                concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+                concept_label: DIRECTION
+            - gloss: make visible to outside
+              concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+              concept_label: SHOW
+              children:
+              - gloss: semantical
+                concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+                concept_label: MEAN
+              - gloss: show oneself
+                concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+                concept_label: APPEAR
+                children:
+                - gloss: causative
+                  concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+                  concept_label: EMBELLISH
+                - gloss: cause to show itself
+                  concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+                  concept_label: CAUSE
+              - gloss: through use of language
+                concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+                concept_label: SPEAK
+                children:
+                - gloss: to high authorities
+                  concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+                  concept_label: MEMORIAL
+                - gloss: in theatre
+                  concept_uuid: db1dabff-fad6-405f-8bbf-7cb4f6ac636d
+                  concept_label: MONOLOGUE
+              - gloss: overall feature
+                concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+                concept_label: SHAPE
+                children:
+                - gloss: typical
+                  concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+                  concept_label: MODEL
+              - gloss: concrete means of showing
+                concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+                concept_label: SIGNAL
+                children:
+                - gloss: abstract
+                  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+                  concept_label: SYMBOL
+                - gloss: for deciding doubtful cases
+                  concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+                  concept_label: STANDARD
+                - gloss: specific> STELE
+                - gloss: social
+                  concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+                  concept_label: BANNER
+                - gloss: in the form of a
+                  concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+                  concept_label: STICK
+                  children:
+                  - gloss: 'showing time: sundial'
+                    concept_uuid: f2284c79-c50f-45e3-b898-f646400b5573
+                    concept_label: CLOCK
+                  - gloss: large
+                    concept_uuid: 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+                    concept_label: TRUNK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

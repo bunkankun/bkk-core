@@ -1,0 +1,30 @@
+uuid: 1d30a97a-3fd8-4397-b781-1dc70a80c8d0
+type: tax-char
+heads:
+- 午
+pronunciations:
+- reading: wǔ
+  old_chinese: ŋaaʔ
+  middle_chinese: ŋuo
+  fanqie: 疑古切
+  tone: 上
+  guangyun: 交也又辰名爾雅云太歳在午曰敦牂
+  senses:
+  - concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+    concept_label: CONTRARY
+  - concept_uuid: e7afe64f-af0d-4862-94d6-7afd165036a7
+    concept_label: EARTH BRANCH
+  - concept_uuid: 7a20819a-d10e-47d1-9999-16836665d0b2
+    concept_label: NOON
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_uuid: 8a779005-4671-4c87-8724-f85236ca2caa
+    concept_label: ZODIAC
+  - concept_uuid: bc7523b9-775e-48b5-b5df-e623f5ef5c27
+    concept_label: DATE
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,49 @@
+uuid: de623197-692f-4ee7-bd2a-6e3b33feaa38
+type: tax-char
+heads:
+- 巧
+pronunciations:
+- reading: qiào
+  old_chinese: khruus
+  middle_chinese: kʰɯau
+  fanqie: 苦教切
+  tone: 去
+  guangyun: 巧僞山海經曰義均始爲巧倕作百巧也又苦絞切
+- reading: qiǎo
+  old_chinese: khruuʔ
+  middle_chinese: kʰɯau
+  fanqie: 苦絞切
+  tone: 上
+  guangyun: 好也能也善也苦絞切又巧僞苦敎切二
+  senses:
+  - concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+    concept_label: SKILLFUL
+    children:
+    - gloss: intellectually
+      concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+      concept_label: INTELLIGENT
+    - gloss: derogatory
+      concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+      concept_label: CRAFTY
+      children:
+      - gloss: action
+        concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+        concept_label: CHEAT
+      - gloss: specific
+        concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+        concept_label: FAKE
+    - gloss: transitive
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: EXCEL
+      children:
+      - gloss: 'aesthetically: charming'
+        concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+        concept_label: BEAUTIFUL
+    - gloss: related action
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+  - gloss: (late colloquial) grammaticalised
+    concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+    concept_label: CONTINGENT
+source:
+  source_file: taxchar.xml

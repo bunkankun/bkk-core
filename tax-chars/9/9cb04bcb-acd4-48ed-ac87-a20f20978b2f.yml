@@ -1,0 +1,61 @@
+uuid: 9cb04bcb-acd4-48ed-ac87-a20f20978b2f
+type: tax-char
+heads:
+- 黃
+pronunciations:
+- reading: huáng
+  old_chinese: ɡʷaaŋ
+  middle_chinese: ɦʷɑŋ
+  fanqie: 胡光切
+  tone: 平
+  guangyun: 中央色也亦官名有乗黄令晉官主乗輿金根車也又州名古邾國地秦屬南郡漢西陵縣也隋爲黄州取古黄城爲名亦姓出江夏陸終之後受封於黄後爲楚所滅因以爲氏漢末有黄霸胡光切三十三
+  senses:
+  - gloss: (brownish-yellow)
+    concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+    children:
+    - gloss: salient feature
+      concept_uuid: 6be60b62-3c4c-48ec-b3b5-ec5556e20d3c
+      concept_label: YELLOW
+      children:
+      - gloss: yellow yolk of
+        concept_uuid: b7dab087-a7f4-45e7-9a0d-bb6b4ab2d3c3
+        concept_label: EGG
+      - gloss: darkish
+        concept_uuid: 3aee9a50-a79f-4f7b-8506-991ac9409088
+        concept_label: BROWN
+        children:
+        - gloss: exocentric:browny
+          concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+          concept_label: HORSE
+        - gloss: exocentric:browny
+          concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+          concept_label: DOG
+        - gloss: exocentric:brownish young child
+          concept_uuid: 2dc7b3f8-e542-4514-8193-e439998da08f
+          concept_label: BABY
+        - gloss: 'change: turn brown'
+          concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+          concept_label: WITHER
+        - gloss: 'exocentric: brown river, Yellow River'
+          concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+          concept_label: RIVERS
+      - gloss: shiny
+        concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+        concept_label: GOLD
+        children:
+        - gloss: object made of
+          concept_uuid: 362ff7ea-a564-430d-a3f0-a3b355fdd85a
+          concept_label: RING
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: proper names:Yellow Emperor
+    concept_label: EMPERORS
+  - gloss: personal names
+    concept_uuid: 9c34821d-5c94-4128-96d8-9a46f9471f92
+    concept_label: ZEN MONKS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T18:39:03.936+09:00'

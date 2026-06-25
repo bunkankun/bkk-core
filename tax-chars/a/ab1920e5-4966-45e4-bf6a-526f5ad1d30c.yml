@@ -1,0 +1,34 @@
+uuid: ab1920e5-4966-45e4-bf6a-526f5ad1d30c
+type: tax-char
+heads:
+- 丹
+pronunciations:
+- reading: dān
+  old_chinese: taan
+  middle_chinese: tɑn
+  fanqie: 都寒切
+  tone: 平
+  guangyun: 赤也説文曰巴越之赤石也亦州名春秋時白翟所居後魏置汾州廢帝三年以河東汾州同乃改爲丹州亦姓晉有大夫丹木出風俗通
+  senses:
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: RED
+    children:
+    - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+      concept_label: EARNEST
+    - gloss: specific
+      concept_uuid: e06baca1-00f9-4540-bdad-3806453953f0
+      concept_label: CINNABAR
+      children:
+      - gloss: made of
+        concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+        concept_label: MEDICINE
+    - gloss: object that has the quality
+      concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+      concept_label: STONE
+unattributed_senses:
+- concept_uuid: 475d1d1e-8e44-4b57-95c5-712f8b737997
+  concept_label: RULERS OF ZHAO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:30:56.935+09:00'

@@ -1,0 +1,34 @@
+uuid: 86ebfd59-95d4-4a7b-85dd-d9e236fd7ab7
+type: tax-char
+heads:
+- 單
+pronunciations:
+- reading: chán
+  old_chinese: djan
+  middle_chinese: dʑiɛn
+  fanqie: 市連切
+  tone: 平
+  guangyun: 單于又丹善二音
+- reading: shàn
+  old_chinese: djanʔ
+  middle_chinese: dʑiɛn
+  fanqie: 常演切
+  tone: 上
+  guangyun: 單父縣名亦姓出周卿士單襄公之後又丹禪二音
+- reading: shàn
+  old_chinese: djans
+  middle_chinese: dʑiɛn
+  fanqie: 時戰切
+  tone: 去
+  guangyun: 單父縣亦姓
+- reading: dān
+  old_chinese: taan
+  middle_chinese: tɑn
+  fanqie: 都寒切
+  tone: 平
+  guangyun: 單複也又大也亦虜姓可單氏後改爲單氏都寒切又常演切十
+  senses:
+  - concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+    concept_label: ALONE
+source:
+  source_file: taxchar.xml

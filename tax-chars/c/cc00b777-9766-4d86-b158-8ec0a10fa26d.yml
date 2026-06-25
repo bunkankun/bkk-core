@@ -1,0 +1,59 @@
+uuid: cc00b777-9766-4d86-b158-8ec0a10fa26d
+type: tax-char
+heads:
+- 勢
+pronunciations:
+- reading: shì
+  old_chinese: hŋljads
+  middle_chinese: ɕiɛi
+  fanqie: 舒制切
+  tone: 去
+  guangyun: 形勢
+  senses:
+  - concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+    concept_label: POWER
+    children:
+    - gloss: physical
+      concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+      concept_label: STRONG
+      children:
+      - gloss: genital
+        concept_uuid: d7158159-74c5-4463-a85a-2e27a4104944
+        concept_label: PENIS
+        children:
+        - gloss: specific> TESTICLES
+    - gloss: social
+      concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+      concept_label: AUTHORITY
+      children:
+      - gloss: bureaucratic
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+        children:
+        - gloss: transitive
+          concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+          concept_label: INFLUENCE
+          children:
+          - gloss: mutual
+            concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+            concept_label: SITUATION
+            children:
+            - gloss: complex
+              concept_uuid: a36aa99b-567d-43e0-a7da-8c8b8e3192c9
+              concept_label: STRUCTURE
+            - gloss: visible
+              concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+              concept_label: APPEARANCE
+              children:
+              - gloss: deliberate momentary
+                concept_uuid: 3f23b956-1cc9-4a96-8dc3-b14f0275896f
+                concept_label: GESTURE
+          - gloss: dynamic
+            concept_uuid: ed636f99-e1ef-4ace-a961-1bed7ed93df6
+            concept_label: TENDENCY
+            children:
+            - gloss: potential
+              concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+              concept_label: OPPORTUNITY
+source:
+  source_file: taxchar.xml

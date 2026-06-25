@@ -1,0 +1,61 @@
+uuid: 6bbbe358-dcde-40e4-86b6-aebf9896e179
+type: tax-char
+heads:
+- 直
+pronunciations:
+- reading: zhí
+  old_chinese: dɯɡ
+  middle_chinese: ɖɨk
+  fanqie: 除力切
+  tone: 入
+  guangyun: 正也又姓楚人直弓之後漢有御史大夫直不疑除力切四
+  senses:
+  - concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+    concept_label: STRAIGHT
+    children:
+    - gloss: make straight contact
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+    - gloss: psychological and rhetorical
+      concept_uuid: 1362b3c0-6b31-4264-9ac3-a07552b41734
+      concept_label: FRANK
+      children:
+      - gloss: psychological
+        concept_uuid: ee6af2ee-934e-492b-aaf2-ee934ec92bfd
+        concept_label: UPRIGHT
+      - gloss: and in accordance with facts
+        concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+        concept_label: CORRECT
+        children:
+        - gloss: and effective
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+        - gloss: get desired “correct” legal result
+          concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+          concept_label: WIN
+        - gloss: 'causative: straighten out'
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+      - gloss: and strict in moral judgment
+        concept_uuid: 51fc63c2-f53d-48a9-8b03-042ce0863a2c
+        concept_label: STERN
+    - gloss: and without any reduction
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+  - gloss: grammaticalised
+    concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+    children:
+    - gloss: contrastive
+      concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+      concept_label: BUT
+  - gloss: mathematical technical term
+    concept_uuid: ff492103-d171-4ff2-bea1-70c36deb3067
+    concept_label: SQUARE
+  - gloss: =值
+    concept_uuid: adf91939-0b56-4d2e-a2c9-6780abbde6e8
+    concept_label: COST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T01:08:27.217+09:00'

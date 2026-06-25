@@ -1,0 +1,65 @@
+uuid: 50a79e1d-766b-4cb3-88d7-0aa0d3ac1b0e
+type: tax-char
+heads:
+- 藏
+pronunciations:
+- reading: zàng
+  old_chinese: sɡaaŋs
+  middle_chinese: dzɑŋ
+  fanqie: 徂浪切
+  tone: 去
+  guangyun: 通俗文曰庫藏曰帑徂浪切又徂郎切三
+  senses:
+  - concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+    concept_label: STOREHOUSE
+    children:
+    - gloss: feature ofcontent of storehouse
+      concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+      concept_label: PRECIOUS
+    - gloss: 'what is kept in a storehouse: texts'
+      concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+      concept_label: DOCUMENT
+  - gloss: specific
+    concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+  - gloss: =臟
+    concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+    concept_label: INNARDS
+  - concept_label: TIBETANS
+- reading: cáng
+  old_chinese: sɡaaŋ
+  middle_chinese: dzɑŋ
+  fanqie: 昨郎切
+  tone: 平
+  guangyun: 隱也匿也昨郞切又徂浪切一
+  senses:
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+    children:
+    - gloss: reflexive
+      concept_uuid: cc5afe89-9ccc-4ed5-b8cf-a33decee7547
+      concept_label: HIDE ONESELF
+    - gloss: feature of what is concealed
+      concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+      concept_label: DEEP
+      children:
+      - gloss: exocentric:profound feature
+        concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+        concept_label: BASIC NATURE
+    - gloss: associated action
+      concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+      concept_label: SAFEGUARD
+      children:
+      - gloss: intellectually
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: continuative
+          concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+          concept_label: REMEMBER
+      - gloss: on an increasing scale
+        concept_label: COLLECT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T01:50:31.374+09:00'

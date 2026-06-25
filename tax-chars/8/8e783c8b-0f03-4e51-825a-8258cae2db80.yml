@@ -1,0 +1,38 @@
+uuid: 8e783c8b-0f03-4e51-825a-8258cae2db80
+type: tax-char
+heads:
+- 后
+pronunciations:
+- reading: hòu
+  old_chinese: ɡooʔ
+  middle_chinese: ɦəu
+  fanqie: 胡口切
+  tone: 上
+  guangyun: 君也又姓漢有少府后倉又音𠋫
+  senses:
+  - concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+    concept_label: KING
+    children:
+    - gloss: wife of
+      concept_uuid: ad5e39d7-3b0b-4dcb-9a8b-e01328dcd101
+      concept_label: QUEEN
+    - gloss: generalised
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: action
+        concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+        concept_label: GOVERN
+      - gloss: head of office
+        concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+        concept_label: OFFICIAL
+- reading: hòu
+  old_chinese: ɡoos
+  middle_chinese: ɦəu
+  fanqie: 胡遘切
+  tone: 去
+  guangyun: 君也皇后也
+  senses:
+  - gloss: =缿
+source:
+  source_file: taxchar.xml

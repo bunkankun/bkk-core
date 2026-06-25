@@ -1,0 +1,98 @@
+uuid: 47fe5cd3-9d00-4858-8f05-cf4366333f1f
+type: tax-char
+heads:
+- 具
+pronunciations:
+- reading: jù
+  old_chinese: ɡos
+  middle_chinese: ɡio
+  fanqie: 其遇切
+  tone: 去
+  guangyun: 備也辦也又姓左傳有具丙
+  senses:
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+    children:
+    - gloss: generalised
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+      children:
+      - gloss: abstract
+        concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+        concept_label: ESTABLISH
+        children:
+        - gloss: resultative
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+      - gloss: in writing, on the record
+        concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+        concept_label: RECORD
+        children:
+        - gloss: communicate
+          concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+          concept_label: REPORT
+          children:
+          - gloss: on a contentious matter
+            concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+            concept_label: JUDGE
+          - gloss: 'generalised: compose'
+            concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+            concept_label: WRITE
+    - gloss: object
+      concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+      concept_label: TOOL
+      children:
+      - gloss: for funeral
+        concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+        concept_label: COFFIN
+        children:
+        - gloss: classifier for coffins
+          concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+          concept_label: PARTICLE
+      - gloss: for drunking wine
+        concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+        concept_label: CUP
+        children:
+        - gloss: generalised
+          concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+          concept_label: VESSEL
+    - gloss: object food
+      concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+      concept_label: FEED
+      children:
+      - gloss: object
+        concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+        concept_label: FOOD
+        children:
+        - gloss: generalised
+          concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+          concept_label: THING
+          children:
+          - gloss: related activithy
+            concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+            concept_label: FEAST
+    - gloss: have provided for one
+      concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+      concept_label: HAVE
+      children:
+      - gloss: 'gramamaticalised: in the same place'
+        concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+        concept_label: TOGETHER
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+          children:
+          - gloss: feature
+            concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+            concept_label: SUFFICIENT
+            children:
+            - gloss: sufficient ability
+              concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+              concept_label: TALENT
+              children:
+              - gloss: abstract
+                concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+                concept_label: METHOD
+source:
+  source_file: taxchar.xml

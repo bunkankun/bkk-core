@@ -1,0 +1,49 @@
+uuid: 970a5db7-2784-42f0-8398-2b6e45403303
+type: tax-char
+heads:
+- 每
+pronunciations:
+- reading: měi
+  old_chinese: mɯɯʔ
+  middle_chinese: muoi
+  fanqie: 武罪切
+  tone: 上
+  guangyun: 雖也辝也頻也説文作𡴋艸盛上出也
+  senses:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+      children:
+      - gloss: grammaticalised> WHENEVER
+        children:
+        - gloss: adverbial
+          concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+          concept_label: ALWAYS
+          children:
+          - gloss: restricted
+            concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+            concept_label: OFTEN
+            children:
+            - gloss: generalised
+              concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+              concept_label: ENDURING
+        - gloss: generalised
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+          children:
+          - gloss: adversative
+            concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+            concept_label: ALTHOUGH
+  - gloss: SUFFIXES
+  - gloss: =們
+- reading: mèi
+  old_chinese: mɯɯʔ
+  middle_chinese: muoi
+  fanqie: 莫佩切
+  tone: 去
+  guangyun: 數也又武罪切
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,69 @@
+uuid: b589da7e-a975-464f-85f1-2ed6ff41b7e7
+type: tax-char
+heads:
+- 沙
+pronunciations:
+- reading: shā
+  old_chinese: sraal
+  middle_chinese: ʃɯa
+  fanqie: 所加切
+  tone: 平
+  guangyun: 沙汰説文曰水散石也爾雅曰潁爲沙謂大水溢出别爲小水之名亦州取沙角山爲名即三秦記鳴沙山也又姓何氏姓苑云東莞人又漢複姓二氏左傳齊有夙沙衞神農時夙沙氏之後漢書功臣表有昭沙掉尾又百濟有沙吒氏
+  senses:
+  - concept_uuid: 2b16854a-211e-4b92-916f-b9f202ae98cf
+    concept_label: SAND
+    children:
+    - gloss: generalised
+      concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+      concept_label: SOIL
+      children:
+      - gloss: 'feature: unsophisticated'
+        concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+        concept_label: VULGAR
+      - gloss: silk coccoon
+        concept_uuid: ed12cb69-ffb9-4e99-ba16-f44c8369aa82
+        concept_label: SHIT
+      - gloss: cultivated
+        concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+        concept_label: FIELD
+    - gloss: by lake/sea> BEECH
+    - gloss: landscape characterised by
+      concept_uuid: 7e64ee84-3065-4153-bd09-1511189d1f2e
+      concept_label: DESERT
+    - gloss: typical feature
+      concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+      concept_label: TENUOUS
+      children:
+      - gloss: typical associated process
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+        children:
+        - gloss: scatter on filter so as to
+          concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+          concept_label: SELECT
+      - gloss: exocentric> =紗
+        concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+        concept_label: SILK
+  - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - gloss: =唦
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+- reading: shà
+  old_chinese: sraals
+  middle_chinese: ʃɯa
+  fanqie: 所嫁切
+  tone: 去
+  guangyun: 周禮云鳥皫色而沙鳴注云沙嘶也又所加切
+unattributed_senses:
+- gloss: 沙 ｓｕｏ１《集韻》蘇禾切，平戈心。
+  children:
+  - gloss: 沙雞
+    concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+    concept_label: INSECTS
+source:
+  source_file: taxchar.xml

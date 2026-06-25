@@ -1,0 +1,53 @@
+uuid: a2bf6dbb-f4bc-4431-93c5-08f19df750dc
+type: tax-char
+heads:
+- 挺
+pronunciations:
+- reading: tíng
+  old_chinese: deeŋ
+  middle_chinese: deŋ
+  fanqie: 特丁切
+  tone: 平
+  guangyun: 縣名在膠東又徒頂切
+  senses:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: tǐng
+  old_chinese: deeŋʔ
+  middle_chinese: deŋ
+  fanqie: 徒鼎切
+  tone: 上
+  guangyun: 挺出説文拔也徒鼎切十二
+  senses:
+  - concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+    concept_label: STRAIGHT
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+  - concept_uuid: 7eca4eb6-7f7e-49c0-93f0-b8d392f45e6a
+    concept_label: LIE DOWN
+  - concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+    concept_label: GROW
+  - concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+    concept_label: RARE
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+    concept_label: ADVANCE
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+    concept_label: LENIENT
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 莛
+  - gloss: = 筳
+  - gloss: = 梃
+  - gloss: = 脡
+source:
+  source_file: taxchar.xml

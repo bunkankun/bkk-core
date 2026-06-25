@@ -1,0 +1,55 @@
+uuid: 3bc4e1b0-042f-4133-8db9-a73981a4669b
+type: tax-char
+heads:
+- 屏
+pronunciations:
+- reading: bīng
+  old_chinese: peŋ
+  middle_chinese: piɛŋ
+  fanqie: 府盈切
+  tone: 平
+  guangyun: 屏盈徬徨又餅萍二音
+- reading: bǐng
+  old_chinese: peŋʔ
+  middle_chinese: piɛŋ
+  fanqie: 必郢切
+  tone: 上
+  guangyun: 蔽也爾雅曰屏謂之樹又廣雅曰罘罳謂之屏風俗通云卿大夫帷士以廉以自鄣蔽
+  senses:
+  - concept_uuid: ff820037-7e9a-495f-9f43-f2069d7f71b7
+    concept_label: SCREEN
+    children:
+    - gloss: typical function
+      concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+      concept_label: BLOCK
+      children:
+      - gloss: against attack
+        concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+        concept_label: DEFEND
+      - gloss: resultative
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+        children:
+        - gloss: causative
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+          children:
+          - gloss: remove oneself from place
+            concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+            concept_label: WITHDRAW
+  - gloss: small turret
+    concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+- reading: píng
+  old_chinese: beeŋ
+  middle_chinese: beŋ
+  fanqie: 薄經切
+  tone: 平
+  guangyun: 三禮圖曰扆從廣八尺畫斧文今之屏風則遺象也又必郢切
+  senses:
+  - concept_uuid: ff820037-7e9a-495f-9f43-f2069d7f71b7
+    concept_label: SCREEN
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+source:
+  source_file: taxchar.xml

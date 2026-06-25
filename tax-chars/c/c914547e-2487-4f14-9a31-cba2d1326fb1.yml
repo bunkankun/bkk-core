@@ -1,0 +1,57 @@
+uuid: c914547e-2487-4f14-9a31-cba2d1326fb1
+type: tax-char
+heads:
+- 黑
+pronunciations:
+- reading: hēi
+  old_chinese: hmɯɯɡ
+  middle_chinese: hək
+  fanqie: 呼北切
+  tone: 入
+  guangyun: 北方色呼北切三
+  senses:
+  - concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+    children:
+    - gloss: 'subject: black'
+      concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+      concept_label: RICE
+    - gloss: 'subject: black'
+      concept_uuid: 6f80b3ea-7724-4514-acaf-39426d96a8ff
+      concept_label: OVINE
+    - gloss: 'subject: black'
+      concept_uuid: e780a853-9d2a-4088-8c67-978fa2be3515
+      concept_label: PIG
+    - gloss: generalised
+      concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+      concept_label: DARK
+      children:
+      - gloss: 'abstract: social'
+        concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+        concept_label: SECRET
+      - gloss: 'abstract: legal'
+        concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+        concept_label: ILLEGAL
+        children:
+        - gloss: (late) action
+          concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+          concept_label: STEAL
+        - gloss: 'abstract: moral'
+          concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+          concept_label: WICKED
+          children:
+          - gloss: declarative
+            concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+            concept_label: CRITICISE
+      - gloss: typical subject
+        concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+        concept_label: EVENING
+      - gloss: typical subject
+        concept_uuid: e10ace81-269c-4817-ab59-920c50bd7287
+        concept_label: SOOT
+  - concept_uuid: e67fd69d-7a99-4955-8320-76e4766f254f
+    concept_label: ARISTOCRATS OF ZHENG
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 45b61b3a-fdf2-4d4a-a955-1f24191767f1
+type: tax-char
+heads:
+- 衢
+pronunciations:
+- reading: qú
+  old_chinese: ɡʷa
+  middle_chinese: ɡio
+  fanqie: 其俱切
+  tone: 平
+  guangyun: 街衢爾雅曰四達謂之衢其俱切三十六
+  senses:
+  - concept_uuid: 5c40388e-b06d-4f8c-bb39-2d7fce66093b
+    concept_label: CROSSROADS
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+    concept_label: BRANCH
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

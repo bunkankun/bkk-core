@@ -1,0 +1,66 @@
+uuid: f6bbcc37-c208-4ece-a6bc-3aeb4761769d
+type: tax-char
+heads:
+- 賊
+pronunciations:
+- reading: zéi
+  old_chinese: sɡɯɯɡ
+  middle_chinese: dzək
+  fanqie: 昨則切
+  tone: 入
+  guangyun: 盜也説文作賊則也昨則切七
+  senses:
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+    children:
+    - gloss: partly
+      concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+      concept_label: DAMAGE
+      children:
+      - gloss: 'abstract: by fraud'
+        concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+        concept_label: CHEAT
+        children:
+        - gloss: specifically
+          concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+          concept_label: STEAL
+          children:
+          - gloss: 'exocentric: agent'
+            concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+            concept_label: THIEF
+      - gloss: resultative
+        concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+        concept_label: DISASTER
+      - gloss: 'action: specific'
+        concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+        concept_label: MURDER
+        children:
+        - gloss: feature
+          concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+          concept_label: CRUEL
+          children:
+          - gloss: exocentric
+            concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+            concept_label: VILLAIN
+          - gloss: morally
+            concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+            concept_label: WICKED
+            children:
+            - gloss: declarative
+              concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+              concept_label: SLANDER
+            - gloss: skillfully
+              concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+              concept_label: CRAFTY
+              children:
+              - gloss: win the better of
+                concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+                concept_label: DEFEAT
+            - gloss: politically
+              concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+              concept_label: ENEMY
+  - gloss: 'late: grammaticalised'
+    concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

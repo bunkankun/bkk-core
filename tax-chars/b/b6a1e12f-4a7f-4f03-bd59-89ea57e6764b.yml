@@ -1,0 +1,38 @@
+uuid: b6a1e12f-4a7f-4f03-bd59-89ea57e6764b
+type: tax-char
+heads:
+- 渴
+pronunciations:
+- reading: jié
+  old_chinese: ɡrad
+  middle_chinese: ɡɯiɛt
+  fanqie: 渠列切
+  tone: 入
+  guangyun: 水盡也
+  senses:
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - gloss: = 竭
+- reading: kě
+  old_chinese: khaad
+  middle_chinese: kʰɑt
+  fanqie: 苦曷切
+  tone: 入
+  guangyun: 飢渴又虜複姓二氏後魏書渴侯氏後改爲緱氏渴單氏後改爲單氏亦虜三字姓後魏書北方渇燭渾氏後改爲朱氏苦曷切八
+  senses:
+  - concept_uuid: 8156924d-7de3-4b08-acbe-07d45dff53ac
+    concept_label: THIRSTY
+  - concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+    concept_label: EAGER
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: kě
+  old_chinese: khaad
+  middle_chinese: kʰɑt
+  fanqie: 苦曷切
+  tone: 入
+  guangyun: 渴古文
+source:
+  source_file: taxchar.xml

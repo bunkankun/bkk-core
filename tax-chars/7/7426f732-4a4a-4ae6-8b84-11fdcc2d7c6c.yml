@@ -1,0 +1,61 @@
+uuid: 7426f732-4a4a-4ae6-8b84-11fdcc2d7c6c
+type: tax-char
+heads:
+- 始
+pronunciations:
+- reading: shǐ
+  old_chinese: lʰɯʔ
+  middle_chinese: ɕɨ
+  fanqie: 詩止切
+  tone: 上
+  guangyun: 初也詩止切一
+  senses:
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+    children:
+    - gloss: begin to exist
+      concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+      concept_label: ARISE
+    - gloss: in the beginning
+      concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+      concept_label: ORIGINALLY
+      children:
+      - gloss: more generally
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+        children:
+        - gloss: more specifically
+          concept_uuid: 82bda3bd-7190-48c9-b821-6c19d0221a45
+          concept_label: RECENT
+        - gloss: subordinating
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+          children:
+          - gloss: effective
+            concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+            concept_label: CAUSE
+            children:
+            - gloss: specifically:abstract
+              concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+              concept_label: CORRECT
+              children:
+              - gloss: concrete:politically
+                concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+                concept_label: GOVERN
+      - gloss: in list
+        concept_label: FIRST
+        children:
+        - gloss: metaphorically
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+        - gloss: grammatically:singular quantifier
+          concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+          concept_label: ONLY
+          children:
+          - gloss: grammaticalised:subordinator
+            concept_uuid: 4032bd30-62b2-4abb-b9d8-16b747fa885a
+            concept_label: ONLY THEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T01:52:55.887+09:00'

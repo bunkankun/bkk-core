@@ -1,0 +1,30 @@
+uuid: f3357dee-268f-4c61-9765-29af13307329
+type: tax-char
+heads:
+- 遏
+pronunciations:
+- reading: è
+  old_chinese: qaad
+  middle_chinese: ʔɑt
+  fanqie: 烏葛切
+  tone: 入
+  guangyun: 遮也絶也止也烏葛切十一
+  senses:
+  - concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+    concept_label: FORBID
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4b371f5d-8151-4d54-9b1b-5a3ed499cef3
+    concept_label: DANCE NAMES
+  - gloss: = 害
+  - gloss: = 堨
+source:
+  source_file: taxchar.xml

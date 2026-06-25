@@ -1,0 +1,38 @@
+uuid: b05dae80-f9e1-46fa-9882-7cc47739cbe1
+type: tax-char
+heads:
+- 陷
+pronunciations:
+- reading: xiàn
+  old_chinese: ɡrooms
+  middle_chinese: ɦɯæm
+  fanqie: 戶韽切
+  tone: 去
+  guangyun: 入地隤也戸韽切五
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+    concept_label: PIERCE
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+    concept_label: SUFFER
+  - concept_uuid: 21e54e28-946b-4cd7-9293-c8784a3174c7
+    concept_label: TRAP
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+    concept_label: DEFEAT
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+source:
+  source_file: taxchar.xml

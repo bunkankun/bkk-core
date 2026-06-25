@@ -1,0 +1,49 @@
+uuid: c7546cb4-2fd1-4928-8fe4-b3148d6501b6
+type: tax-char
+heads:
+- 澄
+pronunciations:
+- reading: chéng
+  old_chinese: dɯŋ
+  middle_chinese: ɖɨŋ
+  fanqie: 直陵切
+  tone: 平
+  guangyun: 清也直陵切五
+- reading: chéng
+  old_chinese: dɯŋ
+  middle_chinese: ɖɨŋ
+  fanqie: 直陵切
+  tone: 平
+  guangyun: 同澂
+  senses:
+  - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+    concept_label: CLEAR
+    children:
+    - gloss: 'feature: unmoving'
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+    - gloss: 'subject: clear'
+      concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+      concept_label: WATER
+    - gloss: abstract
+      concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+      concept_label: PURE
+    - gloss: causative
+      concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+      concept_label: WASH
+- reading: dèng
+  old_chinese: dols
+  middle_chinese: ɖʷɯiɛ
+  fanqie: 唐亘切
+  tone: 去
+  senses:
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+- reading: chéng
+  old_chinese: rdaaŋ
+  middle_chinese: ɖɯaŋ
+  fanqie: 直庚切
+  tone: 平
+  guangyun: 水清定又音懲
+source:
+  source_file: taxchar.xml

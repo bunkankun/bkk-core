@@ -1,0 +1,47 @@
+uuid: 6e893d92-f86f-4636-9038-098c736e13bf
+type: tax-char
+heads:
+- 沾
+pronunciations:
+- reading: tiān
+  old_chinese: kh-leem
+  middle_chinese: tʰem
+  fanqie: 他兼切
+  tone: 平
+  guangyun: 説文曰水出壺關東入淇一曰沾益也
+- reading: diàn
+  old_chinese: k-leems
+  middle_chinese: tem
+  fanqie: 都念切
+  tone: 去
+  guangyun: 水名在上黨説文他兼切
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+- reading: zhān
+  old_chinese: krlem
+  middle_chinese: ʈɯiɛm
+  fanqie: 張廉切
+  tone: 平
+  guangyun: 水名在上黨説文他兼切
+  senses:
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+    concept_label: SOAK
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: e8e7f9a3-0144-4aeb-a901-cba6a483b3a3
+    concept_label: MUCH
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+  - concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+    concept_label: INFLUENCE
+  - concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+    concept_label: TOUCH
+  - concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+    concept_label: POSSIBLE
+  - concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+source:
+  source_file: taxchar.xml

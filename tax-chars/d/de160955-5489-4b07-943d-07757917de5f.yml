@@ -1,0 +1,28 @@
+uuid: de160955-5489-4b07-943d-07757917de5f
+type: tax-char
+heads:
+- 諧
+pronunciations:
+- reading: xié
+  old_chinese: ɡriid
+  middle_chinese: ɦɯæi
+  fanqie: 戶皆切
+  tone: 平
+  guangyun: 和也合也調也偶也戸皆切九
+  senses:
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: 315ce152-3c9e-4648-87aa-dde4fe97c199
+    concept_label: JOKE
+  - concept_uuid: e6b4e1e1-6e1e-4f01-a01b-4d658b1fb7d4
+    concept_label: MOCK
+  - concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+    concept_label: SUCCEED
+  - concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+    concept_label: CONTRACT
+  - concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+    concept_label: JUXTAPOSE
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,53 @@
+uuid: b2e1c191-7280-4695-a357-11c77ebe4fa4
+type: tax-char
+heads:
+- 盜
+pronunciations:
+- reading: dào
+  old_chinese: daaws
+  middle_chinese: dɑu
+  fanqie: 徒到切
+  tone: 去
+  guangyun: 盜賊
+  senses:
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+    children:
+    - concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+      concept_label: THIEF
+    - gloss: intensitive
+      concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+      concept_label: ROB
+      children:
+      - gloss: exocentric
+        concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+        concept_label: VILLAIN
+        children:
+        - gloss: political
+          concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+          concept_label: ENEMY
+        - gloss: with deadly resultsMURDER
+    - gloss: generalised
+      concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+      concept_label: CHEAT
+      children:
+      - gloss: feature
+        concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+        concept_label: VULGAR
+      - gloss: fraudulently
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+      - gloss: by breaking a rule
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+      - gloss: adverbially> SECRETLY
+        children:
+        - gloss: exocentric
+          concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+          concept_label: COPULATE
+          children:
+          - gloss: violently
+            concept_uuid: e1b3fd4f-9adb-430d-b9f5-0ce34d4e7273
+            concept_label: RAPE
+source:
+  source_file: taxchar.xml

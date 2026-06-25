@@ -1,0 +1,63 @@
+uuid: 5f895ab3-0366-4538-8722-c915b289d09b
+type: tax-char
+heads:
+- 傾
+pronunciations:
+- reading: qīng
+  old_chinese: khʷleŋ
+  middle_chinese: kʰʷiɛŋ
+  fanqie: 去營切
+  tone: 平
+  guangyun: 側也伏也敧也去營切二
+  senses:
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+    children:
+    - gloss: result
+      concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+      concept_label: POUR
+      children:
+      - gloss: into vessel
+        concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+        concept_label: FILL
+      - gloss: completely
+        concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+        concept_label: EXHAUST
+        children:
+        - gloss: 'result: complete one''s life'
+          concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+          concept_label: DIE
+        - gloss: grammaticalised
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+      - gloss: 'figurative: pour out one''s feelings/thoughts'
+        concept_uuid: 6da17544-5ea6-457e-80df-a73c69745ce6
+        concept_label: COMMUNICATE
+    - gloss: result
+      concept_uuid: 51ed079c-2675-4502-b206-9dfec4fe64ae
+      concept_label: OVERTURN
+      children:
+      - gloss: generalised
+        concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+        concept_label: COLLAPSE
+      - gloss: 'passive: military'
+        concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+        concept_label: DEFEAT
+    - gloss: abstract
+      concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+      concept_label: PARTIAL
+      children:
+      - gloss: in favour of
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+      - gloss: morally
+        concept_label: WRONG
+    - gloss: figurative, precarious
+      concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+      concept_label: DANGER
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T18:02:41.747+09:00'

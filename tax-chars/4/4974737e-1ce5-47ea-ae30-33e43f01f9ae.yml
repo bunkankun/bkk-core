@@ -1,0 +1,82 @@
+uuid: 4974737e-1ce5-47ea-ae30-33e43f01f9ae
+type: tax-char
+heads:
+- 情
+pronunciations:
+- reading: qíng
+  old_chinese: dzeŋ
+  middle_chinese: dziɛŋ
+  fanqie: 疾盈切
+  tone: 平
+  guangyun: 静也説文曰人之隂气有所欲也疾盈切五
+  senses:
+  - concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+    concept_label: REALITY
+    children:
+    - gloss: systematic
+      concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+      concept_label: PRINCIPLE
+    - gloss: abstract
+      concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+      concept_label: 'TRUE'
+      children:
+      - gloss: concrete
+        concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+        concept_label: SITUATION
+        children:
+        - gloss: feature
+          concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+          concept_label: BASIC NATURE
+    - gloss: mental
+      concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+      concept_label: MIND
+      children:
+      - gloss: private thoughts
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+      - gloss: emotional
+        concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+        concept_label: FEELING
+        children:
+        - gloss: what has feelings
+          concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+          concept_label: CREATURE
+        - gloss: appetitive
+          concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+          concept_label: DESIRE
+          children:
+          - gloss: caring
+            concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+            concept_label: LOVE
+            children:
+            - gloss: sexual
+              concept_uuid: cdfb0a19-3fc6-409a-9622-f4612108bcfc
+              concept_label: LUST
+          - gloss: dominant personal
+            concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+            concept_label: ASPIRATION
+            children:
+            - gloss: uncontrollable future
+              concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+              concept_label: HOPE
+        - gloss: social
+          concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+          concept_label: FAITHFUL
+          children:
+          - gloss: political
+            concept_uuid: 1362b3c0-6b31-4264-9ac3-a07552b41734
+            concept_label: FRANK
+          - gloss: object
+            concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+            concept_label: FRIEND
+        - gloss: potential for
+          concept_uuid: cff57e83-1708-4a17-a6d5-7828e1b5a326
+          concept_label: SENSIBILITY
+          children:
+          - gloss: action
+            concept_uuid: ed636f99-e1ef-4ace-a961-1bed7ed93df6
+            concept_label: TENDENCY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T18:03:53.529+09:00'

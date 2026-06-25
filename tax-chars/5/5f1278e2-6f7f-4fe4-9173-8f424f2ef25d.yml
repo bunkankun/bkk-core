@@ -1,0 +1,80 @@
+uuid: 5f1278e2-6f7f-4fe4-9173-8f424f2ef25d
+type: tax-char
+heads:
+- 澤
+pronunciations:
+- reading: zé
+  old_chinese: ɡrlaaɡ
+  middle_chinese: ɖɯak
+  fanqie: 場伯切
+  tone: 入
+  guangyun: 潤澤又恩也亦陂澤釋名曰下有水曰澤又州名秦爲上黨郡後魏爲建興郡周爲澤州取濩澤以名之亦姓出姓苑
+  senses:
+  - concept_uuid: 1d168988-768f-41d1-adb5-cd633b503ead
+    concept_label: MARSH
+    children:
+    - gloss: feature
+      concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+      concept_label: MOIST
+      children:
+      - gloss: place
+        concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+        concept_label: LAKE
+      - gloss: general
+        concept_uuid: b0efc5ff-4d2b-4c80-9e8c-da57f1268678
+        concept_label: LIQUID
+        children:
+        - gloss: alcoholic
+          concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+          concept_label: LIQUOR
+        - gloss: natural
+          concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+          concept_label: RAIN
+        - gloss: cosmetic
+          concept_uuid: cd1f9cdf-e84e-4b55-beb5-5ecfc770f703
+          concept_label: MAKE-UP
+          children:
+          - gloss: feature
+            concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+            concept_label: SHINE
+      - gloss: related feature
+        concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+        concept_label: FLOURISH
+        children:
+        - gloss: generalised
+          concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+          concept_label: ABUNDANT
+          children:
+          - gloss: in property
+            concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+            concept_label: RICH
+            children:
+            - gloss: typical feature
+              concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+              concept_label: GENEROUS
+            - gloss: economic
+              concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+              concept_label: PROFIT
+              children:
+              - gloss: from work
+                concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+                concept_label: SALARY
+              - gloss: generalised
+                concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+                concept_label: INFLUENCE
+  - gloss: =擇
+    concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+unattributed_senses:
+- concept_label: 澤shì《集韻》施隻切，入昔書。鐸部。
+- concept_label: 澤yì《集韻》夷益切，入昔以。
+  children:
+  - concept_label: =醳
+  - concept_label: =懌
+- concept_label: 澤duó《集韻》達各切，入鐸定。鐸部。
+  children:
+  - concept_label: CONSTELLATIONS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-20T00:06:28.924+09:00'

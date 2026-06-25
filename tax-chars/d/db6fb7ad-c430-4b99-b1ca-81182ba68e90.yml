@@ -1,0 +1,46 @@
+uuid: db6fb7ad-c430-4b99-b1ca-81182ba68e90
+type: tax-char
+heads:
+- 國
+pronunciations:
+- reading: guó
+  old_chinese: kʷɯɯɡ
+  middle_chinese: kʷək
+  fanqie: 古或切
+  tone: 入
+  guangyun: 邦國又姓太公之後左傳齊有國氏代爲上卿古或切一
+  senses:
+  - concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+    concept_label: CAPITAL CITY
+  - gloss: polity governed from the capital, in Zhou dynasty times feudal enfeoffed, in Han times enfeoffed and governed by member of the imperial family
+    concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+    concept_label: STATE
+    children:
+    - gloss: lands under administrative control from the capital
+      concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+      concept_label: TERRITORY
+      children:
+      - gloss: live in as (or establish as) one’s home territory
+        concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+        concept_label: DWELL
+    - gloss: 'by occasional metonymy: inhabitants of the state'
+      concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+      concept_label: PEOPLE
+    - gloss: head of
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: the state one was born in
+        concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+        concept_label: HOME
+unattributed_senses:
+- gloss: proper names
+  concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+  concept_label: SURNAMES
+- gloss: proper names
+  concept_uuid: 1c0f8910-9039-4c9f-8302-a20290254582
+  concept_label: MALES OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T03:33:02.604+09:00'

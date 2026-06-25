@@ -1,0 +1,56 @@
+uuid: 57fe9a45-5ce5-4170-8dd2-cfc4038ce818
+type: tax-char
+heads:
+- 聽
+pronunciations:
+- reading: tīng
+  old_chinese: theeŋ
+  middle_chinese: tʰeŋ
+  fanqie: 他丁切
+  tone: 平
+  guangyun: 聆也又湯定切
+- reading: tìng
+  old_chinese: theeŋs
+  middle_chinese: tʰeŋ
+  fanqie: 他定切
+  tone: 去
+  guangyun: 待也聆也謀也他定切又音㕔三
+unattributed_senses:
+- concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+  concept_label: LISTEN
+  children:
+  - gloss: to official administrative proceedings on
+    concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - gloss: with approval
+    concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+    concept_label: ACCEPT
+    children:
+    - gloss: in practice
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: consistently
+        concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+        concept_label: FOLLOW
+    - gloss: by authority
+      concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+      concept_label: PERMIT
+  - gloss: and reflect on
+    concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+    children:
+    - gloss: in action
+      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+      concept_label: INVESTIGATE
+  - gloss: to instructions, so as to follow them
+    concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+    children:
+    - gloss: intellectually
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T01:20:54.282+09:00'

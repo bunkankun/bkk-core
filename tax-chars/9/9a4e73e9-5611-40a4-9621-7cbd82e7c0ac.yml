@@ -1,0 +1,61 @@
+uuid: 9a4e73e9-5611-40a4-9621-7cbd82e7c0ac
+type: tax-char
+heads:
+- 公
+pronunciations:
+- reading: gōng
+  old_chinese: klooŋ
+  middle_chinese: kuŋ
+  fanqie: 古紅切
+  tone: 平
+  guangyun: 通也父也正也共也官也三公論道又公者無私也從八從厶厶音私八背意也背厶爲公也亦姓漢有主爵都尉公儉又漢複姓八十五氏左傳魯有公冉務人公歛陽公何𦵧公父歜公賔庚公思展公鉏極公申叔子費宰公山弗擾公甲叔公巫召伯䘙有公文要戰國䇿齊威王時有左執法公旗蕃左傳齊悼子公旗之後左傳季武子庶子公沮後以爲氏孟子有公行子著書左傳晉成公以卿之庶子爲公行大夫其後氏焉孔子家語魯有公冶長又公索氏將祭而亡其牲者魯有公愼氏出婬妻又有公罔之裘揚觶者孔子弟子齊人公晳哀陳人公良儒公西赤公祖句兹公肩定漢書藝文志有公檮子著書又有公勝生著書濟南公玉帶上明堂圖功臣表有公師壹晉穆公子成師之後又有公扈滿意後漢有零陵太守公仇稱晉穆公子仇之後又弘農令北海公沙穆山陽公堵恭魏志有公夏浩晉書有征虜長史太山公正羣成都王帳下督公帥蕃本姓公師避晉景帝諱改爲公帥氏前趙録有大中大夫公帥式子夏門人齊人公羊髙作春秋傳列女傳有公乗之姒墨子魯有公輸班衞大夫公叔文子史記有魯相公儀休孔子門人公休哀又有公祈哀禮記魯大夫公明儀何氏姓苑云今髙平人衞大夫公南文子魯有公荆皎衞大夫公子荆之後魯大夫公襄昭魯襄公太子野之後魯大夫公伯寮何氏姓苑云彭城人趙平陵太守公休勝魯士官公爲珍魯昭公子公爲之後楚大夫公朱髙宋公子子朱之後公車氏秦公子伯車之後淮南子有公牛哀病七日化爲虎齊公子牛之後吕氏春秋有邴大夫公息忘孟子稱公都子有學業楚公子田食采於都邑後氏焉公劉氏后稷公劉之後古今人表有公房皮楚公子房之後郭泰别傳有渤海公族進階衞大夫有公上王世本有魯大夫公之文晉蒲邑大夫公佗世卿秦公子金之後有公金氏齊公子成之後有公牽氏何氏姓苑云公右氏今琅邪人公左氏今髙平人又有公言公孟公獻公留公石公旅公仲等氏又左傳衞有𢈔公差以善射聞祭公謀父出自姜姓申公子福楚申公巫臣之後衞有尹公佗楚大夫逢公子仲楚白公勝之後有白公氏文字志云魏文侯時有古樂人竇公氏獻古文樂書一篇秦有博士黃公庇古今人表神農之後有公幹仕齊爲大夫其後氏焉丗本有大公叔頴又有公紀氏衞有大夫左公子洩右公子職漢四晧有園公先生尚書僕射東郡成公敞古紅切十三
+  senses:
+  - gloss: rank of a duke
+    concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+    children:
+    - gloss: posthumous title "duke" used for all enfeoffed rulers
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: honorific term of address
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+        children:
+        - gloss: 'generalised:'
+          concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+          concept_label: HUMAN
+          children:
+          - gloss: specifically
+            concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+            concept_label: MALE
+        - gloss: honorific term for one’s father
+          concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+          concept_label: FATHER
+          children:
+          - gloss: fathers' father
+            concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+            concept_label: ANCESTOR
+      - gloss: belonging to the official or public sphere
+        concept_uuid: 334a18e8-17db-41fa-b42d-17e7d2ce31bb
+        concept_label: PUBLIC
+        children:
+        - gloss: public tasks
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+          children:
+          - gloss: public spirit in
+            concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+            concept_label: JUSTICE
+            children:
+            - gloss: moral
+              concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+              concept_label: GOOD
+              children:
+              - gloss: specifically
+                concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+                concept_label: EQUAL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-23T21:58:21.715+09:00'

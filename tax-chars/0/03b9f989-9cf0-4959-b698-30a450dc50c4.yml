@@ -1,0 +1,37 @@
+uuid: 03b9f989-9cf0-4959-b698-30a450dc50c4
+type: tax-char
+heads:
+- 網
+pronunciations:
+- reading: wǎng
+  old_chinese: maŋʔ
+  middle_chinese: mʷiɐŋ
+  fanqie: 文兩切
+  tone: 上
+  guangyun: 同网
+  senses:
+  - concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+    children:
+    - gloss: specific
+      concept_uuid: 21e54e28-946b-4cd7-9293-c8784a3174c7
+      concept_label: TRAP
+      children:
+      - gloss: action
+        concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+        concept_label: CATCH
+    - gloss: abstract
+      concept_uuid: ef0251ed-2c77-481b-929c-455bd198a56e
+      concept_label: SYSTEM
+    - gloss: social
+      concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+      concept_label: LAW
+    - gloss: associated activity
+      concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+      concept_label: FISHING
+    - gloss: associated activity
+      concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+      concept_label: WRAP
+  - gloss: MEASURING UNIT (一網魚)
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: 92b86c78-0c8b-4984-943e-2cd97f10b41b
+type: tax-char
+heads:
+- 奪
+pronunciations:
+- reading: duó
+  old_chinese: dood
+  middle_chinese: dʷɑt
+  fanqie: 徒活切
+  tone: 入
+  guangyun: 左傳曰一與一奪徒活切八
+  senses:
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+    children:
+    - gloss: violently
+      concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+      concept_label: ROB
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,22 @@
+uuid: 5f08b08a-5ba4-4452-85bd-bc84ac59d0ed
+type: tax-char
+heads:
+- 蝶
+pronunciations:
+- reading: tiē
+  old_chinese: lʰeeb
+  middle_chinese: tʰep
+  fanqie: 他協切
+  tone: 入
+  guangyun: 蝶𧌏
+- reading: dié
+  old_chinese: leeb
+  middle_chinese: dep
+  fanqie: 徒協切
+  tone: 入
+  guangyun: 蛺蝶
+  senses:
+  - concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+    concept_label: INSECTS
+source:
+  source_file: taxchar.xml

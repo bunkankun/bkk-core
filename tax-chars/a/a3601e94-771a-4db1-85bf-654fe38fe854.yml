@@ -1,0 +1,31 @@
+uuid: a3601e94-771a-4db1-85bf-654fe38fe854
+type: tax-char
+heads:
+- 掘
+pronunciations:
+- reading: jué
+  old_chinese: ɡlod
+  middle_chinese: ɡʷiɐt
+  fanqie: 其月切
+  tone: 入
+  guangyun: 穿也
+  senses:
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: 274dd192-78a3-45df-9faf-fe824f64633a
+    concept_label: SCOLD
+  - gloss: = 倔
+  - gloss: = 兀
+  - gloss: = 崛
+  - gloss: = 拙
+  - gloss: = 屈
+- reading: jué
+  old_chinese: ɡlud
+  middle_chinese: ɡiut
+  fanqie: 衢物切
+  tone: 入
+  guangyun: 掘地
+source:
+  source_file: taxchar.xml

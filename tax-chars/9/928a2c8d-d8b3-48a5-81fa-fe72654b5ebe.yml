@@ -1,0 +1,37 @@
+uuid: 928a2c8d-d8b3-48a5-81fa-fe72654b5ebe
+type: tax-char
+heads:
+- 王
+pronunciations:
+- reading: wáng
+  old_chinese: ɢʷaŋ
+  middle_chinese: ɦʷiɐŋ
+  fanqie: 雨方切
+  tone: 平
+  guangyun: 大也君也字林云三者天地人一貫三爲王天下所法又姓出太原琅邪周靈王太子晉之後北海陳留齊王田和之後東海出自姬姓髙平京兆魏信陵君之後天水東平新蔡新野山陽中山章武東萊河東者殷王子比干爲紂所害子孫以王者之後号曰王氏金城廣漢長沙堂邑河南共二十一望又漢複姓五氏左傳晉有樂王鮒小王桃甲賈執英賢傳云東莞有五王氏史記云出齊威王至䢖王五王之後風俗通云漢有中郎威王弼出自楚威王後漢有新豊令王史音雨方切又雨誑切四
+- reading: wàng
+  old_chinese: ɢʷaŋs
+  middle_chinese: ɦʷiɐŋ
+  fanqie: 于放切
+  tone: 去
+  guangyun: 霸王又盛也又于方切
+  senses:
+  - gloss: marked derivation of action versus agent
+    concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+unattributed_senses:
+- gloss: agent
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  concept_label: KING
+  children:
+  - gloss: generalised
+    concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+    children:
+    - gloss: grammtalised:politely honorific
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T19:38:12.911+09:00'

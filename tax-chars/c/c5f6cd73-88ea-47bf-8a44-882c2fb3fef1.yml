@@ -1,0 +1,75 @@
+uuid: c5f6cd73-88ea-47bf-8a44-882c2fb3fef1
+type: tax-char
+heads:
+- 房
+pronunciations:
+- reading: fáng
+  old_chinese: baŋ
+  middle_chinese: bʷiɐŋ
+  fanqie: 符方切
+  tone: 平
+  guangyun: 房室亦州名即春秋時防渚也秦爲房陵郡唐武德爲房州又姓出淸河濟南河南三望本自堯子丹朱舜封爲房邑侯子陵以父封爲氏陵四十八代孫雅王莽末爲淸河太守始居淸河雅十九代孫諶隨慕容德南遷因居濟南郡生四子豫坦邃煕号四龍今稱四祖房氏符方切七
+  senses:
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+    children:
+    - gloss: specific
+      concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+      concept_label: TEMPLE
+      children:
+      - gloss: main part of
+        concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+        concept_label: ALTAR
+      - gloss: for clan
+        concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+        concept_label: HOME
+        children:
+        - gloss: occupants of
+          concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+          concept_label: CLAN
+          children:
+          - gloss: object
+            concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+            concept_label: GATHER
+    - gloss: specific
+      concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+      concept_label: OFFICE
+    - gloss: part of
+      concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+      concept_label: ROOM
+      children:
+      - gloss: occupant of
+        concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+        concept_label: WIFE
+        children:
+        - gloss: associated activity
+          concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+          concept_label: COPULATE
+          children:
+          - gloss: object
+            concept_uuid: e96ed05f-8b11-4f09-9179-281ff55b7bd8
+            concept_label: HAREM
+    - gloss: 'abstract: of animals'
+      concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+      concept_label: DWELLING
+      children:
+      - gloss: concrete
+        concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+        concept_label: HOLE
+        children:
+        - gloss: for arrows
+          concept_uuid: 8b72e051-2ff0-44c7-b58f-7b9fdee049bd
+          concept_label: QUIVER
+    - gloss: metaphorical botanical
+      concept_uuid: 4c201b1a-8f1e-4b2d-9dbe-cb32e7976778
+      concept_label: PLANT PARTS
+    - gloss: metaphorical astronomic
+      concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+      concept_label: CONSTELLATION
+  - concept_uuid: ee979ffd-7edb-4439-8909-34c3173003b7
+    concept_label: SPECIALIST
+  - gloss: MEASURING UNIT
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

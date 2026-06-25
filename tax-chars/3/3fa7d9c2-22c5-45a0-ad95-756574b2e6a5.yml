@@ -1,0 +1,34 @@
+uuid: 3fa7d9c2-22c5-45a0-ad95-756574b2e6a5
+type: tax-char
+heads:
+- 霓
+pronunciations:
+- reading: ní
+  old_chinese: ŋee
+  middle_chinese: ŋei
+  fanqie: 五稽切
+  tone: 平
+  guangyun: 雌虹又五結五繫二切
+  senses:
+  - concept_uuid: 94b01545-d643-4488-b69c-c9d80548d1a2
+    concept_label: RAINBOW
+  - concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+    concept_label: SKY
+  - concept_uuid: ca0f15b3-4e29-45c8-a9f5-63e308786d16
+    concept_label: AIR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: niè
+  old_chinese: ŋeed
+  middle_chinese: ŋet
+  fanqie: 五結切
+  tone: 入
+  guangyun: 虹又音倪
+- reading: nì
+  old_chinese: ŋees
+  middle_chinese: ŋei
+  fanqie: 五計切
+  tone: 去
+  guangyun: 虹又音倪
+source:
+  source_file: taxchar.xml

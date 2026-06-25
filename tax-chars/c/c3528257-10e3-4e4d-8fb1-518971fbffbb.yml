@@ -1,0 +1,69 @@
+uuid: c3528257-10e3-4e4d-8fb1-518971fbffbb
+type: tax-char
+heads:
+- 越
+pronunciations:
+- reading: yuè
+  old_chinese: ɢʷad
+  middle_chinese: ɦʷiɐt
+  fanqie: 王伐切
+  tone: 入
+  guangyun: 墜也干也於也逺也走也逾也曰也揚也説文度也亦吴越又姓勾踐之後又虜三字姓後秦録有北梁州刺史越質詰歸王伐切十六
+- reading: huó
+  old_chinese: ɡʷaad
+  middle_chinese: ɦʷɑt
+  fanqie: 戶括切
+  tone: 入
+  guangyun: 鄭玄云瑟下孔又云翦蒲爲席又音粤或作趏
+unattributed_senses:
+- concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+  concept_label: LEAP OVER
+  children:
+  - gloss: abstract
+    concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - gloss: generalised
+    concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+    children:
+    - gloss: abstract
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+      children:
+      - gloss: feature
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+      - gloss: audibly
+        concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+        concept_label: LOUD
+    - gloss: 'abstract: encroach'
+      concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+      concept_label: ARROGATE
+      children:
+      - gloss: concrete:transgression
+        concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+        concept_label: STEAL
+        children:
+        - gloss: abstract:transgression
+          concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+          concept_label: CRIME
+  - gloss: grammaticalised
+    concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+    concept_label: OTHER
+    children:
+    - gloss: 'grammaticalised: degree'
+      concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+      concept_label: MORE
+      children:
+      - gloss: time
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+  - gloss: grammaticalised>MODAL
+    concept_label: PARTICLES
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:47:36.175+09:00'

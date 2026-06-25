@@ -1,0 +1,36 @@
+uuid: 41cfd050-4cf7-4fe1-b4a4-9d096a87157a
+type: tax-char
+heads:
+- 酌
+pronunciations:
+- reading: zhuó
+  old_chinese: pljewɡ
+  middle_chinese: tɕiɐk
+  fanqie: 之若切
+  tone: 入
+  guangyun: 酌酒又益也挹也行也取也霑也
+  senses:
+  - concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+    concept_label: POUR
+  - concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+    concept_label: DRINK
+  - concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+    concept_label: LIQUOR
+  - concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+  - concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+    concept_label: MUSIC
+  - concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+    concept_label: CUP
+  - concept_uuid: b4e10029-452b-4cf1-90e1-39bb34d71164
+    concept_label: LADLE
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+    concept_label: ACCEPT
+  - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+    concept_label: CLEAR
+source:
+  source_file: taxchar.xml

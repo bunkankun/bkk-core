@@ -1,0 +1,41 @@
+uuid: 1c4382ba-8623-4547-ab83-d258df9bc788
+type: tax-char
+heads:
+- 苟
+pronunciations:
+- reading: gǒu
+  old_chinese: kooʔ
+  middle_chinese: kəu
+  fanqie: 古厚切
+  tone: 上
+  guangyun: 苟且又姓出河内河南西河三望國語云本自黄帝之子漢有苟參古厚切十三
+  senses:
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - gloss: grammaticalised
+    concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+    children:
+    - gloss: specifically
+      concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+      concept_label: COUNTERFACTUAL
+  - gloss: adverbial
+    concept_uuid: 443583c8-91ba-4fd9-bc0a-20ac4eb76fcb
+    concept_label: MEANWHILE
+  - concept_label: ONLYzd4.2
+  - gloss: if only!
+    concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+    concept_label: UTINAM
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+    children:
+    - concept_label: VEGETABLE
+unattributed_senses:
+- concept_label: 苟gōu《集韻》居侯切，平侯見。
+  children:
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T20:14:30.048+09:00'

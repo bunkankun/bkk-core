@@ -1,0 +1,107 @@
+uuid: d6f04d84-b57c-4672-b4d1-ddd93e6e9d2b
+type: tax-char
+heads:
+- 陽
+pronunciations:
+- reading: yáng
+  old_chinese: k-laŋ
+  middle_chinese: jiɐŋ
+  fanqie: 與章切
+  tone: 平
+  guangyun: 隂陽説文曰髙明也爾雅云山東曰朝陽山西曰夕陽又姓出右北平本自周景王封少子於陽樊後𧜟避周之亂適燕家於無終因邑命氏秦置右北平子孫仍屬焉又漢複姓二十二氏歐陽氏越王句踐之後封于烏程歐陽亭後因爲氏望出長沙吕氏香秋有辯士髙陽魋帝顓頊髙陽氏之後漢有東海王中尉靑陽精少昊靑陽氏之後又有御史孫陽放秦穆公時孫陽伯樂之後魯之公族有名子陽者及衞公于趙陽之後並以名爲氏漢有周陽由淮南王舅周陽侯趙兼之後又駙馬都尉涇陽準秦涇陽君之後丗本云偪陽妘姓國爲晉所滅子孫因氏焉左傳晉有梗陽巫皐衞有戲陽速漢有博士中山鮭陽鴻又有葉陽氏秦葉陽君之後列仙傳有沛國陵陽子明止陵陽山得仙其後因山爲氏漢有揚州刺史鮮陽戩後漢有櫟陽侯景丹曾孫汾避亂隴西因封爲氏又長沙太守濮陽逸陳留人也神仙傳有太陽子白日升天春秋釋例周有老陽子修黄老術漢有安陽護軍河東成陽恢何氏姓苑有朱陽氏索陽氏與章切三十二
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+    children:
+    - gloss: source
+      concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+      concept_label: SUN
+      children:
+      - gloss: resultative
+        concept_uuid: 278eb26c-ce4a-4ce0-bbb2-008fa6ea5669
+        concept_label: WARM
+        children:
+        - gloss: season
+          concept_label: SUMMER
+      - gloss: synecdoche
+        concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+        concept_label: HEAVEN
+    - gloss: time
+      concept_uuid: 23374601-0e1f-4530-98fe-d16101c0875b
+      concept_label: DAYTIME
+      children:
+      - gloss: specifically
+        concept_label: MIDDAY
+    - gloss: 'adverbial: overtly'
+      concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+      concept_label: APPEARANCE
+      children:
+      - gloss: abstract
+        concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+        concept_label: SUPERFICIAL
+        children:
+        - gloss: action
+          concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+          concept_label: PRETEND
+    - gloss: in front of one
+      concept_uuid: c4708191-be6c-47e1-b2e7-fb880a22cc69
+      concept_label: BEFORE
+    - gloss: function
+      concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+      concept_label: SHINE
+      children:
+      - gloss: product
+        concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+        concept_label: LIGHT
+        children:
+        - gloss: make visible in
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+          children:
+          - gloss: what is shown
+            concept_uuid: 45370506-d66f-4cae-85f9-6cde4b77d3db
+            concept_label: SURFACE
+        - gloss: see the light of day
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+          children:
+          - gloss: season
+            concept_label: SPRING
+          - gloss: feature
+            concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+            concept_label: STRONG
+            children:
+            - gloss: cosmic
+              concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+              concept_label: ENERGY
+              children:
+              - gloss: metaphysical
+                concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+                concept_label: COSMIC FORCE
+                children:
+                - gloss: numerological
+                  concept_uuid: 144d6bfc-ac7a-4922-a3f5-87df15e259d4
+                  concept_label: NINE
+            - gloss: excessive
+              concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+              concept_label: VIOLENT
+    - gloss: the bright one of the sexes
+      concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+      concept_label: MALE
+      children:
+      - gloss: salient part of
+        concept_uuid: d7158159-74c5-4463-a85a-2e27a4104944
+        concept_label: PENIS
+        children:
+        - gloss: product
+          concept_label: SEMEN
+    - gloss: bright side
+      concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+      concept_label: DIRECTION
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T18:34:16.685+09:00'

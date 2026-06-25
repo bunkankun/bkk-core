@@ -1,0 +1,51 @@
+uuid: 68e96197-8844-4c96-b62c-a277ef3c8c93
+type: tax-char
+heads:
+- 惜
+pronunciations:
+- reading: xī
+  old_chinese: sqaɡ
+  middle_chinese: siɛk
+  fanqie: 思積切
+  tone: 入
+  guangyun: 悋惜説文痛也
+  senses:
+  - gloss: psychological
+    concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+    children:
+    - gloss: intensitive
+      concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+      concept_label: LOVE
+      children:
+      - gloss: the dead
+        concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+        concept_label: MOURNING
+        children:
+        - gloss: 'generalised: regrettably'
+          concept_uuid: 50ed529a-449f-4621-b5db-c11909f9a6c5
+          concept_label: REGRET
+          children:
+          - gloss: anticipated
+            concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+            concept_label: FEAR
+          - gloss: grammaticalised
+            concept_uuid: 881db76b-4657-4340-8d1d-84bda6041faf
+            concept_label: ALAS
+      - gloss: action
+        concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+        concept_label: CARE FOR
+        children:
+        - gloss: practical
+          concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+          concept_label: KEEP
+          children:
+          - gloss: feature
+            concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+            concept_label: FRUGAL
+            children:
+            - gloss: aiming for more
+              concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+              concept_label: GREEDY
+source:
+  source_file: taxchar.xml

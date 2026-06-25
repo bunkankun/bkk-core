@@ -1,0 +1,67 @@
+uuid: 9bfe701b-e7b6-41f6-bc39-1f6ce8e84bd9
+type: tax-char
+heads:
+- 問
+pronunciations:
+- reading: wèn
+  old_chinese: mɯns
+  middle_chinese: miun
+  fanqie: 亡運切
+  tone: 去
+  guangyun: 訊也又姓今襄州有之亡運切十一
+  senses:
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+    children:
+    - gloss: in a hostile manner, as a person in authority
+      concept_uuid: b81c5103-4414-42e2-99ea-d00bcd91003d
+      concept_label: INTERROGATE
+      children:
+      - gloss: resultative
+        concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+        concept_label: JUDGE
+    - gloss: as greeting
+      concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+      concept_label: GREET
+      children:
+      - gloss: letter expressing concern for addressee
+        concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+        concept_label: LETTER
+    - gloss: with concern
+      concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+      concept_label: CONSOLE
+      children:
+      - gloss: go to so as to console
+        concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+        concept_label: VISIT
+        children:
+        - gloss: make a present on the occasion of a visit
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+        - gloss: visit and report
+          concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+          concept_label: REPORT
+  - gloss: questions about something
+    concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+    children:
+    - gloss: with negative results
+      concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+      concept_label: CRITICISE
+    - gloss: 'with negatives: care about'
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+      children:
+      - gloss: 'conative: so as to meddle in'
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+    - gloss: object
+      concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+      concept_label: PROBLEM
+  - gloss: =聞
+    concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+    concept_label: FAMOUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-30T19:52:47.501+09:00'

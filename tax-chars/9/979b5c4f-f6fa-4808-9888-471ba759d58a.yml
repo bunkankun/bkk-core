@@ -1,0 +1,72 @@
+uuid: 979b5c4f-f6fa-4808-9888-471ba759d58a
+type: tax-char
+heads:
+- 修
+- 脩
+pronunciations:
+- reading: xiū
+  old_chinese: sqlɯw
+  middle_chinese: siu
+  fanqie: 息流切
+  tone: 平
+  guangyun: 理也説文飾也
+  senses:
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+    children:
+    - gloss: causative
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+      children:
+      - gloss: 'causative: so as to create building'
+        concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+        concept_label: BUILD
+      - gloss: 'abstract, specific: writings'
+        concept_uuid: ebdfd837-97b1-4ec9-b98d-aaf99e5d0293
+        concept_label: COMPILE
+      - gloss: so as to recover
+        concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+        concept_label: REPAIR
+        children:
+        - gloss: abstract
+          concept_uuid: 4fa09a4c-1dbf-495f-ab01-0a2cabe19e29
+          concept_label: DEFINE
+    - gloss: causative
+      concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+      concept_label: EMBELLISH
+      children:
+      - gloss: generalised
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: result, passive
+          concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+          concept_label: BEAUTIFUL
+        - gloss: mode
+          concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+          concept_label: DILIGENT
+          children:
+          - gloss: sustained
+            concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+            concept_label: CULTIVATE
+            children:
+            - gloss: resultative
+              concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+              concept_label: TALENT
+            - gloss: intellectual
+              concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+              concept_label: STUDY
+              children:
+              - gloss: causative
+                concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+                concept_label: TEACH
+  - concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+    concept_label: LONG
+    children:
+    - gloss: 脩 long pieces of
+      concept_uuid: 4e54c8b0-a7c5-4b06-b215-6b928be209df
+      concept_label: DRIED MEAT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T19:01:12.749+09:00'

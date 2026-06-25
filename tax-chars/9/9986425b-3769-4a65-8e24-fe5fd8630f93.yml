@@ -1,0 +1,25 @@
+uuid: 9986425b-3769-4a65-8e24-fe5fd8630f93
+type: tax-char
+heads:
+- 援
+pronunciations:
+- reading: yuán
+  old_chinese: ɢʷan
+  middle_chinese: ɦʷiɐn
+  fanqie: 雨元切
+  tone: 平
+  guangyun: 援引也又爲眷切
+  senses:
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+- reading: yuàn
+  old_chinese: ɢʷans
+  middle_chinese: ɦʷɯiɛn
+  fanqie: 王眷切
+  tone: 去
+  guangyun: 接援救助也亦姓
+  senses:
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+source:
+  source_file: taxchar.xml

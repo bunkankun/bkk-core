@@ -1,0 +1,56 @@
+uuid: cbac7c27-d942-4b1d-baca-db3cbe829511
+type: tax-char
+heads:
+- 面
+pronunciations:
+- reading: miàn
+  old_chinese: mens
+  middle_chinese: miɛn
+  fanqie: 彌箭切
+  tone: 去
+  guangyun: 向也前也説文作𡇢顔前也俗作靣彌箭切二
+  senses:
+  - concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+    concept_label: FACE
+    children:
+    - gloss: face towards when moving
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+      children:
+      - gloss: so as to see and talk to
+        concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+        concept_label: MEET
+      - gloss: 'grammaticalised: facing'
+        concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+        concept_label: DIRECTION
+    - gloss: 'grammaticalised: spatial'
+      concept_uuid: c4708191-be6c-47e1-b2e7-fb880a22cc69
+      concept_label: BEFORE
+    - gloss: 'grammaticalised: face to face'
+      concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+      concept_label: PERSONALLY
+    - gloss: as expression of
+      concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+      concept_label: FEELING
+    - gloss: general
+      concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+      concept_label: SIDE
+      children:
+      - gloss: mathematical technical term
+        concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+        concept_label: LINE
+      - gloss: general
+        concept_uuid: 45370506-d66f-4cae-85f9-6cde4b77d3db
+        concept_label: SURFACE
+        children:
+        - gloss: features of, external
+          concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+          concept_label: APPEARANCE
+      - gloss: locations around
+        concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+        concept_label: PLACE
+  - gloss: mathematical technical term
+    concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,30 @@
+uuid: 71d02a1b-6197-4987-ba9f-5e61c416824b
+type: tax-char
+heads:
+- 臭
+pronunciations:
+- reading: chòu
+  old_chinese: khjus
+  middle_chinese: tɕʰiu
+  fanqie: 尺救切
+  tone: 去
+  guangyun: 凡氣之揔名俗作臰尺救切二
+  senses:
+  - concept_uuid: dd396b03-ebdf-4208-a5b3-38ba6f0dfc3c
+    concept_label: STINK
+  - concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+    concept_label: UGLY
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+  - concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+    concept_label: ODOUR
+  - concept_uuid: 9bf7a297-3656-483f-a477-7b618b474da6
+    concept_label: SMELL
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+  - concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+    concept_label: FAIL
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 05863861-837f-4cbf-b8c3-266162036570
+type: tax-char
+heads:
+- 冢
+pronunciations:
+- reading: zhǒng
+  old_chinese: toŋʔ
+  middle_chinese: ʈioŋ
+  fanqie: 知隴切
+  tone: 上
+  guangyun: 大也周禮天官冢宰説文曰髙墳也釋名曰冢腫也象山頂之髙腫起知隴切二
+  senses:
+  - concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+    concept_label: SUMMIT
+  - concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+    concept_label: GREAT
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+source:
+  source_file: taxchar.xml

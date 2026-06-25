@@ -1,0 +1,24 @@
+uuid: e4f36983-528d-4c33-ade6-4d9e1aa10338
+type: tax-char
+heads:
+- 炳
+pronunciations:
+- reading: bǐng
+  old_chinese: pqraŋʔ
+  middle_chinese: pɯiaŋ
+  fanqie: 兵永切
+  tone: 上
+  guangyun: 炳煥明也
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+source:
+  source_file: taxchar.xml

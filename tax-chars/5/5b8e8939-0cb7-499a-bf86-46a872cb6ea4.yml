@@ -1,0 +1,32 @@
+uuid: 5b8e8939-0cb7-499a-bf86-46a872cb6ea4
+type: tax-char
+heads:
+- 炭
+pronunciations:
+- reading: tàn
+  old_chinese: thaans
+  middle_chinese: tʰɑn
+  fanqie: 他旦切
+  tone: 去
+  guangyun: 火炭又姓西京雜記有長安炭虯他旦切六
+  senses:
+  - concept_uuid: 3ca8bea8-210f-4977-8061-e459b06a0192
+    concept_label: COAL
+  - concept_uuid: e10ace81-269c-4817-ab59-920c50bd7287
+    concept_label: SOOT
+  - concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+    concept_label: PROBLEM
+  - concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+    concept_label: DIRTY
+  - concept_uuid: a4082d41-8d5a-49e4-8fae-a2728c892bec
+    concept_label: ASH
+  - gloss: LIME
+  - gloss: CONCRETE,
+    concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: MATERIAL
+  - concept_uuid: acc1655d-ca06-4e58-b83b-afe7f0326ed6
+    concept_label: GASES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

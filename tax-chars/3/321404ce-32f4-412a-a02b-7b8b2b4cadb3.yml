@@ -1,0 +1,66 @@
+uuid: 321404ce-32f4-412a-a02b-7b8b2b4cadb3
+type: tax-char
+heads:
+- 隱
+pronunciations:
+- reading: yǐn
+  old_chinese: qɯnʔ
+  middle_chinese: ʔɨn
+  fanqie: 於謹切
+  tone: 上
+  guangyun: 藏也痛也私也安也定也又微也又姓吴志有廷尉左監隱蕃於謹切十一
+- reading: yìn
+  old_chinese: qɯns
+  middle_chinese: ʔɨn
+  fanqie: 於靳切
+  tone: 去
+  guangyun: 隈隱之皃又於謹切
+unattributed_senses:
+- concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  concept_label: CONCEAL
+  children:
+  - gloss: resultative
+    concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+    children:
+    - gloss: abstract
+      concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+      concept_label: OBSCURE
+    - gloss: psychological
+      concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+      concept_label: SAD
+      children:
+      - gloss: intensitive
+        concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+        concept_label: GRIEF
+      - gloss: on others' behalf
+        concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+        concept_label: SYMPATHY
+  - gloss: reflexive
+    concept_uuid: cc5afe89-9ccc-4ed5-b8cf-a33decee7547
+    concept_label: HIDE ONESELF
+    children:
+    - gloss: live in that way
+      concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+    - gloss: bend over
+      concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+      concept_label: LEAN ON
+  - gloss: 'positive:'
+    concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+    concept_label: PROFOUND
+    children:
+    - gloss: deliberately
+      concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+      concept_label: SECRET
+      children:
+      - gloss: leave unsaid
+        concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+        concept_label: SILENCE
+- gloss: answer concealed
+  concept_uuid: ff469713-3e03-42df-a8a3-346fe5a336e2
+  concept_label: RIDDLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T18:15:23.425+09:00'

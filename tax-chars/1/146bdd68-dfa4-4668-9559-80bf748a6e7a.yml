@@ -1,0 +1,171 @@
+uuid: 146bdd68-dfa4-4668-9559-80bf748a6e7a
+type: tax-char
+heads:
+- 方
+pronunciations:
+- reading: fáng
+  old_chinese: baŋ
+  middle_chinese: bʷiɐŋ
+  fanqie: 符方切
+  tone: 平
+  guangyun: 方與縣名又府良切
+  senses:
+  - gloss: =仿
+    concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+- reading: fāng
+  old_chinese: paŋ
+  middle_chinese: pʷiɐŋ
+  fanqie: 府良切
+  tone: 平
+  guangyun: 四方也正也道也比也𩔖也法術也亦官名續漢書曰尚方令掌上手工巧作御刀劒諸好器物也又姓史記周大夫方叔之後府良切十三
+  senses:
+  - concept_uuid: ff492103-d171-4ff2-bea1-70c36deb3067
+    concept_label: SQUARE
+    children:
+    - gloss: metaphorical:what is square (as opposed to the round Heaven)
+      concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+      concept_label: EARTH
+    - gloss: concrete
+      concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+      concept_label: PLACE
+      children:
+      - gloss: under control
+        concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+        concept_label: TERRITORY
+        children:
+        - gloss: institutionalised:governed
+          concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+          concept_label: STATE
+        - gloss: part of, centrally administered
+          concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+          concept_label: REGION
+      - gloss: spatial relation
+        concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+        concept_label: DIRECTION
+        children:
+        - gloss: juxtapose spatially
+          concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+          concept_label: LINK
+          children:
+          - gloss: what is juxtaposed, HYDCD NO. 12
+            concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+            concept_label: SIDE
+            children:
+            - gloss: action>HYDCD NO. 14
+              concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+              concept_label: SURROUND
+            - gloss: side by side, HYDCD NO. 3
+              concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+              concept_label: TOGETHER
+      - gloss: transitive
+        concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+        concept_label: BE IN
+        children:
+        - gloss: as inhabitantHYDCD NO. 24
+          concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+          concept_label: DWELL
+        - gloss: abstract:same category
+          concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+          concept_label: RESEMBLE
+          children:
+          - gloss: consider resemblances
+            concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+            concept_label: COMPARE
+            children:
+            - gloss: 'specifically: consider non-resemblances, HYDCD NO. 23 方物'
+              concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+              concept_label: DISTINGUISH
+              children:
+              - gloss: system of practical distinctions
+                concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+                concept_label: METHOD
+                children:
+                - gloss: obligatory
+                  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+                  concept_label: CORRECT
+                  children:
+                  - gloss: factual, HYDCD NO. 20
+                    concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+                    concept_label: 'TRUE'
+                    children:
+                    - gloss: wrongly assumed
+                      concept_uuid: 3fded652-eacb-4053-9fda-e1914b075d6f
+                      concept_label: PREJUDICE
+                  - gloss: causative, medical
+                    concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+                    concept_label: CURE
+                    children:
+                    - gloss: means
+                      concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+                      concept_label: DRUG
+                    - gloss: causative
+                      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+                      concept_label: ARRANGE
+                      children:
+                      - gloss: 'abstract: what things are arranged into, HYDCD NO. 7'
+                        concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+                        concept_label: CATEGORY
+                - gloss: specific:what is standard
+                  concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+                  concept_label: STATIONARY
+                  children:
+                  - gloss: standard size, HYDCD NO. 16
+                    concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+                    concept_label: MEASURE
+      - gloss: temporal place
+        concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+        concept_label: MOMENT
+        children:
+        - gloss: present
+          concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+          concept_label: NOW
+          children:
+          - gloss: to come, HYDCD NO. 39
+            concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+            concept_label: FUTURE
+          - gloss: come before
+            concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+            concept_label: PRECEDE
+            children:
+            - gloss: abstract grammatialised
+              concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+              concept_label: BECAUSE
+            - gloss: 'grammaticalised: conditional'
+              concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+              concept_label: IF
+              children:
+              - gloss: temporal
+                concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+                concept_label: WHEN
+                children:
+                - gloss: apodosis
+                  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+                  concept_label: THEN
+                  children:
+                  - gloss: necessary condition
+                    concept_uuid: 4032bd30-62b2-4abb-b9d8-16b747fa885a
+                    concept_label: ONLY THEN
+                    children:
+                    - gloss: generalised> HYDCD NO. 41
+                      concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+                      concept_label: ONLY
+                  - gloss: immediate
+                    concept_uuid: f367335b-2217-4e3e-bebc-006faa5f68ec
+                    concept_label: AS SOON AS
+  - gloss: religious
+    concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - gloss: =舫TWIN-BODY
+    concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+    concept_label: SHIP
+    children:
+    - concept_uuid: 25f58d5a-7a03-471d-9ee3-d86f42e724c6
+      concept_label: RAFT
+  - gloss: =放
+    concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T18:10:56.21+09:00'

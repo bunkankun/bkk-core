@@ -1,0 +1,36 @@
+uuid: 1dda2dc9-ed0f-4e2c-a692-2dcda224232d
+type: tax-char
+heads:
+- 邀
+pronunciations:
+- reading: jiāo
+  old_chinese: kleew
+  middle_chinese: keu
+  fanqie: 古堯切
+  tone: 平
+  guangyun: 遮也又於宵切
+- reading: yāo
+  old_chinese: qlew
+  middle_chinese: ʔiɛu
+  fanqie: 於霄切
+  tone: 平
+  guangyun: 邀遮又音梟
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+  - concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+    concept_label: INVITE
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+    concept_label: WEIGH
+  - concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+    concept_label: THREATEN
+  - concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+    concept_label: SHOUT
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+source:
+  source_file: taxchar.xml

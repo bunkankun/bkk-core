@@ -1,0 +1,45 @@
+uuid: d53e5f28-d152-4083-9992-2c3428f0317b
+type: tax-char
+heads:
+- 式
+pronunciations:
+- reading: shì
+  old_chinese: lʰɯɡ
+  middle_chinese: ɕɨk
+  fanqie: 賞職切
+  tone: 入
+  guangyun: 法也敬也用也度也又姓出何氏姓苑
+  senses:
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+  - concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+  - concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+    concept_label: PATTERN
+  - concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+    concept_label: METHOD
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGN
+  - concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+    concept_label: CEREMONY
+  - gloss: FORMULA
+  - gloss: GRAMMATICAL MOOD
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 軾
+  - gloss: = 栻
+  - gloss: = 拭
+source:
+  source_file: taxchar.xml

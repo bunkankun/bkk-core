@@ -1,0 +1,30 @@
+uuid: 4c3fe502-db69-4fad-9859-8211cff892da
+type: tax-char
+heads:
+- 譽
+pronunciations:
+- reading: yú
+  old_chinese: k-la
+  middle_chinese: jiɔ
+  fanqie: 以諸切
+  tone: 平
+  guangyun: 稱也又音預
+- reading: yù
+  old_chinese: k-las
+  middle_chinese: jiɔ
+  fanqie: 羊洳切
+  tone: 去
+  guangyun: 稱美也又姓晉書有平原太守譽粹又音余
+  senses:
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+    concept_label: WELL-KNOWN
+  - gloss: postitively
+    concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+    concept_label: FAMOUS
+  - gloss: =預
+    concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+source:
+  source_file: taxchar.xml

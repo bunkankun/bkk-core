@@ -1,0 +1,38 @@
+uuid: cd91de67-1c74-4ecd-b7a5-34bdef58fa03
+type: tax-char
+heads:
+- 迷
+pronunciations:
+- reading: mí
+  old_chinese: mii
+  middle_chinese: mei
+  fanqie: 莫兮切
+  tone: 平
+  guangyun: 惑也莫兮切六
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+    children:
+    - gloss: 'specific: route'
+      concept_uuid: b6bad94f-a9c3-4700-934c-61e8f885ff81
+      concept_label: GO ASTRAY
+    - gloss: physical process
+      concept_uuid: 032b3692-b51c-4c93-ba69-0bbe05b306d4
+      concept_label: FAINT
+    - gloss: psychological feature>ADDICTED
+    - gloss: generalised
+      concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+      concept_label: MISTAKE
+      children:
+      - gloss: 'specifically: cease to have by mistake'
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+      - gloss: causative
+        concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+        concept_label: SEDUCE
+  - gloss: =彌
+  - gloss: =弭
+  - gloss: =眯
+  - gloss: =謎
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,81 @@
+uuid: 191ba872-1cfd-4a3c-905e-bd68e2657c8f
+type: tax-char
+heads:
+- 狂
+pronunciations:
+- reading: kuáng
+  old_chinese: ɡʷaŋ
+  middle_chinese: ɡʷiɐŋ
+  fanqie: 巨王切
+  tone: 平
+  guangyun: 病也韓子曰必不能審得失之地則謂之狂也巨王切五
+  senses:
+  - concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+    concept_label: MAD
+    children:
+    - gloss: exocentric
+      concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+      concept_label: DOG
+    - gloss: figurative
+      concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+      concept_label: CRAZY
+      children:
+      - gloss: socially
+        concept_uuid: baec0e2f-c355-4a37-b0ac-c70fc945590f
+        concept_label: IMPOLITE
+        children:
+        - gloss: psychologically
+          concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+          concept_label: UNRESTRAINED
+          children:
+          - gloss: speedwise, with purpose
+            concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+            concept_label: HURRY
+            children:
+            - gloss: generalised
+              concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+              concept_label: INTENSELY
+              children:
+              - gloss: negative
+                concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+                concept_label: VIOLENT
+          - gloss: negative
+            concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+            concept_label: CONFUSED
+            children:
+            - gloss: generalised
+              concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+              concept_label: CHAOS
+              children:
+              - gloss: intellectual
+                concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+                concept_label: STUPID
+          - gloss: action
+            concept_uuid: 905d6c71-ee6f-4678-aebd-e3764ddf05f8
+            concept_label: RELAX
+          - gloss: unrestrained process in flowers etc
+            concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+            concept_label: BLOSSOM
+        - gloss: hierarchically
+          concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+          concept_label: OPPOSE
+          children:
+          - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+            concept_label: STRANGE
+  - gloss: =誑
+  - gloss: =往
+  - gloss: =框
+- reading: guàng
+  old_chinese: ɡʷaŋs
+  middle_chinese: ɡʷiɐŋ
+  fanqie: 渠放切
+  tone: 去
+  guangyun: 輒爲也渠放切二
+unattributed_senses:
+- gloss: 狂 ｊｕｅ２《集韻》局縛切，入藥〓。
+  children:
+  - gloss: (of dogs)
+    concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+    concept_label: RUN
+source:
+  source_file: taxchar.xml

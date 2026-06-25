@@ -1,0 +1,54 @@
+uuid: 8791490e-a18a-49f6-837e-ad0aee8ac159
+type: tax-char
+heads:
+- 花
+pronunciations:
+- reading: huā
+  old_chinese: hŋʷraal
+  middle_chinese: hʷɯa
+  fanqie: 呼瓜切
+  tone: 平
+  guangyun: 俗華今通用
+  senses:
+  - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+    concept_label: BLOSSOM
+    children:
+    - gloss: synecdoche
+      concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+      concept_label: FLOWER
+    - gloss: metaphorical
+      concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+      concept_label: CONCUBINE
+      children:
+      - gloss: generalised
+        concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+        concept_label: WOMAN
+      - gloss: specific
+        concept_uuid: fbf961e3-c80b-4698-9868-8498043e6166
+        concept_label: PROSTITUTE
+    - gloss: metaphorical
+      concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+      concept_label: CHILD
+    - gloss: generalised
+      concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+      concept_label: SPARK
+      children:
+      - gloss: eyesight
+        concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+        concept_label: CONFUSED
+        children:
+        - gloss: colour
+          concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+          concept_label: VARIEGATED
+          children:
+          - gloss: generalised
+            concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+            concept_label: MIXED
+  - gloss: late
+    concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+    concept_label: CRAFTY
+  - gloss: late
+    concept_uuid: 26f60644-292c-40f8-9d43-17951e2349f8
+    concept_label: SPEND
+source:
+  source_file: taxchar.xml

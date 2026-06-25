@@ -1,0 +1,30 @@
+uuid: 7c84fb64-656f-4ea9-a76b-655013ecc930
+type: tax-char
+heads:
+- 伴
+pronunciations:
+- reading: bàn
+  old_chinese: baanʔ
+  middle_chinese: bʷɑn
+  fanqie: 蒲旱切
+  tone: 上
+  guangyun: 侶也依也蒲旱切三
+  senses:
+  - concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+    concept_label: ACCOMPANY
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: COMPANION
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+- reading: bàn
+  old_chinese: baans
+  middle_chinese: bʷɑn
+  fanqie: 薄半切
+  tone: 去
+  guangyun: 伴奐見詩
+source:
+  source_file: taxchar.xml

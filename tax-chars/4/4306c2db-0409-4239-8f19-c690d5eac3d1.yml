@@ -1,0 +1,70 @@
+uuid: 4306c2db-0409-4239-8f19-c690d5eac3d1
+type: tax-char
+heads:
+- 頹
+unattributed_senses:
+- gloss: 穨 tuí - *duo97 o i 杜回切 蟹摄 合口呼 一等韵 平聲 定母 灰部 / 从貴聲 微2部 ɡ-luul
+  children:
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+    children:
+    - gloss: movement verb
+      concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+      concept_label: DESCEND
+      children:
+      - gloss: generalised
+        concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+        concept_label: FLOW
+        children:
+        - gloss: generalised, subject
+          concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+          concept_label: WIND
+      - gloss: generalised
+        concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+        concept_label: HANG
+        children:
+        - gloss: subject
+          concept_uuid: d7158159-74c5-4463-a85a-2e27a4104944
+          concept_label: PENIS
+    - gloss: causative
+      concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+      concept_label: DAMAGE
+      children:
+      - gloss: perfective
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+        children:
+        - gloss: result
+          concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+          concept_label: DECLINE
+          children:
+          - gloss: resulting process
+            concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+            concept_label: DISAPPEAR
+            children:
+            - gloss: result
+              concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+              concept_label: WEAK
+              children:
+              - gloss: physiological
+                concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+                concept_label: ILLNESS
+              - gloss: resulting action
+                concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+                concept_label: OBEY
+              - gloss: generalised
+                concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+                concept_label: BAD
+                children:
+                - gloss: moral
+                  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+                  concept_label: WICKED
+  - gloss: SURNAME
+  - gloss: =禿
+    concept_uuid: e02d1fdf-2eff-40bd-b767-076adb48965f
+    concept_label: BALD
+  - gloss: =堆
+    concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+source:
+  source_file: taxchar.xml

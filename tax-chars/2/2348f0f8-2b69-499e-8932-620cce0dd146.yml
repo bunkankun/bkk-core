@@ -1,0 +1,30 @@
+uuid: 2348f0f8-2b69-499e-8932-620cce0dd146
+type: tax-char
+heads:
+- 鑒
+pronunciations:
+- reading: jiàn
+  old_chinese: kraams
+  middle_chinese: kɯam
+  fanqie: 格懺切
+  tone: 去
+  guangyun: 同鑑
+  senses:
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+  - concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+    concept_label: MIRROR
+  - concept_uuid: 583bf8a8-6045-494f-b245-5658d10eb5bb
+    concept_label: WATER VESSEL
+  - concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+    concept_label: LEARN
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

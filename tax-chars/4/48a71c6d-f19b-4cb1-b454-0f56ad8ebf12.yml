@@ -1,0 +1,68 @@
+uuid: 48a71c6d-f19b-4cb1-b454-0f56ad8ebf12
+type: tax-char
+heads:
+- 吃
+unattributed_senses:
+- concept_uuid: 9e013653-f50a-43f1-b769-fee7c363a579
+  concept_label: STUTTER
+- gloss: 喫
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  concept_label: EAT
+  children:
+  - concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+    concept_label: SWALLOW
+    children:
+    - gloss: INHALE
+    - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+      concept_label: FOOD
+      children:
+      - concept_uuid: 3ed11fd2-9383-4078-93ac-837845fbad3b
+        concept_label: MEAL
+    - concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+      concept_label: CONQUER
+      children:
+      - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+        concept_label: OCCUPY
+        children:
+        - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+          concept_label: DESTROY
+  - concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+    concept_label: OBTAIN
+    children:
+    - gloss: SUCK IN
+      children:
+      - gloss: CUT INTO
+    - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+      concept_label: RECEIVE
+      children:
+      - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+        concept_label: ENCOUNTER
+        children:
+        - concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+          concept_label: SUFFER
+      - gloss: PASSIVE MARKERS
+    - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+    - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+        concept_label: NEED
+      - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+        concept_label: REDUCE
+        children:
+        - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+          concept_label: EXHAUST
+      - concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+        concept_label: WASTE
+      - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+        concept_label: RELY ON
+        children:
+        - gloss: SUBSIST ON
+    - concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+      concept_label: CONQUER
+      children:
+      - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+        concept_label: OCCUPY
+source:
+  source_file: taxchar.xml

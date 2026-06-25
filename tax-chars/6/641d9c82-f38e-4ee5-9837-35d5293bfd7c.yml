@@ -1,0 +1,71 @@
+uuid: 641d9c82-f38e-4ee5-9837-35d5293bfd7c
+type: tax-char
+heads:
+- 內
+pronunciations:
+- reading: nèi
+  old_chinese: nuubs
+  middle_chinese: nuoi
+  fanqie: 奴對切
+  tone: 去
+  guangyun: 入也奴對切一
+  senses:
+  - concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+    concept_label: INSIDE
+    children:
+    - gloss: anatomical
+      concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+      concept_label: INNARDS
+    - gloss: spatial
+      concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+      concept_label: HOME
+      children:
+      - gloss: 'exocentric: what is kept at home'
+        concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+        concept_label: WIFE
+        children:
+        - gloss: plural
+          concept_uuid: e96ed05f-8b11-4f09-9179-281ff55b7bd8
+          concept_label: HAREM
+          children:
+          - gloss: relevant action
+            concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+            concept_label: COPULATE
+      - gloss: of ruler
+        concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+        concept_label: PALACE
+      - gloss: action
+        concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+        concept_label: ENTER
+        children:
+        - gloss: causative
+          concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+          concept_label: PUT
+          children:
+          - gloss: socially upwards
+            concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+            concept_label: HAND UP
+            children:
+            - gloss: monetary
+              concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+              concept_label: PAY
+              children:
+              - gloss: fraudulently
+                concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+                concept_label: BRIBE
+      - gloss: psychological:take in
+        concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+        concept_label: ASSENT
+    - gloss: psychological
+      concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+      concept_label: MIND
+      children:
+      - gloss: intellectual
+        concept_uuid: f4d5c7cf-8a79-4e2b-b728-30bb2d01ae9d
+        concept_label: ESOTERIC
+  - concept_label: =nà 納
+  - concept_label: =rù 入
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T02:09:46.838+09:00'

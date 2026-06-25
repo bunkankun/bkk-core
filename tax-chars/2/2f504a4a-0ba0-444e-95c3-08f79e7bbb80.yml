@@ -1,0 +1,58 @@
+uuid: 2f504a4a-0ba0-444e-95c3-08f79e7bbb80
+type: tax-char
+heads:
+- 舒
+pronunciations:
+- reading: shū
+  old_chinese: lʰa
+  middle_chinese: ɕiɔ
+  fanqie: 傷魚切
+  tone: 平
+  guangyun: 緩也遟也伸也徐也敘也亦州名春秋時晥國晉於晥縣置懷寧縣武德改爲舒州亦姓何氏姓苑云廬江人
+  senses:
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+    children:
+    - gloss: so as to let off
+      concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+      concept_label: RELEASE
+      children:
+      - gloss: causative
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+    - gloss: abstract
+      concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+      concept_label: SHOW
+      children:
+      - gloss: linguistic
+        concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+        concept_label: EXPRESS
+        children:
+        - gloss: argumentative
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+      - gloss: specific
+        concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+        concept_label: OPEN
+    - gloss: result
+      concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+      concept_label: BROAD
+    - gloss: psychological
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+      children:
+      - gloss: resulting feature
+        concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+        concept_label: SLOW
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 舒 ｙｕ４《集韻》羊茹切，去御以。
+  children:
+  - gloss: =預
+    concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+    concept_label: LAZY
+source:
+  source_file: taxchar.xml

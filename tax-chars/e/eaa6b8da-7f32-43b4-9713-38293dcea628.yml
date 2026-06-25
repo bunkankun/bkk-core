@@ -1,0 +1,22 @@
+uuid: eaa6b8da-7f32-43b4-9713-38293dcea628
+type: tax-char
+heads:
+- 禹
+pronunciations:
+- reading: yǔ
+  old_chinese: ɢʷaʔ
+  middle_chinese: ɦio
+  fanqie: 王矩切
+  tone: 上
+  guangyun: 舒也字林云蟲名又姓夏禹之後王僧孺百家譜云蘭陵蕭道遊娶禹氏女
+  senses:
+  - concept_uuid: b63836dd-3cd4-4685-93f6-2d6289316f99
+    concept_label: INSECT
+    children:
+    - gloss: in walking
+      concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+      concept_label: SLOW
+  - concept_uuid: f1a5528f-eea7-4249-9d33-67e324a4108a
+    concept_label: RULERS PREHISTORIC
+source:
+  source_file: taxchar.xml

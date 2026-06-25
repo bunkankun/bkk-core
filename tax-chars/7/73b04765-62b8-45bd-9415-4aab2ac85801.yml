@@ -1,0 +1,25 @@
+uuid: 73b04765-62b8-45bd-9415-4aab2ac85801
+type: tax-char
+heads:
+- 鳩
+pronunciations:
+- reading: jiū
+  old_chinese: ku
+  middle_chinese: kiu
+  fanqie: 居求切
+  tone: 平
+  guangyun: 鳥名又聚也居求切十
+  senses:
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+    concept_label: MEANS OF TRANSPORT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 究
+source:
+  source_file: taxchar.xml

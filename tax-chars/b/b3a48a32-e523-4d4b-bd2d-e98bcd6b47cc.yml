@@ -1,0 +1,19 @@
+uuid: b3a48a32-e523-4d4b-bd2d-e98bcd6b47cc
+type: tax-char
+heads:
+- 態
+pronunciations:
+- reading: tài
+  old_chinese: nʰɯɯs
+  middle_chinese: tʰəi
+  fanqie: 他代切
+  tone: 去
+  guangyun: 意態亦作㑷
+  senses:
+  - concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+    concept_label: APPEARANCE
+  - concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+    concept_label: ATTITUDE
+  - gloss: = 慝
+source:
+  source_file: taxchar.xml

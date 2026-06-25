@@ -1,0 +1,46 @@
+uuid: 4390b266-af7a-4c38-bc86-74f37ffc1243
+type: tax-char
+heads:
+- 司
+pronunciations:
+- reading: sī
+  old_chinese: sqlɯ
+  middle_chinese: sɨ
+  fanqie: 息兹切
+  tone: 平
+  guangyun: 主也亦姓左傳鄭有司臣又漢複姓八氏司馬氏本自重黎程伯休甫之後出河内丗本士丏弟佗爲晉司功因官爲氏及司徒司㓂司空並以官爲氏漢有朝議郎司國吉諫議大夫司鴻儀左傳宋大夫司城子罕其後氏焉
+  senses:
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+    children:
+    - gloss: generalised
+      concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+      concept_label: CONTROL
+      children:
+      - gloss: agent
+        concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+        concept_label: OFFICIAL
+        children:
+        - gloss: place
+          concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+          concept_label: OFFICE
+        - gloss: salient feature
+          concept_uuid: 19d0b30c-d01f-4ee9-b5ff-34080bdf5890
+          concept_label: RESPONSIBILITY
+      - gloss: generalised
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+unattributed_senses:
+- concept_label: 司 sì 《集韻》相吏切，去志，心。
+  children:
+  - gloss: =伺
+    concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+    children:
+    - gloss: =伺
+      concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+      concept_label: WAIT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:08:27.756+09:00'

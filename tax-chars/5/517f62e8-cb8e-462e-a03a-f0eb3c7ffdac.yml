@@ -1,0 +1,68 @@
+uuid: 517f62e8-cb8e-462e-a03a-f0eb3c7ffdac
+type: tax-char
+heads:
+- 治
+pronunciations:
+- reading: chí
+  old_chinese: rlɯ
+  middle_chinese: ɖɨ
+  fanqie: 直之切
+  tone: 平
+  guangyun: 水名出東萊亦理也直之切三
+  senses:
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+    children:
+    - gloss: medical
+      concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+      concept_label: CURE
+    - gloss: aesthetic
+      concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+      concept_label: EMBELLISH
+    - gloss: conative, intellectual
+      concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+      concept_label: STUDY
+      children:
+      - gloss: general
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: by punitive means
+          concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+          concept_label: PUNISH
+    - gloss: generalised
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: paid, sustained
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+        children:
+        - gloss: to produce
+          concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+          concept_label: BUILD
+        - gloss: causative
+          concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+          concept_label: DEPLOY
+  - gloss: =?
+    concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+    concept_label: CUP
+- reading: zhì
+  old_chinese: rlils
+  middle_chinese: ɖɯi
+  fanqie: 直利切
+  tone: 去
+  guangyun: 理也又直之切
+- reading: zhì
+  old_chinese: rlɯs
+  middle_chinese: ɖɨ
+  fanqie: 直吏切
+  tone: 去
+  guangyun: 理也又丈之切
+  senses:
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:17:51.697+09:00'

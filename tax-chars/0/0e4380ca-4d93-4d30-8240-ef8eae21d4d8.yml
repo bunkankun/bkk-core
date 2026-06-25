@@ -1,0 +1,39 @@
+uuid: 0e4380ca-4d93-4d30-8240-ef8eae21d4d8
+type: tax-char
+heads:
+- 酸
+pronunciations:
+- reading: suān
+  old_chinese: sqloon
+  middle_chinese: sʷɑn
+  fanqie: 素官切
+  tone: 平
+  guangyun: 醋也素官切五
+  senses:
+  - concept_uuid: 587bf752-b03d-490b-87d7-47ac77838ed4
+    concept_label: SOUR
+  - concept_uuid: 88d7db73-2aaf-43dd-8670-9926711da623
+    concept_label: VINEGAR
+  - concept_uuid: 587bf752-b03d-490b-87d7-47ac77838ed4
+    concept_label: ACID
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: c64a831b-0166-4379-81b8-a56ed5ff4d64
+    concept_label: JEALOUS
+  - concept_uuid: dcf9dc21-aca8-4e60-b7a6-18843e8d14cb
+    concept_label: BEVERAGE
+  - concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+    concept_label: COOK
+  - concept_uuid: 3d0ee556-737f-4910-9b12-541696812ce3
+    concept_label: SCHOLAR
+  - concept_uuid: 57c13cd9-8d1c-43e3-a91f-8d94a6a8e988
+    concept_label: PEDANTIC
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: = 痠
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,22 @@
+uuid: a221eab6-4092-4a84-a294-370f940c4dad
+type: tax-char
+heads:
+- 帷
+pronunciations:
+- reading: wéi
+  old_chinese: ɢrul
+  middle_chinese: ɦʷɯi
+  fanqie: 洧悲切
+  tone: 平
+  guangyun: 說文曰在旁曰帷釋名曰帷圍也以自障圍也洧悲切一
+  senses:
+  - concept_uuid: c54b1faf-665c-461c-85be-78f1deec1008
+    concept_label: CARRIAGE SCREEN
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: CLOTH
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: b1410f27-7b6e-40da-ac9d-a944ef149e9f
+    concept_label: CURTAIN
+source:
+  source_file: taxchar.xml

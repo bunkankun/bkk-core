@@ -1,0 +1,44 @@
+uuid: dc9d872b-efb5-477a-ae6b-a51c8f16b43d
+type: tax-char
+heads:
+- 雕
+- 彫
+- 琱
+- 錭
+pronunciations:
+- reading: diāo
+  old_chinese: tɯɯw
+  middle_chinese: teu
+  fanqie: 都聊切
+  tone: 平
+  guangyun: 鶚屬又姓漢武帝功臣表有雕延年
+  senses:
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+  - concept_uuid: 4620f4a0-f713-42d4-aa78-e25719265d79
+    concept_label: ENGRAVE
+  - concept_uuid: 96fba551-87cb-4285-bf3f-ad4d7f2a772d
+    concept_label: SCULPTURE
+  - concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+    concept_label: PAINT
+  - concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+    concept_label: PERFECT
+- reading: diāo
+  old_chinese: tɯɯw
+  middle_chinese: teu
+  fanqie: 都聊切
+  tone: 平
+  guangyun: 籀文雕
+  senses:
+  - concept_uuid: 69bfb996-32c8-40d0-8a1f-5af36d5d6531
+    concept_label: BIRDS OF PREY
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: 5647994e-a268-47ad-ada3-2c70d3fcbf9d
+    concept_label: HOLD IN MOUTH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 彫
+  - gloss: = 琱
+source:
+  source_file: taxchar.xml

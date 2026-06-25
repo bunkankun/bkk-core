@@ -1,0 +1,39 @@
+uuid: 1b817fa4-6fc1-4891-991c-3505ef941f43
+type: tax-char
+heads:
+- 斜
+pronunciations:
+- reading: xié
+  old_chinese: sɢlja
+  middle_chinese: zia
+  fanqie: 似嗟切
+  tone: 平
+  guangyun: 不正也似嗟切四
+- reading: yé
+  old_chinese: la
+  middle_chinese: jia
+  fanqie: 以遮切
+  tone: 平
+  guangyun: 斜谷在武功西南入谷百里而至説文杼也又似嗟切
+- reading: xié
+  old_chinese: lja
+  middle_chinese: zia
+  fanqie: 似嗟切
+  tone: 平
+  guangyun: 同衺
+  senses:
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: f1f6bbab-4d3f-448c-bae4-636687c488cd
+    concept_label: SLOPE
+  - concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+    concept_label: POLITE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 邪
+source:
+  source_file: taxchar.xml

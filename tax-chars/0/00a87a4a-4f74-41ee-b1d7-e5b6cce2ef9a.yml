@@ -1,0 +1,61 @@
+uuid: 00a87a4a-4f74-41ee-b1d7-e5b6cce2ef9a
+type: tax-char
+heads:
+- 抱
+pronunciations:
+- reading: bào
+  old_chinese: buuʔ
+  middle_chinese: bɑu
+  fanqie: 薄浩切
+  tone: 上
+  guangyun: 持也説文曰引取也薄浩切一
+  senses:
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+    children:
+    - gloss: overlap and
+      concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+      concept_label: INTERACT
+    - gloss: what one can hold in one's arms
+      concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+      concept_label: MEASURES
+    - gloss: physiological base> (lower)CHEST
+    - gloss: generalised
+      concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+      concept_label: HOLD
+      children:
+      - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+        concept_label: WRAP
+        children:
+        - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+          concept_label: SURROUND
+      - gloss: perception
+        concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+        concept_label: FEEL
+        children:
+        - gloss: emotional
+          concept_uuid: 25a657ec-b59e-4996-bcc6-232b45fc85e1
+          concept_label: CHERISH
+          children:
+          - gloss: nominalised
+            concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+            concept_label: FEELING
+    - gloss: specific> (of birds) BROOD ON
+      children:
+      - gloss: object
+        concept_uuid: e90baee3-dd79-4f70-9764-9d79d55bc244
+        concept_label: CHICK
+      - gloss: generalised
+        concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+        concept_label: FEED
+        children:
+        - gloss: abstract
+          concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+          concept_label: CULTIVATE
+    - gloss: and move with what one holds
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+source:
+  source_file: taxchar.xml

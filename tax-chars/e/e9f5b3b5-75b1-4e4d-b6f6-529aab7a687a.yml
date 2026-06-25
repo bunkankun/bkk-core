@@ -1,0 +1,64 @@
+uuid: e9f5b3b5-75b1-4e4d-b6f6-529aab7a687a
+type: tax-char
+heads:
+- 天
+pronunciations:
+- reading: tiān
+  old_chinese: lʰiin
+  middle_chinese: tʰen
+  fanqie: 他前切
+  tone: 平
+  guangyun: 上玄也説文曰顚也至髙無上从一大也爾雅曰春爲蒼天夏爲昊天秋爲旻天冬爲上天他前切六
+  senses:
+  - gloss: spatial
+    concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+    concept_label: SKY
+    children:
+    - gloss: 'climatic: changing'
+      concept_uuid: ff4443d1-1419-4415-87e8-53c5973cb5e2
+      concept_label: WEATHER
+      children:
+      - gloss: regular change of conditions
+        concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+        concept_label: SEASON
+        children:
+        - gloss: comprehensive
+          concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+          concept_label: WORLD
+          children:
+          - gloss: metaphysical
+            concept_uuid: 971de0fb-3246-44a5-8e15-819f083ff24b
+            concept_label: NATURE
+            children:
+            - gloss: mode
+              concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+              concept_label: NATURALLY
+    - gloss: metaphorical, semi-personified
+      concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+      concept_label: HEAVEN
+      children:
+      - gloss: 'metaphysical: highest deity in and of Heaven'
+        concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+        concept_label: GOD
+        children:
+        - gloss: feature
+          concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+          concept_label: ENDURING
+        - gloss: generalised
+          concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+          concept_label: DEITIES
+          children:
+          - gloss: specific
+            concept_uuid: 99966339-0ca3-4191-b8be-a2c84711be95
+            concept_label: BUDDHIST DEITIES
+            children:
+            - gloss: associated metaphysical topology
+              concept_uuid: 1de20418-8b89-43ed-9719-83793f889953
+              concept_label: BUDDHIST REGIONS
+          - gloss: effect of
+            concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+            concept_label: LUCK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-12T21:58:04.802+09:00'

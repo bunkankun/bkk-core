@@ -1,0 +1,24 @@
+uuid: 5757a049-6c43-47fb-bcc6-0148d9d1875f
+type: tax-char
+heads:
+- 警
+pronunciations:
+- reading: jǐng
+  old_chinese: kreŋʔ
+  middle_chinese: kɯiaŋ
+  fanqie: 居影切
+  tone: 上
+  guangyun: 同警
+  senses:
+  - concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+    children:
+    - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+      concept_label: DEFEND
+    - concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+      concept_label: DANGER
+      children:
+      - concept_uuid: c26fec6d-5ca6-4692-afb7-d104df41b7a5
+        concept_label: PERCEIVE
+source:
+  source_file: taxchar.xml

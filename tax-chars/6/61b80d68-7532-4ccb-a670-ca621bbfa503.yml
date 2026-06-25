@@ -1,0 +1,104 @@
+uuid: 61b80d68-7532-4ccb-a670-ca621bbfa503
+type: tax-char
+heads:
+- 中
+pronunciations:
+- reading: zhòng
+  old_chinese: krluŋs
+  middle_chinese: ʈiuŋ
+  fanqie: 陟仲切
+  tone: 去
+  guangyun: 當也陟仲切又陟冲切二
+  senses:
+  - gloss: transitive>be appropriate to
+    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+    children:
+    - gloss: conform to order
+      concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+      concept_label: OBEY
+    - gloss: conforming to moral or pragmatic standard
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+    - gloss: try to hit target
+      concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+      concept_label: SHOOT
+      children:
+      - gloss: figuritive:hit the in estimation
+        concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+        concept_label: ESTIMATE
+      - gloss: generalised
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+        children:
+        - gloss: generalised
+          concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+          concept_label: DAMAGE
+          children:
+          - gloss: grammaticalised:suffer
+            concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+            concept_label: PASSIVE MARKER
+- reading: zhōng
+  old_chinese: krluŋ
+  middle_chinese: ʈiuŋ
+  fanqie: 陟弓切
+  tone: 平
+  guangyun: 平也成也宜也堪也任也和也半也又姓漢少府卿中京出風俗通又漢複姓有七氏漢有諫議大夫中行彪晉中行偃之後虞有五英之樂掌中英者因以爲氏古有隱者中梁子漢書藝文志有室中周著書十篇賈執英賢傳云路中大夫之後以路中爲氏張晏云姓路爲中大夫何氏姓苑有中壘氏中野氏陟弓切又陟仲切四
+  senses:
+  - concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+    concept_label: INSIDE
+    children:
+    - gloss: what is internal in humans
+      concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+      concept_label: MIND
+    - gloss: inner organs
+      concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+      concept_label: INNARDS
+    - gloss: at the centre in
+      concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+      concept_label: MIDDLE
+      children:
+      - gloss: figurative:the middle way
+        concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+        concept_label: METHOD
+      - gloss: central states
+        concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+        concept_label: CHINA
+        children:
+        - gloss: central settlement
+          concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+          concept_label: CAPITAL CITY
+      - gloss: middle of the day
+        concept_uuid: 7a20819a-d10e-47d1-9999-16836665d0b2
+        concept_label: NOON
+      - gloss: the parts as divided by the mid-point
+        concept_uuid: f4511985-ff3c-45ff-88e1-6b80d517b4a6
+        concept_label: HALF
+    - gloss: logical:somewhere inside a set
+      concept_uuid: a716fa73-5434-40ce-96e9-b46b6c0ac50a
+      concept_label: AMONG
+      children:
+      - gloss: be among
+        concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+        concept_label: COPULA
+        children:
+        - gloss: belonging among
+          concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+          concept_label: APPROPRIATE
+          children:
+          - gloss: figurative:not rising above others
+            concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+            concept_label: ORDINARY
+      - gloss: spatial:in the middle among two/many
+        concept_uuid: 62dbda50-113a-42b2-a2fc-ba3399469619
+        concept_label: BETWEEN
+    - gloss: be inside of
+      concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+      concept_label: WEAR
+    - gloss: be inside a time
+      concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+      concept_label: WHEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-16T22:06:43.778+09:00'

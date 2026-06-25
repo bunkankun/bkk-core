@@ -1,0 +1,64 @@
+uuid: 947c080a-a03a-408a-ae27-2bd993604379
+type: tax-char
+heads:
+- 加
+pronunciations:
+- reading: jiā
+  old_chinese: kraal
+  middle_chinese: kɯa
+  fanqie: 古牙切
+  tone: 平
+  guangyun: 増也上也陵也
+  senses:
+  - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+    concept_label: ADD
+    children:
+    - gloss: more of the same
+      concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+      concept_label: INCREASE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+        concept_label: MORE
+        children:
+        - gloss: 'grammaticalised: connective'
+          concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+          concept_label: MOREOVER
+        - gloss: rhetorical
+          concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+          concept_label: EXAGGERATE
+    - gloss: add to what is owned
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: generalised
+        concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+        concept_label: PUT
+        children:
+        - gloss: in archery
+          concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+          concept_label: SHOOT
+        - gloss: '"put to use"'
+          concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+          concept_label: USE
+          children:
+          - gloss: object action
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+          - gloss: apply designation
+            concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+            concept_label: NAME
+            children:
+            - gloss: in communication
+              concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+              concept_label: ADDRESS
+          - gloss: on body
+            concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+            concept_label: WEAR
+        - gloss: object violently
+          concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+          concept_label: STRIKE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T18:23:39.033+09:00'

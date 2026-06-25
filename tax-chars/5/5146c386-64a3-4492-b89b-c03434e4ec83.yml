@@ -1,0 +1,46 @@
+uuid: 5146c386-64a3-4492-b89b-c03434e4ec83
+type: tax-char
+heads:
+- 發
+pronunciations:
+- reading: fā
+  old_chinese: pod
+  middle_chinese: pʷiɐt
+  fanqie: 方伐切
+  tone: 入
+  guangyun: 發起又舒也明也舉也闋也揚也説文曰䠶發也
+  senses:
+  - concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+    concept_label: ISSUE
+    children:
+    - gloss: liquid
+      concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+      concept_label: LEAK
+    - gloss: arrows
+      concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+      concept_label: SHOOT
+  - gloss: activity
+    concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+    children:
+    - gloss: intransitive
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+    - gloss: 'causative: cause to move out'
+      concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+      concept_label: SEND
+      children:
+      - gloss: as soldiers
+        concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+        concept_label: MOBILISE
+      - gloss: for action
+        concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+        concept_label: CAUSE TO
+    - gloss: so as to cause sth to exist
+      concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+      concept_label: PRODUCE
+    - gloss: so as to cause sth to cease to exist
+      concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+      concept_label: DESTROY
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,78 @@
+uuid: b727bae2-6d79-438e-a1c1-4394105c449f
+type: tax-char
+heads:
+- 折
+pronunciations:
+- reading: shé
+  old_chinese: ɡljed
+  middle_chinese: dʑiɛt
+  fanqie: 常列切
+  tone: 入
+  guangyun: 斷而猶連也説文斷也又作𣂲常列切一
+  senses:
+  - concept_uuid: c824e06d-c840-4dd2-b724-71991640af5d
+    concept_label: BREAK
+- reading: zhé
+  old_chinese: kljed
+  middle_chinese: tɕiɛt
+  fanqie: 旨熱切
+  tone: 入
+  guangyun: 拗折又虜複姓南涼秃髪傉擅立其妻折屈氏爲皇后又常列切
+  senses:
+  - concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+    concept_label: BEND
+    children:
+    - gloss: 'exocentric: bent skin'
+      concept_uuid: e462f4e5-b23b-41d4-92ca-36393895758e
+      concept_label: WRINKLE
+    - gloss: continuative
+      concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+      concept_label: TURN
+    - gloss: 'exocentric: bent stroke'
+      concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+      concept_label: CALLIGRAPHY
+    - gloss: 'transitive, figuratie: bend price'
+      concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+      concept_label: REDUCE
+    - gloss: extended
+      concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+      concept_label: SQUEEZE
+    - gloss: resultative
+      concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+      concept_label: BREAK OFF
+      children:
+      - gloss: specific
+        concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+        concept_label: PLUCK
+      - gloss: figurative
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+        children:
+        - gloss: tentative
+          concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+          concept_label: HINDER
+        - gloss: while young
+          concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+          concept_label: DIE
+          children:
+          - gloss: deal with dead
+            concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+            concept_label: BURY
+          - gloss: causative
+            concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+            concept_label: DESTROY
+          - gloss: instrument
+            concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+            concept_label: COFFIN
+        - gloss: declare one should have stopped???
+          concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+          concept_label: ACCUSE
+        - gloss: stop fighting resistance
+          concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+          concept_label: SURRENDER
+        - gloss: stop further discussion
+          concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+          concept_label: DECIDE
+        - gloss: 'exocentric: part between break-offs in plays> SCENE'
+source:
+  source_file: taxchar.xml

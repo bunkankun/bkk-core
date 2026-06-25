@@ -1,0 +1,49 @@
+uuid: e705f5f1-742e-48eb-ad78-458541e271ae
+type: tax-char
+heads:
+- 緊
+pronunciations:
+- reading: jǐn
+  old_chinese: kinʔ
+  middle_chinese: kin
+  fanqie: 居忍切
+  tone: 上
+  guangyun: 紉急也居忍切四
+  senses:
+  - gloss: 'result: tight, tighten'
+    concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+    concept_label: TIGHT
+    children:
+    - gloss: extension
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+    - gloss: figurative
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: specifically of thought
+        concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+        concept_label: CONCENTRATE
+      - gloss: with attention to detail
+        concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+        concept_label: DILIGENT
+      - gloss: needed
+        concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+        concept_label: URGENT
+        children:
+        - gloss: abstract
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+          children:
+          - gloss: in impact
+            concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+            concept_label: STRONG
+            children:
+            - gloss: in resilience
+              concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+              concept_label: SOLID
+        - gloss: feature of what is needed
+          concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+          concept_label: QUICK
+source:
+  source_file: taxchar.xml

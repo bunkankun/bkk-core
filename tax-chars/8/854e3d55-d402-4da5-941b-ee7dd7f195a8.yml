@@ -1,0 +1,55 @@
+uuid: 854e3d55-d402-4da5-941b-ee7dd7f195a8
+type: tax-char
+heads:
+- 亂
+pronunciations:
+- reading: luàn
+  old_chinese: ɡ-roons
+  middle_chinese: lʷɑn
+  fanqie: 郎段切
+  tone: 去
+  guangyun: 理也又兵㓂也不理也俗作乱郎段切四
+  senses:
+  - gloss: 'object that needs control:'
+    concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+    children:
+    - gloss: sexual
+      concept_uuid: 05e4ccf2-ad7c-48f1-bcc1-ebc372b3a0e0
+      concept_label: ADULTERY
+    - gloss: psychological
+      concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+      concept_label: CONFUSED
+      children:
+      - gloss: stable quality
+        concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+        concept_label: STUPID
+      - gloss: in motivation
+        concept_uuid: d65f6543-d300-4c94-875b-f0f95ba45937
+        concept_label: ARBITRARY
+    - gloss: causative
+      concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+      concept_label: DAMAGE
+      children:
+      - gloss: object political orderl
+        concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+        concept_label: REVOLT
+    - gloss: 'physical: non-unified'
+      concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+      concept_label: MIXED
+    - gloss: movement-wise, mix oneself into
+      concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+      concept_label: CROSS OVER
+  - gloss: =i.e. confused with zhì 乿(variant of 治)
+    concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+    children:
+    - gloss: what one presents in an orderly manner
+      concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+      concept_label: SONG
+      children:
+      - gloss: 'synecdoche: of poetry'
+        concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+        concept_label: END
+source:
+  source_file: taxchar.xml

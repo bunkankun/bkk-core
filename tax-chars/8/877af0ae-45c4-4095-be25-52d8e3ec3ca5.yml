@@ -1,0 +1,70 @@
+uuid: 877af0ae-45c4-4095-be25-52d8e3ec3ca5
+type: tax-char
+heads:
+- 連
+pronunciations:
+- reading: lián
+  old_chinese: b-ren
+  middle_chinese: liɛn
+  fanqie: 力延切
+  tone: 平
+  guangyun: 合也續也還也又姓左傳齊有連稱又虜複姓六氏西秦丞相出連乞都後魏書官氏志云南方宥連氏後改爲雲氏是連氏改爲連氏費連氏改爲費氏綦連氏改爲綦氏又有赫連氏力延切十三
+  senses:
+  - concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+    concept_label: TIE TO
+    children:
+    - gloss: single object to something
+      concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+      concept_label: ATTACH
+    - gloss: general
+      concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+      concept_label: LINK
+      children:
+      - gloss: be linked> BELONG TO
+      - gloss: document establishing link
+        concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+        concept_label: CONTRACT
+      - gloss: abstract
+        concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+        concept_label: COMBINE
+        children:
+        - gloss: combination of four villages
+          concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+          concept_label: VILLAGE
+        - gloss: combination fo five families
+          concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+          concept_label: FAMILY
+        - gloss: 'generalised: combined villages etc'
+          concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+          concept_label: REGION
+        - gloss: 'grammaticalised: combining all'
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+        - gloss: abstract
+          concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+          concept_label: INVOLVE
+      - gloss: action:of animals
+        concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+        concept_label: COPULATE
+  - gloss: hand-drawen cart
+    concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+    concept_label: VEHICLE
+    children:
+    - gloss: travel by boat pulled on shore
+      concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+      concept_label: TRAVEL
+unattributed_senses:
+- gloss: 連 ｌｉａｎ３《集韻》力展切，上獮來。元部。
+  children:
+  - concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+    concept_label: DIFFICULT
+- gloss: 連 ｌｉａｎ４《集韻》連彥切，去線來。
+  children:
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+- gloss: 連 ｌａｎ４《集韻》郎旰切，去換來。
+  children:
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+source:
+  source_file: taxchar.xml

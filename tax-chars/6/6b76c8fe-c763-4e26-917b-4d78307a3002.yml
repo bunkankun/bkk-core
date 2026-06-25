@@ -1,0 +1,56 @@
+uuid: 6b76c8fe-c763-4e26-917b-4d78307a3002
+type: tax-char
+heads:
+- 累
+pronunciations:
+- reading: lèi
+  old_chinese: rols
+  middle_chinese: lʷiɛ
+  fanqie: 良偽切
+  tone: 去
+  guangyun: 縁坐也良僞切一
+  senses:
+  - concept_uuid: 1ea0113c-9b0c-4f8c-a741-48469f9bd0bc
+    concept_label: ENTANGLE
+    children:
+    - gloss: nominalised
+      concept_uuid: be050ecf-05c0-433c-89d1-b00ebfe58e34
+      concept_label: BURDEN
+      children:
+      - gloss: 'polite: what one is burdened with, including family'
+        concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+        concept_label: PROPERTY
+      - gloss: of regular duty
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+        children:
+        - gloss: abstract
+          concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+          concept_label: EFFORT
+          children:
+          - gloss: resultative
+            concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+            concept_label: TIRED
+      - gloss: 'self-deprecating: "burden someone with"'
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+      - gloss: generalised
+        concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+        concept_label: DAMAGE
+        children:
+        - gloss: physical
+          concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+          concept_label: INJURE
+        - gloss: oneself
+          concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+          concept_label: MISTAKE
+          children:
+          - gloss: psychological
+            concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+            concept_label: FAULT
+            children:
+            - gloss: legal
+              concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+              concept_label: CRIME
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,38 @@
+uuid: 82f93b1c-9312-459c-89e7-6a6a75ae76d8
+type: tax-char
+heads:
+- 君
+pronunciations:
+- reading: jūn
+  old_chinese: klun
+  middle_chinese: kiun
+  fanqie: 舉云切
+  tone: 平
+  guangyun: 白虎通曰君者羣也羣下之歸心也荀卿子曰君者儀也民者影也儀正則影正君者盤也民者水也盤圎則水圎又君者民之源也源清則流清源濁則流濁舉云切八
+  senses:
+  - concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+    children:
+    - gloss: act as
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+    - gloss: in marriage
+      concept_uuid: ca2f1879-90bd-463c-9313-a009e2c17188
+      concept_label: HUSBAND
+  - gloss: of family
+    concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+    concept_label: FATHER
+    children:
+    - gloss: in heaven
+      concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+      concept_label: DEITY
+    - gloss: referring to females
+      concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+      concept_label: WOMAN
+    - gloss: in conversation
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-14T18:02:56.222+09:00'

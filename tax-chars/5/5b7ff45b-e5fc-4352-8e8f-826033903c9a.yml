@@ -1,0 +1,20 @@
+uuid: 5b7ff45b-e5fc-4352-8e8f-826033903c9a
+type: tax-char
+heads:
+- 豢
+pronunciations:
+- reading: huàn
+  old_chinese: ɡroons
+  middle_chinese: ɦʷɯan
+  fanqie: 胡慣切
+  tone: 去
+  guangyun: 榖養畜又牛馬曰芻犬豕曰豢
+  senses:
+  - concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+    concept_label: DOMESTIC ANIMAL
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+source:
+  source_file: taxchar.xml

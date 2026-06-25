@@ -1,0 +1,28 @@
+uuid: f964fb8b-a30a-4375-af97-02416dba048a
+type: tax-char
+heads:
+- 旬
+pronunciations:
+- reading: xún
+  old_chinese: sɢʷlin
+  middle_chinese: zʷin
+  fanqie: 詳遵切
+  tone: 平
+  guangyun: 十日曰旬詳遵切十七
+  senses:
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: ed834c91-0d7b-4239-8a1f-d699db6202dc
+    concept_label: WEEK
+  - concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+    concept_label: WHOLE
+  - concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+  - concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+    concept_label: EVERYWHERE
+  - concept_uuid: 9061b621-93dc-47b4-a4cd-feeb3ee4b3db
+    concept_label: INSPECT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,59 @@
+uuid: 5a005fdc-e9d3-49ea-bae8-0e97ef62820d
+type: tax-char
+heads:
+- 壹
+pronunciations:
+- reading: yī
+  old_chinese: qid
+  middle_chinese: ʔit
+  fanqie: 於悉切
+  tone: 入
+  guangyun: 專壹又合也誠也輩也醇也又虜三字姓後魏書云壹斗眷氏後改爲明氏
+  senses:
+  - concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+    concept_label: ONE
+    children:
+    - gloss: adverbial
+      concept_uuid: e340dde7-51fa-4813-b278-58580f841f16
+      concept_label: ONCE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: f367335b-2217-4e3e-bebc-006faa5f68ec
+        concept_label: AS SOON AS
+        children:
+        - gloss: 'abstract: time'
+          concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+          concept_label: MOMENT
+    - gloss: adnominal
+      concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+      concept_label: SAME
+      children:
+      - gloss: direction
+        concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+        concept_label: STRAIGHT
+        children:
+        - gloss: action
+          concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+          concept_label: CONCENTRATE
+      - gloss: as the facts
+        concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+        concept_label: 'TRUE'
+      - gloss: same time
+        concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+        concept_label: TOGETHER
+        children:
+        - gloss: and well coordinated
+          concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+          concept_label: HARMONY
+          children:
+          - gloss: causative
+            concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+            concept_label: UNITE
+        - gloss: 'grammaticalised: logically'
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+  - gloss: grammaticalised> MODAL PARTICLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

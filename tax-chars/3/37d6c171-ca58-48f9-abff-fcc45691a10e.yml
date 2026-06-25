@@ -1,0 +1,47 @@
+uuid: 37d6c171-ca58-48f9-abff-fcc45691a10e
+type: tax-char
+heads:
+- 谷
+pronunciations:
+- reading: gǔ
+  old_chinese: klooɡ
+  middle_chinese: kuk
+  fanqie: 古禄祿切
+  tone: 入
+  guangyun: 山谷亦善也窮也又姓漢有谷永又欲鹿二音
+  senses:
+  - concept_uuid: aec4cc37-a2e4-4cf3-b5df-d7fe714d2734
+    concept_label: VALLEY
+    children:
+    - gloss: part
+      concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+      concept_label: CAVE
+      children:
+      - gloss: generalised, with water in it
+        concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+        concept_label: HOLE
+    - gloss: following valley
+      concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+      concept_label: BROOK
+      children:
+      - gloss: small, tributary
+        concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+        concept_label: RIVER
+    - gloss: blocked> IMPASSE
+  - gloss: =穀
+    concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+- reading: lù
+  old_chinese: k-rooɡ
+  middle_chinese: luk
+  fanqie: 盧谷切
+  tone: 入
+  guangyun: 漢書匈奴傳有谷蠡王蠡音离
+- reading: yù
+  old_chinese: k-loɡ
+  middle_chinese: jiok
+  fanqie: 余蜀切
+  tone: 入
+  guangyun: 山谷爾雅曰水注谿曰谷説文曰泉出通川爲谷亦虜三字姓吐谷渾氏又音榖
+source:
+  source_file: taxchar.xml

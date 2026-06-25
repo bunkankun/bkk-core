@@ -1,0 +1,44 @@
+uuid: 85c72ffe-62ba-40e0-b9e1-2782adfcdafd
+type: tax-char
+heads:
+- 誅
+pronunciations:
+- reading: zhū
+  old_chinese: to
+  middle_chinese: ʈio
+  fanqie: 陟輸切
+  tone: 平
+  guangyun: 責也釋名曰罪及餘曰誅如誅大樹枝葉盡落
+  senses:
+  - concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+    concept_label: ACCUSE
+    children:
+    - gloss: generalised
+      concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+      concept_label: CRITICISE
+    - gloss: legal
+      concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+      concept_label: PUNISH
+      children:
+      - concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+        concept_label: DEMAND
+        children:
+        - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+      - gloss: military
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+      - concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+        concept_label: EXECUTE
+        children:
+        - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+          concept_label: SEVERE
+        - gloss: generalised
+          concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+          concept_label: KILL
+          children:
+          - gloss: generalised
+            concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+            concept_label: REMOVE
+source:
+  source_file: taxchar.xml

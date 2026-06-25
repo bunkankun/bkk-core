@@ -1,0 +1,26 @@
+uuid: f3590432-9371-4fa7-ac52-47e839a25653
+type: tax-char
+heads:
+- 欽
+pronunciations:
+- reading: qīn
+  old_chinese: khrɯm
+  middle_chinese: kʰɯim
+  fanqie: 去金切
+  tone: 平
+  guangyun: 敬也又姓何氏姓苑云吴人也去金切五
+  senses:
+  - concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+    concept_label: ADMIRE
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+    concept_label: EMPEROR
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

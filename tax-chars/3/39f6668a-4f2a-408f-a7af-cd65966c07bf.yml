@@ -1,0 +1,106 @@
+uuid: 39f6668a-4f2a-408f-a7af-cd65966c07bf
+type: tax-char
+heads:
+- 卻
+pronunciations:
+- reading: què
+  old_chinese: khaɡ
+  middle_chinese: kʰiɐk
+  fanqie: 去約切
+  tone: 入
+  guangyun: 退也去約切四
+  senses:
+  - concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+    children:
+    - gloss: generalised
+      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+      concept_label: STOP
+      children:
+      - gloss: transitive
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 0ec307f0-0c61-4f89-8d21-7ca15a4396f6
+          concept_label: WEAK VERBAL SUFFIX
+        - gloss: doing what one is asked to do
+          concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+          concept_label: REFUSE
+          children:
+          - gloss: '"refusing" to follow the pattern'
+            concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+            concept_label: NONETHELESS
+            children:
+            - gloss: 'grammaticalised: really'
+              concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+              concept_label: REALITY
+              children:
+              - gloss: graded
+                concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+                concept_label: INTENSELY
+              - gloss: temporal
+                concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+                concept_label: NOW
+              - gloss: epistemic
+                concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+                concept_label: CERTAIN
+                children:
+                - gloss: disjunctive
+                  concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+                  concept_label: OR
+                - gloss: unique
+                  concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+                  concept_label: ONLY
+              - gloss: comparative
+                concept_uuid: 537799e2-cfbb-488f-93bd-013276b87c05
+                concept_label: THAN
+              - gloss: repetitive
+                concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+                concept_label: AGAIN
+      - gloss: causative
+        concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+        concept_label: REMOVE
+        children:
+        - gloss: abstract
+          concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+          concept_label: DISCARD
+          children:
+          - gloss: from detention
+            concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+            concept_label: RELEASE
+            children:
+            - gloss: from persecution
+              concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+              concept_label: PARDON
+    - gloss: inchoative
+      concept_uuid: 50d39b76-3946-438d-98e5-b2b1599be8eb
+      concept_label: TURN BACK
+      children:
+      - gloss: resultative
+        concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+        concept_label: RETURN
+      - gloss: grammaticalised
+        concept_uuid: 9d31b117-2776-4f3a-8a4c-e8e4c98e33a6
+        concept_label: BACKWARDS
+    - gloss: causative
+      concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+      concept_label: FEND OFF
+      children:
+      - gloss: and prevent intended movement
+        concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+        concept_label: BLOCK
+  - gloss: late
+    concept_uuid: 0ec307f0-0c61-4f89-8d21-7ca15a4396f6
+    concept_label: WEAK VERBAL SUFFIX
+  - gloss: =xi4 郤隙
+    concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: HOLE
+- reading: jué
+  old_chinese: kaɡ
+  middle_chinese: kiɐk
+  fanqie: 居勺切
+  tone: 入
+  guangyun: 節也又去約切
+source:
+  source_file: taxchar.xml

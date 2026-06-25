@@ -1,0 +1,49 @@
+uuid: 2e099eca-4bc5-4c0a-8aa0-fc10ec1d2e24
+type: tax-char
+heads:
+- 聊
+pronunciations:
+- reading: liáo
+  old_chinese: b-ruu
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 語助也亦姓風俗通有聊倉爲漢侍中著子書又有聊氏爲穎川太守著萬姓譜落蕭切四十二
+  senses:
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+    children:
+    - gloss: transitive
+      concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+      concept_label: ENJOY
+      children:
+      - gloss: as injoyable
+        concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+        concept_label: INTEND
+      - gloss: as profitable
+        concept_uuid: 97510283-af73-45e3-97a7-942029408956
+        concept_label: RELY ON
+  - gloss: 'source for graph?: ear-buzz'
+    concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - gloss: grammaticalised
+    concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+    concept_label: MOREOVER
+  - gloss: 'grammaticalised: for a while'
+    concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+  - gloss: 'grammaticalised: slightly'
+    concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+    concept_label: TENUOUS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: (late)
+    concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+unattributed_senses:
+- gloss: 聊 ｌｉｕ２《集韻》力求切，平尤來。幽部。
+  children:
+  - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+source:
+  source_file: taxchar.xml

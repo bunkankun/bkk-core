@@ -1,0 +1,27 @@
+uuid: 53f0cd9a-fae1-4e8e-8c84-3f76e5d75b1a
+type: tax-char
+heads:
+- 北
+pronunciations:
+- reading: běi
+  old_chinese: pɯɯɡ
+  middle_chinese: pək
+  fanqie: 博墨切
+  tone: 入
+  guangyun: 南北亦奔也又髙麗姓又漢複姓七氏左傳衞大夫北宫貞子莊子有北門成漢有北唐子眞治京氏易丗本云晉有髙人隱於此唐因以爲氏晏子云齊有北郭先生名騷古有北人無擇淸身絜己疾丗之濁自投淸冷之淵姓苑有北郷北野氏博墨切二
+  senses:
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+unattributed_senses:
+- gloss: 北 bei4 《集韻》補妹切，去隊，幫。
+  children:
+  - concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+    concept_label: DEFEAT
+    children:
+    - gloss: resultative
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+source:
+  source_file: taxchar.xml

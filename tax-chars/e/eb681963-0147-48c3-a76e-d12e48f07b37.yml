@@ -1,0 +1,31 @@
+uuid: eb681963-0147-48c3-a76e-d12e48f07b37
+type: tax-char
+heads:
+- 醉
+pronunciations:
+- reading: zuì
+  old_chinese: skuds
+  middle_chinese: tsʷi
+  fanqie: 將遂切
+  tone: 去
+  guangyun: 説文曰醉卒也各卒其度量不至於亂也將遂切二
+  senses:
+  - concept_uuid: d015c25b-106e-4b88-9ff7-d13f67c0e446
+    concept_label: DRUNK
+    children:
+    - gloss: excessively
+      concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+      concept_label: DRINK
+      children:
+      - gloss: 'generalised, causative: cause to drink, wetten'
+        concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+        concept_label: WET
+      - gloss: 'causative: cause deities to drink'
+        concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+        concept_label: SACRIFICE
+    - gloss: alcoholic, steeped in wine> LIQUOUR
+    - gloss: generalised
+      concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+      concept_label: CONFUSED
+source:
+  source_file: taxchar.xml

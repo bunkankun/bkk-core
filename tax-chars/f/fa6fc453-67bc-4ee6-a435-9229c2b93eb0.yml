@@ -1,0 +1,34 @@
+uuid: fa6fc453-67bc-4ee6-a435-9229c2b93eb0
+type: tax-char
+heads:
+- 殿
+pronunciations:
+- reading: diàn
+  old_chinese: tɯɯns
+  middle_chinese: ten
+  fanqie: 都甸切
+  tone: 去
+  guangyun: 軍在前曰啓後曰殿又殿最漢書音義云上功曰最下功曰殿都甸切又堂練切三
+- reading: diàn
+  old_chinese: dɯɯns
+  middle_chinese: den
+  fanqie: 堂練切
+  tone: 去
+  guangyun: 宮殿風俗通曰殿堂象東井形刻爲荷菱荷菱水物所以厭火又都甸切
+  senses:
+  - concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+    concept_label: BEHIND
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+    concept_label: COURT
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+    concept_label: LATE
+  - concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+    concept_label: PUBLIC BUILDING
+source:
+  source_file: taxchar.xml

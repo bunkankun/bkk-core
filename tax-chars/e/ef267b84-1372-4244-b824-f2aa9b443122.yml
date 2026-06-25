@@ -1,0 +1,38 @@
+uuid: ef267b84-1372-4244-b824-f2aa9b443122
+type: tax-char
+heads:
+- 疑
+pronunciations:
+- reading: yí
+  old_chinese: ŋɡɯ
+  middle_chinese: ŋɨ
+  fanqie: 語其切
+  tone: 平
+  guangyun: 不定也恐也惑也嫌也語其切三
+  senses:
+  - concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+    concept_label: DOUBT
+    children:
+    - gloss: 'transitive: of persons'
+      concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+      concept_label: SUSPECT
+      children:
+      - gloss: morally
+        concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+        concept_label: BLAME
+    - gloss: pathological
+      concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+      concept_label: CONFUSED
+    - gloss: resulting action
+      concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+      concept_label: HESITATE
+unattributed_senses:
+- concept_label: 疑 ning2 康熙字典：《韻會》疑陵切《正韻》魚陵切，並音凝，定也。
+- concept_label: 疑 yi4 康熙字典：《集韻》魚乙切《韻會》《正韻》魚乞切，銀入聲。
+- concept_label: 疑 康熙字典：《集韻》《韻會》偶起切，同擬。
+- concept_label: 疑 康熙字典：《韻補》叶魚記切，音義。
+- concept_label: '疑 康熙字典: 又叶魚求切，音牛。'
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T18:07:20.66+09:00'

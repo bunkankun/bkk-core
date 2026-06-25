@@ -1,0 +1,22 @@
+uuid: be2ddd41-ff51-4356-b6e8-3981a7ede66b
+type: tax-char
+heads:
+- 醴
+pronunciations:
+- reading: lǐ
+  old_chinese: riiʔ
+  middle_chinese: lei
+  fanqie: 盧啓切
+  tone: 上
+  guangyun: 醴酒亦醴泉縣屬京兆府本漢谷口縣也屬馮翊至後魏置寧夷縣隋改醴泉因周體泉宫名也
+  senses:
+  - concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+    concept_label: LIQUOR
+  - concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+  - concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+    concept_label: DRUG
+  - concept_uuid: b0efc5ff-4d2b-4c80-9e8c-da57f1268678
+    concept_label: LIQUID
+source:
+  source_file: taxchar.xml

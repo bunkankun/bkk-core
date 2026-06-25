@@ -1,0 +1,18 @@
+uuid: 39daa4b5-2738-4535-b5fb-9e1b4dec3cb7
+type: tax-char
+heads:
+- 輩
+pronunciations:
+- reading: bèi
+  old_chinese: pɯɯls
+  middle_chinese: puoi
+  fanqie: 補妹切
+  tone: 去
+  guangyun: 等輩又比也類也俗作軰
+  senses:
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: 43c5b81c-6c32-44c7-b8fa-f82f18c2e69f
+    concept_label: PLURAL SUFFIXES
+source:
+  source_file: taxchar.xml

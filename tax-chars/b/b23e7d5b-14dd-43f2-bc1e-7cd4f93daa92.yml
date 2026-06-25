@@ -1,0 +1,26 @@
+uuid: b23e7d5b-14dd-43f2-bc1e-7cd4f93daa92
+type: tax-char
+heads:
+- 貶
+pronunciations:
+- reading: biǎn
+  old_chinese: promʔ
+  middle_chinese: pɯiɛm
+  fanqie: 方斂切
+  tone: 上
+  guangyun: 損也方斂切二
+  senses:
+  - concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+    concept_label: BANISH
+  - concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+    concept_label: CRITICISE
+  - concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+    concept_label: DEMOTE
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: REDUCE
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+source:
+  source_file: taxchar.xml

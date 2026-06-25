@@ -1,0 +1,24 @@
+uuid: a4eb6cd8-dd5b-4470-8402-b0af369e81a3
+type: tax-char
+heads:
+- 匡
+pronunciations:
+- reading: kuāng
+  old_chinese: khʷaŋ
+  middle_chinese: kʰʷiɐŋ
+  fanqie: 去王切
+  tone: 平
+  guangyun: 輔助也正也又姓風俗通云匡魯邑也句須爲之宰其後氏焉漢有匡衡去王切十三
+  senses:
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 6c84593c-1c36-4757-983e-b3a9bcecc0c5
+    concept_label: FOOD BASKET
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+  - concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+    concept_label: UNITE
+source:
+  source_file: taxchar.xml

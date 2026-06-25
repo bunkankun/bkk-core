@@ -1,0 +1,22 @@
+uuid: 9a496cdb-e76a-4fed-9ef4-f6a4a1664fda
+type: tax-char
+heads:
+- 奈
+pronunciations:
+- reading: nuò
+  old_chinese: naals
+  middle_chinese: nɑ
+  fanqie: 奴箇切
+  tone: 去
+  guangyun: 奈何奴箇切又奴帶切二
+- reading: nài
+  old_chinese: naads
+  middle_chinese: nɑi
+  fanqie: 奴帶切
+  tone: 去
+  guangyun: 如也遇也那也本亦作奈又致箇切
+  senses:
+  - concept_uuid: 7f66e77a-70eb-4195-8feb-1b7b51e660fe
+    concept_label: COPE
+source:
+  source_file: taxchar.xml

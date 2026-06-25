@@ -1,0 +1,32 @@
+uuid: 51145b67-d067-4aed-b6b0-63bee07ef5fb
+type: tax-char
+heads:
+- 侈
+pronunciations:
+- reading: chǐ
+  old_chinese: khljalʔ
+  middle_chinese: tɕʰiɛ
+  fanqie: 尺氏切
+  tone: 上
+  guangyun: 奢也泰也大也尺氏切十五
+  senses:
+  - concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+    concept_label: EXTRAVAGANT
+  - concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+    concept_label: VAIN
+  - concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+    concept_label: EXCESSIVE
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+source:
+  source_file: taxchar.xml

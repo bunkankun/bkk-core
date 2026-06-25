@@ -1,0 +1,58 @@
+uuid: 7c0b0981-01c5-456e-8811-7210bc74120d
+type: tax-char
+heads:
+- 遠
+pronunciations:
+- reading: yuàn
+  old_chinese: ɢʷans
+  middle_chinese: ɦʷiɐn
+  fanqie: 于願切
+  tone: 去
+  guangyun: 離也于愿切一
+- reading: yuǎn
+  old_chinese: ɢʷanʔ
+  middle_chinese: ɦʷiɐn
+  fanqie: 雲阮切
+  tone: 上
+  guangyun: 遥逺也雲阮切二
+  senses:
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+    children:
+    - gloss: and thus not present
+      concept_uuid: fd91e5db-8b39-4511-a24e-052ebaa95986
+      concept_label: ABSENT
+      children:
+      - gloss: change
+        concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+        concept_label: LEAVE
+        children:
+        - gloss: causative
+          concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+          concept_label: BANISH
+    - gloss: conative, causative
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+  - gloss: in quality
+    concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+    children:
+    - gloss: by a long shot
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+    - gloss: intensitive, grammaticalised
+      concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+      concept_label: MORE
+    - gloss: in time
+      concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+      concept_label: PAST
+    - gloss: metaphorical
+      concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+      concept_label: PROFOUND
+  - gloss: putative
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T23:40:53.531+09:00'

@@ -1,0 +1,66 @@
+uuid: b0da8a33-0a54-439d-8310-c8fc9082f07c
+type: tax-char
+heads:
+- 請
+pronunciations:
+- reading: qǐng
+  old_chinese: tsheŋʔ
+  middle_chinese: tsʰiɛŋ
+  fanqie: 七靜切
+  tone: 上
+  guangyun: 乞也求也問也謁也七靜切又疾盈疾姓二切二
+  senses:
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+    children:
+    - gloss: from divinities
+      concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+      concept_label: PRAY
+    - gloss: forgiveness from person
+      concept_uuid: 97483661-3867-4186-8773-6c838831ab4f
+      concept_label: APOLOGISE
+    - gloss: object visit from person
+      concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+      concept_label: INVITE
+      children:
+      - gloss: object
+        concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+        concept_label: VISIT
+    - gloss: answer from person
+      concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+      concept_label: ASK
+      children:
+      - gloss: making a polite suggestion
+        concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+        concept_label: SPEAK
+      - gloss: judicial
+        concept_uuid: b81c5103-4414-42e2-99ea-d00bcd91003d
+        concept_label: INTERROGATE
+      - gloss: authoritative, ask to be given
+        concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+        concept_label: DEMAND
+      - gloss: 'generalised:'
+        concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+        concept_label: ADDRESS
+        children:
+        - gloss: 'specific: with information'
+          concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+          concept_label: REPORT
+- reading: qìng
+  old_chinese: dzeŋs
+  middle_chinese: dziɛŋ
+  fanqie: 疾政切
+  tone: 去
+  guangyun: 延請亦朝請漢官名張禹首爲之又秦盈親井二切
+  senses:
+  - concept_uuid: 47db7e44-cf9b-4290-948e-79d6ed0a241c
+    concept_label: MEETING
+- reading: qíng
+  old_chinese: dzeŋ
+  middle_chinese: dziɛŋ
+  senses:
+  - concept_label: =情
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-20T18:15:39.266+09:00'

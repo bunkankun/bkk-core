@@ -1,0 +1,26 @@
+uuid: 24cdfbca-b9da-4fa7-84ef-1a3acca31c36
+type: tax-char
+heads:
+- 驥
+pronunciations:
+- reading: jì
+  old_chinese: krɯls
+  middle_chinese: kɯi
+  fanqie: 几利切
+  tone: 去
+  guangyun: 同驥
+- reading: jì
+  old_chinese: krɯls
+  middle_chinese: kɯi
+  fanqie: 几利切
+  tone: 去
+  guangyun: 騏驥
+  senses:
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,35 @@
+uuid: 25ee1e4f-62e3-4812-958d-9f21081bba9a
+type: tax-char
+heads:
+- 誓
+pronunciations:
+- reading: shì
+  old_chinese: ɡljeds
+  middle_chinese: dʑiɛi
+  fanqie: 時制切
+  tone: 去
+  guangyun: 誓約
+  senses:
+  - concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+    concept_label: ADDRESS
+  - concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+    concept_label: CONTRACT
+  - concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+    concept_label: DECREE
+  - concept_uuid: d12adeb9-a0e6-4650-96ac-3024c723420a
+    concept_label: OATH
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+  - concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+    concept_label: CAUTIOUS
+  - gloss: = 哲
+- reading: shì
+  old_chinese: ɡljeds
+  middle_chinese: dʑiɛi
+  fanqie: 時制切
+  tone: 去
+  guangyun: 誓古文
+source:
+  source_file: taxchar.xml

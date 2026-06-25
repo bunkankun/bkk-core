@@ -1,0 +1,34 @@
+uuid: a087f1ce-aa30-4e98-ad13-acd83cede174
+type: tax-char
+heads:
+- 餐
+pronunciations:
+- reading: cān
+  old_chinese: tshaan
+  middle_chinese: tsʰɑn
+  fanqie: 七安切
+  tone: 平
+  guangyun: 説文吞也七安切三
+  senses:
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+    concept_label: APPRECIATE
+  - concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+    concept_label: SUFFER
+  - concept_uuid: b228aaff-2b23-41c6-9fdf-fad0ed165ad8
+    concept_label: FISHES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: cān
+  old_chinese: tshaan
+  middle_chinese: tsʰɑn
+  fanqie: 七安切
+  tone: 平
+  guangyun: 同餐俗作飡
+source:
+  source_file: taxchar.xml

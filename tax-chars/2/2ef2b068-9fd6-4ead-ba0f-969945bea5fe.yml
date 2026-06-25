@@ -1,0 +1,63 @@
+uuid: 2ef2b068-9fd6-4ead-ba0f-969945bea5fe
+type: tax-char
+heads:
+- 屈
+pronunciations:
+- reading: qū
+  old_chinese: khlud
+  middle_chinese: kʰiut
+  fanqie: 區勿切
+  tone: 入
+  guangyun: 拗曲亦姓又虜複姓屈突氏又羌複姓有屈男氏區勿切三
+  senses:
+  - concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+    concept_label: BEND
+    children:
+    - gloss: continuative
+      concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+      concept_label: TWIST
+    - gloss: social
+      concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+      concept_label: OPPRESS
+      children:
+      - gloss: sociological
+        concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+        concept_label: HUMILIATE
+      - gloss: result
+        concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+        concept_label: DISTRESS
+      - gloss: generalised
+        concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+        concept_label: EXHAUST
+    - gloss: causative
+      concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+      concept_label: CONQUER
+    - gloss: gesture
+      concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+      concept_label: BOW DOWN
+      children:
+      - gloss: related action
+        concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+        concept_label: INVITE
+      - gloss: related feature
+        concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+        concept_label: HUMBLE
+      - gloss: grammaticalised> PLEASE
+    - gloss: resultative
+      concept_uuid: c824e06d-c840-4dd2-b724-71991640af5d
+      concept_label: BREAK
+    - gloss: specific
+      concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+      concept_label: BIND
+    - gloss: 'figurative: bent'
+      concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+      concept_label: UNJUST
+    - gloss: figurative
+      concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+      concept_label: MIXED
+  - concept_uuid: b7b55df5-1a0d-4d85-9dd5-62349744453b
+    concept_label: MALES OF CHU
+  - concept_uuid: fb500771-dde4-45c1-babb-a146877e3733
+    concept_label: POETS
+source:
+  source_file: taxchar.xml

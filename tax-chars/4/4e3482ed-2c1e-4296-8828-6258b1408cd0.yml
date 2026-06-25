@@ -1,0 +1,33 @@
+uuid: 4e3482ed-2c1e-4296-8828-6258b1408cd0
+type: tax-char
+heads:
+- 駝
+pronunciations:
+- reading: tuó
+  old_chinese: laal
+  middle_chinese: dɑ
+  fanqie: 徒河切
+  tone: 平
+  guangyun: 俗駝
+- reading: tuó
+  old_chinese: laal
+  middle_chinese: dɑ
+  fanqie: 徒河切
+  tone: 平
+  guangyun: 駱駝外國圖云大秦國人長一丈五尺好騎駱駝俗從㐌餘同徒河切二十三
+  senses:
+  - concept_uuid: 7e4e8a2e-96ad-4939-ba84-05ddf249026d
+    concept_label: CAMEL
+  - concept_uuid: cfa51eb5-96fb-4451-94fe-7814e06d2672
+    concept_label: HUNCHBACK
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: a91eea17-4433-416d-98a8-530eefa5b7af
+    concept_label: OWE
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 坨
+source:
+  source_file: taxchar.xml

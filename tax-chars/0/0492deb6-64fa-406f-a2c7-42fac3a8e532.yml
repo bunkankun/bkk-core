@@ -1,0 +1,68 @@
+uuid: 0492deb6-64fa-406f-a2c7-42fac3a8e532
+type: tax-char
+heads:
+- 往
+pronunciations:
+- reading: wǎng
+  old_chinese: ɢʷaŋʔ
+  middle_chinese: ɦʷiɐŋ
+  fanqie: 于兩切
+  tone: 上
+  guangyun: 之也去也行也至也于兩切二
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: and meet person
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+      children:
+      - gloss: so as to join
+        concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+        concept_label: RALLY
+        children:
+        - gloss: in order to do as one is told
+          concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+          concept_label: OBEY
+          children:
+          - gloss: act accordingly
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+    - gloss: 'iussive:'
+      concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+      concept_label: SEND
+      children:
+      - gloss: object:gift
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+  - gloss: set forth from
+    concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+    concept_label: LEAVE
+    children:
+    - gloss: figurative
+      concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+      concept_label: ISSUE
+    - gloss: 'grammaticalised: starting from this'
+      concept_uuid: bcb6986f-3280-48f8-973c-c3d5283d75e3
+      concept_label: AFTER
+    - gloss: this world
+      concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+      concept_label: DIE
+      children:
+      - gloss: be bygone
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+        children:
+        - gloss: have a past
+          concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+          concept_label: OLD
+        - gloss: having lasted long
+          concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+          concept_label: ENDURING
+      - gloss: intermittently
+        concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+        concept_label: OFTEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T17:51:41.507+09:00'

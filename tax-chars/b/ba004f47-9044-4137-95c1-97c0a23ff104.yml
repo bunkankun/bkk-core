@@ -1,0 +1,24 @@
+uuid: ba004f47-9044-4137-95c1-97c0a23ff104
+type: tax-char
+heads:
+- 卿
+pronunciations:
+- reading: qīng
+  old_chinese: khraŋ
+  middle_chinese: kʰɯiaŋ
+  fanqie: 去京切
+  tone: 平
+  guangyun: 説文章也公卿春秋漢含孳曰三公象五岳九卿法河海三公法三台九卿法北斗釋名曰漢置十二卿正卿九太常光禄衞尉太僕廷尉鴻臚宗正司農少府又姓風俗通云趙相虞卿之後去京切一
+  senses:
+  - concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+    concept_label: MINISTER
+    children:
+    - gloss: military
+      concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+      concept_label: OFFICER
+      children:
+      - gloss: respectful of superiors, officals of lower rank, or intimate between lovers
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+source:
+  source_file: taxchar.xml

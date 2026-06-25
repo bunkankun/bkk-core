@@ -1,0 +1,33 @@
+uuid: ef85ed24-ab83-4a38-bd86-3ec80e2558bc
+type: tax-char
+heads:
+- 梓
+pronunciations:
+- reading: zǐ
+  old_chinese: tsɯʔ
+  middle_chinese: tsɨ
+  fanqie: 即里切
+  tone: 上
+  guangyun: 木名楸屬
+  senses:
+  - gloss: TREE, KINDS
+  - concept_uuid: 95a05433-8265-4179-aae6-831617ad0037
+    concept_label: CARPENTER
+  - concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+    concept_label: PRODUCE
+  - concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+    concept_label: CUP
+  - concept_uuid: bdb04eaf-4379-48c7-b801-fd3f1975897b
+    concept_label: PRINT
+  - concept_uuid: 7a08dbed-b1d8-4769-97d5-e1e2d3b4dee7
+    concept_label: PRINTING BLOCK
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: MATERIAL
+  - concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+    concept_label: HOME
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

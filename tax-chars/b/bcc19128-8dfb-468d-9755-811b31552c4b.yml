@@ -1,0 +1,26 @@
+uuid: bcc19128-8dfb-468d-9755-811b31552c4b
+type: tax-char
+heads:
+- 竦
+pronunciations:
+- reading: sǒng
+  old_chinese: soŋʔ
+  middle_chinese: sioŋ
+  fanqie: 息拱切
+  tone: 上
+  guangyun: 敬也國語云竦善抑惡
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+    concept_label: STAND
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+  - concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+    concept_label: EFFORT
+  - concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+    concept_label: WIELD
+source:
+  source_file: taxchar.xml

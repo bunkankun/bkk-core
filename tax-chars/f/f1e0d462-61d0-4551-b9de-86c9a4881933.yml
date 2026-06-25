@@ -1,0 +1,24 @@
+uuid: f1e0d462-61d0-4551-b9de-86c9a4881933
+type: tax-char
+heads:
+- 拭
+pronunciations:
+- reading: shì
+  old_chinese: hljɯɡ
+  middle_chinese: ɕɨk
+  fanqie: 賞職切
+  tone: 入
+  guangyun: 同拭
+- reading: shì
+  old_chinese: lʰɯɡ
+  middle_chinese: ɕɨk
+  fanqie: 賞職切
+  tone: 入
+  guangyun: 拭刷
+  senses:
+  - concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+    concept_label: RUB
+  - concept_uuid: cb0086fd-2b5e-46a7-a9fd-a071eef8a7a3
+    concept_label: WIPE
+source:
+  source_file: taxchar.xml

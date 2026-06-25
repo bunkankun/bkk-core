@@ -1,0 +1,44 @@
+uuid: 4aec3ed8-c16e-415d-9674-daf57c6b6d86
+type: tax-char
+heads:
+- 淹
+pronunciations:
+- reading: yàn
+  old_chinese: qoms
+  middle_chinese: ʔiɐm
+  fanqie: 於劍切
+  tone: 去
+  guangyun: 没也又繅絲一淹也
+- reading: yān
+  old_chinese: qrom
+  middle_chinese: ʔɯiɛm
+  fanqie: 央炎切
+  tone: 平
+  guangyun: 漬也滯也久留也敗也央炎切六
+  senses:
+  - concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+  - concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+    concept_label: SOAK
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+  - concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+    concept_label: ROTTEN
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+  - concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 醃
+  - gloss: = 掩
+source:
+  source_file: taxchar.xml

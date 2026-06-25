@@ -1,0 +1,156 @@
+uuid: aea7d68b-f2db-4983-80c3-1146c3f7ef32
+type: tax-char
+heads:
+- 有
+pronunciations:
+- reading: yǒu
+  old_chinese: ɢʷɯʔ
+  middle_chinese: ɦiu
+  fanqie: 云久切
+  tone: 上
+  guangyun: 有無又果也取也質也又也又姓孔子弟子有若又漢複姓有男氏禹後分封以國爲姓出史記云乆切九
+  senses:
+  - concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+    concept_label: HAVE
+    children:
+    - gloss: have as an orientation for action
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+    - gloss: understanding
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+    - gloss: in hands
+      concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+      concept_label: HOLD
+      children:
+      - gloss: 'fig: legally'
+        concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+        concept_label: POSSESS
+        children:
+        - gloss: and control
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+          children:
+          - gloss: inchoative
+            concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+            concept_label: ANNEX
+        - gloss: object
+          concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+          concept_label: PROPERTY
+    - gloss: inchoative, as recipient
+      concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+      concept_label: RECEIVE
+      children:
+      - gloss: object=abstract and negative
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+      - gloss: active, as desired
+        concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+        concept_label: OBTAIN
+        children:
+        - gloss: cause to obtain food
+          concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+          concept_label: FEED
+    - gloss: as part
+      concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+      concept_label: CONTAIN
+      children:
+      - gloss: be contained in world
+        concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+        concept_label: EXIST
+        children:
+        - gloss: as relevant
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+        - gloss: 'subordinating: when conditions obtain'
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+          children:
+          - gloss: in the unlikely case
+            concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+            concept_label: EVEN
+        - gloss: abstract feature
+          concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+          concept_label: REALITY
+          children:
+          - gloss: transivive feature
+            concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+            concept_label: RELATION
+        - gloss: alive
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+        - gloss: inchoative
+          concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+          concept_label: ARISE
+          children:
+          - gloss: of animates
+            concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+            concept_label: BIRTH
+          - gloss: of events
+            concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+            concept_label: HAPPEN
+          - gloss: a second time
+            concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+            concept_label: AGAIN
+        - gloss: 'specific: of situations, as described'
+          concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+          concept_label: 'TRUE'
+        - gloss: in a number of cases
+          concept_uuid: 2b6e78a6-2b11-40f0-8c70-41aacd64ca02
+          concept_label: SOME
+          children:
+          - gloss: in addition to some
+            concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+            concept_label: AND
+          - gloss: (archaic) in great quantity
+            concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+            concept_label: ABUNDANT
+          - gloss: at a number of times
+            concept_uuid: b34d1e99-5d41-4698-a1cf-a9cec247b2d4
+            concept_label: SOMETIMES
+            children:
+            - gloss: 'abstract: feature'
+              concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+              concept_label: POSSIBLE
+              children:
+              - gloss: acceptably so
+                concept_uuid: 36a876a6-c0d4-4407-bb0f-0d8ede69e74d
+                concept_label: ACCEPTABLE
+              - gloss: with difficulty only
+                concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+                concept_label: DIFFICULT
+        - gloss: alternatively
+          concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+          concept_label: OR
+        - gloss: there was a time when
+          concept_uuid: e340dde7-51fa-4813-b278-58580f841f16
+          concept_label: ONCE
+    - gloss: 'dynamic: so as to enact'
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: together
+        concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+        concept_label: COOPERATE
+      - gloss: act on something with an ulterior purpose
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+        children:
+        - gloss: as indispensable means
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+          children:
+          - gloss: rely on to work for one
+            concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+            concept_label: EMPLOY
+    - gloss: 'grammaticalised: object'
+      concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+      concept_label: WHAT
+      children:
+      - gloss: using what means
+        concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+        concept_label: HOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2024-01-14T03:30:54.799+09:00'

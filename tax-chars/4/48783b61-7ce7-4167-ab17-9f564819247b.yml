@@ -1,0 +1,24 @@
+uuid: 48783b61-7ce7-4167-ab17-9f564819247b
+type: tax-char
+heads:
+- 悴
+pronunciations:
+- reading: cuì
+  old_chinese: sɡuds
+  middle_chinese: dzʷi
+  fanqie: 秦醉切
+  tone: 去
+  guangyun: 憔悴憂愁
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+    concept_label: SLIM
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,39 @@
+uuid: adfabf0e-56ca-445b-aad2-4c9860ee7a3b
+type: tax-char
+heads:
+- 助
+pronunciations:
+- reading: zhù
+  old_chinese: zrasʔʔ
+  middle_chinese: dʐiɔ
+  fanqie: 牀據切
+  tone: 去
+  guangyun: 佐也益也牀據切三
+  senses:
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+    children:
+    - gloss: from persons of high status
+      concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+      concept_label: TRIBUTE
+      children:
+      - gloss: function
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+        children:
+        - gloss: concrete
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+        - gloss: abstract
+          concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+          concept_label: ADD
+unattributed_senses:
+- gloss: 助 ｃｈｕ２《集韻》〓魚切，平魚崇。魚部。
+  children:
+  - gloss: =鋤鉏
+    concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

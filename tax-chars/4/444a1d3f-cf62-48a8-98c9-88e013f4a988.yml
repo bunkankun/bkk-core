@@ -1,0 +1,24 @@
+uuid: 444a1d3f-cf62-48a8-98c9-88e013f4a988
+type: tax-char
+heads:
+- 墀
+pronunciations:
+- reading: chí
+  old_chinese: rlil
+  middle_chinese: ɖɯi
+  fanqie: 直尼切
+  tone: 平
+  guangyun: 説文云墀塗地也禮天子有赤墀漢典職曰以丹漆地故稱丹墀漢書曰王根作赤墀直尼切十五
+  senses:
+  - concept_uuid: eda452d9-7993-480c-99c1-e73d9750d5d1
+    concept_label: COURTYARD
+  - concept_uuid: 58f93d98-fc77-4fba-8d8b-db78013d55ba
+    concept_label: FLOOR
+- reading: chí
+  old_chinese: l'il
+  middle_chinese: ɖɯi
+  fanqie: 直尼切
+  tone: 平
+  guangyun: 同墀
+source:
+  source_file: taxchar.xml

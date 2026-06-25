@@ -1,0 +1,27 @@
+uuid: a11be1e2-43fb-45ff-8aaa-9eb53dbb77ee
+type: tax-char
+heads:
+- 烟
+- 煙
+pronunciations:
+- reading: yān
+  old_chinese: qiin
+  middle_chinese: ʔen
+  fanqie: 烏前切
+  tone: 平
+  guangyun: 爾雅云落也又音因
+- reading: yān
+  old_chinese: qiin
+  middle_chinese: ʔen
+  fanqie: 烏前切
+  tone: 平
+  guangyun: 同煙
+  senses:
+  - concept_uuid: 33013bec-e419-487f-8ae0-3b77a9672203
+    concept_label: STEAM
+  - concept_uuid: 6a6f3a7a-f6f5-46ff-a3ff-ae921a8757b6
+    concept_label: SMOKE
+  - concept_uuid: 6c56321a-77f1-4a78-9e4e-6a586e9553be
+    concept_label: PERMEATE
+source:
+  source_file: taxchar.xml

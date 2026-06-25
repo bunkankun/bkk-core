@@ -1,0 +1,25 @@
+uuid: 3c64b85b-e67d-4e51-805f-f6ef92d6b14a
+type: tax-char
+heads:
+- 歿
+pronunciations:
+- reading: mò
+  old_chinese: mɯɯd
+  middle_chinese: muot
+  fanqie: 莫勃切
+  tone: 入
+  guangyun: 死也説文終也又作歾
+  senses:
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+  - concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+    concept_label: DESCEND
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+  - concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+  - gloss: = 刎
+source:
+  source_file: taxchar.xml

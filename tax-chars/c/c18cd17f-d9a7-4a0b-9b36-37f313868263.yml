@@ -1,0 +1,97 @@
+uuid: c18cd17f-d9a7-4a0b-9b36-37f313868263
+type: tax-char
+heads:
+- 用
+pronunciations:
+- reading: yòng
+  old_chinese: k-loŋs
+  middle_chinese: jioŋ
+  fanqie: 余頌切
+  tone: 去
+  guangyun: 使也貨也通也以也庸也又姓漢有用蚪爲髙唐令余頌切一
+  senses:
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+    children:
+    - gloss: as nourishment
+      concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+      concept_label: EAT
+    - gloss: wish to use
+      concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+      concept_label: NEED
+    - gloss: exocentric:of money
+      concept_uuid: 5552df50-2a71-41a4-a567-79af5c252e65
+      concept_label: EXPENSE
+    - gloss: in late Shang rituals
+      concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+      concept_label: SACRIFICE
+  - gloss: 'grammaticalised: using as a motive'
+    concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+    concept_label: INTEND
+    children:
+    - gloss: preferentially
+      concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+      concept_label: CHOOSE
+      children:
+      - gloss: course of action
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+    - gloss: of subordinate persons
+      concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+      concept_label: EMPLOY
+    - gloss: of what was inactive
+      concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+      concept_label: DEPLOY
+      children:
+      - gloss: for display
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+    - gloss: adequate for
+      concept_uuid: 9a17ae53-4f3a-4d18-9a22-d0f66f6e394b
+      concept_label: USEFUL
+      children:
+      - gloss: abstract
+        concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+        concept_label: APPROPRIATE
+      - gloss: designed for
+        concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+        concept_label: TOOL
+        children:
+        - gloss: 'grammaticalised: using as the object'
+          concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+          concept_label: OBJECT MARKER
+          children:
+          - gloss: thing disposed of
+            concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+            concept_label: THING
+      - gloss: asset
+        concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+        concept_label: PROFIT
+    - gloss: what sth is used for
+      concept_uuid: b56d5b21-c292-4251-98b7-f8d1fb302a76
+      concept_label: FUNCTION
+  - gloss: rules/conventions
+    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+    children:
+    - gloss: what one conforms to for a purpose
+      concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+      concept_label: METHOD
+    - gloss: to orders
+      concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+      concept_label: OBEY
+      children:
+      - gloss: 'causative: force to obey'
+        concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+        concept_label: GOVERN
+    - gloss: 'grammaticalised:'
+      concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+      concept_label: THEREFORE
+      children:
+      - gloss: 'grammaticalised:'
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-29T22:13:37.162+09:00'

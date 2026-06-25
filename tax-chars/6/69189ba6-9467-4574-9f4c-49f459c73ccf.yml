@@ -1,0 +1,56 @@
+uuid: 69189ba6-9467-4574-9f4c-49f459c73ccf
+type: tax-char
+heads:
+- 短
+pronunciations:
+- reading: duǎn
+  old_chinese: toonʔ
+  middle_chinese: tʷɑn
+  fanqie: 都管切
+  tone: 上
+  guangyun: 同短
+- reading: duǎn
+  old_chinese: toonʔ
+  middle_chinese: tʷɑn
+  fanqie: 都管切
+  tone: 上
+  guangyun: 促也不長也都管切四
+  senses:
+  - concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+    concept_label: SHORT
+    children:
+    - gloss: height
+      concept_uuid: f3e13579-7f52-46be-aa49-a573417c0d6a
+      concept_label: LOW
+    - gloss: time
+      concept_uuid: 6a39e8d4-8e37-43ee-a09f-56b121cd95ea
+      concept_label: BRIEF
+    - gloss: figurative depth
+      concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+      concept_label: SUPERFICIAL
+    - gloss: abstract
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+      children:
+      - gloss: feature
+        concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+        concept_label: DEFECT
+        children:
+        - gloss: intensitive
+          concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+          concept_label: BAD
+        - gloss: practical
+          concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+          concept_label: INCOMPETENT
+          children:
+          - gloss: moral/intellectual
+            concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+            concept_label: STUPID
+        - gloss: declare defects
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+    - gloss: 'exocentric: garment'
+      concept_uuid: c6de422f-347d-4380-abeb-62a79d73cef8
+      concept_label: JACKET
+source:
+  source_file: taxchar.xml

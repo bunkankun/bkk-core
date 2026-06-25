@@ -1,0 +1,94 @@
+uuid: 37bc346c-c652-41ec-a693-4bd668926f71
+type: tax-char
+heads:
+- 致
+pronunciations:
+- reading: zhì
+  old_chinese: k-liɡs
+  middle_chinese: ʈɯi
+  fanqie: 陟利切
+  tone: 去
+  guangyun: 至也説文曰送詣也陟利切十五
+  senses:
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+    children:
+    - gloss: process
+      concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+      concept_label: WALK
+    - gloss: to speaker's place
+      concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+      concept_label: COME
+      children:
+      - gloss: causative
+        concept_uuid: dbb6966f-e54a-42e0-a3a6-b63500b56793
+        concept_label: BRING
+      - gloss: on the temporal scene
+        concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+        concept_label: HAPPEN
+      - gloss: iussive
+        concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+        concept_label: SUMMON
+        children:
+        - gloss: summon to battle
+          concept_uuid: 38722d1e-4dbc-4b35-8a0b-b7a02d41c428
+          concept_label: CHALLENGE
+    - gloss: abstract，＝至
+      concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+      concept_label: REACH
+      children:
+      - gloss: so as to have
+        concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+        concept_label: OBTAIN
+        children:
+        - gloss: object obtained
+          concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+          concept_label: RESULT
+      - gloss: reaching everything, later=緻
+        concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+        concept_label: DETAILED
+      - gloss: reach the point of doing something
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: causative
+          concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+          concept_label: CAUSE TO
+        - gloss: cause to reach as property
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+          children:
+          - gloss: distant
+            concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+            concept_label: SEND
+          - gloss: to a superior
+            concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+            concept_label: HAND UP
+        - gloss: cause to reach as knowledge
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+        - gloss: cause to reach others as information
+          concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+          concept_label: EXPRESS
+      - gloss: aim
+        concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+        concept_label: ACHIEVE
+        children:
+        - gloss: with difficulty
+          concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+          concept_label: SUCCEED
+          children:
+          - gloss: feature
+            concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+            concept_label: EXCELLENT
+            children:
+            - gloss: 'abstract: excellent feature, appeal'
+              concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+              concept_label: FEATURE
+            - gloss: generalised, =至
+              concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+              concept_label: EXTREME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-29T00:34:04.065+09:00'

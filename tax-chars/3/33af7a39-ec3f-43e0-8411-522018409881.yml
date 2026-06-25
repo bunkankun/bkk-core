@@ -1,0 +1,48 @@
+uuid: 33af7a39-ec3f-43e0-8411-522018409881
+type: tax-char
+heads:
+- 野
+pronunciations:
+- reading: yě
+  old_chinese: laʔ
+  middle_chinese: jia
+  fanqie: 羊者切
+  tone: 上
+  guangyun: 野古文
+  senses:
+  - gloss: 'yě (OC: laʔ MC: jia) 羊者切 上 廣韻：【田野説文云郊外也羊者切五 】'
+  - concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+    concept_label: COUNTRYSIDE
+    children:
+    - gloss: cultivated
+      concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+      concept_label: FIELD
+      children:
+      - gloss: celestial
+        concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+        concept_label: CONSTELLATION
+  - gloss: feature
+    concept_uuid: 617295c0-4c5f-49ee-a30c-8527a9dfb192
+    concept_label: WILD
+    children:
+    - gloss: abstract
+      concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+      concept_label: VULGAR
+      children:
+      - gloss: psychologically
+        concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+        concept_label: COARSE
+        children:
+        - gloss: intellectually
+          concept_uuid: 7592652a-7114-4fce-b798-b8407930f652
+          concept_label: NAIVE
+- reading: shù
+  old_chinese: ɡljaʔ
+  middle_chinese: dʑiɔ
+  fanqie: 承與切
+  tone: 上
+  guangyun: 田野承與切又與者切二
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-20T23:14:26.932+09:00'

@@ -1,0 +1,39 @@
+uuid: 5cd6a349-e284-45c4-a0cc-54efbe070766
+type: tax-char
+heads:
+- 攬
+pronunciations:
+- reading: lǎn
+  old_chinese: ɡ-raamʔ
+  middle_chinese: lɑm
+  fanqie: 盧敢切
+  tone: 上
+  guangyun: 手擥取
+- reading: lǎn
+  old_chinese: ɡ-raamʔ
+  middle_chinese: lɑm
+  fanqie: 盧敢切
+  tone: 上
+  guangyun: 同擥
+  senses:
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+  - concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+    concept_label: CAUSE TO
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - gloss: = 覽
+source:
+  source_file: taxchar.xml

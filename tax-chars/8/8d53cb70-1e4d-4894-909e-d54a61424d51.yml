@@ -1,0 +1,41 @@
+uuid: 8d53cb70-1e4d-4894-909e-d54a61424d51
+type: tax-char
+heads:
+- 煎
+pronunciations:
+- reading: jiān
+  old_chinese: tsen
+  middle_chinese: tsiɛn
+  fanqie: 子仙切
+  tone: 平
+  guangyun: 熟煑子仙切四
+  senses:
+  - concept_uuid: bb6e394b-930f-436d-8159-1571b4820169
+    concept_label: BOIL
+  - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+    concept_label: EXHAUST
+  - concept_uuid: 4f2633ae-88e7-4aef-9c5d-facfb9485cf6
+    concept_label: ROAST
+  - concept_uuid: 75d82552-03d8-4313-b2df-89401a85505e
+    concept_label: TORMENT
+  - concept_uuid: d443ef9b-08a1-4be8-9a9f-ed512af47e0f
+    concept_label: SMELT
+  - concept_uuid: ffacdeed-ca72-445e-88ce-79e2fc9db89a
+    concept_label: MELT
+  - concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+    concept_label: CLAMOUR
+  - concept_uuid: 18746cc0-e827-412b-8712-5aa045a0e964
+    concept_label: VERBAL MEASURE WORDS
+- reading: jiàn
+  old_chinese: tsens
+  middle_chinese: tsiɛn
+  fanqie: 子賤切
+  tone: 去
+  guangyun: 甲煎又將仙切
+  senses:
+  - concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+    concept_label: FRAGRANCE
+  - concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+    concept_label: FRUIT
+source:
+  source_file: taxchar.xml

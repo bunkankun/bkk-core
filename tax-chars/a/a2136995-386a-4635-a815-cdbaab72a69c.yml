@@ -1,0 +1,25 @@
+uuid: a2136995-386a-4635-a815-cdbaab72a69c
+type: tax-char
+heads:
+- 誰
+pronunciations:
+- reading: shuí
+  old_chinese: ɡljul
+  middle_chinese: dʑʷi
+  fanqie: 視隹切
+  tone: 平
+  guangyun: 何也視隹切三
+  senses:
+  - concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+    concept_label: WHO
+    children:
+    - gloss: object
+      concept_uuid: 98506c6b-03a1-4f1a-9993-30b67eae19c5
+      concept_label: WHOM
+    - gloss: quantifier
+      concept_uuid: 2b6e78a6-2b11-40f0-8c70-41aacd64ca02
+      concept_label: SOME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T21:24:15.052+09:00'

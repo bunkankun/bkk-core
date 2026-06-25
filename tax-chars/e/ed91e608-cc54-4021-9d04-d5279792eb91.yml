@@ -1,0 +1,30 @@
+uuid: ed91e608-cc54-4021-9d04-d5279792eb91
+type: tax-char
+heads:
+- 眄
+pronunciations:
+- reading: miǎn
+  old_chinese: mbiinʔ
+  middle_chinese: men
+  fanqie: 彌殄切
+  tone: 上
+  guangyun: 斜視又亡見切
+  senses:
+  - concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+    concept_label: BLIND
+  - concept_uuid: 03229b34-f25c-418b-a1fa-ac10fd4c7991
+    concept_label: EYE ILLNESSES
+  - concept_uuid: 626676ae-b1f1-4794-b898-c628e365c986
+    concept_label: LOOK SIDEWAYS
+  - concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+    concept_label: HOPE
+  - concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+    concept_label: LIKE
+- reading: miàn
+  old_chinese: mbiins
+  middle_chinese: men
+  fanqie: 莫甸切
+  tone: 去
+  guangyun: 斜視
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,47 @@
+uuid: 6bf32385-6477-487f-83c1-3f4086ffc0da
+type: tax-char
+heads:
+- 露
+pronunciations:
+- reading: lù
+  old_chinese: ɡ-raaɡs
+  middle_chinese: luo
+  fanqie: 洛故切
+  tone: 去
+  guangyun: 説文曰露潤澤也五經通義曰和氣津凝爲露也蔡邕月令曰露者隂之液也又露見也亦姓風俗通云漢有上黨都尉露平
+  senses:
+  - concept_uuid: 8b0132d9-72f7-4c10-ba5a-d01352aef17c
+    concept_label: DEW
+    children:
+    - gloss: 'causative: moisten'
+      concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+      concept_label: MOIST
+    - gloss: euphemistic
+      concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+      concept_label: LIQUOR
+    - gloss: area in which it is found
+      concept_uuid: e54a86f3-64c2-446f-8525-d5aa97c7ff21
+      concept_label: OPEN AIR
+      children:
+      - gloss: be destroyed so as to lie open
+        concept_uuid: ced1a5ab-6f14-4e3f-afad-929f4f06a8d7
+        concept_label: RUIN
+        children:
+        - gloss: 'generalised: declining'
+          concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+          concept_label: DECLINE
+      - gloss: make visible in
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: what one should not make visible
+          concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+          concept_label: LEAK
+        - gloss: object text
+          concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+          concept_label: PUBLICISE
+        - gloss: expose to open air wind and wealther and cause to be
+          concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+          concept_label: TIRED
+source:
+  source_file: taxchar.xml

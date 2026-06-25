@@ -1,0 +1,71 @@
+uuid: f8576471-d351-411a-b2ea-ed43e7a2052c
+type: tax-char
+heads:
+- 規
+pronunciations:
+- reading: guī
+  old_chinese: kʷe
+  middle_chinese: kʷiɛ
+  fanqie: 居隋切
+  tone: 平
+  guangyun: 圎也字統云丈夫識用必合規矩故規從夫也
+  senses:
+  - concept_uuid: a9eeabab-bbce-41b7-8f65-be82c0f421eb
+    concept_label: COMPASS
+    children:
+    - gloss: generalised
+      concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+      concept_label: STANDARD
+      children:
+      - gloss: concrete
+        concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+        concept_label: MODEL
+      - gloss: social
+        concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+        concept_label: CUSTOM
+      - gloss: associated action
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+      - gloss: for future action
+        concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+        concept_label: PLAN
+        children:
+        - concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+          concept_label: GUESS
+        - concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+          concept_label: ADVISE
+          children:
+          - gloss: jussive
+            concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+            concept_label: ENCOURAGE
+            children:
+            - gloss: negative
+              concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+              concept_label: WARN
+              children:
+              - gloss: superiors
+                concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+                concept_label: REMONSTRATE
+                children:
+                - gloss: literary
+                  concept_uuid: 824e301f-4d12-4c64-9d89-d39cc94941ea
+                  concept_label: GENRE
+    - gloss: product
+      concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+      concept_label: CIRCLE
+      children:
+      - gloss: feature
+        concept_uuid: 11aec024-937d-4ac6-a54d-a20ffa8ae3d4
+        concept_label: ROUND
+        children:
+        - gloss: exocentric
+          concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+          concept_label: SUN
+        - gloss: exocentric
+          concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+          concept_label: MOON
+  - gloss: =窺
+    concept_uuid: ffbab81d-d14f-41e4-ae06-9dab9b80596f
+    concept_label: PEEP
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,87 @@
+uuid: 8972407e-0949-4fce-8111-63261d1cba6d
+type: tax-char
+heads:
+- 封
+pronunciations:
+- reading: fēng
+  old_chinese: poŋ
+  middle_chinese: pioŋ
+  fanqie: 府容切
+  tone: 平
+  guangyun: 大也國也厚也爵也亦姓望出渤海本姜姓炎帝之後封鉅爲黄帝師又望出河南後魏官氏志云是賁氏後改爲封氏府容切五
+  senses:
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+    children:
+    - gloss: what it encloses
+      concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+      concept_label: TERRITORY
+    - gloss: be shut in by
+      concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+      concept_label: SHUT
+      children:
+      - gloss: with liquid
+        concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+        concept_label: COVER
+    - gloss: heap up earth
+      concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+      concept_label: ACCUMULATE
+      children:
+      - concept_label: for funeral purposes> BURY6
+      - gloss: object
+        concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+        concept_label: HEAP
+      - gloss: for sacrificial purposes
+        concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+        concept_label: SACRIFICE
+        children:
+        - gloss: specifi
+          concept_uuid: 62559838-ff41-4b20-8b43-8842802bbda7
+          concept_label: SACRIFICE TO HEAVEN AND EARTH
+          children:
+          - gloss: symobol erected on such mound
+            concept_label: STELE
+        - gloss: important part
+          concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+          concept_label: ALTAR
+    - gloss: define boundaries of territory defined as to be governed by
+      concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+      concept_label: APPOINT
+      children:
+      - gloss: formal instauration
+        concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+        concept_label: INSTALL
+    - gloss: set boundary so as to seal letters etc
+      concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+      concept_label: SEAL
+      children:
+      - gloss: send as sealed letter
+        concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+        concept_label: SEND
+    - gloss: 'grammaticalised: quantitative measure word for bounded territories'
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+    - gloss: 'grammaticalised: measure word for sealed letters:'
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+  - concept_uuid: edb21bf5-7c56-4d54-b5bf-8303f43de2b1
+    concept_label: ARISTOCRATS OF QI
+  - concept_label: =豐
+- reading: fèng
+  old_chinese: poŋs
+  middle_chinese: pioŋ
+  fanqie: 方用切
+  tone: 去
+  guangyun: 又方容切
+  senses:
+  - concept_label: =葑
+unattributed_senses:
+- concept_label: 封 bian3 《集韻》陂驗切，去驗，幫。
+  children:
+  - gloss: =窆
+    concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:48:55.052+09:00'

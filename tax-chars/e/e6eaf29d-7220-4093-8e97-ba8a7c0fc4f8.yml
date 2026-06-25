@@ -1,0 +1,36 @@
+uuid: e6eaf29d-7220-4093-8e97-ba8a7c0fc4f8
+type: tax-char
+heads:
+- 卓
+pronunciations:
+- reading: zhuō
+  old_chinese: rteewɡ
+  middle_chinese: ʈɯɔk
+  fanqie: 竹角切
+  tone: 入
+  guangyun: 髙也又姓蜀有卓王孫
+  senses:
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+    concept_label: STAND
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+  - concept_uuid: 6138f0de-3527-4a80-8210-fdbdf169f7d0
+    concept_label: TABLE
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - concept_uuid: eff7ce63-4a02-4c76-9df9-20431e9ee7dc
+    concept_label: REALLY
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

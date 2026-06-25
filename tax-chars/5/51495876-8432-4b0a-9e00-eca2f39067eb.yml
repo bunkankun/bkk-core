@@ -1,0 +1,22 @@
+uuid: 51495876-8432-4b0a-9e00-eca2f39067eb
+type: tax-char
+heads:
+- 狹
+pronunciations:
+- reading: xiá
+  old_chinese: ɡreeb
+  middle_chinese: ɦɯæp
+  fanqie: 侯夾切
+  tone: 入
+  guangyun: 隘狹
+  senses:
+  - concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+    concept_label: NARROW
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: URGENT
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+source:
+  source_file: taxchar.xml

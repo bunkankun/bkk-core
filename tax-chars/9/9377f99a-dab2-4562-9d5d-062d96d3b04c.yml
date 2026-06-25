@@ -1,0 +1,38 @@
+uuid: 9377f99a-dab2-4562-9d5d-062d96d3b04c
+type: tax-char
+heads:
+- 晦
+pronunciations:
+- reading: huì
+  old_chinese: hmɯɯs
+  middle_chinese: huoi
+  fanqie: 荒內切
+  tone: 去
+  guangyun: 冥也又月盡也
+  senses:
+  - concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+    concept_label: DAY
+  - concept_uuid: a4f255d5-fdc0-44c5-a7c0-71632973937e
+    concept_label: MONTH
+  - concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+    concept_label: EVENING
+  - concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+    concept_label: NIGHT
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+    concept_label: OBSCURE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+  - concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+    concept_label: INAUSPICIOUS
+  - concept_uuid: 7f8e0db4-7048-4eec-b99f-ae08ddae5af5
+    concept_label: HELL
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+source:
+  source_file: taxchar.xml

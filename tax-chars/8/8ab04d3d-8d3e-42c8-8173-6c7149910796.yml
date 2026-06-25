@@ -1,0 +1,32 @@
+uuid: 8ab04d3d-8d3e-42c8-8173-6c7149910796
+type: tax-char
+heads:
+- 護
+pronunciations:
+- reading: hù
+  old_chinese: ɢʷaaɡs
+  middle_chinese: ɦuo
+  fanqie: 胡誤切
+  tone: 去
+  guangyun: 救也助也胡誤切十七
+  senses:
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 9061b621-93dc-47b4-a4cd-feeb3ee4b3db
+    concept_label: INSPECT
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+    concept_label: MUSIC
+  - concept_uuid: 942e5615-08b5-42c7-bba5-d62a347f4763
+    concept_label: HATCH
+source:
+  source_file: taxchar.xml

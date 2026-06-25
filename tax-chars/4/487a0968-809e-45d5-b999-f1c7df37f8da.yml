@@ -1,0 +1,76 @@
+uuid: 487a0968-809e-45d5-b999-f1c7df37f8da
+type: tax-char
+heads:
+- 害
+pronunciations:
+- reading: hài
+  old_chinese: ɡaads
+  middle_chinese: ɦɑi
+  fanqie: 胡蓋切
+  tone: 去
+  guangyun: 傷也胡蓋切四
+  senses:
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+    children:
+    - gloss: abstract logiccal
+      concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+      concept_label: CONTRARY
+    - gloss: by excelling
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+    - gloss: by spending uselessly
+      concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+      concept_label: WASTE
+    - gloss: mortally
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+    - gloss: by disobedience
+      concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+      concept_label: OFFEND
+      children:
+      - gloss: get in the way of
+        concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+        concept_label: HINDER
+        children:
+        - gloss: effective
+          concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+          concept_label: STOP
+    - gloss: natural
+      concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+      concept_label: DISASTER
+      children:
+      - gloss: to health
+        concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+        concept_label: ILLNESS
+      - gloss: 'object misfortune: bring upon oneself'
+        concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+        concept_label: ENCOUNTER
+        children:
+        - gloss: anticipate
+          concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+          concept_label: FEAR
+          children:
+          - gloss: fear being surpassed
+            concept_uuid: 93a5ca89-51fc-4761-bf1c-1c37faa9a258
+            concept_label: ENVY
+    - gloss: 'late colloquial: suffer from a feeling of害羞'
+      concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+      concept_label: FEEL
+unattributed_senses:
+- concept_label: 害 he2 《集韻》何葛切，入曷匣。月部。
+  children:
+  - gloss: grammaticalised
+    concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+    concept_label: WHAT
+    children:
+    - gloss: time
+      concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+      concept_label: WHEN
+  - gloss: '=曷 grammaticalised: why not?'
+    concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+    concept_label: CERTAIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:20:00.727+09:00'

@@ -1,0 +1,66 @@
+uuid: 7e2d41b9-cb4b-4bef-9ca2-c9378a37e448
+type: tax-char
+heads:
+- 飾
+pronunciations:
+- reading: shì
+  old_chinese: qhljɯɡ
+  middle_chinese: ɕɨk
+  fanqie: 賞職切
+  tone: 入
+  guangyun: 裝飾
+  senses:
+  - concept_uuid: e4f27013-ca16-4fdf-b7a1-075d72b062cb
+    concept_label: POLISH
+    children:
+    - gloss: generalised
+      concept_uuid: 5f498860-5aee-4af9-9545-85a48a76ec1f
+      concept_label: CLEANSE
+    - gloss: abstract
+      concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+      concept_label: EMBELLISH
+      children:
+      - gloss: instrument
+        concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+        concept_label: ORNAMENT
+        children:
+        - gloss: generalised
+          concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+          concept_label: TREASURE
+        - gloss: typical related action
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+          children:
+          - gloss: dishonestly
+            concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+            concept_label: PRETEND
+            children:
+            - gloss: play the act of
+              concept_uuid: 79eb81a8-8570-4305-a801-19f3f528dbbc
+              concept_label: ACTOR
+            - gloss: specific
+              concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+              concept_label: COVER
+              children:
+              - gloss: generalised
+                concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+                concept_label: CONCEAL
+unattributed_senses:
+- gloss: 飾 ｃｈｉ４《集韻》蓄力切，入職徹。
+  children:
+  - gloss: =飭
+    concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+    children:
+    - gloss: generalised
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+      children:
+      - gloss: systematic
+        concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+        concept_label: GOVERN
+      - gloss: =敕
+        concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+        concept_label: CAREFUL
+source:
+  source_file: taxchar.xml

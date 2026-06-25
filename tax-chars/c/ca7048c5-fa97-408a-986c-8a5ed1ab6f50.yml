@@ -1,0 +1,54 @@
+uuid: ca7048c5-fa97-408a-986c-8a5ed1ab6f50
+type: tax-char
+heads:
+- 音
+pronunciations:
+- reading: yīn
+  old_chinese: qrɯm
+  middle_chinese: ʔɯim
+  fanqie: 於金切
+  tone: 平
+  guangyun: 説文曰聲也生於心有節於外謂之音宫商角徴羽聲也絲竹金石匏土革木音也於金切八
+  senses:
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+    children:
+    - gloss: musical
+      concept_uuid: 55a6d0ed-c1a7-4dd1-96a6-1115480aa6be
+      concept_label: TUNE
+      children:
+      - gloss: with words
+        concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+        concept_label: SONG
+    - gloss: 'linguistic: made for character'
+      concept_uuid: 737cf532-c04e-4e47-8e9a-cd687a5485ef
+      concept_label: PRONUNCIATION
+      children:
+      - gloss: abstract
+        concept_uuid: 80840f07-419c-43e0-944d-4384bd4ac153
+        concept_label: LANGUAGE
+        children:
+        - gloss: action
+          concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+          concept_label: SPEAK
+        - gloss: kind of
+          concept_uuid: 01da33ec-4653-4edc-8e72-059fe6e0e345
+          concept_label: DIALECT
+      - gloss: communicative
+        concept_label: MESSAGE
+        children:
+        - gloss: linguistic
+          concept_label: MEANING
+    - gloss: unit of
+      concept_label: SYLLABLE
+    - gloss: musical
+      concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+      concept_label: TONE
+      children:
+      - gloss: abstract
+        concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+        concept_label: MUSIC
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T17:45:12.177+09:00'

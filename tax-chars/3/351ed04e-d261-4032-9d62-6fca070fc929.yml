@@ -1,0 +1,30 @@
+uuid: 351ed04e-d261-4032-9d62-6fca070fc929
+type: tax-char
+heads:
+- 夸
+pronunciations:
+- reading: kuā
+  old_chinese: khʷraa
+  middle_chinese: kʰʷɯa
+  fanqie: 苦瓜切
+  tone: 平
+  guangyun: 奢也
+  senses:
+  - concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+    concept_label: EXAGGERATE
+  - concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+    concept_label: EXCESSIVE
+  - concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+    concept_label: FAKE
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+    concept_label: FLOWER
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

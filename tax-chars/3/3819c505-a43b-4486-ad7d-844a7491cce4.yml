@@ -1,0 +1,135 @@
+uuid: 3819c505-a43b-4486-ad7d-844a7491cce4
+type: tax-char
+heads:
+- 以
+pronunciations:
+- reading: yǐ
+  old_chinese: lɯʔ
+  middle_chinese: jɨ
+  fanqie: 羊己切
+  tone: 上
+  guangyun: 以古文
+- reading: yǐ
+  old_chinese: k-lɯʔ
+  middle_chinese: jɨ
+  fanqie: 羊己切
+  tone: 上
+  guangyun: 用也與也爲也古作㠯羊己切七
+  senses:
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+    children:
+    - gloss: using one’s person, as the person one is
+      concept_uuid: c686e697-5994-4310-83b2-db70c27995a8
+      concept_label: AS
+    - gloss: using as company when moving
+      concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+      concept_label: ACCOMPANY
+    - gloss: 'relational: using as a reason'
+      concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+      concept_label: BECAUSE
+      children:
+      - gloss: 'object: that because of which something happens'
+        concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+        concept_label: CAUSE
+        children:
+        - gloss: what is used for orientation in action
+          concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+          concept_label: METHOD
+      - gloss: using as a standard
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: basing one's action of the model of
+          concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+          concept_label: RESEMBLE
+        - gloss: 'grammaticalised: conforming to a pattern'
+          concept_uuid: 117152ee-1bfc-446b-8947-fc010bd3ae85
+          concept_label: THUS
+          children:
+          - gloss: thus being
+            concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+            concept_label: COPULA
+          - gloss: 'grammaticalised: “so as to”'
+            concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+            concept_label: RESULT
+            children:
+            - gloss: 'grammaticalised: using a certain time to act in'
+              concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+              concept_label: BE IN
+            - gloss: 'grammaticalised: with sentences'
+              concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+              concept_label: THEREFORE
+            - gloss: thus possibly coming to
+              concept_uuid: 36e1fa8e-0596-4eed-a000-dfae2593bf0f
+              concept_label: RISK
+            - gloss: use as object of thought
+              concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+              concept_label: THINK
+        - gloss: 'grammaticalised: temporal'
+          concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+          concept_label: WHEN
+          children:
+          - gloss: 'gramamticalised: logical'
+            concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+            concept_label: THEN
+    - gloss: using as accompanying means
+      concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+      concept_label: WITH
+    - gloss: use as workforce
+      concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+      concept_label: EMPLOY
+    - gloss: use as action to solve a problem
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: make ready for use
+        concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+        concept_label: PROVIDE
+        children:
+        - gloss: use as necessary for one's purposes
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+      - gloss: on this basis go on to
+        concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+        concept_label: AND
+        children:
+        - gloss: on the same basis contrarywise
+          concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+          concept_label: BUT
+          children:
+          - gloss: nonetheless basing oneself on
+            concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+            concept_label: EVEN IF
+    - gloss: use as a motive (for doing something)
+      concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+      concept_label: INTEND
+      children:
+      - gloss: 'grammaticalised: having as a motivation'
+        concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+        concept_label: FOR
+    - gloss: grammaticalised
+      concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+      concept_label: OBJECT MARKER
+      children:
+      - gloss: 'elliptic: for 以…為'
+        concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+        concept_label: BELIEVE
+  - gloss: 'WEAK VERBAL SUFFIX JIE HUIQUAN 2005: 888'
+unattributed_senses:
+- gloss: grammaticalised
+  concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+  concept_label: PASSIVE MARKER
+- gloss: =已
+  concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+  concept_label: ALREADY
+- gloss: =與
+  concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+  concept_label: TOGETHER
+- gloss: =於
+  concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+  concept_label: RELATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-06T20:39:55.571+09:00'

@@ -1,0 +1,40 @@
+uuid: 3d757d82-1504-4457-bdbb-f0a99e1b527e
+type: tax-char
+heads:
+- 霍
+pronunciations:
+- reading: huò
+  old_chinese: qhʷaaɡ
+  middle_chinese: hʷɑk
+  fanqie: 虚郭切
+  tone: 入
+  guangyun: 揮霍爾雅曰霍山爲南嶽又姓武王弟霍叔之後虚郭切十二
+  senses:
+  - concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+    concept_label: IMMEDIATELY
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: 8aadcd2d-503d-47eb-af15-2f52c5e8424d
+    concept_label: WEEDS
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+    concept_label: BLIND
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+source:
+  source_file: taxchar.xml

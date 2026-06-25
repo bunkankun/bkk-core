@@ -1,0 +1,24 @@
+uuid: 77b25e9c-5d5c-4d31-baf6-4e720e4486dd
+type: tax-char
+heads:
+- 恢
+pronunciations:
+- reading: huī
+  old_chinese: khʷɯɯ
+  middle_chinese: kʰuoi
+  fanqie: 苦回切
+  tone: 平
+  guangyun: 大也苦回切八
+  senses:
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+  - concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+    concept_label: FAKE
+  - concept_uuid: a702478d-3fde-466d-b73b-890ab1782210
+    concept_label: RESUME
+source:
+  source_file: taxchar.xml

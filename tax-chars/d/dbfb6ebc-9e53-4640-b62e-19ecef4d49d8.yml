@@ -1,0 +1,60 @@
+uuid: dbfb6ebc-9e53-4640-b62e-19ecef4d49d8
+type: tax-char
+heads:
+- 迎
+pronunciations:
+- reading: yìng
+  old_chinese: ŋɡraŋs
+  middle_chinese: ŋɯiaŋ
+  fanqie: 魚敬切
+  tone: 去
+  guangyun: 迓也魚敬切一
+  senses:
+  - gloss: (go out and meet (especially bride)
+    concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+- reading: yíng
+  old_chinese: ŋɡraŋ
+  middle_chinese: ŋɯiaŋ
+  fanqie: 語京切
+  tone: 平
+  guangyun: 逢也語京切一
+  senses:
+  - concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+    children:
+    - gloss: generalised
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+      children:
+      - gloss: specialised
+        concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+        concept_label: ACCEPT
+        children:
+        - gloss: generalised
+          concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+          concept_label: RECEIVE
+          children:
+          - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+            concept_label: EMPLOY
+        - gloss: generalised
+          concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+          concept_label: CONFORM
+          children:
+          - concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+            concept_label: GUESS
+      - gloss: in conflict
+        concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+        concept_label: OPPOSE
+        children:
+        - gloss: generalised
+          concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+          concept_label: TOWARDS
+        - gloss: abstract
+          concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+          concept_label: OPPOSITE
+        - gloss: in battle
+          concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+          concept_label: FIGHT
+source:
+  source_file: taxchar.xml

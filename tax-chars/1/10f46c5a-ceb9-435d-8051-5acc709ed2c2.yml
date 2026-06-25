@@ -1,0 +1,30 @@
+uuid: 10f46c5a-ceb9-435d-8051-5acc709ed2c2
+type: tax-char
+heads:
+- 滔
+pronunciations:
+- reading: tāo
+  old_chinese: kh-luu
+  middle_chinese: tʰɑu
+  fanqie: 土刀切
+  tone: 平
+  guangyun: 漫也又水流皃
+  senses:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 834f0313-9561-4cb2-8b43-1673c162ef71
+    concept_label: LASTING
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+source:
+  source_file: taxchar.xml

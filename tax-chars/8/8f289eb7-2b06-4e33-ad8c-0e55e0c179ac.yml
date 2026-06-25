@@ -1,0 +1,28 @@
+uuid: 8f289eb7-2b06-4e33-ad8c-0e55e0c179ac
+type: tax-char
+heads:
+- 涯
+pronunciations:
+- reading: yí
+  old_chinese: ŋɡre
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚羈切
+  tone: 平
+  guangyun: 水畔也又五佳切
+  senses:
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+- reading: yá
+  old_chinese: ŋɡree
+  middle_chinese: ŋɯæ
+  fanqie: 五佳切
+  tone: 平
+  guangyun: 水際
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,34 @@
+uuid: bed7d46f-e18e-4d1c-825b-18a0c01c1f99
+type: tax-char
+heads:
+- 贊
+pronunciations:
+- reading: zàn
+  old_chinese: tsaans
+  middle_chinese: tsɑn
+  fanqie: 則旰切
+  tone: 去
+  guangyun: 佐也出也助也見也説文夲作贊則旰切十一
+  senses:
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+    concept_label: PROMOTE
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: ASSIST
+  - concept_uuid: e1da7261-fef3-440d-9304-1beed07b0ef2
+    concept_label: JOIN
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

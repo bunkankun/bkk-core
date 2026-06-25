@@ -1,0 +1,31 @@
+uuid: b749b005-a729-41d6-b479-0ba5a8e343bb
+type: tax-char
+heads:
+- 刃
+pronunciations:
+- reading: rèn
+  old_chinese: njins
+  middle_chinese: ȵin
+  fanqie: 而振切
+  tone: 去
+  guangyun: 刀刃而振切十一
+  senses:
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: BLADE
+    children:
+    - gloss: synecdoche
+      concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+      concept_label: SWORD
+      children:
+      - gloss: action using
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+  - gloss: =紉
+    concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+    concept_label: SEW
+  - gloss: =韌
+    concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - gloss: =仞 LENGHT MEASURES
+source:
+  source_file: taxchar.xml

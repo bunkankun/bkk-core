@@ -1,0 +1,45 @@
+uuid: 24e03dcb-65b7-4473-8842-681c1ba24933
+type: tax-char
+heads:
+- 排
+pronunciations:
+- reading: pái
+  old_chinese: brɯɯd
+  middle_chinese: bɯæi
+  fanqie: 步皆切
+  tone: 平
+  guangyun: 推排釋名曰彭排軍器也彭旁也在旁排敵御攻也歩皆切六
+  senses:
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+    concept_label: BANISH
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - gloss: REHEARSE
+  - concept_uuid: 25f58d5a-7a03-471d-9ee3-d86f42e724c6
+    concept_label: RAFT
+  - concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+    concept_label: ROW
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: 703e26d2-b7a7-4ead-be62-3c6076f8645e
+    concept_label: SHIELD
+  - concept_uuid: 03ca3b9c-0961-4724-bbb4-6cb3f7517f48
+    concept_label: SPORTS
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 79eb81a8-8570-4305-a801-19f3f528dbbc
+    concept_label: ACTOR
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+    concept_label: CRITICISE
+source:
+  source_file: taxchar.xml

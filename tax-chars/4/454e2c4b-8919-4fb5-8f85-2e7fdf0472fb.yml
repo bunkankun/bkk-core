@@ -1,0 +1,55 @@
+uuid: 454e2c4b-8919-4fb5-8f85-2e7fdf0472fb
+type: tax-char
+heads:
+- 敗
+pronunciations:
+- reading: bài
+  old_chinese: praads
+  middle_chinese: bɯai
+  fanqie: 薄邁切
+  tone: 去
+  guangyun: 敗籀文
+- reading: bài
+  old_chinese: braads
+  middle_chinese: bɯai
+  fanqie: 薄邁切
+  tone: 去
+  guangyun: 自破曰敗説文毀也薄邁切又北邁切四
+  senses:
+  - gloss: (passive)
+    concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+    children:
+    - gloss: (passive) figurative
+      concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+      concept_label: OFFEND
+    - gloss: natural causes
+      concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+      concept_label: ROTTEN
+      children:
+      - gloss: 'exocentric: rotten'
+        concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+        concept_label: FOOD
+      - gloss: generalised
+        concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+        concept_label: DISASTER
+        children:
+        - gloss: moral
+          concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+          concept_label: BAD
+      - gloss: specific
+        concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+        concept_label: WITHER
+        children:
+        - gloss: figurative
+          concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+          concept_label: TIRED
+    - gloss: (passive) in battle
+      concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+      concept_label: DEFEAT
+      children:
+      - gloss: generalised
+        concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+        concept_label: FAIL
+source:
+  source_file: taxchar.xml

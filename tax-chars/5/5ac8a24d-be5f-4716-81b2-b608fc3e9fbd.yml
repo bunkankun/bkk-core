@@ -1,0 +1,53 @@
+uuid: 5ac8a24d-be5f-4716-81b2-b608fc3e9fbd
+type: tax-char
+heads:
+- 體
+unattributed_senses:
+- concept_label: 韻典網： 聲符 豊 韻部 脂 韻部細分 2 對應廣韻小韻 體 擬音 r̥ʰiːʔ 廣韻：體身也又生也他禮切八
+- concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+  concept_label: LIMB
+  children:
+  - gloss: generalised
+    concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+    concept_label: PART
+    children:
+    - gloss: limbs and body parts
+      concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+      concept_label: BODY
+      children:
+      - gloss: abstract:human
+        concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+        concept_label: PERSON
+      - gloss: 'generalised, abstract: substance versus function of substance'
+        concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+        concept_label: SUBSTANCE
+        children:
+        - gloss: generalised
+          concept_uuid: ae246003-0d83-45db-acf6-014dd831307c
+          concept_label: OBJECT
+    - gloss: awareness of parts of
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: relevant action
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+    - gloss: 'generalised: constellation of parts'
+      concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+      concept_label: SITUATION
+      children:
+      - gloss: systematic constellation
+        concept_uuid: ef0251ed-2c77-481b-929c-455bd198a56e
+        concept_label: SYSTEM
+        children:
+        - gloss: of writings
+          concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+          concept_label: LITERARY GENRE
+          children:
+          - gloss: abstract:literary or calligraphic
+            concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+            concept_label: STYLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-03T20:37:42.838+09:00'

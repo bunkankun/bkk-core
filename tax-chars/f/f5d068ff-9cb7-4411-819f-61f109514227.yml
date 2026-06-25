@@ -1,0 +1,34 @@
+uuid: f5d068ff-9cb7-4411-819f-61f109514227
+type: tax-char
+heads:
+- 伍
+pronunciations:
+- reading: wǔ
+  old_chinese: ŋaaʔ
+  middle_chinese: ŋuo
+  fanqie: 疑古切
+  tone: 上
+  guangyun: 行伍説文曰相參伍也周禮曰五人爲伍
+  senses:
+  - concept_uuid: f1f62799-186d-4a41-b27a-a70d99335319
+    concept_label: FIVE
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+    concept_label: OFFICER
+  - concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+    concept_label: ROW
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+    concept_label: TWO
+  - concept_uuid: e85f3767-f78a-4678-aca7-2aead905c2fa
+    concept_label: BATTLE ARRAY
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: COMPANION
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

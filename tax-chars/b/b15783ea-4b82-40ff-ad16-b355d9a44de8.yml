@@ -1,0 +1,48 @@
+uuid: b15783ea-4b82-40ff-ad16-b355d9a44de8
+type: tax-char
+heads:
+- 凡
+pronunciations:
+- reading: fán
+  old_chinese: blom
+  middle_chinese: biɐm
+  fanqie: 符䒦切
+  tone: 平
+  guangyun: 常也皆也輕也非一也又姓周公子凡伯之後姓苑云晉陵人符咸切七
+  senses:
+  - concept_label: SUM
+    children:
+    - gloss: semantic
+      concept_label: MEANING
+      children:
+      - gloss: generalised
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+    - gloss: grammaticalised
+      concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+      concept_label: MODAL PARTICLES
+      children:
+      - gloss: quantifier
+        concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+        concept_label: ALL
+        children:
+        - gloss: common to all or many
+          concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+          concept_label: ORDINARY
+          children:
+          - gloss: not esoterically religious
+            concept_uuid: a9cd9b55-25a4-4c86-bc18-185e30a540b8
+            concept_label: SECULAR
+            children:
+            - gloss: exocentric:the ordinary world
+              concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+              concept_label: WORLD
+          - gloss: grammaticalised:whenever
+            concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+            concept_label: WHEN
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T18:11:59.195+09:00'

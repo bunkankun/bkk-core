@@ -1,0 +1,24 @@
+uuid: 67d691e0-0f5b-4365-94ac-13218795143d
+type: tax-char
+heads:
+- 騰
+pronunciations:
+- reading: téng
+  old_chinese: lɯɯŋ
+  middle_chinese: dəŋ
+  fanqie: 徒登切
+  tone: 平
+  guangyun: 馳也躍也説文曰傳也一曰犗馬也徒登切十一
+  senses:
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+  - concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+    concept_label: LEISURE
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+source:
+  source_file: taxchar.xml

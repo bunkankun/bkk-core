@@ -1,0 +1,35 @@
+uuid: 005fa91c-7917-4c6d-ab7f-1080db5721ce
+type: tax-char
+heads:
+- 佩
+pronunciations:
+- reading: pèi
+  old_chinese: bɯɯs
+  middle_chinese: buoi
+  fanqie: 蒲昧切
+  tone: 去
+  guangyun: 玉之帶也説文曰大帶佩也从人从凡从巾佩必有巾巾謂之飾禮曰凡帶必有佩玉蒲昧切十二
+  senses:
+  - gloss: (on belt)
+    concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+    children:
+    - gloss: generalised
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+      children:
+      - gloss: inchoative
+        concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+        concept_label: RECEIVE
+    - gloss: object
+      concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+      concept_label: ORNAMENT
+      children:
+      - gloss: thypical action
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+    - gloss: generalised
+      concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+      concept_label: SURROUND
+source:
+  source_file: taxchar.xml

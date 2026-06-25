@@ -1,0 +1,23 @@
+uuid: 8f853bf3-b20d-4ee8-a4d4-690c17aac68a
+type: tax-char
+heads:
+- 徘
+pronunciations:
+- reading: pái
+  old_chinese: bɯɯl
+  middle_chinese: buoi
+  fanqie: 薄回切
+  tone: 平
+  guangyun: 徘徊
+  senses:
+  - concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+    children:
+    - gloss: action
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+    - gloss: abstract
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+source:
+  source_file: taxchar.xml

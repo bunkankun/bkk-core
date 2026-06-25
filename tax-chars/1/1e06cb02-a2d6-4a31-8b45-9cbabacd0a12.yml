@@ -1,0 +1,85 @@
+uuid: 1e06cb02-a2d6-4a31-8b45-9cbabacd0a12
+type: tax-char
+heads:
+- 難
+pronunciations:
+- reading: nán
+  old_chinese: mɢlaan
+  middle_chinese: nɑn
+  fanqie: 那干切
+  tone: 平
+  guangyun: 艱也不易稱也又木難珠名其色黃生東夷曹植樂府詩曰珊瑚閒木難又姓百濟人説文作𪇼鳥也本又作𩁢那干切又奴肝切四
+- reading: nán
+  old_chinese: mɢlaan
+  middle_chinese: nɑn
+  fanqie: 那干切
+  tone: 平
+  guangyun: 難古文
+- reading: nàn
+  old_chinese: mɢlaans
+  middle_chinese: nɑn
+  fanqie: 奴案切
+  tone: 去
+  guangyun: 患也又奴丹切
+- reading: nán
+  old_chinese: mɢlaan
+  middle_chinese: nɑn
+  fanqie: 那干切
+  tone: 平
+  guangyun: 難古文
+- reading: nán
+  old_chinese: mɢlaan
+  middle_chinese: nɑn
+  fanqie: 那干切
+  tone: 平
+  guangyun: 艱也不易稱也又木難珠名其色黃生東夷曹植樂府詩曰珊瑚閒木難又姓百濟人説文作𪇼鳥也本又作𩁢那干切又奴肝切四
+  senses:
+  - concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+    concept_label: DIFFICULT
+    children:
+    - gloss: completely unrealistic
+      concept_uuid: 50dae280-1e41-4bdd-8854-cca28ee838ff
+      concept_label: IMPOSSIBLE
+    - gloss: putative
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+    - gloss: causative
+      concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+      concept_label: OPPOSE
+      children:
+      - gloss: with proof
+        concept_uuid: fc3754c3-1af0-41cc-969b-58bb9a1fc6e4
+        concept_label: REFUTE
+      - gloss: by question
+        concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+        concept_label: ASK
+        children:
+        - gloss: hostile/legal
+          concept_uuid: b81c5103-4414-42e2-99ea-d00bcd91003d
+          concept_label: INTERROGATE
+      - gloss: political
+        concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+        concept_label: REVOLT
+- reading: nàn
+  old_chinese: mɢlaans
+  middle_chinese: nɑn
+  fanqie: 奴案切
+  tone: 去
+  guangyun: 患也又奴丹切
+  senses:
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+    children:
+    - gloss: abstract
+      concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+      concept_label: PROBLEM
+    - gloss: political
+      concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+      concept_label: REVOLT
+unattributed_senses:
+- gloss: '難 nán (OC: mɢlaan MC: nɑn) 那干切 平 廣韻：【難古文 】 5'
+  concept_label: '3'
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-31T23:38:19.69+09:00'

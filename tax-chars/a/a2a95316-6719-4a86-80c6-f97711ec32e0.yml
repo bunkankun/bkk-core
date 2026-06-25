@@ -1,0 +1,44 @@
+uuid: a2a95316-6719-4a86-80c6-f97711ec32e0
+type: tax-char
+heads:
+- 腳
+pronunciations:
+- reading: jiǎo
+  old_chinese: kaɡ
+  middle_chinese: kiɐk
+  fanqie: 居勺切
+  tone: 入
+  guangyun: 釋名曰腳卻也以其坐時卻在後也居勺切五
+  senses:
+  - concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+    concept_label: FOOT
+  - concept_uuid: 29d9355e-9957-476d-b2b8-415faedfb5e5
+    concept_label: LEG
+  - concept_uuid: 25a72224-9be8-4fd4-82ad-4a2a28e44f16
+    concept_label: MUTILATE
+  - concept_uuid: 6c700f10-1cf2-49c9-9643-c601fdb7d4e6
+    concept_label: BOTTOM
+  - concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+    concept_label: ROOT
+  - concept_uuid: 2db68bb6-4a61-4573-8049-ba9754c8bba0
+    concept_label: TRACE
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: c747afdb-b3af-41c7-b2b4-438404c677fe
+    concept_label: STEP
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 001da9d0-648e-43f2-a759-18d3c1217356
+    concept_label: DREGS
+  - concept_uuid: 18746cc0-e827-412b-8712-5aa045a0e964
+    concept_label: VERBAL MEASURE WORDS
+- reading: jiǎo
+  old_chinese: kaɡ
+  middle_chinese: kiɐk
+  fanqie: 居勺切
+  tone: 入
+  guangyun: 俗腳
+source:
+  source_file: taxchar.xml

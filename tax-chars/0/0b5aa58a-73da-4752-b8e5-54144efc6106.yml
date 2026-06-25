@@ -1,0 +1,85 @@
+uuid: 0b5aa58a-73da-4752-b8e5-54144efc6106
+type: tax-char
+heads:
+- 爛
+pronunciations:
+- reading: làn
+  old_chinese: ɡ-raans
+  middle_chinese: lɑn
+  fanqie: 郎旰切
+  tone: 去
+  guangyun: 火熟又明也郎旰切七
+  senses:
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+    children:
+    - gloss: feature
+      concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+      concept_label: SHINE
+      children:
+      - gloss: feature
+        concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+        concept_label: BRIGHT
+        children:
+        - gloss: having paid intense attention
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+    - gloss: causative
+      concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+      concept_label: COOK
+      children:
+      - gloss: generalised
+        concept_uuid: a9d1c339-21ed-4464-80d7-78e11cddf9bc
+        concept_label: CONVENIENT
+    - gloss: result
+      concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+      concept_label: ROTTEN
+      children:
+      - gloss: feature
+        concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+        concept_label: DIRTY
+      - gloss: specifically
+        concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+        concept_label: TATTERED
+        children:
+        - gloss: abstract> generalised
+          concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+          concept_label: BAD
+          children:
+          - gloss: psychological
+            concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+            concept_label: STUPID
+          - gloss: inchoative
+            concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+            concept_label: DECLINE
+            children:
+            - gloss: state
+              concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+              concept_label: ILLNESS
+              children:
+              - gloss: event/result
+                concept_uuid: a81dc54d-3432-4d57-a936-2e1d2987fb41
+                concept_label: INJURY
+              - gloss: attitude
+                concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+                concept_label: WORRY
+      - gloss: feature
+        concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+        concept_label: SOFT
+      - gloss: abstract
+        concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+        concept_label: UNRESTRAINED
+        children:
+        - gloss: feature
+          concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+          concept_label: MANY
+          children:
+          - gloss: feature
+            concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+            concept_label: ABUNDANT
+            children:
+            - gloss: degree
+              concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+              concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

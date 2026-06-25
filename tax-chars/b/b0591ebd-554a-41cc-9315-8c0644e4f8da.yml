@@ -1,0 +1,31 @@
+uuid: b0591ebd-554a-41cc-9315-8c0644e4f8da
+type: tax-char
+heads:
+- 戈
+pronunciations:
+- reading: gē
+  old_chinese: kool
+  middle_chinese: kuɑ
+  fanqie: 古禾切
+  tone: 平
+  guangyun: 干戈説文云平頭戟也天授年置司戈八品武職古禾切十五
+  senses:
+  - concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+    concept_label: LANCE
+    children:
+    - gloss: generalised
+      concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+      concept_label: WEAPON
+      children:
+      - gloss: abstract
+        concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+        concept_label: WARFARE
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

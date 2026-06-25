@@ -1,0 +1,34 @@
+uuid: 60c596a4-6aff-4fe5-b78c-536e76dfb79d
+type: tax-char
+heads:
+- 寂
+pronunciations:
+- reading: jì
+  old_chinese: zlɯɯwɢ
+  middle_chinese: dzek
+  fanqie: 前歷切
+  tone: 入
+  guangyun: 亦同寂
+- reading: jì
+  old_chinese: sɡlɯɯwɡ
+  middle_chinese: dzek
+  fanqie: 前歷切
+  tone: 入
+  guangyun: 靜也安也前歷切五
+  senses:
+  - concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+    concept_label: CONCENTRATE
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+    concept_label: SILENCE
+- reading: jì
+  old_chinese: zlɯɯwɢ
+  middle_chinese: dzek
+  fanqie: 前歷切
+  tone: 入
+  guangyun: 同寂
+source:
+  source_file: taxchar.xml

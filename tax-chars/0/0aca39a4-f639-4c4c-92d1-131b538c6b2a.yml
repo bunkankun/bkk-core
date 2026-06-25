@@ -1,0 +1,18 @@
+uuid: 0aca39a4-f639-4c4c-92d1-131b538c6b2a
+type: tax-char
+heads:
+- 寐
+pronunciations:
+- reading: mèi
+  old_chinese: mids
+  middle_chinese: mi
+  fanqie: 彌二切
+  tone: 去
+  guangyun: 寢也卧也息也彌二切二
+  senses:
+  - concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+    concept_label: SLEEP
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,27 @@
+uuid: 2f7bedfa-076e-49e6-ae4e-edba6346e3ad
+type: tax-char
+heads:
+- 液
+pronunciations:
+- reading: yè
+  old_chinese: k-laɡ
+  middle_chinese: jiɛk
+  fanqie: 羊益切
+  tone: 入
+  guangyun: 津液又姓急就章有液客調
+  senses:
+  - concept_uuid: 78bb3810-5ff1-4873-b8d0-686aef344ee1
+    concept_label: JUICE
+  - concept_uuid: b0efc5ff-4d2b-4c80-9e8c-da57f1268678
+    concept_label: LIQUID
+  - concept_uuid: ffacdeed-ca72-445e-88ce-79e2fc9db89a
+    concept_label: THAW
+  - gloss: LEEK
+  - concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+    concept_label: SOAK
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: 457fc9cf-6780-4eb6-989b-a74e08085f0b
+type: tax-char
+heads:
+- 燈
+pronunciations:
+- reading: dēng
+  old_chinese: tɯɯŋ
+  middle_chinese: təŋ
+  fanqie: 都滕切
+  tone: 平
+  guangyun: 燈火
+  senses:
+  - concept_uuid: f02c4fed-eba6-416f-be20-600a39b82755
+    concept_label: LAMP
+  - concept_uuid: 73e03994-f4ee-4f7d-ad83-ee424a6ead62
+    concept_label: BUDDHISM
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

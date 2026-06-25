@@ -1,0 +1,75 @@
+uuid: 289e127c-b393-4259-82b8-3f28f41c2931
+type: tax-char
+heads:
+- 陰
+pronunciations:
+- reading: yīn
+  old_chinese: qrɯm
+  middle_chinese: ʔɯim
+  fanqie: 於金切
+  tone: 平
+  guangyun: 隂陽也説文作隂闇也水之南山之北也又姓出武威風俗通云管修自齊適楚爲隂大夫其後氏焉
+  senses:
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+    children:
+    - gloss: physical contrast
+      concept_uuid: c47c55eb-be89-4288-bb9a-d97cf537bdd4
+      concept_label: SHADE
+      children:
+      - gloss: visible by moving shadow/shade
+        concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+        concept_label: TIME
+      - gloss: south of river, north of mountain
+        concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+        concept_label: DIRECTION
+    - gloss: dark clouds producing
+      concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+      concept_label: RAIN
+      children:
+      - gloss: general
+        concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+        concept_label: WATER
+        children:
+        - gloss: feature
+          concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+          concept_label: COLD
+    - gloss: figurative
+      concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+      concept_label: SECRET
+      children:
+      - gloss: causative
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+        children:
+        - gloss: what is hidden
+          concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+          concept_label: INNARDS
+        - gloss: what must be concealed
+          concept_uuid: 685cd234-4dad-43bb-bc43-a334e25a5edd
+          concept_label: GENITALS
+          children:
+          - gloss: specific
+            concept_uuid: d7158159-74c5-4463-a85a-2e27a4104944
+            concept_label: PENIS
+  - gloss: metaphysical
+    concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+    concept_label: COSMIC FORCE
+    children:
+    - gloss: 'figurative: metaphysical'
+      concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+      concept_label: MOON
+    - gloss: manifest
+      concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+      concept_label: ENERGY
+unattributed_senses:
+- concept_label: 陰 yin4 《集韻》於禁切，去沁，影。
+  children:
+  - concept_label: =蔭
+- concept_label: 陰 an1 《集韻》烏含切，平覃，影。
+  children:
+  - concept_label: SILENT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-03T20:15:49.438+09:00'

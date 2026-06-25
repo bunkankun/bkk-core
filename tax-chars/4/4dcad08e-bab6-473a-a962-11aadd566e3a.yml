@@ -1,0 +1,32 @@
+uuid: 4dcad08e-bab6-473a-a962-11aadd566e3a
+type: tax-char
+heads:
+- 偷
+pronunciations:
+- reading: tōu
+  old_chinese: lʰoo
+  middle_chinese: tʰəu
+  fanqie: 託侯切
+  tone: 平
+  guangyun: 盗也爾雅云佻偷也謂苟且託侯切四
+  senses:
+  - concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+    concept_label: SECRET
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+  - concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+    concept_label: THIEF
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+    concept_label: IRRESPONSIBLE
+  - concept_uuid: aba8d2b3-44ef-4332-a142-b1920f4de57a
+    concept_label: FIND
+  - concept_uuid: 05e4ccf2-ad7c-48f1-bcc1-ebc372b3a0e0
+    concept_label: ADULTERY
+  - concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+    concept_label: CRAFTY
+source:
+  source_file: taxchar.xml

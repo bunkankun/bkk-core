@@ -1,0 +1,51 @@
+uuid: 625e03ed-9980-4c1d-b8da-07f61a594cfa
+type: tax-char
+heads:
+- 飲
+pronunciations:
+- reading: yǐn
+  old_chinese: qrɯmʔ
+  middle_chinese: ʔɯim
+  fanqie: 於錦切
+  tone: 上
+  guangyun: 同㱃
+- reading: yǐn
+  old_chinese: qrɯmʔ
+  middle_chinese: ʔɯim
+  fanqie: 於錦切
+  tone: 上
+  guangyun: 説文曰歠也於錦切三
+- reading: yìn
+  old_chinese: qrɯms
+  middle_chinese: ʔɯim
+  fanqie: 於禁切
+  tone: 去
+  guangyun: 又於錦切
+unattributed_senses:
+- concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+  concept_label: DRINK
+  children:
+  - gloss: metaphorical
+    concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+    children:
+    - gloss: intensitive
+      concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+      concept_label: SUFFER
+  - gloss: occasion for drinking
+    concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+  - gloss: yǐn
+    concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+- gloss: 'derivation by tone change: causative> yìn'
+  concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+  concept_label: FEED
+  children:
+  - gloss: festive
+    concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+    concept_label: INVITE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T18:42:44.704+09:00'

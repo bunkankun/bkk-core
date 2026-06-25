@@ -1,0 +1,20 @@
+uuid: 69bec599-3324-4480-bcf9-43707c040d8b
+type: tax-char
+heads:
+- 揮
+pronunciations:
+- reading: huī
+  old_chinese: qhul
+  middle_chinese: hʷɨi
+  fanqie: 許歸切
+  tone: 平
+  guangyun: 揮霍亦奮也灑也振也動也許歸切十三
+  senses:
+  - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+  - concept_uuid: cb0086fd-2b5e-46a7-a9fd-a071eef8a7a3
+    concept_label: WIPE
+source:
+  source_file: taxchar.xml

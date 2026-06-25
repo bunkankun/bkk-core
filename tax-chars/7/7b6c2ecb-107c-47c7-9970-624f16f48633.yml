@@ -1,0 +1,24 @@
+uuid: 7b6c2ecb-107c-47c7-9970-624f16f48633
+type: tax-char
+heads:
+- 駟
+pronunciations:
+- reading: sì
+  old_chinese: plids
+  middle_chinese: si
+  fanqie: 息利切
+  tone: 去
+  guangyun: 一乗四馬
+  senses:
+  - concept_uuid: 39b6fd36-ea59-4983-80cb-fa2e9b674e9d
+    concept_label: CARRIAGE HORSE
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

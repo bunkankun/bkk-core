@@ -1,0 +1,20 @@
+uuid: 4f94c797-0bb9-460c-9468-bbda7ca8ff9d
+type: tax-char
+heads:
+- 彫
+pronunciations:
+- reading: diāo
+  old_chinese: tɯɯw
+  middle_chinese: teu
+  fanqie: 都聊切
+  tone: 平
+  guangyun: 彫刻亦作雕
+  senses:
+  - concept_uuid: 4620f4a0-f713-42d4-aa78-e25719265d79
+    concept_label: ENGRAVE
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+  - concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+    concept_label: PAINT
+source:
+  source_file: taxchar.xml

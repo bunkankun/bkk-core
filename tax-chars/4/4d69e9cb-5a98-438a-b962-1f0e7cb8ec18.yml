@@ -1,0 +1,40 @@
+uuid: 4d69e9cb-5a98-438a-b962-1f0e7cb8ec18
+type: tax-char
+heads:
+- 孰
+pronunciations:
+- reading: shú
+  old_chinese: djɯwɡ
+  middle_chinese: dʑiuk
+  fanqie: 殊六切
+  tone: 入
+  guangyun: 誰也
+  senses:
+  - concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+    concept_label: WHO
+    children:
+    - concept_uuid: 2e0dd23c-737e-4dab-8030-029efe745cba
+      concept_label: WHOSE
+    - concept_uuid: 98506c6b-03a1-4f1a-9993-30b67eae19c5
+      concept_label: WHOM
+    - concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+      concept_label: WHAT
+      children:
+      - concept_uuid: 2b6e78a6-2b11-40f0-8c70-41aacd64ca02
+        concept_label: SOME
+        children:
+        - concept_uuid: be395ccb-9360-4a98-a405-9b48a29343d8
+          concept_label: ANY
+      - concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+        concept_label: HOW
+        children:
+        - concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+          concept_label: WHY
+unattributed_senses:
+- gloss: =熟
+  concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+  concept_label: DETAILED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:56:35.41+09:00'

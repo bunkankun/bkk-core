@@ -1,0 +1,37 @@
+uuid: b54b8f31-3fe5-493a-8087-1f3c125787f5
+type: tax-char
+heads:
+- 咎
+pronunciations:
+- reading: jiù
+  old_chinese: ɡlɯwʔ
+  middle_chinese: ɡiu
+  fanqie: 其九切
+  tone: 上
+  guangyun: 愆也惡也過也災也從人各各者相違也
+  senses:
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+    concept_label: GUILT
+  - concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+    concept_label: INAUSPICIOUS
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+- reading: gāo
+  old_chinese: klɯɯw
+  middle_chinese: kɑu
+  fanqie: 古勞切
+  tone: 平
+  guangyun: 臯陶舜臣古作咎繇
+  senses:
+  - concept_uuid: 29330eb2-85fb-4157-9608-12f41767cacd
+    concept_label: PERSONAL NAMES
+  - concept_uuid: a3fbcd2f-2422-4324-a7eb-7387fce35b10
+    concept_label: DRUM
+source:
+  source_file: taxchar.xml

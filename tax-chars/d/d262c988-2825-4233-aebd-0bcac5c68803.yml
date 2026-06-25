@@ -1,0 +1,40 @@
+uuid: d262c988-2825-4233-aebd-0bcac5c68803
+type: tax-char
+heads:
+- 簷
+- 檐
+pronunciations:
+- reading: yán
+  old_chinese: k-lam
+  middle_chinese: jiɛm
+  fanqie: 余廉切
+  tone: 平
+  guangyun: 同檐
+  senses:
+  - concept_uuid: c15965ad-e3f2-4fc7-a812-2269b338df9b
+    concept_label: EAVES
+  - gloss: BRIM
+- reading: yán
+  old_chinese: k-lom
+  middle_chinese: jiɛm
+  fanqie: 余廉切
+  tone: 平
+  guangyun: 亦同
+- reading: yán
+  old_chinese: k-lam
+  middle_chinese: jiɛm
+  fanqie: 余廉切
+  tone: 平
+  guangyun: 屋檐説文曰檐㮰也
+- reading: yán
+  old_chinese: k-lam
+  middle_chinese: jiɛm
+  fanqie: 余廉切
+  tone: 平
+  guangyun: 同檐
+  senses:
+  - concept_uuid: c15965ad-e3f2-4fc7-a812-2269b338df9b
+    concept_label: EAVES
+  - gloss: BRIM
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,23 @@
+uuid: c543b9f8-691b-47d5-acda-9b80d42f50ef
+type: tax-char
+heads:
+- 飢
+pronunciations:
+- reading: jī
+  old_chinese: kril
+  middle_chinese: ki
+  fanqie: 居夷切
+  tone: 平
+  guangyun: 飢餓也又姓左傳殷人七族有飢氏居夷切四
+  senses:
+  - gloss: (individual)
+    concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+    concept_label: HUNGRY
+    children:
+    - gloss: social
+      concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+      concept_label: FAMINE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

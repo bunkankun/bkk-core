@@ -1,0 +1,65 @@
+uuid: 68abec92-900f-4458-be95-d1b945daebbe
+type: tax-char
+heads:
+- 夏
+pronunciations:
+- reading: xià
+  old_chinese: ɡraas
+  middle_chinese: ɦɯa
+  fanqie: 胡駕切
+  tone: 去
+  guangyun: 春夏又胡雅切
+  senses:
+  - concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+    concept_label: SEASON
+  - gloss: generalised
+    concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+    children:
+    - gloss: Buddhist, specific
+      concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+      concept_label: YEAR
+  - gloss: feature emerging in summer
+    concept_uuid: 18077152-effe-42f8-bc0b-a04afe162b1e
+    concept_label: COLOURFUL
+  - gloss: =榎
+    concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+  - gloss: proper names
+    concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+- reading: xià
+  old_chinese: ɡraaʔ
+  middle_chinese: ɦɯa
+  fanqie: 胡雅切
+  tone: 上
+  guangyun: 大也又諸夏亦州名秦屬上郡漢分置朔方郡晉末赫連勃勃於州稱大夏爲後魏所滅置鎮又改爲夏州又胡駕古下二切
+unattributed_senses:
+- concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  concept_label: BIG
+  children:
+  - gloss: of mustical performance
+    concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+    children:
+    - gloss: with dancing
+      concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+      concept_label: DANCE
+  - gloss: of territory
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+    children:
+    - gloss: generalised
+      concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+      concept_label: CHINA
+      children:
+      - gloss: inhabitants
+        concept_uuid: 3b0f32f4-7b6e-43a8-bbb4-b0763266948e
+        concept_label: CHINESE
+  - gloss: =廈
+    concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+    concept_label: PALACE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T01:19:37.812+09:00'

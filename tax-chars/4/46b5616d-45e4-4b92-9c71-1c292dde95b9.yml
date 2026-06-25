@@ -1,0 +1,55 @@
+uuid: 46b5616d-45e4-4b92-9c71-1c292dde95b9
+type: tax-char
+heads:
+- 拜
+pronunciations:
+- reading: bài
+  old_chinese: proods
+  middle_chinese: pɯæi
+  fanqie: 博怪切
+  tone: 去
+  guangyun: 同𢷎
+  senses:
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+    children:
+    - gloss: causative, transitive
+      concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+      concept_label: BEND
+      children:
+      - gloss: resultative
+        concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+        concept_label: PLUCK
+    - gloss: gesture
+      concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+      concept_label: GREET
+      children:
+      - gloss: as promoted
+        concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+        concept_label: APPOINT
+        children:
+        - gloss: on any auspicious occasion
+          concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+          concept_label: CONGRATULATE
+    - gloss: 'grammaticalised: respectfully'
+      concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+      concept_label: POLITE
+      children:
+      - gloss: pay respect
+        concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+        concept_label: VISIT
+      - gloss: exocentric
+        concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+        concept_label: ACCEPT
+        children:
+        - gloss: respond linguistically
+          concept_uuid: 734977cc-9b88-46a3-9f07-c09fea268775
+          concept_label: THANK
+          children:
+          - concept_uuid: 25a657ec-b59e-4996-bcc6-232b45fc85e1
+            concept_label: WORSHIP
+      - gloss: exocentric
+        concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+        concept_label: HAND UP
+source:
+  source_file: taxchar.xml

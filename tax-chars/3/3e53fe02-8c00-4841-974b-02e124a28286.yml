@@ -1,0 +1,61 @@
+uuid: 3e53fe02-8c00-4841-974b-02e124a28286
+type: tax-char
+heads:
+- 視
+pronunciations:
+- reading: shì
+  old_chinese: ɢljils
+  middle_chinese: ʑi
+  fanqie: 神至切
+  tone: 去
+  guangyun: 呈也
+- reading: shì
+  old_chinese: ɡljils
+  middle_chinese: dʑi
+  fanqie: 常利切
+  tone: 去
+  guangyun: 看視又音是
+- reading: shì
+  old_chinese: ɡljilʔ
+  middle_chinese: dʑi
+  fanqie: 承矢切
+  tone: 上
+  guangyun: 比也瞻也效也承矢切三
+  senses:
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+    children:
+    - gloss: go to see
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+    - gloss: still look out of one’s eyes
+      concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+      concept_label: LIVE
+    - gloss: attitudinal
+      concept_uuid: 2db9e492-7dfb-4d6a-9139-eed947249aa4
+      concept_label: TREAT
+      children:
+      - gloss: look after
+        concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+        concept_label: CARE FOR
+    - gloss: look into
+      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+      concept_label: INVESTIGATE
+      children:
+      - gloss: putative:look upon as
+        concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+        concept_label: BELIEVE
+      - gloss: by intellectual juxtaposition
+        concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+        concept_label: COMPARE
+        children:
+        - gloss: look up to
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+  - gloss: =示 causative
+    concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:27:02.661+09:00'

@@ -1,0 +1,26 @@
+uuid: f63ed7d6-738b-47f2-bc56-293939d1510a
+type: tax-char
+heads:
+- 珠
+pronunciations:
+- reading: zhū
+  old_chinese: tjo
+  middle_chinese: tɕio
+  fanqie: 章俱切
+  tone: 平
+  guangyun: 珠玉白虎通曰德至深淵則海出明珠
+  senses:
+  - concept_uuid: c750e177-6b9a-48c1-8b4b-ec61d5ad3992
+    concept_label: PEARL
+    children:
+    - gloss: 'generalised: precious'
+      concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+      concept_label: STONE
+    - gloss: 'exocentric: exquisite'
+      concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+      concept_label: TEXT
+  - gloss: =朱
+    concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: RED
+source:
+  source_file: taxchar.xml

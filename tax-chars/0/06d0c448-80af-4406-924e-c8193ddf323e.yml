@@ -1,0 +1,37 @@
+uuid: 06d0c448-80af-4406-924e-c8193ddf323e
+type: tax-char
+heads:
+- 吞
+pronunciations:
+- reading: tūn
+  old_chinese: lʰɯɯn
+  middle_chinese: tʰən
+  fanqie: 吐根切
+  tone: 平
+  guangyun: 咽也吐根切又音天一
+  senses:
+  - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+    concept_label: ANNEX
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+    concept_label: SWALLOW
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+  - concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+    concept_label: CONQUER
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+- reading: tiān
+  old_chinese: lʰiin
+  middle_chinese: tʰen
+  fanqie: 他前切
+  tone: 平
+  guangyun: 姓也漢有吞景雲又湯門切
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

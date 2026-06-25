@@ -1,0 +1,21 @@
+uuid: 8a518e45-3f52-4b46-8d22-90d8c53d6c75
+type: tax-char
+heads:
+- 眺
+pronunciations:
+- reading: tiǎo
+  old_chinese: lheews
+  middle_chinese: tʰeu
+  fanqie: 土了切
+  tone: 上
+- reading: tiào
+  old_chinese: kh-leews
+  middle_chinese: tʰeu
+  fanqie: 他弔切
+  tone: 去
+  guangyun: 視也
+  senses:
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+source:
+  source_file: taxchar.xml

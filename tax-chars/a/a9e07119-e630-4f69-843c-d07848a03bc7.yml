@@ -1,0 +1,29 @@
+uuid: a9e07119-e630-4f69-843c-d07848a03bc7
+type: tax-char
+heads:
+- 辨
+pronunciations:
+- reading: bàn
+  old_chinese: breens
+  middle_chinese: bɯæn
+  fanqie: 蒲莧切
+  tone: 去
+  guangyun: 具也周禮曰以辨民噐又步免切
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+- reading: biàn
+  old_chinese: brenʔ
+  middle_chinese: bɯiɛn
+  fanqie: 符蹇切
+  tone: 上
+  guangyun: 别也説文判也又蒲莧切
+  senses:
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+    concept_label: ELOQUENT
+source:
+  source_file: taxchar.xml

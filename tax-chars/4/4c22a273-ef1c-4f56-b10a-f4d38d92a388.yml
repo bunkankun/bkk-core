@@ -1,0 +1,104 @@
+uuid: 4c22a273-ef1c-4f56-b10a-f4d38d92a388
+type: tax-char
+heads:
+- 裁
+pronunciations:
+- reading: cái
+  old_chinese: sɡɯɯ
+  middle_chinese: dzəi
+  fanqie: 昨哉切
+  tone: 平
+  guangyun: 裁衣昨哉切九
+  senses:
+  - concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+    concept_label: SEW
+    children:
+    - gloss: related action
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+      children:
+      - gloss: generalised
+        concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+        concept_label: REMOVE
+        children:
+        - gloss: oneself
+          concept_uuid: dd9aeb4f-a422-431e-9925-807ba494d82e
+          concept_label: SUICIDE
+        - gloss: result
+          concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+          concept_label: REDUCE
+          children:
+          - gloss: result
+            concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+            concept_label: FEW
+    - gloss: 'generalised: physical'
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+      children:
+      - gloss: abstract
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: standard followed
+          concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+          concept_label: MODEL
+          children:
+          - gloss: abstract
+            concept_uuid: ef0251ed-2c77-481b-929c-455bd198a56e
+            concept_label: SYSTEM
+        - gloss: causative
+          concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+          concept_label: TEACH
+        - gloss: generalised
+          concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+          concept_label: FIX
+        - gloss: administrative
+          concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+          concept_label: DECIDE
+        - gloss: intellectual
+          concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+          concept_label: DISTINGUISH
+          children:
+          - gloss: generalised
+            concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+            concept_label: ESTIMATE
+        - gloss: judicial
+          concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+          concept_label: JUDGE
+    - gloss: generalised
+      concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+      concept_label: CREATE
+      children:
+      - gloss: generalised
+        concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+        concept_label: WRITE
+        children:
+        - gloss: of stationary
+          concept_uuid: beb5de81-af3e-4a12-a638-76b1b41ea24c
+          concept_label: SIZE
+          children:
+          - gloss: object
+            concept_uuid: 8d4b507f-efde-48ff-ab34-8934bc7604e5
+            concept_label: FRAGMENT
+        - gloss: of texts> EDIT
+  - gloss: MEASURING UNIT
+  - gloss: =纔
+    concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+  - gloss: =纔
+    concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - gloss: =材
+    concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+- reading: zài
+  old_chinese: sɡɯɯs
+  middle_chinese: dzəi
+  fanqie: 昨代切
+  tone: 去
+  guangyun: 製裁
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+source:
+  source_file: taxchar.xml

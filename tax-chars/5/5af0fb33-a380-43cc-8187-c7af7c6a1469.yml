@@ -1,0 +1,30 @@
+uuid: 5af0fb33-a380-43cc-8187-c7af7c6a1469
+type: tax-char
+heads:
+- 雖
+pronunciations:
+- reading: suī
+  old_chinese: sqlul
+  middle_chinese: sʷi
+  fanqie: 息遺切
+  tone: 平
+  guangyun: 語助也本蟲名似蜥蜴而有文
+  senses:
+  - gloss: maybe
+    concept_uuid: 12ab0c4e-8261-434b-a805-a5e3dc7d24ed
+    concept_label: PERHAPS
+    children:
+    - gloss: grammaticalised, conditional:maybe ... but
+      concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+      concept_label: EVEN IF
+      children:
+      - gloss: pre-nominal
+        concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+        concept_label: EVEN
+  - gloss: =唯
+    concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-11-23T04:12:10.191+09:00'

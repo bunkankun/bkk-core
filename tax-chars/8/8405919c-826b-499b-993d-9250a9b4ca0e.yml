@@ -1,0 +1,73 @@
+uuid: 8405919c-826b-499b-993d-9250a9b4ca0e
+type: tax-char
+heads:
+- 縱
+pronunciations:
+- reading: zòng
+  old_chinese: tsoŋs
+  middle_chinese: tsioŋ
+  fanqie: 子用切
+  tone: 去
+  guangyun: 放縱説文緩也一曰舎也子用切又子容切二
+  senses:
+  - concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+    concept_label: PERMIT
+    children:
+    - gloss: feature
+      concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+      concept_label: LENIENT
+    - gloss: 'grammaticalised: granted that'
+      concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+      concept_label: EVEN IF
+    - gloss: psychological
+      concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+      concept_label: FORGIVE
+    - gloss: permit to leave detention
+      concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+      concept_label: RELEASE
+      children:
+      - gloss: 'generalised: object things'
+        concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+        concept_label: ISSUE
+        children:
+        - gloss: of child, give birth to
+          concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+          concept_label: BIRTH
+        - gloss: of gifts
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+        - gloss: concrete of troops into action
+          concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+          concept_label: DEPLOY
+        - gloss: so as to reject
+          concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+          concept_label: DISCARD
+      - gloss: of arrows from bow
+        concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+        concept_label: SHOOT
+    - gloss: permissive to oneself
+      concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+      concept_label: UNRESTRAINED
+      children:
+      - gloss: 'of horses: prance'
+        concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+        concept_label: JUMP
+- reading: zōng
+  old_chinese: tsoŋ
+  middle_chinese: tsioŋ
+  fanqie: 即容切
+  tone: 平
+  guangyun: 縱横也即容切又子用切九
+  senses:
+  - concept_uuid: cf6bfb0d-e1aa-41f4-99a1-b17a35c10545
+    concept_label: VERTICAL
+unattributed_senses:
+- concept_label: 縱 cóng《集韻》徂聰切，平東從。東部。
+  children:
+  - concept_label: =蹤
+- concept_label: 縱 zǒng 《集韻》祖動切，上董精。東部。
+- concept_label: 縱《集韻》足勇切，上腫精。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-24T01:24:33.654+09:00'

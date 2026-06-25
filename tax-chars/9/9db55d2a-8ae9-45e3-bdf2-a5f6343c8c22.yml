@@ -1,0 +1,47 @@
+uuid: 9db55d2a-8ae9-45e3-bdf2-a5f6343c8c22
+type: tax-char
+heads:
+- 嘗
+pronunciations:
+- reading: cháng
+  old_chinese: djaŋ
+  middle_chinese: dʑiɐŋ
+  fanqie: 市羊切
+  tone: 平
+  guangyun: 同甞
+  senses:
+  - concept_uuid: 47eab800-447a-4ad7-8ae3-af202740a6e2
+    concept_label: SAVOUR
+    children:
+    - gloss: general
+      concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+      concept_label: EAT
+      children:
+      - gloss: ritually give to eat
+        concept_uuid: 62559838-ff41-4b20-8b43-8842802bbda7
+        concept_label: SACRIFICE TO HEAVEN AND EARTH
+      - gloss: general> try out by eating
+        concept_uuid: 370547be-ddf0-46fc-acd6-4eb1ab534866
+        concept_label: TEST
+        children:
+        - gloss: genral
+          concept_uuid: 7d16f180-72e5-4880-b20c-dc135e68166c
+          concept_label: TRY
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+            concept_label: IMPERATIVE MARKER
+    - gloss: figurative
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: negative
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+      - gloss: what has been encountered
+        concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+        concept_label: PAST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-01T23:08:23.594+09:00'

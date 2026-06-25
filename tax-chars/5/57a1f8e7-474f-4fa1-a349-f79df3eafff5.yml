@@ -1,0 +1,38 @@
+uuid: 57a1f8e7-474f-4fa1-a349-f79df3eafff5
+type: tax-char
+heads:
+- 季
+pronunciations:
+- reading: jì
+  old_chinese: kʷids
+  middle_chinese: kʷi
+  fanqie: 居悸切
+  tone: 去
+  guangyun: 昆季也又少也小稱也亦姓左傳魯有季友又漢複姓四氏晉有唐邑大夫季連齊有鬼方氏第六子名季連其後氏焉晉有祁邑大夫季𤓰忽宋有季隨逢丗本云周有八士季隨季騧之後騧或作𤓰又有魯大夫齊季窺昔齊公子季奔于楚楚遂号爲齊季氏居悸切二
+  senses:
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+    children:
+    - gloss: generalised
+      concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+      concept_label: SMALL
+    - gloss: younger
+      concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+      concept_label: BROTHER
+    - gloss: of dynasty
+      concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+      concept_label: END
+      children:
+      - gloss: final part
+        concept_uuid: 65f2bb5a-4974-410b-a35d-8c4033a5da80
+        concept_label: LAST
+  - concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+    concept_label: SEASON
+  - concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+    concept_label: ARISTOCRATS OF LU
+  - concept_uuid: 63b72ebc-0e46-4945-afac-530e42814b6d
+    concept_label: ARISTOCRATS OF ZHOU
+  - concept_uuid: 7d4f7d98-8124-41fb-9cc8-b4cf2b478c33
+    concept_label: MALES OF LU
+source:
+  source_file: taxchar.xml

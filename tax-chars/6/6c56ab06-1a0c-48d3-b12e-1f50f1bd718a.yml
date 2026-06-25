@@ -1,0 +1,25 @@
+uuid: 6c56ab06-1a0c-48d3-b12e-1f50f1bd718a
+type: tax-char
+heads:
+- 勉
+pronunciations:
+- reading: miǎn
+  old_chinese: mronʔ
+  middle_chinese: mɯiɛn
+  fanqie: 亡辨切
+  tone: 上
+  guangyun: 勗也勸也強也
+  senses:
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+  - concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+    concept_label: EFFORT
+  - concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+    concept_label: ENCOURAGE
+  - concept_uuid: 48d327c2-dd93-4300-aecc-044eb8389095
+    concept_label: COMPEL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 免
+source:
+  source_file: taxchar.xml

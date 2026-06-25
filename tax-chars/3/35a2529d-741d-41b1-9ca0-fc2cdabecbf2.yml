@@ -1,0 +1,101 @@
+uuid: 35a2529d-741d-41b1-9ca0-fc2cdabecbf2
+type: tax-char
+heads:
+- 觀
+pronunciations:
+- reading: guān
+  old_chinese: koon
+  middle_chinese: kʷɑn
+  fanqie: 古丸切
+  tone: 平
+  guangyun: 視也又音灌
+- reading: guàn
+  old_chinese: koons
+  middle_chinese: kʷɑn
+  fanqie: 古玩切
+  tone: 去
+  guangyun: 樓觀釋名曰觀者於上觀望也説文曰諦視也爾雅曰觀謂之闕亦姓左傳楚有觀起又音官
+  senses:
+  - gloss: guàn
+    concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+    children:
+    - gloss: metonymy
+      concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+      concept_label: TEMPLE
+  - gloss: generalised
+    concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+unattributed_senses:
+- concept_uuid: 520ec0d4-3a92-436d-b30d-bb45584b38d6
+  concept_label: OBSERVE
+  children:
+  - gloss: object
+    concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+    concept_label: APPEARANCE
+    children:
+    - gloss: concrete
+      concept_uuid: 045058b4-86fe-4afd-8795-62f5ad1bbf94
+      concept_label: LANDSCAPE
+  - gloss: specifically
+    concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+    concept_label: READ
+    children:
+    - gloss: with approval
+      concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+      concept_label: ADMIRE
+- gloss: object
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  concept_label: SHAPE
+  children:
+  - gloss: causative
+    concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+    children:
+    - gloss: object
+      concept_uuid: cd1f9cdf-e84e-4b55-beb5-5ecfc770f703
+      concept_label: MAKE-UP
+  - gloss: systematically
+    concept_uuid: 9061b621-93dc-47b4-a4cd-feeb3ee4b3db
+    concept_label: INSPECT
+    children:
+    - gloss: administrative
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+    - gloss: judgmental
+      concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+      concept_label: ASSESS
+      children:
+      - gloss: comprehensive
+        concept_uuid: 40ce2fe2-1e89-48ec-9381-f56af49ae111
+        concept_label: SURVEY
+        children:
+        - gloss: systematically
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+          children:
+          - gloss: resultative
+            concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+            concept_label: UNDERSTAND
+            children:
+            - gloss: reflexive
+              concept_uuid: 393c8446-1488-4a25-9660-47d3d36a9407
+              concept_label: MEDITATE
+              children:
+              - gloss: resultative
+                concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+                concept_label: BELIEVE
+                children:
+                - gloss: psychological:currently
+                  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+                  concept_label: THINK
+                - gloss: object
+                  concept_uuid: 5a4f31a6-fd71-4d54-b1cc-5a45a848a677
+                  concept_label: OPINION
+                - gloss: without work
+                  concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+                  concept_label: LEISURE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T01:43:42.969+09:00'

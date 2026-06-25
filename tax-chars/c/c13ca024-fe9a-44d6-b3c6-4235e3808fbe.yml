@@ -1,0 +1,24 @@
+uuid: c13ca024-fe9a-44d6-b3c6-4235e3808fbe
+type: tax-char
+heads:
+- 曳
+pronunciations:
+- reading: yè
+  old_chinese: leds
+  middle_chinese: jiɛi
+  fanqie: 餘制切
+  tone: 去
+  guangyun: 牽也引也餘制切二十九
+  senses:
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+source:
+  source_file: taxchar.xml

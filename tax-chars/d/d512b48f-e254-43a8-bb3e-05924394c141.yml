@@ -1,0 +1,27 @@
+uuid: d512b48f-e254-43a8-bb3e-05924394c141
+type: tax-char
+heads:
+- 簸
+pronunciations:
+- reading: bǒ
+  old_chinese: paalʔ
+  middle_chinese: puɑ
+  fanqie: 布火切
+  tone: 上
+  guangyun: 簸揚又布箇切
+  senses:
+  - concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+    concept_label: AGRICULTURE
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+- reading: bò
+  old_chinese: paals
+  middle_chinese: puɑ
+  fanqie: 補過切
+  tone: 去
+  guangyun: 簸揚又布火切
+  senses:
+  - concept_uuid: 42e8e9de-a0cc-4a37-b606-8e15a660e2a2
+    concept_label: BASKET
+source:
+  source_file: taxchar.xml

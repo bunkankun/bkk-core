@@ -1,0 +1,56 @@
+uuid: 08abeadc-1e8a-4c02-91cd-cfd085adcec1
+type: tax-char
+heads:
+- 爽
+pronunciations:
+- reading: shuǎng
+  old_chinese: sraŋʔʔ
+  middle_chinese: ʃiɐŋ
+  fanqie: 疏兩切
+  tone: 上
+  guangyun: 明也差也烈也猛也貴也踈兩切九
+- reading: shuǎng
+  old_chinese: sraŋʔ
+  middle_chinese: ʃiɐŋ
+  fanqie: 疏兩切
+  tone: 上
+  guangyun: 同爽
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 083f1398-1e23-4949-a6ac-d4252d14307d
+    concept_label: COOL
+  - concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+    concept_label: COMFORTABLE
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: DECREASE
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+  - concept_uuid: 1760f18a-04e2-4f14-8976-7309970308b7
+    concept_label: VEGETABLES
+  - concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+    concept_label: SOUL
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

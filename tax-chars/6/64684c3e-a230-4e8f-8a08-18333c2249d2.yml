@@ -1,0 +1,72 @@
+uuid: 64684c3e-a230-4e8f-8a08-18333c2249d2
+type: tax-char
+heads:
+- 暴
+pronunciations:
+- reading: bào
+  old_chinese: boowɡs
+  middle_chinese: bɑu
+  fanqie: 薄報切
+  tone: 去
+  guangyun: 侵暴猝也急也又晞也案説文作曓疾有所趣也又作暴晞也今通作暴亦姓漢有繡衣使者暴勝之薄報切九
+  senses:
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+    children:
+    - gloss: oxocentric
+      concept_uuid: db9e826b-f841-4d17-9120-9f9e9c4393c9
+      concept_label: STORM
+    - gloss: psychological
+      concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+      concept_label: CRUEL
+    - gloss: exocentric
+      concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+      concept_label: VILLAIN
+      children:
+      - gloss: action
+        concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+        concept_label: HARM
+        children:
+        - gloss: political
+          concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+          concept_label: OPPRESS
+          children:
+          - gloss: attitudinal
+            concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+            concept_label: DESPISE
+            children:
+            - gloss: behavioral
+              concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+              concept_label: HUMILIATE
+          - gloss: by deceit
+            concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+            concept_label: CHEAT
+    - gloss: physical
+      concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+      concept_label: STRONG
+      children:
+      - gloss: exercise of
+        concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+        concept_label: FIGHT
+        children:
+        - gloss: political
+          concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+          concept_label: REVOLT
+      - gloss: exercise of for speed
+        concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+        concept_label: HURRY
+        children:
+        - gloss: resulting feature
+          concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+          concept_label: QUICK
+          children:
+          - gloss: 'grammaticalised: unexpected'
+            concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+            concept_label: SUDDENLY
+            children:
+            - gloss: 'grammaticalised: degree'
+              concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+              concept_label: INTENSELY
+    - gloss: LAND MEASURES
+source:
+  source_file: taxchar.xml

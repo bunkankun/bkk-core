@@ -1,0 +1,48 @@
+uuid: cb870a41-d51c-4424-accd-be00bff1a8e8
+type: tax-char
+heads:
+- 茲
+pronunciations:
+- reading: zī
+  old_chinese: ʔsɯ
+  middle_chinese: tsɨ
+  fanqie: 子之切
+  tone: 平
+  guangyun: 此也又姓左傳魯大夫兹無還子之切十四
+  senses:
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+    children:
+    - gloss: 'grammaticalised: comparative'
+      concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+      concept_label: MORE
+  - gloss: (archaic):THIS
+    children:
+    - gloss: place
+      concept_uuid: 04482dbe-a266-41c0-b7f0-e0ba31a4763f
+      concept_label: HERE
+    - gloss: time
+      concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+      concept_label: NOW
+    - gloss: method
+      concept_uuid: 117152ee-1bfc-446b-8947-fc010bd3ae85
+      concept_label: THUS
+      children:
+      - gloss: period
+        concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+        concept_label: YEAR
+  - gloss: 'grammaticalised: MODAL PAERICLES'
+  - gloss: =此
+  - concept_uuid: 356925e2-2fac-4b9a-ba0e-dee11f871aa4
+    concept_label: MAT
+- reading: cí
+  old_chinese: ʔsɯ
+  middle_chinese: dzɨ
+  fanqie: 疾之切
+  tone: 平
+  guangyun: 龜兹國名龜音丘
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

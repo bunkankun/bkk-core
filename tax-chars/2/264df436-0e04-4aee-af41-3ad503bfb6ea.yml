@@ -1,0 +1,26 @@
+uuid: 264df436-0e04-4aee-af41-3ad503bfb6ea
+type: tax-char
+heads:
+- 宴
+pronunciations:
+- reading: yàn
+  old_chinese: qeens
+  middle_chinese: ʔen
+  fanqie: 於甸切
+  tone: 去
+  guangyun: 安也息也於甸切十三
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+  - concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+    concept_label: LEISURE
+- reading: yǎn
+  old_chinese: qeenʔ
+  middle_chinese: ʔen
+  fanqie: 於殄切
+  tone: 上
+  guangyun: 安也又烏見切
+source:
+  source_file: taxchar.xml

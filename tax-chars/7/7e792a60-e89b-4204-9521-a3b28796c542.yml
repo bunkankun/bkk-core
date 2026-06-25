@@ -1,0 +1,28 @@
+uuid: 7e792a60-e89b-4204-9521-a3b28796c542
+type: tax-char
+heads:
+- 犯
+pronunciations:
+- reading: fàn
+  old_chinese: bomʔ
+  middle_chinese: biɐm
+  fanqie: 防錽切
+  tone: 上
+  guangyun: 干也侵也僭也勝也
+  senses:
+  - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 7f66e77a-70eb-4195-8feb-1b7b51e660fe
+    concept_label: COPE
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+  - concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+    concept_label: SUFFER
+source:
+  source_file: taxchar.xml

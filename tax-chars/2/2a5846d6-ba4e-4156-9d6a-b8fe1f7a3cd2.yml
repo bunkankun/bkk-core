@@ -1,0 +1,86 @@
+uuid: 2a5846d6-ba4e-4156-9d6a-b8fe1f7a3cd2
+type: tax-char
+heads:
+- 人
+pronunciations:
+- reading: rén
+  old_chinese: njin
+  middle_chinese: ȵin
+  fanqie: 如鄰切
+  tone: 平
+  guangyun: 天地人爲三才亦漢複姓十氏左傳有寺人披齊有徒人費周有王人子突魯有雍人髙宋有𢊍人僕鄭有大夫子人九國語吴有行人儀孔子弟子左人郢漢司空掾封人嬰後漢司徒聞人襲
+  senses:
+  - gloss: belonging to the human race
+    concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+    concept_label: HUMAN
+    children:
+    - gloss: ideal feature
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+    - gloss: regarded as an autonomous agent
+      concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+      concept_label: PERSON
+    - gloss: governing
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: act as, for others
+        concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+        concept_label: LEAD
+    - gloss: as subordinate
+      concept_uuid: 5acb758c-2fbe-4054-9f7e-1efe98bd7c27
+      concept_label: SUBJECT
+      children:
+      - gloss: as empoloyee
+        concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+        concept_label: WORKER
+        children:
+        - gloss: senior bureaucratic
+          concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+          concept_label: MINISTER
+    - gloss: feature> ARTIFICIAL
+    - gloss: reflexive
+      concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+      concept_label: SELF
+      children:
+      - concept_uuid: 35b29f22-c6a4-44b6-8597-fc4f5ede63e8
+        concept_label: PERSONALITY
+    - gloss: grammaticalised, universalised
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+    - gloss: grammaticalised
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+    - gloss: 'indeterminate: object always indeterminate> SOMEONE'
+      children:
+      - gloss: different from subject
+        concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+        concept_label: OTHER
+      - gloss: 'generalising, collective: plural'
+        concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+        concept_label: PEOPLE
+      - gloss: 'specific: grown-up'
+        concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+        concept_label: ADULT
+      - gloss: 'specific: fine'
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+        children:
+        - gloss: relational
+          concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+          concept_label: FRIEND
+        - gloss: 'specific: worthy'
+          concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+          concept_label: TALENT
+    - gloss: grammaticalised, colloquial
+      concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+      concept_label: WHO
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =仁
+    concept_uuid: 23eea87b-d45c-4426-9bba-62a3e1678174
+    concept_label: KERNEL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-06T18:04:54.947+09:00'

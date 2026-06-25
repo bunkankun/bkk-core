@@ -1,0 +1,20 @@
+uuid: fc05281a-6143-4f19-b80c-df4d620260c6
+type: tax-char
+heads:
+- 謠
+pronunciations:
+- reading: yáo
+  old_chinese: k-lew
+  middle_chinese: jiɛu
+  fanqie: 餘昭切
+  tone: 平
+  guangyun: 謡歌也爾雅云徒歌謂之謡
+  senses:
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+  - concept_uuid: a98104c1-d140-4140-b7a2-b1accc813ecd
+    concept_label: RUMOUR
+source:
+  source_file: taxchar.xml

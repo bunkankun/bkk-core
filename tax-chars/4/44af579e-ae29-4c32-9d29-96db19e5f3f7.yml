@@ -1,0 +1,72 @@
+uuid: 44af579e-ae29-4c32-9d29-96db19e5f3f7
+type: tax-char
+heads:
+- 句
+pronunciations:
+- reading: qú
+  old_chinese: ɡo
+  middle_chinese: ɡio
+  fanqie: 其俱切
+  tone: 平
+  guangyun: 冤句縣名在曹州又九遇古侯二切
+  senses:
+  - gloss: =絇
+    concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+    concept_label: ORNAMENT
+- reading: gōu
+  old_chinese: koo
+  middle_chinese: kəu
+  fanqie: 古侯切
+  tone: 平
+  guangyun: 説文曲也又髙句驪遼東國名又句龍社神名亦姓史記有句疆又九遇古候二切
+  senses:
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+    children:
+    - gloss: 'psychological: bowing'
+      concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+      concept_label: HUMBLE
+    - gloss: subject
+      concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+      concept_label: SPROUT
+    - gloss: subject
+      concept_uuid: 7580f81e-0340-443b-88a3-04c3f129428c
+      concept_label: HOOK
+      children:
+      - gloss: use
+        concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+        concept_label: CATCH
+        children:
+        - gloss: abstract
+          concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+          concept_label: ATTRACT
+        - gloss: abstract
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+  - gloss: =鉤
+    concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+    children:
+    - gloss: use (to kill)
+      concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+      concept_label: EXECUTE
+    - gloss: use to
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+  - gloss: =苟
+    concept_uuid: 443583c8-91ba-4fd9-bc0a-20ac4eb76fcb
+    concept_label: MEANWHILE
+  - gloss: MATHEMATICAL
+  - gloss: =苟
+    concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+  - gloss: =後
+    concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+    concept_label: BEHIND
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

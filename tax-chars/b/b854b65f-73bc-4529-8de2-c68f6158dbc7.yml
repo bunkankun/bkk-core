@@ -1,0 +1,20 @@
+uuid: b854b65f-73bc-4529-8de2-c68f6158dbc7
+type: tax-char
+heads:
+- 祗
+pronunciations:
+- reading: zhī
+  old_chinese: tjil
+  middle_chinese: tɕi
+  fanqie: 旨夷切
+  tone: 平
+  guangyun: 敬也俗從互餘同
+  senses:
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: d0bd9951-80c1-4a5c-be17-1f4840fe75b5
+    concept_label: WHY
+source:
+  source_file: taxchar.xml

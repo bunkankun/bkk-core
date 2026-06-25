@@ -1,0 +1,66 @@
+uuid: cbf246b8-ab37-4c2c-9636-e02cff3fc66c
+type: tax-char
+heads:
+- 徑
+pronunciations:
+- reading: jìng
+  old_chinese: keeŋs
+  middle_chinese: keŋ
+  fanqie: 古定切
+  tone: 去
+  guangyun: 歩道古定切七
+  senses:
+  - concept_uuid: 07a0323c-f326-44e7-a6e8-16d747e3a604
+    concept_label: PATH
+    children:
+    - gloss: taking a shortcut
+      concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+      concept_label: WALK
+      children:
+      - gloss: 'go to abstractly: choose as an easy option'
+        concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+        concept_label: CHOOSE
+      - gloss: abstract
+        concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+        concept_label: NEGLECT
+      - gloss: feature
+        concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+        concept_label: SHORT
+        children:
+        - gloss: feature
+          concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+          concept_label: STRAIGHT
+          children:
+          - gloss: subject
+            concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+            concept_label: LINE
+            children:
+            - gloss: direct way to circumference> DIAMETER
+      - gloss: taking a shortcut
+        concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+        concept_label: QUICK
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+          concept_label: IMMEDIATELY
+      - gloss: generalised
+        concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+        concept_label: EASY
+      - gloss: associated feature
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+    - gloss: generalised
+      concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+      concept_label: WAY
+      children:
+      - gloss: mid-way
+        concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+        concept_label: MIDDLE
+unattributed_senses:
+- gloss: 徑 ｊｉｎｇ１《集韻》堅靈切，平青見。耕部。
+  children:
+  - gloss: '[GO VIA]'
+    concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+source:
+  source_file: taxchar.xml

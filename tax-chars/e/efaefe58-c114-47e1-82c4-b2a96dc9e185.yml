@@ -1,0 +1,72 @@
+uuid: efaefe58-c114-47e1-82c4-b2a96dc9e185
+type: tax-char
+heads:
+- 遺
+pronunciations:
+- reading: yí
+  old_chinese: k-lul
+  middle_chinese: jʷi
+  fanqie: 以追切
+  tone: 平
+  guangyun: 失也亡也贈也加也又姓急就章有遺餘又以醉切
+  senses:
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+    children:
+    - gloss: deliberate
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+      children:
+      - gloss: psychological
+        concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+        concept_label: NEGLECT
+        children:
+        - gloss: be left over
+          concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+          concept_label: PERSIST
+          children:
+          - gloss: subject
+            concept_label: VESTIGE
+          - gloss: action
+            concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+            concept_label: REMAIN
+            children:
+            - gloss: cause to remain
+              concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+              concept_label: PUT
+            - gloss: survive among the living
+              concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+              concept_label: LIVE
+        - gloss: 'object: what has been neglected'
+          concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+          concept_label: DEFECT
+      - gloss: concrete
+        concept_uuid: 462e5628-50ee-4e3d-b155-699fbc111c42
+        concept_label: DEFECATE
+- reading: wèi
+  old_chinese: k-luds
+  middle_chinese: jʷi
+  fanqie: 以醉切
+  tone: 去
+  guangyun: 贈也以醉切又音惟七
+  senses:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+    children:
+    - gloss: 'object: thing given'
+      concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+      concept_label: GIFT
+    - gloss: 'abstract: to new generation'
+      concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+      concept_label: TRANSMIT
+      children:
+      - gloss: to descendents
+        concept_label: BEQUEATH
+        children:
+        - gloss: generalised
+          concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+          concept_label: SEND
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:46:30.781+09:00'

@@ -1,0 +1,31 @@
+uuid: 0192adc7-e5d3-48ca-8b17-e7dec41671d4
+type: tax-char
+heads:
+- 禾
+pronunciations:
+- reading: hé
+  old_chinese: ɡool
+  middle_chinese: ɦuɑ
+  fanqie: 戶戈切
+  tone: 平
+  guangyun: 粟苗
+  senses:
+  - concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+    concept_label: MILLET
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+    concept_label: RICE
+  - concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+    concept_label: SPROUT
+  - concept_uuid: b9e44d1d-4f2b-4f56-a103-30e61639e0b1
+    concept_label: STRAW
+  - concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+    concept_label: YEAR
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 和
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,39 @@
+uuid: 29a1ee94-6b9a-4b81-a091-f084a7dbd3c2
+type: tax-char
+heads:
+- 新
+pronunciations:
+- reading: xīn
+  old_chinese: siŋ
+  middle_chinese: sin
+  senses:
+  - concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+    concept_label: NEW
+    children:
+    - gloss: feature
+      concept_uuid: 3ad893ce-dd44-4177-9ed1-c0e6cc85efa6
+      concept_label: ORIGINALITY
+    - gloss: causative
+      concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+      concept_label: REPAIR
+      children:
+      - gloss: renew through education
+        concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+        concept_label: TEACH
+    - gloss: historical
+      concept_uuid: 82bda3bd-7190-48c9-b821-6c19d0221a45
+      concept_label: RECENT
+      children:
+      - gloss: 'figurative: not of old friendship'
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+      - gloss: 'of fruit: not rotten'
+        concept_uuid: 41e78ed2-7fdc-4b17-842e-b9ff7a411a25
+        concept_label: FRESH
+      - gloss: recently married
+        concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+        concept_label: WIFE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T23:15:48.538+09:00'

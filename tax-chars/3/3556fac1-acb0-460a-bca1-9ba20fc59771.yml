@@ -1,0 +1,54 @@
+uuid: 3556fac1-acb0-460a-bca1-9ba20fc59771
+type: tax-char
+heads:
+- 運
+pronunciations:
+- reading: yùn
+  old_chinese: ɢuns
+  middle_chinese: ɦiun
+  fanqie: 王問切
+  tone: 去
+  guangyun: 逺也動也轉輸也國語云廣運百里東西爲廣南北爲運又姓出姓苑又漢複姓二氏史記云秦後以國爲姓有運奄氏後漢梁鴻改姓爲運期氏王問切十六
+  senses:
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+    children:
+    - gloss: generalised
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+    - gloss: 'specific: what one has'
+      concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+      concept_label: DEPLOY
+    - gloss: in circles
+      concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+      concept_label: REVOLVE
+      children:
+      - gloss: generalised
+        concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+        concept_label: DEVELOP
+        children:
+        - gloss: 'metaphorical: abstract'
+          concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+          concept_label: FATE
+          children:
+          - gloss: good
+            concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+            concept_label: LUCK
+    - gloss: causative
+      concept_uuid: f2ac46b3-e062-42cd-9ab9-9c57452c6eb3
+      concept_label: DISPLACE
+      children:
+      - gloss: long geographic distance
+        concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+        concept_label: TRANSPORT
+        children:
+        - gloss: object money
+          concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+          concept_label: PAY
+        - gloss: 'exocentric: means'
+          concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+          concept_label: CANAL
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml

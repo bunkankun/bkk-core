@@ -1,0 +1,75 @@
+uuid: ccf40b2f-d44e-4ca4-b497-3419706651de
+type: tax-char
+heads:
+- 獻
+pronunciations:
+- reading: xiàn
+  old_chinese: hŋans
+  middle_chinese: hiɐn
+  fanqie: 許建切
+  tone: 去
+  guangyun: 進也禮云大曰羮獻又姓風俗通有秦大夫獻則許建切四
+  senses:
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+    children:
+    - gloss: generalised
+      concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+      concept_label: HAND UP
+      children:
+      - gloss: to humans
+        concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+        concept_label: GIFT
+      - gloss: social
+        concept_uuid: f1c90c31-351f-4b4b-9caf-d0ae182b0689
+        concept_label: TOAST
+        children:
+        - gloss: verbal
+          concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+          concept_label: CONGRATULATE
+      - gloss: for inspection
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+  - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - concept_uuid: 68c2fcb8-f3eb-43a8-b411-ebd7dea6463f
+    concept_label: RULERS OF LIU
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 63a5d69c-4ff0-410d-a427-d37b4f4f8d43
+    concept_label: RULERS OF WEY
+  - concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+    concept_label: RULERS OF ZHENG
+  - gloss: =賢
+    concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+    concept_label: HERO
+- reading: suō
+  old_chinese: sŋaal
+  middle_chinese: sɑ
+  fanqie: 素何切
+  tone: 平
+  guangyun: 獻罇見禮記亦作犧
+  senses:
+  - concept_uuid: 6acc1714-c80f-49d2-9670-2fe2c0b7b620
+    concept_label: WINE VESSEL
+    children:
+    - gloss: feature
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+      children:
+      - gloss: causative
+        concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+        concept_label: EMBELLISH
+- reading: niè
+  old_chinese: ŋrad
+  middle_chinese: ŋɯiɛt
+  fanqie: 魚列切
+  tone: 入
+unattributed_senses:
+- concept_label: 獻 xi１《集韻》虛宜切，平支曉。
+  children:
+  - concept_label: =桸 "ladle"
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-12T20:01:08.157+09:00'

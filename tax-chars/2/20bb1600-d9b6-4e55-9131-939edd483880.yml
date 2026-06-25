@@ -1,0 +1,20 @@
+uuid: 20bb1600-d9b6-4e55-9131-939edd483880
+type: tax-char
+heads:
+- 齡
+pronunciations:
+- reading: líng
+  old_chinese: ɡ-reeŋ
+  middle_chinese: leŋ
+  fanqie: 郎丁切
+  tone: 平
+  guangyun: 年也
+  senses:
+  - concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+    concept_label: YEAR
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+source:
+  source_file: taxchar.xml

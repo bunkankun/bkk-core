@@ -1,0 +1,40 @@
+uuid: 7a1f4992-a830-421b-aa55-b2390da1e906
+type: tax-char
+heads:
+- 汗
+pronunciations:
+- reading: hàn
+  old_chinese: ɡaans
+  middle_chinese: ɦɑn
+  fanqie: 侯旰切
+  tone: 去
+  guangyun: 熱汗
+  senses:
+  - concept_uuid: b9aa44c9-7f63-4d96-ae70-6740d59dbb97
+    concept_label: SWEAT
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: gān
+  old_chinese: kaan
+  middle_chinese: kɑn
+  fanqie: 古寒切
+  tone: 平
+  guangyun: 餘汗縣名又寒翰二音
+  senses:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: hán
+  old_chinese: ɡaan
+  middle_chinese: ɦɑn
+  fanqie: 胡安切
+  tone: 平
+  guangyun: 可汗蕃王稱又音犴
+  senses:
+  - concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+source:
+  source_file: taxchar.xml

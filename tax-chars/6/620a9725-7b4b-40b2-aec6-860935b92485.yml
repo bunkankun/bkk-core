@@ -1,0 +1,32 @@
+uuid: 620a9725-7b4b-40b2-aec6-860935b92485
+type: tax-char
+heads:
+- 握
+pronunciations:
+- reading: wò
+  old_chinese: qrooɡ
+  middle_chinese: ʔɯɔk
+  fanqie: 於角切
+  tone: 入
+  guangyun: 持也
+  senses:
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: b8794663-3320-4e0e-ada8-33476189ddf6
+    concept_label: HAND
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: dccfac2b-3aa1-4eea-a933-6b1b6854817f
+    concept_label: ARROW
+  - gloss: = 渥
+  - gloss: = 帷
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,69 @@
+uuid: 0a47308e-f9d5-4657-bfee-f15e6cf32d58
+type: tax-char
+heads:
+- 契
+pronunciations:
+- reading: qiè
+  old_chinese: kheed
+  middle_chinese: kʰet
+  fanqie: 苦結切
+  tone: 入
+  guangyun: 契闊又苦計切
+- reading: qì
+  old_chinese: khees
+  middle_chinese: kʰei
+  fanqie: 苦計切
+  tone: 去
+  guangyun: 契約苦計切又苦結切十
+  senses:
+  - concept_uuid: 0ab78d70-666c-4848-b68d-02bc71243875
+    concept_label: CARPENTER TOOL
+  - gloss: associated action
+    concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - gloss: generalised
+    concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+    concept_label: BREAK OFF
+  - gloss: 'feature: psychological'
+    concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - gloss: 'object: broken off two-part'
+    concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+    concept_label: TALLY
+  - gloss: abstract
+    concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+    concept_label: CONTRACT
+  - gloss: content
+    concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+    concept_label: WRITTEN CHARACTER
+  - gloss: feature of tallies
+    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - gloss: generalised
+    concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - gloss: causative
+    concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+    concept_label: UNITE
+  - gloss: person in harmony with one
+    concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - gloss: aspiring to become like one
+    concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+    concept_label: STUDENT
+  - gloss: abstract
+    concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - gloss: intellectually
+    concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - gloss: grammaticalised> CLASSIFIER
+  - gloss: TRANSRIPTION as in 契丹
+- reading: qì
+  old_chinese: khɯd
+  middle_chinese: kʰɨt
+  fanqie: 去訖切
+  tone: 入
+  guangyun: 契丹夷名出字林
+source:
+  source_file: taxchar.xml

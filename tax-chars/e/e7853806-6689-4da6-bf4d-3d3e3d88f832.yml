@@ -1,0 +1,46 @@
+uuid: e7853806-6689-4da6-bf4d-3d3e3d88f832
+type: tax-char
+heads:
+- 弟
+pronunciations:
+- reading: dì
+  old_chinese: liilʔ
+  middle_chinese: dei
+  fanqie: 徒禮切
+  tone: 上
+  guangyun: 兄弟爾雅曰男子先生爲兄後生爲弟徒禮切又特計切七
+- reading: dì
+  old_chinese: liils
+  middle_chinese: dei
+  fanqie: 特計切
+  tone: 去
+  guangyun: 見上注又音上聲
+unattributed_senses:
+- gloss: specifically younger
+  concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+  concept_label: BROTHER
+  children:
+  - gloss: action as younger
+    concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+    children:
+    - gloss: obeying because young member of family
+      concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+      concept_label: CHILD
+    - gloss: loyal obedience owed by
+      concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+      concept_label: VIRTUE
+      children:
+      - gloss: virtuous, docile
+        concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+        concept_label: STUDENT
+  - gloss: abstract
+    concept_uuid: 933d0ea7-b57b-4b69-bde6-94f600928dd8
+    concept_label: SIBLING
+  - gloss: grammaticalised
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T22:59:26.005+09:00'

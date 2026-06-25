@@ -1,0 +1,35 @@
+uuid: c230438d-6bb8-4a6d-8066-8459dcfeda43
+type: tax-char
+heads:
+- 隅
+pronunciations:
+- reading: yú
+  old_chinese: ŋo
+  middle_chinese: ŋio
+  fanqie: 遇俱切
+  tone: 平
+  guangyun: 角也陬也
+  senses:
+  - concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+    concept_label: CORNER
+    children:
+    - gloss: covering all corners
+      concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+      concept_label: DILIGENT
+    - gloss: niche etc
+      concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+      concept_label: CAVE
+    - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+      concept_label: SIDE
+      children:
+      - gloss: geographical
+        concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+        concept_label: BORDER AREA
+      - gloss: abstract
+        concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+        concept_label: FEATURE
+  - gloss: corner of
+    concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+    concept_label: CITY WALL
+source:
+  source_file: taxchar.xml

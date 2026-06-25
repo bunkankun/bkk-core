@@ -1,0 +1,32 @@
+uuid: 228c3ff0-2258-4df9-843d-24f6c154920c
+type: tax-char
+heads:
+- 覽
+pronunciations:
+- reading: lǎn
+  old_chinese: ɡ-raamʔ
+  middle_chinese: lɑm
+  fanqie: 盧敢切
+  tone: 上
+  guangyun: 視也又姓何氏姓苑云彭城人盧敢切六
+  senses:
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: a16f4ee7-cd5e-4297-b5ab-9306a5a4ed25
+    concept_label: LOOK DOWN
+  - concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+    concept_label: READ
+  - concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+    concept_label: SEE
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 40ce2fe2-1e89-48ec-9381-f56af49ae111
+    concept_label: SURVEY
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+source:
+  source_file: taxchar.xml

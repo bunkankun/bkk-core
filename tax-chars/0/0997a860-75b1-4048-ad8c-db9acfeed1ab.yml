@@ -1,0 +1,117 @@
+uuid: 0997a860-75b1-4048-ad8c-db9acfeed1ab
+type: tax-char
+heads:
+- 私
+pronunciations:
+- reading: sī
+  old_chinese: sil
+  middle_chinese: si
+  fanqie: 息夷切
+  tone: 平
+  guangyun: 不公也説文曰禾也息夷切五
+  senses:
+  - concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+    concept_label: PRIVATE
+    children:
+    - gloss: feature
+      concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+      concept_label: SELFISH
+      children:
+      - gloss: 'generalised: pejorative'
+        concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+        concept_label: WICKED
+        children:
+        - gloss: of acts and things
+          concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+          concept_label: ILLEGAL
+          children:
+          - gloss: 'specific: of sexual intercourse'
+            concept_uuid: 05e4ccf2-ad7c-48f1-bcc1-ebc372b3a0e0
+            concept_label: ADULTERY
+          - gloss: 'specific: of gifts'
+            concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+            concept_label: BRIBE
+    - gloss: 'body parts: private parts'
+      concept_uuid: 685cd234-4dad-43bb-bc43-a334e25a5edd
+      concept_label: GENITALS
+    - gloss: kinship
+      concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+      concept_label: FAMILY
+      children:
+      - gloss: specific> woman referring to husband of sister
+        concept_uuid: 327c1724-a571-4bf6-a05d-bf9246c1bc27
+        concept_label: IN-LAWS
+    - gloss: 'exocentric: dwelling'
+      concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+      concept_label: HOME
+    - gloss: 'exocentric: clothes'
+      concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+      concept_label: GARMENT
+    - gloss: 'exocentric: territory'
+      concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+      concept_label: FIELD
+      children:
+      - gloss: 'declarative, generalised: lay claim to'
+        concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+        concept_label: OWN
+    - gloss: 'exocentric: form of existence'
+      concept_uuid: 0253f062-ec1c-4af9-8d78-6d22ef588077
+      concept_label: LIFE
+    - gloss: 'exocentric: person'
+      concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+    - gloss: 'exocentric: personal, non-public'
+      concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+      concept_label: ATTITUDE
+    - gloss: psychological
+      concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+      concept_label: PREFER
+      children:
+      - gloss: person preferred
+        concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+        concept_label: FAVOURITE
+      - gloss: generalised
+        concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+        concept_label: LIKE
+        children:
+        - gloss: action
+          concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+          concept_label: CULTIVATE
+        - gloss: resulting action
+          concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+          concept_label: GENEROUS
+    - gloss: grammaticalised
+      concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+      concept_label: ALONE
+    - gloss: self-deprecatory
+      concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+      concept_label: HUMBLE
+      children:
+      - gloss: generalised
+        concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+        concept_label: SMALL
+        children:
+        - gloss: socially
+          concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+          concept_label: SUBORDINATE
+          children:
+          - gloss: exocentric> subordinate
+            concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+            concept_label: OFFICIAL
+    - gloss: feature
+      concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+      concept_label: SECRET
+      children:
+      - gloss: 'exocentric: actiivty'
+        concept_uuid: 6da17544-5ea6-457e-80df-a73c69745ce6
+        concept_label: COMMUNICATE
+      - gloss: 'exocentric: activity'
+        concept_uuid: 462e5628-50ee-4e3d-b155-699fbc111c42
+        concept_label: DEFECATE
+        children:
+        - gloss: specific
+          concept_uuid: 5f99fd10-1b29-4143-91af-d675b606fba7
+          concept_label: URINATE
+  - gloss: =思
+source:
+  source_file: taxchar.xml

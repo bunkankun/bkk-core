@@ -1,0 +1,48 @@
+uuid: 61220bf5-7af3-4f4c-ac74-80169fd7cb8a
+type: tax-char
+heads:
+- 都
+pronunciations:
+- reading: dū
+  old_chinese: k-laa
+  middle_chinese: tuo
+  fanqie: 當孤切
+  tone: 平
+  guangyun: 都猶揔也尚書大傳十邑爲都帝王丗紀曰天子所宫曰都又姓有臨晉侯都稽何氏姓苑云今吴興人當孤切七
+  senses:
+  - concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+    concept_label: CAPITAL CITY
+    children:
+    - gloss: feature:urbane
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+    - gloss: city with a feudal ancestral shrine
+      concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+      concept_label: CITY
+      children:
+      - gloss: area under administration from a city
+        concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+        concept_label: REGION
+    - gloss: gather into one
+      concept_label: COLLECT
+  - gloss: vernacular, read dōu
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+    children:
+    - gloss: in every way, completely, utterly
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: 'vernacular: already completely'
+        concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+        concept_label: ALREADY
+    - gloss: at all times
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+  - gloss: mathemantical technical term
+    concept_uuid: da23df6b-934b-4237-beee-cdccd8963456
+    concept_label: ABSTRACT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T05:48:21.61+09:00'

@@ -1,0 +1,37 @@
+uuid: 6835c6db-f8fe-4466-90b3-c423c5a7185f
+type: tax-char
+heads:
+- 講
+pronunciations:
+- reading: jiǎng
+  old_chinese: krooŋʔ
+  middle_chinese: kɯɔŋ
+  fanqie: 古項切
+  tone: 上
+  guangyun: 告也謀也論也説文曰和解也古項切四
+  senses:
+  - concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+    concept_label: COOPERATE
+  - concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+    concept_label: DISCUSS
+  - concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+    concept_label: SURRENDER
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+    concept_label: EXPLAIN
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: EVALUATE
+  - concept_uuid: bf1312d6-d428-4a1a-bbd3-65a1d7fa0a04
+    concept_label: PRACTISE
+  - concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+    concept_label: APPRECIATE
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - gloss: = 構
+source:
+  source_file: taxchar.xml

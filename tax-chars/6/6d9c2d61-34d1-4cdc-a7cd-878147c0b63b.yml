@@ -1,0 +1,64 @@
+uuid: 6d9c2d61-34d1-4cdc-a7cd-878147c0b63b
+type: tax-char
+heads:
+- 戾
+pronunciations:
+- reading: lì
+  old_chinese: rɯɯds
+  middle_chinese: lei
+  fanqie: 郎計切
+  tone: 去
+  guangyun: 乖也待也利也立也罪也來也至也定也又很戾説文曲也从犬出戸下戾者身戾曲也
+  senses:
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+  - concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+    concept_label: CRUEL
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 捩
+  - gloss: = 癘
+  - gloss: = 利
+- reading: liè
+  old_chinese: rɯɯd
+  middle_chinese: let
+  fanqie: 練結切
+  tone: 入
+  guangyun: 罪也曲也戻至盭並又力計切
+  senses:
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+- reading: tì
+  old_chinese: thɯɯds
+  middle_chinese: tʰei
+  fanqie: 他計切
+  tone: 去
+  guangyun: 輜車
+source:
+  source_file: taxchar.xml

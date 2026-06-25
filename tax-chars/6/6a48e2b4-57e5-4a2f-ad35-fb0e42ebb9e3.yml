@@ -1,0 +1,30 @@
+uuid: 6a48e2b4-57e5-4a2f-ad35-fb0e42ebb9e3
+type: tax-char
+heads:
+- 富
+pronunciations:
+- reading: fù
+  old_chinese: pɯɡs
+  middle_chinese: piu
+  fanqie: 方副切
+  tone: 去
+  guangyun: 豐於財又姓左傳周大夫富辰方副切四
+  senses:
+  - concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+    concept_label: RICH
+    children:
+    - gloss: abstract
+      concept_uuid: 2463f3d8-8c59-4803-8ac1-6c219b895d18
+      concept_label: WEALTH
+    - gloss: generalised
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+      children:
+      - gloss: quantitative
+        concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+        concept_label: MANY
+  - concept_label: =福
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T19:50:01.961+09:00'

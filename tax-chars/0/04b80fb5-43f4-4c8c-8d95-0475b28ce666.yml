@@ -1,0 +1,36 @@
+uuid: 04b80fb5-43f4-4c8c-8d95-0475b28ce666
+type: tax-char
+heads:
+- 危
+pronunciations:
+- reading: wēi
+  old_chinese: ŋɡrol
+  middle_chinese: ŋʷɯiɛ
+  fanqie: 魚為切
+  tone: 平
+  guangyun: 疾也隤也不正也不安也魚爲切四
+  senses:
+  - concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+    concept_label: DANGER
+    children:
+    - gloss: typical attitude towards
+      concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+      concept_label: FEAR
+    - gloss: precariously
+      concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+      concept_label: HIGH
+      children:
+      - gloss: aesthetic, of mountains
+        concept_uuid: c512e905-9006-4595-a0e5-d64d3e84b91c
+        concept_label: CRAGGY
+      - gloss: 'exocentric: part of building'
+        concept_uuid: 56391328-912b-4408-91c8-ed8d3f602e6c
+        concept_label: ROOF
+    - gloss: grammaticalised
+      concept_label: ALMOST
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T05:31:00.471+09:00'

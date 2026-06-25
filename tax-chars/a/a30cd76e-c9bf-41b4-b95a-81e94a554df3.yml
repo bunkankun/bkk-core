@@ -1,0 +1,64 @@
+uuid: a30cd76e-c9bf-41b4-b95a-81e94a554df3
+type: tax-char
+heads:
+- 顯
+pronunciations:
+- reading: xiǎn
+  old_chinese: qhleenʔ
+  middle_chinese: hen
+  fanqie: 呼典切
+  tone: 上
+  guangyun: 明也著也光也覿也又姓風俗通云有顯甫爲周卿呼典切五
+  senses:
+  - concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+    concept_label: VISIBLE
+    children:
+    - gloss: 'inchoative: visibly'
+      concept_uuid: 1a308a52-d691-4ffa-82ec-acf6db84a199
+      concept_label: BECOME
+      children:
+      - gloss: action take a visible official position
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+    - gloss: focus on
+      concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+      concept_label: LOOK
+    - gloss: 'subject: what is visible'
+      concept_uuid: 45370506-d66f-4cae-85f9-6cde4b77d3db
+      concept_label: SURFACE
+    - gloss: 'causative: make visible'
+      concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+      concept_label: SHOW
+    - gloss: politically
+      concept_uuid: 334a18e8-17db-41fa-b42d-17e7d2ce31bb
+      concept_label: PUBLIC
+    - gloss: socially
+      concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+      concept_label: FAMOUS
+      children:
+      - gloss: morally, positive
+        concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+        concept_label: NOBLE
+      - gloss: (Buddhist) specific
+        concept_uuid: 5005fc5c-85f8-44d7-9b78-420edf1ea438
+        concept_label: MIRACLE
+    - gloss: intellectually
+      concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+      concept_label: CLEAR
+      children:
+      - gloss: causative
+        concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+        concept_label: EXPLAIN
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+  - concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+    concept_label: HEADGEAR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 顯 ｘｉａｎ４《集韻》馨甸切，去霰曉。
+  children:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

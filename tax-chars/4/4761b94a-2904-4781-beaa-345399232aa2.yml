@@ -1,0 +1,31 @@
+uuid: 4761b94a-2904-4781-beaa-345399232aa2
+type: tax-char
+heads:
+- 貧
+pronunciations:
+- reading: pín
+  old_chinese: brɯn
+  middle_chinese: bɯin
+  fanqie: 符巾切
+  tone: 平
+  guangyun: 乏也少也符巾切二
+  senses:
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+    children:
+    - gloss: generalised
+      concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+      concept_label: RARE
+    - gloss: grammaticalised
+      concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+- reading: pín
+  old_chinese: brɯn
+  middle_chinese: bɯin
+  fanqie: 符巾切
+  tone: 平
+  guangyun: 貧古文
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T17:27:21.365+09:00'

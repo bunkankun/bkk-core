@@ -1,0 +1,78 @@
+uuid: 2387c4ab-162b-4b87-87c4-ab162bab87ce
+type: tax-char
+heads:
+- 知
+pronunciations:
+- reading: zhī
+  fanqie: 陟離
+  tone: 平
+  guangyun: 覺也欲也陟離切六
+  senses:
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+    children:
+    - gloss: practical>zhī
+      concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+      concept_label: ABLE
+      children:
+      - gloss: exercise ability>zhī
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: specifically> zhī
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+    - gloss: as distinct from
+      concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+      concept_label: DISTINGUISH
+      children:
+      - gloss: evaluative
+        concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+        concept_label: APPRECIATE
+        children:
+        - gloss: passive
+          concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+          concept_label: WELL-KNOWN
+        - gloss: positivelyely
+          concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+          concept_label: RESPECT
+          children:
+          - gloss: object
+            concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+            concept_label: FRIEND
+    - gloss: presupposing as true
+      concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+      concept_label: KNOW
+      children:
+      - gloss: not focussing reasons
+        concept_uuid: 493c2644-5dda-4f7b-9ae5-8665715a0fea
+        concept_label: AWARE
+        children:
+        - gloss: inchoative
+          concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+          concept_label: ENCOUNTER
+          children:
+          - gloss: determine identity of
+            concept_uuid: ec950257-8f99-41b7-995c-d0904bf515ea
+            concept_label: RECOGNISE
+            children:
+            - gloss: past knowledge
+              concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+              concept_label: REMEMBER
+      - gloss: in advance
+        concept_uuid: 1bebc2e6-a495-453e-aa66-4919c1ddaf15
+        concept_label: PREDICT
+- reading: zhì
+  fanqie: 知義
+  tone: 去
+  guangyun: 知也又姓晉有智伯知義切三
+  senses:
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+    children:
+    - concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+      concept_label: WISE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-09-15T20:37:54.307+09:00'

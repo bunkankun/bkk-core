@@ -1,0 +1,76 @@
+uuid: 9b50330e-6b15-4048-8108-9ed612e985df
+type: tax-char
+heads:
+- 是
+pronunciations:
+- reading: shì
+  old_chinese: ɡljeʔ
+  middle_chinese: dʑiɛ
+  fanqie: 承紙切
+  tone: 上
+  guangyun: 是非也説文曰直也又姓吴志云是儀本姓氏孔融嘲之曰氏字民無上乃改爲是焉又虜複姓四氏西魏有開府是云寶後魏書又有是連是婁是賁三氏承紙切十
+  senses:
+  - gloss: qualitative anaphoric
+    concept_uuid: ba9c161d-932b-4862-9fb9-906c41594e75
+    concept_label: SUCH
+    children:
+    - gloss: as required
+      concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+      concept_label: APPROPRIATE
+    - gloss: factual
+      concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+      concept_label: 'TRUE'
+      children:
+      - gloss: declare true
+        concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+        concept_label: ASSENT
+        children:
+        - gloss: be commendable
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+          children:
+          - gloss: make good
+            concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+            concept_label: CORRECT
+      - gloss: hereby declare true
+        concept_uuid: 2cd25e4e-a164-428d-8bbb-e2d8a4003309
+        concept_label: 'YES'
+    - gloss: assertive
+      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+      concept_label: COPULA
+      children:
+      - gloss: be of a significance
+        concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+        concept_label: MEAN
+      - gloss: specifying cause/reason
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+        children:
+        - gloss: because of this
+          concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+          concept_label: THEREFORE
+          children:
+          - gloss: at this point
+            concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+            concept_label: THEN
+      - gloss: be a/the case in point
+        concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+        concept_label: THIS
+        children:
+        - gloss: this very
+          concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+          concept_label: SAME
+          children:
+          - gloss: same time
+            concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+            concept_label: NOW
+          - gloss: 'rarely: same place'
+            concept_uuid: 04482dbe-a266-41c0-b7f0-e0ba31a4763f
+            concept_label: HERE
+      - gloss: grammaticalised:this preceding object
+        concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+        concept_label: OBJECT MARKER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-15T22:41:31.675+09:00'

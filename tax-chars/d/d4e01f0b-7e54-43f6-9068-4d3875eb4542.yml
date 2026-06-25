@@ -1,0 +1,24 @@
+uuid: d4e01f0b-7e54-43f6-9068-4d3875eb4542
+type: tax-char
+heads:
+- 愍
+pronunciations:
+- reading: mǐn
+  old_chinese: mrinʔ
+  middle_chinese: mɯin
+  fanqie: 眉殞切
+  tone: 上
+  guangyun: 悲也憐也眉殞切十四
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+  - concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+    concept_label: PROBLEM
+  - concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+    concept_label: CARE FOR
+  - concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+    concept_label: EFFORT
+source:
+  source_file: taxchar.xml

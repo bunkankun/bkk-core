@@ -1,0 +1,24 @@
+uuid: 9c3b3dfd-3d3c-457a-8bcd-ef352542c43c
+type: tax-char
+heads:
+- 宏
+pronunciations:
+- reading: hóng
+  old_chinese: ɡʷrɯɯŋ
+  middle_chinese: ɦʷɯæŋ
+  fanqie: 戶萌切
+  tone: 平
+  guangyun: 大也戸萌切十六
+  senses:
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+    concept_label: LOUD
+  - concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+    concept_label: IMPROVE
+  - concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+    concept_label: EVERYWHERE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

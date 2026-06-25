@@ -1,0 +1,68 @@
+uuid: 9c0f5d4a-2fe2-482e-81da-2203ec752b0a
+type: tax-char
+heads:
+- 德
+pronunciations:
+- reading: dé
+  old_chinese: tɯɯɡ
+  middle_chinese: tək
+  fanqie: 多則切
+  tone: 入
+  guangyun: 德行又惠也𦫵也福也亦州名秦爲齊郡地漢爲平原郡武德初爲德州因安德縣以名之多則切九
+- reading: dé
+  old_chinese: tɯɯɡ
+  middle_chinese: tək
+  fanqie: 多則切
+  tone: 入
+  guangyun: 德古文
+unattributed_senses:
+- concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  concept_label: VIRTUE
+  children:
+  - gloss: metaphysical
+    concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+    concept_label: COSMIC FORCE
+  - gloss: efficacy
+    concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+    children:
+    - gloss: moral
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+      children:
+      - gloss: 'good feature:'
+        concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+        concept_label: MERIT
+        children:
+        - gloss: social feature
+          concept_uuid: e5807181-c308-4bef-8071-81c3080bef28
+          concept_label: DIGNITY
+        - gloss: generalised, abstract
+          concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+          concept_label: FEATURE
+      - gloss: 'general: moral conduct'
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: towards inferiors
+          concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+          concept_label: GENEROUS
+      - gloss: blessed by superior generosity
+        concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+        concept_label: HAPPY
+        children:
+        - gloss: towards superiors
+          concept_uuid: 45ec8b18-c9d0-48ad-abc1-a532217157af
+          concept_label: GRATEFUL
+          children:
+          - gloss: 'putative: consider as good/better'
+            concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+            concept_label: PARTIAL
+            children:
+            - gloss: 'causative: cause to be partial to one'
+              concept_uuid: 4d2115b4-dee5-4729-bd99-55ee2c88b1fc
+              concept_label: WIN TRUST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T02:45:27.794+09:00'

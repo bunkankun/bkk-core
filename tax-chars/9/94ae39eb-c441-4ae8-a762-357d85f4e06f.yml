@@ -1,0 +1,32 @@
+uuid: 94ae39eb-c441-4ae8-a762-357d85f4e06f
+type: tax-char
+heads:
+- 薪
+pronunciations:
+- reading: xīn
+  old_chinese: siŋ
+  middle_chinese: sin
+  fanqie: 息鄰切
+  tone: 平
+  guangyun: 柴也周禮委人掌祭祀之薪詩云翹翹錯薪
+  senses:
+  - concept_uuid: 92129761-23a4-4faf-aff0-13ff78929163
+    concept_label: FIREWOOD
+    children:
+    - gloss: used as payment
+      concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+      concept_label: SALARY
+    - gloss: associated action
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: COLLECT
+      children:
+      - gloss: action imposed as punitive measure
+        concept_uuid: 26945df2-203d-4158-9bc5-7f93783b7c06
+        concept_label: PUNISHMENT
+    - gloss: generalised
+      concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+      concept_label: GRASS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,34 @@
+uuid: f4f6419f-96db-45ae-9c5c-ad7d01a1a516
+type: tax-char
+heads:
+- 樞
+pronunciations:
+- reading: shū
+  old_chinese: khjo
+  middle_chinese: tɕʰio
+  fanqie: 昌朱切
+  tone: 平
+  guangyun: 本也爾雅曰樞謂之椳郭璞云門戸扉樞也昌朱切五
+  senses:
+  - concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+    concept_label: GATE PART
+  - gloss: TREE, KINDS
+  - concept_uuid: a4e68d31-6719-4ece-9849-774464d21cc0
+    concept_label: AXLE
+  - concept_uuid: fa1e5dd9-f684-41a0-8585-603f943480be
+    concept_label: TRIGGER
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+    concept_label: IMPORTANT
+  - concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+    concept_label: POWER
+  - gloss: ACUPUNCTURE
+  - concept_uuid: 304e1390-02d6-4b01-a81b-3af4ee0eff6c
+    concept_label: ORIGIN
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

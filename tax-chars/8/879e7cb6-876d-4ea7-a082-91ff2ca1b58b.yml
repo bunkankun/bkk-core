@@ -1,0 +1,24 @@
+uuid: 879e7cb6-876d-4ea7-a082-91ff2ca1b58b
+type: tax-char
+heads:
+- 沸
+pronunciations:
+- reading: fèi
+  old_chinese: pɯds
+  middle_chinese: pʷɨi
+  fanqie: 方味切
+  tone: 去
+  guangyun: 詩曰觱沸檻泉箋云觱沸者謂泉涌出皃方味切十一
+  senses:
+  - concept_uuid: 33bd683e-b7a8-49be-9f34-b0041e779296
+    concept_label: BUBBLE
+  - concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+  - concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+    concept_label: SOAK
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: 0d3267de-e482-46ed-9936-9522d25033ae
+type: tax-char
+heads:
+- 憶
+pronunciations:
+- reading: yì
+  old_chinese: qɯɡ
+  middle_chinese: ʔɨk
+  fanqie: 於力切
+  tone: 入
+  guangyun: 念也於力切十七
+  senses:
+  - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+  - concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+    concept_label: REMEMBER
+  - concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+    concept_label: YEARN
+source:
+  source_file: taxchar.xml

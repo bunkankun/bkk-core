@@ -1,0 +1,48 @@
+uuid: 55c66a8a-01b6-427f-90e9-58199a9c35b6
+type: tax-char
+heads:
+- 士
+pronunciations:
+- reading: shì
+  old_chinese: dzrɯʔ
+  middle_chinese: dʐɨ
+  fanqie: 鉏里切
+  tone: 上
+  guangyun: 説文曰事也數始於一終於十从一十孔子曰推十合一爲士又姓左傳晉大夫士蔿又漢複姓二氏古今人表有士思癸又士貞氏晉康公庶子士貞之後鉏里切五
+  senses:
+  - concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+    concept_label: GENTLEMAN
+    children:
+    - gloss: of general learning
+      concept_uuid: 3d0ee556-737f-4910-9b12-541696812ce3
+      concept_label: SCHOLAR
+      children:
+      - gloss: with qualifications
+        concept_uuid: ee979ffd-7edb-4439-8909-34c3173003b7
+        concept_label: SPECIALIST
+        children:
+        - gloss: employed
+          concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+          concept_label: OFFICIAL
+          children:
+          - gloss: causative:in official function
+            concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+            concept_label: EMPLOY
+          - gloss: legal
+            concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+            concept_label: JUDGE
+          - gloss: military, of any status
+            concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+            concept_label: SOLDIER
+            children:
+            - gloss: generalised:educated
+              concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+              concept_label: MALE
+unattributed_senses:
+- gloss: shì
+  concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+  concept_label: MALES OF JIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-30T21:22:30.986+09:00'

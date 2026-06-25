@@ -1,0 +1,43 @@
+uuid: be601d3c-82f6-42be-99aa-b011cd7a16cf
+type: tax-char
+heads:
+- 沓
+pronunciations:
+- reading: tà
+  old_chinese: duub
+  middle_chinese: dəp
+  fanqie: 徒合切
+  tone: 入
+  guangyun: 重也合也又語多沓沓也又虜複姓後魏書沓盧氏後改爲沓氏徒合切十八
+  senses:
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+  - concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+    concept_label: REPEAT
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - concept_uuid: 33bd683e-b7a8-49be-9f34-b0041e779296
+    concept_label: BUBBLE
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+  - concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+    concept_label: GREEDY
+  - concept_uuid: e462f4e5-b23b-41d4-92ca-36393895758e
+    concept_label: WRINKLE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 錔
+source:
+  source_file: taxchar.xml

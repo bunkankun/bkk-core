@@ -1,0 +1,34 @@
+uuid: 7f0fd2a9-b8a2-40d6-9b44-1f597c7f75ae
+type: tax-char
+heads:
+- 傍
+pronunciations:
+- reading: bàng
+  old_chinese: baaŋs
+  middle_chinese: bɑŋ
+  fanqie: 蒲浪切
+  tone: 去
+  guangyun: 蒲光切又蒲郎切二
+- reading: páng
+  old_chinese: baaŋ
+  middle_chinese: bɑŋ
+  fanqie: 步光切
+  tone: 平
+  guangyun: 亦作旁側也説文曰近也又羌姓歩光切十三
+  senses:
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+  - concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+    concept_label: NEIGHBOUR
+  - concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+    concept_label: TIE TO
+  - concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+    concept_label: ACCOMPANY
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

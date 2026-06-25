@@ -1,0 +1,87 @@
+uuid: 6cf9722c-ac8b-40fc-8113-191c70aafbda
+type: tax-char
+heads:
+- 淫
+pronunciations:
+- reading: yín
+  old_chinese: lɯm
+  middle_chinese: jim
+  fanqie: 餘針切
+  tone: 平
+  guangyun: 久雨曰淫書曰罔淫于樂傳云淫過也餘針切十五
+  senses:
+  - gloss: =霪
+    concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+    concept_label: RAIN
+    children:
+    - gloss: feature of rain
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+    - gloss: process
+      concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+      concept_label: SOAK
+      children:
+      - gloss: resultative
+        concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+        concept_label: FILL
+      - gloss: feature
+        concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+        concept_label: GRADUALLY
+      - gloss: intensitive
+        concept_uuid: 8b1bc95f-ccb4-420a-bf5d-04555214c56b
+        concept_label: OVERFLOW
+        children:
+        - gloss: general
+          concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+          concept_label: EXCESSIVE
+          children:
+          - gloss: abstract:in action
+            concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+            concept_label: UNRESTRAINED
+            children:
+            - gloss: 'generalised: legal'
+              concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+              concept_label: ILLEGAL
+            - gloss: 'generalised: moral'
+              concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+              concept_label: WICKED
+            - gloss: dogmatically> UNORTHODOX
+              children:
+              - gloss: =婬 sexually
+                concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+                concept_label: LEWD
+                children:
+                - gloss: excessive emotion
+                  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+                  concept_label: LOVE
+                  children:
+                  - gloss: action
+                    concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+                    concept_label: COPULATE
+                    children:
+                    - gloss: extramarital
+                      concept_uuid: 05e4ccf2-ad7c-48f1-bcc1-ebc372b3a0e0
+                      concept_label: ADULTERY
+            - gloss: 'generalised: structural'
+              concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+              concept_label: CHAOS
+              children:
+              - gloss: psychologial, passive
+                concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+                concept_label: CONFUSED
+            - gloss: 'specific action: roaming freely'
+              concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+              concept_label: TRAVEL
+            - gloss: deliberate action> INDULGE
+              children:
+              - gloss: 'feature: intensitive'
+                concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+                concept_label: EXTRAVAGANT
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+unattributed_senses:
+- gloss: 淫 ｙａｎ４《集韻》以贍切，去豔以。
+  children:
+  - gloss: =灩
+source:
+  source_file: taxchar.xml

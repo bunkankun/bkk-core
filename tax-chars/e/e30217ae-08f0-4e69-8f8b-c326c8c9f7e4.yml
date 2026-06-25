@@ -1,0 +1,38 @@
+uuid: e30217ae-08f0-4e69-8f8b-c326c8c9f7e4
+type: tax-char
+heads:
+- 吟
+pronunciations:
+- reading: yín
+  old_chinese: ŋɡrɯm
+  middle_chinese: ŋɯim
+  fanqie: 魚金切
+  tone: 平
+  guangyun: 亦古吟字説文又巨錦切
+- reading: yín
+  old_chinese: ŋɡrɯm
+  middle_chinese: ŋɯim
+  fanqie: 魚金切
+  tone: 平
+  guangyun: 歎也説文云呻吟也魚金切十
+  senses:
+  - concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+    concept_label: CHANT
+    children:
+    - gloss: object
+      concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+      concept_label: SONG
+    - gloss: 'metaphorical: causative'
+      concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+      concept_label: PLUCK STRINGS
+    - gloss: acoustic similarity
+      concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+      concept_label: SIGH
+- reading: yìn
+  old_chinese: ŋɡrɯms
+  middle_chinese: ŋɯim
+  fanqie: 宜禁切
+  tone: 去
+  guangyun: 長詠冝禁切一
+source:
+  source_file: taxchar.xml

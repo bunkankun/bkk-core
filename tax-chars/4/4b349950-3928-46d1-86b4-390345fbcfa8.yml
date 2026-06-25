@@ -1,0 +1,32 @@
+uuid: 4b349950-3928-46d1-86b4-390345fbcfa8
+type: tax-char
+heads:
+- 牀
+- 床
+pronunciations:
+- reading: chuáng
+  old_chinese: sɡraŋ
+  middle_chinese: dʐiɐŋ
+  fanqie: 士莊切
+  tone: 平
+  guangyun: 簀也易曰遜于牀下士莊切三
+- reading: chuáng
+  old_chinese: sɡraŋ
+  middle_chinese: dʐiɐŋ
+  fanqie: 士莊切
+  tone: 平
+  guangyun: 簀也易曰遜于牀下士莊切三
+  senses:
+  - concept_uuid: 4aaec65e-de56-4889-9ccd-1738f14d758a
+    concept_label: BED
+- reading: chuáng
+  old_chinese: sɡraŋ
+  middle_chinese: dʐiɐŋ
+  fanqie: 士莊切
+  tone: 平
+  guangyun: 俗牀
+  senses:
+  - concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+    concept_label: SEAT
+source:
+  source_file: taxchar.xml

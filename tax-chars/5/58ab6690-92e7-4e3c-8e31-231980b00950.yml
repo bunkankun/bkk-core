@@ -1,0 +1,107 @@
+uuid: 58ab6690-92e7-4e3c-8e31-231980b00950
+type: tax-char
+heads:
+- 約
+pronunciations:
+- reading: yào
+  old_chinese: qplewɡs
+  middle_chinese: ʔiɛu
+  fanqie: 於笑切
+  tone: 去
+  guangyun: 又於略切
+- reading: yuē
+  old_chinese: qplewɡ
+  middle_chinese: ʔiɐk
+  fanqie: 於略切
+  tone: 入
+  guangyun: 約束又儉也少也又姓韓子有古賢者約續於略切又於𥬇切二
+  senses:
+  - concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+    concept_label: TIE UP
+    children:
+    - gloss: means of
+      concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+      concept_label: ROPE
+    - gloss: abstract
+      concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+      concept_label: RESTRAIN
+      children:
+      - gloss: 'feature: attitude'
+        concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+        concept_label: FRUGAL
+        children:
+        - gloss: 'rhetorically (also causative: simplify)'
+          concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+          concept_label: SIMPLE
+      - gloss: 'feature: objective wealth'
+        concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+        concept_label: POOR
+        children:
+        - gloss: status
+          concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+          concept_label: HUMBLE
+        - gloss: resultative
+          concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+          concept_label: WEAK
+          children:
+          - gloss: in number
+            concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+            concept_label: FEW
+          - gloss: in size
+            concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+            concept_label: SMALL
+            children:
+            - gloss: causative
+              concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+              concept_label: REDUCE
+          - gloss: inchoative
+            concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+            concept_label: DECLINE
+      - gloss: specific
+        concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+        concept_label: HINDER
+        children:
+        - gloss: prevent free movement
+          concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+          concept_label: BLOCK
+          children:
+          - gloss: block sight of
+            concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+            concept_label: ENVELOP
+            children:
+            - gloss: 'figurative: blocked from sight'
+              concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+              concept_label: OBSCURE
+              children:
+              - gloss: grammaticalised
+                concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+                concept_label: APPROXIMATELY
+    - gloss: 'figurative: social link'
+      concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+      concept_label: AGREE TO
+      children:
+      - gloss: as agreed
+        concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+        concept_label: PROVIDE
+      - gloss: subjective
+        concept_uuid: 334716e8-8f40-4a81-9caa-b49371c683f9
+        concept_label: EXPECT
+        children:
+        - gloss: definitive
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+      - gloss: intensitive
+        concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+        concept_label: PROMISE
+      - gloss: written agreement
+        concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+        concept_label: CONTRACT
+      - gloss: 'causative: into interaction'
+        concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+        concept_label: INVITE
+        children:
+        - gloss: by authority
+          concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+          concept_label: COMMAND
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,30 @@
+uuid: 33b1429f-56ea-464b-8d71-bcc6ec87b054
+type: tax-char
+heads:
+- 話
+pronunciations:
+- reading: huà
+  old_chinese: ɡroods
+  middle_chinese: ɦʷɯai
+  fanqie: 下快切
+  tone: 去
+  guangyun: 語話説文作䛡合㑹善言也下快切一
+  senses:
+  - concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+    concept_label: ADDRESS
+  - concept_uuid: 80840f07-419c-43e0-944d-4384bd4ac153
+    concept_label: LANGUAGE
+  - concept_uuid: fdd2e445-4a61-4cf3-bfd1-158726b36de6
+    concept_label: NONSENSE
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+  - concept_uuid: 77331b37-ad87-4fbb-8bbc-4cd53212da2a
+    concept_label: TOPIC
+  - concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+    concept_label: THING
+  - concept_uuid: 4cf207dc-f42a-417e-b1d5-5823f4c3f5b2
+    concept_label: STORY
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+source:
+  source_file: taxchar.xml

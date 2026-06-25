@@ -1,0 +1,25 @@
+uuid: e71ec2ab-7db4-4d9f-9459-204c4a1e122e
+type: tax-char
+heads:
+- 河
+pronunciations:
+- reading: hé
+  old_chinese: ɡlaal
+  middle_chinese: ɦɑ
+  fanqie: 胡歌切
+  tone: 平
+  guangyun: 水名出積石山海經云河出崐崘西北隅發源注海亦州取水以名之爾雅有九河徒駭太史馬頰覆釜胡蘇𥳑絜鉤盤鬲津
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+    children:
+    - gloss: general
+      concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+      concept_label: RIVER
+      children:
+      - gloss: of the Yellow River=河伯
+        concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+        concept_label: DEITY
+    - gloss: figurative> CONSTELLATIONS
+source:
+  source_file: taxchar.xml

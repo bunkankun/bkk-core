@@ -1,0 +1,28 @@
+uuid: 8fb31c4e-c634-44be-8dab-25745f865d72
+type: tax-char
+heads:
+- 米
+pronunciations:
+- reading: mǐ
+  old_chinese: miiʔ
+  middle_chinese: mei
+  fanqie: 莫禮切
+  tone: 上
+  guangyun: 榖實説文作米又胡姓莫禮切七
+  senses:
+  - concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+    concept_label: RICE
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: 671b0b58-d264-40b2-84b8-8063b9241b3d
+    concept_label: NUT
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+    concept_label: PATTERN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

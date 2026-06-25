@@ -1,0 +1,36 @@
+uuid: 2ae4433d-8345-4653-8a21-b9d326b107cc
+type: tax-char
+heads:
+- 咽
+pronunciations:
+- reading: yē
+  old_chinese: qiid
+  middle_chinese: ʔet
+  fanqie: 烏結切
+  tone: 入
+  guangyun: 哽咽
+  senses:
+  - concept_uuid: e7560daf-beb2-4e66-adc1-eaa7c1f700a6
+    concept_label: CHOKE
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+- reading: yān
+  old_chinese: qiin
+  middle_chinese: ʔen
+  fanqie: 烏前切
+  tone: 平
+  guangyun: 咽喉
+  senses:
+  - concept_uuid: 58d01024-2699-44d1-b35b-0c1702a70e21
+    concept_label: THROAT
+- reading: yàn
+  old_chinese: qiins
+  middle_chinese: ʔen
+  fanqie: 於甸切
+  tone: 去
+  guangyun: 同嚥
+  senses:
+  - concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+    concept_label: SWALLOW
+source:
+  source_file: taxchar.xml

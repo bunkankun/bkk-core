@@ -1,0 +1,25 @@
+uuid: 96235a7f-8b82-4b9e-a57f-04bfb07188d6
+type: tax-char
+heads:
+- 勇
+pronunciations:
+- reading: yǒng
+  old_chinese: k-loŋʔ
+  middle_chinese: jioŋ
+  fanqie: 余隴切
+  tone: 上
+  guangyun: 猛也説文作勈气也余隴切十五
+  senses:
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - gloss: ruthless
+    concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - gloss: 'exocentric: person exhibiting this quality'
+    concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+    concept_label: SOLDIER
+  - gloss: =踴
+    concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+source:
+  source_file: taxchar.xml

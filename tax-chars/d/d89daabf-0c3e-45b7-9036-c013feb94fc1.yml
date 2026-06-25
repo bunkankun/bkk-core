@@ -1,0 +1,94 @@
+uuid: d89daabf-0c3e-45b7-9036-c013feb94fc1
+type: tax-char
+heads:
+- 徹
+pronunciations:
+- reading: zhé
+  old_chinese: ded
+  middle_chinese: ɖɯiɛt
+  fanqie: 直列切
+  tone: 入
+  guangyun: 通也明也道也達也又丑列切
+  senses:
+  - concept_uuid: 39f87c12-db3e-440c-b558-a42b89ce13db
+    concept_label: PENETRATE
+    children:
+    - gloss: abstract
+      concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+      concept_label: INTIMATE
+    - gloss: process
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+    - gloss: destructively
+      concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+      concept_label: PIERCE
+      children:
+      - gloss: result
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+        children:
+        - gloss: generalised
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+    - gloss: grammaticalised
+      concept_uuid: f2c1d0d1-3f16-4523-8b7c-648b22b332ed
+      concept_label: THROUGH
+      children:
+      - gloss: result
+        concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+        concept_label: REACH
+        children:
+        - gloss: intellectually
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+          children:
+          - gloss: result
+            concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+            concept_label: VISIBLE
+      - gloss: object
+        concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+        concept_label: LIMIT
+        children:
+        - gloss: perfective
+          concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+          concept_label: EXHAUST
+          children:
+          - gloss: act out completley
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+            children:
+            - gloss: degree
+              concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+              concept_label: INTENSELY
+            - gloss: result
+              concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+              concept_label: ORDERLY
+              children:
+              - gloss: causative
+                concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+                concept_label: ARRANGE
+                children:
+                - gloss: associated action
+                  concept_uuid: fb4b8b85-67a4-4cbf-9af2-bed7617e2abf
+                  concept_label: PICK UP
+                - gloss: object>>TAX
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - gloss: =撤
+    concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - gloss: =轍
+    concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - gloss: =澈
+    concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+    concept_label: CLEAR
+  - gloss: SURNAME
+- reading: chè
+  old_chinese: thed
+  middle_chinese: ʈʰɯiɛt
+  fanqie: 丑列切
+  tone: 入
+  guangyun: 通也
+source:
+  source_file: taxchar.xml

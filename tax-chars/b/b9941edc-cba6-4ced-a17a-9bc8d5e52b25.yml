@@ -1,0 +1,26 @@
+uuid: b9941edc-cba6-4ced-a17a-9bc8d5e52b25
+type: tax-char
+heads:
+- 吉
+pronunciations:
+- reading: jí
+  old_chinese: kid
+  middle_chinese: kit
+  fanqie: 居質切
+  tone: 入
+  guangyun: 吉利又姓出馮翊尹吉甫之後漢有漢中太守吉恪居質切八
+  senses:
+  - concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+    concept_label: AUSPICIOUS
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: 5719998a-7808-4ae4-a03d-2c5c58bb7d1a
+    concept_label: HEXAGRAM
+  - concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+source:
+  source_file: taxchar.xml

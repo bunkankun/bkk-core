@@ -1,0 +1,37 @@
+uuid: 5958c6b3-9e5c-4623-b53d-440ee5ecc4d2
+type: tax-char
+heads:
+- 潮
+pronunciations:
+- reading: cháo
+  old_chinese: daw
+  middle_chinese: ɖɯiɛu
+  fanqie: 直遙切
+  tone: 平
+  guangyun: 潮水
+  senses:
+  - concept_uuid: 28654fcc-ae85-437e-b9b2-284a7d7dcfc2
+    concept_label: TIDE
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+    concept_label: DAY
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: 8e11a415-d97e-4c45-9c00-92b87a054cd4
+    concept_label: BLUSH
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+    concept_label: GROUP
+  - concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+    concept_label: EVENT
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: NAUSEA
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

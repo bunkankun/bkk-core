@@ -1,0 +1,48 @@
+uuid: 5d58cbe2-84d1-463b-8929-f1a0d91335e1
+type: tax-char
+heads:
+- 宗
+pronunciations:
+- reading: zōng
+  old_chinese: tsuuŋ
+  middle_chinese: tsuoŋ
+  fanqie: 作冬切
+  tone: 平
+  guangyun: 衆也本也尊也亦官名漢書宗正秦官也掌親屬亦姓周卿宗伯之後出南陽又漢複姓二氏前漢有宗伯鳯南燕録有宗正謙善卜相作冬切二
+  senses:
+  - concept_label: 上古音系： 聲符 宗 韻部 終 韻部細分 0 對應廣韻小韻 宗 擬音 ʔsuːŋ
+  - concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+    concept_label: ANCESTOR
+    children:
+    - gloss: place for the ancestors
+      concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+      concept_label: TEMPLE
+    - gloss: belonging to common ancestry
+      concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+      concept_label: FAMILY
+    - gloss: figurative
+      concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+      concept_label: SENIOR
+      children:
+      - gloss: attitudinal
+        concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+        concept_label: RESPECT
+    - gloss: process
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - gloss: figurative
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+        children:
+        - gloss: subjective
+          concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+          concept_label: IMPORTANT
+          children:
+          - gloss: psychological
+            concept_uuid: 0767d320-ade9-447e-ada7-e9bf0c4af249
+            concept_label: INSPIRATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T20:50:36.299+09:00'

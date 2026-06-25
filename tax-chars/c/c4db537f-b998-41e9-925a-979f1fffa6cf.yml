@@ -1,0 +1,22 @@
+uuid: c4db537f-b998-41e9-925a-979f1fffa6cf
+type: tax-char
+heads:
+- 皮
+pronunciations:
+- reading: pí
+  old_chinese: bral
+  middle_chinese: bɯiɛ
+  fanqie: 符羈切
+  tone: 平
+  guangyun: 皮膚也釋名曰皮被也被覆體也亦姓出下邳符羈切六
+  senses:
+  - concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+  - concept_uuid: f5ec67c7-9094-410c-a3fc-9514ba62816a
+    concept_label: LEATHER
+  - concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+    concept_label: SKIN
+  - concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+    concept_label: TARGET
+source:
+  source_file: taxchar.xml

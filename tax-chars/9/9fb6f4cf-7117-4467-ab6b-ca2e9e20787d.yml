@@ -1,0 +1,22 @@
+uuid: 9fb6f4cf-7117-4467-ab6b-ca2e9e20787d
+type: tax-char
+heads:
+- 稼
+pronunciations:
+- reading: jià
+  old_chinese: kraas
+  middle_chinese: kɯa
+  fanqie: 古訝切
+  tone: 去
+  guangyun: 稼穡種曰稼歛曰穡
+  senses:
+  - concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+    concept_label: AGRICULTURE
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+    concept_label: HARVEST
+  - concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+    concept_label: SOW
+source:
+  source_file: taxchar.xml

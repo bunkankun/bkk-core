@@ -1,0 +1,77 @@
+uuid: 2e377942-2d8d-413f-b536-f114e4eaf92c
+type: tax-char
+heads:
+- 須
+pronunciations:
+- reading: xū
+  old_chinese: so
+  middle_chinese: sio
+  fanqie: 相俞切
+  tone: 平
+  guangyun: 意所欲也説文曰面毛也俗作鬚又姓風俗通云太昊之後史記魏有須賈又漢複姓左傳遂人四族有須遂氏又虜複姓匈奴貴姓有湏卜氏相俞切十四
+  senses:
+  - concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+    concept_label: MOMENT
+    children:
+    - gloss: only for a moment
+      concept_uuid: 04ab2f04-8e86-4176-b0ec-a40e3a6a7129
+      concept_label: SLIGHTLY
+      children:
+      - gloss: with slight change
+        concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+        concept_label: SLOW
+        children:
+        - gloss: so as to stay put
+          concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+          concept_label: REMAIN
+          children:
+          - gloss: in expectiation
+            concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+            concept_label: WAIT
+            children:
+            - gloss: with assurance
+              concept_uuid: 334716e8-8f40-4a81-9caa-b49371c683f9
+              concept_label: EXPECT
+              children:
+              - gloss: as necessary
+                concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+                concept_label: NEED
+                children:
+                - gloss: linguistically
+                  concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+                  concept_label: DEMAND
+              - gloss: gramamticalised
+                concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+                concept_label: CERTAIN
+                children:
+                - gloss: morally
+                  concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+                  concept_label: SHOULD
+                  children:
+                  - gloss: action
+                    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+                    concept_label: CONFORM
+                    children:
+                    - gloss: as necessary
+                      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+                      concept_label: RELY ON
+                    - gloss: grammaticalised:generalised
+                      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+                      concept_label: COPULA
+                      children:
+                      - gloss: contrastive
+                        concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+                        concept_label: BUT
+                        children:
+                        - gloss: conditional>EVEN
+                          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+                          concept_label: IF
+  - gloss: =鬚
+    concept_uuid: 3624aada-f603-40a7-a028-e703ade2ea00
+    concept_label: BEARD
+  - concept_uuid: edb21bf5-7c56-4d54-b5bf-8303f43de2b1
+    concept_label: ARISTOCRATS OF QI
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T17:48:57.729+09:00'

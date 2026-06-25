@@ -1,0 +1,43 @@
+uuid: a3b717c7-16bc-49c1-97e1-30cccfc4cbcc
+type: tax-char
+heads:
+- 統
+pronunciations:
+- reading: tǒng
+  old_chinese: thuuŋs
+  middle_chinese: tʰuoŋ
+  fanqie: 他綜切
+  tone: 去
+  guangyun: 揔也紀也又姓他綜切二
+  senses:
+  - concept_uuid: da23df6b-934b-4237-beee-cdccd8963456
+    concept_label: ABSTRACT
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+  - concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+    concept_label: UNITE
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+    concept_label: IMPORTANT
+  - concept_uuid: 95acda11-f087-4154-bf7d-385a4a509c40
+    concept_label: SUMMARISE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: ea2d80c3-c4f5-44c0-be8a-6034a2415e2e
+    concept_label: LAYER
+  - concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+    concept_label: PIERCE
+  - concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+    concept_label: LEAK
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - gloss: = 筒
+source:
+  source_file: taxchar.xml

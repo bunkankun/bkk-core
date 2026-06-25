@@ -1,0 +1,33 @@
+uuid: c2b1be48-95fb-4195-967c-66bf616eb69f
+type: tax-char
+heads:
+- 敵
+pronunciations:
+- reading: dí
+  old_chinese: ɡ-leeɡ
+  middle_chinese: dek
+  fanqie: 徒歷切
+  tone: 入
+  guangyun: 匹也當也輩也主也
+  senses:
+  - gloss: action
+    concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+    children:
+    - gloss: successfully
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: EQUAL
+    - gloss: object opposed
+      concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+      concept_label: ENEMY
+    - gloss: grammaticalised
+      concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+      concept_label: TOWARDS
+  - gloss: =嫡
+    concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+  - gloss: =適
+    concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+    concept_label: RULER
+source:
+  source_file: taxchar.xml

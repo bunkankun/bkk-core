@@ -1,0 +1,41 @@
+uuid: 0db10d19-8956-4f26-9369-9a741bdad184
+type: tax-char
+heads:
+- 導
+pronunciations:
+- reading: dǎo
+  old_chinese: ɡ-luus
+  middle_chinese: dɑu
+  fanqie: 徒到切
+  tone: 去
+  guangyun: 引也徒到切十四
+  senses:
+  - concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+    concept_label: FROM
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+    concept_label: ENCOURAGE
+  - concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+    concept_label: SOURCE
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: 394a0980-04a6-4a42-b28f-ceea8dc2b09a
+    concept_label: CONDUCT
+  - concept_uuid: c752541d-4ef4-4f86-8ca6-1ab1acd1e076
+    concept_label: HEALTHY
+  - gloss: SAY
+  - concept_uuid: 6eb7f0a0-8587-4694-a162-0e0453bb206d
+    concept_label: COMB
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

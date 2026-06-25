@@ -1,0 +1,88 @@
+uuid: 6fa17ec5-281d-436c-a3da-ddefbb6dff18
+type: tax-char
+heads:
+- 多
+pronunciations:
+- reading: zhī
+  old_chinese: ʔl'aal
+  middle_chinese: tɕiɛ
+  fanqie: 章移切
+  tone: 平
+- reading: duō
+  old_chinese: k-laal
+  middle_chinese: tɑ
+  fanqie: 得何切
+  tone: 平
+  guangyun: 衆也重也又貝多樹名葉如枇杷葉得何切三
+unattributed_senses:
+- gloss: many/much
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  concept_label: MANY
+  children:
+  - gloss: comparative
+    concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+    concept_label: MORE
+    children:
+    - gloss: change into more
+      concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+      concept_label: INCREASE
+  - gloss: frequency:times
+    concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+  - gloss: generalised:feature
+    concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+    children:
+    - gloss: in size
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+    - gloss: abstract
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+      children:
+      - gloss: and good
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+        children:
+        - gloss: putative
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+          children:
+          - gloss: declarative
+            concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+            concept_label: PRAISE
+  - gloss: 'abstractly, of features: degree'
+    concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+    children:
+    - gloss: superlative
+      concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+      concept_label: EXTREME
+      children:
+      - gloss: too much/many
+        concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+        concept_label: EXCESSIVE
+        children:
+        - gloss: uselessly
+          concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+          concept_label: SURPLUS
+        - gloss: rhetorically
+          concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+          concept_label: EXAGGERATE
+        - gloss: putative:find excessively sigular
+          concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+          concept_label: STRANGE
+    - gloss: have enough or much of
+      concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+      concept_label: HAVE
+      children:
+      - gloss: bring about much of
+        concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+        concept_label: CAUSE
+  - gloss: at most
+    concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T22:45:16.269+09:00'

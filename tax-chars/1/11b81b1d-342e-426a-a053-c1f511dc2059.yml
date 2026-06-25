@@ -1,0 +1,61 @@
+uuid: 11b81b1d-342e-426a-a053-c1f511dc2059
+type: tax-char
+heads:
+- 濟
+pronunciations:
+- reading: jǐ
+  old_chinese: tsiilʔ
+  middle_chinese: tsei
+  fanqie: 子禮切
+  tone: 上
+  guangyun: 定也止也齊也亦濟濟多威儀皃又水名出王屋亦州本齊地秦屬東郡宋於此置碻磝戍後魏於此置濟北郡周武帝置肥城郡武德改爲濟州或作泲又姓出姓苑襄城人也子禮切又音霽五
+  senses:
+  - concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+    concept_label: SERIOUS
+    children:
+    - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+      concept_label: ORDERLY
+    - gloss: social
+      concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+      concept_label: ORDERLY
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_label: REGIONS
+- reading: jì
+  old_chinese: tsiils
+  middle_chinese: tsei
+  fanqie: 子計切
+  tone: 去
+  guangyun: 渡也定也止也又卦名旣濟又子禮切
+  senses:
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+    children:
+    - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+      concept_label: REACH
+      children:
+      - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+      - concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+        concept_label: SUCCEED
+        children:
+        - concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+          concept_label: SUFFICIENT
+          children:
+          - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+            concept_label: COMPLETE
+          - gloss: supply
+            concept_label: PREPARE
+          - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+            concept_label: HELP
+            children:
+            - concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+              concept_label: RESCUE
+              children:
+              - concept_uuid: 10ca3dbe-56f7-4aee-9149-b2dc07143a67
+                concept_label: SALVATION
+  - concept_label: 濟 qí《集韻》前西切，平齊從。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T00:21:26.976+09:00'

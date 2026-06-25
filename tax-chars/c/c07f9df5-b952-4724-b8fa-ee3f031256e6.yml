@@ -1,0 +1,46 @@
+uuid: c07f9df5-b952-4724-b8fa-ee3f031256e6
+type: tax-char
+heads:
+- 絲
+pronunciations:
+- reading: sī
+  old_chinese: sɯ
+  middle_chinese: sɨ
+  fanqie: 息兹切
+  tone: 平
+  guangyun: 説文云蠶所吐也又一蠶爲忽十忽爲絲淮南子曰蠶餌絲則商絃绝
+  senses:
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+    children:
+    - gloss: 'exocentric: silken'
+      concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+      concept_label: CLOTH
+      children:
+      - gloss: generalised
+        concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+        concept_label: THREAD
+        children:
+        - gloss: specifically
+          concept_uuid: cb1283bf-ff17-4816-8711-21cff46b1a89
+          concept_label: STRING
+          children:
+          - gloss: 'synecdoche: exocentric'
+            concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+            concept_label: STRING INSTRUMENTS
+        - gloss: feature
+          concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+          concept_label: THIN
+          children:
+          - gloss: generalised
+            concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+            concept_label: TENUOUS
+            children:
+            - gloss: quantifying
+              concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+              concept_label: FEW
+  - gloss: 'grammaticalised:'
+    concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+source:
+  source_file: taxchar.xml

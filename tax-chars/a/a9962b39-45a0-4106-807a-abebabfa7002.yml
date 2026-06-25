@@ -1,0 +1,24 @@
+uuid: a9962b39-45a0-4106-807a-abebabfa7002
+type: tax-char
+heads:
+- 篡
+pronunciations:
+- reading: cuàn
+  old_chinese: skhroons
+  middle_chinese: tʂʰʷɯan
+  fanqie: 初患切
+  tone: 去
+  guangyun: 奪也逆也初患切一
+  senses:
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+    concept_label: ROB
+  - concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+    concept_label: SHOOT
+  - concept_uuid: 4e918273-11e4-46cc-a4f7-218ea2522e7a
+    concept_label: BODY PARTS
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+source:
+  source_file: taxchar.xml

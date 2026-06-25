@@ -1,0 +1,26 @@
+uuid: e09eab05-68c1-4976-b5e9-c5c34a2d69b3
+type: tax-char
+heads:
+- 囊
+pronunciations:
+- reading: náng
+  old_chinese: naaŋ
+  middle_chinese: nɑŋ
+  fanqie: 奴當切
+  tone: 平
+  guangyun: 袋也説文曰囊橐也又姓楚莊王子子囊之後以王父字爲氏奴當切二
+  senses:
+  - concept_uuid: 6203b39e-77a2-434b-bf90-0a7ed4476aae
+    concept_label: BAG
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

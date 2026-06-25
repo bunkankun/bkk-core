@@ -1,0 +1,48 @@
+uuid: 3fd9b227-c08b-438c-8932-724f3b8086f8
+type: tax-char
+heads:
+- 訛
+pronunciations:
+- reading: é
+  old_chinese: ŋʷaal
+  middle_chinese: ŋuɑ
+  fanqie: 五禾切
+  tone: 平
+  guangyun: 同訛
+- reading: é
+  old_chinese: ŋɡʷaal
+  middle_chinese: ŋuɑ
+  fanqie: 五禾切
+  tone: 平
+  guangyun: 同訛
+- reading: é
+  old_chinese: ŋʷaal
+  middle_chinese: ŋuɑ
+  fanqie: 五禾切
+  tone: 平
+  guangyun: 謬也化也動也五禾切七
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 6b8bacb6-d2b7-48e0-bf4f-23c19ba0882c
+    concept_label: LIE
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: 3ef9366a-eb73-4773-b1b0-0aa7fad28481
+    concept_label: ILLUSION
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 28207f02-7a6e-4b32-a4f0-7ab30a2c2ea9
+    concept_label: CURSE
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: 92a331ef-692c-4ff2-b974-dc1d6c57c485
+    concept_label: SNAKE
+source:
+  source_file: taxchar.xml

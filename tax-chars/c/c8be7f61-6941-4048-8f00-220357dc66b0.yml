@@ -1,0 +1,53 @@
+uuid: c8be7f61-6941-4048-8f00-220357dc66b0
+type: tax-char
+heads:
+- 蘇
+pronunciations:
+- reading: sū
+  old_chinese: sɡlaa
+  middle_chinese: suo
+  fanqie: 素姑切
+  tone: 平
+  guangyun: 紫蘇草也蘇木也滿也俁也又姓出扶風武邑二望素姑切四
+  senses:
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 92129761-23a4-4faf-aff0-13ff78929163
+    concept_label: FIREWOOD
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+    concept_label: LIQUOR
+  - concept_uuid: 52e63fd8-19d0-4c3c-8243-6482c979724a
+    concept_label: RESURRECTION
+  - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+    concept_label: REST
+  - concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+    concept_label: RESCUE
+  - concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+    concept_label: WAKE UP
+  - concept_uuid: f9403b9d-aec6-4063-b05e-5afa0cfc3797
+    concept_label: TAIL
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+  - concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+    concept_label: TOWARDS
+  - concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+    concept_label: SOFT
+  - gloss: PROVINCES (江蘇)
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - gloss: SOVIET
+  - gloss: AIRPLANES (Sukhoi)
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

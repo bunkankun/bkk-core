@@ -1,0 +1,52 @@
+uuid: 660fd5a5-659c-450d-9c9c-4c7da14f712d
+type: tax-char
+heads:
+- 傅
+pronunciations:
+- reading: fù
+  old_chinese: paɡs
+  middle_chinese: pio
+  fanqie: 方遇切
+  tone: 去
+  guangyun: 相也亦姓本自傅説出傳巖因以爲氏岀北地清河二望
+  senses:
+  - concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+    concept_label: TEACHER
+  - gloss: typical activity
+    concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+    children:
+    - gloss: typical action
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: cause to be able to rely on one
+        concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+        concept_label: HELP
+    - gloss: typcal action
+      concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+      concept_label: ENTRUST
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =附
+    concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+    children:
+    - gloss: resulting feature
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+    - gloss: perfective
+      concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+      concept_label: REACH
+    - gloss: causative
+      concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+      concept_label: ADD
+  - gloss: =付
+    concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+    children:
+    - gloss: abstract
+      concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+      concept_label: ADD
+source:
+  source_file: taxchar.xml

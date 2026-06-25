@@ -1,0 +1,36 @@
+uuid: 9c9d1e2d-6643-4300-8a23-5f4e427b1f77
+type: tax-char
+heads:
+- 庚
+pronunciations:
+- reading: gēng
+  old_chinese: kraaŋ
+  middle_chinese: kɯaŋ
+  fanqie: 古行切
+  tone: 平
+  guangyun: 更也償也爾雅云太歳在庚曰上章又姓唐有太常博士庚季良又漢複姓莊子有庚桑楚古行切十二
+  senses:
+  - concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - concept_uuid: bc7523b9-775e-48b5-b5df-e623f5ef5c27
+    concept_label: DATE
+  - concept_uuid: 404b2560-53b6-4de7-a4b9-5221cb83c7c1
+    concept_label: HEAVENLY STEM
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+    concept_label: RECTITUDE
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+    concept_label: GIVE BACK
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

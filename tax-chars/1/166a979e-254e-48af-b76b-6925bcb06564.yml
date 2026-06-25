@@ -1,0 +1,36 @@
+uuid: 166a979e-254e-48af-b76b-6925bcb06564
+type: tax-char
+heads:
+- 擬
+pronunciations:
+- reading: nǐ
+  old_chinese: ŋɡɯʔ
+  middle_chinese: ŋɨ
+  fanqie: 魚紀切
+  tone: 上
+  guangyun: 度也魚紀切六
+  senses:
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+    concept_label: FUTURE
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+    concept_label: INTEND
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+source:
+  source_file: taxchar.xml

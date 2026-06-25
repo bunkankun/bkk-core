@@ -1,0 +1,39 @@
+uuid: 63f3268f-00ae-401d-97fe-f184fc03f696
+type: tax-char
+heads:
+- 改
+pronunciations:
+- reading: gǎi
+  old_chinese: klɯɯʔ
+  middle_chinese: kəi
+  fanqie: 古亥切
+  tone: 上
+  guangyun: 更也又姓秦有大夫改産古亥切三
+  senses:
+  - concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+    concept_label: IMPROVE
+    children:
+    - gloss: causative
+      concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+      concept_label: CORRECT
+      children:
+      - gloss: generalised
+        concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+        concept_label: CHANGE
+        children:
+        - gloss: turn around
+          concept_uuid: 50d39b76-3946-438d-98e5-b2b1599be8eb
+          concept_label: TURN BACK
+        - gloss: radical
+          concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+          concept_label: REPLACE
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+            concept_label: AGAIN
+            children:
+            - gloss: incremental
+              concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+              concept_label: MORE
+source:
+  source_file: taxchar.xml

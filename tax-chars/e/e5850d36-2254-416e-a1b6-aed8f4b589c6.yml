@@ -1,0 +1,40 @@
+uuid: e5850d36-2254-416e-a1b6-aed8f4b589c6
+type: tax-char
+heads:
+- 劉
+pronunciations:
+- reading: liú
+  old_chinese: b-ru
+  middle_chinese: liu
+  fanqie: 力求切
+  tone: 平
+  guangyun: 剋也陳也殺也亦劉子木名實如棃核堅味酸美出交阯又姓出彭城沛國弘農河間中山梁郡頓丘南陽東平髙平東莞平原廣陵臨淮琅邪蘭陵東海丹陽宣城南郡髙堂髙密竟陵長沙河南等二十五望並自陶唐氏旣衰其後劉累學擾龍事孔甲范氏其後也唯河南一望即虜姓也後魏書官氏志獨孤氏後改爲劉氏力求切四十四
+  senses:
+  - gloss: (battle-axe)
+    concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+    concept_label: AXE
+    children:
+    - gloss: typical use of
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+      children:
+      - gloss: unjust
+        concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+        concept_label: MURDER
+      - gloss: result
+        concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+        concept_label: WITHER
+      - gloss: 'abstract: generalised'
+        concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+        concept_label: WIN
+  - gloss: =懰
+    concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 68c2fcb8-f3eb-43a8-b411-ebd7dea6463f
+    concept_label: RULERS OF LIU
+source:
+  source_file: taxchar.xml

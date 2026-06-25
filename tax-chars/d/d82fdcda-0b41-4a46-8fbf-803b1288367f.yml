@@ -1,0 +1,23 @@
+uuid: d82fdcda-0b41-4a46-8fbf-803b1288367f
+type: tax-char
+heads:
+- 偕
+pronunciations:
+- reading: jiē
+  old_chinese: kriid
+  middle_chinese: kɯæi
+  fanqie: 古諧切
+  tone: 平
+  guangyun: 俱也
+  senses:
+  - concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+    concept_label: ACCOMPANY
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - gloss: = 皆
+source:
+  source_file: taxchar.xml

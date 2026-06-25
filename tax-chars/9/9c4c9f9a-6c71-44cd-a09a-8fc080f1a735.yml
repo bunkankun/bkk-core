@@ -1,0 +1,18 @@
+uuid: 9c4c9f9a-6c71-44cd-a09a-8fc080f1a735
+type: tax-char
+heads:
+- 釣
+pronunciations:
+- reading: diào
+  old_chinese: p-leewɡs
+  middle_chinese: teu
+  fanqie: 多嘯切
+  tone: 去
+  guangyun: 釣魚淮南子曰詹公釣千歳之鯉詹公古善釣者吕氏春秋曰太公釣於滋泉以遇文王
+  senses:
+  - concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+    concept_label: FISHING
+  - concept_uuid: 03ca3b9c-0961-4724-bbb4-6cb3f7517f48
+    concept_label: SPORTS
+source:
+  source_file: taxchar.xml

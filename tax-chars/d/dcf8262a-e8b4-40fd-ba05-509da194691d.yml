@@ -1,0 +1,47 @@
+uuid: dcf8262a-e8b4-40fd-ba05-509da194691d
+type: tax-char
+heads:
+- 材
+pronunciations:
+- reading: cái
+  old_chinese: sɡɯɯ
+  middle_chinese: dzəi
+  fanqie: 昨哉切
+  tone: 平
+  guangyun: 木挺也
+  senses:
+  - concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+    concept_label: TIMBER
+    children:
+    - gloss: 'generalised, abstract: human usefulness for'
+      concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+      concept_label: TALENT
+      children:
+      - gloss: exophoric, capable person
+        concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+        concept_label: HUMAN
+      - gloss: grammaticalised
+        concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+        concept_label: ABLE
+    - gloss: object made of
+      concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+      concept_label: COFFIN
+    - gloss: 'generalised: useful'
+      concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+      concept_label: SUBSTANCE
+      children:
+      - gloss: treat as
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+      - gloss: specific
+        concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+        concept_label: FRUIT
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+    concept_label: RICH
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+  - gloss: INTERJECTION (哉)
+source:
+  source_file: taxchar.xml

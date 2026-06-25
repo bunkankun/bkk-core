@@ -1,0 +1,26 @@
+uuid: 4f7610b8-c249-4cf4-9117-9ad958e6562b
+type: tax-char
+heads:
+- 恨
+pronunciations:
+- reading: hèn
+  old_chinese: ɡɯɯns
+  middle_chinese: ɦən
+  fanqie: 胡艮切
+  tone: 去
+  guangyun: 怨也胡艮切一
+  senses:
+  - concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+    concept_label: DISSATISFIED
+    children:
+    - gloss: about past
+      concept_uuid: 50ed529a-449f-4621-b5db-c11909f9a6c5
+      concept_label: REGRET
+    - gloss: about present
+      concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+      concept_label: HATE
+    - gloss: in action
+      concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+      concept_label: OFFEND
+source:
+  source_file: taxchar.xml

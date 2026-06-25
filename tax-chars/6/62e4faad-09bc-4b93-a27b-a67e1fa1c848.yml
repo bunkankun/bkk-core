@@ -1,0 +1,62 @@
+uuid: 62e4faad-09bc-4b93-a27b-a67e1fa1c848
+type: tax-char
+heads:
+- 侵
+pronunciations:
+- reading: qīn
+  old_chinese: skhim
+  middle_chinese: tsʰim
+  fanqie: 七林切
+  tone: 平
+  guangyun: 漸進也説文作㑴又姓三輔決録有侵恭七林切七
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+    children:
+    - gloss: feature
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+      children:
+      - gloss: grammaticalised> INTENSIVELY
+    - gloss: resultative
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: INVADE
+      children:
+      - gloss: generalised
+        concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+        concept_label: ENTER
+        children:
+        - gloss: 'grammaticalised: when/until it comes to'
+          concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+          concept_label: ARRIVE
+        - concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+          concept_label: ADVANCE
+        - gloss: resultative
+          concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+          concept_label: ARROGATE
+    - gloss: generalised
+      concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+      concept_label: DAMAGE
+      children:
+      - gloss: concrete
+        concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+        concept_label: FAMINE
+      - gloss: resultative
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+      - gloss: abstract
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+        children:
+        - gloss: psychological
+          concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+          concept_label: HUMILIATE
+        - gloss: offend limitations
+          concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+          concept_label: EXCESSIVE
+  - concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+    concept_label: GRADUALLY
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+source:
+  source_file: taxchar.xml

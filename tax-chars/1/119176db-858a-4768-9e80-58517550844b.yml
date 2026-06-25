@@ -1,0 +1,37 @@
+uuid: 119176db-858a-4768-9e80-58517550844b
+type: tax-char
+heads:
+- 今
+pronunciations:
+- reading: jīn
+  old_chinese: krɯm
+  middle_chinese: kɯim
+  fanqie: 居吟切
+  tone: 平
+  guangyun: 對古之稱説文云是時也
+  senses:
+  - concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+    children:
+    - gloss: now!
+      concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+      concept_label: IMPERATIVE MARKER
+    - gloss: logically additive
+      concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+      concept_label: MOREOVER
+  - gloss: temporal>AS SOON AS
+    children:
+    - gloss: purely hypothetical, logical
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+      children:
+      - gloss: jīn
+        concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+        concept_label: COUNTERFACTUAL
+      - gloss: temporal, immediate
+        concept_uuid: f367335b-2217-4e3e-bebc-006faa5f68ec
+        concept_label: AS SOON AS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T19:41:52.212+09:00'

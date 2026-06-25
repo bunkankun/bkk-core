@@ -1,0 +1,30 @@
+uuid: 3191d242-fbae-4baf-b44b-791f17881ed1
+type: tax-char
+heads:
+- 困
+pronunciations:
+- reading: kùn
+  old_chinese: khuuns
+  middle_chinese: kʰuon
+  fanqie: 苦悶切
+  tone: 去
+  guangyun: 亂也逃也病之甚也悴也極也苦悶切四
+  senses:
+  - concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+    concept_label: DIFFICULT
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: 2f844934-733e-4e0c-90df-5369a0338e96
+    concept_label: LABOUR
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+- reading: kùn
+  old_chinese: khuuns
+  middle_chinese: kʰuon
+  fanqie: 苦悶切
+  tone: 去
+  guangyun: 困古文
+source:
+  source_file: taxchar.xml

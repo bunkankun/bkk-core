@@ -1,0 +1,40 @@
+uuid: bd3e19ac-6482-4c7f-8074-db4f784122db
+type: tax-char
+heads:
+- 綴
+pronunciations:
+- reading: zhuì
+  old_chinese: krlods
+  middle_chinese: ʈʷɯiei
+  fanqie: 陟衛切
+  tone: 去
+  guangyun: 連綴陟衞切又丁劣切十一
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+    concept_label: SEW
+  - concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+    concept_label: UNITE
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGN
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: ebdfd837-97b1-4ec9-b98d-aaf99e5d0293
+    concept_label: COMPILE
+- reading: chuò
+  old_chinese: krlod
+  middle_chinese: ʈʷɯiet
+  fanqie: 陟劣切
+  tone: 入
+  guangyun: 連補也又竹芮切
+  senses:
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - gloss: = 輟
+source:
+  source_file: taxchar.xml

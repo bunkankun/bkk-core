@@ -1,0 +1,130 @@
+uuid: 2415236c-d4b6-4eae-ac43-208e74ab7029
+type: tax-char
+heads:
+- 質
+pronunciations:
+- reading: zhì
+  old_chinese: tjid
+  middle_chinese: tɕit
+  fanqie: 之日切
+  tone: 入
+  guangyun: 朴也主也信也平也謹也正也又姓漢書貨殖傳云質氏以洒削而鼎食注云理刀劔也之日切又音致十五
+  senses:
+  - concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+    concept_label: SUBSTANCE
+    children:
+    - gloss: general
+      concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+      concept_label: THING
+      children:
+      - gloss: contained
+        concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+        concept_label: CONTENT
+        children:
+        - gloss: 'specific: agricultural'
+          concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+          concept_label: SOIL
+      - gloss: aimed at
+        concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+        concept_label: TARGET
+      - gloss: physical
+        concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+        concept_label: BODY
+        children:
+        - gloss: '=礩 concrete: (bottom part of)'
+          concept_uuid: 7a83ff00-885d-47b0-98da-0c23c163b5a8
+          concept_label: PILLAR
+        - concept_uuid: 2a790324-4787-4145-82dd-f309d53bfb83
+          concept_label: CHOPPING BLOCK
+    - gloss: abstract
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: QUALITY
+      children:
+      - gloss: physical
+        concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+        concept_label: SHAPE
+      - gloss: basic
+        concept_uuid: 971de0fb-3246-44a5-8e15-819f083ff24b
+        concept_label: NATURE
+        children:
+        - gloss: quintessential
+          concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+          concept_label: ESSENCE
+      - gloss: 'psychological: (real)'
+        concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+        concept_label: FEELING
+        children:
+        - gloss: undiluted
+          concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+          concept_label: PURE
+          children:
+          - gloss: unreflected
+            concept_uuid: 7592652a-7114-4fce-b798-b8407930f652
+            concept_label: NAIVE
+          - gloss: uncomplicated
+            concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+            concept_label: SIMPLE
+            children:
+            - gloss: trustworthy
+              concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+              concept_label: FAITHFUL
+              children:
+              - gloss: active
+                concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+                concept_label: EARNEST
+                children:
+                - gloss: in service
+                  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+                  concept_label: DILIGENT
+          - gloss: undistored
+            concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+            concept_label: CORRECT
+            children:
+            - gloss: up to the same standard
+              concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+              concept_label: EQUAL
+        - gloss: putative
+          concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+          concept_label: ASSESS
+          children:
+          - gloss: conative
+            concept_uuid: 370547be-ddf0-46fc-acd6-4eb1ab534866
+            concept_label: TEST
+            children:
+            - gloss: successful
+              concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+              concept_label: PROVE
+            - gloss: 'specific: weight'
+              concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+              concept_label: WEIGH
+          - gloss: 'conative: linguistic'
+            concept_uuid: b81c5103-4414-42e2-99ea-d00bcd91003d
+            concept_label: INTERROGATE
+  - gloss: =礩
+  - gloss: =鑕
+  - gloss: =櫍
+  - gloss: =贄
+- reading: zhì
+  old_chinese: tids
+  middle_chinese: ʈɯi
+  fanqie: 陟利切
+  tone: 去
+  guangyun: 交質又物相贅又之日切
+  senses:
+  - concept_uuid: b6f13407-084a-48e5-bd91-cba8fac3b537
+    concept_label: PAWN
+    children:
+    - gloss: human
+      concept_uuid: d67ec1a1-b300-459d-9abe-a5bd962d8f30
+      concept_label: HOSTAGE
+      children:
+      - gloss: general
+        concept_uuid: d12adeb9-a0e6-4650-96ac-3024c723420a
+        concept_label: OATH
+        children:
+        - gloss: commercial
+          concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+          concept_label: CONTRACT
+  - gloss: =贄
+source:
+  source_file: taxchar.xml

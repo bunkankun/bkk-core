@@ -1,0 +1,30 @@
+uuid: 47d1fb6b-1b9e-4ce0-bc4b-79502403d4ce
+type: tax-char
+heads:
+- 饋
+pronunciations:
+- reading: kuì
+  old_chinese: ɡruds
+  middle_chinese: ɡʷɯi
+  fanqie: 求位切
+  tone: 去
+  guangyun: 餉也
+  senses:
+  - concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+    concept_label: GIFT
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+    concept_label: PAY
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+source:
+  source_file: taxchar.xml

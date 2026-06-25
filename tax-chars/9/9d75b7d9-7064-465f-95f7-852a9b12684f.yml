@@ -1,0 +1,20 @@
+uuid: 9d75b7d9-7064-465f-95f7-852a9b12684f
+type: tax-char
+heads:
+- 帛
+pronunciations:
+- reading: bó
+  old_chinese: braaɡ
+  middle_chinese: bɯak
+  fanqie: 傍陌切
+  tone: 入
+  guangyun: 幣帛尚書大傳曰舜修五禮五玉三帛又姓出吴神仙傳有帛和
+  senses:
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+    concept_label: STATIONARY
+source:
+  source_file: taxchar.xml

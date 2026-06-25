@@ -1,0 +1,71 @@
+uuid: 61c06967-869d-41f2-b139-f555f31fa20f
+type: tax-char
+heads:
+- 動
+- 働
+pronunciations:
+- reading: dòng
+  old_chinese: dooŋʔ
+  middle_chinese: duŋ
+  fanqie: 徒揔切
+  tone: 上
+  guangyun: 躁也出也作也摇也徒揔切九
+unattributed_senses:
+- concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  concept_label: MOVE
+  children:
+  - gloss: transitive, spatial
+    concept_uuid: f2ac46b3-e062-42cd-9ab9-9c57452c6eb3
+    concept_label: DISPLACE
+    children:
+    - gloss: continuously in opposite directions
+      concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+      concept_label: SHAKE
+  - gloss: intransitive, deliberate
+    concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+    children:
+    - gloss: abstract
+      concept_uuid: 907c0327-4325-4bc5-95a6-a9da3e851fe5
+      concept_label: BEHAVIOUR
+      children:
+      - gloss: as a duty
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+    - gloss: subject:acting creature
+      concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+      concept_label: ANIMAL
+  - gloss: 'inchoative: begin to move'
+    concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+    concept_label: ARISE
+    children:
+    - gloss: repetitive
+      concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+      concept_label: ALWAYS
+    - gloss: general
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+    - gloss: indirect
+      concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+      concept_label: STIMULATE
+      children:
+      - gloss: 'passive: be moved'
+        concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+        concept_label: FEELING
+      - gloss: for one’s purpose
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+        children:
+        - gloss: for military purposes
+          concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+          concept_label: DEPLOY
+        - gloss: trasnsitive:late colloquial “touch”
+          concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+          concept_label: EAT
+    - gloss: process:intransitive
+      concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+      concept_label: GROW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T00:53:54.777+09:00'

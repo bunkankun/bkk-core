@@ -1,0 +1,92 @@
+uuid: 8cfb4757-cf26-43b5-bc18-ba689ec4bc45
+type: tax-char
+heads:
+- 可
+pronunciations:
+- reading: kě
+  old_chinese: khlaalʔ
+  middle_chinese: kʰɑ
+  fanqie: 枯我切
+  tone: 上
+  guangyun: 許可也又虜複姓三氏周太保王雄賜姓可頻氏梁有河南王可沓振又有可達氏又虜三字姓三氏後魏書可地延氏改爲延氏又并州刺史男可朱渾買奴前燕慕容㒞皇后可足渾氏枯我切四
+  senses:
+  - concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+    concept_label: POSSIBLE
+    children:
+    - gloss: for a person
+      concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+      concept_label: ABLE
+      children:
+      - gloss: able to sustain
+        concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+        concept_label: ENDURE
+        children:
+        - gloss: declarative
+          concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+          concept_label: PERMIT
+        - gloss: agree to
+          concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+          concept_label: AGREE TO
+      - gloss: able to please
+        concept_uuid: 74b7b586-081a-4d67-8062-1b2929578897
+        concept_label: PLEASANT
+        children:
+        - gloss: to a pleasant degree> INTENSELEY
+      - gloss: and obliged
+        concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+        concept_label: SHOULD
+        children:
+        - gloss: as it should be
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+          children:
+          - gloss: generalised
+            concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+            concept_label: APPROPRIATE
+            children:
+            - gloss: putative
+              concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+              concept_label: ASSENT
+            - gloss: should receive
+              concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+              concept_label: DESERVE
+            - gloss: active, causative
+              concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+              concept_label: CONFORM
+        - gloss: injunctive
+          concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+          concept_label: IMPERATIVE MARKER
+    - gloss: to the point of being likely
+      concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+      concept_label: PROBABLE
+      children:
+      - gloss: but not exactly
+        concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+        concept_label: APPROXIMATELY
+      - gloss: to the point of being acceptable
+        concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+        concept_label: 'TRUE'
+        children:
+        - gloss: treat or declare as
+          concept_uuid: 5a62b4b0-8b8c-43fd-87d2-bc767d5a2000
+          concept_label: ADMIT
+          children:
+          - gloss: 'colloquial: admittedly'
+            concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+            concept_label: NONETHELESS
+            children:
+            - gloss: contrastive
+              concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+              concept_label: BUT
+              children:
+              - gloss: intensitive
+                concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+                concept_label: INTENSELY
+unattributed_senses:
+- gloss: kě
+  concept_uuid: 259b57ae-5a7a-4ad9-8ac9-0ac11f8054c5
+  concept_label: LITTLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-14T17:48:45.275+09:00'

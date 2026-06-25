@@ -1,0 +1,30 @@
+uuid: b9607c30-ad8e-4d85-8458-6ea382c68412
+type: tax-char
+heads:
+- 妃
+pronunciations:
+- reading: fēi
+  old_chinese: phɯl
+  middle_chinese: pʰʷɨi
+  fanqie: 芳非切
+  tone: 平
+  guangyun: 嘉偶曰妃説文匹也又音配
+  senses:
+  - concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+    concept_label: CONCUBINE
+  - concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+    concept_label: WIFE
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+    concept_label: OPPOSITE
+- reading: pèi
+  old_chinese: phɯɯls
+  middle_chinese: pʰuoi
+  fanqie: 滂佩切
+  tone: 去
+  guangyun: 妃偶也又匹非切
+  senses:
+  - gloss: = 配
+source:
+  source_file: taxchar.xml

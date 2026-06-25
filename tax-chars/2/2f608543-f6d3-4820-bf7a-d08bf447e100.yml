@@ -1,0 +1,35 @@
+uuid: 2f608543-f6d3-4820-bf7a-d08bf447e100
+type: tax-char
+heads:
+- 肉
+pronunciations:
+- reading: ròu
+  old_chinese: njuɡ
+  middle_chinese: ȵiuk
+  fanqie: 如六切
+  tone: 入
+  guangyun: 骨肉如六切俗作𡧢三
+  senses:
+  - concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+    concept_label: MEAT
+    children:
+    - gloss: of meat, grow on bones
+      concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+      concept_label: GROW
+    - gloss: of meat, related activity
+      concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+      concept_label: EAT
+    - gloss: metaphorical
+      concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+      concept_label: FRUIT
+    - gloss: metaphorical
+      concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+      concept_label: BODY
+unattributed_senses:
+- gloss: 肉 rou4 《集韻》如又切，去宥日。
+  children:
+  - gloss: (of sound)
+    concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

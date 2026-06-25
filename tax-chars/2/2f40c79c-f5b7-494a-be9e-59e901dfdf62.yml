@@ -1,0 +1,35 @@
+uuid: 2f40c79c-f5b7-494a-be9e-59e901dfdf62
+type: tax-char
+heads:
+- 弦
+pronunciations:
+- reading: xián
+  old_chinese: ɡeen
+  middle_chinese: ɦen
+  fanqie: 胡田切
+  tone: 平
+  guangyun: 弓弦五經文字曰其琴瑟亦用此字作絃者非説文作𢎺又姓風俗通云弦子後左傳鄭有商人弦髙晉有弦超
+  senses:
+  - concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+    concept_label: LINE
+  - concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+    concept_label: MOON
+  - concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: cb1283bf-ff17-4816-8711-21cff46b1a89
+    concept_label: STRING
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+    concept_label: WIFE
+  - concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+    concept_label: GEOMETRIC SHAPE
+  - gloss: MECHANICAL DEVICE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

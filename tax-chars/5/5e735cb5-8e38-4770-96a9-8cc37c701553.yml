@@ -1,0 +1,96 @@
+uuid: 5e735cb5-8e38-4770-96a9-8cc37c701553
+type: tax-char
+heads:
+- 收
+pronunciations:
+- reading: shōu
+  old_chinese: qjiw
+  middle_chinese: ɕiu
+  fanqie: 式州切
+  tone: 平
+  guangyun: 歛也捕也又夏冕名史記曰堯黄收純衣俗作𠬧式州切一
+  senses:
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+    children:
+    - gloss: approvingly
+      concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+      concept_label: ACCEPT
+    - gloss: cumulatively
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: GATHER
+      children:
+      - gloss: systematically
+        concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+        concept_label: COLLECT
+      - gloss: successfully
+        concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+        concept_label: OBTAIN
+        children:
+        - gloss: using money
+          concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+          concept_label: BUY
+        - gloss: agricultual produce
+          concept_uuid: ea6a5da3-47e8-40bd-89d1-a1bd92b8c0c0
+          concept_label: REAP
+          children:
+          - gloss: systematically
+            concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+            concept_label: HARVEST
+            children:
+            - gloss: generalised
+              concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+              concept_label: TAKE
+              children:
+              - gloss: 'object: what one had before> TAKE BACK'
+              - gloss: 'object: guilty person'
+                concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+                concept_label: ARREST
+                children:
+                - gloss: associated activity
+                  concept_uuid: 5aeffb52-55ad-4e71-bb8a-e94d47a9d2cf
+                  concept_label: PUNITIVE LABOUR
+              - gloss: 'object: owed thing'
+                concept_uuid: 162d87f4-b15a-417e-9fb4-11ad6d5c3576
+                concept_label: CONFISCATE
+              - gloss: resultative
+                concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+                concept_label: CONTROL
+                children:
+                - gloss: by force
+                  concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+                  concept_label: OCCUPY
+                - gloss: benevolently
+                  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+                  concept_label: SAFEGUARD
+                - gloss: after death
+                  concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+                  concept_label: BURY
+                  children:
+                  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+                    concept_label: CEASE
+                    children:
+                    - gloss: to grow
+                      concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+                      concept_label: WITHER
+                    - gloss: causative
+                      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+                      concept_label: STOP
+                    - gloss: movement
+                      concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+                      concept_label: WITHDRAW
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 5105a846-220e-4184-b605-09a8822dd974
+    concept_label: HEADDRESS
+- reading: shòu
+  old_chinese: qjiws
+  middle_chinese: ɕiu
+  fanqie: 舒救切
+  tone: 去
+  guangyun: 穫多
+  senses:
+  - concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+    concept_label: HARVEST
+source:
+  source_file: taxchar.xml

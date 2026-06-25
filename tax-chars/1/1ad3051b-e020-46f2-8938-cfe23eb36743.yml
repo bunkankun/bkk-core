@@ -1,0 +1,48 @@
+uuid: 1ad3051b-e020-46f2-8938-cfe23eb36743
+type: tax-char
+heads:
+- 粉
+pronunciations:
+- reading: fěn
+  old_chinese: pɯnʔ
+  middle_chinese: piun
+  fanqie: 方吻切
+  tone: 上
+  guangyun: 愽物志曰燒鉛成胡粉又曰紂作粉方吻切三
+  senses:
+  - concept_uuid: 40f82f06-68bd-49d1-a84d-f5d25694fbe4
+    concept_label: FLOUR
+    children:
+    - gloss: flour-like
+      concept_uuid: cd1f9cdf-e84e-4b55-beb5-5ecfc770f703
+      concept_label: MAKE-UP
+    - gloss: feature
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+    - gloss: basis for
+      concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+      concept_label: RICE
+      children:
+      - gloss: product made with
+        concept_uuid: d8b43ba9-19b9-47ee-a7ed-25903aa70abf
+        concept_label: CAKE
+    - gloss: 'exocentric: fine-grained things'
+      concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+      concept_label: TENUOUS
+      children:
+      - gloss: 'exocentric: things with tenuously grained surface'
+        concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+        concept_label: ROUGH
+      - gloss: 'causative: make finer'
+        concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+        concept_label: GRIND
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+unattributed_senses:
+- gloss: 粉 f e n 4 《集韻》方問切，去問非。
+  children:
+  - gloss: (causative)
+    concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+source:
+  source_file: taxchar.xml

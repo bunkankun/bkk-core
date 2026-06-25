@@ -1,0 +1,38 @@
+uuid: 765347e6-f7ac-46bc-ac07-a23ebab39af1
+type: tax-char
+heads:
+- 繚
+pronunciations:
+- reading: liáo
+  old_chinese: ɡ-reew
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 繚綾經絲出字林
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+    concept_label: SEW
+  - concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+    concept_label: ROPE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: liǎo
+  old_chinese: ɡ-rewʔ
+  middle_chinese: liɛu
+  fanqie: 力小切
+  tone: 上
+  guangyun: 繚繞力小切九
+- reading: liǎo
+  old_chinese: ɡ-reewʔ
+  middle_chinese: leu
+  fanqie: 盧鳥切
+  tone: 上
+  guangyun: 繚繞𦆑也
+source:
+  source_file: taxchar.xml

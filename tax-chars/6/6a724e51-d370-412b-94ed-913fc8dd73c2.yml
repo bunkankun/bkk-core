@@ -1,0 +1,55 @@
+uuid: 6a724e51-d370-412b-94ed-913fc8dd73c2
+type: tax-char
+heads:
+- 部
+pronunciations:
+- reading: bù
+  old_chinese: bɯʔ
+  middle_chinese: buo
+  fanqie: 裴古切
+  tone: 上
+  guangyun: 部伍又部曲
+  senses:
+  - concept_uuid: 4c227fb6-2e28-4efb-ada8-6709ac89d0ee
+    concept_label: BOOK VOLUME
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+    concept_label: PART
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+    concept_label: AUTHORITY
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+    concept_label: REGION
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - concept_uuid: 760112aa-ba84-446d-ae9d-a80b5e6a075e
+    concept_label: TRIBE
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: pòu
+  old_chinese: bɯʔ
+  middle_chinese: bəu
+  fanqie: 蒲口切
+  tone: 上
+  guangyun: 署也又姓出姓苑蒲口切十
+  senses:
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,50 @@
+uuid: e3b659cb-cc0d-4cc7-811a-023251aefc29
+type: tax-char
+heads:
+- 脈
+pronunciations:
+- reading: mài
+  old_chinese: mreeɡ
+  middle_chinese: mɯæk
+  fanqie: 莫獲切
+  tone: 入
+  guangyun: 説文曰血理之分衷行體者又作脈經典亦作脉周禮曰以鹹養脉釋名曰脉幕也幕絡一體也
+  senses:
+  - concept_uuid: 44dc1796-61ae-4b3b-bf6b-5a6da6063c55
+    concept_label: VEINS
+  - concept_uuid: 30c7ee56-1df4-4e57-b2f5-29f1e7e1f9c2
+    concept_label: BLOOD
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: 678eda4e-9edf-42e1-aa07-b5d5c0081ead
+    concept_label: METAL
+  - concept_uuid: 05883692-172f-4624-a0b0-d1d011530d1a
+    concept_label: LINEAGE
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+- reading: mài
+  old_chinese: mreeɡ
+  middle_chinese: mɯæk
+  fanqie: 莫獲切
+  tone: 入
+  guangyun: 同𧖴
+- reading: mài
+  old_chinese: mreeɡ
+  middle_chinese: mɯæk
+  fanqie: 莫獲切
+  tone: 入
+  guangyun: 𧖴籀文
+- reading: mài
+  old_chinese: mbreeɡ
+  middle_chinese: mɯæk
+  fanqie: 莫獲切
+  tone: 入
+  senses:
+  - concept_uuid: 30c7ee56-1df4-4e57-b2f5-29f1e7e1f9c2
+    concept_label: BLOOD
+source:
+  source_file: taxchar.xml

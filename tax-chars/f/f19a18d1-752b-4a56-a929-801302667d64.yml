@@ -1,0 +1,36 @@
+uuid: f19a18d1-752b-4a56-a929-801302667d64
+type: tax-char
+heads:
+- 羌
+pronunciations:
+- reading: qiāng
+  old_chinese: khlaŋ
+  middle_chinese: kʰiɐŋ
+  fanqie: 去羊切
+  tone: 平
+  guangyun: 同羌或從犬
+- reading: qiāng
+  old_chinese: khlaŋ
+  middle_chinese: kʰiɐŋ
+  fanqie: 去羊切
+  tone: 平
+  guangyun: 古文猐
+- reading: qiāng
+  old_chinese: khlaŋ
+  middle_chinese: kʰiɐŋ
+  fanqie: 去羊切
+  tone: 平
+  guangyun: 章也強也發語端也説文云西戎牧羊人字从人羊又姓晉有石冰將羌迪去羊切四
+  senses:
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: 0ee2366b-bc33-47bb-a2ca-cef060d3aacb
+    concept_label: NATIONAL MINORITIES
+  - concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+    concept_label: BUT
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

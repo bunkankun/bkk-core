@@ -1,0 +1,34 @@
+uuid: 9a6033ac-ff5e-452c-a041-94e0ad9f17f8
+type: tax-char
+heads:
+- 彭
+pronunciations:
+- reading: péng
+  old_chinese: braaŋ
+  middle_chinese: bɯaŋ
+  fanqie: 薄庚切
+  tone: 平
+  guangyun: 行也道也盛也説文曰鼓聲也又姓大彭之後左傳楚有令尹彭仲爽漢有大司空彭宣薄庚切十七
+  senses:
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: PROCEED
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: e6e4b3bf-f0df-4aa7-b5c1-855f9ef06855
+    concept_label: MALES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 彭 ｐａｎｇ２《集韻》蒲光切，平唐並。陽部。
+  children:
+  - gloss: =旁
+- gloss: 彭 ｂａｎｇ１《集韻》逋旁切，平唐幫。陽部。
+  children:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,89 @@
+uuid: 9d51c496-9846-439d-9e38-9e40da86f049
+type: tax-char
+heads:
+- 應
+pronunciations:
+- reading: yìng
+  old_chinese: qɯŋs
+  middle_chinese: ʔɨŋ
+  fanqie: 於證切
+  tone: 去
+  guangyun: 同譍
+- reading: yìng
+  old_chinese: qɯŋs
+  middle_chinese: ʔɨŋ
+  fanqie: 於證切
+  tone: 去
+  guangyun: 以言對也
+- reading: yìng
+  old_chinese: qɯŋs
+  middle_chinese: ʔɨŋ
+  fanqie: 於證切
+  tone: 去
+  guangyun: 物相應也説文作應當也於證切又音膺三
+- reading: yīng
+  old_chinese: qɯŋ
+  middle_chinese: ʔɨŋ
+  fanqie: 於陵切
+  tone: 平
+  guangyun: 當也又姓出南頓本自周武王後左傳曰邦晉應韓武之穆也漢有應曜隱於淮陽山中與四皓俱徴曜獨不至時人語之曰南山四皓不如淮陽一老八代孫劭集解漢書
+unattributed_senses:
+- concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+  concept_label: REACT
+  children:
+  - gloss: action
+    concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+    concept_label: REACT
+    children:
+    - gloss: specific
+      concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+      concept_label: REWARD
+      children:
+      - gloss: 'specific: speech-wise'
+        concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+        concept_label: ANSWER
+        children:
+        - gloss: specific
+          concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+          concept_label: PROMISE
+        - gloss: '=膺 specific: to offer etc'
+          concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+          concept_label: ACCEPT
+          children:
+          - gloss: specific
+            concept_label: APPROVE
+            children:
+            - gloss: feature:acceptable
+              concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+              concept_label: APPROPRIATE
+              children:
+              - gloss: according to one’s merits
+                concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+                concept_label: DESERVE
+              - gloss: grammaticalised
+                concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+                concept_label: PROBABLE
+                children:
+                - gloss: 'intensitive: inevitably'
+                  concept_uuid: c8ecf111-72bd-481a-b746-2701df3c1c41
+                  concept_label: NECESSITY
+  - gloss: action
+    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+    children:
+    - gloss: 'specific: with persons'
+      concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+      concept_label: COOPERATE
+- concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+  concept_label: IMMEDIATELY
+  children:
+  - gloss: grammaticalised
+    concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+    concept_label: SHOULD
+- gloss: proper names
+  concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+  concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T01:03:02.363+09:00'

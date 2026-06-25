@@ -1,0 +1,47 @@
+uuid: d7e37a77-1a6d-4acc-a5d5-ae13db0b48f3
+type: tax-char
+heads:
+- 呼
+pronunciations:
+- reading: hū
+  old_chinese: qhaa
+  middle_chinese: huo
+  fanqie: 荒烏切
+  tone: 平
+  guangyun: 喚也説文曰外息也又姓列仙傳有仙人呼子先又虜複姓二氏前趙録匈奴貴姓有呼延氏後漢書匈奴四姓有呼衍氏荒烏切又火故切十七
+  senses:
+  - concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+    concept_label: BREATHE
+    children:
+    - gloss: loud while asleep> SNORT
+      children:
+      - gloss: so as to articulate loudly
+        concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+        concept_label: SHOUT
+        children:
+        - gloss: specific
+          concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+          concept_label: NAME
+        - gloss: of birds
+          concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+          concept_label: SING
+        - gloss: aloud
+          concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+          concept_label: READ
+        - gloss: so as to issue order
+          concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+          concept_label: COMMAND
+          children:
+          - gloss: order to come
+            concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+            concept_label: SUMMON
+  - gloss: grammaticalised
+    concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+    concept_label: EXCLAMATORY PARTICLE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 881db76b-4657-4340-8d1d-84bda6041faf
+      concept_label: ALAS
+    - gloss: grammaticalised> (high speed) ONOMATOPOEIC
+source:
+  source_file: taxchar.xml

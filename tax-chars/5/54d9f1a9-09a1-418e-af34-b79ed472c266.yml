@@ -1,0 +1,28 @@
+uuid: 54d9f1a9-09a1-418e-af34-b79ed472c266
+type: tax-char
+heads:
+- 妨
+pronunciations:
+- reading: fàng
+  old_chinese: phaŋs
+  middle_chinese: pʰʷiɐŋ
+  fanqie: 敷亮切
+  tone: 去
+  guangyun: 妨礙又敷方切
+- reading: fāng
+  old_chinese: phaŋ
+  middle_chinese: pʰʷiɐŋ
+  fanqie: 敷方切
+  tone: 平
+  guangyun: 妨害
+  senses:
+  - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,25 @@
+uuid: 121d2eca-fd67-4c88-98be-4be98e335ad8
+type: tax-char
+heads:
+- 祠
+pronunciations:
+- reading: cí
+  old_chinese: sɢlɯ
+  middle_chinese: zɨ
+  fanqie: 似兹切
+  tone: 平
+  guangyun: 祭名
+  senses:
+  - concept_uuid: bd0c39e5-8e51-41cf-97e1-eba78707ffdc
+    concept_label: ANIMISTIC SACRIFICE
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+    concept_label: TEMPLE
+  - concept_uuid: 734977cc-9b88-46a3-9f07-c09fea268775
+    concept_label: THANK
+  - concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+    concept_label: SALARY
+  - gloss: = 辭
+source:
+  source_file: taxchar.xml

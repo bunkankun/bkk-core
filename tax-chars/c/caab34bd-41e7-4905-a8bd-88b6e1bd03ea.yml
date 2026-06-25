@@ -1,0 +1,82 @@
+uuid: caab34bd-41e7-4905-a8bd-88b6e1bd03ea
+type: tax-char
+heads:
+- 風
+pronunciations:
+- reading: fēng
+  old_chinese: plum
+  middle_chinese: piuŋ
+  fanqie: 方戎切
+  tone: 平
+  guangyun: 風古文
+- reading: fěng
+  old_chinese: plums
+  middle_chinese: piuŋ
+  fanqie: 方鳳切
+  tone: 去
+  guangyun: 同諷見詩
+  senses:
+  - gloss: 'fēng (OC: plum MC: piuŋ) 方戎切 平 廣韻：【教也佚也告也聲也河圖曰風者天地之使元命包曰隂陽怒而爲風方戎切七 】'
+  - concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+    concept_label: WIND
+    children:
+    - gloss: as the wind
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+    - gloss: 'abstract:'
+      concept_uuid: ca0f15b3-4e29-45c8-a9f5-63e308786d16
+      concept_label: AIR
+      children:
+      - gloss: make use of
+        concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+        concept_label: BREATHE
+        children:
+        - gloss: cause with breath
+          concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+          concept_label: BLOW
+          children:
+          - gloss: causation
+            concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+            concept_label: INFLUENCE
+            children:
+            - gloss: medical
+              concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+              concept_label: ILLNESS
+            - gloss: supernatural
+              concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+              concept_label: DEITY
+            - gloss: traditional.
+              concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+              concept_label: CUSTOM
+              children:
+              - gloss: abstract
+                concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+                concept_label: ACT
+                children:
+                - gloss: deliberate, systematic
+                  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+                  concept_label: METHOD
+              - gloss: conforming to changing
+                concept_uuid: 92848cbd-fef5-4bc9-9110-9901324541a1
+                concept_label: FASHION
+            - gloss: be sexually influenced
+              concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+              concept_label: COPULATE
+          - gloss: 'musical result:'
+            concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+            concept_label: MUSIC
+            children:
+            - gloss: 'specific:'
+              concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+              concept_label: SONG
+  - gloss: =瘋
+    concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+    concept_label: MAD
+unattributed_senses:
+- gloss: fěng fèng
+  concept_uuid: db9e826b-f841-4d17-9120-9f9e9c4393c9
+  concept_label: STORM
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-29T22:46:07.835+09:00'

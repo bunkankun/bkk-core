@@ -1,0 +1,27 @@
+uuid: 3b1095f6-1c74-4320-a928-9be4064814ad
+type: tax-char
+heads:
+- 蛾
+pronunciations:
+- reading: yǐ
+  old_chinese: ŋralʔ
+  middle_chinese: ŋɯiɛ
+  fanqie: 魚倚切
+  tone: 上
+  guangyun: 同蟻見禮
+- reading: é
+  old_chinese: ŋaal
+  middle_chinese: ŋɑ
+  fanqie: 五何切
+  tone: 平
+  guangyun: 蠶蛾又姓左傳晉大夫蛾析禮記又音蟻
+  senses:
+  - concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+    concept_label: INSECTS
+  - concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+    concept_label: WOMAN
+  - concept_uuid: 5a419c4c-2508-482a-86d0-5378ca825d37
+    concept_label: MUSHROOM
+  - gloss: SURNAMENS
+source:
+  source_file: taxchar.xml

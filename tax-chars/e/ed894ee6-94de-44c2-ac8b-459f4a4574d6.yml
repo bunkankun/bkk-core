@@ -1,0 +1,60 @@
+uuid: ed894ee6-94de-44c2-ac8b-459f4a4574d6
+type: tax-char
+heads:
+- 闕
+pronunciations:
+- reading: què,
+  old_chinese: khod
+  middle_chinese: kʰʷiɐt
+  fanqie: 去月切
+  tone: 入
+  guangyun: 門觀也廣雅曰象魏闕也釋名曰闕在門兩旁中央闕然爲道也又失也過不供也又姓出下邳漢有荆州刺史闕翊去月切三
+  senses:
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+- reading: que1,
+  old_chinese: khod
+  middle_chinese: kʰʷiɐt
+  senses:
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+    children:
+    - gloss: inchoative
+      concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+      concept_label: DISAPPEAR
+      children:
+      - gloss: content having disappeared
+        concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+        concept_label: EMPTY
+    - gloss: what is empty
+      concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+      concept_label: HOLE
+    - gloss: comparative size
+      concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+      concept_label: SMALL
+    - gloss: utterance
+      concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+      concept_label: SILENCE
+    - gloss: certainty
+      concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+      concept_label: DOUBT
+    - gloss: obligatory quality
+      concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+      concept_label: DEFECT
+      children:
+      - gloss: in action
+        concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+        concept_label: MISTAKE
+      - gloss: causative
+        concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+        concept_label: DAMAGE
+unattributed_senses:
+- gloss: 闕 jue2 【正韻】其月切，音橜
+  children:
+  - gloss: =掘
+    concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+source:
+  source_file: taxchar.xml

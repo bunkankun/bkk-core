@@ -1,0 +1,25 @@
+uuid: 101d0c5c-c631-4386-8e23-29a35f2e0490
+type: tax-char
+heads:
+- 蒿
+pronunciations:
+- reading: hāo
+  old_chinese: qhoow
+  middle_chinese: hɑu
+  fanqie: 呼毛切
+  tone: 平
+  guangyun: 蓬蒿又姓岀姓苑呼毛切七
+  senses:
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: dd396b03-ebdf-4208-a5b3-38ba6f0dfc3c
+    concept_label: STINK
+  - concept_uuid: 33013bec-e419-487f-8ae0-3b77a9672203
+    concept_label: STEAM
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 耗
+source:
+  source_file: taxchar.xml

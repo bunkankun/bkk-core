@@ -1,0 +1,57 @@
+uuid: ed3ac8a4-93e6-41ca-a18d-815a921e398f
+type: tax-char
+heads:
+- 伐
+pronunciations:
+- reading: fá
+  old_chinese: bod
+  middle_chinese: bʷiɐt
+  fanqie: 房越切
+  tone: 入
+  guangyun: 征也斬木也又自矜曰伐房越切十四
+  senses:
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+    children:
+    - gloss: without injuring
+      concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+      concept_label: KNOCK
+      children:
+      - gloss: 'figurative: inconsistent with'
+        concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+        concept_label: CONTRARY
+    - gloss: so as to injure mortally
+      concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+      concept_label: KILL
+      children:
+      - gloss: resulting dead body
+        concept_uuid: 2c6ca376-008e-4a2f-a9f6-53cab2cb828e
+        concept_label: CORPSE
+    - gloss: large scale military campaign
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+      children:
+      - gloss: 'resultative: successful'
+        concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+        concept_label: DEFEAT
+        children:
+        - gloss: resulting useful social contribution
+          concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+          concept_label: MERIT
+          children:
+          - gloss: show pride in connection with
+            concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+            concept_label: BOAST
+    - gloss: so as to displace
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+      children:
+      - gloss: 'figurative: object disease'
+        concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+        concept_label: CURE
+  - gloss: CONSTELLATIONS
+unattributed_senses:
+- gloss: 伐 xie1 康熙字典：又、叶許竭切，音歇。【詩·商頌】韋顧旣伐。叶上截下桀。
+- gloss: 伐 fei4 康熙字典：又、叶扶廢切，音吠。【徐幹·西征賦】與游軫而西伐
+source:
+  source_file: taxchar.xml

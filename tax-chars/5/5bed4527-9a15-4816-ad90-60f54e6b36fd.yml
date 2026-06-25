@@ -1,0 +1,20 @@
+uuid: 5bed4527-9a15-4816-ad90-60f54e6b36fd
+type: tax-char
+heads:
+- 魅
+pronunciations:
+- reading: mèi
+  old_chinese: mrɯds
+  middle_chinese: mɯi
+  fanqie: 明祕切
+  tone: 去
+  guangyun: 魑魅
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: 3005dd74-e3f8-4c0a-a760-fcb009c1a067
+    concept_label: GHOST
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+source:
+  source_file: taxchar.xml

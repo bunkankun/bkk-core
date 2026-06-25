@@ -1,0 +1,31 @@
+uuid: 132bf528-1c1f-4b85-b5f2-f613af47fb3f
+type: tax-char
+heads:
+- 肩
+pronunciations:
+- reading: jiān
+  old_chinese: keen
+  middle_chinese: ken
+  fanqie: 古賢切
+  tone: 平
+  guangyun: 項下又任也克也作也媵也又姓出姓苑
+  senses:
+  - concept_uuid: ecc07637-d5e4-423c-ba73-fd1fc67d033f
+    concept_label: ARM
+  - concept_uuid: 1f11f474-9d57-410d-8ac4-818b629fbcc6
+    concept_label: SHOULDER
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+    concept_label: APPOINT
+  - concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+    concept_label: CONQUER
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+  - gloss: NOMINAL MEASURE WORD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

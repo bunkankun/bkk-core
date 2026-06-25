@@ -1,0 +1,32 @@
+uuid: e20d70c8-2383-45b1-83ae-5da6c0e765b3
+type: tax-char
+heads:
+- 襟
+pronunciations:
+- reading: jīn
+  old_chinese: krɯm
+  middle_chinese: kɯim
+  fanqie: 居吟切
+  tone: 平
+  guangyun: 同襟
+- reading: jīn
+  old_chinese: krɯm
+  middle_chinese: kɯim
+  fanqie: 居吟切
+  tone: 平
+  guangyun: 袍襦前袂
+  senses:
+  - concept_uuid: 3450870a-0c3b-4be9-b792-6cb9f889afcc
+    concept_label: COLLAR
+  - concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+    concept_label: FEELING
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: 415fced0-30f9-4b77-b3dc-911f42b3ddb7
+    concept_label: IN FRONT
+  - concept_uuid: aebff601-a3a8-4c54-9f1c-74a9a765a4a7
+    concept_label: CHEST
+  - concept_uuid: 933337fb-1448-49ce-914b-3e59fe49307e
+    concept_label: BROTHER-IN-LAW
+source:
+  source_file: taxchar.xml

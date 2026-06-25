@@ -1,0 +1,33 @@
+uuid: 2c0236da-23fe-48da-bdf9-c019fc0bf489
+type: tax-char
+heads:
+- 俯
+pronunciations:
+- reading: fǔ
+  old_chinese: mronʔ
+  middle_chinese: pio
+  fanqie: 方矩切
+  tone: 上
+- reading: fǔ
+  old_chinese: poʔ
+  middle_chinese: pio
+  fanqie: 方矩切
+  tone: 上
+  guangyun: 同頫漢書又作俛今音免
+  senses:
+  - concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+    concept_label: AND
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - concept_uuid: a16f4ee7-cd5e-4297-b5ab-9306a5a4ed25
+    concept_label: LOOK DOWN
+  - concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+    concept_label: DOWN
+  - concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+    concept_label: SLEEP
+  - concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+    concept_label: HUMBLE
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+source:
+  source_file: taxchar.xml

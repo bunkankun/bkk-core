@@ -1,0 +1,33 @@
+uuid: 909864ae-bce9-4d4e-9c67-945ba9470ae5
+type: tax-char
+heads:
+- 念
+pronunciations:
+- reading: niàn
+  old_chinese: mɢlɯɯms
+  middle_chinese: nem
+  fanqie: 奴店切
+  tone: 去
+  guangyun: 思也又姓西魏太傅念賢奴店切二
+  senses:
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+    children:
+    - gloss: think of again
+      concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+      concept_label: REMEMBER
+      children:
+      - gloss: with longing
+        concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+        concept_label: YEARN
+        children:
+        - gloss: fondly
+          concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+          concept_label: LIKE
+    - gloss: 'Buddhist: about what one is thinking'
+      concept_uuid: ef1adf39-e2a8-4f5c-ad4f-57dc47ce9d86
+      concept_label: REFLECT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-22T21:47:27.074+09:00'

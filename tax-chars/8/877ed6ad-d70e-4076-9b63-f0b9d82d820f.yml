@@ -1,0 +1,68 @@
+uuid: 877ed6ad-d70e-4076-9b63-f0b9d82d820f
+type: tax-char
+heads:
+- 投
+pronunciations:
+- reading: tóu
+  old_chinese: doo
+  middle_chinese: dəu
+  fanqie: 度侯切
+  tone: 平
+  guangyun: 託也弃也合也説文擿也亦姓郇伯周畿内侯桓王伐鄭投先驅以䇿其後氏焉漢有光禄投調又漢複姓有投壺氏風俗通云晉中行穆子相投壺因以氏焉姓苑云東莞人也
+  senses:
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: THROW
+    children:
+    - gloss: so as to transmit
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+      children:
+      - gloss: so as to put to deploy
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+      - gloss: at distance
+        concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+        concept_label: SEND
+    - gloss: so as to get rid of
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+      children:
+      - gloss: buraucratic
+        concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+        concept_label: DEMOTE
+    - gloss: 'object: seed'
+      concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+      concept_label: PLANT
+    - gloss: 'reflexive, concrete: throw oneself down'
+      concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+      concept_label: JUMP
+      children:
+      - gloss: inadvertently
+        concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+        concept_label: FALL
+    - gloss: 'reflexive: move quickly'
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+      children:
+      - gloss: 'grammaticalised: place'
+        concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+        concept_label: TOWARDS
+      - gloss: 'grammaticalised: time, to moment'
+        concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+        concept_label: UNTIL
+      - gloss: figurative
+        concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+        concept_label: ENTRUST
+      - gloss: abstract
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+      - gloss: so as receive
+        concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+        concept_label: WELCOME
+    - gloss: 'concrete: throwing arrows into container> GAMES'
+      children:
+      - gloss: generalised> GAMBLING
+  - gloss: =酘
+  - gloss: =逗
+source:
+  source_file: taxchar.xml

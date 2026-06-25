@@ -1,0 +1,67 @@
+uuid: 13fdb3d2-ba30-4e8c-86a6-dca0a1ac4563
+type: tax-char
+heads:
+- 乎
+pronunciations:
+- reading: hū
+  old_chinese: ɢaa
+  middle_chinese: ɦuo
+  fanqie: 戶吳切
+  tone: 平
+  guangyun: 極也辝也
+- reading: hū
+  old_chinese: ɢaa
+  middle_chinese: ɦuo
+  fanqie: 戶吳切
+  tone: 平
+  guangyun: 乎古文
+  senses:
+  - gloss: modal
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+    children:
+    - gloss: interrogatory
+      concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+      concept_label: QUESTION PARTICLES
+    - gloss: emphatic
+      concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+      concept_label: EXCLAMATORY PARTICLE
+    - gloss: post-verbal
+      concept_uuid: 75bddb10-6c2f-4e54-828b-30e1175f7540
+      concept_label: VERBAL SUFFIX
+      children:
+      - gloss: passive
+        concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+        concept_label: PASSIVE MARKER
+  - gloss: concrete:place
+    concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+    concept_label: BE IN
+    children:
+    - gloss: directional
+      concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+      concept_label: TOWARDS
+      children:
+      - gloss: object
+        concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+        concept_label: TARGET
+        children:
+        - gloss: abstract:in the interest of
+          concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+          concept_label: FOR
+    - gloss: generalised abstract:relational
+      concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+      concept_label: RELATION
+      children:
+      - gloss: by comparisons
+        concept_uuid: 537799e2-cfbb-488f-93bd-013276b87c05
+        concept_label: THAN
+      - gloss: source
+        concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+        concept_label: FROM
+  - gloss: general
+    concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T22:14:45.259+09:00'

@@ -1,0 +1,65 @@
+uuid: 15c35b61-ee92-45b8-9019-48245202b10d
+type: tax-char
+heads:
+- 戴
+pronunciations:
+- reading: dài
+  old_chinese: k-lɯɯs
+  middle_chinese: təi
+  fanqie: 都代切
+  tone: 去
+  guangyun: 荷戴又姓出濟北本自宋戴穆公之後風俗通云凡氏於謚戴武宣穆是也都代切一
+  senses:
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+    children:
+    - gloss: object
+      concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+      concept_label: HAT
+    - gloss: generalised
+      concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+      concept_label: HOLD
+      children:
+      - gloss: 'of hair: have stand on end'
+        concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+        concept_label: ERECT
+      - gloss: generalised
+        concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+        concept_label: TIE TO
+      - gloss: object one attaches> ORNAMEMT
+        children:
+        - gloss: and move
+          concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+          concept_label: CARRY
+          children:
+          - gloss: action
+            concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+            concept_label: SAFEGUARD
+            children:
+            - gloss: metaphorical
+              concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+              concept_label: SUPPORT
+            - gloss: putative
+              concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+              concept_label: ADMIRE
+              children:
+              - gloss: feeling
+                concept_uuid: 45ec8b18-c9d0-48ad-abc1-a532217157af
+                concept_label: GRATEFUL
+              - gloss: declarative
+                concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+                concept_label: PRAISE
+              - gloss: object superiors
+                concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+                concept_label: RESPECT
+                children:
+                - gloss: specific
+                  concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+                  concept_label: MOURNING
+  - gloss: =載
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

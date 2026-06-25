@@ -1,0 +1,32 @@
+uuid: c0494971-7a71-4411-853f-ae95d1515f02
+type: tax-char
+heads:
+- 田
+pronunciations:
+- reading: tián
+  old_chinese: ɡ-liiŋ
+  middle_chinese: den
+  fanqie: 徒年切
+  tone: 平
+  guangyun: 釋名曰土已耕者曰田田塡也五稼塡滿其中也又姓出北平敬仲自陳適齊後改田氏九代遂有齊國徒年切十九
+  senses:
+  - concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+    concept_label: FIELD
+    children:
+    - gloss: generalised
+      concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+      concept_label: AGRICULTURE
+      children:
+      - gloss: generalised
+        concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+        concept_label: TERRITORY
+  - gloss: tián
+    concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+    concept_label: GEOMETRIC SHAPE
+  - gloss: =畋
+    concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+    concept_label: HUNT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-20T19:34:48.073+09:00'

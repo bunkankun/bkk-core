@@ -1,0 +1,47 @@
+uuid: 2461c982-814d-4609-896c-929e745f6971
+type: tax-char
+heads:
+- 商
+pronunciations:
+- reading: shāng
+  old_chinese: qhjaŋ
+  middle_chinese: ɕiɐŋ
+  fanqie: 式羊切
+  tone: 平
+  guangyun: 金音度也張也降也常也亦州名即古商國後魏置洛州周爲商州取商於地爲名又姓家語有商瞿式羊切十八
+  senses:
+  - concept_label: '古音系: 聲符 商 韻部 陽 韻部細分 0 對應廣韻小韻 商 擬音 hljaŋ'
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+    children:
+    - gloss: in conversaton
+      concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+      concept_label: DISCUSS
+      children:
+      - gloss: 'economic: commercial interaction'
+        concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+        concept_label: TRADE
+        children:
+        - gloss: 'Exocentric: econominally, a person assesses value'
+          concept_uuid: b3fe42b5-03c3-4bd8-bc21-ebb16e6f50f8
+          concept_label: MERCHANT
+  - gloss: =？
+    concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - gloss: musial technical term
+    concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+    concept_label: TONE
+  - gloss: proper names
+    concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+  - gloss: proper names
+    concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+    concept_label: DYNASTY
+  - gloss: 'proper names: for the state of Sòng'
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_label: =賞 shǎng "reward"
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T05:53:14.862+09:00'

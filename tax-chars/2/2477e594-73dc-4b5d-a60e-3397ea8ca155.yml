@@ -1,0 +1,42 @@
+uuid: 2477e594-73dc-4b5d-a60e-3397ea8ca155
+type: tax-char
+heads:
+- 敕
+pronunciations:
+- reading: chì
+  old_chinese: rʰɯɡ
+  middle_chinese: ʈʰɨk
+  fanqie: 恥力切
+  tone: 入
+  guangyun: 誡也正也固也勞也理也書也急也今相承用勑勑本音賚恥力切十四
+  senses:
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+    concept_label: DECREE
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+  - concept_uuid: f1621085-9c4b-42ce-96d7-55edb3f8a84a
+    concept_label: REPROACH
+  - concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+    concept_label: IMPROVE
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+    concept_label: KNOW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: chì
+  old_chinese: thɯɡ
+  middle_chinese: ʈʰɨk
+  fanqie: 恥力切
+  tone: 入
+  guangyun: 同敕
+source:
+  source_file: taxchar.xml

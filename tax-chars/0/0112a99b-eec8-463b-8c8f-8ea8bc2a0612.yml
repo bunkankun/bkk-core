@@ -1,0 +1,64 @@
+uuid: 0112a99b-eec8-463b-8c8f-8ea8bc2a0612
+type: tax-char
+heads:
+- 屯
+pronunciations:
+- reading: tún
+  old_chinese: duun
+  middle_chinese: duon
+  fanqie: 徒渾切
+  tone: 平
+  guangyun: 聚也又姓後蜀録有法部尚書屯度徒渾切二十二
+  senses:
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 80a2464f-3efe-4f42-9b15-bcf88291d9e4
+    concept_label: BATTALION
+  - concept_uuid: 6317db9e-f402-42e9-b1e0-8d04fca07bf7
+    concept_label: CAMP
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+    concept_label: DIFFICULT
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+  - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - gloss: TILL
+  - concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+    concept_label: VILLAGE
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: 28804f3a-42f6-42b2-b06d-28362f415058
+    concept_label: HARBOUR
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: zhūn
+  old_chinese: tun
+  middle_chinese: ʈʷin
+  fanqie: 陟綸切
+  tone: 平
+  guangyun: 難也厚也陟綸切又徒渾切四
+  senses:
+  - concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+    concept_label: DIFFICULT
+  - concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+    concept_label: STINGY
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+source:
+  source_file: taxchar.xml

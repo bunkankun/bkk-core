@@ -1,0 +1,29 @@
+uuid: 15b620e2-978c-4ecf-9c13-5ea602645333
+type: tax-char
+heads:
+- 壤
+unattributed_senses:
+- gloss: loose agricultural soil> rǎng 壤
+  concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+  concept_label: SOIL
+  children:
+  - gloss: accumulate soil to make mole mounds etc> rǎng 壤
+    concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - gloss: 'clod of soil: rǎng 壤 CLOD'
+- gloss: rǎng 壤
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  concept_label: TERRITORY
+  children:
+  - gloss: game in which one tries to hit a target on the ground> rǎng 壤
+    concept_uuid: 9c78f4f3-ebdb-4b6e-bf2f-42a62071ed4f
+    concept_label: GAME
+- gloss: very large number, ten billion> rǎng 壤
+  concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+  concept_label: NUMBER
+  children:
+  - gloss: border territory> rǎng 壤
+    concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+    concept_label: BORDER AREA
+source:
+  source_file: taxchar.xml

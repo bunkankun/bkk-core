@@ -1,0 +1,20 @@
+uuid: 1d4e0cd8-6045-4aa6-99ae-33f7e85b37e1
+type: tax-char
+heads:
+- 誨
+pronunciations:
+- reading: huì
+  old_chinese: hmɯɯs
+  middle_chinese: huoi
+  fanqie: 荒內切
+  tone: 去
+  guangyun: 教訓也荒内切十一
+  senses:
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+    concept_label: REMONSTRATE
+source:
+  source_file: taxchar.xml

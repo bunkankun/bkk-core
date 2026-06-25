@@ -1,0 +1,24 @@
+uuid: f4bf1c37-7619-4898-b3d3-47536162e705
+type: tax-char
+heads:
+- 妒
+pronunciations:
+- reading: dù
+  old_chinese: k-laas
+  middle_chinese: tuo
+  fanqie: 當故切
+  tone: 去
+  guangyun: 妒忌當故切十二
+  senses:
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: c64a831b-0166-4379-81b8-a56ed5ff4d64
+    concept_label: JEALOUS
+- reading: dù
+  old_chinese: taaɡs
+  middle_chinese: tuo
+  fanqie: 當故切
+  tone: 去
+  guangyun: 同妒
+source:
+  source_file: taxchar.xml

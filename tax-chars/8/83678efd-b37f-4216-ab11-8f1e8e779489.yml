@@ -1,0 +1,43 @@
+uuid: 83678efd-b37f-4216-ab11-8f1e8e779489
+type: tax-char
+heads:
+- 水
+pronunciations:
+- reading: shuǐ
+  old_chinese: qhjulʔ
+  middle_chinese: ɕʷɯi
+  fanqie: 式軌切
+  tone: 上
+  guangyun: 説文曰準也北方之行也釋名曰水準也準平物也式軌切一
+  senses:
+  - concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+    children:
+    - gloss: in the mouth
+      concept_uuid: bb42ab93-ad17-4d0e-8c69-3344a4f9a42b
+      concept_label: SALIVA
+    - gloss: use water
+      concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+      concept_label: WASH
+    - gloss: general
+      concept_uuid: b0efc5ff-4d2b-4c80-9e8c-da57f1268678
+      concept_label: LIQUID
+      children:
+      - gloss: move
+        concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+        concept_label: POUR
+  - gloss: large amount of
+    concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+    children:
+    - gloss: channel for
+      concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+      concept_label: RIVER
+      children:
+      - gloss: activity in
+        concept_uuid: 8ac2c103-2517-4ad1-b55e-5aae5299cfd7
+        concept_label: SWIM
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T23:37:10.523+09:00'

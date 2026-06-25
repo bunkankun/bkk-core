@@ -1,0 +1,36 @@
+uuid: 7cc3759f-bca8-4f90-8e7c-2954749da574
+type: tax-char
+heads:
+- 陋
+pronunciations:
+- reading: lòu
+  old_chinese: roos
+  middle_chinese: ləu
+  fanqie: 盧候切
+  tone: 去
+  guangyun: 踈惡也説文曰阸陜也盧𠋫切十三
+  senses:
+  - concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+    concept_label: COUNTRYSIDE
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+    concept_label: NARROW
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+  - concept_uuid: f3e13579-7f52-46be-aa49-a573417c0d6a
+    concept_label: LOW
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+    concept_label: STINGY
+  - concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+    concept_label: UGLY
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

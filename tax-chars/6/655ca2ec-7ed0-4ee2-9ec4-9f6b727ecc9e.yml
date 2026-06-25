@@ -1,0 +1,50 @@
+uuid: 655ca2ec-7ed0-4ee2-9ec4-9f6b727ecc9e
+type: tax-char
+heads:
+- 功
+pronunciations:
+- reading: gōng
+  old_chinese: kooŋ
+  middle_chinese: kuŋ
+  fanqie: 古紅切
+  tone: 平
+  guangyun: 功績也説文曰以勞定國曰功又漢複姓何氏姓苑云漢營陵令成功恢禹治水吿成功後爲氏俗作㓛
+  senses:
+  - concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+    concept_label: ACHIEVE
+    children:
+    - gloss: nominal:resulting success
+      concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+      concept_label: SUCCEED
+      children:
+      - gloss: moral/social
+        concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+        concept_label: MERIT
+        children:
+        - gloss: specific:meritorious exercise of presecribed
+          concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+          concept_label: MOURNING
+        - gloss: 'general:'
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+          children:
+          - gloss: action:transitive
+            concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+            concept_label: GENEROUS
+          - gloss: general:comparative
+            concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+            concept_label: EXCELLENT
+    - gloss: conative
+      concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+      concept_label: EFFORT
+      children:
+      - gloss: imposed
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+      - gloss: personal development
+        concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+        concept_label: STUDY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T21:32:07.969+09:00'

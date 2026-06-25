@@ -1,0 +1,26 @@
+uuid: 105eb47f-c97e-4679-93c5-8605b0dcc99a
+type: tax-char
+heads:
+- 紹
+pronunciations:
+- reading: shào
+  old_chinese: ɡ-lewʔ
+  middle_chinese: dʑiɛu
+  fanqie: 市沼切
+  tone: 上
+  guangyun: 繼也又姓岀何氏姓苑市沼切五
+  senses:
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 2aa3ffa6-acb8-4f34-8976-e3950cac6f53
+    concept_label: INTRODUCE
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

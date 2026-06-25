@@ -1,0 +1,20 @@
+uuid: 04153f8b-66cf-4d37-8654-f498390ee8c3
+type: tax-char
+heads:
+- 恬
+pronunciations:
+- reading: tián
+  old_chinese: b-leem
+  middle_chinese: dem
+  fanqie: 徒兼切
+  tone: 平
+  guangyun: 靖也
+  senses:
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+    concept_label: COMFORTABLE
+  - concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+    concept_label: CUSTOM
+source:
+  source_file: taxchar.xml

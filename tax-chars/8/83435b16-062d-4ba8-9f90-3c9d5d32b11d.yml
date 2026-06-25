@@ -1,0 +1,52 @@
+uuid: 83435b16-062d-4ba8-9f90-3c9d5d32b11d
+type: tax-char
+heads:
+- 陵
+pronunciations:
+- reading: líng
+  old_chinese: b-rɯŋ
+  middle_chinese: lɨŋ
+  fanqie: 力膺切
+  tone: 平
+  guangyun: 大阜曰陵釋名曰陵崇也體崇髙也又犯也侮也侵也遟也又漢複姓六氏吴延陵季子之後有延陵氏髙士傳有於陵子仲戰國䇿有安陵丑吕氏春秋有鉛陵卓子漢有髙陵顯秦昭王弟髙陵君之後楚有公子食采於鄧陵後以爲氏力膺切十八
+  senses:
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+    children:
+    - gloss: part of
+      concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+      concept_label: SUMMIT
+    - gloss: specific, small
+      concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+      concept_label: TOMB
+    - gloss: action relating to
+      concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+      concept_label: ASCEND
+      children:
+      - gloss: and dominate what is below
+        concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+        concept_label: ANNEX
+        children:
+        - gloss: abstract
+          concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+          concept_label: ARROGATE
+        - gloss: 'object people: dominate'
+          concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+          concept_label: OPPRESS
+          children:
+          - gloss: humiliate
+            concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+            concept_label: OFFEND
+          - gloss: quality
+            concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+            concept_label: SEVERE
+            children:
+            - gloss: reaction
+              concept_uuid: b237081d-2ffa-4cc5-bb3e-04792610663b
+              concept_label: TREMBLE
+              children:
+              - gloss: causing one to tremble, strong or violent, as of rain etc
+                concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+                concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

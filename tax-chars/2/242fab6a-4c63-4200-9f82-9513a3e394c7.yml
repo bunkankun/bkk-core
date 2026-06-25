@@ -1,0 +1,79 @@
+uuid: 242fab6a-4c63-4200-9f82-9513a3e394c7
+type: tax-char
+heads:
+- 事
+pronunciations:
+- reading: zì
+  old_chinese: tsrɯs
+  middle_chinese: tʂɨ
+  fanqie: 側吏切
+  tone: 去
+  guangyun: 事刃又作剚倳
+- reading: shì
+  old_chinese: dzrɯs
+  middle_chinese: dʐɨ
+  fanqie: 鉏吏切
+  tone: 去
+  guangyun: 使也立也由也鉏吏切又側吏切二
+  senses:
+  - gloss: what has occurred
+    concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+    concept_label: EVENT
+    children:
+    - gloss: stative
+      concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+      concept_label: SITUATION
+      children:
+      - gloss: abstract
+        concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+        concept_label: REALITY
+        children:
+        - gloss: participant in
+          concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+          concept_label: THING
+          children:
+          - gloss: declarative
+            concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+            concept_label: REFER TO
+      - gloss: 'psychological: reaction to'
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+    - gloss: event caused by an agent
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: act on for ulterior purpose
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+      - gloss: strenuous purposeful act
+        concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+        concept_label: EFFORT
+        children:
+        - gloss: imposed organised effort
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+          children:
+          - gloss: work in the employment of
+            concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+            concept_label: SERVE
+            children:
+            - gloss: someone who serves in public capacity
+              concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+              concept_label: OFFICIAL
+              children:
+              - gloss: cause to become an official
+                concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+                concept_label: EMPLOY
+        - gloss: purposeful aimed effort
+          concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+          concept_label: STRIVE FOR
+      - gloss: 'literary: event indirectly referred to in literature'
+        concept_uuid: 71bcaa8c-1bfc-4aa8-93f0-345404310997
+        concept_label: ALLUSION
+    - gloss: polite circumlocution for
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-15T18:06:37.536+09:00'

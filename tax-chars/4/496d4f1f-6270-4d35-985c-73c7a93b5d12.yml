@@ -1,0 +1,59 @@
+uuid: 496d4f1f-6270-4d35-985c-73c7a93b5d12
+type: tax-char
+heads:
+- 求
+pronunciations:
+- reading: qiú
+  old_chinese: ɡu
+  middle_chinese: ɡiu
+  fanqie: 巨鳩切
+  tone: 平
+  guangyun: 索也又姓三輔決録云漢有求伸
+  senses:
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+    children:
+    - gloss: 'inadvertently: “ask for”'
+      concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+      concept_label: CAUSE
+    - gloss: resultative
+      concept_uuid: aba8d2b3-44ef-4332-a142-b1920f4de57a
+      concept_label: FIND
+    - gloss: statively:emotionally
+      concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+      concept_label: DESIRE
+      children:
+      - gloss: look forward to
+        concept_uuid: 334716e8-8f40-4a81-9caa-b49371c683f9
+        concept_label: EXPECT
+      - gloss: deliberate
+        concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+        concept_label: INTEND
+        children:
+        - gloss: actively
+          concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+          concept_label: STRIVE FOR
+          children:
+          - gloss: object action
+            concept_uuid: 7d16f180-72e5-4880-b20c-dc135e68166c
+            concept_label: TRY
+          - gloss: using language
+            concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+            concept_label: REQUEST
+            children:
+            - gloss: 'specifically: consult'
+              concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+              concept_label: ASK
+            - gloss: insistent
+              concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+              concept_label: DEMAND
+            - gloss: to come
+              concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+              concept_label: INVITE
+            - gloss: to marry
+              concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+              concept_label: MARRY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T17:50:07.666+09:00'

@@ -1,0 +1,39 @@
+uuid: cbf1fb88-4d08-46bd-a8eb-1feddc3d695d
+type: tax-char
+heads:
+- 畔
+pronunciations:
+- reading: pàn
+  old_chinese: baans
+  middle_chinese: bʷɑn
+  fanqie: 薄半切
+  tone: 去
+  guangyun: 田界也
+  senses:
+  - concept_uuid: 57135fb0-e1a5-48ff-83e6-62ef69579618
+    concept_label: FIELD BOUNDARY
+    children:
+    - gloss: generalised
+      concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+      concept_label: BOUNDARY
+      children:
+      - gloss: related action
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+      - gloss: furniture marking.SCREEN
+      - gloss: abstract
+        concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+        concept_label: SIDE
+        children:
+        - gloss: of rivers
+          concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+          concept_label: SHORE
+  - gloss: =叛
+    concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+    concept_label: REVOLT
+    children:
+    - gloss: result
+      concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+      concept_label: CHAOS
+source:
+  source_file: taxchar.xml

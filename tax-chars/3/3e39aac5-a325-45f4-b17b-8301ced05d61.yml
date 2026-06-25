@@ -1,0 +1,42 @@
+uuid: 3e39aac5-a325-45f4-b17b-8301ced05d61
+type: tax-char
+heads:
+- 龜
+pronunciations:
+- reading: guī
+  old_chinese: kʷrɯ
+  middle_chinese: kʷɯi
+  fanqie: 居追切
+  tone: 平
+  guangyun: 龜古文
+- reading: guī
+  old_chinese: kʷrɯ
+  middle_chinese: kʷɯi
+  fanqie: 居追切
+  tone: 平
+  guangyun: 説苑曰靈龜五色似玉似金背隂向陽上髙象天下平法地易号爲龜大戴禮曰田蟲三百六十四神龜爲之長居追切六
+- reading: guī
+  old_chinese: kʷrɯ
+  middle_chinese: kʷɯi
+  fanqie: 居追切
+  tone: 平
+  guangyun: 同龜
+  senses:
+  - concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+    concept_label: COOK
+  - concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+    concept_label: DIVINATION
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: 7d3a14a0-d3e8-4197-8e0c-2c8a387eaa03
+    concept_label: SPINE
+  - concept_uuid: 70490d30-b706-4f41-85d9-e2ef24d5ab5e
+    concept_label: TURTLE
+- reading: jiū
+  old_chinese: kʷɯ
+  middle_chinese: kiu
+  fanqie: 居求切
+  tone: 平
+  guangyun: 又居危切
+source:
+  source_file: taxchar.xml

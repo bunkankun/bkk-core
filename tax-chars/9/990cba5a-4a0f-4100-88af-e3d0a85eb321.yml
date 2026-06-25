@@ -1,0 +1,34 @@
+uuid: 990cba5a-4a0f-4100-88af-e3d0a85eb321
+type: tax-char
+heads:
+- 析
+pronunciations:
+- reading: xī
+  old_chinese: seeɡ
+  middle_chinese: sek
+  fanqie: 先擊切
+  tone: 入
+  guangyun: 分也字從木斤破木也又爾雅曰析木謂之津注云即漢津也亦姓風俗通云齊大夫析歸父
+  senses:
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: xī
+  old_chinese: seeɡ
+  middle_chinese: sek
+  fanqie: 先擊切
+  tone: 入
+  guangyun: 俗析
+source:
+  source_file: taxchar.xml

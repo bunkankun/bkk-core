@@ -1,0 +1,26 @@
+uuid: 8359883f-d89a-4c58-8480-08d99d92adf4
+type: tax-char
+heads:
+- 秦
+pronunciations:
+- reading: qín
+  old_chinese: dzin
+  middle_chinese: dzin
+  fanqie: 匠鄰切
+  tone: 平
+  guangyun: 州名古西戎地春秋時爲秦國後并天下爲隴西郡漢武分置天水郡後魏改爲秦州因邑以爲名又姓秦自顓頊後子嬰旣滅支庶以爲秦氏也匠鄰切三
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+    children:
+    - gloss: DYNASTIES
+    - concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+      concept_label: CHINA
+  - gloss: proper names
+    concept_uuid: 0aa44f4e-1b75-4f3b-84b4-6909c4e3b43a
+    concept_label: RULERS OF QIN
+  - gloss: proper names
+    concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+source:
+  source_file: taxchar.xml

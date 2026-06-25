@@ -1,0 +1,52 @@
+uuid: 5bf233e9-92f2-4ba2-a86a-7f6d51e25913
+type: tax-char
+heads:
+- 駕
+pronunciations:
+- reading: jià
+  old_chinese: kraals
+  middle_chinese: kɯa
+  fanqie: 古訝切
+  tone: 去
+  guangyun: 行也乗也説文曰馬在軶中也古訝切十二
+  senses:
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+    children:
+    - gloss: one day's ride
+      concept_uuid: beb5de81-af3e-4a12-a638-76b1b41ea24c
+      concept_label: LENGTH
+    - gloss: prepare
+      concept_uuid: a3fd0875-c354-445d-95cc-20900fcce69e
+      concept_label: YOKE
+      children:
+      - gloss: army
+        concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+        concept_label: MOBILISE
+    - gloss: object
+      concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+      concept_label: VEHICLE
+      children:
+      - gloss: use of
+        concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+        children:
+        - gloss: beyond?
+          concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+          concept_label: SURPASS
+        - gloss: causative
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: SPREAD
+      - gloss: kind of
+        concept_uuid: 00a329cc-f767-4ad2-903e-65955892e53c
+        concept_label: PALANQUIN
+        children:
+        - gloss: occupant of
+          concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+          concept_label: EMPEROR
+        - gloss: 'grammaticalised: honorific'
+          concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+          concept_label: YOU
+  - gloss: =架
+source:
+  source_file: taxchar.xml

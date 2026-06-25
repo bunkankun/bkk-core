@@ -1,0 +1,24 @@
+uuid: 688d638e-6712-45be-b39a-d6efa090dedd
+type: tax-char
+heads:
+- 埋
+pronunciations:
+- reading: mái
+  old_chinese: mɢrɯɯ
+  middle_chinese: mɯæi
+  fanqie: 莫皆切
+  tone: 平
+  guangyun: 瘞也藏也莫皆切四
+  senses:
+  - concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: VANISH
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 62252aba-6452-4ee9-aeb4-3b50862a8170
+    concept_label: BELOW
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,47 @@
+uuid: e9f5215b-18b0-486b-9ca0-0e821b0bed25
+type: tax-char
+heads:
+- 洋
+pronunciations:
+- reading: xiáng
+  old_chinese: sɢlaŋ
+  middle_chinese: ziɐŋ
+  fanqie: 似羊切
+  tone: 平
+  guangyun: 水名出齊郡臨朐縣北亦州名本漢成固縣秦爲漢中郡魏置洋州
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: yáng
+  old_chinese: k-laŋ
+  middle_chinese: jiɐŋ
+  fanqie: 與章切
+  tone: 平
+  guangyun: 水流皃又海名又音祥
+  senses:
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: dd7585ff-f781-43d6-8bd4-d43b15415838
+    concept_label: SEA
+  - concept_uuid: 9cb1a891-6624-426e-9c54-5906dd554b1c
+    concept_label: ABROAD
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+    concept_label: NEW
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+    concept_label: SATISFIED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - gloss: = 烊
+  - gloss: = 漾
+source:
+  source_file: taxchar.xml

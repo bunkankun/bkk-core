@@ -1,0 +1,28 @@
+uuid: ff2c0c8d-e6a5-44a3-af5c-a7d2411a9278
+type: tax-char
+heads:
+- 麾
+pronunciations:
+- reading: huī
+  old_chinese: hmral
+  middle_chinese: hʷɯiɛ
+  fanqie: 許為切
+  tone: 平
+  guangyun: 説文曰旌旗所以指𪎮也亦作麾許爲切六
+- reading: huī
+  old_chinese: hmral
+  middle_chinese: hʷɯiɛ
+  fanqie: 許為切
+  tone: 平
+  guangyun: 同𪎮
+  senses:
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - concept_uuid: 98d191ef-d8bf-4d9d-9f39-b2064d9772a7
+    concept_label: WAVE HAND
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+source:
+  source_file: taxchar.xml

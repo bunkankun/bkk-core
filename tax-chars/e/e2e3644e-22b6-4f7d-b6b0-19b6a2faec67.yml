@@ -1,0 +1,25 @@
+uuid: e2e3644e-22b6-4f7d-b6b0-19b6a2faec67
+type: tax-char
+heads:
+- 敢
+pronunciations:
+- reading: gǎn
+  old_chinese: klaamʔ
+  middle_chinese: kɑm
+  fanqie: 古覽切
+  tone: 上
+  guangyun: 勇也犯也説文作𠭖進取也古覽切七
+unattributed_senses:
+- concept_uuid: 24babc50-0437-41ce-8bea-61b0cd9cdae6
+  concept_label: DARE
+  children:
+  - gloss: feature
+    concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - gloss: and thus capable
+    concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T19:48:53.186+09:00'

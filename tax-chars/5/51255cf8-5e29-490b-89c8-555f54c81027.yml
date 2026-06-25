@@ -1,0 +1,71 @@
+uuid: 51255cf8-5e29-490b-89c8-555f54c81027
+type: tax-char
+heads:
+- 歷
+pronunciations:
+- reading: lì
+  old_chinese: reeɡ
+  middle_chinese: lek
+  fanqie: 郎擊切
+  tone: 入
+  guangyun: 經歷又次也數也近也行也過也又歷日續漢書律歷志云黃帝造歷丗本曰容成造歷尸子曰羲和造歷或作曆
+  senses:
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+    children:
+    - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+    - gloss: continuous in order
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+      children:
+      - gloss: feature
+        concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+        concept_label: COMPLETE
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+      - gloss: action
+        concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+        concept_label: CROSS OVER
+        children:
+        - gloss: with gaps
+          concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+          concept_label: SEPARATE
+          children:
+          - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+            concept_label: CLEAR
+        - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+          concept_label: ENCOUNTER
+          children:
+          - concept_uuid: cc904ef7-5afa-4730-811a-90532c83bcb5
+            concept_label: EXPERIENCE
+            children:
+            - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+              concept_label: INVESTIGATE
+          - gloss: feature
+            concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+            concept_label: OFTEN
+          - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+            concept_label: SURPASS
+            children:
+            - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+              concept_label: OFFEND
+  - concept_uuid: 63b72ebc-0e46-4945-afac-530e42814b6d
+    concept_label: ARISTOCRATS OF ZHOU
+  - gloss: CALENDER
+    children:
+    - concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+      concept_label: CALCULATE
+      children:
+      - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+        concept_label: CHOOSE
+  - gloss: =曆
+  - gloss: =瀝
+  - gloss: =靂
+  - gloss: =櫪
+  - gloss: =壢
+  - gloss: =鬲
+source:
+  source_file: taxchar.xml

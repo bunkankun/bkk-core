@@ -1,0 +1,28 @@
+uuid: 84d97f58-32b1-4714-86d4-5746a829604c
+type: tax-char
+heads:
+- 巷
+pronunciations:
+- reading: xiàng
+  old_chinese: ɡrooŋs
+  middle_chinese: ɦɯɔŋ
+  fanqie: 胡絳切
+  tone: 去
+  guangyun: 街巷又姓詩云巷伯胡絳切三
+- reading: xiàng
+  old_chinese: ɡrooŋs
+  middle_chinese: ɦɯɔŋ
+  fanqie: 胡絳切
+  tone: 去
+  guangyun: 同巷亦作𨜕
+  senses:
+  - concept_uuid: 6be4dafa-85e2-4081-ae79-f782549eeb53
+    concept_label: STREET
+  - concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+    concept_label: DWELLING
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+    concept_label: FIGHT
+source:
+  source_file: taxchar.xml

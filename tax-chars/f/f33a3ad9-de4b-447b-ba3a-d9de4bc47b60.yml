@@ -1,0 +1,33 @@
+uuid: f33a3ad9-de4b-447b-ba3a-d9de4bc47b60
+type: tax-char
+heads:
+- 君子
+pronunciations:
+- raw: 反切： ； 聲調： ； 廣韻：【 】
+  senses:
+  - concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+    concept_label: GENTLEMAN
+    children:
+    - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+      concept_label: OFFICIAL
+      children:
+      - concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+        concept_label: OFFICER
+        children:
+        - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+          children:
+          - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+            concept_label: FRIEND
+            children:
+            - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+              children:
+              - concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+                concept_label: YOU/PLUR
+    - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-02-09T03:33:19.827+09:00'

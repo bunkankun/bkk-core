@@ -1,0 +1,32 @@
+uuid: 2f0d5cfc-a835-451f-b6a7-9d0e727eb9bd
+type: tax-char
+heads:
+- 捐
+pronunciations:
+- reading: juān
+  old_chinese: ɢʷlen
+  middle_chinese: jʷiɛn
+  fanqie: 與專切
+  tone: 平
+  guangyun: 弃也
+  senses:
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+    concept_label: DISREGARD
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 26f60644-292c-40f8-9d43-17951e2349f8
+    concept_label: SPEND
+source:
+  source_file: taxchar.xml

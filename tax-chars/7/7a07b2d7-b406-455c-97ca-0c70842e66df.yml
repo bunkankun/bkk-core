@@ -1,0 +1,86 @@
+uuid: 7a07b2d7-b406-455c-97ca-0c70842e66df
+type: tax-char
+heads:
+- 師
+pronunciations:
+- reading: shī
+  old_chinese: sril
+  middle_chinese: ʃɯi
+  fanqie: 疏夷切
+  tone: 平
+  guangyun: 師範也衆也亦官名大戴禮曰昔者周成王幼在繦褓之中太公爲太師也又姓晉有師曠又漢複姓十二氏左傳衞大夫褚師圃馬師頡鄭有郷校子産云是吾師也其後以校師爲氏陳悼太子偃師其後以王父字爲氏扶風傳有范師利蔓丗本云鄭有子師僕殷時掌樂有太師摯少師陽宋有樂人師延丗掌樂職後有宋大夫師延冝風俗通云有牧師氏春秋釋例楚有師祁黎後漢末有南陽師宜宫善篆䟽夷切六
+  senses:
+  - concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+    concept_label: TEACHER
+    children:
+    - gloss: grammaticalised, polite
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+  - gloss: 'attitudinal: treat as'
+    concept_uuid: 4c3d1748-7c81-4aa6-bb51-6521c3caecfc
+    concept_label: EMULATE
+    children:
+    - gloss: be guided by
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: consequent action
+        concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+        concept_label: SUPPORT
+      - gloss: intellectual:like a master
+        concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+        concept_label: STUDY
+    - gloss: generally
+      concept_uuid: ee979ffd-7edb-4439-8909-34c3173003b7
+      concept_label: SPECIALIST
+      children:
+      - gloss: specifically
+        concept_uuid: b6ce5719-53d1-482f-b617-78561d269e60
+        concept_label: MUSICIAN
+      - gloss: military leader
+        concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+        concept_label: OFFICER
+        children:
+        - gloss: general
+          concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+          concept_label: CROWD
+          children:
+          - gloss: organised
+            concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+            concept_label: ARMY
+            children:
+            - gloss: abstract
+              concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+              concept_label: WARFARE
+            - gloss: object
+              concept_label: GARRISON
+              children:
+              - gloss: place where army encamps temporarily
+                concept_uuid: 6317db9e-f402-42e9-b1e0-8d04fca07bf7
+                concept_label: CAMP
+                children:
+                - gloss: place of the main army
+                  concept_uuid: 17c8f382-15f3-4555-ab9f-aff69c10532f
+                  concept_label: CAPITAL
+                  children:
+                  - gloss: 'general: settlement with military presence'
+                    concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+                    concept_label: CITY
+        - gloss: action, military
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+          children:
+          - gloss: specific
+            concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+            concept_label: ATTACK
+            children:
+            - gloss: encamp
+              concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+              concept_label: DWELL
+  - gloss: =獅
+    concept_uuid: 94177229-7796-4e0c-bd74-e3387a5e555a
+    concept_label: LION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T20:46:48.198+09:00'

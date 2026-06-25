@@ -1,0 +1,73 @@
+uuid: 7fdc5bca-d99a-4b5e-a491-7af52d05df09
+type: tax-char
+heads:
+- 名
+pronunciations:
+- reading: míng
+  old_chinese: meŋ
+  middle_chinese: miɛŋ
+  fanqie: 武并切
+  tone: 平
+  guangyun: 名字春秋說題曰名成也大也功也号也說文曰自命也从夕口夕者冥不相見故以口自名也又姓左傳楚大夫彭名之後武并切二
+  senses:
+  - concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+    concept_label: NAME
+    children:
+    - gloss: linguistic
+      concept_uuid: aecf371d-2cfd-4924-9e21-fee14f8e43e2
+      concept_label: WORD
+      children:
+      - gloss: abstract
+        concept_uuid: 3267f662-31c8-4634-96c4-f21978fcd1dc
+        concept_label: CONCEPT
+  - gloss: concrete
+    concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+    concept_label: WRITTEN CHARACTER
+    children:
+    - concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+      concept_label: PERSONAL NAME
+      children:
+      - gloss: grammaticalised
+        concept_label: CLASSIFIER
+      - gloss: official
+        concept_uuid: 1445093e-a5b6-4b45-85be-e4073438c61f
+        concept_label: TITLE
+        children:
+        - gloss: typical feature
+          concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+          concept_label: WELL-KNOWN
+          children:
+          - gloss: positive
+            concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+            concept_label: FAMOUS
+            children:
+            - gloss: specifically
+              concept_uuid: d255d9f9-e541-497f-98dc-6a9978a19d90
+              concept_label: PHILOSOPHER
+            - gloss: deserving of such
+              concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+              concept_label: EXCELLENT
+              children:
+              - gloss: reason for being deemed excellent
+                concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+                concept_label: MERIT
+          - gloss: for negative reasons
+            concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+            concept_label: CRIME
+    - gloss: causative:give name to
+      concept_uuid: f590a3d5-40bd-499d-916a-2cd0293e7f3f
+      concept_label: BAPTISE
+    - gloss: grammaticalised
+      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+      concept_label: COPULA
+      children:
+      - gloss: by name/appearance only
+        concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+        concept_label: SEEM
+    - gloss: grammaticalised
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T02:27:04.652+09:00'

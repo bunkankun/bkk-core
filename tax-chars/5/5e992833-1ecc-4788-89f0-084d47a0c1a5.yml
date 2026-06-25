@@ -1,0 +1,39 @@
+uuid: 5e992833-1ecc-4788-89f0-084d47a0c1a5
+type: tax-char
+heads:
+- 播
+pronunciations:
+- reading: bō
+  old_chinese: paals
+  middle_chinese: puɑ
+  fanqie: 補過切
+  tone: 去
+  guangyun: 播古文
+- reading: bō
+  old_chinese: paals
+  middle_chinese: puɑ
+  fanqie: 補過切
+  tone: 去
+  guangyun: 揚也放也弃也説文曰掩也一曰布也又姓播武殷賢人補過切五
+  senses:
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+  - concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+    concept_label: SOW
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 簸
+source:
+  source_file: taxchar.xml

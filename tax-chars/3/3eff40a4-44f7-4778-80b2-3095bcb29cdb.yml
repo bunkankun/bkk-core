@@ -1,0 +1,41 @@
+uuid: 3eff40a4-44f7-4778-80b2-3095bcb29cdb
+type: tax-char
+heads:
+- 沛
+pronunciations:
+- reading: bèi
+  old_chinese: poobs
+  middle_chinese: pɑi
+  fanqie: 博蓋切
+  tone: 去
+  guangyun: 同沛
+- reading: pèi
+  old_chinese: phoobs
+  middle_chinese: pʰɑi
+  fanqie: 普蓋切
+  tone: 去
+  guangyun: 流皃亦滂沛又水名岀遼東又音貝
+  senses:
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: 1d168988-768f-41d1-adb5-cd633b503ead
+    concept_label: MARSH
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+    concept_label: FULL
+  - concept_uuid: 9255ee0d-15de-40ba-9be7-06f336bc007f
+    concept_label: SEND DOWN
+  - concept_uuid: 41cdc672-56fc-4fb2-8ffe-5f49c62833ba
+    concept_label: DIKE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - gloss: = 跋
+- reading: bèi
+  old_chinese: poobs
+  middle_chinese: pɑi
+  fanqie: 博蓋切
+  tone: 去
+  guangyun: 郡名又姓出姓苑又匹蓋切
+source:
+  source_file: taxchar.xml

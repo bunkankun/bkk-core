@@ -1,0 +1,60 @@
+uuid: 7e6b91dc-1bcc-4229-92f9-681997a329fe
+type: tax-char
+heads:
+- 味
+pronunciations:
+- reading: wèi
+  old_chinese: mɯds
+  middle_chinese: mʷɨi
+  fanqie: 無沸切
+  tone: 去
+  guangyun: 五味酸醎甘苦辛周禮瘍醫以酸養骨以辛養筋以醎養脉以苦養氣以甘養肉以滑養竅
+  senses:
+  - concept_uuid: 2521008a-cf88-4177-9e12-db443ab1966f
+    concept_label: FLAVOUR
+    children:
+    - gloss: mereology
+      concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+      concept_label: ODOUR
+    - gloss: putative
+      concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+      concept_label: APPRECIATE
+      children:
+      - gloss: discriminating
+        concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+        concept_label: DISTINGUISH
+        children:
+        - gloss: intellectually
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+          children:
+          - gloss: object
+            concept_uuid: 02770268-84ec-4888-b4ba-8da67e71c882
+            concept_label: MEANING
+            children:
+            - gloss: feature of
+              concept_uuid: 02412bfc-777d-4617-9332-a7ac346f3992
+              concept_label: INTEREST
+          - gloss: conative
+            concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+            concept_label: STUDY
+    - gloss: what has flavour
+      concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+      concept_label: DELICACY
+      children:
+      - gloss: associated activity
+        concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+        concept_label: EAT
+  - gloss: grammaticalised
+    concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+    concept_label: CLASSIFIERS
+unattributed_senses:
+- gloss: 味 ｍｅｉ４《集韻》莫佩切，去隊明。
+  children:
+  - gloss: (sheen, polish)
+    concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

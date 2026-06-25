@@ -1,0 +1,43 @@
+uuid: b39661d5-f45f-4b48-8a7a-086b3d2b9cd8
+type: tax-char
+heads:
+- 隸
+pronunciations:
+- reading: lì
+  old_chinese: rɯɯds
+  middle_chinese: lei
+  fanqie: 郎計切
+  tone: 去
+  guangyun: 同隸俗作𥻳
+- reading: lì
+  old_chinese: ɡ-rɯɯds
+  middle_chinese: lei
+  fanqie: 郎計切
+  tone: 去
+  guangyun: 僕隸
+  senses:
+  - concept_uuid: 066f00b2-4f40-4c1f-bd5e-d7b8b10307a4
+    concept_label: SCRIBE
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+  - concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+    concept_label: SLAVE
+  - concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+    concept_label: ASSISTANT
+  - concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+    concept_label: SERVE
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: 2bcea8d2-f4b7-40c2-b8e0-8b4ed0dcfb88
+    concept_label: SCRIPT STYLE
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 肄
+source:
+  source_file: taxchar.xml

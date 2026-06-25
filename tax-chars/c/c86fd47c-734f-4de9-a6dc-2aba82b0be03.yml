@@ -1,0 +1,30 @@
+uuid: c86fd47c-734f-4de9-a6dc-2aba82b0be03
+type: tax-char
+heads:
+- 辜
+pronunciations:
+- reading: gū
+  old_chinese: kaa
+  middle_chinese: kuo
+  fanqie: 古胡切
+  tone: 平
+  guangyun: 罪也
+  senses:
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+  - concept_uuid: 95e2fb89-8db5-4fd7-bb2e-7150f4825560
+    concept_label: EXORCISE
+  - concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: PUNISH
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: afa1eaf9-9b3c-4eed-9fc9-149fd66f1edf
+    concept_label: DISAPPOINTED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 固
+  - gloss: = 故
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,25 @@
+uuid: e334b3b8-ea8d-45be-a778-6a9e81ba036b
+type: tax-char
+heads:
+- 俾
+pronunciations:
+- reading: bǐ
+  old_chinese: peʔ
+  middle_chinese: pɯiɛ
+  fanqie: 并弭切
+  tone: 上
+  guangyun: 使也從也職也并弭切十
+- reading: bǐ
+  old_chinese: peʔ
+  middle_chinese: pɯiɛ
+  fanqie: 并弭切
+  tone: 上
+  guangyun: 同𢔌説文曰益也一曰俾門侍人
+  senses:
+  - concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+    concept_label: CAUSE TO
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - gloss: = 比
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,57 @@
+uuid: b3b351c7-c43d-4324-91d0-39f0c35f91dc
+type: tax-char
+heads:
+- 鬼
+pronunciations:
+- reading: guǐ
+  old_chinese: kulʔ
+  middle_chinese: kʷɨi
+  fanqie: 居偉切
+  tone: 上
+  guangyun: 鬼之爲言歸也居偉切一
+  senses:
+  - concept_uuid: 3005dd74-e3f8-4c0a-a760-fcb009c1a067
+    concept_label: GHOST
+    children:
+    - gloss: become a ghost
+      concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+      concept_label: DIE
+    - gloss: honoured
+      concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+      concept_label: ANCESTOR
+      children:
+      - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+        concept_label: DEITY
+        children:
+        - gloss: feature
+          concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+          concept_label: SKILLFUL
+        - gloss: feature
+          concept_label: MYSTERIOUS
+        - gloss: generalised
+          concept_label: MONSTER
+          children:
+          - gloss: mostrous person
+            concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+            concept_label: VILLAIN
+          - gloss: feature, generalised>thus very different
+            concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+            concept_label: DISTANT
+          - gloss: generalised:weird activity
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+          - gloss: 'grammaticalised: derogatory'
+            concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+            concept_label: YOU
+            children:
+            - gloss: playfully affectionate
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+      - gloss: service to
+        concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+        concept_label: RITUAL
+  - concept_label: CONSTELLATIONS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T17:40:14.86+09:00'

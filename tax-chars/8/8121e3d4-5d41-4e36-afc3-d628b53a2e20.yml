@@ -1,0 +1,80 @@
+uuid: 8121e3d4-5d41-4e36-afc3-d628b53a2e20
+type: tax-char
+heads:
+- 免
+pronunciations:
+- reading: miǎn
+  old_chinese: mronʔ
+  middle_chinese: mɯiɛn
+  fanqie: 亡辨切
+  tone: 上
+  guangyun: 止也黜也脫也去也亦姓左傳衛大夫免餘亡辨切八
+  senses:
+  - concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: ESCAPE
+    children:
+    - gloss: abstract
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+    - gloss: survive
+      concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+      concept_label: LIVE
+    - gloss: cause to survive
+      concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+      concept_label: RESCUE
+    - gloss: get away
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+    - gloss: linguistic declaration
+      concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+      concept_label: REFUSE
+    - gloss: generalised
+      concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+      concept_label: LEAVE
+      children:
+      - gloss: office
+        concept_uuid: 313c2e26-b826-4590-a81c-3afec1499312
+        concept_label: RETIRE
+        children:
+        - gloss: 'iussive: order to retire'
+          concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+          concept_label: DISMISS
+      - gloss: 'permissive: allow to leave'
+        concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+        concept_label: RELEASE
+        children:
+        - gloss: legal
+          concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+          concept_label: PARDON
+          children:
+          - gloss: moral/psychological
+            concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+            concept_label: FORGIVE
+      - gloss: 'causative: cause to leave the scene'
+        concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+        concept_label: DISCARD
+      - gloss: of hats etc.,cause to leave one's head
+        concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+        concept_label: TAKE OFF
+  - concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+    concept_label: HAIR
+  - gloss: =勉
+  - gloss: =俛(俯)
+  - gloss: =娩
+unattributed_senses:
+- gloss: 免 ｗｅｎ４《廣韻》亡運切，去問微。元部。
+  children:
+  - gloss: =絻 (mourning)
+    concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+    children:
+    - gloss: realted headdress
+      concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+      concept_label: HAIR
+- gloss: 免 ｗａｎ３《集韻》武遠切，上阮微。
+  children:
+  - gloss: =晚
+    concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+    concept_label: LATE
+source:
+  source_file: taxchar.xml

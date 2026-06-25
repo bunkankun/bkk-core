@@ -1,0 +1,27 @@
+uuid: 0866aece-33c1-4177-bd25-514a59412829
+type: tax-char
+heads:
+- 涇
+pronunciations:
+- reading: jìng
+  old_chinese: ɡeŋʔ
+  middle_chinese: ɡiɛŋ
+  fanqie: 巨郢切
+  tone: 上
+- reading: jīng
+  old_chinese: keeŋ
+  middle_chinese: keŋ
+  fanqie: 古靈切
+  tone: 平
+  guangyun: 水名淮南子云涇水出薄洛之山
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+    concept_label: CANAL
+  - concept_uuid: ed12cb69-ffb9-4e99-ba16-f44c8369aa82
+    concept_label: EXCREMENT
+  - concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+    concept_label: RIVER
+source:
+  source_file: taxchar.xml

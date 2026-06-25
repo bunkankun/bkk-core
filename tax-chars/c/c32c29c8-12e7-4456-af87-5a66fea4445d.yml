@@ -1,0 +1,40 @@
+uuid: c32c29c8-12e7-4456-af87-5a66fea4445d
+type: tax-char
+heads:
+- 躡
+pronunciations:
+- reading: niè
+  old_chinese: mɢleb
+  middle_chinese: ɳɯiɛp
+  fanqie: 尼輒切
+  tone: 入
+  guangyun: 蹈也履也登也急也
+  senses:
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+    concept_label: SQUEEZE
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+    concept_label: LINK
+  - concept_uuid: a478961d-fdc0-4ad2-ac81-4f4656822fc4
+    concept_label: TREADLE
+source:
+  source_file: taxchar.xml

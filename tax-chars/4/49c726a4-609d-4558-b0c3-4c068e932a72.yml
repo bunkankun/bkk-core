@@ -1,0 +1,71 @@
+uuid: 49c726a4-609d-4558-b0c3-4c068e932a72
+type: tax-char
+heads:
+- 常
+pronunciations:
+- reading: cháng
+  old_chinese: djaŋ
+  middle_chinese: dʑiɐŋ
+  fanqie: 市羊切
+  tone: 平
+  guangyun: 倍尋曰常又官名漢書曰奉常秦官掌宗廟禮儀景帝六年更名太常也釋名曰九旂之名日月爲常謂畫日月於其端天子所䢖言常明也亦姓出河内漢有常惠市羊切十
+  senses:
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+    children:
+    - gloss: intermittently
+      concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+      concept_label: ALWAYS
+      children:
+      - gloss: unwavering
+        concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+        concept_label: CERTAIN
+      - gloss: imperfectly
+        concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+        concept_label: COMMON
+        children:
+        - gloss: adverbial
+          concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+          concept_label: OFTEN
+        - gloss: adjectival
+          concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+          concept_label: ORDINARY
+          children:
+          - gloss: social
+            concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+            concept_label: CUSTOM
+            children:
+            - gloss: customary imperial symbol
+              concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+              concept_label: BANNER
+    - gloss: subject
+      concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+      concept_label: PATTERN
+      children:
+      - gloss: optative
+        concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+        concept_label: STANDARD
+        children:
+        - gloss: legal
+          concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+          concept_label: LAW
+          children:
+          - gloss: specifically
+            concept_uuid: 2b1d35b0-f651-44ba-a4a2-9b654592a0a8
+            concept_label: LAW OF NATURE
+          - gloss: constant moral law
+            concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+            concept_label: VIRTUE
+  - gloss: =?
+    concept_uuid: b5e991a9-bcc5-4224-97bc-5cd4c591d0a9
+    concept_label: TREE, KINDS
+  - gloss: 16 尺 feet
+    concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - gloss: =嘗 in bygone times
+    concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-10T22:04:53.619+09:00'

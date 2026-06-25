@@ -1,0 +1,43 @@
+uuid: 3077bb3e-4fd2-4e1f-9f11-4c9d3bfbc9d6
+type: tax-char
+heads:
+- 衷
+pronunciations:
+- reading: zhōng
+  old_chinese: krluŋ
+  middle_chinese: ʈiuŋ
+  fanqie: 陟弓切
+  tone: 平
+  guangyun: 善也正也適也中也又衷衣褻衣也
+  senses:
+  - concept_uuid: 8f1d8595-2216-4f17-826f-0100c0f4ede7
+    concept_label: CONSCIENCE
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+  - concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+    concept_label: MIDDLE
+  - concept_uuid: 986bf841-05c9-432b-9a85-27ee284bff5e
+    concept_label: MORALITY
+  - concept_uuid: 95d9281d-3b2c-451a-9e3d-2963006822af
+    concept_label: UNDERWEAR
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: zhòng
+  old_chinese: krluŋs
+  middle_chinese: ʈiuŋ
+  fanqie: 陟仲切
+  tone: 去
+  guangyun: 又陟冲切
+  senses:
+  - concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+    concept_label: APPROPRIATE
+source:
+  source_file: taxchar.xml

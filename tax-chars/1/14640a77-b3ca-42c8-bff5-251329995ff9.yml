@@ -1,0 +1,57 @@
+uuid: 14640a77-b3ca-42c8-bff5-251329995ff9
+type: tax-char
+heads:
+- 似
+pronunciations:
+- reading: sì
+  old_chinese: sɢlɯʔ
+  middle_chinese: zɨ
+  fanqie: 詳里切
+  tone: 上
+  guangyun: 嗣也類也象也詳里切十五
+- reading: nil
+  old_chinese: ljɯʔ
+  middle_chinese: zɨ
+  fanqie: 詳里切
+  tone: 上
+  guangyun: 同似
+unattributed_senses:
+- concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  concept_label: RESEMBLE
+  children:
+  - gloss: cause oneself to
+    concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - gloss: what it ought to be
+    concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+    children:
+    - gloss: graded
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: comparative
+        concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+        concept_label: MORE
+  - gloss: subjective
+    concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+    concept_label: SEEM
+    children:
+    - gloss: grammaticalised
+      concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+      concept_label: AS IF
+  - gloss: generalised
+    concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+    concept_label: RELATION
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+      concept_label: FOR
+      children:
+      - gloss: action
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T23:44:18.085+09:00'

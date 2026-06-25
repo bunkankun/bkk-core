@@ -1,0 +1,36 @@
+uuid: dd6c1bb1-77da-4a1d-bb20-5ba6032e3d3a
+type: tax-char
+heads:
+- 旗
+pronunciations:
+- reading: qí
+  old_chinese: ɡɯ
+  middle_chinese: ɡɨ
+  fanqie: 渠之切
+  tone: 平
+  guangyun: 旌旗釋名曰熊虎爲旗將軍所建象其猛如虎與衆期之於下也戰國䇿曰建七星之旗天子之位也又姓齊卿子旗之後漢有九江太守旗光
+  senses:
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+    children:
+    - gloss: belonging under one Qing banner
+      concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+      concept_label: GROUP
+    - gloss: Manchu> BARBARIANS
+    - gloss: function of banner
+      concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+      concept_label: MEAN
+      children:
+      - gloss: abstract
+        concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+        concept_label: SYMBOL
+      - gloss: metaphorical
+        concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+        concept_label: STARS
+      - gloss: metaphorical
+        concept_uuid: 425f4752-7e1b-43ae-a1c1-f9e5808b6cff
+        concept_label: TEA
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

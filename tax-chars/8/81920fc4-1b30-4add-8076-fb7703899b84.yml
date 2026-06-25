@@ -1,0 +1,88 @@
+uuid: 81920fc4-1b30-4add-8076-fb7703899b84
+type: tax-char
+heads:
+- 愛
+pronunciations:
+- reading: ài
+  old_chinese: qɯɯds
+  middle_chinese: ʔəi
+  fanqie: 烏代切
+  tone: 去
+  guangyun: 憐也説文作𢙴行皃烏代切九
+- reading: ài
+  old_chinese: qɯɯds
+  middle_chinese: ʔəi
+  fanqie: 烏代切
+  tone: 去
+  guangyun: 惠也
+- reading: ài
+  old_chinese: qɯɯds
+  middle_chinese: ʔəi
+  fanqie: 烏代切
+  tone: 去
+  guangyun: 㤅古文
+unattributed_senses:
+- concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  concept_label: LOVE
+  children:
+  - gloss: for those in distress
+    concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+  - gloss: consequent unwillingness to part with
+    concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+    concept_label: STINGY
+  - gloss: comparative
+    concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+    concept_label: PREFER
+    children:
+    - gloss: emotional
+      concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+      concept_label: LIKE
+      children:
+      - gloss: excessively
+        concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+        concept_label: GREEDY
+        children:
+        - gloss: erotic
+          concept_uuid: cdfb0a19-3fc6-409a-9622-f4612108bcfc
+          concept_label: LUST
+          children:
+          - gloss: action
+            concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+            concept_label: COPULATE
+      - gloss: object
+        concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+        concept_label: FRIEND
+        children:
+        - gloss: grammaticalised:intimate
+          concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+          concept_label: YOU
+      - gloss: action
+        concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+        concept_label: SAFEGUARD
+        children:
+        - gloss: lovingly
+          concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+          concept_label: CARE FOR
+          children:
+          - gloss: demonstrate in action
+            concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+            concept_label: GENEROUS
+      - gloss: preferential behaviour
+        concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+        concept_label: HABIT
+        children:
+        - gloss: objective
+          concept_uuid: ed636f99-e1ef-4ace-a961-1bed7ed93df6
+          concept_label: TENDENCY
+          children:
+          - gloss: repeatedly
+            concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+            concept_label: OFTEN
+- gloss: ＝?
+  concept_uuid: 2b02173a-4036-4917-911f-fc00505a6adf
+  concept_label: GRINDSTONE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-22T21:51:51.689+09:00'

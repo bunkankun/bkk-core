@@ -1,0 +1,25 @@
+uuid: f2108a79-5fb2-440f-8a5b-9e509651cb82
+type: tax-char
+heads:
+- 狄
+pronunciations:
+- reading: dí
+  old_chinese: deeɡ
+  middle_chinese: dek
+  fanqie: 徒歷切
+  tone: 入
+  guangyun: 北狄又姓春秋時狄國之後漢有博士狄山
+  senses:
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 翟
+source:
+  source_file: taxchar.xml

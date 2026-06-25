@@ -1,0 +1,31 @@
+uuid: efb59bf6-1303-4abb-8d6f-b85c547c3ce8
+type: tax-char
+heads:
+- 歌
+pronunciations:
+- reading: gē
+  old_chinese: klaal
+  middle_chinese: kɑ
+  fanqie: 古俄切
+  tone: 平
+  guangyun: 禮記曰舜作五弦之琴以歌南風釋名曰人聲曰歌歌者柯也以聲吟詠上下如草木之有柯葉兖冀言歌聲如柯古俄切十一
+  senses:
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+    children:
+    - gloss: object
+      concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+      concept_label: SONG
+      children:
+      - gloss: causative
+        concept_label: COMPOSE
+    - gloss: specific
+      concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+      concept_label: PRAISE
+    - gloss: wihout melody, loudly
+      concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+      concept_label: SHOUT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-16T22:22:38.729+09:00'

@@ -1,0 +1,34 @@
+uuid: 77beb55e-c23d-4dc5-8fa5-f1a8e3d4f6ad
+type: tax-char
+heads:
+- 賓
+pronunciations:
+- reading: bīn
+  old_chinese: pin
+  middle_chinese: pin
+  fanqie: 必鄰切
+  tone: 平
+  guangyun: 敬也迎也列也遵也服也説文作賔所敬也又姓左傳齊有大夫賔須無必鄰切十
+  senses:
+  - concept_uuid: 63b72ebc-0e46-4945-afac-530e42814b6d
+    concept_label: ARISTOCRATS OF ZHOU
+  - concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+    concept_label: GUEST
+  - concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+    concept_label: POLITE
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+    concept_label: SURRENDER
+  - concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+    concept_label: UNIMPORTANT
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+- reading: bīn
+  old_chinese: pin
+  middle_chinese: pin
+  fanqie: 必鄰切
+  tone: 平
+  guangyun: 賔古文
+source:
+  source_file: taxchar.xml

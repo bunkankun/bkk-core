@@ -1,0 +1,94 @@
+uuid: 29c76343-7e9c-4f91-b026-ece29d6a0952
+type: tax-char
+heads:
+- 禁
+pronunciations:
+- reading: jìn
+  old_chinese: krɯms
+  middle_chinese: kɯim
+  fanqie: 居蔭切
+  tone: 去
+  guangyun: 制也謹也止也避王莽家諱改曰省又姓何氏姓苑云今吴興人居䕃切三
+  senses:
+  - concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+    concept_label: FORBID
+    children:
+    - gloss: generalised
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+    - gloss: physical
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: 'object: own future experience'
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+      - gloss: 'object: desire to escape'
+        concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+        concept_label: ENDURE
+        children:
+        - gloss: able to
+          concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+          concept_label: WITHSTAND
+          children:
+          - gloss: have to withstand
+            concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+            concept_label: ENCOUNTER
+            children:
+            - gloss: get involved
+              concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+              concept_label: INVOLVE
+        - gloss: causative
+          concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+          concept_label: MALTREAT
+      - gloss: systematic
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: 'object: layout etc'
+          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+          concept_label: ARRANGE
+      - gloss: stop continuation
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+      - gloss: limited
+        concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+        concept_label: RESTRAIN
+      - gloss: visually
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+        children:
+        - gloss: featurer
+          concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+          concept_label: SECRET
+        - gloss: public, ritually
+          concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+          concept_label: TABOO
+        - gloss: free movement
+          concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+          concept_label: IMPRISON
+          children:
+          - gloss: place forbidding exit
+            concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+            concept_label: PRISON
+            children:
+            - gloss: for animals
+              concept_uuid: e9664def-f19c-4780-9d1f-41a1ac64e63e
+              concept_label: STABLE
+          - gloss: place forbidding entrance
+            concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+            concept_label: PALACE
+  - gloss: =噤
+    concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+    concept_label: SILENT
+- reading: jīn
+  old_chinese: krɯm
+  middle_chinese: kɯim
+  fanqie: 居吟切
+  tone: 平
+  guangyun: 力所加也勝也又居䕃切
+  senses:
+  - concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: WITHSTAND
+source:
+  source_file: taxchar.xml

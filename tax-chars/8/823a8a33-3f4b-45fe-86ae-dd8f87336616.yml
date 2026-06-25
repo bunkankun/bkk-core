@@ -1,0 +1,35 @@
+uuid: 823a8a33-3f4b-45fe-86ae-dd8f87336616
+type: tax-char
+heads:
+- 豈
+pronunciations:
+- reading: qǐ
+  old_chinese: khɯlʔ
+  middle_chinese: kʰɨi
+  fanqie: 袪狶切
+  tone: 上
+  guangyun: 安也焉也曾也祛狶切二
+  senses:
+  - gloss: rhetorical question
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+- reading: qǐ
+  old_chinese: khɯlʔ
+  middle_chinese: kʰɨi
+  fanqie: 袪狶切
+  tone: 上
+  guangyun: 安也焉也曾也祛狶切二
+  senses:
+  - concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - gloss: ＝其
+    concept_uuid: 12ab0c4e-8261-434b-a805-a5e3dc7d24ed
+    concept_label: PERHAPS
+  - gloss: =kai3 愷
+    concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_label: =kai3 凱
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T00:53:45.507+09:00'

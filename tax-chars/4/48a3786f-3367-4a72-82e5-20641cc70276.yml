@@ -1,0 +1,26 @@
+uuid: 48a3786f-3367-4a72-82e5-20641cc70276
+type: tax-char
+heads:
+- 懲
+pronunciations:
+- reading: chéng
+  old_chinese: dɯŋ
+  middle_chinese: ɖɨŋ
+  fanqie: 直陵切
+  tone: 平
+  guangyun: 戒也止也
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: PUNISH
+  - concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+source:
+  source_file: taxchar.xml

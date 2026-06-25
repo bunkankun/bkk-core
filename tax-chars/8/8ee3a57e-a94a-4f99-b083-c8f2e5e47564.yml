@@ -1,0 +1,68 @@
+uuid: 8ee3a57e-a94a-4f99-b083-c8f2e5e47564
+type: tax-char
+heads:
+- 塞
+pronunciations:
+- reading: sài
+  old_chinese: sɯɯɡs
+  middle_chinese: səi
+  fanqie: 先代切
+  tone: 去
+  guangyun: 邊塞又蘇則切
+  senses:
+  - concept_uuid: d86ae61b-61b0-45bc-806f-9a2a938e677c
+    concept_label: FORTRESS
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - concept_uuid: 547143e8-8876-4ad1-976b-599f63e3c4fc
+    concept_label: BORDER
+  - concept_uuid: cb3756a9-55e1-42cc-90bb-cf00c0e74c90
+    concept_label: BOARD-GAMES
+  - gloss: =賽
+- reading: sāi
+  old_chinese: sɯɯɡ
+  middle_chinese: sək
+  fanqie: 蘇則切
+  tone: 入
+  guangyun: 滿也窒也隔也蘇則切又蘇載切五
+  senses:
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+- reading: sāi
+  old_chinese: slɯɯɡs
+  middle_chinese: sək
+  fanqie: 蘇則切
+  tone: 入
+  guangyun: 同塞見説文
+  senses:
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+    children:
+    - gloss: 'generalised: material>FILL'
+      children:
+      - gloss: psychological
+        concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+        concept_label: EARNEST
+      - gloss: figurative
+        concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+        concept_label: OCCUPY
+      - gloss: figurative> SATISFY
+    - gloss: generalised
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: access
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+        children:
+        - gloss: feature
+          concept_uuid: df71c3bd-ec8c-46ac-99a3-971cd5b8b6b5
+          concept_label: INACCESSIBLE
+      - gloss: 'generalised: physical'
+        concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+        concept_label: RESTRAIN
+    - gloss: figurative
+      concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+      concept_label: REPAIR
+source:
+  source_file: taxchar.xml

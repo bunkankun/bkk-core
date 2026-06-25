@@ -1,0 +1,47 @@
+uuid: 66b07533-fbd1-4535-a90b-4a92dbb6dc24
+type: tax-char
+heads:
+- 席
+pronunciations:
+- reading: xí
+  old_chinese: sɢljaɡ
+  middle_chinese: ziɛk
+  fanqie: 祥易切
+  tone: 入
+  guangyun: 薦席又藉也大戴禮曰武王踐阼有席銘亦姓出安定其先姓藉避項羽名改姓席氏晉有席坦祥易切六
+  senses:
+  - concept_uuid: 356925e2-2fac-4b9a-ba0e-dee11f871aa4
+    concept_label: MAT
+    children:
+    - gloss: 'adverbial: like one whole mat, completely'
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+    - gloss: used as
+      concept_uuid: 801135b9-293a-478c-82e9-d045a11f210e
+      concept_label: SAIL
+    - gloss: specific
+      concept_uuid: 21a32240-451b-40a3-aa66-1191287bff1f
+      concept_label: BAMBOO MAT
+    - gloss: generalised
+      concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+      concept_label: SEAT
+      children:
+      - gloss: figurative
+        concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+        concept_label: OFFICE
+        children:
+        - gloss: abstract
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+    - gloss: related actiivty
+      concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+      concept_label: FEAST
+    - gloss: related action
+      concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+      concept_label: SIT
+      children:
+      - gloss: generalised
+        concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+source:
+  source_file: taxchar.xml

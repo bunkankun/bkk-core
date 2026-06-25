@@ -1,0 +1,65 @@
+uuid: c34584ab-5fe5-4fe4-a81d-4dea3c04bf17
+type: tax-char
+heads:
+- 遇
+pronunciations:
+- reading: yù
+  old_chinese: ŋos
+  middle_chinese: ŋio
+  fanqie: 牛具切
+  tone: 去
+  guangyun: 不期而㑹又姓何氏姓苑云東莞人風俗通云漢有遇沖爲河内太守牛具切七
+  senses:
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+    children:
+    - gloss: generalised
+      concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+      concept_label: INTERACT
+    - gloss: generalised:move
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+    - gloss: politely
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+    - gloss: non-symmetrically
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+    - gloss: so as to
+      concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+      concept_label: OPPOSE
+    - gloss: unintended
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: chance encountered
+        concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+        concept_label: OPPORTUNITY
+      - gloss: something negative
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+          concept_label: PASSIVE MARKER
+      - gloss: military
+        concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+        concept_label: BATTLE
+      - gloss: good fortune
+        concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+        concept_label: LUCK
+        children:
+        - gloss: sucess in what one has tried to do
+          concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+          concept_label: SUCCEED
+          children:
+          - gloss: success in getting
+            concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+            concept_label: OBTAIN
+    - gloss: 'abstractly: in a course of action'
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:43:57.439+09:00'

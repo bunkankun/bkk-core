@@ -1,0 +1,35 @@
+uuid: c066ba76-9dc3-4915-9487-21be3dd3f797
+type: tax-char
+heads:
+- 卵
+pronunciations:
+- reading: luǎn
+  old_chinese: ɡ-roonʔ
+  middle_chinese: lʷɑn
+  fanqie: 盧管切
+  tone: 上
+  guangyun: 説文曰凡物無乳者卵生盧管切一
+  senses:
+  - concept_uuid: b7dab087-a7f4-45e7-9a0d-bb6b4ab2d3c3
+    concept_label: EGG
+  - concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+    concept_label: BIRTH
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+  - concept_uuid: 0a10ac40-499d-426a-8bad-c33accc02d1f
+    concept_label: TESTICLE
+  - concept_uuid: 59768f3d-23fd-42be-9e3c-5142cc8ceb55
+    concept_label: TERM OF ABUSE
+  - concept_uuid: 180e1eca-7df8-42da-b199-7f1e24d33489
+    concept_label: BLUE
+- reading: luǒ
+  old_chinese: ɡ-roolʔ
+  middle_chinese: luɑ
+  fanqie: 郎果切
+  tone: 上
+  guangyun: 又力管切
+  senses:
+  - concept_uuid: 685cd234-4dad-43bb-bc43-a334e25a5edd
+    concept_label: GENITALS
+source:
+  source_file: taxchar.xml

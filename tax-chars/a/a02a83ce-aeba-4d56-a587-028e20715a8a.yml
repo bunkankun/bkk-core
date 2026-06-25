@@ -1,0 +1,56 @@
+uuid: a02a83ce-aeba-4d56-a587-028e20715a8a
+type: tax-char
+heads:
+- 失
+pronunciations:
+- reading: shī
+  old_chinese: lʰiɡ
+  middle_chinese: ɕit
+  fanqie: 式質切
+  tone: 入
+  guangyun: 錯也縱也式質切三
+  senses:
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+    children:
+    - gloss: deliberate action
+      concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+      concept_label: RELEASE
+    - gloss: general, action
+      concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+      concept_label: FAIL
+      children:
+      - gloss: passive
+        concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+        concept_label: DEFEAT
+      - concept_label: 'object: duty> OFFEND失法'
+      - gloss: in having what one ought to have
+        concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+        concept_label: LACK
+      - gloss: general
+        concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+        concept_label: MISTAKE
+        children:
+        - gloss: inadvertently
+          concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+          concept_label: ARISE
+        - gloss: inadvertently
+          concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+          concept_label: CHANGE
+        - gloss: neglectfully
+          concept_uuid: b472c225-fc63-48fd-ab91-45f9780c0622
+          concept_label: IGNORANT
+          children:
+          - gloss: practical state
+            concept_uuid: deb3cd81-03bc-4c7c-9125-a2a8837202c9
+            concept_label: UNABLE
+          - gloss: un-knowingly
+            concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+            concept_label: NATURALLY
+        - gloss: action
+          concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+          concept_label: NEGLECT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T21:45:06.581+09:00'

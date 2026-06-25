@@ -1,0 +1,43 @@
+uuid: 77b591d7-a4e9-4233-84f2-72dbcf8d4c37
+type: tax-char
+heads:
+- 零
+pronunciations:
+- reading: lìng
+  old_chinese: ɡ-reeŋs
+  middle_chinese: leŋ
+  fanqie: 郎定切
+  tone: 去
+  guangyun: 零落郞定切又魯丁切三
+- reading: lián
+  old_chinese: ɡ-riiŋ
+  middle_chinese: len
+  fanqie: 落賢切
+  tone: 平
+  guangyun: 漢書云先零西羌也本力丁切
+  senses:
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+- reading: líng
+  old_chinese: ɡ-reeŋ
+  middle_chinese: leŋ
+  fanqie: 郎丁切
+  tone: 平
+  guangyun: 落也説文曰徐雨也又姓出姓苑
+  senses:
+  - concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+    concept_label: RAIN
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+  - concept_uuid: 8d4b507f-efde-48ff-ab34-8934bc7604e5
+    concept_label: FRAGMENT
+  - concept_uuid: a1ee8251-e6fc-4468-b4e5-e40f3febe347
+    concept_label: ZERO
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: START
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

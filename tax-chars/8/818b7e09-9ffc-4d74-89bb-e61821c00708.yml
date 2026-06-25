@@ -1,0 +1,50 @@
+uuid: 818b7e09-9ffc-4d74-89bb-e61821c00708
+type: tax-char
+heads:
+- 靜
+pronunciations:
+- reading: jìng
+  old_chinese: dzeŋʔ
+  middle_chinese: dziɛŋ
+  fanqie: 疾郢切
+  tone: 上
+  guangyun: 安也謀也和也息也疾郢切十
+  senses:
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+    children:
+    - gloss: feature
+      concept_uuid: 6cc02768-d56b-470d-a605-10d4c5fd329f
+      concept_label: INACTIVE
+      children:
+      - gloss: acoustically
+        concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+        concept_label: SILENCE
+      - gloss: motion-wise
+        concept_label: CALM
+        children:
+        - gloss: psychological
+          concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+          concept_label: LAZY
+        - gloss: social
+          concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+          concept_label: PEACEFUL
+          children:
+          - concept_label: PACIFY
+          - gloss: complex
+            concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+            concept_label: HARMONY
+      - gloss: unudalturated> =凈
+        concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+        concept_label: PURE
+        children:
+        - gloss: artificially
+          concept_label: SKILFUL
+        - gloss: 'grammaticalised: undisturbed by exceptions'
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+  - concept_label: REGIONS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T17:44:00.548+09:00'

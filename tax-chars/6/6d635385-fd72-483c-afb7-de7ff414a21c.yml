@@ -1,0 +1,65 @@
+uuid: 6d635385-fd72-483c-afb7-de7ff414a21c
+type: tax-char
+heads:
+- 標
+pronunciations:
+- reading: biǎo
+  old_chinese: pewʔ
+  middle_chinese: piɛu
+  fanqie: 方小切
+  tone: 上
+  guangyun: 標杪木末
+- reading: biāo
+  old_chinese: pew
+  middle_chinese: piɛu
+  fanqie: 甫遙切
+  tone: 平
+  guangyun: 舉也又木杪也又必小切
+  senses:
+  - concept_uuid: 4a814208-81d1-48ac-b35c-122a725e170a
+    concept_label: TIP
+  - concept_uuid: f8165657-7c15-40bc-bf97-6c6bf3c5843b
+    concept_label: POLE
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+    concept_label: UNIMPORTANT
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+  - concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+    concept_label: ESTABLISH
+  - concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+    concept_label: MARK
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGN
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: 69f9092a-b61c-4ba2-8aea-1e01c90d10e3
+    concept_label: OFFER
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+    concept_label: STYLE
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: CLOTH
+  - concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+    concept_label: WIN
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 摽
+source:
+  source_file: taxchar.xml

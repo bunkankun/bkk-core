@@ -1,0 +1,22 @@
+uuid: af0665f4-8033-46f6-b9aa-8cb65982d1a3
+type: tax-char
+heads:
+- 慄
+pronunciations:
+- reading: lì
+  old_chinese: b-riɡ
+  middle_chinese: lit
+  fanqie: 力質切
+  tone: 入
+  guangyun: 戰慄懼也
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: b237081d-2ffa-4cc5-bb3e-04792610663b
+    concept_label: TREMBLE
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+source:
+  source_file: taxchar.xml

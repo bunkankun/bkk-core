@@ -1,0 +1,46 @@
+uuid: 085f60c8-9ea9-4b6a-a961-6af13ed453ed
+type: tax-char
+heads:
+- 藩
+pronunciations:
+- reading: fán
+  old_chinese: ban
+  middle_chinese: bʷiɐn
+  fanqie: 附袁切
+  tone: 平
+  guangyun: 𧂇䒞葉如韭又音翻
+  senses:
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+- reading: fān
+  old_chinese: pan
+  middle_chinese: pʰʷiɐn
+  fanqie: 孚袁切
+  tone: 平
+- reading: fān
+  old_chinese: pan
+  middle_chinese: pʷiɐn
+  fanqie: 甫煩切
+  tone: 平
+  guangyun: 籬也亦藩屏也
+  senses:
+  - concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+    concept_label: BORDER AREA
+  - concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+    concept_label: CARRIAGE
+  - concept_uuid: ef95796d-7e3a-4201-9a4a-cf48877073ad
+    concept_label: FENCE
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

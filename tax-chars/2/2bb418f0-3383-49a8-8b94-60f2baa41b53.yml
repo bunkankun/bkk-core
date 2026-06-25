@@ -1,0 +1,30 @@
+uuid: 2bb418f0-3383-49a8-8b94-60f2baa41b53
+type: tax-char
+heads:
+- 闇
+pronunciations:
+- reading: àn
+  old_chinese: qɯɯms
+  middle_chinese: ʔəm
+  fanqie: 烏紺切
+  tone: 去
+  guangyun: 冥也説文曰閉門也
+  senses:
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: b472c225-fc63-48fd-ab91-45f9780c0622
+    concept_label: IGNORANT
+  - concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+    concept_label: SECRET
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: SHUT
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+    concept_label: COLOUR
+source:
+  source_file: taxchar.xml

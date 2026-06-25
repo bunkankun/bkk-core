@@ -1,0 +1,68 @@
+uuid: ce70ff7f-ed3d-494b-85f7-07dbeefc56b9
+type: tax-char
+heads:
+- 倚
+pronunciations:
+- reading: yǐ
+  old_chinese: qralʔ
+  middle_chinese: ʔɯiɛ
+  fanqie: 於綺切
+  tone: 上
+  guangyun: 依𠋣也又姓楚左史𠋣相於綺切五
+  senses:
+  - concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+    concept_label: LEAN ON
+    children:
+    - gloss: swords etc.
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+    - gloss: result
+      concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+      concept_label: SLANT
+      children:
+      - gloss: abstract
+        concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+        concept_label: PARTIAL
+        children:
+        - gloss: 'concrete: spatial'
+          concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+          concept_label: NEAR
+          children:
+          - gloss: move near from somewhere
+            concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+            concept_label: SCATTER
+        - gloss: moral
+          concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+          concept_label: WICKED
+    - gloss: causative
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+      children:
+      - gloss: using force
+        concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+        concept_label: PRESS
+      - gloss: regularly
+        concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+        concept_label: ARRANGE
+    - gloss: abstract
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: as model
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+        children:
+        - gloss: play music in tune with
+          concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+          concept_label: HARMONY
+  - gloss: =椅
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: yì
+  old_chinese: qrals
+  middle_chinese: ʔɯiɛ
+  fanqie: 於義切
+  tone: 去
+  guangyun: 侍也因也加也於義切又於蟻切三
+source:
+  source_file: taxchar.xml

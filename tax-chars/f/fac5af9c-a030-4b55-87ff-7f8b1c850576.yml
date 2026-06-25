@@ -1,0 +1,38 @@
+uuid: fac5af9c-a030-4b55-87ff-7f8b1c850576
+type: tax-char
+heads:
+- 協
+pronunciations:
+- reading: xié
+  old_chinese: ɦleeb
+  middle_chinese: ɦep
+  fanqie: 胡頰切
+  tone: 入
+  guangyun: 協古文
+- reading: xié
+  old_chinese: ɢlɯɯb
+  middle_chinese: ɦep
+  fanqie: 胡頰切
+  tone: 入
+  guangyun: 和也合也胡頰切十
+  senses:
+  - concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+    concept_label: COOPERATE
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+source:
+  source_file: taxchar.xml

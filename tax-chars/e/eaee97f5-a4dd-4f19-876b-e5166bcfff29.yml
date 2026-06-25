@@ -1,0 +1,32 @@
+uuid: eaee97f5-a4dd-4f19-876b-e5166bcfff29
+type: tax-char
+heads:
+- 旌
+pronunciations:
+- reading: jīng
+  old_chinese: tseŋ
+  middle_chinese: tsiɛŋ
+  fanqie: 子盈切
+  tone: 平
+  guangyun: 旌旗周禮曰析羽爲旌爾雅注云旄首曰旌
+  senses:
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+    concept_label: NOBLE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGN
+  - concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: nil
+  old_chinese: skleŋ
+  middle_chinese: tsiɛŋ
+  fanqie: 子盈切
+  tone: 平
+  guangyun: 同旌見禮
+source:
+  source_file: taxchar.xml

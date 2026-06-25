@@ -1,0 +1,74 @@
+uuid: 23eff98d-5b95-4733-90e5-cca745e403e3
+type: tax-char
+heads:
+- 輪
+pronunciations:
+- reading: lún
+  old_chinese: ɡ-run
+  middle_chinese: lʷin
+  fanqie: 力迍切
+  tone: 平
+  guangyun: 車輪周禮曰軫之方以象地蓋之圜以象天輪輻三十以象日月
+  senses:
+  - concept_uuid: 2999ca14-172c-458b-96ca-2b03dcf9d6e3
+    concept_label: WHEEL
+    children:
+    - gloss: feature
+      concept_uuid: 11aec024-937d-4ac6-a54d-a20ffa8ae3d4
+      concept_label: ROUND
+      children:
+      - gloss: '=掄 causative: make a round shape in the air:'
+        concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+        concept_label: SHAKE
+        children:
+        - gloss: =掄 with weapons
+          concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+          concept_label: WIELD
+    - gloss: like spoke of
+      concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+      concept_label: BRANCH
+      children:
+      - gloss: body parts like
+        concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+        concept_label: MEMBER
+    - gloss: 'producer of: wheelwright'
+      concept_uuid: 95a05433-8265-4179-aae6-831617ad0037
+      concept_label: CARPENTER
+      children:
+      - gloss: secondary
+        concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+        concept_label: BIG
+      - gloss: south to north
+        concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+        concept_label: MEASURE
+    - gloss: part of
+      concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+      concept_label: RIM
+    - gloss: 'grammaticalised: as in proper order on a wheel'
+      concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+      concept_label: ORDER
+      children:
+      - gloss: (Buddhist) orderly replacement
+        concept_uuid: aa14fdb5-c766-4606-be5e-1009b9755979
+        concept_label: REBIRTH
+    - gloss: crucial part of
+      concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+      concept_label: VEHICLE
+    - gloss: 'grammaticalied: measure word for vehicles of all kinds'
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+      children:
+      - gloss: using vehicle
+        concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+        concept_label: ARRIVE
+        children:
+        - gloss: causative
+          concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+          concept_label: TRANSPORT
+    - gloss: similar object
+      concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+      concept_label: SUN
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

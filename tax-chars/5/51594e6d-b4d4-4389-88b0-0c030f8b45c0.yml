@@ -1,0 +1,24 @@
+uuid: 51594e6d-b4d4-4389-88b0-0c030f8b45c0
+type: tax-char
+heads:
+- 叛
+pronunciations:
+- reading: pàn
+  old_chinese: baans
+  middle_chinese: bʷɑn
+  fanqie: 薄半切
+  tone: 去
+  guangyun: 奔他國薄半切四
+  senses:
+  - concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+    concept_label: REVOLT
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+  - concept_uuid: bacf8c9b-eb43-4011-ad40-cc60f3d2aba7
+    concept_label: TREASON
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+source:
+  source_file: taxchar.xml

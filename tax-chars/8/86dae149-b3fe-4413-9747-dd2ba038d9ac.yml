@@ -1,0 +1,34 @@
+uuid: 86dae149-b3fe-4413-9747-dd2ba038d9ac
+type: tax-char
+heads:
+- 秋
+pronunciations:
+- reading: qiū
+  old_chinese: tshiw
+  middle_chinese: tsʰiu
+  fanqie: 七由切
+  tone: 平
+  guangyun: 春秋説文曰禾榖熟也又姓宋中書舎人秋當七由切十七
+  senses:
+  - gloss: autumnal
+    concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+    concept_label: SEASON
+    children:
+    - gloss: typical activity
+      concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+      concept_label: HARVEST
+    - gloss: synecdoche
+      concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+      concept_label: YEAR
+      children:
+      - gloss: synecdoche
+        concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+        concept_label: PERIOD
+        children:
+        - gloss: abstract
+          concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+          concept_label: TIME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-16T22:53:16.037+09:00'

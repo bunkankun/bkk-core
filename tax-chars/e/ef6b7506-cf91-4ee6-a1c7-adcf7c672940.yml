@@ -1,0 +1,32 @@
+uuid: ef6b7506-cf91-4ee6-a1c7-adcf7c672940
+type: tax-char
+heads:
+- 儔
+pronunciations:
+- reading: dào
+  old_chinese: duus
+  middle_chinese: dɑu
+  fanqie: 徒到切
+  tone: 去
+  guangyun: 隱也
+- reading: chóu
+  old_chinese: du
+  middle_chinese: ɖiu
+  fanqie: 直由切
+  tone: 平
+  guangyun: 儔侣也直由切二十七
+  senses:
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+    concept_label: WHO
+  - concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+source:
+  source_file: taxchar.xml

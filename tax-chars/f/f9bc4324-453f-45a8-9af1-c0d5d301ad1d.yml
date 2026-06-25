@@ -1,0 +1,30 @@
+uuid: f9bc4324-453f-45a8-9af1-c0d5d301ad1d
+type: tax-char
+heads:
+- 諒
+pronunciations:
+- reading: liàng
+  old_chinese: ɡ-raŋs
+  middle_chinese: liɐŋ
+  fanqie: 力讓切
+  tone: 去
+  guangyun: 信也相也佐也又姓後漢有諒輔
+  senses:
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+    concept_label: FAITHFUL
+  - concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+    concept_label: FORGIVE
+  - concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+    concept_label: STUBBORN
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: eff7ce63-4a02-4c76-9df9-20431e9ee7dc
+    concept_label: REALLY
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

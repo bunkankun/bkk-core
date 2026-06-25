@@ -1,0 +1,20 @@
+uuid: 4fc52de1-86c9-4b64-abc6-2ad8c3b75c74
+type: tax-char
+heads:
+- 堪
+pronunciations:
+- reading: kān
+  old_chinese: khluum
+  middle_chinese: kʰəm
+  fanqie: 口含切
+  tone: 平
+  guangyun: 任也勝也克也説文曰地突也又姓風俗通云八元仲堪之後
+  senses:
+  - concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+  - concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+    concept_label: DESERVE
+  - concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+source:
+  source_file: taxchar.xml

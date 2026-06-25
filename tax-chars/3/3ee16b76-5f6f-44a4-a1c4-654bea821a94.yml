@@ -1,0 +1,57 @@
+uuid: 3ee16b76-5f6f-44a4-a1c4-654bea821a94
+type: tax-char
+heads:
+- 就
+pronunciations:
+- reading: jiù
+  old_chinese: dzuɡs
+  middle_chinese: dziu
+  fanqie: 疾僦切
+  tone: 去
+  guangyun: 成也迎也即也説文曰就髙也从京尤尤異於凡也又姓後漢書菟賴氏改爲就氏疾僦切四
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: 'abstract, stative: through one''s features'
+      concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+      concept_label: RESEMBLE
+      children:
+      - gloss: 'action: cause oneself to resemble'
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: 'conform to one''s original position:'
+          concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+          concept_label: REMAIN
+    - gloss: figurative> go to the overall aim
+      concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+      concept_label: COMPLETE
+    - gloss: psychologically active
+      concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+      concept_label: SEEK
+      children:
+      - gloss: emotionally intensitive
+        concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+        concept_label: DESIRE
+    - gloss: object person
+      concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+      concept_label: APPROACH
+      children:
+      - gloss: causative
+        concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+        concept_label: PUT
+        children:
+        - gloss: put into possession
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+      - gloss: meet
+        concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+        concept_label: ENCOUNTER
+  - gloss: grammaticalised
+    concept_label: ALTHOUGH
+  - concept_label: 韻典網：成也迎也即也說文曰就髙也从京尢尤異於凡也又姓後[漢/魏]書菟賴氏[-/後]改爲就氏疾僦切四
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T22:14:10.753+09:00'

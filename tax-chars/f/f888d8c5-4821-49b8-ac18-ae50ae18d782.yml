@@ -1,0 +1,49 @@
+uuid: f888d8c5-4821-49b8-ac18-ae50ae18d782
+type: tax-char
+heads:
+- 美
+pronunciations:
+- reading: měi
+  old_chinese: mriʔ
+  middle_chinese: mɯi
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+    children:
+    - gloss: 'historically basic: gustatory'
+      concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+      concept_label: SAVOURY
+    - gloss: putative
+      concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+      concept_label: ADMIRE
+      children:
+      - gloss: admired
+        concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+        concept_label: FAMOUS
+    - gloss: causative
+      concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+      concept_label: EMBELLISH
+  - gloss: abstract
+    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+    children:
+    - gloss: moral
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+      children:
+      - gloss: declarative
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+      - gloss: abstract
+        concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+        concept_label: VIRTUE
+  - gloss: exocentric
+    concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+  - gloss: exocentric
+    concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+    concept_label: WOMAN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-28T18:30:07.354+09:00'

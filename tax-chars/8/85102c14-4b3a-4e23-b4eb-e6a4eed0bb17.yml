@@ -1,0 +1,41 @@
+uuid: 85102c14-4b3a-4e23-b4eb-e6a4eed0bb17
+type: tax-char
+heads:
+- 溺
+pronunciations:
+- reading: nì
+  old_chinese: neewɡ
+  middle_chinese: nek
+  fanqie: 奴歷切
+  tone: 入
+  guangyun: 溺水古作㲻又音弱又姓也
+  senses:
+  - concept_uuid: 2f918b16-defb-4b2c-88fb-c3e8b1cd7e32
+    concept_label: DROWN
+  - concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+    concept_label: SINK
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: ruò
+  old_chinese: njewɡ
+  middle_chinese: ȵiɐk
+  fanqie: 而灼切
+  tone: 入
+  guangyun: 水名出龍道山其水不勝鴻毛又奴歷切
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: = 弱
+- reading: niào
+  old_chinese: njewɢ
+  middle_chinese: neu
+  fanqie: 奴弔切
+  tone: 去
+  senses:
+  - gloss: = 尿
+source:
+  source_file: taxchar.xml

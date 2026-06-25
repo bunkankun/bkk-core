@@ -1,0 +1,28 @@
+uuid: f965d165-f8d6-42ec-a6c6-2628add9c8d3
+type: tax-char
+heads:
+- 稚
+pronunciations:
+- reading: zhì
+  old_chinese: ɡrluls
+  middle_chinese: ɖɯi
+  fanqie: 直利切
+  tone: 去
+  guangyun: 幼稚亦小也晚也又姓史記云湯後因國爲姓
+  senses:
+  - concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+    concept_label: MILLET
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+    concept_label: LATE
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: ee94f2b9-5686-4b05-85de-b654c8e75c79
+    concept_label: BAMBOO SHOOT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

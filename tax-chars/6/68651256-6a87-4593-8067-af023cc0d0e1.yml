@@ -1,0 +1,35 @@
+uuid: 68651256-6a87-4593-8067-af023cc0d0e1
+type: tax-char
+heads:
+- 遁
+pronunciations:
+- reading: dùn
+  old_chinese: ɡ-luuns
+  middle_chinese: duon
+  fanqie: 徒困切
+  tone: 去
+  guangyun: 逃也隱也去也
+  senses:
+  - concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+    concept_label: AVOID
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: FLEE
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: f036ca69-5150-41bd-9aaa-52bb69ed53b9
+    concept_label: LOOSE
+  - gloss: = 遯
+- reading: dùn
+  old_chinese: ɡ-luunʔ
+  middle_chinese: duon
+  fanqie: 徒損切
+  tone: 上
+  guangyun: 遁逃又音鈍
+source:
+  source_file: taxchar.xml

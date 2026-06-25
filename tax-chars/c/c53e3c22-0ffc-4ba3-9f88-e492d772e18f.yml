@@ -1,0 +1,24 @@
+uuid: c53e3c22-0ffc-4ba3-9f88-e492d772e18f
+type: tax-char
+heads:
+- 藍
+pronunciations:
+- reading: lán
+  old_chinese: ɡ-raam
+  middle_chinese: lɑm
+  fanqie: 魯甘切
+  tone: 平
+  guangyun: 染草又姓戰國策有中山大夫藍諸魯甘切十一
+  senses:
+  - concept_uuid: 180e1eca-7df8-42da-b199-7f1e24d33489
+    concept_label: BLUE
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+    concept_label: TATTERED
+  - concept_uuid: 59b03676-0d77-4d61-9744-21ff2a050f67
+    concept_label: MONASTERY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

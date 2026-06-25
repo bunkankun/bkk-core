@@ -1,0 +1,73 @@
+uuid: 0ee9c578-bb83-4ea1-bce9-60006d5f310f
+type: tax-char
+heads:
+- 嚴
+pronunciations:
+- reading: yán
+  old_chinese: ŋɡam
+  middle_chinese: ŋiɐm
+  fanqie: 語𩏩切
+  tone: 平
+  guangyun: 嚴毅也威也敬也説文曰嚴令急也亦姓本姓莊避漢明帝諱改姓嚴語𩏩切二
+  senses:
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+    children:
+    - gloss: related attitude
+      concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+      concept_label: FEAR
+    - gloss: moral
+      concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+      concept_label: AUTHORITY
+      children:
+      - gloss: feature
+        concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+        concept_label: SECRET
+      - gloss: related attitude
+        concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+        concept_label: RESPECT
+        children:
+        - gloss: object
+          concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+          concept_label: FATHER
+    - gloss: feature, political
+      concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+      concept_label: POWER
+    - gloss: feature, psychological
+      concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+      concept_label: SERIOUS
+      children:
+      - gloss: in service and intent
+        concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+        concept_label: DILIGENT
+        children:
+        - gloss: object
+          concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+          concept_label: URGENT
+          children:
+          - gloss: generalised
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+            children:
+            - gloss: 'specific: (intensely)'
+              concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+              concept_label: COLD
+          - gloss: attitudinal, treat as urgent
+            concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+            concept_label: PROVIDE
+        - gloss: specific> act on with diligence
+          concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+          concept_label: EMBELLISH
+  - gloss: =譀
+unattributed_senses:
+- gloss: 嚴 yan2 《集韻》魚銜切，平銜疑。
+  children:
+  - gloss: =巖
+- gloss: 嚴 ｙａｎ３《經典釋文》魚檢反。談部。
+  children:
+  - gloss: =儼
+- gloss: 嚴ｙａｎ4 【集韻】魚窆切，音驗。酷也。
+  children:
+  - gloss: =儼
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,61 @@
+uuid: 7f716e6f-adeb-4b1b-bbd9-45630685a51a
+type: tax-char
+heads:
+- 告
+pronunciations:
+- reading: gào
+  old_chinese: kuuɡs
+  middle_chinese: kɑu
+  fanqie: 古到切
+  tone: 去
+  guangyun: 報也説文作告又音捁
+- reading: gù
+  old_chinese: kuuɡs
+  middle_chinese: kuok
+  fanqie: 古沃切
+  tone: 入
+  guangyun: 又音誥告上曰告發下曰誥
+unattributed_senses:
+- concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+  concept_label: ADDRESS
+  children:
+  - gloss: formal
+    concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+    children:
+    - gloss: generalised
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+      children:
+      - gloss: in response
+        concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+        concept_label: ANSWER
+      - gloss: critically
+        concept_uuid: 62e49b6c-d875-4431-bcae-3d46cf50229c
+        concept_label: COMPLAIN
+        children:
+        - gloss: injunctive
+          concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+          concept_label: ENCOURAGE
+          children:
+          - gloss: imperative
+            concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+            concept_label: COMMAND
+            children:
+            - gloss: authoritative
+              concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+              concept_label: DECREE
+        - gloss: legal
+          concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+          concept_label: ACCUSE
+  - gloss: interrogative
+    concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+    children:
+    - gloss: permission
+      concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+      concept_label: REQUEST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T22:54:37.22+09:00'

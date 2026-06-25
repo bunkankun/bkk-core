@@ -1,0 +1,95 @@
+uuid: 0963ae6b-da63-4d4d-9dd3-62d709eb0614
+type: tax-char
+heads:
+- 衝
+pronunciations:
+- reading: chōng
+  old_chinese: thjoŋ
+  middle_chinese: tɕʰioŋ
+  fanqie: 尺容切
+  tone: 平
+  guangyun: 當也向也突也説文曰通道也尺容切十一
+- reading: chōng
+  old_chinese: thjoŋ
+  middle_chinese: tɕʰioŋ
+  fanqie: 尺容切
+  tone: 平
+  guangyun: 同𧘂
+  senses:
+  - concept_uuid: 5c40388e-b06d-4f8c-bb39-2d7fce66093b
+    concept_label: CROSSROADS
+    children:
+    - gloss: feature of may road
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+    - gloss: generalised
+      concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+      concept_label: WAY
+      children:
+      - gloss: related action
+        concept_uuid: 6da17544-5ea6-457e-80df-a73c69745ce6
+        concept_label: COMMUNICATE
+      - gloss: related action
+        concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+        concept_label: INTERACT
+      - gloss: related action
+        concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+        concept_label: MEET
+        children:
+        - gloss: typical feature
+          concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+          concept_label: SUDDENLY
+        - gloss: astronomy> CONJUNCTION
+        - gloss: technical term
+          concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+          concept_label: DIVINATION
+        - gloss: generalised
+          concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+          concept_label: APPROACH
+          children:
+          - gloss: 'derived grammaticalised:'
+            concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+            concept_label: TOWARDS
+          - gloss: with danger
+            concept_uuid: 36e1fa8e-0596-4eed-a000-dfae2593bf0f
+            concept_label: RISK
+          - gloss: result
+            concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+            concept_label: NEAR
+          - gloss: with impact
+            concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+            concept_label: PUSH
+            children:
+            - gloss: intensitive
+              concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+              concept_label: KNOCK
+              children:
+              - gloss: and pierce
+                concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+                concept_label: INJURE
+                children:
+                - gloss: military
+                  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+                  concept_label: ATTACK
+                  children:
+                  - gloss: and displace
+                    concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+                    concept_label: REMOVE
+                  - gloss: resultative
+                    concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+                    concept_label: DESTROY
+                  - gloss: military attack vehicle
+                    concept_uuid: aa638007-598c-48fe-a8bf-c2100b6cd8f3
+                    concept_label: CHARIOT
+  - gloss: medical technical term> VEIN
+  - gloss: =沖
+    concept_uuid: 85b96863-45e0-4270-abf9-80baef2e4c55
+    concept_label: SPLASH
+unattributed_senses:
+- gloss: 衝 chong4
+  children:
+  - gloss: 'derived grammaticalised:'
+    concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+    concept_label: TOWARDS
+source:
+  source_file: taxchar.xml

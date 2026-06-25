@@ -1,0 +1,44 @@
+uuid: 5094b9f9-06bc-4c41-8b74-d4b305b7be45
+type: tax-char
+heads:
+- 趨
+pronunciations:
+- reading: qū
+  old_chinese: tsho
+  middle_chinese: tsʰio
+  fanqie: 七逾切
+  tone: 平
+  guangyun: 走也七逾切三
+  senses:
+  - concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+    concept_label: RUN
+  - gloss: 'subserviently, demonstratively: "scuffle along"'
+    concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+    children:
+    - gloss: generalised
+      concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+      concept_label: HURRY
+      children:
+      - gloss: with purpose to save
+        concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+        concept_label: RESCUE
+      - gloss: 'abstract: strong'
+        concept_uuid: ed636f99-e1ef-4ace-a961-1bed7ed93df6
+        concept_label: TENDENCY
+        children:
+        - gloss: psychologial
+          concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+          concept_label: INTEND
+          children:
+          - gloss: 'object:'
+            concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+            concept_label: AIM
+          - gloss: realisation of
+            concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+            concept_label: ACT
+        - gloss: 'abstract: "go for"'
+          concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+          concept_label: CHOOSE
+source:
+  source_file: taxchar.xml

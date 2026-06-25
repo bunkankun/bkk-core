@@ -1,0 +1,57 @@
+uuid: b5b76e6e-d96b-4bad-aa78-006cc68847d8
+type: tax-char
+heads:
+- 代
+pronunciations:
+- reading: dài
+  old_chinese: lɯɯɡs
+  middle_chinese: dəi
+  fanqie: 徒耐切
+  tone: 去
+  guangyun: 更代年代亦州名春秋時屬晉其後趙襄子以銅斗擊殺代王取其地至秦隷太原郡漢置雲中鴈門代郡魏爲州又姓史記趙有代舉徒耐切十三
+  senses:
+  - concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+    concept_label: REPLACE
+    children:
+    - gloss: generalised
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+      children:
+      - gloss: to the worse
+        concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+        concept_label: DECLINE
+    - gloss: replace with a gloss
+      concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+      concept_label: EXPLAIN
+    - gloss: 'action: replace so as to'
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+      children:
+      - gloss: subject
+        concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+        concept_label: DESCENDANT
+        children:
+        - gloss: abstract
+          concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+          concept_label: FUTURE
+        - gloss: inheritor of wealth
+          concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+          concept_label: HEIR
+          children:
+          - gloss: period until there is an heir
+            concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+            concept_label: GENERATION
+            children:
+            - gloss: line of descendence of rulers
+              concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+              concept_label: DYNASTY
+      - gloss: grammaticalised:continuously
+        concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+        concept_label: ALWAYS
+  - concept_label: REGIONS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T17:58:23.654+09:00'

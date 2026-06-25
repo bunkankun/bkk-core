@@ -1,0 +1,22 @@
+uuid: 59380825-2f93-4cc7-a385-25e0fe64bac0
+type: tax-char
+heads:
+- 屨
+pronunciations:
+- reading: jù
+  old_chinese: klos
+  middle_chinese: kio
+  fanqie: 九遇切
+  tone: 去
+  guangyun: 履屬方言曰履自關而西謂之屨九遇切十
+  senses:
+  - concept_uuid: f2e43d69-4324-4c7b-bff3-b202d9d14997
+    concept_label: FOOTWEAR
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+source:
+  source_file: taxchar.xml

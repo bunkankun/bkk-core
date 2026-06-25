@@ -1,0 +1,22 @@
+uuid: b91df5d2-661c-4171-adae-c635866cee4f
+type: tax-char
+heads:
+- 驢
+pronunciations:
+- reading: lǘ
+  old_chinese: ɡ-ra
+  middle_chinese: liɔ
+  fanqie: 力居切
+  tone: 平
+  guangyun: 畜也
+  senses:
+  - concept_uuid: 97937a4f-b145-400d-8f00-da4aaf50f1ab
+    concept_label: DONKEY
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59768f3d-23fd-42be-9e3c-5142cc8ceb55
+    concept_label: TERM OF ABUSE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,74 @@
+uuid: b30c5003-f36f-4fae-be02-5e150081a74f
+type: tax-char
+heads:
+- 庶
+pronunciations:
+- reading: shù
+  old_chinese: qhljaɡs
+  middle_chinese: ɕiɔ
+  fanqie: 商署切
+  tone: 去
+  guangyun: 衆也冀也侈也幸也又庶幾也亦姓
+  senses:
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+    children:
+    - gloss: exhaustively many
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+      children:
+      - gloss: feature
+        concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+        concept_label: ORDINARY
+        children:
+        - gloss: 'exocentric: son not by regular wife'
+          concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+          concept_label: DESCENDANT
+        - gloss: exocentric
+          concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+          concept_label: PEOPLE
+        - gloss: grammaticalised
+          concept_label: ALMOST
+          children:
+          - gloss: generalised
+            concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+            concept_label: PROBABLE
+            children:
+            - gloss: doubtful
+              concept_uuid: 12ab0c4e-8261-434b-a805-a5e3dc7d24ed
+              concept_label: PERHAPS
+              children:
+              - gloss: adverbial:lucky
+                concept_label: LUCKY
+                children:
+                - gloss: putative
+                  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+                  concept_label: DESIRE
+                  children:
+                  - gloss: feature of object
+                    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+                    concept_label: EXCELLENT
+                  - gloss: things beyond one's control
+                    concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+                    concept_label: HOPE
+                    children:
+                    - gloss: 'grammaticalised: wish that!, if only!'
+                      concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+                      concept_label: UTINAM
+      - gloss: feature
+        concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+        concept_label: MIXED
+- reading: zhù
+  old_chinese: hljaɡs
+  middle_chinese: tɕiɔ
+  fanqie: 章恕切
+  tone: 去
+  guangyun: 周禮有庶氏掌除毒蟲又音恕
+  senses:
+  - gloss: remove poison
+    concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-16T03:09:28.621+09:00'

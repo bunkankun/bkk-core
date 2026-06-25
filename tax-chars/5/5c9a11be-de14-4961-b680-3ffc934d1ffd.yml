@@ -1,0 +1,28 @@
+uuid: 5c9a11be-de14-4961-b680-3ffc934d1ffd
+type: tax-char
+heads:
+- 昔
+pronunciations:
+- reading: xī
+  old_chinese: sqaɡ
+  middle_chinese: siɛk
+  fanqie: 思積切
+  tone: 入
+  guangyun: 徃也始也爲一昔之期明日也説文作㫺乾肉也又姓漢有烏傷令昔登思積切十四
+unattributed_senses:
+- concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  concept_label: PAST
+  children:
+  - gloss: specifically
+    concept_uuid: a1f8ce17-dcf1-4f20-a8da-8f946b2accad
+    concept_label: YESTERDAY
+  - gloss: abstract:having ended
+    concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+- gloss: =夕
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+  concept_label: EVENING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T21:37:47.629+09:00'

@@ -1,0 +1,34 @@
+uuid: d18f05ba-1fde-45e6-95a6-e9ef7d4598df
+type: tax-char
+heads:
+- 勿
+pronunciations:
+- reading: wù
+  old_chinese: mɯd
+  middle_chinese: miut
+  fanqie: 文弗切
+  tone: 入
+  guangyun: 無也莫也説文曰州里所建旗也象其柄有三斿雜帛幅半異所以趣民故遽稱勿勿又作𣃦
+unattributed_senses:
+- concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+  concept_label: AVOID
+  children:
+  - gloss: deontic
+    concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+    concept_label: SHOULD NOT
+    children:
+    - gloss: imperative
+      concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+      concept_label: DON'T
+      children:
+      - gloss: general
+        concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+        concept_label: NOT
+        children:
+        - gloss: fail to exist
+          concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+          concept_label: LACK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:07:16.215+09:00'

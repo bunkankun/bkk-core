@@ -1,0 +1,28 @@
+uuid: 63f99492-d708-4753-a1f7-b45d617da428
+type: tax-char
+heads:
+- 莖
+pronunciations:
+- reading: yīng
+  old_chinese: qreeŋ
+  middle_chinese: ʔɯæŋ
+  fanqie: 烏莖切
+  tone: 平
+  guangyun: 爾雅釋草云姚莖涂薺
+- reading: jīng
+  old_chinese: ɡreeŋ
+  middle_chinese: ɦɯæŋ
+  fanqie: 戶耕切
+  tone: 平
+  guangyun: 草木榦也戸耕切三
+  senses:
+  - concept_uuid: 7279726c-2c19-46b1-b97d-7fc8e5e606c9
+    concept_label: HANDLE
+  - concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+    concept_label: STEM
+  - concept_uuid: f8165657-7c15-40bc-bf97-6c6bf3c5843b
+    concept_label: POLE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

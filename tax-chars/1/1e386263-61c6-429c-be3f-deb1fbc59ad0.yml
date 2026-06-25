@@ -1,0 +1,32 @@
+uuid: 1e386263-61c6-429c-be3f-deb1fbc59ad0
+type: tax-char
+heads:
+- 趣
+pronunciations:
+- reading: qū
+  old_chinese: shlooʔ
+  middle_chinese: tsʰio
+  fanqie: 七逾切
+  tone: 平
+- reading: cǒu
+  old_chinese: skhooʔ
+  middle_chinese: tsʰəu
+  fanqie: 倉苟切
+  tone: 上
+  guangyun: 趣馬書傳云趣馬掌馬之官也倉苟切又七屢切三
+- reading: cù
+  old_chinese: shlooʔ
+  middle_chinese: tsʰiok
+  fanqie: 七玉切
+  tone: 入
+- reading: qù
+  old_chinese: skhos
+  middle_chinese: tsʰio
+  fanqie: 七句切
+  tone: 去
+  guangyun: 趣向又親足七俱倉苟三切
+  senses:
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+source:
+  source_file: taxchar.xml

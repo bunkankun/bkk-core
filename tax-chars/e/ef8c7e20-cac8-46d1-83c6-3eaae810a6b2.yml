@@ -1,0 +1,22 @@
+uuid: ef8c7e20-cac8-46d1-83c6-3eaae810a6b2
+type: tax-char
+heads:
+- 旁
+pronunciations:
+- reading: páng
+  old_chinese: baaŋ
+  middle_chinese: bɑŋ
+  fanqie: 步光切
+  tone: 平
+  guangyun: 爾雅曰二達謂之岐旁謂岐道旁出也説文曰薄也
+  senses:
+  - concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+    concept_label: EVERYWHERE
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+source:
+  source_file: taxchar.xml

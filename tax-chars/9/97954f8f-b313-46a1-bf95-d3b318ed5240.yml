@@ -1,0 +1,32 @@
+uuid: 97954f8f-b313-46a1-bf95-d3b318ed5240
+type: tax-char
+heads:
+- 拒
+pronunciations:
+- reading: jù
+  old_chinese: ɡaʔ
+  middle_chinese: ɡiɔ
+  fanqie: 其吕切
+  tone: 上
+  guangyun: 拒捍也又格也違也
+  senses:
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+  - concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+  - concept_uuid: 3fecb448-28bb-47fa-8d0a-6c18829c09a0
+    concept_label: GUARD
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+  - gloss: ARRIVE ***
+    concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: SHUT
+  - gloss: = 距
+source:
+  source_file: taxchar.xml

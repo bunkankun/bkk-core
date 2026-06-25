@@ -1,0 +1,86 @@
+uuid: 07442cd0-8dfc-48ab-b7cb-41edb7dda062
+type: tax-char
+heads:
+- 明
+pronunciations:
+- reading: míng
+  old_chinese: mraŋ
+  middle_chinese: mɯiaŋ
+  fanqie: 武兵切
+  tone: 平
+  guangyun: 光也昭也通也發也又姓出平原河南山公集有平原明普武兵切五
+  senses:
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+    children:
+    - gloss: abstract
+      concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+      concept_label: LIGHT
+      children:
+      - gloss: extended
+        concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+        concept_label: PURE
+      - gloss: first time of
+        concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+        concept_label: MORNING
+        children:
+        - gloss: derived:impending
+          concept_uuid: 635912f0-e3af-4e12-90d3-243df2a9622f
+          concept_label: NEXT
+    - gloss: causative
+      concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+      concept_label: SHINE
+      children:
+      - gloss: throw light on
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+      - gloss: shine abstractly
+        concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+        concept_label: FAMOUS
+        children:
+        - gloss: supernaturally
+          concept_uuid: d6776973-375b-4db0-ad93-52bc8bcc6dc7
+          concept_label: SACRED
+    - gloss: effect of brightness
+      concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+      concept_label: SEE
+      children:
+      - gloss: míng
+        concept_uuid: 10a13028-9849-4f0a-a130-2898492f0a8a
+        concept_label: CLAIRVOYANCE
+      - gloss: accessible to
+        concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+        concept_label: VISIBLE
+        children:
+        - gloss: abstract
+          concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+          concept_label: CLEAR
+          children:
+          - gloss: transitive:apperception
+            concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+            concept_label: UNDERSTAND
+            children:
+            - gloss: capable of
+              concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+              concept_label: INTELLIGENT
+              children:
+              - gloss: comprehensively
+                concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+                concept_label: WISE
+          - gloss: causative
+            concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+            concept_label: EXPLAIN
+            children:
+            - gloss: explaining thigns clearly to oneself
+              concept_uuid: 80d2d0a1-6ab1-4c9f-b46c-f6100a85519d
+              concept_label: RATIONAL
+              children:
+              - gloss: successfully some truth
+                concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+                concept_label: PROVE
+  - gloss: proper names
+    concept_label: DYNASTIES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T02:58:54.301+09:00'

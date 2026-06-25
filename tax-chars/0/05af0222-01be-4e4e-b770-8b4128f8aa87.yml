@@ -1,0 +1,22 @@
+uuid: 05af0222-01be-4e4e-b770-8b4128f8aa87
+type: tax-char
+heads:
+- 蠶
+pronunciations:
+- reading: cán
+  old_chinese: sɡɯɯm
+  middle_chinese: dzəm
+  fanqie: 昨含切
+  tone: 平
+  guangyun: 吐絲蟲俗作蚕非昨含切四
+  senses:
+  - concept_uuid: bfc00057-59ea-43a9-b864-9108cc565160
+    concept_label: SILKWORM
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+  - concept_uuid: 44be010e-4781-404d-8778-ecf31827ef6a
+    concept_label: SERICULTURE
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+source:
+  source_file: taxchar.xml

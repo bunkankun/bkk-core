@@ -1,0 +1,28 @@
+uuid: 04bb3a35-5c24-4242-88c4-5d7b1ea91de7
+type: tax-char
+heads:
+- 褐
+pronunciations:
+- reading: hè
+  old_chinese: ɡaad
+  middle_chinese: ɦɑt
+  fanqie: 胡葛切
+  tone: 入
+  guangyun: 衣褐説文云編枲襪也一曰短衣
+  senses:
+  - concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+  - concept_uuid: c47f6e4d-4435-48bc-ba6e-433825fca404
+    concept_label: WOOLEN MAT
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: CLOTH
+  - concept_uuid: e63bf0a9-fd35-4962-9377-02e198f4eb2f
+    concept_label: SOCK
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+  - concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,58 @@
+uuid: 3600781e-14b3-4986-b1dd-0a160ff9030a
+type: tax-char
+heads:
+- 傳
+pronunciations:
+- reading: chuán
+  old_chinese: don
+  middle_chinese: ɖʷɯiɛn
+  fanqie: 直攣切
+  tone: 平
+  guangyun: 轉也又持戀切又丁戀切
+  senses:
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+    children:
+    - gloss: generalised
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+- reading: zhuàn
+  old_chinese: tons
+  middle_chinese: ʈʷɯiɛn
+  fanqie: 知戀切
+  tone: 去
+  guangyun: 郵馬釋名曰傳傳也人所止息去後人復來轉轉相傳無常人也又直專直戀二切
+  senses:
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+    children:
+    - gloss: metalinguistic
+      concept_uuid: 5e412412-9d52-47ef-b5c0-a9563fde53c6
+      concept_label: COMMENTARY
+    - gloss: historical
+      concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+      concept_label: RECORD
+  - gloss: transmitting agent
+    concept_uuid: ec1fcce1-ed79-49c9-a262-04b12dc7a1a5
+    concept_label: ENVOY
+    children:
+    - gloss: means of transmission
+      concept_uuid: bffca52d-c32c-455e-a43b-943ca282ffa9
+      concept_label: CART
+      children:
+      - gloss: housing for transmitters
+        concept_uuid: b8d6fd7f-a061-4416-9e25-5d2308c0678f
+        concept_label: HOTEL
+      - gloss: authorisation of transmission
+        concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+        concept_label: TALLY
+- reading: zhuàn
+  old_chinese: dons
+  middle_chinese: ɖʷɯiɛn
+  fanqie: 直戀切
+  tone: 去
+  guangyun: 訓也釋名曰傳傳也以傳示後人也直戀切又直專丁戀二切二
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T18:56:34.245+09:00'

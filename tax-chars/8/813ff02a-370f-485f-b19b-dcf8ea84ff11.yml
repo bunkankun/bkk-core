@@ -1,0 +1,30 @@
+uuid: 813ff02a-370f-485f-b19b-dcf8ea84ff11
+type: tax-char
+heads:
+- 尤
+pronunciations:
+- reading: yóu
+  old_chinese: ɢʷɯ
+  middle_chinese: ɦiu
+  fanqie: 羽求切
+  tone: 平
+  guangyun: 過也葚也怨也多也説文異也又姓出姓苑羽也切九
+  senses:
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+    concept_label: CRIME
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+    concept_label: GUILT
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+    concept_label: MORE
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 42056888-4ede-4f26-adb1-3702567a9486
+    concept_label: SURPRISED
+source:
+  source_file: taxchar.xml

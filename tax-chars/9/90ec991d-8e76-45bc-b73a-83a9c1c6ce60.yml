@@ -1,0 +1,32 @@
+uuid: 90ec991d-8e76-45bc-b73a-83a9c1c6ce60
+type: tax-char
+heads:
+- 膺
+pronunciations:
+- reading: yīng
+  old_chinese: qɯŋ
+  middle_chinese: ʔɨŋ
+  fanqie: 於陵切
+  tone: 平
+  guangyun: 胷也親也於陵切四
+  senses:
+  - concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+    concept_label: ARMOUR
+  - concept_uuid: aebff601-a3a8-4c54-9f1c-74a9a765a4a7
+    concept_label: CHEST
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+    concept_label: FEELING
+  - concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+    concept_label: PERSONALLY
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 95d9281d-3b2c-451a-9e3d-2963006822af
+    concept_label: UNDERWEAR
+  - concept_uuid: 58d25382-7c42-48b6-a6fb-2f58dc031d67
+    concept_label: HORSE BELT
+source:
+  source_file: taxchar.xml

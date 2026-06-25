@@ -1,0 +1,24 @@
+uuid: 7a8ae31f-79f1-4c58-84f2-a528e5d61c63
+type: tax-char
+heads:
+- 斤
+pronunciations:
+- reading: jìn
+  old_chinese: kɯns
+  middle_chinese: kɨn
+  fanqie: 居焮切
+  tone: 去
+  guangyun: 爾雅曰明明斤斤察也又居勤切
+- reading: jīn
+  old_chinese: kɯn
+  middle_chinese: kɨn
+  fanqie: 舉欣切
+  tone: 平
+  guangyun: 十六兩也説文曰斫木也又虜複姓二氏後魏書去斤氏後改爲艾氏奇斤氏後改爲奇氏舉欣切四
+  senses:
+  - concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+    concept_label: AXE
+  - concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+source:
+  source_file: taxchar.xml

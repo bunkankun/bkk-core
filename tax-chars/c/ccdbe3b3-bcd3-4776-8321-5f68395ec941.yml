@@ -1,0 +1,32 @@
+uuid: ccdbe3b3-bcd3-4776-8321-5f68395ec941
+type: tax-char
+heads:
+- 敖
+pronunciations:
+- reading: áo
+  old_chinese: ŋoow
+  middle_chinese: ŋɑu
+  fanqie: 五勞切
+  tone: 平
+  guangyun: 㳺也説文作𢾕亦姓顓頊大敖之後或作遨五勞切二十五
+  senses:
+  - concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+    concept_label: PLAY
+  - concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+    concept_label: TRAVEL
+  - concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+    concept_label: CLAMOUR
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+    concept_label: DOG
+  - concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+    concept_label: STOREHOUSE
+  - gloss: PLACENAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 熬
+source:
+  source_file: taxchar.xml

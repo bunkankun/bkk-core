@@ -1,0 +1,60 @@
+uuid: 045d03b0-dcfe-4fb6-8eba-e28496e4503f
+type: tax-char
+heads:
+- 法
+pronunciations:
+- reading: fǎ
+  old_chinese: pab
+  middle_chinese: piɐp
+  fanqie: 方乏切
+  tone: 入
+  guangyun: 則也數也常也又姓左傳齊襄王法章之後秦滅齊子孫不敢稱故以法爲氏宣帝時徙三輔代爲二千石後漢有扶風法雄法子眞並有傳方乏切二
+  senses:
+  - concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+    concept_label: PATTERN
+    children:
+    - gloss: to be followed
+      concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+      concept_label: MODEL
+      children:
+      - gloss: follow as model
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+      - gloss: abstract
+        concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+        concept_label: SYMBOL
+      - gloss: of legal administrative practice
+        concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+        concept_label: METHOD
+        children:
+        - gloss: explicit legal provisions
+          concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+          concept_label: LAW
+          children:
+          - gloss: abstract administrative
+            concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+            concept_label: PRINCIPLE
+            children:
+            - gloss: thinker emphasising
+              concept_uuid: d255d9f9-e541-497f-98dc-6a9978a19d90
+              concept_label: PHILOSOPHER
+          - gloss: generalised injunction
+            concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+            concept_label: COMMAND
+          - gloss: implementation of
+            concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+            concept_label: PUNISH
+    - gloss: Buddhist technical term
+      concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+      concept_label: FEATURE
+      children:
+      - gloss: 'Buddhist loan: ontological element'
+        concept_uuid: 1ed11b24-7c4c-4244-ae39-4b879c9eb544
+        concept_label: ELEMENT
+  - gloss: mathematical technical term
+    concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T03:13:10.429+09:00'

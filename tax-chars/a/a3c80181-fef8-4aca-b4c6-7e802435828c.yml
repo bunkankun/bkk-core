@@ -1,0 +1,61 @@
+uuid: a3c80181-fef8-4aca-b4c6-7e802435828c
+type: tax-char
+heads:
+- 勞
+pronunciations:
+- reading: láo
+  old_chinese: raaw
+  middle_chinese: lɑu
+  fanqie: 魯刀切
+  tone: 平
+  guangyun: 倦也勤也病也又姓後漢有琅邪勞丙魯刀切二十二
+- reading: lào
+  old_chinese: raaws
+  middle_chinese: lɑu
+  fanqie: 郎到切
+  tone: 去
+  guangyun: 勞慰又郎刀切
+  senses:
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+    children:
+    - gloss: intensitive
+      concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+      concept_label: EFFORT
+      children:
+      - gloss: resultative
+        concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+        concept_label: MERIT
+        children:
+        - gloss: 'derivation by tone change, read lào: compensation for'
+          concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+          concept_label: REWARD
+    - gloss: hard
+      concept_uuid: 2f844934-733e-4e0c-90df-5369a0338e96
+      concept_label: LABOUR
+      children:
+      - gloss: compensation/sympathy for
+        concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+        concept_label: CONSOLE
+      - gloss: feature
+        concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+        concept_label: DIFFICULT
+      - gloss: result
+        concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+        concept_label: TIRED
+        children:
+        - gloss: causative
+          concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+          concept_label: EXHAUST
+        - gloss: result, generalised
+          concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+          concept_label: SAD
+          children:
+          - gloss: causative
+            concept_uuid: 37573186-7d6b-4b03-adfe-2013e0e15afe
+            concept_label: IRRITATE
+        - gloss: medical> =癆？
+          concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+          concept_label: ILLNESS
+source:
+  source_file: taxchar.xml

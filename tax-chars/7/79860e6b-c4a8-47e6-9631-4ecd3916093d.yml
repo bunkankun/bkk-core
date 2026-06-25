@@ -1,0 +1,28 @@
+uuid: 79860e6b-c4a8-47e6-9631-4ecd3916093d
+type: tax-char
+heads:
+- 翫
+pronunciations:
+- reading: wàn
+  old_chinese: ŋɡoons
+  middle_chinese: ŋʷɑn
+  fanqie: 五換切
+  tone: 去
+  guangyun: 習也
+  senses:
+  - concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+    concept_label: PLAY
+  - concept_uuid: 74ff311e-a845-49f3-b5dc-333cf34779ee
+    concept_label: TOY
+  - concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+    concept_label: STUDY
+  - concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+    concept_label: APPRECIATE
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+    concept_label: HABIT
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+source:
+  source_file: taxchar.xml

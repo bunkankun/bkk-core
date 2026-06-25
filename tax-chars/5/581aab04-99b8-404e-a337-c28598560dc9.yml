@@ -1,0 +1,40 @@
+uuid: 581aab04-99b8-404e-a337-c28598560dc9
+type: tax-char
+heads:
+- 嘉
+pronunciations:
+- reading: jiā
+  old_chinese: kraal
+  middle_chinese: kɯa
+  fanqie: 古牙切
+  tone: 平
+  guangyun: 善也美也又姓左傳周大夫嘉父古牙切二十六
+  senses:
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+    children:
+    - gloss: cosmological
+      concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+      concept_label: AUSPICIOUS
+      children:
+      - gloss: custom
+        concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+        concept_label: RITUAL
+    - gloss: subjective
+      concept_uuid: 74b7b586-081a-4d67-8062-1b2929578897
+      concept_label: PLEASANT
+      children:
+      - gloss: putative
+        concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+        concept_label: LIKE
+        children:
+        - gloss: declarative
+          concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+          concept_label: PRAISE
+unattributed_senses:
+- gloss: 嘉 xia4【集韻】亥駕切【正韻】胡駕切，𠀤音暇。【集韻】美也。或作假。
+  children:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

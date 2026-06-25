@@ -1,0 +1,129 @@
+uuid: 055a140e-72ef-4a34-a719-5aecb08c60b5
+type: tax-char
+heads:
+- 上
+pronunciations:
+- reading: shang4
+  old_chinese: ɡljaŋs
+  middle_chinese: dʑiɐŋ
+  fanqie: 時亮切
+  tone: 去
+  guangyun: 上古文
+- reading: shàng
+  old_chinese: ɡljaŋs
+  middle_chinese: dʑiɐŋ
+  fanqie: 時亮切
+  tone: 去
+  guangyun: 君也猶天子也又時兩切
+- reading: shàng
+  old_chinese: ɡljaŋʔ
+  middle_chinese: dʑiɐŋ
+  fanqie: 時掌切
+  tone: 上
+  guangyun: 登也升也時掌切又音尚二
+- reading: shàng
+  old_chinese: ɡljaŋʔ
+  middle_chinese: dʑiɐŋ
+  fanqie: 時掌切
+  tone: 上
+  guangyun: 上古文
+unattributed_senses:
+- gloss: 上
+  concept_uuid: 67c0f256-db52-4848-9f4b-f1cd389839b3
+  concept_label: ABOVE
+  children:
+  - gloss: active
+    concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+    children:
+    - gloss: active transitive
+      concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+      concept_label: ASCEND
+      children:
+      - gloss: 'causative:'
+        concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+        concept_label: HAND UP
+      - gloss: colloquial derived
+        concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+  - gloss: physically>what is above water
+    concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+    children:
+    - gloss: what is high above
+      concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+      concept_label: SKY
+      children:
+      - gloss: metaphysical
+        concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+        concept_label: HEAVEN
+  - gloss: grammaticalised
+    concept_uuid: 25b8af90-1d0c-42df-a315-560a79399cee
+    concept_label: 'ON'
+    children:
+    - gloss: causative
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+    - gloss: so as to form part of
+      concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+      concept_label: INSIDE
+    - gloss: 'abstract: in addition'
+      concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+      concept_label: AND
+  - gloss: metaphorical:temporally
+    concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+    children:
+    - gloss: having existed in the past
+      concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+      concept_label: OLD
+  - gloss: general
+    concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+    children:
+    - gloss: figurative
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+      children:
+      - gloss: and deserving attention
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+      - gloss: comparative
+        concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+        concept_label: SUPERIOR
+      - gloss: rank-wise
+        concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+        concept_label: NOBLE
+        children:
+        - gloss: abstract
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+          children:
+          - gloss: leading
+            concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+            concept_label: RULER
+            children:
+            - gloss: unique
+              concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+              concept_label: KING
+              children:
+              - gloss: metaphysical
+                concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+                concept_label: GOD
+      - gloss: putative
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+        children:
+        - gloss: as superior
+          concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+          concept_label: RESPECT
+        - gloss: in chosen action
+          concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+          concept_label: PREFER
+  - gloss: grammaticalised>compare “up front”
+    concept_uuid: 415fced0-30f9-4b77-b3dc-911f42b3ddb7
+    concept_label: IN FRONT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-16T17:49:08.659+09:00'

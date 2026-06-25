@@ -1,0 +1,60 @@
+uuid: d83ac2c5-38d5-4bc8-978b-fa5910db18ec
+type: tax-char
+heads:
+- 字
+pronunciations:
+- reading: zì
+  old_chinese: sɡlɯs
+  middle_chinese: dzɨ
+  fanqie: 疾置切
+  tone: 去
+  guangyun: 春秋説題辝曰字者飾也説文乳也又愛也疾置切六
+  senses:
+  - concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+    concept_label: PREGNANT
+  - gloss: resultative
+    concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+    concept_label: BIRTH
+    children:
+    - gloss: 'related activity: give name to newborn'
+      concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+      concept_label: NAME
+      children:
+      - gloss: as confirming gesture> SIGNATURE
+        children:
+        - gloss: generalised
+          concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+          concept_label: WRITTEN CHARACTER
+          children:
+          - gloss: abstract
+            concept_uuid: 3267f662-31c8-4634-96c4-f21978fcd1dc
+            concept_label: CONCEPT
+          - gloss: 'related activity: nominalised use only:'
+            concept_uuid: 01183e72-9136-4006-8d2d-2bcdf9cff129
+            concept_label: PRONOUNCE
+          - gloss: product
+            concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+            concept_label: DOCUMENT
+          - gloss: aesthetic
+            concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+            concept_label: CALLIGRAPHY
+      - gloss: attach to a new name, marry off woman
+        concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+        concept_label: MARRY
+  - gloss: related action
+    concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+    concept_label: CARE FOR
+    children:
+    - gloss: psychological
+      concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+      concept_label: LOVE
+    - gloss: physicalal
+      concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+      concept_label: FEED
+    - gloss: social
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+  - concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+    concept_label: PERSONAL NAME
+source:
+  source_file: taxchar.xml

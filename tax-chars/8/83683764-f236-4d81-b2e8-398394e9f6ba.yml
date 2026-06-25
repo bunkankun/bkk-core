@@ -1,0 +1,30 @@
+uuid: 83683764-f236-4d81-b2e8-398394e9f6ba
+type: tax-char
+heads:
+- 啄
+pronunciations:
+- reading: zhuó
+  old_chinese: rtooɡ
+  middle_chinese: ʈɯɔk
+  fanqie: 竹角切
+  tone: 入
+  guangyun: 鳥啄也又丁木切
+  senses:
+  - concept_uuid: d4417b17-16f8-4c96-8499-f2047dbb8bde
+    concept_label: BEAK
+  - concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+    concept_label: BITE
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+- reading: dú
+  old_chinese: tooɡ
+  middle_chinese: tuk
+  fanqie: 丁木切
+  tone: 入
+  guangyun: 啄木鳥
+source:
+  source_file: taxchar.xml

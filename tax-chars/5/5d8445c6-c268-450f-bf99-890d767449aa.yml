@@ -1,0 +1,100 @@
+uuid: 5d8445c6-c268-450f-bf99-890d767449aa
+type: tax-char
+heads:
+- 稱
+pronunciations:
+- reading: chēng
+  old_chinese: thjɯŋ
+  middle_chinese: tɕʰɨŋ
+  fanqie: 處陵切
+  tone: 平
+  guangyun: 知輕重也説文曰銓也又姓漢功臣表有新山侯稱忠處陵切又昌證切三
+- reading: chèng
+  old_chinese: phjɯŋs
+  middle_chinese: tɕʰɨŋ
+  fanqie: 昌孕切
+  tone: 去
+  guangyun: 俗稱
+- reading: chèng
+  old_chinese: thjɯŋs
+  middle_chinese: tɕʰɨŋ
+  fanqie: 昌孕切
+  tone: 去
+  guangyun: 愜意又是也等也銓也度也俗作秤云正斤兩也昌孕切又昌陵切二
+unattributed_senses:
+- concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  concept_label: NAME
+  children:
+  - gloss: quote
+    concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+    concept_label: REFER TO
+    children:
+    - gloss: use as text
+      concept_uuid: 69f9092a-b61c-4ba2-8aea-1e01c90d10e3
+      concept_label: QUOTE
+      children:
+      - gloss: abstract
+        concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+        concept_label: USE
+      - gloss: be quoted as, run as follows
+        concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+        concept_label: SPEAK
+    - gloss: psychological
+      concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+      concept_label: ASSESS
+      children:
+      - gloss: positively
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+        children:
+        - gloss: for something
+          concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+          concept_label: RECOMMEND
+          children:
+          - gloss: administrative
+            concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+            concept_label: PROMOTE
+            children:
+            - gloss: as binding
+              concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+              concept_label: CONTRACT
+        - gloss: concrete
+          concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+          concept_label: LIFT
+    - gloss: as excuse
+      concept_uuid: 189949e4-f0a0-4aaf-9e49-75064b0f4a46
+      concept_label: PRETEXT
+- gloss: assess
+  concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+  concept_label: WEIGH
+  children:
+  - gloss: abstract
+    concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+    concept_label: TALLY
+  - gloss: chèn
+    concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - gloss: derivation by tone change> chèn
+    concept_uuid: 51f3e644-6a3d-484b-b92e-db27d286e973
+    concept_label: SCALES
+    children:
+    - gloss: concrete
+      concept_uuid: 8bf9e455-5bb7-4cf9-afc1-c7086a2a8fe7
+      concept_label: FIT
+      children:
+      - gloss: chèn
+        concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+        concept_label: GARMENT
+      - gloss: abstract
+        concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+        concept_label: APPROPRIATE
+    - gloss: aesthetic
+      concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+      concept_label: SEXY
+- gloss: proper names
+  concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+  concept_label: RULERS OF LU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T22:08:30.257+09:00'

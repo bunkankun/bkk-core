@@ -1,0 +1,44 @@
+uuid: 32fd2535-7cae-4e0c-a7ff-5ec714109787
+type: tax-char
+heads:
+- 桓
+pronunciations:
+- reading: huán
+  old_chinese: ɢoon
+  middle_chinese: ɦʷɑn
+  fanqie: 胡官切
+  tone: 平
+  guangyun: 桓桓武也又姓本自姜姓齊桓公後因諡爲氏望出譙郡後漢有太子太傅桓榮胡官切二十九
+  senses:
+  - concept_uuid: dc9f0f31-9059-4b7c-bfc0-a399e236053d
+    concept_label: RULERS OF CAO
+  - concept_uuid: 213988a2-36b4-46aa-b185-303c803b64ba
+    concept_label: RULERS OF CHEN
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+  - concept_uuid: 59f82040-712a-4326-9c5a-56b0ac103dc9
+    concept_label: RULERS OF SONG
+  - concept_uuid: 63a5d69c-4ff0-410d-a427-d37b4f4f8d43
+    concept_label: RULERS OF WEY
+  - concept_uuid: 826b724d-03e9-42d2-96ae-c30cae318b67
+    concept_label: RULERS OF XU
+  - concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+    concept_label: RULERS OF ZHENG
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+  - concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+    concept_label: SIGNAL
+  - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+  - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+    concept_label: LOCK
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

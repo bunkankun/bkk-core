@@ -1,0 +1,55 @@
+uuid: d24f45eb-a988-4200-8376-c9365566f521
+type: tax-char
+heads:
+- 苦
+pronunciations:
+- reading: kǔ
+  old_chinese: khaaʔ
+  middle_chinese: kʰuo
+  fanqie: 康杜切
+  tone: 上
+  guangyun: 麤也勤也患也説文曰大苦苓也康杜切二
+  senses:
+  - concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+    concept_label: BITTER
+    children:
+    - gloss: abstract
+      concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+      concept_label: DISTRESS
+      children:
+      - gloss: distressful deliberate action
+        concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+        concept_label: EFFORT
+        children:
+        - gloss: resultative
+          concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+          concept_label: TIRED
+        - gloss: persistent
+          concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+          concept_label: INSIST
+          children:
+          - gloss: generalised
+            concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+            concept_label: ENDURING
+        - gloss: typical relation
+          concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+          concept_label: SUFFER
+        - gloss: typical reaction
+          concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+          concept_label: HATE
+      - gloss: medical
+        concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+        concept_label: ILLNESS
+    - gloss: exocentric
+      concept_uuid: 425f4752-7e1b-43ae-a1c1-f9e5808b6cff
+      concept_label: TEA
+- reading: kù
+  old_chinese: khaas
+  middle_chinese: kʰuo
+  fanqie: 苦故切
+  tone: 去
+  guangyun: 困也今之苦辛是
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T18:19:55.049+09:00'

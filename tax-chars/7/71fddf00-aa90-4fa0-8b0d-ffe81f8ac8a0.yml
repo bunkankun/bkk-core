@@ -1,0 +1,61 @@
+uuid: 71fddf00-aa90-4fa0-8b0d-ffe81f8ac8a0
+type: tax-char
+heads:
+- 欲
+pronunciations:
+- reading: yù
+  old_chinese: k-loɡ
+  middle_chinese: jiok
+  fanqie: 余蜀切
+  tone: 入
+  guangyun: 貪欲也余蜀切九
+  senses:
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+    children:
+    - gloss: excessive desire
+      concept_uuid: cdfb0a19-3fc6-409a-9622-f4612108bcfc
+      concept_label: LUST
+      children:
+      - gloss: persistent intense desire
+        concept_uuid: 2b1dff68-18c9-4ea1-a33b-7d9aadb74556
+        concept_label: PASSION
+      - gloss: mitigated temporary
+        concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+        concept_label: HOPE
+    - gloss: obligatory
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+      children:
+      - gloss: only pragmatically obligatory desire
+        concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+        concept_label: NEED
+  - gloss: weak desire
+    concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+    concept_label: INTEND
+    children:
+    - gloss: uncertain of success
+      concept_uuid: 7d16f180-72e5-4880-b20c-dc135e68166c
+      concept_label: TRY
+    - gloss: bleached of emotional component
+      concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+      concept_label: FUTURE
+      children:
+      - gloss: near future
+        concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+        concept_label: IMMEDIATELY
+        children:
+        - gloss: present
+          concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+          concept_label: NOW
+      - gloss: likely future
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+        children:
+        - gloss: in the conceivable event that
+          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+          concept_label: IF
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-23T19:41:03.127+09:00'

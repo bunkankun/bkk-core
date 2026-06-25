@@ -1,0 +1,35 @@
+uuid: d7af901f-6682-45b6-9596-475f066d48ac
+type: tax-char
+heads:
+- 綏
+pronunciations:
+- reading: suí
+  old_chinese: snul
+  middle_chinese: sʷi
+  fanqie: 息遺切
+  tone: 平
+  guangyun: 安也説文曰車中靶也又州名春秋時爲白翟所居秦并天下爲上郡後魏廢郡置州取綏德縣以爲名息遺切十二
+  senses:
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+    concept_label: CONSOLE
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 82a12bdd-5f0d-4bf6-b4da-8b92ce215217
+    concept_label: PEACE
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+    concept_label: WITHDRAW
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - gloss: = 妥
+source:
+  source_file: taxchar.xml

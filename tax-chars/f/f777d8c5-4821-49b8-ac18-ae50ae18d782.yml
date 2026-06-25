@@ -1,0 +1,36 @@
+uuid: f777d8c5-4821-49b8-ac18-ae50ae18d782
+type: tax-char
+heads:
+- 舊
+pronunciations:
+- reading: jiù
+  old_chinese: ɡus
+  middle_chinese: ɡiu
+  senses:
+  - concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+    children:
+    - gloss: 'grammaticalised: for a long time'
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+      children:
+      - gloss: 'exocentric: person known already in the past'
+        concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+        concept_label: FRIEND
+      - gloss: appurtenance
+        concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+        concept_label: POSSESS
+  - gloss: abstract
+    concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+    children:
+    - gloss: primordial
+      concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+      concept_label: ORIGINALLY
+    - gloss: past member of the group
+      concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+      concept_label: ANCESTOR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T01:50:33.737+09:00'

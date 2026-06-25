@@ -1,0 +1,47 @@
+uuid: 30526386-c1c6-4009-b90e-263f45be38e9
+type: tax-char
+heads:
+- 繞
+- 遶
+pronunciations:
+- reading: rǎo
+  old_chinese: ŋɢjewʔ
+  middle_chinese: ȵiɛu
+  fanqie: 而沼切
+  tone: 上
+  guangyun: 纏繞又姓左傳秦大夫繞朝
+  senses:
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: rào
+  old_chinese: nɢjews
+  middle_chinese: ȵiɛu
+  fanqie: 人要切
+  tone: 去
+  guangyun: 卷取物皃
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 1ea0113c-9b0c-4f8c-a741-48469f9bd0bc
+    concept_label: ENTANGLE
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+- reading: rǎo
+  old_chinese: ŋɢjewʔ
+  middle_chinese: ȵiɛu
+  fanqie: 而沼切
+  tone: 上
+  guangyun: 圍遶
+  senses:
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+  - gloss: = 繞 rǎo
+  - gloss: = 繞 rào
+source:
+  source_file: taxchar.xml

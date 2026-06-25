@@ -1,0 +1,26 @@
+uuid: 5de04744-6bc2-4695-8955-f3676a791606
+type: tax-char
+heads:
+- 琅
+pronunciations:
+- reading: láng
+  old_chinese: ɡ-raaŋ
+  middle_chinese: lɑŋ
+  fanqie: 魯當切
+  tone: 平
+  guangyun: 琅玕玉名爾雅曰西北之美者有崐崘璆琳琅玕焉又琅邪郡名今沂州也又姓齊有大夫琅過
+  senses:
+  - concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+  - concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+    concept_label: GATE PART
+  - concept_uuid: 5d697f5d-fdff-457c-83bf-a20e53bbfde1
+    concept_label: TAOIST
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

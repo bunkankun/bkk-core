@@ -1,0 +1,30 @@
+uuid: ea702386-eb72-4e1c-b12f-8a6876702eef
+type: tax-char
+heads:
+- 憤
+pronunciations:
+- reading: fèn
+  old_chinese: bɯnʔ
+  middle_chinese: biun
+  fanqie: 房吻切
+  tone: 上
+  guangyun: 懣也房吻切十四
+  senses:
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+    concept_label: ANGUISH
+  - concept_uuid: ffd86371-cb57-4550-aed2-c98206f4300d
+    concept_label: LIVELY
+  - concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+    concept_label: LEAK
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+- reading: fèn
+  old_chinese: bɯnʔ
+  middle_chinese: biun
+  fanqie: 房吻切
+  tone: 上
+  guangyun: 同憤
+source:
+  source_file: taxchar.xml

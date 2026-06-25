@@ -1,0 +1,34 @@
+uuid: 8daf0d0d-9b57-4c32-995e-aaa6e85f701f
+type: tax-char
+heads:
+- 潭
+pronunciations:
+- reading: yǐn
+  old_chinese: k-lumʔ
+  middle_chinese: jim
+  fanqie: 以荏切
+  tone: 上
+  guangyun: 潭濼水動揺皃以荏切又徒南切一
+- reading: tán
+  old_chinese: ɡ-loom
+  middle_chinese: dəm
+  fanqie: 徒含切
+  tone: 平
+  guangyun: 水名出武陵郡潭成縣東入鬱林又深水皃
+  senses:
+  - concept_uuid: e3082cbb-a44c-4766-b28b-e68f39fa5b37
+    concept_label: ABYSS
+  - concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+    concept_label: LAKE
+  - concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+    concept_label: DEEP
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

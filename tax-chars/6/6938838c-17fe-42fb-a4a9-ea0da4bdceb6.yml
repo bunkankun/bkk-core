@@ -1,0 +1,42 @@
+uuid: 6938838c-17fe-42fb-a4a9-ea0da4bdceb6
+type: tax-char
+heads:
+- 漠
+pronunciations:
+- reading: mò
+  old_chinese: maaɡ
+  middle_chinese: mɑk
+  fanqie: 慕各切
+  tone: 入
+  guangyun: 沙漠又施也茂也
+  senses:
+  - concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+    concept_label: SILENCE
+    children:
+    - gloss: abstract
+      concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+      concept_label: PURE
+      children:
+      - gloss: generalised
+        concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+        children:
+        - gloss: 'psychological: unmoved'
+          concept_uuid: 39716f0d-ab68-4d17-9624-a6a369f691e3
+          concept_label: INDIFFERENT
+        - gloss: psychological
+          concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+          concept_label: LONELY
+        - gloss: poetic
+          concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+          concept_label: PROFOUND
+    - gloss: place with feature
+      concept_uuid: 7e64ee84-3065-4153-bd09-1511189d1f2e
+      concept_label: DESERT
+      children:
+      - gloss: 'abstract: feature'
+        concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+        concept_label: BIG
+  - gloss: grammaticalised`. MEASURING UNIT
+source:
+  source_file: taxchar.xml

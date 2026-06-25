@@ -1,0 +1,32 @@
+uuid: 95c83b43-a996-490f-9f36-aa95c36bb5b3
+type: tax-char
+heads:
+- 雨
+pronunciations:
+- reading: yǔ
+  old_chinese: ɢʷraʔ
+  middle_chinese: ɦio
+  fanqie: 王矩切
+  tone: 上
+  guangyun: 元命包曰隂陽和爲雨大戴禮云天地之氣和則雨説文云水从雲下也一象天冂象雲水霝其間也
+- reading: yù
+  old_chinese: ɢʷras
+  middle_chinese: ɦio
+  fanqie: 王遇切
+  tone: 去
+  guangyun: 詩曰雨雪其霶又音禹
+unattributed_senses:
+- gloss: intransitive
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  concept_label: RAIN
+- gloss: transitive:object what is raining down
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  concept_label: RAIN
+  children:
+  - gloss: human agent, causative
+    concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+    concept_label: IRRIGATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-25T22:07:35.579+09:00'

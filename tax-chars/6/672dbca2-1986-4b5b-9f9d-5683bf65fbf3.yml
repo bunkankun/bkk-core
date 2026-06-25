@@ -1,0 +1,52 @@
+uuid: 672dbca2-1986-4b5b-9f9d-5683bf65fbf3
+type: tax-char
+heads:
+- 泄
+pronunciations:
+- reading: yì
+  old_chinese: lebs
+  middle_chinese: jiɛi
+  fanqie: 餘制切
+  tone: 去
+  guangyun: 水名在九江又音薛
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+- reading: yì
+  old_chinese: leds
+  middle_chinese: jiɛi
+  fanqie: 餘制切
+  tone: 去
+  guangyun: 同泄
+  senses:
+  - concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+    concept_label: LEAK
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: REDUCE
+  - concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+    concept_label: ISSUE
+  - concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+    concept_label: SELL
+  - concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: FLEE
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 2033998e-977f-4f0b-8a8d-b228b185c88b
+    concept_label: DIARRHEA
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+  - concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: MIXED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 褻
+- reading: xiè
+  old_chinese: sled
+  middle_chinese: siɛt
+  fanqie: 私列切
+  tone: 入
+  guangyun: 漏泄也歇也亦作洩又姓左傳鄭大夫洩駕又餘制切
+source:
+  source_file: taxchar.xml

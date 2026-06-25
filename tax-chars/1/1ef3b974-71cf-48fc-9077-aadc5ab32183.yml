@@ -1,0 +1,69 @@
+uuid: 1ef3b974-71cf-48fc-9077-aadc5ab32183
+type: tax-char
+heads:
+- 挑
+pronunciations:
+- reading: tiāo
+  old_chinese: kh-leew
+  middle_chinese: tʰeu
+  fanqie: 吐彫切
+  tone: 平
+  guangyun: 挑撥
+  senses:
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+    concept_label: CRITICISE
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: 04fcc112-1401-43d6-94bf-01d2987e5cca
+    concept_label: TALL
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: tāo
+  old_chinese: kh-laaw
+  middle_chinese: tʰɑu
+  fanqie: 土刀切
+  tone: 平
+  guangyun: 挑達往來相見皃詩曰挑兮達兮又條了切
+  senses:
+  - concept_uuid: b4e10029-452b-4cf1-90e1-39bb34d71164
+    concept_label: LADLE
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+- reading: tiǎo
+  old_chinese: ɡ-leewʔ
+  middle_chinese: deu
+  fanqie: 徒了切
+  tone: 上
+  guangyun: 挑戰亦弄也輕也
+  senses:
+  - concept_uuid: 38722d1e-4dbc-4b35-8a0b-b7a02d41c428
+    concept_label: CHALLENGE
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+    concept_label: SEDUCE
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: POKE
+  - concept_uuid: 250679d4-a8e1-4f24-a5a9-32c51655e7dd
+    concept_label: MUSICAL TECHNIQUE
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+    concept_label: WIELD
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+    concept_label: STROKE
+  - concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+    concept_label: EMBROIDER
+  - gloss: = 佻
+source:
+  source_file: taxchar.xml

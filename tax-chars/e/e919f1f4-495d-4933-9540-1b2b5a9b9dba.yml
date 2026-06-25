@@ -1,0 +1,52 @@
+uuid: e919f1f4-495d-4933-9540-1b2b5a9b9dba
+type: tax-char
+heads:
+- 升
+pronunciations:
+- reading: shēng
+  old_chinese: hljɯŋ
+  middle_chinese: ɕɨŋ
+  fanqie: 識蒸切
+  tone: 平
+  guangyun: 十合也成也又布八十縷爲升識蒸切五
+  senses:
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+    children:
+    - gloss: 'inchoative: of plants'
+      concept_uuid: 20ba870a-454f-483f-b273-cd46ebd4739d
+      concept_label: MATURE
+    - gloss: 'action: transitive'
+      concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+      concept_label: ASCEND
+      children:
+      - gloss: 'causative: bureaucratic, tentative'
+        concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+        concept_label: RECOMMEND
+        children:
+        - gloss: perfective
+          concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+          concept_label: PROMOTE
+      - gloss: 'causative: physical'
+        concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+        concept_label: HAND UP
+        children:
+        - gloss: 'ritually: to spirits'
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+    - gloss: ontological
+      concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+      concept_label: ARISE
+      children:
+      - gloss: 'causative: light up'
+        concept_uuid: 39ec3bea-feb6-4638-a367-12ed383908c2
+        concept_label: FIRE
+      - gloss: 'object seat: inchoative'
+        concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+        concept_label: SIT
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+source:
+  source_file: taxchar.xml

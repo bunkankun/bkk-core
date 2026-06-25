@@ -1,0 +1,58 @@
+uuid: b50836eb-bb99-452f-876c-66d30b9d7174
+type: tax-char
+heads:
+- 碎
+pronunciations:
+- reading: suì
+  old_chinese: squuds
+  middle_chinese: suoi
+  fanqie: 蘇內切
+  tone: 去
+  guangyun: 細破也蘇内切五
+  senses:
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+    children:
+    - gloss: general
+      concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+      concept_label: DESTROY
+    - gloss: result
+      concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+      concept_label: INCOMPLETE
+      children:
+      - gloss: subject
+        concept_uuid: 8d4b507f-efde-48ff-ab34-8934bc7604e5
+        concept_label: FRAGMENT
+        children:
+        - gloss: featue
+          concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+          concept_label: SMALL
+          children:
+          - gloss: abstract
+            concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+            concept_label: TENUOUS
+            children:
+            - gloss: unimportant
+              children:
+              - gloss: feature
+                concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+                concept_label: WEAK
+                children:
+                - gloss: feature
+                  concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+                  concept_label: MIXED
+                  children:
+                  - gloss: in use of language
+                    concept_uuid: a0abbcf9-2ba7-4b10-8002-b491ebd5a121
+                    concept_label: LOQUACIOUS
+  - gloss: (modern)
+    concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - gloss: EXCLAMATORY
+  - gloss: =萃
+    concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: COLLECT
+source:
+  source_file: taxchar.xml

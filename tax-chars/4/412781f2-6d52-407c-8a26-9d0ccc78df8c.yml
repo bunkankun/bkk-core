@@ -1,0 +1,26 @@
+uuid: 412781f2-6d52-407c-8a26-9d0ccc78df8c
+type: tax-char
+heads:
+- 娛
+pronunciations:
+- reading: yú
+  old_chinese: ŋʷa
+  middle_chinese: ŋio
+  fanqie: 遇俱切
+  tone: 平
+  guangyun: 娯樂
+  senses:
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+  - concept_uuid: 1b22530e-6431-4ef9-971d-98c258e16059
+    concept_label: AMUSED
+  - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+    concept_label: CONSOLE
+- reading: wù
+  old_chinese: ŋʷaas
+  middle_chinese: ŋuo
+  fanqie: 五故切
+  tone: 去
+  guangyun: 娱樂也又五于切
+source:
+  source_file: taxchar.xml

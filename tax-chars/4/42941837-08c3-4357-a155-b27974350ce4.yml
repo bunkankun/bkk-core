@@ -1,0 +1,46 @@
+uuid: 42941837-08c3-4357-a155-b27974350ce4
+type: tax-char
+heads:
+- 兆
+pronunciations:
+- reading: zhào
+  old_chinese: ɡrlewʔ
+  middle_chinese: ɖɯiɛu
+  fanqie: 治小切
+  tone: 上
+  guangyun: 十億曰兆説文分也姓也
+  senses:
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+  - concept_uuid: 8f844d19-d2d4-4733-957f-e161496251e7
+    concept_label: OMEN
+  - concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+    concept_label: DIVINATION
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+    concept_label: SHAPE
+  - concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+    concept_label: REGION
+  - concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+  - concept_uuid: 07bb596e-3455-4e27-b8e7-f175d45b0106
+    concept_label: CEMETERY
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+    concept_label: PEOPLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

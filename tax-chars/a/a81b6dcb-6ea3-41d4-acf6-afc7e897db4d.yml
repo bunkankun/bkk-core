@@ -1,0 +1,34 @@
+uuid: a81b6dcb-6ea3-41d4-acf6-afc7e897db4d
+type: tax-char
+heads:
+- 林
+pronunciations:
+- reading: lín
+  old_chinese: ɡ-rɯm
+  middle_chinese: lim
+  fanqie: 力尋切
+  tone: 平
+  guangyun: 林木爾雅曰野外謂之林説文曰平土有叢木曰林又姓風俗通曰林放之後力尋切八
+  senses:
+  - concept_uuid: 71380132-9a2c-4d60-a9c1-5dfc910069cc
+    concept_label: FOREST
+    children:
+    - gloss: general, plural
+      concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+      concept_label: TREE
+      children:
+      - gloss: 'general: mulitiude of things'
+        concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+        concept_label: GROUP
+        children:
+        - gloss: feature
+          concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+          concept_label: MANY
+unattributed_senses:
+- gloss: proper name
+  concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+  concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:22:45.761+09:00'

@@ -1,0 +1,47 @@
+uuid: b0848c7d-4ba4-4ead-9de6-09bd77a9defd
+type: tax-char
+heads:
+- 再
+pronunciations:
+- reading: zài
+  old_chinese: tsɯɯs
+  middle_chinese: tsəi
+  fanqie: 作代切
+  tone: 去
+  guangyun: 重也兩也
+  senses:
+  - gloss: (twice)
+    concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+    concept_label: TWO
+    children:
+    - concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+      concept_label: REPEAT
+      children:
+      - gloss: 'grammaticalised: repeatedly'
+        concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+        concept_label: OFTEN
+    - concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+      concept_label: AGAIN
+      children:
+      - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+        concept_label: ADD
+        children:
+        - gloss: comparative
+          concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+          concept_label: MORE
+          children:
+          - gloss: 'grammaticalised: to an added degree'
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+          - gloss: 'grammaticalised: intersentential'
+            concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+            concept_label: MOREOVER
+          - gloss: 'grammaticalised: conditional'
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+            children:
+            - gloss: conditioned
+              concept_uuid: 4032bd30-62b2-4abb-b9d8-16b747fa885a
+              concept_label: ONLY THEN
+source:
+  source_file: taxchar.xml

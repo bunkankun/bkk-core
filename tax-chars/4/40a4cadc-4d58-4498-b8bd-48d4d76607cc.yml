@@ -1,0 +1,23 @@
+uuid: 40a4cadc-4d58-4498-b8bd-48d4d76607cc
+type: tax-char
+heads:
+- 匣
+pronunciations:
+- reading: xiá
+  old_chinese: ɡraab
+  middle_chinese: ɦɯap
+  fanqie: 胡甲切
+  tone: 入
+  guangyun: 箱匣也
+  senses:
+  - concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+    concept_label: BOX
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+    concept_label: COFFIN
+  - concept_uuid: 66ce69e0-190f-4f28-9ab6-c2291763145e
+    concept_label: GUILD
+  - gloss: = 柙
+source:
+  source_file: taxchar.xml

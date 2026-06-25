@@ -1,0 +1,46 @@
+uuid: c8973c6b-baaa-44a0-b524-6dc914073429
+type: tax-char
+heads:
+- 採
+pronunciations:
+- reading: cǎi
+  old_chinese: tshɯɯʔ
+  middle_chinese: tsʰəi
+  fanqie: 倉宰切
+  tone: 上
+  guangyun: 取也俗采
+  senses:
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+    children:
+    - gloss: preparing to pluck
+      concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+      concept_label: DIG
+    - gloss: metaphorical
+      concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+      concept_label: CHOOSE
+      children:
+      - gloss: conative
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+        children:
+        - gloss: 'psychological: be stimulated/attracted'
+          concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+          concept_label: STIMULATE
+        - gloss: object animal
+          concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+          concept_label: CATCH
+    - gloss: result
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: GATHER
+    - gloss: generalised
+      concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+      concept_label: PULL
+  - concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+    concept_label: NOTICE
+  - concept_uuid: d168c1e1-0c22-4ebe-a094-c1181e947580
+    concept_label: GAMBLE
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+source:
+  source_file: taxchar.xml

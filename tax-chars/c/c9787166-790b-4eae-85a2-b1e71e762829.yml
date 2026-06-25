@@ -1,0 +1,26 @@
+uuid: c9787166-790b-4eae-85a2-b1e71e762829
+type: tax-char
+heads:
+- 稟
+pronunciations:
+- reading: bǐng
+  old_chinese: prɯmʔ
+  middle_chinese: pɯim
+  fanqie: 筆錦切
+  tone: 上
+  guangyun: 供糓又與也筆錦切一
+  senses:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+source:
+  source_file: taxchar.xml

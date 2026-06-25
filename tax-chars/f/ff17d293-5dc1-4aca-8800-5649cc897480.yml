@@ -1,0 +1,96 @@
+uuid: ff17d293-5dc1-4aca-8800-5649cc897480
+type: tax-char
+heads:
+- 遂
+pronunciations:
+- reading: suì
+  old_chinese: sɢluds
+  middle_chinese: zʷi
+  fanqie: 徐醉切
+  tone: 去
+  guangyun: 達也進也成也安也止也往也從志也又州名又姓岀姓苑徐醉切二十四
+  senses:
+  - concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+    concept_label: ACHIEVE
+    children:
+    - gloss: 'specific: by lucky circumstance'
+      concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+      concept_label: LUCK
+    - gloss: higher level
+      concept_uuid: 6233dcf4-4cd0-412f-a89a-250da251f779
+      concept_label: PROGRESS
+      children:
+      - gloss: resultative
+        concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+        concept_label: FLOURISH
+        children:
+        - gloss: resultative
+          concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+          concept_label: SUCCEED
+      - gloss: causative
+        concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+        concept_label: PROMOTE
+  - gloss: conative
+    concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+    concept_label: PURSUE
+    children:
+    - gloss: abstract:same standard
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: naturally
+        concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+        concept_label: FLOW
+    - gloss: resultative
+      concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+      concept_label: REACH
+      children:
+      - gloss: generalised
+        concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+        concept_label: ARRIVE
+        children:
+        - gloss: convenient medium
+          concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+          concept_label: WAY
+          children:
+          - gloss: water
+            concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+            concept_label: CANAL
+      - gloss: grammaticalised:temporal
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+        children:
+        - gloss: logical
+          concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+          concept_label: THEN
+          children:
+          - gloss: argumentative
+            concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+            concept_label: THEREFORE
+        - gloss: abstract:contrastive
+          concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+          concept_label: BUT
+        - gloss: adverbial:contingently real
+          concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+          concept_label: REALITY
+  - gloss: =墜
+    concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+    children:
+    - gloss: =墜 abstract
+      concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+      concept_label: FAIL
+unattributed_senses:
+- gloss: =?
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  concept_label: TERRITORY
+- gloss: pesonal name
+  concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+  concept_label: RULERS OF QI
+- gloss: proper names
+  concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+  concept_label: CITIES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-20T23:12:00.517+09:00'

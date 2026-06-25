@@ -1,0 +1,80 @@
+uuid: 1a592920-ba8c-48b4-9c94-c7c2b0b6217e
+type: tax-char
+heads:
+- 意
+pronunciations:
+- reading: yì
+  old_chinese: qɯɡs
+  middle_chinese: ʔɨ
+  fanqie: 於記切
+  tone: 去
+  guangyun: 志也又姓於記切四
+  senses:
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+    children:
+    - gloss: recalling
+      concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+      concept_label: REMEMBER
+      children:
+      - gloss: object favours etc.
+        concept_uuid: 45ec8b18-c9d0-48ad-abc1-a532217157af
+        concept_label: GRATEFUL
+    - gloss: organ
+      concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+      concept_label: MIND
+      children:
+      - gloss: product of
+        concept_uuid: 46face44-76d7-4747-8af1-cd7f34a82d11
+        concept_label: IDEA
+    - gloss: actively about future action
+      concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+      concept_label: INTEND
+    - gloss: as being true
+      concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+      concept_label: BELIEVE
+      children:
+      - gloss: object
+        concept_uuid: 5a4f31a6-fd71-4d54-b1cc-5a45a848a677
+        concept_label: OPINION
+        children:
+        - gloss: of texts
+          concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+          concept_label: MEAN
+        - gloss: plausibly thinkable
+          concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+          concept_label: PROBABLE
+          children:
+          - gloss: =抑 as conceivable plausible alternative
+            concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+            concept_label: OR
+        - gloss: pragatic
+          concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+          concept_label: ATTITUDE
+      - gloss: modal
+        concept_uuid: 00123688-6ca0-49c1-9edd-3712ab29cd2c
+        concept_label: SUBJECTIVE
+        children:
+        - gloss: firmly
+          concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+          concept_label: STUBBORN
+        - gloss: approximately
+          concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+          concept_label: ESTIMATE
+          children:
+          - gloss: tentative
+            concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+            concept_label: SUSPECT
+        - gloss: emotional reaction
+          concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+          concept_label: FEELING
+  - gloss: =噫
+    concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+    concept_label: SIGH
+  - gloss: =億
+    concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T19:47:53.556+09:00'

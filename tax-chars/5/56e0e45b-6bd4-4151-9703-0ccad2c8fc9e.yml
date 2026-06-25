@@ -1,0 +1,28 @@
+uuid: 56e0e45b-6bd4-4151-9703-0ccad2c8fc9e
+type: tax-char
+heads:
+- 戍
+pronunciations:
+- reading: shù
+  old_chinese: qhjos
+  middle_chinese: ɕio
+  fanqie: 傷遇切
+  tone: 去
+  guangyun: 遏也舎也從人荷戈也傷遇切八
+  senses:
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: 117e7254-f1c4-4825-a17c-ce30cc81a396
+    concept_label: FORTIFY
+  - concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+    concept_label: RECTITUDE
+  - concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+    concept_label: SOLDIER
+  - concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+    concept_label: WORKER
+  - concept_uuid: d86ae61b-61b0-45bc-806f-9a2a938e677c
+    concept_label: FORTRESS
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+source:
+  source_file: taxchar.xml

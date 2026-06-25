@@ -1,0 +1,37 @@
+uuid: 4da2d268-e059-4274-89e0-609eb9e71931
+type: tax-char
+heads:
+- 虹
+pronunciations:
+- reading: gòng
+  old_chinese: kooŋs
+  middle_chinese: kuŋ
+  fanqie: 古送切
+  tone: 去
+  guangyun: 縣名在泗州今音絳
+  senses:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: hóng
+  old_chinese: ɡooŋ
+  middle_chinese: ɦuŋ
+  fanqie: 戸戶公切
+  tone: 平
+  guangyun: 螮蝀也又古巷切
+  senses:
+  - concept_uuid: 94b01545-d643-4488-b69c-c9d80548d1a2
+    concept_label: RAINBOW
+  - concept_uuid: 334b6662-31c2-493c-944f-1bb1c348515c
+    concept_label: BRIDGE
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+- reading: jiàng
+  old_chinese: krooŋs
+  middle_chinese: kɯɔŋ
+  fanqie: 古巷切
+  tone: 去
+  guangyun: 又音紅
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,33 @@
+uuid: 8ec0d635-2fd8-4f86-892c-c41668de05b5
+type: tax-char
+heads:
+- 諷
+pronunciations:
+- reading: fěng
+  old_chinese: plums
+  middle_chinese: piuŋ
+  fanqie: 方鳳切
+  tone: 去
+  guangyun: 諷刺方鳯切二
+  senses:
+  - concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+    concept_label: CHANT
+  - concept_uuid: df302e69-b571-43a8-af45-96d598ea2ca2
+    concept_label: PERSUADE
+  - concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+    concept_label: READ
+  - concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+    concept_label: REMONSTRATE
+- reading: fěng
+  old_chinese: plums
+  middle_chinese: piuŋ
+  fanqie: 方鳳切
+  tone: 去
+  guangyun: 同諷見詩
+  senses:
+  - concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+    concept_label: BLOW
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+source:
+  source_file: taxchar.xml

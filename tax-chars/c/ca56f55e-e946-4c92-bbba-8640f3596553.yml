@@ -1,0 +1,33 @@
+uuid: ca56f55e-e946-4c92-bbba-8640f3596553
+type: tax-char
+heads:
+- 韻
+pronunciations:
+- reading: yùn
+  old_chinese: ɢuns
+  middle_chinese: ɦiun
+  fanqie: 王問切
+  tone: 去
+  guangyun: 韻和也
+  senses:
+  - concept_uuid: 8658a8cb-3ac3-4283-bf09-5271f06a16d6
+    concept_label: RHYME
+  - concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+    concept_label: HARMONY
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: 907c0327-4325-4bc5-95a6-a9da3e851fe5
+    concept_label: BEHAVIOUR
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+    concept_label: STYLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: yùn
+  old_chinese: ɢʷins
+  middle_chinese: ɦiun
+  fanqie: 王問切
+  tone: 去
+source:
+  source_file: taxchar.xml

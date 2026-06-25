@@ -1,0 +1,20 @@
+uuid: 71e39e23-e583-4a34-84e6-b1602eabd5dd
+type: tax-char
+heads:
+- 紗
+pronunciations:
+- reading: shā
+  old_chinese: sraal
+  middle_chinese: ʃɯa
+  fanqie: 所加切
+  tone: 平
+  guangyun: 絹屬一曰紡纑也
+  senses:
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+    concept_label: CLOTH
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,48 @@
+uuid: e59b8f19-140b-4e7a-895e-84f9f22fd57b
+type: tax-char
+heads:
+- 函
+pronunciations:
+- reading: xián
+  old_chinese: ɡruum
+  middle_chinese: ɦɯæm
+  fanqie: 胡讒切
+  tone: 平
+  guangyun: 函谷關名又函書亦姓漢有豫章太守函熈又漢複姓漢末有黄門侍郎函治子覺又音含
+- reading: hán
+  old_chinese: ɡuum
+  middle_chinese: ɦəm
+  fanqie: 胡男切
+  tone: 平
+  guangyun: 容也禮云席閒函丈
+  senses:
+  - concept_uuid: dccfac2b-3aa1-4eea-a933-6b1b6854817f
+    concept_label: ARROW
+  - concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+    concept_label: BOX
+  - concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+    concept_label: LETTER
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+    concept_label: ARMOUR
+  - concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+    concept_label: ARTISAN
+  - concept_uuid: 673285d4-387d-44a3-84b2-7de1dac34e56
+    concept_label: ENVELOPE
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+  - concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+    concept_label: CANAL
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

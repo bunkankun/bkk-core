@@ -1,0 +1,22 @@
+uuid: 69b5b7a2-5c60-41c9-9894-3a6772bf93d8
+type: tax-char
+heads:
+- 壬
+pronunciations:
+- reading: rén
+  old_chinese: njɯm
+  middle_chinese: ȵim
+  fanqie: 如林切
+  tone: 平
+  guangyun: 佞也又辰名爾雅曰太歳在壬曰玄黓
+  senses:
+  - concept_uuid: 404b2560-53b6-4de7-a4b9-5221cb83c7c1
+    concept_label: HEAVENLY STEM
+  - concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+    concept_label: GREAT
+  - concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+    concept_label: ELOQUENT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

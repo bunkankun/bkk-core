@@ -1,0 +1,38 @@
+uuid: 01247b86-f5ed-4d6c-83bf-05cd96027ca5
+type: tax-char
+heads:
+- 青
+pronunciations:
+- reading: qīng
+  old_chinese: tsheeŋ
+  middle_chinese: tsʰeŋ
+  fanqie: 倉經切
+  tone: 平
+  guangyun: 東方色也亦州名九州之一禹貢曰海岱惟靑州又男靑女靑皆木名出羅浮山記亦姓出何氏姓苑又漢複姓三氏風俗通云漢有靑烏子善數術又有青牛氏青陽氏倉經切五
+  senses:
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 180e1eca-7df8-42da-b199-7f1e24d33489
+    concept_label: BLUE
+  - concept_uuid: 2c12b51a-6442-47a9-b247-3b866cf65f39
+    concept_label: GREEN
+  - gloss: steely
+    concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+  - gloss: with greying tinge
+    concept_uuid: c6ea8871-fe2b-4015-98f8-23b5952ea2f5
+    concept_label: GREY
+  - gloss: with blue tinge
+    concept_uuid: 180e1eca-7df8-42da-b199-7f1e24d33489
+    concept_label: BLUE
+  - gloss: with green tinge
+    concept_uuid: 2c12b51a-6442-47a9-b247-3b866cf65f39
+    concept_label: GREEN
+    children:
+    - gloss: figurative
+      concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+      concept_label: YOUNG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T01:53:23.716+09:00'

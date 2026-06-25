@@ -1,0 +1,26 @@
+uuid: 8c969722-5ed0-4f67-a0c6-edd3bd516b8b
+type: tax-char
+heads:
+- 潔
+pronunciations:
+- reading: jié
+  old_chinese: keed
+  middle_chinese: ket
+  fanqie: 古屑切
+  tone: 入
+  guangyun: 淸也經典用絜
+  senses:
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+    concept_label: CLEAR
+  - concept_uuid: df69e081-ccd2-424f-81cf-dc7c94dbf764
+    concept_label: MONK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

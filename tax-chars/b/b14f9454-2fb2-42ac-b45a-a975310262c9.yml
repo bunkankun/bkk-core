@@ -1,0 +1,24 @@
+uuid: b14f9454-2fb2-42ac-b45a-a975310262c9
+type: tax-char
+heads:
+- 煮
+pronunciations:
+- reading: zhǔ
+  old_chinese: kljaʔ
+  middle_chinese: tɕiɔ
+  fanqie: 章与切
+  tone: 上
+  guangyun: 同䰞
+  senses:
+  - concept_uuid: bb6e394b-930f-436d-8159-1571b4820169
+    concept_label: BOIL
+  - concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+    concept_label: SALT
+- reading: zhǔ
+  old_chinese: tjaʔ
+  middle_chinese: tɕiɔ
+  fanqie: 章与切
+  tone: 上
+  guangyun: 説文曰亨也章与切亨普庚切四
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,33 @@
+uuid: 81dca63a-bd15-43e8-8059-3198b6874715
+type: tax-char
+heads:
+- 州
+pronunciations:
+- reading: zhōu
+  old_chinese: kju
+  middle_chinese: tɕiu
+  fanqie: 職流切
+  tone: 平
+  guangyun: 州郡周禮曰五黨爲州又姓左傳晉大夫州綽
+  senses:
+  - concept_uuid: 98faf991-5a11-4015-b0e3-87363c78905c
+    concept_label: ISLAND
+    children:
+    - gloss: large
+      concept_uuid: 10161d8c-7fd1-4b42-940f-369612b03fc6
+      concept_label: CONTINENT
+      children:
+      - gloss: abstract
+        concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+        concept_label: REGION
+        children:
+        - gloss: account of population of
+          concept_label: REGISTER
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:49:05.966+09:00'

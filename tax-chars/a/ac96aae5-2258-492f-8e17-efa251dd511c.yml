@@ -1,0 +1,93 @@
+uuid: ac96aae5-2258-492f-8e17-efa251dd511c
+type: tax-char
+heads:
+- 無
+pronunciations:
+- reading: wú
+  old_chinese: ma
+  middle_chinese: mio
+  fanqie: 武夫切
+  tone: 平
+  guangyun: 有無也亦漢複姓二氏楚熊渠之後號無庸其後爲氏又有無鉤氏出自楚姓武夫切二十一
+  senses:
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+    children:
+    - gloss: 'causative: caus not to occur'
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+    - gloss: 'declarative: declare not to be the case'
+      concept_uuid: dd3de4ff-729c-487d-b762-f32b60f7cc45
+      concept_label: DENY
+    - gloss: 'object: content'
+      concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+      concept_label: EMPTY
+    - gloss: grammaticalised
+      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+      concept_label: COPULA
+      children:
+      - gloss: generalised
+        concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+        concept_label: NOT
+        children:
+        - gloss: temporal
+          concept_uuid: 77f765a8-fb37-4e34-94e1-7e10c2e3aea6
+          concept_label: NEVER
+        - gloss: moral
+          concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+          concept_label: SHOULD NOT
+          children:
+          - gloss: injunctive=毋> DON’T
+    - gloss: 'grammaticalised: pronominalised'
+      concept_uuid: f14b64b3-c0e6-4097-b842-fef3b132f1a5
+      concept_label: NONE
+      children:
+      - gloss: abstract
+        concept_uuid: 68b1795c-9cfc-4014-a392-f8660b3d8f6d
+        concept_label: NOTHING
+        children:
+        - gloss: place with nothing
+          concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+          concept_label: HOLE
+    - gloss: object=importance
+      concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+      concept_label: UNIMPORTANT
+      children:
+      - gloss: putative
+        concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+        concept_label: NEGLECT
+        children:
+        - gloss: 'grammaticalised: not counting'
+          concept_uuid: 9fe06619-da66-4a6b-9987-bbcdd1f703d3
+          concept_label: EXCEPT
+        - gloss: 'grammaticalised: disregarding'
+          concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+          concept_label: EVEN IF
+  - gloss: 'grammaticalised: weak meaning'
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =蕪
+  - gloss: =幠
+    concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+- reading: mó
+  old_chinese: maa
+  middle_chinese: muo
+  fanqie: 莫胡切
+  tone: 平
+  guangyun: 南无出釋典又音無
+unattributed_senses:
+- concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+  concept_label: ONOMATOPOETICA
+- concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+  concept_label: PARTICLE
+- concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+  concept_label: DON'T
+- concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+  concept_label: EVEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-05T21:18:43.317+09:00'

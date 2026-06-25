@@ -1,0 +1,69 @@
+uuid: bb439331-2605-4783-824a-94d3ba129c01
+type: tax-char
+heads:
+- 帶
+pronunciations:
+- reading: dài
+  old_chinese: taads
+  middle_chinese: tɑi
+  fanqie: 當蓋切
+  tone: 去
+  guangyun: 衣帶説文曰紳也男子鞶革婦人鞶絲象繫佩之形帶有巾故从巾易曰或錫之鞶帶又蛇别名莊子云蝍蛆甘帶也當蓋切七
+  senses:
+  - concept_uuid: 2d174c46-a88e-4999-b48b-73e2bc3fa0fe
+    concept_label: BELT
+    children:
+    - gloss: like a belt
+      concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+      concept_label: SURROUND
+      children:
+      - gloss: extra territory
+        concept_label: OCCUPY
+        children:
+        - gloss: 'figurative: non-administrative'
+          concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+          concept_label: REGION
+    - gloss: using belt
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+      children:
+      - gloss: drag along
+        concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+        concept_label: PULL
+        children:
+        - gloss: generalised
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+          children:
+          - gloss: related action
+            concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+            concept_label: CARE FOR
+          - gloss: 'figurative: object extra offices/responsibilities'
+            concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+            concept_label: COMBINE
+            children:
+            - gloss: 'grammaticalised: temporal'
+              concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+              concept_label: TOGETHER
+        - gloss: using a belt
+          concept_label: TIE UP
+          children:
+          - gloss: with a belt etc.
+            concept_label: CLOSE
+            children:
+            - gloss: like a belt
+              concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+              concept_label: COVER
+          - gloss: on a belt
+            concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+            concept_label: WEAR
+            children:
+            - gloss: 'late, colloquial: on a belt, show, evince'
+              concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+              concept_label: SHOW
+  - concept_uuid: 36857758-ce57-47a6-b878-8f6e8f42f399
+    concept_label: MALES OF WEI
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:56:08.193+09:00'

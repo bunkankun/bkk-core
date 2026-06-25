@@ -1,0 +1,62 @@
+uuid: 3c70381d-5654-41cd-8426-abe4875f2e2c
+type: tax-char
+heads:
+- 獵
+pronunciations:
+- reading: liè
+  old_chinese: rab
+  middle_chinese: liɛp
+  fanqie: 良涉切
+  tone: 入
+  guangyun: 取獸白虎通曰四時之田揔名爲獵爲田除害也尸子曰虙羲氏之丗天下多獸故敎人以獵也良涉切二十二
+  senses:
+  - concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+    concept_label: HUNT
+  - gloss: associated act
+    concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - gloss: result
+    concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+    concept_label: FRIGHTEN
+  - gloss: feature
+    concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+    concept_label: CRUEL
+  - gloss: generalised
+    concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - gloss: generalised
+    concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - gloss: perfective
+    concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - gloss: result
+    concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+  - gloss: generalised
+    concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 70490d30-b706-4f41-85d9-e2ef24d5ab5e
+    concept_label: TURTLE
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - gloss: =擸
+    concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+  - gloss: =躐
+    concept_uuid: c747afdb-b3af-41c7-b2b4-438404c677fe
+    concept_label: STEP
+  - gloss: =鬣
+    concept_uuid: 3624aada-f603-40a7-a028-e703ade2ea00
+    concept_label: BEARD
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 獵 xi1 《廣韻 昔韻》獸名，似熊
+  children:
+  - concept_uuid: e0fdd327-6135-4ea5-8704-3c462e961c04
+    concept_label: BEAR
+source:
+  source_file: taxchar.xml

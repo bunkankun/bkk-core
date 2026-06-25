@@ -1,0 +1,31 @@
+uuid: f2742f77-2149-47b4-818b-598135e49109
+type: tax-char
+heads:
+- 絜
+pronunciations:
+- reading: xié
+  old_chinese: ɡeed
+  middle_chinese: ɦet
+  fanqie: 胡結切
+  tone: 入
+  guangyun: 爾雅河名即九河之一也又古節切
+  senses:
+  - concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+    concept_label: TIE TO
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+- reading: jié
+  old_chinese: keed
+  middle_chinese: ket
+  fanqie: 古屑切
+  tone: 入
+  guangyun: 説文曰麻一耑也
+  senses:
+  - concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+    concept_label: CLEAN
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+source:
+  source_file: taxchar.xml

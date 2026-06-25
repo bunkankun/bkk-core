@@ -1,0 +1,22 @@
+uuid: 5db5f469-f2ad-4bb7-9191-b2bf78bc8437
+type: tax-char
+heads:
+- 月
+pronunciations:
+- reading: yuè
+  old_chinese: ŋod
+  middle_chinese: ŋʷiɐt
+  fanqie: 魚厥切
+  tone: 入
+  guangyun: 范子計然云月者尺也尺者紀度而成數也王子年拾遺録曰水精爲月魚厥切十一
+  senses:
+  - concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+    concept_label: MOON
+    children:
+    - concept_uuid: a4f255d5-fdc0-44c5-a7c0-71632973937e
+      concept_label: MONTH
+    - gloss: effect of
+      concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+      concept_label: LIGHT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,63 @@
+uuid: 943f0c08-f044-4661-8451-bdea36f4709b
+type: tax-char
+heads:
+- 滿
+pronunciations:
+- reading: mǎn
+  old_chinese: mboonʔ
+  middle_chinese: mʷɑn
+  fanqie: 莫旱切
+  tone: 上
+  guangyun: 盈也充也亦姓出山陽風俗通荆蠻有瞞氏音舛變爲滿魏有滿寵莫旱切五
+  senses:
+  - concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+    concept_label: FULL
+    children:
+    - gloss: causative
+      concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+      concept_label: FILL
+      children:
+      - gloss: 'abstract: action'
+        concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+        concept_label: ACHIEVE
+        children:
+        - gloss: abstract
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+        - gloss: movement towards
+          concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+          concept_label: REACH
+    - gloss: abstract
+      concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+      concept_label: ABUNDANT
+      children:
+      - gloss: economic
+        concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+        concept_label: RICH
+        children:
+        - gloss: 'psychological: "full of oneself"'
+          concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+          concept_label: PROUD
+          children:
+          - gloss: 'rhetorical: assertive'
+            concept_label: ASSERT
+      - gloss: grammaticalised
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+    - gloss: 'exocentric: full moon'
+      concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+      concept_label: MOON
+  - gloss: 'proper name: Manchu'
+    concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+unattributed_senses:
+- concept_label: 滿 ｍｅｎ４《集韻》莫困切，去恨明。
+  children:
+  - concept_label: =懣/悶
+- gloss: zhōu mù wáng
+  concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+  concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-12T19:51:40.664+09:00'

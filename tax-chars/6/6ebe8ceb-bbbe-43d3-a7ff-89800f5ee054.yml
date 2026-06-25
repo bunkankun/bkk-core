@@ -1,0 +1,22 @@
+uuid: 6ebe8ceb-bbbe-43d3-a7ff-89800f5ee054
+type: tax-char
+heads:
+- 癸
+pronunciations:
+- reading: guǐ
+  old_chinese: kʷilʔ
+  middle_chinese: kʷi
+  fanqie: 居誄切
+  tone: 上
+  guangyun: 辰名爾雅太歳在癸曰昭陽古作癸又姓姓苑云出齊癸公後居誄切二
+  senses:
+  - concept_uuid: 404b2560-53b6-4de7-a4b9-5221cb83c7c1
+    concept_label: HEAVENLY STEM
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_uuid: 76de9c64-3d8f-451f-81a9-ff3f5a740de2
+    concept_label: MENSTRUATION
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

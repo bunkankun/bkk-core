@@ -1,0 +1,81 @@
+uuid: 072c52b1-1e52-4eed-b5af-8d84db876b5d
+type: tax-char
+heads:
+- 推
+pronunciations:
+- reading: tuī
+  old_chinese: kh-luul
+  middle_chinese: tʰuoi
+  fanqie: 他回切
+  tone: 平
+  guangyun: 又昌隹切
+  senses:
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+- reading: chuī
+  old_chinese: khljul
+  middle_chinese: tʂʰʷi
+  fanqie: 尺隹切
+  tone: 平
+  guangyun: 排也叉隹切又湯回切二
+  senses:
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+    children:
+    - gloss: outward
+      concept_uuid: c9eaed89-c52f-4cbf-ae6e-e0304111543d
+      concept_label: EXPAND
+    - gloss: 'spatial: away'
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+      children:
+      - gloss: radical
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+        children:
+        - gloss: 'object: living creature'
+          concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+          concept_label: INJURE
+          children:
+          - gloss: perfective
+            concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+            concept_label: KILL
+      - gloss: 'abstract: communicatively'
+        concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+        concept_label: REFUSE
+    - gloss: generalised
+      concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+      concept_label: MOVE
+      children:
+      - gloss: causative
+        concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+        concept_label: ENCOURAGE
+        children:
+        - gloss: 'specific: military'
+          concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+          concept_label: MOBILISE
+      - gloss: intellectually
+        concept_uuid: 8509a1c5-7d43-4af0-ae05-aeddff8c6fb6
+        concept_label: CONCLUDE
+        children:
+        - gloss: logically
+          concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+          concept_label: PROVE
+          children:
+          - gloss: conative
+            concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+            concept_label: INVESTIGATE
+            children:
+            - gloss: mathematical
+              concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+              concept_label: CALCULATE
+      - gloss: 'figurative: forward'
+        concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+        concept_label: RECOMMEND
+        children:
+        - gloss: by authority/on request
+          concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+          concept_label: APPROVE
+  - gloss: =摧
+source:
+  source_file: taxchar.xml

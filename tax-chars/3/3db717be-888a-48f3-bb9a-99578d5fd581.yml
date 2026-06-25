@@ -1,0 +1,48 @@
+uuid: 3db717be-888a-48f3-bb9a-99578d5fd581
+type: tax-char
+heads:
+- 室
+pronunciations:
+- reading: shì
+  old_chinese: qhljiɡ
+  middle_chinese: ɕit
+  fanqie: 式質切
+  tone: 入
+  guangyun: 房也易曰穴居而野處後丗聖人易之以宮室釋名曰室實也人物實滿其中也周書曰黄帝始作宫室吕氏春秋曰髙元作宫室二
+  senses:
+  - concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+    concept_label: ROOM
+    children:
+    - gloss: synekdoche
+      concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+      concept_label: BUILDING
+      children:
+      - gloss: ruler's
+        concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+        concept_label: PALACE
+        children:
+        - gloss: private
+          concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+          concept_label: HOME
+          children:
+          - gloss: occupants
+            concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+            concept_label: FAMILY
+            children:
+            - gloss: progenitor of
+              concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+              concept_label: ANCESTOR
+            - gloss: create family
+              concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+              concept_label: MARRY
+              children:
+              - gloss: object
+                concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+                concept_label: WIFE
+      - gloss: astronomical:metaphorical
+        concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+        concept_label: CONSTELLATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T22:57:26.883+09:00'

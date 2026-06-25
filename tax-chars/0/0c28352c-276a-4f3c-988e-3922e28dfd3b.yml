@@ -1,0 +1,23 @@
+uuid: 0c28352c-276a-4f3c-988e-3922e28dfd3b
+type: tax-char
+heads:
+- 夜
+pronunciations:
+- reading: yè
+  old_chinese: k-laɡs
+  middle_chinese: jia
+  fanqie: 羊謝切
+  tone: 去
+  guangyun: 舎也暮也君子有四時朝以聽政晝以訪問夕以修令夜以安身又姓羊謝切三
+  senses:
+  - concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+    concept_label: NIGHT
+    children:
+    - gloss: part
+      concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+      concept_label: EVENING
+    - gloss: what comes after
+      concept_uuid: ede791b1-44a6-4836-b151-53fd8eaf7cb9
+      concept_label: TOMORROW
+source:
+  source_file: taxchar.xml

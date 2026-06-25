@@ -1,0 +1,55 @@
+uuid: af9ba969-4455-4b17-bbf3-0a1040673c4c
+type: tax-char
+heads:
+- 馳
+pronunciations:
+- reading: chí
+  old_chinese: rlal
+  middle_chinese: ɖɯiɛ
+  fanqie: 直離切
+  tone: 平
+  guangyun: 馳騖也疾驅也又姓出姓苑直離切十三
+  senses:
+  - concept_uuid: 06e0eefe-b216-47cb-919c-aceb22a66c32
+    concept_label: GALLOP
+    children:
+    - gloss: 'action: sport'
+      concept_uuid: 8ba01741-c552-4ff5-b5ea-d00f18f0087d
+      concept_label: RACING
+    - gloss: 'exocentric: subject, swift'
+      concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+      concept_label: HORSE
+    - gloss: generalised
+      concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+      concept_label: HURRY
+      children:
+      - gloss: generalised
+        concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+        concept_label: GO TO
+        children:
+        - gloss: causative
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+        - gloss: into visible existence
+          concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+          concept_label: ARISE
+    - gloss: trying to catch up
+      concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+      concept_label: PURSUE
+  - concept_label: =移 EXCHANGE25
+- reading: chí
+  old_chinese: rlal
+  middle_chinese: ɖɯiɛ
+  fanqie: 直離切
+  tone: 平
+  guangyun: 馳騖也疾驅也又姓出姓苑直離切十三
+- reading: chí
+  old_chinese: rlal
+  middle_chinese: ɖɯiɛ
+  fanqie: 直離切
+  tone: 平
+  guangyun: 馳騖也疾驅也又姓出姓苑直離切十三
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-25T01:33:42.808+09:00'

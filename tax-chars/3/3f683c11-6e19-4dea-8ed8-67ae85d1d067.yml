@@ -1,0 +1,24 @@
+uuid: 3f683c11-6e19-4dea-8ed8-67ae85d1d067
+type: tax-char
+heads:
+- 偉
+pronunciations:
+- reading: wěi
+  old_chinese: ɢulʔ
+  middle_chinese: ɦʷɨi
+  fanqie: 于鬼切
+  tone: 上
+  guangyun: 大也
+  senses:
+  - concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+    concept_label: ADMIRE
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+    concept_label: GREAT
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

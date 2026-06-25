@@ -1,0 +1,36 @@
+uuid: 7f52b4e4-f911-4cdb-b651-61068fad46d2
+type: tax-char
+heads:
+- 玄
+pronunciations:
+- reading: xuán
+  old_chinese: ɡʷeen
+  middle_chinese: ɦʷen
+  fanqie: 胡涓切
+  tone: 平
+  guangyun: 黒也寂也幽逺也又姓列仙傳有玄俗河間人無影胡㳙切十三
+  senses:
+  - gloss: (reddish)
+    concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+    children:
+    - gloss: (northern) related> DIRECTIONS
+    - gloss: 'exocentric: dark wine'
+      concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+      concept_label: WINE
+    - gloss: 'exocentric: dark'
+      concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+      concept_label: WATER
+    - gloss: figurative
+      concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+      concept_label: OBSCURE
+      children:
+      - gloss: related feature
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+        children:
+        - gloss: related abstract feature
+          concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+          concept_label: TRUTH
+source:
+  source_file: taxchar.xml

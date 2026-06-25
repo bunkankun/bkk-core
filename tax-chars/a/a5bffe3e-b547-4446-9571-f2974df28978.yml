@@ -1,0 +1,33 @@
+uuid: a5bffe3e-b547-4446-9571-f2974df28978
+type: tax-char
+heads:
+- 慚
+- 慙
+pronunciations:
+- reading: cán
+  old_chinese: dzaam
+  middle_chinese: dzɑm
+  fanqie: 昨甘切
+  tone: 平
+  guangyun: 愧也昨甘切五
+  senses:
+  - concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+    concept_label: SHAME
+    children:
+    - gloss: mild
+      concept_uuid: 706016be-3809-48c6-9988-3053595d4636
+      concept_label: EMBARRASSED
+    - gloss: result
+      concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+      concept_label: CONFUSED
+    - gloss: at failure to be able to repay moral debt
+      concept_uuid: 45ec8b18-c9d0-48ad-abc1-a532217157af
+      concept_label: GRATEFUL
+- reading: cán
+  old_chinese: dzaam
+  middle_chinese: dzɑm
+  fanqie: 昨甘切
+  tone: 平
+  guangyun: 愧也昨甘切五
+source:
+  source_file: taxchar.xml

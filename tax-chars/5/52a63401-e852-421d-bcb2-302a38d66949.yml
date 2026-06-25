@@ -1,0 +1,24 @@
+uuid: 52a63401-e852-421d-bcb2-302a38d66949
+type: tax-char
+heads:
+- 邇
+pronunciations:
+- reading: ěr
+  old_chinese: mljelʔ
+  middle_chinese: ȵiɛ
+  fanqie: 兒氏切
+  tone: 上
+  guangyun: 近也
+  senses:
+  - concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+- reading: ěr
+  old_chinese: njelʔ
+  middle_chinese: ȵiɛ
+  fanqie: 兒氏切
+  tone: 上
+  guangyun: 同邇
+source:
+  source_file: taxchar.xml

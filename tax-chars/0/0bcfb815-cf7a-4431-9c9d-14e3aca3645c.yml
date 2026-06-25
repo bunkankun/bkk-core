@@ -1,0 +1,37 @@
+uuid: 0bcfb815-cf7a-4431-9c9d-14e3aca3645c
+type: tax-char
+heads:
+- 魯
+pronunciations:
+- reading: lǔ
+  old_chinese: ɡ-raaʔ
+  middle_chinese: luo
+  fanqie: 郎古切
+  tone: 上
+  guangyun: 鈍也又國名伯禽之後以國爲姓出扶風又羌複姓有魯歩氏郎古切十七
+  senses:
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+    children:
+    - gloss: generalised
+      concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+      concept_label: VULGAR
+  - concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+    concept_label: ARISTOCRATS OF LU
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+    children:
+    - gloss: lǔ
+      concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+      concept_label: CITIES
+unattributed_senses:
+- concept_label: 魯 lǔ 《集韻》兩舉切，上語，來。
+  children:
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T18:37:50.131+09:00'

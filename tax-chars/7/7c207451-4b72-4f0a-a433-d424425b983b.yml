@@ -1,0 +1,65 @@
+uuid: 7c207451-4b72-4f0a-a433-d424425b983b
+type: tax-char
+heads:
+- 邪
+pronunciations:
+- reading: yé
+  old_chinese: la
+  middle_chinese: jia
+  fanqie: 以遮切
+  tone: 平
+  guangyun: 見邪注
+  senses:
+  - concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+    concept_label: FATHER
+- reading: yé
+  old_chinese: k-la
+  middle_chinese: jia
+  fanqie: 以遮切
+  tone: 平
+  guangyun: 見邪注
+  senses:
+  - gloss: =耶
+    concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+    concept_label: QUESTION PARTICLES
+  - gloss: =耶
+    concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+    concept_label: FINAL PARTICLES
+- reading: xié
+  old_chinese: sɢlja
+  middle_chinese: zia
+  fanqie: 似嗟切
+  tone: 平
+  guangyun: 鬼病亦不正也論語曰思無邪
+  senses:
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+    children:
+    - gloss: morally
+      concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+      concept_label: WICKED
+      children:
+      - gloss: action
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+      - gloss: specifically
+        concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+        concept_label: SELFISH
+    - gloss: 'medically: morbid'
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+      children:
+      - gloss: 'generalised, physically: not straight'
+        concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+        concept_label: SLANT
+    - gloss: cognitively
+      concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+      concept_label: STRANGE
+      children:
+      - gloss: metaphysically
+        concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+        concept_label: SUPERNATURAL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:27:23.099+09:00'

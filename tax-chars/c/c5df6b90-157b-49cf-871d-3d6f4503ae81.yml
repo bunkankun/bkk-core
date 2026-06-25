@@ -1,0 +1,81 @@
+uuid: c5df6b90-157b-49cf-871d-3d6f4503ae81
+type: tax-char
+heads:
+- 由
+pronunciations:
+- reading: yóu
+  old_chinese: liw
+  middle_chinese: jiu
+  fanqie: 以周切
+  tone: 平
+  guangyun: 從也經也用也行也又姓史記有由余
+  senses:
+  - gloss: 'action: take one’s cue from'
+    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+    children:
+    - gloss: and depend on
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+    - gloss: abstract:object conformed to
+      concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+      concept_label: METHOD
+    - gloss: 'specifically: instruments'
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - gloss: '[rare] human object???'
+        concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+        concept_label: EMPLOY
+  - gloss: object
+    concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+    concept_label: BASIS
+    children:
+    - gloss: for action
+      concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+      concept_label: OPPORTUNITY
+    - gloss: 'physical: what something comes from'
+      concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+      concept_label: CAUSE
+      children:
+      - gloss: 'grammaticalised: logical'
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+    - gloss: passage
+      concept_uuid: f2c1d0d1-3f16-4523-8b7c-648b22b332ed
+      concept_label: THROUGH
+    - gloss: grammaticalised
+      concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+      concept_label: PASSIVE MARKER
+    - gloss: 'grammaticalised: sequence'
+      concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+      concept_label: THEREUPON
+  - gloss: grammaticalised
+    concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+    concept_label: FROM
+    children:
+    - gloss: temporal
+      concept_uuid: bf9ba337-f179-4a74-bbb1-5bc886d43727
+      concept_label: SINCE
+  - gloss: =猶
+    concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+    children:
+    - gloss: grammaticalised:counterfactual
+      concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+      concept_label: AS IF
+    - gloss: grammaticalised:continuing
+      concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+      concept_label: STILL
+      children:
+      - gloss: logical:all the same
+        concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+        concept_label: NONETHELESS
+unattributed_senses:
+- gloss: persnonal name
+  concept_uuid: 7d4f7d98-8124-41fb-9cc8-b4cf2b478c33
+  concept_label: MALES OF LU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T02:01:01.825+09:00'

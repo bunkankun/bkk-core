@@ -1,0 +1,87 @@
+uuid: f71b8909-5cbe-4aba-aa78-14777c4f69a1
+type: tax-char
+heads:
+- 食
+pronunciations:
+- reading: shí
+  old_chinese: ɢljɯɡ
+  middle_chinese: ʑɨk
+  fanqie: 乘力切
+  tone: 入
+  guangyun: 飲食大戴禮曰食穀者智惠而巧古史考曰古者茹毛飲血燧人鑚火而人始裹肉而燔之曰炮及神農時人方食穀加米干燒石之上而食之及黄帝始有釜甑火食之道成矣又戲名博屬又用也僞也亦姓風俗通云漢有博士食于公河内人乗力切二
+- reading: yì
+  old_chinese: ɡ-lɯɡs
+  middle_chinese: jɨ
+  fanqie: 羊吏切
+  tone: 去
+  guangyun: 人名漢有酈食其又音蝕
+  senses:
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+    children:
+    - gloss: causative
+      concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+      concept_label: FEED
+    - gloss: specifically
+      concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+      concept_label: DRINK
+      children:
+      - gloss: generalised
+        concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+        concept_label: SWALLOW
+        children:
+        - gloss: abstract
+          concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+          concept_label: ACCEPT
+          children:
+          - gloss: generally
+            concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+            concept_label: RECEIVE
+            children:
+            - gloss: general
+              concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+              concept_label: USE
+              children:
+              - gloss: resultative
+                concept_uuid: 97510283-af73-45e3-97a7-942029408956
+                concept_label: RELY ON
+                children:
+                - gloss: action
+                  concept_uuid: 101e33f0-12dc-4e44-860b-01dfdeff2af1
+                  concept_label: EARN
+              - gloss: object
+                concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+                concept_label: SALARY
+        - gloss: 'metaphorical:'
+          concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+          concept_label: CONQUER
+        - gloss: metaphorical, of own statements
+          concept_uuid: dd3de4ff-729c-487d-b762-f32b60f7cc45
+          concept_label: DENY
+    - gloss: action
+      concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+      concept_label: BITE
+  - gloss: 'metonymy: object'
+    concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+    children:
+    - gloss: typical example
+      concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+      concept_label: RICE
+    - gloss: collective>eaten on one occasion
+      concept_uuid: 3ed11fd2-9383-4078-93ac-837845fbad3b
+      concept_label: MEAL
+      children:
+      - gloss: festive
+        concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+        concept_label: FEAST
+  - gloss: =蝕 metaphorical
+    concept_uuid: be382733-4c4b-43cf-867f-a0c69b0539b6
+    concept_label: ECLIPSE
+  - gloss: =飼 causative
+    concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-02T04:35:08.045+09:00'

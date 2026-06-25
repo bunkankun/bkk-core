@@ -1,0 +1,22 @@
+uuid: 8ea34bce-28af-4f63-8388-51d7f56b9d03
+type: tax-char
+heads:
+- 湘
+pronunciations:
+- reading: xiāng
+  old_chinese: sqaŋ
+  middle_chinese: siɐŋ
+  fanqie: 息良切
+  tone: 平
+  guangyun: 水名在零陵
+  senses:
+  - gloss: =鬺
+    concept_uuid: bb6e394b-930f-436d-8159-1571b4820169
+    concept_label: BOIL
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - gloss: PROVINCES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,87 @@
+uuid: 291c6f29-d1e5-4a87-ad03-633337d9f377
+type: tax-char
+heads:
+- 窮
+pronunciations:
+- reading: qióng
+  old_chinese: ɡʷɯŋ
+  middle_chinese: ɡiuŋ
+  fanqie: 渠弓切
+  tone: 平
+  guangyun: 窮極也又窮竒獸名聞人鬬乃助不直者渠弓切三
+- reading: qiòng
+  old_chinese: ɡuŋ
+  middle_chinese: kʰiuŋ
+  fanqie: 去仲切
+  tone: 去
+  guangyun: 使役也亦作㑋
+unattributed_senses:
+- concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  concept_label: DISTRESS
+  children:
+  - gloss: 'specific:'
+    concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+    children:
+    - gloss: relevant situation
+      concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+      concept_label: DANGER
+      children:
+      - gloss: psychological
+        concept_uuid: cd5a1b37-5291-4c9e-a5ca-ee97e7f478bb
+        concept_label: DESPERATE
+        children:
+        - gloss: at wit’s end
+          concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+          concept_label: CONFUSED
+  - gloss: event
+    concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+    concept_label: FAIL
+    children:
+    - gloss: general:> LACK猶有所窮
+      concept_label: HYDCD
+    - gloss: general
+      concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+      concept_label: END
+      children:
+      - gloss: action
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+        children:
+        - gloss: living
+          concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+          concept_label: DIE
+      - gloss: 'causative: cause there to be no more'
+        concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+        concept_label: EXHAUST
+        children:
+        - gloss: generalised
+          concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+          concept_label: USE
+        - gloss: 'object: energies'
+          concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+          concept_label: EFFORT
+          children:
+          - gloss: grammaticalised
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+        - gloss: grammaticalised
+          concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+          concept_label: EXTREME
+          children:
+          - gloss: resultative
+            concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+            concept_label: REACH
+        - gloss: intellectually
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+      - gloss: 'resultative:'
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+- gloss: proper names
+  concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+  concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T20:58:29.244+09:00'

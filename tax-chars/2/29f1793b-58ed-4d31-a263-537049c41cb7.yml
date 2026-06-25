@@ -1,0 +1,28 @@
+uuid: 29f1793b-58ed-4d31-a263-537049c41cb7
+type: tax-char
+heads:
+- 吁
+pronunciations:
+- reading: yù
+  old_chinese: ɢʷras
+  middle_chinese: ɦio
+  fanqie: 王遇切
+  tone: 去
+  guangyun: 疑怪辭也
+- reading: xū
+  old_chinese: qhʷla
+  middle_chinese: hio
+  fanqie: 況于切
+  tone: 平
+  guangyun: 歎也
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+    concept_label: SHOUT
+  - concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+    concept_label: SIGH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

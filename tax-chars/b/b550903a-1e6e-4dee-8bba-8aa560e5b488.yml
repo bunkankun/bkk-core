@@ -1,0 +1,20 @@
+uuid: b550903a-1e6e-4dee-8bba-8aa560e5b488
+type: tax-char
+heads:
+- 骸
+pronunciations:
+- reading: hái
+  old_chinese: ɡrɯɯ
+  middle_chinese: ɦɯæi
+  fanqie: 戶皆切
+  tone: 平
+  guangyun: 骸骨
+  senses:
+  - concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+    concept_label: BODY
+  - concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+    concept_label: BONE
+  - concept_uuid: 0b6c7196-54e3-422e-b381-f96776677cbe
+    concept_label: THIGH
+source:
+  source_file: taxchar.xml

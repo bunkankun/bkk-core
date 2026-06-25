@@ -1,0 +1,40 @@
+uuid: c35c6a96-01b9-4193-b35e-5d1b477771f0
+type: tax-char
+heads:
+- 撰
+pronunciations:
+- reading: zhuàn
+  old_chinese: sɡroonʔ
+  middle_chinese: dʐʷɯan
+  fanqie: 雛鯇切
+  tone: 上
+  guangyun: 撰述雛鯇切二
+  senses:
+  - concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+    concept_label: CREATE
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+    concept_label: PRINCIPLE
+  - concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+    concept_label: ATTITUDE
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+    concept_label: BUY
+  - gloss: = 賺
+  - gloss: = 饌
+  - gloss: = 選
+  - gloss: = 算
+- reading: zhuàn
+  old_chinese: sɡronʔ
+  middle_chinese: dʐʷɯiɛn
+  fanqie: 士免切
+  tone: 上
+  guangyun: 述也定也持也士免切五
+source:
+  source_file: taxchar.xml

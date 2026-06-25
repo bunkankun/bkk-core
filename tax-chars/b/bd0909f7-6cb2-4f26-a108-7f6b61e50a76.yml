@@ -1,0 +1,52 @@
+uuid: bd0909f7-6cb2-4f26-a108-7f6b61e50a76
+type: tax-char
+heads:
+- 杜
+pronunciations:
+- reading: dù
+  old_chinese: ɡ-laaʔ
+  middle_chinese: duo
+  fanqie: 徒古切
+  tone: 上
+  guangyun: 甘棠子似梨又塞也澀也又杜仲藥名亦姓本自帝堯劉累之後出京兆濮陽襄陽三望漢有御史大夫杜周以南陽豪族徙茂陵始居京兆徒古切九
+  senses:
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+    children:
+    - gloss: generalised
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: reflexive
+        concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+        concept_label: REFUSE
+      - gloss: stop presence
+        concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+        concept_label: DISCARD
+  - gloss: (dialect)
+    concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+    concept_label: SELF
+    children:
+    - gloss: irregularly
+      concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+      concept_label: PRODUCE
+      children:
+      - gloss: produced at home (wine etc)
+        concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+        concept_label: PRIVATE
+  - concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+    concept_label: ROOT
+  - gloss: GRASSES
+  - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 杜 ｔｕ２《類篇》同都切，平模定。 姓。《類篇•木部》：“杜，姓也。晉有杜蒯。”
+  children:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

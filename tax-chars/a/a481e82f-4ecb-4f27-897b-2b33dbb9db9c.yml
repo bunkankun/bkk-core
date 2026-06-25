@@ -1,0 +1,71 @@
+uuid: a481e82f-4ecb-4f27-897b-2b33dbb9db9c
+type: tax-char
+heads:
+- 祖
+pronunciations:
+- reading: zǔ
+  old_chinese: skaaʔ
+  middle_chinese: tsuo
+  fanqie: 則古切
+  tone: 上
+  guangyun: 祖禰又始也法也本也上也又姓祖巳之後岀范陽則古切六
+  senses:
+  - concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+    concept_label: ANCESTOR
+    children:
+    - gloss: 'feature: in time'
+      concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+      concept_label: DISTANT
+    - gloss: founding
+      concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+      concept_label: RULER
+      children:
+      - gloss: time of rule
+        concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+        concept_label: GENERATION
+      - gloss: founder
+        concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+        concept_label: CREATE
+        children:
+        - gloss: related activity
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+        - gloss: farewell dinner involving ancestral sacrifice???
+          concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+          concept_label: FAREWELL
+        - gloss: sacrifice on the occasion of funeral
+          concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+          concept_label: BURY
+    - gloss: related artifact
+      concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+      concept_label: TEMPLE
+    - gloss: related function
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - gloss: 'grammaticalised: based on'
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+      - gloss: related group
+        concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+        concept_label: RELATIVES
+      - gloss: abstract function of
+        concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+        concept_label: TEACHER
+        children:
+        - gloss: related attitude
+          concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+          concept_label: RESPECT
+          children:
+          - gloss: action
+            concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+            concept_label: IMITATE
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - gloss: =阻
+unattributed_senses:
+- gloss: 祖 zǔ ｊｉｅ１《字彙補》咨邪切。
+- concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+  concept_label: REGIONS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,46 @@
+uuid: 055ed297-df2c-4396-bd93-4f34f4e23fd0
+type: tax-char
+heads:
+- 爭
+pronunciations:
+- reading: zhēng
+  old_chinese: skreeŋ
+  middle_chinese: tʂɯæŋ
+  fanqie: 側莖切
+  tone: 平
+  guangyun: 競也引也側莖切七
+  senses:
+  - concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+    concept_label: COMPETE
+    children:
+    - gloss: success
+      concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+      concept_label: WIN
+    - gloss: generalised
+      concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+      concept_label: SEEK
+    - gloss: violently
+      concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+      concept_label: FIGHT
+    - gloss: intellectually
+      concept_uuid: a9ce2789-dac0-45ea-8428-c483b4ffb65c
+      concept_label: DISAGREE
+      children:
+      - gloss: discursive consideration
+        concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+        concept_label: DISCUSS
+  - gloss: grammaticalised
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - concept_uuid: b57edc65-10b7-45ce-96b9-03e318cd566c
+    concept_label: SHANG DIVINERS
+unattributed_senses:
+- concept_label: 爭 zhèng【集韻】側逬切，箏去聲。義同。【韻會】俗作争，非。
+  children:
+  - gloss: =諍
+    concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+    concept_label: REMONSTRATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T00:52:23.367+09:00'

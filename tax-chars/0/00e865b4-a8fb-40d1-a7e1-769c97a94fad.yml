@@ -1,0 +1,46 @@
+uuid: 00e865b4-a8fb-40d1-a7e1-769c97a94fad
+type: tax-char
+heads:
+- 未
+pronunciations:
+- reading: wèi
+  old_chinese: mɯds
+  middle_chinese: mʷɨi
+  fanqie: 無沸切
+  tone: 去
+  guangyun: 辰名爾雅曰太歳在未曰恊洽無沸切八
+  senses:
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+    children:
+    - gloss: antecedent time
+      concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+      concept_label: PERIOD
+    - gloss: what is not yet
+      concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+      concept_label: FUTURE
+    - gloss: logically
+      concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+      concept_label: NOT
+      children:
+      - gloss: generalised
+        concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+        concept_label: NOT
+        children:
+        - gloss: idiomatic/grammaticalised post-sentential
+          concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+          concept_label: NOT
+        - gloss: generalised
+          concept_uuid: 77f765a8-fb37-4e34-94e1-7e10c2e3aea6
+          concept_label: NEVER
+  - gloss: Chinese numbering
+    concept_uuid: e7afe64f-af0d-4862-94d6-7afd165036a7
+    concept_label: EARTH BRANCH
+    children:
+    - gloss: period of time corresponding to that Branch
+      concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+      concept_label: TIME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-17T23:55:50.795+09:00'

@@ -1,0 +1,26 @@
+uuid: 2a58aaf5-1b27-4678-88cb-be7b7e8e8fb4
+type: tax-char
+heads:
+- 紆
+pronunciations:
+- reading: yū
+  old_chinese: qʷla
+  middle_chinese: ʔio
+  fanqie: 憶俱切
+  tone: 平
+  guangyun: 縈也曲也詘也勞也又姓後秦有肥郷侯始平紆邈憶俱切十二
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+  - concept_uuid: 1ea0113c-9b0c-4f8c-a741-48469f9bd0bc
+    concept_label: ENTANGLE
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: fa658d30-05af-40fb-b488-b484edb8ff2e
+type: tax-char
+heads:
+- 擅
+pronunciations:
+- reading: shàn
+  old_chinese: djans
+  middle_chinese: dʑiɛn
+  fanqie: 時戰切
+  tone: 去
+  guangyun: 專也
+  senses:
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+    concept_label: MONOPOLISE
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - gloss: = 禪
+  - gloss: = 撣
+source:
+  source_file: taxchar.xml

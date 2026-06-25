@@ -1,0 +1,24 @@
+uuid: 10076426-30b9-4f68-9368-fd14b6e630aa
+type: tax-char
+heads:
+- 惆
+pronunciations:
+- reading: chóu
+  old_chinese: thɯw
+  middle_chinese: ʈʰiu
+  fanqie: 丑鳩切
+  tone: 平
+  guangyun: 惆悵
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: afa1eaf9-9b3c-4eed-9fc9-149fd66f1edf
+    concept_label: DISAPPOINTED
+- reading: qiū
+  old_chinese: thɯw
+  middle_chinese: kʰiu
+  fanqie: 去秋切
+  tone: 平
+  guangyun: 同𠁫
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 612f77ee-fc4e-4901-bd42-613985539906
+type: tax-char
+heads:
+- 儲
+pronunciations:
+- reading: chǔ
+  old_chinese: ɡ-la
+  middle_chinese: ɖiɔ
+  fanqie: 直魚切
+  tone: 平
+  guangyun: 儲副又姓後漢有儲太伯
+  senses:
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+    concept_label: HEIR
+  - concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+    concept_label: WAIT
+  - concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+    concept_label: ASSISTANT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

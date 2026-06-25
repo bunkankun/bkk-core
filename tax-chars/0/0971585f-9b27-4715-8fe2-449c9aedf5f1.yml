@@ -1,0 +1,38 @@
+uuid: 0971585f-9b27-4715-8fe2-449c9aedf5f1
+type: tax-char
+heads:
+- 腦
+pronunciations:
+- reading: nǎo
+  old_chinese: nuuʔ
+  middle_chinese: nɑu
+  fanqie: 奴晧切
+  tone: 上
+  guangyun: 同堖或從𡿺餘同
+  senses:
+  - concept_uuid: cc4b8d1f-2c38-46f0-8de8-dd4436d9ef4a
+    concept_label: BRAIN
+  - concept_uuid: 21d9b904-ec38-4771-9f93-ee7f4e44403e
+    concept_label: SKULL
+  - concept_uuid: 4cabc60a-c17e-4a7a-8cd7-e0836f03b003
+    concept_label: SMEAR
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: f5018723-71ea-49c5-8911-415a8745d1a8
+    concept_label: TOP
+  - concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+    concept_label: MIDDLE
+- reading: nǎo
+  old_chinese: nuuʔ
+  middle_chinese: nɑu
+  fanqie: 奴晧切
+  tone: 上
+  guangyun: 頭堖奴晧切九
+- reading: nào
+  old_chinese: nuus
+  middle_chinese: nɑu
+  fanqie: 那到切
+  tone: 去
+  guangyun: 優皮也
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 2602a96d-c1ca-43e5-a4e8-ddafa831eb03
+type: tax-char
+heads:
+- 怠
+pronunciations:
+- reading: dài
+  old_chinese: lɯɯʔ
+  middle_chinese: dəi
+  fanqie: 徒亥切
+  tone: 上
+  guangyun: 懈怠
+  senses:
+  - concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+    concept_label: LAZY
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - gloss: = 殆
+  - gloss: = 怡
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,28 @@
+uuid: 47229947-ae7f-4b47-878a-2037adf340ca
+type: tax-char
+heads:
+- 諱
+pronunciations:
+- reading: huì
+  old_chinese: qhuls
+  middle_chinese: hʷɨi
+  fanqie: 許貴切
+  tone: 去
+  guangyun: 説文誋也許貴切四
+  senses:
+  - concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+    concept_label: NAME
+  - concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+    concept_label: TABOO
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+    concept_label: AVOID
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+source:
+  source_file: taxchar.xml

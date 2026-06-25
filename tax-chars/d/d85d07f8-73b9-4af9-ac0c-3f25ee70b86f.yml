@@ -1,0 +1,55 @@
+uuid: d85d07f8-73b9-4af9-ac0c-3f25ee70b86f
+type: tax-char
+heads:
+- 羅
+pronunciations:
+- reading: luó
+  old_chinese: b-raal
+  middle_chinese: lɑ
+  fanqie: 魯何切
+  tone: 平
+  guangyun: 羅綺也古者芒氏初作羅爾雅鳥罟謂之羅又姓出長沙本自顓頊末胤受封於羅國今房州也爲楚所滅子孫以爲氏魯何切十
+  senses:
+  - concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+    children:
+    - gloss: similar> SIEVE
+    - gloss: 'similar in form but different in function: loose'
+      concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+      concept_label: SILK
+    - gloss: generalised
+      concept_uuid: 21e54e28-946b-4cd7-9293-c8784a3174c7
+      concept_label: TRAP
+    - gloss: related action
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+      children:
+      - gloss: generalise
+        concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+        concept_label: SPREAD
+    - gloss: related action
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: generalised
+        concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+        concept_label: CONSTRAIN
+    - gloss: related action
+      concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+      concept_label: CATCH
+      children:
+      - gloss: figurative
+        concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+        concept_label: INVITE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+unattributed_senses:
+- gloss: 羅 li2 《集韻》陋知切 音離
+  children:
+  - gloss: =離
+    concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+source:
+  source_file: taxchar.xml

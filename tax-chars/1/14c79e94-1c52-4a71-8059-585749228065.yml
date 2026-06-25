@@ -1,0 +1,61 @@
+uuid: 14c79e94-1c52-4a71-8059-585749228065
+type: tax-char
+heads:
+- 早
+pronunciations:
+- reading: zǎo
+  old_chinese: tsuuʔ
+  middle_chinese: tsɑu
+  fanqie: 子晧切
+  tone: 上
+  guangyun: 晨也子晧切十二
+  senses:
+  - concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+    concept_label: MORNING
+    children:
+    - gloss: 'intensitive: too'
+      concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+      concept_label: EARLY
+      children:
+      - gloss: early in one's life
+        concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+        concept_label: YOUNG
+    - gloss: 'generalised: beginning'
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+    - gloss: feature
+      concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+      concept_label: FIRST
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+      - gloss: transitive
+        concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+        concept_label: PRECEDE
+        children:
+        - gloss: grammaticalised
+          concept_uuid: c4708191-be6c-47e1-b2e7-fb880a22cc69
+          concept_label: BEFORE
+          children:
+          - gloss: (late) grammaticalised
+            concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+            concept_label: ALREADY
+          - gloss: in good time
+            concept_uuid: 192687fc-6722-4783-8131-d1a95005a098
+            concept_label: TIMELY
+            children:
+            - gloss: 'grammaticalised: fortunately> LUCKY'
+            - gloss: 'specifically: in imperatives'
+              concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+              concept_label: IMMEDIATELY
+              children:
+              - concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+                concept_label: IMPERATIVE MARKER
+          - gloss: at good speed
+            concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+            concept_label: QUICK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,30 @@
+uuid: 17074e91-d8f8-462e-baf9-5167fa6779ae
+type: tax-char
+heads:
+- 翟
+pronunciations:
+- reading: dì
+  old_chinese: leewɡ
+  middle_chinese: dek
+  fanqie: 徒歷切
+  tone: 入
+  guangyun: 翟雉又姓漢有上蔡翟方進
+  senses:
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+    concept_label: FEATHER
+  - concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+    concept_label: GARMENT
+  - gloss: = 狄
+- reading: zhái
+  old_chinese: rlaaɡ
+  middle_chinese: ɖɯak
+  fanqie: 場伯切
+  tone: 入
+  guangyun: 陽翟縣名亦姓唐有陜州刺史翟璋又音狄
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

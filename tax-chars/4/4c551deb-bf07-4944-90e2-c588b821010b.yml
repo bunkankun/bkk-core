@@ -1,0 +1,44 @@
+uuid: 4c551deb-bf07-4944-90e2-c588b821010b
+type: tax-char
+heads:
+- 神
+pronunciations:
+- reading: shén
+  old_chinese: ɢljin
+  middle_chinese: ʑin
+  fanqie: 食鄰切
+  tone: 平
+  guangyun: 靈也易繫辭曰隂陽不測之謂神亦姓風俗通云神農之後漢有騎都尉神曜何氏姓苑云今琅邪人食鄰切二
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+    children:
+    - gloss: 'specifically: ancestral'
+      concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+      concept_label: ANCESTOR
+    - gloss: 'abstract: feature'
+      concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+      concept_label: SUPERNATURAL
+      children:
+      - gloss: 'anthropologically: dominant part of personality'
+        concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+        concept_label: SOUL
+        children:
+        - gloss: 'psychologically: mental receptive part of the soul'
+          concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+          concept_label: MIND
+          children:
+          - gloss: 'metaphysically: numinous inscrutable workings of the mind'
+            concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+            concept_label: ENERGY
+            children:
+            - gloss: 'socially: numinous political/social energy'
+              concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+              concept_label: POWER
+      - gloss: 'figuratively: supernaturally intense'
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-31T19:53:09.263+09:00'

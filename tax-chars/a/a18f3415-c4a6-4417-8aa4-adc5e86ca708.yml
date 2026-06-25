@@ -1,0 +1,60 @@
+uuid: a18f3415-c4a6-4417-8aa4-adc5e86ca708
+type: tax-char
+heads:
+- 甘
+pronunciations:
+- reading: gān
+  old_chinese: kaam
+  middle_chinese: kɑm
+  fanqie: 古三切
+  tone: 平
+  guangyun: 説文作𤮺美也又隴右州本月支國漢匈奴觻得王所居後魏爲張掖郡又改爲州取甘峻山名之界有弱水祁連山上有松栢五木美水茂草冬温夏涼又有仙樹人行山中飢即食之輒飽不得持去平居時亦不可見也又姓武丁臣甘盤之後又漢複姓有甘莊甘士甘先三氏古三切七
+  senses:
+  - concept_uuid: 27b184f0-cc0c-4e7e-b69b-40f26b5a2dd4
+    concept_label: SWEET
+    children:
+    - gloss: generalised
+      concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+      concept_label: SAVOURY
+      children:
+      - gloss: find tasty
+        concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+        concept_label: EAT
+      - gloss: 'exocentric: sweet dish'
+        concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+        concept_label: FOOD
+      - gloss: 'abstract: predilection'
+        concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+        concept_label: PREFER
+        children:
+        - gloss: welcome
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+          children:
+          - gloss: putative
+            concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+            concept_label: DESIRE
+            children:
+            - gloss: intensitive
+              concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+              concept_label: GREEDY
+          - gloss: action
+            concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+            concept_label: ENJOY
+            children:
+            - gloss: as one enjoys things
+              concept_uuid: 905d6c71-ee6f-4678-aebd-e3764ddf05f8
+              concept_label: RELAX
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+  - concept_label: REGIONS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+unattributed_senses:
+- concept_label: ｈａｎ１《集韻》胡甘切，平談匣。談部。
+  children:
+  - concept_label: =酣
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T00:25:37.536+09:00'

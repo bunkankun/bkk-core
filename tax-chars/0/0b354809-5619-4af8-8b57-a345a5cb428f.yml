@@ -1,0 +1,93 @@
+uuid: 0b354809-5619-4af8-8b57-a345a5cb428f
+type: tax-char
+heads:
+- 還
+pronunciations:
+- reading: xuán
+  old_chinese: sɢʷen
+  middle_chinese: zʷiɛn
+  fanqie: 似宣切
+  tone: 平
+  guangyun: 還返
+- reading: huán
+  old_chinese: ɡʷraan
+  middle_chinese: ɦʷɯan
+  fanqie: 戶關切
+  tone: 平
+  guangyun: 反也退也顧也復也戸關切又音旋二十
+  senses:
+  - concept_uuid: 50d39b76-3946-438d-98e5-b2b1599be8eb
+    concept_label: TURN BACK
+    children:
+    - gloss: turn head and
+      concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+      concept_label: LOOK
+    - gloss: 'from action: desist'
+      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+      concept_label: STOP
+    - gloss: resultative
+      concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+      concept_label: RETURN
+      children:
+      - gloss: mentally
+        concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+        concept_label: REMEMBER
+      - gloss: 'abstract: recurrently'
+        concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+        concept_label: HAPPEN
+      - gloss: causative
+        concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+        concept_label: GIVE BACK
+        children:
+        - gloss: specifically
+          concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+          concept_label: SEND
+      - gloss: causative
+        concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+        concept_label: REPAIR
+    - gloss: abstract
+      concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+      concept_label: REACT
+      children:
+      - gloss: 'linguistically: reply'
+        concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+        concept_label: ANSWER
+    - gloss: abstract
+      concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+      concept_label: CONTRARY
+  - gloss: =xuán 旋
+    concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+      concept_label: IMMEDIATELY
+unattributed_senses:
+- gloss: hái degree
+  concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+  concept_label: MORE
+  children:
+  - gloss: in addition
+    concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+    concept_label: ALSO
+  - gloss: hái
+    concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+    concept_label: QUESTION PARTICLES
+- gloss: hái
+  concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+  concept_label: STILL
+  children:
+  - gloss: before
+    concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+    concept_label: ALREADY
+  - gloss: after interruption
+    concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+    concept_label: AGAIN
+    children:
+    - gloss: contrastive
+      concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+      concept_label: NONETHELESS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T01:47:05.269+09:00'

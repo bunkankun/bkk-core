@@ -1,0 +1,29 @@
+uuid: 8935c2ee-dc60-4d79-bc39-f15524a3c9d9
+type: tax-char
+heads:
+- 泣
+pronunciations:
+- reading: qì
+  old_chinese: khrub
+  middle_chinese: kʰɯip
+  fanqie: 去急切
+  tone: 入
+  guangyun: 無聲出涕去急切三
+  senses:
+  - concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+    concept_label: WEEP
+  - concept_uuid: 7b951f9a-7b82-42db-8a23-5bcfc0c2a94e
+    concept_label: TEARS
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+unattributed_senses:
+- gloss: 泣 ｌｉ４《集韻》力入切，入緝來。
+  children:
+  - gloss: (windy)
+    concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+    concept_label: WIND
+- gloss: 泣 ）ｓｅ４《字彙補》色入切。
+  children:
+  - gloss: =澀
+source:
+  source_file: taxchar.xml

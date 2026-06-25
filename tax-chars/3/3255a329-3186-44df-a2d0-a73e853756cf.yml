@@ -1,0 +1,98 @@
+uuid: 3255a329-3186-44df-a2d0-a73e853756cf
+type: tax-char
+heads:
+- 於
+pronunciations:
+- reading: wū
+  old_chinese: qaa
+  middle_chinese: ʔuo
+  fanqie: 哀都切
+  tone: 平
+  guangyun: 古作於戲今作嗚呼
+  senses:
+  - gloss: onomatopoeic
+    concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+    concept_label: EXCLAMATORY PARTICLE
+- reading: yú
+  old_chinese: qa
+  middle_chinese: ʔiɔ
+  fanqie: 央居切
+  tone: 平
+  guangyun: 俗於
+- reading: yú
+  old_chinese: qa
+  middle_chinese: ʔiɔ
+  fanqie: 央居切
+  tone: 平
+  guangyun: 居也代也語辭也又商於地名亦姓今淮南有之央居切又音烏五
+  senses:
+  - gloss: general
+    concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+    concept_label: RELATION
+    children:
+    - gloss: derived full verb
+      concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+      concept_label: BE IN
+      children:
+      - gloss: immediately above
+        concept_uuid: 25b8af90-1d0c-42df-a315-560a79399cee
+        concept_label: 'ON'
+      - gloss: continuative
+        concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+        concept_label: REMAIN
+        children:
+        - gloss: 'intellectually: dwell on'
+          concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+          concept_label: THINK
+    - gloss: source
+      concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+      concept_label: FROM
+      children:
+      - gloss: abstract quantitative
+        concept_uuid: 537799e2-cfbb-488f-93bd-013276b87c05
+        concept_label: THAN
+      - gloss: temporal
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+    - gloss: goal
+      concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+      concept_label: TOWARDS
+      children:
+      - gloss: object
+        concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+        concept_label: TARGET
+      - gloss: abstract
+        concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+        concept_label: FOR
+      - gloss: verbal
+        concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+        concept_label: REACH
+        children:
+        - gloss: abstract
+          concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+          concept_label: OBJECT MARKER
+  - gloss: between
+    concept_uuid: a716fa73-5434-40ce-96e9-b46b6c0ac50a
+    concept_label: AMONG
+    children:
+    - gloss: 'semantic: by'
+      concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+      concept_label: PASSIVE MARKER
+      children:
+      - gloss: suffering from
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+    - gloss: psychological
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: behavioural
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+  - gloss: grammaticalised:meaningless rhythmic filler particle
+    concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-15T00:18:38.691+09:00'

@@ -1,0 +1,22 @@
+uuid: eb555822-d662-4839-a6af-c627e3c7b85c
+type: tax-char
+heads:
+- 磊
+pronunciations:
+- reading: lěi
+  old_chinese: ruulʔ
+  middle_chinese: luoi
+  fanqie: 落猥切
+  tone: 上
+  guangyun: 同磥
+  senses:
+  - concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+    concept_label: ACCUMULATE
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+source:
+  source_file: taxchar.xml

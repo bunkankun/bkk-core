@@ -1,0 +1,46 @@
+uuid: 260087a3-5542-40d2-9f6b-398c05c463b1
+type: tax-char
+heads:
+- 供
+pronunciations:
+- reading: gòng
+  old_chinese: koŋs
+  middle_chinese: kioŋ
+  fanqie: 居用切
+  tone: 去
+  guangyun: 設也居用切又居容切二
+  senses:
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 394a0980-04a6-4a42-b28f-ceea8dc2b09a
+    concept_label: MANAGE
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+  - concept_uuid: 55941b9a-d0ef-4e2e-ac38-0a22c460bcb5
+    concept_label: BUDDHIST RITUALS
+  - concept_uuid: f8edc51d-9fde-4df5-9682-27582a98bd57
+    concept_label: ALMS
+- reading: gōng
+  old_chinese: koŋ
+  middle_chinese: kioŋ
+  fanqie: 九容切
+  tone: 平
+  guangyun: 奉也具也設也給也進也又居用切
+  senses:
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+    concept_label: FOOD
+  - concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 恭
+source:
+  source_file: taxchar.xml

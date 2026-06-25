@@ -1,0 +1,63 @@
+uuid: bd500183-3ab8-440f-bbed-e4c1f7eec522
+type: tax-char
+heads:
+- 進
+pronunciations:
+- reading: jìn
+  old_chinese: tsins
+  middle_chinese: tsin
+  fanqie: 即刃切
+  tone: 去
+  guangyun: 前也善也升也登也又姓出何氏姓苑
+  senses:
+  - concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+    concept_label: ADVANCE
+    children:
+    - gloss: sustained
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+    - gloss: transitive> advance into
+      concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+      concept_label: ENTER
+  - gloss: upwards
+    concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+    children:
+    - gloss: 'causative: administrative'
+      concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+      concept_label: PROMOTE
+      children:
+      - gloss: by words of praise
+        concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+        concept_label: RECOMMEND
+    - gloss: causative
+      concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+      concept_label: HAND UP
+  - gloss: abstract
+    concept_uuid: 6233dcf4-4cd0-412f-a89a-250da251f779
+    concept_label: PROGRESS
+    children:
+    - gloss: manner
+      concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+      concept_label: GRADUALLY
+    - gloss: cognitive
+      concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+      concept_label: LEARN
+      children:
+      - gloss: causative
+        concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+        concept_label: IMPROVE
+        children:
+        - gloss: intellectual, reflexive
+          concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+          concept_label: CULTIVATE
+          children:
+          - gloss: causative
+            concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+            concept_label: ENCOURAGE
+unattributed_senses:
+- concept_label: 進 jìn 康熙字典：《集韻》徐刃切《正韻》齊進切。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T05:42:22.934+09:00'

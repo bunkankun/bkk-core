@@ -1,0 +1,37 @@
+uuid: f6e10295-695e-4785-a44c-bc81ac5b9689
+type: tax-char
+heads:
+- 逾
+pronunciations:
+- reading: yú
+  old_chinese: lo
+  middle_chinese: jio
+  fanqie: 羊朱切
+  tone: 平
+  guangyun: 同逾
+  senses:
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+- reading: yú
+  old_chinese: lo
+  middle_chinese: jio
+  fanqie: 羊朱切
+  tone: 平
+  guangyun: 越也羊朱切四十五
+  senses:
+  - concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+    concept_label: LEAP OVER
+  - concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+    concept_label: MORE
+  - concept_uuid: 6233dcf4-4cd0-412f-a89a-250da251f779
+    concept_label: PROGRESS
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,23 @@
+uuid: b163874b-0cf1-4eab-bdbf-b948a08e835d
+type: tax-char
+heads:
+- 虯
+pronunciations:
+- reading: jiū
+  old_chinese: ɡrɯw
+  middle_chinese: kɨu
+  fanqie: 居虯切
+  tone: 平
+- reading: qiú
+  old_chinese: ɡriw
+  middle_chinese: ɡɨu
+  fanqie: 渠幽切
+  tone: 平
+  guangyun: 無角龍也渠幽切又居幽切七
+  senses:
+  - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+    concept_label: DRAGON
+  - concept_uuid: 48563d17-0f8f-4f8c-b922-2862098164b9
+    concept_label: CURLY
+source:
+  source_file: taxchar.xml

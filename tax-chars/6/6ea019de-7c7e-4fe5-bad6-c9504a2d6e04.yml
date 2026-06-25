@@ -1,0 +1,26 @@
+uuid: 6ea019de-7c7e-4fe5-bad6-c9504a2d6e04
+type: tax-char
+heads:
+- 座
+pronunciations:
+- reading: zuò
+  old_chinese: sɡools
+  middle_chinese: dzuɑ
+  fanqie: 徂卧切
+  tone: 去
+  guangyun: 牀座徂卧切二
+  senses:
+  - concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+    concept_label: SEAT
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+    concept_label: BASIS
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

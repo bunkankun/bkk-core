@@ -1,0 +1,20 @@
+uuid: e3b35aaa-e881-4b17-8ce3-b85591679270
+type: tax-char
+heads:
+- 謔
+pronunciations:
+- reading: xuè
+  old_chinese: hŋawɡ
+  middle_chinese: hiɐk
+  fanqie: 虚約切
+  tone: 入
+  guangyun: 戲謔虚約切一
+  senses:
+  - concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+    concept_label: PLAY
+  - concept_uuid: f8d0fa63-774b-4e2d-ade4-5ad8cc925146
+    concept_label: TEASE
+  - concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+source:
+  source_file: taxchar.xml

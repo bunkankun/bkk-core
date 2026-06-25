@@ -1,0 +1,27 @@
+uuid: 0f2e61b4-7fc9-4b8e-9e77-346456c5cc82
+type: tax-char
+heads:
+- 網
+pronunciations:
+- reading: wǎng
+  old_chinese: maŋʔ
+  middle_chinese: mʷiɐŋ
+  fanqie: 文兩切
+  tone: 上
+  guangyun: 同网
+  senses:
+  - concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+    concept_label: FISHING
+  - concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+  - gloss: INTERNET
+source:
+  source_file: taxchar.xml

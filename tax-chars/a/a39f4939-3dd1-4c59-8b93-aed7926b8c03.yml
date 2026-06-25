@@ -1,0 +1,85 @@
+uuid: a39f4939-3dd1-4c59-8b93-aed7926b8c03
+type: tax-char
+heads:
+- 施
+pronunciations:
+- reading: shī
+  old_chinese: lʰal
+  middle_chinese: ɕiɛ
+  fanqie: 式支切
+  tone: 平
+  guangyun: 施設亦姓左傳魯大夫施伯何氏姓苑云今沛人又式豉以寘二切
+  senses:
+  - concept_label: 上古音系： 聲符 也 韻部 歌 韻部細分 1 對應廣韻小韻 䌳 擬音 hljal
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+    children:
+    - gloss: deliberate
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+    - gloss: 'generalised: project oneself outwards through action'
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: so as to impact upon
+        concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+        concept_label: INFLUENCE
+        children:
+        - gloss: abstract
+          concept_uuid: b56d5b21-c292-4251-98b7-f8d1fb302a76
+          concept_label: FUNCTION
+    - gloss: to others
+      concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+      concept_label: DISTRIBUTE
+      children:
+      - gloss: specific
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: cause to have as an effect, bring about
+          concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+          concept_label: CAUSE
+        - gloss: so as to prepare for use
+          concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+          concept_label: PROVIDE
+          children:
+          - gloss: feature of those who provide for others
+            concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+            concept_label: GENEROUS
+            children:
+            - gloss: employ generously
+              concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+              concept_label: USE
+          - gloss: 'object: benefit provided'
+            concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+            concept_label: PROFIT
+    - gloss: bandy abroad one's strong points
+      concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+      concept_label: BOAST
+- reading: shì
+  old_chinese: lʰals
+  middle_chinese: ɕiɛ
+  fanqie: 施智切
+  tone: 去
+  guangyun: 易曰雲行雨施又式支切
+unattributed_senses:
+- concept_label: 施 yì 《集韻》以豉切，去寘，以。
+  children:
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+    children:
+    - gloss: in time
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+- concept_label: 施 yí 《集韻》：余支切。音移。
+  children:
+  - concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+    concept_label: SECRET
+- concept_label: 施 =弛 shǐ 《集韻》：賞是切。詩上聲。
+  children:
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T23:21:58.593+09:00'

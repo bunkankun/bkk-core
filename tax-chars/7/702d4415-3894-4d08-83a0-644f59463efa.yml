@@ -1,0 +1,43 @@
+uuid: 702d4415-3894-4d08-83a0-644f59463efa
+type: tax-char
+heads:
+- 肥
+pronunciations:
+- reading: féi
+  old_chinese: bul
+  middle_chinese: bʷɨi
+  fanqie: 符非切
+  tone: 平
+  guangyun: 肥腯説文曰多肉也亦姓左傳有肥義符非切十一
+  senses:
+  - concept_uuid: d1fe1333-ad06-4607-945c-1a9c64aba3ed
+    concept_label: FAT
+    children:
+    - gloss: size, clothes etc
+      concept_uuid: 4aa10180-a0c8-4bf2-9762-043bdbd2a4f4
+      concept_label: THICK
+      children:
+      - gloss: feature
+        concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+        concept_label: ROUGH
+      - gloss: generalised>ABUNDANT
+    - gloss: agricultural
+      concept_uuid: 4ba683a6-974f-4812-a94a-6b5ae8818e19
+      concept_label: FERTILE
+      children:
+      - gloss: generalised
+        concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+        concept_label: STRONG
+      - gloss: means to make fertile> FERTILISER
+        children:
+        - gloss: metaphorical
+          concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+          concept_label: BRIBE
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,93 @@
+uuid: aafb230c-23af-47a1-ae15-caa536ccf2bc
+type: tax-char
+heads:
+- 象
+pronunciations:
+- reading: xiàng
+  old_chinese: sɢlaŋʔ
+  middle_chinese: ziɐŋ
+  fanqie: 徐兩切
+  tone: 上
+  guangyun: 説文曰象長鼻牙南越大獸三季一乳象耳牙四足之形爾雅曰南方之美者有梁山之犀象
+  senses:
+  - concept_uuid: 4b43d802-eb0f-4769-a19c-79a1b90a34c2
+    concept_label: ELEPHANT
+    children:
+    - gloss: part
+      concept_uuid: e12c6df1-6102-4b32-9cea-f85e2cc7c881
+      concept_label: IVORY
+      children:
+      - gloss: 'exocentric: made of ivory'
+        concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+        concept_label: CUP
+      - gloss: using ivory
+        concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+        concept_label: DEPICT
+        children:
+        - gloss: mentally
+          concept_label: IMAGINE
+          children:
+          - gloss: abstract
+            concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+            concept_label: SHOW
+          - gloss: object
+            concept_uuid: 46face44-76d7-4747-8af1-cd7f34a82d11
+            concept_label: IDEA
+            children:
+            - gloss: political
+              concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+              concept_label: METHOD
+              children:
+              - gloss: administrative
+                concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+                concept_label: LAW
+                children:
+                - gloss: by law
+                  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+                  concept_label: GOVERN
+        - gloss: physical
+          concept_uuid: 6aa1a2d6-99fa-4e3d-8d14-24fbeb5dbaea
+          concept_label: PICTURE
+          children:
+          - gloss: metaphysical
+            concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+            concept_label: SYMBOL
+            children:
+            - gloss: prognostic
+              concept_uuid: 8f844d19-d2d4-4733-957f-e161496251e7
+              concept_label: OMEN
+          - gloss: 'abstract: two dimensional'
+            concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+            concept_label: SHAPE
+            children:
+            - gloss: generalised
+              concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+              concept_label: APPEARANCE
+              children:
+              - gloss: abstract
+                concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+                concept_label: FEATURE
+              - gloss: audio
+                concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+                concept_label: MUSIC
+          - concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+            concept_label: GEOMETRIC SHAPE
+        - gloss: 'abstract: objective'
+          concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+          concept_label: RESEMBLE
+          children:
+          - gloss: action
+            concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+            concept_label: CONFORM
+            children:
+            - gloss: objet person
+              concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+              concept_label: IMITATE
+              children:
+              - gloss: in different language
+                concept_uuid: a88a9039-f05e-4fe8-95e5-8492c81f8140
+                concept_label: TRANSLATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T21:41:59.318+09:00'

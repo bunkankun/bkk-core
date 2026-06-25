@@ -1,0 +1,75 @@
+uuid: e1d2c3c8-b18d-4c2c-8eab-cb1153119d8c
+type: tax-char
+heads:
+- 齒
+pronunciations:
+- reading: chǐ
+  old_chinese: khljɯʔ
+  middle_chinese: tɕʰɨ
+  fanqie: 昌里切
+  tone: 上
+  guangyun: 齒録也年也又牙齒昌里切二
+  senses:
+  - concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+    concept_label: TOOTH
+    children:
+    - gloss: 'of elephants: substance'
+      concept_uuid: e12c6df1-6102-4b32-9cea-f85e2cc7c881
+      concept_label: IVORY
+      children:
+      - gloss: exocentric> DICE
+    - gloss: 'metaphorical: sink one''s teeth into'
+      concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+      concept_label: DISCUSS
+      children:
+      - gloss: putative
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+    - gloss: related activity
+      concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+      concept_label: BITE
+      children:
+      - gloss: abstract, metaphorical
+        concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+        concept_label: ACCEPT
+      - gloss: abstract, metaphorical
+        concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+        concept_label: RESIST
+    - gloss: related activity
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+    - gloss: determine age by teeth
+      concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+      concept_label: ASSESS
+      children:
+      - gloss: judged by teeth
+        concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+        concept_label: AGE
+        children:
+        - gloss: generalised
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+          children:
+          - gloss: 'passive: get emplyed in rank'
+            concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+            concept_label: EMPLOY
+          - gloss: abstract
+            concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+            concept_label: CATEGORY
+            children:
+            - gloss: 'feature: same category'
+              concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+              concept_label: EQUAL
+              children:
+              - gloss: physicl
+                concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+                concept_label: STRAIGHT
+                children:
+                - gloss: causative
+                  concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+                  concept_label: ARRANGE
+  - gloss: 'modern, linguistic: dental'
+    concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+source:
+  source_file: taxchar.xml

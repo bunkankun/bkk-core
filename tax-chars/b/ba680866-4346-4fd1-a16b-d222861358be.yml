@@ -1,0 +1,65 @@
+uuid: ba680866-4346-4fd1-a16b-d222861358be
+type: tax-char
+heads:
+- 臨
+pronunciations:
+- reading: lín
+  old_chinese: b-rɯm
+  middle_chinese: lim
+  fanqie: 力尋切
+  tone: 平
+  guangyun: 莅也大也監也又姓後趙録有秦州刺史臨深也
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: resultative
+      concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+      concept_label: APPROACH
+      children:
+      - gloss: resulting feature
+        concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+        concept_label: NEAR
+      - gloss: causative:in form
+        concept_uuid: c72e5c63-f899-4f93-9b56-db7e30184ef7
+        concept_label: COPY
+      - gloss: linguistic
+        concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+        concept_label: ADDRESS
+      - gloss: hostile
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+        children:
+        - gloss: psychological
+          concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+          concept_label: THREATEN
+    - gloss: resultative
+      concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+      concept_label: ARRIVE
+      children:
+      - gloss: resultative
+        concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+        concept_label: ENCOUNTER
+      - gloss: so as to observe
+        concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+        concept_label: LOOK
+        children:
+        - gloss: so as to administrate
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+    - gloss: what one is going towards
+      concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+      concept_label: FUTURE
+- reading: lìn
+  old_chinese: b-rɯms
+  middle_chinese: lim
+  fanqie: 良鴆切
+  tone: 去
+  guangyun: 哭臨又偏向良鴆切又音林二
+  senses:
+  - concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+    concept_label: WEEP
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-29T00:30:58.689+09:00'

@@ -1,0 +1,25 @@
+uuid: 1463cf2c-95a6-43d0-8a16-2a1057dda618
+type: tax-char
+heads:
+- 棺
+pronunciations:
+- reading: guān
+  old_chinese: koon
+  middle_chinese: kʷɑn
+  fanqie: 古丸切
+  tone: 平
+  guangyun: 棺椁禮記曰有虞氏瓦棺夏后氏堲周殷人棺椁説文曰關也所以掩屍也
+  senses:
+  - concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+    concept_label: COFFIN
+- reading: guàn
+  old_chinese: koons
+  middle_chinese: kʷɑn
+  fanqie: 古玩切
+  tone: 去
+  guangyun: 殮屍又音官
+  senses:
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+source:
+  source_file: taxchar.xml

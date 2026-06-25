@@ -1,0 +1,55 @@
+uuid: 3ce12bbb-2a89-4f23-aef6-a960fb4f4ebd
+type: tax-char
+heads:
+- 眾
+pronunciations:
+- reading: zhòng
+  old_chinese: tjuŋs
+  middle_chinese: tɕiuŋ
+  fanqie: 之仲切
+  tone: 去
+  guangyun: 多也三人爲衆又姓左傳魯大夫衆仲之仲切又音終一
+  senses:
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+    children:
+    - gloss: like the many
+      concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+      concept_label: VULGAR
+    - gloss: incremental
+      concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+      concept_label: INCREASE
+  - gloss: exhaustive
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+    children:
+    - gloss: 'grammaticalised:'
+      concept_uuid: e3d9db5b-2c53-4e29-be60-5b415b6a29b8
+      concept_label: PLURAL PREFIXES
+    - gloss: subject
+      concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+      concept_label: CROWD
+      children:
+      - gloss: specific:military
+        concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+        concept_label: ARMY
+      - gloss: bureaucratic:of public emplyees
+        concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+        concept_label: OFFICIAL
+        children:
+        - gloss: buddhist
+          concept_uuid: df69e081-ccd2-424f-81cf-dc7c94dbf764
+          concept_label: MONK
+        - gloss: generalised
+          concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+          concept_label: WORKER
+      - gloss: general
+        concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+        concept_label: PEOPLE
+    - gloss: zhòng
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T01:28:03.976+09:00'

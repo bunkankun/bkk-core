@@ -1,0 +1,39 @@
+uuid: d4837f1b-17de-414c-ba58-49c4e15410a9
+type: tax-char
+heads:
+- 糾
+pronunciations:
+- reading: jiǔ
+  old_chinese: kriwʔ
+  middle_chinese: kɨu
+  fanqie: 居黝切
+  tone: 上
+  guangyun: 督也恭也急也戾也俗作糺居黝切四
+- reading: jiū
+  old_chinese: kiw
+  middle_chinese: kiu
+  fanqie: 居求切
+  tone: 平
+  senses:
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+  - concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+    concept_label: ROPE
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: CURVED
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

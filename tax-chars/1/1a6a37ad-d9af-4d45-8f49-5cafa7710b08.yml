@@ -1,0 +1,49 @@
+uuid: 1a6a37ad-d9af-4d45-8f49-5cafa7710b08
+type: tax-char
+heads:
+- 日
+pronunciations:
+- reading: rì
+  old_chinese: mljiɡ
+  middle_chinese: ȵit
+  fanqie: 人質切
+  tone: 入
+  guangyun: 説文曰實也太陽精不虧从口一象形人質切五
+  senses:
+  - concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+    concept_label: SUN
+    children:
+    - gloss: time characterised by sunrise and sunset
+      concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+      concept_label: DAY
+      children:
+      - gloss: part of the day
+        concept_uuid: 23374601-0e1f-4530-98fe-d16101c0875b
+        concept_label: DAYTIME
+      - gloss: more generally
+        concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+        concept_label: TIME
+        children:
+        - gloss: as time passes
+          concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+          concept_label: GRADUALLY
+        - gloss: delimited time
+          concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+          concept_label: PERIOD
+          children:
+          - gloss: imminent period
+            concept_uuid: 2e9534aa-fcf8-474a-acfd-29740e484009
+            concept_label: SOON
+          - gloss: bygone period
+            concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+            concept_label: PAST
+        - gloss: lasting time
+          concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+          concept_label: ENDURING
+      - gloss: specifically:auspicous day
+        concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+        concept_label: AUSPICIOUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-17T21:41:40.197+09:00'

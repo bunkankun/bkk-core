@@ -1,0 +1,32 @@
+uuid: dd612985-84a4-45a7-a443-067f15fec8c1
+type: tax-char
+heads:
+- 矣
+pronunciations:
+- reading: yǐ
+  old_chinese: ɢɯʔ
+  middle_chinese: ɦɨ
+  fanqie: 于紀切
+  tone: 上
+  guangyun: 説文云語巳詞也于紀切二
+unattributed_senses:
+- concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+  concept_label: MODAL PARTICLES
+  children:
+  - gloss: apodosis to conditional
+    concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+    children:
+    - gloss: counter to fact
+      concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+      concept_label: COUNTERFACTUAL
+    - gloss: temporal
+      concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+      concept_label: THEN
+  - gloss: temporal
+    concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+    concept_label: QUESTION PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T16:45:55.478+09:00'

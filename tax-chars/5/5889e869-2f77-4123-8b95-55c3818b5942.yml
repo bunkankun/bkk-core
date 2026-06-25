@@ -1,0 +1,55 @@
+uuid: 5889e869-2f77-4123-8b95-55c3818b5942
+type: tax-char
+heads:
+- 玉
+pronunciations:
+- reading: yù
+  old_chinese: ŋɡoɡ
+  middle_chinese: ŋiok
+  fanqie: 魚欲切
+  tone: 入
+  guangyun: 白虎通曰玉者象君子之德燥不輕濕不重是以君子寶之禮記曰執玉不趜又烈火燒之不熱者眞玉也説文本作王隷加㸃以别王字魚欲切四
+  senses:
+  - concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+    children:
+    - gloss: generalised
+      concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+      concept_label: STONE
+    - gloss: with purpose
+      concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+      concept_label: ORNAMENT
+    - gloss: used to make music
+      concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+      concept_label: MUSICAL INSTRUMENT
+    - gloss: jade-coloured
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+      children:
+      - gloss: hence attractive and dignified
+        concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+        concept_label: BEAUTIFUL
+        children:
+        - gloss: show pragmatic respect for
+          concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+          concept_label: CARE FOR
+        - gloss: generally
+          concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+          concept_label: EXCELLENT
+          children:
+          - gloss: 'figurative: supreme inner beauty'
+            concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+            concept_label: VIRTUE
+          - gloss: in a divine mode
+            concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+            concept_label: SUPERNATURAL
+          - gloss: your (beautiful)
+            concept_label: YOUR
+            children:
+            - gloss: pseudo-grammaticalised
+              concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+              concept_label: YOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T17:59:25.884+09:00'

@@ -1,0 +1,32 @@
+uuid: 7904634c-fd91-47ce-a72f-5dd8dc01e60a
+type: tax-char
+heads:
+- 獸
+pronunciations:
+- reading: shòu
+  old_chinese: qjus
+  middle_chinese: ɕiu
+  fanqie: 舒救切
+  tone: 去
+  guangyun: 説文曰守備者周禮曰獸人掌罟田獸辨其物名字林曰兩足曰禽四足曰獸
+  senses:
+  - concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+    concept_label: BEAST
+    children:
+    - gloss: feature
+      concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+      concept_label: SEVERE
+    - gloss: specific
+      concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+      concept_label: DOMESTIC ANIMAL
+      children:
+      - gloss: part of
+        concept_uuid: 4e54c8b0-a7c5-4b06-b215-6b928be209df
+        concept_label: DRIED MEAT
+  - concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+    concept_label: TABOO
+  - gloss: =狩
+    concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+    concept_label: HUNT
+source:
+  source_file: taxchar.xml

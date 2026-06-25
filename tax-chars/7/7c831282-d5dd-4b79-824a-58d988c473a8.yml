@@ -1,0 +1,34 @@
+uuid: 7c831282-d5dd-4b79-824a-58d988c473a8
+type: tax-char
+heads:
+- 狎
+pronunciations:
+- reading: xiá
+  old_chinese: ɡraab
+  middle_chinese: ɦɯap
+  fanqie: 胡甲切
+  tone: 入
+  guangyun: 習也説文曰犬可習也胡甲切十一
+  senses:
+  - concept_uuid: 05e4ccf2-ad7c-48f1-bcc1-ebc372b3a0e0
+    concept_label: ADULTERY
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+    concept_label: HABIT
+  - concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+    concept_label: INTIMATE
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+    concept_label: PLAY
+  - concept_uuid: a0dd511b-e11d-4d07-8383-7ac7069b782c
+    concept_label: TAME
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+source:
+  source_file: taxchar.xml

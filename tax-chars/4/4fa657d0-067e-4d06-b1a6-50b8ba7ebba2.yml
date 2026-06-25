@@ -1,0 +1,103 @@
+uuid: 4fa657d0-067e-4d06-b1a6-50b8ba7ebba2
+type: tax-char
+heads:
+- 反
+pronunciations:
+- reading: fǎn
+  old_chinese: panʔ
+  middle_chinese: pʷiɐn
+  fanqie: 府遠切
+  tone: 上
+  guangyun: 反覆又不順也府逺切六
+  senses:
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+    children:
+    - gloss: in action
+      concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+      concept_label: REPEAT
+      children:
+      - gloss: 'figurative: so as to focus on'
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+      - gloss: 'the establishment of: reestablish'
+        concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+        concept_label: ESTABLISH
+      - gloss: 'the getting of: get back'
+        concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+        concept_label: OBTAIN
+      - gloss: 'grammatiacalised: in turn'
+        concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+        concept_label: ALSO
+        children:
+        - gloss: 'connective: for natural reasons also in turn'
+          concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+          concept_label: THEREFORE
+    - gloss: one's body
+      concept_uuid: 50d39b76-3946-438d-98e5-b2b1599be8eb
+      concept_label: TURN BACK
+    - gloss: =返 movement
+      concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+      concept_label: RETURN
+      children:
+      - gloss: causative
+        concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+        concept_label: GIVE BACK
+        children:
+        - gloss: linguistic
+          concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+          concept_label: ANSWER
+    - gloss: 'figurative: political'
+      concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+      concept_label: REVOLT
+      children:
+      - gloss: logical
+        concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+        concept_label: CONTRARY
+      - gloss: intellectually and politically
+        concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+        concept_label: OPPOSE
+        children:
+        - gloss: militarily
+          concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+          concept_label: ATTACK
+          children:
+          - gloss: in reaction to injustice
+            concept_uuid: 5ad2c08a-e2f2-45a1-a30b-798f3f183771
+            concept_label: REVENGE
+        - gloss: 'transitive: against what is right'
+          concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+          concept_label: OFFEND
+          children:
+          - gloss: typical reaction
+            concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+            concept_label: BLAME
+          - gloss: offending morally
+            concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+            concept_label: WICKED
+          - gloss: offend against and get wrong
+            concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+            concept_label: MISTAKE
+          - gloss: patently and logically
+            concept_uuid: 175d5264-4103-49d7-8bd3-a0d40b1ee93f
+            concept_label: ABSURD
+        - gloss: generalised
+          concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+          concept_label: CHANGE
+    - gloss: 'exocentric: tongue-turning strangers'
+      concept_uuid: b395c4c7-2b4a-4ea7-b418-05b315260940
+      concept_label: FOREIGNER
+- reading: fān
+  old_chinese: phan
+  middle_chinese: pʰʷiɐn
+  fanqie: 孚袁切
+  tone: 平
+  guangyun: 斷獄平反又方晚切
+  senses:
+  - gloss: reverse a verdict
+    concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-01T22:02:52.373+09:00'

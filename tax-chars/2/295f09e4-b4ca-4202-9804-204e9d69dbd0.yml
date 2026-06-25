@@ -1,0 +1,60 @@
+uuid: 295f09e4-b4ca-4202-9804-204e9d69dbd0
+type: tax-char
+heads:
+- 冒
+pronunciations:
+- reading: mò
+  old_chinese: mɯɯɡ
+  middle_chinese: mək
+  fanqie: 莫北切
+  tone: 入
+  guangyun: 干也又莫報切
+- reading: mào
+  old_chinese: muuɡs
+  middle_chinese: mɑu
+  fanqie: 莫報切
+  tone: 去
+  guangyun: 覆也渉也又莫北切
+  senses:
+  - concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+    concept_label: BLIND
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+    concept_label: EAGER
+  - concept_uuid: 36e1fa8e-0596-4eed-a000-dfae2593bf0f
+    concept_label: RISK
+  - concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+    concept_label: HAT
+  - concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+    concept_label: CONTAIN
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+    concept_label: PRETEND
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 懋
+  - gloss: = 媢
+  - gloss: = 瑁
+  - gloss: = 芼
+source:
+  source_file: taxchar.xml

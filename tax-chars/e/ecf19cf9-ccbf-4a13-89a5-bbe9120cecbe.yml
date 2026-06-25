@@ -1,0 +1,60 @@
+uuid: ecf19cf9-ccbf-4a13-89a5-bbe9120cecbe
+type: tax-char
+heads:
+- 洞
+pronunciations:
+- reading: dòng
+  old_chinese: looŋs
+  middle_chinese: duŋ
+  fanqie: 徒弄切
+  tone: 去
+  guangyun: 空也又洞庭湖徒弄切十六
+  senses:
+  - concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+    concept_label: CAVE
+    children:
+    - gloss: generalised
+      concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+      concept_label: HOLE
+      children:
+      - gloss: specific
+        concept_uuid: 21e54e28-946b-4cd7-9293-c8784a3174c7
+        concept_label: TRAP
+      - gloss: feature
+        concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+        concept_label: EMPTY
+      - gloss: feature
+        concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+        concept_label: DEEP
+        children:
+        - gloss: 'process: enter deeply everywhere'
+          concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+          concept_label: SOAK
+        - gloss: 'abstract: enter deeply'
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+      - gloss: 'specific: long, with water'
+        concept_uuid: f1da6b37-4037-41ad-b913-fe8f357b0c8f
+        concept_label: CHANNEL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =通
+    concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+    children:
+    - concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+      concept_label: PIERCE
+    - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+      concept_label: CLEAR
+    - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+- reading: tóng
+  old_chinese: looŋ
+  middle_chinese: duŋ
+  fanqie: 徒紅切
+  tone: 平
+  guangyun: 洪洞縣名在晉州北又徒弄切
+source:
+  source_file: taxchar.xml

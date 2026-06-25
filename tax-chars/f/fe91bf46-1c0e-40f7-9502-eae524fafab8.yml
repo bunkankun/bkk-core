@@ -1,0 +1,43 @@
+uuid: fe91bf46-1c0e-40f7-9502-eae524fafab8
+type: tax-char
+heads:
+- 辛
+pronunciations:
+- reading: xīn
+  old_chinese: siŋ
+  middle_chinese: sin
+  fanqie: 息鄰切
+  tone: 平
+  guangyun: 薑味也爾雅云太歳在辛曰重光又姓夏啓封支子于莘莘辛聲相近遂爲辛氏漢初辛蒲爲趙魏名將及徙家隴西便爲隴西人
+  senses:
+  - concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+    concept_label: BITTER
+    children:
+    - gloss: metaphorical
+      concept_uuid: 1babfc6a-dc73-4072-bb8a-21a58f671735
+      concept_label: PAIN
+      children:
+      - gloss: moral
+        concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+        concept_label: GUILT
+      - gloss: psychological
+        concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+        concept_label: DISTRESS
+        children:
+        - gloss: emotional
+          concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+          concept_label: SAD
+      - gloss: active
+        concept_uuid: 2f844934-733e-4e0c-90df-5369a0338e96
+        concept_label: LABOUR
+  - concept_uuid: 404b2560-53b6-4de7-a4b9-5221cb83c7c1
+    concept_label: HEAVENLY STEM
+  - concept_uuid: bc7523b9-775e-48b5-b5df-e623f5ef5c27
+    concept_label: DATE
+  - concept_uuid: 63819416-bf1d-4c8c-8539-3fc438eff159
+    concept_label: RULERS OF SHANG
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =新
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,32 @@
+uuid: 64fdab80-1b61-4bd2-a5c8-6b1023fdfb28
+type: tax-char
+heads:
+- 秩
+pronunciations:
+- reading: zhì
+  old_chinese: rliɡ
+  middle_chinese: ɖɯit
+  fanqie: 直一切
+  tone: 入
+  guangyun: 積也次也常也序也書曰望秩于山川直一切十二
+  senses:
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+    concept_label: SALARY
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+    concept_label: RICE
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+source:
+  source_file: taxchar.xml

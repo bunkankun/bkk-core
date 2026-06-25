@@ -1,0 +1,50 @@
+uuid: 27f9cb38-baef-436c-9304-9b3165a90c45
+type: tax-char
+heads:
+- 跳
+pronunciations:
+- reading: tiào
+  old_chinese: kh-leews
+  middle_chinese: tʰeu
+  fanqie: 他弔切
+  tone: 去
+  senses:
+  - concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+    concept_label: ACROBATICS
+  - concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+    concept_label: WIELD
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: THROW
+  - concept_uuid: 334b6662-31c2-493c-944f-1bb1c348515c
+    concept_label: BRIDGE
+  - concept_uuid: 0c041d2e-837a-4478-ae96-915ba0e88157
+    concept_label: LAME
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: ea2d80c3-c4f5-44c0-be8a-6034a2415e2e
+    concept_label: LAYER
+  - concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+    concept_label: LEAP OVER
+  - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+  - gloss: DEVASTATE
+- reading: tiào
+  old_chinese: kh-leews
+  middle_chinese: tʰeu
+  fanqie: 他弔切
+  tone: 去
+  guangyun: 越也
+- reading: tiáo
+  old_chinese: ɡ-leew
+  middle_chinese: deu
+  fanqie: 徒聊切
+  tone: 平
+  guangyun: 躍也
+source:
+  source_file: taxchar.xml

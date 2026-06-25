@@ -1,0 +1,80 @@
+uuid: 69d509c9-47a8-4253-8a13-597f79bc1452
+type: tax-char
+heads:
+- 好
+pronunciations:
+- reading: hǎo
+  old_chinese: qhuuʔ
+  middle_chinese: hɑu
+  fanqie: 呼晧切
+  tone: 上
+  guangyun: 善也美也呼晧切又呼号切二
+- reading: hào
+  old_chinese: qhuus
+  middle_chinese: hɑu
+  fanqie: 呼到切
+  tone: 去
+  guangyun: 愛好亦壁孔也見周禮又姓出纂文又呼老切
+unattributed_senses:
+- gloss: aesthetic
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  concept_label: BEAUTIFUL
+  children:
+  - gloss: generalised
+    concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+    children:
+    - gloss: socially:someone felt to be good
+      concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+      concept_label: FRIEND
+    - gloss: practical
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+      children:
+      - gloss: enclitic, perfective
+        concept_uuid: 75bddb10-6c2f-4e54-828b-30e1175f7540
+        concept_label: VERBAL SUFFIX
+      - gloss: 'adverbial:'
+        concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+        concept_label: DILIGENT
+      - gloss: for a purpose
+        concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+        concept_label: APPROPRIATE
+        children:
+        - gloss: for convenient enactment
+          concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+          concept_label: EASY
+        - gloss: 'grammaticalised:'
+          concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+          concept_label: IMPERATIVE MARKER
+- gloss: psychological
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  concept_label: LIKE
+  children:
+  - gloss: object superior
+    concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+    concept_label: ADMIRE
+  - gloss: comparative:like better
+    concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+    concept_label: PREFER
+    children:
+    - gloss: intensely
+      concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+      concept_label: LOVE
+  - gloss: 'marked derivation: putative'
+    concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+    children:
+    - gloss: abstract
+      concept_uuid: ed636f99-e1ef-4ace-a961-1bed7ed93df6
+      concept_label: TENDENCY
+      children:
+      - gloss: active:be prone to
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+      - gloss: grammaticalised
+        concept_label: PROBABLY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-26T21:05:27.163+09:00'

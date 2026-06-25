@@ -1,0 +1,59 @@
+uuid: 9af02abe-308f-483b-9118-0b63dc2ed337
+type: tax-char
+heads:
+- 教
+pronunciations:
+- reading: jiào
+  old_chinese: kruus
+  middle_chinese: kɯau
+  fanqie: 古孝切
+  tone: 去
+  guangyun: 敎訓也又法也語也元命包云天垂文象人行其事謂之敎敎之爲言傚也古孝切十一
+  senses:
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+    children:
+    - gloss: object
+      concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+      concept_label: DOCTRINE
+      children:
+      - gloss: communal
+        concept_uuid: aa9eef6d-9d7d-4788-bcee-254ac1495a99
+        concept_label: RELIGION
+    - gloss: performative
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+      children:
+      - gloss: generalise
+        concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+        concept_label: ORDER
+        children:
+        - gloss: continuative
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+          children:
+          - gloss: with words
+            concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+            concept_label: ADVISE
+            children:
+            - gloss: permissive
+              concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+              concept_label: PERMIT
+  - concept_uuid: eb01e2d1-dbec-451e-9458-f57a7950f1c7
+    concept_label: BUDDHIST SCHOOLS
+  - gloss: (probably to be read jiao1)
+    concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - gloss: (probably to be read jiao1)
+    concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+- reading: jiāo
+  old_chinese: kruu
+  middle_chinese: kɯau
+  fanqie: 古肴切
+  tone: 平
+  guangyun: 效也又古孝切
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T03:39:25.632+09:00'

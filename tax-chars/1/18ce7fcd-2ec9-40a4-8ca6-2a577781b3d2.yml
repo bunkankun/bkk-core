@@ -1,0 +1,34 @@
+uuid: 18ce7fcd-2ec9-40a4-8ca6-2a577781b3d2
+type: tax-char
+heads:
+- 仗
+pronunciations:
+- reading: zhàng
+  old_chinese: daŋs
+  middle_chinese: ɖiɐŋ
+  fanqie: 直亮切
+  tone: 去
+  guangyun: 器仗也又持也直亮切三
+- reading: zhàng
+  old_chinese: daŋʔ
+  middle_chinese: ɖiɐŋ
+  fanqie: 直兩切
+  tone: 上
+  guangyun: 憑仗本又音去聲
+  senses:
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+    concept_label: LEAN ON
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: 14dd3c10-229c-4587-97a2-f16c5cfe9439
+    concept_label: INSIGNIA
+  - concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+    concept_label: FIGHT
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+source:
+  source_file: taxchar.xml

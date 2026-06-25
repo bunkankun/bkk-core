@@ -1,0 +1,43 @@
+uuid: 3845bc0d-e1be-4cb0-8fa2-a0c015272230
+type: tax-char
+heads:
+- 禽
+pronunciations:
+- reading: qín
+  old_chinese: ɡrɯm
+  middle_chinese: ɡɯim
+  fanqie: 巨金切
+  tone: 平
+  guangyun: 二足而羽者曰禽又姓髙士傳有禽慶
+  senses:
+  - concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+    concept_label: BIRD
+    children:
+    - gloss: generalised
+      concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+      concept_label: BEAST
+      children:
+      - gloss: typical action
+        concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+        concept_label: HUNT
+        children:
+        - gloss: generalised
+          concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+          concept_label: ARREST
+          children:
+          - gloss: generalised
+            concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+            concept_label: TAKE
+            children:
+            - gloss: in competition
+              concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+              concept_label: WIN
+              children:
+              - gloss: resultative
+                concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+                concept_label: DESTROY
+  - concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+    concept_label: ARISTOCRATS OF LU
+  - gloss: =擒
+source:
+  source_file: taxchar.xml

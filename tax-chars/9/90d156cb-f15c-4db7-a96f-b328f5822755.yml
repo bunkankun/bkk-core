@@ -1,0 +1,99 @@
+uuid: 90d156cb-f15c-4db7-a96f-b328f5822755
+type: tax-char
+heads:
+- 節
+pronunciations:
+- reading: jié
+  old_chinese: tsiiɡ
+  middle_chinese: tset
+  fanqie: 子結切
+  tone: 入
+  guangyun: 操也制也止也驗也説文曰竹約也子結切十三
+  senses:
+  - concept_uuid: 0ce03f44-e4ce-4806-a609-08af7f8d01e0
+    concept_label: JOINT
+    children:
+    - gloss: figurative, rare:part of pillar
+      concept_uuid: 8d2be249-549f-4e58-9d8e-eacd6ea6d98b
+      concept_label: PILLAR CAPITAL
+    - gloss: 'specific: bamboo clappers with a joint> MUSICAL'
+      concept_label: INSTRUMENTS
+    - gloss: jié
+      concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+      concept_label: MUSICAL INSTRUMENT
+    - gloss: generalised
+      concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+      concept_label: PART
+      children:
+      - gloss: crucial part of reality, critical point
+        concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+        concept_label: EVENT
+      - gloss: symbol of social event
+        concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+        concept_label: TALLY
+        children:
+        - gloss: social status
+          concept_uuid: 14dd3c10-229c-4587-97a2-f16c5cfe9439
+          concept_label: INSIGNIA
+          children:
+          - gloss: military allegiance
+            concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+            concept_label: BANNER
+      - gloss: abstract:time
+        concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+        concept_label: PERIOD
+        children:
+        - gloss: of year
+          concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+          concept_label: SEASON
+          children:
+          - gloss: for celebration
+            concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+            concept_label: FEAST
+    - gloss: action
+      concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+      concept_label: RESTRAIN
+      children:
+      - gloss: systematic
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: 'object: human action'
+          concept_uuid: 2436aef8-742c-4faa-a4af-f5fb085ae189
+          concept_label: MODERATION
+          children:
+          - gloss: moral
+            concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+            concept_label: DECENT
+            children:
+            - gloss: economic
+              concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+              concept_label: FRUGAL
+            - gloss: sexual
+              concept_uuid: 3e622b02-8454-49fb-9e3b-c40d779c06bf
+              concept_label: CHASTE
+          - gloss: generalized
+            concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+            concept_label: RULE
+            children:
+            - gloss: abstract:accepted
+              concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+              concept_label: STANDARD
+              children:
+              - gloss: abstract:moral
+                concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+                concept_label: VIRTUE
+                children:
+                - gloss: specific
+                  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+                  concept_label: COURAGE
+            - gloss: musical, regular
+              concept_uuid: bb1012b5-797b-46a2-a1b5-5215db623780
+              concept_label: RHYTHM
+        - gloss: level of administrative
+          concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+          concept_label: RANK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T02:15:01.83+09:00'

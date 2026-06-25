@@ -1,0 +1,42 @@
+uuid: 25963208-13c6-4185-8919-14a1d21f087f
+type: tax-char
+heads:
+- 諸
+pronunciations:
+- reading: zhē
+  old_chinese: klja
+  middle_chinese: tɕia
+  fanqie: 正奢切
+  tone: 平
+  guangyun: 姓也漢有洛陽令諸於何氏姓苑云吴人又職余切
+- reading: zhū
+  old_chinese: klja
+  middle_chinese: tɕiɔ
+  fanqie: 章魚切
+  tone: 平
+  guangyun: 之也旃也辯也非一也又姓漢有洛陽令諸於岀風俗通又漢複姓有諸葛氏吴書曰其先葛氏本琅邪諸縣人徙陽都先姓葛時人謂徙居者爲諸葛氏因爲氏焉風俗通云葛嬰爲陳渉將有功而誅孝文追録封諸縣侯因并氏焉章魚切七
+  senses:
+  - gloss: of a set
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+    children:
+    - gloss: plural
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+      children:
+      - gloss: grammaticalised
+        concept_uuid: e3d9db5b-2c53-4e29-be60-5b415b6a29b8
+        concept_label: PLURAL PREFIXES
+  - gloss: contraction of 之 and 乎
+    concept_uuid: c1654743-3e55-4188-816b-511da251682f
+    concept_label: PRONOUN
+  - gloss: onomatopoeic
+    concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+    concept_label: EXCLAMATORY PARTICLE
+  - gloss: =?
+    concept_uuid: c6de422f-347d-4380-abeb-62a79d73cef8
+    concept_label: JACKET
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T00:51:39.442+09:00'

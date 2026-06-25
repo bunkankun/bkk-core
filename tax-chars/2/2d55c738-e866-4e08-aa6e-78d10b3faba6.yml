@@ -1,0 +1,25 @@
+uuid: 2d55c738-e866-4e08-aa6e-78d10b3faba6
+type: tax-char
+heads:
+- 鳳
+pronunciations:
+- reading: fèng
+  old_chinese: blums
+  middle_chinese: biuŋ
+  fanqie: 馮貢切
+  tone: 去
+  guangyun: 爾雅曰鶠鳯其雌皇郭璞云瑞應鳥雞頭蛇頸燕頷龜背魚尾五彩色髙六尺許孔演圖曰鳯爲火精説文曰神鳥也亦州在秦隴西郡地漢改雍州爲涼州魏其地没蜀蜀平屬雍州本自白馬玄羌所居晉爲仇池國後魏置固道郡又爲南𡵨州又改爲鳳州馮貢切二
+  senses:
+  - concept_uuid: e1ece3e9-9dad-4c59-9233-8ca3616ca2a8
+    concept_label: PHENIX
+    children:
+    - gloss: feature> LUCKY
+    - gloss: feature
+      concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+      children:
+      - gloss: 'hence: feature'
+        concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+        concept_label: WISE
+source:
+  source_file: taxchar.xml

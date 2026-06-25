@@ -1,0 +1,71 @@
+uuid: 216d25a2-6682-4477-a1ca-f5160557035c
+type: tax-char
+heads:
+- 急
+pronunciations:
+- reading: jí
+  old_chinese: krɯb
+  middle_chinese: kɯip
+  fanqie: 居立切
+  tone: 入
+  guangyun: 急疾説文作㤂褊也居立切十一
+  senses:
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+    children:
+    - gloss: practical
+      concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+      concept_label: NEED
+      children:
+      - gloss: intellectual
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+      - gloss: coming first in action
+        concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+        concept_label: FIRST
+    - gloss: 'feature: positive'
+      concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+      concept_label: EAGER
+      children:
+      - gloss: 'feature: strongly, violently'
+        concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+        concept_label: ENERGY
+        children:
+        - gloss: attitude
+          concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+          concept_label: SEVERE
+      - gloss: causative
+        concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+        concept_label: ENCOURAGE
+        children:
+        - gloss: effective
+          concept_uuid: 48d327c2-dd93-4300-aecc-044eb8389095
+          concept_label: COMPEL
+    - gloss: 'generalised: physical'
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+    - gloss: psychological
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+      children:
+      - gloss: 'grammaticalised: psychogical intensity'
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: 'feature: practical'
+          concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+          concept_label: URGENT
+          children:
+          - gloss: object> what one worries much about as being urgent
+            concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+            concept_label: DANGER
+            children:
+            - gloss: 'potential: acute difficulty'
+              concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+              concept_label: PROBLEM
+              children:
+              - gloss: 'negative: present'
+                concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+                concept_label: DISASTER
+source:
+  source_file: taxchar.xml

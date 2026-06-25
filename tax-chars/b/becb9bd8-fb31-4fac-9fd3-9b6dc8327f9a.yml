@@ -1,0 +1,36 @@
+uuid: becb9bd8-fb31-4fac-9fd3-9b6dc8327f9a
+type: tax-char
+heads:
+- 稷
+pronunciations:
+- reading: jì
+  old_chinese: tsɯɡ
+  middle_chinese: tsɨk
+  fanqie: 子力切
+  tone: 入
+  guangyun: 五穀之揔名一曰黍屬周禮注云社稷土穀之神有德者配食焉共工氏之子曰句龍食於社有厲山氏之子曰柱食於稷湯遷之而祀棄俗作稷亦姓后稷之後
+  senses:
+  - concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+    concept_label: AGRICULTURE
+  - concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+  - concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+    concept_label: MILLET
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 29330eb2-85fb-4157-9608-12f41767cacd
+    concept_label: PERSONAL NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

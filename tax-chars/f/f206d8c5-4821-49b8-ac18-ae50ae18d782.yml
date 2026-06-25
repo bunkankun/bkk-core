@@ -1,0 +1,55 @@
+uuid: f206d8c5-4821-49b8-ac18-ae50ae18d782
+type: tax-char
+heads:
+- 輕
+pronunciations:
+- reading: qīng
+  old_chinese: kheŋ
+  middle_chinese: kʰiɛŋ
+  senses:
+  - concept_uuid: 226f4376-14e2-466d-83ba-54e4e996002b
+    concept_label: LIGHTWEIGHT
+    children:
+    - gloss: physical
+      concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+      concept_label: WEAK
+      children:
+      - gloss: abstract
+        concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+        concept_label: UNIMPORTANT
+      - gloss: attitudinal
+        concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+        concept_label: DESPISE
+      - gloss: declarative
+        concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+        concept_label: FORGIVE
+        children:
+        - gloss: psychological
+          concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+          concept_label: FRIVOLOUS
+          children:
+          - gloss: 'exocentric: joy'
+            concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+            concept_label: DELIGHT
+    - gloss: economic
+      concept_uuid: 1f07ab5a-cffd-4ab0-8f20-4ed59626143e
+      concept_label: CHEAP
+    - gloss: practically
+      concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+      concept_label: EASY
+    - gloss: capable of moving fast
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+    - gloss: 'exocentric: vehicle'
+      concept_uuid: aa638007-598c-48fe-a8bf-c2100b6cd8f3
+      concept_label: CHARIOT
+- reading: qìng
+  old_chinese: kheŋs
+  middle_chinese: kʰiɛŋ
+  senses:
+  - concept_uuid: 1f07ab5a-cffd-4ab0-8f20-4ed59626143e
+    concept_label: CHEAP
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T01:52:17.945+09:00'

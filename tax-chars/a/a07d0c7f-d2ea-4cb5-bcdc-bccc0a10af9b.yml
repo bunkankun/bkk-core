@@ -1,0 +1,23 @@
+uuid: a07d0c7f-d2ea-4cb5-bcdc-bccc0a10af9b
+type: tax-char
+heads:
+- 李
+pronunciations:
+- reading: lǐ
+  old_chinese: ɡ-rɯʔ
+  middle_chinese: lɨ
+  fanqie: 良士切
+  tone: 上
+  guangyun: 果名亦行李又姓風俗通云李伯陽之後出隴西趙郡頓丘渤海中山襄城江夏梓潼范陽廣漢梁國南陽十二望
+  senses:
+  - gloss: TREE, KINDS
+    children:
+    - gloss: of that tree
+      concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+      concept_label: FRUIT
+  - gloss: legal
+    concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - gloss: =理
+source:
+  source_file: taxchar.xml

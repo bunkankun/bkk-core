@@ -1,0 +1,33 @@
+uuid: 0076802a-13f0-4a75-a3a8-4daa8b4852c1
+type: tax-char
+heads:
+- 送
+pronunciations:
+- reading: sòng
+  old_chinese: sooŋs
+  middle_chinese: suŋ
+  fanqie: 蘇弄切
+  tone: 去
+  guangyun: 遣也蘇弄切三
+  senses:
+  - gloss: general
+    concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+    children:
+    - gloss: concrete
+      concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+      concept_label: SHOOT
+    - gloss: as gift
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+  - gloss: generalised
+    concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+    concept_label: FAREWELL
+    children:
+    - gloss: ritualised
+      concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+      concept_label: ACCOMPANY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-03T01:40:50.442+09:00'

@@ -1,0 +1,48 @@
+uuid: ffd885d0-a336-4030-9e03-768342cafd9f
+type: tax-char
+heads:
+- 迎
+pronunciations:
+- reading: yíng
+  old_chinese: ŋɡraŋ
+  middle_chinese: ŋɯiaŋ
+  fanqie: 語京切
+  tone: 平
+  guangyun: 逢也語京切一
+  senses:
+  - concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+    children:
+    - gloss: grammaticalised
+      concept_uuid: c34032bb-930c-4b72-82b9-92a4483b88f1
+      concept_label: FORWARD
+      children:
+      - gloss: mentally
+        concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+        concept_label: GUESS
+    - gloss: causative
+      concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+      concept_label: RECOMMEND
+    - gloss: to battle
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: take military initiative
+        concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+        concept_label: ATTACK
+        children:
+        - gloss: counter
+          concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+          concept_label: OPPOSE
+- reading: yìng
+  old_chinese: ŋɡraŋs
+  middle_chinese: ŋɯiaŋ
+  fanqie: 魚敬切
+  tone: 去
+  guangyun: 迓也魚敬切一
+  senses:
+  - gloss: (welcoming visitors)
+    concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+source:
+  source_file: taxchar.xml

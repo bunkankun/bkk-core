@@ -1,0 +1,23 @@
+uuid: 3aba0a78-4588-42b8-97e0-b9b6585a8bae
+type: tax-char
+heads:
+- 浴
+pronunciations:
+- reading: yù
+  old_chinese: k-loɡ
+  middle_chinese: jiok
+  fanqie: 余蜀切
+  tone: 入
+  guangyun: 洗浴説文曰洒身也洒先禮切
+  senses:
+  - concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+    concept_label: BATHE
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: NAMES
+source:
+  source_file: taxchar.xml

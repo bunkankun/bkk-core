@@ -1,0 +1,30 @@
+uuid: 23b69ce6-f3c6-42f9-bd2f-85830d9f44d5
+type: tax-char
+heads:
+- 山
+pronunciations:
+- reading: shān
+  old_chinese: sreen
+  middle_chinese: ʃɯæn
+  fanqie: 所閒切
+  tone: 平
+  guangyun: 廣雅曰山産也能産萬物説文曰山宣也宣气𢿱生萬物又姓周有山師之官掌山林後以官爲氏或云古烈山氏之後望出河内所間切三
+  senses:
+  - gloss: elevated terrain
+    concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+    children:
+    - gloss: artificial burial mound
+      concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+      concept_label: TOMB
+unattributed_senses:
+- gloss: pronominal use
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  concept_label: YOU
+- gloss: personal name
+  concept_uuid: 9c34821d-5c94-4128-96d8-9a46f9471f92
+  concept_label: ZEN MONKS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-23T18:37:41.963+09:00'

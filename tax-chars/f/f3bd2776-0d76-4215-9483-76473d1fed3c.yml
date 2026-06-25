@@ -1,0 +1,58 @@
+uuid: f3bd2776-0d76-4215-9483-76473d1fed3c
+type: tax-char
+heads:
+- 計
+pronunciations:
+- reading: jì
+  old_chinese: kiis
+  middle_chinese: kei
+  fanqie: 古詣切
+  tone: 去
+  guangyun: 籌計説文㑹也筭也又姓後漢有計子勲古詣切十二
+  senses:
+  - concept_uuid: 1a945368-8fe0-42d1-8db9-05b2781e1056
+    concept_label: COUNT
+    children:
+    - gloss: mathematical
+      concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+      concept_label: CALCULATE
+    - gloss: informally and approximately
+      concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+      concept_label: ASSESS
+      children:
+      - gloss: on insufficient grounds
+        concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+        concept_label: GUESS
+      - gloss: generalised
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: about future
+          concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+          concept_label: PLAN
+          children:
+          - gloss: illegitimately
+            concept_uuid: cd999993-9ade-41a9-8786-2cc075afaa5c
+            concept_label: PLOT
+      - gloss: on the basis of study
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+    - gloss: economic
+      concept_uuid: 00c867e2-c6ae-4429-82a2-6b33599f873d
+      concept_label: ACCOUNTANCY
+      children:
+      - gloss: accounts
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+      - gloss: accountant
+        concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+        concept_label: OFFICIAL
+      - gloss: what accountancy lists
+        concept_uuid: adb5c10b-f78f-44d4-a280-b14e7ff2e3fc
+        concept_label: ASSET
+        children:
+        - gloss: incrase
+          concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+          concept_label: PROFIT
+source:
+  source_file: taxchar.xml

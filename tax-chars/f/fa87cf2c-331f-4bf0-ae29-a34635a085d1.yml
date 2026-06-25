@@ -1,0 +1,30 @@
+uuid: fa87cf2c-331f-4bf0-ae29-a34635a085d1
+type: tax-char
+heads:
+- 媚
+pronunciations:
+- reading: mèi
+  old_chinese: mrils
+  middle_chinese: mɯi
+  fanqie: 明祕切
+  tone: 去
+  guangyun: 嫵媚
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+    concept_label: FLATTER
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+    concept_label: SEXY
+  - concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+    concept_label: LIKE
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

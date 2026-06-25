@@ -1,0 +1,25 @@
+uuid: 11ccef4e-8623-4dca-90d4-11c5a4c31ecc
+type: tax-char
+heads:
+- 澗
+pronunciations:
+- reading: jiàn
+  old_chinese: ɡʷraaŋ
+  middle_chinese: ʔʷiɑ
+  fanqie: 居莧切
+  tone: 去
+- reading: jiàn
+  old_chinese: kraans
+  middle_chinese: kɯan
+  fanqie: 古晏切
+  tone: 去
+  guangyun: 溝澗爾雅曰山夾水澗亦作磵𡼏
+  senses:
+  - concept_uuid: 347a5e50-8487-48e3-a9da-281cf332d42e
+    concept_label: MOUNTAIN BROOK
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

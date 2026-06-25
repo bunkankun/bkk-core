@@ -1,0 +1,45 @@
+uuid: 1b8720e2-6c27-4970-9dd1-9130028fa012
+type: tax-char
+heads:
+- 弱
+pronunciations:
+- reading: ruò
+  old_chinese: njewɡ
+  middle_chinese: ȵiɐk
+  fanqie: 而灼切
+  tone: 入
+  guangyun: 劣弱
+  senses:
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+    children:
+    - gloss: process
+      concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+      concept_label: DECLINE
+      children:
+      - gloss: by loss
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+    - gloss: putative
+      concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+      concept_label: DESPISE
+    - gloss: 'event: be the weaker in contest'
+      concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+      concept_label: DEFEAT
+    - gloss: generalised
+      concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+      concept_label: TENUOUS
+      children:
+      - gloss: comparative
+        concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+        concept_label: INSUFFICIENT
+        children:
+        - gloss: 'comparative: quantified> LESS'
+    - gloss: age
+      concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+      concept_label: YOUNG
+  - gloss: (late colloquial)
+    concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+source:
+  source_file: taxchar.xml

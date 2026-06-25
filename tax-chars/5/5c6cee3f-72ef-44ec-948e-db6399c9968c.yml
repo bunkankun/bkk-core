@@ -1,0 +1,32 @@
+uuid: 5c6cee3f-72ef-44ec-948e-db6399c9968c
+type: tax-char
+heads:
+- 瞻
+pronunciations:
+- reading: zhān
+  old_chinese: kljam
+  middle_chinese: tɕiɛm
+  fanqie: 職廉切
+  tone: 平
+  guangyun: 瞻視
+  senses:
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+    children:
+    - gloss: abstract
+      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+      concept_label: INVESTIGATE
+    - gloss: specific
+      concept_uuid: df3e2b33-735b-4cc6-ab38-c478d4776eed
+      concept_label: LOOK UP
+      children:
+      - gloss: metaphorical
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: =贍
+source:
+  source_file: taxchar.xml

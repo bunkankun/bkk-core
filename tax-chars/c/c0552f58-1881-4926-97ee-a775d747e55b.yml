@@ -1,0 +1,92 @@
+uuid: c0552f58-1881-4926-97ee-a775d747e55b
+type: tax-char
+heads:
+- 開
+pronunciations:
+- reading: kāi
+  old_chinese: khɯɯl
+  middle_chinese: kʰəi
+  fanqie: 苦哀切
+  tone: 平
+  guangyun: 開解亦州名本漢朐䏰縣地蜀置漢豐縣後魏置開州領東關東岡二郡又姓吕氏春秋云開方衞公説文作開經典亦作闓苦哀切五
+  senses:
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+    children:
+    - gloss: 'resulting feature: not narrow'
+      concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+      concept_label: BROAD
+    - gloss: process
+      concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+      concept_label: BLOSSOM
+      children:
+      - gloss: figurative
+        concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+        concept_label: SHINE
+    - gloss: figurative
+      concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+      concept_label: CREATE
+      children:
+      - gloss: object social
+        concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+        concept_label: ESTABLISH
+      - gloss: object action
+        concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+        concept_label: BEGIN
+        children:
+        - gloss: 'physical: open up for beginning to plant'
+          concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+          concept_label: AGRICULTURE
+    - gloss: physical
+      concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+      concept_label: SPLIT
+      children:
+      - gloss: and move apart
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+        children:
+        - gloss: 'figurative: bureaucratic'
+          concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+          concept_label: DISMISS
+        - gloss: by temperature
+          concept_uuid: ffacdeed-ca72-445e-88ce-79e2fc9db89a
+          concept_label: MELT
+          children:
+          - gloss: feature
+            concept_uuid: 278eb26c-ce4a-4ce0-bbb2-008fa6ea5669
+            concept_label: WARM
+    - gloss: 'figurative: open up for others to see'
+      concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+      concept_label: SHOW
+      children:
+      - gloss: physically
+        concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+        concept_label: ARRANGE
+      - gloss: through speech
+        concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+        concept_label: EXPRESS
+        children:
+        - gloss: advice to others
+          concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+          concept_label: ENCOURAGE
+          children:
+          - gloss: spiritual
+            concept_label: INSPIRE
+        - gloss: intellectual:to oneself
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+          children:
+          - gloss: having understood, morally
+            concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+            concept_label: FORGIVE
+            children:
+            - gloss: legal
+              concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+              concept_label: PARDON
+  - gloss: mathematical technical term
+    concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+    concept_label: CALCULATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-03T01:43:33.818+09:00'

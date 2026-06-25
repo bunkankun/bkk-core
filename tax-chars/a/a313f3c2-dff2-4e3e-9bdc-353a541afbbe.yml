@@ -1,0 +1,73 @@
+uuid: a313f3c2-dff2-4e3e-9bdc-353a541afbbe
+type: tax-char
+heads:
+- 接
+pronunciations:
+- reading: jiē
+  old_chinese: skeb
+  middle_chinese: tsiɛp
+  fanqie: 即葉切
+  tone: 入
+  guangyun: 交也持也合也會也又姓三輔決録有接昕子即葉切十一
+  senses:
+  - concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+    concept_label: INTERACT
+    children:
+    - gloss: physically
+      concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+      concept_label: TOUCH
+      children:
+      - gloss: causative
+        concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+        concept_label: LINK
+        children:
+        - gloss: feature
+          concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+          concept_label: NEAR
+    - gloss: 'actively: respond'
+      concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+      concept_label: REACT
+    - gloss: with visitor
+      concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+      concept_label: WELCOME
+      children:
+      - gloss: in battle
+        concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+        concept_label: FIGHT
+      - gloss: generalised
+        concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+        concept_label: SUPPORT
+    - gloss: sexually
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+    - gloss: socially
+      concept_uuid: 6da17544-5ea6-457e-80df-a73c69745ce6
+      concept_label: COMMUNICATE
+      children:
+      - gloss: transitive
+        concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+        concept_label: TRANSMIT
+        children:
+        - gloss: past action
+          concept_uuid: bf236491-24df-4502-b928-cea735658b61
+          concept_label: CONTINUE
+        - gloss: reaction
+          concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+          concept_label: ACCEPT
+          children:
+          - gloss: 'object: administration'
+            concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+            concept_label: CONTROL
+          - gloss: 'object: lady, in marriage'
+            concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+            concept_label: MARRY
+            children:
+            - gloss: generalised
+              concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+              concept_label: RECEIVE
+              children:
+              - gloss: sought object
+                concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+                concept_label: CATCH
+source:
+  source_file: taxchar.xml

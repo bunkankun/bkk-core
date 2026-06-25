@@ -1,0 +1,86 @@
+uuid: 789d1d6d-4c42-4b06-ac70-a894d7d03c99
+type: tax-char
+heads:
+- 文
+pronunciations:
+- reading: wén
+  old_chinese: mɯn
+  middle_chinese: miun
+  fanqie: 無分切
+  tone: 平
+  guangyun: 文章也又美也善也兆也亦州名禹貢梁州之域自戰國時宋及齊梁皆諸羌所據後魏平蜀始置州亦姓漢有廬江文翁無分切十六
+  senses:
+  - concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+    concept_label: PATTERN
+    children:
+    - gloss: 'commendatory:'
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+      children:
+      - gloss: causative
+        concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+        concept_label: EMBELLISH
+        children:
+        - gloss: instrument
+          concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+          concept_label: ORNAMENT
+      - gloss: 'abstract:'
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+        children:
+        - gloss: cultural, abstract
+          concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+          concept_label: VIRTUE
+          children:
+          - gloss: non-violent/military
+            concept_uuid: 3f5f8978-4fb5-4fca-9b4a-7c71aa001033
+            concept_label: POLITICS
+            children:
+            - gloss: practioner of
+              concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+              concept_label: OFFICIAL
+  - gloss: physical, general
+    concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+    concept_label: SHAPE
+    children:
+    - gloss: designed to express meaning
+      concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+      concept_label: WRITTEN CHARACTER
+      children:
+      - gloss: produce
+        concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+        concept_label: WRITE
+        children:
+        - gloss: inscribed coin
+          concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+          concept_label: MONEY
+        - gloss: overall product
+          concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+          concept_label: TEXT
+          children:
+          - gloss: abstract:literary feature of
+            concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+            concept_label: STYLE
+          - gloss: elementary constitutive part of
+            concept_uuid: aecf371d-2cfd-4924-9e21-fee14f8e43e2
+            concept_label: WORD
+          - gloss: appreciated as being of lasting value
+            concept_uuid: 1da658dc-936c-4a63-87dc-4ee0c570322b
+            concept_label: LITERATURE
+            children:
+            - gloss: specifically
+              concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+              concept_label: PROSE
+    - gloss: general
+      concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+      concept_label: ARTS
+  - gloss: proper names
+    concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - gloss: proper names
+    concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T22:49:22.387+09:00'

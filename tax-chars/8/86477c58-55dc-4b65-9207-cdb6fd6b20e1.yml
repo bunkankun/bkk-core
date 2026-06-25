@@ -1,0 +1,38 @@
+uuid: 86477c58-55dc-4b65-9207-cdb6fd6b20e1
+type: tax-char
+heads:
+- 兀
+pronunciations:
+- reading: wù
+  old_chinese: ŋɡluud
+  middle_chinese: ŋuot
+  fanqie: 五忽切
+  tone: 入
+  guangyun: 髙皃又姓後漢改樂安王元覽爲兀氏五忽切十六
+  senses:
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+    concept_label: ALONE
+  - concept_uuid: e02d1fdf-2eff-40bd-b767-076adb48965f
+    concept_label: BALD
+  - concept_uuid: b472c225-fc63-48fd-ab91-45f9780c0622
+    concept_label: IGNORANT
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: e7f26e01-4533-48a1-b323-21184ed4879d
+    concept_label: PREFIXES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

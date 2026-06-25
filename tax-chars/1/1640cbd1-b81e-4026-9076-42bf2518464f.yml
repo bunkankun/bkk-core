@@ -1,0 +1,32 @@
+uuid: 1640cbd1-b81e-4026-9076-42bf2518464f
+type: tax-char
+heads:
+- 囿
+pronunciations:
+- reading: yòu
+  old_chinese: ɢʷɯs
+  middle_chinese: ɦiu
+  fanqie: 于救切
+  tone: 去
+  guangyun: 説文曰苑有垣一曰禽獸有囿又于目切
+  senses:
+  - concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: GARDEN
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+- reading: yù
+  old_chinese: ɢʷɯɡ
+  middle_chinese: ɦiuk
+  fanqie: 于六切
+  tone: 入
+  guangyun: 園囿于六切又于救切二
+source:
+  source_file: taxchar.xml

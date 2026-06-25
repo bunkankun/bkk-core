@@ -1,0 +1,117 @@
+uuid: df7b2207-d8c4-4906-82ca-d5745bd4a169
+type: tax-char
+heads:
+- 屬
+pronunciations:
+- reading: shǔ
+  old_chinese: djoɡ
+  middle_chinese: dʑiok
+  fanqie: 市玉切
+  tone: 入
+  guangyun: 俗屬
+- reading: shǔ
+  old_chinese: djoɡ
+  middle_chinese: dʑiok
+  fanqie: 市玉切
+  tone: 入
+  guangyun: 附也類也又音燭
+  senses:
+  - gloss: belong to category
+    concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 43c5b81c-6c32-44c7-b8fa-f82f18c2e69f
+      concept_label: PLURAL SUFFIXES
+    - gloss: object
+      concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+      concept_label: CATEGORY
+    - gloss: subect
+      concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+      concept_label: RELATIVES
+      children:
+      - gloss: abstract
+        concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+        concept_label: GROUP
+        children:
+        - gloss: fit into
+          concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+          concept_label: CONFORM
+          children:
+          - gloss: relation
+            concept_uuid: 18111d76-cd07-4adf-a21d-e4c273df9d48
+            concept_label: DEPEND ON
+          - gloss: to superior's commands
+            concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+            concept_label: SERVE
+            children:
+            - gloss: cause to serve one
+              concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+              concept_label: CONQUER
+            - gloss: agent social
+              concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+              concept_label: SERVANT
+              children:
+              - gloss: 'specific: educational'
+                concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+                concept_label: STUDENT
+            - gloss: 'causative: cause to conform'
+              concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+              concept_label: LEAD
+        - gloss: political
+          concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+          concept_label: FACTION
+        - gloss: bureaucratic
+          concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+          concept_label: OFFICIAL
+    - gloss: 'abstract: what belongs as owned'
+      concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+      concept_label: PROPERTY
+      children:
+      - gloss: land
+        concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+        concept_label: TERRITORY
+        children:
+        - gloss: general
+          concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+          concept_label: REGION
+- reading: zhǔ
+  old_chinese: tjoɡ
+  middle_chinese: tɕiok
+  fanqie: 之欲切
+  tone: 入
+  guangyun: 付也足也㑹也官衆也儕等也經典作屬又音蜀
+  senses:
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+    children:
+    - gloss: in writing
+      concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+      concept_label: WRITE
+    - gloss: specifically
+      concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+      concept_label: WARN
+    - gloss: opportunistically
+      concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+      concept_label: PRETEND
+    - gloss: 'specificall: so as to pass on authority over'
+      concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+      concept_label: ENTRUST
+      children:
+      - gloss: what is trusted
+        concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+        concept_label: CONTRACT
+    - gloss: specifically
+      concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+      concept_label: INVITE
+      children:
+      - gloss: by way of authoritative command
+        concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+        concept_label: SUMMON
+  - gloss: grammaticalised
+    concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+    concept_label: NOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:53:17.632+09:00'

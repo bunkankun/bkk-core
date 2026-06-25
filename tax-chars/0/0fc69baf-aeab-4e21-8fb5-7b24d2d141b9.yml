@@ -1,0 +1,18 @@
+uuid: 0fc69baf-aeab-4e21-8fb5-7b24d2d141b9
+type: tax-char
+heads:
+- 墓
+pronunciations:
+- reading: mù
+  old_chinese: maaɡs
+  middle_chinese: muo
+  fanqie: 莫故切
+  tone: 去
+  guangyun: 墳墓
+  senses:
+  - concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+source:
+  source_file: taxchar.xml

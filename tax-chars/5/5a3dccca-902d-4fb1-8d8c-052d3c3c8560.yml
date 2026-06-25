@@ -1,0 +1,137 @@
+uuid: 5a3dccca-902d-4fb1-8d8c-052d3c3c8560
+type: tax-char
+heads:
+- 疏
+- 踈
+pronunciations:
+- reading: shū
+  old_chinese: sqra
+  middle_chinese: ʃiɔ
+  fanqie: 所菹切
+  tone: 平
+  guangyun: 通也除也分也逺也䆫也又姓漢有太子太傅東海䟽廣或作𤕟俗作踈所𦵔切又所助切十一
+  senses:
+  - gloss: '踈 shū (OC: sqra MC: ʃiɔ) 所菹切 平 廣韻：【稀踈 】'
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+    children:
+    - gloss: action:distance oneself from
+      concept_uuid: a9ce2789-dac0-45ea-8428-c483b4ffb65c
+      concept_label: DISAGREE
+      children:
+      - gloss: morally
+        concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+        concept_label: DESPISE
+      - gloss: emotional
+        concept_uuid: 39716f0d-ab68-4d17-9624-a6a369f691e3
+        concept_label: INDIFFERENT
+        children:
+        - gloss: 'action: show indifference towards'
+          concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+          concept_label: NEGLECT
+          children:
+          - gloss: neglectful and thus slow in action
+            concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+            concept_label: SLOW
+          - gloss: 'feature: neglectful of standards'
+            concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+            concept_label: UNRESTRAINED
+    - gloss: distant fromt he centre
+      concept_uuid: 21da7354-c5a6-487d-8e9e-9501d698f615
+      concept_label: ISOLATED
+    - gloss: intellectually distant from
+      concept_uuid: b472c225-fc63-48fd-ab91-45f9780c0622
+      concept_label: IGNORANT
+      children:
+      - gloss: generalised
+        concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+        concept_label: STUPID
+    - gloss: 'exocentric: someone one distances oneself from'
+      concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+      concept_label: ENEMY
+    - gloss: distant from the standard
+      concept_uuid: 6557e5a6-3bf5-4df5-b39a-e80ffa163024
+      concept_label: INFERIOR
+      children:
+      - gloss: inferioer and unrefined (of food etc)
+        concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+        concept_label: COARSE
+        children:
+        - gloss: 'specifically: meatless (of food)'
+          concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+          concept_label: SIMPLE
+          children:
+          - gloss: 'exocentric: simple nourishment'
+            concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+            concept_label: FOOD
+  - gloss: 'abstract: be distant and thus not present'
+    concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+    children:
+    - gloss: numerical, of objects in context
+      concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+      concept_label: FEW
+    - gloss: of phenomena in this worls
+      concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+      concept_label: RARE
+      children:
+      - gloss: 'causative: cause to become distant'
+        concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+        concept_label: REMOVE
+        children:
+        - gloss: of army
+          concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+          concept_label: WITHDRAW
+        - gloss: to different places
+          concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+          concept_label: SCATTER
+          children:
+          - gloss: by giving them
+            concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+            concept_label: DISTRIBUTE
+  - gloss: causative
+    concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+    children:
+    - gloss: open up for agriculture
+      concept_label: TILL
+    - gloss: open up for traffic
+      concept_uuid: bbd2b48d-598e-4cab-aafe-52616647796d
+      concept_label: LINK
+    - gloss: well-arranged
+      concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+      concept_label: CLEAR
+    - gloss: 'action: bronze objects with inscriptions or incisions'
+      concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+      concept_label: EMBELLISH
+      children:
+      - gloss: texts for proper understanding, subcommentary
+        concept_uuid: 5e412412-9d52-47ef-b5c0-a9563fde53c6
+        concept_label: COMMENTARY
+  - gloss: Yijing technical
+    concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+    concept_label: WINDOW
+  - concept_label: =梳 “comb"
+- reading: shù
+  old_chinese: sŋra
+  middle_chinese: ʃiɔ
+  fanqie: 所去切
+  tone: 去
+  guangyun: 記也亦作踈所去切三
+  senses:
+  - concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+    concept_label: MEMORIAL
+  - gloss: generalised
+    concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+    concept_label: RECORD
+    children:
+    - gloss: 'verbal: write a detailed philological explanation of'
+      concept_uuid: 5e412412-9d52-47ef-b5c0-a9563fde53c6
+      concept_label: COMMENTARY
+    - gloss: specific
+      concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+      concept_label: LETTER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T18:50:14.916+09:00'

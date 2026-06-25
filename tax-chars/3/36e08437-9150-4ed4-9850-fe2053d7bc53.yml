@@ -1,0 +1,22 @@
+uuid: 36e08437-9150-4ed4-9850-fe2053d7bc53
+type: tax-char
+heads:
+- 恣
+pronunciations:
+- reading: zì
+  old_chinese: stis
+  middle_chinese: tsi
+  fanqie: 資四切
+  tone: 去
+  guangyun: 縱也資四切二
+  senses:
+  - concept_uuid: bdc229bb-f9d0-42c8-aa80-087257089e55
+    concept_label: SATISFACTORY
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+  - concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+    concept_label: SATISFIED
+source:
+  source_file: taxchar.xml

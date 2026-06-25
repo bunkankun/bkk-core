@@ -1,0 +1,63 @@
+uuid: c3b489b9-5ea7-4369-9df1-1f7642f1d212
+type: tax-char
+heads:
+- 回
+pronunciations:
+- reading: huí
+  old_chinese: ɢuul
+  middle_chinese: ɦuoi
+  fanqie: 戶恢切
+  tone: 平
+  guangyun: 違也轉也邪也又回中地名亦姓古賢者方回之後戸恢切十三
+  senses:
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+    children:
+    - gloss: generalised
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+      children:
+      - gloss: 'transitive verb: cause to be confused, pervert'
+        concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+        concept_label: CONFUSED
+        children:
+        - gloss: 'abstract: aberrant'
+          concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+          concept_label: WICKED
+      - gloss: transitive, mutual
+        concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+        concept_label: EXCHANGE
+        children:
+        - gloss: economic
+          concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+          concept_label: TRADE
+          children:
+          - gloss: 'specifically: buy back'
+            concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+            concept_label: BUY
+          - gloss: 'specifically: sell again'
+            concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+            concept_label: SELL
+    - gloss: =迴 specific
+      concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+      concept_label: RETURN
+      children:
+      - gloss: to awakened state
+        concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+        concept_label: WAKE UP
+      - gloss: linguistically
+        concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+        concept_label: ANSWER
+      - gloss: generalised
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+        children:
+        - gloss: avoid in speech
+          concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+          concept_label: TABOO
+    - gloss: recurrent unit
+      concept_label: CHAPTER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T01:03:17.191+09:00'

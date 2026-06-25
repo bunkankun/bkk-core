@@ -1,0 +1,44 @@
+uuid: 1682436c-83cf-426e-b61a-00a0a501aa7e
+type: tax-char
+heads:
+- 感
+pronunciations:
+- reading: gǎn
+  old_chinese: koomʔ
+  middle_chinese: kəm
+  fanqie: 古禫切
+  tone: 上
+  guangyun: 動也古禫切十一
+  senses:
+  - concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+    concept_label: STIMULATE
+    children:
+    - gloss: 'feature: medical> CONTAGEOUS'
+    - gloss: physical
+      concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+      concept_label: PUSH
+    - gloss: 'passive, resultative: respond'
+      concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+      concept_label: RESPOND
+      children:
+      - gloss: action
+        concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+        concept_label: COPULATE
+      - gloss: 'passive: be affected'
+        concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+        concept_label: FEEL
+        children:
+        - gloss: psychological
+          concept_uuid: 45ec8b18-c9d0-48ad-abc1-a532217157af
+          concept_label: GRATEFUL
+        - gloss: 'specific: in relation to persons'
+          concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+          concept_label: YEARN
+        - gloss: abstract
+          concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+          concept_label: FEELING
+        - gloss: psychological
+          concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+          concept_label: CONFUSED
+source:
+  source_file: taxchar.xml

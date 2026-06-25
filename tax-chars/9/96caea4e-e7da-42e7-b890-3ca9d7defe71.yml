@@ -1,0 +1,52 @@
+uuid: 96caea4e-e7da-42e7-b890-3ca9d7defe71
+type: tax-char
+heads:
+- 損
+pronunciations:
+- reading: sǔn
+  old_chinese: squunʔ
+  middle_chinese: suon
+  fanqie: 蘇本切
+  tone: 上
+  guangyun: 减也傷也蘇夲切四
+  senses:
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: REDUCE
+    children:
+    - gloss: 'feature: reduced'
+      concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+      concept_label: WEAK
+      children:
+      - gloss: 'causative: generalised'
+        concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+        concept_label: DAMAGE
+        children:
+        - gloss: 'logically: contravene'
+          concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+          concept_label: CONTRARY
+        - gloss: with words
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+        - gloss: perfective
+          concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+          concept_label: DESTROY
+          children:
+          - gloss: 'grammaticalised: "destroyingly"'
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+    - gloss: object illness
+      concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+      concept_label: CURE
+      children:
+      - gloss: generalised
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+    - gloss: presence
+      concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+      concept_label: WITHDRAW
+      children:
+      - gloss: 'causative: inadvertently'
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+source:
+  source_file: taxchar.xml

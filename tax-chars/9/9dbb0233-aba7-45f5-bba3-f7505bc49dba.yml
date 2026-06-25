@@ -1,0 +1,36 @@
+uuid: 9dbb0233-aba7-45f5-bba3-f7505bc49dba
+type: tax-char
+heads:
+- 虎
+pronunciations:
+- reading: hǔ
+  old_chinese: qhlaaʔ
+  middle_chinese: huo
+  fanqie: 呼古切
+  tone: 上
+  guangyun: 獸名説文曰虎山獸之君淮南子曰虎嘯谷風至又姓風俗通曰漢有合浦太守虎旗其先八元伯虎之後呼古切七
+  senses:
+  - concept_uuid: ab2882c3-b19a-4c96-a878-853f5c64461f
+    concept_label: TIGER
+    children:
+    - gloss: feature
+      concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+      concept_label: VIOLENT
+    - gloss: figurative
+      concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+      concept_label: SOLDIER
+    - gloss: figurative
+      concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+      concept_label: VILLAIN
+    - concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+      concept_label: MYTHICAL ANIMALS
+  - gloss: personal names
+    concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - gloss: personal names
+    concept_uuid: 0a9831fa-8b1a-4afa-88d7-630c12afc8c6
+    concept_label: MALES OF ZHENG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-03T01:35:20.946+09:00'

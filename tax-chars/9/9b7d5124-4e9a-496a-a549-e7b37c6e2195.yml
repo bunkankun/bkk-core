@@ -1,0 +1,42 @@
+uuid: 9b7d5124-4e9a-496a-a549-e7b37c6e2195
+type: tax-char
+heads:
+- 燕
+pronunciations:
+- reading: yàn
+  old_chinese: qeens
+  middle_chinese: ʔen
+  fanqie: 於甸切
+  tone: 去
+  guangyun: 説文云玄鳥也作巢避戊巳
+  senses:
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - gloss: =宴
+    concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+    children:
+    - gloss: feature
+      concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+      concept_label: LEISURE
+    - gloss: overfamiliar
+      concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+      concept_label: INTIMATE
+      children:
+      - gloss: physical
+        concept_label: CLOSE
+- reading: yān
+  old_chinese: qeen
+  middle_chinese: ʔen
+  fanqie: 烏前切
+  tone: 平
+  guangyun: 國名亦州又姓邵公奭封燕爲秦所滅子孫以國爲氏漢有燕倉又於薦切
+  senses:
+  - concept_uuid: 6a422b44-1faa-4604-84c1-b087b1f179ee
+    concept_label: RULERS OF YAN
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:29:59.98+09:00'

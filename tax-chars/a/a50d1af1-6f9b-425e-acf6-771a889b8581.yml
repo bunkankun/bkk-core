@@ -1,0 +1,38 @@
+uuid: a50d1af1-6f9b-425e-acf6-771a889b8581
+type: tax-char
+heads:
+- 拙
+pronunciations:
+- reading: zhuō
+  old_chinese: kljod
+  middle_chinese: tɕʷiɛt
+  fanqie: 職悅切
+  tone: 入
+  guangyun: 不巧也職恱切十一
+  senses:
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+    children:
+    - gloss: practically
+      concept_uuid: deb3cd81-03bc-4c7c-9125-a2a8837202c9
+      concept_label: UNABLE
+      children:
+      - gloss: generalised
+        concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+        concept_label: BAD
+      - gloss: result
+        concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+        concept_label: FAIL
+      - gloss: 'grammaticalised: polite self-reference'
+        concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+        concept_label: EGO
+    - gloss: generalised
+      concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+      concept_label: SIMPLE
+    - gloss: 'attitudinal: treat as incapable'
+      concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+      concept_label: HUMILIATE
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+source:
+  source_file: taxchar.xml

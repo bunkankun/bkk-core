@@ -1,0 +1,73 @@
+uuid: a68cf6bf-0070-4b82-9ae9-1eb966731e4a
+type: tax-char
+heads:
+- 員
+pronunciations:
+- reading: yuán
+  old_chinese: ɢon
+  middle_chinese: ɦʷɯiɛn
+  fanqie: 王權切
+  tone: 平
+  guangyun: 説文作員物數也王權切又云運二音四
+  senses:
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: e8771fdd-0e09-482b-a7c6-d7b75416f26a
+    concept_label: BALL
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+  - concept_uuid: 3ac38710-8bfa-4014-bff4-f7d7040b7219
+    concept_label: VOLUME
+  - concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+    concept_label: EMPLOYEE
+  - concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+    concept_label: MEMBER
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+    concept_label: EXPLAIN
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+  - concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+    concept_label: PERFECT
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+- reading: yún
+  old_chinese: ɢun
+  middle_chinese: ɦiun
+  fanqie: 王分切
+  tone: 平
+  guangyun: 益也説文作員物數也又音圎又音運姓也
+  senses:
+  - concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+    concept_label: CROWD
+  - concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+    concept_label: ADD
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+- reading: yún
+  old_chinese: ɢun
+  middle_chinese: ɦiun
+  fanqie: 王分切
+  tone: 平
+  guangyun: 貟籀文
+- reading: yùn
+  old_chinese: ɢuns
+  middle_chinese: ɦiun
+  fanqie: 王問切
+  tone: 去
+  guangyun: 姓也前涼録有金城貟敞唐有棣州刺史貟半千
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 運
+source:
+  source_file: taxchar.xml

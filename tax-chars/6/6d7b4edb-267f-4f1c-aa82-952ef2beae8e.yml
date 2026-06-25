@@ -1,0 +1,57 @@
+uuid: 6d7b4edb-267f-4f1c-aa82-952ef2beae8e
+type: tax-char
+heads:
+- 待
+pronunciations:
+- reading: dài
+  old_chinese: ɡ-lɯɯʔ
+  middle_chinese: dəi
+  fanqie: 徒亥切
+  tone: 上
+  guangyun: 待擬也俟也
+  senses:
+  - concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+    concept_label: WAIT
+    children:
+    - gloss: modality of
+      concept_uuid: 9463b5b9-99e7-4d1d-80eb-b6ef97f7c3a5
+      concept_label: PATIENT
+      children:
+      - gloss: lenient response
+        concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+        concept_label: FORGIVE
+    - gloss: abstract
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: by necessity
+        concept_uuid: 18111d76-cd07-4adf-a21d-e4c273df9d48
+        concept_label: DEPEND ON
+        children:
+        - gloss: and not have
+          concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+          concept_label: NEED
+      - gloss: be ready for, "wait upon"
+        concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+        concept_label: SERVE
+        children:
+        - gloss: generalised
+          concept_uuid: 2db9e492-7dfb-4d6a-9139-eed947249aa4
+          concept_label: TREAT
+        - gloss: on arrival
+          concept_uuid: 684e674c-1679-4ff7-9314-7d34f054c21d
+          concept_label: GREET
+          children:
+          - gloss: generalised:resulting action
+            concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+            concept_label: REACT
+          - gloss: generalised
+            concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+            concept_label: PROVIDE
+    - gloss: grammaticalised
+      concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+      concept_label: WHEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T23:05:34.05+09:00'

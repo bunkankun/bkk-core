@@ -1,0 +1,61 @@
+uuid: 6e209098-5fe4-4015-9745-436b219f9aad
+type: tax-char
+heads:
+- 洗
+pronunciations:
+- reading: xǐ
+  old_chinese: sɯɯlʔ
+  middle_chinese: sei
+  fanqie: 先禮切
+  tone: 上
+  guangyun: 洗浴又姓先禮切又音銑二
+  senses:
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+    children:
+    - gloss: object dirt
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+    - gloss: by immersion
+      concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+      concept_label: BATHE
+      children:
+      - gloss: by immersion
+        concept_uuid: f590a3d5-40bd-499d-916a-2cd0293e7f3f
+        concept_label: BAPTISE
+      - gloss: resultative
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+    - gloss: generalised
+      concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+      concept_label: IMPROVE
+      children:
+      - gloss: specific
+        concept_uuid: e4f27013-ca16-4fdf-b7a1-075d72b062cb
+        concept_label: POLISH
+    - gloss: resultative
+      concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+      concept_label: CLEAN
+      children:
+      - gloss: abstract
+        concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+        concept_label: PURE
+    - gloss: instrument for
+      concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+      concept_label: VESSEL
+  - concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+    concept_label: WITHER
+- reading: xiǎn
+  old_chinese: sɯɯnʔ
+  middle_chinese: sen
+  fanqie: 蘇典切
+  tone: 上
+  guangyun: 姑洗律名
+  senses:
+  - gloss: object feet
+    concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

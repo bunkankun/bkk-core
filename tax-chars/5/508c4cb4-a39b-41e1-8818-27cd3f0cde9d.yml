@@ -1,0 +1,24 @@
+uuid: 508c4cb4-a39b-41e1-8818-27cd3f0cde9d
+type: tax-char
+heads:
+- 藤
+pronunciations:
+- reading: téng
+  old_chinese: lɯɯŋ
+  middle_chinese: dəŋ
+  fanqie: 徒登切
+  tone: 平
+  guangyun: 藤苰又藤蘿
+  senses:
+  - concept_uuid: a0b6a347-8dcc-43ab-9d96-c0eaf40ec24b
+    concept_label: CREEPER
+  - concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+    concept_label: STEM
+  - concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+    concept_label: STICK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

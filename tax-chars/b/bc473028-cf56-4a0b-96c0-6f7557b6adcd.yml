@@ -1,0 +1,31 @@
+uuid: bc473028-cf56-4a0b-96c0-6f7557b6adcd
+type: tax-char
+heads:
+- 怯
+pronunciations:
+- reading: qiè
+  old_chinese: khab
+  middle_chinese: kʰiɐp
+  fanqie: 去劫切
+  tone: 入
+  guangyun: 同怯
+- reading: qiè
+  old_chinese: khab
+  middle_chinese: kʰiɐp
+  fanqie: 去劫切
+  tone: 入
+  guangyun: 畏也去劫切九
+  senses:
+  - concept_uuid: 15831024-bfe8-489b-b701-e1a0143abdd6
+    concept_label: COWARDLY
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - gloss: ILL
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+source:
+  source_file: taxchar.xml

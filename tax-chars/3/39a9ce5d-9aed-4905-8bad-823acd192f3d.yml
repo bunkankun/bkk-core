@@ -1,0 +1,29 @@
+uuid: 39a9ce5d-9aed-4905-8bad-823acd192f3d
+type: tax-char
+heads:
+- 蘭
+pronunciations:
+- reading: lán
+  old_chinese: ɡ-raan
+  middle_chinese: lɑn
+  fanqie: 落干切
+  tone: 平
+  guangyun: 香草亦州名古西羌地隋文帝置蘭州取皐蘭山爲名又姓漢有武陵太守蘭廣落干切十一
+  senses:
+  - concept_uuid: db3bc6ef-3412-439f-851f-60cac83d635f
+    concept_label: FLOWERS
+    children:
+    - concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+      concept_label: BLOSSOM
+      children:
+      - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+        concept_label: FRAGRANT
+    - concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+      concept_label: TREES
+    - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+      concept_label: SURNAMES
+  - gloss: =闌
+    concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+source:
+  source_file: taxchar.xml

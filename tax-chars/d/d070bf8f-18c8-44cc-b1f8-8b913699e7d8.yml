@@ -1,0 +1,30 @@
+uuid: d070bf8f-18c8-44cc-b1f8-8b913699e7d8
+type: tax-char
+heads:
+- 項
+pronunciations:
+- reading: xiàng
+  old_chinese: ɡrooŋʔ
+  middle_chinese: ɦɯɔŋ
+  fanqie: 胡講切
+  tone: 上
+  guangyun: 頸項説文曰頭後也釋名曰項确也堅硧受枕之處又姓本姬姓國公羊曰爲齊桓公所滅子孫以國爲氏項燕爲楚將生梁梁兄子籍號霸王胡講切二
+  senses:
+  - concept_uuid: 209e6066-91a9-4ab2-b0b8-7786620f4660
+    concept_label: NECK
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+    concept_label: HAT
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 376418ab-aa2d-450f-802d-0952652b39b8
+    concept_label: ITEM
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 23a8a188-beec-4d68-9f1f-22c9340ed189
+    concept_label: MATHEMATICS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

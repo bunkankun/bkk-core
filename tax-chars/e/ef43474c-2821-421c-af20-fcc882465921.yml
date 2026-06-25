@@ -1,0 +1,40 @@
+uuid: ef43474c-2821-421c-af20-fcc882465921
+type: tax-char
+heads:
+- 沿
+pronunciations:
+- reading: yán
+  old_chinese: lon
+  middle_chinese: jʷiɛn
+  fanqie: 與專切
+  tone: 平
+  guangyun: 同沿
+- reading: yán
+  old_chinese: lon
+  middle_chinese: jʷiɛn
+  fanqie: 與專切
+  tone: 平
+  guangyun: 從流而下也與專切十二
+  senses:
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+    concept_label: SEW
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+  - concept_uuid: febd5fd9-8f5c-49ae-8c66-71d4c34fdfa8
+    concept_label: HALO
+- reading: qiān
+  old_chinese: lon
+  middle_chinese: jʷiɛn
+  fanqie: 與專切
+  tone: 平
+  guangyun: 同鉛
+source:
+  source_file: taxchar.xml

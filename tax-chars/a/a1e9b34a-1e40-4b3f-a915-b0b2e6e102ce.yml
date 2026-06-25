@@ -1,0 +1,43 @@
+uuid: a1e9b34a-1e40-4b3f-a915-b0b2e6e102ce
+type: tax-char
+heads:
+- 含
+pronunciations:
+- reading: hán
+  old_chinese: ɡlɯɯm
+  middle_chinese: ɦəm
+  fanqie: 胡男切
+  tone: 平
+  guangyun: 説文銜也胡男切二十二
+  senses:
+  - concept_uuid: 5647994e-a268-47ad-ada3-2c70d3fcbf9d
+    concept_label: HOLD IN MOUTH
+    children:
+    - gloss: so as to
+      concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+      concept_label: EAT
+    - gloss: generalised
+      concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+      concept_label: CONTAIN
+      children:
+      - gloss: openly
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: and present
+          concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+          concept_label: GIFT
+      - gloss: covertly
+        concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+        concept_label: CONCEAL
+      - gloss: psychologically
+        concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+        concept_label: FEEL
+        children:
+        - gloss: negative objects
+          concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+          concept_label: ENDURE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-22T20:40:25.129+09:00'

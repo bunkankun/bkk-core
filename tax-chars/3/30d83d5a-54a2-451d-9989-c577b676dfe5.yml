@@ -1,0 +1,94 @@
+uuid: 30d83d5a-54a2-451d-9989-c577b676dfe5
+type: tax-char
+heads:
+- 利
+pronunciations:
+- reading: lì
+  old_chinese: rids
+  middle_chinese: li
+  fanqie: 力至切
+  tone: 去
+  guangyun: 吉也説文銛也亦州名華陽國志昔蜀王封弟於漢中号曰苴侯因命其邑曰葭萌秦滅蜀置巴蜀二郡先主改葭萌爲漢夀屬梓潼郡晉爲晉壽南齊分置東晉壽郡於烏奴今州城是又於其郡置西益州梁改爲黎州元帝又改爲利州又舎利獸名亦姓風俗通云漢有利乾爲中山相力至切八
+unattributed_senses:
+- concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  concept_label: PROFIT
+  children:
+  - gloss: 'general: wealth'
+    concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+    concept_label: RICH
+    children:
+    - gloss: deserved
+      concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+      concept_label: REWARD
+  - gloss: 'profitable:'
+    concept_uuid: 9a17ae53-4f3a-4d18-9a22-d0f66f6e394b
+    concept_label: USEFUL
+    children:
+    - gloss: 'action: deploy as useful'
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - gloss: choosing among alternatives
+        concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+        concept_label: PREFER
+        children:
+        - gloss: psychological
+          concept_uuid: 300b7e9a-d975-4350-b2e0-e58bac2bc16e
+          concept_label: INTERESTS
+          children:
+          - gloss: religious
+            concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+            concept_label: AUSPICIOUS
+            children:
+            - gloss: in battle
+              concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+              concept_label: WIN
+          - gloss: putative
+            concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+            concept_label: LIKE
+            children:
+            - gloss: practical
+              concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+              concept_label: EAGER
+              children:
+              - gloss: excessive
+                concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+                concept_label: GREEDY
+              - gloss: action
+                concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+                concept_label: ENJOY
+    - gloss: useful/profitable
+      concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+      concept_label: SHARP
+      children:
+      - gloss: metonymy
+        concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+        concept_label: SWORD
+      - gloss: thus swift
+        concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+        concept_label: QUICK
+        children:
+        - gloss: quick-witted
+          concept_label: CLEVER
+          children:
+          - gloss: practical
+            concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+            concept_label: SKILLFUL
+            children:
+            - gloss: intellectual
+              concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+              concept_label: INTELLIGENT
+        - gloss: effortless in action
+          concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+          concept_label: EASY
+        - gloss: in speech
+          concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+          concept_label: ELOQUENT
+      - gloss: 'playful: polite paraphrase'
+        concept_uuid: 5f99fd10-1b29-4143-91af-d675b606fba7
+        concept_label: URINATE
+  - concept_label: =痢 dysentery
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-05T01:43:13.395+09:00'

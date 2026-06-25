@@ -1,0 +1,72 @@
+uuid: af43052f-a4c0-475d-a84d-418bb0ab49ae
+type: tax-char
+heads:
+- 樂
+pronunciations:
+- reading: lè
+  old_chinese: ɡ-raawɡ
+  middle_chinese: lɑk
+  fanqie: 盧各切
+  tone: 入
+  guangyun: 喜樂又五角五教二切
+- reading: yuè
+  old_chinese: ŋɡraawɡ
+  middle_chinese: ŋɯɔk
+  fanqie: 五角切
+  tone: 入
+  guangyun: 音樂周禮有六樂雲門咸池大韶大夏大濩大武又姓出南陽夲自有殷微子之後宋戴公四丗孫樂莒爲大司寇
+- reading: yào
+  old_chinese: ŋɡraawɡs
+  middle_chinese: ŋɯau
+  fanqie: 五教切
+  tone: 去
+  guangyun: 好也五敎切又岳洛二音三
+unattributed_senses:
+- concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  concept_label: DELIGHT
+  children:
+  - gloss: causing delight
+    concept_uuid: 74b7b586-081a-4d67-8062-1b2929578897
+    concept_label: PLEASANT
+    children:
+    - gloss: generalised
+      concept_uuid: bdc229bb-f9d0-42c8-aa80-087257089e55
+      concept_label: SATISFACTORY
+      children:
+      - gloss: in abundant satisfactory supply
+        concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+        concept_label: ABUNDANT
+  - gloss: persistently delighted
+    concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+    concept_label: HAPPY
+    children:
+    - gloss: action devoted to happiness
+      concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+      concept_label: ENJOY
+    - gloss: devoted to sexual happiness
+      concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+      concept_label: LEWD
+- concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+  concept_label: MUSIC
+  children:
+  - gloss: exercise music
+    concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+  - gloss: tool for
+    concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+    children:
+    - gloss: practitioner of
+      concept_uuid: b6ce5719-53d1-482f-b617-78561d269e60
+      concept_label: MUSICIAN
+      children:
+      - gloss: generalised
+        concept_uuid: 1aa78248-5868-4414-a9c4-97ccdb47c021
+        concept_label: ENTERTAINER
+  - gloss: associated physical activity
+    concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+    concept_label: DANCE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-25T23:04:15.318+09:00'

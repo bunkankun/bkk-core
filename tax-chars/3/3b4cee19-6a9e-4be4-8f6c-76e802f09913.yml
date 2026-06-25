@@ -1,0 +1,28 @@
+uuid: 3b4cee19-6a9e-4be4-8f6c-76e802f09913
+type: tax-char
+heads:
+- 戢
+pronunciations:
+- reading: jí
+  old_chinese: skrib
+  middle_chinese: tʂɯip
+  fanqie: 阻立切
+  tone: 入
+  guangyun: 止也斂也阻立切九
+  senses:
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: dfe35970-1113-4974-b262-6d7eb267b147
+    concept_label: TO CONTRACT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

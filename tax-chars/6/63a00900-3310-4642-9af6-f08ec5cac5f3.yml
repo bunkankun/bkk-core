@@ -1,0 +1,89 @@
+uuid: 63a00900-3310-4642-9af6-f08ec5cac5f3
+type: tax-char
+heads:
+- 親
+pronunciations:
+- reading: qīn
+  old_chinese: tshiŋ
+  middle_chinese: tsʰin
+  fanqie: 七人切
+  tone: 平
+  guangyun: 愛也近也説文至也七人切三
+- reading: qìn
+  old_chinese: tshiŋs
+  middle_chinese: tsʰin
+  fanqie: 七遴切
+  tone: 去
+  guangyun: 親家七遴切又七鄰切四
+unattributed_senses:
+- concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  concept_label: INTIMATE
+  children:
+  - gloss: cognitively
+    concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+    concept_label: KNOW
+  - gloss: 'exocentric: family-wise'
+    concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+    concept_label: RELATIVES
+    children:
+    - gloss: specifically
+      concept_uuid: c6d90627-45f2-4e7e-888b-7bfb8a894b96
+      concept_label: PARENT
+      children:
+      - gloss: specifically
+        concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+        concept_label: FATHER
+      - gloss: specifically
+        concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+        concept_label: MOTHER
+  - gloss: 'exocentric: emotionally'
+    concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+    children:
+    - gloss: active
+      concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+      concept_label: CARE FOR
+      children:
+      - gloss: collaborative, feature
+        concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+        concept_label: FAITHFUL
+      - gloss: intensitive:emotional
+        concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+        concept_label: LOVE
+        children:
+        - gloss: action, expressive of
+          concept_uuid: 644a4f0a-0578-4704-b333-c3fd956af6a8
+          concept_label: KISS
+    - gloss: actively
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: mutual
+        concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+        concept_label: HARMONY
+    - gloss: in action
+      concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+      concept_label: PERSONALLY
+      children:
+      - gloss: 'exocentric: do sth personally'
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+    - gloss: spatially
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: active change
+        concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+        concept_label: APPROACH
+        children:
+        - gloss: physically, with body parts
+          concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+          concept_label: TOUCH
+          children:
+          - gloss: action:specific, clothes
+            concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+            concept_label: WEAR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-05T00:12:53.47+09:00'

@@ -1,0 +1,58 @@
+uuid: ca430916-823c-46be-85aa-716db36d29ad
+type: tax-char
+heads:
+- 鄉
+pronunciations:
+- reading: xiāng
+  old_chinese: qhaŋ
+  middle_chinese: hiɐŋ
+  fanqie: 許良切
+  tone: 平
+  guangyun: 郷黨釋名曰萬二千五百家爲郷郷向也衆所向也又姓出姓苑
+  senses:
+  - concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+    concept_label: COUNTRYSIDE
+    children:
+    - gloss: important part of
+      concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+      concept_label: VILLAGE
+      children:
+      - gloss: specifically
+        concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+        concept_label: HOME
+        children:
+        - gloss: typical sentiment
+          concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+          concept_label: PREFER
+          children:
+          - gloss: resultative
+            concept_uuid: b6ab585d-086e-4a4b-ba4d-d95daf2b0f64
+            concept_label: SATIATED
+      - gloss: generalised
+        concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+        concept_label: REGION
+      - gloss: 'exocentric: person from'
+        concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+        concept_label: NEIGHBOUR
+unattributed_senses:
+- concept_label: 鄉xiàng《集韻》許亮切
+  children:
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - gloss: =向
+    concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+    concept_label: WINDOW
+  - gloss: =曏 向 嚮
+    concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+- concept_label: 鄉xiǎng《正字通》音享
+  children:
+  - gloss: =享
+    concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+    concept_label: ENJOY
+  - gloss: =響
+    concept_label: ECHO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-01T21:44:47.824+09:00'

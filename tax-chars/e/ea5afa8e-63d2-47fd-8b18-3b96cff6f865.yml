@@ -1,0 +1,86 @@
+uuid: ea5afa8e-63d2-47fd-8b18-3b96cff6f865
+type: tax-char
+heads:
+- 任
+pronunciations:
+- reading: rén
+  old_chinese: njɯm
+  middle_chinese: ȵim
+  fanqie: 如林切
+  tone: 平
+  guangyun: 堪也保也當也又姓出樂安黄帝二十五子十二人各以德爲姓第一爲任氏如林切七
+  senses:
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+    children:
+    - gloss: object
+      concept_uuid: be050ecf-05c0-433c-89d1-b00ebfe58e34
+      concept_label: BURDEN
+      children:
+      - gloss: abstract object
+        concept_uuid: 19d0b30c-d01f-4ee9-b5ff-34080bdf5890
+        concept_label: RESPONSIBILITY
+    - gloss: capability
+      concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+      concept_label: ABLE
+      children:
+      - gloss: action
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: feature
+          concept_uuid: e662fa0d-9658-4aa4-82fb-6dbb88f4430a
+          concept_label: VOLUNTARY
+          children:
+          - gloss: abstract, transitive
+            concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+            concept_label: ENDURE
+            children:
+            - gloss: feature
+              concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+              concept_label: UNRESTRAINED
+              children:
+              - gloss: transitive
+                concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+                concept_label: RELEASE
+  - gloss: =?
+    concept_uuid: b3320f73-ed89-40c6-b631-8e13ff8f33eb
+    concept_label: WEIGHT
+  - gloss: proper names
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+- reading: rèn
+  old_chinese: njɯms
+  middle_chinese: ȵim
+  fanqie: 汝鴆切
+  tone: 去
+  guangyun: 已上四字並又音壬
+  senses:
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+    children:
+    - gloss: social
+      concept_uuid: 35072aec-ec3b-493e-85d7-0e10b4fb29a7
+      concept_label: ENTRUST
+      children:
+      - gloss: generalised
+        concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+        concept_label: PERMIT
+    - gloss: for a purpose
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - gloss: what you act according to
+        concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+        concept_label: RECTITUDE
+        children:
+        - gloss: 'abstract: of humans'
+          concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+          concept_label: EMPLOY
+      - gloss: psychological
+        concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+        concept_label: TRUST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:57:36.205+09:00'

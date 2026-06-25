@@ -1,0 +1,51 @@
+uuid: 1dd1f8f0-90a6-4c28-88c2-37a5e674def7
+type: tax-char
+heads:
+- 飛
+pronunciations:
+- reading: fēi
+  old_chinese: pɯl
+  middle_chinese: pʷɨi
+  fanqie: 甫微切
+  tone: 平
+  guangyun: 飛翔亦漢複姓史記有飛廉氏古通用蜚
+  senses:
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+    children:
+    - gloss: 'causative, figuratice: in all directions'
+      concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+      concept_label: SCATTER
+    - gloss: result
+      concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+      concept_label: HIGH
+      children:
+      - gloss: generalised:as if flying on liquid
+        concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+        concept_label: FLOAT
+    - gloss: perfective
+      concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+      concept_label: SUCCEED
+      children:
+      - gloss: salient feature
+        concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+        concept_label: QUICK
+        children:
+        - gloss: subjective:surprising
+          concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+          concept_label: SUDDENLY
+    - gloss: subject:flying
+      concept_uuid: b63836dd-3cd4-4685-93f6-2d6289316f99
+      concept_label: INSECT
+      children:
+      - gloss: salient feature
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+        children:
+        - gloss: 'intellectual: flimsy'
+          concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+          concept_label: SUPERFICIAL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T00:13:13.141+09:00'

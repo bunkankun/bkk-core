@@ -1,0 +1,47 @@
+uuid: 59988efa-e6e3-4037-9367-f6ce5eb3fac4
+type: tax-char
+heads:
+- 雄
+pronunciations:
+- reading: xióng
+  old_chinese: ɢʷɯŋ
+  middle_chinese: ɦiuŋ
+  fanqie: 羽弓切
+  tone: 平
+  guangyun: 雄雌也亦姓舜友有雄陶
+  senses:
+  - concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+    children:
+    - gloss: generalised
+      concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+      concept_label: ANIMAL
+    - gloss: feature
+      concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+      concept_label: STRONG
+      children:
+      - gloss: social
+        concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+        concept_label: POWER
+        children:
+        - gloss: exercise power over
+          concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+          concept_label: LEAD
+      - gloss: moral
+        concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+        concept_label: COURAGE
+      - gloss: generalised
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+        children:
+        - gloss: human subject
+          concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+          concept_label: HERO
+        - gloss: declarative
+          concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+          concept_label: PRAISE
+        - gloss: putative
+          concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+          concept_label: ASPIRE
+source:
+  source_file: taxchar.xml

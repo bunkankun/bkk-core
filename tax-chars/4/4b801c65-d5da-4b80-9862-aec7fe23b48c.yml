@@ -1,0 +1,20 @@
+uuid: 4b801c65-d5da-4b80-9862-aec7fe23b48c
+type: tax-char
+heads:
+- 扉
+pronunciations:
+- reading: fēi
+  old_chinese: pɯl
+  middle_chinese: pʷɨi
+  fanqie: 甫微切
+  tone: 平
+  guangyun: 戸扉
+  senses:
+  - concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+    concept_label: DOOR
+  - concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+    concept_label: GATE
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+source:
+  source_file: taxchar.xml

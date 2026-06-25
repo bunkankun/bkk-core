@@ -1,0 +1,31 @@
+uuid: b63bfceb-40e3-4b26-9fd4-b85a80fdf898
+type: tax-char
+heads:
+- 樽
+- 罇
+pronunciations:
+- reading: zūn
+  old_chinese: tsuun
+  middle_chinese: tsuon
+  fanqie: 祖昆切
+  tone: 平
+  guangyun: 見尊注
+- reading: zūn
+  old_chinese: tsuun
+  middle_chinese: tsuon
+  fanqie: 祖昆切
+  tone: 平
+  guangyun: 見尊注
+  senses:
+  - concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+    concept_label: CUP
+  - concept_uuid: 6acc1714-c80f-49d2-9670-2fe2c0b7b620
+    concept_label: WINE VESSEL
+- reading: zūn
+  old_chinese: tsuun
+  middle_chinese: tsuon
+  fanqie: 祖昆切
+  tone: 平
+  guangyun: 見尊注
+source:
+  source_file: taxchar.xml

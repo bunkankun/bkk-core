@@ -1,0 +1,40 @@
+uuid: 1d96bf57-2d0c-4d1b-8fc4-f9811b065218
+type: tax-char
+heads:
+- 戰
+pronunciations:
+- reading: zhàn
+  old_chinese: tjans
+  middle_chinese: tɕiɛn
+  fanqie: 之膳切
+  tone: 去
+  guangyun: 懼也恐也又姓之膳切二
+  senses:
+  - concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+    concept_label: BATTLE
+    children:
+    - gloss: 'abstract: general'
+      concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+      concept_label: WARFARE
+      children:
+      - gloss: generalised:personal
+        concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+        concept_label: FIGHT
+        children:
+        - gloss: 'figurative: literary'
+          concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+          concept_label: COMPETE
+    - gloss: symptom
+      concept_uuid: b237081d-2ffa-4cc5-bb3e-04792610663b
+      concept_label: TREMBLE
+      children:
+      - gloss: causative
+        concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+        concept_label: SHAKE
+      - gloss: psychological
+        concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+        concept_label: FEAR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T23:39:02.832+09:00'

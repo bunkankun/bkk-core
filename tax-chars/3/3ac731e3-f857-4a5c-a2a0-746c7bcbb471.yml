@@ -1,0 +1,31 @@
+uuid: 3ac731e3-f857-4a5c-a2a0-746c7bcbb471
+type: tax-char
+heads:
+- 縷
+pronunciations:
+- reading: lǚ
+  old_chinese: ɡ-roʔ
+  middle_chinese: lio
+  fanqie: 力主切
+  tone: 上
+  guangyun: 絲縷力主切十三
+  senses:
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+  - concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+    concept_label: DETAILED
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+  - concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+    concept_label: PRODUCE
+  - concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+    concept_label: EMBROIDER
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - gloss: = 褸
+source:
+  source_file: taxchar.xml

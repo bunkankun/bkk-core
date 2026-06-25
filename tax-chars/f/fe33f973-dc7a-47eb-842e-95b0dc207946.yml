@@ -1,0 +1,28 @@
+uuid: fe33f973-dc7a-47eb-842e-95b0dc207946
+type: tax-char
+heads:
+- 朕
+pronunciations:
+- reading: zhèn
+  old_chinese: rlɯmʔ
+  middle_chinese: ɖɯim
+  fanqie: 直稔切
+  tone: 上
+  guangyun: 朕古文
+- reading: zhèn
+  old_chinese: rlɯmʔ
+  middle_chinese: ɖɯim
+  fanqie: 直稔切
+  tone: 上
+  guangyun: 我也秦始皇二十六年始爲天子之稱直稔切六
+  senses:
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+    concept_label: SYMBOL
+  - concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+    concept_label: WE
+  - concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: FISSURE
+source:
+  source_file: taxchar.xml

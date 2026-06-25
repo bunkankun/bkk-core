@@ -1,0 +1,131 @@
+uuid: e1046481-6313-446f-9b27-7f587a1639b2
+type: tax-char
+heads:
+- 處
+pronunciations:
+- reading: chǔ
+  old_chinese: khljaʔ
+  middle_chinese: tɕʰiɔ
+  fanqie: 昌與切
+  tone: 上
+  guangyun: 居也止也制也息也留也定也説文又作処亦姓風俗通云漢有北海太守處興
+  senses:
+  - gloss: chu3 state
+    concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+    concept_label: BE IN
+    children:
+    - gloss: process:occur in a place
+      concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+      concept_label: HAPPEN
+    - gloss: cause one's mind to be in
+      concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+      concept_label: CONCENTRATE
+    - gloss: action
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: perfective
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+        children:
+        - gloss: remain stationary (in kneeling mode!)
+          concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+          concept_label: SIT
+      - gloss: remain in possession
+        concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+        concept_label: HAVE
+        children:
+        - gloss: and occupy
+          concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+          concept_label: DWELL
+          children:
+          - gloss: for recuperation
+            concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+            concept_label: REST
+    - gloss: causative
+      concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+      concept_label: ARRANGE
+  - gloss: and act accordingly
+    concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+    concept_label: ACT
+    children:
+    - gloss: social
+      concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+      concept_label: COOPERATE
+      children:
+      - gloss: attitudinal
+        concept_uuid: 2db9e492-7dfb-4d6a-9139-eed947249aa4
+        concept_label: TREAT
+        children:
+        - gloss: administrative
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+          children:
+          - gloss: legal
+            concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+            concept_label: JUDGE
+- reading: chù
+  old_chinese: qhljas
+  middle_chinese: tɕʰiɔ
+  fanqie: 昌據切
+  tone: 去
+  guangyun: 處所也昌據切又音杵二
+  senses:
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+    children:
+    - gloss: place one dwells
+      concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+      concept_label: HOME
+      children:
+      - gloss: social
+        concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+        concept_label: OFFICE
+    - gloss: abstract
+      concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+      concept_label: SITUATION
+      children:
+      - gloss: Buddhist:theoretical
+        concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+        concept_label: FEATURE
+        children:
+        - gloss: Buddhisst:theoretical
+          concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+          concept_label: ESSENCE
+          children:
+          - gloss: conceivable
+            concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+            concept_label: POSSIBLE
+            children:
+            - gloss: 'Buddhist: theoretical entity'
+              concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+              concept_label: THING
+    - gloss: chronological space
+      concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+      concept_label: TIME
+      children:
+      - gloss: relational
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+- reading: chǔ
+  old_chinese: khljaʔ
+  middle_chinese: tɕʰiɔ
+  fanqie: 昌與切
+  tone: 上
+  guangyun: 居也止也制也息也留也定也説文又作処亦姓風俗通云漢有北海太守處興
+- reading: chù
+  old_chinese: qhljas
+  middle_chinese: tɕʰiɔ
+  fanqie: 昌據切
+  tone: 去
+  guangyun: 處所也昌據切又音杵二
+- reading: chù
+  old_chinese: khljaʔ
+  middle_chinese: tɕʰiɔ
+  fanqie: 昌據切
+  tone: 去
+  guangyun: 俗處
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-06T19:45:23.655+09:00'

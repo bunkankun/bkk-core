@@ -1,0 +1,30 @@
+uuid: 8bcbb569-a24f-4ecd-8853-0b998231ab02
+type: tax-char
+heads:
+- 遼
+pronunciations:
+- reading: liáo
+  old_chinese: ɡ-reew
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 逺也又水名
+  senses:
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

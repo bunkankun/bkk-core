@@ -1,0 +1,92 @@
+uuid: 356348a1-df83-4a6b-851e-aa5bafaec66e
+type: tax-char
+heads:
+- 張
+pronunciations:
+- reading: zhāng
+  old_chinese: krlaŋ
+  middle_chinese: ʈiɐŋ
+  fanqie: 陟良切
+  tone: 平
+  guangyun: 張施也又姓出清河南陽吴郡安定燉煌武烕范陽犍爲沛國梁國中山汲郡河内髙平十四望本自軒轅第五子揮始造弦寔張網羅丗掌其職後因氏焉風俗傳云張王李趙黄帝賜姓也陟良切四
+- reading: zhàng
+  old_chinese: krlaŋs
+  middle_chinese: ʈiɐŋ
+  fanqie: 知亮切
+  tone: 去
+  guangyun: 張施又陟良切
+  senses:
+  - gloss: what is stretched out1
+    concept_uuid: 5bfdaf2e-5888-495d-b48d-ad290c7ad5a3
+    concept_label: TENT
+    children:
+    - gloss: what is stretched out2
+      concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+      concept_label: NET
+      children:
+      - gloss: action> catch using a net
+        concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+        concept_label: CATCH
+        children:
+        - gloss: monetary figurative catch?
+          concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+          concept_label: PROFIT
+  - gloss: =脹
+    concept_uuid: cb85f3df-8c94-4625-aa36-26dd3a19613f
+    concept_label: SWELL
+unattributed_senses:
+- concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+  concept_label: STRETCH OUT
+  children:
+  - gloss: oneself to see
+    concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+  - gloss: resultative:stretched
+    concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+    concept_label: LONG
+  - gloss: psychological
+    concept_label: TENSE
+  - gloss: 'figurative: “strengthen”'
+    concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+    children:
+    - gloss: figurative
+      concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+      concept_label: EXAGGERATE
+    - gloss: 'figurative: expansive'
+      concept_uuid: 23fbd8fe-6c37-4145-b92e-77ac8500cdfb
+      concept_label: CONFIDENT
+    - gloss: 'verbal: put strings on'
+      concept_uuid: cb1283bf-ff17-4816-8711-21cff46b1a89
+      concept_label: STRING
+      children:
+      - gloss: so as to harmonise
+        concept_uuid: 55a6d0ed-c1a7-4dd1-96a6-1115480aa6be
+        concept_label: TUNE
+        children:
+        - gloss: generalised
+          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+          concept_label: ARRANGE
+          children:
+          - gloss: discontinuous
+            concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+            concept_label: SCATTER
+          - gloss: so as to use
+            concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+            concept_label: DEPLOY
+        - gloss: of bows
+          concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+          concept_label: BEND
+        - gloss: of eyes
+          concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+          concept_label: OPEN
+    - gloss: zhāng
+      concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+      concept_label: CONSTELLATION
+- gloss: zhàng【cannot for some reason be removed! Identical with the above】
+  concept_uuid: cb85f3df-8c94-4625-aa36-26dd3a19613f
+  concept_label: SWELL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T21:54:01.518+09:00'

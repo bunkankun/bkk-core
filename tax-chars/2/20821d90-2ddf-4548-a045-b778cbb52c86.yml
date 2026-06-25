@@ -1,0 +1,26 @@
+uuid: 20821d90-2ddf-4548-a045-b778cbb52c86
+type: tax-char
+heads:
+- 嫁
+pronunciations:
+- reading: jià
+  old_chinese: kraas
+  middle_chinese: kɯa
+  fanqie: 古訝切
+  tone: 去
+  guangyun: 家也故婦人謂嫁曰歸
+  senses:
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+  - concept_uuid: 4d2115b4-dee5-4729-bd99-55ee2c88b1fc
+    concept_label: WIN TRUST
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+  - concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+    concept_label: SELL
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSFER
+  - concept_uuid: ff6b2717-ef71-4b1a-b4e1-73dc355d8180
+    concept_label: GRAFT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,45 @@
+uuid: 13070d02-b559-4536-8ecf-0f27df066786
+type: tax-char
+heads:
+- 促
+pronunciations:
+- reading: cù
+  old_chinese: tshoɡ
+  middle_chinese: tsʰiok
+  fanqie: 七玉切
+  tone: 入
+  guangyun: 近也速也至也迫也七玉切六
+  senses:
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+    children:
+    - gloss: 'jussive:'
+      concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+      concept_label: ENCOURAGE
+    - gloss: feature, requiring hurry
+      concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+      concept_label: URGENT
+      children:
+      - gloss: in urgent need
+        concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+        concept_label: POOR
+    - gloss: generalised
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+      children:
+      - gloss: adverbial
+        concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+        concept_label: SUDDENLY
+        children:
+        - gloss: feature
+          concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+          concept_label: SHORT
+          children:
+          - gloss: move into short distance from
+            concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+            concept_label: APPROACH
+          - gloss: of opening
+            concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+            concept_label: NARROW
+source:
+  source_file: taxchar.xml

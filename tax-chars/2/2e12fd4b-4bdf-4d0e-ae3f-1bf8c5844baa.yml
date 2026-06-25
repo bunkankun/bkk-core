@@ -1,0 +1,32 @@
+uuid: 2e12fd4b-4bdf-4d0e-ae3f-1bf8c5844baa
+type: tax-char
+heads:
+- 邦
+unattributed_senses:
+- gloss: 邦 bāng
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  concept_label: STATE
+  children:
+  - gloss: generalised
+    concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+    children:
+    - gloss: generalised
+      concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+      concept_label: PLACE
+    - gloss: limits of
+      concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+      concept_label: BOUNDARY
+    - gloss: people from a territory (bronze inscriptions)> bāng 邦
+      concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+      concept_label: PEOPLE
+    - gloss: enfeoff with a territory as a state> bāng 邦
+      concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+      concept_label: INSTALL
+    - gloss: celebrate the spirits of the land> bāng 邦
+      concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+      concept_label: SACRIFICE
+- concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+  concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

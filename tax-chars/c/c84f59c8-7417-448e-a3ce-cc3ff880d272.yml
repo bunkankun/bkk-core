@@ -1,0 +1,48 @@
+uuid: c84f59c8-7417-448e-a3ce-cc3ff880d272
+type: tax-char
+heads:
+- 謂
+pronunciations:
+- reading: wèi
+  old_chinese: ɢuds
+  middle_chinese: ɦʷɨi
+  fanqie: 于貴切
+  tone: 去
+  guangyun: 言也告也説文報也
+  senses:
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+    children:
+    - gloss: intend thereby the sense
+      concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+      concept_label: MEAN
+      children:
+      - gloss: and be subjectively convinced
+        concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+        concept_label: BELIEVE
+        children:
+        - gloss: grammaticalised:be called
+          concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+          concept_label: COPULA
+          children:
+          - gloss: to someone
+            concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+            concept_label: ADDRESS
+            children:
+            - gloss: expressing question
+              concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+              concept_label: ASK
+            - gloss: issuing an order
+              concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+              concept_label: COMMAND
+      - gloss: intend thereby the reference
+        concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+        concept_label: REFER TO
+        children:
+        - gloss: means for referring
+          concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+          concept_label: NAME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-28T23:40:08.271+09:00'

@@ -1,0 +1,39 @@
+uuid: 1343b9d5-f985-4dfc-be54-919137f4fc56
+type: tax-char
+heads:
+- 案
+pronunciations:
+- reading: àn
+  old_chinese: qaans
+  middle_chinese: ʔɑn
+  fanqie: 烏旰切
+  tone: 去
+  guangyun: 几屬也史記曰髙祖過趙趙王張敖自持案進食又曹公作欹案卧視書又察行也考也驗也
+  senses:
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 6138f0de-3527-4a80-8210-fdbdf169f7d0
+    concept_label: TABLE
+  - concept_uuid: cd7f956f-6b2a-4fc6-93d6-b5374a10eb34
+    concept_label: BOWL
+  - concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+    concept_label: SEAT
+  - concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+    concept_label: LEGAL CASE
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+  - gloss: = 按
+source:
+  source_file: taxchar.xml

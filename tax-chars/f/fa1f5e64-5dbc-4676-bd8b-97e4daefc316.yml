@@ -1,0 +1,26 @@
+uuid: fa1f5e64-5dbc-4676-bd8b-97e4daefc316
+type: tax-char
+heads:
+- 梯
+pronunciations:
+- reading: tī
+  old_chinese: lʰiil
+  middle_chinese: tʰei
+  fanqie: 土雞切
+  tone: 平
+  guangyun: 説文云木階也土雞切九
+  senses:
+  - concept_uuid: e72b353f-d9f9-45ef-9644-df4dfe0605c3
+    concept_label: LADDER
+  - concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+    concept_label: CAUSE
+  - concept_uuid: ca311203-3343-4d07-93b5-f8d2bb3d67be
+    concept_label: LEAN ON
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+    concept_label: RECOMMEND
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

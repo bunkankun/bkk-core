@@ -1,0 +1,71 @@
+uuid: b7074520-f022-41a4-b3dc-c828175d7e58
+type: tax-char
+heads:
+- 許
+pronunciations:
+- reading: xǔ
+  old_chinese: hŋaʔ
+  middle_chinese: hiɔ
+  fanqie: 虚吕切
+  tone: 上
+  guangyun: 許可也與也聽也亦州名本爲許國大嶽之胤周武王伐紂所封漢爲潁川郡周爲許州又姓出髙陽汝南本自姜姓炎帝之後太嶽之胤其後因封爲氏虚吕切二
+  senses:
+  - concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+    concept_label: AGREE TO
+    children:
+    - gloss: to give to superior
+      concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+      concept_label: HAND UP
+    - gloss: active, intensitive
+      concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+      concept_label: PROMISE
+    - gloss: 'transitive: change of subject'
+      concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+      concept_label: PERMIT
+      children:
+      - gloss: 'specific: to a marriage proposal'
+        concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+        concept_label: MARRY
+    - gloss: intellectual
+      concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+      concept_label: ASSENT
+      children:
+      - gloss: generalised:like this
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+        children:
+        - gloss: many resembling in kind
+          concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+          concept_label: MANY
+      - gloss: personal
+        concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+        concept_label: BELIEVE
+        children:
+        - gloss: grammaticalised
+          concept_label: PROBABLY
+      - gloss: psychological
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+        children:
+        - gloss: prospective
+          concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+          concept_label: HOPE
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+    children:
+    - gloss: grammaticalised, late colloquial
+      concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+      concept_label: INSIDE
+  - gloss: grammaticalised
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - concept_uuid: 826b724d-03e9-42d2-96ae-c30cae318b67
+    concept_label: RULERS OF XU
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 0ec307f0-0c61-4f89-8d21-7ca15a4396f6
+    concept_label: WEAK VERBAL SUFFIX
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:42:46.166+09:00'

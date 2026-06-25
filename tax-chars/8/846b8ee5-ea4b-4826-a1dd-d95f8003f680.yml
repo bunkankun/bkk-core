@@ -1,0 +1,29 @@
+uuid: 846b8ee5-ea4b-4826-a1dd-d95f8003f680
+type: tax-char
+heads:
+- 瘠
+pronunciations:
+- reading: jí
+  old_chinese: dzeɡ
+  middle_chinese: dziɛk
+  fanqie: 秦昔切
+  tone: 入
+  guangyun: 病也瘦也
+  senses:
+  - concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+    concept_label: SLIM
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+    concept_label: BARREN
+  - concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+    concept_label: SIMPLE
+  - concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+    concept_label: TASTELESS
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - gloss: = 胔
+source:
+  source_file: taxchar.xml

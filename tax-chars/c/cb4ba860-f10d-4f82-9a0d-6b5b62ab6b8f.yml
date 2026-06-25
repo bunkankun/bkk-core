@@ -1,0 +1,28 @@
+uuid: cb4ba860-f10d-4f82-9a0d-6b5b62ab6b8f
+type: tax-char
+heads:
+- 蹉
+pronunciations:
+- reading: cuō
+  old_chinese: skhaal
+  middle_chinese: tsʰɑ
+  fanqie: 七何切
+  tone: 平
+  guangyun: 蹉跌也七何切七
+  senses:
+  - concept_uuid: c2e89145-9ff8-4132-ac96-fcb650d59bfc
+    concept_label: STUMBLE
+  - concept_uuid: 07a0323c-f326-44e7-a6e8-16d747e3a604
+    concept_label: PATH
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+    concept_label: RUB
+  - concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+    concept_label: DESCEND
+source:
+  source_file: taxchar.xml

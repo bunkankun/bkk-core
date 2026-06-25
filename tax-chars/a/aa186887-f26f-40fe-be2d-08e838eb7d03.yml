@@ -1,0 +1,88 @@
+uuid: aa186887-f26f-40fe-be2d-08e838eb7d03
+type: tax-char
+heads:
+- 要
+pronunciations:
+- reading: yāo
+  old_chinese: qew
+  middle_chinese: ʔiɛu
+  fanqie: 於霄切
+  tone: 平
+  guangyun: 俗言要勒説文曰身中也象人要皃自由之形今作腰又姓吴人要離之後漢有河南令要兢於霄切又一𥬇切九
+  senses:
+  - gloss: speech
+    concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+    concept_label: INVITE
+    children:
+    - gloss: general
+      concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+      concept_label: AGREE TO
+      children:
+      - gloss: action
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+      - gloss: what is agreed upon
+        concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+        concept_label: CONTRACT
+    - gloss: action
+      concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+      concept_label: WELCOME
+    - gloss: general
+      concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+      concept_label: SEEK
+      children:
+      - gloss: abstract> seek truth about
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+      - gloss: intensitive
+        concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+        concept_label: DEMAND
+        children:
+        - gloss: intensitive
+          concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+          concept_label: THREATEN
+          children:
+          - gloss: so as to prevent
+            concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+            concept_label: HINDER
+            children:
+            - gloss: general
+              concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+              concept_label: RESTRAIN
+              children:
+              - gloss: so as to put right
+                concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+                concept_label: CORRECT
+      - gloss: 'resultative: manage to gain'
+        concept_uuid: 4d2115b4-dee5-4729-bd99-55ee2c88b1fc
+        concept_label: WIN TRUST
+    - gloss: grammaticalised
+      concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+      concept_label: DIRECTION
+  - gloss: =腰
+    concept_uuid: 8422d721-632c-4a62-94be-9b198bb373a3
+    concept_label: WAIST
+- reading: yào
+  old_chinese: qews
+  middle_chinese: ʔiɛu
+  fanqie: 於笑切
+  tone: 去
+  guangyun: 約也於𥬇切又於招切三
+  senses:
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+    children:
+    - gloss: one desires that
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+    - gloss: deserving attention
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+      children:
+      - gloss: general inportant point
+        concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+        concept_label: PRINCIPLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T00:17:37.078+09:00'

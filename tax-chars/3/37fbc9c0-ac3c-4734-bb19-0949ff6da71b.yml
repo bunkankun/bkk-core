@@ -1,0 +1,28 @@
+uuid: 37fbc9c0-ac3c-4734-bb19-0949ff6da71b
+type: tax-char
+heads:
+- 淳
+pronunciations:
+- reading: chún
+  old_chinese: djun
+  middle_chinese: dʑʷin
+  fanqie: 常倫切
+  tone: 平
+  guangyun: 清也朴也又姓何氏姓苑云今吴人
+  senses:
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: INTENSE
+  - concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+    concept_label: SIMPLE
+  - concept_uuid: f679bb6f-ae62-40d9-a179-b31e0f69e52a
+    concept_label: GENTLE
+  - concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+    concept_label: SALT
+  - gloss: PAIR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 焞
+source:
+  source_file: taxchar.xml

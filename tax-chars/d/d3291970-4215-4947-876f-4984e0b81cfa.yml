@@ -1,0 +1,58 @@
+uuid: d3291970-4215-4947-876f-4984e0b81cfa
+type: tax-char
+heads:
+- 練
+pronunciations:
+- reading: liàn
+  old_chinese: ɡ-reens
+  middle_chinese: len
+  fanqie: 郎甸切
+  tone: 去
+  guangyun: 白練又姓何氏姓苑云南康人郎甸切十五
+  senses:
+  - concept_uuid: b9326361-bccb-4bc3-ace6-7e51b121253b
+    concept_label: SILK PRODUCTION
+    children:
+    - gloss: product
+      concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+      concept_label: SILK
+    - gloss: similar action
+      concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+      concept_label: WASH
+      children:
+      - gloss: religious
+        concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+        concept_label: SACRIFICE
+      - gloss: metaphorical
+        concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+        concept_label: TEACH
+        children:
+        - gloss: generalisd
+          concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+          concept_label: CULTIVATE
+        - gloss: result
+          concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+          concept_label: KNOW
+          children:
+          - gloss: generalised
+            concept_uuid: cc904ef7-5afa-4730-811a-90532c83bcb5
+            concept_label: EXPERIENCE
+            children:
+            - gloss: resultative
+              concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+              concept_label: STRONG
+              children:
+              - gloss: subject
+                concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+                concept_label: SOLDIER
+    - gloss: resulting feature
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: ffacdeed-ca72-445e-88ce-79e2fc9db89a
+    concept_label: MELT
+source:
+  source_file: taxchar.xml

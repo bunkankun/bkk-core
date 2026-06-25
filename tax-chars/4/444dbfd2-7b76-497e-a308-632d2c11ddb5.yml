@@ -1,0 +1,84 @@
+uuid: 444dbfd2-7b76-497e-a308-632d2c11ddb5
+type: tax-char
+heads:
+- 聞
+pronunciations:
+- reading: wèn
+  old_chinese: mɯns
+  middle_chinese: miun
+  fanqie: 亡運切
+  tone: 去
+  guangyun: 名達詩曰令聞令望
+- reading: wén
+  old_chinese: mɯn
+  middle_chinese: miun
+  fanqie: 無分切
+  tone: 平
+  guangyun: 聞古文
+- reading: wén
+  old_chinese: mɯn
+  middle_chinese: miun
+  fanqie: 無分切
+  tone: 平
+  guangyun: 説文曰知聲也又音問
+  senses:
+  - gloss: perception
+    concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+    concept_label: HEAR
+    children:
+    - gloss: conative:act
+      concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+      concept_label: LISTEN
+      children:
+      - gloss: cause to be listened to
+        concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+        concept_label: TRANSMIT
+        children:
+        - gloss: object
+          concept_uuid: 00903c44-a96f-4ce4-bf41-3140258ce3fa
+          concept_label: TRADITION
+      - gloss: object:what one listens to
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+      - gloss: listen to and participate in government meetings
+        concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+        concept_label: GOVERN
+      - gloss: resultative:and act in accordance with what one has listened to
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+    - gloss: generalising
+      concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+      concept_label: RECEIVE
+  - gloss: inchoative:first hear about
+    concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+    concept_label: LEARN
+    children:
+    - gloss: perfective
+      concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+      concept_label: KNOW
+      children:
+      - gloss: be heard about
+        concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+        concept_label: WELL-KNOWN
+        children:
+        - gloss: favourably
+          concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+          concept_label: FAMOUS
+          children:
+          - gloss: abstract result
+            concept_uuid: b6fa4f8b-34f6-4de6-974e-10df5d1dcca4
+            concept_label: REPUTATION
+      - gloss: resultative:in depth
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+    - gloss: derived, by analogy
+      concept_uuid: 9bf7a297-3656-483f-a477-7b618b474da6
+      concept_label: SMELL
+      children:
+      - gloss: object
+        concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+        concept_label: ODOUR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T20:20:31.922+09:00'

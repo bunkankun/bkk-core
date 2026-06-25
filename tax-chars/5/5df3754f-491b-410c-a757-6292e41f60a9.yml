@@ -1,0 +1,72 @@
+uuid: 5df3754f-491b-410c-a757-6292e41f60a9
+type: tax-char
+heads:
+- 圓
+pronunciations:
+- reading: yuán
+  old_chinese: ɢon
+  middle_chinese: ɦʷɯiɛn
+  fanqie: 王權切
+  tone: 平
+  guangyun: 同圜
+  senses:
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+    children:
+    - gloss: feature
+      concept_uuid: 11aec024-937d-4ac6-a54d-a20ffa8ae3d4
+      concept_label: ROUND
+      children:
+      - concept_uuid: 530f4782-d196-4d93-b5f4-4384112fe678
+        concept_label: SMOOTH
+      - gloss: process
+        concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+        concept_label: REVOLVE
+      - gloss: action
+        concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+        concept_label: SURROUND
+        children:
+        - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+          concept_label: CONFORM
+          children:
+          - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+            concept_label: MOVE
+      - gloss: round object
+        concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+        concept_label: MONEY
+      - gloss: abstract
+        concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+        concept_label: FULL
+        children:
+        - gloss: generalised
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+          children:
+          - concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+            concept_label: WHOLE
+            children:
+            - gloss: feature
+              concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+              concept_label: BEAUTIFUL
+            - gloss: degree
+              concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+              concept_label: PERFECT
+            - gloss: in skills
+              concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+              concept_label: SKILLFUL
+            - gloss: quantitative
+              concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+              concept_label: ABUNDANT
+              children:
+              - gloss: causative
+                concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+                concept_label: GATHER
+    - gloss: grammaticalised
+      concept_uuid: 56a002e6-6ba2-4d87-8c5a-6707d2d19432
+      concept_label: CLASSIFIERS
+  - gloss: =原
+    concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 3920dd0b-88c2-4eb2-9e24-656117b4635f
+type: tax-char
+heads:
+- 叟
+pronunciations:
+- reading: sǒu
+  old_chinese: sooʔ
+  middle_chinese: səu
+  fanqie: 蘇后切
+  tone: 上
+  guangyun: 老叜蘇后切十五
+  senses:
+  - concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+    concept_label: OLD MAN
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+- reading: sǒu
+  old_chinese: sooʔ
+  middle_chinese: səu
+  fanqie: 蘇后切
+  tone: 上
+  guangyun: 同叜
+source:
+  source_file: taxchar.xml

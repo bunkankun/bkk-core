@@ -1,0 +1,83 @@
+uuid: 5ffcb2c9-5ae3-4174-970d-a11821e7fc9f
+type: tax-char
+heads:
+- 也
+pronunciations:
+- reading: yě
+  old_chinese: lalʔ
+  middle_chinese: jia
+  fanqie: 羊者切
+  tone: 上
+  guangyun: 語助辝之終也
+  senses:
+  - gloss: non-narrative post-sentential
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+    children:
+    - gloss: copulative, semantic
+      concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+      concept_label: MEAN
+    - gloss: factual
+      concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+      concept_label: REALITY
+      children:
+      - gloss: intensitive copulative judgement
+        concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+        concept_label: EXCLAMATORY PARTICLE
+      - gloss: copulative, identifying
+        concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+        concept_label: SAME
+        children:
+        - gloss: copulative, providing what is judged to be a typical case
+          concept_uuid: 8484f979-154f-4ed2-8d5b-d3dc925e91a2
+          concept_label: EXAMPLE
+          children:
+          - gloss: copulative, approximative
+            concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+            concept_label: RESEMBLE
+    - gloss: judgemental on cause
+      concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+      concept_label: BECAUSE
+      children:
+      - gloss: subordinating, factive
+        concept_uuid: bf9ba337-f179-4a74-bbb1-5bc886d43727
+        concept_label: SINCE
+      - gloss: judgmental apodosis
+        concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+        concept_label: THEN
+    - gloss: topicalising
+      concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+      concept_label: TOPIC MARKER
+      children:
+      - gloss: post-nominal
+        concept_uuid: 3f58631a-9379-443a-8edf-1abffbdd8887
+        concept_label: NOMINALISER
+    - gloss: subordinating, conditional
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+      children:
+      - gloss: hypothetical, contrary to fact
+        concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+        concept_label: COUNTERFACTUAL
+      - gloss: subordinating,temporal
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+        children:
+        - gloss: 'post-verbal> INTENSELY JIE HUIQUAN 2005: 851'
+    - gloss: judgementally interrogative
+      concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+      concept_label: QUESTION PARTICLES
+    - gloss: imperative, apodictive
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+  - gloss: physiology
+    concept_uuid: 79cf2fd0-24ba-4e35-8fb6-a5a94ce1e508
+    concept_label: VAGINA
+unattributed_senses:
+- gloss: yě
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  concept_label: ALSO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-13T02:14:56.511+09:00'

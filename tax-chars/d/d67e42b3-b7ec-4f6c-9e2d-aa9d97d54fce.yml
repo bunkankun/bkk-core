@@ -1,0 +1,56 @@
+uuid: d67e42b3-b7ec-4f6c-9e2d-aa9d97d54fce
+type: tax-char
+heads:
+- 力
+unattributed_senses:
+- concept_label: 'lì (曾開三入職來 (白一平: lik; 古韻: lik))筋也又姓黃帝佐力牧之後林直切九'
+  children:
+  - concept_label: 上古音系 1 力 聲符 力 韻部 職 韻部細分 0 對應廣韻小韻 力 擬音 rɯɡ
+- gloss: 力
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  concept_label: STRONG
+  children:
+  - gloss: have the strength to
+    concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+    children:
+    - gloss: social and political
+      concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+      concept_label: POWER
+      children:
+      - gloss: what gives power
+        concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+        concept_label: ARMY
+      - gloss: exercised
+        concept_uuid: 702641fc-d9bf-4c6d-b67d-db5a9f8f7b23
+        concept_label: RESULT
+        children:
+        - gloss: meritorious
+          concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+          concept_label: MERIT
+    - gloss: strong potential
+      concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+      concept_label: ENERGY
+      children:
+      - gloss: use energy
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+        children:
+        - gloss: use energy for an aim
+          concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+          concept_label: STRIVE FOR
+        - gloss: feature in service
+          concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+          concept_label: DILIGENT
+          children:
+          - gloss: persistent
+            concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+            concept_label: INSIST
+            children:
+            - gloss: grammaticalised
+              concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+              concept_label: INTENSELY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T19:28:55.577+09:00'

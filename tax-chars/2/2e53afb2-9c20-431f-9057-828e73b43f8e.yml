@@ -1,0 +1,22 @@
+uuid: 2e53afb2-9c20-431f-9057-828e73b43f8e
+type: tax-char
+heads:
+- 閨
+pronunciations:
+- reading: guī
+  old_chinese: kʷee
+  middle_chinese: kʷei
+  fanqie: 古攜切
+  tone: 平
+  guangyun: 閨閤
+  senses:
+  - concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+    concept_label: DOOR
+  - concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+    concept_label: ROOM
+  - concept_uuid: 3fecb448-28bb-47fa-8d0a-6c18829c09a0
+    concept_label: GUARD
+  - concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+    concept_label: WOMAN
+source:
+  source_file: taxchar.xml

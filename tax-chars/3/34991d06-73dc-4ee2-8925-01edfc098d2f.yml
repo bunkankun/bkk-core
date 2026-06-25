@@ -1,0 +1,32 @@
+uuid: 34991d06-73dc-4ee2-8925-01edfc098d2f
+type: tax-char
+heads:
+- 郊
+pronunciations:
+- reading: jiāo
+  old_chinese: kreew
+  middle_chinese: kɯau
+  fanqie: 古肴切
+  tone: 平
+  guangyun: 邑外曰郊
+  senses:
+  - concept_uuid: 519d9f60-de87-4384-8af8-3069c914135d
+    concept_label: SUBURB
+  - concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+    concept_label: ALTAR
+  - concept_uuid: 62559838-ff41-4b20-8b43-8842802bbda7
+    concept_label: SACRIFICE TO HEAVEN AND EARTH
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+    concept_label: GUEST HOUSE
+  - concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+    concept_label: COUNTRYSIDE
+  - concept_uuid: 6b73416e-f84f-44c8-85b3-a801677d2d13
+    concept_label: ORGAN
+  - concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+    concept_label: COMPANY
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,14 @@
+uuid: 25993c23-5464-4e12-8d1c-b055dc50205e
+type: tax-char
+heads:
+- 技
+unattributed_senses:
+- concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+  concept_label: SKILLFUL
+  children:
+  - concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+    concept_label: ARTISAN
+  - concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+source:
+  source_file: taxchar.xml

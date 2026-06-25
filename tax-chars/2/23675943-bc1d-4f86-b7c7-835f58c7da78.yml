@@ -1,0 +1,32 @@
+uuid: 23675943-bc1d-4f86-b7c7-835f58c7da78
+type: tax-char
+heads:
+- 徙
+pronunciations:
+- reading: xǐ
+  old_chinese: selʔ
+  middle_chinese: siɛ
+  fanqie: 斯氏切
+  tone: 上
+  guangyun: 移也斯氏切五
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - concept_uuid: f2ac46b3-e062-42cd-9ab9-9c57452c6eb3
+    concept_label: DISPLACE
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+  - concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+    concept_label: THEREUPON
+  - concept_uuid: 6ec00eb0-2e19-4d05-871a-823bed5c5db2
+    concept_label: TRANSFORM
+  - concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+    concept_label: PROMOTE
+  - concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+    concept_label: DEMOTE
+source:
+  source_file: taxchar.xml

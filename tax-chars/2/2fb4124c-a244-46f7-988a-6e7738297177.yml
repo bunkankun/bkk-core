@@ -1,0 +1,44 @@
+uuid: 2fb4124c-a244-46f7-988a-6e7738297177
+type: tax-char
+heads:
+- 嘆
+- 歎
+pronunciations:
+- reading: tān
+  old_chinese: mqhlaan
+  middle_chinese: tʰɑn
+  fanqie: 他干切
+  tone: 平
+  guangyun: 長息與歎同又音炭
+  senses:
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+- reading: tàn
+  old_chinese: mqhlaans
+  middle_chinese: tʰɑn
+  fanqie: 他旦切
+  tone: 去
+  guangyun: 同歎
+- reading: tàn
+  old_chinese: mqhlaans
+  middle_chinese: tʰɑn
+  fanqie: 他旦切
+  tone: 去
+  guangyun: 歎息
+  senses:
+  - concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+    concept_label: SIGH
+    children:
+    - gloss: in praise of
+      concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+      concept_label: PRAISE
+    - gloss: plaintive
+      concept_label: RECITE
+      children:
+      - gloss: with tune
+        concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+        concept_label: SING
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T23:39:29.303+09:00'

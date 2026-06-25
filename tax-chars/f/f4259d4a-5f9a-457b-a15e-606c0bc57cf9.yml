@@ -1,0 +1,42 @@
+uuid: f4259d4a-5f9a-457b-a15e-606c0bc57cf9
+type: tax-char
+heads:
+- 潤
+pronunciations:
+- reading: rùn
+  old_chinese: njuns
+  middle_chinese: ȵʷin
+  fanqie: 如順切
+  tone: 去
+  guangyun: 潤澤也又益也
+  senses:
+  - concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+    concept_label: EMBELLISH
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+    concept_label: IRRIGATE
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+    concept_label: RAIN
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+    concept_label: MERIT
+  - concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+    concept_label: PROFIT
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+    concept_label: LENIENT
+  - concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+    concept_label: RICH
+  - concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+    concept_label: INFLUENCE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,60 @@
+uuid: 778ca947-c713-4cd7-bdcd-95060d0ba427
+type: tax-char
+heads:
+- 語
+pronunciations:
+- reading: yǔ
+  old_chinese: ŋaʔ
+  middle_chinese: ŋiɔ
+  fanqie: 魚巨切
+  tone: 上
+  guangyun: 説文論也魚巨切十二
+- reading: yù
+  old_chinese: ŋas
+  middle_chinese: ŋiɔ
+  fanqie: 牛倨切
+  tone: 去
+  guangyun: 説也告也又魚巨切
+unattributed_senses:
+- concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  concept_label: SPEAK
+  children:
+  - gloss: abstract
+    concept_uuid: 80840f07-419c-43e0-944d-4384bd4ac153
+    concept_label: LANGUAGE
+    children:
+    - gloss: specifically physical
+      concept_uuid: 737cf532-c04e-4e47-8e9a-cd687a5485ef
+      concept_label: PRONUNCIATION
+      children:
+      - gloss: what is pronounced
+        concept_uuid: aecf371d-2cfd-4924-9e21-fee14f8e43e2
+        concept_label: WORD
+        children:
+        - gloss: recurrent complex
+          concept_uuid: b0c158f3-b385-4aa0-8365-11cf582ce4cb
+          concept_label: PROVERB
+        - gloss: complex narrative
+          concept_uuid: 4cf207dc-f42a-417e-b1d5-5823f4c3f5b2
+          concept_label: STORY
+- gloss: transitive
+  concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+  concept_label: ADDRESS
+  children:
+  - gloss: imperative
+    concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - gloss: informative
+    concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+    children:
+    - gloss: injunctive
+      concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+      concept_label: WARN
+    - gloss: interactive
+      concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+      concept_label: DIALOGUE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T17:07:12.134+09:00'

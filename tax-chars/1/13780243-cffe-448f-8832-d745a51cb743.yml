@@ -1,0 +1,26 @@
+uuid: 13780243-cffe-448f-8832-d745a51cb743
+type: tax-char
+heads:
+- 鳥
+pronunciations:
+- reading: niǎo
+  old_chinese: ntɯɯwʔ
+  middle_chinese: teu
+  fanqie: 都了切
+  tone: 上
+  guangyun: 説文曰長尾禽緫名也象形都了切九
+  senses:
+  - gloss: '[read diào]'
+    concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+    concept_label: BIRD
+    children:
+    - gloss: graphic
+      concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+      concept_label: CONSTELLATION
+  - gloss: =屌 read diào
+    concept_uuid: d7158159-74c5-4463-a85a-2e27a4104944
+    concept_label: PENIS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T00:21:27.259+09:00'

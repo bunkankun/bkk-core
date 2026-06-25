@@ -1,0 +1,46 @@
+uuid: 3c89c7a7-25c5-43b4-b0c4-5191804834a7
+type: tax-char
+heads:
+- 于
+pronunciations:
+- reading: yú
+  old_chinese: ɢʷra
+  middle_chinese: ɦio
+  fanqie: 羽俱切
+  tone: 平
+  guangyun: 曰也於也説文本作亏凡從于者作亐同又姓周武王子邘叔子孫以國爲氏其後去邑單爲于漢有丞相東海于定國又望出河南者即後魏書万忸于氏後改爲于氏凡諸姓望在後而稱河南者皆虜姓後魏孝文詔南遷者死不得還北即葬洛陽故虜姓皆稱河南焉又漢複姓五氏後漢特進漁陽鮮于輔袁紹大將軍淳于瓊劉元海太史令宣于修之何氏姓苑有多于氏鬬于氏羽俱切二十
+  senses:
+  - concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+    concept_label: BE IN
+    children:
+    - gloss: upper surface of
+      concept_uuid: 25b8af90-1d0c-42df-a315-560a79399cee
+      concept_label: 'ON'
+    - gloss: continuative
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: generalising
+        concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+  - gloss: move so as to
+    concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+      concept_label: TOWARDS
+      children:
+      - gloss: benefitting
+        concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+        concept_label: FOR
+    - gloss: source
+      concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+      concept_label: FROM
+    - gloss: comparative
+      concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+      concept_label: RELATION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-08T21:25:55.125+09:00'

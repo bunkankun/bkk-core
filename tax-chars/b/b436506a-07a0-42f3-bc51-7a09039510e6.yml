@@ -1,0 +1,45 @@
+uuid: b436506a-07a0-42f3-bc51-7a09039510e6
+type: tax-char
+heads:
+- 冷
+pronunciations:
+- reading: lěng
+  old_chinese: ɡ-raaŋʔ
+  middle_chinese: lɯaŋ
+  fanqie: 魯打切
+  tone: 上
+  guangyun: 寒也魯打切又魯頂切一
+- reading: lǐng
+  old_chinese: ɡ-reeŋʔ
+  middle_chinese: leŋ
+  fanqie: 力鼎切
+  tone: 上
+  guangyun: 寒也又姓前趙録有徐州刺史冷道字安義又盧打切
+  senses:
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+  - concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+    concept_label: BOREDOM
+  - concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+    concept_label: LEISURE
+  - concept_uuid: afa1eaf9-9b3c-4eed-9fc9-149fd66f1edf
+    concept_label: DISAPPOINTED
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+    concept_label: DESPISE
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+- reading: líng
+  old_chinese: ɡ-reeŋ
+  middle_chinese: leŋ
+  fanqie: 郎丁切
+  tone: 平
+  guangyun: 冷凙吴人云冰凌又力頂切
+  senses:
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+source:
+  source_file: taxchar.xml

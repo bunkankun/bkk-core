@@ -1,0 +1,74 @@
+uuid: 63042c3b-5dac-423e-a600-8a72f96e6b9a
+type: tax-char
+heads:
+- 物
+pronunciations:
+- reading: wù
+  old_chinese: mɯd
+  middle_chinese: miut
+  fanqie: 文弗切
+  tone: 入
+  guangyun: 萬物也又旗名周禮雜帛爲物説文曰牛爲大物天地之數起於牽牛故從牛勿文弗切九
+  senses:
+  - gloss: 'abstract: kind of thing'
+    concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+    concept_label: THING
+    children:
+    - gloss: abstract:as opposed to self
+      concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+      concept_label: OTHER
+    - gloss: specifically
+      concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+      concept_label: PRECIOUS
+      children:
+      - gloss: edible
+        concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+        concept_label: DELICACY
+    - gloss: external of external
+      concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+      concept_label: WORLD
+    - gloss: referred to, i.e. meaning
+      concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+      concept_label: MEAN
+  - gloss: happening in time
+    concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+    concept_label: EVENT
+    children:
+    - gloss: 'general: living'
+      concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+      concept_label: CREATURE
+      children:
+      - gloss: 'specific: animate'
+        concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+        concept_label: ANIMAL
+        children:
+        - gloss: animate and supernatural
+          concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+          concept_label: DEITY
+          children:
+          - gloss: 'non-natural, extraordinary:'
+            concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+            concept_label: STRANGE
+    - gloss: abstract
+      concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+      concept_label: CATEGORY
+      children:
+      - gloss: categorise
+        concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+        concept_label: ASSESS
+      - gloss: pigmental, of cattle
+        concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+        concept_label: COLOUR
+    - gloss: signifying allegiance
+      concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+      concept_label: BANNER
+    - gloss: offered up to state
+      concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+      concept_label: TAX
+    - gloss: offered up to gods
+      concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+      concept_label: SACRIFICE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-05T00:19:27.189+09:00'

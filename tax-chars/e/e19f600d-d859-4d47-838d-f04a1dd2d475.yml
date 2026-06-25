@@ -1,0 +1,87 @@
+uuid: e19f600d-d859-4d47-838d-f04a1dd2d475
+type: tax-char
+heads:
+- 顛
+pronunciations:
+- reading: diān
+  old_chinese: tiin
+  middle_chinese: ten
+  fanqie: 都年切
+  tone: 平
+  guangyun: 頂也又姓左傳晉有顚頡都年切十五
+  senses:
+  - concept_uuid: a434b70f-c079-4aff-a1ca-bcf568aa3cfd
+    concept_label: FOREHEAD
+    children:
+    - gloss: generalised
+      concept_uuid: 566b791c-d2a1-46ca-8187-a2d071ebc5d1
+      concept_label: HEAD
+      children:
+      - gloss: 'metaphorical: basis'
+        concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+        concept_label: BEGIN
+      - gloss: generalised
+        concept_uuid: f5018723-71ea-49c5-8911-415a8745d1a8
+        concept_label: TOP
+        children:
+        - gloss: generalised
+          concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+          concept_label: SUMMIT
+        - gloss: 'action: on tiptoe'
+          concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+          concept_label: STAND
+          children:
+          - gloss: result
+            concept_uuid: c2e89145-9ff8-4132-ac96-fcb650d59bfc
+            concept_label: STUMBLE
+            children:
+            - gloss: result
+              concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+              concept_label: FALL
+              children:
+              - gloss: result
+                concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+                concept_label: COLLAPSE
+                children:
+                - gloss: generalised
+                  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+                  concept_label: DIE
+              - gloss: grammaticalised
+                concept_uuid: 62252aba-6452-4ee9-aeb4-3b50862a8170
+                concept_label: BELOW
+            - gloss: result
+              concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+              concept_label: CONFUSED
+              children:
+              - gloss: resulting reaction
+                concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+                concept_label: SHAKE
+              - gloss: resulting action
+                concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+                concept_label: FLEE
+  - concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+    concept_label: WEIGH
+  - gloss: =癲
+    concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+    concept_label: MAD
+    children:
+    - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+      concept_label: UNRESTRAINED
+      children:
+      - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+        concept_label: VIOLENT
+  - gloss: SURNAME
+- reading: diān
+  old_chinese: tiin
+  middle_chinese: ten
+  fanqie: 都年切
+  tone: 平
+  guangyun: 同顚
+- reading: tiàn
+  old_chinese: thiins
+  middle_chinese: tʰen
+  fanqie: 他甸切
+  tone: 去
+  guangyun: 同瑱
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,48 @@
+uuid: b1fbe757-66bc-4f2c-9d38-ed3662c842ed
+type: tax-char
+heads:
+- 朝
+pronunciations:
+- reading: zhāo
+  old_chinese: taw
+  middle_chinese: ʈɯiɛu
+  fanqie: 陟遙切
+  tone: 平
+  guangyun: 早也又旦至食時爲終朝又朝鮮國名亦姓左傳有蔡大夫朝吴陟遥切又直遥切二
+- reading: cháo
+  old_chinese: daw
+  middle_chinese: ɖɯiɛu
+  fanqie: 直遙切
+  tone: 平
+  guangyun: 朝廷也禮記曰諸侯於天子五年一朝又姓唐有拾遺朝衞
+unattributed_senses:
+- gloss: 'marked derivation: time of court session'
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  concept_label: MORNING
+  children:
+  - gloss: synekdoche
+    concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+    concept_label: DAY
+- concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  concept_label: COURT
+  children:
+  - gloss: 'action: go to court'
+    concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+    children:
+    - gloss: 'specifically: court gathering of “visitors”'
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+    - gloss: 'iussive: command to meet up'
+      concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+      concept_label: SUMMON
+  - gloss: attitude
+    concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - gloss: 'agent: clan ruling in'
+    concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+    concept_label: DYNASTY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-01T00:49:37.809+09:00'

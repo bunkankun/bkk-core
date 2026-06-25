@@ -1,0 +1,42 @@
+uuid: 8912de19-f775-4b1d-8fde-9c2e4d0fb286
+type: tax-char
+heads:
+- 闌
+pronunciations:
+- reading: lán
+  old_chinese: ɡ-raan
+  middle_chinese: lɑn
+  fanqie: 落干切
+  tone: 平
+  guangyun: 晚也牢也遮也希也又飲酒半罷曰闌
+  senses:
+  - concept_uuid: ef95796d-7e3a-4201-9a4a-cf48877073ad
+    concept_label: FENCE
+  - concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+    concept_label: LINE
+  - concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+    concept_label: CIRCLE
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+    concept_label: LATE
+  - concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+  - concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+    concept_label: DECLINE
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: fb4b8b85-67a4-4cbf-9af2-bed7617e2abf
+    concept_label: PICK UP
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

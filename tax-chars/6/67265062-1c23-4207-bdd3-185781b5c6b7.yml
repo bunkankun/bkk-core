@@ -1,0 +1,26 @@
+uuid: 67265062-1c23-4207-bdd3-185781b5c6b7
+type: tax-char
+heads:
+- 頻
+pronunciations:
+- reading: pín
+  old_chinese: bin
+  middle_chinese: bin
+  fanqie: 符眞切
+  tone: 平
+  guangyun: 數也急也比也説文作𩕨水厓人所賔附𩔤蹙不前而止又姓風俗通云漢有酒泉太守頻暢符眞切十四
+  senses:
+  - concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: URGENT
+  - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - concept_uuid: c5fc615d-935b-4b15-a3b8-9a9c73f226cd
+    concept_label: FROWN
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

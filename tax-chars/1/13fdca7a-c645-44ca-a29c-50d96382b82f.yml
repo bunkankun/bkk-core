@@ -1,0 +1,67 @@
+uuid: 13fdca7a-c645-44ca-a29c-50d96382b82f
+type: tax-char
+heads:
+- 抑
+pronunciations:
+- reading: yì
+  old_chinese: qɯɡ
+  middle_chinese: ʔɨk
+  fanqie: 於力切
+  tone: 入
+  guangyun: 按也説文作？从反印
+  senses:
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+    children:
+    - gloss: perfective
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: generalised
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+    - gloss: generalised
+      concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+      concept_label: SQUEEZE
+      children:
+      - gloss: suppressed, low (of voice etc)
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+      - gloss: 'specific: lower (head)'
+        concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+        concept_label: BOW DOWN
+      - gloss: 'social: cruelly'
+        concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+        concept_label: OPPRESS
+        children:
+        - gloss: depressed
+          concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+          concept_label: SAD
+        - gloss: passive
+          concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+          concept_label: YIELD
+        - gloss: force upon> IMPOSE
+        - gloss: abstract> INJUSTICE
+          children:
+          - gloss: result
+            concept_uuid: ced1a5ab-6f14-4e3f-afad-929f4f06a8d7
+            concept_label: RUIN
+        - gloss: 'generalised: social'
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+  - gloss: 'grammaticalised: exclamatory> OH'
+  - gloss: 'grammaticalised: logical'
+    concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+    concept_label: OR
+  - gloss: 'grammaticalised: adversative'
+    concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+    concept_label: BUT
+    children:
+    - gloss: logical 非…抑
+      concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+      concept_label: THEN
+  - gloss: =懿
+    concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

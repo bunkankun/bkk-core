@@ -1,0 +1,30 @@
+uuid: db9bf8a1-94f3-4061-8330-7500bb87f426
+type: tax-char
+heads:
+- 村
+pronunciations:
+- reading: cūn
+  old_chinese: tshuun
+  middle_chinese: tsʰuon
+  fanqie: 此尊切
+  tone: 平
+  guangyun: 墅也比尊切一
+  senses:
+  - concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+    concept_label: VILLAGE
+  - concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+    concept_label: VULGAR
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+    concept_label: CRUEL
+  - concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+    concept_label: SIMPLE
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+    concept_label: OFFEND
+source:
+  source_file: taxchar.xml

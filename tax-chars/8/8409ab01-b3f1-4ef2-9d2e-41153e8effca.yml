@@ -1,0 +1,50 @@
+uuid: 8409ab01-b3f1-4ef2-9d2e-41153e8effca
+type: tax-char
+heads:
+- 品
+pronunciations:
+- reading: pǐn
+  old_chinese: phrɯmʔ
+  middle_chinese: pʰɯim
+  fanqie: 丕飲切
+  tone: 上
+  guangyun: 官品又類也衆庶也式也法也二口則生訟三口乃能品量又姓出何氏姓苑丕飲切一
+  senses:
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+    concept_label: DISCUSS
+  - concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+    concept_label: FEATURE
+  - concept_uuid: 47eab800-447a-4ad7-8ae3-af202740a6e2
+    concept_label: SAVOUR
+  - concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+    concept_label: THING
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 35b29f22-c6a4-44b6-8597-fc4f5ede63e8
+    concept_label: CHARACTER
+  - concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+    concept_label: STYLE
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: eb8bb1da-a6f0-425d-a900-f65f4ba850ad
+    concept_label: PLAY MUSIC
+  - concept_uuid: fbd80395-37a3-4792-a81f-cb3bce9fb01c
+    concept_label: MUSICAL INSTRUMENT PARTS
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

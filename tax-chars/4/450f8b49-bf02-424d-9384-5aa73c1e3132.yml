@@ -1,0 +1,74 @@
+uuid: 450f8b49-bf02-424d-9384-5aa73c1e3132
+type: tax-char
+heads:
+- 業
+pronunciations:
+- reading: yè
+  old_chinese: ŋab
+  middle_chinese: ŋiɐp
+  fanqie: 魚怯切
+  tone: 入
+  guangyun: 事也大也敘也次也始也敬也嚴也説文作𢄁大版也所以飾縣鐘鼓捷業如鋸齒以白畫之象其鉏鋙相承也詩曰巨業維樅又爾雅曰大版謂之業郭璞云築牆版也俗作㸣魚怯切十五
+  senses:
+  - concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+    concept_label: ACHIEVE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+      concept_label: ALREADY
+    - gloss: innovating
+      concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+      concept_label: CREATE
+      children:
+      - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+        children:
+        - gloss: official
+          concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+          concept_label: OFFICE
+          children:
+          - gloss: part of
+            concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+            concept_label: DUTY
+      - concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+        concept_label: STRIVE FOR
+        children:
+        - gloss: what one has striven for
+          concept_uuid: adb5c10b-f78f-44d4-a280-b14e7ff2e3fc
+          concept_label: ASSET
+      - gloss: generalised
+        concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+        concept_label: BEGIN
+      - gloss: meritorious
+        concept_uuid: 74446972-f4e0-46a5-9cf1-01c8a7657a14
+        concept_label: KARMA
+        children:
+        - gloss: generalised
+          concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+          concept_label: ACT
+          children:
+          - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+            concept_label: CONTINUE
+            children:
+            - gloss: cause to continue tradition
+              concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+              concept_label: TEACH
+  - concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+    concept_label: BEAM
+    children:
+    - concept_uuid: 485ae3fe-3888-4367-8c5a-fd834178d569
+      concept_label: BOARD
+      children:
+      - concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+        concept_label: STATIONARY
+  - gloss: =隉
+    concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+    concept_label: DANGER
+- reading: yè
+  old_chinese: ŋab
+  middle_chinese: ŋiɐp
+  fanqie: 魚怯切
+  tone: 入
+  guangyun: 見業注
+source:
+  source_file: taxchar.xml

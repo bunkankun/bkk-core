@@ -1,0 +1,35 @@
+uuid: f34548ed-8b33-4b55-81d0-b2c5359d472c
+type: tax-char
+heads:
+- 艱
+pronunciations:
+- reading: jiān
+  old_chinese: krɯɯn
+  middle_chinese: kɯæn
+  fanqie: 古閑切
+  tone: 平
+  guangyun: 艱難
+  senses:
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+    concept_label: RARE
+  - gloss: DIFFUCULT
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: MOURNING
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+  - concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+    concept_label: CAUTIOUS
+- reading: jiān
+  old_chinese: krɯɯn
+  middle_chinese: kɯæn
+  fanqie: 古閑切
+  tone: 平
+  guangyun: 艱古文
+source:
+  source_file: taxchar.xml

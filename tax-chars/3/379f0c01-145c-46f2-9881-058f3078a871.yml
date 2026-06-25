@@ -1,0 +1,36 @@
+uuid: 379f0c01-145c-46f2-9881-058f3078a871
+type: tax-char
+heads:
+- 蕪
+pronunciations:
+- reading: wú
+  old_chinese: ma
+  middle_chinese: mio
+  fanqie: 武夫切
+  tone: 平
+  guangyun: 荒蕪
+  senses:
+  - concept_uuid: 8aadcd2d-503d-47eb-af15-2f52c5e8424d
+    concept_label: WEEDS
+    children:
+    - gloss: generalised
+      concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+      concept_label: PLANTS
+    - gloss: feature
+      concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+      concept_label: MIXED
+    - gloss: feature
+      concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+      concept_label: ABUNDANT
+      children:
+      - gloss: intensitive
+        concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+        concept_label: EXCESSIVE
+    - gloss: related state
+      concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+      concept_label: CHAOS
+  - gloss: land characterised by weedes only
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

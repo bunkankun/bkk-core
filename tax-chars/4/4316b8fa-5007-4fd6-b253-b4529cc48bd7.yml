@@ -1,0 +1,58 @@
+uuid: 4316b8fa-5007-4fd6-b253-b4529cc48bd7
+type: tax-char
+heads:
+- 寒
+pronunciations:
+- reading: hán
+  old_chinese: ɡaan
+  middle_chinese: ɦɑn
+  fanqie: 胡安切
+  tone: 平
+  guangyun: 寒暑也釋名曰寒捍也捍格也亦姓後漢博士魯國寒㓪武王子寒侯之後也胡安切十一
+  senses:
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+    children:
+    - gloss: 'medical: common cold'
+      concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+      concept_label: ILLNESS
+    - gloss: emotional
+      concept_uuid: 39716f0d-ab68-4d17-9624-a6a369f691e3
+      concept_label: INDIFFERENT
+    - gloss: period
+      concept_label: WINTER
+      children:
+      - gloss: reaction to
+        concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+        concept_label: WITHER
+      - gloss: human reaction
+        concept_uuid: b237081d-2ffa-4cc5-bb3e-04792610663b
+        concept_label: TREMBLE
+        children:
+        - gloss: psychological
+          concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+          concept_label: FEAR
+          children:
+          - gloss: causative
+            concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+            concept_label: FRIGHTEN
+    - gloss: divinity attached to cold River short for 司寒
+      concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+      concept_label: DEITY
+  - gloss: living in unheated home, of low status
+    concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+    concept_label: HUMBLE
+    children:
+    - gloss: specific
+      concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+      concept_label: POOR
+    - gloss: grammaticalised:self-deprecatory
+      concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+      concept_label: EGO
+  - gloss: proper name
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T23:22:43.156+09:00'

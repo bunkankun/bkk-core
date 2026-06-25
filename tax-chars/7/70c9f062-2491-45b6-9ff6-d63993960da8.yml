@@ -1,0 +1,64 @@
+uuid: 70c9f062-2491-45b6-9ff6-d63993960da8
+type: tax-char
+heads:
+- 集
+pronunciations:
+- reading: jí
+  old_chinese: sɡub
+  middle_chinese: dzip
+  fanqie: 秦入切
+  tone: 入
+  guangyun: 聚也會也就也成也安也同也衆也本作雧字林云羣鳥駐木上亦州名漢宕渠縣梁爲東巴州恭帝爲集州以有集水名之又姓風俗通云漢有外黃令集一秦入切九
+  senses:
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+  - gloss: on trees, together, inchoative
+    concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+  - gloss: grammaticalised
+    concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - gloss: of rain, coagulate and
+    concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - gloss: feature
+    concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: MIXED
+  - gloss: quantitative
+    concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - gloss: causative
+    concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: COLLECT
+  - gloss: by use of words
+    concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - gloss: by order
+    concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+    concept_label: SUMMON
+  - gloss: undesirable object
+    concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+  - gloss: where one is to meet
+    concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - gloss: 'abstract: at what is aimed at'
+    concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+    concept_label: ACHIEVE
+  - gloss: generalised, perfective
+    concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+  - gloss: continuative
+    concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+  - gloss: feature
+    concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - gloss: place where pepole meet
+    concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+    concept_label: MARKET
+  - gloss: occasion where pepole meat
+    concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+source:
+  source_file: taxchar.xml

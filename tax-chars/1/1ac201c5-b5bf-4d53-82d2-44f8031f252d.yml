@@ -1,0 +1,91 @@
+uuid: 1ac201c5-b5bf-4d53-82d2-44f8031f252d
+type: tax-char
+heads:
+- 居
+pronunciations:
+- reading: jī
+  old_chinese: kɯ
+  middle_chinese: kɨ
+  fanqie: 居之切
+  tone: 平
+  guangyun: 語助見禮
+- reading: jū
+  old_chinese: ka
+  middle_chinese: kiɔ
+  fanqie: 九魚切
+  tone: 平
+  guangyun: 當也處也安也九魚切十四
+  senses:
+  - concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+    children:
+    - gloss: abstract
+      concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+      concept_label: BE IN
+      children:
+      - gloss: abstract object
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+      - gloss: causative
+        concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+        concept_label: ACCUMULATE
+        children:
+        - gloss: occur, of time, “pass”
+          concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+          concept_label: HAPPEN
+          children:
+          - gloss: grammaticalised
+            concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+            concept_label: THEREUPON
+    - gloss: generalise
+      concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+      children:
+      - gloss: object
+        concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+        concept_label: DWELLING
+        children:
+        - gloss: permanent of family
+          concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+          concept_label: HOME
+      - gloss: generalising:continuative
+        concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+        concept_label: REMAIN
+        children:
+        - gloss: with opinion
+          concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+          concept_label: INSIST
+        - gloss: as living creature
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+          children:
+          - gloss: in one’s dwelling
+            concept_uuid: d54ee83d-bcf5-44c0-8ac1-66ee701ab3b3
+            concept_label: BE AT HOME
+            children:
+            - gloss: inactive
+              concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+              concept_label: REST
+              children:
+              - gloss: quality
+                concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+                concept_label: PEACEFUL
+                children:
+                - gloss: active
+                  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+                  concept_label: ACT
+                  children:
+                  - gloss: in accordance with
+                    concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+                    concept_label: CONFORM
+      - gloss: generalised
+        concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+        concept_label: HAVE
+        children:
+        - gloss: occupy
+          concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+          concept_label: POSSESS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T02:40:22.892+09:00'

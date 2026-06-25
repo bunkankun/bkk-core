@@ -1,0 +1,32 @@
+uuid: 7699e193-9c89-4ec1-a7b0-985ddc3d2616
+type: tax-char
+heads:
+- 丈
+pronunciations:
+- reading: zhàng
+  old_chinese: daŋʔ
+  middle_chinese: ɖiɐŋ
+  fanqie: 直兩切
+  tone: 上
+  guangyun: 説苑曰十尺爲丈直兩切四
+  senses:
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+    children:
+    - gloss: action
+      concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+      concept_label: MEASURE
+    - gloss: human of a certain size
+      concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+      concept_label: ADULT
+      children:
+      - gloss: honorific
+        concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+        concept_label: OLD MAN
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+          concept_label: YOU
+  - gloss: =杖
+source:
+  source_file: taxchar.xml

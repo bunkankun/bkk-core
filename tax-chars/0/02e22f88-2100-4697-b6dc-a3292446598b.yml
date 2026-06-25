@@ -1,0 +1,26 @@
+uuid: 02e22f88-2100-4697-b6dc-a3292446598b
+type: tax-char
+heads:
+- 箴
+pronunciations:
+- reading: zhēn
+  old_chinese: kjum
+  middle_chinese: tɕim
+  fanqie: 職深切
+  tone: 平
+  guangyun: 箴規也又姓風俗通云有衞大夫箴莊子
+  senses:
+  - concept_uuid: 31a8226c-d5cc-439f-bcfd-ba9e070309dd
+    concept_label: NEEDLE
+  - concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+  - concept_uuid: 3a56af4e-c91b-45ac-8a04-e95bdb19d0e3
+    concept_label: STAB
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

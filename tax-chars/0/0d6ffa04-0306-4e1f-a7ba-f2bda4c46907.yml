@@ -1,0 +1,39 @@
+uuid: 0d6ffa04-0306-4e1f-a7ba-f2bda4c46907
+type: tax-char
+heads:
+- 怨
+pronunciations:
+- reading: yuàn
+  old_chinese: qons
+  middle_chinese: ʔʷiɐn
+  fanqie: 於願切
+  tone: 去
+  guangyun: 恨也説文恚也於願切二
+  senses:
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+    children:
+    - gloss: declarative:intellectual
+      concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+      concept_label: CRITICISE
+      children:
+      - gloss: declarative:moral
+        concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+        concept_label: BLAME
+    - gloss: resultative, reaction
+      concept_label: GRIEVE
+- reading: yuān
+  old_chinese: qon
+  middle_chinese: ʔʷiɐn
+  fanqie: 於袁切
+  tone: 平
+  guangyun: 怨讎又於願切
+  senses:
+  - gloss: exocentric
+    concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+    concept_label: ENEMY
+  - concept_label: =冤屈
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T23:57:29.731+09:00'

@@ -1,0 +1,71 @@
+uuid: 117a142f-c7e3-4ec4-bdd8-e2ba87a3e92b
+type: tax-char
+heads:
+- 管
+pronunciations:
+- reading: guǎn
+  old_chinese: koonʔ
+  middle_chinese: kʷɑn
+  fanqie: 古滿切
+  tone: 上
+  guangyun: 樂器也主當也又姓出平原周文王子管叔之後古滿切十二
+  senses:
+  - concept_uuid: b40fb143-e752-4466-b2f0-73a4d94973c8
+    concept_label: WIND INSTRUMENTS
+    children:
+    - gloss: general
+      concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+      concept_label: MUSICAL INSTRUMENT
+    - gloss: 'specific: pitch-pipe'
+      concept_uuid: f6bdf64f-3f6a-4d18-b375-1983d90178d2
+      concept_label: PIPE
+      children:
+      - gloss: as with a pitch-pipe
+        concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+        concept_label: CONTROL
+        children:
+        - gloss: controlling agency of perception
+          concept_uuid: 6b73416e-f84f-44c8-85b3-a801677d2d13
+          concept_label: ORGAN
+          children:
+          - gloss: be concerned with
+            concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+            concept_label: THINK
+            children:
+            - gloss: be thought important, concern
+              concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+              concept_label: RELATION
+            - gloss: be thought reliable
+              concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+              concept_label: CERTAIN
+            - gloss: exhortative
+              concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+              concept_label: TEACH
+      - gloss: general
+        concept_uuid: 076ddefe-e440-492d-90da-31151ed87031
+        concept_label: TUBE
+        children:
+        - gloss: guǎn
+          concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+          concept_label: GATE PART
+          children:
+          - gloss: 'concrete: tubular tool'
+            concept_uuid: 5ae22d8a-949e-4519-8d2e-8459e1102610
+            concept_label: KEY
+        - gloss: 'figurative: intellectually narrow like a pipe'
+          concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+          concept_label: STUPID
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 3d9048f2-a399-4946-88e3-8897807ffb5d
+    concept_label: THINKERS
+  - concept_uuid: 1ec9979a-8744-449f-9330-d06a47b31693
+    concept_label: WRITING TOOL
+unattributed_senses:
+- concept_label: 管 guan1 《集韻》古丸切，平桓見。
+  children:
+  - concept_label: =官
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-12T20:03:25.737+09:00'

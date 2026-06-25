@@ -1,0 +1,101 @@
+uuid: c9bbcb08-9d67-46a6-b3d4-fa88111954c4
+type: tax-char
+heads:
+- 解
+pronunciations:
+- reading: jiě
+  old_chinese: kreeʔ
+  middle_chinese: kɯæ
+  senses:
+  - concept_uuid: a3b41487-8afe-4d30-8434-d8a6b801ca01
+    concept_label: UNTIE
+    children:
+    - gloss: clothes
+      concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+      concept_label: TAKE OFF
+    - gloss: generalised
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+      children:
+      - gloss: as worthless
+        concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+        concept_label: DISCARD
+      - gloss: 'specifically: cut off'
+        concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+        concept_label: CUT
+        children:
+        - gloss: so as to cause to die
+          concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+          concept_label: KILL
+          children:
+          - gloss: officially
+            concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+            concept_label: EXECUTE
+      - gloss: from detention
+        concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+        concept_label: RELEASE
+        children:
+        - gloss: disperse
+          concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+          concept_label: SCATTER
+  - gloss: abstract
+    concept_uuid: ad0cb391-810d-4740-9994-266d02712d0f
+    concept_label: ANALYSE
+    children:
+    - gloss: religious
+      concept_label: LIBERATION
+      children:
+      - gloss: causative
+        concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+        concept_label: EXPLAIN
+        children:
+        - gloss: figurative
+          concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+          concept_label: UNDERSTAND
+          children:
+          - gloss: so as to be able to deal with
+            concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+            concept_label: ABLE
+          - gloss: resultative
+            concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+            concept_label: FORGIVE
+          - gloss: action:resultative
+            concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+            concept_label: DECIDE
+  - gloss: in poetry
+    concept_label: STANZA
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+- reading: jiè
+  old_chinese: krees
+  middle_chinese: kɯæ
+  senses:
+  - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+    concept_label: SEND
+- reading: xiè
+  old_chinese: ɡreeʔ
+  middle_chinese: ɦɯæ
+  fanqie: 胡買切
+  tone: 上
+  guangyun: 曉也又解廌仁獸似牛一角亦姓自唐叔虞食邑於解今解縣也晉有解狐解楊出鴈門又虜複姓魏書有解批氏又佳買古賣二切
+- reading: xiè
+  old_chinese: ɡrees
+  middle_chinese: ɦɯæ
+  fanqie: 胡懈切
+  tone: 去
+  guangyun: 曲解亦縣名在蒲州又古賣古買胡買三切
+unattributed_senses:
+- concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  concept_label: LAZY
+  children:
+  - gloss: action
+    concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+    children:
+    - gloss: of war
+      concept_uuid: 82a12bdd-5f0d-4bf6-b4da-8b92ce215217
+      concept_label: PEACE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:04:11.553+09:00'

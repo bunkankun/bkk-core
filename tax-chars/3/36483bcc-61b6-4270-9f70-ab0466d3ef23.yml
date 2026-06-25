@@ -1,0 +1,104 @@
+uuid: 36483bcc-61b6-4270-9f70-ab0466d3ef23
+type: tax-char
+heads:
+- 啟
+pronunciations:
+- reading: qǐ
+  old_chinese: kheeʔ
+  middle_chinese: kʰei
+  fanqie: 康禮切
+  tone: 上
+  guangyun: 開也發也别也刻也説文教也俗作啟康禮切十二
+  senses:
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+    children:
+    - gloss: metaphorical
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+        concept_label: PRECEDE
+        children:
+        - gloss: 'exocentric: beginning plant'
+          concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+          concept_label: SPROUT
+      - gloss: time of
+        concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+        concept_label: DAY
+      - gloss: causative
+        concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+        concept_label: CAUSE TO
+        children:
+        - gloss: 'specific: to thrive'
+          concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+          concept_label: SUPPORT
+          children:
+          - gloss: specific
+            concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+            concept_label: AGRICULTURE
+        - gloss: to understand
+          concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+          concept_label: TEACH
+          children:
+          - gloss: specific
+            concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+            concept_label: GUIDE
+            children:
+            - gloss: object peopole
+              concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+              concept_label: GOVERN
+        - gloss: cause to exist
+          concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+          concept_label: CREATE
+          children:
+          - gloss: specific
+            concept_uuid: 4620f4a0-f713-42d4-aa78-e25719265d79
+            concept_label: INSCRIBE
+          - gloss: abstract
+            concept_uuid: b1bba123-4636-40ce-b77a-bcf517811143
+            concept_label: INVENT
+        - gloss: to be visible
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+          children:
+          - gloss: object contrast
+            concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+            concept_label: DISTINGUISH
+          - gloss: through use of language
+            concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+            concept_label: REPORT
+            children:
+            - gloss: generalised
+              concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+              concept_label: SPEAK
+            - gloss: written
+              concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+              concept_label: LETTER
+              children:
+              - gloss: to superiors
+                concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+                concept_label: MEMORIAL
+              - gloss: generalised
+                concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+                concept_label: DOCUMENT
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - gloss: =目under upper part of啓LOOK
+  - gloss: =跽
+    concept_uuid: a076835f-2bcc-4bcb-bae2-a60aefddfaaa
+    concept_label: KNEEL
+  - concept_uuid: 69b0a99e-0e0f-4174-b7ec-95e74d3f31c8
+    concept_label: RULERS OF XIA
+- reading: qǐ
+  old_chinese: kheeʔ
+  middle_chinese: kʰei
+  fanqie: 康禮切
+  tone: 上
+  guangyun: 説文開也
+source:
+  source_file: taxchar.xml

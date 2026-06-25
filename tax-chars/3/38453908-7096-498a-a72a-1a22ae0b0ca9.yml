@@ -1,0 +1,28 @@
+uuid: 38453908-7096-498a-a72a-1a22ae0b0ca9
+type: tax-char
+heads:
+- 甫
+pronunciations:
+- reading: fǔ
+  old_chinese: paʔ
+  middle_chinese: pio
+  fanqie: 方矩切
+  tone: 上
+  guangyun: 始也大也我也衆也説文曰男子之美稱也字从父用又姓風俗通云甫侯之後方矩切十九
+  senses:
+  - concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+    concept_label: HAT
+  - concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+    concept_label: THEREUPON
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,35 @@
+uuid: 75258303-8163-4a01-a5c8-e3e12aba783d
+type: tax-char
+heads:
+- 騷
+pronunciations:
+- reading: sāo
+  old_chinese: suu
+  middle_chinese: sɑu
+  fanqie: 蘇遭切
+  tone: 平
+  guangyun: 愁也蘇遭切十三
+  senses:
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+  - concept_uuid: ba82af8b-b1d9-4907-baec-da112c8751a2
+    concept_label: SCRATCH
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: 3eec489f-a629-4423-aa35-09d250630bd4
+    concept_label: LITERARY WORK
+  - concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+    concept_label: TEXT
+  - concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+    concept_label: LEWD
+  - concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+  - concept_uuid: 9c78f4f3-ebdb-4b6e-bf2f-42a62071ed4f
+    concept_label: GAME
+  - gloss: = 臊
+  - gloss: = 瘙
+  - gloss: = 掃
+source:
+  source_file: taxchar.xml

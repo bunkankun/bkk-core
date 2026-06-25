@@ -1,0 +1,24 @@
+uuid: a419b3ab-c0fb-4c6c-8e48-dc6467d1229a
+type: tax-char
+heads:
+- 律
+pronunciations:
+- reading: lǜ
+  old_chinese: b-rud
+  middle_chinese: lʷit
+  fanqie: 呂卹切
+  tone: 入
+  guangyun: 律吕又律法也吕䘏切八
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+    concept_label: METHOD
+  - concept_uuid: f6bdf64f-3f6a-4d18-b375-1983d90178d2
+    concept_label: PIPE
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,28 @@
+uuid: 169f17bd-5de2-4d1b-9d75-ac21d467ef6c
+type: tax-char
+heads:
+- 淑
+pronunciations:
+- reading: shū
+  old_chinese: ɡljɯwɡ
+  middle_chinese: dʑiuk
+  fanqie: 殊六切
+  tone: 入
+  guangyun: 善也
+  senses:
+  - concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+    concept_label: DECENT
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+  - concept_uuid: 278eb26c-ce4a-4ce0-bbb2-008fa6ea5669
+    concept_label: WARM
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

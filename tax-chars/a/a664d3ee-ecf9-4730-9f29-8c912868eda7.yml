@@ -1,0 +1,62 @@
+uuid: a664d3ee-ecf9-4730-9f29-8c912868eda7
+type: tax-char
+heads:
+- 算
+pronunciations:
+- reading: suàn
+  old_chinese: sqoons
+  middle_chinese: sʷɑn
+  fanqie: 蘇貫切
+  tone: 去
+- reading: suàn
+  old_chinese: sqloons
+  middle_chinese: sʷɑn
+  fanqie: 蘇貫切
+  tone: 去
+  guangyun: 計也數也説文曰筭長六寸計歷數者也又有九章術漢許商杜忠吴陳熾魏王粲並善之丗本曰黃帝時隷首作數蘇貫切四
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+- reading: suàn
+  old_chinese: sqoonʔ
+  middle_chinese: sʷɑn
+  fanqie: 蘇管切
+  tone: 上
+  guangyun: 物之數也蘇管切三
+  senses:
+  - concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+    concept_label: CALCULATE
+  - concept_uuid: 1a945368-8fe0-42d1-8db9-05b2781e1056
+    concept_label: COUNT
+  - concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+    concept_label: IMPORTANT
+  - concept_uuid: 23a8a188-beec-4d68-9f1f-22c9340ed189
+    concept_label: MATHEMATICS
+  - concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+    concept_label: STICK
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: cd999993-9ade-41a9-8786-2cc075afaa5c
+    concept_label: PLOT
+  - concept_uuid: 1bebc2e6-a495-453e-aa66-4919c1ddaf15
+    concept_label: PREDICT
+  - concept_uuid: 0253f062-ec1c-4af9-8d78-6d22ef588077
+    concept_label: LIFE
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+  - concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+  - concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+    concept_label: POSSESS
+  - concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+    concept_label: WISE
+source:
+  source_file: taxchar.xml

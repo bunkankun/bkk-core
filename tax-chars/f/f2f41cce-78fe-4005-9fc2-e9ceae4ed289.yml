@@ -1,0 +1,50 @@
+uuid: f2f41cce-78fe-4005-9fc2-e9ceae4ed289
+type: tax-char
+heads:
+- 餘
+pronunciations:
+- reading: yú
+  old_chinese: la
+  middle_chinese: jiɔ
+  fanqie: 以諸切
+  tone: 平
+  guangyun: 殘也䞉也皆也饒也又姓晉有餘頠又漢複姓三氏晉卿韓宣子之後有名餘子者奔於齊號韓餘氏又傅餘氏本自傅説説旣爲相其後有留於傅巖者因號傅餘氏秦亂自清河入吴漢興還本郡餘不還者曰傅氏今吴郡有之風俗通云呉公子夫[扌旣]奔楚其子在國以夫餘爲氏今百濟王夫餘氏也
+  senses:
+  - concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+    concept_label: SURPLUS
+    children:
+    - gloss: abstract
+      concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+      concept_label: OTHER
+    - gloss: salient feature
+      concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+      concept_label: ABUNDANT
+  - gloss: salient feature
+    concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+    concept_label: UNIMPORTANT
+    children:
+    - gloss: natural reaction
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+    - gloss: consequent state
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: specifically among generations
+        concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+        concept_label: DESCENDANT
+        children:
+        - gloss: grammaticalised
+          concept_uuid: bcb6986f-3280-48f8-973c-c3d5283d75e3
+          concept_label: AFTER
+      - gloss: process
+        concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+        concept_label: LIVE
+unattributed_senses:
+- gloss: Yue dialect word
+  concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+  concept_label: SALT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T17:10:58.594+09:00'

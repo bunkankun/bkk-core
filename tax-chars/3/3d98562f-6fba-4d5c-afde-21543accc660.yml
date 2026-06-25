@@ -1,0 +1,26 @@
+uuid: 3d98562f-6fba-4d5c-afde-21543accc660
+type: tax-char
+heads:
+- 竿
+pronunciations:
+- reading: gān
+  old_chinese: kaan
+  middle_chinese: kɑn
+  fanqie: 古寒切
+  tone: 平
+  guangyun: 竹竿
+  senses:
+  - concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+    concept_label: BAMBOO
+  - concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+    concept_label: STICK
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+source:
+  source_file: taxchar.xml

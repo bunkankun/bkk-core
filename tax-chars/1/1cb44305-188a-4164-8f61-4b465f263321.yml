@@ -1,0 +1,77 @@
+uuid: 1cb44305-188a-4164-8f61-4b465f263321
+type: tax-char
+heads:
+- 曲
+pronunciations:
+- reading: qū
+  old_chinese: khoɡ
+  middle_chinese: kʰiok
+  fanqie: 丘玉切
+  tone: 入
+  guangyun: 委曲説文作？象器曲受物之形又姓晉穆侯子成師封於曲沃後氏焉漢有代郡太守曲謙丘玉切四
+  senses:
+  - concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+    concept_label: BEND
+    children:
+    - gloss: resultative feature
+      concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+      concept_label: CURVED
+      children:
+      - gloss: action, own body
+        concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+        concept_label: BOW DOWN
+      - gloss: not directly accessible
+        concept_label: REMOTE
+        children:
+        - gloss: exocentric
+          concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+          concept_label: REGION
+          children:
+          - gloss: exocentric, local
+            concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+            concept_label: MUSIC
+            children:
+            - gloss: specifically(modern reading qu3)
+              concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+              concept_label: SONG
+          - gloss: abstract
+            concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+            concept_label: PART
+            children:
+            - gloss: feature
+              concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+              concept_label: SMALL
+              children:
+              - gloss: abstract
+                concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+                concept_label: UNIMPORTANT
+                children:
+                - gloss: concrete settlement
+                  concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+                  concept_label: VILLAGE
+    - gloss: 'figurative:'
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: adapting to all cases
+        concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+        concept_label: ALL
+    - gloss: so as to permanently distort
+      concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+      concept_label: TWIST
+      children:
+      - gloss: figurative
+        concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+        concept_label: CHEAT
+        children:
+        - gloss: feature of actions
+          concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+          concept_label: UNJUST
+          children:
+          - gloss: feature of persons.
+            concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+            concept_label: WICKED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:13:40.413+09:00'

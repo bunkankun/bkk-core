@@ -1,0 +1,41 @@
+uuid: 48cc8d88-1474-4a28-b312-52d5e0eabfd3
+type: tax-char
+heads:
+- 願
+pronunciations:
+- reading: yuàn
+  old_chinese: ŋɡons
+  middle_chinese: ŋʷiɐn
+  fanqie: 魚怨切
+  tone: 去
+  guangyun: 欲也念也思也説文云大頭也魚怨切四
+- reading: nil
+  old_chinese: ŋʷans
+  middle_chinese: ŋʷiɐn
+  fanqie: 魚怨切
+  tone: 去
+  guangyun: 同願説文云顚頂也
+unattributed_senses:
+- concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+  concept_label: HOPE
+  children:
+  - gloss: generalised
+    concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+    children:
+    - gloss: grammaticalised:jussive
+      concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+      concept_label: IMPERATIVE MARKER
+    - gloss: declarative
+      concept_uuid: d12adeb9-a0e6-4650-96ac-3024c723420a
+      concept_label: OATH
+    - gloss: intensitive
+      concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+      concept_label: YEARN
+    - gloss: counterfactual
+      concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+      concept_label: UTINAM
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T18:16:47.866+09:00'

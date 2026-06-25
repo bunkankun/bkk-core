@@ -1,0 +1,35 @@
+uuid: d51e775e-cd68-4ae3-ad13-f4ef53df1563
+type: tax-char
+heads:
+- 慮
+pronunciations:
+- reading: lǜ
+  old_chinese: b-ras
+  middle_chinese: liɔ
+  fanqie: 良倨切
+  tone: 去
+  guangyun: 思也又姓良倨切九
+  senses:
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - gloss: generalised
+    concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+    concept_label: THINK
+    children:
+    - gloss: 'grammaticalised, parenthetic: one might think'
+      concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+      concept_label: PROBABLE
+    - gloss: fearfully
+      concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+      concept_label: WORRY
+  - gloss: for other people's business
+    concept_uuid: 9064faa7-c062-4cbc-9d5a-e6f133a7a1a0
+    concept_label: INTERFERE
+unattributed_senses:
+- gloss: 慮 ｌｕ２ 《集韻》凌如切，平魚來。魚部。
+- gloss: 慮 《集韻》龍珠切，平虞來。
+  children:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

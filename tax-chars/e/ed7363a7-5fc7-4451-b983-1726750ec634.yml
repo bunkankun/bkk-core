@@ -1,0 +1,24 @@
+uuid: ed7363a7-5fc7-4451-b983-1726750ec634
+type: tax-char
+heads:
+- 誇
+pronunciations:
+- reading: kuā
+  old_chinese: khʷraa
+  middle_chinese: kʰʷɯa
+  fanqie: 苦瓜切
+  tone: 平
+  guangyun: 大言也苦瓜切八
+  senses:
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+    concept_label: EXAGGERATE
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

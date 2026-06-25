@@ -1,0 +1,22 @@
+uuid: a17fe9d8-fb8b-40df-bc1b-537bcf6991f5
+type: tax-char
+heads:
+- 郡
+pronunciations:
+- reading: jùn
+  old_chinese: ɡluns
+  middle_chinese: ɡiun
+  fanqie: 渠運切
+  tone: 去
+  guangyun: 説文曰周制天子地方千里分爲百縣縣有四郡故春秋傳曰上大夫受郡是也至秦初置三十六郡以監其縣釋名曰郡羣也人所羣聚也渠運切一
+  senses:
+  - concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+    concept_label: REGION
+  - concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+    concept_label: CITY
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+source:
+  source_file: taxchar.xml

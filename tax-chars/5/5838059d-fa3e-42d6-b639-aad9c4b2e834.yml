@@ -1,0 +1,79 @@
+uuid: 5838059d-fa3e-42d6-b639-aad9c4b2e834
+type: tax-char
+heads:
+- 和
+pronunciations:
+- reading: hè
+  old_chinese: ɡools
+  middle_chinese: ɦuɑ
+  fanqie: 胡卧切
+  tone: 去
+  guangyun: 聲相應胡卧切又音禾三
+- reading: hé
+  old_chinese: ɡool
+  middle_chinese: ɦuɑ
+  fanqie: 戶戈切
+  tone: 平
+  guangyun: 爾雅云笙之小者謂之和和順也諧也不堅不柔也亦州名在淮南漢九江都尉居之屬九江郡齊爲和州又姓出汝南河南二望本自羲和之後一云卞和之後晉有和嶠又虜複姓和稽氏後改爲緩氏戸戈切九
+  senses:
+  - concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: MIXED
+    children:
+    - gloss: of foodstuffs etc.
+      concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+      concept_label: COOK
+    - gloss: mathematics
+      concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+      concept_label: ADD
+    - gloss: commendatory
+      concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+      concept_label: HARMONY
+      children:
+      - gloss: political
+        concept_uuid: 82a12bdd-5f0d-4bf6-b4da-8b92ce215217
+        concept_label: PEACE
+        children:
+        - gloss: state
+          concept_uuid: 74b7b586-081a-4d67-8062-1b2929578897
+          concept_label: PLEASANT
+          children:
+          - gloss: mildly
+            concept_uuid: 083f1398-1e23-4949-a6ac-d4252d14307d
+            concept_label: COOL
+          - gloss: 'read huo late: pleasantly'
+            concept_uuid: 278eb26c-ce4a-4ce0-bbb2-008fa6ea5669
+            concept_label: WARM
+          - gloss: of physical state
+            concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+            concept_label: COMFORTABLE
+      - gloss: hé
+        concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+        concept_label: INTERACT
+        children:
+        - gloss: action
+          concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+          concept_label: CONFORM
+        - gloss: hé
+          concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+          concept_label: TRADE
+        - gloss: action
+          concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+          concept_label: ACCOMPANY
+          children:
+          - gloss: agent
+            concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+            concept_label: SOLDIER
+          - gloss: read hè specifically, “accompanying” someone else
+            concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+            concept_label: SING
+            children:
+            - gloss: 'exocentric: harmonised sound source'
+              concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+              concept_label: BELL
+    - gloss: personal names
+      concept_uuid: 59f82040-712a-4326-9c5a-56b0ac103dc9
+      concept_label: RULERS OF SONG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T19:39:37.753+09:00'

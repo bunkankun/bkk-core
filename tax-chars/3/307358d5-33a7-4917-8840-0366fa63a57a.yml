@@ -1,0 +1,63 @@
+uuid: 307358d5-33a7-4917-8840-0366fa63a57a
+type: tax-char
+heads:
+- 甚
+pronunciations:
+- reading: shèn
+  old_chinese: ɡljumʔ
+  middle_chinese: dʑim
+  fanqie: 常枕切
+  tone: 上
+  guangyun: 劇過也説文曰尤安樂也常枕切二
+- reading: shèn
+  old_chinese: ɡljums
+  middle_chinese: dʑim
+  fanqie: 時鴆切
+  tone: 去
+  guangyun: 太過時鴆切二
+  senses:
+  - gloss: =什 late colloquial
+    concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+    concept_label: WHAT
+unattributed_senses:
+- concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+  concept_label: EXCESSIVE
+  children:
+  - gloss: action
+    concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - gloss: 'feature: comparatively'
+    concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - gloss: 'adverbial: degree'
+    concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+    children:
+    - gloss: negative
+      concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+      concept_label: BAD
+      children:
+      - gloss: action vis-a-vis
+        concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+        concept_label: BLAME
+        children:
+        - gloss: intellectually
+          concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+          concept_label: CRITICISE
+      - gloss: attitude towards
+        concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+        concept_label: SEVERE
+  - gloss: 'adverbial: metaphysical'
+    concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+    concept_label: REALITY
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+      concept_label: EVEN
+    - gloss: cognitive
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T21:29:04.225+09:00'

@@ -1,0 +1,28 @@
+uuid: 1a34123a-d606-4a0c-a5a6-dcc54d56fdf0
+type: tax-char
+heads:
+- 柴
+pronunciations:
+- reading: chái
+  old_chinese: dzree
+  middle_chinese: dʐɯæ
+  fanqie: 士佳切
+  tone: 平
+  guangyun: 薪也又姓髙柴之後士佳切八
+  senses:
+  - concept_uuid: 92129761-23a4-4faf-aff0-13ff78929163
+    concept_label: FIREWOOD
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+    concept_label: SLIM
+  - concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+    concept_label: BRANCH
+  - concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+    concept_label: TREE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

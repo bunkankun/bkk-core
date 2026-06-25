@@ -1,0 +1,20 @@
+uuid: b70c3953-3db1-4b8c-946b-1fc449cc2f1a
+type: tax-char
+heads:
+- 芙
+pronunciations:
+- reading: fú
+  old_chinese: ba
+  middle_chinese: bio
+  fanqie: 防無切
+  tone: 平
+  guangyun: 芙蓉
+  senses:
+  - concept_uuid: db3bc6ef-3412-439f-851f-60cac83d635f
+    concept_label: FLOWERS
+  - concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+    concept_label: SWORD
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

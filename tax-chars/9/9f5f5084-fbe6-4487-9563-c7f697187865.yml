@@ -1,0 +1,25 @@
+uuid: 9f5f5084-fbe6-4487-9563-c7f697187865
+type: tax-char
+heads:
+- 岳
+- 嶽
+pronunciations:
+- reading: yuè
+  old_chinese: ŋruuɡ
+  middle_chinese: ŋɯɔk
+  fanqie: 五角切
+  tone: 入
+  guangyun: 同嶽
+  senses:
+  - concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+    concept_label: DEITY
+  - concept_uuid: 327c1724-a571-4bf6-a05d-bf9246c1bc27
+    concept_label: IN-LAWS
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+    concept_label: SUMMIT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

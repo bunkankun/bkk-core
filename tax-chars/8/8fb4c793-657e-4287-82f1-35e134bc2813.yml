@@ -1,0 +1,73 @@
+uuid: 8fb4c793-657e-4287-82f1-35e134bc2813
+type: tax-char
+heads:
+- 奉
+pronunciations:
+- reading: fèng
+  old_chinese: boŋʔ
+  middle_chinese: bioŋ
+  fanqie: 扶隴切
+  tone: 上
+  guangyun: 與也獻也禄也説文承也扶隴切二
+  senses:
+  - gloss: with both hands held upwards
+    concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+    children:
+    - gloss: politely, holding both hands up, inchoative
+      concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+      concept_label: RECEIVE
+      children:
+      - gloss: 'psychological: active'
+        concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+        concept_label: ACCEPT
+    - gloss: politely holding high with boths hands
+      concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+      concept_label: HAND UP
+      children:
+      - gloss: generalised
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: as needed
+          concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+          concept_label: PROVIDE
+        - gloss: object
+          concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+          concept_label: GIFT
+          children:
+          - gloss: regular to senior employee
+            concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+            concept_label: SALARY
+        - gloss: 'social: aid'
+          concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+          concept_label: HELP
+          children:
+          - gloss: against possible danger
+            concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+            concept_label: SAFEGUARD
+          - gloss: social
+            concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+            concept_label: SUPPORT
+            children:
+            - gloss: administratively
+              concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+              concept_label: PROMOTE
+            - gloss: psychological
+              concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+              concept_label: RESPECT
+              children:
+              - gloss: in action
+                concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+                concept_label: OBEY
+                children:
+                - gloss: 'generalised: act out'
+                  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+                  concept_label: ACT
+                - gloss: in employment
+                  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+                  concept_label: SERVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:19:34.14+09:00'

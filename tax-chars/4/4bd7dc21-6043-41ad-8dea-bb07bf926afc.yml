@@ -1,0 +1,38 @@
+uuid: 4bd7dc21-6043-41ad-8dea-bb07bf926afc
+type: tax-char
+heads:
+- 浸
+pronunciations:
+- reading: jìn
+  old_chinese: skims
+  middle_chinese: tsim
+  fanqie: 子鴆切
+  tone: 去
+  guangyun: 漬也漸也子鴆切四
+  senses:
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+  - concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+    concept_label: GRADUALLY
+  - concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+    concept_label: IRRIGATE
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+    concept_label: SOAK
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+    concept_label: SINK
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+    concept_label: CANAL
+  - concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+    concept_label: LAKE
+  - concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+    concept_label: GENEROUS
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+source:
+  source_file: taxchar.xml

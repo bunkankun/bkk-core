@@ -1,0 +1,89 @@
+uuid: 3098280c-dbf4-412c-9aaf-4dbe74a8cc54
+type: tax-char
+heads:
+- 引
+pronunciations:
+- reading: yǐn
+  old_chinese: liŋʔ
+  middle_chinese: jin
+  fanqie: 余忍切
+  tone: 上
+  guangyun: 爾雅曰長也説文曰開弓也余忍切又徐刃切十四
+  senses:
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+    children:
+    - gloss: so as to extend
+      concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+      concept_label: STRETCH OUT
+      children:
+      - gloss: 'figurative: so as to communicate through language'
+        concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+        concept_label: EXPRESS
+        children:
+        - gloss: so as to fix for the future, define borders etc
+          concept_uuid: 4fa09a4c-1dbf-495f-ab01-0a2cabe19e29
+          concept_label: DEFINE
+        - gloss: express through speech
+          concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+          concept_label: SPEAK
+          children:
+          - gloss: of writing writing
+            concept_uuid: 69f9092a-b61c-4ba2-8aea-1e01c90d10e3
+            concept_label: QUOTE
+            children:
+            - gloss: what is quoted, with tune
+              concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+              concept_label: SONG
+    - gloss: instrument for pulling
+      concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+      concept_label: ROPE
+    - gloss: physically, in a hostile way
+      concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+      concept_label: FIGHT
+    - gloss: 'abstract: politically/militarily'
+      concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+      concept_label: LEAD
+      children:
+      - gloss: 'psychologically: lead to'
+        concept_uuid: 58a9785e-4e20-4cd9-b19d-a500114ac7a9
+        concept_label: TEMPT
+        children:
+        - gloss: erotically
+          concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+          concept_label: SEDUCE
+      - gloss: inchoative, as employer
+        concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+        concept_label: EMPLOY
+        children:
+        - gloss: bureaucratically, in higher position
+          concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+          concept_label: PROMOTE
+      - gloss: socially
+        concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+        concept_label: SUMMON
+        children:
+        - gloss: to something desirable
+          concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+          concept_label: INVITE
+    - gloss: pull back
+      concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+      concept_label: RESTRAIN
+    - gloss: figurative, reflexive, oneself back
+      concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+      concept_label: WITHDRAW
+    - gloss: 'figurative: pull in, strategically, involve'
+      concept_label: IMPLICATE
+  - gloss: pull through, psychologically, manage in spite of the burden
+    concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+- reading: alternative
+  old_chinese: liŋs
+  middle_chinese: jin
+  fanqie: 羊晉切
+  tone: 去
+  guangyun: 又羊忍切
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T23:19:02.788+09:00'

@@ -1,0 +1,39 @@
+uuid: 94db9439-512e-4ad7-a761-3e8ce0cc1011
+type: tax-char
+heads:
+- 黎
+pronunciations:
+- reading: lí
+  old_chinese: riil
+  middle_chinese: lei
+  fanqie: 郎奚切
+  tone: 平
+  guangyun: 衆也又姓黎侯國之後郎奚切二十一
+  senses:
+  - concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+  - concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+    concept_label: OLD
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+    concept_label: PEOPLE
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+  - concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+    concept_label: WHEN
+  - gloss: TREE, KINDS
+  - concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+    concept_label: DEITIES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 760112aa-ba84-446d-ae9d-a80b5e6a075e
+    concept_label: TRIBE
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

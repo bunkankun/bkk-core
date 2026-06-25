@@ -1,0 +1,60 @@
+uuid: 7cff4251-6479-43d6-80cf-10fc11ab8aeb
+type: tax-char
+heads:
+- 近
+pronunciations:
+- reading: jìn
+  old_chinese: ɡɯnʔ
+  middle_chinese: ɡɨn
+  fanqie: 其謹切
+  tone: 上
+  guangyun: 迫也幾也其謹切又其靳切二
+- reading: jìn
+  old_chinese: ɡɯns
+  middle_chinese: ɡɨn
+  fanqie: 巨靳切
+  tone: 去
+  guangyun: 附也巨靳切又巨隱切一
+  senses:
+  - gloss: 'derivation by tone change: transitivisation'
+    concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+    children:
+    - gloss: object:aim
+      concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+      concept_label: ACHIEVE
+    - gloss: 'metaphorical: relation to'
+      concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+      concept_label: INTIMATE
+      children:
+      - gloss: intensitive
+        concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+        concept_label: FAVOURITE
+      - gloss: abstractly
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+        children:
+        - gloss: grammaticalised
+          concept_label: PROBABLY
+unattributed_senses:
+- gloss: 其謹切上 jìn
+  concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+  concept_label: NEAR
+  children:
+  - gloss: time
+    concept_uuid: 82bda3bd-7190-48c9-b821-6c19d0221a45
+    concept_label: RECENT
+    children:
+    - gloss: specific
+      concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+      concept_label: NOW
+    - gloss: general expectations
+      concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+      concept_label: ORDINARY
+  - gloss: 'subject: who dwells near'
+    concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+    concept_label: NEIGHBOUR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-16T23:04:52.137+09:00'

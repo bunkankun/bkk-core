@@ -1,0 +1,52 @@
+uuid: 8a51bad0-6065-46c8-bbdd-42beeb497f09
+type: tax-char
+heads:
+- 香
+pronunciations:
+- reading: xiāng
+  old_chinese: qhaŋ
+  middle_chinese: hiɐŋ
+  fanqie: 許良切
+  tone: 平
+  guangyun: 説文作𪏰芳也漢書云尚書郎懷香握蘭許良切五
+  senses:
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+    children:
+    - gloss: typical subject
+      concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+      concept_label: FLOWER
+    - gloss: typical action
+      concept_uuid: 9bf7a297-3656-483f-a477-7b618b474da6
+      concept_label: SMELL
+      children:
+      - gloss: typical subject
+        concept_uuid: d3549e29-a2c6-426a-a852-a85e3b1e3e32
+        concept_label: PERFUME
+    - gloss: 'generalised: taste'
+      concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+      concept_label: SAVOURY
+      children:
+      - gloss: typical action
+        concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+        concept_label: DRINK
+      - gloss: 'generalised: abstract'
+        concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+        concept_label: BEAUTIFUL
+        children:
+        - gloss: typical subject
+          concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+          concept_label: WOMAN
+          children:
+          - gloss: typical action
+            concept_uuid: 644a4f0a-0578-4704-b333-c3fd956af6a8
+            concept_label: KISS
+    - gloss: generalised
+      concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+      concept_label: ODOUR
+      children:
+      - gloss: derogatory
+        concept_uuid: dd396b03-ebdf-4208-a5b3-38ba6f0dfc3c
+        concept_label: STINK
+source:
+  source_file: taxchar.xml

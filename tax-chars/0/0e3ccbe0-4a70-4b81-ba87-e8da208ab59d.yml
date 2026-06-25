@@ -1,0 +1,27 @@
+uuid: 0e3ccbe0-4a70-4b81-ba87-e8da208ab59d
+type: tax-char
+heads:
+- 鬻
+pronunciations:
+- reading: yù
+  old_chinese: luɡ
+  middle_chinese: jiuk
+  fanqie: 余六切
+  tone: 入
+  guangyun: 賣也亦作粥亦姓周有鬻熊爲文王師案説文鬻夲音麋䭈也
+  senses:
+  - concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+    concept_label: SELL
+  - concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+    concept_label: BUY
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: af4324c1-454a-4a0f-936b-4e2b7a626a9d
+    concept_label: COOK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 育
+source:
+  source_file: taxchar.xml

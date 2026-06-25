@@ -1,0 +1,28 @@
+uuid: 3967f7fd-1b9d-4a10-9dfa-90ab6e5873cb
+type: tax-char
+heads:
+- 誡
+pronunciations:
+- reading: jiè
+  old_chinese: krɯɯɡs
+  middle_chinese: kɯæi
+  fanqie: 古拜切
+  tone: 去
+  guangyun: 言警也古拜切二十三
+  senses:
+  - concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+    concept_label: CAUTIOUS
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+  - concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+    concept_label: PRINCIPLE
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+source:
+  source_file: taxchar.xml

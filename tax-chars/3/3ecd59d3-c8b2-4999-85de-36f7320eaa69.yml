@@ -1,0 +1,79 @@
+uuid: 3ecd59d3-c8b2-4999-85de-36f7320eaa69
+type: tax-char
+heads:
+- 泥
+pronunciations:
+- reading: nì
+  old_chinese: niils
+  middle_chinese: nei
+  fanqie: 奴計切
+  tone: 去
+  guangyun: 滯陷不通語云致逺恐泥奴計切又奴低切五
+  senses:
+  - gloss: (apply mud/clay)
+    concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+    concept_label: PAINT
+    children:
+    - gloss: 'action: with clay'
+      concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+      concept_label: BLOCK
+    - gloss: feature of clay
+      concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+      concept_label: DIRTY
+      children:
+      - gloss: specific
+        concept_uuid: 852e3351-1f78-4c24-9a79-f7b4048e2968
+        concept_label: GLUE
+        children:
+        - gloss: function
+          concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+          concept_label: HOLD
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+- reading: bàn
+  old_chinese: braams
+  middle_chinese: bɯam
+  fanqie: 蒲鑑切
+  tone: 去
+  guangyun: 深泥也蒲鑑切二
+- reading: ní
+  old_chinese: niil
+  middle_chinese: nei
+  fanqie: 奴低切
+  tone: 平
+  guangyun: 水和土也説文云水出郁郅北蠻中詩䟽云泥中衞之小邑又姓出姓苑奴低切又奴計切四
+  senses:
+  - concept_uuid: 4010f454-9f59-4984-90be-b1371b7d6c21
+    concept_label: MUD
+    children:
+    - gloss: as building material etc.
+      concept_uuid: dae1d007-9c13-4620-8ee4-e3ddbf77ef14
+      concept_label: CLAY
+      children:
+      - gloss: marking edge of waterway
+        concept_uuid: dfa62de8-41ec-463e-a33c-824697b24b24
+        concept_label: BANK
+    - gloss: 'similar substance: culinary'
+      concept_uuid: 56c89ae6-b5c8-44e6-a51f-80f79f6cf40b
+      concept_label: SAUCE
+      children:
+      - gloss: metaphorical
+        concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+        concept_label: DIFFICULT
+      - gloss: feature
+        concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+        concept_label: SOFT
+  - concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+    concept_label: MYTHICAL ANIMALS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 泥 ｎｉ３《廣韻》奴禮切，上薺泥。脂部。
+  children:
+  - gloss: (reduplicated)
+    concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+source:
+  source_file: taxchar.xml

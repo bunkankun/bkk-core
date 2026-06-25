@@ -1,0 +1,48 @@
+uuid: bd42e9c9-f478-4b70-a23e-db7a4e502d89
+type: tax-char
+heads:
+- 務
+pronunciations:
+- reading: wù
+  old_chinese: mos
+  middle_chinese: mio
+  fanqie: 亡遇切
+  tone: 去
+  guangyun: 事務也又強也遽也趣也又姓列仙傳有務光亡遇切十四
+  senses:
+  - concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+    concept_label: EFFORT
+    children:
+    - gloss: official
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+      children:
+      - gloss: place of
+        concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+        concept_label: OFFICE
+      - gloss: feature of
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+        children:
+        - gloss: 'abstract: important matter'
+          concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+          concept_label: THING
+    - gloss: generalised
+      concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+      concept_label: STRIVE FOR
+      children:
+      - gloss: 'deontic: what one should strive for'
+        concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+        concept_label: SHOULD
+  - gloss: (late colloquial, for wine)
+    concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+    concept_label: SHOP
+unattributed_senses:
+- gloss: 務 ｗｕ３《集韻》罔甫切，上麌微。侯部。
+  children:
+  - gloss: =侮
+- gloss: 務 ｍａｏ４《集韻》莫候切，去候明。侯部。
+  children:
+  - gloss: =瞀
+source:
+  source_file: taxchar.xml

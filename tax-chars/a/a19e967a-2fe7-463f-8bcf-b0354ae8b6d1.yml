@@ -1,0 +1,69 @@
+uuid: a19e967a-2fe7-463f-8bcf-b0354ae8b6d1
+type: tax-char
+heads:
+- 波
+pronunciations:
+- reading: bō
+  old_chinese: paal
+  middle_chinese: puɑ
+  fanqie: 博禾切
+  tone: 平
+  guangyun: 波浪博禾切六
+  senses:
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+    children:
+    - gloss: generalised
+      concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+      concept_label: WATER
+    - gloss: 'similar form: calligraphy'
+      concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+      concept_label: LINE
+    - gloss: 'related action: into the waves'
+      concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+      concept_label: THROW
+    - gloss: related form> billowing
+      concept_uuid: 049c501a-ceab-4dfe-95a7-a484c0a82128
+      concept_label: GAZE
+      children:
+      - gloss: 'generalised: survey'
+        concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+        concept_label: LOOK
+    - gloss: related process
+      concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+      concept_label: RISE
+      children:
+      - gloss: specific
+        concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+        concept_label: SHAKE
+        children:
+        - gloss: resultative
+          concept_uuid: 59007c08-4ecf-4f74-8427-680c3f86344b
+          concept_label: DISTURB
+        - gloss: general
+          concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+          concept_label: INFLUENCE
+        - gloss: resultative
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: SPREAD
+          children:
+          - gloss: in all directions
+            concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+            concept_label: FLEE
+            children:
+            - gloss: generalised
+              concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+              concept_label: RUN
+  - gloss: grammaticalised
+    concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+    concept_label: MODAL PARTICLES
+unattributed_senses:
+- gloss: 波 ｂｅｉ１《集韻》班麋切，平支幫。
+  children:
+  - gloss: =陂
+- gloss: 波 ）ｂｉ４《集韻》彼義切，去寘幫。
+  children:
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+source:
+  source_file: taxchar.xml

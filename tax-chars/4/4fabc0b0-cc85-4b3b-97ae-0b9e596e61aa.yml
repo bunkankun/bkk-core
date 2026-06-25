@@ -1,0 +1,60 @@
+uuid: 4fabc0b0-cc85-4b3b-97ae-0b9e596e61aa
+type: tax-char
+heads:
+- 甲
+pronunciations:
+- reading: jiǎ
+  old_chinese: kraab
+  middle_chinese: kɯap
+  fanqie: 古狎切
+  tone: 入
+  guangyun: 甲兵又狎也鎧也亦甲子爾雅曰太歳在甲曰閼逢又姓左傳鄭大夫甲石甫古狎切十
+  senses:
+  - concept_uuid: 105c35ae-f0cd-4f0a-93f8-83f2d866f2b6
+    concept_label: SHELL
+  - gloss: 'exocentric: with shells'
+    concept_uuid: bae1d109-4310-4c80-b0d1-d3249d131c27
+    concept_label: AQUATIC ANIMALS
+  - gloss: 'exocentric: with shells'
+    concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+    concept_label: ANIMAL
+  - gloss: similar> FINGERNAIL
+  - gloss: 'similar: metal cover for fingers when playing'
+    concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+    concept_label: STRING INSTRUMENTS
+  - gloss: similar
+    concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+    concept_label: ARMOUR
+  - gloss: 'related activity: wear armour'
+    concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - gloss: 'exocentric: armoured'
+    concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+    concept_label: SOLDIER
+  - gloss: figurative
+    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - gloss: examination system
+    concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: GRADE
+  - gloss: bureaucracy
+    concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 404b2560-53b6-4de7-a4b9-5221cb83c7c1
+    concept_label: HEAVENLY STEM
+    children:
+    - gloss: leading
+      concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+      concept_label: LEAD
+    - concept_uuid: c1654743-3e55-4188-816b-511da251682f
+      concept_label: PRONOUN
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+  - gloss: =狎
+    concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+    concept_label: INTIMATE
+  - gloss: =胛
+    concept_uuid: 1f11f474-9d57-410d-8ac4-818b629fbcc6
+    concept_label: SHOULDER
+source:
+  source_file: taxchar.xml

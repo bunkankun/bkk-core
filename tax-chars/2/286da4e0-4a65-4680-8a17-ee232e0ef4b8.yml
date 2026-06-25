@@ -1,0 +1,33 @@
+uuid: 286da4e0-4a65-4680-8a17-ee232e0ef4b8
+type: tax-char
+heads:
+- 錦
+pronunciations:
+- reading: jǐn
+  old_chinese: krɯmʔ
+  middle_chinese: kɯim
+  fanqie: 居飲切
+  tone: 上
+  guangyun: 釋名曰錦金也作之用功重其價如金故字從金帛居飲切一
+  senses:
+  - concept_uuid: 5a12c306-6ffb-4104-991f-552ca380781e
+    concept_label: BROCADE
+    children:
+    - gloss: 'feature: colourful'
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+      children:
+      - gloss: 'polite possessive: your'
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+    - gloss: generalised
+      concept_uuid: 8af64033-a8a3-4405-b563-c0054ea51288
+      concept_label: CLOTH
+      children:
+      - gloss: made of
+        concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+        concept_label: GARMENT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

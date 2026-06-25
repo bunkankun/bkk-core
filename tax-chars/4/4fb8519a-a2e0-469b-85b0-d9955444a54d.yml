@@ -1,0 +1,43 @@
+uuid: 4fb8519a-a2e0-469b-85b0-d9955444a54d
+type: tax-char
+heads:
+- 坎
+pronunciations:
+- reading: kàn
+  old_chinese: khooms
+  middle_chinese: kʰəm
+  fanqie: 苦紺切
+  tone: 去
+- reading: kǎn
+  old_chinese: khoomʔ
+  middle_chinese: kʰəm
+  fanqie: 苦感切
+  tone: 上
+  guangyun: 險也陷也又小罍也形似壷苦感切十
+  senses:
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+    concept_label: PIT
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: c0f27216-391e-4b2d-a205-2b1bc7c5823d
+    concept_label: TRIGRAMS
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+  - concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+    concept_label: EDGE
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: f1f6bbab-4d3f-448c-bae4-636687c488cd
+    concept_label: SLOPE
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: f367335b-2217-4e3e-bebc-006faa5f68ec
+    concept_label: AS SOON AS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

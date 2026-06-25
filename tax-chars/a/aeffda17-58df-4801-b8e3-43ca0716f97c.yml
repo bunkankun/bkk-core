@@ -1,0 +1,100 @@
+uuid: aeffda17-58df-4801-b8e3-43ca0716f97c
+type: tax-char
+heads:
+- 本
+pronunciations:
+- reading: běn
+  old_chinese: pɯɯnʔ
+  middle_chinese: puon
+  fanqie: 布忖切
+  tone: 上
+  guangyun: 本末又治也下也舊也説文曰木下曰本从木一在其下俗作夲夲自音叨布忖切六
+  senses:
+  - concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+    concept_label: STEM
+    children:
+    - gloss: in animals
+      concept_uuid: 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+      concept_label: TRUNK
+    - gloss: synecdoche
+      concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+      concept_label: ROOT
+  - gloss: abstract
+    concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+    concept_label: BASIS
+    children:
+    - gloss: feature
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+      children:
+      - gloss: in work
+        concept_label: TASK
+    - gloss: abstract
+      concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+      concept_label: PRINCIPLE
+      children:
+      - gloss: typical related action
+        concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+        concept_label: STUDY
+        children:
+        - gloss: typical object studied
+          concept_uuid: 71311dda-a559-4fb5-a520-ac1668c898a0
+          concept_label: BOOK
+        - gloss: official
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+      - gloss: causal
+        concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+        concept_label: CAUSE
+        children:
+        - gloss: 'temporal:'
+          concept_uuid: 304e1390-02d6-4b01-a81b-3af4ee0eff6c
+          concept_label: ORIGIN
+          children:
+          - gloss: geographical
+            concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+            concept_label: HOME
+          - gloss: adverbial
+            concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+            concept_label: ORIGINALLY
+          - gloss: generalised
+            concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+            concept_label: PAST
+    - gloss: basic property
+      concept_uuid: adb5c10b-f78f-44d4-a280-b14e7ff2e3fc
+      concept_label: ASSET
+      children:
+      - gloss: financial
+        concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+        concept_label: MONEY
+    - gloss: 'grammaticalised:'
+      concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+      concept_label: SELF
+      children:
+      - gloss: grammaticalised:plural
+        concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+        concept_label: WE
+      - gloss: 'generalised:'
+        concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+        concept_label: SAME
+        children:
+        - gloss: same as present
+          concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+          concept_label: NOW
+    - gloss: take as one's basis for action
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+- reading: tāo
+  old_chinese: thuu
+  middle_chinese: tʰɑu
+  fanqie: 土刀切
+  tone: 平
+  guangyun: 説文曰進趣也从大十大十者猶兼十人也
+unattributed_senses:
+- gloss: personal names
+  concept_uuid: 9c34821d-5c94-4128-96d8-9a46f9471f92
+  concept_label: ZEN MONKS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T02:21:34.621+09:00'

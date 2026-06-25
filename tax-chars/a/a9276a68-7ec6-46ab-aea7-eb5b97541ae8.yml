@@ -1,0 +1,81 @@
+uuid: a9276a68-7ec6-46ab-aea7-eb5b97541ae8
+type: tax-char
+heads:
+- 率
+pronunciations:
+- reading: shuài
+  old_chinese: srud
+  middle_chinese: ʃʷit
+  fanqie: 所律切
+  tone: 入
+  guangyun: 循也領也將也用也行也説文曰捕鳥篳也象絲罔上下其竿柄也俗作卛所律切十
+  senses:
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_label: COLLECT
+  - concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+  - gloss: 'specific: positive'
+    concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+    concept_label: ENCOURAGE
+  - gloss: 'specific: negative'
+    concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+  - gloss: 'passive: physical'
+    concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+    concept_label: USE
+  - gloss: grammaticalised
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 1362b3c0-6b31-4264-9ac3-a07552b41734
+    concept_label: FRANK
+  - concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+    concept_label: SKILLFUL
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: e1bb6797-3909-4002-889d-384d5a843ee7
+    concept_label: APPROXIMATE
+  - concept_label: ROUGH
+  - concept_label: PROBABLY
+  - gloss: in time
+    concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+    concept_label: FROM
+  - gloss: 'passive: abstract'
+    concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+  - concept_label: MEASURES
+  - gloss: =帥
+    concept_uuid: 28015ba4-ad05-4a94-91a6-4772f7efd10a
+    concept_label: GENERAL
+- reading: lǜ
+  old_chinese: ɡrunʔ
+  middle_chinese: duoŋ
+  fanqie: 劣戌切
+  tone: 入
+- reading: shuài
+  old_chinese: sruds
+  middle_chinese: ʃʷɯi
+  fanqie: 所類切
+  tone: 去
+  guangyun: 鳥網也又所律切
+  senses:
+  - concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+unattributed_senses:
+- concept_label: 率 lǜ《集韻》所劣切，入薛生。
+  children:
+  - gloss: =鋝
+    concept_label: MEASURES
+- gloss: shuài
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  concept_label: UNRESTRAINED
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2023-12-21T16:59:58.884+09:00'

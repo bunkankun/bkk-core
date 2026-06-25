@@ -1,0 +1,33 @@
+uuid: 413277d1-06f0-404e-9e0f-b40609a3cc54
+type: tax-char
+heads:
+- 簪
+pronunciations:
+- reading: zēn
+  old_chinese: skrɯm
+  middle_chinese: tʂɯim
+  fanqie: 側吟切
+  tone: 平
+  guangyun: 説文曰首笄也側吟切四
+- reading: zēn
+  old_chinese: skrɯm
+  middle_chinese: tʂɯim
+  fanqie: 側吟切
+  tone: 平
+  guangyun: 同兂
+- reading: zān
+  old_chinese: skɯɯm
+  middle_chinese: tsəm
+  fanqie: 作含切
+  tone: 平
+  guangyun: 作含切又側岑切七
+  senses:
+  - concept_uuid: 363a904e-6fa7-4584-a5c5-a5e443014a8a
+    concept_label: HAIRPIN
+  - concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - gloss: = 槮
+source:
+  source_file: taxchar.xml

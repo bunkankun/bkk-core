@@ -1,0 +1,32 @@
+uuid: 57386716-f81a-4ad7-b57e-1c94ec60a54f
+type: tax-char
+heads:
+- 專
+pronunciations:
+- reading: zhuān
+  old_chinese: tjon
+  middle_chinese: tɕʷiɛn
+  fanqie: 職緣切
+  tone: 平
+  guangyun: 擅也單也政也誠也獨也自是也亦姓吴刺客專諸職縁切十二
+  senses:
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+    concept_label: CONCENTRATE
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: c0f7eb0d-2151-4abb-a7f8-54b494e9f357
+    concept_label: MALES OF WU
+  - concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+    concept_label: MONOPOLISE
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+source:
+  source_file: taxchar.xml

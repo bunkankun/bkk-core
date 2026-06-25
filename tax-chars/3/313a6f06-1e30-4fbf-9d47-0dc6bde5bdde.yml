@@ -1,0 +1,60 @@
+uuid: 313a6f06-1e30-4fbf-9d47-0dc6bde5bdde
+type: tax-char
+heads:
+- 殊
+pronunciations:
+- reading: shū
+  old_chinese: djo
+  middle_chinese: dʑio
+  fanqie: 市朱切
+  tone: 平
+  guangyun: 異也死也市朱切十二
+  senses:
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+    children:
+    - gloss: inchoative
+      concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+      concept_label: CHANGE
+      children:
+      - gloss: placement
+        concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+        concept_label: LEAVE
+    - gloss: pejorative
+      concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+      concept_label: DEFECT
+    - gloss: commendatory
+      concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+      concept_label: SPECIAL
+    - gloss: putative
+      concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+      concept_label: DISTINGUISH
+    - gloss: relational
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+      children:
+      - gloss: absolute:feature, surpassing
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+        children:
+        - gloss: grammaticalised
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+          children:
+          - gloss: 'grammaticalised: really'
+            concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+            concept_label: REALITY
+            children:
+            - gloss: temporal
+              concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+              concept_label: STILL
+- reading: zhū
+  old_chinese: to
+  middle_chinese: ʈio
+  fanqie: 陟輸切
+  tone: 平
+  guangyun: 列殺字從歹又五割切
+  senses:
+  - gloss: 'causative: living state> KILL???'
+source:
+  source_file: taxchar.xml

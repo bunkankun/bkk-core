@@ -1,0 +1,75 @@
+uuid: 06bc4111-1350-474e-af55-d81c89030abc
+type: tax-char
+heads:
+- 至
+pronunciations:
+- reading: zhì
+  old_chinese: kljiɡs
+  middle_chinese: tɕi
+  fanqie: 脂利切
+  tone: 去
+  guangyun: 到也説文曰鳥飛从髙下至地也篆文象形脂利切十三
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: resultative
+      concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+      concept_label: ARRIVE
+      children:
+      - gloss: so as to join
+        concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+        concept_label: RALLY
+      - gloss: generalised
+        concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+        concept_label: REACH
+        children:
+        - gloss: level of action
+          concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+          concept_label: ACHIEVE
+          children:
+          - gloss: in something difficult
+            concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+            concept_label: SUCCEED
+          - gloss: high degree
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+            children:
+            - gloss: very high level
+              concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+              concept_label: EXTREME
+              children:
+              - gloss: extreme day of the year
+                concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+                concept_label: DAY
+          - gloss: high level
+            concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+            concept_label: IMPORTANT
+        - gloss: putative
+          concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+          concept_label: RESPECT
+        - gloss: ultimate
+          concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+          concept_label: PERFECT
+        - gloss: metaphorical:it comes to
+          concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+          concept_label: ARISE
+          children:
+          - gloss: figurative,grammaticalised “when it comes to”
+            concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+            concept_label: TOPIC MARKER
+          - gloss: abstract (ca arrive!)
+            concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+            concept_label: HAPPEN
+            children:
+            - gloss: grammaticalised:subordinating
+              concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+              concept_label: WHEN
+              children:
+              - gloss: grammaticalised, time
+                concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+                concept_label: UNTIL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-24T03:18:03.751+09:00'

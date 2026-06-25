@@ -1,0 +1,29 @@
+uuid: f112074c-698f-47fa-a6b6-90afc6824751
+type: tax-char
+heads:
+- 尺
+pronunciations:
+- reading: chǐ
+  old_chinese: thjaɡ
+  middle_chinese: tɕʰiɛk
+  fanqie: 昌石切
+  tone: 入
+  guangyun: 家語曰布手知尺舒肱知㝷説苑曰度量衡以粟生之十粟爲一分十分爲一寸十寸爲一尺昌石切十一
+  senses:
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+    children:
+    - concept_uuid: d636b491-b1e9-48bb-a17c-83de15a92fbc
+      concept_label: SURFACE MEASURE
+    - gloss: 'abstract: criterion'
+      concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+      concept_label: STANDARD
+    - gloss: action
+      concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+      concept_label: MEASURE
+      children:
+      - gloss: object
+        concept_uuid: beb5de81-af3e-4a12-a638-76b1b41ea24c
+        concept_label: SIZE
+source:
+  source_file: taxchar.xml

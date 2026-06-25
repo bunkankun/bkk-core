@@ -1,0 +1,59 @@
+uuid: 8f9f26a9-beee-4574-8c5b-042ade846e19
+type: tax-char
+heads:
+- 隨
+pronunciations:
+- reading: suí
+  old_chinese: sɢlol
+  middle_chinese: zʷiɛ
+  fanqie: 旬為切
+  tone: 平
+  guangyun: 從也順也又姓風俗通云隋侯之後漢有博士隨何後漢有扶風隨蕃旬爲切三
+  senses:
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+    children:
+    - gloss: instrumentused
+      concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+      concept_label: FOOT
+    - gloss: intellectually
+      concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+      concept_label: STUDY
+    - gloss: abstract
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: with respoect to appearance
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+      - gloss: 'grammaticalised: in conformity with, according to'
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+      - gloss: to spoken order
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+        children:
+        - gloss: politically
+          concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+          concept_label: RALLY
+          children:
+          - gloss: document
+            concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+            concept_label: CONTRACT
+    - gloss: 'specific: try to catch up with'
+      concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+      concept_label: PURSUE
+      children:
+      - gloss: hostile reaction
+        concept_uuid: 5ad2c08a-e2f2-45a1-a30b-798f3f183771
+        concept_label: REVENGE
+    - gloss: grammaticalised
+      concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+      concept_label: THEN
+  - gloss: proper name
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:28:15.493+09:00'

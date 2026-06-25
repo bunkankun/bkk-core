@@ -1,0 +1,54 @@
+uuid: 61dc0d83-6da3-480e-80e9-f4d2a62d8bc5
+type: tax-char
+heads:
+- 程
+pronunciations:
+- reading: chéng
+  old_chinese: deŋ
+  middle_chinese: ɖiɛŋ
+  fanqie: 直貞切
+  tone: 平
+  guangyun: 期也式也限也品也又姓出廣平安定二望本自顓頊重黎之後周宣王時程伯休父入爲大司馬封于程後遂爲氏與司馬氏同
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+  - concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+    concept_label: TRAVEL
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+    concept_label: WEIGH
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+    concept_label: SERVE
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+    concept_label: PROCESS
+  - concept_uuid: e50fabbd-78f8-4d7f-99f0-d700187a92d4
+    concept_label: LEOPARD
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

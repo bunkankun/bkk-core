@@ -1,0 +1,27 @@
+uuid: 28b14027-277f-4efa-befc-2cc17fd16fdc
+type: tax-char
+heads:
+- 瀾
+pronunciations:
+- reading: làn
+  old_chinese: ɡ-raans
+  middle_chinese: lɑn
+  fanqie: 郎旰切
+  tone: 去
+  guangyun: 波也又音蘭
+- reading: lán
+  old_chinese: ɡ-raan
+  middle_chinese: lɑn
+  fanqie: 落干切
+  tone: 平
+  guangyun: 大波
+  senses:
+  - concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+    concept_label: FLOAT
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+  - gloss: = 灡
+source:
+  source_file: taxchar.xml

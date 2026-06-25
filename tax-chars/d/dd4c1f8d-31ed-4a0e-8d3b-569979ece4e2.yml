@@ -1,0 +1,30 @@
+uuid: dd4c1f8d-31ed-4a0e-8d3b-569979ece4e2
+type: tax-char
+heads:
+- 暮
+pronunciations:
+- reading: mù
+  old_chinese: maaɡs
+  middle_chinese: muo
+  fanqie: 莫故切
+  tone: 去
+  guangyun: 日晚也冥也又姓出何氏姓苑莫故切六
+  senses:
+  - concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+    concept_label: EVENING
+    children:
+    - gloss: 'generalised: dark part of day'
+      concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+      concept_label: NIGHT
+      children:
+      - gloss: 'generalised: comparative'
+        concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+        concept_label: LATE
+      - gloss: of process
+        concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+        concept_label: END
+      - gloss: of life
+        concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+        concept_label: OLD
+source:
+  source_file: taxchar.xml

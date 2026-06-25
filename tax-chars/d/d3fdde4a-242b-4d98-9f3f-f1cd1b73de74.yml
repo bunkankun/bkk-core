@@ -1,0 +1,43 @@
+uuid: d3fdde4a-242b-4d98-9f3f-f1cd1b73de74
+type: tax-char
+heads:
+- 蔚
+pronunciations:
+- reading: wèi
+  old_chinese: quds
+  middle_chinese: ʔʷɨi
+  fanqie: 於胃切
+  tone: 去
+  guangyun: 茺蔚
+  senses:
+  - concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+    concept_label: FLOURISH
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 909bf501-b390-4af9-848f-e11556142d69
+    concept_label: MIST
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+- reading: yù
+  old_chinese: qud
+  middle_chinese: ʔiut
+  fanqie: 紆物切
+  tone: 入
+  guangyun: 草名又曰無子菣也亦州名春秋時屬晉後入趙秦滅趙爲代郡東魏置北靈丘郡周宣帝置蔚州也
+  senses:
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 鬱
+  - gloss: = 熨
+source:
+  source_file: taxchar.xml

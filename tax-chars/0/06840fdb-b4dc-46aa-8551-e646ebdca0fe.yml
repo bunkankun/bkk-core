@@ -1,0 +1,100 @@
+uuid: 06840fdb-b4dc-46aa-8551-e646ebdca0fe
+type: tax-char
+heads:
+- 起
+pronunciations:
+- reading: qǐ
+  old_chinese: khɯʔ
+  middle_chinese: kʰɨ
+  fanqie: 墟里切
+  tone: 上
+  guangyun: 興也作也立也發也又姓出何氏姓苑墟里切六
+  senses:
+  - concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+    concept_label: ARISE
+    children:
+    - gloss: active
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+      children:
+      - gloss: inchoative
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+        children:
+        - gloss: causative
+          concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+          concept_label: STIMULATE
+          children:
+          - gloss: generalised
+            concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+            concept_label: CAUSE TO
+            children:
+            - gloss: generalised
+              concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+              concept_label: PRODUCE
+          - gloss: intellectually
+            concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+            concept_label: GUESS
+          - gloss: object buildings etc
+            concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+            concept_label: BUILD
+      - gloss: physical activity
+        concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+        concept_label: RISE
+        children:
+        - gloss: abstract:resulting process
+          concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+          concept_label: FLOURISH
+          children:
+          - gloss: specific
+            concept_uuid: c752541d-4ef4-4f86-8ca6-1ab1acd1e076
+            concept_label: HEALTHY
+            children:
+            - gloss: causative:return to health
+              concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+              concept_label: CURE
+          - gloss: causative
+            concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+            concept_label: FEED
+        - gloss: get up
+          concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+          concept_label: WAKE UP
+          children:
+          - gloss: from the dead
+            concept_uuid: 52e63fd8-19d0-4c3c-8243-6482c979724a
+            concept_label: RESURRECTION
+        - gloss: causative
+          concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+          concept_label: LIFT
+          children:
+          - gloss: lift oneself up into the air
+            concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+            concept_label: FLY
+          - gloss: abstract:pick up from among others
+            concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+            concept_label: CHOOSE
+            children:
+            - gloss: bureaucratically
+              concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+              concept_label: EMPLOY
+        - gloss: of animates
+          concept_uuid: 1069e98d-cf30-48fa-badd-456e0d5131d4
+          concept_label: STAND UP
+          children:
+          - gloss: ensuing action
+            concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+            concept_label: LEAVE
+          - gloss: politically:in revolt
+            concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+            concept_label: REVOLT
+            children:
+            - gloss: specific
+              concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+              concept_label: MOBILISE
+      - gloss: grammaticalised
+        concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+        concept_label: ORIGINALLY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-14T22:03:43.648+09:00'

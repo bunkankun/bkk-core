@@ -1,0 +1,20 @@
+uuid: 76c6f653-3b4d-4d88-a9c1-64c956a8648f
+type: tax-char
+heads:
+- 什
+pronunciations:
+- reading: shí
+  old_chinese: ɡjub
+  middle_chinese: dʑip
+  fanqie: 是執切
+  tone: 入
+  guangyun: 篇什又什物也
+  senses:
+  - concept_uuid: 7f9950a8-68c2-433b-80ad-ef7f48da98ea
+    concept_label: TEN
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

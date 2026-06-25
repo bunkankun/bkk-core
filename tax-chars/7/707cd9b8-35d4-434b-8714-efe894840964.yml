@@ -1,0 +1,62 @@
+uuid: 707cd9b8-35d4-434b-8714-efe894840964
+type: tax-char
+heads:
+- 鑿
+pronunciations:
+- reading: zú
+  old_chinese: dzooɡ
+  middle_chinese: dzuk
+  fanqie: 昨木切
+  tone: 入
+  guangyun: 鑿鏤花葉又音昨
+- reading: zú
+  old_chinese: ʔsoowɢ
+  middle_chinese: tsuok
+  fanqie: 將毒切
+  tone: 入
+  guangyun: 穿也
+- reading: záo
+  old_chinese: ʔsoowɢ
+  middle_chinese: dzɑk
+  fanqie: 在各切
+  tone: 入
+  guangyun: 穿𣫞
+- reading: zuò
+  old_chinese: tsaawɡ
+  middle_chinese: tsɑk
+  fanqie: 則落切
+  tone: 入
+  guangyun: 詩曰白石鑿鑿
+- reading: záo
+  old_chinese: dzaawɡ
+  middle_chinese: dzɑk
+  fanqie: 在各切
+  tone: 入
+  guangyun: 鏨也古史考曰孟莊子作
+  senses:
+  - concept_uuid: 0ab78d70-666c-4848-b68d-02bc71243875
+    concept_label: CARPENTER TOOL
+  - concept_uuid: 26945df2-203d-4158-9bc5-7f93783b7c06
+    concept_label: PUNISHMENT
+  - concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+    concept_label: TOOL
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+    concept_label: UNTRUE
+  - concept_uuid: eff7ce63-4a02-4c76-9df9-20431e9ee7dc
+    concept_label: REALLY
+  - concept_uuid: 66925e4a-f4df-498b-9361-388edc15134c
+    concept_label: DRILL
+  - concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: HOLE
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: c9d57235-3ad4-4d03-b0e6-a90777082a37
+    concept_label: WELL
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+    concept_label: STRIKE
+source:
+  source_file: taxchar.xml

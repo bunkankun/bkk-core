@@ -1,0 +1,26 @@
+uuid: 7fdcd2c4-4739-474e-8cf5-aad3567c9884
+type: tax-char
+heads:
+- 堯
+pronunciations:
+- reading: yáo
+  old_chinese: ŋɡeew
+  middle_chinese: ŋeu
+  fanqie: 五聊切
+  tone: 平
+  guangyun: 至髙之皃謚法曰翊善傳聖曰堯五聊切五
+  senses:
+  - concept_uuid: f1a5528f-eea7-4249-9d33-67e324a4108a
+    concept_label: RULERS PREHISTORIC
+    children:
+    - gloss: figurative
+      concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+      concept_label: HIGH
+      children:
+      - gloss: generalised
+        concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+        concept_label: HERO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-16T01:25:47.671+09:00'

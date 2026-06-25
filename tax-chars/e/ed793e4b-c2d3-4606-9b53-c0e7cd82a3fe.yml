@@ -1,0 +1,49 @@
+uuid: ed793e4b-c2d3-4606-9b53-c0e7cd82a3fe
+type: tax-char
+heads:
+- 攘
+pronunciations:
+- reading: ràng
+  old_chinese: njaŋs
+  middle_chinese: ȵiɐŋ
+  fanqie: 人樣切
+  tone: 去
+  guangyun: 文字指歸云揖攘又音穰
+  senses:
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+- reading: ráng
+  old_chinese: njaŋ
+  middle_chinese: ȵiɐŋ
+  fanqie: 汝陽切
+  tone: 平
+  guangyun: 以手禦又竊也除也遂也止也揎袂出臂曰攘又音讓
+  senses:
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+  - concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+    concept_label: ROB
+  - concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+    concept_label: ROLL UP
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - gloss: = 禳
+- reading: rǎng
+  old_chinese: njaŋʔ
+  middle_chinese: ȵiɐŋ
+  fanqie: 如兩切
+  tone: 上
+  guangyun: 擾攘又汝羊切
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+source:
+  source_file: taxchar.xml

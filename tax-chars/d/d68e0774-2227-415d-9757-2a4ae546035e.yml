@@ -1,0 +1,24 @@
+uuid: d68e0774-2227-415d-9757-2a4ae546035e
+type: tax-char
+heads:
+- 倫
+pronunciations:
+- reading: lún
+  old_chinese: ɡ-run
+  middle_chinese: lʷin
+  fanqie: 力迍切
+  tone: 平
+  guangyun: 等也比也道也理也又姓風俗通曰黃帝樂人伶倫氏之後
+  senses:
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+    concept_label: PRINCIPLE
+source:
+  source_file: taxchar.xml

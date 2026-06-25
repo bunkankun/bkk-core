@@ -1,0 +1,31 @@
+uuid: 86f6e03b-d9d7-481e-9bb7-e3c7eeccb41f
+type: tax-char
+heads:
+- 笑
+unattributed_senses:
+- concept_label: 笑 xiao4 廣韻：欣也喜也亦作笑私妙切五
+  children:
+  - concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+    concept_label: LAUGH
+    children:
+    - gloss: mildly
+      concept_uuid: 8b0231ab-2843-4bdb-8123-9195937dfc8f
+      concept_label: SMILE
+      children:
+      - gloss: worth smiling at
+        concept_uuid: 6c78c774-ef06-47b9-a070-cea8ba6a82e7
+        concept_label: FUNNY
+        children:
+        - gloss: subject
+          concept_uuid: 315ce152-3c9e-4648-87aa-dde4fe97c199
+          concept_label: JOKE
+    - gloss: derisively
+      concept_uuid: e6b4e1e1-6e1e-4f01-a01b-4d658b1fb7d4
+      concept_label: MOCK
+  - gloss: 'exocentric: agent'
+    concept_uuid: 1aa78248-5868-4414-a9c4-97ccdb47c021
+    concept_label: ENTERTAINER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T17:55:59.247+09:00'

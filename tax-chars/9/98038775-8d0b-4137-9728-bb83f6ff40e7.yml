@@ -1,0 +1,68 @@
+uuid: 98038775-8d0b-4137-9728-bb83f6ff40e7
+type: tax-char
+heads:
+- 坐
+pronunciations:
+- reading: zuò
+  old_chinese: sɡoolʔ
+  middle_chinese: dzuɑ
+  fanqie: 徂果切
+  tone: 上
+  guangyun: 釋名曰坐挫也骨節挫屈也徂果切二
+  senses:
+  - concept_uuid: a076835f-2bcc-4bcb-bae2-a60aefddfaaa
+    concept_label: KNEEL
+    children:
+    - gloss: generalised
+      concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+      concept_label: SIT
+    - gloss: generalised
+      concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+      children:
+      - gloss: sitting down and thus effortlessly
+        concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+        concept_label: EASY
+        children:
+        - gloss: specifically
+          concept_uuid: 393c8446-1488-4a25-9660-47d3d36a9407
+          concept_label: MEDITATE
+- reading: zuò
+  old_chinese: sɡools
+  middle_chinese: dzuɑ
+  senses:
+  - concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+    concept_label: SEAT
+  - gloss: sit in judgement
+    concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+    concept_label: JUDGE
+    children:
+    - gloss: negative
+      concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+      concept_label: ACCUSE
+      children:
+      - gloss: resulting action
+        concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+        concept_label: PUNISH
+    - gloss: rare:abstract
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: rare:grammaticalised
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+        children:
+        - gloss: rare:temporal
+          concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+          concept_label: THEN
+        - gloss: adverbial
+          concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+          concept_label: NATURALLY
+          children:
+          - gloss: adverbial
+            concept_uuid: c17ceabd-9788-4c01-bfe7-9185ebe09e89
+            concept_label: IN VAIN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:06:04.257+09:00'

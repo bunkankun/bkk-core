@@ -1,0 +1,39 @@
+uuid: f36a3ebf-28fc-4b7e-981e-2c00fa8414e2
+type: tax-char
+heads:
+- 祭
+pronunciations:
+- reading: jì
+  old_chinese: skeds
+  middle_chinese: tsiɛi
+  fanqie: 子例切
+  tone: 去
+  guangyun: 享也祀也薦也至也察也子例切七
+  senses:
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+    children:
+    - gloss: object
+      concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+      concept_label: MEAT
+      children:
+      - gloss: typical associated activity
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+    - gloss: generalised
+      concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+      concept_label: HAND UP
+    - gloss: typical associated activity
+      concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+      concept_label: PRAY
+- reading: zhài
+  old_chinese: skreeds
+  middle_chinese: tʂɯæi
+  fanqie: 側界切
+  tone: 去
+  guangyun: 周大夫邑名又姓周公第五子祭伯其後以爲氏
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

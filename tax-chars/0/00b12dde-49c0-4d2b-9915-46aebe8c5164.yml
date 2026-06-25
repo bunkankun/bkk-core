@@ -1,0 +1,98 @@
+uuid: 00b12dde-49c0-4d2b-9915-46aebe8c5164
+type: tax-char
+heads:
+- 尚
+pronunciations:
+- reading: shàng
+  old_chinese: djaŋs
+  middle_chinese: dʑiɐŋ
+  fanqie: 時亮切
+  tone: 去
+  guangyun: 庶幾亦髙尚又飾也曾也加也佐也韻略云凡主天子之物皆曰尚尚醫尚食等是也又姓後漢髙士尚子平又漢複姓有尚方氏時亮切四
+- reading: cháng
+  old_chinese: djaŋ
+  middle_chinese: dʑiɐŋ
+  fanqie: 市羊切
+  tone: 平
+  guangyun: 尚書官名又時仗切
+unattributed_senses:
+- gloss: 尚
+  concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+  concept_label: ADMIRE
+  children:
+  - gloss: active
+    concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+    children:
+    - gloss: concrete
+      concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+      concept_label: LIFT
+  - gloss: aesthetic
+    concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+    concept_label: APPRECIATE
+    children:
+    - gloss: argumentative:deem and treat as important
+      concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+      concept_label: IMPORTANT
+    - gloss: comparative
+      concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+      concept_label: PREFER
+      children:
+      - gloss: object:future event
+        concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+        concept_label: HOPE
+        children:
+        - gloss: subjunctive:it would be excellent
+          concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+          concept_label: UTINAM
+      - gloss: as spouse
+        concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+        concept_label: MARRY
+  - gloss: admired for quality
+    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+    children:
+    - gloss: declarative, reflexive
+      concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+      concept_label: BOAST
+    - gloss: feature:status
+      concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+      children:
+      - gloss: comparative
+        concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+        concept_label: SUPERIOR
+        children:
+        - gloss: generalised
+          concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+          concept_label: SURPASS
+          children:
+          - gloss: competitive
+            concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+            concept_label: WIN
+            children:
+            - gloss: grammaticalised
+              concept_uuid: dcfb8ded-79fd-4a2e-9de9-936e1b2b8fa8
+              concept_label: APPROXIMATELY
+        - gloss: be officially in charge of
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+    - gloss: the (admired) bygone time
+      concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+      concept_label: PAST
+      children:
+      - gloss: as in the past
+        concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+        concept_label: STILL
+        children:
+        - gloss: logical, adversative
+          concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+          concept_label: NONETHELESS
+          children:
+          - gloss: shàng
+            concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+            concept_label: EVEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-12T17:46:29.336+09:00'

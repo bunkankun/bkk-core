@@ -1,0 +1,38 @@
+uuid: 07ef0a40-10cf-4990-a2cc-a8b6293fa614
+type: tax-char
+heads:
+- 真
+pronunciations:
+- reading: zhēn
+  old_chinese: tjin
+  middle_chinese: tɕin
+  fanqie: 職鄰切
+  tone: 平
+  guangyun: 眞僞也又姓風俗通云漢有太尉長史眞祐俗作真側鄰切十六
+  senses:
+  - concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+    concept_label: GENUINE
+    children:
+    - gloss: 'abstract: non-artificial'
+      concept_uuid: 971de0fb-3246-44a5-8e15-819f083ff24b
+      concept_label: NATURE
+    - gloss: unadulterated
+      concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+      concept_label: PURE
+      children:
+      - gloss: psychological
+        concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+        concept_label: EARNEST
+        children:
+        - gloss: moral
+          concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+          concept_label: GOOD
+    - gloss: 'metaphysical: really'
+      concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+      concept_label: REALITY
+      children:
+      - gloss: 'abstract, logical:'
+        concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+        concept_label: 'TRUE'
+source:
+  source_file: taxchar.xml

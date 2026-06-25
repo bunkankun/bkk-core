@@ -1,0 +1,22 @@
+uuid: 210c80c3-2d96-41a1-93cd-376ef718cabf
+type: tax-char
+heads:
+- 彘
+pronunciations:
+- reading: zhì
+  old_chinese: deds
+  middle_chinese: ɖɯiɛi
+  fanqie: 直例切
+  tone: 去
+  guangyun: 豕也又姓左傳有彘恭子
+  senses:
+  - concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+    concept_label: MEAT
+  - concept_uuid: e780a853-9d2a-4088-8c67-978fa2be3515
+    concept_label: PIG
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

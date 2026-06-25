@@ -1,0 +1,51 @@
+uuid: c396c5a0-11e9-4c4e-938d-c892a416e942
+type: tax-char
+heads:
+- 唱
+pronunciations:
+- reading: chàng
+  old_chinese: thjaŋs
+  middle_chinese: tɕʰiɐŋ
+  fanqie: 尺亮切
+  tone: 去
+  guangyun: 發歌又導也亦作誯倡尺亮切四
+  senses:
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+    children:
+    - gloss: 'generalised: loud'
+      concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+      concept_label: SHOUT
+      children:
+      - gloss: associated action
+        concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+        concept_label: LEAD
+    - gloss: generalised
+      concept_uuid: e44d10a7-8cb4-4642-a49e-b92ed122a966
+      concept_label: ANIMAL SOUNDS
+    - gloss: abstract, metaphorical
+      concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+      concept_label: PUBLICISE
+      children:
+      - gloss: 'abstract: the praises of'
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+        children:
+        - gloss: =倡
+          concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+          concept_label: PROMOTE
+    - gloss: 'abstract: religious'
+      concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+      concept_label: PRAY
+    - gloss: object
+      concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+      concept_label: MUSIC
+    - gloss: 'object: text'
+      concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+      concept_label: CHANT
+      children:
+      - gloss: object
+        concept_uuid: 69247baa-01df-4c48-b9f3-115e2315264c
+        concept_label: POETRY
+source:
+  source_file: taxchar.xml

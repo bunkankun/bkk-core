@@ -1,0 +1,20 @@
+uuid: 3eb84d41-e60d-4e2f-9e75-04c600e5319d
+type: tax-char
+heads:
+- 鯉
+pronunciations:
+- reading: lǐ
+  old_chinese: ɡ-rɯʔ
+  middle_chinese: lɨ
+  fanqie: 良士切
+  tone: 上
+  guangyun: 魚名
+  senses:
+  - concept_uuid: b228aaff-2b23-41c6-9fdf-fad0ed165ad8
+    concept_label: FISHES
+  - concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+    concept_label: LETTER
+  - concept_uuid: ae949ca3-c257-4406-8b08-7bc8482a23c4
+    concept_label: MESSENGER
+source:
+  source_file: taxchar.xml

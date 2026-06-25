@@ -1,0 +1,30 @@
+uuid: 44f424e8-876f-4666-b758-5d32feb2f44d
+type: tax-char
+heads:
+- 毋
+pronunciations:
+- reading: wú
+  old_chinese: ma
+  middle_chinese: mio
+  fanqie: 武夫切
+  tone: 平
+  guangyun: 止之辝亦姓毋丘或爲毋氏又漢複姓人氏漢書貨殖傳有毋鹽氏巨富齊毋鹽邑大夫之後漢有執金吾東海母將隆將作大匠母丘興風俗通有樂安母車伯奇爲下邳相有主簿步邵南時人稱母車府君歩主簿何氏姓苑有母終氏左傳魯大夫兹母還晉大夫綦母張漢書有巨母霸王莽改爲巨母氏
+  senses:
+  - concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+    concept_label: AVOID
+  - concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+    concept_label: DON'T
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+  - concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+    concept_label: SHOULD NOT
+  - concept_uuid: f14b64b3-c0e6-4097-b842-fef3b132f1a5
+    concept_label: NONE
+  - concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+    concept_label: PARTICLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

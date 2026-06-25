@@ -1,0 +1,44 @@
+uuid: 107e5f67-cffb-48f3-85eb-7a55ccfb41a8
+type: tax-char
+heads:
+- 僚
+pronunciations:
+- reading: liǎo
+  old_chinese: ɡ-rewʔ
+  middle_chinese: liɛu
+  fanqie: 力小切
+  tone: 上
+  guangyun: 朋也又音平聲
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+- reading: liáo
+  old_chinese: ɡ-reew
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 同僚
+  senses:
+  - concept_uuid: d10affc9-c77e-4d25-8cac-c6da4d3342bf
+    concept_label: HUT
+  - concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+    concept_label: WINDOW
+- reading: liáo
+  old_chinese: ɡ-reew
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 同官爲僚又姓左傳晉陽氏大夫僚安
+  senses:
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 29330eb2-85fb-4157-9608-12f41767cacd
+    concept_label: PERSONAL NAMES
+source:
+  source_file: taxchar.xml

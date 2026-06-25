@@ -1,0 +1,33 @@
+uuid: 5d687a7f-6488-448f-a6c4-6aacef9890ce
+type: tax-char
+heads:
+- 酬
+- 醻
+pronunciations:
+- reading: chóu
+  old_chinese: ɡju
+  middle_chinese: dʑiu
+  fanqie: 市流切
+  tone: 平
+  guangyun: 周也報也以財貨曰酬又酬酢
+  senses:
+  - concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+    concept_label: ANSWER
+  - concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+    concept_label: REWARD
+  - concept_uuid: f1c90c31-351f-4b4b-9caf-d0ae182b0689
+    concept_label: TOAST
+- reading: chóu
+  old_chinese: dju
+  middle_chinese: dʑiu
+  fanqie: 市流切
+  tone: 平
+  guangyun: 同酬説文本作𨢫主人進客也
+- reading: chóu
+  old_chinese: dju
+  middle_chinese: dʑiu
+  fanqie: 市流切
+  tone: 平
+  guangyun: 同酬説文本作𨢫主人進客也
+source:
+  source_file: taxchar.xml

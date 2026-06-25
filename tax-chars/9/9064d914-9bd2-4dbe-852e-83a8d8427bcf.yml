@@ -1,0 +1,36 @@
+uuid: 9064d914-9bd2-4dbe-852e-83a8d8427bcf
+type: tax-char
+heads:
+- 了
+pronunciations:
+- reading: liǎo
+  old_chinese: reewʔ
+  middle_chinese: leu
+  fanqie: 盧鳥切
+  tone: 上
+  guangyun: 慧也訖也盧鳥切十四
+  senses:
+  - concept_uuid: 493c2644-5dda-4f7b-9ae5-8665715a0fea
+    concept_label: AWARE
+  - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+  - concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+    concept_label: CLEAR
+  - concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+    concept_label: ABLE
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+    concept_label: FINAL PARTICLES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,26 @@
+uuid: d4b55aab-694a-400d-8d1f-2fafe7291b5b
+type: tax-char
+heads:
+- 像
+pronunciations:
+- reading: xiàng
+  old_chinese: sɢlaŋʔ
+  middle_chinese: ziɐŋ
+  fanqie: 徐兩切
+  tone: 上
+  guangyun: 似也徐兩切十一
+  senses:
+  - concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+    concept_label: APPEARANCE
+  - concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+    concept_label: FAKE
+  - concept_uuid: 6aa1a2d6-99fa-4e3d-8d14-24fbeb5dbaea
+    concept_label: PICTURE
+  - concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+  - concept_uuid: 4c3d1748-7c81-4aa6-bb51-6521c3caecfc
+    concept_label: EMULATE
+  - concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+source:
+  source_file: taxchar.xml

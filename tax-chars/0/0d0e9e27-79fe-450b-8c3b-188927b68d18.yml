@@ -1,0 +1,20 @@
+uuid: 0d0e9e27-79fe-450b-8c3b-188927b68d18
+type: tax-char
+heads:
+- 霑
+pronunciations:
+- reading: zhān
+  old_chinese: krlem
+  middle_chinese: ʈɯiɛm
+  fanqie: 張廉切
+  tone: 平
+  guangyun: 霑濕也又濡也漬也張廉切三
+  senses:
+  - concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+    concept_label: GENEROUS
+  - concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+    concept_label: MOIST
+  - concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+    concept_label: PROFIT
+source:
+  source_file: taxchar.xml

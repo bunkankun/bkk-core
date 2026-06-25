@@ -1,0 +1,28 @@
+uuid: e620ae5e-6cb1-451b-b4ac-aaff9d018ad0
+type: tax-char
+heads:
+- 友
+pronunciations:
+- reading: yǒu
+  old_chinese: ɢʷɯʔ
+  middle_chinese: ɦiu
+  fanqie: 云久切
+  tone: 上
+  guangyun: 朋友同志爲友
+  senses:
+  - concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+    concept_label: FRIEND
+    children:
+    - gloss: feature
+      concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+      concept_label: INTIMATE
+    - gloss: action
+      concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+      concept_label: HELP
+unattributed_senses:
+- concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+  concept_label: RULERS OF ZHENG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-16T01:23:47.951+09:00'

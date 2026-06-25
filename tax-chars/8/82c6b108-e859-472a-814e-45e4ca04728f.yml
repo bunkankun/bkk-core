@@ -1,0 +1,48 @@
+uuid: 82c6b108-e859-472a-814e-45e4ca04728f
+type: tax-char
+heads:
+- 逮
+pronunciations:
+- reading: dì
+  old_chinese: ɡ-lɯɯds
+  middle_chinese: dei
+  fanqie: 特計切
+  tone: 去
+  guangyun: 逮及也又徒戴切
+- reading: dài
+  old_chinese: ɡ-lɯɯds
+  middle_chinese: dəi
+  fanqie: 徒耐切
+  tone: 去
+  guangyun: 及也又徒帝切
+  senses:
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 333c0f68-fc44-4b75-86aa-60163e40d917
+    concept_label: CATCH UP
+  - concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+    concept_label: UNTIL
+  - concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+    concept_label: OBTAIN
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+  - concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+    concept_label: ENCOURAGE
+  - concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+    concept_label: WHEN
+  - concept_uuid: a58d4969-ab77-4fa9-9061-a1e5b664a853
+    concept_label: WHILE
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

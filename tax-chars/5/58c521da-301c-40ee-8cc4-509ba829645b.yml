@@ -1,0 +1,22 @@
+uuid: 58c521da-301c-40ee-8cc4-509ba829645b
+type: tax-char
+heads:
+- 戟
+pronunciations:
+- reading: jǐ
+  old_chinese: kaɡ
+  middle_chinese: kɯiak
+  fanqie: 几劇切
+  tone: 入
+  guangyun: 刀戟説文作戟有枝兵也釋名曰戟格也傍有枝格也典略曰昔周有雍狐之戟屈盧之矛孤父之戈几劇切八
+  senses:
+  - concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+    concept_label: LANCE
+  - concept_uuid: 3f23b956-1cc9-4a96-8dc3-b14f0275896f
+    concept_label: GESTURE
+  - concept_uuid: 3a56af4e-c91b-45ac-8a04-e95bdb19d0e3
+    concept_label: STAB
+  - concept_uuid: 14dd3c10-229c-4587-97a2-f16c5cfe9439
+    concept_label: INSIGNIA
+source:
+  source_file: taxchar.xml

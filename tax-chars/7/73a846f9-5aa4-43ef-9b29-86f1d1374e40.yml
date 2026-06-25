@@ -1,0 +1,45 @@
+uuid: 73a846f9-5aa4-43ef-9b29-86f1d1374e40
+type: tax-char
+heads:
+- 悅
+pronunciations:
+- reading: yuè
+  old_chinese: lod
+  middle_chinese: jʷiɛt
+  fanqie: 弋雪切
+  tone: 入
+  guangyun: 喜也脫也樂也服也經典通用説又姓後燕録有悦綰弋雪切七
+  senses:
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+    children:
+    - gloss: feature of what causes
+      concept_uuid: 74b7b586-081a-4d67-8062-1b2929578897
+      concept_label: PLEASANT
+      children:
+      - gloss: generalised
+        concept_uuid: bdc229bb-f9d0-42c8-aa80-087257089e55
+        concept_label: SATISFACTORY
+        children:
+        - gloss: associated tendency
+          concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+          concept_label: CONFORM
+    - gloss: resulting lasting state
+      concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+      concept_label: HAPPY
+    - gloss: show delight at
+      concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+      concept_label: WELCOME
+    - gloss: putative
+      concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+      concept_label: ADMIRE
+      children:
+      - gloss: intensitive
+        concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+        concept_label: YEARN
+  - gloss: = 侻
+    concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+    concept_label: EASY
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

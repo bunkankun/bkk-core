@@ -1,0 +1,31 @@
+uuid: 45f81c57-402e-4c27-82d6-d792b7162aa2
+type: tax-char
+heads:
+- 淚
+pronunciations:
+- reading: lèi
+  old_chinese: ruds
+  middle_chinese: lʷi
+  fanqie: 力遂切
+  tone: 去
+  guangyun: 涕淚俗作㴃
+  senses:
+  - concept_uuid: 7b951f9a-7b82-42db-8a23-5bcfc0c2a94e
+    concept_label: TEARS
+    children:
+    - gloss: action
+      concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+      concept_label: WEEP
+    - gloss: generalised
+      concept_uuid: 5b627eb4-d07d-4035-8963-e979136bf6cc
+      concept_label: DROP OF LIQUID
+      children:
+      - gloss: process
+        concept_uuid: ffacdeed-ca72-445e-88ce-79e2fc9db89a
+        concept_label: MELT
+        children:
+        - gloss: typical action
+          concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+          concept_label: FLOW
+source:
+  source_file: taxchar.xml

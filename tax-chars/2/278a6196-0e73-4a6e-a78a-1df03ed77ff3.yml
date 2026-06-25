@@ -1,0 +1,22 @@
+uuid: 278a6196-0e73-4a6e-a78a-1df03ed77ff3
+type: tax-char
+heads:
+- 記
+pronunciations:
+- reading: jì
+  old_chinese: kɯs
+  middle_chinese: kɨ
+  fanqie: 居吏切
+  tone: 去
+  guangyun: 記志也説文䟽也居吏切一
+  senses:
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 1bebc2e6-a495-453e-aa66-4919c1ddaf15
+    concept_label: PREDICT
+  - concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+    concept_label: RECORD
+  - concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+    concept_label: REMEMBER
+source:
+  source_file: taxchar.xml

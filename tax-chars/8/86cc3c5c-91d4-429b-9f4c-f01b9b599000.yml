@@ -1,0 +1,41 @@
+uuid: 86cc3c5c-91d4-429b-9f4c-f01b9b599000
+type: tax-char
+heads:
+- 摘
+pronunciations:
+- reading: tì
+  old_chinese: kh-leeɡ
+  middle_chinese: tʰek
+  fanqie: 他歷切
+  tone: 入
+  guangyun: 發也動也説文曰拓果樹實也一曰指近之也又張革切
+  senses:
+  - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+    concept_label: MOVE
+- reading: zhāi
+  old_chinese: krleeɡ
+  middle_chinese: ʈɯæk
+  fanqie: 陟革切
+  tone: 入
+  guangyun: 手取也陟革切又他歷切九
+  senses:
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+    concept_label: PUBLICISE
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: 3ba821c8-320c-45e6-8432-c9cc56527bbb
+    concept_label: LOOM
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+source:
+  source_file: taxchar.xml

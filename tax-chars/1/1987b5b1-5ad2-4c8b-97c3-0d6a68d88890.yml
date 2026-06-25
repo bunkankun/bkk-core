@@ -1,0 +1,68 @@
+uuid: 1987b5b1-5ad2-4c8b-97c3-0d6a68d88890
+type: tax-char
+heads:
+- 強
+- 彊
+pronunciations:
+- reading: qiáng
+  old_chinese: ɡaŋ
+  middle_chinese: ɡiɐŋ
+  fanqie: 巨良切
+  tone: 平
+  guangyun: 健也暴也説文曰蚚也又姓後漢有強華奉赤伏符巨良切四
+- reading: qiǎng
+  old_chinese: ɡaŋʔ
+  middle_chinese: ɡiɐŋ
+  fanqie: 其兩切
+  tone: 上
+  senses:
+  - gloss: 巨兩切 qiǎng action, psychological
+    concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+    concept_label: INSIST
+    children:
+    - gloss: causative, iussive
+      concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+      concept_label: ENCOURAGE
+- reading: qiáng
+  old_chinese: ɡaŋ
+  middle_chinese: ɡiɐŋ
+  fanqie: 巨良切
+  tone: 平
+  guangyun: 與強通用説文曰弓有力也
+unattributed_senses:
+- gloss: 巨良切 qiáng
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  concept_label: STRONG
+  children:
+  - gloss: social/political
+    concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+    concept_label: POWER
+    children:
+    - gloss: posivite
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+      children:
+      - gloss: psychological
+        concept_uuid: 6346b438-5cae-472e-8eea-b9e9ca4dbc04
+        concept_label: DELIBERATE
+        children:
+        - gloss: specific
+          concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+          concept_label: STUBBORN
+          children:
+          - gloss: intensitive
+            concept_uuid: 48d327c2-dd93-4300-aecc-044eb8389095
+            concept_label: COMPEL
+    - gloss: negative
+      concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+      concept_label: VIOLENT
+  - gloss: physical>strong stage in life
+    concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - gloss: 'late: grammaticalised'
+    concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-16T00:04:34.078+09:00'

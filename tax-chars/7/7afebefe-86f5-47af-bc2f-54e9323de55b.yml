@@ -1,0 +1,20 @@
+uuid: 7afebefe-86f5-47af-bc2f-54e9323de55b
+type: tax-char
+heads:
+- 峨
+pronunciations:
+- reading: é
+  old_chinese: ŋaal
+  middle_chinese: ŋɑ
+  fanqie: 五何切
+  tone: 平
+  guangyun: 嵳峩
+  senses:
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+source:
+  source_file: taxchar.xml

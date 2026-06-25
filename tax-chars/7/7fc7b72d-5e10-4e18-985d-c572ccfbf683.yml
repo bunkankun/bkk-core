@@ -1,0 +1,83 @@
+uuid: 7fc7b72d-5e10-4e18-985d-c572ccfbf683
+type: tax-char
+heads:
+- 伏
+pronunciations:
+- reading: fú
+  old_chinese: bɯɡ
+  middle_chinese: biuk
+  fanqie: 房六切
+  tone: 入
+  guangyun: 匿藏也伺也隱也歷也釋名曰伏者何金氣伏藏之日金畏火故三伏皆庚日又姓出平昌夲自伏犧之後漢有伏勝文帝蒲輪徴不至房六切三十三
+  senses:
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+    children:
+    - gloss: reflexive
+      concept_uuid: cc5afe89-9ccc-4ed5-b8cf-a33decee7547
+      concept_label: HIDE ONESELF
+      children:
+      - gloss: adverbial
+        concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+        concept_label: SECRET
+      - gloss: 'action: withdraw from public life'
+        concept_label: HERMIT
+    - gloss: object armed force
+      concept_uuid: 99d0b32d-3285-4114-90ca-dee9e12975b8
+      concept_label: AMBUSH
+    - gloss: 'object: self'
+      concept_uuid: 7eca4eb6-7f7e-49c0-93f0-b8d392f45e6a
+      concept_label: LIE DOWN
+      children:
+      - gloss: 'inchoative: involuntary process:'
+        concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+        concept_label: FALL
+        children:
+        - gloss: specific, concrete process
+          concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+          concept_label: COLLAPSE
+      - gloss: polite action, approximative
+        concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+        concept_label: BOW DOWN
+        children:
+        - gloss: 'grammaticalied: self-deprecating'
+          concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+          concept_label: EGO
+        - gloss: natural feeling thereby expressed
+          concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+          concept_label: ADMIRE
+          children:
+          - gloss: generalised
+            concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+            concept_label: FEEL
+            children:
+            - gloss: negative
+              concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+              concept_label: SUFFER
+        - gloss: related action
+          concept_uuid: 106dd16c-2d31-4bb0-9ba2-edced71f0977
+          concept_label: CONFESS
+      - gloss: natural process
+        concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+        concept_label: SLEEP
+      - gloss: related movement
+        concept_uuid: c97a3f3b-e73f-4c50-9d5d-127ef1b37dd8
+        concept_label: CRAWL
+  - concept_uuid: f1a5528f-eea7-4249-9d33-67e324a4108a
+    concept_label: RULERS PREHISTORIC
+  - gloss: =服
+    concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+    concept_label: CONQUER
+- reading: fù
+  old_chinese: bɯɡs
+  middle_chinese: biu
+  fanqie: 扶富切
+  tone: 去
+  guangyun: 鳥菢子又音服
+  senses:
+  - concept_uuid: 942e5615-08b5-42c7-bba5-d62a347f4763
+    concept_label: HATCH
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-25T02:04:57.419+09:00'

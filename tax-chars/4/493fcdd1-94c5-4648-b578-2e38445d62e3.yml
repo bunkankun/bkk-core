@@ -1,0 +1,53 @@
+uuid: 493fcdd1-94c5-4648-b578-2e38445d62e3
+type: tax-char
+heads:
+- 籠
+pronunciations:
+- reading: lǒng
+  old_chinese: b-rooŋʔ
+  middle_chinese: luŋ
+  fanqie: 力董切
+  tone: 上
+  guangyun: 竹器又龍聾二音
+- reading: lóng
+  old_chinese: b-roŋ
+  middle_chinese: lioŋ
+  fanqie: 力鍾切
+  tone: 平
+  guangyun: 𥳎籠竹車軬亦籦籠竹又力東力董二切
+  senses:
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: ac382083-818e-4529-8626-b16657b3d45e
+    concept_label: IGNITE
+  - concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+    concept_label: BOX
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - gloss: MONPOLISE
+- reading: lóng
+  old_chinese: b-rooŋ
+  middle_chinese: luŋ
+  fanqie: 盧紅切
+  tone: 平
+  guangyun: 西京雜記曰漢制天子以象牙爲火籠盧紅切又力董切二十七
+  senses:
+  - concept_uuid: ee833d1d-6fed-40a2-b0e8-eb9f3ddd24f1
+    concept_label: CAGE
+  - concept_uuid: 73cfcdd2-7f47-4f3d-899b-97785a217dc4
+    concept_label: EARTH BASKET
+  - concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+    concept_label: MONOPOLISE
+  - concept_uuid: 8b72e051-2ff0-44c7-b58f-7b9fdee049bd
+    concept_label: QUIVER
+  - concept_uuid: c34b2d9b-60bf-4e33-8c1b-7ef584be8218
+    concept_label: KITCHEN UTENSIL
+  - concept_uuid: a354f4bd-5694-46c7-b0ee-d4740aadcdde
+    concept_label: VEHICLE PARTS
+  - gloss: NOMINAL MEASURE WORD
+source:
+  source_file: taxchar.xml

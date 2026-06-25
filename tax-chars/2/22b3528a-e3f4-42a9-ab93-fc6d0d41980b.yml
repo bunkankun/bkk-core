@@ -1,0 +1,59 @@
+uuid: 22b3528a-e3f4-42a9-ab93-fc6d0d41980b
+type: tax-char
+heads:
+- 振
+pronunciations:
+- reading: zhèn
+  old_chinese: kljɯns
+  middle_chinese: tɕin
+  fanqie: 章刃切
+  tone: 去
+  guangyun: 奮也裂也舉也整也救也又之人切
+  senses:
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+    children:
+    - gloss: in distress
+      concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+      concept_label: RESCUE
+      children:
+      - gloss: physcially
+        concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+        concept_label: LIFT
+        children:
+        - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+          concept_label: SHAKE
+          children:
+          - concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+            concept_label: FRIGHTEN
+          - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+            concept_label: REMOVE
+            children:
+            - concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+              concept_label: MOVE
+              children:
+              - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+                concept_label: OPEN
+                children:
+                - concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+                  concept_label: ISSUE
+                  children:
+                  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+                    concept_label: SHOW
+                    children:
+                    - concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+                      concept_label: ACT
+                      children:
+                      - concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+                        concept_label: INFLUENCE
+                        children:
+                        - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+                          concept_label: STOP
+          - gloss: grammaticalised
+            concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+            concept_label: INTENSELY
+  - gloss: (archaic)
+    concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+source:
+  source_file: taxchar.xml

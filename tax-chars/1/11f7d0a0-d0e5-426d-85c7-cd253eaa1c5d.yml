@@ -1,0 +1,52 @@
+uuid: 11f7d0a0-d0e5-426d-85c7-cd253eaa1c5d
+type: tax-char
+heads:
+- 冥
+pronunciations:
+- reading: míng
+  old_chinese: meeŋ
+  middle_chinese: meŋ
+  fanqie: 莫經切
+  tone: 平
+  guangyun: 暗也幽也又姓禹後因國爲氏風俗通云漢有冥都爲丞相莫經切十五
+  senses:
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+    children:
+    - gloss: subject
+      concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+      concept_label: NIGHT
+    - gloss: metaphorical
+      concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+      concept_label: OBSCURE
+      children:
+      - gloss: positive
+        concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+        concept_label: PROFOUND
+        children:
+        - gloss: abstract
+          concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+          concept_label: DISTANT
+          children:
+          - gloss: 'subject: metaphysical'
+            concept_uuid: d0e55d09-e3d9-420c-88bc-6e45f3df0a66
+            concept_label: UNDERWORLD
+    - gloss: 'of mind: obfuscated'
+      concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+      concept_label: STUPID
+  - gloss: =瞑
+    concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+    concept_label: SLEEP
+  - gloss: =溟
+unattributed_senses:
+- gloss: 冥 ｍｉａｎ２《集韻》民堅切，平先明。真部。
+  children:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+- gloss: 冥 ｍｉａｎ４《集韻》〓見切，去霰明。
+  children:
+  - gloss: (of sight)
+    concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+source:
+  source_file: taxchar.xml

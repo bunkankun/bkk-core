@@ -1,0 +1,30 @@
+uuid: 697a29e3-ab69-48ec-9708-91c17da79abc
+type: tax-char
+heads:
+- 縛
+pronunciations:
+- reading: bò
+  old_chinese: baals
+  middle_chinese: buɑ
+  fanqie: 符卧切
+  tone: 去
+  guangyun: 符臥切一
+- reading: fù
+  old_chinese: baɡ
+  middle_chinese: bʷiɐk
+  fanqie: 符钁切
+  tone: 入
+  guangyun: 繫也符钁切一
+  senses:
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+    concept_label: FETTERS
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: RESTRICT
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

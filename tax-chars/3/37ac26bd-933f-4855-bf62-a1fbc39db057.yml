@@ -1,0 +1,59 @@
+uuid: 37ac26bd-933f-4855-bf62-a1fbc39db057
+type: tax-char
+heads:
+- 藉
+pronunciations:
+- reading: jí
+  old_chinese: sɡaɡ
+  middle_chinese: dziɛk
+  fanqie: 秦昔切
+  tone: 入
+  guangyun: 狼藉又姓左傳晉大夫藉談又慈夜切
+  senses:
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+    concept_label: TRIBUTE
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+    concept_label: OPPRESS
+  - concept_uuid: cb631a55-ef0b-42b1-a0c4-34cfd9d07807
+    concept_label: ATTENTION
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 籍
+- reading: jiè
+  old_chinese: zjaaɡs
+  middle_chinese: dzia
+  fanqie: 慈夜切
+  tone: 去
+  guangyun: 以蘭茅藉地又慈亦切
+  senses:
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+  - concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+    concept_label: IF
+  - concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+    concept_label: OPPRESS
+  - concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+    concept_label: POWER
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+    concept_label: PAD
+  - gloss: STRECH OUT
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+  - concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+    concept_label: SLEEP
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+    concept_label: CONSOLE
+source:
+  source_file: taxchar.xml

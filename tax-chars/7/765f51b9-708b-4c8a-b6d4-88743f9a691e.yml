@@ -1,0 +1,30 @@
+uuid: 765f51b9-708b-4c8a-b6d4-88743f9a691e
+type: tax-char
+heads:
+- 媒
+pronunciations:
+- reading: méi
+  old_chinese: mɯɯ
+  middle_chinese: muoi
+  fanqie: 莫杯切
+  tone: 平
+  guangyun: 媒衒説文曰謀也謀合二姓也
+  senses:
+  - concept_uuid: 2aa3ffa6-acb8-4f34-8976-e3950cac6f53
+    concept_label: INTRODUCE
+  - concept_uuid: ec1fcce1-ed79-49c9-a262-04b12dc7a1a5
+    concept_label: ENVOY
+  - concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+    concept_label: CAUSE TO
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: df1d533f-acd8-4496-bd4c-5776efad36fb
+    concept_label: BAIT
+  - concept_uuid: e0926d9a-b516-4216-a0c0-273a6495a1a3
+    concept_label: YEAST
+  - concept_uuid: fed18fc5-90fc-4ef5-b320-23d4db80ecde
+    concept_label: MEDIA
+source:
+  source_file: taxchar.xml

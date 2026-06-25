@@ -1,0 +1,37 @@
+uuid: d0235e80-375e-4704-b494-d0bcc238fb10
+type: tax-char
+heads:
+- 喜
+pronunciations:
+- reading: xǐ
+  old_chinese: qhɯʔ
+  middle_chinese: hɨ
+  fanqie: 虚里切
+  tone: 上
+  guangyun: 喜樂又聞喜縣在絳州漢武帝幸左邑聞南越破遂改爲聞喜縣禮記曰人喜則斯陶陶斯咏虚里切又香忌切三
+  senses:
+  - concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+    concept_label: DELIGHT
+    children:
+    - gloss: take delight in
+      concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+      concept_label: ENJOY
+      children:
+      - gloss: mood
+        concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+        concept_label: HAPPY
+        children:
+        - gloss: preferred personal action
+          concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+          concept_label: HABIT
+          children:
+          - gloss: social
+            concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+            concept_label: CUSTOM
+  - gloss: personal names
+    concept_uuid: e6e4b3bf-f0df-4aa7-b5c1-855f9ef06855
+    concept_label: MALES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:05:23.965+09:00'

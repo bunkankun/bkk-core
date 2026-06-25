@@ -1,0 +1,41 @@
+uuid: 0595a909-d787-490f-ba6f-98469a3f71c8
+type: tax-char
+heads:
+- 錯
+pronunciations:
+- reading: cuò
+  old_chinese: skhaaɡ
+  middle_chinese: tsʰɑk
+  fanqie: 倉各切
+  tone: 入
+  guangyun: 鑢别名又雜也摩也詩傳云東西爲交邪行爲錯説文云金涂也倉各切七
+  senses:
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+    concept_label: MIXED
+  - concept_uuid: e4f27013-ca16-4fdf-b7a1-075d72b062cb
+    concept_label: POLISH
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+  - concept_uuid: b082ea1d-6e1a-49de-a989-bcad816f37a2
+    concept_label: WHETSTONE
+- reading: cuò
+  old_chinese: skhaaɡs
+  middle_chinese: tsʰuo
+  fanqie: 倉故切
+  tone: 去
+  guangyun: 金塗又姓宋太宰之後又千各切
+  senses:
+  - concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+    concept_label: DEPLOY
+  - concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+    concept_label: ESTABLISH
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,25 @@
+uuid: 6e5d58b1-6c60-4bef-99e2-bbca334983f1
+type: tax-char
+heads:
+- 朱
+pronunciations:
+- reading: zhū
+  old_chinese: tjo
+  middle_chinese: tɕio
+  fanqie: 章俱切
+  tone: 平
+  guangyun: 赤也説文曰赤心木松柏屬也又姓出沛國義陽吴郡河南四望本自髙陽後周封于邾後爲楚所滅子孫乃去邑氏朱焉亦漢複姓莊子有朱泙漫郭象注云朱泙姓也章俱切十
+  senses:
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: RED
+  - gloss: 'exocentric: bright red'
+    concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+    concept_label: SILK
+unattributed_senses:
+- gloss: 朱 ｓｈｕ１《集韻》慵朱切，平虞禪。
+  children:
+  - gloss: proper name
+    concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

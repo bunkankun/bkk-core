@@ -1,0 +1,43 @@
+uuid: 327f4280-f54e-4e36-a2e8-505a3b225659
+type: tax-char
+heads:
+- 禪
+pronunciations:
+- reading: shàn
+  old_chinese: djan
+  middle_chinese: dʑiɛn
+  fanqie: 時戰切
+  tone: 去
+  guangyun: 襌古文
+- reading: shàn
+  old_chinese: djans
+  middle_chinese: dʑiɛn
+  fanqie: 時戰切
+  tone: 去
+  guangyun: 圭襌又禪讓傳受
+  senses:
+  - concept_uuid: 552752b4-3ee4-4a11-8e6d-6d7c422994d1
+    concept_label: ABDICATE
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 62559838-ff41-4b20-8b43-8842802bbda7
+    concept_label: SACRIFICE TO HEAVEN AND EARTH
+  - concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+    concept_label: REPLACE
+- reading: chán
+  old_chinese: djan
+  middle_chinese: dʑiɛn
+  fanqie: 市連切
+  tone: 平
+  guangyun: 静也又市戰切
+  senses:
+  - concept_uuid: eb01e2d1-dbec-451e-9458-f57a7950f1c7
+    concept_label: BUDDHIST SCHOOLS
+  - concept_uuid: 393c8446-1488-4a25-9660-47d3d36a9407
+    concept_label: MEDITATE
+  - concept_uuid: aa9eef6d-9d7d-4788-bcee-254ac1495a99
+    concept_label: RELIGION
+  - concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+    concept_label: ROOM
+source:
+  source_file: taxchar.xml

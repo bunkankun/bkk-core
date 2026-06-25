@@ -1,0 +1,18 @@
+uuid: 4905fc4c-5601-4baf-98f5-b92866ba49f6
+type: tax-char
+heads:
+- 誄
+pronunciations:
+- reading: lěi
+  old_chinese: rulʔ
+  middle_chinese: lʷi
+  fanqie: 力軌切
+  tone: 上
+  guangyun: 銘誄誄壘也壘述前人之功德周禮曰小史掌卿大夫之喪讀誄也説文曰誄諡也
+  senses:
+  - concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+    concept_label: PRAY
+  - concept_uuid: dd214ea7-5049-48ce-b3c1-0bc6b2a4e0ed
+    concept_label: EULOGY
+source:
+  source_file: taxchar.xml

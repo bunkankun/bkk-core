@@ -1,0 +1,26 @@
+uuid: 67582fb1-3647-49be-a1be-b388e43fba16
+type: tax-char
+heads:
+- 南
+pronunciations:
+- reading: nán
+  old_chinese: noom
+  middle_chinese: nəm
+  fanqie: 那含切
+  tone: 平
+  guangyun: 火方亦果名臨海異物志云多南子大如指紫色味甘似梅又姓魯大夫南遺也又漢複姓九氏左傳齊有南史氏其後爲姓又魯有南宫敬叔晉國髙士全隱於南郷因以爲氏六國時有南公子著書言五行隂陽事莊子有南郭子綦又有南榮趎古有善暴背於南榮之者獻之於君其後爲氏又有南伯子蔡姓苑有南野氏又有南門氏那含切七
+  senses:
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+    children:
+    - gloss: move in the direction of
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+      children:
+      - gloss: in the sky
+        concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+        concept_label: REVOLVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-30T18:04:12.341+09:00'

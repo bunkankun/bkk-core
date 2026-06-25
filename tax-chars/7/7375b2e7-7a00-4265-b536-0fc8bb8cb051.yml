@@ -1,0 +1,79 @@
+uuid: 7375b2e7-7a00-4265-b536-0fc8bb8cb051
+type: tax-char
+heads:
+- 章
+pronunciations:
+- reading: zhāng
+  old_chinese: kjaŋ
+  middle_chinese: tɕiɐŋ
+  fanqie: 諸良切
+  tone: 平
+  guangyun: 篇章又章甫殷冠名禮記曰孔子長居宋冠章甫之冠又明也采也程也又姓秦將有章邯諸良切十五
+  senses:
+  - concept_uuid: 14dd3c10-229c-4587-97a2-f16c5cfe9439
+    concept_label: INSIGNIA
+    children:
+    - gloss: specific
+      concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+      concept_label: SEAL
+    - gloss: document with official seal
+      concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+      concept_label: MEMORIAL
+      children:
+      - gloss: generalised
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+        children:
+        - gloss: content of
+          concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+          concept_label: TEXT
+          children:
+          - gloss: part of
+            concept_uuid: 8bab444f-0b3a-4cfa-ad01-643240019455
+            concept_label: PARAGRAPH
+            children:
+            - gloss: poetic
+              concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+              concept_label: SONG
+        - gloss: legal
+          concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+          concept_label: LAW
+    - gloss: action related
+      concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+      concept_label: SHOW
+      children:
+      - gloss: resultative
+        concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+        concept_label: CLEAR
+      - gloss: resultative feature
+        concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+        concept_label: WELL-KNOWN
+        children:
+        - gloss: what one is well-known for
+          concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+          concept_label: MERIT
+        - gloss: positively
+          concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+          concept_label: FAMOUS
+          children:
+          - gloss: aesthetic
+            concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+            concept_label: BEAUTIFUL
+        - gloss: resultative process
+          concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+          concept_label: FLOURISH
+    - gloss: generalised
+      concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+      concept_label: PATTERN
+      children:
+      - gloss: distinct pattern
+        concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+        concept_label: DIFFERENT
+unattributed_senses:
+- concept_label: 章 zhang4 《廣韻》之亮切，去漾，章。
+  children:
+  - concept_label: =障 hindrance
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-03T01:33:12.52+09:00'

@@ -1,0 +1,39 @@
+uuid: b7b5e020-71ea-4bc2-8ce6-f414a93d7bdb
+type: tax-char
+heads:
+- 擲
+pronunciations:
+- reading: zhì
+  old_chinese: ɡ-leɡ
+  middle_chinese: ɖiɛk
+  fanqie: 直炙切
+  tone: 入
+  guangyun: 同擲岀説文
+  senses:
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: THROW
+  - concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+    concept_label: ACROBATICS
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 66925e4a-f4df-498b-9361-388edc15134c
+    concept_label: DRILL
+  - concept_uuid: ba82af8b-b1d9-4907-baec-da112c8751a2
+    concept_label: SCRATCH
+  - concept_uuid: 363a904e-6fa7-4584-a5c5-a5e443014a8a
+    concept_label: HAIRPIN
+  - concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+  - gloss: FLAP
+  - gloss: = 摘
+- reading: zhì
+  old_chinese: deɡ
+  middle_chinese: ɖiɛk
+  fanqie: 直炙切
+  tone: 入
+  guangyun: 投也搔也振也直炙切七
+  senses:
+  - concept_uuid: 948186e9-574e-4718-8110-5de1f96e3617
+    concept_label: THROW
+source:
+  source_file: taxchar.xml

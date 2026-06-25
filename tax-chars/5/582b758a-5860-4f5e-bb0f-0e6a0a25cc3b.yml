@@ -1,0 +1,81 @@
+uuid: 582b758a-5860-4f5e-bb0f-0e6a0a25cc3b
+type: tax-char
+heads:
+- 外
+pronunciations:
+- reading: wài
+  old_chinese: ŋoods
+  middle_chinese: ŋʷɑi
+  fanqie: 五會切
+  tone: 去
+  guangyun: 表也逺也五㑹切一
+  senses:
+  - concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+    concept_label: OUTSIDE
+    children:
+    - gloss: exocentric:person
+      concept_uuid: b395c4c7-2b4a-4ea7-b418-05b315260940
+      concept_label: FOREIGNER
+    - gloss: grammaticalised:participant other than oneself
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+    - gloss: causative
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+      children:
+      - gloss: 'abstract: go beyond'
+        concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+        concept_label: LEAP OVER
+    - gloss: visual
+      concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+      concept_label: APPEARANCE
+      children:
+      - gloss: generally accessible
+        concept_uuid: 334a18e8-17db-41fa-b42d-17e7d2ce31bb
+        concept_label: PUBLIC
+        children:
+        - gloss: conduct
+          concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+          concept_label: ACT
+        - gloss: reality
+          concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+          concept_label: WORLD
+    - gloss: capital
+      concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+      concept_label: COUNTRYSIDE
+      children:
+      - gloss: country
+        concept_uuid: 9cb1a891-6624-426e-9c54-5906dd554b1c
+        concept_label: ABROAD
+        children:
+        - gloss: generalised
+          concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+          concept_label: DISTANT
+          children:
+          - gloss: 'from main male lineage: maternal'
+            concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+            concept_label: MOTHER
+          - gloss: semantic:from reality
+            concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+            concept_label: UNTRUE
+            children:
+            - gloss: from presupposed truth
+              concept_uuid: 35aa0280-d177-4c5a-8602-741d4c41ca38
+              concept_label: HETERODOX
+          - gloss: 'from religion:'
+            concept_uuid: a9cd9b55-25a4-4c86-bc18-185e30a540b8
+            concept_label: SECULAR
+        - gloss: jussive
+          concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+          concept_label: BANISH
+          children:
+          - gloss: political reason
+            concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+            concept_label: EXILE
+    - gloss: late, colloquial
+      concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+      concept_label: THEREUPON
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-05T18:14:06.825+09:00'

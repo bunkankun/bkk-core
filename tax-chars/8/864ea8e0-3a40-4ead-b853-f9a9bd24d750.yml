@@ -1,0 +1,19 @@
+uuid: 864ea8e0-3a40-4ead-b853-f9a9bd24d750
+type: tax-char
+heads:
+- 牖
+pronunciations:
+- reading: yǒu
+  old_chinese: luʔ
+  middle_chinese: jiu
+  fanqie: 與久切
+  tone: 上
+  guangyun: 道也向也説文曰牖穿壁以木爲交䆫也禮曰蓽門閨竇蓬戸甕牖
+  senses:
+  - concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+    concept_label: WINDOW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 誘
+source:
+  source_file: taxchar.xml

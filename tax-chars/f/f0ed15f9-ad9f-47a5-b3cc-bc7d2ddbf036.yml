@@ -1,0 +1,31 @@
+uuid: f0ed15f9-ad9f-47a5-b3cc-bc7d2ddbf036
+type: tax-char
+heads:
+- 壤
+pronunciations:
+- reading: rǎng
+  old_chinese: njaŋʔ
+  middle_chinese: ȵiɐŋ
+  fanqie: 如兩切
+  tone: 上
+  guangyun: 土也書傳曰無塊曰壤風土記曰擊壤者以木作之前廣後銳長尺三四寸其形如履臘節僮少以爲戲也逸士傳曰堯時有壤父擊於康衢藝經曰擊壤古戲又漢複姓孔子弟子有壤駟赤如兩切八
+  senses:
+  - concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+    concept_label: SOIL
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+    concept_label: BORDER AREA
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 攘
+  - gloss: = 蠰
+  - gloss: = 穰
+source:
+  source_file: taxchar.xml

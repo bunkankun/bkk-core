@@ -1,0 +1,63 @@
+uuid: 2809db5b-8b78-49a2-a635-3a5257bcc02e
+type: tax-char
+heads:
+- 夫
+pronunciations:
+- reading: fú
+  old_chinese: ba
+  middle_chinese: bio
+  fanqie: 防無切
+  tone: 平
+  guangyun: 語助又府符切
+- reading: fū
+  old_chinese: pa
+  middle_chinese: pio
+  fanqie: 甫無切
+  tone: 平
+  guangyun: 丈夫又羌複姓後秦建威將軍夫蒙大羌
+  senses:
+  - gloss: 'sentence-final:'
+    concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+    concept_label: FINAL PARTICLES
+    children:
+    - concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+      concept_label: EXCLAMATORY PARTICLE
+  - gloss: fū 夫
+    concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+    children:
+    - gloss: fū 夫
+      concept_uuid: ca2f1879-90bd-463c-9313-a009e2c17188
+      concept_label: HUSBAND
+unattributed_senses:
+- gloss: prenominal proximative demonstrative pronoun
+  concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+  concept_label: THIS
+  children:
+  - gloss: by extension:neutral or distal pronoun
+    concept_uuid: 28da57be-e713-40d9-bc3d-600e018beb26
+    concept_label: THAT
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+      concept_label: TOPIC MARKER
+      children:
+      - gloss: further grammaticalised
+        concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+        concept_label: MODAL PARTICLES
+        children:
+        - gloss: conditional
+          concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+          concept_label: IF
+          children:
+          - gloss: temporal
+            concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+            concept_label: WHEN
+            children:
+            - gloss: like this
+              concept_uuid: 117152ee-1bfc-446b-8947-fc010bd3ae85
+              concept_label: THUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-20T03:03:15.109+09:00'

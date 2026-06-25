@@ -1,0 +1,62 @@
+uuid: 874f5323-9e66-4df7-8978-5a0181acfcf1
+type: tax-char
+heads:
+- 穀
+pronunciations:
+- reading: gǔ
+  old_chinese: kooɡ
+  middle_chinese: kuk
+  fanqie: 古禄祿切
+  tone: 入
+  guangyun: 五榖也又生也禄也善也説文曰續也百榖之緫名今經典省作榖餘從㱿者並同古禄切十七
+  senses:
+  - concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+    concept_label: GRAIN
+    children:
+    - gloss: generalised
+      concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+      concept_label: FOOD
+    - gloss: metaphorical, old dialect
+      concept_uuid: 08ef56bc-0077-4a08-9fb3-24dcda9684ad
+      concept_label: NIPPLE
+    - gloss: used as payment for service
+      concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+      concept_label: SALARY
+    - gloss: abstract
+      concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+      concept_label: HARVEST
+      children:
+      - gloss: feature
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+        children:
+        - gloss: feature of owner of
+          concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+          concept_label: HAPPY
+    - gloss: typical use of
+      concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+      concept_label: FEED
+      children:
+      - gloss: generalised
+        concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+        concept_label: NURTURE
+        children:
+        - gloss: begin to be nurtured
+          concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+          concept_label: BIRTH
+          children:
+          - gloss: process
+            concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+            concept_label: LIVE
+          - gloss: subject
+            concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+            concept_label: CHILD
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: =穀 (mulberry)
+    concept_uuid: 0b834778-a870-4ece-b10c-65205cfd2c2d
+    concept_label: TREES
+source:
+  source_file: taxchar.xml

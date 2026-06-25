@@ -1,0 +1,77 @@
+uuid: b1d53132-8ade-40f3-b2f0-a07818282c78
+type: tax-char
+heads:
+- 放
+pronunciations:
+- reading: fàng
+  old_chinese: paŋs
+  middle_chinese: pʷiɐŋ
+  fanqie: 甫妄切
+  tone: 去
+  guangyun: 逐也去也甫妄切四
+  senses:
+  - concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+    concept_label: BANISH
+    children:
+    - gloss: result
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+    - gloss: generalised
+      concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+      concept_label: DISCARD
+      children:
+      - gloss: from office
+        concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+        concept_label: DISMISS
+      - gloss: inadvertent
+        concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+        concept_label: LOSE
+      - gloss: concrete
+        concept_uuid: 26eca572-4729-4928-8646-a70d3a40eacd
+        concept_label: DROP
+      - gloss: set free
+        concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+        concept_label: RELEASE
+        children:
+        - gloss: from guilt/responsibility
+          concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+          concept_label: FORGIVE
+        - gloss: set free to act
+          concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+          concept_label: PERMIT
+          children:
+          - gloss: feature
+            concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+            concept_label: UNRESTRAINED
+      - gloss: generalised
+        concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+        concept_label: ISSUE
+        children:
+        - gloss: object flowers
+          concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+          concept_label: BLOSSOM
+        - gloss: so as to make visible
+          concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+          concept_label: SHOW
+        - gloss: in orderly fashion
+          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+          concept_label: ARRANGE
+          children:
+          - gloss: so as to enlarge
+            concept_uuid: c9eaed89-c52f-4cbf-ae6e-e0304111543d
+            concept_label: EXPAND
+          - gloss: so as to fix in a certain place
+            concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+            concept_label: PUT
+            children:
+            - gloss: over many places
+              concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+              concept_label: SPREAD
+          - gloss: so as to bring something about
+            concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+            concept_label: CAUSE TO
+          - gloss: object means of transport
+            concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+            concept_label: DRIVE
+source:
+  source_file: taxchar.xml

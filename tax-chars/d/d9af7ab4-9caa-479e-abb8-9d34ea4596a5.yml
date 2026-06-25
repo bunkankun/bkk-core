@@ -1,0 +1,32 @@
+uuid: d9af7ab4-9caa-479e-abb8-9d34ea4596a5
+type: tax-char
+heads:
+- 跖
+pronunciations:
+- reading: zhí
+  old_chinese: tjaɡ
+  middle_chinese: tɕiɛk
+  fanqie: 之石切
+  tone: 入
+  guangyun: 同蹠説文曰足下也
+  senses:
+  - concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+    concept_label: FOOT
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 29330eb2-85fb-4157-9608-12f41767cacd
+    concept_label: PERSONAL NAMES
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+source:
+  source_file: taxchar.xml

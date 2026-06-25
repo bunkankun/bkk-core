@@ -1,0 +1,82 @@
+uuid: 6c87caf5-d9aa-4c37-9659-b6a7e1d16b72
+type: tax-char
+heads:
+- 備
+pronunciations:
+- reading: bèi
+  old_chinese: brɯɡs
+  middle_chinese: bɯi
+  fanqie: 平祕切
+  tone: 去
+  guangyun: 𤰇古文
+- reading: bèi
+  old_chinese: brɯɡs
+  middle_chinese: bɯi
+  fanqie: 平祕切
+  tone: 去
+  guangyun: 俗備
+- reading: bèi
+  old_chinese: brɯɡs
+  middle_chinese: bɯi
+  fanqie: 平祕切
+  tone: 去
+  guangyun: 備具也防也咸也皆也副也慎也成也又姓風俗通云宋封人備之後平祕切十七
+  senses:
+  - concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+    concept_label: COMPLETE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+      children:
+      - gloss: all places
+        concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+        concept_label: EVERYWHERE
+        children:
+        - gloss: everywhere non-empty
+          concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+          concept_label: FULL
+          children:
+          - gloss: abstract
+            concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+            concept_label: SUFFICIENT
+            children:
+            - gloss: in property
+              concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+              concept_label: RICH
+            - gloss: beautifully well-supplied
+              concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+              concept_label: BEAUTIFUL
+            - gloss: 'causative: fulfill'
+              concept_uuid: 09bed9c6-85ff-45d6-bed9-c685ff25d69f
+              concept_label: SATISFY
+              children:
+              - gloss: conative:striving to satisfy needs
+                concept_label: CAREFUL
+    - gloss: 'causative: make complete'
+      concept_label: PREPARE
+      children:
+      - gloss: what is necessary
+        concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+        concept_label: PROVIDE
+        children:
+        - gloss: service for others
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+        - gloss: for oneself
+          concept_label: COLLECT
+        - gloss: provide against
+          concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+          concept_label: DEFEND
+          children:
+          - gloss: 'exocentric: what is provided for a purpose'
+            concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+            concept_label: TOOL
+            children:
+            - gloss: specific
+              concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+              concept_label: WEAPON
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T17:51:54.174+09:00'

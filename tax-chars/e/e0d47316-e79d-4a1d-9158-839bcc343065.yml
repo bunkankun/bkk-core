@@ -1,0 +1,61 @@
+uuid: e0d47316-e79d-4a1d-9158-839bcc343065
+type: tax-char
+heads:
+- 予
+pronunciations:
+- reading: yú
+  old_chinese: la
+  middle_chinese: jiɔ
+  fanqie: 以諸切
+  tone: 平
+  guangyun: 我也又餘佇切
+  senses:
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+    children:
+    - gloss: generalised
+      concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+      concept_label: ONESELF
+    - gloss: plural
+      concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+      concept_label: WE
+  - gloss: grammaticalised
+    concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+    concept_label: BUT
+- reading: yǔ
+  old_chinese: laʔ
+  middle_chinese: jiɔ
+  fanqie: 余吕切
+  tone: 上
+  guangyun: 郭璞云予猶與也又弋諸切
+  senses:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+    children:
+    - gloss: specific
+      concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+      concept_label: NAME
+      children:
+      - gloss: approval
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+    - gloss: at a price
+      concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+      concept_label: SELL
+    - gloss: give power to
+      concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+      concept_label: YIELD
+      children:
+      - gloss: 'figurative: authority to'
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: linguistic
+          concept_uuid: 5a62b4b0-8b8c-43fd-87d2-bc767d5a2000
+          concept_label: ADMIT
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T19:20:33.394+09:00'

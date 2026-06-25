@@ -1,0 +1,28 @@
+uuid: d0b79b33-835d-4c72-8085-5f4e592127ec
+type: tax-char
+heads:
+- 駭
+pronunciations:
+- reading: hài
+  old_chinese: ɡrɯɯʔ
+  middle_chinese: ɦɯæi
+  fanqie: 侯楷切
+  tone: 上
+  guangyun: 驚也又九河名一曰徒駭出爾雅孫炎云禹䟽九河功衆懼不成故曰徒駭侯楷切四
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+  - concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+    concept_label: FRIGHTEN
+  - concept_uuid: 42056888-4ede-4f26-adb1-3702567a9486
+    concept_label: SURPRISED
+  - concept_uuid: 16f9a752-a3d3-40c3-860b-72052d703065
+    concept_label: EXCITED
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+  - concept_uuid: e780a853-9d2a-4088-8c67-978fa2be3515
+    concept_label: PIG
+source:
+  source_file: taxchar.xml

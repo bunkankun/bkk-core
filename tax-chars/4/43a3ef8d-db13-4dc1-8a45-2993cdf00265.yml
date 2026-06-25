@@ -1,0 +1,29 @@
+uuid: 43a3ef8d-db13-4dc1-8a45-2993cdf00265
+type: tax-char
+heads:
+- 舟
+pronunciations:
+- reading: zhōu
+  old_chinese: kljiw
+  middle_chinese: tɕiu
+  fanqie: 職流切
+  tone: 平
+  guangyun: 舟船墨子曰工倕作舟吕氏春秋曰虞姁作舟丗本曰共鼓貨狄作舟二人並黄帝臣又姓左傳晉大夫舟之僑
+  senses:
+  - concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+    concept_label: SHIP
+    children:
+    - gloss: by boat
+      concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+      concept_label: TRAVEL
+      children:
+      - gloss: 'causative: by boat'
+        concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+        concept_label: MOVE
+  - gloss: =?
+    concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+    concept_label: WEAR
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T00:27:10.389+09:00'

@@ -1,0 +1,31 @@
+uuid: b1de5f41-442e-458b-92a0-ed2ff8778464
+type: tax-char
+heads:
+- 駿
+pronunciations:
+- reading: xùn
+  old_chinese: ʔsluns
+  middle_chinese: sʷin
+  fanqie: 私閏切
+  tone: 去
+- reading: jùn
+  old_chinese: skluns
+  middle_chinese: tsʷin
+  fanqie: 子峻切
+  tone: 去
+  guangyun: 馬之俊周穆王有八駿驊騮騄駬赤驥白兎犧渠黃踰盗驪山子又音峻
+  senses:
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+    concept_label: LONG
+  - gloss: = 峻
+  - gloss: = 俊
+source:
+  source_file: taxchar.xml

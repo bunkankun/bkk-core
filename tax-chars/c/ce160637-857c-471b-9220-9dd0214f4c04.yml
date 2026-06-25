@@ -1,0 +1,37 @@
+uuid: ce160637-857c-471b-9220-9dd0214f4c04
+type: tax-char
+heads:
+- 曼
+pronunciations:
+- reading: màn
+  old_chinese: mons
+  middle_chinese: mʷiɐn
+  fanqie: 無販切
+  tone: 去
+  guangyun: 長也
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+    concept_label: LONG
+  - concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+    concept_label: SCATTER
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+  - concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+    concept_label: SHOULD NOT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 鏝
+  - gloss: = 縵
+  - gloss: = 饅
+- reading: mán
+  old_chinese: moon
+  middle_chinese: mʷɑn
+  fanqie: 母官切
+  tone: 平
+  guangyun: 路遠
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,100 @@
+uuid: 342772af-35d0-4ff2-ae31-83281d6dfa81
+type: tax-char
+heads:
+- 微
+pronunciations:
+- reading: wēi
+  old_chinese: mɯl
+  middle_chinese: mʷɨi
+  fanqie: 無非切
+  tone: 平
+  guangyun: 妙也細也少也説文曰隱行也無非切八
+  senses:
+  - concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+    concept_label: TENUOUS
+    children:
+    - gloss: pay attention to fine details
+      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+      concept_label: INVESTIGATE
+    - gloss: dynamic
+      concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+      concept_label: WEAK
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 04ab2f04-8e86-4176-b0ec-a40e3a6a7129
+        concept_label: SLIGHTLY
+      - gloss: intellectual
+        concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+        concept_label: UNIMPORTANT
+        children:
+        - gloss: putative
+          concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+          concept_label: DESPISE
+          children:
+          - gloss: practical
+            concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+            concept_label: NEGLECT
+        - gloss: 'process: intensitive'
+          concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+          concept_label: DECLINE
+        - gloss: generalised
+          concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+          concept_label: SMALL
+          children:
+          - gloss: quantity
+            concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+            concept_label: FEW
+          - gloss: with small eyes
+            concept_uuid: ffbab81d-d14f-41e4-ae06-9dab9b80596f
+            concept_label: PEEP
+        - gloss: social
+          concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+          concept_label: HUMBLE
+          children:
+          - gloss: generalised
+            concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+            concept_label: ORDINARY
+          - gloss: specific
+            concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+            concept_label: POOR
+    - gloss: abstract
+      concept_uuid: da23df6b-934b-4237-beee-cdccd8963456
+      concept_label: ABSTRACT
+      children:
+      - gloss: semantic
+        concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+        concept_label: PROFOUND
+        children:
+        - gloss: associated visual
+          concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+          concept_label: DARK
+          children:
+          - gloss: causative
+            concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+            concept_label: CONCEAL
+            children:
+            - gloss: resulting state
+              concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+              concept_label: SECRET
+    - gloss: generalised
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+      children:
+      - gloss: conditional "but for"
+        concept_uuid: 29d7a1b8-ff20-42eb-b987-5a20ae2ae348
+        concept_label: IF NOT
+      - gloss: and cause others to believe that one has
+        concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+        concept_label: PRETEND
+    - gloss: grammaticalised
+      concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+      concept_label: NOT
+      children:
+      - gloss: specific> NOT ONLY
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: =徽
+    concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+source:
+  source_file: taxchar.xml

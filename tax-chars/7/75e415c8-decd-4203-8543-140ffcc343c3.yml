@@ -1,0 +1,62 @@
+uuid: 75e415c8-decd-4203-8543-140ffcc343c3
+type: tax-char
+heads:
+- 化
+pronunciations:
+- reading: huà
+  old_chinese: hŋʷraals
+  middle_chinese: hʷɯa
+  fanqie: 呼霸切
+  tone: 去
+  guangyun: 德化變化禮記曰田䑕化爲鴽紀年曰周宣王時馬化爲狐又姓呼霸切六
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+    children:
+    - gloss: resultative
+      concept_uuid: 1a308a52-d691-4ffa-82ec-acf6db84a199
+      concept_label: BECOME
+      children:
+      - gloss: alive
+        concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+        concept_label: BIRTH
+    - gloss: radically
+      concept_uuid: 6ec00eb0-2e19-4d05-871a-823bed5c5db2
+      concept_label: TRANSFORM
+      children:
+      - gloss: through instruction
+        concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+        concept_label: TEACH
+        children:
+        - gloss: causative>encourage to enter monastery
+          concept_uuid: 0c933384-0748-47e6-98c6-81ebe6b2f89c
+          concept_label: EDUCATE
+          children:
+          - gloss: resulting imitative behaviour
+            concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+            concept_label: CUSTOM
+      - gloss: so as to integrate into one's body
+        concept_label: DIGEST
+      - gloss: transformed from reality
+        concept_uuid: 3ef9366a-eb73-4773-b1b0-0aa7fad28481
+        concept_label: ILLUSION
+      - gloss: away from living state
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+      - gloss: be a partial factor in this
+        concept_uuid: 122bf3f0-4b46-4ce9-89ce-c2a78f24dfe7
+        concept_label: INFLUENCE
+    - gloss: gradual, physical
+      concept_uuid: 18041b84-6283-43f5-be85-45c6e4adfb0c
+      concept_label: DEVELOPMENT
+      children:
+      - gloss: of individual living creature
+        concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+        concept_label: GROW
+        children:
+        - gloss: 'exocentric: creature that grows into a living human'
+          concept_label: EMBRYO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2024-03-28T21:37:41.603+09:00'

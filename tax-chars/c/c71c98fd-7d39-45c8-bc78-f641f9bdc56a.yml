@@ -1,0 +1,38 @@
+uuid: c71c98fd-7d39-45c8-bc78-f641f9bdc56a
+type: tax-char
+heads:
+- 壓
+pronunciations:
+- reading: yā
+  old_chinese: qraab
+  middle_chinese: ʔɯap
+  fanqie: 烏甲切
+  tone: 入
+  guangyun: 鎭也降也笮也壞也
+  senses:
+  - concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+    concept_label: SQUEEZE
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+    concept_label: OPPRESS
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+  - concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+    concept_label: SEAL
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: bddb9057-1279-48d4-8dd0-f904794bad52
+    concept_label: BREW
+  - concept_uuid: d168c1e1-0c22-4ebe-a094-c1181e947580
+    concept_label: GAMBLE
+source:
+  source_file: taxchar.xml

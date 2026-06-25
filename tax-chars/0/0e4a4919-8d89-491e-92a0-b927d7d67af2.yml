@@ -1,0 +1,57 @@
+uuid: 0e4a4919-8d89-491e-92a0-b927d7d67af2
+type: tax-char
+heads:
+- 或
+pronunciations:
+- reading: huò
+  old_chinese: ɡʷɯɯɡ
+  middle_chinese: ɦʷək
+  fanqie: 胡國切
+  tone: 入
+  guangyun: 不定也疑也胡國切五
+  senses:
+  - concept_uuid: 2b6e78a6-2b11-40f0-8c70-41aacd64ca02
+    concept_label: SOME
+    children:
+    - gloss: contrastive:“some”-“others”
+      concept_uuid: c1654743-3e55-4188-816b-511da251682f
+      concept_label: PRONOUN
+      children:
+      - gloss: time
+        concept_uuid: b34d1e99-5d41-4698-a1cf-a9cec247b2d4
+        concept_label: SOMETIMES
+        children:
+        - gloss: in other cases
+          concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+          concept_label: OTHER
+        - gloss: unforeseen
+          concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+          concept_label: COINCIDENCE
+          children:
+          - gloss: 'subordinating: “if by chance”'
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+          - gloss: uncertain
+            concept_uuid: 12ab0c4e-8261-434b-a805-a5e3dc7d24ed
+            concept_label: PERHAPS
+            children:
+            - gloss: likely
+              concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+              concept_label: PROBABLE
+            - gloss: alternative
+              concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+              concept_label: OR
+          - gloss: abrupt
+            concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+            concept_label: SUDDENLY
+      - gloss: distinct
+        concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+        concept_label: OTHER
+unattributed_senses:
+- gloss: =惑
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  concept_label: CONFUSED
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-05T18:39:07.98+09:00'

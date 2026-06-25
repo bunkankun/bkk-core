@@ -1,0 +1,22 @@
+uuid: c78af288-12a8-4bcf-8910-bb357a68c25b
+type: tax-char
+heads:
+- 敞
+pronunciations:
+- reading: chǎng
+  old_chinese: thjaŋʔ
+  middle_chinese: tɕʰiɐŋ
+  fanqie: 昌兩切
+  tone: 上
+  guangyun: 髙也昌兩切七
+  senses:
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: e54a86f3-64c2-446f-8525-d5aa97c7ff21
+    concept_label: OPEN AIR
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+source:
+  source_file: taxchar.xml

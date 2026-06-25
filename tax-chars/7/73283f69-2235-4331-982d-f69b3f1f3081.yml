@@ -1,0 +1,51 @@
+uuid: 73283f69-2235-4331-982d-f69b3f1f3081
+type: tax-char
+heads:
+- 學
+pronunciations:
+- reading: xué
+  old_chinese: ɡruuɡ
+  middle_chinese: ɦɯɔk
+  fanqie: 胡覺切
+  tone: 入
+  guangyun: 説文與斆同覺悟也斆今音效又姓出姓苑胡覺切九
+  senses:
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+    children:
+    - gloss: admirable persons
+      concept_uuid: 4c3d1748-7c81-4aa6-bb51-6521c3caecfc
+      concept_label: EMULATE
+    - gloss: subject-related, conative effort
+      concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+      concept_label: STUDY
+      children:
+      - gloss: perfective
+        concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+        concept_label: LEARN
+        children:
+        - gloss: resultative
+          concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+          concept_label: KNOW
+          children:
+          - gloss: resulting feature
+            concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+            concept_label: WISE
+        - gloss: propositional object
+          concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+          concept_label: DOCTRINE
+      - gloss: agent
+        concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+        concept_label: STUDENT
+        children:
+        - gloss: advanced
+          concept_uuid: 3d0ee556-737f-4910-9b12-541696812ce3
+          concept_label: SCHOLAR
+          children:
+          - gloss: collective
+            concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+            concept_label: SCHOOL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T19:02:44.708+09:00'

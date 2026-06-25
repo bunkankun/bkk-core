@@ -1,0 +1,34 @@
+uuid: 19ed651a-6f0c-4e2b-a0ca-6e8c1df146fd
+type: tax-char
+heads:
+- 攀
+pronunciations:
+- reading: pān
+  old_chinese: phraan
+  middle_chinese: pʰɯan
+  fanqie: 普班切
+  tone: 平
+  guangyun: 引也普班切三
+  senses:
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+  - concept_uuid: c97a3f3b-e73f-4c50-9d5d-127ef1b37dd8
+    concept_label: CRAWL
+  - concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+    concept_label: PULL
+  - concept_uuid: d91da0b3-b970-4de3-b5ca-a75733c1e5f6
+    concept_label: IMPLICATE
+  - concept_uuid: 412bc584-c498-4433-b73b-1ad428935acd
+    concept_label: ADHERE
+  - concept_uuid: 69f9092a-b61c-4ba2-8aea-1e01c90d10e3
+    concept_label: QUOTE
+  - concept_uuid: 278e347a-d550-43be-a829-9735305e4996
+    concept_label: WRAP
+  - concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+    concept_label: PURSUE
+  - concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+    concept_label: PLUCK
+  - concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+    concept_label: SPEAK
+source:
+  source_file: taxchar.xml

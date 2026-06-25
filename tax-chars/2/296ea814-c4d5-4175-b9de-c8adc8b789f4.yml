@@ -1,0 +1,22 @@
+uuid: 296ea814-c4d5-4175-b9de-c8adc8b789f4
+type: tax-char
+heads:
+- 銘
+pronunciations:
+- reading: míng
+  old_chinese: meeŋ
+  middle_chinese: meŋ
+  fanqie: 莫經切
+  tone: 平
+  guangyun: 銘記釋名曰銘名也記名其功也
+  senses:
+  - concept_uuid: 4620f4a0-f713-42d4-aa78-e25719265d79
+    concept_label: ENGRAVE
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+    concept_label: REMEMBER
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+source:
+  source_file: taxchar.xml

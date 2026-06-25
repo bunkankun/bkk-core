@@ -1,0 +1,29 @@
+uuid: 53be72c3-986c-4e73-9e6b-1ca7da8b23cd
+type: tax-char
+heads:
+- 源
+pronunciations:
+- reading: yuán
+  old_chinese: ŋɡon
+  middle_chinese: ŋʷiɐn
+  fanqie: 愚袁切
+  tone: 平
+  guangyun: 水原曰源又姓秃髮傉擅之子賀入後魏魏太武謂之曰與卿同源可爲源氏説文本作厵篆文省作原後人加水
+  senses:
+  - concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+    concept_label: SOURCE
+    children:
+    - gloss: go to the source of
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - gloss: intellectually>INVESTIGATE
+    - gloss: abstract
+      concept_uuid: 304e1390-02d6-4b01-a81b-3af4ee0eff6c
+      concept_label: ORIGIN
+    - gloss: process
+      concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+      concept_label: BEGIN
+  - gloss: FAMILY NAME
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,31 @@
+uuid: a5611245-6511-4b4b-9dc9-4c7565082122
+type: tax-char
+heads:
+- 繼
+pronunciations:
+- reading: jì
+  old_chinese: keeɡs
+  middle_chinese: kei
+  fanqie: 古詣切
+  tone: 去
+  guangyun: 紹繼俗作継
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+    children:
+    - gloss: transitive
+      concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+      concept_label: JUXTAPOSE
+    - gloss: in the path of someone else
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+    - gloss: 'causative: incremental'
+      concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+      concept_label: INCREASE
+    - gloss: 'grammaticalised: continually'
+      concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+      concept_label: ALWAYS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-24T01:25:59.81+09:00'

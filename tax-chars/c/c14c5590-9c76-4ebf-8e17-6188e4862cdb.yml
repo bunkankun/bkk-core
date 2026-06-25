@@ -1,0 +1,88 @@
+uuid: c14c5590-9c76-4ebf-8e17-6188e4862cdb
+type: tax-char
+heads:
+- 戲
+pronunciations:
+- reading: xì
+  old_chinese: qhras
+  middle_chinese: hɯiɛ
+  fanqie: 香義切
+  tone: 去
+  guangyun: 戲弄也施也謔也歇也説文曰三軍之偏也一曰兵也又姓魏志有穎川戲志才香義切二
+  senses:
+  - concept_uuid: 315ce152-3c9e-4648-87aa-dde4fe97c199
+    concept_label: JOKE
+    children:
+    - gloss: transitive
+      concept_uuid: e6b4e1e1-6e1e-4f01-a01b-4d658b1fb7d4
+      concept_label: MOCK
+    - gloss: generalised
+      concept_uuid: a4b5acb1-d5f5-48f8-82e7-39cadff3094e
+      concept_label: PLAY
+      children:
+      - gloss: object
+        concept_uuid: 9c78f4f3-ebdb-4b6e-bf2f-42a62071ed4f
+        concept_label: GAME
+    - gloss: intended emotion
+      concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+      concept_label: DELIGHT
+      children:
+      - gloss: action
+        concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+        concept_label: COPULATE
+      - gloss: action
+        concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+        concept_label: DANCE
+      - gloss: abstract
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+      - gloss: military
+        concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+        concept_label: FIGHT
+        children:
+        - gloss: instrument
+          concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+          concept_label: WEAPON
+          children:
+          - gloss: 'generalised: part of'
+            concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+            concept_label: ARMY
+  - gloss: dictionary only
+    concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - gloss: dictionary only
+    concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+    concept_label: ISSUE
+  - gloss: PLACES
+- reading: xī
+  old_chinese: qhra
+  middle_chinese: hɯiɛ
+  fanqie: 許羈切
+  tone: 平
+  guangyun: 於戲歎辝又姓虙戲氏之後又喜義切
+  senses:
+  - concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+    concept_label: SLANTED
+- reading: hū
+  old_chinese: qhlaa
+  middle_chinese: huo
+  fanqie: 荒烏切
+  tone: 平
+  guangyun: 古文呼字
+  senses:
+  - concept_uuid: 881db76b-4657-4340-8d1d-84bda6041faf
+    concept_label: ALAS
+unattributed_senses:
+- gloss: 戲 xī ｈｕｉ１《集韻》吁為切，平支曉。
+  children:
+  - gloss: =麾
+- gloss: 戲 ｓｕｏ１《集韻》桑何切，平歌心。
+  children:
+  - gloss: =犧
+    concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+- gloss: 戲 ｙｉ１《集韻》於宜切，平支影。
+  children:
+  - gloss: NAMES
+source:
+  source_file: taxchar.xml

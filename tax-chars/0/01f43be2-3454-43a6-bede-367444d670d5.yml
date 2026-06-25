@@ -1,0 +1,35 @@
+uuid: 01f43be2-3454-43a6-bede-367444d670d5
+type: tax-char
+heads:
+- 輿
+- 轝
+unattributed_senses:
+- gloss: 輿 yu2 《廣韻》以諸切，平魚以。又羊洳切。魚部
+  children:
+  - concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+    concept_label: TRANSPORT
+    children:
+    - gloss: by hand
+      concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+      concept_label: CARRY
+      children:
+      - gloss: preparatory
+        concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+        concept_label: LIFT
+      - gloss: who serves carrying other's things
+        concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+        concept_label: SERVANT
+        children:
+        - gloss: low in status
+          concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+          concept_label: SLAVE
+      - gloss: instrument
+        concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+        concept_label: CARRIAGE
+        children:
+        - gloss: 'mereology: body/chassis of> CARRIAGE PARTS'
+        - gloss: builder of
+          concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+          concept_label: CRAFTSMAN
+source:
+  source_file: taxchar.xml

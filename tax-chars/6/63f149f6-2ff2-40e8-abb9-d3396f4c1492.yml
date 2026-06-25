@@ -1,0 +1,66 @@
+uuid: 63f149f6-2ff2-40e8-abb9-d3396f4c1492
+type: tax-char
+heads:
+- 懸
+pronunciations:
+- reading: xuán
+  old_chinese: ɢʷeen
+  middle_chinese: ɦʷen
+  fanqie: 胡涓切
+  tone: 平
+  guangyun: 俗縣今通用
+  senses:
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+    children:
+    - gloss: feature
+      concept_uuid: 6f0fabe2-64cd-4f4a-82ac-cd5b5a074a0d
+      concept_label: STEEP
+      children:
+      - gloss: psychological
+        concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+        concept_label: DANGER
+    - gloss: 'causative: cause to hang'
+      concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+      concept_label: SUSPEND
+      children:
+      - gloss: generalised
+        concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+        concept_label: TIE UP
+      - gloss: oneself
+        concept_uuid: dd9aeb4f-a422-431e-9925-807ba494d82e
+        concept_label: SUICIDE
+    - gloss: essential tool for hanging (musical bells)
+      concept_uuid: 020ba218-e85c-41ee-a7b1-4164757aea99
+      concept_label: FRAME
+      children:
+      - gloss: product of hanging bells
+        concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+        concept_label: MUSIC
+    - gloss: 'feature: hanging in mid-air, illusory'
+      concept_uuid: 3ef9366a-eb73-4773-b1b0-0aa7fad28481
+      concept_label: ILLUSION
+      children:
+      - gloss: philosophically
+        concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+        concept_label: UNTRUE
+        children:
+        - gloss: 'putative: regard as dangerous'
+          concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+          concept_label: WORRY
+    - gloss: without horizontal support
+      concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+      concept_label: ALONE
+    - gloss: direction of hanging
+      concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+      concept_label: DOWN
+      children:
+      - gloss: spatial
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+        children:
+        - gloss: abstract
+          concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+          concept_label: DIFFERENT
+source:
+  source_file: taxchar.xml

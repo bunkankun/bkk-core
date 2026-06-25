@@ -1,0 +1,24 @@
+uuid: 3a62a99b-2da5-4a2f-99d4-3d0df3feaeb6
+type: tax-char
+heads:
+- 鑑
+pronunciations:
+- reading: jiàn
+  old_chinese: kraams
+  middle_chinese: kɯam
+  fanqie: 格懺切
+  tone: 去
+  guangyun: 鏡也誡也照也亦作監格懴切又古銜切五
+  senses:
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+  - concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+    concept_label: MIRROR
+- reading: jiān
+  old_chinese: kraam
+  middle_chinese: kɯam
+  fanqie: 古銜切
+  tone: 平
+  guangyun: 鑑諸以取月中水又明也
+source:
+  source_file: taxchar.xml

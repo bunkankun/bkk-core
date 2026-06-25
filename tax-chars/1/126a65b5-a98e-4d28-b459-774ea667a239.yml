@@ -1,0 +1,45 @@
+uuid: 126a65b5-a98e-4d28-b459-774ea667a239
+type: tax-char
+heads:
+- 怪
+pronunciations:
+- reading: guài
+  old_chinese: kruuds
+  middle_chinese: kʷɯæi
+  fanqie: 古壞切
+  tone: 去
+  guangyun: 怪異也古壞切八
+  senses:
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+    children:
+    - gloss: 'positive: rare, hence'
+      concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+      concept_label: PRECIOUS
+    - gloss: deliberately
+      concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+      concept_label: CRAZY
+    - gloss: 'late: grammaticalised'
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+    - gloss: putative
+      concept_uuid: 42056888-4ede-4f26-adb1-3702567a9486
+      concept_label: SURPRISED
+      children:
+      - gloss: 'grammaticalised: what surprise?'
+        concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+        concept_label: NATURALLY
+        children:
+        - gloss: intensitive> RESENT
+          children:
+          - gloss: declarative
+            concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+            concept_label: BLAME
+          - gloss: attitudinal
+            concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+            concept_label: FEAR
+      - gloss: negatively
+        concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+        concept_label: DISSATISFIED
+source:
+  source_file: taxchar.xml

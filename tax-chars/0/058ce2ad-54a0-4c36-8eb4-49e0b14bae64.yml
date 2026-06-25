@@ -1,0 +1,23 @@
+uuid: 058ce2ad-54a0-4c36-8eb4-49e0b14bae64
+type: tax-char
+heads:
+- 琴
+pronunciations:
+- reading: qín
+  old_chinese: ɡrɯm
+  middle_chinese: ɡɯim
+  fanqie: 巨金切
+  tone: 平
+  guangyun: 樂器神農作之本五絃周加文武二絃白虎通曰琴禁也以禁止淫邪正人心也又姓左傳琴張也巨金切二十二
+  senses:
+  - concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+    concept_label: STRING INSTRUMENTS
+    children:
+    - gloss: string
+      concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+      concept_label: MUSIC
+    - gloss: play on
+      concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+      concept_label: PLUCK
+source:
+  source_file: taxchar.xml

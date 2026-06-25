@@ -1,0 +1,75 @@
+uuid: e8f42c1f-97cc-47f9-b4fa-e117d6f44f4b
+type: tax-char
+heads:
+- 存
+pronunciations:
+- reading: cún
+  old_chinese: sɡɯɯn
+  middle_chinese: dzuon
+  fanqie: 徂尊切
+  tone: 平
+  guangyun: 在也察也恤問也徂尊切五
+  senses:
+  - concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+    concept_label: BE IN
+    children:
+    - gloss: causative
+      concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+      concept_label: PUT
+      children:
+      - gloss: causative
+        concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+        concept_label: ACCUMULATE
+    - gloss: continuative
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: abstract:in the world
+        concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+        concept_label: EXIST
+        children:
+        - gloss: inactive at ease
+          concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+          concept_label: REST
+        - gloss: continue
+          concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+          concept_label: PERSIST
+          children:
+          - gloss: among the living
+            concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+            concept_label: LIVE
+          - gloss: in thought of
+            concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+            concept_label: THINK
+            children:
+            - gloss: acting to improve one's thinking of
+              concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+              concept_label: INVESTIGATE
+            - gloss: with anticipation
+              concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+              concept_label: HOPE
+              children:
+              - gloss: with emotion
+                concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+                concept_label: YEARN
+            - gloss: with empathy
+              concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+              concept_label: SYMPATHY
+              children:
+              - gloss: show that one thinks of
+                concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+                concept_label: CONSOLE
+              - gloss: in action
+                concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+                concept_label: SAFEGUARD
+                children:
+                - gloss: administratively
+                  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+                  concept_label: GOVERN
+        - gloss: causative, abstract
+          concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+          concept_label: ESTABLISH
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:28:44.362+09:00'

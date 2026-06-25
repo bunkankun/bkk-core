@@ -1,0 +1,26 @@
+uuid: 5ed3fae8-c9ad-48c4-b2c7-04f8a841ea6f
+type: tax-char
+heads:
+- 暝
+pronunciations:
+- reading: mìng
+  old_chinese: meeŋ
+  middle_chinese: meŋ
+  fanqie: 莫定切
+  tone: 去
+  guangyun: 夕也
+- reading: míng
+  old_chinese: meeŋ
+  middle_chinese: meŋ
+  fanqie: 莫經切
+  tone: 平
+  guangyun: 晦暝也
+  senses:
+  - concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+    concept_label: EVENING
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,108 @@
+uuid: 92da172e-0e65-4a01-a7bd-9d260036f9ae
+type: tax-char
+heads:
+- 若
+pronunciations:
+- reading: ruò
+  old_chinese: njaɡ
+  middle_chinese: ȵiɐk
+  fanqie: 而灼切
+  tone: 入
+  guangyun: 如也順也汝也辝也又杜若香草亦姓魯人也又虜三字姓後魏書若口引氏後改爲宼氏而灼切十一
+  senses:
+  - gloss: ruò 若
+    concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+    children:
+    - gloss: resemble so as to be reach in quality
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: EQUAL
+      children:
+      - gloss: generalised
+        concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+        concept_label: REACH
+    - gloss: 'generalised, descriptive suffix: like the preceding'
+      concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+      concept_label: SUFFIX
+    - gloss: grammaticalised
+      concept_uuid: 54e34804-e0f7-4e31-90dc-b8a361e6152d
+      concept_label: FOR EXAMPLE
+    - gloss: act like this
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: act according to rules
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: abstractly:subjectively
+          concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+          concept_label: SEEM
+          children:
+          - gloss: 'counterfactual: only seemingly'
+            concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+            concept_label: AS IF
+            children:
+            - gloss: 'grammaticalised: conforming'
+              concept_uuid: ba9c161d-932b-4862-9fb9-906c41594e75
+              concept_label: SUCH
+              children:
+              - gloss: speak accordingly
+                concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+                concept_label: ASSENT
+              - gloss: 'as mentioned above: this one as described'
+                concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+                concept_label: THIS
+                children:
+                - gloss: 'emphatic: as for the well-known subject'
+                  concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+                  concept_label: TOPIC MARKER
+                - gloss: at this time
+                  concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+                  concept_label: WHEN
+                  children:
+                  - gloss: derived, anaphoric
+                    concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+                    concept_label: THEN
+              - gloss: given such a situation
+                concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+                concept_label: IF
+                children:
+                - gloss: in such a hypothetical and unreal situation
+                  concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+                  concept_label: COUNTERFACTUAL
+                - gloss: in such an alternative comparable case
+                  concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+                  concept_label: OR
+  - gloss: grammaticalised, pronominalised
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+    children:
+    - gloss: plural
+      concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+      concept_label: YOU/PLUR
+  - gloss: proper names
+    concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+    concept_label: DEITIES
+  - gloss: botanical
+    concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+- reading: ré
+  old_chinese: nja
+  middle_chinese: ȵia
+  fanqie: 人賒切
+  tone: 平
+  guangyun: 蜀地名出巴中記人賖切又惹弱二音二
+- reading: rě
+  old_chinese: njaʔ
+  middle_chinese: ȵia
+  fanqie: 人者切
+  tone: 上
+  guangyun: 乾草又般若出釋典又虜複姓二氏周書若于惠傳曰其先與魏俱起以國爲姓後燕録有歩兵校尉若久和人者切又人勺切三
+  senses:
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+source:
+  source_file: taxchar.xml
+  resp: chris
+  date: '2022-10-23T17:53:28.619+09:00'

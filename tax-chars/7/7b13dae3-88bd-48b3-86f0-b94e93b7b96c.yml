@@ -1,0 +1,94 @@
+uuid: 7b13dae3-88bd-48b3-86f0-b94e93b7b96c
+type: tax-char
+heads:
+- 追
+pronunciations:
+- reading: zhuī
+  old_chinese: krlul
+  middle_chinese: ʈʷɯi
+  fanqie: 陟隹切
+  tone: 平
+  guangyun: 逐也隨也陟隹切三
+  senses:
+  - concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+    concept_label: PURSUE
+    children:
+    - gloss: 'exocentric: soldiers in pursuit'
+      concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+      concept_label: SOLDIER
+    - gloss: generalised
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - gloss: in communication
+        concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+        concept_label: ACCOMPANY
+        children:
+        - gloss: as leaving
+          concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+          concept_label: FAREWELL
+    - gloss: abstract
+      concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+      concept_label: SEEK
+      children:
+      - gloss: by commanding to come
+        concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+        concept_label: SUMMON
+      - gloss: 'abstract: object understanding'
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: return intellectually to origins of a matter
+          concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+          concept_label: RETURN
+      - gloss: follow actions of
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+      - gloss: perfective
+        concept_uuid: 333c0f68-fc44-4b75-86aa-60163e40d917
+        concept_label: CATCH UP
+        children:
+        - gloss: 'general: and take'
+          concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+          concept_label: OBTAIN
+          children:
+          - gloss: intellectually
+            concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+            concept_label: REMEMBER
+            children:
+            - concept_label: POSTHUMOUS
+            - gloss: and dwell on
+              concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+              concept_label: THINK
+              children:
+              - gloss: self-critically
+                concept_uuid: 50ed529a-449f-4621-b5db-c11909f9a6c5
+                concept_label: REGRET
+                children:
+                - gloss: resultative action
+                  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+                  concept_label: CORRECT
+                - gloss: by later addition, supplement
+                  concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+                  concept_label: ADD
+        - gloss: object person
+          concept_label: DETAIN
+        - gloss: so as to help
+          concept_label: SAVE
+  - concept_label: (for bells)> ROPE[THIS LINE TO BE DELETED!!!!!!!!!!!]
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+unattributed_senses:
+- concept_label: 追 duī《集韻》都回切，平灰端。微部。
+  children:
+  - gloss: =彫？
+    concept_uuid: 4620f4a0-f713-42d4-aa78-e25719265d79
+    concept_label: ENGRAVE
+- concept_label: 追 tuī《集韻》吐內切，去隊透。
+  children:
+  - concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+    concept_label: SOFT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-24T01:36:05.843+09:00'

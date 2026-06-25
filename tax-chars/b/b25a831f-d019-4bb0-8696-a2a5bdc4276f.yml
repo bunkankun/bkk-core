@@ -1,0 +1,47 @@
+uuid: b25a831f-d019-4bb0-8696-a2a5bdc4276f
+type: tax-char
+heads:
+- 孝
+pronunciations:
+- reading: xiào
+  old_chinese: qhruus
+  middle_chinese: hɯau
+  fanqie: 呼教切
+  tone: 去
+  guangyun: 孝順爾雅曰善父母爲孝孝經左契曰元氣混沌孝在其中天子孝龍負圖庶人孝林澤茂又姓風俗通云齊孝公之後呼教切六
+  senses:
+  - gloss: of one's parents/ancestors
+    concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+    concept_label: LOVE
+    children:
+    - gloss: mourn the death of
+      concept_label: MOURN
+      children:
+      - gloss: mourning dress
+        concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+        concept_label: GARMENT
+      - gloss: ritual attached to
+        concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+        concept_label: SACRIFICE
+    - gloss: generalised
+      concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+      concept_label: VIRTUE
+    - gloss: and continue tradiiton of
+      concept_uuid: bf236491-24df-4502-b928-cea735658b61
+      concept_label: CONTINUE
+      children:
+      - gloss: live up to
+        concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+        concept_label: IMITATE
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+  - concept_uuid: 0aa44f4e-1b75-4f3b-84b4-6909c4e3b43a
+    concept_label: RULERS OF QIN
+  - concept_uuid: 475d1d1e-8e44-4b57-95c5-712f8b737997
+    concept_label: RULERS OF ZHAO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T04:32:18.354+09:00'

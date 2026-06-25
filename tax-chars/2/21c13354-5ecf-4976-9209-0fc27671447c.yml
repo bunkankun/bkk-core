@@ -1,0 +1,55 @@
+uuid: 21c13354-5ecf-4976-9209-0fc27671447c
+type: tax-char
+heads:
+- 到
+pronunciations:
+- reading: dào
+  old_chinese: k-laaws
+  middle_chinese: tɑu
+  fanqie: 都導切
+  tone: 去
+  guangyun: 至也又姓出彭城本自髙陽氏楚令尹屈到之後漢有東平太守到質都導切六
+  senses:
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+    children:
+    - gloss: to this place
+      concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+      concept_label: COME
+    - gloss: 'of events: come to pass'
+      concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+      concept_label: ARISE
+    - gloss: action
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+      children:
+      - gloss: abstract
+        concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+        concept_label: REACH
+        children:
+        - gloss: subjective
+          concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+          concept_label: FEEL
+        - gloss: ultimate reached
+          concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+          concept_label: PERFECT
+          children:
+          - gloss: result aimed for
+            concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+            concept_label: ACHIEVE
+        - gloss: 'grammaticalised: temporal> FINALLY'
+          children:
+          - gloss: 'late, grammaticalised: perfective> SUFFIXES'
+          - gloss: grammaticalsed
+            concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+            concept_label: UNTIL
+            children:
+            - gloss: subordinating
+              concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+              concept_label: WHEN
+  - gloss: =倒
+    concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - gloss: =道 SAY
+source:
+  source_file: taxchar.xml

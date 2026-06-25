@@ -1,0 +1,62 @@
+uuid: 2f160acf-a2c0-4875-959b-dbf528f79440
+type: tax-char
+heads:
+- 閑
+pronunciations:
+- reading: xián
+  old_chinese: ɢreen
+  middle_chinese: ɦɯæn
+  fanqie: 戶閒切
+  tone: 平
+  guangyun: 闌也防也禦也大也法也習也睱也戸間切九
+  senses:
+  - concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+    concept_label: GATE
+    children:
+    - concept_uuid: ef95796d-7e3a-4201-9a4a-cf48877073ad
+      concept_label: RAILING
+      children:
+      - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+        concept_label: STANDARD
+      - concept_uuid: e9664def-f19c-4780-9d1f-41a1ac64e63e
+        concept_label: STABLE
+    - concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+      concept_label: CLOSE
+    - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+      concept_label: SAFEGUARD
+      children:
+      - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+        concept_label: DEFEND
+      - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+        concept_label: RESTRAIN
+        children:
+        - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+          concept_label: TEACH
+        - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+          concept_label: HINDER
+          children:
+          - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+            concept_label: CONCEAL
+  - gloss: =閒
+    concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+    concept_label: LEISURE
+    children:
+    - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+      children:
+      - concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+        concept_label: SEXY
+    - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+      concept_label: REST
+      children:
+      - gloss: comfortable with
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+        children:
+        - concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+          concept_label: KNOW
+  - gloss: archaic
+    concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+source:
+  source_file: taxchar.xml

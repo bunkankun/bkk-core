@@ -1,0 +1,32 @@
+uuid: ff0c103b-998c-48b5-b5ba-1ebf6e76eaea
+type: tax-char
+heads:
+- 袍
+pronunciations:
+- reading: páo
+  old_chinese: buu
+  middle_chinese: bɑu
+  fanqie: 薄褒切
+  tone: 平
+  guangyun: 同袍
+- reading: páo
+  old_chinese: buu
+  middle_chinese: bɑu
+  fanqie: 薄褒切
+  tone: 平
+  guangyun: 長襦也薄襃切三
+  senses:
+  - concept_uuid: 59166bc2-cf54-43e2-ae09-0117fcac748a
+    concept_label: CLOAK
+  - concept_uuid: fa1089c7-061e-4023-afaa-2b57eea4a7bf
+    concept_label: COURT DRESS
+  - concept_uuid: 95d9281d-3b2c-451a-9e3d-2963006822af
+    concept_label: UNDERWEAR
+  - concept_uuid: 4c201b1a-8f1e-4b2d-9dbe-cb32e7976778
+    concept_label: PLANT PARTS
+  - concept_uuid: 3450870a-0c3b-4be9-b792-6cb9f889afcc
+    concept_label: COLLAR
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+source:
+  source_file: taxchar.xml

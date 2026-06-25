@@ -1,0 +1,61 @@
+uuid: 2cc75f36-397d-4150-a093-8db437d8bc2c
+type: tax-char
+heads:
+- 淡
+pronunciations:
+- reading: dàn
+  old_chinese: ɡ-laams
+  middle_chinese: dɑm
+  fanqie: 徒濫切
+  tone: 去
+  guangyun: 水味
+  senses:
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+- reading: yǎn
+  old_chinese: k-lamʔ
+  middle_chinese: jiɛm
+  fanqie: 以冉切
+  tone: 上
+  guangyun: 澹淡水皃又徒敢切
+- reading: tán
+  old_chinese: ɡ-laam
+  middle_chinese: dɑm
+  fanqie: 徒甘切
+  tone: 平
+  guangyun: 水皃又徒覽徒濫二切
+  senses:
+  - gloss: = 痰
+- reading: dàn
+  old_chinese: ɡ-laamʔ
+  middle_chinese: dɑm
+  fanqie: 徒敢切
+  tone: 上
+  guangyun: 淊淡水滿皃又薄味也又徒濫切
+  senses:
+  - concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+    concept_label: TASTELESS
+  - concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+    concept_label: THIN
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+    concept_label: BOREDOM
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: 032b3692-b51c-4c93-ba69-0bbe05b306d4
+    concept_label: FAINT
+  - concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+    concept_label: TENUOUS
+  - concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+    concept_label: SLIM
+  - concept_uuid: 86d7f1b7-6549-485d-a91d-afff19e91281
+    concept_label: CHEMISTRY
+  - concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+    concept_label: MUSIC
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

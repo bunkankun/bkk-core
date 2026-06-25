@@ -1,0 +1,65 @@
+uuid: 3400ff29-4c05-4e69-9a34-c677dbe54be6
+type: tax-char
+heads:
+- 兼
+pronunciations:
+- reading: jiān
+  old_chinese: kleem
+  middle_chinese: kem
+  fanqie: 古甜切
+  tone: 平
+  guangyun: 説文曰并也兼持二禾秉持一禾又姓衞公子兼之後古甜切七
+  senses:
+  - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+    concept_label: ANNEX
+    children:
+    - gloss: abstract
+      concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+      concept_label: COMBINE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+        concept_label: TOGETHER
+        children:
+        - gloss: connective
+          concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+          concept_label: AND
+          children:
+          - gloss: conjoining
+            concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+            concept_label: ALSO
+            children:
+            - gloss: feature
+              concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+              concept_label: EQUAL
+              children:
+              - gloss: identity
+                concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+                concept_label: SAME
+                children:
+                - gloss: numerical again
+                  concept_label: DOUBLE
+      - gloss: so as to make a whole
+        concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+        concept_label: COMPLETE
+        children:
+        - gloss: adverbial
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+        - gloss: result
+          concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+          concept_label: WHOLE
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+            concept_label: ALL
+- reading: jiàn
+  old_chinese: kleems
+  middle_chinese: kem
+  fanqie: 古念切
+  tone: 去
+  guangyun: 古念切又古嫌切二
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:16:03.111+09:00'

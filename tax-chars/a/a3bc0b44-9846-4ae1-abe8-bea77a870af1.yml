@@ -1,0 +1,30 @@
+uuid: a3bc0b44-9846-4ae1-abe8-bea77a870af1
+type: tax-char
+heads:
+- 亦
+pronunciations:
+- reading: yì
+  old_chinese: k-laɡ
+  middle_chinese: jiɛk
+  fanqie: 羊益切
+  tone: 入
+  guangyun: 揔也俗作[／灬]
+  senses:
+  - concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+    concept_label: ALSO
+    children:
+    - gloss: likewise, according to the same pattern
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: with certainty
+        concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+        concept_label: CERTAIN
+        children:
+        - gloss: contrary to appearances
+          concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+          concept_label: NONETHELESS
+source:
+  source_file: taxchar.xml
+  resp: chris
+  date: '2022-10-25T09:14:18.093+09:00'

@@ -1,0 +1,29 @@
+uuid: 363f0e39-af71-4ec7-8c05-a0f5fe6b5541
+type: tax-char
+heads:
+- 嗟
+pronunciations:
+- reading: jiē
+  old_chinese: skal
+  middle_chinese: tsia
+  fanqie: 子邪切
+  tone: 平
+  guangyun: 咨也子邪切十二
+  senses:
+  - concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+    concept_label: LOVE
+  - concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+    concept_label: SIGH
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - gloss: grammaticalised
+    concept_uuid: 881db76b-4657-4340-8d1d-84bda6041faf
+    concept_label: ALAS
+- reading: jiē
+  old_chinese: skal
+  middle_chinese: tsia
+  fanqie: 子邪切
+  tone: 平
+  guangyun: 同嗟
+source:
+  source_file: taxchar.xml

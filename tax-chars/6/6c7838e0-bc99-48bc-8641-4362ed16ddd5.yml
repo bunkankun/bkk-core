@@ -1,0 +1,35 @@
+uuid: 6c7838e0-bc99-48bc-8641-4362ed16ddd5
+type: tax-char
+heads:
+- 坑
+pronunciations:
+- reading: kēng
+  old_chinese: khraaŋ
+  middle_chinese: kʰɯaŋ
+  fanqie: 客庚切
+  tone: 平
+  guangyun: 同阬
+  senses:
+  - concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+  - concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+    concept_label: EXECUTE
+  - concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+    concept_label: PIT
+  - concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+    concept_label: STOREHOUSE
+  - concept_uuid: aec4cc37-a2e4-4cf3-b5df-d7fe714d2734
+    concept_label: VALLEY
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: MINE
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: INJURE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: e28bae05-21a2-4745-8033-0d59e4998fdf
+    concept_label: TOILET
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 岡
+source:
+  source_file: taxchar.xml

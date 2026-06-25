@@ -1,0 +1,62 @@
+uuid: 9968beaa-6538-461c-b152-066a3f0c763a
+type: tax-char
+heads:
+- 恆
+- 恒
+pronunciations:
+- reading: héng
+  old_chinese: ɡɯɯŋ
+  middle_chinese: ɦəŋ
+  fanqie: 胡登切
+  tone: 平
+  guangyun: 常也久也亦州名春秋時鮮虞國地漢爲恒山郡周武帝置恒州因山以爲名爾雅曰恒山爲北嶽又姓楚有大夫恒思公胡登切三
+  senses:
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+    children:
+    - gloss: recurrent
+      concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+      concept_label: ORDINARY
+      children:
+      - gloss: social
+        concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+        concept_label: COMMON
+        children:
+        - gloss: practice
+          concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+          concept_label: CUSTOM
+          children:
+          - gloss: 'feature:'
+            concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+            concept_label: CONSTANT
+          - gloss: 'feature: generalised'
+            concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+            concept_label: ALWAYS
+            children:
+            - gloss: grammaticalised
+              concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+              concept_label: PAST
+            - gloss: psychologically
+              concept_uuid: e9664def-f19c-4780-9d1f-41a1ac64e63e
+              concept_label: STABLE
+              children:
+              - gloss: 'elliptic: (constant) explicit'
+                concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+                concept_label: LAW
+                children:
+                - gloss: abstract
+                  concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+                  concept_label: RULE
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+unattributed_senses:
+- gloss: 恆 ｇｅｎｇ４《集韻》居鄧切，去嶝見。蒸部。
+  children:
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+source:
+  source_file: taxchar.xml

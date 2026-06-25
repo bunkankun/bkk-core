@@ -1,0 +1,38 @@
+uuid: eba0f743-bb11-4c71-b8b8-0cbd10f851cb
+type: tax-char
+heads:
+- 京
+pronunciations:
+- reading: jīng
+  old_chinese: kraŋ
+  middle_chinese: kɯiaŋ
+  fanqie: 舉卿切
+  tone: 平
+  guangyun: 大也廣雅曰四起曰京風俗通曰京非人力所成天地性自然也京義亦取此公羊曰京者大也師者衆也天子之居必以衆大之辝言之又姓風俗通云鄭武公子叚封於京號京城大叔其後氏焉漢有京房
+  senses:
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+    children:
+    - gloss: feature
+      concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+      concept_label: HIGH
+      children:
+      - gloss: generalised
+        concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+        concept_label: BIG
+        children:
+        - gloss: exocentric
+          concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+          concept_label: STOREHOUSE
+        - gloss: exocentric
+          concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+          concept_label: CAPITAL CITY
+  - gloss: =競
+    concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+    concept_label: COMPETE
+  - gloss: NUMBERS
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+  - gloss: BARBARIANS
+source:
+  source_file: taxchar.xml

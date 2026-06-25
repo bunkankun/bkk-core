@@ -1,0 +1,56 @@
+uuid: 61e4c1e6-2aa8-4687-9a30-65bec4d58839
+type: tax-char
+heads:
+- 壞
+pronunciations:
+- reading: huài
+  old_chinese: ɡruulʔs
+  middle_chinese: ɦʷɯæi
+  fanqie: 胡怪切
+  tone: 去
+  guangyun: 壞古文
+- reading: guài
+  old_chinese: kruuls
+  middle_chinese: kʷɯæi
+  fanqie: 古壞切
+  tone: 去
+  guangyun: 同𣀩又胡怪切
+- reading: guài
+  old_chinese: ɡruulʔs
+  middle_chinese: kʷɯæi
+  fanqie: 古壞切
+  tone: 去
+  guangyun: 毀也
+- reading: huài
+  old_chinese: ɡruuls
+  middle_chinese: ɦʷɯæi
+  fanqie: 胡怪切
+  tone: 去
+  guangyun: 自破也胡怪切三
+  senses:
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+    concept_label: DECLINE
+  - concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+    concept_label: DEFEAT
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+    concept_label: DISMISS
+  - concept_uuid: 5552df50-2a71-41a4-a567-79af5c252e65
+    concept_label: EXPENSE
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+source:
+  source_file: taxchar.xml

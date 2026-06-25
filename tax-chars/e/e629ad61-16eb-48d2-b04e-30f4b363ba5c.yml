@@ -1,0 +1,32 @@
+uuid: e629ad61-16eb-48d2-b04e-30f4b363ba5c
+type: tax-char
+heads:
+- 飽
+pronunciations:
+- reading: bǎo
+  old_chinese: pruuʔ
+  middle_chinese: pɯau
+  fanqie: 博巧切
+  tone: 上
+  guangyun: 古文飽
+- reading: bǎo
+  old_chinese: pruuʔ
+  middle_chinese: pɯau
+  fanqie: 博巧切
+  tone: 上
+  guangyun: 食多也博巧切三
+  senses:
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: b6ab585d-086e-4a4b-ba4d-d95daf2b0f64
+    concept_label: SATIATED
+- reading: bǎo
+  old_chinese: pruuʔ
+  middle_chinese: pɯau
+  fanqie: 博巧切
+  tone: 上
+  guangyun: 古文飽
+source:
+  source_file: taxchar.xml

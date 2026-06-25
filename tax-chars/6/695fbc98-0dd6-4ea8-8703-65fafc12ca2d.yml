@@ -1,0 +1,36 @@
+uuid: 695fbc98-0dd6-4ea8-8703-65fafc12ca2d
+type: tax-char
+heads:
+- 藥
+pronunciations:
+- reading: yào
+  old_chinese: k-lawɡ
+  middle_chinese: jiɐk
+  fanqie: 以灼切
+  tone: 入
+  guangyun: 説文云治病艸禮云醫不三丗不服其藥又姓後漢有南陽太守河内藥崧以灼切三十一
+  senses:
+  - concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+    concept_label: DRUG
+    children:
+    - concept_uuid: 4ce762c8-ba6c-4413-926e-fb3aae0e5417
+      concept_label: ELIXIR
+    - concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+      concept_label: POISON
+      children:
+      - gloss: related action
+        concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+        concept_label: KILL
+    - gloss: related action
+      concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+      concept_label: CURE
+    - gloss: 'synecdoche: medical'
+      concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+      concept_label: PLANT
+      children:
+      - concept_uuid: db3bc6ef-3412-439f-851f-60cac83d635f
+        concept_label: FLOWERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

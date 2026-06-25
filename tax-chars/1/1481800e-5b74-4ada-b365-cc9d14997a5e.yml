@@ -1,0 +1,57 @@
+uuid: 1481800e-5b74-4ada-b365-cc9d14997a5e
+type: tax-char
+heads:
+- 勝
+pronunciations:
+- reading: shèng
+  old_chinese: lʰɯŋs
+  middle_chinese: ɕɨŋ
+  fanqie: 詩證切
+  tone: 去
+  guangyun: 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四
+  senses:
+  - concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+    concept_label: WIN
+    children:
+    - gloss: continuative
+      concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+      concept_label: CONTROL
+    - gloss: non-combative, comparative
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+      children:
+      - gloss: feature
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+      - gloss: quantitative
+        concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+        concept_label: MORE
+        children:
+        - gloss: intensitive
+          concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+          concept_label: INTENSELY
+  - gloss: =?
+    concept_uuid: 3ba821c8-320c-45e6-8432-c9cc56527bbb
+    concept_label: LOOM
+    children:
+    - gloss: metaphorical
+      concept_uuid: 5105a846-220e-4184-b605-09a8822dd974
+      concept_label: HEADDRESS
+  - gloss: 'shēng (OC: lʰɯŋ MC: ɕɨŋ) 識蒸切 平 廣韻：【任也舉也説文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 】'
+  - gloss: with verbal object
+    concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+    concept_label: SUCCEED
+    children:
+    - gloss: conative:cause to
+      concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+      concept_label: SUPPORT
+    - gloss: with all objects
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+    - gloss: with task
+      concept_uuid: 7f66e77a-70eb-4195-8feb-1b7b51e660fe
+      concept_label: COPE
+source:
+  source_file: taxchar.xml
+  resp: Valerie.Kiel
+  date: '2022-11-18T04:13:49.516+09:00'

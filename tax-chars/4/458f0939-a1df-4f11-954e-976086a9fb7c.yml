@@ -1,0 +1,20 @@
+uuid: 458f0939-a1df-4f11-954e-976086a9fb7c
+type: tax-char
+heads:
+- 倦
+pronunciations:
+- reading: juàn
+  old_chinese: ɡrons
+  middle_chinese: ɡʷɯiɛn
+  fanqie: 渠卷切
+  tone: 去
+  guangyun: 疲也猒也懈也説文又作劵勞也或作勌渠卷切五
+  senses:
+  - concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+    concept_label: BOREDOM
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+source:
+  source_file: taxchar.xml

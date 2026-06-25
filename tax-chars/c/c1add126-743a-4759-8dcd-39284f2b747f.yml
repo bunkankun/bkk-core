@@ -1,0 +1,63 @@
+uuid: c1add126-743a-4759-8dcd-39284f2b747f
+type: tax-char
+heads:
+- 既
+pronunciations:
+- reading: jì
+  old_chinese: kɯds
+  middle_chinese: kɨi
+  fanqie: 居豙切
+  tone: 去
+  guangyun: 已也盡也又姓吴王夫旣之後居豙切七
+  senses:
+  - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+    concept_label: EXHAUST
+    children:
+    - gloss: 'grammaticalised:'
+      concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+      concept_label: ALL
+    - gloss: bygone
+      concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+      concept_label: PAST
+      children:
+      - gloss: action
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+  - gloss: 'grammaticalised: modal'
+    concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+    concept_label: ALREADY
+    children:
+    - gloss: co-ordinating
+      concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+      concept_label: ALSO
+    - gloss: conjoined
+      concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+      concept_label: AND
+      children:
+      - gloss: contrastive
+        concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+        concept_label: BUT
+    - gloss: conditional
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+      children:
+      - gloss: contrastive
+        concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+        concept_label: EVEN IF
+      - gloss: subordinating:factive
+        concept_uuid: bf9ba337-f179-4a74-bbb1-5bc886d43727
+        concept_label: SINCE
+      - gloss: temporal
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+        children:
+        - gloss: apodosis
+          concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+          concept_label: THEN
+        - gloss: postposed
+          concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+          concept_label: THEREUPON
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-05T18:45:34.137+09:00'

@@ -1,0 +1,51 @@
+uuid: 26775176-d0c0-4dd6-ba08-618245b46959
+type: tax-char
+heads:
+- 習
+pronunciations:
+- reading: xí
+  old_chinese: sɢlɯb
+  middle_chinese: zip
+  fanqie: 似入切
+  tone: 入
+  guangyun: 學也因也説文作習數飛也又姓出襄陽晉有習鑿齒似入切十三
+  senses:
+  - concept_uuid: bf1312d6-d428-4a1a-bbd3-65a1d7fa0a04
+    concept_label: PRACTISE
+    children:
+    - gloss: conative
+      concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+      concept_label: STUDY
+    - gloss: causative
+      concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+      concept_label: TEACH
+    - gloss: perfective
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+    - gloss: abstract
+      concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+      concept_label: IMITATE
+      children:
+      - gloss: what is widely imitated
+        concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+        concept_label: CUSTOM
+      - gloss: resultative
+        concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+        concept_label: INTIMATE
+        children:
+        - gloss: subject
+          concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+          concept_label: FRIEND
+    - gloss: mechantical
+      concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+      concept_label: REPEAT
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+        concept_label: OFTEN
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,28 @@
+uuid: 18e3fa47-d0a8-4fad-b785-46bf43cf1717
+type: tax-char
+heads:
+- 妙
+pronunciations:
+- reading: miào
+  old_chinese: mews
+  middle_chinese: miɛu
+  fanqie: 彌笑切
+  tone: 去
+  guangyun: 同妙
+- reading: miào
+  old_chinese: mews
+  middle_chinese: miɛu
+  fanqie: 彌笑切
+  tone: 去
+  guangyun: 好也彌𥬇切三
+  senses:
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+    concept_label: FAMOUS
+  - concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+    concept_label: OBSCURE
+source:
+  source_file: taxchar.xml

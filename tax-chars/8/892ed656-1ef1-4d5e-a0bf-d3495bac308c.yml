@@ -1,0 +1,28 @@
+uuid: 892ed656-1ef1-4d5e-a0bf-d3495bac308c
+type: tax-char
+heads:
+- 湮
+- 烟
+pronunciations:
+- reading: yīn
+  old_chinese: qin
+  middle_chinese: ʔin
+  fanqie: 於真切
+  tone: 平
+  guangyun: 落地沈也
+  senses:
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - gloss: abstract
+    concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+  - gloss: =淹
+    concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+    concept_label: SINK
+  - gloss: =淹
+    concept_uuid: 85b96863-45e0-4270-abf9-80baef2e4c55
+    concept_label: SPLASH
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

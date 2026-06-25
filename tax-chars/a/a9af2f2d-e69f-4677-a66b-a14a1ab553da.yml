@@ -1,0 +1,54 @@
+uuid: a9af2f2d-e69f-4677-a66b-a14a1ab553da
+type: tax-char
+heads:
+- 紀
+pronunciations:
+- reading: jì
+  old_chinese: kɯʔ
+  middle_chinese: kɨ
+  fanqie: 居理切
+  tone: 上
+  guangyun: 極也㑹也事也理也識也亦經紀又十二年曰紀又姓出丹陽居理切四
+  senses:
+  - concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+    concept_label: THREAD
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - gloss: CLUE
+  - concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+    concept_label: PRINCIPLE
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+    concept_label: PROVE
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+    concept_label: RULE
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+  - concept_uuid: 013632ce-8c4d-4488-a08e-011c2e5b94d8
+    concept_label: CALENDAR
+  - concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+    concept_label: GENERATION
+  - concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+    concept_label: YEAR
+  - concept_uuid: 68d6c566-9c41-41aa-9890-055d41e973ef
+    concept_label: ASTRONOMY
+  - gloss: ANNALS
+  - concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+    concept_label: RECORD
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

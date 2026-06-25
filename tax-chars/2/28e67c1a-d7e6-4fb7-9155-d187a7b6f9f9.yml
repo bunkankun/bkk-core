@@ -1,0 +1,64 @@
+uuid: 28e67c1a-d7e6-4fb7-9155-d187a7b6f9f9
+type: tax-char
+heads:
+- 濫
+pronunciations:
+- reading: jiàn
+  old_chinese: ɡraamʔ
+  middle_chinese: ɦɯam
+  fanqie: 胡黤切
+  tone: 上
+  guangyun: 泉正出也又盧暫切
+  senses:
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: GUSH
+  - concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+    concept_label: WASH
+  - gloss: = 鑑
+- reading: làn
+  old_chinese: ɡ-raams
+  middle_chinese: lɑm
+  fanqie: 盧𣊟切
+  tone: 去
+  guangyun: 叨濫汎濫盧瞰切九
+  senses:
+  - concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+    concept_label: FLOOD
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+  - concept_uuid: dce80a65-56e2-4381-9bce-33a915c4d790
+    concept_label: SOAK
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: SPREAD
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+  - concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+    concept_label: HUMBLE
+  - concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+    concept_label: UNJUST
+  - concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+    concept_label: LEWD
+  - concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+    concept_label: GREEDY
+  - concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+    concept_label: UNTRUE
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+    concept_label: FLOAT
+  - concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+    concept_label: FISHING
+  - concept_uuid: dcf9dc21-aca8-4e60-b7a6-18843e8d14cb
+    concept_label: BEVERAGE
+  - concept_uuid: 083f1398-1e23-4949-a6ac-d4252d14307d
+    concept_label: COOL
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

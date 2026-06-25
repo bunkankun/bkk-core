@@ -1,0 +1,28 @@
+uuid: 9f23b3cf-7b6f-4356-a199-19440b7bea2d
+type: tax-char
+heads:
+- 劫
+pronunciations:
+- reading: jié
+  old_chinese: kab
+  middle_chinese: kiɐp
+  fanqie: 居怯切
+  tone: 入
+  guangyun: 強取也説文曰人欲劫以力脅止曰劫或曰以力止去曰劫俗作刧居怯切九
+  senses:
+  - concept_uuid: 71b2eb6a-958b-4c33-8f33-52384a61e753
+    concept_label: ABDUCT
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+    concept_label: WIN
+  - concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+    concept_label: THREATEN
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

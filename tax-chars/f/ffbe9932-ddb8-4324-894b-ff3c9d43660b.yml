@@ -1,0 +1,31 @@
+uuid: ffbe9932-ddb8-4324-894b-ff3c9d43660b
+type: tax-char
+heads:
+- 柯
+pronunciations:
+- reading: kē
+  old_chinese: klaal
+  middle_chinese: kɑ
+  fanqie: 古俄切
+  tone: 平
+  guangyun: 枝柯又斧柯又姓吴公子柯盧之後何氏姓苑云吴人也又虜姓後魏書柯拔氏後改爲柯氏望在河南
+  senses:
+  - concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+    concept_label: BRANCH
+  - concept_uuid: 7279726c-2c19-46b1-b97d-7fc8e5e606c9
+    concept_label: HANDLE
+  - concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+    concept_label: STEM
+  - concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+    concept_label: LENGTH MEASURES
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+  - concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+    concept_label: SHIP
+  - gloss: TREE, KINDS
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+source:
+  source_file: taxchar.xml

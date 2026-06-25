@@ -1,0 +1,57 @@
+uuid: 8e6ddaca-8ba5-4382-b0e7-dd38c5ce5542
+type: tax-char
+heads:
+- 關
+pronunciations:
+- reading: guān
+  old_chinese: kroon
+  middle_chinese: kʷɯan
+  fanqie: 古還切
+  tone: 平
+  guangyun: 説文曰以木横持門戸也聲類曰關所以閉也又姓風俗通云關令尹喜之後蜀有前將軍關羽河東解人古還切六
+  senses:
+  - gloss: bolt
+    concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+    concept_label: GATE PART
+    children:
+    - gloss: use bolt
+      concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+      concept_label: SHUT
+      children:
+      - gloss: generalised
+        concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+        concept_label: INTERACT
+        children:
+        - gloss: specifically
+          concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+          concept_label: REPORT
+          children:
+          - gloss: official bureaucratic document
+            concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+            concept_label: LETTER
+            children:
+            - gloss: written action
+              concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+              concept_label: EMPLOY
+        - gloss: so as to link
+          concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+          concept_label: COMBINE
+    - gloss: general
+      concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+      concept_label: GATE
+      children:
+      - gloss: generalised
+        concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+        concept_label: BOUNDARY
+        children:
+        - gloss: specifically
+          concept_uuid: b4d0fae5-b0f4-4c81-8262-c63af89b87ac
+          concept_label: BORDER PASS
+    - gloss: figurative
+      concept_label: BODY PART
+  - concept_label: =彎 wan1 "draw bow"
+  - concept_label: =貫 guan4 "penetrate"
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T18:47:24.062+09:00'

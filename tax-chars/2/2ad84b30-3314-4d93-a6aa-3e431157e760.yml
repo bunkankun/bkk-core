@@ -1,0 +1,38 @@
+uuid: 2ad84b30-3314-4d93-a6aa-3e431157e760
+type: tax-char
+heads:
+- 嫌
+pronunciations:
+- reading: xián
+  old_chinese: ɡleem
+  middle_chinese: ɦem
+  fanqie: 戶兼切
+  tone: 平
+  guangyun: 説文曰不平於心一曰疑也戸兼切一
+  senses:
+  - concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+    concept_label: SUSPECT
+    children:
+    - gloss: cognitive
+      concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+      concept_label: DOUBT
+      children:
+      - gloss: psychological
+        concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+        concept_label: DISSATISFIED
+        children:
+        - gloss: intensitive> RESENT
+        - gloss: express dissatisfaction
+          concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+          concept_label: REMONSTRATE
+        - gloss: observe taboo
+          concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+          concept_label: AVOID
+  - concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+    concept_label: APPROACH
+    children:
+    - gloss: result
+      concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+      concept_label: CLOSE
+source:
+  source_file: taxchar.xml

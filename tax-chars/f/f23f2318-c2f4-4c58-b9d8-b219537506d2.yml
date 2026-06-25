@@ -1,0 +1,38 @@
+uuid: f23f2318-c2f4-4c58-b9d8-b219537506d2
+type: tax-char
+heads:
+- 豎
+pronunciations:
+- reading: shù
+  old_chinese: djoʔ
+  middle_chinese: dʑio
+  fanqie: 臣庾切
+  tone: 上
+  guangyun: 立也又童僕之未冠者又姓左傳鄭有大夫豎拊臣𢈔切四
+  senses:
+  - concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+    concept_label: BUILD
+  - concept_uuid: 8e2698e7-f5b9-4557-b90a-76d8e6b19e74
+    concept_label: EUNUCH
+  - concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+    concept_label: SERVANT
+  - concept_uuid: cf6bfb0d-e1aa-41f4-99a1-b17a35c10545
+    concept_label: VERTICAL
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+  - concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+    concept_label: CALLIGRAPHY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: shù
+  old_chinese: djoʔ
+  middle_chinese: dʑio
+  fanqie: 臣庾切
+  tone: 上
+  guangyun: 俗豎
+source:
+  source_file: taxchar.xml

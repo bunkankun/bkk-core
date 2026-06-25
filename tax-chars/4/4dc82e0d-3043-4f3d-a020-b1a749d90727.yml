@@ -1,0 +1,59 @@
+uuid: 4dc82e0d-3043-4f3d-a020-b1a749d90727
+type: tax-char
+heads:
+- 幽
+pronunciations:
+- reading: yōu
+  old_chinese: qriw
+  middle_chinese: ʔɨu
+  fanqie: 於虯切
+  tone: 平
+  guangyun: 深也微也隱也亦州名釋名曰幽州在北幽昧之地故曰幽禹貢兾州之域舜以兾州南北廣大分燕北爲幽州又北方曰幽都又姓出姓苑於虯切七
+  senses:
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+    children:
+    - gloss: causative
+      concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+      concept_label: CONCEAL
+      children:
+      - gloss: arrested and in a dark cell
+        concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+        concept_label: ARREST
+      - gloss: concealed
+        concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+        concept_label: SECRET
+        children:
+        - gloss: generalised
+          concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+          concept_label: INSIDE
+      - gloss: in hidden peace
+        concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+    - gloss: beclouded
+      concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+      concept_label: STUPID
+    - gloss: emotional
+      concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+      concept_label: SAD
+  - gloss: abstract
+    concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+    concept_label: OBSCURE
+    children:
+    - gloss: positive
+      concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+      concept_label: PROFOUND
+      children:
+      - gloss: personally
+        concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+        concept_label: PRIVATE
+      - gloss: generalised
+        concept_label: ELEGANT
+        children:
+        - gloss: generalised
+          concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+          concept_label: EXCELLENT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-24T19:26:14.293+09:00'

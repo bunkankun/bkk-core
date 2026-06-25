@@ -1,0 +1,28 @@
+uuid: d23e7b68-bcea-4fd3-9c40-a3fb7fb25436
+type: tax-char
+heads:
+- 悉
+pronunciations:
+- reading: xī
+  old_chinese: sid
+  middle_chinese: sit
+  fanqie: 息七切
+  tone: 入
+  guangyun: 説文云詳盡也息七切九
+  senses:
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+    concept_label: DETAILED
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+  - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+    concept_label: EXHAUST
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+    concept_label: MOBILISE
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+source:
+  source_file: taxchar.xml

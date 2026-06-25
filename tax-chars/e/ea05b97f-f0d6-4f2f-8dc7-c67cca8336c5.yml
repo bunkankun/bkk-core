@@ -1,0 +1,38 @@
+uuid: ea05b97f-f0d6-4f2f-8dc7-c67cca8336c5
+type: tax-char
+heads:
+- 昆
+pronunciations:
+- reading: kūn
+  old_chinese: kuun
+  middle_chinese: kuon
+  fanqie: 古渾切
+  tone: 平
+  guangyun: 同昆
+- reading: kūn
+  old_chinese: kuun
+  middle_chinese: kuon
+  fanqie: 古渾切
+  tone: 平
+  guangyun: 兄也後也同也又姓夏諸侯昆吾之後戰國䇿有齊賢者昆辨古渾切二十
+  senses:
+  - concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+    concept_label: BROTHER
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - concept_uuid: bcb6986f-3280-48f8-973c-c3d5283d75e3
+    concept_label: AFTER
+  - concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 混
+unattributed_senses:
+- gloss: 昆 hún 昆侖 húnlún
+  children:
+  - concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+    concept_label: GREAT
+source:
+  source_file: taxchar.xml

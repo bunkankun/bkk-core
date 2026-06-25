@@ -1,0 +1,31 @@
+uuid: e78ba097-3a58-47c7-959a-8d47613c4870
+type: tax-char
+heads:
+- 棲
+pronunciations:
+- reading: qī
+  old_chinese: siil
+  middle_chinese: sei
+  fanqie: 先稽切
+  tone: 平
+  guangyun: 鳥棲説文曰或从木西
+  senses:
+  - concept_uuid: 6c06f38e-ceeb-4235-9938-238e42f3d2ff
+    concept_label: ROOST
+    children:
+    - gloss: 'generalised:'
+      concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+      concept_label: DWELL
+    - gloss: 'object: what one roosts in:'
+      concept_uuid: 9a6e93e1-f9c8-457c-9200-b4b583c7704d
+      concept_label: NEST
+      children:
+      - gloss: (late) what one makes one's comfortable nest in, official post
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+unattributed_senses:
+- gloss: 棲 ｘｉ１《集韻》千西切，平齊清。脂部。
+  children:
+  - gloss: RESTLESS
+source:
+  source_file: taxchar.xml

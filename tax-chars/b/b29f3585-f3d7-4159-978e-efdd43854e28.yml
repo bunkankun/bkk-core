@@ -1,0 +1,78 @@
+uuid: b29f3585-f3d7-4159-978e-efdd43854e28
+type: tax-char
+heads:
+- 虛
+unattributed_senses:
+- concept_label: 虛 康熙字典：《廣韻》去魚切，音祛。《說文》大丘也。《集韻》古者九夫爲井，四井爲邑，四邑爲丘，丘謂之虛。
+- concept_label: 虛 康熙字典：《唐韻》朽居切《集韻》《正韻》休居切，音噓。空虛也。
+  children:
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+    children:
+    - gloss: empty object
+      concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+      concept_label: STOMACH
+    - gloss: 'causative: empty out'
+      concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+      concept_label: EXHAUST
+      children:
+      - gloss: exhaust lifetime
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+    - gloss: abstract
+      concept_uuid: 3ac38710-8bfa-4014-bff4-f7d7040b7219
+      concept_label: SPACE
+      children:
+      - gloss: contents of
+        concept_uuid: ca0f15b3-4e29-45c8-a9f5-63e308786d16
+        concept_label: AIR
+      - gloss: above
+        concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+        concept_label: SKY
+        children:
+        - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+          concept_label: CONSTELLATION
+    - gloss: empty of solid gross matter
+      concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+      concept_label: TENUOUS
+      children:
+      - gloss: abstract
+        concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+        concept_label: INSUFFICIENT
+        children:
+        - gloss: in strength
+          concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+          concept_label: WEAK
+        - gloss: in status
+          concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+          concept_label: HUMBLE
+          children:
+          - gloss: receptive humility
+            concept_uuid: cff57e83-1708-4a17-a6d5-7828e1b5a326
+            concept_label: SENSIBILITY
+      - gloss: empty fo concrete content
+        concept_uuid: da23df6b-934b-4237-beee-cdccd8963456
+        concept_label: ABSTRACT
+        children:
+        - gloss: devoid of individual cause
+          concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+          concept_label: NATURALLY
+          children:
+          - gloss: devoid of purpose
+            concept_uuid: c17ceabd-9788-4c01-bfe7-9185ebe09e89
+            concept_label: IN VAIN
+            children:
+            - gloss: devoid of basis in fact
+              concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+              concept_label: UNTRUE
+              children:
+              - gloss: fraudulently
+                concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+                concept_label: FAKE
+- gloss: =墟
+  concept_uuid: ced1a5ab-6f14-4e3f-afad-929f4f06a8d7
+  concept_label: RUINS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T05:40:16.357+09:00'

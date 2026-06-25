@@ -1,0 +1,29 @@
+uuid: 3da869ed-baed-4869-97f1-04915c6c43ed
+type: tax-char
+heads:
+- 忿
+pronunciations:
+- reading: fěn
+  old_chinese: srid
+  middle_chinese: ʃɪt
+  fanqie: 父吻切
+  tone: 上
+- reading: fěn
+  old_chinese: phɯnʔ
+  middle_chinese: pʰiun
+  fanqie: 敷粉切
+  tone: 上
+  guangyun: 怒也敷粉切又敷問切二
+- reading: fèn
+  old_chinese: phɯns
+  middle_chinese: pʰiun
+  fanqie: 匹問切
+  tone: 去
+  guangyun: 怒也
+  senses:
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+source:
+  source_file: taxchar.xml

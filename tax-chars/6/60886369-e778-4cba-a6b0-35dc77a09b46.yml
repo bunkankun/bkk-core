@@ -1,0 +1,70 @@
+uuid: 60886369-e778-4cba-a6b0-35dc77a09b46
+type: tax-char
+heads:
+- 不
+pronunciations:
+- reading: bù
+  old_chinese: pɯʔ
+  middle_chinese: piut
+  fanqie: 分勿切
+  tone: 入
+  guangyun: 與弗同又府鳩方久二切
+  senses:
+  - concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+    children:
+    - gloss: 'discontinutative: no more'
+      concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+      concept_label: STOP
+    - gloss: litotes:不少 “not a few, i.e. many”
+      concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+      concept_label: CONTRARY
+    - gloss: not do!
+      concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+      concept_label: DON'T
+    - gloss: not have
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+    - gloss: 'syntactic specialisation: final question particle'
+      concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+      concept_label: QUESTION PARTICLES
+    - gloss: 'syntactic specialisation: conditional'
+      concept_uuid: 29d7a1b8-ff20-42eb-b987-5a20ae2ae348
+      concept_label: IF NOT
+    - gloss: 'Buddhist, concretely: inacceptable'
+      concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+      concept_label: DIRTY
+- reading: fǒu
+  old_chinese: pɯʔ
+  middle_chinese: piu
+  fanqie: 方久切
+  tone: 上
+  guangyun: 弗也説文作𠀚鳥飛上翔不下來也从一一天也象形又甫鳩甫救二切
+  senses:
+  - gloss: =否
+    concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+    concept_label: NOT
+- reading: fōu
+  old_chinese: pɯ
+  middle_chinese: piu
+  fanqie: 甫鳩切
+  tone: 平
+  guangyun: 弗也又姓晉書有汲郡人不準盗發六國時魏王冢得古文竹書今之汲冢記也甫鳩切又甫九甫救二切五
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- concept_label: 不 pi1
+  children:
+  - gloss: =丕
+    concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+    children:
+    - gloss: grammaticalised
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+- concept_label: 不 ｆｕ１《集韻》風無切，平虞非。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2024-04-04T11:53:19.688+09:00'

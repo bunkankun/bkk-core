@@ -1,0 +1,73 @@
+uuid: 5adf8d92-fd82-4aa3-9eb9-6d84048903db
+type: tax-char
+heads:
+- 蒙
+pronunciations:
+- reading: méng
+  old_chinese: mooŋ
+  middle_chinese: muŋ
+  fanqie: 莫紅切
+  tone: 平
+  guangyun: 覆也奄也爾雅𥼶草曰蒙王女也莫紅切二十六
+  senses:
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+    children:
+    - gloss: object event
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: typical feature
+        concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+        concept_label: COURAGE
+      - gloss: negative objects
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+    - gloss: physically
+      concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+      concept_label: COVER
+      children:
+      - gloss: what covers things
+        concept_uuid: 909bf501-b390-4af9-848f-e11556142d69
+        concept_label: FOG
+      - gloss: feature
+        concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+        concept_label: ABUNDANT
+        children:
+        - gloss: dynamic
+          concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+          concept_label: FLOURISH
+      - gloss: cover body with
+        concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+        concept_label: WEAR
+      - gloss: cover reality with fraudulent intent
+        concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+        concept_label: CHEAT
+      - gloss: covered, hence
+        concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+        concept_label: DARK
+        children:
+        - gloss: be "in the dark"
+          concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+          concept_label: STUPID
+  - gloss: exocentric
+    concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+  - gloss: grammaticalised
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - gloss: =矇 concrete
+    concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+    concept_label: BLIND
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+unattributed_senses:
+- gloss: 蒙 ｍｅｎｇ３《集韻》母〓切，上董明。
+  children:
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - gloss: Mongols> BARBARIANS
+source:
+  source_file: taxchar.xml

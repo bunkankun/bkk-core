@@ -1,0 +1,20 @@
+uuid: a2810f27-2964-43b1-9d35-f980cf1e0311
+type: tax-char
+heads:
+- 鬢
+pronunciations:
+- reading: bìn
+  old_chinese: pins
+  middle_chinese: pin
+  fanqie: 必刃切
+  tone: 去
+  guangyun: 頰上髮也
+  senses:
+  - concept_uuid: cfdf89cf-308b-48b5-9a64-2aad600d970c
+    concept_label: TEMPLES
+    children:
+    - gloss: generalise
+      concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+      concept_label: HAIR
+source:
+  source_file: taxchar.xml

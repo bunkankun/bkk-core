@@ -1,0 +1,73 @@
+uuid: 019011a5-ec95-4028-8a9f-1e9442b48328
+type: tax-char
+heads:
+- 招
+pronunciations:
+- reading: zhāo
+  old_chinese: kljew
+  middle_chinese: tɕiɛu
+  fanqie: 止遙切
+  tone: 平
+  guangyun: 招呼也來也又姓漢有大鴻臚招猛
+  senses:
+  - gloss: wave hand
+    concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+    children:
+    - gloss: gestural
+      concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+      concept_label: SIGNAL
+      children:
+      - gloss: commercial
+        concept_uuid: f9bca3fd-5bc9-4cda-a040-cc10bf7f2973
+        concept_label: SIGN
+    - gloss: 'abstract: speech act'
+      concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+      concept_label: SUMMON
+      children:
+      - gloss: concrete
+        concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+        concept_label: TIE UP
+        children:
+        - gloss: 'instrument: (in horsegear)'
+          concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+          concept_label: ROPE
+      - gloss: polite, social
+        concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+        concept_label: INVITE
+        children:
+        - gloss: generalised
+          concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+          concept_label: SEEK
+          children:
+          - gloss: 'object: what one seeks (to hit)'
+            concept_uuid: 464e6eda-9d70-4a07-8d2c-cae4282f781d
+            concept_label: TARGET
+          - gloss: 'abstract: physical'
+            concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+            concept_label: CAUSE TO
+            children:
+            - gloss: 'means: strategic move'
+              concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+              concept_label: TRICK
+        - gloss: action by other
+          concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+          concept_label: ENCOURAGE
+        - gloss: figurative
+          concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+          concept_label: ATTRACT
+          children:
+          - gloss: by use fo charm
+            concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+            concept_label: SEDUCE
+  - gloss: (late colloquial)
+    concept_uuid: 5a62b4b0-8b8c-43fd-87d2-bc767d5a2000
+    concept_label: ADMIT
+    children:
+    - gloss: (late colloquial) object guilt
+      concept_uuid: 106dd16c-2d31-4bb0-9ba2-edced71f0977
+      concept_label: CONFESS
+  - concept_uuid: 5c096440-de85-4395-88cb-a871b850d474
+    concept_label: WAVE
+source:
+  source_file: taxchar.xml

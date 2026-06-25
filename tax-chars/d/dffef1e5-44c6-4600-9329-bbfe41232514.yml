@@ -1,0 +1,49 @@
+uuid: dffef1e5-44c6-4600-9329-bbfe41232514
+type: tax-char
+heads:
+- 竊
+pronunciations:
+- reading: qiè
+  old_chinese: tsheed
+  middle_chinese: tsʰet
+  fanqie: 千結切
+  tone: 入
+  guangyun: 盜也又淺也
+  senses:
+  - concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+    concept_label: STEAL
+    children:
+    - gloss: 'grammaticalised, polite self-effacing: presume'
+      concept_uuid: 24babc50-0437-41ce-8bea-61b0cd9cdae6
+      concept_label: DARE
+    - gloss: subject
+      concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+      concept_label: THIEF
+    - gloss: violently
+      concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+      concept_label: ROB
+    - gloss: territory
+      concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+      concept_label: ANNEX
+    - gloss: generalised
+      concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+      concept_label: DAMAGE
+    - gloss: text
+      concept_uuid: c72e5c63-f899-4f93-9b56-db7e30184ef7
+      concept_label: COPY
+      children:
+      - gloss: related relation
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+    - gloss: related feature
+      concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+      concept_label: SECRET
+      children:
+      - gloss: action conducted when hidden
+        concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+        concept_label: COPULATE
+      - gloss: grammaticalised
+        concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+        concept_label: PERSONALLY
+source:
+  source_file: taxchar.xml

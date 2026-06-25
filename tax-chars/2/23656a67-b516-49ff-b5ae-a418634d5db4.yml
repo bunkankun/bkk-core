@@ -1,0 +1,42 @@
+uuid: 23656a67-b516-49ff-b5ae-a418634d5db4
+type: tax-char
+heads:
+- 睹
+- 覩
+pronunciations:
+- reading: dǔ
+  old_chinese: k-laaʔ
+  middle_chinese: tuo
+  fanqie: 當古切
+  tone: 上
+  guangyun: 同覩
+  senses:
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+  - concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+    concept_label: READ
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+- reading: dǔ
+  old_chinese: k-laaʔ
+  middle_chinese: tuo
+  fanqie: 當古切
+  tone: 上
+  guangyun: 見也當古切十一
+  senses:
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+  - concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+    concept_label: SEE
+- reading: dǔ
+  old_chinese: k-laaʔ
+  middle_chinese: tuo
+  fanqie: 當古切
+  tone: 上
+  guangyun: 見也當古切十一
+source:
+  source_file: taxchar.xml

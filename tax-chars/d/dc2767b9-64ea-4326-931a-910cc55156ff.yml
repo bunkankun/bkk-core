@@ -1,0 +1,45 @@
+uuid: dc2767b9-64ea-4326-931a-910cc55156ff
+type: tax-char
+heads:
+- 謀
+pronunciations:
+- reading: móu
+  old_chinese: mɯ
+  middle_chinese: miu
+  fanqie: 莫浮切
+  tone: 平
+  guangyun: 謀計也又姓風俗通云周卿士祭公謀父之後莫浮切二十四
+  senses:
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+    children:
+    - gloss: general, psychological
+      concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+      concept_label: THINK
+      children:
+      - gloss: for oneself, plan for obtaining
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+      - gloss: personally
+        concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+        concept_label: INVESTIGATE
+        children:
+        - gloss: explicitly, publicly
+          concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+          concept_label: DISCUSS
+          children:
+          - gloss: for superior person
+            concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+            concept_label: ADVISE
+            children:
+            - gloss: hostile, connive to make plans against others
+              concept_uuid: cd999993-9ade-41a9-8786-2cc075afaa5c
+              concept_label: PLOT
+    - gloss: 'figuratively: come together as if planning to do so, of stars'
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+  - concept_label: =媒
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-12T20:12:31.914+09:00'

@@ -1,0 +1,26 @@
+uuid: b0990656-5356-4692-b176-7fbd8c8eac78
+type: tax-char
+heads:
+- 奢
+pronunciations:
+- reading: shē
+  old_chinese: qhlja
+  middle_chinese: ɕia
+  fanqie: 式車切
+  tone: 平
+  guangyun: 張也侈也勝也式車切三
+  senses:
+  - concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+    concept_label: EXTRAVAGANT
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+    concept_label: EXAGGERATE
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+source:
+  source_file: taxchar.xml

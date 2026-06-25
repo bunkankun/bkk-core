@@ -1,0 +1,96 @@
+uuid: 8a47d292-9de4-47fd-a717-24c683ec8a5c
+type: tax-char
+heads:
+- 載
+pronunciations:
+- reading: zài
+  old_chinese: sklɯɯs
+  middle_chinese: tsəi
+  fanqie: 作代切
+  tone: 去
+  guangyun: 年也事也則也乗也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六
+- reading: zài
+  old_chinese: sɡlɯɯs
+  middle_chinese: dzəi
+  fanqie: 昨代切
+  tone: 去
+  guangyun: 運也昨代切七
+  senses:
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+    children:
+    - gloss: and pack
+      concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+      concept_label: HEAP
+    - gloss: object
+      concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+      concept_label: VEHICLE
+      children:
+      - gloss: concrete
+        concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+        concept_label: CARRY
+      - gloss: use vehicle
+        concept_uuid: 2d19aed2-b22f-4e25-b2b0-a4f38724e935
+        concept_label: TRANSPORT
+        children:
+        - gloss: abstract
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+        - gloss: 'generalised: bear up under'
+          concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+          concept_label: SUPPORT
+    - gloss: 'figurative: "drive in" so as to crowd out'
+      concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+      concept_label: FILL
+      children:
+      - gloss: lay out
+        concept_label: DISPLAY
+      - gloss: specifically
+        concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+        concept_label: CONTAIN
+      - gloss: be kept so as to fill out repository
+        concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+        concept_label: SAFEGUARD
+  - gloss: grammaticalised
+    concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+    concept_label: BEGIN
+    children:
+    - gloss: potential
+      concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+      concept_label: ABLE
+    - gloss: modal
+      concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+      concept_label: PARTICLE
+  - concept_label: =再
+  - concept_label: =戴
+- reading: zǎi
+  old_chinese: skɯɯʔ
+  middle_chinese: tsəi
+  fanqie: 作亥切
+  tone: 上
+  guangyun: 年也出方言又音再
+  senses:
+  - concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+    concept_label: YEAR
+    children:
+    - gloss: years of age
+      concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+      concept_label: AGE
+    - gloss: 'exocentric: record concerning a year, generalised'
+      concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+      concept_label: RECORD
+      children:
+      - gloss: generalised
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+    - gloss: 'adverbial: some years'
+      concept_uuid: b34d1e99-5d41-4698-a1cf-a9cec247b2d4
+      concept_label: SOMETIMES
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+        concept_label: THEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:29:46.04+09:00'

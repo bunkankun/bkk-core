@@ -1,0 +1,62 @@
+uuid: 20a3a399-bde1-4bc7-8ba5-de8f1c777d4e
+type: tax-char
+heads:
+- 被
+pronunciations:
+- reading: bèi
+  old_chinese: bralʔ
+  middle_chinese: bɯiɛ
+  fanqie: 皮彼切
+  tone: 上
+  guangyun: 寢衣也又姓呂氏春秋有大夫被瞻皮彼切又皮義切二
+  senses:
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+    children:
+    - gloss: active
+      concept_label: GRASP
+      children:
+      - gloss: generalised
+        concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+        concept_label: COVER
+        children:
+        - gloss: subject
+          concept_uuid: d5d3fb95-4e6c-4c5d-9797-6d4eca230f87
+          concept_label: BLANKET
+        - gloss: give support
+          concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+          concept_label: HELP
+        - gloss: 'exocentric: used as'
+          concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+          concept_label: GARMENT
+          children:
+          - gloss: action, transitive
+            concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+            concept_label: WEAR
+    - gloss: abstract
+      concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+      concept_label: SUFFER
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+        concept_label: PASSIVE MARKER
+        children:
+        - gloss: grammaticalised:receiving influence from
+          concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+          concept_label: BECAUSE
+        - gloss: 'abstract: suffer influence from, be seduced by'
+          concept_uuid: fc9fd26b-ca6f-4080-a717-5eddf7688e5e
+          concept_label: SEDUCE
+- reading: bì
+  old_chinese: brals
+  middle_chinese: bɯiɛ
+  fanqie: 平義切
+  tone: 去
+  guangyun: 被服也覆也書曰光被四表又平彼切寢衣也
+  senses:
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T00:09:04.251+09:00'

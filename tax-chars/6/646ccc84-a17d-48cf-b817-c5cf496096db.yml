@@ -1,0 +1,73 @@
+uuid: 646ccc84-a17d-48cf-b817-c5cf496096db
+type: tax-char
+heads:
+- 逆
+pronunciations:
+- reading: nì
+  old_chinese: ŋɡlaɡ
+  middle_chinese: ŋɯiak
+  fanqie: 宜戟切
+  tone: 入
+  guangyun: 迎也𧮬也亂也范曄漢書周防字偉公少孤微常修逆旅以俟過客而不待其報冝戟切六
+  senses:
+  - gloss: (go out and)
+    concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+    children:
+    - gloss: anticipate
+      concept_uuid: c4708191-be6c-47e1-b2e7-fb880a22cc69
+      concept_label: BEFORE
+    - gloss: process
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+        concept_label: ESTIMATE
+        children:
+        - gloss: systematically
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+          children:
+          - gloss: result
+            concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+            concept_label: REPORT
+      - gloss: so as to come to own
+        concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+        concept_label: RECEIVE
+    - gloss: hostile
+      concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+      concept_label: FIGHT
+      children:
+      - gloss: in warfare
+        concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+        concept_label: BATTLE
+    - gloss: negative object
+      concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+      concept_label: OPPOSE
+      children:
+      - gloss: superior orders
+        concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+        concept_label: REFUSE
+        children:
+        - gloss: physical
+          concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+          concept_label: WITHDRAW
+          children:
+          - gloss: generalised
+            concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+            concept_label: TURN
+      - gloss: demonstrative
+        concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+        concept_label: OFFEND
+        children:
+        - gloss: agent
+          concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+          concept_label: VILLAIN
+        - gloss: 'feature: what offends common sense'
+          concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+          concept_label: WRONG
+        - gloss: against authorities
+          concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+          concept_label: REVOLT
+source:
+  source_file: taxchar.xml

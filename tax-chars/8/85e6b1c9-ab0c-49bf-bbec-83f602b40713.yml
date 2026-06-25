@@ -1,0 +1,29 @@
+uuid: 85e6b1c9-ab0c-49bf-bbec-83f602b40713
+type: tax-char
+heads:
+- 岐
+pronunciations:
+- reading: qí
+  old_chinese: ɡe
+  middle_chinese: ɡiɛ
+  fanqie: 巨支切
+  tone: 平
+  guangyun: 山名亦州春秋及戰國時爲秦都漢爲右扶風魏置雍城鎮又改爲岐州因山而名又姓黄帝時有岐伯
+  senses:
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - gloss: = 歧
+source:
+  source_file: taxchar.xml

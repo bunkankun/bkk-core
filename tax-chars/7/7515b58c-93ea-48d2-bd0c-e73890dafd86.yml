@@ -1,0 +1,41 @@
+uuid: 7515b58c-93ea-48d2-bd0c-e73890dafd86
+type: tax-char
+heads:
+- 塡
+- 填
+pronunciations:
+- reading: tián
+  old_chinese: diin
+  middle_chinese: den
+  fanqie: 徒年切
+  tone: 平
+  guangyun: 塞也加也滿也又陟陳切
+  senses:
+  - concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+    concept_label: FILL
+  - concept_uuid: c12ff5f7-7497-47ff-bbef-ca7e1faa4975
+    concept_label: COMPENSATE
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+    concept_label: PAINT
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 1d0d10c8-9b84-4897-8860-1bb1d880ddab
+    concept_label: STEADY
+  - concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+    concept_label: FULL
+- reading: diàn
+  old_chinese: diins
+  middle_chinese: den
+  fanqie: 堂練切
+  tone: 去
+  guangyun: 塞塡
+- reading: zhèn
+  old_chinese: tins
+  middle_chinese: ʈɯin
+  fanqie: 陟刃切
+  tone: 去
+  guangyun: 定也亦星名又音田
+source:
+  source_file: taxchar.xml

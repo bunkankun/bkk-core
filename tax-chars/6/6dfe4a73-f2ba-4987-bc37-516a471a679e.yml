@@ -1,0 +1,33 @@
+uuid: 6dfe4a73-f2ba-4987-bc37-516a471a679e
+type: tax-char
+heads:
+- 攻
+pronunciations:
+- reading: gōng
+  old_chinese: kooŋ
+  middle_chinese: kuŋ
+  fanqie: 古紅切
+  tone: 平
+  guangyun: 攻擊
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+- reading: gōng
+  old_chinese: kuuŋ
+  middle_chinese: kuoŋ
+  fanqie: 古冬切
+  tone: 平
+  guangyun: 治也作也擊也伐也古冬切二
+  senses:
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+  - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+    concept_label: STUDY
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+source:
+  source_file: taxchar.xml

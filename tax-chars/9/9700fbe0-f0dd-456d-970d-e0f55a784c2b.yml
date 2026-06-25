@@ -1,0 +1,58 @@
+uuid: 9700fbe0-f0dd-456d-970d-e0f55a784c2b
+type: tax-char
+heads:
+- 麗
+pronunciations:
+- reading: lì
+  old_chinese: b-reels
+  middle_chinese: lei
+  fanqie: 郎計切
+  tone: 去
+  guangyun: 美也著也又姓出姓苑郎計切三十三
+  senses:
+  - gloss: PAIR
+    children:
+    - gloss: feature
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: 'action: causative'
+        concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+        concept_label: TIE UP
+    - gloss: consisting of a tied-together pair
+      concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+      concept_label: SHIP
+    - gloss: 'object: two draft animals'
+      concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+      concept_label: STEER
+    - gloss: attractively symmetric and paired
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+  - concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+    concept_label: JUMP
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - gloss: hit mark
+    concept_uuid: 3286520a-07c6-4d3f-b341-9ddf5063616e
+    concept_label: SHOOT
+  - concept_uuid: 7a83ff00-885d-47b0-98da-0c23c163b5a8
+    concept_label: PILLAR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: lí
+  old_chinese: b-rel
+  middle_chinese: liɛ
+  fanqie: 呂支切
+  tone: 平
+  guangyun: 東夷國名又盧計切
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+unattributed_senses:
+- gloss: 麗 ）ｌｉ３《集韻》里弟切，上薺來。支部。
+  children:
+  - gloss: (archaic)
+    concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+source:
+  source_file: taxchar.xml

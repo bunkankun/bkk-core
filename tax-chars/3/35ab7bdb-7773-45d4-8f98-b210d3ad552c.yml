@@ -1,0 +1,24 @@
+uuid: 35ab7bdb-7773-45d4-8f98-b210d3ad552c
+type: tax-char
+heads:
+- 遲
+pronunciations:
+- reading: chí
+  old_chinese: rlil
+  middle_chinese: ɖɯi
+  fanqie: 直尼切
+  tone: 平
+  guangyun: 徐也乆也緩也亦姓晉湘東太守遲超又虜姓後魏書尉遲氏後改爲尉氏又音稺
+  senses:
+  - concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+    concept_label: SLOW
+  - concept_uuid: e1867ebb-a782-407a-a31b-f46b0901920b
+    concept_label: BLUNT
+  - concept_uuid: 4495d36a-1e90-43e0-aebb-7377d4814795
+    concept_label: HESITATE
+  - concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+    concept_label: LATE
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+source:
+  source_file: taxchar.xml

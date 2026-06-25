@@ -1,0 +1,21 @@
+uuid: 60b4660b-6bb7-48ca-ade4-89531849b731
+type: tax-char
+heads:
+- 苑
+pronunciations:
+- reading: wàn
+  old_chinese: tsens
+  middle_chinese: tsiɛn
+  fanqie: 紆願切
+  tone: 去
+- reading: yuàn
+  old_chinese: qonʔ
+  middle_chinese: ʔʷiɐn
+  fanqie: 於阮切
+  tone: 上
+  guangyun: 園苑白虎通云苑囿所以在東方者謂飬萬物東方物所生也
+  senses:
+  - concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: GARDEN
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: a6c0f9b7-2028-4bc4-a1b3-cca53a309d60
+type: tax-char
+heads:
+- 脂
+pronunciations:
+- reading: zhī
+  old_chinese: kji
+  middle_chinese: tɕi
+  fanqie: 旨夷切
+  tone: 平
+  guangyun: 脂膏也釋名曰脂砥也著面軟滑如砥石也説文云戴角者脂無角者膏又姓魏略有中大夫京兆脂習字元升旨夷切十
+  senses:
+  - concept_uuid: 53b07a02-5978-4730-8572-365569aeb7dd
+    concept_label: GREASE
+  - concept_uuid: cd1f9cdf-e84e-4b55-beb5-5ecfc770f703
+    concept_label: MAKE-UP
+  - concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+    concept_label: ABUNDANT
+  - concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+    concept_label: FLATTER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

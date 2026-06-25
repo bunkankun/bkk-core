@@ -1,0 +1,41 @@
+uuid: f4d757e4-0c46-4190-b77c-273acd2579f4
+type: tax-char
+heads:
+- 板
+pronunciations:
+- reading: bǎn
+  old_chinese: praanʔ
+  middle_chinese: pɯan
+  fanqie: 布綰切
+  tone: 上
+  guangyun: 同版
+  senses:
+  - concept_uuid: 485ae3fe-3888-4367-8c5a-fd834178d569
+    concept_label: BOARD
+  - concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+    concept_label: STATIONARY
+  - concept_uuid: bdb04eaf-4379-48c7-b801-fd3f1975897b
+    concept_label: PRINT
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+    concept_label: OFFICIAL
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+  - concept_uuid: 96b90061-0e4c-4670-bdd9-195c98c410a9
+    concept_label: MOULD
+  - concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+    concept_label: COFFIN
+  - gloss: FORMWORK
+  - concept_uuid: 2b98e42a-a112-46be-9169-dd6c0787e54f
+    concept_label: EDITION
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 18746cc0-e827-412b-8712-5aa045a0e964
+    concept_label: VERBAL MEASURE WORDS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

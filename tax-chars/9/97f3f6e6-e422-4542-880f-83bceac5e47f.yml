@@ -1,0 +1,36 @@
+uuid: 97f3f6e6-e422-4542-880f-83bceac5e47f
+type: tax-char
+heads:
+- 忍
+pronunciations:
+- reading: rěn
+  old_chinese: njinʔ
+  middle_chinese: ȵin
+  fanqie: 而軫切
+  tone: 上
+  guangyun: 強也有所含忍而軫切三
+  senses:
+  - concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+    children:
+    - concept_uuid: 9758306d-fada-4130-b20c-509086479851
+      concept_label: TOLERANCE
+      children:
+      - gloss: tolerate as a plan
+        concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+        concept_label: WISH
+      - gloss: of the intolerable
+        concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+        concept_label: CRUEL
+        children:
+        - gloss: insensitive domination
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+  - gloss: =韌
+  - gloss: =認
+unattributed_senses:
+- gloss: 忍 ｒｅｎ４《集韻》而振切，去震日。
+  children:
+  - gloss: =肕
+source:
+  source_file: taxchar.xml

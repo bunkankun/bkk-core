@@ -1,0 +1,49 @@
+uuid: 2eb49d1d-cdda-4b32-8ca8-e4129adb7083
+type: tax-char
+heads:
+- 窺
+pronunciations:
+- reading: kuī
+  old_chinese: khʷe
+  middle_chinese: kʰʷiɛ
+  fanqie: 去隨切
+  tone: 平
+  guangyun: 同闚
+  senses:
+  - concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: HOLE
+    children:
+    - gloss: associated action
+      concept_uuid: ffbab81d-d14f-41e4-ae06-9dab9b80596f
+      concept_label: PEEP
+      children:
+      - gloss: 'metaphorical: remember just?'
+        concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+        concept_label: REMEMBER
+      - gloss: generalisied
+        concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+        concept_label: LOOK
+        children:
+        - gloss: systematiccally
+          concept_uuid: 40ce2fe2-1e89-48ec-9381-f56af49ae111
+          concept_label: SURVEY
+          children:
+          - gloss: 'generalised: practically'
+            concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+            concept_label: SEEK
+            children:
+            - gloss: resultative
+              concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+              concept_label: REACH
+            - gloss: 'abstract: intellectually'
+              concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+              concept_label: INVESTIGATE
+              children:
+              - gloss: 'negative: socially'
+                concept_uuid: cd999993-9ade-41a9-8786-2cc075afaa5c
+                concept_label: PLOT
+  - gloss: =跬
+    concept_uuid: c747afdb-b3af-41c7-b2b4-438404c677fe
+    concept_label: STEP
+source:
+  source_file: taxchar.xml

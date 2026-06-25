@@ -1,0 +1,24 @@
+uuid: 81058faf-3a75-45df-af6c-b8450b02fc62
+type: tax-char
+heads:
+- 巡
+pronunciations:
+- reading: xún
+  old_chinese: sɢʷun
+  middle_chinese: zʷin
+  fanqie: 詳遵切
+  tone: 平
+  guangyun: 逡巡説文曰視行也
+  senses:
+  - concept_uuid: 9061b621-93dc-47b4-a4cd-feeb3ee4b3db
+    concept_label: INSPECT
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+  - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+    concept_label: CONSOLE
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: 18746cc0-e827-412b-8712-5aa045a0e964
+    concept_label: VERBAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

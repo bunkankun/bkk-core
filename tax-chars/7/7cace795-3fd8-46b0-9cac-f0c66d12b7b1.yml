@@ -1,0 +1,29 @@
+uuid: 7cace795-3fd8-46b0-9cac-f0c66d12b7b1
+type: tax-char
+heads:
+- 叩
+pronunciations:
+- reading: kòu
+  old_chinese: khooʔ
+  middle_chinese: kʰəu
+  fanqie: 苦后切
+  tone: 上
+  guangyun: 叩頭
+  senses:
+  - concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+  - concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+    concept_label: STRIKE
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+  - concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+    concept_label: TOUCH
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+    concept_label: EARNEST
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - gloss: = 扣
+source:
+  source_file: taxchar.xml

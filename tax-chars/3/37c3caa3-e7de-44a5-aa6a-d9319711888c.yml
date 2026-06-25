@@ -1,0 +1,51 @@
+uuid: 37c3caa3-e7de-44a5-aa6a-d9319711888c
+type: tax-char
+heads:
+- 毫
+pronunciations:
+- reading: háo
+  old_chinese: ɡoow
+  middle_chinese: ɦɑu
+  fanqie: 胡刀切
+  tone: 平
+  guangyun: 長毛
+  senses:
+  - concept_uuid: 54171046-fc50-4322-88de-a5e5c292ee35
+    concept_label: FUR
+    children:
+    - gloss: generalised
+      concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+      concept_label: HAIR
+      children:
+      - gloss: facial hair
+        concept_uuid: 63c676ac-f347-43ed-b49a-0c58d699ba07
+        concept_label: EYEBROW
+    - gloss: 'metonymy: tool importantly involving hair'
+      concept_uuid: 1ec9979a-8744-449f-9330-d06a47b31693
+      concept_label: WRITING TOOL
+    - gloss: feature
+      concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+      concept_label: SMALL
+    - gloss: small coin
+      concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+      concept_label: MONEY
+    - gloss: small part of
+      concept_uuid: 51f3e644-6a3d-484b-b92e-db27d286e973
+      concept_label: SCALES
+    - gloss: grammaticalised, negative polarity item
+      concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+      concept_label: INTENSE
+    - gloss: grammaticalised
+      concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+      concept_label: LENGTH MEASURES
+    - gloss: grammaticalised
+      concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+      concept_label: WEIGHT MEASURES
+    - gloss: grammaticalised> PREFIX
+    - gloss: make fine distinctions
+      concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+      concept_label: DISTINGUISH
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

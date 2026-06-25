@@ -1,0 +1,65 @@
+uuid: 230962f0-d5a5-4394-ae21-72dc439e6ca6
+type: tax-char
+heads:
+- 赤
+pronunciations:
+- reading: chì
+  old_chinese: khljaɡ
+  middle_chinese: tɕʰiɛk
+  fanqie: 昌石切
+  tone: 入
+  guangyun: 赤古文
+- reading: chì
+  old_chinese: khjaɡ
+  middle_chinese: tɕʰiɛk
+  fanqie: 昌石切
+  tone: 入
+  guangyun: 南方色又姓出姓苑又漢複姓二氏莊子有赤張滿稽郭象注云赤張姓也韓子曰智伯以鍾遺仇繇赤章枝諫仇繇令不受
+  senses:
+  - concept_uuid: cc3e17b5-5dfa-4ff5-811e-870f4f615440
+    concept_label: RED
+    children:
+    - gloss: 'exocentric: body fluid'
+      concept_uuid: 30c7ee56-1df4-4e57-b2f5-29f1e7e1f9c2
+      concept_label: BLOOD
+    - gloss: figurative
+      concept_uuid: e033744f-13da-488e-915f-3944c0edac4b
+      concept_label: NAKED
+      children:
+      - gloss: generalised
+        concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+        concept_label: EMPTY
+        children:
+        - gloss: barren of plants
+          concept_label: INFERTILE
+      - gloss: psychological
+        concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+        concept_label: EARNEST
+        children:
+        - gloss: figurative
+          concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+          concept_label: GENUINE
+          children:
+          - gloss: politically
+            concept_label: LOYAL
+      - gloss: 'exocentric: newborn'
+        concept_uuid: 2dc7b3f8-e542-4514-8193-e439998da08f
+        concept_label: BABY
+      - gloss: 'figurative, causative: uncover'
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: 'figurative: of flames'
+          concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7 uuid-edffe7b1-841a-4e8f-bfe7-b1841aae8f99
+          concept_label: BURN
+          children:
+          - gloss: transitive, causative
+            concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+            concept_label: DESTROY
+  - concept_label: REGIONS
+  - concept_uuid: 63a5d69c-4ff0-410d-a427-d37b4f4f8d43
+    concept_label: RULERS OF WEY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T17:33:04.296+09:00'

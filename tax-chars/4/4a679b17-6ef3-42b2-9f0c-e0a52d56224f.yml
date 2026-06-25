@@ -1,0 +1,104 @@
+uuid: 4a679b17-6ef3-42b2-9f0c-e0a52d56224f
+type: tax-char
+heads:
+- 分
+pronunciations:
+- reading: fēn
+  old_chinese: pɯn
+  middle_chinese: piun
+  fanqie: 府文切
+  tone: 平
+  guangyun: 賦也施也與也説文别也府文切六
+  senses:
+  - concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+    children:
+    - gloss: putative
+      concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+      concept_label: DISTINGUISH
+      children:
+      - gloss: fēn
+        concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+        concept_label: UNDERSTAND
+        children:
+        - gloss: distinct
+          concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+          concept_label: CLEAR
+        - gloss: fēn
+          concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+          concept_label: DECIDE
+      - gloss: 'reflexive: distance oneself:'
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: DISTANT
+        children:
+        - gloss: fēn
+          concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+          concept_label: LEAVE
+    - gloss: causative
+      concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+      concept_label: DIVIDE
+      children:
+      - gloss: physically
+        concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+        concept_label: SPLIT
+        children:
+        - gloss: 'passive: become divided'
+          concept_uuid: a08f52ff-92e0-4270-8502-7f149e41554f
+          concept_label: DISINTEGRATE
+        - gloss: fēn
+          concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+          concept_label: EXECUTE
+      - gloss: fēn
+        concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+        concept_label: MIDDLE
+        children:
+        - gloss: specific
+          concept_uuid: f4511985-ff3c-45ff-88e1-6b80d517b4a6
+          concept_label: HALF
+          children:
+          - gloss: mathematics:tenth part
+            concept_uuid: 7f9950a8-68c2-433b-80ad-ef7f48da98ea
+            concept_label: TEN
+      - gloss: fēn
+        concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+        concept_label: DAY
+      - gloss: so as to cause to have separately
+        concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+        concept_label: DISTRIBUTE
+        children:
+        - gloss: 'generalised:'
+          concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+          concept_label: GIVE
+        - gloss: of what one has
+          concept_uuid: c8885655-f457-4f57-ad87-a5ab65620ef1
+          concept_label: SHARE OUT
+    - gloss: fēn
+      concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+      concept_label: LENGTH MEASURES
+- reading: fèn
+  old_chinese: bɯns
+  middle_chinese: biun
+  fanqie: 扶問切
+  tone: 去
+  guangyun: 分劑扶問切又方文切五
+  senses:
+  - gloss: what is doled out to one socially
+    concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - gloss: what is distributed to one by Heaven
+    concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+    concept_label: FATE
+    children:
+    - gloss: abstract
+      concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+      concept_label: PRINCIPLE
+  - gloss: equal division of day and night
+    concept_uuid: 6682d82f-fdeb-401a-b1a7-cab466217ecd
+    concept_label: EQUINOX
+  - gloss: '=份 generalised object: derivation by tone change fèn'
+    concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+    concept_label: PART
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-10T21:15:38.033+09:00'

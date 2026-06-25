@@ -1,0 +1,50 @@
+uuid: 90add79a-b347-4fb9-9825-bceece2ee348
+type: tax-char
+heads:
+- 錄
+pronunciations:
+- reading: lù
+  old_chinese: roɡ
+  middle_chinese: liok
+  fanqie: 力玉切
+  tone: 入
+  guangyun: 采録説文曰金色也又録事職官要録云緫録衆事力玉切十七
+  senses:
+  - concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+    concept_label: KEEP
+  - concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+    concept_label: RECORD
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+  - concept_uuid: c72e5c63-f899-4f93-9b56-db7e30184ef7
+    concept_label: COPY
+  - concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+    concept_label: ACCEPT
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+    concept_label: BIND
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+    concept_label: REFER TO
+  - concept_uuid: 0718ce01-d379-464a-a932-73fdd91cefce
+    concept_label: SWORD NAME
+  - gloss: SURNAME
+  - gloss: = 祿
+  - gloss: = 綠
+  - gloss: = 碌
+- reading: lù
+  old_chinese: b·rooɡ
+  middle_chinese: luk
+  fanqie: 盧谷切
+  tone: 入
+  guangyun: 本也亦刻木也
+source:
+  source_file: taxchar.xml

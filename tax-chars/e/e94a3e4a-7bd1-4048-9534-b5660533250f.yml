@@ -1,0 +1,30 @@
+uuid: e94a3e4a-7bd1-4048-9534-b5660533250f
+type: tax-char
+heads:
+- 訓
+pronunciations:
+- reading: xùn
+  old_chinese: qhuns
+  middle_chinese: hiun
+  fanqie: 許運切
+  tone: 去
+  guangyun: 誡也男曰教女曰訓又姓許運切五
+  senses:
+  - concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+    concept_label: DECREE
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: 89ac84a3-1355-439d-bbf1-8f49649aa266
+    concept_label: GLOSS
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+    concept_label: WARN
+  - concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+  - concept_uuid: a0dd511b-e11d-4d07-8383-7ac7069b782c
+    concept_label: TAME
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: afd99248-af0e-4374-978b-1b85e21308de
+type: tax-char
+heads:
+- 啾
+pronunciations:
+- reading: jiū
+  old_chinese: tsiw
+  middle_chinese: tsiu
+  fanqie: 即由切
+  tone: 平
+  guangyun: 啾唧小聲
+  senses:
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+    concept_label: BLOW
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+source:
+  source_file: taxchar.xml

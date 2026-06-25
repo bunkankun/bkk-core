@@ -1,0 +1,65 @@
+uuid: c737bcd0-ac39-4b6b-9835-fcb97db5f243
+type: tax-char
+heads:
+- 圖
+pronunciations:
+- reading: tú
+  old_chinese: daa
+  middle_chinese: duo
+  fanqie: 同都切
+  tone: 平
+  guangyun: 爾雅曰謀也説文曰畫計難也
+  senses:
+  - concept_uuid: 5f3dcf54-65ea-4683-8db1-afcc248acd16
+    concept_label: MAP
+    children:
+    - gloss: generalised
+      concept_uuid: 6aa1a2d6-99fa-4e3d-8d14-24fbeb5dbaea
+      concept_label: PICTURE
+      children:
+      - gloss: abstract
+        concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+        concept_label: SYMBOL
+      - gloss: 'produce: object picture'
+        concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+        concept_label: PAINT
+        children:
+        - gloss: object depicted object
+          concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+          concept_label: DEPICT
+          children:
+          - gloss: through imitative action
+            concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+            concept_label: IMITATE
+          - gloss: in the mind
+            concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+            concept_label: THINK
+            children:
+            - gloss: determining future
+              concept_uuid: 1bebc2e6-a495-453e-aa66-4919c1ddaf15
+              concept_label: PREDICT
+            - gloss: tentatively
+              concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+              concept_label: GUESS
+            - gloss: unrealistically
+              concept_uuid: c280ecf9-7d06-4758-ac54-f4a2c2306598
+              concept_label: IMAGINATION
+            - gloss: appetitively
+              concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+              concept_label: DESIRE
+              children:
+              - gloss: abstract
+                concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+                concept_label: ASPIRE
+              - gloss: volitional
+                concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+                concept_label: INTEND
+                children:
+                - gloss: be about to go to
+                  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+                  concept_label: TRAVEL
+                - gloss: complex, distant future
+                  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+                  concept_label: PLAN
+source:
+  source_file: taxchar.xml

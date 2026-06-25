@@ -1,0 +1,66 @@
+uuid: 98b75dc8-dc0b-4af1-8d7e-25c186b1031d
+type: tax-char
+heads:
+- 落
+pronunciations:
+- reading: luò
+  old_chinese: ɡ-raaɡ
+  middle_chinese: lɑk
+  fanqie: 盧各切
+  tone: 入
+  guangyun: 零落草曰零木曰落又始也聚落也左傳注云宫室始成祭之爲落亦姓出姓苑又漢複姓二氏漢有博士落姑仲異益部𦒿舊傳有閬中落下閎善歷也盧各切三十三
+  senses:
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - gloss: walking
+    concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+    concept_label: DESCEND
+    children:
+    - gloss: 'causative: as leaves from tree'
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+      children:
+      - gloss: abstract
+        concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+        concept_label: DISCARD
+        children:
+        - gloss: from one's care and attention
+          concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+          concept_label: NEGLECT
+    - gloss: 'resultative: and decay as a result'
+      concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+      concept_label: WITHER
+      children:
+      - gloss: generalised
+        concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+        concept_label: DIE
+      - gloss: be scarce
+        concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+        concept_label: RARE
+      - gloss: abstract
+        concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+        concept_label: DECLINE
+        children:
+        - gloss: in activity
+          concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+          concept_label: REST
+          children:
+          - gloss: resting place
+            concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+            concept_label: PLACE
+            children:
+            - gloss: 'action: rest one''s eyes on'
+              concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+              concept_label: LOOK
+  - gloss: various kinds of sacrifice
+    concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_label: =絡
+unattributed_senses:
+- gloss: personal names
+  concept_uuid: e72dd19b-10d8-41fc-8dfd-fa873f219bcc
+  concept_label: RULERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T22:31:23.496+09:00'

@@ -1,0 +1,83 @@
+uuid: 17c1ca62-1684-4a48-a907-a207637ea26a
+type: tax-char
+heads:
+- 差
+pronunciations:
+- reading: chāi
+  old_chinese: skhreed
+  middle_chinese: tʂʰɯæi
+  fanqie: 楚皆切
+  tone: 平
+  guangyun: 簡也楚皆切又楚宜楚牙楚懈三切二
+- reading: chài
+  old_chinese: skhreels
+  middle_chinese: tʂʰɯæ
+  fanqie: 楚懈切
+  tone: 去
+  guangyun: 病除也楚懈切又楚冝楚皆初牙三切七
+  senses:
+  - concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+    concept_label: CURE
+- reading: chāi
+  old_chinese: skhreel
+  middle_chinese: tʂʰɯæ
+  fanqie: 楚佳切
+  tone: 平
+  guangyun: 差殊又不齊
+  senses:
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+    children:
+    - concept_uuid: 007e2e96-c952-41c5-9172-6493630a1d57
+      concept_label: SEND
+      children:
+      - gloss: object
+        concept_uuid: ae949ca3-c257-4406-8b08-7bc8482a23c4
+        concept_label: MESSENGER
+        children:
+        - gloss: typical action
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+      - gloss: generalised
+        concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+        concept_label: CAUSE TO
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: cī
+  old_chinese: skhral
+  middle_chinese: tʂʰɯiɛ
+  fanqie: 楚宜切
+  tone: 平
+  guangyun: 次也不齊等也楚宜切又楚佳楚懈二切四
+  senses:
+  - concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+    concept_label: IRREGULAR
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+- reading: chā
+  old_chinese: skhraal
+  middle_chinese: tʂʰɯa
+  fanqie: 初牙切
+  tone: 平
+  guangyun: 擇也又差舛也
+  senses:
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+    children:
+    - gloss: moral
+      concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+      concept_label: WICKED
+    - gloss: feature
+      concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+      concept_label: DIFFERENT
+      children:
+      - gloss: putative
+        concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+        concept_label: DISTINGUISH
+      - gloss: 'adverbial: deviating by a little'
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+  - concept_uuid: f4511985-ff3c-45ff-88e1-6b80d517b4a6
+    concept_label: HALF
+source:
+  source_file: taxchar.xml

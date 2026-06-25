@@ -1,0 +1,30 @@
+uuid: 9fdc9aa4-c4ec-401e-b2cb-a89b61b32789
+type: tax-char
+heads:
+- 賣
+pronunciations:
+- reading: mài
+  old_chinese: mrees
+  middle_chinese: mɯæ
+  fanqie: 莫懈切
+  tone: 去
+  guangyun: 説文作賣出物也莫懈切一
+  senses:
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+    concept_label: SELL
+  - concept_uuid: bacf8c9b-eb43-4011-ad40-cc60f3d2aba7
+    concept_label: TREASON
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+    concept_label: EFFORT
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

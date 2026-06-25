@@ -1,0 +1,26 @@
+uuid: 80f1a37a-d974-491d-a098-23f0ebb065a2
+type: tax-char
+heads:
+- 滄
+pronunciations:
+- reading: chuàng
+  old_chinese: skhraŋs
+  middle_chinese: tʂʰiɐŋ
+  fanqie: 初亮切
+  tone: 去
+- reading: cāng
+  old_chinese: skhaaŋ
+  middle_chinese: tsʰɑŋ
+  fanqie: 七岡切
+  tone: 平
+  guangyun: 滄浪亦州後魏所置蓋取滄海爲名
+  senses:
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - gloss: = 蒼
+source:
+  source_file: taxchar.xml

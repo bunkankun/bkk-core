@@ -1,0 +1,47 @@
+uuid: e0582ba7-6a6f-4b98-8b4b-c02ec3a2c9ab
+type: tax-char
+heads:
+- 鐘
+- 鍾
+pronunciations:
+- reading: zhōng
+  old_chinese: tjoŋ
+  middle_chinese: tɕioŋ
+  fanqie: 職容切
+  tone: 平
+  guangyun: 樂器也吕氏春秋云黄帝命伶倫鑄十二器丗本曰垂作鐘
+  senses:
+  - concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+    concept_label: BELL
+    children:
+    - gloss: 'action: strike bell'
+      concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+      concept_label: STRIKE
+    - gloss: time struck by bell
+      concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+      concept_label: TIME
+- reading: zhōng
+  old_chinese: tjoŋ
+  middle_chinese: tɕioŋ
+  fanqie: 職容切
+  tone: 平
+  guangyun: 當也酒器也又量名左傳曰釡十則鍾亦姓出頴川又漢複姓有鍾離氏丗本云與秦同祖其後因封爲姓職容切十八
+  senses:
+  - concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+    concept_label: BELL
+    children:
+    - concept_uuid: 6acc1714-c80f-49d2-9670-2fe2c0b7b620
+      concept_label: WINE VESSEL
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+    children:
+    - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+  - concept_uuid: ae67b4eb-957a-44ce-8084-568833722d45
+    concept_label: UNCLE
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:45:21.083+09:00'

@@ -1,0 +1,74 @@
+uuid: d43fe1b1-a70c-422a-878f-e4115e016120
+type: tax-char
+heads:
+- 列
+pronunciations:
+- reading: liè
+  old_chinese: b-red
+  middle_chinese: liɛt
+  fanqie: 良辥薛切
+  tone: 入
+  guangyun: 行次也位序也又陳也布也説文作𠛱分解也亦姓鄭有列禦寇著書十八篇良辥切二十
+  senses:
+  - concept_uuid: 4b52ff5c-1df0-4b58-abf4-ff314b28293f
+    concept_label: TEAR APART
+    children:
+    - gloss: generalised
+      concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+      concept_label: DIVIDE
+      children:
+      - gloss: between fields
+        concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+        concept_label: BOUNDARY
+      - gloss: resultative
+        concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+        concept_label: JUXTAPOSE
+        children:
+        - gloss: orderly
+          concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+          concept_label: ARRANGE
+          children:
+          - gloss: result
+            concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+            concept_label: ROW
+            children:
+            - gloss: 'astronomic:'
+              concept_label: CONSTELLATIONS
+            - gloss: musical
+              concept_uuid: 55a6d0ed-c1a7-4dd1-96a6-1115480aa6be
+              concept_label: TUNE
+            - gloss: resultative
+              concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+              concept_label: STRAIGHT
+      - gloss: resultative
+        concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+        concept_label: MANY
+        children:
+        - gloss: exhaustive
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+          children:
+          - gloss: abstract
+            concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+            concept_label: CATEGORY
+            children:
+            - gloss: social
+              concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+              concept_label: RANK
+  - gloss: =烈颲 of winds
+    concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+- reading: zhū
+  old_chinese: to
+  middle_chinese: ʈio
+  fanqie: 陟輸切
+  tone: 平
+  guangyun: 列殺字從歹又五割切
+  senses:
+  - gloss: 'by tearing apart:'
+    concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T19:49:09.183+09:00'

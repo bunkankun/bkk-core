@@ -1,0 +1,22 @@
+uuid: dc98bfa5-7440-41e3-95d0-6322da9383f3
+type: tax-char
+heads:
+- 筵
+pronunciations:
+- reading: yán
+  old_chinese: lan
+  middle_chinese: jiɛn
+  fanqie: 以然切
+  tone: 平
+  guangyun: 席也鋪陳曰筵藉之曰席
+  senses:
+  - concept_uuid: 21a32240-451b-40a3-aa66-1191287bff1f
+    concept_label: BAMBOO MAT
+  - concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+  - concept_uuid: 356925e2-2fac-4b9a-ba0e-dee11f871aa4
+    concept_label: MAT
+  - concept_uuid: e5e78235-7d8e-48ca-8639-0b52831aeb9a
+    concept_label: SEAT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,24 @@
+uuid: 282efbcc-3952-4e2f-90ac-958aaa601f75
+type: tax-char
+heads:
+- 恥
+pronunciations:
+- reading: chǐ
+  old_chinese: m-lʰɯʔ
+  middle_chinese: ʈʰɨ
+  fanqie: 敕里切
+  tone: 上
+  guangyun: 慙也敕里切三
+  senses:
+  - concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+    concept_label: SHAME
+    children:
+    - gloss: causative
+      concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+      concept_label: HUMILIATE
+      children:
+      - gloss: humiliateing event
+        concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+        concept_label: DISGRACE
+source:
+  source_file: taxchar.xml

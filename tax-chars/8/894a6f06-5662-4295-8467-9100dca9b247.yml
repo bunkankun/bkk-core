@@ -1,0 +1,30 @@
+uuid: 894a6f06-5662-4295-8467-9100dca9b247
+type: tax-char
+heads:
+- 巫
+pronunciations:
+- reading: wū
+  old_chinese: ma
+  middle_chinese: mio
+  fanqie: 武夫切
+  tone: 平
+  guangyun: 巫覡周禮春官曰司巫掌羣巫之政令若國大旱則帥巫而舞雩亦山名又姓風俗通云氏於事巫卜陶匠是也漢有冀州刺史巫捷
+  senses:
+  - concept_uuid: 7a69a326-5a8f-4359-9e0e-6f8cb3022b43
+    concept_label: WITCH
+    children:
+    - gloss: generalised
+      concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+      concept_label: SHAMAN
+      children:
+      - gloss: with medical specialisation
+        concept_uuid: 4f3f44a0-2d10-4b09-ac7e-24e804772157
+        concept_label: PHYSICIAN
+  - concept_uuid: b7b55df5-1a0d-4d85-9dd5-62349744453b
+    concept_label: MALES OF CHU
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+source:
+  source_file: taxchar.xml

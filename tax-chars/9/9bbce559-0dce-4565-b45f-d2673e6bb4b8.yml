@@ -1,0 +1,90 @@
+uuid: 9bbce559-0dce-4565-b45f-d2673e6bb4b8
+type: tax-char
+heads:
+- 來
+pronunciations:
+- reading: lái
+  old_chinese: m-rɯɯ
+  middle_chinese: ləi
+  fanqie: 落哀切
+  tone: 平
+  guangyun: 至也及也還也又姓後漢來歙光武姑子蜀志云荆楚名族有黃門侍郎來恒俗作來落哀切二十五
+  senses:
+  - concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+    concept_label: COME
+    children:
+    - gloss: jussive:command to come
+      concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+      concept_label: SUMMON
+      children:
+      - gloss: conative, causative:get to come together
+        concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+        concept_label: RALLY
+    - gloss: have coming to one
+      concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+      concept_label: RECEIVE
+    - gloss: after absence
+      concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+      concept_label: RETURN
+    - gloss: come and!
+      concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+      concept_label: IMPERATIVE MARKER
+      children:
+      - gloss: inchoative action
+        concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+        concept_label: ACT
+  - gloss: abstract:come into the real world
+    concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+    concept_label: ARISE
+    children:
+    - gloss: as a living being
+      concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+      concept_label: BIRTH
+      children:
+      - gloss: generalised
+        concept_uuid: 304e1390-02d6-4b01-a81b-3af4ee0eff6c
+        concept_label: ORIGIN
+        children:
+        - gloss: grammaticalised:effectively
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+        - gloss: having arisen
+          concept_uuid: bf9ba337-f179-4a74-bbb1-5bc886d43727
+          concept_label: SINCE
+          children:
+          - gloss: at the time since has arisen
+            concept_uuid: c7b584a7-aaad-4f79-80f9-08f9c9bc3fa6
+            concept_label: DURING
+            children:
+            - gloss: temporal:what is to come
+              concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+              concept_label: FUTURE
+              children:
+              - gloss: immediate future:coming
+                concept_uuid: 635912f0-e3af-4e12-90d3-243df2a9622f
+                concept_label: NEXT
+            - gloss: subject:what has arisen
+              concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+              concept_label: PAST
+              children:
+              - gloss: time of arising delayed
+                concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+                concept_label: LATE
+    - gloss: causative:get to come
+      concept_uuid: dbb6966f-e54a-42e0-a3a6-b63500b56793
+      concept_label: BRING
+    - gloss: 'grammaticalised: lái 來'
+      concept_uuid: 0ec307f0-0c61-4f89-8d21-7ca15a4396f6
+      concept_label: WEAK VERBAL SUFFIX
+      children:
+      - gloss: post-verbal
+        concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+        concept_label: FINAL PARTICLES
+        children:
+        - gloss: modal
+          concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+          concept_label: MODAL PARTICLES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-23T21:46:38.81+09:00'

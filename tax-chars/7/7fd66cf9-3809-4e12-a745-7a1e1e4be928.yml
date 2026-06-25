@@ -1,0 +1,28 @@
+uuid: 7fd66cf9-3809-4e12-a745-7a1e1e4be928
+type: tax-char
+heads:
+- 霄
+pronunciations:
+- reading: xiāo
+  old_chinese: smew
+  middle_chinese: siɛu
+  fanqie: 相邀切
+  tone: 平
+  guangyun: 近天氣也
+  senses:
+  - concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+    concept_label: CLOUD
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: d045ba19-84b3-418c-9303-dcc0d7a1a1be
+    concept_label: SNOW
+  - concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+    concept_label: SKY
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 宵
+  - gloss: = 消
+source:
+  source_file: taxchar.xml

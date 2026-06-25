@@ -1,0 +1,27 @@
+uuid: eb7af4f5-3a11-4adf-b119-f97cd1d2111b
+type: tax-char
+heads:
+- 慰
+pronunciations:
+- reading: wèi
+  old_chinese: quds
+  middle_chinese: ʔʷɨi
+  fanqie: 於胃切
+  tone: 去
+  guangyun: 安慰
+  senses:
+  - concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+    concept_label: CONSOLE
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 46aaa7ea-aa18-4027-9e3e-85b804251370
+    concept_label: DEPRESSED
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+    concept_label: ANGER
+  - gloss: = 蔚
+source:
+  source_file: taxchar.xml

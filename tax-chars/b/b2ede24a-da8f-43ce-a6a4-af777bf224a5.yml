@@ -1,0 +1,75 @@
+uuid: b2ede24a-da8f-43ce-a6a4-af777bf224a5
+type: tax-char
+heads:
+- 疾
+pronunciations:
+- reading: jí
+  old_chinese: dzid
+  middle_chinese: dzit
+  fanqie: 秦悉切
+  tone: 入
+  guangyun: 病也急也秦悉切十一
+  senses:
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+    children:
+    - gloss: typical relation
+      concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+      concept_label: SUFFER
+    - gloss: causative, abstract
+      concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+      concept_label: INJURE
+      children:
+      - gloss: resultative
+        concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+        concept_label: WEAK
+      - gloss: putative
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+        children:
+        - gloss: intensitive
+          concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+          concept_label: ANGUISH
+          children:
+          - gloss: personal, emotional
+            concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+            concept_label: HATE
+            children:
+            - gloss: declarative
+              concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+              concept_label: CRITICISE
+    - gloss: grammaticalied, feature
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+      children:
+      - gloss: acoustically
+        concept_uuid: 33027d02-be2e-49d3-a08e-1913965ee1be
+        concept_label: LOUD
+      - gloss: intention-wise
+        concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+        concept_label: EAGER
+      - gloss: objective
+        concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+        concept_label: URGENT
+        children:
+        - gloss: speed
+          concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+          concept_label: QUICK
+          children:
+          - gloss: action
+            concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+            concept_label: HURRY
+            children:
+            - gloss: grammaticalised
+              concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+              concept_label: IMPERATIVE MARKER
+            - gloss: resultative
+              concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+              concept_label: MISTAKE
+  - gloss: =嫉
+    concept_uuid: c64a831b-0166-4379-81b8-a56ed5ff4d64
+    concept_label: JEALOUS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T17:51:56.99+09:00'

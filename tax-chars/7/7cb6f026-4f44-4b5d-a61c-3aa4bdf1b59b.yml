@@ -1,0 +1,55 @@
+uuid: 7cb6f026-4f44-4b5d-a61c-3aa4bdf1b59b
+type: tax-char
+heads:
+- 斯
+pronunciations:
+- reading: sī
+  old_chinese: sqe
+  middle_chinese: siɛ
+  fanqie: 息移切
+  tone: 平
+  guangyun: 此也説文曰析也詩曰斧以斯之又姓吴志賀齊傳有剡縣史斯從息移切二十六
+  senses:
+  - concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+    concept_label: THIS
+    children:
+    - gloss: like this, such a
+      concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+      concept_label: RESEMBLE
+      children:
+      - gloss: feature-anaphoric
+        concept_uuid: ba9c161d-932b-4862-9fb9-906c41594e75
+        concept_label: SUCH
+        children:
+        - gloss: place
+          concept_uuid: 04482dbe-a266-41c0-b7f0-e0ba31a4763f
+          concept_label: HERE
+          children:
+          - gloss: time
+            concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+            concept_label: THEN
+            children:
+            - gloss: logic
+              concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+              concept_label: THEREFORE
+    - gloss: grammaticalised
+      concept_uuid: 8ffa4531-1f93-473b-b468-7d0cf9390af1
+      concept_label: GENITIVE PARTICLES
+      children:
+      - gloss: expletive poetic modal particle
+        concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+        concept_label: PARTICLE
+  - gloss: all these
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - gloss: =撕
+    concept_uuid: 4b52ff5c-1df0-4b58-abf4-ff314b28293f
+    concept_label: TEAR APART
+    children:
+    - gloss: by cleaving
+      concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+      concept_label: SPLIT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T03:10:50.768+09:00'

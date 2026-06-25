@@ -1,0 +1,22 @@
+uuid: 6dce7f9e-b03a-448e-907f-b6ee1a53ff11
+type: tax-char
+heads:
+- 牲
+pronunciations:
+- reading: shēng
+  old_chinese: sraaŋ
+  middle_chinese: ʃɯaŋ
+  fanqie: 所庚切
+  tone: 平
+  guangyun: 犧牲
+  senses:
+  - concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+    concept_label: DOMESTIC ANIMAL
+  - concept_uuid: 9e770f6d-bff0-4dc6-8915-ee1ae85da6dd
+    concept_label: SACRIFICIAL ANIMAL
+  - concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+    concept_label: ANIMAL
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+source:
+  source_file: taxchar.xml

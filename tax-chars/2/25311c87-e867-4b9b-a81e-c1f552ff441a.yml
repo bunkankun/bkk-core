@@ -1,0 +1,30 @@
+uuid: 25311c87-e867-4b9b-a81e-c1f552ff441a
+type: tax-char
+heads:
+- 憯
+pronunciations:
+- reading: cǎn
+  old_chinese: skhɯɯmʔ
+  middle_chinese: tsʰəm
+  fanqie: 七感切
+  tone: 上
+  guangyun: 痛也
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+    concept_label: CRUEL
+  - concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+    concept_label: COINCIDENCE
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+- reading: qiǎn
+  old_chinese: skhɯɯmʔ
+  middle_chinese: tsʰem
+  fanqie: 青忝切
+  tone: 上
+  guangyun: 憯悽青忝切又七感切一
+source:
+  source_file: taxchar.xml

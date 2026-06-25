@@ -1,0 +1,20 @@
+uuid: 010bda8c-5ecb-4b7d-a409-66b3db3d3cf4
+type: tax-char
+heads:
+- 克
+unattributed_senses:
+- concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  concept_label: ABLE
+  children:
+  - concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+    concept_label: PROBABLE
+  - concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+    concept_label: SUCCEED
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+    concept_label: CONQUER
+  - concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+    concept_label: COMPETE
+source:
+  source_file: taxchar.xml

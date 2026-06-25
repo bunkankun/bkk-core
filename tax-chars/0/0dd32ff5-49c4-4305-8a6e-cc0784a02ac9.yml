@@ -1,0 +1,76 @@
+uuid: 0dd32ff5-49c4-4305-8a6e-cc0784a02ac9
+type: tax-char
+heads:
+- 幸
+pronunciations:
+- reading: xìng
+  old_chinese: ɢreeŋʔ
+  middle_chinese: ɦɯæŋ
+  fanqie: 胡耿切
+  tone: 上
+  guangyun: 説文作𡴘吉而免凶也以屰从夭夭死之事故死謂之不𡴘胡耿切四
+  senses:
+  - concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+    concept_label: LUCK
+    children:
+    - gloss: by happy coincidence
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: 'grammaticalised: if by good chance'
+        concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+        concept_label: IF
+      - gloss: just
+        concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+        concept_label: NOW
+        children:
+        - gloss: 'grammaticalised: in continuation of preceding time'
+          concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+          concept_label: STILL
+    - gloss: be so lucky as to
+      concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+      concept_label: SURPASS
+    - gloss: be so lucky as to
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+    - gloss: causative> of emperor, favouring with his presence
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+    - gloss: favour with one's favourable interest
+      concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+      concept_label: LIKE
+      children:
+      - gloss: comparative
+        concept_uuid: 59ce6154-e160-485f-b785-a360f2537f68
+        concept_label: PREFER
+        children:
+        - gloss: 'exocentric: preferred person'
+          concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+          concept_label: FAVOURITE
+        - gloss: show favour and
+          concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+          concept_label: RELEASE
+      - gloss: emotion
+        concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+        concept_label: DELIGHT
+      - gloss: general state
+        concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+        concept_label: HAPPY
+      - gloss: intensely
+        concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+        concept_label: LOVE
+      - gloss: 'object: idea of future event'
+        concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+        concept_label: HOPE
+      - gloss: 'object: person in trouble'
+        concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+        concept_label: SYMPATHY
+      - gloss: resultative inclination or action
+        concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+        concept_label: GENEROUS
+        children:
+        - gloss: effective medical action
+          concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+          concept_label: CURE
+source:
+  source_file: taxchar.xml

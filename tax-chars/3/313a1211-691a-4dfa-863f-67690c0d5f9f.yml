@@ -1,0 +1,22 @@
+uuid: 313a1211-691a-4dfa-863f-67690c0d5f9f
+type: tax-char
+heads:
+- 赦
+pronunciations:
+- reading: shè
+  old_chinese: hljaɡs
+  middle_chinese: ɕia
+  fanqie: 始夜切
+  tone: 去
+  guangyun: 赦宥
+  senses:
+  - concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+    concept_label: FORGIVE
+  - concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+    concept_label: PARDON
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

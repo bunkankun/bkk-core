@@ -1,0 +1,44 @@
+uuid: bda740d0-694c-4282-a8e4-ca8160f82ff9
+type: tax-char
+heads:
+- 母
+pronunciations:
+- reading: mǔ
+  old_chinese: mɯʔ
+  middle_chinese: məu
+  fanqie: 莫厚切
+  tone: 上
+  guangyun: 父母老子注云母道也蒼頡篇云其中有兩㸃象人乳形豎通者即音無莫厚切十四
+  senses:
+  - concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+    concept_label: MOTHER
+  - gloss: figurative
+    concept_uuid: 17c8f382-15f3-4555-ab9f-aff69c10532f
+    concept_label: CAPITAL
+  - gloss: figurative
+    concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+    concept_label: SOURCE
+  - gloss: the principal of capital
+    concept_uuid: adb5c10b-f78f-44d4-a280-b14e7ff2e3fc
+    concept_label: ASSET
+  - gloss: generalised
+    concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+    concept_label: FEMALE
+    children:
+    - gloss: specific
+      concept_uuid: 5a7c63e6-11ee-4a00-b3c9-8405fc40ec96
+      concept_label: OLD LADY
+      children:
+      - gloss: generalised, female
+        concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+        concept_label: ANCESTOR
+      - gloss: grammaticalised pseudo-pronoun
+        concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+        concept_label: YOU
+  - gloss: technical term
+    concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:15:14.272+09:00'

@@ -1,0 +1,22 @@
+uuid: 11c59804-1d47-487b-9725-50f7fc1f4f76
+type: tax-char
+heads:
+- 喧
+pronunciations:
+- reading: xuān
+  old_chinese: qhon
+  middle_chinese: hʷiɐn
+  fanqie: 況袁切
+  tone: 平
+  guangyun: 大語也
+  senses:
+  - concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+    concept_label: CLAMOUR
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+    concept_label: FAMOUS
+  - concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+    concept_label: PEOPLE
+source:
+  source_file: taxchar.xml

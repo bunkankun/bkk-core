@@ -1,0 +1,69 @@
+uuid: 7c4568a8-6f94-49b9-b8a9-38f5dcca25ca
+type: tax-char
+heads:
+- 湯
+pronunciations:
+- reading: tāng
+  old_chinese: kh-laaŋ
+  middle_chinese: tʰɑŋ
+  fanqie: 吐郎切
+  tone: 平
+  guangyun: 熱水又姓宋有沙門湯休有文集吐郎切十一
+  senses:
+  - gloss: (hot)
+    concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+    children:
+    - gloss: hot
+      concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+      concept_label: MEDICINE
+    - gloss: hot
+      concept_uuid: 3057ae98-478b-43eb-a718-868f1b63f9b3
+      concept_label: SOUP
+    - gloss: hot
+      concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+      concept_label: SOURCE
+    - gloss: use hot water
+      concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+      concept_label: BATHE
+    - gloss: filled with (cold!) water
+      concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+      concept_label: MOAT
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 163cab3e-7077-4ed2-884e-d4ac15ff382e
+    concept_label: PROPER NAMES
+  - concept_uuid: 63819416-bf1d-4c8c-8539-3fc438eff159
+    concept_label: RULERS OF SHANG
+- reading: tàng
+  old_chinese: kh-laaŋs
+  middle_chinese: tʰɑŋ
+  fanqie: 他浪切
+  tone: 去
+  guangyun: 熱湯也又他郎切
+  senses:
+  - gloss: '(causative: heat up)'
+    concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+    concept_label: HOT
+  - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+- reading: shāng
+  old_chinese: lʰaŋ
+  middle_chinese: ɕiɐŋ
+  fanqie: 式羊切
+  tone: 平
+  guangyun: 湯湯流皃本他郎切
+  senses:
+  - gloss: (abundantly)
+    concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+unattributed_senses:
+- gloss: 湯 ｙａｎｇ２《集韻》余章切，平陽以。陽部。
+  children:
+  - gloss: PLACES
+source:
+  source_file: taxchar.xml

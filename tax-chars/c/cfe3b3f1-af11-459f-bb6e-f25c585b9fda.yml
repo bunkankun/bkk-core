@@ -1,0 +1,39 @@
+uuid: cfe3b3f1-af11-459f-bb6e-f25c585b9fda
+type: tax-char
+heads:
+- 逼
+pronunciations:
+- reading: bī
+  old_chinese: pɯɡ
+  middle_chinese: pɨk
+  fanqie: 彼側切
+  tone: 入
+  guangyun: 同逼
+- reading: bī
+  old_chinese: pɯɡ
+  middle_chinese: pɨk
+  fanqie: 彼側切
+  tone: 入
+  guangyun: 迫也彼側切十
+  senses:
+  - concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+    concept_label: DISTRESS
+  - concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+    concept_label: THREATEN
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+    concept_label: BANISH
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+    concept_label: NARROW
+  - concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+    concept_label: DRY
+  - gloss: = 屄
+source:
+  source_file: taxchar.xml

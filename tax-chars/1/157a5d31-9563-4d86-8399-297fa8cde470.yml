@@ -1,0 +1,45 @@
+uuid: 157a5d31-9563-4d86-8399-297fa8cde470
+type: tax-char
+heads:
+- 農
+pronunciations:
+- reading: nóng
+  old_chinese: nuuŋ
+  middle_chinese: nuoŋ
+  fanqie: 奴冬切
+  tone: 平
+  guangyun: 田農也説文作䢉耕也亦官名漢書曰治粟内史秦官也景帝更名大司農又姓風俗通云神農之後又羌複姓有蘇農氏奴冬切十二
+  senses:
+  - concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+    concept_label: AGRICULTURE
+    children:
+    - gloss: administrator of
+      concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+      concept_label: OFFICIAL
+    - gloss: practitioner of
+      concept_uuid: 8157f743-bc82-4e8f-916a-28242511090d
+      concept_label: PEASANT
+    - gloss: generalised
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+      children:
+      - gloss: temporary
+        concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+        concept_label: EFFORT
+    - gloss: field useful for
+      concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+      concept_label: SOIL
+    - gloss: specific activity
+      concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+      concept_label: SOW
+    - gloss: specific activity
+      concept_uuid: c37aa631-d300-40ae-85a4-3ded10b1e7ae
+      concept_label: PLOUGH
+    - gloss: spirit of
+      concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+      concept_label: DEITIES
+  - gloss: =濃
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

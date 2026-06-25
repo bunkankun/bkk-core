@@ -1,0 +1,24 @@
+uuid: 7da28c44-2a87-4491-aff4-d6ba28d9f052
+type: tax-char
+heads:
+- 狼
+pronunciations:
+- reading: láng
+  old_chinese: ɡ-raaŋ
+  middle_chinese: lɑŋ
+  fanqie: 魯當切
+  tone: 平
+  guangyun: 犲狼説文曰犲似犬銳頭而白頰髙前廣後帝王丗紀曰有神牽白狼銜鉤入殷朝又姓左傳晉有大夫狼瞫
+  senses:
+  - concept_uuid: c16b243b-6b61-4112-b2e9-e955fe90727f
+    concept_label: WOLF
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

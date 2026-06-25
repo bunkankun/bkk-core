@@ -1,0 +1,31 @@
+uuid: 713d0549-92af-4db0-8d2a-4741e9ef123b
+type: tax-char
+heads:
+- 忘
+pronunciations:
+- reading: wàng
+  old_chinese: maŋs
+  middle_chinese: mʷiɐŋ
+  fanqie: 巫放切
+  tone: 去
+  guangyun: 遺忘又音亡
+  senses:
+  - concept_uuid: 7fc70648-17f5-4181-a267-dd2747e9c31b
+    concept_label: FORGET
+    children:
+    - gloss: psychological action
+      concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+      concept_label: DISREGARD
+      children:
+      - gloss: physical action
+        concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+        concept_label: NEGLECT
+- reading: wáng
+  old_chinese: maŋ
+  middle_chinese: mʷiɐŋ
+  fanqie: 武方切
+  tone: 平
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-25T22:14:52.1+09:00'

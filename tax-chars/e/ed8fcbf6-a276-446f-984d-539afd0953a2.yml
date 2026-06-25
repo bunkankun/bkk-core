@@ -1,0 +1,70 @@
+uuid: ed8fcbf6-a276-446f-984d-539afd0953a2
+type: tax-char
+heads:
+- 羽
+pronunciations:
+- reading: yǔ
+  old_chinese: ɢʷaʔ
+  middle_chinese: ɦio
+  fanqie: 王矩切
+  tone: 上
+  guangyun: 舒也聚也亦鳥長毛也又官名羽林監應劭漢官儀曰羽林者言其爲國羽翼如林盛也皆冠鶡冠亦姓左傳鄭大夫羽頡又虜姓後魏書羽弗氏後改爲羽氏又音芋王矩切十五
+  senses:
+  - concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+    concept_label: FEATHER
+    children:
+    - gloss: generalised
+      concept_uuid: ce803475-ab64-4def-b475-4d3ca199c513
+      concept_label: WINGS
+    - gloss: exocentric> banner boasting feathers
+      concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+      concept_label: BANNER
+      children:
+      - gloss: move to music with bearing banners
+        concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+        concept_label: DANCE
+      - gloss: exocentric> fan with feathers
+        concept_uuid: b8d0dbb5-9524-4aa1-b26f-66a819582842
+        concept_label: FAN
+      - gloss: used in angling, attached to bait and hook
+        concept_uuid: df1d533f-acd8-4496-bd4c-5776efad36fb
+        concept_label: BAIT
+    - gloss: structure made of feathers
+      concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+      concept_label: FACTION
+      children:
+      - gloss: 'exocentric> feathered creature:'
+        concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+        concept_label: BIRD
+        children:
+        - gloss: figurative
+          concept_uuid: ae949ca3-c257-4406-8b08-7bc8482a23c4
+          concept_label: MESSENGER
+      - gloss: exocentric> winged creature
+        concept_uuid: b63836dd-3cd4-4685-93f6-2d6289316f99
+        concept_label: INSECT
+    - gloss: 'figurative: social'
+      concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+      concept_label: FACTION
+  - concept_uuid: 635912f0-e3af-4e12-90d3-243df2a9622f
+    concept_label: NEXT
+  - gloss: musical technical term
+    concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+    concept_label: TONE
+- reading: yù
+  old_chinese: ɢʷas
+  middle_chinese: ɦio
+  fanqie: 王遇切
+  tone: 去
+  guangyun: 鳥翅也又五聲宫商角徴羽晉書樂志云宫中也中和之道無往而不理啇強也謂金性之堅強角觸也象諸陽氣觸動而生徴止也言物盛則止羽舒也陽氣將復萬物孳育而舒生又音禹
+  senses:
+  - concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+    concept_label: FACTION
+unattributed_senses:
+- concept_label: 羽 hù《集韻》後五切，上姥匣。魚部。
+  children:
+  - concept_label: =扈
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T19:10:23.755+09:00'

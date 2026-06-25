@@ -1,0 +1,51 @@
+uuid: c0910c87-7f5e-444b-9db9-e1c2617ee5f1
+type: tax-char
+heads:
+- 奇
+pronunciations:
+- reading: jī
+  old_chinese: kral
+  middle_chinese: kɯiɛ
+  fanqie: 居宜切
+  tone: 平
+  guangyun: 不偶也又虧也又渠羈切
+  senses:
+  - gloss: (single, unique)
+    concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+    concept_label: ONE
+    children:
+    - gloss: 'feature:'
+      concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+      concept_label: IRREGULAR
+      children:
+      - gloss: supernumerary
+        concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+        concept_label: SURPLUS
+      - gloss: with skill
+        concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+        concept_label: CRAFTY
+    - gloss: generalised
+      concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+      concept_label: NUMBER
+  - gloss: =羈
+- reading: qí
+  old_chinese: ɡral
+  middle_chinese: ɡɯiɛ
+  fanqie: 渠羈切
+  tone: 平
+  guangyun: 異也説文作奇又虜複姓後魏書奇斤氏後改爲竒氏渠羈切又居宜切十
+  senses:
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+    children:
+    - gloss: feature
+      concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+      concept_label: RARE
+      children:
+      - gloss: putative> SURPRISE
+  - gloss: (Yuan colloquial) grammaticalised
+    concept_uuid: e7f26e01-4533-48a1-b323-21184ed4879d
+    concept_label: PREFIXES
+  - gloss: (Yuan colloquial) grammaticalised> SUFFIXES
+source:
+  source_file: taxchar.xml

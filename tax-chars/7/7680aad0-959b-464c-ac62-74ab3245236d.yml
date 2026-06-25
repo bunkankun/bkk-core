@@ -1,0 +1,55 @@
+uuid: 7680aad0-959b-464c-ac62-74ab3245236d
+type: tax-char
+heads:
+- 氏
+pronunciations:
+- reading: shì
+  old_chinese: ɡjeʔ
+  middle_chinese: dʑiɛ
+  fanqie: 承紙切
+  tone: 上
+  guangyun: 氏族又支指二音
+  senses:
+  - concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+    concept_label: PERSONAL NAME
+    children:
+    - gloss: 'causative: give name'
+      concept_uuid: f590a3d5-40bd-499d-916a-2cd0293e7f3f
+      concept_label: BAPTISE
+    - gloss: those having that name/of common ancestry
+      concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+      concept_label: FAMILY
+      children:
+      - gloss: ruling
+        concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+        concept_label: DYNASTY
+      - gloss: non-Han
+        concept_uuid: 760112aa-ba84-446d-ae9d-a80b5e6a075e
+        concept_label: TRIBE
+        children:
+        - gloss: BARBARIANS
+      - gloss: =職司> OFFICIALS
+      - gloss: honorific> SUFFIXES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+- reading: jīng
+  old_chinese: skeŋ
+  middle_chinese: tsiɛŋ
+  fanqie: 子盈切
+  tone: 平
+  guangyun: 狋氏縣名狋音權
+  senses:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: zhī
+  old_chinese: kje
+  middle_chinese: tɕiɛ
+  fanqie: 章移切
+  tone: 平
+  guangyun: 月氏國名又閼氏匈奴皇后也又精是二音
+  senses:
+  - gloss: in 月氏> BARBARIANS
+source:
+  source_file: taxchar.xml

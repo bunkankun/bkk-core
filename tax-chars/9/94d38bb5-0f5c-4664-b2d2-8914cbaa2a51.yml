@@ -1,0 +1,35 @@
+uuid: 94d38bb5-0f5c-4664-b2d2-8914cbaa2a51
+type: tax-char
+heads:
+- 宛
+pronunciations:
+- reading: yuān
+  old_chinese: qon
+  middle_chinese: ʔʷiɐn
+  fanqie: 於袁切
+  tone: 平
+  guangyun: 屈草自覆又宛縣在南陽又音苑
+  senses:
+  - concept_uuid: ba239cdd-c98b-4c4c-989a-abe935052def
+    concept_label: MALES OF JIN
+- reading: wǎn
+  old_chinese: qonʔ
+  middle_chinese: ʔʷiɐn
+  fanqie: 於阮切
+  tone: 上
+  guangyun: 宛然説文曰屈艸自覆也又姓左傳有宛春
+  senses:
+  - concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+    concept_label: TWIST
+  - concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+    concept_label: BEND
+  - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+    concept_label: CONFORM
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+    concept_label: AS IF
+  - gloss: INDEED
+  - gloss: MEASURING UNIT SEHNAL LISTINGS ABOVE UNTIL SEHNLAL LISTINGS LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+source:
+  source_file: taxchar.xml

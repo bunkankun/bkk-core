@@ -1,0 +1,50 @@
+uuid: bf40d21f-c89f-4ff0-b4c5-dd50719e8def
+type: tax-char
+heads:
+- 謹
+pronunciations:
+- reading: jǐn
+  old_chinese: klɯnʔ
+  middle_chinese: kɨn
+  fanqie: 居隱切
+  tone: 上
+  guangyun: 絜也愼也居隱切十一
+  senses:
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+    children:
+    - gloss: feature
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+      children:
+      - gloss: related action
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+          concept_label: IMPERATIVE MARKER
+        - gloss: fearfully
+          concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+          concept_label: CAUTIOUS
+          children:
+          - gloss: feature
+            concept_uuid: 2436aef8-742c-4faa-a4af-f5fb085ae189
+            concept_label: MODERATION
+            children:
+            - gloss: feature
+              concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+              concept_label: SILENCE
+          - gloss: jussive
+            concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+            concept_label: FORBID
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+    concept_label: EARTH
+source:
+  source_file: taxchar.xml

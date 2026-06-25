@@ -1,0 +1,36 @@
+uuid: 0c075133-82ee-4722-9289-4f6dd11336c1
+type: tax-char
+heads:
+- 孫
+pronunciations:
+- reading: sūn
+  old_chinese: squun
+  middle_chinese: suon
+  fanqie: 思渾切
+  tone: 平
+  guangyun: 爾雅釋親曰凡子之子爲孫孫之子爲曾孫曾孫之子爲玄孫玄孫之子爲來孫來孫之子爲晜孫晜孫之子爲仍孫仍孫之子爲雲孫又岱岳謂之天孫又姓周文王子康叔封于衞至武公子惠孫曾耳爲衞上卿因氏焉後有孫武孫臏俱善兵法各撰書凡太原東莞呉郡安樂四望又漢複姓二十三氏左傳秦大夫逢孫氏魯卿有臧孫辰仲孫何忌魯桓公之子慶父之後有孟孫氏叔孫氏季孫氏同出桓公号爲三桓子孫代爲魯之上卿秦下大夫楊孫氏齊大夫長孫修丗本云食邑於唐其孫仕晉後号唐孫氏衞有王孫賈出自周頃王之後王孫賈之子自以去王室乆改爲賈孫氏晉濟南太守魚孫瑋出自宋魚石奔楚其孫在國者因以魚孫爲氏漢有烏孫昆彌後漢有士孫瑞古封公之後自皆稱公孫故其姓多非一族也孔子弟子有顓孫師國語晉公子利孫夫之後以利孫爲氏何氏姓苑有經孫新孫古孫牟孫室孫長孫叔孫等氏望稱河南之者是虜姓也思渾切六
+  senses:
+  - concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+    concept_label: DESCENDANT
+    children:
+    - gloss: new shoot
+      concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+      concept_label: PLANT
+    - gloss: personal names
+      concept_label: PHILOSOPHERS
+unattributed_senses:
+- gloss: =遜:derivation by tone change
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+  concept_label: YIELD
+  children:
+  - gloss: =遜
+    concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+    children:
+    - gloss: obey circumstances by moving
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T01:03:48.636+09:00'

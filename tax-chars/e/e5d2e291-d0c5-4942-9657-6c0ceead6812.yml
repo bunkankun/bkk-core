@@ -1,0 +1,40 @@
+uuid: e5d2e291-d0c5-4942-9657-6c0ceead6812
+type: tax-char
+heads:
+- 垣
+pronunciations:
+- reading: yuán
+  old_chinese: ɢon
+  middle_chinese: ɦʷiɐn
+  fanqie: 雨元切
+  tone: 平
+  guangyun: 垣籀文
+- reading: yuán
+  old_chinese: ɢon
+  middle_chinese: ɦʷiɐn
+  fanqie: 雨元切
+  tone: 平
+  guangyun: 垣墉也又姓漢西河太守洛陽垣恭也
+  senses:
+  - concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+    concept_label: WALL
+  - concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+    concept_label: SURROUND
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+    concept_label: STOREHOUSE
+  - concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+    concept_label: CITY WALL
+  - concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+    concept_label: CITY
+  - concept_uuid: 68d6c566-9c41-41aa-9890-055d41e973ef
+    concept_label: ASTRONOMY
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

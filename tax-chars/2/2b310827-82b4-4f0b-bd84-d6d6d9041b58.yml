@@ -1,0 +1,62 @@
+uuid: 2b310827-82b4-4f0b-bd84-d6d6d9041b58
+type: tax-char
+heads:
+- 小
+pronunciations:
+- reading: xiǎo
+  old_chinese: smewʔ
+  middle_chinese: siɛu
+  fanqie: 私兆切
+  tone: 上
+  guangyun: 微也私兆切三
+  senses:
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+    children:
+    - gloss: causative
+      concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+      concept_label: REDUCE
+    - gloss: and subtle
+      concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+      concept_label: TENUOUS
+      children:
+      - gloss: psychologically
+        concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+        concept_label: UNIMPORTANT
+        children:
+        - gloss: socially
+          concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+          concept_label: HUMBLE
+          children:
+          - gloss: derogatory
+            concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+            concept_label: VULGAR
+            children:
+            - gloss: self-deprecatory
+              concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+              concept_label: EGO
+        - gloss: putative
+          concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+          concept_label: DESPISE
+          children:
+          - gloss: treat as
+            concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+            concept_label: NEGLECT
+      - gloss: talent-wise
+        concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+        concept_label: INCOMPETENT
+  - gloss: 'chronologically: short'
+    concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+    children:
+    - gloss: age
+      concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+      concept_label: YOUNG
+      children:
+      - gloss: mate
+        concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+        concept_label: CONCUBINE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-26T21:25:35.026+09:00'

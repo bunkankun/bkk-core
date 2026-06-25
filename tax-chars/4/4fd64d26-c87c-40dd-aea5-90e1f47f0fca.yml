@@ -1,0 +1,88 @@
+uuid: 4fd64d26-c87c-40dd-aea5-90e1f47f0fca
+type: tax-char
+heads:
+- 別
+pronunciations:
+- reading: bié
+  old_chinese: pred
+  middle_chinese: pɯiɛt
+  fanqie: 方别切
+  tone: 入
+  guangyun: 分别
+- reading: bié
+  old_chinese: bred
+  middle_chinese: bɯiɛt
+  fanqie: 皮列切
+  tone: 入
+  guangyun: 異也離也解也説文作剮又姓何氏姓苑云揚州人皮列切又彼列切二
+  senses:
+  - gloss: 'voiced initial:'
+    concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+    concept_label: LEAVE
+    children:
+    - gloss: performative
+      concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+      concept_label: FAREWELL
+unattributed_senses:
+- concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+  concept_label: DISTINGUISH
+  children:
+  - gloss: action
+    concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+    children:
+    - gloss: (late:)wrongly
+      concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+      concept_label: MISTAKE
+  - gloss: objective feature
+    concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+    concept_label: DIFFERENT
+    children:
+    - gloss: causative
+      concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+      concept_label: DIVIDE
+      children:
+      - gloss: cognitive
+        concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+        concept_label: DISTINGUISH
+        children:
+        - gloss: abstract feature
+          concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+          concept_label: OTHER
+          children:
+          - gloss: additional
+            concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+            concept_label: ALSO
+            children:
+            - gloss: each
+              concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+              concept_label: ALL
+        - gloss: psychological
+          concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+          concept_label: PARTIAL
+          children:
+          - gloss: positively
+            concept_uuid: c4a8f81d-007d-4d46-b014-6f88c6bca110
+            concept_label: SPECIAL
+          - gloss: 'specific: disobey'
+            concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+            concept_label: OFFEND
+    - gloss: spatial
+      concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+      concept_label: DISTANT
+      children:
+      - gloss: action:keep one's distance from
+        concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+        concept_label: AVOID
+        children:
+        - gloss: action
+          concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+          concept_label: CHANGE
+          children:
+          - gloss: 'specific: clothes'
+            concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+            concept_label: TAKE OFF
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T19:07:46.115+09:00'

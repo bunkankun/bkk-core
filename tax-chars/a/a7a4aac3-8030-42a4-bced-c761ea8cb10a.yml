@@ -1,0 +1,42 @@
+uuid: a7a4aac3-8030-42a4-bced-c761ea8cb10a
+type: tax-char
+heads:
+- 指
+pronunciations:
+- reading: zhǐ
+  old_chinese: kjiʔ
+  middle_chinese: tɕɯi
+  fanqie: 職雉切
+  tone: 上
+  guangyun: 手指也又示也斥也
+  senses:
+  - concept_uuid: 49dd45f6-65c7-4d19-8066-7d5abe9531bd
+    concept_label: FINGER
+    children:
+    - gloss: on foot
+      concept_uuid: 5e2c8356-830b-4265-84ac-38f614571bd6
+      concept_label: TOE
+    - gloss: use finger to exercise authority
+      concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+      concept_label: COMMAND
+    - gloss: figurative
+      concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+      concept_label: MEAN
+      children:
+      - gloss: logically
+        concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+        concept_label: REFER TO
+      - gloss: action:point to
+        concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+        concept_label: SHOW
+        children:
+        - gloss: point out
+          concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+          concept_label: EXPLAIN
+        - gloss: abstract
+          concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+          concept_label: DIRECTION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-14T05:01:17.97+09:00'

@@ -1,0 +1,44 @@
+uuid: 0823e4ad-b48e-454c-bc8b-d581ffbf215c
+type: tax-char
+heads:
+- 聖
+pronunciations:
+- reading: shèng
+  old_chinese: qhljeŋs
+  middle_chinese: ɕiɛŋ
+  fanqie: 式正切
+  tone: 去
+  guangyun: 生也通也聲也風俗通云聖者聲也言聞聲知情故曰聖式正切一
+  senses:
+  - concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+    concept_label: HERO
+    children:
+    - gloss: quality, social
+      concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+      concept_label: GREAT
+      children:
+      - gloss: Buddhist
+        concept_uuid: d6776973-375b-4db0-ad93-52bc8bcc6dc7
+        concept_label: SACRED
+      - gloss: moral
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+        children:
+        - gloss: personal
+          concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+          concept_label: WISE
+          children:
+          - gloss: polite:paradigmatic case
+            concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+            concept_label: EMPEROR
+          - gloss: generalised
+            concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+            concept_label: SKILLFUL
+            children:
+            - gloss: specific:supernaturally
+              concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+              concept_label: QUICK
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:14:48.123+09:00'

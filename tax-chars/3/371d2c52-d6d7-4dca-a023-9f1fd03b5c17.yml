@@ -1,0 +1,39 @@
+uuid: 371d2c52-d6d7-4dca-a023-9f1fd03b5c17
+type: tax-char
+heads:
+- 冰
+pronunciations:
+- reading: bīng
+  old_chinese: prɯŋ
+  middle_chinese: pɨŋ
+  fanqie: 筆陵切
+  tone: 平
+  guangyun: 同冫説文本魚陵切
+  senses:
+  - concept_uuid: 757e854c-90b7-4d06-8762-cc2866351120
+    concept_label: ICE
+    children:
+    - gloss: feature
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+    - gloss: feature
+      concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+      concept_label: COLD
+    - gloss: thawed
+      concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+      concept_label: WATER
+- reading: níng
+  old_chinese: ŋbrɯŋ
+  middle_chinese: ŋɨŋ
+  fanqie: 魚陵切
+  tone: 平
+  senses:
+  - gloss: =凝
+    concept_uuid: 30fa5df8-a9ff-43d7-9041-24f2279e5ca5
+    concept_label: CONGEAL
+    children:
+    - gloss: exocentric
+      concept_uuid: d1fe1333-ad06-4607-945c-1a9c64aba3ed
+      concept_label: FAT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,69 @@
+uuid: d3360fe6-c534-41f0-bb30-b7feaa6310dd
+type: tax-char
+heads:
+- 報
+pronunciations:
+- reading: bào
+  old_chinese: puuɡs
+  middle_chinese: pɑu
+  fanqie: 博耗切
+  tone: 去
+  guangyun: 報告又下婬曰報博耗切一
+  senses:
+  - concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+    concept_label: REACT
+    children:
+    - gloss: linguistically:respond
+      concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+      concept_label: ANSWER
+      children:
+      - gloss: by written message to superiors
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+        children:
+        - gloss: object reported
+          concept_label: MESSAGE
+        - gloss: publicly
+          concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+          concept_label: PUBLICISE
+    - gloss: negatively
+      concept_uuid: 5ad2c08a-e2f2-45a1-a30b-798f3f183771
+      concept_label: REVENGE
+    - gloss: positively
+      concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+      concept_label: REWARD
+      children:
+      - gloss: showing gratitude
+        concept_uuid: 734977cc-9b88-46a3-9f07-c09fea268775
+        concept_label: THANK
+        children:
+        - gloss: offering of thanks
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+    - gloss: intellectually
+      concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+      concept_label: JUDGE
+      children:
+      - gloss: of emperor:decide
+        concept_label: AGREE
+        children:
+        - gloss: to invitation
+          concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+          concept_label: VISIT
+    - gloss: =?:conduct affair with an inferior
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+unattributed_senses:
+- concept_label: 報 fu4 《集韻》芳遇切，去遇，敷。
+  children:
+  - gloss: =赴
+    concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+    children:
+    - gloss: specifically
+      concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T00:35:08.364+09:00'

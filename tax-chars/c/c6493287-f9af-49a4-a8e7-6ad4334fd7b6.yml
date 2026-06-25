@@ -1,0 +1,45 @@
+uuid: c6493287-f9af-49a4-a8e7-6ad4334fd7b6
+type: tax-char
+heads:
+- 他
+pronunciations:
+- reading: tā
+  old_chinese: lʰaal
+  middle_chinese: tʰɑ
+  fanqie: 託何切
+  tone: 平
+  guangyun: 俗佗今通用
+- reading: tā
+  old_chinese: lʰaal
+  middle_chinese: tʰɑ
+  fanqie: 託何切
+  tone: 平
+  guangyun: 非我也亦虜三字姓後魏書佗駱拔氏後改爲駱氏託何切七
+  senses:
+  - concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+    concept_label: OTHER
+    children:
+    - gloss: and later
+      concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+      concept_label: LATE
+    - gloss: grammaticalised
+      concept_uuid: 2eed7588-dc39-4e3e-bd7f-3fcac71fe9b8
+      concept_label: THIRD PERSON PRONOUNS
+      children:
+      - gloss: adnominal
+        concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+        concept_label: THIS
+        children:
+        - gloss: generalised
+          concept_uuid: 77108d02-9486-4b53-919c-182871c192b2
+          concept_label: INDEFINITE ARTICLE
+        - gloss: plural
+          concept_uuid: 19f4f384-238d-4e61-84a5-4b398a7cd43a
+          concept_label: THEY
+unattributed_senses:
+- concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+  concept_label: RULERS OF ZHOU
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-13T23:21:33.288+09:00'

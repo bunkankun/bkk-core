@@ -1,0 +1,29 @@
+uuid: 2766b47e-a6f4-4ed3-98ff-95fdd43cc56d
+type: tax-char
+heads:
+- 顏
+pronunciations:
+- reading: yán
+  old_chinese: ŋraan
+  middle_chinese: ŋɯan
+  fanqie: 五姦切
+  tone: 平
+  guangyun: 顔容亦顔額又姓出琅邪本自魯伯禽支庶有食采顔邑者因而著族又邾武公名夷字曰顔故公羊傳稱顔公後遂爲氏五姦切二
+  senses:
+  - concept_uuid: a434b70f-c079-4aff-a1ca-bcf568aa3cfd
+    concept_label: FOREHEAD
+    children:
+    - gloss: generalised
+      concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+      concept_label: FACE
+      children:
+      - gloss: on face, generalised
+        concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+        concept_label: COLOUR
+    - gloss: 'metaphorical: horizontal inscription over gate'
+      concept_uuid: 95ca0002-dd36-4de9-871f-16d208c4d2d2
+      concept_label: INSCRIPTION
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T18:17:47.132+09:00'

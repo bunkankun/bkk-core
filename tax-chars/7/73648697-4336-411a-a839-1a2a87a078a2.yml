@@ -1,0 +1,36 @@
+uuid: 73648697-4336-411a-a839-1a2a87a078a2
+type: tax-char
+heads:
+- 芳
+pronunciations:
+- reading: fāng
+  old_chinese: phaŋ
+  middle_chinese: pʰʷiɐŋ
+  fanqie: 敷方切
+  tone: 平
+  guangyun: 芬芳亦州地多芳草故以名之置在常芳縣又姓風俗通云漢幽州刺史芳乗敷方切三
+  senses:
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+    children:
+    - gloss: exocentric
+      concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+      concept_label: BLOSSOM
+      children:
+      - gloss: generalised
+        concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+        concept_label: PLANT
+    - gloss: typical effect
+      concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+      concept_label: SCATTER
+    - gloss: metaphorical
+      concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+      children:
+      - gloss: specifically
+        concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+        concept_label: WORTHY
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,46 @@
+uuid: f9bda976-0a9a-4de2-90e8-cf25dc3c1347
+type: tax-char
+heads:
+- 口
+pronunciations:
+- reading: kǒu
+  old_chinese: khooʔ
+  middle_chinese: kʰəu
+  fanqie: 苦后切
+  tone: 上
+  guangyun: 説文曰人所以言食也亦姓今同州有之苦后切九
+  senses:
+  - concept_uuid: e522b107-d02e-4272-80b2-311471410c3f
+    concept_label: MOUTH
+    children:
+    - gloss: abstract
+      concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+      concept_label: HOLE
+      children:
+      - gloss: concrete
+        concept_uuid: c1e904d1-c323-4f07-921d-9782ac32c047
+        concept_label: VESSEL PARTS
+      - gloss: synecdoche
+        concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+        concept_label: HUMAN
+      - gloss: synecdoche
+        concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+        concept_label: ANIMAL
+    - gloss: activity involving
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+      children:
+      - gloss: transitive
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+    - gloss: 'content: mouthful'
+      concept_uuid: 82ea9ae7-a3b8-4b34-b174-bb3242ff3d2e
+      concept_label: QUANTITY
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+        concept_label: PARTICLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-26T22:47:12.86+09:00'

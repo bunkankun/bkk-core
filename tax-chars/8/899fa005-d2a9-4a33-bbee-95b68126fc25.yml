@@ -1,0 +1,26 @@
+uuid: 899fa005-d2a9-4a33-bbee-95b68126fc25
+type: tax-char
+heads:
+- 頸
+pronunciations:
+- reading: qíng
+  old_chinese: ɡeŋ
+  middle_chinese: ɡiɛŋ
+  fanqie: 巨成切
+  tone: 平
+  guangyun: 項也頸在前項在後巨成切又居郢切四
+- reading: jǐng
+  old_chinese: keŋʔ
+  middle_chinese: kiɛŋ
+  fanqie: 居郢切
+  tone: 上
+  guangyun: 項也居郢切又巨成切一
+  senses:
+  - concept_uuid: 209e6066-91a9-4ab2-b0b8-7786620f4660
+    concept_label: NECK
+  - concept_uuid: c1e904d1-c323-4f07-921d-9782ac32c047
+    concept_label: VESSEL PARTS
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+source:
+  source_file: taxchar.xml

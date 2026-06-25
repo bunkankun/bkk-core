@@ -1,0 +1,54 @@
+uuid: a5432739-d78d-41d4-8942-b5d4ef5bbe8c
+type: tax-char
+heads:
+- 勤
+pronunciations:
+- reading: qín
+  old_chinese: ɡlɯn
+  middle_chinese: ɡɨn
+  fanqie: 巨斤切
+  tone: 平
+  guangyun: 勞也盡也巨斤切八
+  senses:
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+    children:
+    - gloss: causative
+      concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+      concept_label: ENCOURAGE
+    - gloss: 'transitive: work for'
+      concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+      concept_label: HELP
+      children:
+      - gloss: superior, permanently
+        concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+        concept_label: SERVE
+        children:
+        - gloss: feature
+          concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+          concept_label: DILIGENT
+          children:
+          - gloss: in attention to danger
+            concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+            concept_label: WORRY
+          - gloss: recurrent
+            concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+            concept_label: OFTEN
+    - gloss: generalised
+      concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+      concept_label: EFFORT
+      children:
+      - gloss: result
+        concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+        concept_label: MERIT
+        children:
+        - gloss: associated action
+          concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+          concept_label: PRAISE
+      - gloss: result
+        concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+        concept_label: TIRED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

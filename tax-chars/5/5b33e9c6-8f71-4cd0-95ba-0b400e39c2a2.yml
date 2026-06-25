@@ -1,0 +1,28 @@
+uuid: 5b33e9c6-8f71-4cd0-95ba-0b400e39c2a2
+type: tax-char
+heads:
+- 測
+pronunciations:
+- reading: cè
+  old_chinese: skhrɯɡ
+  middle_chinese: tʂʰɨk
+  fanqie: 初力切
+  tone: 入
+  guangyun: 度也初力切六
+  senses:
+  - concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+  - concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+    concept_label: CALCULATE
+  - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+  - concept_uuid: 402e5ff0-96b9-4ca3-9e0a-833ee6228bbe
+    concept_label: GUESS
+  - concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+    concept_label: DEEP
+  - concept_uuid: 26945df2-203d-4158-9bc5-7f93783b7c06
+    concept_label: PENALTY
+  - concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+    concept_label: VISIT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,44 @@
+uuid: 03e8820e-a8bd-4b67-9126-89a39c5524a7
+type: tax-char
+heads:
+- 哀
+pronunciations:
+- reading: āi
+  old_chinese: qɯɯl
+  middle_chinese: ʔəi
+  fanqie: 烏開切
+  tone: 平
+  guangyun: 悲哀也又姓漢有哀章烏開切六
+  senses:
+  - concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: MOURNING
+    children:
+    - gloss: generalised
+      concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+      concept_label: GRIEF
+      children:
+      - gloss: 'grammaticalised:'
+        concept_uuid: 881db76b-4657-4340-8d1d-84bda6041faf
+        concept_label: ALAS
+      - gloss: specific, grieve with
+        concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+        concept_label: CONSOLE
+        children:
+        - gloss: specific
+          concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+          concept_label: CONSOLE
+      - gloss: generalised
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+        children:
+        - gloss: psychological, specific
+          concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+          concept_label: SYMPATHY
+          children:
+          - gloss: 'generalised: be fond of'
+            concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+            concept_label: LIKE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-15T01:12:25.815+09:00'

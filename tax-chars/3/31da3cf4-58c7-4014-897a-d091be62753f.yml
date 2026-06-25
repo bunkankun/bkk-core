@@ -1,0 +1,95 @@
+uuid: 31da3cf4-58c7-4014-897a-d091be62753f
+type: tax-char
+heads:
+- 通
+pronunciations:
+- reading: tōng
+  old_chinese: kh-looŋ
+  middle_chinese: tʰuŋ
+  fanqie: 他紅切
+  tone: 平
+  guangyun: 逹也三禮圖曰通天冠一名髙山冠上之所服也亦州名本漢宕渠縣内有地萬餘頃因名爲萬州後魏以萬州居四達之路改爲通州又姓出姓苑他紅切九
+  senses:
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+    children:
+    - gloss: act
+      concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+      concept_label: ARRIVE
+      children:
+      - gloss: specifically:at the other side
+        concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+        concept_label: CROSS OVER
+      - gloss: abstract
+        concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+        concept_label: SUCCEED
+      - gloss: mutual
+        concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+        concept_label: INTERACT
+        children:
+        - gloss: causative
+          concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+          concept_label: TRANSMIT
+          children:
+          - gloss: to a superior
+            concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+            concept_label: HAND UP
+          - gloss: abstract
+            concept_uuid: 6da17544-5ea6-457e-80df-a73c69745ce6
+            concept_label: COMMUNICATE
+            children:
+            - gloss: linguistic> cause message to reach others
+              concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+              concept_label: REPORT
+              children:
+              - gloss: to a general public
+                concept_label: PUBLISH
+              - gloss: mutual
+                concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+                concept_label: DIALOGUE
+          - gloss: legal
+            concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+            concept_label: PARDON
+            children:
+            - gloss: Buddhist
+              concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+              concept_label: FORGIVE
+        - gloss: specific
+          concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+          concept_label: EXCHANGE
+          children:
+          - gloss: sexual
+            concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+            concept_label: COPULATE
+      - gloss: so as to enter everywhere
+        concept_uuid: 39f87c12-db3e-440c-b558-a42b89ce13db
+        concept_label: PENETRATE
+        children:
+        - gloss: intellectually
+          concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+          concept_label: INVESTIGATE
+          children:
+          - gloss: resultative
+            concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+            concept_label: UNDERSTAND
+        - gloss: 'permissive: allowing one to penetrate into'
+          concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+          concept_label: OPEN
+        - gloss: penetrating everywhere
+          concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+          concept_label: COMMON
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+            concept_label: EVERYWHERE
+            children:
+            - gloss: 'abstract: adverbial'
+              concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+              concept_label: COMPLETE
+      - gloss: 'grammaticalised: resulting from interaction'
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T01:18:58.253+09:00'

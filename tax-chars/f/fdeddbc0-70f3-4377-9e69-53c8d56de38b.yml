@@ -1,0 +1,28 @@
+uuid: fdeddbc0-70f3-4377-9e69-53c8d56de38b
+type: tax-char
+heads:
+- 範
+pronunciations:
+- reading: fàn
+  old_chinese: bomʔ
+  middle_chinese: biɐm
+  fanqie: 防錽切
+  tone: 上
+  guangyun: 法也常也式也前也
+  senses:
+  - concept_uuid: 6b3b4d30-99e1-4c5a-917a-74cdf593a5ee
+    concept_label: MODEL
+  - concept_uuid: 96b90061-0e4c-4670-bdd9-195c98c410a9
+    concept_label: MOULD
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: 10acfb82-1363-4740-be12-ab43658d40c7
+    concept_label: FORGE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

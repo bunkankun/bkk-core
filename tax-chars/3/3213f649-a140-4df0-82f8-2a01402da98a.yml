@@ -1,0 +1,51 @@
+uuid: 3213f649-a140-4df0-82f8-2a01402da98a
+type: tax-char
+heads:
+- 書
+pronunciations:
+- reading: shū
+  old_chinese: qhlja
+  middle_chinese: ɕiɔ
+  fanqie: 傷魚切
+  tone: 平
+  guangyun: 丗本曰沮誦蒼頡作書釋名曰書庻也紀庶物也亦言著也著之簡紙求不滅也傷魚切七
+  senses:
+  - concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+    concept_label: WRITE
+    children:
+    - gloss: 'object: what is written out'
+      concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+      concept_label: WRITTEN CHARACTER
+      children:
+      - gloss: specifically
+        concept_uuid: c5585c95-53ed-4cc8-9c0f-dd43a4c1890e
+        concept_label: CALLIGRAPHY
+        children:
+        - gloss: feature
+          concept_uuid: 0ba66c92-e34d-4580-b27f-8bbc3ecb0f86
+          concept_label: STYLE
+    - gloss: object fact
+      concept_uuid: 429d8664-4e57-47d8-89e2-225695689992
+      concept_label: RECORD
+      children:
+      - gloss: of agreement
+        concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+        concept_label: CONTRACT
+      - gloss: generalised
+        concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+        concept_label: DOCUMENT
+        children:
+        - gloss: comprehensive
+          concept_uuid: 71311dda-a559-4fb5-a520-ac1668c898a0
+          concept_label: BOOK
+        - gloss: specifically
+          concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+          concept_label: LETTER
+          children:
+          - gloss: to the emperor
+            concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+            concept_label: MEMORIAL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T22:06:13.585+09:00'

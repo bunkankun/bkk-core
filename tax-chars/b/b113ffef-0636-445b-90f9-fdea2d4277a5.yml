@@ -1,0 +1,32 @@
+uuid: b113ffef-0636-445b-90f9-fdea2d4277a5
+type: tax-char
+heads:
+- 諮
+- 咨
+pronunciations:
+- reading: zī
+  old_chinese: sti
+  middle_chinese: tsi
+  fanqie: 即夷切
+  tone: 平
+  guangyun: 諮謀
+  senses:
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+  - concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+    concept_label: LETTER
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+- reading: zī
+  old_chinese: sti
+  middle_chinese: tsi
+  fanqie: 即夷切
+  tone: 平
+  guangyun: 嗟也謀也即夷切十五
+  senses:
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+  - concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+    concept_label: SIGH
+source:
+  source_file: taxchar.xml

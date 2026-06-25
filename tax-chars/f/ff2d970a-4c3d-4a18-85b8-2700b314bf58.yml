@@ -1,0 +1,33 @@
+uuid: ff2d970a-4c3d-4a18-85b8-2700b314bf58
+type: tax-char
+heads:
+- 停
+pronunciations:
+- reading: tíng
+  old_chinese: deeŋ
+  middle_chinese: deŋ
+  fanqie: 特丁切
+  tone: 平
+  guangyun: 息也定也止也
+  senses:
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+    concept_label: APPROPRIATE
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+    concept_label: DIVIDE
+  - concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: PARK
+  - gloss: = 亭
+source:
+  source_file: taxchar.xml

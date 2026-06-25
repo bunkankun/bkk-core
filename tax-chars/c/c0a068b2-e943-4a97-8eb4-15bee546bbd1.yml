@@ -1,0 +1,30 @@
+uuid: c0a068b2-e943-4a97-8eb4-15bee546bbd1
+type: tax-char
+heads:
+- 築
+pronunciations:
+- reading: zhù
+  old_chinese: tuɡ
+  middle_chinese: ʈiuk
+  fanqie: 張六切
+  tone: 入
+  guangyun: 擣也
+  senses:
+  - concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+    concept_label: BUILD
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 117e7254-f1c4-4825-a17c-ce30cc81a396
+    concept_label: FORTIFY
+  - concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+    concept_label: STICK
+  - concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+    concept_label: STRIKE
+- reading: nil
+  old_chinese: tuɡ
+  middle_chinese: ʈiuk
+  fanqie: 張六切
+  tone: 入
+  guangyun: 築古文
+source:
+  source_file: taxchar.xml

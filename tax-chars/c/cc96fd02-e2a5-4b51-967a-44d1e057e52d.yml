@@ -1,0 +1,39 @@
+uuid: cc96fd02-e2a5-4b51-967a-44d1e057e52d
+type: tax-char
+heads:
+- 菲
+pronunciations:
+- reading: fēi
+  old_chinese: phɯl
+  middle_chinese: pʰʷɨi
+  fanqie: 芳非切
+  tone: 平
+  guangyun: 芳菲又芳尾切
+  senses:
+  - concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+    concept_label: FRAGRANT
+  - concept_uuid: 86d7f1b7-6549-485d-a91d-afff19e91281
+    concept_label: CHEMISTRY
+- reading: fèi
+  old_chinese: buls
+  middle_chinese: bʷɨi
+  fanqie: 扶沸切
+  tone: 去
+  guangyun: 菜可食又霏斐二音
+  senses:
+  - gloss: = 屝
+- reading: fěi
+  old_chinese: phɯlʔ
+  middle_chinese: pʰʷɨi
+  fanqie: 敷尾切
+  tone: 上
+  guangyun: 薄也微也又菜名又音妃
+  senses:
+  - concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+    concept_label: SMALL
+  - concept_uuid: 1760f18a-04e2-4f14-8976-7309970308b7
+    concept_label: VEGETABLES
+  - concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+    concept_label: INSUFFICIENT
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,22 @@
+uuid: 2ada9328-3730-471d-b9de-7a37a7a7177e
+type: tax-char
+heads:
+- 髮
+pronunciations:
+- reading: fà
+  old_chinese: pod
+  middle_chinese: pʷiɐt
+  fanqie: 方伐切
+  tone: 入
+  guangyun: 頭毛也説文根也又姓漢有東海人髮福治詩又有不毛之地莊子謂之窮髮万伐切六
+  senses:
+  - concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+    concept_label: HAIR
+  - gloss: figurative
+    concept_uuid: 26d8aa74-c649-40e5-8f03-626e67f1b884
+    concept_label: PLANT
+  - gloss: grammaticalised
+    concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+source:
+  source_file: taxchar.xml

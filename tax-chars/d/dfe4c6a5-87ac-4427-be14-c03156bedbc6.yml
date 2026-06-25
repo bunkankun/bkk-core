@@ -1,0 +1,58 @@
+uuid: dfe4c6a5-87ac-4427-be14-c03156bedbc6
+type: tax-char
+heads:
+- 楚
+pronunciations:
+- reading: chǔ
+  old_chinese: skhraʔ
+  middle_chinese: tʂʰiɔ
+  fanqie: 創舉切
+  tone: 上
+  guangyun: 萇楚亦荆楚又州本漢射陽縣地春秋時屬吴秦屬九江郡晉爲山陽縣武德初改爲楚州又姓左傳趙襄子家臣楚隆創舉切八
+- reading: chù
+  old_chinese: skhras
+  middle_chinese: tʂʰiɔ
+  fanqie: 瘡據切
+  tone: 去
+  guangyun: 楚利又木名出歷山瘡據切又瘡所切三
+unattributed_senses:
+- concept_uuid: b5e991a9-bcc5-4224-97bc-5cd4c591d0a9
+  concept_label: TREE, KINDS
+  children:
+  - gloss: generalised:thorny
+    concept_uuid: b3e14ddb-e2c7-4076-b72d-50e04512d2c4
+    concept_label: BUSH
+    children:
+    - gloss: generalised:numerous
+      concept_uuid: 71380132-9a2c-4d60-a9c1-5dfc910069cc
+      concept_label: FOREST
+      children:
+      - gloss: en masse, like trees in a forest
+        concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+        concept_label: TOGETHER
+    - gloss: synecdoche:punishment tool
+      concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+      concept_label: STICK
+      children:
+      - gloss: 'action: use'
+        concept_uuid: efb80ae1-71c6-435c-bc1b-55f2406b12ea
+        concept_label: STRIKE
+        children:
+        - gloss: passive
+          concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+          concept_label: SUFFER
+          children:
+          - gloss: object
+            concept_uuid: 1babfc6a-dc73-4072-bb8a-21a58f671735
+            concept_label: PAIN
+- gloss: proper names
+  concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+  concept_label: STATES
+  children:
+  - gloss: in Chu style
+    concept_uuid: 18077152-effe-42f8-bc0b-a04afe162b1e
+    concept_label: COLOURFUL
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-13T02:46:52.598+09:00'

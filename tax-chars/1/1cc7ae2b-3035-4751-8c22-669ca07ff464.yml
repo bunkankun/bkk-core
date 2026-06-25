@@ -1,0 +1,26 @@
+uuid: 1cc7ae2b-3035-4751-8c22-669ca07ff464
+type: tax-char
+heads:
+- 庫
+pronunciations:
+- reading: kù
+  old_chinese: khlaas
+  middle_chinese: kʰuo
+  fanqie: 苦故切
+  tone: 去
+  guangyun: 貯物舎也又姓風俗通云古守庫大夫之後以官爲氏後漢輔義侯庫鈞亦虜複姓二氏周有少師庫狄峙又有庫門氏亦虜三字姓前燕録有岷山桓公庫傉官泥
+  senses:
+  - concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+    concept_label: STOREHOUSE
+  - gloss: TREASURY
+  - concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+    concept_label: PRISON
+  - concept_uuid: 62b7c07a-8d03-404e-b685-4dd7004dba8c
+    concept_label: SHOP
+  - concept_uuid: f5297627-12cb-43a5-86a8-4f655e954227
+    concept_label: LEARNED
+  - gloss: UNIT OF MEASUREMENT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

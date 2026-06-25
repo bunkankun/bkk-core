@@ -1,0 +1,54 @@
+uuid: 65e38941-4e6d-4014-ac51-16572b929529
+type: tax-char
+heads:
+- 飄
+pronunciations:
+- reading: piāo
+  old_chinese: phew
+  middle_chinese: biɛu
+  fanqie: 符霄切
+  tone: 平
+  guangyun: 老子曰飄風不終朝注云疾風也
+  senses:
+  - concept_uuid: db9e826b-f841-4d17-9120-9f9e9c4393c9
+    concept_label: STORM
+    children:
+    - gloss: process
+      concept_uuid: 5fccefea-e6b2-41af-826e-2a7661ab3b35
+      concept_label: BLOW
+      children:
+      - gloss: feature
+        concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+        concept_label: QUICK
+    - gloss: generalised
+      concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+      concept_label: WIND
+      children:
+      - gloss: feature
+        concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+        concept_label: ODOUR
+      - gloss: process
+        concept_uuid: 2042b102-980f-49b2-a014-734f543f5970
+        concept_label: FLUTTER
+        children:
+        - gloss: 'grammaticalised: adverbial'
+          concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+          concept_label: DELIGHT
+        - gloss: unidirectional
+          concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+          concept_label: FLOAT
+          children:
+          - gloss: downwards
+            concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+            concept_label: FALL
+        - gloss: action
+          concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+          concept_label: FLY
+- reading: piāo
+  old_chinese: phew
+  middle_chinese: pʰiɛu
+  fanqie: 撫招切
+  tone: 平
+  guangyun: 飄颻
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,32 @@
+uuid: 3efb0fce-e8bc-43f4-a1cd-d6a89095879f
+type: tax-char
+heads:
+- 泊
+pronunciations:
+- reading: bó
+  old_chinese: blaaɡ
+  middle_chinese: bʷɑk
+  fanqie: 傍各切
+  tone: 入
+  guangyun: 止也傍各切十一
+  senses:
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+  - concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+    concept_label: LAKE
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+    concept_label: TENUOUS
+  - concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+    concept_label: LAND
+  - concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+    concept_label: PARK
+  - gloss: UNIT OF MEASUREMENT
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - gloss: = 薄
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,28 @@
+uuid: d8564ee2-13c2-4cfe-842a-4dfb72f1166e
+type: tax-char
+heads:
+- 仁
+pronunciations:
+- reading: rén
+  old_chinese: njin
+  middle_chinese: ȵin
+  fanqie: 如鄰切
+  tone: 平
+  guangyun: 仁賢莊子曰愛人利物謂之仁釋名曰仁忍也好生惡殺善惡含忍也又姓姓苑云彭城人也如鄰切三
+  senses:
+  - gloss: kernel
+    concept_uuid: 4c201b1a-8f1e-4b2d-9dbe-cb32e7976778
+    concept_label: PLANT PARTS
+  - concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+    concept_label: BENEVOLENCE
+    children:
+    - gloss: specific
+      concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+      concept_label: GENEROUS
+    - gloss: generalised
+      concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+      concept_label: GOOD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-21T18:50:37.964+09:00'

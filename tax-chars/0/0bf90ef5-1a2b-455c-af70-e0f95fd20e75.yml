@@ -1,0 +1,22 @@
+uuid: 0bf90ef5-1a2b-455c-af70-e0f95fd20e75
+type: tax-char
+heads:
+- 譏
+pronunciations:
+- reading: jī
+  old_chinese: kɯl
+  middle_chinese: kɨi
+  fanqie: 居依切
+  tone: 平
+  guangyun: 諫也誹也譴也問也
+  senses:
+  - concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+    concept_label: CRITICISE
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: e6b4e1e1-6e1e-4f01-a01b-4d658b1fb7d4
+    concept_label: MOCK
+  - concept_uuid: c8b4ebb9-ec7e-4d26-ad9e-ae2cc0fe492b
+    concept_label: SATIRE
+source:
+  source_file: taxchar.xml

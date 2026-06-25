@@ -1,0 +1,73 @@
+uuid: 2a46f6e1-7702-4d99-bc1c-3cdd8482f45d
+type: tax-char
+heads:
+- 共
+pronunciations:
+- reading: gòng
+  old_chinese: ɡoŋs
+  middle_chinese: ɡioŋ
+  fanqie: 渠用切
+  tone: 去
+  guangyun: 同也皆也渠用切一
+- reading: gōng
+  old_chinese: koŋ
+  middle_chinese: kioŋ
+  fanqie: 九容切
+  tone: 平
+  guangyun: 共城縣在衞州又渠用切
+unattributed_senses:
+- concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+  concept_label: TOGETHER
+  children:
+  - gloss: action
+    concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+    concept_label: COOPERATE
+    children:
+    - gloss: causative
+      concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+      concept_label: GATHER
+      children:
+      - gloss: controlling
+        concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+        concept_label: RULE
+  - gloss: grammaticalised
+    concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+    children:
+    - gloss: specific
+      concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+      concept_label: WITH
+      children:
+      - gloss: action
+        concept_uuid: c8885655-f457-4f57-ad87-a5ab65620ef1
+        concept_label: SHARE OUT
+        children:
+        - gloss: purpose nourishing
+          concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+          concept_label: FEED
+          children:
+          - gloss: object used
+            concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+            concept_label: FOOD
+        - gloss: to seniors
+          concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+          concept_label: HAND UP
+- gloss: =恭
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  concept_label: RESPECT
+- gloss: =供
+  concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+  concept_label: PROVIDE
+- gloss: =gǒng 拱
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  concept_label: BOW DOWN
+- gloss: =hóng 洪
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  concept_label: GREAT
+- gloss: gōng
+  concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+  concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-17T02:18:39.249+09:00'

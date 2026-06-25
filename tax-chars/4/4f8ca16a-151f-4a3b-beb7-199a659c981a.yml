@@ -1,0 +1,35 @@
+uuid: 4f8ca16a-151f-4a3b-beb7-199a659c981a
+type: tax-char
+heads:
+- 旄
+pronunciations:
+- reading: mào
+  old_chinese: moows
+  middle_chinese: mɑu
+  fanqie: 莫報切
+  tone: 去
+  guangyun: 狗足旄毛
+  senses:
+  - concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - gloss: = 耄
+  - gloss: = 眊
+- reading: máo
+  old_chinese: moow
+  middle_chinese: mɑu
+  fanqie: 莫袍切
+  tone: 平
+  guangyun: 旄鉞書曰武王右秉白旄史記曰昴星曰旄頭星徐援釋疑曰乗輿黄麾内羽仗斑弓箭左罼右䍐執罼者冠熊皮冠謂之髦頭也
+  senses:
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+    concept_label: BOVINE
+  - concept_uuid: 54171046-fc50-4322-88de-a5e5c292ee35
+    concept_label: FUR
+  - concept_uuid: f9403b9d-aec6-4063-b05e-5afa0cfc3797
+    concept_label: TAIL
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+source:
+  source_file: taxchar.xml

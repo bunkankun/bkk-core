@@ -1,0 +1,31 @@
+uuid: 0992f218-7387-48fa-b1df-b87a9ca98b86
+type: tax-char
+heads:
+- 孺
+pronunciations:
+- reading: rú
+  old_chinese: njos
+  middle_chinese: ȵio
+  fanqie: 而遇切
+  tone: 去
+  guangyun: 稚也爾雅曰屬也説文曰乳子也一曰輸孺尚小也而遇切四
+  senses:
+  - concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+    concept_label: BOY
+  - concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+    concept_label: CHILD
+  - concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+    concept_label: YOUNG
+  - concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+    concept_label: RELATIVES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 乳
+- reading: rú
+  old_chinese: njos
+  middle_chinese: ȵio
+  fanqie: 而遇切
+  tone: 去
+  guangyun: 俗孺
+source:
+  source_file: taxchar.xml

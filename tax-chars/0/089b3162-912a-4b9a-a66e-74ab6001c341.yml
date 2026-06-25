@@ -1,0 +1,50 @@
+uuid: 089b3162-912a-4b9a-a66e-74ab6001c341
+type: tax-char
+heads:
+- 崇
+pronunciations:
+- reading: chóng
+  old_chinese: dzruŋ
+  middle_chinese: dʐiuŋ
+  fanqie: 鋤弓切
+  tone: 平
+  guangyun: 髙也敬也就也聚也又姓
+  senses:
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+    children:
+    - gloss: figurtive
+      concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+      children:
+      - gloss: figurative, attitudinal, putative
+        concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+        concept_label: RESPECT
+      - gloss: feature
+        concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+        concept_label: FLOURISH
+        children:
+        - gloss: causative
+          concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+          concept_label: HELP
+          children:
+          - gloss: inchoative
+            concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+            concept_label: ESTABLISH
+            children:
+            - gloss: plurality
+              concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+              concept_label: ASSEMBLE
+          - gloss: physical objects
+            concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+            concept_label: EMBELLISH
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+- reading: chóng
+  old_chinese: dzruŋ
+  middle_chinese: dʐiuŋ
+  fanqie: 鋤弓切
+  tone: 平
+  guangyun: 同崇
+source:
+  source_file: taxchar.xml

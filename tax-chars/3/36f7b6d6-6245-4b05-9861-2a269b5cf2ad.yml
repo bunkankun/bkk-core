@@ -1,0 +1,63 @@
+uuid: 36f7b6d6-6245-4b05-9861-2a269b5cf2ad
+type: tax-char
+heads:
+- 留
+pronunciations:
+- reading: liú
+  old_chinese: b-ru
+  middle_chinese: liu
+  fanqie: 力求切
+  tone: 平
+  guangyun: 住也止也説文作畱亦姓出㑹稽本自衞大夫留封人之後後漢末避地㑹稽遂居東陽爲郡豪族吴志有左將留賛
+  senses:
+  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+    children:
+    - gloss: remain loyal to
+      concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+      concept_label: RALLY
+    - gloss: 'causative: cause to remain with one'
+      concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+      concept_label: ACCEPT
+      children:
+      - gloss: continuative
+        concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+        concept_label: KEEP
+        children:
+        - gloss: 'abstract: hold onto'
+          concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+          concept_label: HOLD
+    - gloss: cause to accept as a gift
+      concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+      concept_label: GIVE
+    - gloss: causative:detain
+      concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+      concept_label: ARREST
+    - gloss: feature
+      concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+      concept_label: ENDURING
+      children:
+      - gloss: 'feature: persevere in one''s attitude'
+        concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+        concept_label: STUBBORN
+      - gloss: 'causative: persist for a time in inaction'
+        concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+        concept_label: DELAY
+- reading: liù
+  old_chinese: b-rus
+  middle_chinese: liu
+  fanqie: 力救切
+  tone: 去
+  guangyun: 宿留停待也宿音秀
+  senses:
+  - concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+    concept_label: WAIT
+unattributed_senses:
+- concept_label: 留 liǔ 《集韻》力九切，上有，來。
+  children:
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T04:28:43.26+09:00'

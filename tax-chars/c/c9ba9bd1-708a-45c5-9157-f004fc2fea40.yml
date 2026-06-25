@@ -1,0 +1,29 @@
+uuid: c9ba9bd1-708a-45c5-9157-f004fc2fea40
+type: tax-char
+heads:
+- 唇
+pronunciations:
+- reading: chún
+  old_chinese: ɢljun
+  middle_chinese: ʑʷin
+  fanqie: 食倫切
+  tone: 平
+  senses:
+  - concept_uuid: 9adfdb03-e3b8-49dc-833a-2b05c92224a7
+    concept_label: LIP
+  - concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+- reading: zhēn
+  old_chinese: kljɯn
+  middle_chinese: tɕin
+  fanqie: 職鄰切
+  tone: 平
+  guangyun: 同唇
+- reading: zhēn
+  old_chinese: kljɯn
+  middle_chinese: tɕin
+  fanqie: 職鄰切
+  tone: 平
+  guangyun: 驚也
+source:
+  source_file: taxchar.xml

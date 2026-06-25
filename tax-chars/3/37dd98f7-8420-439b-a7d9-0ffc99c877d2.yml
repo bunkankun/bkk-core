@@ -1,0 +1,38 @@
+uuid: 37dd98f7-8420-439b-a7d9-0ffc99c877d2
+type: tax-char
+heads:
+- 舞
+pronunciations:
+- reading: wǔ
+  old_chinese: maʔ
+  middle_chinese: mio
+  fanqie: 文甫切
+  tone: 上
+  guangyun: 歌舞左傳曰舞所以節八音而行八風也周禮曰樂師掌國學之政以教國子小舞也山海經曰帝後八子始爲舞又姓出何氏姓苑
+  senses:
+  - concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+    concept_label: DANCE
+    children:
+    - gloss: generalised
+      concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+      concept_label: MOVE
+    - gloss: (late colloquial) generalised
+      concept_label: DO
+      children:
+      - gloss: causative
+        concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+        concept_label: ENCOURAGE
+    - gloss: 'specifically: as in dance, swords etc'
+      concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+      concept_label: WIELD
+      children:
+      - gloss: feature of
+        concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+        concept_label: QUICK
+      - gloss: 'figurative: affect playfully'
+        concept_uuid: f8d0fa63-774b-4e2d-ade4-5ad8cc925146
+        concept_label: TEASE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-20T02:06:17.755+09:00'

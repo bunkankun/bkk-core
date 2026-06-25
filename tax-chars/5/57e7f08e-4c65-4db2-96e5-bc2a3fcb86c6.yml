@@ -1,0 +1,63 @@
+uuid: 57e7f08e-4c65-4db2-96e5-bc2a3fcb86c6
+type: tax-char
+heads:
+- 景
+pronunciations:
+- reading: jǐng
+  old_chinese: kraŋʔ
+  middle_chinese: kɯiaŋ
+  fanqie: 居影切
+  tone: 上
+  guangyun: 大也明也像也光也炤也又姓齊景公之後後漢有景丹
+  senses:
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+    children:
+    - gloss: feature
+      concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+      concept_label: BRIGHT
+      children:
+      - gloss: putative
+        concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+        concept_label: ADMIRE
+      - gloss: 'concrete: poetical'
+        concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+        concept_label: SUN
+        children:
+        - gloss: 'abstract: dimension measured by'
+          concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+          concept_label: TIME
+    - gloss: abstract
+      concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+      concept_label: GREAT
+      children:
+      - gloss: aesthetic
+        concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+        concept_label: BEAUTIFUL
+    - gloss: what is made visible by light
+      concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+      concept_label: SITUATION
+      children:
+      - gloss: late
+        concept_uuid: 045058b4-86fe-4afd-8795-62f5ad1bbf94
+        concept_label: LANDSCAPE
+  - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - concept_uuid: e2e2d32d-7144-45d2-a305-f8ed17fb2fee
+    concept_label: RULERS OF LU
+  - concept_uuid: 14eb6ada-6737-46c4-9f7a-c338bc8114ee
+    concept_label: RULERS OF QI
+  - concept_uuid: 59f82040-712a-4326-9c5a-56b0ac103dc9
+    concept_label: RULERS OF SONG
+  - concept_uuid: 0358157e-1940-48fb-a3cf-4bdd06e79a65
+    concept_label: RULERS OF ZHOU
+unattributed_senses:
+- concept_label: 景 ying3 《集韻》於境切，上梗，影。
+  children:
+  - gloss: =影
+    concept_uuid: 98f0a561-121d-43fb-a211-d6e3b31eb675
+    concept_label: SHADOW
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T23:25:32.158+09:00'

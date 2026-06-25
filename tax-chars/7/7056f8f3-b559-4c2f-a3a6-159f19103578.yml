@@ -1,0 +1,54 @@
+uuid: 7056f8f3-b559-4c2f-a3a6-159f19103578
+type: tax-char
+heads:
+- 官
+pronunciations:
+- reading: guān
+  old_chinese: koon
+  middle_chinese: kʷɑn
+  fanqie: 古丸切
+  tone: 平
+  guangyun: 官宦左傳曰黄帝以雲紀官炎帝以火紀官大暭以龍紀官少暭以鳥紀官又君也法也事也又複姓三氏左傳晉王官無地御戎魯先賢傳云孔子妻亓官氏楚莊王少子爲上官大夫以上官爲氏古丸切十
+  senses:
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+    children:
+    - gloss: place
+      concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+      concept_label: PUBLIC BUILDING
+      children:
+      - gloss: 'specific: feature'
+        concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+        concept_label: STATE
+        children:
+        - gloss: agent
+          concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+          concept_label: OFFICIAL
+          children:
+          - gloss: cause to become
+            concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+            concept_label: EMPLOY
+          - gloss: moral feature
+            concept_uuid: 5ccd153e-71ac-4911-8548-1dd44617ec52
+            concept_label: DUTY
+            children:
+            - gloss: abstract
+              concept_uuid: b56d5b21-c292-4251-98b7-f8d1fb302a76
+              concept_label: FUNCTION
+              children:
+              - gloss: typical action
+                concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+                concept_label: GOVERN
+          - gloss: grammaticalised:polite
+            concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+            concept_label: YOU
+          - gloss: grammaticalised:formal
+            concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+            concept_label: EGO
+  - gloss: physiological
+    concept_uuid: 6b73416e-f84f-44c8-85b3-a801677d2d13
+    concept_label: ORGAN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T23:29:45.719+09:00'

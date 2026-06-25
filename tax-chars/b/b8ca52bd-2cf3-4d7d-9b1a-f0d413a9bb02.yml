@@ -1,0 +1,30 @@
+uuid: b8ca52bd-2cf3-4d7d-9b1a-f0d413a9bb02
+type: tax-char
+heads:
+- 邱
+pronunciations:
+- reading: qiū
+  old_chinese: khɯ
+  middle_chinese: kʰiu
+  fanqie: 去鳩切
+  tone: 平
+  guangyun: 地名
+  senses:
+  - concept_uuid: c4fdb931-fc00-49a0-9233-4c29137b7b72
+    concept_label: MOUND
+  - concept_uuid: d8c215d9-04d4-4ce0-8e65-2435c052b660
+    concept_label: TOMB
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - concept_uuid: ced1a5ab-6f14-4e3f-afad-929f4f06a8d7
+    concept_label: RUINS
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+    concept_label: UGLY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

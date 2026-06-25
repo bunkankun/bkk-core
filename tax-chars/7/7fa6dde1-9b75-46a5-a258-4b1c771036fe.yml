@@ -1,0 +1,29 @@
+uuid: 7fa6dde1-9b75-46a5-a258-4b1c771036fe
+type: tax-char
+heads:
+- 域
+pronunciations:
+- reading: yù
+  old_chinese: ɢʷrɯɡ
+  middle_chinese: ɦʷɨk
+  fanqie: 雨逼切
+  tone: 入
+  guangyun: 居也邦也雨逼切十四
+  senses:
+  - concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+    concept_label: BORDER AREA
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+    concept_label: TERRITORY
+  - gloss: GRAVEYARD
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+    concept_label: EXIST
+  - concept_uuid: 23a8a188-beec-4d68-9f1f-22c9340ed189
+    concept_label: MATHEMATICS
+source:
+  source_file: taxchar.xml

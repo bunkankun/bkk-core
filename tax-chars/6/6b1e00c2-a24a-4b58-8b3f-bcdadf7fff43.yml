@@ -1,0 +1,62 @@
+uuid: 6b1e00c2-a24a-4b58-8b3f-bcdadf7fff43
+type: tax-char
+heads:
+- 科
+pronunciations:
+- reading: kē
+  old_chinese: khool
+  middle_chinese: kʰuɑ
+  fanqie: 苦禾切
+  tone: 平
+  guangyun: 程也條也本也品也又科斷也苦禾切又苦臥切十四
+  senses:
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: e936e1cf-709a-4995-b105-e7aff4ee1732
+    concept_label: CAVITY
+  - concept_uuid: 093241ac-abf2-4159-ac85-822eec8f1483
+    concept_label: EXAMINATION
+  - concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+    concept_label: LAW
+  - concept_uuid: 6acc1714-c80f-49d2-9670-2fe2c0b7b620
+    concept_label: WINE VESSEL
+  - concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+    concept_label: JUDGE
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+  - concept_uuid: 3f23b956-1cc9-4a96-8dc3-b14f0275896f
+    concept_label: GESTURE
+  - concept_uuid: 81777781-bf65-4e13-b381-e4d0e8e5d81e
+    concept_label: STEM
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 81f006ed-9fec-44b1-a2f0-237711a298fe
+    concept_label: TAKE OFF
+  - concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+    concept_label: WRITTEN CHARACTER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 14f6abd0-8331-427e-b1c5-84a71ac390eb
+    concept_label: CLUMP
+  - concept_uuid: 376418ab-aa2d-450f-802d-0952652b39b8
+    concept_label: ITEM
+  - concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: DISCIPLINE
+  - concept_uuid: 2a9c6c2a-8cb5-4014-b95d-574610d72dc0
+    concept_label: DEPARTMENT
+  - concept_uuid: e033744f-13da-488e-915f-3944c0edac4b
+    concept_label: BARE
+  - gloss: = 窠
+  - gloss: = 棵
+  - gloss: = 介
+- reading: kè
+  old_chinese: khools
+  middle_chinese: kʰuɑ
+  fanqie: 苦卧切
+  tone: 去
+  guangyun: 滋生也又音窠
+  senses:
+  - concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+    concept_label: GROW
+source:
+  source_file: taxchar.xml

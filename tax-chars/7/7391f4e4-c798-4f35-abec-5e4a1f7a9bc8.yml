@@ -1,0 +1,26 @@
+uuid: 7391f4e4-c798-4f35-abec-5e4a1f7a9bc8
+type: tax-char
+heads:
+- 饗
+pronunciations:
+- reading: xiǎng
+  old_chinese: qhaŋʔ
+  middle_chinese: hiɐŋ
+  fanqie: 許兩切
+  tone: 上
+  guangyun: 歆饗
+  senses:
+  - concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+    concept_label: EAT
+  - concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+    concept_label: FEAST
+  - concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+    concept_label: FEED
+  - concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+    concept_label: GOVERN
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - gloss: = 享
+  - gloss: = 響
+source:
+  source_file: taxchar.xml

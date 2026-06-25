@@ -1,0 +1,36 @@
+uuid: bb4e7258-3f20-4b52-a73d-30f44c97aa90
+type: tax-char
+heads:
+- 罕
+pronunciations:
+- reading: hàn
+  old_chinese: qhaans
+  middle_chinese: hɑn
+  fanqie: 呼旰切
+  tone: 去
+- reading: hàn
+  old_chinese: qhaanʔ
+  middle_chinese: hɑn
+  fanqie: 呼旰切
+  tone: 去
+  guangyun: 抱䍐縣在河州亦作罕抱音扶
+  senses:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: hǎn
+  old_chinese: qhaanʔ
+  middle_chinese: hɑn
+  fanqie: 呼旱切
+  tone: 上
+  guangyun: 希也亦鳥網又姓左傳鄭有䍐氏出自穆公以王父字爲氏代爲卿大夫又羌複姓有䍐井氏説文作𦉴或作罕呼旱切七
+  senses:
+  - concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+    concept_label: NET
+  - concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+    concept_label: RARE
+  - concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+    concept_label: BANNER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

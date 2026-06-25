@@ -1,0 +1,30 @@
+uuid: 5ecb8558-6fbc-4f29-b612-1ac53dbc495d
+type: tax-char
+heads:
+- 佞
+pronunciations:
+- reading: nìng
+  old_chinese: neeŋs
+  middle_chinese: neŋ
+  fanqie: 乃定切
+  tone: 去
+  guangyun: 諂也一曰才也俗作佞
+  senses:
+  - concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+    concept_label: ELOQUENT
+  - concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+    concept_label: FAVOURITE
+  - concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+    concept_label: FLATTER
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: db532d77-b664-4120-818c-26d2a853f7b8
+    concept_label: TENDER
+  - concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+    concept_label: TALENT
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+source:
+  source_file: taxchar.xml

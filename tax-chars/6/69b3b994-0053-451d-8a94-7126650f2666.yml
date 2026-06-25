@@ -1,0 +1,45 @@
+uuid: 69b3b994-0053-451d-8a94-7126650f2666
+type: tax-char
+heads:
+- 寥
+pronunciations:
+- reading: liáo
+  old_chinese: ɡ-rɯɯw
+  middle_chinese: leu
+  fanqie: 落蕭切
+  tone: 平
+  guangyun: 空也又寂寥也寥廓也
+  senses:
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+    children:
+    - gloss: large expanse
+      concept_uuid: a4487997-94b7-432e-849a-859a36cda842
+      concept_label: HUGE
+      children:
+      - gloss: specific
+        concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+        concept_label: SKY
+    - gloss: 'specific: of sound'
+      concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+      concept_label: SILENCE
+    - gloss: psychological
+      concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+      concept_label: LONELY
+    - gloss: 'grammaticalised: quantifying'
+      concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+      concept_label: FEW
+- reading: lì
+  old_chinese: ɡ-rɯɯwɡ
+  middle_chinese: lek
+  fanqie: 郎擊切
+  tone: 入
+  guangyun: 寂寥無人又深也又音聊
+  senses:
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+    children:
+    - concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+      concept_label: PROFOUND
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,46 @@
+uuid: 2827c02c-6a62-4982-86ca-222c642491ff
+type: tax-char
+heads:
+- 沽
+pronunciations:
+- reading: gū
+  old_chinese: kaas
+  middle_chinese: kuo
+  fanqie: 古暮切
+  tone: 去
+  guangyun: 同酤
+  senses:
+  - concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+    concept_label: SELL
+  - concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+    concept_label: BUY
+  - concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+    concept_label: OBTAIN
+- reading: gǔ
+  old_chinese: kaaʔ
+  middle_chinese: kuo
+  fanqie: 公戶切
+  tone: 上
+  guangyun: 屠沽
+  senses:
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: b3fe42b5-03c3-4bd8-bc21-ebb16e6f50f8
+    concept_label: MERCHANT
+  - concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+    concept_label: COARSE
+- reading: gū
+  old_chinese: kaa
+  middle_chinese: kuo
+  fanqie: 古胡切
+  tone: 平
+  guangyun: 水名在髙密
+  senses:
+  - concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+    concept_label: BUY
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+source:
+  source_file: taxchar.xml

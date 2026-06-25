@@ -1,0 +1,45 @@
+uuid: a50ef790-63ef-460b-97a0-9dfaa6f6c327
+type: tax-char
+heads:
+- 己
+pronunciations:
+- reading: jǐ
+  old_chinese: kɯʔ
+  middle_chinese: kɨ
+  fanqie: 居理切
+  tone: 上
+  guangyun: 身己爾雅曰太歳在己曰屠維
+  senses:
+  - gloss: grammaticalised:reflexive
+    concept_uuid: c1654743-3e55-4188-816b-511da251682f
+    concept_label: PRONOUN
+    children:
+    - gloss: abstract
+      concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+      concept_label: SELF
+      children:
+      - gloss: specific
+        concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+        concept_label: EGO
+        children:
+        - gloss: exocentric
+          concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+          concept_label: HOME
+        - gloss: generalised
+          concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+          concept_label: ONESELF
+          children:
+          - gloss: abstract
+            concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+            concept_label: PERSON
+unattributed_senses:
+- gloss: grammaticalised
+  concept_uuid: 404b2560-53b6-4de7-a4b9-5221cb83c7c1
+  concept_label: HEAVENLY STEM
+- concept_label: 己 qǐ 《集韻》口起切，上止溪。
+  children:
+  - concept_label: NAMES 《通志‧氏族略三》：“己氏，昆吾之姓也。漢有太常卿己茂。”
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T21:28:27.425+09:00'

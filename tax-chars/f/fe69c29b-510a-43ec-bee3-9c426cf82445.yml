@@ -1,0 +1,80 @@
+uuid: fe69c29b-510a-43ec-bee3-9c426cf82445
+type: tax-char
+heads:
+- 止
+pronunciations:
+- reading: zhǐ
+  old_chinese: kljɯʔ
+  middle_chinese: tɕɨ
+  fanqie: 諸市切
+  tone: 上
+  guangyun: 停也足也禮也息也待也留也諸市切十
+  senses:
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+    children:
+    - gloss: resultative
+      concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+      concept_label: END
+      children:
+      - gloss: 'specific: one’s official work'
+        concept_uuid: 313c2e26-b826-4590-a81c-3afec1499312
+        concept_label: RETIRE
+    - gloss: zhǐ
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: perfective
+        concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+        concept_label: RESTRAIN
+      - gloss: zhǐ
+        concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+        concept_label: DON'T
+    - gloss: resultative
+      concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+      concept_label: AVOID
+      children:
+      - gloss: avoiding behaviour
+        concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+        concept_label: HABIT
+    - gloss: in a place, resultative
+      concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+      concept_label: REMAIN
+      children:
+      - gloss: causative
+        concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+        concept_label: ARREST
+      - gloss: specific
+        concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+        concept_label: DWELL
+        children:
+        - gloss: exhortative
+          concept_uuid: 7e9d0c54-d1a9-4c11-9ba1-3ec882fbd1c1
+          concept_label: INVITE
+        - gloss: subject:birds
+          concept_uuid: 6c06f38e-ceeb-4235-9938-238e42f3d2ff
+          concept_label: ROOST
+        - gloss: subject:human
+          concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+          concept_label: REST
+          children:
+          - gloss: feature
+            concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+            concept_label: PEACEFUL
+            children:
+            - gloss: causative
+              concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+              concept_label: SAFEGUARD
+            - gloss: 'result:'
+              concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+              concept_label: LEISURE
+  - gloss: grammaticalised
+    concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+    concept_label: ONLY
+  - gloss: =趾
+    concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+    concept_label: FOOT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T17:57:23.498+09:00'

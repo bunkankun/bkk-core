@@ -1,0 +1,34 @@
+uuid: 115260f2-3e26-4baa-9c60-ee5802e39da0
+type: tax-char
+heads:
+- 廓
+pronunciations:
+- reading: kuò
+  old_chinese: khʷaaɡ
+  middle_chinese: kʰʷɑk
+  fanqie: 苦郭切
+  tone: 入
+  guangyun: 空也大也虚也亦州名漢西羌地前涼湟河郡周爲廓州也苦郭切六
+  senses:
+  - concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+    concept_label: ALONE
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+    concept_label: CITY WALL
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+    concept_label: OUTSIDE
+  - concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+    concept_label: PLAN
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

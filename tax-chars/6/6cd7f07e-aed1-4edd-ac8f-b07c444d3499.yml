@@ -1,0 +1,45 @@
+uuid: 6cd7f07e-aed1-4edd-ac8f-b07c444d3499
+type: tax-char
+heads:
+- 囂
+pronunciations:
+- reading: xiāo
+  old_chinese: hŋraw
+  middle_chinese: hɯiɛu
+  fanqie: 許嬌切
+  tone: 平
+  guangyun: 喧也許嬌切又五刀切十
+  senses:
+  - concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+    concept_label: CLAMOUR
+  - concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+    concept_label: SOUND
+  - concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+    concept_label: FRIVOLOUS
+  - concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+    concept_label: ARROGANT
+  - concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+    concept_label: BOAST
+  - concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+    concept_label: THIN
+  - concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+    concept_label: HUNGRY
+- reading: áo
+  old_chinese: nʰɯɯs
+  middle_chinese: ɕiɛ
+  fanqie: 牛刀切
+  tone: 平
+  senses:
+  - concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+    concept_label: CLAMOUR
+  - concept_uuid: 422efb9a-f53c-4af6-9707-3d9188106e6d
+    concept_label: MYTHICAL BIRDS
+  - concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+    concept_label: MYTHICAL ANIMALS
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - gloss: COL
+source:
+  source_file: taxchar.xml

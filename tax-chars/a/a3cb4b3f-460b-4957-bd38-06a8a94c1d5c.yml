@@ -1,0 +1,79 @@
+uuid: a3cb4b3f-460b-4957-bd38-06a8a94c1d5c
+type: tax-char
+heads:
+- 達
+pronunciations:
+- reading: dá
+  old_chinese: daad
+  middle_chinese: dɑt
+  fanqie: 唐割切
+  tone: 入
+  guangyun: 通達亦姓出何氏姓苑又虜複姓三氏後魏憲帝弟爲達奚氏又達勃氏後改爲裒氏周文帝達歩妃生齊煬王憲唐割切二
+  senses:
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+    children:
+    - gloss: reaching everywhere
+      concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+      concept_label: COMMON
+    - gloss: one's aim
+      concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+      concept_label: SUCCEED
+      children:
+      - gloss: 'feature: successful'
+        concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+        concept_label: NOBLE
+    - gloss: intellectually
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: causative
+        concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+        concept_label: REPORT
+      - gloss: feature
+        concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+        concept_label: INTELLIGENT
+    - gloss: reach the surface, sprout up
+      concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+      concept_label: SPROUT
+      children:
+      - gloss: so as to well up
+        concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+        concept_label: SOURCE
+        children:
+        - gloss: exocentric:within reach
+          concept_label: STOREHOUSE
+    - gloss: object place
+      concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+      concept_label: ARRIVE
+      children:
+      - gloss: 'grammaticalised: time, when the time was reached, when it came to'
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+  - gloss: personal names
+    concept_uuid: 0a9831fa-8b1a-4afa-88d7-630c12afc8c6
+    concept_label: MALES OF ZHENG
+  - gloss: personal names
+    concept_uuid: 2d7a463e-d28e-49de-afeb-15b4e45f85bf
+    concept_label: ARISTOCRATS OF WEY
+  - gloss: personal names
+    concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+    concept_label: ARISTOCRATS OF LU
+- reading: tà
+  old_chinese: thaad
+  middle_chinese: tʰɑt
+  fanqie: 他達切
+  tone: 入
+  guangyun: 挑達往來皃又唐割切
+  senses:
+  - concept_label: =撻 in 挑達 tao1 ta4
+- reading: tì
+  old_chinese: theeds
+  middle_chinese: tʰei
+  fanqie: 他計切
+  tone: 去
+  guangyun: 足滑
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T05:46:04.558+09:00'

@@ -1,0 +1,28 @@
+uuid: ef69e969-ca24-4c71-8e7b-fcbde3b1464b
+type: tax-char
+heads:
+- 竇
+pronunciations:
+- reading: dòu
+  old_chinese: ɡ-looɡs
+  middle_chinese: dəu
+  fanqie: 徒候切
+  tone: 去
+  guangyun: 空也穴也水竇也又姓出扶風觀津河南三望風俗通云夏帝相遭有窮氏之難其妃方娠逃出自竇而生少康其後氏焉
+  senses:
+  - concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+    concept_label: DOOR
+  - concept_uuid: 2274ddb0-f4c8-4960-be73-4fc398aba5a3
+    concept_label: DRAIN
+  - concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+    concept_label: PIT
+  - concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+    concept_label: OPEN
+  - concept_uuid: f41050cf-420d-4a3c-8fe8-891cf12ffe57
+    concept_label: CONCAVE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

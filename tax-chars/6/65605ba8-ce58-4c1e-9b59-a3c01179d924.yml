@@ -1,0 +1,77 @@
+uuid: 65605ba8-ce58-4c1e-9b59-a3c01179d924
+type: tax-char
+heads:
+- 如
+pronunciations:
+- reading: rù
+  old_chinese: njas
+  middle_chinese: ȵiɔ
+  fanqie: 人恕切
+  tone: 去
+  guangyun: 又尒諸切
+- reading: rú
+  old_chinese: nja
+  middle_chinese: ȵiɔ
+  fanqie: 人諸切
+  tone: 平
+  guangyun: 而也均也似也謀也往也若也又姓晉中經部魏有陳郡丞馮翊如淳注漢書又虜姓後魏書如羅氏後改爲如氏人諸切八
+  senses:
+  - concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+    children:
+    - gloss: resemble in desirable quality
+      concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: EQUAL
+      children:
+      - gloss: create a resembling image
+        concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+        concept_label: DEPICT
+        children:
+        - concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+          concept_label: AS IF
+          children:
+          - gloss: conditional
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+            children:
+            - gloss: contrary to agreed fact
+              concept_uuid: 3eed9c9c-4b37-43f6-b13a-d1bc26e040ea
+              concept_label: COUNTERFACTUAL
+    - gloss: copletely
+      concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+      concept_label: SAME
+      children:
+      - gloss: similarly
+        concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+        concept_label: AND
+        children:
+        - gloss: similarly possible
+          concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+          concept_label: OR
+    - gloss: postverbal:in the manner of V
+      concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+      concept_label: SUFFIX
+    - gloss: act so as to resemble
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: cause oneself to conform to instructions of
+        concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+        concept_label: OBEY
+        children:
+        - gloss: modal, impersonal
+          concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+          concept_label: SHOULD
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: derived:approach or deal with practically
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+    - gloss: so as to escape
+      concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+      concept_label: FLEE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-17T18:43:30.799+09:00'

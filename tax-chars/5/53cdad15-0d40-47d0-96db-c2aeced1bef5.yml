@@ -1,0 +1,46 @@
+uuid: 53cdad15-0d40-47d0-96db-c2aeced1bef5
+type: tax-char
+heads:
+- 霜
+pronunciations:
+- reading: shuāng
+  old_chinese: sqraŋ
+  middle_chinese: ʃiɐŋ
+  fanqie: 色莊切
+  tone: 平
+  guangyun: 凝露也又姓色莊切七
+  senses:
+  - gloss: (frost)
+    concept_uuid: 757e854c-90b7-4d06-8762-cc2866351120
+    concept_label: ICE
+    children:
+    - gloss: period of ice
+      concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+      concept_label: YEAR
+    - gloss: feature
+      concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+      concept_label: WHITE
+      children:
+      - gloss: 'exocentric: grey'
+        concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+        concept_label: HAIR
+      - gloss: 'figurative: turn white'
+        concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+        concept_label: WITHER
+      - gloss: morally
+        concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+        concept_label: PURE
+        children:
+        - gloss: administratively
+          concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+          concept_label: SEVERE
+        - gloss: psychologically
+          concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+          concept_label: CRUEL
+          children:
+          - gloss: figurative
+            concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+            concept_label: SHARP
+  - gloss: =孀
+source:
+  source_file: taxchar.xml

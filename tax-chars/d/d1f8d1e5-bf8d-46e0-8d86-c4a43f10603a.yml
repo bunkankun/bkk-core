@@ -1,0 +1,39 @@
+uuid: d1f8d1e5-bf8d-46e0-8d86-c4a43f10603a
+type: tax-char
+heads:
+- 圭
+pronunciations:
+- reading: guī
+  old_chinese: kʷee
+  middle_chinese: kʷei
+  fanqie: 古攜切
+  tone: 平
+  guangyun: 圭璧説文曰瑞玉也上圜下方公執桓圭九寸侯執信圭伯執躬圭皆七寸子執榖璧男執蒲璧皆五寸周禮以青圭禮東方又孟子曰六十四黍爲一圭十圭爲一合古攜切十五
+  senses:
+  - concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+    concept_label: CONCUBINE
+  - concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+    concept_label: GEOMETRIC SHAPE
+  - concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+  - concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: f81d2e4e-c044-45d4-bd7e-da0df9c7d342
+    concept_label: GNOMON
+- reading: guī
+  old_chinese: kʷee
+  middle_chinese: kʷei
+  fanqie: 古攜切
+  tone: 平
+  guangyun: 圭古文
+  senses:
+  - concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+    concept_label: JADE
+source:
+  source_file: taxchar.xml

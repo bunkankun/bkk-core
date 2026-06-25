@@ -1,0 +1,136 @@
+uuid: f59debd3-4023-4bd1-ba1f-be92c4ac13c4
+type: tax-char
+heads:
+- 緣
+pronunciations:
+- reading: yuán
+  old_chinese: k-lon
+  middle_chinese: jʷiɛn
+  fanqie: 與專切
+  tone: 平
+  guangyun: 縁由又羊絹切
+  senses:
+  - gloss: edge of things
+    concept_uuid: 547143e8-8876-4ad1-976b-599f63e3c4fc
+    concept_label: BORDER
+    children:
+    - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: related action
+        concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+        concept_label: SURROUND
+      - gloss: direction
+        concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+        concept_label: FOLLOW
+        children:
+        - gloss: upwards
+          concept_label: CLIMB
+          children:
+          - gloss: display
+            concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+            concept_label: ACROBATICS
+          - gloss: generalised
+            concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+            concept_label: ASCEND
+          - gloss: specific
+            concept_uuid: c97a3f3b-e73f-4c50-9d5d-127ef1b37dd8
+            concept_label: CRAWL
+        - gloss: causative> cause to follow, drag
+          concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+          concept_label: PULL
+        - gloss: and depend
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+          children:
+          - concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+            concept_label: BECAUSE
+            children:
+            - concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+              concept_label: CAUSE
+              children:
+              - gloss: related activity
+                concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+                concept_label: INVESTIGATE
+              - gloss: unknown
+                concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+                concept_label: COINCIDENCE
+              - gloss: preordained
+                concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+                concept_label: FATE
+- reading: yuán
+  old_chinese: k-lon
+  middle_chinese: jʷiɛn
+  fanqie: 與專切
+  tone: 平
+  guangyun: 縁由又羊絹切
+  senses:
+  - concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+    concept_label: ASCEND
+    children:
+    - gloss: with difficulty
+      concept_uuid: c97a3f3b-e73f-4c50-9d5d-127ef1b37dd8
+      concept_label: CRAWL
+      children:
+      - gloss: proficiently
+        concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+        concept_label: ACROBATICS
+    - gloss: generalised
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - gloss: abstract
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+        children:
+        - gloss: to one's advantage
+          concept_uuid: 97510283-af73-45e3-97a7-942029408956
+          concept_label: RELY ON
+          children:
+          - gloss: abstract
+            concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+            concept_label: CAUSE
+            children:
+            - gloss: look for causes
+              concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+              concept_label: INVESTIGATE
+            - gloss: be causally linked
+              concept_label: CONNECT
+            - gloss: supernatural causes
+              concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+              concept_label: FATE
+              children:
+              - gloss: unlikely
+                concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+                concept_label: COINCIDENCE
+                children:
+                - gloss: with potential
+                  concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+                  concept_label: OPPORTUNITY
+            - gloss: grammaticalised
+              concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+              concept_label: BECAUSE
+            - gloss: grammaticalised
+              concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+              concept_label: FROM
+        - gloss: to outline or circumference
+          concept_uuid: 7c794d5a-d3f0-4ed1-a61b-363bb4bfa27f
+          concept_label: SURROUND
+          children:
+          - gloss: surrounding
+            concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+            concept_label: ORNAMENT
+- reading: yuàn
+  old_chinese: k-lons
+  middle_chinese: jʷiɛn
+  fanqie: 以絹切
+  tone: 去
+  guangyun: 衣縁
+  senses:
+  - gloss: what surrounds
+    concept_uuid: 181dff9e-7def-4cfa-bff0-928de1b99049
+    concept_label: HEM
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-04T19:00:47.645+09:00'

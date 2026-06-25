@@ -1,0 +1,28 @@
+uuid: 93f22b77-a1ec-46ec-8aa7-423337dd2c03
+type: tax-char
+heads:
+- 旋
+pronunciations:
+- reading: xuán
+  old_chinese: sɢlon
+  middle_chinese: zʷiɛn
+  fanqie: 似宣切
+  tone: 平
+  guangyun: 還也疾也似宣切十七
+  senses:
+  - concept_uuid: cb9d7d31-24c6-4b98-b6d3-6e9aef905d4b
+    concept_label: ACROBATICS
+  - concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+    concept_label: IMMEDIATELY
+  - concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+    concept_label: REVOLVE
+  - concept_uuid: 5f99fd10-1b29-4143-91af-d675b606fba7
+    concept_label: URINATE
+- reading: xuàn
+  old_chinese: sɢlons
+  middle_chinese: zʷiɛn
+  fanqie: 辝戀切
+  tone: 去
+  guangyun: 遶也
+source:
+  source_file: taxchar.xml

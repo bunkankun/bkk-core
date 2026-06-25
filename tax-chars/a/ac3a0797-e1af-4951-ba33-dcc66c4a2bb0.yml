@@ -1,0 +1,76 @@
+uuid: ac3a0797-e1af-4951-ba33-dcc66c4a2bb0
+type: tax-char
+heads:
+- 御
+pronunciations:
+- reading: yù
+  old_chinese: ŋas
+  middle_chinese: ŋiɔ
+  fanqie: 牛倨切
+  tone: 去
+  guangyun: 理也侍也進也使也又姓左傳有大夫御叔牛倨切三
+  senses:
+  - concept_label: 韻典網:理也[侍/待]也進也使也又姓左傳有大夫御叔牛倨切三
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+    children:
+    - gloss: music
+      concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+      concept_label: PLUCK STRINGS
+    - gloss: controlling and imperial
+      concept_uuid: d9cff291-d858-4dfa-be0d-b8b906d239a1
+      concept_label: EMPEROR
+    - gloss: vehicle/horses =馭
+      concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+      concept_label: DRIVE
+      children:
+      - gloss: object
+        concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+        concept_label: VEHICLE
+      - gloss: competitively
+        concept_uuid: 8ba01741-c552-4ff5-b5ea-d00f18f0087d
+        concept_label: RACING
+    - gloss: politically
+      concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+      concept_label: GOVERN
+    - gloss: to one's own advantage
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - gloss: for one's sexual pleasure
+        concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+        concept_label: COPULATE
+      - gloss: for one's culinary pleasure
+        concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+        concept_label: EAT
+        children:
+        - gloss: 'causative, object: food'
+          concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+          concept_label: HAND UP
+          children:
+          - gloss: generalised
+            concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+            concept_label: SERVE
+            children:
+            - gloss: agent
+              concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+              concept_label: SERVANT
+    - gloss: and prevent from doing something undesired
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+      children:
+      - gloss: 'object: enemy'
+        concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+        concept_label: FEND OFF
+      - gloss: 'object: undesired action'
+        concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+        concept_label: FORBID
+unattributed_senses:
+- concept_label: 御 ya4 《集韻》：魚駕切，牙去聲。相迎也。
+  children:
+  - concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-02T22:44:49.998+09:00'

@@ -1,0 +1,50 @@
+uuid: 3cbe2aa7-6a66-4d17-876f-e6eaddfa258d
+type: tax-char
+heads:
+- 淵
+pronunciations:
+- reading: yuān
+  old_chinese: qʷiin
+  middle_chinese: ʔʷen
+  fanqie: 烏玄切
+  tone: 平
+  guangyun: 古文𠝃
+  senses:
+  - concept_uuid: e3082cbb-a44c-4766-b28b-e68f39fa5b37
+    concept_label: ABYSS
+    children:
+    - gloss: 'generalised: geographical'
+      concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+      concept_label: LAKE
+      children:
+      - gloss: content
+        concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+        concept_label: WATER
+        children:
+        - gloss: typical process of
+          concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+          concept_label: GATHER
+          children:
+          - gloss: place where one gathers (e.g. grain!)
+            concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+            concept_label: STOREHOUSE
+          - gloss: typical resulting process
+            concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+            concept_label: REVOLVE
+    - gloss: feature
+      concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+      concept_label: DEEP
+      children:
+      - gloss: abstract
+        concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+        concept_label: MYSTERIOUS
+      - gloss: specific
+        concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+        concept_label: SOURCE
+  - gloss: =鼘
+    concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

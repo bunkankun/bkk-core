@@ -1,0 +1,65 @@
+uuid: 8e30b6d8-ef4f-4bcc-b514-0162f58e5833
+type: tax-char
+heads:
+- 斥
+pronunciations:
+- reading: chì
+  old_chinese: ŋhjaaɡs
+  middle_chinese: tɕʰiɛk
+  fanqie: 昌石切
+  tone: 入
+  guangyun: 逐也逺也又㡿候説文曰郤行也从广屰屰音逆
+- reading: chì
+  old_chinese: khljaɡ
+  middle_chinese: tɕʰiɛk
+  fanqie: 昌石切
+  tone: 入
+  guangyun: 同㡿
+  senses:
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+    concept_label: DISMISS
+  - concept_uuid: 022a6b10-cab1-425f-b5e6-db8f9af791a5
+    concept_label: ESPIONAGE
+  - concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+  - concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+    concept_label: MEAN
+  - concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+  - concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+  - concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+    concept_label: SOIL
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+    concept_label: REFER TO
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+  - concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+    concept_label: SALT
+  - concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+- reading: chè
+  old_chinese: ŋhjaaɡs
+  middle_chinese: tɕʰia
+  fanqie: 充夜切
+  tone: 去
+  guangyun: 山名爾雅曰東方之美者有斥山之文皮焉又音尺
+  senses:
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+source:
+  source_file: taxchar.xml

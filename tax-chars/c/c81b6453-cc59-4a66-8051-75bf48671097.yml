@@ -1,0 +1,26 @@
+uuid: c81b6453-cc59-4a66-8051-75bf48671097
+type: tax-char
+heads:
+- 憐
+pronunciations:
+- reading: lián
+  old_chinese: ɡ-riiŋ
+  middle_chinese: len
+  fanqie: 落賢切
+  tone: 平
+  guangyun: 俗憐
+- reading: lián
+  old_chinese: riin
+  middle_chinese: len
+  fanqie: 落賢切
+  tone: 平
+  guangyun: 愛也又哀矜也
+  senses:
+  - concept_uuid: 93a5ca89-51fc-4761-bf1c-1c37faa9a258
+    concept_label: ENVY
+  - concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+    concept_label: LOVE
+  - concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+source:
+  source_file: taxchar.xml

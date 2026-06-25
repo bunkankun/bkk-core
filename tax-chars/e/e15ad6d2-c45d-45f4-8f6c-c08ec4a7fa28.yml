@@ -1,0 +1,54 @@
+uuid: e15ad6d2-c45d-45f4-8f6c-c08ec4a7fa28
+type: tax-char
+heads:
+- 工
+pronunciations:
+- reading: gōng
+  old_chinese: kooŋ
+  middle_chinese: kuŋ
+  fanqie: 古紅切
+  tone: 平
+  guangyun: 官也又工巧也
+  senses:
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+    children:
+    - gloss: place associated with
+      concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+      concept_label: WORKPLACE
+    - gloss: 'specific:'
+      concept_uuid: 4692d402-afad-408d-a61c-5bdf6b77862d
+      concept_label: WEAVE
+    - gloss: specific
+      concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+      concept_label: EMBROIDER
+    - gloss: transitive> ORGANISE
+    - gloss: agent
+      concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+      concept_label: ARTISAN
+      children:
+      - gloss: 'analogy: political'
+        concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+        concept_label: OFFICIAL
+      - gloss: 'analogy: artistic'
+        concept_uuid: b6ce5719-53d1-482f-b617-78561d269e60
+        concept_label: MUSICIAN
+      - gloss: related feature> SKILFUL
+        children:
+        - gloss: abstract
+          concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+          concept_label: TALENT
+        - gloss: 'comparative: feature of'
+          concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+          concept_label: EXCEL
+          children:
+          - gloss: 'generalised: abstract'
+            concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+            concept_label: EXCELLENT
+  - gloss: (technical term)
+    concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+    concept_label: TONE
+  - gloss: =功
+  - gloss: =攻
+source:
+  source_file: taxchar.xml

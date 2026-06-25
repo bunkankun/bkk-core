@@ -1,0 +1,27 @@
+uuid: 6bab1fde-97c7-49f2-9493-e4cd68f06b65
+type: tax-char
+heads:
+- 述
+pronunciations:
+- reading: shù
+  old_chinese: ɢljud
+  middle_chinese: ʑʷit
+  fanqie: 食聿切
+  tone: 入
+  guangyun: 著述説文循也又姓風俗通云魯大夫仲述之後也
+  senses:
+  - concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+    concept_label: EXPLAIN
+  - concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+    concept_label: TRANSMIT
+  - concept_uuid: 37ec64e6-563e-4494-b46a-536f2ef093d3
+    concept_label: NARRATE
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 術
+source:
+  source_file: taxchar.xml

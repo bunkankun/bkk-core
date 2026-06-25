@@ -1,0 +1,29 @@
+uuid: 6c800a4a-e9b9-4f38-aab4-28740a1daf4f
+type: tax-char
+heads:
+- 灶
+pronunciations:
+- reading: zào
+  old_chinese: tsuus
+  middle_chinese: tsɑu
+  fanqie: 則到切
+  tone: 去
+  senses:
+  - concept_uuid: 8252d5e5-7df6-495b-9bf0-5290023ff8b9
+    concept_label: STOVE
+  - concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+    concept_label: DEITIES
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+    concept_label: ARTISAN
+  - concept_uuid: adb5c10b-f78f-44d4-a280-b14e7ff2e3fc
+    concept_label: ASSET
+- reading: zào
+  old_chinese: tsuus
+  middle_chinese: tsɑu
+  fanqie: 則到切
+  tone: 去
+  guangyun: 淮南子曰炎帝作火死而爲竈則到切三
+source:
+  source_file: taxchar.xml

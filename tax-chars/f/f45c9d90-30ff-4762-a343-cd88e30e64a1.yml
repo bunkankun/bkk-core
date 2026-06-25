@@ -1,0 +1,71 @@
+uuid: f45c9d90-30ff-4762-a343-cd88e30e64a1
+type: tax-char
+heads:
+- 因
+pronunciations:
+- reading: yīn
+  old_chinese: qin
+  middle_chinese: ʔin
+  fanqie: 於真切
+  tone: 平
+  guangyun: 託也仍也縁也就也亦姓左傳遂人四族有因氏俗作囙於眞切二十三
+  senses:
+  - concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+    concept_label: CAUSE
+    children:
+    - gloss: action
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: object
+        concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+        concept_label: BASIS
+        children:
+        - gloss: grammaticalised:for one’s purposes
+          concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+          concept_label: USE
+        - gloss: abstract
+          concept_label: CRITERION
+        - gloss: for what happens to one
+          concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+          concept_label: FATE
+      - gloss: temporal
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+        children:
+        - gloss: grammaticalised:logical
+          concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+          concept_label: THEN
+          children:
+          - gloss: argumentative
+            concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+            concept_label: THEREFORE
+            children:
+            - gloss: grammaticalised
+              concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+              concept_label: BECAUSE
+              children:
+              - gloss: grammaticalised
+                concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+                concept_label: PASSIVE MARKER
+    - gloss: verbal
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: in appearance
+        concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+        concept_label: RESEMBLE
+        children:
+        - gloss: 'action:'
+          concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+          concept_label: FOLLOW
+      - gloss: in more time
+        concept_uuid: bf236491-24df-4502-b928-cea735658b61
+        concept_label: CONTINUE
+  - gloss: =茵
+    concept_uuid: 300abed6-0a43-4506-9e35-87ca18465d6b
+    concept_label: STRAW MAT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T18:40:43.939+09:00'

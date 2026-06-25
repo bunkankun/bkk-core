@@ -1,0 +1,40 @@
+uuid: c62dff8a-7cdb-42c8-9b85-c3ebbd082805
+type: tax-char
+heads:
+- 檢
+pronunciations:
+- reading: jiǎn
+  old_chinese: kromʔ
+  middle_chinese: kɯiɛm
+  fanqie: 居奄切
+  tone: 上
+  guangyun: 書檢印窠封題也又檢校俗作撿撿本音斂又姓出姓苑居奄切二
+  senses:
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+    concept_label: STATIONARY
+  - concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+    concept_label: SEAL
+  - concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+    concept_label: BOX
+  - concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+    concept_label: STANDARD
+  - concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+    concept_label: VIRTUE
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+    concept_label: CHOOSE
+  - concept_uuid: fb4b8b85-67a4-4cbf-9af2-bed7617e2abf
+    concept_label: PICK UP
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 3499581a-eba5-4b00-8006-4c8f3b0e3e9d
+    concept_label: SEED
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

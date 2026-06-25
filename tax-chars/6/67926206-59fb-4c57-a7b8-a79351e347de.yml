@@ -1,0 +1,22 @@
+uuid: 67926206-59fb-4c57-a7b8-a79351e347de
+type: tax-char
+heads:
+- 佐
+pronunciations:
+- reading: zuǒ
+  old_chinese: skaals
+  middle_chinese: tsɑ
+  fanqie: 則箇切
+  tone: 去
+  guangyun: 助也則箇切六
+  senses:
+  - concept_uuid: 7f2c6c3a-512e-4b41-8f93-9bd866e1d9d0
+    concept_label: ASSISTANT
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 06a8072a-6fc5-4dab-b481-12f6519dc5cd
+    concept_label: MALES OF QI
+source:
+  source_file: taxchar.xml

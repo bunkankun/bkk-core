@@ -1,0 +1,21 @@
+uuid: 00dad872-45d1-44b3-94f8-d9f9810548f4
+type: tax-char
+heads:
+- 裾
+pronunciations:
+- reading: jū
+  old_chinese: ka
+  middle_chinese: kiɔ
+  fanqie: 九魚切
+  tone: 平
+  guangyun: 衣裾
+  senses:
+  - concept_uuid: 3450870a-0c3b-4be9-b792-6cb9f889afcc
+    concept_label: COLLAR
+  - concept_uuid: af60fc4d-91eb-4de4-9b85-e8c25f9cc839
+    concept_label: GARMENT PARTS
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+  - gloss: 倨
+source:
+  source_file: taxchar.xml

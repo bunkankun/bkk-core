@@ -1,0 +1,43 @@
+uuid: 40466b95-a73b-4f81-8156-2ea0fd7b707e
+type: tax-char
+heads:
+- 惟
+pronunciations:
+- reading: wéi
+  old_chinese: k-lul
+  middle_chinese: jʷi
+  fanqie: 以追切
+  tone: 平
+  guangyun: 謀也思也以追切十二
+  senses:
+  - gloss: existential
+    concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+    concept_label: EXIST
+    children:
+    - gloss: declarative
+      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+      concept_label: COPULA
+      children:
+      - gloss: 'semantic: communicatively'
+        concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+        concept_label: MEAN
+      - gloss: imaginary
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+        children:
+        - gloss: counterfactual:wish
+          concept_uuid: 4a00927e-4627-44c9-b039-77d594ffd229
+          concept_label: UTINAM
+      - gloss: 'gramaticalised: restrictive'
+        concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+        concept_label: ONLY
+      - gloss: 'grammaticalised: temporal subordination'
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+    - gloss: deontic
+      concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+      concept_label: SHOULD
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T02:54:45.389+09:00'

@@ -1,0 +1,24 @@
+uuid: 31c5f20b-0cdd-4d80-ba62-41878c46f4f6
+type: tax-char
+heads:
+- 揖
+pronunciations:
+- reading: yī
+  old_chinese: qib
+  middle_chinese: ʔip
+  fanqie: 伊入切
+  tone: 入
+  guangyun: 揖遜又進也説文云攘也一曰手著胷曰揖伊入切二
+  senses:
+  - concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+    concept_label: BOW DOWN
+  - concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+    concept_label: YIELD
+  - concept_uuid: a16f4ee7-cd5e-4297-b5ab-9306a5a4ed25
+    concept_label: LOOK DOWN
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+    concept_label: HUMBLE
+source:
+  source_file: taxchar.xml

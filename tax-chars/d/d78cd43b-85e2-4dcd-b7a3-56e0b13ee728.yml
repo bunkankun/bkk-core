@@ -1,0 +1,34 @@
+uuid: d78cd43b-85e2-4dcd-b7a3-56e0b13ee728
+type: tax-char
+heads:
+- 屠
+pronunciations:
+- reading: chú
+  old_chinese: ɡ-la
+  middle_chinese: ɖiɔ
+  fanqie: 直魚切
+  tone: 平
+  guangyun: 匈奴傳有休屠王又音徒
+- reading: tú
+  old_chinese: ɡ-laa
+  middle_chinese: duo
+  fanqie: 同都切
+  tone: 平
+  guangyun: 殺也裂也刳也尸子曰屠者割肉知牛之長少史記樊噲少屠狗亦姓左傳晉有屠岸賈又音除
+  senses:
+  - concept_uuid: 2cbe5a44-7be7-4a6a-b179-4e3eb4ce12cd
+    concept_label: BUTCHER
+  - concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+    concept_label: KILL
+  - concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+    concept_label: MURDER
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+  - concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+    concept_label: ILLNESS
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

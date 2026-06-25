@@ -1,0 +1,39 @@
+uuid: 57d0cd71-0f0c-453a-a652-e40296bceb49
+type: tax-char
+heads:
+- 醜
+pronunciations:
+- reading: chǒu
+  old_chinese: khljuʔ
+  middle_chinese: tɕʰiu
+  fanqie: 昌九切
+  tone: 上
+  guangyun: 類也竅也釋名曰醜臭也如物臭穢也又虜複姓西秦録有下將軍醜門于弟昌九切三
+  senses:
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+    concept_label: UGLY
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+    concept_label: STRANGE
+  - concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+    concept_label: SHAME
+  - gloss: RECTUM
+  - concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+    concept_label: DISGRACE
+  - concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+    concept_label: ANGRY
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+  - concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+  - concept_uuid: 344027c2-6925-40ad-9b43-96aed5dfe555
+    concept_label: MALES OF YAN
+source:
+  source_file: taxchar.xml

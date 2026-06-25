@@ -1,0 +1,40 @@
+uuid: 403ab9b0-ff7e-4843-8811-24e0628d5087
+type: tax-char
+heads:
+- 蜂
+pronunciations:
+- reading: fēng
+  old_chinese: phoŋ
+  middle_chinese: pʰioŋ
+  fanqie: 敷容切
+  tone: 平
+  guangyun: 説文曰螫人飛蟲也孝經援神契曰蠭䘍垂芒爲其毒在後
+- reading: péng
+  old_chinese: booŋ
+  middle_chinese: buŋ
+  fanqie: 薄紅切
+  tone: 平
+  guangyun: 蟲名出蒼頡篇又音峯
+- reading: fēng
+  old_chinese: phoŋ
+  middle_chinese: pʰioŋ
+  fanqie: 敷容切
+  tone: 平
+  guangyun: 同蠭
+  senses:
+  - concept_uuid: 9f93c4c3-828d-4695-9dd0-1a16e691a616
+    concept_label: BEE
+  - concept_uuid: 62982456-4541-4be1-8477-44184dbe8688
+    concept_label: PRICK
+  - concept_uuid: b63836dd-3cd4-4685-93f6-2d6289316f99
+    concept_label: INSECT
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+- reading: fēng
+  old_chinese: phoŋ
+  middle_chinese: pʰioŋ
+  fanqie: 敷容切
+  tone: 平
+  guangyun: 蜂古文
+source:
+  source_file: taxchar.xml

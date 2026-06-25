@@ -1,0 +1,28 @@
+uuid: b71fca83-18a7-4d65-b92d-84fc91df2704
+type: tax-char
+heads:
+- 鬣
+pronunciations:
+- reading: liè
+  old_chinese: rab
+  middle_chinese: liɛp
+  fanqie: 良涉切
+  tone: 入
+  guangyun: 須鬣説文曰髮鬣鬣也
+  senses:
+  - concept_uuid: 3624aada-f603-40a7-a028-e703ade2ea00
+    concept_label: BEARD
+  - concept_uuid: 2146f8f6-305b-4f7a-807d-6be13fee2175
+    concept_label: BROOM
+  - concept_uuid: 54171046-fc50-4322-88de-a5e5c292ee35
+    concept_label: FUR
+  - concept_uuid: 9b25daa7-bb8f-4c36-b0bc-8b1d833d7116
+    concept_label: MANE
+  - concept_uuid: 285d2eb0-8df0-4566-9d75-5318c6cfd492
+    concept_label: FISH PARTS
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: 4c201b1a-8f1e-4b2d-9dbe-cb32e7976778
+    concept_label: PLANT PARTS
+source:
+  source_file: taxchar.xml

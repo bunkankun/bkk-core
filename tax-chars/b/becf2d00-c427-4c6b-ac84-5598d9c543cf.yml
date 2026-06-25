@@ -1,0 +1,77 @@
+uuid: becf2d00-c427-4c6b-ac84-5598d9c543cf
+type: tax-char
+heads:
+- 蕩
+pronunciations:
+- reading: dàng
+  old_chinese: ɡ-laaŋʔ
+  middle_chinese: dɑŋ
+  fanqie: 徒朗切
+  tone: 上
+  guangyun: 大也又水名岀湯隂又姓宋之公族也徒朗切十二
+  senses:
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+    children:
+    - gloss: mildly, as in a boat
+      concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+      concept_label: SWING
+    - gloss: generalised
+      concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+      concept_label: MOVE
+      children:
+      - gloss: so as to
+        concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+        concept_label: WASH
+      - gloss: of liquid move into
+        concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+        concept_label: FLOW
+      - gloss: permissive
+        concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+        concept_label: RELEASE
+        children:
+        - gloss: causitive
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+          children:
+          - gloss: militarily
+            concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+            concept_label: ATTACK
+            children:
+            - gloss: resultative
+              concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+              concept_label: DESTROY
+        - gloss: abstract
+          concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+          concept_label: UNRESTRAINED
+          children:
+          - gloss: generalised
+            concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+            concept_label: BROAD
+            children:
+            - gloss: psychological
+              concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+              concept_label: LENIENT
+          - gloss: in movement
+            concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+            concept_label: RAMBLE
+          - gloss: sexually
+            concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+            concept_label: LEWD
+          - gloss: psychologically
+            concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+            concept_label: CONFUSED
+            children:
+            - gloss: intensitive
+              concept_uuid: 46aaa7ea-aa18-4027-9e3e-85b804251370
+              concept_label: UPSET
+    - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+      concept_label: LEVEL
+      children:
+      - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+      - gloss: object
+        concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+        concept_label: LAKE
+source:
+  source_file: taxchar.xml

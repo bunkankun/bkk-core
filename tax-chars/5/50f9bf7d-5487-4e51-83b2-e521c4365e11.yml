@@ -1,0 +1,53 @@
+uuid: 50f9bf7d-5487-4e51-83b2-e521c4365e11
+type: tax-char
+heads:
+- 聚
+pronunciations:
+- reading: jù
+  old_chinese: sɡoʔ
+  middle_chinese: dzio
+  fanqie: 慈庾切
+  tone: 上
+  guangyun: 衆也共也斂也説文㑹也邑落云聚慈𢈔切二
+  senses:
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+    children:
+    - gloss: feature
+      concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+      concept_label: MANY
+      children:
+      - gloss: grammaticalised
+        concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+        concept_label: TOGETHER
+      - gloss: 'object men: causative'
+        concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+        concept_label: RALLY
+        children:
+        - gloss: ability to
+          concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+          concept_label: POWER
+    - gloss: and integrate
+      concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+      concept_label: COMBINE
+      children:
+      - gloss: refining
+        concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+        concept_label: CONCENTRATE
+    - gloss: gathering of people
+      concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+      concept_label: VILLAGE
+      children:
+      - gloss: large
+        concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+        concept_label: CITY
+    - gloss: officially, by state
+      concept_uuid: 162d87f4-b15a-417e-9fb4-11ad6d5c3576
+      concept_label: CONFISCATE
+      children:
+      - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+        concept_label: ANNEX
+  - concept_uuid: a1dfacc1-4ea4-4d20-bf16-b5074bef3de3
+    concept_label: LIMP
+source:
+  source_file: taxchar.xml

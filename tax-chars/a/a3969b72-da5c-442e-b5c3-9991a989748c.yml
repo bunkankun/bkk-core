@@ -1,0 +1,62 @@
+uuid: a3969b72-da5c-442e-b5c3-9991a989748c
+type: tax-char
+heads:
+- 防
+pronunciations:
+- reading: fáng
+  old_chinese: baŋ
+  middle_chinese: bʷiɐŋ
+  fanqie: 符方切
+  tone: 平
+  guangyun: 同防見禮又音方
+- reading: fáng
+  old_chinese: baŋ
+  middle_chinese: bʷiɐŋ
+  fanqie: 符方切
+  tone: 平
+  guangyun: 防禦也隄防也
+  senses:
+  - concept_uuid: 41cdc672-56fc-4fb2-8ffe-5f49c62833ba
+    concept_label: DIKE
+  - concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+    concept_label: FIELD
+  - concept_uuid: 57135fb0-e1a5-48ff-83e6-62ef69579618
+    concept_label: FIELD BOUNDARY
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+  - concept_uuid: ff820037-7e9a-495f-9f43-f2069d7f71b7
+    concept_label: SCREEN
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+    concept_label: FEND OFF
+  - concept_uuid: d86ae61b-61b0-45bc-806f-9a2a938e677c
+    concept_label: FORTRESS
+  - concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+    concept_label: WEAPON
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+    concept_label: FORBID
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: fàng
+  old_chinese: baŋs
+  middle_chinese: bʷiɐŋ
+  fanqie: 符況切
+  tone: 去
+  guangyun: 守禦也符況切一
+source:
+  source_file: taxchar.xml

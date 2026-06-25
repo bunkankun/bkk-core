@@ -1,0 +1,26 @@
+uuid: 695e69d1-6c67-40d1-8f93-77cf69f9b2f0
+type: tax-char
+heads:
+- 街
+pronunciations:
+- reading: jiā
+  old_chinese: kree
+  middle_chinese: kɯæ
+  fanqie: 古膎切
+  tone: 平
+  guangyun: 道也説文云街四通道也風俗通云街攜也離也四岀之路攜離而别也
+  senses:
+  - concept_uuid: 5c40388e-b06d-4f8c-bb39-2d7fce66093b
+    concept_label: CROSSROADS
+  - concept_uuid: 6be4dafa-85e2-4081-ae79-f782549eeb53
+    concept_label: STREET
+  - concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+    concept_label: MARKET
+- reading: jiē
+  old_chinese: kree
+  middle_chinese: kɯæi
+  fanqie: 古諧切
+  tone: 平
+  guangyun: 又音佳
+source:
+  source_file: taxchar.xml

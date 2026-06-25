@@ -1,0 +1,29 @@
+uuid: 5324d54a-35db-4106-93c6-48e3d219ad4b
+type: tax-char
+heads:
+- 諫
+pronunciations:
+- reading: jiàn
+  old_chinese: kraans
+  middle_chinese: kɯan
+  fanqie: 古晏切
+  tone: 去
+  guangyun: 諫諍直言以悟人也又姓風俗通云漢有治書侍史諫忠古晏切三
+  senses:
+  - concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+    concept_label: REMONSTRATE
+    children:
+    - gloss: generalised
+      concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+      concept_label: CRITICISE
+      children:
+      - gloss: successfully
+        concept_uuid: df302e69-b571-43a8-af45-96d598ea2ca2
+        concept_label: PERSUADE
+      - gloss: mildly
+        concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+        concept_label: ADVISE
+    - concept_uuid: 1f218f8a-453c-4707-97d3-b6c636db82f9
+      concept_label: MEMORIAL
+source:
+  source_file: taxchar.xml

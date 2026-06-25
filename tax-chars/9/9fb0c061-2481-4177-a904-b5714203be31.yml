@@ -1,0 +1,28 @@
+uuid: 9fb0c061-2481-4177-a904-b5714203be31
+type: tax-char
+heads:
+- 育
+pronunciations:
+- reading: yù
+  old_chinese: luɡ
+  middle_chinese: jiuk
+  fanqie: 余六切
+  tone: 入
+  guangyun: 養也長也余六切二十四
+  senses:
+  - concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+    concept_label: BIRTH
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+  - concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+    concept_label: GROW
+  - concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+    concept_label: SUCCEED
+  - concept_uuid: c34b2d9b-60bf-4e33-8c1b-7ef584be8218
+    concept_label: KITCHEN UTENSIL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

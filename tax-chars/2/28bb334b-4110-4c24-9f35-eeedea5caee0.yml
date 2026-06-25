@@ -1,0 +1,40 @@
+uuid: 28bb334b-4110-4c24-9f35-eeedea5caee0
+type: tax-char
+heads:
+- 猛
+pronunciations:
+- reading: měng
+  old_chinese: mraaŋʔ
+  middle_chinese: mɯaŋ
+  fanqie: 莫杏切
+  tone: 上
+  guangyun: 勇猛又嚴也害也惡也亦姓左傳晉大夫猛獲之後莫幸切六
+  senses:
+  - concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+    concept_label: DOG
+  - gloss: BEAST OF PREY
+  - gloss: 'feature: fierce'
+    concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+    concept_label: INTENSELY
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+    concept_label: SHARP
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+    concept_label: SHOULD NOT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

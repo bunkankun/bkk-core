@@ -1,0 +1,36 @@
+uuid: 5a621ba1-4223-48b5-b961-d22286683bf8
+type: tax-char
+heads:
+- 徂
+pronunciations:
+- reading: cú
+  old_chinese: sɡaa
+  middle_chinese: dzuo
+  fanqie: 昨胡切
+  tone: 平
+  guangyun: 同徂
+- reading: cú
+  old_chinese: sɡaa
+  middle_chinese: dzuo
+  fanqie: 昨胡切
+  tone: 平
+  guangyun: 往也昨胡切四
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+    concept_label: DIE
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+  - concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+    concept_label: REACH
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - gloss: = 祖
+  - gloss: = 阻
+  - gloss: = 駔
+  - gloss: = 殂
+source:
+  source_file: taxchar.xml

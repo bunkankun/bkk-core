@@ -1,0 +1,87 @@
+uuid: 6309f1f6-c811-4ab4-b664-12e2dcf57c7d
+type: tax-char
+heads:
+- 華
+pronunciations:
+- reading: huá
+  old_chinese: ɢʷraal
+  middle_chinese: ɦʷɯa
+  fanqie: 戶花切
+  tone: 平
+  guangyun: 草盛也色也説文作䔢榮也崔豹古今注曰堯設誹謗木今之華表也西京記謂交午柱戸花切又呼瓜戸化二切十
+- reading: huā
+  old_chinese: qhʷraal
+  middle_chinese: hʷɯa
+  fanqie: 呼瓜切
+  tone: 平
+  guangyun: 爾雅云華荂也呼瓜切四
+- reading: huà
+  old_chinese: ɢʷraals
+  middle_chinese: ɦʷɯa
+  fanqie: 胡化切
+  tone: 去
+  guangyun: 崋山西嶽亦州名春秋時秦晉之公境後魏置東雍州改爲崋州又姓出平原殷湯之後宋戴公考父食采於崋後氏焉
+  senses:
+  - gloss: huà
+    concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+- reading: huà
+  old_chinese: ɢʷraals
+  middle_chinese: ɦʷɯa
+  fanqie: 胡化切
+  tone: 去
+  guangyun: 同崋
+unattributed_senses:
+- concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+  concept_label: BLOSSOM
+  children:
+  - gloss: result
+    concept_uuid: 6d2ba07c-b6ff-4435-ac20-61155c77154c
+    concept_label: FRUIT
+  - gloss: abstract
+    concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+    concept_label: ORNAMENT
+    children:
+    - gloss: aesthetic
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+      children:
+      - gloss: 'feature: glossy'
+        concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+        concept_label: SHINE
+        children:
+        - gloss: means
+          concept_uuid: cd1f9cdf-e84e-4b55-beb5-5ecfc770f703
+          concept_label: MAKE-UP
+          children:
+          - gloss: excessive
+            concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+            concept_label: EXTRAVAGANT
+            children:
+            - gloss: in display
+              concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+              concept_label: BOAST
+      - gloss: abstract
+        concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+        concept_label: EXCELLENT
+        children:
+        - gloss: status
+          concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+          concept_label: NOBLE
+          children:
+          - gloss: social
+            concept_label: GLORY
+        - gloss: ethnic identity
+          concept_uuid: 3b0f32f4-7b6e-43a8-bbb4-b0763266948e
+          concept_label: CHINESE
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - gloss: =譁嘩
+    concept_label: NOISE
+- gloss: huā 花
+  concept_uuid: cac3a6eb-3641-47e9-b4fa-c8ca4e41d851
+  concept_label: FLOWER
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:18:51.744+09:00'

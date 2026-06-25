@@ -1,0 +1,139 @@
+uuid: 3a878ed7-7c40-4ed7-b7ec-68dbd02cc90f
+type: tax-char
+heads:
+- 服
+pronunciations:
+- reading: fú
+  old_chinese: bɯɡ
+  middle_chinese: biuk
+  fanqie: 房六切
+  tone: 入
+  guangyun: 服事亦衣服又行也習也用也整也亦姓漢有江夏太守服徹
+unattributed_senses:
+- concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  concept_label: OBEY
+  children:
+  - gloss: offer
+    concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+    concept_label: ACCEPT
+    children:
+    - gloss: guilt
+      concept_uuid: 106dd16c-2d31-4bb0-9ba2-edced71f0977
+      concept_label: CONFESS
+  - gloss: in work
+    concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+    concept_label: SERVE
+    children:
+    - gloss: follow rules of
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: causative:politically
+        concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+        concept_label: RALLY
+        children:
+        - gloss: aggressive
+          concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+          concept_label: CONQUER
+          children:
+          - gloss: psychological
+            concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+            concept_label: FRIGHTEN
+          - gloss: generalised
+            concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+            concept_label: DEFEAT
+    - gloss: psychological
+      concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+      concept_label: ADMIRE
+      children:
+      - gloss: admiringly
+        concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+        concept_label: REMEMBER
+    - gloss: in service
+      concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+      concept_label: ACT
+      children:
+      - gloss: inchoative
+        concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+        concept_label: AGREE TO
+        children:
+        - gloss: monetary action
+          concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+          concept_label: PAY
+        - gloss: object task
+          concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+          concept_label: WORK
+          children:
+          - gloss: object
+            concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+            concept_label: OFFICE
+          - gloss: intellectually
+            concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+            concept_label: STUDY
+            children:
+            - gloss: generalised
+              concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+              concept_label: CONCENTRATE
+    - gloss: cause to serve one
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+      children:
+      - gloss: patterns of behavious used
+        concept_uuid: e250b159-1658-43e8-b0ed-6c5b4541f039
+        concept_label: HABIT
+      - gloss: of clothes
+        concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+        concept_label: WEAR
+        children:
+        - gloss: object
+          concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+          concept_label: GARMENT
+          children:
+          - gloss: specifically
+            concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+            concept_label: MOURNING
+          - gloss: specifically
+            concept_uuid: fa1089c7-061e-4023-afaa-2b57eea4a7bf
+            concept_label: COURT DRESS
+        - gloss: of swords, jade etc.
+          concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+          concept_label: CARRY
+      - gloss: of food
+        concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+        concept_label: EAT
+        children:
+        - gloss: causative
+          concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+          concept_label: FEED
+        - gloss: object:medical
+          concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+          concept_label: MEDICINE
+    - gloss: inchoative
+      concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+      concept_label: SURRENDER
+      children:
+      - gloss: 'subject:'
+        concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+        concept_label: PRISONER
+      - gloss: fú
+        concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+        concept_label: TERRITORY
+  - gloss: 'subject: animal that obeys???'
+    concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+    concept_label: HORSE
+    children:
+    - gloss: fú
+      concept_uuid: 39b6fd36-ea59-4983-80cb-fa2e9b674e9d
+      concept_label: CARRIAGE HORSE
+      children:
+      - gloss: feature
+        concept_uuid: a0dd511b-e11d-4d07-8383-7ac7069b782c
+        concept_label: TAME
+        children:
+        - gloss: instrument
+          concept_uuid: a3fd0875-c354-445d-95cc-20900fcce69e
+          concept_label: YOKE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-11T01:19:54.312+09:00'

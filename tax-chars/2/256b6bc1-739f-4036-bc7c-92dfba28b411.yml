@@ -1,0 +1,62 @@
+uuid: 256b6bc1-739f-4036-bc7c-92dfba28b411
+type: tax-char
+heads:
+- 承
+pronunciations:
+- reading: chéng
+  old_chinese: ɡjɯŋ
+  middle_chinese: dʑɨŋ
+  fanqie: 署陵切
+  tone: 平
+  guangyun: 次也奉也受也又姓後漢有承宫署陵切三
+  senses:
+  - concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+    concept_label: RECEIVE
+    children:
+    - gloss: abstract
+      concept_uuid: 97510283-af73-45e3-97a7-942029408956
+      concept_label: RELY ON
+      children:
+      - gloss: resultative
+        concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+        concept_label: HOLD
+    - gloss: object direction to go
+      concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+      concept_label: FOLLOW
+      children:
+      - gloss: receive order, decide to take on responsibility
+        concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+        concept_label: AGREE TO
+        children:
+        - gloss: passively
+          concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+          concept_label: OBEY
+          children:
+          - gloss: social
+            concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+            concept_label: WELCOME
+            children:
+            - gloss: chéng
+              concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+              concept_label: FLATTER
+          - gloss: active
+            concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+            concept_label: SUPPORT
+            children:
+            - gloss: related activity
+              concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+              concept_label: HAND UP
+        - gloss: abstract
+          concept_uuid: bf236491-24df-4502-b928-cea735658b61
+          concept_label: CONTINUE
+  - gloss: =?
+    concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+unattributed_senses:
+- concept_label: zhěng《集韻》蒸上聲，上拯章。蒸部。
+  children:
+  - concept_label: =拯
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T20:13:39.339+09:00'

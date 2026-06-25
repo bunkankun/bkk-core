@@ -1,0 +1,48 @@
+uuid: bf279ce5-8bdc-45a7-9622-0118bed790a7
+type: tax-char
+heads:
+- 巨
+pronunciations:
+- reading: jù
+  old_chinese: ɡaʔ
+  middle_chinese: ɡiɔ
+  fanqie: 其吕切
+  tone: 上
+  guangyun: 大也亦姓漢有巨武爲荆州刺史其吕切十八
+  senses:
+  - concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+    children:
+    - gloss: feature
+      concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+      concept_label: ROUGH
+    - gloss: vertical
+      concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+      concept_label: HIGH
+    - gloss: abstract
+      concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+      concept_label: GREAT
+    - gloss: degree
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+    - gloss: relation
+      concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+      concept_label: EXCEED
+      children:
+      - gloss: derogatory
+        concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+        concept_label: EXCESSIVE
+      - gloss: superlative
+        concept_uuid: fdbbdb4f-ff7b-4153-82f4-002209083297
+        concept_label: MOST
+  - gloss: of enemies> =距
+    concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+  - gloss: =矩
+  - gloss: =詎
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

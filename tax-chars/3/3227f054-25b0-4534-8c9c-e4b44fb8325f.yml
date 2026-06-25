@@ -1,0 +1,71 @@
+uuid: 3227f054-25b0-4534-8c9c-e4b44fb8325f
+type: tax-char
+heads:
+- 持
+pronunciations:
+- reading: chí
+  old_chinese: ɡrlɯ
+  middle_chinese: ɖɨ
+  fanqie: 直之切
+  tone: 平
+  guangyun: 執持
+  senses:
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+    children:
+    - gloss: inchoatieve
+      concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+      concept_label: TAKE
+      children:
+      - gloss: and move along
+        concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+        concept_label: CARRY
+      - gloss: 'grammaticalised: take and'
+        concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+        concept_label: OBJECT MARKER
+      - gloss: 'with difficultry:'
+        concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+        concept_label: CATCH
+        children:
+        - gloss: resultative:take care of
+          concept_uuid: c5625763-574b-4101-a4bf-fcba4f0881fe
+          concept_label: KEEP
+          children:
+          - gloss: safe
+            concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+            concept_label: SAFEGUARD
+            children:
+            - gloss: so as to deploy for one's purposes
+              concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+              concept_label: USE
+    - gloss: cognitive>maintain linguistically
+      concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+      concept_label: SPEAK
+    - gloss: figurative:hold onto pattern of behaviour
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: politically
+        concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+        concept_label: SUPPORT
+        children:
+        - gloss: changing onself
+          concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+          concept_label: CULTIVATE
+      - gloss: 'causative:'
+        concept_label: CONSTRAIN
+        children:
+        - gloss: pervasive
+          concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+          concept_label: CONTROL
+          children:
+          - gloss: bureaucratic
+            concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+            concept_label: GOVERN
+  - gloss: =恃
+    concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T23:45:53.586+09:00'

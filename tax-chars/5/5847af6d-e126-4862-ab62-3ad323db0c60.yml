@@ -1,0 +1,24 @@
+uuid: 5847af6d-e126-4862-ab62-3ad323db0c60
+type: tax-char
+heads:
+- 討
+pronunciations:
+- reading: tǎo
+  old_chinese: thuuʔ
+  middle_chinese: tʰɑu
+  fanqie: 他浩切
+  tone: 上
+  guangyun: 治也誅也他浩切三
+  senses:
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+    concept_label: DISCUSS
+  - concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+    concept_label: PUNISH
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+    concept_label: TEACH
+source:
+  source_file: taxchar.xml

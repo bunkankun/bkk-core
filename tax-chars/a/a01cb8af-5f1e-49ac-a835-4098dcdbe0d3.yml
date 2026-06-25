@@ -1,0 +1,46 @@
+uuid: a01cb8af-5f1e-49ac-a835-4098dcdbe0d3
+type: tax-char
+heads:
+- 枝
+pronunciations:
+- reading: zhī
+  old_chinese: kje
+  middle_chinese: tɕiɛ
+  fanqie: 章移切
+  tone: 平
+  guangyun: 枝柯又漢複姓左傳楚大夫枝如子弓
+  senses:
+  - concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+    concept_label: BRANCH
+    children:
+    - gloss: branch out
+      concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+      concept_label: GROW
+      children:
+      - gloss: branch off, be scattered, spread
+        concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+        concept_label: SCATTER
+      - gloss: branching off(rivulets etc)
+        concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+        concept_label: SMALL
+        children:
+        - gloss: non-mainline
+          concept_label: OFFSPRING
+    - gloss: military action
+      concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+      concept_label: FEND OFF
+      children:
+      - gloss: 'intransitive: fight back'
+        concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+        concept_label: REFUSE
+  - gloss: =肢
+    concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+    concept_label: LIMB
+  - gloss: =支
+    concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_label: =歧
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T01:38:21.531+09:00'

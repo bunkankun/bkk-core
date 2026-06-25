@@ -1,0 +1,51 @@
+uuid: 5aa16fa9-4795-4857-9375-a5282e5c8415
+type: tax-char
+heads:
+- 鮮
+pronunciations:
+- reading: xiān
+  old_chinese: sen
+  middle_chinese: siɛn
+  fanqie: 相然切
+  tone: 平
+  guangyun: 鮮潔也善也又鮮卑山因爲國号亦水名水經曰北鮮之山鮮水出焉又姓後蜀録李壽司空鮮思明又漢複姓鮮于氏
+  senses:
+  - concept_uuid: 41e78ed2-7fdc-4b17-842e-b9ff7a411a25
+    concept_label: FRESH
+    children:
+    - gloss: early
+      concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+      concept_label: DIE
+    - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+      concept_label: PURE
+    - concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+      concept_label: EXCELLENT
+      children:
+      - concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+        concept_label: SAVOURY
+  - concept_uuid: b228aaff-2b23-41c6-9fdf-fad0ed165ad8
+    concept_label: FISHES
+- reading: xiǎn
+  old_chinese: sqenʔ
+  middle_chinese: siɛn
+  fanqie: 息淺切
+  tone: 上
+  guangyun: 少也
+  senses:
+  - concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+    concept_label: RARE
+    children:
+    - gloss: grammaticalised
+      concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+      concept_label: FEW
+- reading: xiàn
+  old_chinese: sens
+  middle_chinese: siɛn
+  fanqie: 私箭切
+  tone: 去
+  guangyun: 姓也本音平聲
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

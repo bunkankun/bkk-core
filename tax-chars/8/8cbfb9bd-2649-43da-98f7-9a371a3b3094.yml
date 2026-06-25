@@ -1,0 +1,26 @@
+uuid: 8cbfb9bd-2649-43da-98f7-9a371a3b3094
+type: tax-char
+heads:
+- 潺
+pronunciations:
+- reading: chán
+  old_chinese: dzren
+  middle_chinese: dʐɯiɛn
+  fanqie: 士連切
+  tone: 平
+  guangyun: 潺湲水流皃士連切五
+  senses:
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+- reading: chán
+  old_chinese: dzreen
+  middle_chinese: dʐɯæn
+  fanqie: 士山切
+  tone: 平
+  guangyun: 潺湲水流又士連切
+source:
+  source_file: taxchar.xml

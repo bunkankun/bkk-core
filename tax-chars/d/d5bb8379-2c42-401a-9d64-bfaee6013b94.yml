@@ -1,0 +1,20 @@
+uuid: d5bb8379-2c42-401a-9d64-bfaee6013b94
+type: tax-char
+heads:
+- 檄
+pronunciations:
+- reading: xí
+  old_chinese: ɡleeɡ
+  middle_chinese: ɦek
+  fanqie: 胡狄切
+  tone: 入
+  guangyun: 符檄説文曰二尺書也胡狄切八
+  senses:
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+  - concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+    concept_label: DOCUMENT
+  - concept_uuid: d99afd6b-0531-4c74-8b27-11dcb6f0987d
+    concept_label: LETTER
+source:
+  source_file: taxchar.xml

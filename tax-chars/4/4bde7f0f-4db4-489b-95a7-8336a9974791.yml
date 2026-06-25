@@ -1,0 +1,30 @@
+uuid: 4bde7f0f-4db4-489b-95a7-8336a9974791
+type: tax-char
+heads:
+- 敏
+pronunciations:
+- reading: mǐn
+  old_chinese: mrɯŋʔ
+  middle_chinese: mɯin
+  fanqie: 眉殞切
+  tone: 上
+  guangyun: 疾也敬也聦也達也
+  senses:
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 47eab800-447a-4ad7-8ae3-af202740a6e2
+    concept_label: SAVOUR
+  - concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+    concept_label: SKILLFUL
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+    concept_label: INTELLIGENT
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+  - concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+    concept_label: CAUTIOUS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

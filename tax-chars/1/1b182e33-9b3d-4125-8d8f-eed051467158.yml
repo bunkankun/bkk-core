@@ -1,0 +1,26 @@
+uuid: 1b182e33-9b3d-4125-8d8f-eed051467158
+type: tax-char
+heads:
+- 岑
+pronunciations:
+- reading: cén
+  old_chinese: sɡrɯm
+  middle_chinese: dʐɯim
+  fanqie: 鋤針切
+  tone: 平
+  guangyun: 山小而髙又姓出南陽風俗通云古岑子國之後後漢有岑彭鋤針切九
+  senses:
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+  - concept_uuid: b392331d-0932-4bd1-9c73-9e9bb6beec66
+    concept_label: SUMMIT
+  - concept_uuid: c512e905-9006-4595-a0e5-d64d3e84b91c
+    concept_label: CRAGGY
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

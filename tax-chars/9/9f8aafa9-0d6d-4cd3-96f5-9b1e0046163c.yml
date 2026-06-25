@@ -1,0 +1,26 @@
+uuid: 9f8aafa9-0d6d-4cd3-96f5-9b1e0046163c
+type: tax-char
+heads:
+- 男
+pronunciations:
+- reading: nán
+  old_chinese: noom
+  middle_chinese: nəm
+  fanqie: 那含切
+  tone: 平
+  guangyun: 男子也又所封爵也環齊要略曰男任詔事受王命爲君
+  senses:
+  - concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+    concept_label: BOY
+  - concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+    concept_label: COPULATE
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 1b8a3aac-d13b-436a-9766-80ebc2d07757
+    concept_label: SON
+source:
+  source_file: taxchar.xml

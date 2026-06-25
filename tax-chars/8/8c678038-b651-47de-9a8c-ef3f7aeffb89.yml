@@ -1,0 +1,41 @@
+uuid: 8c678038-b651-47de-9a8c-ef3f7aeffb89
+type: tax-char
+heads:
+- 養
+pronunciations:
+- reading: yǎng
+  old_chinese: laŋʔ
+  middle_chinese: jiɐŋ
+  senses:
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+    children:
+    - gloss: abstract
+      concept_uuid: 27ffe7c2-0aaa-4c9d-837c-253b2e269f45
+      concept_label: CARE FOR
+      children:
+      - gloss: protectively
+        concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+        concept_label: SAFEGUARD
+      - gloss: restitute
+        concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+        concept_label: CURE
+        children:
+        - gloss: social
+          concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+          concept_label: SUPPORT
+          children:
+          - gloss: concrete
+            concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+            concept_label: GIVE
+    - gloss: abstact
+      concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+      concept_label: CULTIVATE
+    - gloss: means
+      concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+      concept_label: FOOD
+    - gloss: '養 (OC: laŋs MC: jiɐŋ) 廣韻：餘亮切 去 【供養 】'
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-28T19:24:09.544+09:00'

@@ -1,0 +1,26 @@
+uuid: 13cd91b9-6ad6-4e40-aa6f-0acdbf713800
+type: tax-char
+heads:
+- 寺
+pronunciations:
+- reading: sì
+  old_chinese: sɢlɯs
+  middle_chinese: zɨ
+  fanqie: 祥吏切
+  tone: 去
+  guangyun: 寺者司也官之所止有九寺釋名曰寺嗣也治事者相嗣續於其内又漢西域白馬駝經來初止於鴻臚寺遂取寺名剏置白馬寺祥吏切五
+  senses:
+  - concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+    concept_label: DWELLING
+  - concept_uuid: 8e2698e7-f5b9-4557-b90a-76d8e6b19e74
+    concept_label: EUNUCH
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+    concept_label: PUBLIC BUILDING
+  - concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+    concept_label: TEMPLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

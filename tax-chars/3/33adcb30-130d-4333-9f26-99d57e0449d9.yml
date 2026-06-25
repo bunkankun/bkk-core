@@ -1,0 +1,31 @@
+uuid: 33adcb30-130d-4333-9f26-99d57e0449d9
+type: tax-char
+heads:
+- 旦
+pronunciations:
+- reading: dàn
+  old_chinese: taans
+  middle_chinese: tɑn
+  fanqie: 得按切
+  tone: 去
+  guangyun: 早也得按切八
+  senses:
+  - concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+    concept_label: MORNING
+    children:
+    - gloss: feature
+      concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+      concept_label: BRIGHT
+    - gloss: what the morning begins
+      concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+      concept_label: DAY
+      children:
+      - gloss: reduplicated
+        concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+        concept_label: ALWAYS
+      - gloss: of birth> BIRTHDAY
+  - gloss: (female)
+    concept_uuid: 79eb81a8-8570-4305-a801-19f3f528dbbc
+    concept_label: ACTOR
+source:
+  source_file: taxchar.xml

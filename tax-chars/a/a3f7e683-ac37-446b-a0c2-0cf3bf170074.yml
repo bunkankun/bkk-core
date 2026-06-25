@@ -1,0 +1,87 @@
+uuid: a3f7e683-ac37-446b-a0c2-0cf3bf170074
+type: tax-char
+heads:
+- 參
+pronunciations:
+- reading: cān
+  old_chinese: tshuum
+  middle_chinese: tsʰəm
+  fanqie: 倉含切
+  tone: 平
+  guangyun: 參承參覲也俗作叅倉含切五
+  senses:
+  - concept_uuid: bb9ab141-adfb-443f-9908-f7485cbd7560
+    concept_label: CHECK
+    children:
+    - gloss: comprehensive
+      concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+      concept_label: INVESTIGATE
+      children:
+      - gloss: conclusive
+        concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+        concept_label: PROVE
+        children:
+        - gloss: communicative
+          concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+          concept_label: DISCUSS
+    - gloss: object superiors
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+      children:
+      - gloss: social
+        concept_uuid: e1da7261-fef3-440d-9304-1beed07b0ef2
+        concept_label: JOIN
+        children:
+        - gloss: competitive
+          concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+          concept_label: EQUAL
+        - gloss: active
+          concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+          concept_label: SUPPORT
+- reading: càn
+  old_chinese: tshuums
+  middle_chinese: tsʰəm
+  fanqie: 七紺切
+  tone: 去
+  guangyun: 參鼓俗作參
+  senses:
+  - gloss: three-beat drum tune ("drum walse"
+    concept_uuid: 55a6d0ed-c1a7-4dd1-96a6-1115480aa6be
+    concept_label: TUNE
+- reading: cēn
+  old_chinese: tshrum
+  middle_chinese: tʂʰɯim
+  fanqie: 楚簪切
+  tone: 平
+  guangyun: 同嵾
+- reading: sān
+  old_chinese: saam
+  middle_chinese: sɑm
+  fanqie: 蘇甘切
+  tone: 平
+  guangyun: 同三又七南所今二切俗作叄
+  senses:
+  - concept_uuid: 373de8d0-0d58-4780-ae06-8270d91edc3a
+    concept_label: THREE
+  - concept_label: =三
+- reading: shēn
+  old_chinese: srum
+  middle_chinese: ʃɯim
+  fanqie: 所今切
+  tone: 平
+  guangyun: 參星亦姓丗本云祝融之後又蒼含切
+  senses:
+  - concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+    concept_label: STAR
+  - gloss: ginseng
+    concept_uuid: d50ef8c5-ceb4-46a3-9dcc-82927bb68dd3
+    concept_label: MEDICINE
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+unattributed_senses:
+- concept_uuid: 9d915e1d-477b-449e-9693-851e243c1a81
+  concept_label: UNEVEN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T22:21:54.252+09:00'

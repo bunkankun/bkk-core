@@ -1,0 +1,22 @@
+uuid: a75ffcce-992c-4b4f-9cd9-6daef55bbda7
+type: tax-char
+heads:
+- 碑
+pronunciations:
+- reading: bēi
+  old_chinese: pre
+  middle_chinese: pɯiɛ
+  fanqie: 彼為切
+  tone: 平
+  guangyun: 釋名曰本葬時所設臣子追述君父之功以書其上
+  senses:
+  - concept_uuid: 7a83ff00-885d-47b0-98da-0c23c163b5a8
+    concept_label: PILLAR
+  - concept_uuid: 5a4d3a5c-e757-4a10-bc63-0a2c135f5b5c
+    concept_label: TOMBSTONE
+  - concept_uuid: e1ca2fd3-1fd6-4186-9b5a-5f8219ac7630
+    concept_label: LITERARY GENRE
+  - concept_uuid: b893d81a-e6a1-4d20-ac9a-758645df7717
+    concept_label: TEXT
+source:
+  source_file: taxchar.xml

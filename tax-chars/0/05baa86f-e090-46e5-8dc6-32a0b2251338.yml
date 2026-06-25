@@ -1,0 +1,32 @@
+uuid: 05baa86f-e090-46e5-8dc6-32a0b2251338
+type: tax-char
+heads:
+- 拘
+pronunciations:
+- reading: jū
+  old_chinese: ko
+  middle_chinese: kio
+  fanqie: 舉朱切
+  tone: 平
+  guangyun: 執也舉朱切十四
+  senses:
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+    concept_label: PRISONER
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+    concept_label: STUBBORN
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: bb1012b5-797b-46a2-a1b5-5215db623780
+    concept_label: RHYTHM
+source:
+  source_file: taxchar.xml

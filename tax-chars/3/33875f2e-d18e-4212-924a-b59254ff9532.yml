@@ -1,0 +1,28 @@
+uuid: 33875f2e-d18e-4212-924a-b59254ff9532
+type: tax-char
+heads:
+- 虜
+pronunciations:
+- reading: lǔ
+  old_chinese: ɡ-raaʔ
+  middle_chinese: luo
+  fanqie: 郎古切
+  tone: 上
+  guangyun: 虜掠又獲也服也
+  senses:
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+    concept_label: BARBARIAN
+  - concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+    concept_label: ENEMY
+  - concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+    concept_label: PRISONER
+  - concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+    concept_label: SLAVE
+  - concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+    concept_label: VILLAIN
+  - concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+    concept_label: ROB
+source:
+  source_file: taxchar.xml

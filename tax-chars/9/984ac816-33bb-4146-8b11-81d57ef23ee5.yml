@@ -1,0 +1,28 @@
+uuid: 984ac816-33bb-4146-8b11-81d57ef23ee5
+type: tax-char
+heads:
+- 霏
+pronunciations:
+- reading: fēi
+  old_chinese: phɯl
+  middle_chinese: pʰʷɨi
+  fanqie: 芳非切
+  tone: 平
+  guangyun: 雪皃芳非切九
+  senses:
+  - concept_uuid: d045ba19-84b3-418c-9303-dcc0d7a1a1be
+    concept_label: SNOW
+  - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+    concept_label: DENSE
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+    concept_label: CLOUD
+- reading: fēi
+  old_chinese: phɯl
+  middle_chinese: pʰʷɨi
+  fanqie: 芳非切
+  tone: 平
+  guangyun: 同霏
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,37 @@
+uuid: 54efaf1e-6751-44f8-ab39-f99cb33b1873
+type: tax-char
+heads:
+- 雷
+pronunciations:
+- reading: léi
+  old_chinese: ruul
+  middle_chinese: luoi
+  fanqie: 魯回切
+  tone: 平
+  guangyun: 説文作靁云隂陽薄動靁雨生土物者也又姓後漢有雷義魯回切十三
+  senses:
+  - concept_uuid: 112ed6ac-08ec-4341-bd13-22ba52c7d742
+    concept_label: THUNDER
+    children:
+    - gloss: feature
+      concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+      concept_label: QUICK
+    - gloss: feature
+      concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+      concept_label: BIG
+    - gloss: 'metaphorical: what thunders'
+      concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+      concept_label: WEAPON
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =罍
+    concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+unattributed_senses:
+- gloss: 雷 ｌｅｉ４《集韻》盧對切，去隊來
+  children:
+  - gloss: (of drum)
+    concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+    concept_label: KNOCK
+source:
+  source_file: taxchar.xml

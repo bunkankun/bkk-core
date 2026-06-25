@@ -1,0 +1,24 @@
+uuid: 166cae88-172e-4729-a3fd-e73c6452af57
+type: tax-char
+heads:
+- 翔
+pronunciations:
+- reading: xiáng
+  old_chinese: sɢlaŋ
+  middle_chinese: ziɐŋ
+  fanqie: 似羊切
+  tone: 平
+  guangyun: 翶翔
+  senses:
+  - concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+    concept_label: FLY
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+    concept_label: REST
+  - concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+    concept_label: INCREASE
+  - gloss: = 詳
+  - gloss: = 祥
+source:
+  source_file: taxchar.xml

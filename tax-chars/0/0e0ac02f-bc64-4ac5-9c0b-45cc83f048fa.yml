@@ -1,0 +1,90 @@
+uuid: 0e0ac02f-bc64-4ac5-9c0b-45cc83f048fa
+type: tax-char
+heads:
+- 能
+pronunciations:
+- reading: nài
+  old_chinese: nɯɯs
+  middle_chinese: nəi
+  fanqie: 奴代切
+  tone: 去
+  guangyun: 技能又姓何氏姓苑云長廣人
+- reading: néng
+  old_chinese: nɯɯŋ
+  middle_chinese: nəŋ
+  fanqie: 奴登切
+  tone: 平
+  guangyun: 工善也又獸名熊屬足似鹿亦賢能也奴登切又奴代奴來二切一
+- reading: nái
+  old_chinese: nɯɯ
+  middle_chinese: nəi
+  fanqie: 奴來切
+  tone: 平
+  guangyun: 爾雅謂三足鼈也又獸名禹父所化也奴來切又奴登切二
+- reading: něng
+  old_chinese: nɯɯŋʔ
+  middle_chinese: nəŋ
+  fanqie: 奴等切
+  tone: 上
+  guangyun: 夷人語奴等切本又奴登切一
+unattributed_senses:
+- gloss: be capable
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  concept_label: ABLE
+  children:
+  - gloss: able to do things
+    concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+    concept_label: EXCELLENT
+    children:
+    - gloss: resultative:prove ability to
+      concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+      concept_label: ACHIEVE
+      children:
+      - gloss: have the necessary courage
+        concept_uuid: 24babc50-0437-41ce-8bea-61b0cd9cdae6
+        concept_label: DARE
+        children:
+        - gloss: able to dominate others
+          concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+          concept_label: POWER
+    - gloss: cause to become excellent
+      concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+      concept_label: CULTIVATE
+  - gloss: basis of ability
+    concept_uuid: cc904ef7-5afa-4730-811a-90532c83bcb5
+    concept_label: EXPERIENCE
+  - gloss: show similar ability
+    concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+    children:
+    - gloss: aim to
+      concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+      concept_label: COMPETE
+  - gloss: able to give away things
+    concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+    concept_label: GENEROUS
+    children:
+    - gloss: mutually generous
+      concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+      concept_label: HARMONY
+  - gloss: be able to put up with
+    concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+    concept_label: ENDURE
+    children:
+    - gloss: able to happen
+      concept_uuid: 63e9e456-6c94-46b4-9b88-1823a49bd3af
+      concept_label: POSSIBLE
+      children:
+      - gloss: very possible
+        concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+        concept_label: PROBABLE
+      - gloss: so that it becomes possible
+        concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+        concept_label: THEN
+  - gloss: be able and willing
+    concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+    concept_label: INTEND
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-19T20:33:41.275+09:00'

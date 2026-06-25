@@ -1,0 +1,63 @@
+uuid: dd72b706-45d0-4505-a1fb-96c8e4f92e4a
+type: tax-char
+heads:
+- 必
+pronunciations:
+- reading: bì
+  old_chinese: piɡ
+  middle_chinese: pit
+  fanqie: 卑吉切
+  tone: 入
+  guangyun: 審也然也説文曰分極也从八弋卑吉切二十七
+  senses:
+  - concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+    concept_label: CERTAIN
+    children:
+    - gloss: generalised
+      concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+      concept_label: COPULA
+    - gloss: putative:believe as certain
+      concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+      concept_label: KNOW
+    - gloss: temporal:at all times
+      concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+      concept_label: ALWAYS
+      children:
+      - gloss: 'causative: make certain'
+        concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+        concept_label: FIX
+        children:
+        - gloss: be psychologically fixed
+          concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+          concept_label: STUBBORN
+          children:
+          - gloss: 'declarative:'
+            concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+            concept_label: INSIST
+        - gloss: stative
+          concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+          concept_label: ENDURING
+    - gloss: logically
+      concept_uuid: c8ecf111-72bd-481a-b746-2701df3c1c41
+      concept_label: NECESSITY
+      children:
+      - gloss: as a necessary condition
+        concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+        concept_label: IF
+      - gloss: morally
+        concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+        concept_label: SHOULD
+        children:
+        - gloss: should have
+          concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+          concept_label: NEED
+    - gloss: as an invariant consequence
+      concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+      concept_label: THEN
+    - gloss: as a conclusion to be drawn
+      concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+      concept_label: THEREFORE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-30T21:51:04.192+09:00'

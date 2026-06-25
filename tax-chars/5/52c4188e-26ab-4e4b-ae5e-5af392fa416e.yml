@@ -1,0 +1,72 @@
+uuid: 52c4188e-26ab-4e4b-ae5e-5af392fa416e
+type: tax-char
+heads:
+- 即
+pronunciations:
+- reading: jí
+  old_chinese: tsɯɡ
+  middle_chinese: tsɨk
+  fanqie: 子力切
+  tone: 入
+  guangyun: 就也今也舎也半也説文作卽食也亦姓風俗通有單父令即賣又漢複姓有城陽相齊人即墨成子力切十六
+  senses:
+  - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+    concept_label: GO TO
+    children:
+    - gloss: 'conative: try to catch up with'
+      concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+      concept_label: PURSUE
+      children:
+      - gloss: get near to
+        concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+        concept_label: APPROACH
+        children:
+        - gloss: resultative
+          concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+          concept_label: ARRIVE
+    - gloss: upwards
+      concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+      concept_label: ASCEND
+    - gloss: figurative
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: 'grammaticalised: conform to the predicate'
+        concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+        concept_label: COPULA
+        children:
+        - gloss: temporal
+          concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+          concept_label: NOW
+          children:
+          - gloss: 'adversative: at the same time, in spite of difference'
+            concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+            concept_label: NONETHELESS
+          - gloss: without delay
+            concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+            concept_label: IMMEDIATELY
+          - gloss: grammaticalised:conditional
+            concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+            concept_label: IF
+          - gloss: concessive
+            concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+            concept_label: EVEN IF
+            children:
+            - gloss: causative
+              concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+              concept_label: BECAUSE
+            - gloss: even if someone is
+              concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+              concept_label: EVEN
+              children:
+              - gloss: logical
+                concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+                concept_label: THEN
+                children:
+                - gloss: temporal
+                  concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+                  concept_label: THEREUPON
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T20:20:02.034+09:00'

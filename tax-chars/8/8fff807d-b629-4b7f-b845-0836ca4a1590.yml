@@ -1,0 +1,24 @@
+uuid: 8fff807d-b629-4b7f-b845-0836ca4a1590
+type: tax-char
+heads:
+- 亭
+pronunciations:
+- reading: tíng
+  old_chinese: deeŋ
+  middle_chinese: deŋ
+  fanqie: 特丁切
+  tone: 平
+  guangyun: 今亭子名釋名曰亭停也人所停集也漢典職曰洛陽二十街街一亭十二城門門一亭也
+  senses:
+  - concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+    concept_label: BUILDING
+  - concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+    concept_label: DECIDE
+  - concept_uuid: 86bf2b17-8d3b-43b9-b82a-5fca0eb14887
+    concept_label: GEOMETRIC SHAPE
+  - concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+    concept_label: GUEST HOUSE
+  - concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+source:
+  source_file: taxchar.xml

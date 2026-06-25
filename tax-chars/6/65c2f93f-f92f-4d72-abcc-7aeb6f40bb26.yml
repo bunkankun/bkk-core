@@ -1,0 +1,48 @@
+uuid: 65c2f93f-f92f-4d72-abcc-7aeb6f40bb26
+type: tax-char
+heads:
+- 膠
+pronunciations:
+- reading: jiāo
+  old_chinese: kruu
+  middle_chinese: kɯau
+  fanqie: 古肴切
+  tone: 平
+  guangyun: 膠漆亦太學也又姓史記紂臣膠鬲
+  senses:
+  - concept_uuid: 852e3351-1f78-4c24-9a79-f7b4048e2968
+    concept_label: GLUE
+  - concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+    concept_label: SCHOOL
+  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+    concept_label: DRUG
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: xiáo
+  old_chinese: ɡreew
+  middle_chinese: ɦɯau
+  fanqie: 胡茅切
+  tone: 平
+  guangyun: 字書云胶聲也
+- reading: qiāo
+  old_chinese: krɯɯn
+  middle_chinese: kʰɯau
+  fanqie: 口交切
+  tone: 平
+  guangyun: 面不平也
+- reading: (jiào)
+  old_chinese: krɯɯws
+  middle_chinese: kɯau
+  fanqie: 古孝切
+  tone: 去
+  guangyun: 膠黏物又音交
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,22 @@
+uuid: 361f3264-b763-418f-847c-4d03d7483231
+type: tax-char
+heads:
+- 杳
+pronunciations:
+- reading: yǎo
+  old_chinese: qeewʔ
+  middle_chinese: ʔeu
+  fanqie: 烏皎切
+  tone: 上
+  guangyun: 冥也深也寛也烏皎切十五
+  senses:
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+    concept_label: DISAPPEAR
+  - concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+    concept_label: OBSCURE
+source:
+  source_file: taxchar.xml

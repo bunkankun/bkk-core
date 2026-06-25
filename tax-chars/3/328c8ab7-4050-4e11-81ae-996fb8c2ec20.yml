@@ -1,0 +1,33 @@
+uuid: 328c8ab7-4050-4e11-81ae-996fb8c2ec20
+type: tax-char
+heads:
+- 并
+pronunciations:
+- reading: bìng
+  old_chinese: peŋs
+  middle_chinese: piɛŋ
+  fanqie: 畀政切
+  tone: 去
+  guangyun: 專也
+  senses:
+  - concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+    concept_label: ANNEX
+    children:
+    - gloss: generalised
+      concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+      concept_label: UNITE
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+    concept_label: AND
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+    concept_label: IMITATE
+  - concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+  - concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+    concept_label: TOGETHER
+  - gloss: UNITE] ALL THESE 8 LINES MUST BE DELETED WITH EXAMPLES THIS WAS A MESS!!!!!!!!!!!!
+source:
+  source_file: taxchar.xml

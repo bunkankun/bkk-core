@@ -1,0 +1,61 @@
+uuid: 93b9bda1-70ca-4aec-854c-2b9293455e75
+type: tax-char
+heads:
+- 辯
+pronunciations:
+- reading: biàn
+  old_chinese: brenʔ
+  middle_chinese: bɯiɛn
+  fanqie: 符蹇切
+  tone: 上
+  guangyun: 别也理也慧也説文治也符蹇切五
+  senses:
+  - concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+    concept_label: DISCUSS
+    children:
+    - gloss: able to discuss well
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: 'feature:'
+        concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+        concept_label: INTELLIGENT
+        children:
+        - gloss: negative
+          concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+          concept_label: CLEVER
+      - gloss: causative
+        concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+        concept_label: EXPLAIN
+        children:
+        - gloss: controversial> ARGUMENT
+        - gloss: causative> consequently
+          concept_uuid: 343adc4e-45ae-4263-94c9-065c0db6a9f5
+          concept_label: MAKE CORRECT
+          children:
+          - gloss: intellectual result
+            concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+            concept_label: CLEAR
+          - gloss: 'social: control intellectually and control'
+            concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+            concept_label: GOVERN
+    - gloss: among several people
+      concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+      concept_label: DIALOGUE
+      children:
+      - gloss: excel at
+        concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+        concept_label: ELOQUENT
+        children:
+        - gloss: too much> SOPHISTRY
+  - gloss: =辨
+    concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+    concept_label: DISTINGUISH
+  - gloss: =變
+unattributed_senses:
+- gloss: 辯 ｐｉａｎ２《集韻》毗連切，平仙並。
+- gloss: 辯 ｂｉａｎ３《集韻》悲檢切，上儼幫。元部。
+  children:
+  - gloss: =貶
+source:
+  source_file: taxchar.xml

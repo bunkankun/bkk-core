@@ -1,0 +1,33 @@
+uuid: b8fb84b4-ef5e-4e91-829b-ffbc6b068198
+type: tax-char
+heads:
+- 匱
+pronunciations:
+- reading: guì
+  old_chinese: ɡruds
+  middle_chinese: ɡʷɯi
+  fanqie: 求位切
+  tone: 去
+  guangyun: 竭也乏也説文曰匣也又姓何氏姓苑云今廬江人求位切十一
+  senses:
+  - concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+    concept_label: BOX
+  - concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+    concept_label: FAIL
+  - concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+    concept_label: FEW
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+  - concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+    concept_label: CANAL
+  - concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+    concept_label: LAKE
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 潰
+  - gloss: = 簣
+  - gloss: = 餽
+source:
+  source_file: taxchar.xml

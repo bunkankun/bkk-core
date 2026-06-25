@@ -1,0 +1,64 @@
+uuid: ddb42bb6-7918-447f-b149-8b6ac0bed2f0
+type: tax-char
+heads:
+- 息
+pronunciations:
+- reading: xī
+  old_chinese: sqlɯɡ
+  middle_chinese: sɨk
+  fanqie: 相即切
+  tone: 入
+  guangyun: 止也又嬎息也説文喘也亦姓姓苑云今襄陽人又漢複姓前漢書有河内息夫躬相即切十一
+  senses:
+  - concept_label: 上古音系： 聲符 息 韻部 職 韻部細分 0 對應廣韻小韻 息 擬音 slɯɡ 說文自亦聲
+  - concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+    concept_label: BREATHE
+    children:
+    - gloss: figurative:cosmic
+      concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+      concept_label: WIND
+    - gloss: audibly showing feeling
+      concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+      concept_label: SIGH
+    - gloss: be envigorated
+      concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+      concept_label: FLOURISH
+      children:
+      - gloss: economically
+        concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+        concept_label: PROFIT
+    - gloss: social
+      concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+      concept_label: PEACEFUL
+      children:
+      - gloss: quietly
+        concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+        concept_label: REST
+        children:
+        - gloss: intensitive
+          concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+          concept_label: SLEEP
+        - gloss: discontinue
+          concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+          concept_label: END
+          children:
+          - concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+            concept_label: DISAPPEAR
+          - gloss: causative
+            concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+            concept_label: DESTROY
+            children:
+            - gloss: object fire
+              concept_uuid: 9cbdabe9-f820-4089-a736-bb73374373ce
+              concept_label: EXTINGUISH
+      - gloss: action
+        concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+        concept_label: STOP
+  - concept_uuid: c5d500f3-84ad-4e6b-8793-4f5a06156866
+    concept_label: RULER'S CONSORTS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-30T06:33:13.883+09:00'

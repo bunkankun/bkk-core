@@ -1,0 +1,34 @@
+uuid: 25f66296-8347-4e78-8198-d1f8e277db2a
+type: tax-char
+heads:
+- 缺
+pronunciations:
+- reading: quē
+  old_chinese: khʷeed
+  middle_chinese: kʰʷet
+  fanqie: 苦穴切
+  tone: 入
+  guangyun: 器破
+  senses:
+  - concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+    concept_label: DAMAGE
+  - concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+    concept_label: DEFECT
+  - concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: HOLE
+  - concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+    concept_label: LACK
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+  - concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+    concept_label: OFFICE
+  - concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+    concept_label: DECLINE
+- reading: quē
+  old_chinese: khʷed
+  middle_chinese: kʰʷiɛt
+  fanqie: 傾雪切
+  tone: 入
+  guangyun: 少也説文曰器破也傾雪切二
+source:
+  source_file: taxchar.xml

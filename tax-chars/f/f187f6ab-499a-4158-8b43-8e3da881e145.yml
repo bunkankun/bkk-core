@@ -1,0 +1,46 @@
+uuid: f187f6ab-499a-4158-8b43-8e3da881e145
+type: tax-char
+heads:
+- 赴
+pronunciations:
+- reading: fù
+  old_chinese: phoɡs
+  middle_chinese: pʰio
+  fanqie: 芳遇切
+  tone: 去
+  guangyun: 奔赴爾雅曰至也説文曰趨也芳遇切十一
+  senses:
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+    children:
+    - concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+      concept_label: GO TO
+    - concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+      concept_label: STRIVE FOR
+    - concept_uuid: e1da7261-fef3-440d-9304-1beed07b0ef2
+      concept_label: JOIN
+      children:
+      - concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+        concept_label: RESCUE
+      - concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+      - concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+        concept_label: MEET
+      - concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+        concept_label: ENTER
+        children:
+        - gloss: by leaping into
+          concept_uuid: ad76aa1f-cbab-460d-9fd7-639646e2e466
+          concept_label: JUMP
+          children:
+          - concept_uuid: 8ac2c103-2517-4ad1-b55e-5aae5299cfd7
+            concept_label: SWIM
+  - gloss: =訃
+    concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: MOURNING
+    children:
+    - gloss: generalised
+      concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+      concept_label: PUBLICISE
+source:
+  source_file: taxchar.xml

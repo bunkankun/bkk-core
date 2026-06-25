@@ -1,0 +1,37 @@
+uuid: e710143d-ea99-40d2-9e8b-fce687a45460
+type: tax-char
+heads:
+- 烏
+pronunciations:
+- reading: wū
+  old_chinese: qaa
+  middle_chinese: ʔuo
+  fanqie: 哀都切
+  tone: 平
+  guangyun: 安也語辝也説文曰孝烏也爾雅曰純黒而返哺者謂之烏小而不返哺者謂之鵶又姓左傳齊大夫烏枚嗚又虜姓周上開府烏丸泥又虜三字姓北齊有烏郍羅愛後魏書有烏石蘭氏烏落蘭氏哀都切二十一
+  senses:
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+    concept_label: BLACK
+  - concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+    concept_label: DEITIES
+  - gloss: grammaticalied
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - gloss: grammaticalised
+    concept_uuid: 1db817e2-4fe1-4aa2-bacd-ff56264d241f
+    concept_label: EXCLAMATORY PARTICLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =歍
+unattributed_senses:
+- gloss: 烏 ｙａ１《集韻》於加切，平麻影。
+  children:
+  - gloss: 烏秅
+    concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

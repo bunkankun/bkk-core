@@ -1,0 +1,24 @@
+uuid: 6efe56ce-14c6-4f47-ae7e-6483130289a1
+type: tax-char
+heads:
+- 宙
+pronunciations:
+- reading: zhòu
+  old_chinese: rliwɡs
+  middle_chinese: ɖiu
+  fanqie: 直祐切
+  tone: 去
+  guangyun: 宇宙
+  senses:
+  - concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+    concept_label: BEAM
+  - concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+    concept_label: SKY
+  - concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+    concept_label: WORLD
+  - concept_uuid: 9fb7a35f-ca3e-46d1-b402-c2b29a983712
+    concept_label: ETERNITY
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+source:
+  source_file: taxchar.xml

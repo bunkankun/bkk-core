@@ -1,0 +1,29 @@
+uuid: 2958fe6d-65f2-45cb-a987-51fa230b9fbe
+type: tax-char
+heads:
+- 倒
+pronunciations:
+- reading: dào
+  old_chinese: k-laaws
+  middle_chinese: tɑu
+  fanqie: 都導切
+  tone: 去
+  guangyun: 倒懸又當老切
+  senses:
+  - concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+    concept_label: CONFUSED
+  - concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+    concept_label: OPPOSE
+  - concept_uuid: 67bdc5de-b782-4007-805c-7ebf1ae755c7
+    concept_label: TURN UPSIDE DOWN
+- reading: dǎo
+  old_chinese: k-leewʔ
+  middle_chinese: tɑu
+  fanqie: 都晧切
+  tone: 上
+  guangyun: 仆也都晧切十一
+  senses:
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+source:
+  source_file: taxchar.xml

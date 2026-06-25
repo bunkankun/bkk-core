@@ -1,0 +1,115 @@
+uuid: c573de69-1e93-4aae-b47f-dea3ad09baca
+type: tax-char
+heads:
+- 次
+pronunciations:
+- reading: cì
+  old_chinese: snʰis
+  middle_chinese: tsʰi
+  fanqie: 七四切
+  tone: 去
+  guangyun: 次第也亦三宿曰次又姓吕氏春秋荆有勇士次非七四切九
+  senses:
+  - concept_uuid: 635912f0-e3af-4e12-90d3-243df2a9622f
+    concept_label: NEXT
+    children:
+    - gloss: what happens next
+      concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+      concept_label: EVENT
+      children:
+      - gloss: 'action: put next'
+        concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+        concept_label: REPLACE
+        children:
+        - gloss: specific
+          concept_uuid: df2b12b7-6963-4e65-841e-45983b22081e
+          concept_label: DEMOTE
+        - gloss: replacement for hair
+          concept_label: WHIG
+      - gloss: concrete sequence
+        concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+        concept_label: ORDERLY
+        children:
+        - gloss: abstract
+          concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+          concept_label: ORDER
+          children:
+          - gloss: comprehensive
+            concept_uuid: ef0251ed-2c77-481b-929c-455bd198a56e
+            concept_label: SYSTEM
+            children:
+            - gloss: 'part of social system: abstract'
+              concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+              concept_label: RANK
+        - gloss: action
+          concept_label: PREPARE
+          children:
+          - gloss: creation
+            concept_label: COMPOSE
+    - gloss: generalised
+      concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+      concept_label: NEAR
+      children:
+      - gloss: two objects
+        concept_uuid: 62dbda50-113a-42b2-a2fc-ba3399469619
+        concept_label: BETWEEN
+        children:
+        - gloss: be between boundaries
+          concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+          concept_label: BE IN
+      - gloss: 'feature: but not reaching in quality'
+        concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+        concept_label: BAD
+  - gloss: military
+    concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+    children:
+    - gloss: 'object: for an activity'
+      concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+      concept_label: PLACE
+      children:
+      - gloss: continuative
+        concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+        concept_label: REMAIN
+      - gloss: building
+        concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+        concept_label: DWELLING
+        children:
+        - gloss: ceremonial
+          concept_uuid: 5bfdaf2e-5888-495d-b48d-ad290c7ad5a3
+          concept_label: TENT
+        - gloss: for official business
+          concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+          concept_label: OFFICE
+          children:
+          - gloss: military
+            concept_uuid: 6317db9e-f402-42e9-b1e0-8d04fca07bf7
+            concept_label: CAMP
+      - gloss: for trade
+        concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+        concept_label: MARKET
+  - gloss: grammaticalised
+    concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+    concept_label: THEREUPON
+    children:
+    - gloss: logical
+      concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+      concept_label: THEN
+      children:
+      - gloss: temporal
+        concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+        concept_label: WHEN
+  - gloss: =恣
+    concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+unattributed_senses:
+- concept_label: 次 zī《集韻》津私切，平脂精。脂部。
+  children:
+  - concept_label: 〔次且〕也作“趑趄”。欲進不前的樣子。
+- concept_label: 次 cí《集韻》才資切，平脂從。
+  children:
+  - concept_label: 〔具次〕山名。《集韻•脂韻》：“次，具次，山名。”
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-09-15T21:49:28.7+09:00'

@@ -1,0 +1,90 @@
+uuid: b9a879a6-5ad5-4683-9711-9dfab818deb3
+type: tax-char
+heads:
+- 庸
+pronunciations:
+- reading: yōng
+  old_chinese: k-loŋ
+  middle_chinese: jioŋ
+  fanqie: 餘封切
+  tone: 平
+  guangyun: 常也用也功也和也次也易也又姓漢有庸光
+  senses:
+  - concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+    concept_label: EMPLOY
+    children:
+    - gloss: 'grammaticalised: using, with'
+      concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+      concept_label: USE
+    - gloss: psychological
+      concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+      concept_label: NEED
+    - gloss: new
+      concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+      concept_label: REPLACE
+    - gloss: as employee
+      concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+      concept_label: WORK
+      children:
+      - gloss: hard
+        concept_uuid: 2f844934-733e-4e0c-90df-5369a0338e96
+        concept_label: LABOUR
+      - gloss: generalised
+        concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+        concept_label: EFFORT
+        children:
+        - gloss: abstract
+          concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+          concept_label: ACT
+      - gloss: result
+        concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+        concept_label: MERIT
+        children:
+        - gloss: response
+          concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+          concept_label: REWARD
+          children:
+          - gloss: result
+            concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+            concept_label: FAMOUS
+      - gloss: 'subjet: worker'
+        concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+        concept_label: ARTISAN
+      - gloss: 'feature:'
+        concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+        concept_label: ENDURING
+        children:
+        - gloss: grammaticalised
+          concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+          concept_label: ALWAYS
+        - gloss: grammaticalised
+          concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+          concept_label: OFTEN
+          children:
+          - gloss: epistemic> PROBABLY
+          - gloss: feature
+            concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+            concept_label: ORDINARY
+            children:
+            - gloss: specificSTUPID
+  - gloss: grammaticalised
+    concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - gloss: grammaticalised
+    concept_uuid: b3fe63e1-7492-4aa9-a975-5a72b04c16df
+    concept_label: WHO
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: =慵
+    concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+  - gloss: =鏞 (big)
+    concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+    concept_label: BELL
+  - gloss: =墉
+    concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+    concept_label: WALL
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,22 @@
+uuid: adfc22e3-df57-413c-8d61-66269563671f
+type: tax-char
+heads:
+- 犬
+pronunciations:
+- reading: quǎn
+  old_chinese: khʷeenʔ
+  middle_chinese: kʰʷen
+  fanqie: 苦泫切
+  tone: 上
+  guangyun: 狗有懸蹄者曰犬廣雅云殷虞晉獒楚獚韓獹宋㹱並良犬苦泫切一
+  senses:
+  - concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+    concept_label: DOG
+  - gloss: 'grammaticalised: self-effacing'
+    concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - gloss: 'grammaticalised: insulting'
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+source:
+  source_file: taxchar.xml

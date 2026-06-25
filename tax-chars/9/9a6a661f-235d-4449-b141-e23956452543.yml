@@ -1,0 +1,41 @@
+uuid: 9a6a661f-235d-4449-b141-e23956452543
+type: tax-char
+heads:
+- 翠
+pronunciations:
+- reading: cuì
+  old_chinese: skhuds
+  middle_chinese: tsʰʷi
+  fanqie: 七醉切
+  tone: 去
+  guangyun: 字林云靑羽雀又翠微亦姓急就章有翠鴛鴦七醉切三
+  senses:
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+    children:
+    - gloss: typical part
+      concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+      concept_label: FEATHER
+    - gloss: 'edible part: tail> =臎'
+      concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+      concept_label: MEAT
+    - gloss: typical colour
+      concept_uuid: 2c12b51a-6442-47a9-b247-3b866cf65f39
+      concept_label: GREEN
+      children:
+      - gloss: generalised
+        concept_uuid: cd7aa261-2ec3-4d4e-9c10-c09f3196c4d5
+        concept_label: PALE
+      - gloss: 'dialect: generalised brilliant'
+        concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+        concept_label: BRIGHT
+      - gloss: associated feature
+        concept_uuid: 41e78ed2-7fdc-4b17-842e-b9ff7a411a25
+        concept_label: FRESH
+      - gloss: associated object
+        concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+        concept_label: JADE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

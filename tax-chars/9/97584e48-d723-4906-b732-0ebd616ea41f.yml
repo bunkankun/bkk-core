@@ -1,0 +1,52 @@
+uuid: 97584e48-d723-4906-b732-0ebd616ea41f
+type: tax-char
+heads:
+- 泛
+- 汎
+pronunciations:
+- reading: fàn
+  old_chinese: phoms
+  middle_chinese: pʰiɐm
+  fanqie: 孚梵切
+  tone: 去
+  guangyun: 同汎
+  senses:
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+    concept_label: BROAD
+  - concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+    concept_label: FLOAT
+  - concept_uuid: 1ea674e6-87f9-4a1f-8255-dc087784ceeb
+    concept_label: NAVIGATE
+  - concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+    concept_label: FLOW
+  - concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+    concept_label: DRINK
+  - concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+    concept_label: SHOW
+  - concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+    concept_label: ORDINARY
+  - concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+    concept_label: NEGLECT
+  - concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+    concept_label: PLUCK STRINGS
+  - concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+    concept_label: GATE PART
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 39c41508-6f16-46e9-a6ad-460a67f987a6
+    concept_label: FISHING TOOLS
+  - gloss: = 氾
+  - gloss: = 洀盤
+- reading: fá
+  old_chinese: bob
+  middle_chinese: biɐp
+  fanqie: 房法切
+  tone: 入
+  guangyun: 水聲又孚梵切
+  senses:
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+source:
+  source_file: taxchar.xml

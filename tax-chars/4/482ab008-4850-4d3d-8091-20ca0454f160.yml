@@ -1,0 +1,116 @@
+uuid: 482ab008-4850-4d3d-8091-20ca0454f160
+type: tax-char
+heads:
+- 精
+pronunciations:
+- reading: jìng
+  old_chinese: tseŋs
+  middle_chinese: tsiɛŋ
+  fanqie: 子姓切
+  tone: 去
+  guangyun: 強也子姓切又音旌一
+  senses:
+  - concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+    concept_label: STRONG
+  - concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+    concept_label: TEMPLE
+- reading: jīng
+  old_chinese: tseŋ
+  middle_chinese: tsiɛŋ
+  fanqie: 子盈切
+  tone: 平
+  guangyun: 明也正也善也好也説文曰擇也易曰純粹精也子盈切十五
+  senses:
+  - gloss: fine
+    concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+    concept_label: RICE
+    children:
+    - gloss: 'abstract:'
+      concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+      concept_label: PURE
+      children:
+      - gloss: physical
+        concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+        concept_label: BRIGHT
+        children:
+        - gloss: abstract
+          concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+          concept_label: CLEAR
+          children:
+          - gloss: find clear
+            concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+            concept_label: UNDERSTAND
+            children:
+            - gloss: religious
+              concept_uuid: 60befdc4-6238-4a84-8c50-7e80201e249c
+              concept_label: PIOUS
+        - gloss: 'exocentric: pure'
+          concept_uuid: b0efc5ff-4d2b-4c80-9e8c-da57f1268678
+          concept_label: LIQUID
+        - gloss: 'exocentric: pure, non-fat'
+          concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+          concept_label: MEAT
+        - gloss: 'commendatory:'
+          concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+          concept_label: EXCELLENT
+          children:
+          - gloss: pure and metaphysically efficacious
+            concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+            concept_label: TENUOUS
+            children:
+            - gloss: generalised
+              concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+              concept_label: SMALL
+            - gloss: thus hidden
+              concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+              concept_label: SECRET
+              children:
+              - gloss: commendatory
+                concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+                concept_label: PROFOUND
+          - gloss: concrete
+            concept_uuid: 6c2403de-2739-4f1a-be9a-d2638d5d52f1
+            concept_label: SPERM
+            children:
+            - gloss: abstract
+              concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+              concept_label: ESSENCE
+              children:
+              - gloss: metaphysical
+                concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+                concept_label: ENERGY
+                children:
+                - gloss: generalised
+                  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+                  concept_label: INTENSELY
+                  children:
+                  - gloss: physically
+                    concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+                    concept_label: SHARP
+                  - gloss: optically
+                    concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+                    concept_label: BRIGHT
+                    children:
+                    - gloss: heavenly bodies
+                      concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+                      concept_label: STAR
+                - gloss: psychological
+                  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+                  concept_label: SOUL
+                  children:
+                  - gloss: organ of
+                    concept_uuid: 0f602a76-537c-468f-a2f8-21b230f33b71
+                    concept_label: PUPIL
+                  - gloss: religious, personal
+                    concept_uuid: 3005dd74-e3f8-4c0a-a760-fcb009c1a067
+                    concept_label: GHOST
+                    children:
+                    - gloss: of any creature
+                      concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+                      concept_label: SPIRIT
+                      children:
+                      - gloss: generalised
+                        concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+                        concept_label: DEITY
+source:
+  source_file: taxchar.xml

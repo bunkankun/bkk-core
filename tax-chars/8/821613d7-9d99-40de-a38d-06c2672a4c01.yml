@@ -1,0 +1,42 @@
+uuid: 821613d7-9d99-40de-a38d-06c2672a4c01
+type: tax-char
+heads:
+- 脅
+pronunciations:
+- reading: xiàn
+  old_chinese: qhloms
+  middle_chinese: hiɐm
+  fanqie: 許欠切
+  tone: 去
+  guangyun: 妨也許欠切二
+- reading: xié
+  old_chinese: qhlob
+  middle_chinese: hiɐp
+  fanqie: 虚業切
+  tone: 入
+  guangyun: 胷脅虚業切九
+  senses:
+  - concept_uuid: c81f92f3-1dcc-4dd6-a9dc-29a1bbebfdaf
+    concept_label: ARMPIT
+  - concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+    concept_label: BONE
+  - concept_uuid: 8cfbd727-d0a9-4572-bcd9-464e4f43bb0d
+    concept_label: RIB
+  - concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+    concept_label: THREATEN
+  - concept_uuid: d1f0564b-6c21-4761-8dbe-c1246dbc7878
+    concept_label: SIDE
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 翕
+  - gloss: = 拹
+- reading: xiàn
+  old_chinese: hlams
+  middle_chinese: hiɐm
+  fanqie: 許欠切
+  tone: 去
+  guangyun: 妨也許欠切二
+source:
+  source_file: taxchar.xml

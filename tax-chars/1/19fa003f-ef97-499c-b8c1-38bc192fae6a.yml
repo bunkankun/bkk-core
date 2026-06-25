@@ -1,0 +1,22 @@
+uuid: 19fa003f-ef97-499c-b8c1-38bc192fae6a
+type: tax-char
+heads:
+- 序
+pronunciations:
+- reading: xù
+  old_chinese: ljaʔ
+  middle_chinese: ziɔ
+  fanqie: 徐吕切
+  tone: 上
+  guangyun: 庠序又爾雅曰東西牆謂之序
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+    concept_label: ORDER
+  - concept_uuid: a8aa6721-be14-4656-b54c-e70e49d0d5cb
+    concept_label: PREFACE
+  - concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+    concept_label: SCHOOL
+source:
+  source_file: taxchar.xml

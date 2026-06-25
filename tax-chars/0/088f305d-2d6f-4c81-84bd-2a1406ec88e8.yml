@@ -1,0 +1,26 @@
+uuid: 088f305d-2d6f-4c81-84bd-2a1406ec88e8
+type: tax-char
+heads:
+- 責
+pronunciations:
+- reading: zé
+  old_chinese: skreeɡ
+  middle_chinese: tʂɯæk
+  fanqie: 側革切
+  tone: 入
+  guangyun: 求也側革切十一
+  senses:
+  - concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+    concept_label: ACCUSE
+  - concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+    concept_label: ASK
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: 868ca4ab-a02a-4655-b2f7-0b9753b5ec8e
+    concept_label: DEMAND
+  - concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+    concept_label: RECTITUDE
+  - concept_uuid: 19d0b30c-d01f-4ee9-b5ff-34080bdf5890
+    concept_label: RESPONSIBILITY
+source:
+  source_file: taxchar.xml

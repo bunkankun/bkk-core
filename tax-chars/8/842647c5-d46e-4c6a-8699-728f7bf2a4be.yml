@@ -1,0 +1,65 @@
+uuid: 842647c5-d46e-4c6a-8699-728f7bf2a4be
+type: tax-char
+heads:
+- 臺
+- 台
+pronunciations:
+- reading: tái
+  old_chinese: dɯɯ
+  middle_chinese: dəi
+  fanqie: 徒哀切
+  tone: 平
+  guangyun: 土髙四方曰臺又姓漢有侍中臺崇徒哀切十五
+  senses:
+  - concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+    concept_label: TOWER
+    children:
+    - gloss: tower-like
+      concept_uuid: 240ec8e8-7c8d-452e-89a2-3e2259da662b
+      concept_label: FURNITURE
+    - gloss: tower-like
+      concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+      concept_label: VESSEL
+    - gloss: official building
+      concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+      concept_label: OFFICE
+      children:
+      - gloss: minor employee in
+        concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+        concept_label: SERVANT
+      - gloss: central
+        concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+        concept_label: COURT
+  - gloss: 'grammatialised: honorific'
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+- reading: tāi
+  old_chinese: lʰɯɯ
+  middle_chinese: tʰəi
+  fanqie: 土來切
+  tone: 平
+  guangyun: 三台星又天台山名
+  senses:
+  - gloss: CONSTELLTION
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+- reading: yí
+  old_chinese: lɯ
+  middle_chinese: jɨ
+  fanqie: 與之切
+  tone: 平
+  guangyun: 我也又姓出姓苑又音胎
+  senses:
+  - concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+    concept_label: EGO
+  - concept_uuid: a5ce8271-f63c-4ba7-8872-b0d1f463d087
+    concept_label: WHAT
+  - gloss: =怡DELIGHT
+    children:
+    - gloss: enduring
+      concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+      concept_label: HAPPY
+source:
+  source_file: taxchar.xml

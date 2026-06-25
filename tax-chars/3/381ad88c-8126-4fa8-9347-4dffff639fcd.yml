@@ -1,0 +1,24 @@
+uuid: 381ad88c-8126-4fa8-9347-4dffff639fcd
+type: tax-char
+heads:
+- 俠
+pronunciations:
+- reading: xiá
+  old_chinese: ɡeeb
+  middle_chinese: ɦep
+  fanqie: 胡頰切
+  tone: 入
+  guangyun: 任俠又姓戰國䇿有韓相俠累
+  senses:
+  - concept_uuid: ce671d7f-3b7a-413a-a489-04a4d1ba7449
+    concept_label: KNIGHT
+  - concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+    concept_label: COURAGE
+  - concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+    concept_label: BEAUTIFUL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 夾
+  - gloss: = 挾
+source:
+  source_file: taxchar.xml

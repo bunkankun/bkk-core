@@ -1,0 +1,26 @@
+uuid: 3e110a74-2ff2-44a1-8441-69bd82861541
+type: tax-char
+heads:
+- 訴
+pronunciations:
+- reading: sù
+  old_chinese: sqlaaɡs
+  middle_chinese: suo
+  fanqie: 桑故切
+  tone: 去
+  guangyun: 訟也毀也説文作𧩯告也桑故切十五
+  senses:
+  - concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+    concept_label: ACCUSE
+  - concept_uuid: 62e49b6c-d875-4431-bcae-3d46cf50229c
+    concept_label: COMPLAIN
+  - concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+    concept_label: EXPLAIN
+  - concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+    concept_label: SLANDER
+  - concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+    concept_label: REFUSE
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+source:
+  source_file: taxchar.xml

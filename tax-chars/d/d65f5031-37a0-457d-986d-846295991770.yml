@@ -1,0 +1,38 @@
+uuid: d65f5031-37a0-457d-986d-846295991770
+type: tax-char
+heads:
+- 醒
+pronunciations:
+- reading: xǐng
+  old_chinese: seeŋʔ
+  middle_chinese: seŋ
+  fanqie: 蘇挺切
+  tone: 上
+  guangyun: 醉歇也蘇挺切二
+  senses:
+  - concept_uuid: feb84455-dd9c-42a5-9c47-c2af8fa5c989
+    concept_label: SOBER UP
+  - concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+    concept_label: WAKE UP
+  - concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+    concept_label: UNDERSTAND
+  - concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+    concept_label: BRIGHT
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 9bf7a297-3656-483f-a477-7b618b474da6
+    concept_label: SMELL
+- reading: xīng
+  old_chinese: seeŋ
+  middle_chinese: seŋ
+  fanqie: 桑經切
+  tone: 平
+  guangyun: 酒醒又思挺先定二切
+- reading: xìng
+  old_chinese: seeŋs
+  middle_chinese: seŋ
+  fanqie: 蘇佞切
+  tone: 去
+  guangyun: 酒醒又蘇丁先頂二切
+source:
+  source_file: taxchar.xml

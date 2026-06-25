@@ -1,0 +1,23 @@
+uuid: c97693d0-e220-43a4-8537-b066c9023a64
+type: tax-char
+heads:
+- 祈
+pronunciations:
+- reading: qí
+  old_chinese: ɡɯl
+  middle_chinese: ɡɨi
+  fanqie: 渠希切
+  tone: 平
+  guangyun: 求也報也告也渠希切十九
+  senses:
+  - concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+    concept_label: PRAY
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 畿
+source:
+  source_file: taxchar.xml

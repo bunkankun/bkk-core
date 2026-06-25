@@ -1,0 +1,46 @@
+uuid: e1efbaa6-5b9b-4954-a064-c2ceeb8a4a9a
+type: tax-char
+heads:
+- 耆
+pronunciations:
+- reading: qí
+  old_chinese: ɡri
+  middle_chinese: ɡi
+  fanqie: 渠脂切
+  tone: 平
+  guangyun: 方言云長也説文云老也左傳云強也禮記音義云至也言至老境也
+- reading: qí
+  old_chinese: ɡri
+  middle_chinese: ɡi
+  fanqie: 渠脂切
+  tone: 平
+  guangyun: 同𦓀
+  senses:
+  - concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+    concept_label: ATTACK
+  - concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+    concept_label: DESIRE
+  - concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+    concept_label: OLD MAN
+  - concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+    concept_label: TEACHER
+  - concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+    concept_label: VIOLENT
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: 7d3a14a0-d3e8-4197-8e0c-2c8a387eaa03
+    concept_label: SPINE
+  - concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+    concept_label: DRUG
+  - concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+    concept_label: ARRIVE
+  - concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+    concept_label: SUMMON
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

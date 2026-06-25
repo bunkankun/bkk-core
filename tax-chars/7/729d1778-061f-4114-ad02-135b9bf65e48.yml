@@ -1,0 +1,25 @@
+uuid: 729d1778-061f-4114-ad02-135b9bf65e48
+type: tax-char
+heads:
+- 亥
+pronunciations:
+- reading: hài
+  old_chinese: ɡɯɯʔ
+  middle_chinese: ɦəi
+  fanqie: 胡改切
+  tone: 上
+  guangyun: 辰名爾雅云太歳在亥曰大淵獻亦姓戰國䇿晉有亥唐胡改切四
+  senses:
+  - concept_uuid: e7afe64f-af0d-4862-94d6-7afd165036a7
+    concept_label: EARTH BRANCH
+  - concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+    concept_label: PERIOD
+  - concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+    concept_label: AGE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 其
+source:
+  source_file: taxchar.xml

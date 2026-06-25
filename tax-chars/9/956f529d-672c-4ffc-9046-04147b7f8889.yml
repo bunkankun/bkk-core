@@ -1,0 +1,28 @@
+uuid: 956f529d-672c-4ffc-9046-04147b7f8889
+type: tax-char
+heads:
+- 箕
+pronunciations:
+- reading: jī
+  old_chinese: kɯ
+  middle_chinese: kɨ
+  fanqie: 居之切
+  tone: 平
+  guangyun: 箕帚也丗本曰箕帚少康作也又姓左傳晉有大夫箕鄭
+  senses:
+  - concept_uuid: 42e8e9de-a0cc-4a37-b606-8e15a660e2a2
+    concept_label: BASKET
+  - gloss: DUSTPAN
+  - concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - gloss: TREE, KINDS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

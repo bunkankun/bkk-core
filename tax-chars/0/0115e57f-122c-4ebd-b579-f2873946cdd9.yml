@@ -1,0 +1,50 @@
+uuid: 0115e57f-122c-4ebd-b579-f2873946cdd9
+type: tax-char
+heads:
+- 戚
+pronunciations:
+- reading: qī
+  old_chinese: skhlɯɯwɡ
+  middle_chinese: tsʰek
+  fanqie: 倉歷切
+  tone: 入
+  guangyun: 親戚又姓漢有臨轅侯戚鰓倉歷切十一
+  senses:
+  - concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+    concept_label: INTIMATE
+    children:
+    - gloss: subject
+      concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+      concept_label: RELATIVES
+      children:
+      - gloss: = 慽 concern on behalf of
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+        children:
+        - gloss: = 慽 generalised
+          concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+          concept_label: CAUTIOUS
+        - gloss: = 慽 emotional
+          concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+          concept_label: SAD
+          children:
+          - gloss: = 慽 intense
+            concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+            concept_label: GRIEF
+          - gloss: active reaction
+            concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+            concept_label: ANGRY
+  - gloss: SURNAME
+  - concept_uuid: 7ece8d12-ab6f-4a9d-85a1-56ae48c83be0
+    concept_label: CITIES
+  - gloss: = 鏚
+    concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+    concept_label: AXE
+unattributed_senses:
+- gloss: 戚 ｃｕ４《集韻》趨玉切，入燭清。沃部。
+  children:
+  - gloss: =促
+    concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: URGENT
+source:
+  source_file: taxchar.xml

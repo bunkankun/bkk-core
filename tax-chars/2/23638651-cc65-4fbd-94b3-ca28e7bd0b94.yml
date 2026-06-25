@@ -1,0 +1,90 @@
+uuid: 23638651-cc65-4fbd-94b3-ca28e7bd0b94
+type: tax-char
+heads:
+- 故
+pronunciations:
+- reading: gù
+  old_chinese: kaas
+  middle_chinese: kuo
+  fanqie: 古暮切
+  tone: 去
+  guangyun: 舊也事也常也又姓出姓苑
+  senses:
+  - concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+    children:
+    - gloss: past causing the present
+      concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+      concept_label: CAUSE
+      children:
+      - gloss: grammaticalised
+        concept_uuid: d60b11df-022d-4f3c-be05-f4db9dae4ba5
+        concept_label: BECAUSE
+        children:
+        - gloss: regarding the benefit for
+          concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+          concept_label: FOR
+      - gloss: subjective cause
+        concept_uuid: ab42af2b-4ff7-463c-a2b7-75a9225386bf
+        concept_label: REASON
+        children:
+        - gloss: abstract feature
+          concept_uuid: 80d2d0a1-6ab1-4c9f-b46c-f6100a85519d
+          concept_label: RATIONAL
+          children:
+          - gloss: cleverly so
+            concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+            concept_label: CRAFTY
+      - gloss: sentence connective
+        concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+        concept_label: THEREFORE
+        children:
+        - gloss: active:speaking along these lines
+          concept_uuid: 3d3331be-f86b-4a44-bed1-bb64021abd35
+          concept_label: ARGUE
+        - gloss: in the same way
+          concept_uuid: 117152ee-1bfc-446b-8947-fc010bd3ae85
+          concept_label: THUS
+          children:
+          - gloss: weakend, grammaticalised
+            concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+            concept_label: MODAL PARTICLES
+          - gloss: as in the past
+            concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+            concept_label: STILL
+          - gloss: pychological:having weighed reasons
+            concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+            concept_label: INTEND
+          - gloss: even more weakend link
+            concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+            concept_label: AND
+    - gloss: having a long past
+      concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+      concept_label: OLD
+      children:
+      - gloss: inisting on not changing the past
+        concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+        concept_label: STUBBORN
+      - gloss: familiar person from the past
+        concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+        concept_label: FRIEND
+      - gloss: familiar place from the past
+        concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+        concept_label: HOME
+      - gloss: old/earliest event causing the present
+        concept_uuid: 304e1390-02d6-4b01-a81b-3af4ee0eff6c
+        concept_label: ORIGIN
+    - gloss: typically past, assured thing
+      concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+      concept_label: THING
+      children:
+      - gloss: unfortunate thing/event
+        concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+        concept_label: DISASTER
+  - gloss: =顧 contrastive
+    concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+    concept_label: BUT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-22T23:24:21.843+09:00'

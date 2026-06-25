@@ -1,0 +1,47 @@
+uuid: 6b50d135-f9a2-4b3c-bf65-32449cb28719
+type: tax-char
+heads:
+- 征
+pronunciations:
+- reading: zhēng
+  old_chinese: tjeŋ
+  middle_chinese: tɕiɛŋ
+  fanqie: 諸盈切
+  tone: 平
+  guangyun: 同征
+- reading: zhēng
+  old_chinese: tjeŋ
+  middle_chinese: tɕiɛŋ
+  fanqie: 諸盈切
+  tone: 平
+  guangyun: 行也諸盈切十三
+  senses:
+  - concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+    concept_label: TRAVEL
+    children:
+    - gloss: to launch a military campaign against
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+      children:
+      - gloss: part of such a campaign
+        concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+        concept_label: BATTLE
+      - gloss: with the purpose of taking
+        concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+        concept_label: SEEK
+        children:
+        - gloss: by public authority
+          concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+          concept_label: SUMMON
+          children:
+          - gloss: what is taken by public authority
+            concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+            concept_label: TAX
+        - gloss: seek to take by violent means
+          concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+          concept_label: ROB
+  - concept_label: =鉦
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-03T23:54:17.137+09:00'

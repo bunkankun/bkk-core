@@ -1,0 +1,28 @@
+uuid: ed256113-399c-46d3-86c6-60cbe7bc748a
+type: tax-char
+heads:
+- 邈
+pronunciations:
+- reading: miǎo
+  old_chinese: mreewɡ
+  middle_chinese: mɯɔk
+  fanqie: 莫角切
+  tone: 入
+  guangyun: 逺也亦作𨘷莫角切九
+  senses:
+  - concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+  - concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+    concept_label: PAST
+  - concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+    concept_label: OBSCURE
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+    concept_label: NOBLE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 藐
+  - gloss: = 貌
+source:
+  source_file: taxchar.xml

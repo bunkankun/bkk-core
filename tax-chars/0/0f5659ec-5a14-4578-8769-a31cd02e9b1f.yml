@@ -1,0 +1,39 @@
+uuid: 0f5659ec-5a14-4578-8769-a31cd02e9b1f
+type: tax-char
+heads:
+- 晉
+pronunciations:
+- reading: jìn
+  old_chinese: ʔsins
+  middle_chinese: tsin
+  fanqie: 即刃切
+  tone: 去
+  guangyun: 同晉出説文
+- reading: jìn
+  old_chinese: tsins
+  middle_chinese: tsin
+  fanqie: 即刃切
+  tone: 去
+  guangyun: 進也又州名堯所都平陽禹貢兾州之域春秋時晉地秦屬河東郡後魏爲唐州又爲晉州爾雅晉有大陸之藪今鉅鹿是也亦姓本自唐叔虞之後以晉爲氏魏有晉鄙即刃切十
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: PROCEED
+    children:
+    - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+      concept_label: RISE
+      children:
+      - gloss: passive/medium
+        concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+        concept_label: PROMOTE
+  - concept_uuid: 5200626c-15e5-4fd3-9981-25dc31d7509e
+    concept_label: RULERS OF JIN
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: f101e14d-9b02-4646-8a6d-135c509b55cd
+    concept_label: CHINESE LANGUAGE
+  - concept_uuid: 148b9c56-bfc8-4306-b327-9862ac4b359c
+    concept_label: ARISTOCRATS OF JIN
+source:
+  source_file: taxchar.xml

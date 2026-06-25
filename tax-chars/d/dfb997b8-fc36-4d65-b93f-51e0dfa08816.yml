@@ -1,0 +1,22 @@
+uuid: dfb997b8-fc36-4d65-b93f-51e0dfa08816
+type: tax-char
+heads:
+- 鄒
+pronunciations:
+- reading: zōu
+  old_chinese: tsru
+  middle_chinese: tʂiu
+  fanqie: 側鳩切
+  tone: 平
+  guangyun: 縣名屬兖州又姓漢有鄒陽側鳩切十四
+- reading: zōu
+  old_chinese: skru
+  middle_chinese: tʂiu
+  fanqie: 側鳩切
+  tone: 平
+  guangyun: 同鄒
+  senses:
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

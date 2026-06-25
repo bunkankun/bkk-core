@@ -1,0 +1,65 @@
+uuid: ec82b457-bf5e-40c5-ab06-6c7e9c7b8cb3
+type: tax-char
+heads:
+- 攝
+pronunciations:
+- reading: niè
+  old_chinese: mɢleeb
+  middle_chinese: nep
+  fanqie: 奴協切
+  tone: 入
+  guangyun: 攝然天下安出漢書
+- reading: shè
+  old_chinese: qhljeb
+  middle_chinese: ɕiɛp
+  fanqie: 書涉切
+  tone: 入
+  guangyun: 兼也録也書涉切八
+  senses:
+  - concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+    concept_label: COMBINE
+  - concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+    concept_label: CONCENTRATE
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+    concept_label: OPPRESS
+  - concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+    concept_label: REPLACE
+  - concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+    concept_label: RESTRAIN
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+    concept_label: ORDERLY
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+    concept_label: APPOINT
+  - concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+    concept_label: ARREST
+  - concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+    concept_label: REAR
+  - concept_uuid: cf0ce863-aef9-41d1-b4b3-9da6288fb0ed
+    concept_label: PHONOLOGY
+  - concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+    concept_label: BORROW
+  - concept_uuid: 181dff9e-7def-4cfa-bff0-928de1b99049
+    concept_label: HEM
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+    concept_label: SUMMON
+  - concept_uuid: 64e110e0-6f2b-4d20-ad8f-2523187be5b1
+    concept_label: PHOTOGRAPH
+  - gloss: = 懾
+source:
+  source_file: taxchar.xml

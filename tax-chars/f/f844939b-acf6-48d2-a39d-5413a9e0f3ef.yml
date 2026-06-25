@@ -1,0 +1,34 @@
+uuid: f844939b-acf6-48d2-a39d-5413a9e0f3ef
+type: tax-char
+heads:
+- 漢
+pronunciations:
+- reading: hàn
+  old_chinese: qhlaans
+  middle_chinese: hɑn
+  fanqie: 呼旰切
+  tone: 去
+  guangyun: 水名又姓姓苑云東莞人呼旰切九
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+    children:
+    - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+      concept_label: STATES
+    - concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+      concept_label: DYNASTY
+      children:
+      - concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+        concept_label: CHINA
+        children:
+        - concept_uuid: f101e14d-9b02-4646-8a6d-135c509b55cd
+          concept_label: CHINESE LANGUAGE
+  - gloss: 'late colloquial: derogatory'
+    concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+    children:
+    - gloss: 'grammaticalised:'
+      concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+      concept_label: YOU
+source:
+  source_file: taxchar.xml

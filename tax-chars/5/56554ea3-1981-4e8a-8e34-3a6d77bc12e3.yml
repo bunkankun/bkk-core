@@ -1,0 +1,71 @@
+uuid: 56554ea3-1981-4e8a-8e34-3a6d77bc12e3
+type: tax-char
+heads:
+- 命
+pronunciations:
+- reading: mìng
+  old_chinese: mɢreŋs
+  middle_chinese: mɯiaŋ
+  fanqie: 眉病切
+  tone: 去
+  guangyun: 使也敎也道也信也計也召也眉病切一
+  senses:
+  - concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+    concept_label: COMMAND
+    children:
+    - gloss: royal
+      concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+      concept_label: DECREE
+      children:
+      - gloss: heavenly
+        concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+        concept_label: FATE
+        children:
+        - gloss: active, personal
+          concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+          concept_label: ASPIRATION
+        - concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+          concept_label: BASIC NATURE
+          children:
+          - gloss: mìng
+            concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+            concept_label: PATTERN
+        - gloss: fated lifespan
+          concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+          concept_label: LIVE
+          children:
+          - gloss: living being
+            concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+            concept_label: CREATURE
+      - gloss: feature of the commanding agent
+        concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+        concept_label: AUTHORITY
+    - gloss: object:nomenclature
+      concept_uuid: f590a3d5-40bd-499d-916a-2cd0293e7f3f
+      concept_label: BAPTISE
+      children:
+      - gloss: administratively
+        concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+        concept_label: APPOINT
+      - gloss: lexical
+        concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+        concept_label: NAME
+        children:
+        - gloss: semantic
+          concept_uuid: b0a506ed-e519-4542-9b61-a72558f74619
+          concept_label: REFER TO
+        - gloss: scriptural
+          concept_uuid: 1dbde2c8-76ec-4b31-99be-686e6183470d
+          concept_label: WRITTEN CHARACTER
+          children:
+          - gloss: container
+            concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+            concept_label: DOCUMENT
+            children:
+            - gloss: to superior, acting in accordance with an order
+              concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+              concept_label: REPORT
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-03T19:54:21.815+09:00'

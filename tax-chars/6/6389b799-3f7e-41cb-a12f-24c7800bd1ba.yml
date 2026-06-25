@@ -1,0 +1,22 @@
+uuid: 6389b799-3f7e-41cb-a12f-24c7800bd1ba
+type: tax-char
+heads:
+- 謳
+pronunciations:
+- reading: ōu
+  old_chinese: qoo
+  middle_chinese: ʔəu
+  fanqie: 烏侯切
+  tone: 平
+  guangyun: 吟也歌也烏侯切十六
+  senses:
+  - concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+    concept_label: SING
+  - concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+    concept_label: SONG
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

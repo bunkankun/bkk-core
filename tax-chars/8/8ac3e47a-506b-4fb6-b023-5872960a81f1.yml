@@ -1,0 +1,25 @@
+uuid: 8ac3e47a-506b-4fb6-b023-5872960a81f1
+type: tax-char
+heads:
+- 睨
+pronunciations:
+- reading: nì
+  old_chinese: ŋees
+  middle_chinese: ŋei
+  fanqie: 五計切
+  tone: 去
+  guangyun: 睥睨
+  senses:
+  - concept_uuid: 626676ae-b1f1-4794-b898-c628e365c986
+    concept_label: LOOK SIDEWAYS
+  - concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+    concept_label: LOOK
+  - concept_uuid: 7f7039a2-b53c-466d-9419-581152eeada6
+    concept_label: LOOK BACK
+  - concept_uuid: ffbab81d-d14f-41e4-ae06-9dab9b80596f
+    concept_label: PEEP
+  - concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+    concept_label: DESCEND
+  - gloss: = 婗
+source:
+  source_file: taxchar.xml

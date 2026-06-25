@@ -1,0 +1,41 @@
+uuid: 563b03f3-86e2-426a-9f90-693a97826923
+type: tax-char
+heads:
+- 夕
+pronunciations:
+- reading: xī
+  old_chinese: sɢlaɡ
+  middle_chinese: ziɛk
+  fanqie: 祥易切
+  tone: 入
+  guangyun: 暮也字從半月又姓漢書巴郡蠻渠帥七姓有羅朴督鄂度夕龔也朴普卜切蜀有尚書令夕斌
+  senses:
+  - concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+    concept_label: EVENING
+    children:
+    - gloss: later
+      concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+      concept_label: NIGHT
+    - gloss: 'concrete: slanted'
+      concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+      concept_label: SLANT
+      children:
+      - gloss: of year, season, month
+        concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+        concept_label: END
+        children:
+        - gloss: at end of month
+          concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+          concept_label: SACRIFICE
+    - gloss: late audience
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+  - gloss: West
+    concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+    concept_label: DIRECTION
+  - concept_label: 夕 yì《史記,司馬貞索隱》音亦。
+  - concept_label: =亦
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-16T01:31:58.653+09:00'

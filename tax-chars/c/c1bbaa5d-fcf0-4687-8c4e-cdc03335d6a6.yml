@@ -1,0 +1,36 @@
+uuid: c1bbaa5d-fcf0-4687-8c4e-cdc03335d6a6
+type: tax-char
+heads:
+- 捉
+pronunciations:
+- reading: zhuō
+  old_chinese: tsrooɡ
+  middle_chinese: tʂɯɔk
+  fanqie: 側角切
+  tone: 入
+  guangyun: 捉搦也側角切七
+  senses:
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+    concept_label: DRIVE
+  - concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+    concept_label: HOLD
+  - concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+    concept_label: OBJECT MARKER
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 97510283-af73-45e3-97a7-942029408956
+    concept_label: RELY ON
+  - concept_uuid: 3fecb448-28bb-47fa-8d0a-6c18829c09a0
+    concept_label: GUARD
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+    concept_label: MARRY
+  - concept_uuid: 706b9cce-bf23-436f-a80a-73ec85600cc0
+    concept_label: DISCOVER
+source:
+  source_file: taxchar.xml

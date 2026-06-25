@@ -1,0 +1,46 @@
+uuid: 9c3b9ce0-80ae-4014-aa1b-96e7999023ca
+type: tax-char
+heads:
+- 戶
+pronunciations:
+- reading: hù
+  old_chinese: ɡlaaʔ
+  middle_chinese: ɦuo
+  fanqie: 侯古切
+  tone: 上
+  guangyun: 説文云戸護也半門爲戸侯古切二十三
+  senses:
+  - concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+    concept_label: DOOR
+    children:
+    - gloss: function of
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+    - gloss: entrance to
+      concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+      concept_label: HOME
+      children:
+      - gloss: generalised
+        concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+        concept_label: SCHOOL
+      - gloss: inhabitants of
+        concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+        concept_label: FAMILY
+        children:
+        - gloss: members of the various
+          concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+          concept_label: PEOPLE
+          children:
+          - gloss: as fulfilling function
+            concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+            concept_label: WORKER
+        - gloss: all famlies
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+      - gloss: home for cavity-dwelling creatures
+        concept_uuid: e936e1cf-709a-4995-b105-e7aff4ee1732
+        concept_label: CAVITY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-05T02:58:48.934+09:00'

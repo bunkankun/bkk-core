@@ -1,0 +1,28 @@
+uuid: 926dd0c8-aee5-4033-a242-ddadf561ad2f
+type: tax-char
+heads:
+- 輒
+pronunciations:
+- reading: zhé
+  old_chinese: nteb
+  middle_chinese: ʈɯiɛp
+  fanqie: 陟葉切
+  tone: 入
+  guangyun: 專輒説文曰車相倚也陟葉切八
+  senses:
+  - concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+    concept_label: ALWAYS
+  - concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+    concept_label: IMMEDIATELY
+  - concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+    concept_label: BUT
+  - concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+  - concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+    concept_label: ARROGATE
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,20 @@
+uuid: 357d3446-ad06-496c-9ead-bbf5a1fe0394
+type: tax-char
+heads:
+- 巾
+pronunciations:
+- reading: jīn
+  old_chinese: krɯn
+  middle_chinese: kɯin
+  fanqie: 居銀切
+  tone: 平
+  guangyun: 釋名曰巾謹也二十成人士冠庶人巾當自謹修於四教居銀切一
+  senses:
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: 12bc792e-1c26-42aa-85e5-846241b8a39b
+    concept_label: TOWEL
+  - concept_uuid: f192250b-eaa6-44d1-b59b-fc954df38692
+    concept_label: TURBAN
+source:
+  source_file: taxchar.xml

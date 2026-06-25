@@ -1,0 +1,28 @@
+uuid: 2a86ece6-6ca2-4a9f-843e-bdd27fd4a4a0
+type: tax-char
+heads:
+- 牡
+pronunciations:
+- reading: mǔ
+  old_chinese: mooʔ
+  middle_chinese: məu
+  fanqie: 莫厚切
+  tone: 上
+  guangyun: 牝牡
+  senses:
+  - concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+    concept_label: GATE PART
+  - concept_uuid: 685cd234-4dad-43bb-bc43-a334e25a5edd
+    concept_label: GENITALS
+  - concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+    concept_label: MALE
+  - concept_uuid: 2bfbc248-1f18-4e5f-b6e5-898643b47f11
+    concept_label: MALE BOVINE
+  - concept_uuid: 7e62baf1-4af9-4e1b-b742-e4d3abe24b85
+    concept_label: PROTRUDE
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+    concept_label: MOUNTAIN
+source:
+  source_file: taxchar.xml

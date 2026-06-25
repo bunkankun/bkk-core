@@ -1,0 +1,26 @@
+uuid: 1c892def-40fc-4070-b0c8-73402853cf94
+type: tax-char
+heads:
+- 誤
+pronunciations:
+- reading: wù
+  old_chinese: ŋʷaas
+  middle_chinese: ŋuo
+  fanqie: 五故切
+  tone: 去
+  guangyun: 謬誤五故切十四
+  senses:
+  - concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+    concept_label: CHEAT
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+    concept_label: MISTAKE
+- reading: wù
+  old_chinese: ŋʷaas
+  middle_chinese: ŋuo
+  fanqie: 五故切
+  tone: 去
+  guangyun: 同誤
+source:
+  source_file: taxchar.xml

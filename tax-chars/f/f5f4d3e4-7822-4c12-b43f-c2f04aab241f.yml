@@ -1,0 +1,33 @@
+uuid: f5f4d3e4-7822-4c12-b43f-c2f04aab241f
+type: tax-char
+heads:
+- 賜
+pronunciations:
+- reading: cì
+  old_chinese: sleeɡs
+  middle_chinese: siɛ
+  fanqie: 斯義切
+  tone: 去
+  guangyun: 與也惠也又姓丗本云齊大夫簡子賜之後斯義切六
+  senses:
+  - gloss: (downwards in the hierarchy)
+    concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+    children:
+    - gloss: direct object, downwards in the hierarchy
+      concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+      concept_label: GIFT
+    - gloss: licence
+      concept_uuid: 5d364512-5035-44d8-ace6-d40fef6f7b5d
+      concept_label: PERMIT
+    - gloss: as thanks
+      concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+      concept_label: REWARD
+    - gloss: 'figurative: immaterial objet'
+      concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+      concept_label: TRANSMIT
+    - gloss: =儩
+      concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+      concept_label: EXHAUST
+source:
+  source_file: taxchar.xml

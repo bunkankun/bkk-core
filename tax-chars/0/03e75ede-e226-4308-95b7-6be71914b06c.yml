@@ -1,0 +1,68 @@
+uuid: 03e75ede-e226-4308-95b7-6be71914b06c
+type: tax-char
+heads:
+- 跨
+pronunciations:
+- reading: kuā
+  old_chinese: khʷraa
+  middle_chinese: kʰʷɯa
+  fanqie: 苦瓜切
+  tone: 平
+  guangyun: 吴人云坐
+  senses:
+  - concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+  - concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+    concept_label: PRAISE
+- reading: kuà
+  old_chinese: khʷraas
+  middle_chinese: kʰʷɯa
+  fanqie: 苦化切
+  tone: 去
+  guangyun: 越也又兩股間苦化切三
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+    concept_label: LEAP OVER
+  - concept_uuid: 12c122a4-f3e4-41f3-b24d-afdaf85bf0e4
+    concept_label: RIDE
+  - concept_uuid: 0b6c7196-54e3-422e-b381-f96776677cbe
+    concept_label: THIGH
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+  - concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+    concept_label: SURPASS
+  - concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+    concept_label: WALK
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+    concept_label: HAVE
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+    concept_label: BUILD
+  - concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+    concept_label: HANG
+  - gloss: = 胯
+- reading: kù
+  old_chinese: khʷlaas
+  middle_chinese: kʰuo
+  fanqie: 苦故切
+  tone: 去
+  guangyun: 踞也
+  senses:
+  - concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+    concept_label: SIT
+- reading: kuǎ
+  old_chinese: khʷraaʔ
+  middle_chinese: kʰʷɯa
+  fanqie: 苦瓦切
+  tone: 上
+  guangyun: 𦝫跨又苦化切
+  senses:
+  - concept_uuid: 8422d721-632c-4a62-94be-9b198bb373a3
+    concept_label: WAIST
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,74 @@
+uuid: 77450240-c3ef-4995-b70a-09d531da61cb
+type: tax-char
+heads:
+- 類
+pronunciations:
+- reading: lèi
+  old_chinese: ruds
+  middle_chinese: lʷi
+  fanqie: 力遂切
+  tone: 去
+  guangyun: 善也法也等也種也説文云種類相似唯犬爲甚从犬頪力遂切九
+  senses:
+  - concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+    concept_label: CATEGORY
+    children:
+    - gloss: feature
+      concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+      concept_label: RESEMBLE
+      children:
+      - gloss: action
+        concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+        concept_label: CONFORM
+    - gloss: phenomenological
+      concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+      concept_label: APPEARANCE
+    - gloss: kinship
+      concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+      concept_label: DESCENDANT
+    - gloss: race
+      concept_uuid: 760112aa-ba84-446d-ae9d-a80b5e6a075e
+      concept_label: TRIBE
+      children:
+      - gloss: feature
+        concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+        concept_label: MANY
+        children:
+        - gloss: intensely
+          concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+          concept_label: ALL
+    - gloss: declarative
+      concept_uuid: 4977f342-0d3f-4880-a636-0866767917e5
+      concept_label: CLASSIFY
+      children:
+      - gloss: double object
+        concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+        concept_label: COMPARE
+    - gloss: exhortative
+      concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+      concept_label: RULE
+      children:
+      - gloss: abstract
+        concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+        concept_label: PRINCIPLE
+      - gloss: according to rule
+        concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+        concept_label: GOOD
+        children:
+        - gloss: aesthetic
+          concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+          concept_label: BEAUTIFUL
+  - gloss: MYTHOLOGICAL ANIMALS
+  - concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+  - gloss: =纇
+  - gloss: =纇
+- reading: lèi
+  old_chinese: ruuls
+  middle_chinese: luoi
+  fanqie: 盧對切
+  tone: 去
+  senses:
+  - gloss: =纇
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,44 @@
+uuid: 0ce98ccc-80d0-4a02-8cca-51b8c9d44a06
+type: tax-char
+heads:
+- 況
+- 况
+pronunciations:
+- reading: kuàng
+  old_chinese: qhʷaŋs
+  middle_chinese: hʷiɐŋ
+  fanqie: 許訪切
+  tone: 去
+  guangyun: 匹擬也善也矧也説文曰寒水也亦脩况琴名又姓何氏姓苑云今盧江人許訪切四
+  senses:
+  - concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+    concept_label: COMPARE
+    children:
+    - gloss: be as if
+      concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+      concept_label: SEEM
+      children:
+      - gloss: what seems
+        concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+        concept_label: SITUATION
+    - gloss: by analogy
+      concept_uuid: 8509a1c5-7d43-4af0-ae05-aeddff8c6fb6
+      concept_label: CONCLUDE
+      children:
+      - gloss: grammaticalised, comparative, how much more
+        concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+        concept_label: INTENSELY
+        children:
+        - gloss: generalised
+          concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+          concept_label: MOREOVER
+  - gloss: (cold)
+    concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+    concept_label: WATER
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+  - gloss: =貺
+    concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,35 @@
+uuid: 651f8a1f-db93-4a82-b13b-5a3fe06d4418
+type: tax-char
+heads:
+- 俗
+pronunciations:
+- reading: sú
+  old_chinese: sɢloɡ
+  middle_chinese: ziok
+  fanqie: 似足切
+  tone: 入
+  guangyun: 風俗説文習也
+  senses:
+  - concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+    concept_label: CUSTOM
+    children:
+    - gloss: given one's natural inclinations
+      concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+      concept_label: DESIRE
+    - gloss: feature
+      concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+      concept_label: COMMON
+      children:
+      - gloss: not belonging to the higher religious sphere
+        concept_uuid: a9cd9b55-25a4-4c86-bc18-185e30a540b8
+        concept_label: SECULAR
+        children:
+        - gloss: negative
+          concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+          concept_label: VULGAR
+          children:
+          - gloss: putative
+            concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+            concept_label: DISSATISFIED
+source:
+  source_file: taxchar.xml

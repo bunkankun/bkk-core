@@ -1,0 +1,24 @@
+uuid: f846dade-c60f-4fe6-92c2-073378550fff
+type: tax-char
+heads:
+- 窟
+pronunciations:
+- reading: kū
+  old_chinese: khluud
+  middle_chinese: kʰuot
+  fanqie: 苦骨切
+  tone: 入
+  guangyun: 窟穴苦骨切十五
+  senses:
+  - concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+    concept_label: CAVE
+  - concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+    concept_label: PIT
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+    concept_label: DWELL
+  - concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+    concept_label: PLACE
+source:
+  source_file: taxchar.xml

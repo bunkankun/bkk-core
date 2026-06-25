@@ -1,0 +1,30 @@
+uuid: a2529fef-f89f-4782-87b2-14d16614edda
+type: tax-char
+heads:
+- 森
+pronunciations:
+- reading: sēn
+  old_chinese: sqrɯm
+  middle_chinese: ʃɯim
+  fanqie: 所今切
+  tone: 平
+  guangyun: 長木皃所今切十
+  senses:
+  - concept_uuid: 71380132-9a2c-4d60-a9c1-5dfc910069cc
+    concept_label: FOREST
+  - concept_uuid: 11d138da-4b74-4c70-af77-70d123c53435
+    concept_label: DENSE
+  - concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+    concept_label: MANY
+  - concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+  - concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+    concept_label: COLD
+  - concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+    concept_label: SEVERE
+  - concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+    concept_label: RISE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

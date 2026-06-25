@@ -1,0 +1,37 @@
+uuid: 6e58228a-7a76-42a0-82b7-cb84029430c3
+type: tax-char
+heads:
+- 鵠
+pronunciations:
+- reading: hú
+  old_chinese: ɡuuɡ
+  middle_chinese: ɦuok
+  fanqie: 胡沃切
+  tone: 入
+  guangyun: 鳥名又姓姓苑云今東海人胡沃切八
+  senses:
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+  - concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+    concept_label: WHITE
+  - concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+    concept_label: SLIM
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - gloss: = 浩
+- reading: gù
+  old_chinese: kuuɡ
+  middle_chinese: kuok
+  fanqie: 古沃切
+  tone: 入
+  guangyun: 鳱鵠鳥名似鵲
+  senses:
+  - concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+    concept_label: BIRDS
+- reading: gù
+  old_chinese: kuuɡ
+  middle_chinese: kuok
+  fanqie: 古沃切
+  tone: 入
+source:
+  source_file: taxchar.xml

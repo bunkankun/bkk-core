@@ -1,0 +1,42 @@
+uuid: 6fc64190-c1cb-4366-a608-994f3224b9c7
+type: tax-char
+heads:
+- 詳
+pronunciations:
+- reading: xiáng
+  old_chinese: sɢlaŋ
+  middle_chinese: ziɐŋ
+  fanqie: 似羊切
+  tone: 平
+  guangyun: 審也論也諟也似羊切八
+  senses:
+  - concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+    concept_label: CERTAIN
+  - concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+    concept_label: DETAILED
+  - concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+    concept_label: INVESTIGATE
+  - concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+    concept_label: KNOW
+  - concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+    concept_label: PRETEND
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+  - concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+    concept_label: JUSTICE
+  - concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+    concept_label: REPORT
+  - concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+    concept_label: CONGRATULATE
+  - gloss: = 祥
+  - gloss: = 佯
+- reading: yáng
+  old_chinese: k-laŋ
+  middle_chinese: jiɐŋ
+  fanqie: 與章切
+  tone: 平
+  guangyun: 同佯本音祥
+source:
+  source_file: taxchar.xml

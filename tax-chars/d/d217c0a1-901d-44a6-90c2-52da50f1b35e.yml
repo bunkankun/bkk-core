@@ -1,0 +1,24 @@
+uuid: d217c0a1-901d-44a6-90c2-52da50f1b35e
+type: tax-char
+heads:
+- 占
+pronunciations:
+- reading: zhān
+  old_chinese: kljem
+  middle_chinese: tɕiɛm
+  fanqie: 職廉切
+  tone: 平
+  guangyun: 視兆也亦姓陳大夫子占之後又章豔切
+  senses:
+  - concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+    concept_label: DIVINATION
+  - concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+    concept_label: JUDGE
+- reading: zhàn
+  old_chinese: kljems
+  middle_chinese: tɕiɛm
+  fanqie: 章豔切
+  tone: 去
+  guangyun: 固也章豔切又職鹽切一
+source:
+  source_file: taxchar.xml

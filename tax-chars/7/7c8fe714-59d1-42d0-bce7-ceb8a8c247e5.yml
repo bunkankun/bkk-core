@@ -1,0 +1,59 @@
+uuid: 7c8fe714-59d1-42d0-bce7-ceb8a8c247e5
+type: tax-char
+heads:
+- 尊
+pronunciations:
+- reading: zūn
+  old_chinese: tsuun
+  middle_chinese: tsuon
+  fanqie: 祖昆切
+  tone: 平
+  guangyun: 尊卑又重也髙也貴也敬也君父之稱也説文曰酒器也本又作𢍜周禮有司尊彞從土從缶從木後人所加亦姓風俗通云尊盧氏之後祖昆切五
+  senses:
+  - concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+  - gloss: object：wine vessels
+    concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+    children:
+    - gloss: feature
+      concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+      concept_label: NOBLE
+      children:
+      - gloss: intellectual
+        concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+        concept_label: IMPORTANT
+        children:
+        - gloss: putative
+          concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+          concept_label: APPRECIATE
+      - gloss: 'social: high'
+        concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+        concept_label: RANK
+        children:
+        - gloss: causative:give rank
+          concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+          concept_label: APPOINT
+        - gloss: attitude
+          concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+          concept_label: RESPECT
+          children:
+          - gloss: 'object: polite'
+            concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+            concept_label: FATHER
+          - gloss: 'object: polite'
+            concept_uuid: ae67b4eb-957a-44ce-8084-568833722d45
+            concept_label: UNCLE
+          - gloss: 'object: polite'
+            concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+            concept_label: YOU
+      - gloss: physical
+        concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+        concept_label: HIGH
+  - gloss: =遵
+    concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-19T18:20:59.493+09:00'

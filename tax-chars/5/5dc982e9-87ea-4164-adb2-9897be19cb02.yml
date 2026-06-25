@@ -1,0 +1,22 @@
+uuid: 5dc982e9-87ea-4164-adb2-9897be19cb02
+type: tax-char
+heads:
+- 鮑
+pronunciations:
+- reading: bào
+  old_chinese: bruuʔ
+  middle_chinese: bɯau
+  fanqie: 薄巧切
+  tone: 上
+  guangyun: 鮑魚又姓岀東海泰山河南三望本自夏禹之裔因封爲氏薄巧切四
+  senses:
+  - concept_uuid: 9ffb2c11-2835-4d6c-8fec-91d47ef90809
+    concept_label: FISH
+  - concept_uuid: e63c8771-0e0f-431a-b551-0cdcc777c1a1
+    concept_label: MOLLUSC
+  - gloss: '='
+    concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 鞄
+source:
+  source_file: taxchar.xml

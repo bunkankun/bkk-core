@@ -1,0 +1,19 @@
+uuid: 1bc03971-a3df-4ad8-8d58-c791c204434f
+type: tax-char
+heads:
+- 姜
+pronunciations:
+- reading: jiāng
+  old_chinese: klaŋ
+  middle_chinese: kiɐŋ
+  fanqie: 居良切
+  tone: 平
+  guangyun: 姓也岀天水齊姓本自炎帝居於姜水因爲氏漢初以豪族徙關中遂居天水也
+  senses:
+  - concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+    concept_label: PERSONAL NAME
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - gloss: = 彊
+source:
+  source_file: taxchar.xml

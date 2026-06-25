@@ -1,0 +1,30 @@
+uuid: b70e150b-28ab-4233-9fb4-1433a91c9af5
+type: tax-char
+heads:
+- 焚
+pronunciations:
+- reading: fén
+  old_chinese: bun
+  middle_chinese: biun
+  fanqie: 符分切
+  tone: 平
+  guangyun: 焚燒
+  senses:
+  - concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+    concept_label: BURN
+    children:
+    - gloss: related disaster
+      concept_uuid: 39ec3bea-feb6-4638-a367-12ed383908c2
+      concept_label: FIRE
+    - gloss: related activity
+      concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+      concept_label: HUNT
+    - gloss: related punishment
+      concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+      concept_label: EXECUTE
+    - gloss: related military activity
+      concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+      concept_label: ATTACK
+    - gloss: related social actiivty.BARBECUE
+source:
+  source_file: taxchar.xml

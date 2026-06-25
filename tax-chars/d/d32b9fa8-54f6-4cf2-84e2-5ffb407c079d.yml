@@ -1,0 +1,48 @@
+uuid: d32b9fa8-54f6-4cf2-84e2-5ffb407c079d
+type: tax-char
+heads:
+- 又
+pronunciations:
+- reading: yòu
+  old_chinese: ɢʷɯs
+  middle_chinese: ɦiu
+  fanqie: 于救切
+  tone: 去
+  guangyun: 又猶更也
+  senses:
+  - concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+    concept_label: MOREOVER
+    children:
+    - gloss: yòu
+      concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+      concept_label: MORE
+    - gloss: against expectations
+      concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+      concept_label: NONETHELESS
+    - gloss: a second time
+      concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+      concept_label: REPEAT
+      children:
+      - gloss: 'grammaticalised:'
+        concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+        concept_label: AGAIN
+      - gloss: new subject/object, with variation
+        concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+        concept_label: ALSO
+        children:
+        - gloss: between predicates
+          concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+          concept_label: AND
+        - gloss: focus on difference
+          concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+          concept_label: OTHER
+    - gloss: yòu
+      concept_uuid: dcc17735-c9ff-4ec5-b729-0b86a2302836
+      concept_label: QUESTION PARTICLES
+  - gloss: =?
+    concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+    concept_label: HAND UP
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-04T02:19:24.994+09:00'

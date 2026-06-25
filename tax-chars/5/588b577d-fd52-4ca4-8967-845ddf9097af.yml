@@ -1,0 +1,65 @@
+uuid: 588b577d-fd52-4ca4-8967-845ddf9097af
+type: tax-char
+heads:
+- 足
+pronunciations:
+- reading: zú
+  old_chinese: tsoɡs
+  middle_chinese: tsio
+  fanqie: 子句切
+  tone: 去
+  guangyun: 足添物也本音入聲
+  senses:
+  - gloss: 'zú (OC: tsoɡ MC: tsiok) 即玉切 入 廣韻：【爾雅云趾足也又滿也止也從口止即玉切又將喻切二 】'
+  - concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+    concept_label: FOOT
+    children:
+    - gloss: by extension
+      concept_uuid: 29d9355e-9957-476d-b2b8-415faedfb5e5
+      concept_label: LEG
+      children:
+      - gloss: metaphorically
+        concept_uuid: c1e904d1-c323-4f07-921d-9782ac32c047
+        concept_label: VESSEL PARTS
+  - concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+    concept_label: SUFFICIENT
+    children:
+    - gloss: amount to
+      concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+      concept_label: REACH
+      children:
+      - gloss: everything
+        concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+        concept_label: COMPLETE
+        children:
+        - gloss: causative
+          concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+          concept_label: FILL
+        - gloss: show fully
+          concept_uuid: b3dc02c1-9eee-4db7-abc8-86a4d981ee28
+          concept_label: EXPRESS
+    - gloss: sufficiently equipped
+      concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+      concept_label: ABLE
+      children:
+      - gloss: effective
+        concept_uuid: 41694f48-f6e8-4143-9a44-f7bd2f2f917a
+        concept_label: CAUSE
+      - gloss: subjective
+        concept_uuid: bdc229bb-f9d0-42c8-aa80-087257089e55
+        concept_label: SATISFACTORY
+        children:
+        - gloss: so as to merit
+          concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+          concept_label: DESERVE
+        - gloss: felt to be of high degree
+          concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+          concept_label: ABUNDANT
+          children:
+          - gloss: in terms of property
+            concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+            concept_label: RICH
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-28T23:49:01.573+09:00'

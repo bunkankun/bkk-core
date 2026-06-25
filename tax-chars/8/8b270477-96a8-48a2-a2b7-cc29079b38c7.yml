@@ -1,0 +1,97 @@
+uuid: 8b270477-96a8-48a2-a2b7-cc29079b38c7
+type: tax-char
+heads:
+- 見
+pronunciations:
+- reading: jiàn
+  old_chinese: keens
+  middle_chinese: ken
+  fanqie: 古電切
+  tone: 去
+  guangyun: 視也又姓出姓苑古電切又胡電切二
+- reading: xiàn
+  old_chinese: ɡeens
+  middle_chinese: ɦen
+  fanqie: 胡甸切
+  tone: 去
+  guangyun: 露也胡甸切四
+  senses:
+  - gloss: emerge to sight
+    concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+    concept_label: VISIBLE
+    children:
+    - gloss: causative>make visible
+      concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+      concept_label: SHOW
+      children:
+      - gloss: of person
+        concept_uuid: 2aa3ffa6-acb8-4f34-8976-e3950cac6f53
+        concept_label: INTRODUCE
+unattributed_senses:
+- concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+  concept_label: SEE
+  children:
+  - gloss: of text
+    concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+    concept_label: READ
+  - gloss: of things
+    concept_uuid: 493c2644-5dda-4f7b-9ae5-8665715a0fea
+    concept_label: AWARE
+    children:
+    - gloss: cause oneself to be aware
+      concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+      concept_label: CONCENTRATE
+      children:
+      - gloss: systematically, visually
+        concept_uuid: 520ec0d4-3a92-436d-b30d-bb45584b38d6
+        concept_label: OBSERVE
+    - gloss: of reasons etc
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+      children:
+      - gloss: of understood facts
+        concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+        concept_label: BELIEVE
+        children:
+        - gloss: coherent beliefs
+          concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+          concept_label: DOCTRINE
+    - gloss: come to be aware
+      concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+      concept_label: ENCOUNTER
+      children:
+      - gloss: of negative things
+        concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+        concept_label: SUFFER
+        children:
+        - gloss: grammaticalised
+          concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+          concept_label: PASSIVE MARKER
+          children:
+          - gloss: colloquial:changed subject passive marker
+            concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+            concept_label: EGO
+  - gloss: a person
+    concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+    concept_label: MEET
+    children:
+    - gloss: receive visit politely
+      concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+      concept_label: WELCOME
+    - gloss: formal act
+      concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+      concept_label: VISIT
+    - gloss: 'post-Han colloquial: generalised'
+      concept_uuid: c26fec6d-5ca6-4692-afb7-d104df41b7a5
+      concept_label: PERCEIVE
+      children:
+      - gloss: by ear
+        concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+        concept_label: HEAR
+    - gloss: 'post-Han colloquial: envisage'
+      concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+      concept_label: INTEND
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-17T23:51:56.496+09:00'

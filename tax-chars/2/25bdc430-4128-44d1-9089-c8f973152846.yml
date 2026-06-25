@@ -1,0 +1,54 @@
+uuid: 25bdc430-4128-44d1-9089-c8f973152846
+type: tax-char
+heads:
+- 臧
+pronunciations:
+- reading: zāng
+  old_chinese: skaaŋ
+  middle_chinese: tsɑŋ
+  fanqie: 則郎切
+  tone: 平
+  guangyun: 善也厚也又姓出東莞本自魯孝公子臧僖伯之後則郎切六
+  senses:
+  - concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+    concept_label: GOOD
+    children:
+    - gloss: transitive, perfective
+      concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+      concept_label: ACHIEVE
+      children:
+      - gloss: by means of illegal payments
+        concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+        concept_label: BRIBE
+        children:
+        - gloss: feature
+          concept_uuid: d09ae4f5-db47-4dda-90bf-48e4e33d0a4d
+          concept_label: CORRUPT
+    - gloss: psychological
+      concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+      concept_label: HAPPY
+    - gloss: appearance
+      concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+      concept_label: BEAUTIFUL
+      children:
+      - gloss: putative
+        concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+        concept_label: PRAISE
+      - gloss: declarative
+        concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+        concept_label: APPROVE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+    children:
+    - gloss: generalised from proper name(!)
+      concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+      concept_label: SLAVE
+      children:
+      - gloss: feature
+        concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+        concept_label: INSUFFICIENT
+  - concept_uuid: bb81a59d-0eb9-4fa9-b575-fb28d3821ea1
+    concept_label: ARISTOCRATS OF LU
+  - gloss: =藏
+source:
+  source_file: taxchar.xml

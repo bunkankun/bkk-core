@@ -1,0 +1,26 @@
+uuid: 31dc4ce0-cc56-482b-a318-d497e903dc5e
+type: tax-char
+heads:
+- 億
+pronunciations:
+- reading: yì
+  old_chinese: qɯɡ
+  middle_chinese: ʔɨk
+  fanqie: 於力切
+  tone: 入
+  guangyun: 十万曰億又安也度也
+  senses:
+  - concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+    concept_label: ESTIMATE
+  - concept_uuid: dd1c8de7-8201-4782-b6e3-960df290eae7
+    concept_label: NUMBER
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+  - concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+    concept_label: SATISFIED
+  - gloss: = 臆
+  - gloss: = 抑
+  - gloss: = 噫
+  - gloss: = 繶
+source:
+  source_file: taxchar.xml

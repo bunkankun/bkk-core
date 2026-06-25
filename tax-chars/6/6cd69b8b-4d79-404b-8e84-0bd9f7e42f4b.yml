@@ -1,0 +1,40 @@
+uuid: 6cd69b8b-4d79-404b-8e84-0bd9f7e42f4b
+type: tax-char
+heads:
+- 建
+pronunciations:
+- reading: jiàn
+  old_chinese: kans
+  middle_chinese: kiɐn
+  fanqie: 居万切
+  tone: 去
+  guangyun: 立也樹也至也又木名在弱水直上百仞無枝又姓楚王子建之後漢元后傳有建公又州名居万切二
+  senses:
+  - concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+    concept_label: ESTABLISH
+    children:
+    - gloss: physically
+      concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+      concept_label: BUILD
+    - gloss: verbally
+      concept_uuid: ac2e06e9-975b-4a13-80ec-9a5ffb727472
+      concept_label: AFFIRM
+      children:
+      - gloss: publicly
+        concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+        concept_label: PUBLICISE
+      - gloss: psychologically
+        concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+        concept_label: DECIDE
+    - gloss: ritually
+      concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+      concept_label: INSTALL
+    - gloss: continuative
+      concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+      concept_label: SUPPORT
+  - concept_uuid: 2005fb82-bc9b-4011-9450-d6b4eafacd94
+    concept_label: CONSTELLATION
+  - concept_uuid: b7b55df5-1a0d-4d85-9dd5-62349744453b
+    concept_label: MALES OF CHU
+source:
+  source_file: taxchar.xml

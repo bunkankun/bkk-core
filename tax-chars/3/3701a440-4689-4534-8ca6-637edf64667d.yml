@@ -1,0 +1,63 @@
+uuid: 3701a440-4689-4534-8ca6-637edf64667d
+type: tax-char
+heads:
+- 菑
+pronunciations:
+- reading: zī
+  old_chinese: ʔsrɯ
+  middle_chinese: tʂɨ
+  fanqie: 側持切
+  tone: 平
+  guangyun: 同葘又説文曰東楚名缶曰甾
+- reading: zāi
+  old_chinese: tsɯɯ
+  middle_chinese: tsəi
+  fanqie: 祖才切
+  tone: 平
+  guangyun: 説文曰害也
+- reading: zī
+  old_chinese: tsrɯ
+  middle_chinese: tʂɨ
+  fanqie: 側持切
+  tone: 平
+  guangyun: 説文曰不耕田也爾雅曰田一歳曰葘側持切又音栽十五
+  senses:
+  - concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+    concept_label: DISASTER
+  - concept_uuid: c37aa631-d300-40ae-85a4-3ded10b1e7ae
+    concept_label: PLOUGH
+  - concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+    concept_label: FIELD
+  - concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+    concept_label: REMOVE
+  - concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+    concept_label: GRASS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+    concept_label: TREE
+  - concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+    concept_label: WALL
+  - concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+    concept_label: HARM
+  - gloss: = 緇
+  - gloss: = 倳
+- reading: zī
+  old_chinese: ʔsrɯ
+  middle_chinese: tʂɨ
+  fanqie: 側持切
+  tone: 平
+  guangyun: 亦同葘
+- reading: nil
+  old_chinese: ʔsrɯ
+  middle_chinese: tsəi
+  fanqie: 祖才切
+  tone: 平
+  guangyun: 同𡿧亦作葘見經典
+- reading: zāi
+  old_chinese: tsɯɯ
+  middle_chinese: tsəi
+  fanqie: 祖才切
+  tone: 平
+source:
+  source_file: taxchar.xml

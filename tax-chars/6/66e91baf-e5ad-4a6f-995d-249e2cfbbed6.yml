@@ -1,0 +1,108 @@
+uuid: 66e91baf-e5ad-4a6f-995d-249e2cfbbed6
+type: tax-char
+heads:
+- 而
+pronunciations:
+- reading: ér
+  old_chinese: njɯ
+  middle_chinese: ȵɨ
+  fanqie: 如之切
+  tone: 平
+  guangyun: 語助説文曰類毛也如之切二十一
+  senses:
+  - gloss: coordinating
+    concept_uuid: 5854d604-060d-4d93-ad54-cd49821919ac
+    concept_label: AND
+    children:
+    - gloss: along these lines
+      concept_uuid: 117152ee-1bfc-446b-8947-fc010bd3ae85
+      concept_label: THUS
+      children:
+      - gloss: epexegetic
+        concept_uuid: 2dc0fb82-ec1a-4953-8656-632c2b260ee9
+        concept_label: ID EST
+        children:
+        - gloss: in appearance only
+          concept_uuid: b019dfb7-1d6d-4e8d-9b24-7947c71824ff
+          concept_label: AS IF
+        - gloss: grammaticalised
+          concept_uuid: 75bddb10-6c2f-4e54-828b-30e1175f7540
+          concept_label: VERBAL SUFFIX
+      - gloss: thereby intending
+        concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+        concept_label: INTEND
+    - gloss: sequential in time
+      concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+      concept_label: THEREUPON
+      children:
+      - gloss: later
+        concept_uuid: bcb6986f-3280-48f8-973c-c3d5283d75e3
+        concept_label: AFTER
+        children:
+        - gloss: quickly
+          concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+          concept_label: IMMEDIATELY
+    - gloss: time
+      concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+      concept_label: FROM
+    - gloss: contrastive
+      concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+      concept_label: BUT
+      children:
+      - gloss: alternatively, by contrast
+        concept_uuid: 11fd5990-c34f-497c-b93a-667990bbcb3a
+        concept_label: OR
+      - gloss: against expectation
+        concept_uuid: 2fe7d564-2910-459a-872c-153c992f14e8
+        concept_label: EVEN
+    - gloss: between sentences, additive
+      concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+      concept_label: MOREOVER
+  - gloss: concurrent
+    concept_uuid: a58d4969-ab77-4fa9-9061-a1e5b664a853
+    concept_label: WHILE
+    children:
+    - gloss: subordinating, conditional
+      concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+      concept_label: IF
+      children:
+      - gloss: logical
+        concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+        concept_label: THEN
+        children:
+        - gloss: 'abstract: causal'
+          concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+          concept_label: THEREFORE
+  - gloss: postnominal
+    concept_uuid: 3f3cdd08-3cfd-413f-bcab-ef13143318dd
+    concept_label: TOPIC MARKER
+    children:
+    - gloss: topicalising the syntactic object
+      concept_uuid: bd1a4a4f-d944-4c3e-8013-9a83d46b17a3
+      concept_label: OBJECT MARKER
+  - gloss: post-nominal, modifying
+    concept_uuid: fb689ff5-7e05-4a06-92f0-8c7f6908885c
+    concept_label: RELATIVE CLAUSE MARKER
+  - concept_uuid: 3624aada-f603-40a7-a028-e703ade2ea00
+    concept_label: BEARD
+  - gloss: =耳 (而已)
+    concept_uuid: 069ae7d2-0c4f-45a4-99e0-012ab9c92fcf
+    concept_label: FINAL PARTICLES
+  - gloss: =爾
+    concept_uuid: 727cb160-39f8-4e04-a9ae-12350cccc8f8
+    concept_label: SUFFIX
+  - gloss: =爾
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+unattributed_senses:
+- gloss: 而 néng《集韻》奴登切，平登泥。蒸部。
+- gloss: ér
+  concept_uuid: 3ecbc80a-34eb-4b0f-ae75-a2902596aaca
+  concept_label: MODAL PARTICLES
+- gloss: ér
+  concept_uuid: 976a96df-788e-40c3-9630-a579a83b7689
+  concept_label: PARTICLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-10-12T18:06:42+09:00'

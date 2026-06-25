@@ -1,0 +1,80 @@
+uuid: fba04f76-b6ac-4258-b115-f11233129d44
+type: tax-char
+heads:
+- 貌
+pronunciations:
+- reading: mào
+  old_chinese: mreews
+  middle_chinese: mɯau
+  fanqie: 莫教切
+  tone: 去
+  guangyun: 䫉籀文
+  senses:
+  - concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+    concept_label: FACE
+    children:
+    - gloss: generalised
+      concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+      concept_label: APPEARANCE
+      children:
+      - gloss: abstract
+        concept_uuid: f4929979-c290-4ace-9f53-0e91c298690a
+        concept_label: FEATURE
+        children:
+        - gloss: concrete
+          concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+          concept_label: SHAPE
+          children:
+          - gloss: 'feature:'
+            concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+            concept_label: VISIBLE
+            children:
+            - gloss: abstract
+              concept_uuid: 7aeb64d4-94e8-4232-a5d4-07d10bea3f73
+              concept_label: SUPERFICIAL
+            - gloss: causative
+              concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+              concept_label: SHOW
+              children:
+              - gloss: through practice
+                concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+                concept_label: ACT
+              - gloss: object meaning
+                concept_uuid: 3f23b956-1cc9-4a96-8dc3-b14f0275896f
+                concept_label: GESTURE
+                children:
+                - gloss: conventional
+                  concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+                  concept_label: POLITE
+                  children:
+                  - gloss: formal
+                    concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+                    concept_label: RITUAL
+              - gloss: try to show structure or reasons of
+                concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+                concept_label: INVESTIGATE
+            - gloss: comparative
+              concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+              concept_label: RESEMBLE
+              children:
+              - gloss: subjective
+                concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+                concept_label: SEEM
+                children:
+                - gloss: apparition
+                  concept_uuid: 3005dd74-e3f8-4c0a-a760-fcb009c1a067
+                  concept_label: GHOST
+              - gloss: conative
+                concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+                concept_label: IMITATE
+                children:
+                - gloss: feature
+                  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+                  concept_label: SKILLFUL
+  - concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+    concept_label: MYTHICAL ANIMALS
+  - gloss: =邈
+    concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+    concept_label: DISTANT
+source:
+  source_file: taxchar.xml

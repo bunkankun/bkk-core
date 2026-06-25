@@ -1,0 +1,22 @@
+uuid: 8814973b-0c68-4501-8acb-c3ef7da99497
+type: tax-char
+heads:
+- 爐
+pronunciations:
+- reading: lú
+  old_chinese: ɡ-raa
+  middle_chinese: luo
+  fanqie: 落胡切
+  tone: 平
+  guangyun: 火牀出玉篇漢官典職曰尚書郎給女史二人著潔衣服執香爐燒薰
+  senses:
+  - concept_uuid: 8252d5e5-7df6-495b-9bf0-5290023ff8b9
+    concept_label: STOVE
+  - concept_uuid: bb6e394b-930f-436d-8159-1571b4820169
+    concept_label: BOIL
+  - concept_uuid: 4a684e54-f684-4584-80d6-59c2dbb56d4f
+    concept_label: INCENSE BURNER
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+source:
+  source_file: taxchar.xml

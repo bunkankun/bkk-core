@@ -1,0 +1,56 @@
+uuid: aecfcc14-6db7-4d45-9274-14d286350fa3
+type: tax-char
+heads:
+- 賦
+pronunciations:
+- reading: fù
+  old_chinese: pas
+  middle_chinese: pio
+  fanqie: 方遇切
+  tone: 去
+  guangyun: 賦頌詩有六義二曰賦釋名曰敷布其義謂之賦漢書曰不歌而頌曰賦又斂也量也班也稅也
+  senses:
+  - concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+    concept_label: TAX
+    children:
+    - gloss: in the form of labour> CORVEE
+      children:
+      - gloss: military corvee labourer
+        concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+        concept_label: ARMY
+      - gloss: generalised
+        concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+        concept_label: WORK
+    - gloss: to court
+      concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+      concept_label: TRIBUTE
+    - gloss: of taxes
+      concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+      concept_label: PAY
+      children:
+      - gloss: generalised
+        concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+        concept_label: GIVE
+        children:
+        - gloss: what is given to one
+          concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+          concept_label: TALENT
+        - gloss: to many
+          concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+          concept_label: DISTRIBUTE
+          children:
+          - gloss: immaterial
+            concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+            concept_label: SHOW
+  - concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+    concept_label: CHANT
+    children:
+    - gloss: object
+      concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+      concept_label: SONG
+      children:
+      - gloss: compose
+        concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+        concept_label: WRITE
+source:
+  source_file: taxchar.xml

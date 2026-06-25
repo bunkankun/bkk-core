@@ -1,0 +1,36 @@
+uuid: aaeb9292-271e-4a16-b386-24bf4ffe61b1
+type: tax-char
+heads:
+- 衛
+pronunciations:
+- reading: wèi
+  old_chinese: ɢods
+  middle_chinese: ɦʷɯiei
+  fanqie: 于歲切
+  tone: 去
+  guangyun: 護也垂也加也亦州名殷所都也本衞國爲翟所滅齊桓公伐翟遷衞于河南秦屬東郡魏文置朝歌郡晉爲汲郡東魏爲義州周武改爲衞州亦官名漢書曰衞尉秦官掌宫門衞屯兵又姓周文王子衞康叔之後國滅因氏焉出河東陳留二望又精衞鳥名山海經云狀如鳥白首赤喙其鳴自呼取西山木石以塡東海于歳切十三
+  senses:
+  - concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+    concept_label: DEFEND
+    children:
+    - gloss: generalised
+      concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+      concept_label: SAFEGUARD
+      children:
+      - gloss: agent
+        concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+        concept_label: SOLDIER
+        children:
+        - gloss: worn by military
+          concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+          concept_label: GARMENT
+  - concept_uuid: 63a5d69c-4ff0-410d-a427-d37b4f4f8d43
+    concept_label: RULERS OF WEY
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-15T01:56:54.924+09:00'

@@ -1,0 +1,32 @@
+uuid: 95457709-1b2a-4325-b93f-5dd542bad746
+type: tax-char
+heads:
+- 限
+pronunciations:
+- reading: xiàn
+  old_chinese: ɡrɯɯnʔ
+  middle_chinese: ɦɯæn
+  fanqie: 胡簡切
+  tone: 上
+  guangyun: 度也齊也界也胡簡切五
+  senses:
+  - concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+    concept_label: BOUNDARY
+  - concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+    concept_label: END
+  - concept_uuid: df71c3bd-ec8c-46ac-99a3-971cd5b8b6b5
+    concept_label: INACCESSIBLE
+  - concept_uuid: 3c84595c-51f6-442f-83cd-aeb642c5e5da
+    concept_label: LIMIT
+  - concept_uuid: e0c9c25d-b6e0-4f6f-8937-8c3895464d61
+    concept_label: THRESHOLD
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: 8422d721-632c-4a62-94be-9b198bb373a3
+    concept_label: WAIST
+  - concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+    concept_label: HOPE
+  - concept_uuid: 68d6c566-9c41-41aa-9890-055d41e973ef
+    concept_label: ASTRONOMY
+source:
+  source_file: taxchar.xml

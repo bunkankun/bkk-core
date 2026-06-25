@@ -1,0 +1,54 @@
+uuid: 115a5016-1d9c-4a22-aabf-1cdd44f67382
+type: tax-char
+heads:
+- 負
+pronunciations:
+- reading: fù
+  old_chinese: bɯʔ
+  middle_chinese: biu
+  fanqie: 房久切
+  tone: 上
+  guangyun: 擔也荷也又受貸不償曰負背恩忘德曰負也
+  senses:
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - gloss: figurative
+    concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+    concept_label: SUFFER
+    children:
+    - gloss: financially
+      concept_uuid: a91eea17-4433-416d-98a8-530eefa5b7af
+      concept_label: OWE
+      children:
+      - gloss: result
+        concept_uuid: 97510283-af73-45e3-97a7-942029408956
+        concept_label: RELY ON
+      - gloss: what one owes
+        concept_uuid: a823943f-8158-412e-8e21-e4cdda760789
+        concept_label: PAY
+    - gloss: failure
+      concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+      concept_label: FAIL
+      children:
+      - gloss: 'causative, figurative: excel'
+        concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+        concept_label: DEFEAT
+        children:
+        - gloss: general
+          concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+          concept_label: OFFEND
+          children:
+          - gloss: against authorities
+            concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+            concept_label: REVOLT
+      - gloss: metaphorical?
+        concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+        concept_label: BEHIND
+        children:
+        - gloss: mathematical technical term
+          concept_uuid: aab694c3-02a1-4391-9a4a-136bae6dc750
+          concept_label: NEGATIVE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-02T19:12:53.806+09:00'

@@ -1,0 +1,60 @@
+uuid: c7b92079-28b6-4ebb-b570-93a2c9de6ecc
+type: tax-char
+heads:
+- 沮
+pronunciations:
+- reading: jū
+  old_chinese: ska
+  middle_chinese: tsiɔ
+  fanqie: 子魚切
+  tone: 平
+  guangyun: 虜複姓有沮渠氏其先丗爲匈奴左沮渠遂以官爲氏沮渠蒙遜以後魏天興四年僭號於張掖稱北涼
+  senses:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+- reading: jù
+  old_chinese: skas
+  middle_chinese: tsiɔ
+  fanqie: 將預切
+  tone: 去
+  guangyun: 沮洳漸濕亦作𣶝
+  senses:
+  - concept_uuid: 1d168988-768f-41d1-adb5-cd633b503ead
+    concept_label: MARSH
+- reading: zū
+  old_chinese: skra
+  middle_chinese: tʂiɔ
+  fanqie: 側魚切
+  tone: 平
+  guangyun: 人姓丗本云沮誦蒼頡作書並黄帝時史官
+- reading: qū
+  old_chinese: skha
+  middle_chinese: tsʰiɔ
+  fanqie: 七余切
+  tone: 平
+  guangyun: 止也非也又水名在房陵所謂沮漳亦云漆沮旣從並在此地又子魚側魚疾與子預四切
+- reading: jǔ
+  old_chinese: sɡaʔ
+  middle_chinese: dziɔ
+  fanqie: 慈吕切
+  tone: 上
+  guangyun: 止也又七余子預二切
+  senses:
+  - concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+    concept_label: HINDER
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+    concept_label: FAIL
+  - concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+    concept_label: FRIGHTEN
+  - concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+    concept_label: DOUBT
+  - concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+    concept_label: SLANDER
+source:
+  source_file: taxchar.xml

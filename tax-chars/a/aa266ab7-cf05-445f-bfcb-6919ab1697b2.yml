@@ -1,0 +1,24 @@
+uuid: aa266ab7-cf05-445f-bfcb-6919ab1697b2
+type: tax-char
+heads:
+- 豆
+pronunciations:
+- reading: dòu
+  old_chinese: doos
+  middle_chinese: dəu
+  fanqie: 徒候切
+  tone: 去
+  guangyun: 榖豆物理論云菽者衆荳之名也又姓後魏有將軍豆代田候切十六
+  senses:
+  - concept_uuid: b15f41a5-4d02-40b3-a459-b0982b1fd01a
+    concept_label: BEANS
+  - concept_uuid: cd7f956f-6b2a-4fc6-93d6-b5374a10eb34
+    concept_label: BOWL
+  - concept_uuid: 65fa9820-abe3-4f97-89d4-d29bb880084d
+    concept_label: VOLUME MEASURES
+  - concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

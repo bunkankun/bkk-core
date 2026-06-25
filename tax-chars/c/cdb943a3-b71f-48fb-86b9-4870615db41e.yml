@@ -1,0 +1,55 @@
+uuid: cdb943a3-b71f-48fb-86b9-4870615db41e
+type: tax-char
+heads:
+- 客
+pronunciations:
+- reading: kè
+  old_chinese: khraaɡ
+  middle_chinese: kʰɯak
+  fanqie: 苦格切
+  tone: 入
+  guangyun: 賔客苦格切四
+  senses:
+  - concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+    concept_label: GUEST
+    children:
+    - gloss: 'specific: in dialogue'
+      concept_uuid: 085bb42c-200b-4436-9eb7-8988f75d2b24
+      concept_label: OPPONENT
+    - gloss: welcome
+      concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+      concept_label: FRIEND
+      children:
+      - gloss: specific
+        concept_uuid: 97e886c3-1d09-43f1-ac24-1fef62817260
+        concept_label: RETAINER
+        children:
+        - gloss: abstract
+          concept_uuid: b395c4c7-2b4a-4ea7-b418-05b315260940
+          concept_label: FOREIGNER
+          children:
+          - gloss: action
+            concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+            concept_label: TRAVEL
+            children:
+            - gloss: 'action: stay on one''s way'
+              concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+              concept_label: DWELL
+  - gloss: action towards, transitive
+    concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+    concept_label: WELCOME
+    children:
+    - gloss: psychological
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+  - gloss: grammaticalised
+    concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+    concept_label: YOU
+    children:
+    - gloss: 'grammaticalised: a certain person'
+      concept_uuid: c1654743-3e55-4188-816b-511da251682f
+      concept_label: PRONOUN
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-19T00:26:15.595+09:00'

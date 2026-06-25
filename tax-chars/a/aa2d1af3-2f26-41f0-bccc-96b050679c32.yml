@@ -1,0 +1,20 @@
+uuid: aa2d1af3-2f26-41f0-bccc-96b050679c32
+type: tax-char
+heads:
+- 袖
+pronunciations:
+- reading: xiù
+  old_chinese: ljiwɡs
+  middle_chinese: ziu
+  fanqie: 似祐切
+  tone: 去
+  guangyun: 衣袂也亦作褏褎
+  senses:
+  - concept_uuid: 80746bdb-0efd-4ac1-84be-2958a770d2ba
+    concept_label: SLEEVE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

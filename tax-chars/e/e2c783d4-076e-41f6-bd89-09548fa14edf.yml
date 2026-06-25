@@ -1,0 +1,47 @@
+uuid: e2c783d4-076e-41f6-bd89-09548fa14edf
+type: tax-char
+heads:
+- 救
+pronunciations:
+- reading: jiù
+  old_chinese: kus
+  middle_chinese: kiu
+  fanqie: 居祐切
+  tone: 去
+  guangyun: 護也止也又姓風俗通漢有諫議大夫救仁居祐切十一
+  senses:
+  - concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+    concept_label: RESCUE
+    children:
+    - gloss: object disaster
+      concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+      concept_label: HINDER
+    - gloss: of misfortune
+      concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+      concept_label: REMOVE
+      children:
+      - gloss: of conflagration
+        concept_uuid: 9cbdabe9-f820-4089-a736-bb73374373ce
+        concept_label: EXTINGUISH
+      - gloss: of guilt
+        concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+        concept_label: FORGIVE
+      - gloss: of disease
+        concept_uuid: ee5a5361-1668-41ce-bd3d-9d1d3da853f1
+        concept_label: CURE
+      - gloss: of injustice
+        concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+        concept_label: CORRECT
+    - gloss: from adversity
+      concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+      concept_label: HELP
+      children:
+      - gloss: 'in desperation:'
+        concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+        concept_label: CONSOLE
+unattributed_senses:
+- gloss: 救 （二）ｊｉｕ１《集韻》居尤切，平尤見
+  children:
+  - gloss: =勼
+source:
+  source_file: taxchar.xml

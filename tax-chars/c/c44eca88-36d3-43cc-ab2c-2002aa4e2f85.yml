@@ -1,0 +1,24 @@
+uuid: c44eca88-36d3-43cc-ab2c-2002aa4e2f85
+type: tax-char
+heads:
+- 電
+pronunciations:
+- reading: diàn
+  old_chinese: liins
+  middle_chinese: den
+  fanqie: 堂練切
+  tone: 去
+  guangyun: 隂陽激曜釋名曰電殄也乍見則殄滅也堂練切十八
+  senses:
+  - concept_uuid: 67400650-71ab-426c-a90d-93c8dda0924b
+    concept_label: LIGHTNING
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: 82b1bf39-41aa-4973-986c-3b891c0e44d5
+    concept_label: ELECTRICITY
+  - concept_uuid: fb49d84c-c46c-4bcd-bff0-687975a60c8f
+    concept_label: ELECTRICAL APPLIANCES
+source:
+  source_file: taxchar.xml

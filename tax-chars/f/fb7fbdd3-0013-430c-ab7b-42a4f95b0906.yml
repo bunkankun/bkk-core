@@ -1,0 +1,48 @@
+uuid: fb7fbdd3-0013-430c-ab7b-42a4f95b0906
+type: tax-char
+heads:
+- 畏
+pronunciations:
+- reading: wèi
+  old_chinese: quls
+  middle_chinese: ʔʷɨi
+  fanqie: 於胃切
+  tone: 去
+  guangyun: 畏懼
+  senses:
+  - concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+    concept_label: FEAR
+    children:
+    - gloss: while acknowleding authority
+      concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+      concept_label: RESPECT
+    - gloss: and thus
+      concept_label: RESENT
+    - gloss: causative
+      concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+      concept_label: FRIGHTEN
+      children:
+      - gloss: what frightens
+        concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+        concept_label: DANGER
+        children:
+        - gloss: typical psychological response
+          concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+          concept_label: WORRY
+          children:
+          - gloss: preferred reaction
+            concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+            concept_label: AVOID
+unattributed_senses:
+- concept_label: 畏wēi《集韻》烏回切，平灰影。微部。
+  children:
+  - gloss: =威
+    concept_uuid: c8172019-b0ae-4d5c-ad23-7886d93792c1
+    concept_label: AUTHORITY
+- concept_label: 畏wěi《集韻》羽鬼切，上尾云。
+  children:
+  - concept_label: =崴
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-20T00:19:09.801+09:00'

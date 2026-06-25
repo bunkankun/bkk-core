@@ -1,0 +1,48 @@
+uuid: 98eb397d-7fd8-4770-abe2-a6eaadfcfccb
+type: tax-char
+heads:
+- 擁
+pronunciations:
+- reading: yǒng
+  old_chinese: qoŋʔ
+  middle_chinese: ʔioŋ
+  fanqie: 於隴切
+  tone: 上
+  guangyun: 手擁説文作𢹬抱也又擁劒蟲形似蟹崔豹古今注云一名執火其螯赤故謂之執火於隴切三
+  senses:
+  - concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+    concept_label: CARRY
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+  - concept_uuid: d9ac082d-40b1-43f4-8d4e-aff463f08dfa
+    concept_label: EMBRACE
+  - concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+    concept_label: GATHER
+  - concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+    concept_label: SAFEGUARD
+  - concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+    concept_label: HAVE
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 71bc0b52-b34c-4f22-a83a-b866764984c7
+    concept_label: CORNER
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+  - concept_uuid: f9997eb7-a0c8-4da7-ab50-dc183c80fd4f
+    concept_label: CROWD
+  - gloss: = 臃
+- reading: nil
+  old_chinese: qoŋ
+  middle_chinese: ʔioŋ
+  fanqie: 於隴切
+  tone: 上
+  guangyun: 同擁
+- reading: yōng
+  old_chinese: qoŋ
+  middle_chinese: ʔioŋ
+  fanqie: 於容切
+  tone: 平
+source:
+  source_file: taxchar.xml

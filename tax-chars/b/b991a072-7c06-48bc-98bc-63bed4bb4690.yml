@@ -1,0 +1,24 @@
+uuid: b991a072-7c06-48bc-98bc-63bed4bb4690
+type: tax-char
+heads:
+- 隕
+pronunciations:
+- reading: yǔn
+  old_chinese: ɢunʔ
+  middle_chinese: ɦʷɯin
+  fanqie: 于敏切
+  tone: 上
+  guangyun: 墜也落也
+  senses:
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+    concept_label: LOSE
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - gloss: = 殞
+  - gloss: = 員
+source:
+  source_file: taxchar.xml

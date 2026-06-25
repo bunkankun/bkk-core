@@ -1,0 +1,34 @@
+uuid: 63809c8b-cf26-41cb-8bdc-8f6e37e8ca1b
+type: tax-char
+heads:
+- 住
+pronunciations:
+- reading: zhù
+  old_chinese: tos
+  middle_chinese: ʈio
+  fanqie: 中句切
+  tone: 去
+  guangyun: 停手又長句切
+  senses:
+  - concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+    concept_label: BE IN
+  - concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+    concept_label: ENDURING
+  - concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+    concept_label: TIE TO
+  - concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+    concept_label: LIVE
+  - concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+    concept_label: REMAIN
+  - concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+    concept_label: STAND
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+  - concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+    concept_label: WORK
+  - concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+    concept_label: ESTABLISH
+  - concept_uuid: 1a945368-8fe0-42d1-8db9-05b2781e1056
+    concept_label: COUNT
+source:
+  source_file: taxchar.xml

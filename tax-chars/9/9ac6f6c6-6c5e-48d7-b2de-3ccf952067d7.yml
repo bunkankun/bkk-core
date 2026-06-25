@@ -1,0 +1,43 @@
+uuid: 9ac6f6c6-6c5e-48d7-b2de-3ccf952067d7
+type: tax-char
+heads:
+- 慎
+pronunciations:
+- reading: shèn
+  old_chinese: djins
+  middle_chinese: dʑin
+  fanqie: 時刃切
+  tone: 去
+  guangyun: 誠也謹也亦姓古有愼到著書又漢複姓家語魯有愼潰氏奢侈逾法時刃切三
+  senses:
+  - concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+    concept_label: DILIGENT
+    children:
+    - gloss: psychological
+      concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+      concept_label: EARNEST
+    - gloss: in action
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+    - gloss: self-interested
+      concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+      concept_label: CAUTIOUS
+      children:
+      - gloss: 'psychological: concerning future'
+        concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+        concept_label: WORRY
+  - gloss: '=引 specific: pull coffin with rope'
+    concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+    concept_label: BURY
+  - gloss: adverbial
+    concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+    concept_label: REALITY
+  - concept_uuid: 150ba17a-ee29-42d2-ac6a-f0a24c2ecd40
+    concept_label: IMPERATIVE MARKER
+unattributed_senses:
+- gloss: 慎 ｚｈｅｎ４《集韻》之刃切，去震章。又之人切。真部。
+  children:
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

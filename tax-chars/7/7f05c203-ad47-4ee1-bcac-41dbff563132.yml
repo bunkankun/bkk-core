@@ -1,0 +1,26 @@
+uuid: 7f05c203-ad47-4ee1-bcac-41dbff563132
+type: tax-char
+heads:
+- 褰
+pronunciations:
+- reading: qiān
+  old_chinese: khran
+  middle_chinese: kʰɯiɛn
+  fanqie: 去乾切
+  tone: 平
+  guangyun: 褰衣
+  senses:
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 0b818f9e-bf85-41eb-ad69-dd3ddf39c791
+    concept_label: TROUSERS
+  - concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+    concept_label: STRETCH OUT
+  - concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+    concept_label: DIMINISH
+  - concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+    concept_label: STOP
+source:
+  source_file: taxchar.xml

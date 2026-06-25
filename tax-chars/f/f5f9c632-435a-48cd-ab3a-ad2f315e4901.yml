@@ -1,0 +1,30 @@
+uuid: f5f9c632-435a-48cd-ab3a-ad2f315e4901
+type: tax-char
+heads:
+- 銅
+pronunciations:
+- reading: tóng
+  old_chinese: looŋ
+  middle_chinese: duŋ
+  fanqie: 徒紅切
+  tone: 平
+  guangyun: 金之一品
+  senses:
+  - concept_uuid: 094a7bb8-1112-40ce-85c5-57135d88eb6b
+    concept_label: BRONZE
+  - concept_uuid: b290d793-4da2-4afd-b994-c324d335fc2b
+    concept_label: COPPER
+  - concept_uuid: 73c57fd4-d30b-4911-8e5a-ca7201b1e7b9
+    concept_label: MUSICAL INSTRUMENT
+  - concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+    concept_label: MONEY
+  - concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+    concept_label: MIRROR
+  - concept_uuid: 59d560a0-7465-4598-8d03-b00e37f229c2
+    concept_label: SEAL
+  - concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

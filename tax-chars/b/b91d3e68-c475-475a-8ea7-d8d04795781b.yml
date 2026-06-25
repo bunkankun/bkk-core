@@ -1,0 +1,57 @@
+uuid: b91d3e68-c475-475a-8ea7-d8d04795781b
+type: tax-char
+heads:
+- 橫
+pronunciations:
+- reading: hèng
+  old_chinese: ɡʷraaŋs
+  middle_chinese: ɦʷɯaŋ
+  fanqie: 戶孟切
+  tone: 去
+  guangyun: 非理來又音宏
+  senses:
+  - concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+    concept_label: UNRESTRAINED
+    children:
+    - gloss: generalised
+      concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+      concept_label: INTENSELY
+    - gloss: in aggressive action
+      concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+      concept_label: VIOLENT
+      children:
+      - gloss: 'figurative: unexpected'
+        concept_label: SURPRISE
+- reading: héng
+  old_chinese: ɡʷraaŋ
+  middle_chinese: ɦʷɯaŋ
+  fanqie: 戶盲切
+  tone: 平
+  guangyun: 縱横也又姓風俗通云韓王子成號横陽君其後爲氏戸盲切十六
+  senses:
+  - concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+    children:
+    - concept_uuid: 9db09585-7114-44e5-bd6a-600131180a9c
+      concept_label: HORIZONTAL
+- reading: guāng
+  old_chinese: kʷaaŋ
+  middle_chinese: kʷɑŋ
+  fanqie: 古黃切
+  tone: 平
+  guangyun: 長安門名又戸觥切
+unattributed_senses:
+- concept_label: 橫 ｇｕａｎｇ１《廣韻》古黃切，平唐見。
+- concept_label: 橫 ｇｕａｎｇ４《集韻》古曠切，
+  children:
+  - concept_label: =桄
+- concept_label: 橫 ｈｕａｎｇ２《集韻》胡光切，平唐匣。
+  children:
+  - gloss: =撗
+    concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+    concept_label: PLANTS
+- concept_label: 橫 ｈｕａｎｇ４《集韻》戶廣切，上蕩匣。
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-09-15T21:41:29.551+09:00'

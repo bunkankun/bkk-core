@@ -1,0 +1,28 @@
+uuid: ad60e24f-ed5c-47ce-917e-643889df2c10
+type: tax-char
+heads:
+- 仍
+pronunciations:
+- reading: réng
+  old_chinese: njɯŋ
+  middle_chinese: ȵɨŋ
+  fanqie: 如乗切
+  tone: 平
+  guangyun: 因也就也重也頻也又姓出何氏姓苑如乗切七
+  senses:
+  - concept_uuid: bf236491-24df-4502-b928-cea735658b61
+    concept_label: CONTINUE
+  - concept_uuid: b01b6749-a711-47b2-8e5e-44fba1de9722
+    concept_label: STILL
+  - concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+    concept_label: OFTEN
+  - concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+    concept_label: THEN
+  - concept_uuid: 0132f036-b27d-4f65-9840-9189eb6093ac
+    concept_label: MOREOVER
+  - concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+    concept_label: NONETHELESS
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+source:
+  source_file: taxchar.xml

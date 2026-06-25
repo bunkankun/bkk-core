@@ -1,0 +1,20 @@
+uuid: 9fedf63e-056e-480f-816b-0cf99c3ac1ee
+type: tax-char
+heads:
+- 鉞
+pronunciations:
+- reading: yuè
+  old_chinese: ɢʷad
+  middle_chinese: ɦʷiɐt
+  fanqie: 王伐切
+  tone: 入
+  guangyun: 同戉
+  senses:
+  - concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+    concept_label: AXE
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,37 @@
+uuid: 2042e335-5dbf-4b4a-bbdd-26058b37b842
+type: tax-char
+heads:
+- 乞
+pronunciations:
+- reading: qǐ
+  old_chinese: khɯd
+  middle_chinese: kʰɨt
+  fanqie: 去訖切
+  tone: 入
+  guangyun: 求也説文本作气音氣今作乞取之乞又虜複姓晉有乞伏國仁太元十年稱秦王於金城去訖切三
+  senses:
+  - concept_uuid: 87c1fbcd-a34c-47c5-b855-01de94c5d74c
+    concept_label: BEG
+  - concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+    concept_label: REQUEST
+  - concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+    concept_label: TAKE
+  - concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+    concept_label: POOR
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: qì
+  old_chinese: khɯds
+  middle_chinese: kʰɨi
+  fanqie: 去既切
+  tone: 去
+  senses:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 48817188-ab53-44fb-8065-9692355be291
+    concept_label: PASSIVE MARKER
+  - concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+    concept_label: ALWAYS
+  - gloss: = 氣
+source:
+  source_file: taxchar.xml

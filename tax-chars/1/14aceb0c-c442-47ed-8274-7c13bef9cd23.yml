@@ -1,0 +1,21 @@
+uuid: 14aceb0c-c442-47ed-8274-7c13bef9cd23
+type: tax-char
+heads:
+- 遑
+pronunciations:
+- reading: huáng
+  old_chinese: ɡʷaaŋ
+  middle_chinese: ɦʷɑŋ
+  fanqie: 胡光切
+  tone: 平
+  guangyun: 急也
+  senses:
+  - concept_uuid: 6690ec1a-d5ad-4c69-9ce3-997406c2ddf1
+    concept_label: HOW
+  - concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+    concept_label: LEISURE
+  - concept_uuid: ed3a9dad-e99a-4a35-9010-1a2e579dbad0
+    concept_label: URGENT
+  - gloss: = 惶
+source:
+  source_file: taxchar.xml

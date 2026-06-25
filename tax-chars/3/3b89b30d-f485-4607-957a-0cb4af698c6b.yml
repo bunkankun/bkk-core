@@ -1,0 +1,69 @@
+uuid: 3b89b30d-f485-4607-957a-0cb4af698c6b
+type: tax-char
+heads:
+- 固
+pronunciations:
+- reading: gù
+  old_chinese: kaas
+  middle_chinese: kuo
+  fanqie: 古暮切
+  tone: 去
+  guangyun: 堅也一也常也故也四塞也
+  senses:
+  - gloss: solid
+    concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+    concept_label: HARD
+    children:
+    - gloss: generalised
+      concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+      concept_label: STRONG
+      children:
+      - gloss: surface
+        concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+        concept_label: COARSE
+      - gloss: causative
+        concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+        concept_label: FIX
+        children:
+        - gloss: 'process, physical: harden'
+          concept_uuid: 30fa5df8-a9ff-43d7-9041-24f2279e5ca5
+          concept_label: CONGEAL
+        - gloss: abstract, social:fix relations
+          concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+          concept_label: CONTRACT
+    - gloss: social:invulnerable
+      concept_uuid: 056420a0-1add-4ebb-ac5d-9006d57b1135
+      concept_label: SAFE
+      children:
+      - gloss: geographical
+        concept_uuid: df71c3bd-ec8c-46ac-99a3-971cd5b8b6b5
+        concept_label: INACCESSIBLE
+    - gloss: action
+      concept_uuid: 6d57c2e0-3c2a-41b4-9d07-8efbc7bd3d89
+      concept_label: INSIST
+      children:
+      - gloss: feature:psychological
+        concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+        concept_label: STUBBORN
+      - gloss: grammaticalised
+        concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+        concept_label: ALREADY
+        children:
+        - gloss: permanent
+          concept_uuid: bf811b13-fa31-4dec-8e93-51a11b64a416
+          concept_label: ALWAYS
+          children:
+          - gloss: abstract
+            concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+            concept_label: CERTAIN
+            children:
+            - gloss: metaphysical
+              concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+              concept_label: REALITY
+  - gloss: =故
+    concept_uuid: 748e6226-c1ae-42f3-802b-792082fcccb9
+    concept_label: THEREFORE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-18T19:51:10.256+09:00'

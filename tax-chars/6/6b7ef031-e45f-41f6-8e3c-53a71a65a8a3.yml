@@ -1,0 +1,76 @@
+uuid: 6b7ef031-e45f-41f6-8e3c-53a71a65a8a3
+type: tax-char
+heads:
+- 期
+pronunciations:
+- reading: qī
+  old_chinese: ɡɯ
+  middle_chinese: ɡɨ
+  fanqie: 渠之切
+  tone: 平
+  guangyun: 期信也㑹也限也要也又姓風俗通有期思國又漢複姓二氏後漢梁鴻改姓運期氏古仙人有安期生賈執英賢傳云今琅邪人
+  senses:
+  - concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+    concept_label: AGREE TO
+    children:
+    - gloss: in action
+      concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+      concept_label: CONFORM
+      children:
+      - gloss: object
+        concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+        concept_label: STANDARD
+      - gloss: until the appointed time
+        concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+        concept_label: WAIT
+        children:
+        - gloss: abstract
+          concept_uuid: 18111d76-cd07-4adf-a21d-e4c273df9d48
+          concept_label: DEPEND ON
+        - gloss: with positive anticipation
+          concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+          concept_label: HOPE
+          children:
+          - gloss: emotional
+            concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+            concept_label: DESIRE
+          - gloss: delayed agreed-to action
+            concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+            concept_label: LATE
+    - gloss: agreed-to date
+      concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+      concept_label: MOMENT
+      children:
+      - gloss: correct
+        concept_uuid: 192687fc-6722-4783-8131-d1a95005a098
+        concept_label: TIMELY
+      - gloss: general
+        concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+        concept_label: PERIOD
+        children:
+        - gloss: repetitive
+          concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+          concept_label: OFTEN
+      - gloss: action
+        concept_uuid: 07db87b1-a34c-4520-9b87-b1a34ce52076
+        concept_label: APPOINTMENT
+      - gloss: opportune
+        concept_uuid: bc2b5d7d-6265-48fe-b703-7d18f3d5fe8b
+        concept_label: OPPORTUNITY
+      - gloss: grammatialised
+        concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+        concept_label: THEREUPON
+- reading: jī
+  old_chinese: kɯ
+  middle_chinese: kɨ
+  fanqie: 居之切
+  tone: 平
+  guangyun: 周年又復時也
+  senses:
+  - gloss: of years or periods
+    concept_uuid: bc60a577-af36-4102-b4a3-e5bdcf5a4b7d
+    concept_label: WHOLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-31T02:22:12.006+09:00'

@@ -1,0 +1,26 @@
+uuid: 02a22aaa-4b53-40e6-93ad-67e132849b41
+type: tax-char
+heads:
+- 恤
+pronunciations:
+- reading: xù
+  old_chinese: sqʷiɡ
+  middle_chinese: sʷit
+  fanqie: 辛聿切
+  tone: 入
+  guangyun: 憂恤
+  senses:
+  - concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+    concept_label: SYMPATHY
+  - concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+    concept_label: WORRY
+  - concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+    concept_label: HELP
+  - concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+    concept_label: PUT
+  - concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+    concept_label: RITUAL
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

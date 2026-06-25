@@ -1,0 +1,30 @@
+uuid: 63f0948c-9faa-4355-b933-789223bb67cb
+type: tax-char
+heads:
+- 隙
+pronunciations:
+- reading: xì
+  old_chinese: khaɡ
+  middle_chinese: kʰɯiak
+  fanqie: 綺戟切
+  tone: 入
+  guangyun: 壁孔也怨也閑也綺戟切七
+  senses:
+  - concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+    concept_label: HOLE
+  - concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+  - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+    concept_label: WEAK
+  - concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+    concept_label: SPLIT
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+  - concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+    concept_label: HATE
+  - concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+    concept_label: BAD
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,30 @@
+uuid: 3a3c7252-b69c-4b88-ad7c-60852f47aaa8
+type: tax-char
+heads:
+- 董
+pronunciations:
+- reading: dǒng
+  old_chinese: tooŋʔ
+  middle_chinese: tuŋ
+  fanqie: 多動切
+  tone: 上
+  guangyun: 督也正也固也又姓飂叔安裔子董父實甚好龍帝舜嘉焉賜姓曰董出隴西濟隂二望多動切七
+  senses:
+  - concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+    concept_label: CONTROL
+  - concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+    concept_label: CORRECT
+  - concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+    concept_label: CONCEAL
+  - concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+    concept_label: LEAD
+  - concept_uuid: 394a0980-04a6-4a42-b28f-ceea8dc2b09a
+    concept_label: MANAGE
+  - concept_uuid: dbf3a59b-e414-418d-bca3-8488d52f6a72
+    concept_label: PLACE NAMES
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+  - concept_uuid: fe6eb929-40b1-4ac2-843c-594622ef9a6d
+    concept_label: ONOMATOPOETICA
+source:
+  source_file: taxchar.xml

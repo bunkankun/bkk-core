@@ -1,0 +1,28 @@
+uuid: 7d89340b-163a-4bdc-b5dc-31a293029353
+type: tax-char
+heads:
+- 哭
+pronunciations:
+- reading: kū
+  old_chinese: ŋʰooɡ
+  middle_chinese: kʰuk
+  fanqie: 空谷切
+  tone: 入
+  guangyun: 哀聲空谷切八
+  senses:
+  - concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+    concept_label: LAMENT
+    children:
+    - gloss: musically
+      concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+      concept_label: SING
+    - gloss: expressed emotion
+      concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+      concept_label: MOURNING
+    - gloss: 'late: generalised'
+      concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+      concept_label: WEEP
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+source:
+  source_file: taxchar.xml

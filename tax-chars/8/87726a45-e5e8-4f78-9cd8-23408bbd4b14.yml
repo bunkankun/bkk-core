@@ -1,0 +1,42 @@
+uuid: 87726a45-e5e8-4f78-9cd8-23408bbd4b14
+type: tax-char
+heads:
+- 鈞
+pronunciations:
+- reading: jūn
+  old_chinese: kʷlin
+  middle_chinese: kʷin
+  fanqie: 居勻切
+  tone: 平
+  guangyun: 二十斤也又姓風俗通云楚大夫元鈞之後漢有侍中鈞喜
+  senses:
+  - concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+    concept_label: ALL
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+    concept_label: SAME
+  - concept_uuid: 2411769c-6c72-498d-b053-45423830dcf6
+    concept_label: WEIGHT MEASURES
+  - concept_uuid: 2999ca14-172c-458b-96ca-2b03dcf9d6e3
+    concept_label: WHEEL
+  - concept_uuid: 3f5f8978-4fb5-4fca-9b4a-7c71aa001033
+    concept_label: POLITICS
+  - concept_uuid: 9d9857a9-ac16-497e-8916-3adf421c01bd
+    concept_label: MELODY
+  - concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+    concept_label: PURE
+  - concept_uuid: 34800870-e409-45c7-a0fe-86f9c6c79898
+    concept_label: DEITIES
+  - concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+    concept_label: RESPECT
+  - concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+    concept_label: VESSEL
+  - concept_uuid: 108d8770-024c-423d-8ee3-cd6a43f49b64
+    concept_label: TO TUNE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

@@ -1,0 +1,47 @@
+uuid: 83dba5f6-bf09-4ea7-bc08-33ad5d5a9912
+type: tax-char
+heads:
+- 卑
+pronunciations:
+- reading: bēi
+  old_chinese: pe
+  middle_chinese: piɛ
+  fanqie: 府移切
+  tone: 平
+  guangyun: 下也賤也亦姓蔡邕胡太傅碑有太傅掾鴈門卑整府移切十一
+  senses:
+  - concept_uuid: f3e13579-7f52-46be-aa49-a573417c0d6a
+    concept_label: LOW
+    children:
+    - gloss: 'grammaticalised: relational'
+      concept_uuid: 62252aba-6452-4ee9-aeb4-3b50862a8170
+      concept_label: BELOW
+    - gloss: metaphorical
+      concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+      concept_label: HUMBLE
+      children:
+      - concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+        concept_label: POLITE
+      - gloss: derogatory
+        concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+        concept_label: VULGAR
+        children:
+        - gloss: putative
+          concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+          concept_label: DESPISE
+        - concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+          concept_label: TENUOUS
+          children:
+          - concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+            concept_label: WEAK
+unattributed_senses:
+- gloss: 卑 ｂｉ３《集韻》補弭切，上紙幫。支部。
+  children:
+  - concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+    concept_label: CAUSE TO
+- gloss: 卑 ｂａｎ１《類篇》逋還切，平刪幫。
+  children:
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+source:
+  source_file: taxchar.xml

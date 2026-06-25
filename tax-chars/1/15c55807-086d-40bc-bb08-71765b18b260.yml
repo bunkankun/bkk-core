@@ -1,0 +1,36 @@
+uuid: 15c55807-086d-40bc-bb08-71765b18b260
+type: tax-char
+heads:
+- 路
+pronunciations:
+- reading: lù
+  old_chinese: ɡ-raaɡs
+  middle_chinese: luo
+  fanqie: 洛故切
+  tone: 去
+  guangyun: 道路亦大也周禮曰合方氏掌達天下之道路爾雅曰一達謂之道路又姓本自帝摯之後出陽平襄城陳留安定東陽河南等六望洛故切十三
+  senses:
+  - concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+    concept_label: WAY
+    children:
+    - gloss: abstract
+      concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+      concept_label: METHOD
+    - gloss: use
+      concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+      concept_label: TRAVEL
+      children:
+      - gloss: place reached?
+        concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+        concept_label: REGION
+      - gloss: =輅 instrument:ruler’s big
+        concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+        concept_label: CARRIAGE
+        children:
+        - gloss: (rare:)feature
+          concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+          concept_label: BIG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T00:48:48.352+09:00'

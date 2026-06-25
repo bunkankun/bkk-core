@@ -1,0 +1,47 @@
+uuid: c05a7a19-4701-4d22-96a6-6a5578dc957d
+type: tax-char
+heads:
+- 歲
+pronunciations:
+- reading: suì
+  old_chinese: sqʷads
+  middle_chinese: sʷiɛi
+  fanqie: 相銳切
+  tone: 去
+  guangyun: 釋名曰歳越也越故限也從歩戌相銳切四
+- reading: xuě
+  old_chinese: sqʷad
+  middle_chinese: sʷiɛt
+  fanqie: 相絕切
+  tone: 入
+unattributed_senses:
+- concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+  concept_label: YEAR
+  children:
+  - gloss: yearly
+    concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+    concept_label: SACRIFICE
+    children:
+    - gloss: part of
+      concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+      concept_label: CUT
+  - gloss: 'abstract:'
+    concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+    concept_label: TIME
+  - gloss: astronomic
+    concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+    concept_label: STAR
+    children:
+    - gloss: changing during the parts of the year
+      concept_uuid: ff4443d1-1419-4415-87e8-53c5973cb5e2
+      concept_label: WEATHER
+    - gloss: specific
+      concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+      concept_label: AGE
+    - gloss: 'specific: yearly activity'
+      concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+      concept_label: HARVEST
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-16T22:24:03.92+09:00'

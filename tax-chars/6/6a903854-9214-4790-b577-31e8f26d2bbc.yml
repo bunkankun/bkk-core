@@ -1,0 +1,64 @@
+uuid: 6a903854-9214-4790-b577-31e8f26d2bbc
+type: tax-char
+heads:
+- 易
+pronunciations:
+- reading: yì
+  old_chinese: leeɡs
+  middle_chinese: jiɛ
+  fanqie: 以豉切
+  tone: 去
+  guangyun: 難易也簡易也又禮云易墓非古也易謂芟除草木以豉切又以益切六
+- reading: yì
+  old_chinese: leɡ
+  middle_chinese: jiɛk
+  fanqie: 羊益切
+  tone: 入
+  guangyun: 變易又始也改也奪也轉也亦水名出涿郡安閻山見水經亦州名漢書趙分晉得中山秦爲上谷郡漢置涿郡隋爲易州因水名之又姓齊大夫易牙又盈義切
+  senses:
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+    children:
+    - gloss: MC read yek transitive
+      concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+      concept_label: REPLACE
+      children:
+      - gloss: causative
+        concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+        concept_label: EXCHANGE
+        children:
+        - gloss: commercial
+          concept_uuid: 801e68eb-2926-4317-85ca-549e109b72d8
+          concept_label: TRADE
+    - gloss: 'MC yeH: feature: changeable'
+      concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+      concept_label: EASY
+      children:
+      - gloss: undisturbed
+        concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+        concept_label: PEACEFUL
+        children:
+        - gloss: subjective
+          concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+          concept_label: COMFORTABLE
+      - gloss: of terrain
+        concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+        concept_label: FLAT
+      - gloss: putative:think lightly of
+        concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+        concept_label: DESPISE
+        children:
+        - gloss: feature
+          concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+          concept_label: FRIVOLOUS
+unattributed_senses:
+- gloss: geographical name
+  concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+  concept_label: RIVERS
+- gloss: personal names
+  concept_uuid: 5a81be1a-ad3d-433c-91e5-3a53c94bd777
+  concept_label: RULERS OF ZHENG
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-11-09T19:52:39.147+09:00'

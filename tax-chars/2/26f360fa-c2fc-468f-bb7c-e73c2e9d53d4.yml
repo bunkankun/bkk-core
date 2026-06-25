@@ -1,0 +1,43 @@
+uuid: 26f360fa-c2fc-468f-bb7c-e73c2e9d53d4
+type: tax-char
+heads:
+- 默
+- 嘿
+pronunciations:
+- reading: mò
+  old_chinese: mɯɯɡ
+  middle_chinese: mək
+  fanqie: 莫北切
+  tone: 入
+  guangyun: 説文曰犬暫逐人也又靜也或作嘿
+  senses:
+  - concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+    concept_label: SILENCE
+    children:
+    - gloss: abstract
+      concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+      concept_label: SECRET
+      children:
+      - gloss: not speak openly but silently
+        concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+        concept_label: THINK
+      - gloss: causative
+        concept_uuid: cc5afe89-9ccc-4ed5-b8cf-a33decee7547
+        concept_label: HIDE ONESELF
+  - gloss: =墨
+    concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+    concept_label: DARK
+    children:
+    - gloss: of skin, hence
+      concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+      concept_label: POOR
+      children:
+      - gloss: =墨
+        concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+        concept_label: WICKED
+  - gloss: =驀
+    concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+    concept_label: SUDDENLY
+  - gloss: SURNAME
+source:
+  source_file: taxchar.xml

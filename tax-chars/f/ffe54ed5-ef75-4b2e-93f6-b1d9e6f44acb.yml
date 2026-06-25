@@ -1,0 +1,34 @@
+uuid: ffe54ed5-ef75-4b2e-93f6-b1d9e6f44acb
+type: tax-char
+heads:
+- 隊
+pronunciations:
+- reading: duì
+  old_chinese: ɡ-luuls
+  middle_chinese: duoi
+  fanqie: 徒對切
+  tone: 去
+  guangyun: 羣隊徒對切十二
+  senses:
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+  - concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+    concept_label: DESTROY
+  - concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+    concept_label: FALL
+  - concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+    concept_label: PUSH
+  - concept_uuid: 7edf7df0-622c-4670-b581-3ec4051a7764
+    concept_label: TUNNEL
+  - concept_uuid: 00bdbe70-d5de-4629-81ff-86866bf25d67
+    concept_label: TEAM
+  - concept_uuid: 02bb977d-4ec4-4315-a012-56195015d0f1
+    concept_label: YOUTH ORGANISATION
+  - concept_uuid: 491a6308-47dd-45cd-b286-b8bf29970d00
+    concept_label: NOMINAL MEASURE WORDS
+  - concept_uuid: 1f799712-bbdf-449a-a2bd-54dae62624f3
+    concept_label: ROW
+  - gloss: = 墜
+  - gloss: = 隧
+source:
+  source_file: taxchar.xml

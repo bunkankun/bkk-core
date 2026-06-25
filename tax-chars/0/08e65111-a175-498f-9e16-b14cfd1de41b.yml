@@ -1,0 +1,25 @@
+uuid: 08e65111-a175-498f-9e16-b14cfd1de41b
+type: tax-char
+heads:
+- 鼠
+pronunciations:
+- reading: shǔ
+  old_chinese: qhjaʔ
+  middle_chinese: ɕiɔ
+  fanqie: 舒吕切
+  tone: 上
+  guangyun: 小獸名善爲盗説文曰穴蟲之緫名也
+  senses:
+  - concept_uuid: 431f4da4-e77a-4d15-b8bb-e8fcb27969cf
+    concept_label: RAT
+  - concept_uuid: 3ee55fa4-47fb-4d5c-a7fc-0ba57a34342b
+    concept_label: RODENTS
+  - concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+    concept_label: SAD
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - concept_uuid: 8a779005-4671-4c87-8724-f85236ca2caa
+    concept_label: ZODIAC
+  - gloss: = 癙
+source:
+  source_file: taxchar.xml

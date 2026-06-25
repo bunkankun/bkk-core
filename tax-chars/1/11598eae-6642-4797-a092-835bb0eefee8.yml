@@ -1,0 +1,58 @@
+uuid: 11598eae-6642-4797-a092-835bb0eefee8
+type: tax-char
+heads:
+- 整
+pronunciations:
+- reading: zhěng
+  old_chinese: tjeŋʔ
+  middle_chinese: tɕiɛŋ
+  fanqie: 之郢切
+  tone: 上
+  guangyun: 正也齊也之郢切二
+  senses:
+  - concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+    concept_label: ARRANGE
+    children:
+    - gloss: result
+      concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+      concept_label: STRAIGHT
+      children:
+      - gloss: psychological
+        concept_uuid: 467f196e-d973-4ce9-b6fc-f5f91e9bca6e
+        concept_label: SERIOUS
+      - gloss: generalised
+        concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+        concept_label: ORDERLY
+        children:
+        - gloss: aesthetic
+          concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+          concept_label: EMBELLISH
+          children:
+          - gloss: means
+            concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+            concept_label: ORNAMENT
+        - gloss: causative
+          concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+          concept_label: REPAIR
+          children:
+          - gloss: generalised
+            concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+            concept_label: PROVIDE
+        - gloss: abstract
+          concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+          concept_label: COMPLETE
+          children:
+          - gloss: grammaticalised
+            concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+            concept_label: ALL
+    - gloss: abstract
+      concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+      concept_label: CAUSE TO
+  - gloss: 'modern:'
+    concept_uuid: fb1df69b-23c3-4d03-ae97-5af1b41a8f6c
+    concept_label: HAPPEN
+  - gloss: 'modern:'
+    concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+    concept_label: WHEN
+source:
+  source_file: taxchar.xml

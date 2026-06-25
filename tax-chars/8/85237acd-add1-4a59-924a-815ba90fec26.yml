@@ -1,0 +1,62 @@
+uuid: 85237acd-add1-4a59-924a-815ba90fec26
+type: tax-char
+heads:
+- 牧
+pronunciations:
+- reading: mù
+  old_chinese: mɯɡ
+  middle_chinese: miuk
+  fanqie: 莫六切
+  tone: 入
+  guangyun: 養也放也使也察也司也食也説文曰養牛人也又姓風俗通云漢有越嶲太守牧稂
+  senses:
+  - concept_uuid: e6bd1a9b-8171-4a33-88aa-c04d7ae8fcb0
+    concept_label: SHEPHERD
+    children:
+    - gloss: associated activity
+      concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+      concept_label: NURTURE
+      children:
+      - gloss: nurtured animal
+        concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+        concept_label: DOMESTIC ANIMAL
+      - gloss: place of this shepherding
+        concept_uuid: 92e08e9b-8127-4876-9a33-afcbf3e829a5
+        concept_label: PASTURE
+        children:
+        - gloss: measure
+          concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+          concept_label: FIELD
+          children:
+          - gloss: distant from city centre
+            concept_uuid: 519d9f60-de87-4384-8af8-3069c914135d
+            concept_label: SUBURB
+      - gloss: 'abstract: educate'
+        concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+        concept_label: TEACH
+        children:
+        - gloss: abstract
+          concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+          concept_label: GOVERN
+          children:
+          - gloss: submit to being governed
+            concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+            concept_label: SUBMIT
+            children:
+            - gloss: subject
+              concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+              concept_label: SLAVE
+          - gloss: instrument of governing
+            concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+            concept_label: LAW
+          - gloss: person governing
+            concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+            concept_label: OFFICIAL
+            children:
+            - gloss: senior
+              concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+              concept_label: RULER
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

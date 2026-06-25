@@ -1,0 +1,24 @@
+uuid: 3e5567d3-89e0-42ec-8005-edf07a811507
+type: tax-char
+heads:
+- 駒
+pronunciations:
+- reading: jū
+  old_chinese: ko
+  middle_chinese: kio
+  fanqie: 舉朱切
+  tone: 平
+  guangyun: 馬駒
+  senses:
+  - concept_uuid: cb211b97-3715-492b-8650-4b983ec2ee35
+    concept_label: COLT
+  - concept_uuid: 43e61e1a-f33b-43e3-8b05-8bf7fddf2fb0
+    concept_label: YOUNG ANIMAL
+  - concept_uuid: ffd86371-cb57-4550-aed2-c98206f4300d
+    concept_label: LIVELY
+  - concept_uuid: be37b535-e6ea-492b-912c-0af6ab688b1e
+    concept_label: STARS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

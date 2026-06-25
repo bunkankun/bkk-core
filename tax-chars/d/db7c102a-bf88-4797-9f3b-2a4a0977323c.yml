@@ -1,0 +1,22 @@
+uuid: db7c102a-bf88-4797-9f3b-2a4a0977323c
+type: tax-char
+heads:
+- 輝
+pronunciations:
+- reading: huī
+  old_chinese: qhul
+  middle_chinese: hʷɨi
+  fanqie: 許歸切
+  tone: 平
+  guangyun: 同煇
+  senses:
+  - concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+    concept_label: DRAGON
+  - concept_uuid: 67a4cfa8-efd2-4dcb-9de8-1c67be7f3697
+    concept_label: LIGHT
+  - concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+    concept_label: SHINE
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+source:
+  source_file: taxchar.xml

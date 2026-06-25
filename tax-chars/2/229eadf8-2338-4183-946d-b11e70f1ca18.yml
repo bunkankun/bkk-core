@@ -1,0 +1,32 @@
+uuid: 229eadf8-2338-4183-946d-b11e70f1ca18
+type: tax-char
+heads:
+- 爪
+pronunciations:
+- reading: zhǎo
+  old_chinese: tsruuʔ
+  middle_chinese: tʂɯau
+  fanqie: 側絞切
+  tone: 上
+  guangyun: 説文曰丮也覆手曰爪象形丮音戟側絞切八
+  senses:
+  - concept_uuid: 3e010b68-9b90-458f-842f-adcc37c19ab8
+    concept_label: CLAWS
+  - concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+    concept_label: CUT
+  - concept_uuid: 7db3f926-71b4-4621-9765-adfe1b6a3f58
+    concept_label: NAILS
+  - concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+    concept_label: CATCH
+  - concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+    concept_label: SEEK
+  - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+    concept_label: STUPID
+- reading: zhǎo
+  old_chinese: ʔsruuʔ
+  middle_chinese: tʂɯau
+  fanqie: 側絞切
+  tone: 上
+  guangyun: 爪古文説文曰手足甲也
+source:
+  source_file: taxchar.xml

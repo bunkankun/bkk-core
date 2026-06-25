@@ -1,0 +1,100 @@
+uuid: 3cf4de74-e5bc-4390-8777-33d29c1aafe2
+type: tax-char
+heads:
+- 度
+pronunciations:
+- reading: dù
+  old_chinese: ɡ-laaɡs
+  middle_chinese: duo
+  fanqie: 徒故切
+  tone: 去
+  guangyun: 法度又姓岀後漢荆州刺史度尚又徒各切
+  senses:
+  - concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+    concept_label: MEASURE
+    children:
+    - gloss: generalised
+      concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+      concept_label: STANDARD
+      children:
+      - gloss: action
+        concept_uuid: 4c3d1748-7c81-4aa6-bb51-6521c3caecfc
+        concept_label: EMULATE
+        children:
+        - gloss: intellectual
+          concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+          concept_label: PRINCIPLE
+          children:
+          - gloss: legal
+            concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+            concept_label: LAW
+            children:
+            - gloss: transitive
+              concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+              concept_label: CORRECT
+              children:
+              - gloss: general
+                concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+                concept_label: HELP
+        - gloss: action
+          concept_uuid: 907c0327-4325-4bc5-95a6-a9da3e851fe5
+          concept_label: BEHAVIOUR
+    - gloss: musical
+      concept_uuid: bb1012b5-797b-46a2-a1b5-5215db623780
+      concept_label: RHYTHM
+  - gloss: =渡
+    concept_uuid: 52fef5a2-c3f8-4daa-a102-05698fff0a91
+    concept_label: CROSS OVER
+    children:
+    - gloss: inchoative
+      concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+      concept_label: BIRTH
+      children:
+      - gloss: dù
+        concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+        concept_label: LIVE
+        children:
+        - gloss: feature
+          concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+          concept_label: STRONG
+    - gloss: metaphysical
+      concept_uuid: be6f26ab-b13a-4bbf-ae2d-88d52adb6d8f
+      concept_label: TRANSCEND
+      children:
+      - gloss: into the true religion
+        concept_uuid: 10ca3dbe-56f7-4aee-9149-b2dc07143a67
+        concept_label: SALVATION
+    - gloss: grammaticalised, verbal classifier“times”
+      concept_uuid: 9fbf6731-858d-4c53-818d-52da0fb28e37
+      concept_label: EVENT
+- reading: duó
+  old_chinese: ɡ-laaɡ
+  middle_chinese: dɑk
+  fanqie: 徒落切
+  tone: 入
+  guangyun: 度量也又音渡
+unattributed_senses:
+- concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+  concept_label: BELIEVE
+  children:
+  - gloss: perfective
+    concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+    concept_label: ASSESS
+    children:
+    - gloss: conative
+      concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+      concept_label: ESTIMATE
+      children:
+      - gloss: for future
+        concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+        concept_label: PLAN
+    - gloss: analytically
+      concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+      concept_label: UNDERSTAND
+    - gloss: precisely
+      concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+      concept_label: CALCULATE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-29T20:02:03.128+09:00'

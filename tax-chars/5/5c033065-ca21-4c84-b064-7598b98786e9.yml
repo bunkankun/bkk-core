@@ -1,0 +1,49 @@
+uuid: 5c033065-ca21-4c84-b064-7598b98786e9
+type: tax-char
+heads:
+- 逢
+pronunciations:
+- reading: féng
+  old_chinese: boŋ
+  middle_chinese: bioŋ
+  fanqie: 符容切
+  tone: 平
+  guangyun: 值也迎也符容切八
+  senses:
+  - concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+    concept_label: ENCOUNTER
+    children:
+    - gloss: object bad event
+      concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+      concept_label: SUFFER
+    - gloss: deliberate
+      concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+      concept_label: MEET
+      children:
+      - gloss: object new arrival
+        concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+        concept_label: WELCOME
+        children:
+        - gloss: ritual
+          concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+          concept_label: DIVINATION
+  - gloss: =?
+    concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+    concept_label: BIG
+- reading: páng
+  old_chinese: boŋ
+  middle_chinese: bɯɔŋ
+  fanqie: 薄江切
+  tone: 平
+  guangyun: 姓也出北海左傳齊有逄丑父
+  senses:
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- concept_label: 逢 péng《集韻》蒲蒙切，平東並。
+  children:
+  - concept_label: ONOMATOPOEIC
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2023-01-18T21:47:39.78+09:00'

@@ -1,0 +1,27 @@
+uuid: 8559f438-f1fd-4859-8ed1-7c01a5074f47
+type: tax-char
+heads:
+- 訟
+pronunciations:
+- reading: sòng
+  old_chinese: sɢloŋs
+  middle_chinese: zioŋ
+  fanqie: 似用切
+  tone: 去
+  guangyun: 爭罪曰獄爭財曰訟
+  senses:
+  - concept_uuid: 3d3331be-f86b-4a44-bed1-bb64021abd35
+    concept_label: ARGUE
+  - concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+    concept_label: LITIGATE
+  - concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+    concept_label: BLAME
+  - concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+    concept_label: CLAMOUR
+  - concept_uuid: 0d38885b-c1b7-4651-8076-0ff019b9e7dc
+    concept_label: HEXAGRAMS
+  - gloss: = 頌
+  - gloss: = 公
+  - gloss: = 容
+source:
+  source_file: taxchar.xml

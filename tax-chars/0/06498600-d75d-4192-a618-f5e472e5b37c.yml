@@ -1,0 +1,71 @@
+uuid: 06498600-d75d-4192-a618-f5e472e5b37c
+type: tax-char
+heads:
+- 空
+pronunciations:
+- reading: kōng
+  old_chinese: khooŋ
+  middle_chinese: kʰuŋ
+  fanqie: 苦紅切
+  tone: 平
+  guangyun: 空虚書曰伯禹作司空又漢複姓有空桐空相二氏苦紅切十四
+- reading: kòng
+  old_chinese: khooŋs
+  middle_chinese: kʰuŋ
+  fanqie: 苦貢切
+  tone: 去
+  guangyun: 空缺又苦紅切
+  senses:
+  - concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+    concept_label: EMPTY
+    children:
+    - gloss: physical subject
+      concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+      concept_label: HOLE
+      children:
+      - gloss: time
+        concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+        concept_label: LEISURE
+      - gloss: generalised, abstract
+        concept_uuid: 3ac38710-8bfa-4014-bff4-f7d7040b7219
+        concept_label: SPACE
+        children:
+        - gloss: what fills space
+          concept_uuid: ca0f15b3-4e29-45c8-a9f5-63e308786d16
+          concept_label: AIR
+        - gloss: above
+          concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+          concept_label: SKY
+    - gloss: devoid of physical reality
+      concept_uuid: da23df6b-934b-4237-beee-cdccd8963456
+      concept_label: ABSTRACT
+      children:
+      - gloss: of substantial real size
+        concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+        concept_label: TENUOUS
+      - gloss: devoid of significant reality
+        concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+        concept_label: UNIMPORTANT
+      - gloss: devoid of objective reality
+        concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+        concept_label: UNTRUE
+      - gloss: 'devoid of objective reason:'
+        concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+        concept_label: COINCIDENCE
+      - gloss: devoid of numerical value
+        concept_uuid: a1ee8251-e6fc-4468-b4e5-e40f3febe347
+        concept_label: ZERO
+      - gloss: devoid of real purpose
+        concept_uuid: c17ceabd-9788-4c01-bfe7-9185ebe09e89
+        concept_label: IN VAIN
+      - gloss: devoid of admixtures
+        concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+        concept_label: PURE
+    - gloss: of property
+      concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+      concept_label: POOR
+    - gloss: grammaticalised
+      concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+      concept_label: ONLY
+source:
+  source_file: taxchar.xml

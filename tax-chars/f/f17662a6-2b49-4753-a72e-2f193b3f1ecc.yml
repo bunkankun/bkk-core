@@ -1,0 +1,35 @@
+uuid: f17662a6-2b49-4753-a72e-2f193b3f1ecc
+type: tax-char
+heads:
+- 罷
+pronunciations:
+- reading: pí
+  old_chinese: bral
+  middle_chinese: bɯiɛ
+  fanqie: 符羈切
+  tone: 平
+  guangyun: 倦也亦止也又音矲
+  senses:
+  - concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+    concept_label: TIRED
+    children:
+    - gloss: reward for tiring oneself out
+      concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+      concept_label: REWARD
+      children:
+      - gloss: 'declarative: with words'
+        concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+        concept_label: CONSOLE
+    - gloss: generalised
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+      children:
+      - gloss: object> strength
+        concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+        concept_label: WEAK
+        children:
+        - gloss: prove the weaker one, lose in conflict
+          concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+          concept_label: FAIL
+source:
+  source_file: taxchar.xml

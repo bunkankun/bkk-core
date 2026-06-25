@@ -1,0 +1,60 @@
+uuid: c02d70a3-4514-4db2-9878-6f214dc6a6c8
+type: tax-char
+heads:
+- 奔
+pronunciations:
+- reading: bēn
+  old_chinese: pɯɯn
+  middle_chinese: puon
+  fanqie: 博昆切
+  tone: 平
+  guangyun: 奔走也説文作奔博昆切四
+  senses:
+  - concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: FLEE
+    children:
+    - gloss: specific> of unmarried girl
+      concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+      concept_label: COPULATE
+    - gloss: political
+      concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+      concept_label: EXILE
+      children:
+      - gloss: 'generalised: lose foothold'
+        concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+        concept_label: COLLAPSE
+    - gloss: generalised
+      concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+      concept_label: RUN
+      children:
+      - gloss: to catch up with
+        concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+        concept_label: PURSUE
+      - gloss: 'generalised: not necessily on foot'
+        concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+        concept_label: HURRY
+        children:
+        - gloss: politely to one's new home
+          concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+          concept_label: MARRY
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+- reading: bèn
+  old_chinese: pɯɯns
+  middle_chinese: puon
+  fanqie: 甫悶切
+  tone: 去
+  guangyun: 甫悶切又音犇一
+  senses:
+  - gloss: 'transitive: for refuge with'
+    concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+    concept_label: FLEE
+    children:
+    - gloss: (with all one's might)
+      concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+      concept_label: EFFORT
+    - gloss: generalised
+      concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+      concept_label: APPROACH
+source:
+  source_file: taxchar.xml

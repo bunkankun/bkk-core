@@ -1,0 +1,43 @@
+uuid: 4e8ca124-2f9c-4ca5-aa74-98ee61c72782
+type: tax-char
+heads:
+- 軍
+pronunciations:
+- reading: jūn
+  old_chinese: kun
+  middle_chinese: kiun
+  fanqie: 舉云切
+  tone: 平
+  guangyun: 軍旅也周禮夏官司馬曰凡制軍萬有二千五百人爲軍王六軍大國三軍次國二軍小國一軍軍將皆命卿又漢複姓二氏禮記有將軍文子晉有太傅參軍襄城冠軍夷
+  senses:
+  - concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+    concept_label: ARMY
+    children:
+    - gloss: military
+      concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+      concept_label: REGION
+    - gloss: military
+      concept_uuid: 6317db9e-f402-42e9-b1e0-8d04fca07bf7
+      concept_label: CAMP
+      children:
+      - gloss: of army
+        concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+        concept_label: DWELL
+    - gloss: participant
+      concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+      concept_label: SOLDIER
+      children:
+      - gloss: action
+        concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+        concept_label: FIGHT
+        children:
+        - gloss: specific
+          concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+          concept_label: ATTACK
+        - gloss: event
+          concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+          concept_label: BATTLE
+source:
+  source_file: taxchar.xml
+  resp: CH
+  date: '2022-12-04T04:12:00.174+09:00'

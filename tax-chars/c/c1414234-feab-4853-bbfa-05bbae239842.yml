@@ -1,0 +1,69 @@
+uuid: c1414234-feab-4853-bbfa-05bbae239842
+type: tax-char
+heads:
+- 蹶
+pronunciations:
+- reading: jué
+  old_chinese: krod
+  middle_chinese: kʷɯiet
+  fanqie: 紀劣切
+  tone: 入
+  guangyun: 有所犯灾紀劣切又居月居衞二切五
+- reading: jué
+  old_chinese: kod
+  middle_chinese: kʷiɐt
+  fanqie: 居月切
+  tone: 入
+  guangyun: 失腳又走也速也嘉也説文僵也一曰跳也亦作蹷又音橛
+  senses:
+  - concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+    concept_label: HURRY
+  - concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+    concept_label: QUICK
+  - concept_uuid: c2e89145-9ff8-4132-ac96-fcb650d59bfc
+    concept_label: STUMBLE
+  - concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+    concept_label: DEFEAT
+  - concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+    concept_label: COLLAPSE
+  - concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+    concept_label: TREAD ON
+  - concept_uuid: 62cda492-c54d-4b03-a9da-f549fce811fd
+    concept_label: KICK
+  - concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+    concept_label: EXHAUST
+  - concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+    concept_label: DIG
+  - concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+    concept_label: DISCARD
+  - concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+    concept_label: LIFT
+  - concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+    concept_label: SHORT
+  - concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+    concept_label: MYTHICAL ANIMALS
+  - concept_uuid: 24a3fa44-465a-4578-b026-e1caaaae7768
+    concept_label: ILLNESSES
+- reading: nil
+  old_chinese: krods
+  middle_chinese: kʷiɐt
+  fanqie: 居月切
+  tone: 入
+  guangyun: 説文同蹶
+- reading: guì
+  old_chinese: krobs
+  middle_chinese: kʷɯiei
+  fanqie: 居衛切
+  tone: 去
+  guangyun: 行急遽皃曲禮曰足無蹶又居月切
+  senses:
+  - concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+    concept_label: CHAOS
+  - concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+    concept_label: STIMULATE
+  - concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+    concept_label: CHANGE
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+source:
+  source_file: taxchar.xml

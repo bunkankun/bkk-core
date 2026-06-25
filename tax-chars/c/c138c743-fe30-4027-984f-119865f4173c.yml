@@ -1,0 +1,42 @@
+uuid: c138c743-fe30-4027-984f-119865f4173c
+type: tax-char
+heads:
+- 配
+pronunciations:
+- reading: pèi
+  old_chinese: phɯɯls
+  middle_chinese: pʰuoi
+  fanqie: 滂佩切
+  tone: 去
+  guangyun: 匹也合也滂佩切四
+  senses:
+  - concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+    concept_label: ACCOMPANY
+  - concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+    concept_label: CONCUBINE
+  - concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+    concept_label: OBEY
+  - concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+    concept_label: RESEMBLE
+  - concept_uuid: 40d911ce-d453-41c0-b2a6-fe07e7b6c423
+    concept_label: MATE
+  - concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+    concept_label: WIFE
+  - concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+    concept_label: EQUAL
+  - concept_uuid: 8bf9e455-5bb7-4cf9-afc1-c7086a2a8fe7
+    concept_label: FIT
+  - concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+    concept_label: DISTRIBUTE
+  - concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+    concept_label: PROVIDE
+  - concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+    concept_label: RITUAL
+  - concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+    concept_label: SUPPORT
+  - concept_uuid: 6e22f052-f4bd-4540-9765-7cfe8ecb6170
+    concept_label: BANISH
+  - concept_uuid: 4ba683a6-974f-4812-a94a-6b5ae8818e19
+    concept_label: FERTILE
+source:
+  source_file: taxchar.xml

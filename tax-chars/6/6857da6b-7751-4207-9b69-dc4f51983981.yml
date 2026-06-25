@@ -1,0 +1,20 @@
+uuid: 6857da6b-7751-4207-9b69-dc4f51983981
+type: tax-char
+heads:
+- 陛
+pronunciations:
+- reading: bì
+  old_chinese: biiʔ
+  middle_chinese: bei
+  fanqie: 傍禮切
+  tone: 上
+  guangyun: 階陛也傍禮切八
+  senses:
+  - concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+    concept_label: STAIRS
+  - concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+    concept_label: RANK
+  - concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+    concept_label: STAND
+source:
+  source_file: taxchar.xml

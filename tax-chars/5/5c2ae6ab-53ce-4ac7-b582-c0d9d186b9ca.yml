@@ -1,0 +1,94 @@
+uuid: 5c2ae6ab-53ce-4ac7-b582-c0d9d186b9ca
+type: tax-char
+heads:
+- 荒
+pronunciations:
+- reading: huāng
+  old_chinese: hmaaŋ
+  middle_chinese: hʷɑŋ
+  fanqie: 呼光切
+  tone: 平
+  guangyun: 荒蕪又姓呼光切十四
+  senses:
+  - concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+    concept_label: BARREN
+    children:
+    - gloss: 'exocentric: typical object>COUNTRYSIDE'
+      children:
+      - gloss: 'related feature: in area'
+        concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+        concept_label: BIG
+    - gloss: feature, generalised
+      concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+      concept_label: LACK
+      children:
+      - gloss: light
+        concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+        concept_label: DARK
+      - gloss: universalised
+        concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+        concept_label: EMPTY
+      - gloss: 'feature: spatial'
+        concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+        concept_label: REMOTE
+        children:
+        - gloss: intellectually
+          concept_uuid: 175d5264-4103-49d7-8bd3-a0d40b1ee93f
+          concept_label: ABSURD
+          children:
+          - gloss: generalised
+            concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+            concept_label: 'FALSE'
+          - gloss: feature
+            concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+            concept_label: EXTRAVAGANT
+            children:
+            - gloss: feature
+              concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+              concept_label: UNRESTRAINED
+              children:
+              - concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+                concept_label: INTENSELY
+              - concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+                concept_label: STUPID
+        - gloss: 'in time: antiquity'
+          concept_uuid: 338ea661-050b-48b3-831e-977100799f31
+          concept_label: ANCIENT
+    - gloss: 'related event: (bad)'
+      concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+      concept_label: HARVEST
+    - gloss: generalised
+      concept_uuid: 9f550d95-ac20-4078-9ad9-56a658b3691d
+      concept_label: RUBBISH
+      children:
+      - gloss: related action
+        concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+        concept_label: DISCARD
+      - gloss: causative
+        concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+        concept_label: DESTROY
+        children:
+        - gloss: property without benefit
+          concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+          concept_label: WASTE
+  - concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+    concept_label: COVER
+    children:
+    - gloss: of coffin
+      concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+      concept_label: COFFIN
+    - gloss: figurative
+      concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+      concept_label: POSSESS
+  - gloss: =慌
+- reading: huàng
+  old_chinese: hmaaŋs
+  middle_chinese: hʷɑŋ
+  fanqie: 呼浪切
+  tone: 去
+  guangyun: 草多皃呼浪切一
+  senses:
+  - concept_uuid: 46aaa7ea-aa18-4027-9e3e-85b804251370
+    concept_label: UPSET
+source:
+  source_file: taxchar.xml

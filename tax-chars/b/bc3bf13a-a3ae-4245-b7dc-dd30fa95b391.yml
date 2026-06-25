@@ -1,0 +1,35 @@
+uuid: bc3bf13a-a3ae-4245-b7dc-dd30fa95b391
+type: tax-char
+heads:
+- 峻
+pronunciations:
+- reading: jùn
+  old_chinese: sluns
+  middle_chinese: sʷin
+  fanqie: 私閏切
+  tone: 去
+  guangyun: 髙也長也險也峭也速也私閏切十三
+  senses:
+  - concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+    concept_label: HIGH
+    children:
+    - gloss: 'of plants: growing high'
+      concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+      concept_label: FLOURISH
+    - gloss: abstract> GRAND
+    - gloss: 'specific: of shape'
+      concept_uuid: 6f0fabe2-64cd-4f4a-82ac-cd5b5a074a0d
+      concept_label: STEEP
+      children:
+      - gloss: 'specific: of top'
+        concept_uuid: c512e905-9006-4595-a0e5-d64d3e84b91c
+        concept_label: CRAGGY
+        children:
+        - gloss: feature
+          concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+          concept_label: DANGER
+      - gloss: metaphorical
+        concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+        concept_label: SEVERE
+source:
+  source_file: taxchar.xml

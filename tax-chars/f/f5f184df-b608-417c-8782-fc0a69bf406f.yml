@@ -1,0 +1,36 @@
+uuid: f5f184df-b608-417c-8782-fc0a69bf406f
+type: tax-char
+heads:
+- 蔡
+pronunciations:
+- reading: cài
+  old_chinese: skhaads
+  middle_chinese: tsʰɑi
+  fanqie: 倉大切
+  tone: 去
+  guangyun: 龜也亦國名又姓出濟陽周蔡叔之後也倉大切三
+  senses:
+  - concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+    concept_label: WEED
+  - concept_uuid: 70490d30-b706-4f41-85d9-e2ef24d5ab5e
+    concept_label: TURTLE
+  - concept_uuid: d6898f41-c4e3-459d-b034-52f7db36f144
+    concept_label: RULERS OF CAI
+  - concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+    concept_label: STATES
+  - concept_uuid: 4a680822-75df-4a9d-ab4b-8ecb72db5685
+    concept_label: REGIONS
+  - concept_uuid: 187da528-2c46-446c-b478-fbac86decf57
+    concept_label: MOUNTAINS
+  - concept_uuid: 59f795ec-1e83-4225-a6bc-401dddb07531
+    concept_label: SURNAMES
+unattributed_senses:
+- gloss: 蔡 ｓａ４《集韻》桑曷切，入曷心。月部。
+  children:
+  - concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+    concept_label: RELEASE
+- gloss: 蔡 ｃａ１《集韻》七曷切，入曷清。
+  children:
+  - gloss: NAMES
+source:
+  source_file: taxchar.xml

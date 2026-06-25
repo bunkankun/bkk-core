@@ -1,0 +1,66 @@
+uuid: 6c298172-d2eb-4bfd-b0fa-9ab54fd53355
+type: tax-char
+heads:
+- 澹
+pronunciations:
+- reading: dàn
+  old_chinese: ɡ-laamʔ
+  middle_chinese: dɑm
+  fanqie: 徒敢切
+  tone: 上
+  guangyun: 澹淡水皃淡音琰又恬靜又徒濫切
+  senses:
+  - concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+    concept_label: PEACEFUL
+    children:
+    - gloss: specific
+      concept_uuid: 4bfbe7c4-ef18-4cd1-9d47-548d0c50166f
+      concept_label: QUIET
+    - gloss: abstract
+      concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+      concept_label: SIMPLE
+  - concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+    concept_label: RIVERS
+  - gloss: =淡
+    concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+    concept_label: TASTELESS
+- reading: dàn
+  old_chinese: ɡ-laams
+  middle_chinese: dɑm
+  fanqie: 徒濫切
+  tone: 去
+  guangyun: 水揺動皃
+  senses:
+  - concept_uuid: c286985f-7b98-47f3-a52e-b14ce46675d1
+    concept_label: SHAKE
+    children:
+    - gloss: general
+      concept_uuid: 73fa76fc-dcb1-4370-aa28-9afb6212e716
+      concept_label: FLOW
+      children:
+      - gloss: general
+        concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+        concept_label: MOVE
+        children:
+        - gloss: causative
+          concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+          concept_label: REMOVE
+- reading: tán
+  old_chinese: ɡ-laam
+  middle_chinese: dɑm
+  fanqie: 徒甘切
+  tone: 平
+  guangyun: 漢複姓孔子弟子有澹臺滅明又徒覽徒濫二切
+  senses:
+  - concept_uuid: 6e9761b4-0763-4a61-a99e-37055c83ddf1
+    concept_label: CONFUCIANS
+unattributed_senses:
+- gloss: 澹 shàn
+  children:
+  - concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+    concept_label: GIVE
+  - gloss: =贍
+    concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+    concept_label: SUFFICIENT
+source:
+  source_file: taxchar.xml

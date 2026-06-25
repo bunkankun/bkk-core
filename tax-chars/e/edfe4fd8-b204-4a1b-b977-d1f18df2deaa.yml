@@ -1,0 +1,39 @@
+uuid: edfe4fd8-b204-4a1b-b977-d1f18df2deaa
+type: tax-char
+heads:
+- 陂
+pronunciations:
+- reading: bì
+  old_chinese: prals
+  middle_chinese: pɯiɛ
+  fanqie: 彼義切
+  tone: 去
+  guangyun: 傾也易曰無平不陂又音碑
+  senses:
+  - concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+    concept_label: WICKED
+  - concept_uuid: 419d6b98-0a5d-43fe-bf8c-c8703ae3fd4c
+    concept_label: SLANT
+- reading: bēi
+  old_chinese: pral
+  middle_chinese: pɯiɛ
+  fanqie: 彼為切
+  tone: 平
+  guangyun: 書傳云澤障曰陂彼爲切十一
+  senses:
+  - concept_uuid: 41cdc672-56fc-4fb2-8ffe-5f49c62833ba
+    concept_label: DIKE
+  - concept_uuid: 6f76825a-58dc-4583-bba0-dab947193051
+    concept_label: SHORE
+  - concept_uuid: f1f6bbab-4d3f-448c-bae4-636687c488cd
+    concept_label: SLOPE
+  - concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+    concept_label: LAKE
+  - concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+    concept_label: BLOCK
+  - concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+    concept_label: NEAR
+  - concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+    concept_label: FOLLOW
+source:
+  source_file: taxchar.xml
