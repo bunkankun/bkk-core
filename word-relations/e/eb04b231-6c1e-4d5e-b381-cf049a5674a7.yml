@@ -1,0 +1,32 @@
+uuid: eb04b231-6c1e-4d5e-b381-cf049a5674a7
+type: word-relation
+group_uuid: eb04b231-6c1e-4d5e-b381-cf049a5674a7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1c77945a-05c7-4dfc-bf1f-a9d6528fea3c
+  text: 源
+  concept: SOURCE
+  concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c9e3381-078d-434c-9c3a-b3ffdb53dcc3
+    line_id: KR3c0005_tls_005-1a.6
+    textline: 是以明君守始以知萬物之源
+    offset: 12
+    range: 1
+right:
+  word_uuid: 8e569eb3-9154-4a85-a372-1782d6e5cc4e
+  text: 端
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 60f5fe7c-309c-4cfc-b969-4c38f87cc425
+    line_id: KR3c0005_tls_005-1a.7
+    textline: 治紀以知善敗之端
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

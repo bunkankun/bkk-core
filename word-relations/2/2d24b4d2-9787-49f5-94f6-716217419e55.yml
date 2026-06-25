@@ -1,0 +1,30 @@
+uuid: 2d24b4d2-9787-49f5-94f6-716217419e55
+type: word-relation
+group_uuid: 2d24b4d2-9787-49f5-94f6-716217419e55
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7a651474-4bc0-4ea0-9050-ceac80e29258
+  text: 癡
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: ff7185e0-463b-498f-af38-d8aff6fceb80
+    textline: 癡與慧對
+    offset: 1
+    range: 1
+right:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: ff7185e0-463b-498f-af38-d8aff6fceb80
+    textline: 癡與慧對
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

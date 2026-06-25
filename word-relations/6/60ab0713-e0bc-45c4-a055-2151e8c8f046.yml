@@ -1,0 +1,32 @@
+uuid: 60ab0713-e0bc-45c4-a055-2151e8c8f046
+type: word-relation
+group_uuid: 09c89cb8-0dd2-443d-bafd-072504525799
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 160cec3c-9a80-4c67-8f02-d163146f843a
+    line_id: KR3c0005_tls_019-52a.3
+    textline: 而行公行正
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 韓非子
+    line_uuid: 160cec3c-9a80-4c67-8f02-d163146f843a
+    line_id: KR3c0005_tls_019-52a.3
+    textline: 而行公行正
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

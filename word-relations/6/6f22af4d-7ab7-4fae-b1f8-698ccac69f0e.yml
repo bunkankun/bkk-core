@@ -1,0 +1,32 @@
+uuid: 6f22af4d-7ab7-4fae-b1f8-698ccac69f0e
+type: word-relation
+group_uuid: 6f22af4d-7ab7-4fae-b1f8-698ccac69f0e
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論衡
+    line_uuid: 21274fb7-c005-4909-a8c5-4b2dd138dad5
+    line_id: KR3j0080_tls_003-11a.3
+    textline: 不可求致
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7c1d64ba-f534-4291-a0b7-51d9fd042853
+  text: 致
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 論衡
+    line_uuid: 21274fb7-c005-4909-a8c5-4b2dd138dad5
+    line_id: KR3j0080_tls_003-11a.3
+    textline: 不可求致
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e7e0fe1d-5967-43ac-9ac8-a08df3c0d680
+type: word-relation
+group_uuid: e7e0fe1d-5967-43ac-9ac8-a08df3c0d680
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c8db65b9-7001-4baa-a932-ed8322e242e7
+  text: 子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 禮記
+    line_uuid: aed37221-023e-4c5c-9535-be61fb868c8a
+    line_id: KR1d0052_tls_009-23a.8
+    textline: 子孝
+    offset: 1
+    range: 1
+right:
+  word_uuid: 352e2ddc-e5b0-4cdd-9e5c-24a37ce8e50e
+  text: 孝
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 禮記
+    line_uuid: aed37221-023e-4c5c-9535-be61fb868c8a
+    line_id: KR1d0052_tls_009-23a.8
+    textline: 子孝
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 69713bbe-14c8-488a-b13b-be14c8388a14
+type: word-relation
+group_uuid: de43e9ab-5b36-54be-a751-b70b0c63b8b3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_019-3a.36
+    textline: 欲事起天下之利而除萬民之害也
+    offset: 4
+    range: 2
+right:
+  word_uuid: 852be579-c2f9-4bf3-896a-347be57f53b6
+  text: 萬民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_019-3a.36
+    textline: 欲事起天下之利而除萬民之害也
+    offset: 10
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-04T21:16:01.968+09:00'

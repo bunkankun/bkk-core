@@ -1,0 +1,30 @@
+uuid: 941a9a6f-19ef-4fc8-ad0c-409bbe74a874
+type: word-relation
+group_uuid: 941a9a6f-19ef-4fc8-ad0c-409bbe74a874
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: a3a7ce72-49a4-44e2-89cd-796a0cd91dd6
+    textline: 故愚怯勇慧相連
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3f4518e6-9e24-4ecc-afcb-0f972d8c42df
+  text: 怯
+  concept: COWARDLY
+  concept_uuid: 15831024-bfe8-489b-b701-e1a0143abdd6
+  attestation:
+    text_title: 韓非子
+    line_uuid: a3a7ce72-49a4-44e2-89cd-796a0cd91dd6
+    textline: 故愚怯勇慧相連
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

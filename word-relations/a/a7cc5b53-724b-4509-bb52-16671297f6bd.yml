@@ -1,0 +1,32 @@
+uuid: a7cc5b53-724b-4509-bb52-16671297f6bd
+type: word-relation
+group_uuid: f9d04b48-004d-41d2-b015-503d88f693cd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9ada0487-b1e9-4814-a81f-b795f9317d2d
+  text: 府
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: d9285f0d-c5ff-4612-b367-40e634633478
+    line_id: KR3c0005_tls_010-60a.5
+    textline: 府無積錢
+    offset: 1
+    range: 1
+right:
+  word_uuid: 16f10c9a-f138-44da-b8c8-15f158c996d0
+  text: 庫
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: 810e74a9-ea0d-49d8-9af4-31bb856edbe4
+    line_id: KR3c0005_tls_010-60a.6
+    textline: 庫不受甲兵
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

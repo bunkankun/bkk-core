@@ -1,0 +1,35 @@
+uuid: fd8c8c91-dc21-470d-8743-fa746483b534
+type: word-relation
+group_uuid: fd8c8c91-dc21-470d-8743-fa746483b534
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d7a5d689-672b-48fb-8987-8ac384d73dd3
+  text: 醜
+  concept: UGLY
+  concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+  attestation:
+    text_title: 荀子
+    line_uuid: 1d2c1a3f-4ec6-41b5-819b-98d0d6f1851f
+    line_id: KR3a0002_tls_003-3a.4
+    textline: 小人能亦醜
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3fcbf536-236b-4b55-9a93-999684598144
+  text: 好
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 荀子
+    line_uuid: ebadfb05-681c-4937-b933-e82364e65587
+    line_id: KR3a0002_tls_003-3a.3
+    textline: 不能亦好
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

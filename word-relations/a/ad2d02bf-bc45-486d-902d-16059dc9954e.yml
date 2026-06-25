@@ -1,0 +1,31 @@
+uuid: ad2d02bf-bc45-486d-902d-16059dc9954e
+type: word-relation
+group_uuid: aa4b4935-a95a-46bf-9ecf-91a151567282
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 法言
+    line_uuid: bfe77c6a-2cf7-4154-bac8-c959237337ae
+    line_id: KR3a0009_tls_008-4a.2
+    textline: 聖人重其道而輕其祿
+    offset: 1
+    range: 2
+right:
+  word_uuid: 8ad61837-a872-46fb-aa2f-9c62b3188d3b
+  text: 眾人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 法言
+    line_uuid: b9ddd71d-3204-4952-98f8-bfc86c648f44
+    textline: 眾人曰於祿殖與
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

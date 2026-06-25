@@ -1,0 +1,18 @@
+uuid: ed843efd-63a3-40af-bb72-bdb48eff3a8d
+type: word-relation
+group_uuid: c3c3dd0c-0b2f-5d5f-be96-c0ac81acb01d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ae1f96a3-b555-4f1d-b78a-9132496a534d
+  text: 官職
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+right:
+  word_uuid: 19eb9348-7fca-4f33-a60d-ce7fdfde0f52
+  text: 爵祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+source:
+  source_file: word-relations.xml

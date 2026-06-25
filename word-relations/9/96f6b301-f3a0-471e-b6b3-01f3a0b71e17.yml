@@ -1,0 +1,32 @@
+uuid: 96f6b301-f3a0-471e-b6b3-01f3a0b71e17
+type: word-relation
+group_uuid: c0f3a524-99e0-575f-9545-2afd6db0b40c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 47f056c2-04cf-4db0-b206-e2a0e1bd262a
+  text: 纖
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.28
+    textline: 甚纖而微
+    offset: 2
+    range: 1
+right:
+  word_uuid: e2528583-3c4e-4ecb-9532-fa6ed540f5e1
+  text: 微
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.28
+    textline: 甚纖而微
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-24T05:51:35.936+09:00'

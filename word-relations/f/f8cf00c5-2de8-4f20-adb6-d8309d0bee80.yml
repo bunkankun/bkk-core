@@ -1,0 +1,31 @@
+uuid: f8cf00c5-2de8-4f20-adb6-d8309d0bee80
+type: word-relation
+group_uuid: f8cf00c5-2de8-4f20-adb6-d8309d0bee80
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 莊子
+    line_uuid: 0b430427-c127-4bd7-a4ac-bdfd9d71aab6
+    line_id: KR5c0126_tls_003-3a.10
+    textline: 臣以神遇
+    offset: 3
+    range: 1
+right:
+  word_uuid: 081fc31e-9e3b-44b7-b629-bc240777d5b9
+  text: 目
+  concept: EYE
+  concept_uuid: 4a10ce28-f866-4a84-8b59-5dd6ebb37101
+  attestation:
+    text_title: 莊子
+    line_uuid: 7214ee40-348e-414e-a61b-efca1cfe27c7
+    textline: 不以目視
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

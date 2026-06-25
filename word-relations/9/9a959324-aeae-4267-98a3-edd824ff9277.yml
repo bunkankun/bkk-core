@@ -1,0 +1,18 @@
+uuid: 9a959324-aeae-4267-98a3-edd824ff9277
+type: word-relation
+group_uuid: b6cb1b80-5e1d-5505-a403-156dee8e79ef
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3362a514-03ab-49db-98b7-c1b6828f868b
+  text: 盛
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+right:
+  word_uuid: d9657bcf-fe67-4339-bb52-76687cdcbd7e
+  text: 盛
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+source:
+  source_file: word-relations.xml

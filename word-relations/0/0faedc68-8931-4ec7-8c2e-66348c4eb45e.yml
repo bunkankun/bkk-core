@@ -1,0 +1,31 @@
+uuid: 0faedc68-8931-4ec7-8c2e-66348c4eb45e
+type: word-relation
+group_uuid: 0faedc68-8931-4ec7-8c2e-66348c4eb45e
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: bacd037d-6d6b-4992-9fff-bf9f8ccd1a53
+  text: 識
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 莊子
+    line_uuid: f767f84c-2cff-4272-894a-cd6a419aa844
+    line_id: KR5c0126_tls_012-16a.2.4
+    textline: 識其一
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 莊子
+    line_uuid: 7809e87d-80ca-4ca4-a5c3-8df467265682
+    textline: 不知其二
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

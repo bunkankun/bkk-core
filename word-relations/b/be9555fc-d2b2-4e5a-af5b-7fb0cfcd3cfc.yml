@@ -1,0 +1,30 @@
+uuid: be9555fc-d2b2-4e5a-af5b-7fb0cfcd3cfc
+type: word-relation
+group_uuid: be9555fc-d2b2-4e5a-af5b-7fb0cfcd3cfc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0de2f6ac-2335-43d2-8817-6840bbe300c8
+  text: 皇
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dc961488-9cfd-4d06-8d16-84630254b0d8
+    textline: 此三皇五帝之德也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 64356ae0-17eb-4653-8455-bd432accd011
+  text: 帝
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dc961488-9cfd-4d06-8d16-84630254b0d8
+    textline: 此三皇五帝之德也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

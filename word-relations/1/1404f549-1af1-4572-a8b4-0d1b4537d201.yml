@@ -1,0 +1,32 @@
+uuid: 1404f549-1af1-4572-a8b4-0d1b4537d201
+type: word-relation
+group_uuid: 1404f549-1af1-4572-a8b4-0d1b4537d201
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 76aa6e68-41ae-40f4-9381-12fd5a3bae2a
+  text: 昧
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 老子
+    line_uuid: c1afad67-1065-492a-84e9-09ad45ae7620
+    line_id: KR5c0057_tls_041-1a.13
+    textline: 明道若昧
+    offset: 4
+    range: 1
+right:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 老子
+    line_uuid: c1afad67-1065-492a-84e9-09ad45ae7620
+    line_id: KR5c0057_tls_041-1a.13
+    textline: 明道若昧
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ce81cc6c-0304-4e25-81cc-6c0304ee25fd
+type: word-relation
+group_uuid: 52112dac-b4b5-5015-96c7-a2efc8d6779e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0d34b03c-ce4f-490a-bab1-0367ba9f9326
+  text: 人心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-29a.5173
+    textline: 傷人心
+    offset: 2
+    range: 2
+right:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-29a.5174
+    textline: 不合天意
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-19T17:49:07.575+09:00'

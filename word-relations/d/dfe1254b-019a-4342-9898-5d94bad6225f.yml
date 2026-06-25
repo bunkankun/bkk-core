@@ -1,0 +1,32 @@
+uuid: dfe1254b-019a-4342-9898-5d94bad6225f
+type: word-relation
+group_uuid: 5e8bb2b0-2a7b-4146-9f8b-877c2ee112fc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 74165a96-7f3a-44a0-ae1f-8445bec657ac
+  text: 謳
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: b148cec2-1a0e-4c58-a248-7013ec26000b
+    line_id: KR3a0006_tls_001-23a.14
+    textline: 歌謳鼓琴
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: b148cec2-1a0e-4c58-a248-7013ec26000b
+    line_id: KR3a0006_tls_001-23a.14
+    textline: 歌謳鼓琴
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

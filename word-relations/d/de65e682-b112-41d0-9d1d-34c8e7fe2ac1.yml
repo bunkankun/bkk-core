@@ -1,0 +1,32 @@
+uuid: de65e682-b112-41d0-9d1d-34c8e7fe2ac1
+type: word-relation
+group_uuid: de65e682-b112-41d0-9d1d-34c8e7fe2ac1
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 13b62b96-edb4-4fa4-ad7c-de41bf120771
+  text: 乘
+  concept: RIDE
+  concept_uuid: 12c122a4-f3e4-41f3-b24d-afdaf85bf0e4
+  attestation:
+    text_title: 孟子
+    line_uuid: ece84a36-c8cf-42bd-a6ea-ed775ca5d5ae
+    line_id: KR1h0001_tls_002-68a.6
+    textline: 今乘輿已駕矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: bb844c33-b179-49b7-bef0-a3b2a4ee4905
+  text: 輿
+  concept: VEHICLE
+  concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+  attestation:
+    text_title: 孟子
+    line_uuid: ece84a36-c8cf-42bd-a6ea-ed775ca5d5ae
+    line_id: KR1h0001_tls_002-68a.6
+    textline: 今乘輿已駕矣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

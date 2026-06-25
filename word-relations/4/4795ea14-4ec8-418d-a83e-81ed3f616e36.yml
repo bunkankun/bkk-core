@@ -1,0 +1,30 @@
+uuid: 4795ea14-4ec8-418d-a83e-81ed3f616e36
+type: word-relation
+group_uuid: 4795ea14-4ec8-418d-a83e-81ed3f616e36
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1cbd75c0-b10c-4dc2-a14d-a5f76a74b54d
+  text: 容
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 論衡
+    line_uuid: 08b8be11-3ebf-49aa-9aa8-b67ac057567b
+    textline: 枳棘鉤挂容體
+    offset: 5
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 論衡
+    line_uuid: 08b8be11-3ebf-49aa-9aa8-b67ac057567b
+    textline: 枳棘鉤挂容體
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: 12dfe0b2-e554-466b-aa54-9c5b45979e53
+type: word-relation
+group_uuid: 39dabaf3-f73c-5545-9420-d55c56ee79d2
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6769bb06-0f5c-49bf-9072-a46b26aca5b6
+  text: 願
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+right:
+  word_uuid: 37cfe286-3862-4768-a0d3-3e652b6b5daa
+  text: 竊
+  concept: DARE
+  concept_uuid: 24babc50-0437-41ce-8bea-61b0cd9cdae6
+source:
+  source_file: word-relations.xml

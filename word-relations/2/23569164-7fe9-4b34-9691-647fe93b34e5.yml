@@ -1,0 +1,32 @@
+uuid: 23569164-7fe9-4b34-9691-647fe93b34e5
+type: word-relation
+group_uuid: 948c47d7-ba45-5616-87f1-01f427c29624
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 35d124f6-145c-4215-8d18-9b28a0dd2938
+  text: 應
+  concept: REACT
+  concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.9
+    textline: 則應時而變
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7033a354-e21d-4fd2-b458-1e2fa016429f
+  text: 時
+  concept: TIME
+  concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.9
+    textline: 則應時而變
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:20:19.045+09:00'

@@ -1,0 +1,32 @@
+uuid: 08c78bfb-6e8b-4ec8-878b-fb6e8b0ec85b
+type: word-relation
+group_uuid: abc8a3d7-a4fc-58f1-8f7b-6ead6d751ddf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a450c79f-e957-4f7f-8823-7e399bd55373
+  text: 一
+  concept: ONE
+  concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_009-2a.10
+    textline: 與民同出一道
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_009-2a.10
+    textline: 與民同出一道
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T17:21:00.931+09:00'

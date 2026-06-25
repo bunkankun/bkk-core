@@ -1,0 +1,21 @@
+uuid: 536958b6-ebed-402b-9e6e-8da389030f24
+type: word-relation
+group_uuid: d6f9a1b2-42cf-539c-9c9d-8de8fd9e3608
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 253d1a54-dcf1-4f5c-9fee-a410da99f230
+  text: 苦
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

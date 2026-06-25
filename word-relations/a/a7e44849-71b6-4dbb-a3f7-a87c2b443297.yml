@@ -1,0 +1,31 @@
+uuid: a7e44849-71b6-4dbb-a3f7-a87c2b443297
+type: word-relation
+group_uuid: a7e44849-71b6-4dbb-a3f7-a87c2b443297
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e114c105-cc40-498e-adf7-626bd04a14c1
+  text: 藥
+  concept: DRUG
+  concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+  attestation:
+    text_title: 論衡
+    line_uuid: 0f119c93-d352-4c00-8e6d-bfee4e280811
+    line_id: KR3j0080_tls_005-7a.28
+    textline: 成為良藥
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 0f119c93-d352-4c00-8e6d-bfee4e280811
+    line_id: KR3j0080_tls_005-7a.28
+    textline: 成為良藥
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

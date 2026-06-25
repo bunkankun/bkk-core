@@ -1,0 +1,32 @@
+uuid: 25dbfe39-7f53-4525-892b-b30e2f9b45a9
+type: word-relation
+group_uuid: 25dbfe39-7f53-4525-892b-b30e2f9b45a9
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 81f98fb7-3990-48aa-9300-c5379e5215e7
+  text: 給
+  concept: SUFFICIENT
+  concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 352e5abd-a1a3-46c5-90ab-17702e7dbfd0
+    line_id: KR3c0005_tls_006-29a.4
+    textline: 力不給
+    offset: 3
+    range: 1
+right:
+  word_uuid: f479c2ef-23e4-4e49-9a40-c62807eacbeb
+  text: 足
+  concept: SUFFICIENT
+  concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7965ee5b-a001-446b-a059-d4fd9664e017
+    line_id: KR3c0005_tls_006-29a.3
+    textline: 則日不足
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

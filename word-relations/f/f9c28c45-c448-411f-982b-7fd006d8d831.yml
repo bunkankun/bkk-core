@@ -1,0 +1,18 @@
+uuid: f9c28c45-c448-411f-982b-7fd006d8d831
+type: word-relation
+group_uuid: 86ebb843-63de-554a-ad08-5fa9070b7221
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+right:
+  word_uuid: 1e7e8990-c420-4f41-b7c8-7653c6a62df2
+  text: 亂
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+source:
+  source_file: word-relations.xml

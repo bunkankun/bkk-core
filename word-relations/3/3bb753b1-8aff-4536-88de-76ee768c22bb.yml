@@ -1,0 +1,32 @@
+uuid: 3bb753b1-8aff-4536-88de-76ee768c22bb
+type: word-relation
+group_uuid: 3bb753b1-8aff-4536-88de-76ee768c22bb
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 商君書
+    line_uuid: b0d2568f-6f20-4444-b88f-2a7c3cc71a8d
+    line_id: KR3c0004_tls_001-3a.5
+    textline: 君亟定變法之慮
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 商君書
+    line_uuid: b0d2568f-6f20-4444-b88f-2a7c3cc71a8d
+    line_id: KR3c0004_tls_001-3a.5
+    textline: 君亟定變法之慮
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 3ee4243e-b0a8-4110-b4c5-ae5dcc38a79d
+type: word-relation
+group_uuid: 3ee4243e-b0a8-4110-b4c5-ae5dcc38a79d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b6d8702b-4205-4f4a-8300-2b867624c620
+  text: 溷
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 楚辭
+    line_uuid: 3c182e0f-611f-43ba-a4f3-5391c7a1d400
+    line_id: KR4a0001_tls_001-6a.32
+    textline: 世溷濁而不分兮
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2c784faa-2f45-4393-a118-a48090d44b36
+  text: 濁
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 楚辭
+    line_uuid: 3c182e0f-611f-43ba-a4f3-5391c7a1d400
+    line_id: KR4a0001_tls_001-6a.32
+    textline: 世溷濁而不分兮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

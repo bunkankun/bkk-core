@@ -1,0 +1,32 @@
+uuid: 4a8ef1d5-e36d-4ed9-8ef1-d5e36d1ed94b
+type: word-relation
+group_uuid: 54f9487d-260d-5ad1-bcf5-945a1a5249fe
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 474629fb-821e-4bcc-95f3-a5915b87a6d3
+  text: 天
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 宋高僧傳
+    line_id: KR6r0054_CBETA_000-0811a2005.s4
+    textline: 天有天法
+    offset: 1
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 宋高僧傳
+    line_id: KR6r0054_CBETA_000-0811a2005.s1
+    textline: 原夫人有人法
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T22:46:31.981+09:00'

@@ -1,0 +1,30 @@
+uuid: b39ace1f-b048-43b5-8c43-073dd4d2636f
+type: word-relation
+group_uuid: 7afd7a68-2d55-4088-a77c-f851c2d10052
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dd20936-f8b4-4cc3-b629-37def231fde6
+  text: 宗
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 韓非子
+    line_uuid: fe47fa7a-baca-4679-b717-5ddb3460a2a6
+    textline: 宗室憂吟
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0ebb602e-fe62-44c6-8381-668605b235a0
+  text: 室
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 韓非子
+    line_uuid: fe47fa7a-baca-4679-b717-5ddb3460a2a6
+    textline: 宗室憂吟
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ca04f387-6c1b-44ae-ae02-63c7d9020663
+type: word-relation
+group_uuid: ca04f387-6c1b-44ae-ae02-63c7d9020663
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8cdf776d-2846-4889-8619-539ae78bf6b0
+  text: 貢
+  concept: TRIBUTE
+  concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 923f9d31-6910-46c7-bac6-0705baac2ac5
+    line_id: KR1e0008_tls_003-194a.19
+    textline: 貢職不至
+    offset: 1
+    range: 1
+right:
+  word_uuid: e36e12d5-5b92-42c7-9c84-0cf679e07c21
+  text: 職
+  concept: TRIBUTE
+  concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 923f9d31-6910-46c7-bac6-0705baac2ac5
+    line_id: KR1e0008_tls_003-194a.19
+    textline: 貢職不至
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

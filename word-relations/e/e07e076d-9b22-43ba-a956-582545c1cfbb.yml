@@ -1,0 +1,32 @@
+uuid: e07e076d-9b22-43ba-a956-582545c1cfbb
+type: word-relation
+group_uuid: e07e076d-9b22-43ba-a956-582545c1cfbb
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a44a8f35-eff0-4a3f-bea8-be1e81d66b6d
+  text: 因而
+  concept: THEN
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+  attestation:
+    text_title: 韓非子
+    line_uuid: a573187f-0a4e-4fc5-b426-c3d667bb69a1
+    line_id: KR3c0005_tls_014-1a.8
+    textline: 臣因而毀之
+    offset: 2
+    range: 2
+right:
+  word_uuid: 1d972cfa-e301-4f1d-af2f-6521b10b1804
+  text: 從而
+  concept: THEN
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 169f7fac-7256-4492-b161-15a18dcf6023
+    line_id: KR3c0005_tls_014-1a.6
+    textline: 臣從而譽之
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

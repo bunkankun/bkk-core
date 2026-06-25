@@ -1,0 +1,21 @@
+uuid: a04cb5a1-06fb-4974-855e-489a8104ad12
+type: word-relation
+group_uuid: 8f17e4c5-0ad8-54e2-ad78-7e040839f80f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d89589c9-2880-4937-81fd-e89bde511484
+  text: 進
+  concept: ADVANCE
+  concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+right:
+  word_uuid: 2b311c68-dca4-4cbb-9faa-3d13bffe0393
+  text: 卻
+  concept: WITHDRAW
+  concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

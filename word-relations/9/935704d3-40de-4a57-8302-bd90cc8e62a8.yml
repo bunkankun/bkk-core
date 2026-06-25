@@ -1,0 +1,32 @@
+uuid: 935704d3-40de-4a57-8302-bd90cc8e62a8
+type: word-relation
+group_uuid: 935704d3-40de-4a57-8302-bd90cc8e62a8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0bfecb4c-b850-4220-b1fb-1d03c5550b9d
+  text: 星
+  concept: STAR
+  concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+  attestation:
+    text_title: 淮南子
+    line_uuid: 87ddb9d7-936f-4acb-a2a4-cba27498c0b3
+    line_id: KR3j0010_tls_001-1a.34
+    textline: 星歷以之行
+    offset: 1
+    range: 1
+right:
+  word_uuid: b6f92c71-1817-4adc-a16e-1a65a5d047c7
+  text: 行
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 淮南子
+    line_uuid: 87ddb9d7-936f-4acb-a2a4-cba27498c0b3
+    line_id: KR3j0010_tls_001-1a.34
+    textline: 星歷以之行
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

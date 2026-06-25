@@ -1,0 +1,23 @@
+uuid: 6feab1de-3d36-4585-a9da-b414cc6de2df
+type: word-relation
+group_uuid: fb2d28b2-6f79-57bf-8c6c-1ecdcdfaa55b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bb60f3af-cfd1-4cbb-a79d-57bbb70a0353
+  text: 從
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+right:
+  word_uuid: e5d2b3d7-a586-4ed4-8c30-5ddbb82dad1b
+  text: 違
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: be2ab3fd-5e2f-4702-bda7-549309880da7
+type: word-relation
+group_uuid: be2ab3fd-5e2f-4702-bda7-549309880da7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 76057aae-0b04-4604-90e7-3ace498e0871
+    line_id: KR6q0082_T_001-0343b.75
+    textline: 亂與定對
+    offset: 1
+    range: 1
+right:
+  word_uuid: 35d45f84-3607-4b4e-977d-d4a9e156955d
+  text: 定
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 76057aae-0b04-4604-90e7-3ace498e0871
+    line_id: KR6q0082_T_001-0343b.75
+    textline: 亂與定對
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

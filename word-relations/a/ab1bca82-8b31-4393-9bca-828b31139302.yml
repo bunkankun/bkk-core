@@ -1,0 +1,32 @@
+uuid: ab1bca82-8b31-4393-9bca-828b31139302
+type: word-relation
+group_uuid: e1c1fc06-7b55-5831-a1fc-a08059691e27
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 26845234-b501-4a76-8aea-505ca14c9eec
+  text: 繼
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-6a.14
+    textline: 周公繼文王之業，
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7be4cf02-dc34-4b61-bd6c-dff159981025
+  text: 業
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-6a.14
+    textline: 周公繼文王之業，
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T00:35:53.629+09:00'

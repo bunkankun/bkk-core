@@ -1,0 +1,35 @@
+uuid: 237b1cce-0366-4661-8f25-a0a714f0a097
+type: word-relation
+group_uuid: 237b1cce-0366-4661-8f25-a0a714f0a097
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f9acc7f5-4989-4859-ae0b-554a4974d1fd
+  text: 方
+  concept: COMPARE
+  concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+  attestation:
+    text_title: 論衡
+    line_uuid: 92c3c999-3ffc-4e58-848f-0537ee5bd95f
+    line_id: KR3j0080_tls_039-2a.15
+    textline: 錦繡之方於縕袍也
+    offset: 4
+    range: 1
+right:
+  word_uuid: cae921bd-e7f8-42d9-83a7-c23546311cbb
+  text: 比
+  concept: COMPARE
+  concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+  attestation:
+    text_title: 論衡
+    line_uuid: ba69f20e-b9df-4d3b-83c6-4d36a37b1505
+    line_id: KR3j0080_tls_039-2a.14
+    textline: 文軒之比於敝車
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

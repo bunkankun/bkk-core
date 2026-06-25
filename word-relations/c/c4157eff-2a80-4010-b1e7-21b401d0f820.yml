@@ -1,0 +1,30 @@
+uuid: c4157eff-2a80-4010-b1e7-21b401d0f820
+type: word-relation
+group_uuid: c4157eff-2a80-4010-b1e7-21b401d0f820
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dd9c6b61-9fc2-42be-a5cb-d5d5d2a43186
+  text: 潔
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7fb15d00-71c1-4f54-8fd2-485edacbad55
+    textline: 修身潔白
+    offset: 3
+    range: 1
+right:
+  word_uuid: aa198c3b-4c6c-431d-86ba-becb2478850d
+  text: 白
+  concept: WHITE
+  concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7fb15d00-71c1-4f54-8fd2-485edacbad55
+    textline: 修身潔白
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

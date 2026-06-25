@@ -1,0 +1,30 @@
+uuid: ef128a1b-9a06-49f8-96af-11f6439e804f
+type: word-relation
+group_uuid: ef128a1b-9a06-49f8-96af-11f6439e804f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4a5e0e2c-23f4-47f7-b59d-d86c7fc59cbe
+  text: 往
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7a908aa3-f73f-41a5-8026-ce34ff33ebde
+    line_id: KR3c0005_tls_025-24a.6
+    textline: 能立道於往古
+    offset: 5
+    range: 1
+right:
+  word_uuid: f1e34c3d-1996-4c8f-97cf-813d84301517
+  text: 古
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7a908aa3-f73f-41a5-8026-ce34ff33ebde
+    line_id: KR3c0005_tls_025-24a.6
+    textline: 能立道於往古
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

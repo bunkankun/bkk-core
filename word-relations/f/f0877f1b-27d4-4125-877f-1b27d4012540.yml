@@ -1,0 +1,32 @@
+uuid: f0877f1b-27d4-4125-877f-1b27d4012540
+type: word-relation
+group_uuid: deaf89ee-5df7-51a1-b4f2-dc025c3458bc
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_012-52a.32
+    textline: 學射御
+    offset: 1
+    range: 1
+right:
+  word_uuid: bcaa221d-d7c9-4338-b326-b27751c78b4f
+  text: 御
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_012-52a.32
+    textline: 學射御
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-29T20:17:48.305+09:00'

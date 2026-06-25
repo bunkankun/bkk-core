@@ -1,0 +1,32 @@
+uuid: 0adf0adf-14e1-460d-9f0a-df14e1560d4e
+type: word-relation
+group_uuid: e70e56aa-1fa6-5e5d-b652-919e7f7ac637
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: fa6c8d89-b299-4cdd-a237-64ed41f88132
+  text: 來
+  concept: COME
+  concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_003-14a.5
+    textline: 禮有來學無往教
+    offset: 4
+    range: 1
+right:
+  word_uuid: 138621dc-2700-4c5e-aae3-50ca93e2e454
+  text: 往
+  concept: GO TO
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_003-14a.5
+    textline: 禮有來學無往教
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T17:24:02.739+09:00'

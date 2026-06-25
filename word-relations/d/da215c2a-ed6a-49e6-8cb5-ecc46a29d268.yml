@@ -1,0 +1,21 @@
+uuid: da215c2a-ed6a-49e6-8cb5-ecc46a29d268
+type: word-relation
+group_uuid: b14e56c0-e54d-5543-83d8-e89a626adff8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 45454b9c-efe6-4681-97ca-1324ab54d57d
+  text: 掇
+  concept: PLUCK
+  concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+right:
+  word_uuid: ffbc8497-b11d-44b1-a895-95f4bc2faef5
+  text: 采
+  concept: PLUCK
+  concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

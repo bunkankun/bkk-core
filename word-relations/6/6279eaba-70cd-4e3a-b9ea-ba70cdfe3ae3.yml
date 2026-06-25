@@ -1,0 +1,35 @@
+uuid: 6279eaba-70cd-4e3a-b9ea-ba70cdfe3ae3
+type: word-relation
+group_uuid: 38a52b0b-0531-4f72-be19-519fd0950065
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_057-1a.14
+    textline: 法令滋彰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 39671078-8c77-4cd7-9e30-5fac8c14b942
+  text: 令
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_057-1a.14
+    textline: 法令滋彰
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T00:32:29.256+09:00'

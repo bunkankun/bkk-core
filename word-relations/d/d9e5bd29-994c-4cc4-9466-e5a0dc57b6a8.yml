@@ -1,0 +1,32 @@
+uuid: d9e5bd29-994c-4cc4-9466-e5a0dc57b6a8
+type: word-relation
+group_uuid: d9e5bd29-994c-4cc4-9466-e5a0dc57b6a8
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: ecb9e2f3-9757-478d-8aac-5c89fe3afb2a
+  text: 聞
+  concept: LEARN
+  concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+  attestation:
+    text_title: 論語
+    line_uuid: 97cbccff-69d8-4c28-a68c-448942723a4b
+    line_id: KR1h0004_tls_011-25a.3
+    textline: 「聞斯行諸
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 97cbccff-69d8-4c28-a68c-448942723a4b
+    line_id: KR1h0004_tls_011-25a.3
+    textline: 「聞斯行諸
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 24f3d543-32ac-4b07-9b36-5b9a8b870868
+type: word-relation
+group_uuid: 6523d225-fa02-5f8b-8eb2-eb9b35008dce
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 381d4a16-3f50-4422-8af2-9eb462530c9c
+  text: 中國
+  concept: CHINA
+  concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+right:
+  word_uuid: 9ce48e8d-dc28-4aef-b190-cbe20f48d578
+  text: 四夷
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

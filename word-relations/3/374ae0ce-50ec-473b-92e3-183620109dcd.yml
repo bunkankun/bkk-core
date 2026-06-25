@@ -1,0 +1,32 @@
+uuid: 374ae0ce-50ec-473b-92e3-183620109dcd
+type: word-relation
+group_uuid: 374ae0ce-50ec-473b-92e3-183620109dcd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 92b783f9-23cb-4f56-b1c5-fe7116b7783a
+  text: 金
+  concept: GOLD
+  concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 44780521-aa9e-4d8f-a882-f3acdc6337bf
+    line_id: KR3a0006_tls_001-25a.22
+    textline: 鑽山石而求金銀
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7042b2a8-761a-4189-b15d-b907734f5284
+  text: 銀
+  concept: SILVER
+  concept_uuid: ac75548d-2372-4012-8e41-d2c13bb01903
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 44780521-aa9e-4d8f-a882-f3acdc6337bf
+    line_id: KR3a0006_tls_001-25a.22
+    textline: 鑽山石而求金銀
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

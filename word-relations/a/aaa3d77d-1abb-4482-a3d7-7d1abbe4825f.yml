@@ -1,0 +1,32 @@
+uuid: aaa3d77d-1abb-4482-a3d7-7d1abbe4825f
+type: word-relation
+group_uuid: 7252ee42-3d0f-5d4c-89c6-2408ac55d0b2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 70a622d2-4c59-4db7-9af7-ef4a262438af
+  text: 木
+  concept: TIMBER
+  concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.29
+    textline: 乃為窬木方板
+    offset: 4
+    range: 1
+right:
+  word_uuid: fd5caf1d-a9fe-4bbe-adb5-074a0345a9bb
+  text: 板
+  concept: BOARD
+  concept_uuid: 485ae3fe-3888-4367-8c5a-fd834178d569
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.29
+    textline: 乃為窬木方板
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:21:51.686+09:00'

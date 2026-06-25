@@ -1,0 +1,32 @@
+uuid: bfedc5a1-5c5d-4c98-8b19-fdccfb277325
+type: word-relation
+group_uuid: bfedc5a1-5c5d-4c98-8b19-fdccfb277325
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3c10e116-f68b-4844-8b61-fd7196ee283a
+  text: 以
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論語
+    line_uuid: 2a2b2780-9a63-4c17-a48b-21e1a2b52557
+    line_id: KR1h0004_tls_002-11a.3
+    textline: 「視其所以
+    offset: 5
+    range: 1
+right:
+  word_uuid: d57426f1-b772-482c-a8c0-de2ca1457d3c
+  text: 由
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論語
+    line_uuid: 1be586bc-85ce-453b-a11b-6dc75c56a6a2
+    line_id: KR1h0004_tls_002-11a.4
+    textline: 觀其所由
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

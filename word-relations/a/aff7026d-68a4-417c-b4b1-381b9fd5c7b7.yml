@@ -1,0 +1,32 @@
+uuid: aff7026d-68a4-417c-b4b1-381b9fd5c7b7
+type: word-relation
+group_uuid: aff7026d-68a4-417c-b4b1-381b9fd5c7b7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bd2ab051-1b62-4256-a2c8-6045e96e9a76
+  text: 善
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9733a3f7-61f9-4995-b68c-b749eb217437
+    line_id: KR3c0005_tls_014-1a.5
+    textline: 是以主有所善
+    offset: 6
+    range: 1
+right:
+  word_uuid: 1162404a-8c14-4645-8cea-803f1a31e2e8
+  text: 憎
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9dfa8ccc-8064-4fe9-b173-b2e756a41293
+    line_id: KR3c0005_tls_014-1a.7
+    textline: 主有所憎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

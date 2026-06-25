@@ -1,0 +1,21 @@
+uuid: 14a60a3c-3c5c-47dc-8968-6bab5dbe7aa6
+type: word-relation
+group_uuid: 51b824d8-e2cd-5f0b-8a5b-7a31791bbc83
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 03e6c774-fde1-4cc8-b00f-b25f83a6b182
+  text: 間
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+right:
+  word_uuid: 4d6c3992-debb-4204-9926-8d03e3c26d41
+  text: 和
+  concept: HARMONY
+  concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

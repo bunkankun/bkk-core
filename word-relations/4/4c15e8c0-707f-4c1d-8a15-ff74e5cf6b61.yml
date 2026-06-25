@@ -1,0 +1,32 @@
+uuid: 4c15e8c0-707f-4c1d-8a15-ff74e5cf6b61
+type: word-relation
+group_uuid: 4c15e8c0-707f-4c1d-8a15-ff74e5cf6b61
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d7a20039-220b-4837-9729-f4a10ecf5d21
+    line_id: KR1e0001_tls_010-19a.72
+    textline: 視遠如邇
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3520b67a-1f19-46e4-b91e-6f9b50d88198
+  text: 邇
+  concept: NEAR
+  concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d7a20039-220b-4837-9729-f4a10ecf5d21
+    line_id: KR1e0001_tls_010-19a.72
+    textline: 視遠如邇
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

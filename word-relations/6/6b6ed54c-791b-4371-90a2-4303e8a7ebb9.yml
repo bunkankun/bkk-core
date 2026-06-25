@@ -1,0 +1,32 @@
+uuid: 6b6ed54c-791b-4371-90a2-4303e8a7ebb9
+type: word-relation
+group_uuid: 2f2e3428-9d6a-4008-8439-624ba98028bd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a349b0d9-6362-430d-8b94-2492b4a473c1
+  text: 臺
+  concept: TOWER
+  concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+  attestation:
+    text_title: 淮南子
+    line_uuid: d16e0cee-4b7b-4ce8-afda-ceb27372357d
+    line_id: KR3j0010_tls_009-26a.21
+    textline: 人主好高臺深池
+    offset: 5
+    range: 1
+right:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 淮南子
+    line_uuid: d16e0cee-4b7b-4ce8-afda-ceb27372357d
+    line_id: KR3j0010_tls_009-26a.21
+    textline: 人主好高臺深池
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

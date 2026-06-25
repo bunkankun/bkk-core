@@ -1,0 +1,18 @@
+uuid: 836820d7-bbb7-4da6-8775-0b99aad8f1d2
+type: word-relation
+group_uuid: c575c81b-5787-50b3-af08-23b46e909ed8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 04abd3d2-9a06-4d2f-a630-3abb1aee0703
+  text: 飄風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+right:
+  word_uuid: b66b3c29-f852-4d73-aada-661917293703
+  text: 速
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+source:
+  source_file: word-relations.xml

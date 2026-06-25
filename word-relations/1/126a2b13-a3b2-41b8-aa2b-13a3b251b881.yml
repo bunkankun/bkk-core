@@ -1,0 +1,32 @@
+uuid: 126a2b13-a3b2-41b8-aa2b-13a3b251b881
+type: word-relation
+group_uuid: 70b8dbea-ba68-5b39-b365-372903c7062b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d34f9423-68d2-4c28-bd52-7f174bb47c98
+  text: 天地
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_033-15a.5
+    textline: 天地並與
+    offset: 1
+    range: 2
+right:
+  word_uuid: 570f6c90-5c94-404c-92c1-8d807aa15f41
+  text: 神明
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_033-15a.6
+    textline: 神明往與
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T17:53:27.74+09:00'

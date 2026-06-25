@@ -1,0 +1,30 @@
+uuid: c6c5b4fd-da55-4d05-8fdd-9e6be2b84448
+type: word-relation
+group_uuid: 84ecf2d5-3ee6-405f-88e2-5096346c8981
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 57ceb16f-4d0d-4452-9f56-7117cf90fb79
+    textline: 勝理以治身則生全
+    offset: 5
+    range: 1
+right:
+  word_uuid: 613c6686-8d21-4eb3-b222-992c48bb75b1
+  text: 生
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 37bd4ab5-9f3e-4a8c-bb59-13ca59874acf
+    textline: 以生全則壽長矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

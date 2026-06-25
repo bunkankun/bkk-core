@@ -1,0 +1,32 @@
+uuid: 942321e5-2855-4c14-8bdc-20fcbd4bdb75
+type: word-relation
+group_uuid: a1ecf154-5648-4105-a925-e300e30f68d0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: 17342d20-ad6b-4883-abad-b68b5a168e6f
+    line_id: KR2a0001_tls_006-315a.59
+    textline: 吾欲造千乘之駕
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: b1d275d8-21bd-437c-8693-4215eca0e835
+    line_id: KR2a0001_tls_006-315a.57
+    textline: 朕尊萬乘
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

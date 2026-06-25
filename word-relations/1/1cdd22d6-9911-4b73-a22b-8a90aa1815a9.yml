@@ -1,0 +1,32 @@
+uuid: 1cdd22d6-9911-4b73-a22b-8a90aa1815a9
+type: word-relation
+group_uuid: 1cdd22d6-9911-4b73-a22b-8a90aa1815a9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 24353516-0400-44e8-9dd6-163dc587a027
+  text: 束
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 管子
+    line_uuid: 373b37cd-de3a-4471-8c33-cf92756f5b1b
+    line_id: KR3c0001_tls_004-88a.2
+    textline: 先王不約束
+    offset: 5
+    range: 1
+right:
+  word_uuid: cd868119-60a6-4ffb-8e88-8314420b9913
+  text: 約
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 管子
+    line_uuid: 373b37cd-de3a-4471-8c33-cf92756f5b1b
+    line_id: KR3c0001_tls_004-88a.2
+    textline: 先王不約束
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

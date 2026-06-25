@@ -1,0 +1,32 @@
+uuid: 3bddd557-e85e-476b-a3a9-79ccce347634
+type: word-relation
+group_uuid: 3bddd557-e85e-476b-a3a9-79ccce347634
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 62c072dc-1301-4eb7-ad26-a0eb221fe364
+  text: 罷
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c6b0c10-3046-47bb-bb41-6d128c0b489c
+    line_id: KR3c0005_tls_010-7a.7
+    textline: 戰既罷
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7ce8368a-ac1f-4c30-bc81-703444341d0a
+  text: 戰
+  concept: BATTLE
+  concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c6b0c10-3046-47bb-bb41-6d128c0b489c
+    line_id: KR3c0005_tls_010-7a.7
+    textline: 戰既罷
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

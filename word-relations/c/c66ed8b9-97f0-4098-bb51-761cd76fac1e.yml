@@ -1,0 +1,32 @@
+uuid: c66ed8b9-97f0-4098-bb51-761cd76fac1e
+type: word-relation
+group_uuid: c66ed8b9-97f0-4098-bb51-761cd76fac1e
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 646b0bfc-62ee-43a7-bbad-58814a966f55
+  text: 效
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: 146b5bb3-b808-47a1-bdf8-06ac611a1969
+    line_id: KR3j0080_tls_007-8a.28
+    textline: 毛羽未可以效不死
+    offset: 6
+    range: 1
+right:
+  word_uuid: 9f102487-1f81-404a-a918-320c1052ebd9
+  text: 驗
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: 9d619f33-1461-4120-b781-6ed4c0b020e9
+    line_id: KR3j0080_tls_007-8a.30
+    textline: 安足以驗長壽乎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 884b9982-3579-4cff-8e5e-8d0b26115be3
+type: word-relation
+group_uuid: b6083a91-407b-5f89-8a41-d4868aa6335c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: eb8a1deb-59bf-4227-bff3-9478eac83aec
+  text: 封
+  concept: APPOINT
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+right:
+  word_uuid: a4f2f22d-c6a8-4243-8170-7c80a7742c67
+  text: 拜
+  concept: APPOINT
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

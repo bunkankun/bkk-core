@@ -1,0 +1,32 @@
+uuid: 372d7768-e118-4dc7-b741-99524fd24d54
+type: word-relation
+group_uuid: 372d7768-e118-4dc7-b741-99524fd24d54
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9f9e2e81-f0f3-4a10-ba83-049e4f49dfcf
+  text: 昏
+  concept: AFTERNOON
+  concept_uuid: f3eb8a1b-f22e-404d-b199-aa500463d34b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1a1ce9dd-e6de-4c20-9b95-77e3dc02aea3
+    line_id: KR3j0009_tls_003-2a.5
+    textline: 昏七星中
+    offset: 1
+    range: 1
+right:
+  word_uuid: 00137c12-2c43-4aab-92c4-8534bafeec02
+  text: 旦
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ace0dc37-470c-45e0-87f2-2afef80ea457
+    line_id: KR3j0009_tls_003-2a.6
+    textline: 旦牽牛中
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

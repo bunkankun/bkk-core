@@ -1,0 +1,32 @@
+uuid: bedf8b12-c0e3-4fb8-9c88-2576d598b98e
+type: word-relation
+group_uuid: bedf8b12-c0e3-4fb8-9c88-2576d598b98e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 27818b82-2d36-4114-93c9-aedcd507c5d0
+  text: 隆
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+  attestation:
+    text_title: 韓非子
+    line_uuid: a8c8c459-4d6a-4da7-928d-a9a9e2ab1733
+    line_id: KR3c0005_tls_015-25a.3
+    textline: 大臣隆盛
+    offset: 3
+    range: 1
+right:
+  word_uuid: f1becac1-c86a-4f6d-9b19-17c85ef4cb61
+  text: 盛
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+  attestation:
+    text_title: 韓非子
+    line_uuid: a8c8c459-4d6a-4da7-928d-a9a9e2ab1733
+    line_id: KR3c0005_tls_015-25a.3
+    textline: 大臣隆盛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

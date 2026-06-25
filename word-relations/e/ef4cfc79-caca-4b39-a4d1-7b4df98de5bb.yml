@@ -1,0 +1,32 @@
+uuid: ef4cfc79-caca-4b39-a4d1-7b4df98de5bb
+type: word-relation
+group_uuid: ef4cfc79-caca-4b39-a4d1-7b4df98de5bb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 747c5216-cb29-4e84-9799-2b1d6505cae2
+  text: 利祿
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1d565a9e-b02a-48fd-bcae-2de7378bd8ec
+    line_id: KR3c0005_tls_055-2a.10
+    textline: 民者好利祿
+    offset: 4
+    range: 2
+right:
+  word_uuid: 26f8747e-c133-4f2c-bafc-cd34a39d415d
+  text: 刑罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9600b573-f1a0-4cde-8b5b-eae5d2bc350c
+    line_id: KR3c0005_tls_055-2a.11
+    textline: 而惡刑罰
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

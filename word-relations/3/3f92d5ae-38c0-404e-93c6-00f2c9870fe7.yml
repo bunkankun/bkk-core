@@ -1,0 +1,30 @@
+uuid: 3f92d5ae-38c0-404e-93c6-00f2c9870fe7
+type: word-relation
+group_uuid: 3f92d5ae-38c0-404e-93c6-00f2c9870fe7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 老子
+    line_uuid: 78a30d52-7657-428c-a8dc-17c6cf1375fd
+    textline: 猛獸不據
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4e4af4dc-55a5-4704-af53-d5d2346823e4
+  text: 猛
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 老子
+    line_uuid: 78a30d52-7657-428c-a8dc-17c6cf1375fd
+    textline: 猛獸不據
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 496981f2-c5db-44e8-be24-051c6436733c
+type: word-relation
+group_uuid: bff9770b-a3ee-4f1d-ab17-905ba9888c8f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 542a89f6-19c5-4554-bc49-f4a62c1e06a7
+  text: 艱
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 毛詩
+    line_uuid: 005dc588-90e4-4bad-8868-acebccae6638
+    line_id: KR1c0001_tls_006-26a.1
+    textline: 遇人之艱難矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1db62518-f462-4ae9-895c-98e2b6d06225
+  text: 難
+  concept: DIFFICULT
+  concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+  attestation:
+    text_title: 毛詩
+    line_uuid: 005dc588-90e4-4bad-8868-acebccae6638
+    line_id: KR1c0001_tls_006-26a.1
+    textline: 遇人之艱難矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

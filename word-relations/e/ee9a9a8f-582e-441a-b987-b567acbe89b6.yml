@@ -1,0 +1,32 @@
+uuid: ee9a9a8f-582e-441a-b987-b567acbe89b6
+type: word-relation
+group_uuid: ee9a9a8f-582e-441a-b987-b567acbe89b6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7f40d772-10bc-401b-9b8a-b658b31bd97b
+  text: 獨
+  concept: ONLY
+  concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 22e8c5ef-6b6d-43cf-92d6-0b5637df58ec
+    line_id: KR3j0009_tls_002-17a.27
+    textline: 而迫生非獨不義也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 6c24ad72-fe13-45ac-b89c-c56e8d8cf492
+  text: 非
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 22e8c5ef-6b6d-43cf-92d6-0b5637df58ec
+    line_id: KR3j0009_tls_002-17a.27
+    textline: 而迫生非獨不義也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

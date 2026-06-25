@@ -1,0 +1,32 @@
+uuid: 004aa776-f2b7-443f-ac87-c875f90f09ff
+type: word-relation
+group_uuid: 004aa776-f2b7-443f-ac87-c875f90f09ff
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 論語
+    line_uuid: c67bd53f-2264-4e24-a58c-d72c5b27da21
+    line_id: KR1h0004_tls_001-8a.4
+    textline: 學則不固
+    offset: 1
+    range: 1
+right:
+  word_uuid: 85aabb33-365c-4655-b25d-274785376b89
+  text: 固
+  concept: STUBBORN
+  concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+  attestation:
+    text_title: 論語
+    line_uuid: c67bd53f-2264-4e24-a58c-d72c5b27da21
+    line_id: KR1h0004_tls_001-8a.4
+    textline: 學則不固
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

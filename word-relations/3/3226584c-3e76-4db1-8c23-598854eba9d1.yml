@@ -1,0 +1,33 @@
+uuid: 3226584c-3e76-4db1-8c23-598854eba9d1
+type: word-relation
+group_uuid: 3226584c-3e76-4db1-8c23-598854eba9d1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eff9587b-5791-4cc0-8a72-d9660aec35cf
+  text: 恥
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 82167fe3-f0ea-4a12-b00f-e3656327e72e
+    textline: 恥辱集于厥身
+    offset: 1
+    range: 1
+right:
+  word_uuid: 49f734c6-8972-48e8-9fce-a482c02a85cc
+  text: 辱
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 82167fe3-f0ea-4a12-b00f-e3656327e72e
+    textline: 恥辱集于厥身
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

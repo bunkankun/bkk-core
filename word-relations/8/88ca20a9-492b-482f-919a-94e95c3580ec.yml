@@ -1,0 +1,32 @@
+uuid: 88ca20a9-492b-482f-919a-94e95c3580ec
+type: word-relation
+group_uuid: 88ca20a9-492b-482f-919a-94e95c3580ec
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e6c08794-2562-4ef7-9ffc-5a84d80af012
+    line_id: KR3j0009_tls_014-41a.46
+    textline: 是以賊其身
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ddd56e24-c9b4-4d52-9466-2bee1586724b
+    line_id: KR3j0009_tls_014-41a.45
+    textline: 反而孽民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

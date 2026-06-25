@@ -1,0 +1,21 @@
+uuid: 83a3ae57-8f30-4d2b-ba6d-346a4a61f96c
+type: word-relation
+group_uuid: 7ebfc01d-2921-52e5-bf0f-178510ec2631
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 91360453-a053-4fba-aed9-2908d87e6b36
+  text: 姦
+  concept: FAKE
+  concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+right:
+  word_uuid: f76cacbd-f3cc-4e20-8c08-30ab5a5633e9
+  text: 偽
+  concept: FAKE
+  concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

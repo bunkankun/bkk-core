@@ -1,0 +1,21 @@
+uuid: a61011e5-af92-408e-9de8-2290a9de4635
+type: word-relation
+group_uuid: 9cea22cc-092a-58e9-86c9-aaf34d2036a8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 88c3c53b-5d81-4ef5-b1e6-8ab83de0eec3
+  text: 居
+  concept: HOME
+  concept_uuid: bb0f7095-fda8-41e9-8901-d64001c3b111
+right:
+  word_uuid: 95470881-aeed-41ab-8134-033235421f67
+  text: 宅
+  concept: DWELLING
+  concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

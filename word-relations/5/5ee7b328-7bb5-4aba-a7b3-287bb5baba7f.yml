@@ -1,0 +1,32 @@
+uuid: 5ee7b328-7bb5-4aba-a7b3-287bb5baba7f
+type: word-relation
+group_uuid: 159e59f6-2e5b-5ee9-a502-dacf43c35423
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 5cd52677-1dc0-477e-9526-771dc0377e99
+  text: 端
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.60
+    textline: 其婦端正
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.60
+    textline: 其婦端正
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-14T21:58:54.651+09:00'

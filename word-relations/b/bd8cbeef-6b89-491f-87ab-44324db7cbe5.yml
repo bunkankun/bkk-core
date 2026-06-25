@@ -1,0 +1,32 @@
+uuid: bd8cbeef-6b89-491f-87ab-44324db7cbe5
+type: word-relation
+group_uuid: bd8cbeef-6b89-491f-87ab-44324db7cbe5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5c5b2978-674f-49c5-9f7f-26b2aa5c0cbe
+  text: 衣
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 論語
+    line_uuid: a4767473-1c30-4df3-a5a6-a47cb00be104
+    line_id: KR1h0004_tls_004-9a.4
+    textline: 而恥惡衣惡食者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 64176734-e1e3-491d-8815-79ca2cca12f0
+  text: 食
+  concept: FOOD
+  concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+  attestation:
+    text_title: 論語
+    line_uuid: a4767473-1c30-4df3-a5a6-a47cb00be104
+    line_id: KR1h0004_tls_004-9a.4
+    textline: 而恥惡衣惡食者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

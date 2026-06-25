@@ -1,0 +1,21 @@
+uuid: fafeffe7-8438-43fa-944c-f53e546a8acf
+type: word-relation
+group_uuid: cdc09b77-cc13-598e-8c94-8b735e6266d1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c821de0d-fe34-43d4-82f6-46407906250e
+  text: 橫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+right:
+  word_uuid: 76d2aa66-ea32-451f-a374-1654ee5969a9
+  text: 恣
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

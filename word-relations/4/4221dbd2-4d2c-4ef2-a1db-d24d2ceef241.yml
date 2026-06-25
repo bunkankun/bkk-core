@@ -1,0 +1,32 @@
+uuid: 4221dbd2-4d2c-4ef2-a1db-d24d2ceef241
+type: word-relation
+group_uuid: a4d71de2-21bd-50d5-b23d-4347e752229e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5d8d4ef2-3413-45c3-a221-208ab7359bee
+  text: 記
+  concept: REMEMBER
+  concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_080-18a.13
+    textline: 記善忘過
+    offset: 1
+    range: 1
+right:
+  word_uuid: b589a8c7-1e89-43da-9a44-38806dd620ca
+  text: 忘
+  concept: FORGET
+  concept_uuid: 7fc70648-17f5-4181-a267-dd2747e9c31b
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_080-18a.13
+    textline: 記善忘過
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-06T13:48:00.427+09:00'

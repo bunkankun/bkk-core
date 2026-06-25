@@ -1,0 +1,32 @@
+uuid: e787bd32-8e1b-4f8f-87bd-328e1bdf8fb6
+type: word-relation
+group_uuid: 336287ad-8b8f-5ef7-a34a-269e57665f50
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3fac01de-fe0c-4239-a7dd-8a7857ccbff3
+  text: 眾人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-74a.9
+    textline: 眾人以毀形為恥
+    offset: 1
+    range: 2
+right:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-74a.10
+    textline: 君子以毀義為辱
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T05:23:37.147+09:00'

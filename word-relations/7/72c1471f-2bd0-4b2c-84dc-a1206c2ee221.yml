@@ -1,0 +1,21 @@
+uuid: 72c1471f-2bd0-4b2c-84dc-a1206c2ee221
+type: word-relation
+group_uuid: 25f45102-2b12-5856-91dc-ad7fbf84716c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+right:
+  word_uuid: bd157ccd-3b12-490e-a90c-b9a58c8b32f4
+  text: 友
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

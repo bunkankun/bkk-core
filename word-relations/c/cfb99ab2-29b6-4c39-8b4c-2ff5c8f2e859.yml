@@ -1,0 +1,32 @@
+uuid: cfb99ab2-29b6-4c39-8b4c-2ff5c8f2e859
+type: word-relation
+group_uuid: 1d67777d-17d0-494e-854b-234155b0e44b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 莊子
+    line_uuid: de1215fc-af65-424d-bba0-16fecb1130e2
+    line_id: KR5c0126_tls_024-20a.5
+    textline: 為我相吾子
+    offset: 2
+    range: 1
+right:
+  word_uuid: 12047afe-7f2c-4840-8f76-2b811ec0dc08
+  text: 吾子
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 莊子
+    line_uuid: de1215fc-af65-424d-bba0-16fecb1130e2
+    line_id: KR5c0126_tls_024-20a.5
+    textline: 為我相吾子
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

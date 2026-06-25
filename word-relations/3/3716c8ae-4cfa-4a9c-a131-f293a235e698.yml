@@ -1,0 +1,32 @@
+uuid: 3716c8ae-4cfa-4a9c-a131-f293a235e698
+type: word-relation
+group_uuid: 3716c8ae-4cfa-4a9c-a131-f293a235e698
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d57fd401-f4d6-407a-9fdf-f36dc5eb503e
+  text: 倍
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 韓非子
+    line_uuid: 663c4223-1c06-4d9e-a3bd-ccf61943210d
+    line_id: KR3c0005_tls_006-23a.7
+    textline: 倍主強諫
+    offset: 1
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 663c4223-1c06-4d9e-a3bd-ccf61943210d
+    line_id: KR3c0005_tls_006-23a.7
+    textline: 倍主強諫
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

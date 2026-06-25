@@ -1,0 +1,32 @@
+uuid: 4c7773ff-7bdc-40c6-b773-ff7bdc80c616
+type: word-relation
+group_uuid: 0202562e-9a4c-5507-8b47-e50aa612564c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 903edf31-2895-4f27-8dec-e320e393f010
+  text: 微
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-18782a
+    textline: 人微望輕
+    offset: 2
+    range: 1
+right:
+  word_uuid: 78a73794-c9d4-491f-955c-14ae22cda17c
+  text: 輕
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-18782a
+    textline: 人微望輕
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-07-04T17:54:58.161+09:00'

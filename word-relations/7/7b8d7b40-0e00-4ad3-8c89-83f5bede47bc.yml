@@ -1,0 +1,32 @@
+uuid: 7b8d7b40-0e00-4ad3-8c89-83f5bede47bc
+type: word-relation
+group_uuid: 7b8d7b40-0e00-4ad3-8c89-83f5bede47bc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 莊子
+    line_uuid: 99fd8b7c-ddf9-4039-bc25-52da52ed0d60
+    line_id: KR5c0126_tls_019-12a.30
+    textline: 桓公辴然而笑曰
+    offset: 6
+    range: 1
+right:
+  word_uuid: 38e393dc-ac0c-4efa-b0ac-c4f2f3193f21
+  text: 辴然
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 莊子
+    line_uuid: 99fd8b7c-ddf9-4039-bc25-52da52ed0d60
+    line_id: KR5c0126_tls_019-12a.30
+    textline: 桓公辴然而笑曰
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

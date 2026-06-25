@@ -1,0 +1,32 @@
+uuid: fad305f4-59b8-4717-bb43-da4e9cf7a799
+type: word-relation
+group_uuid: fad305f4-59b8-4717-bb43-da4e9cf7a799
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 31c21dae-1250-47d8-b7bd-386238a36c13
+  text: 粱
+  concept: MILLET
+  concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 01cc46fa-2c81-4560-95b5-b55d6a65f763
+    line_id: KR1e0001_tls_012-233a.9
+    textline: 「粱則無矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: ac5554df-7ec2-4ddb-9cdf-27abe951dcbc
+  text: 麤
+  concept: FOOD
+  concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 62dca04d-4903-47f2-8e0b-d4b2682351e2
+    line_id: KR1e0001_tls_012-233a.10
+    textline: 麤則有之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

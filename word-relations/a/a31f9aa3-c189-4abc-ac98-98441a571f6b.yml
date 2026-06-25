@@ -1,0 +1,32 @@
+uuid: a31f9aa3-c189-4abc-ac98-98441a571f6b
+type: word-relation
+group_uuid: a31f9aa3-c189-4abc-ac98-98441a571f6b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 826e9a2b-6320-4f1a-9668-2c9e60c8a06f
+  text: 常
+  concept: STANDARD
+  concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8d659e29-b3db-4e38-908d-d1132956a875
+    line_id: KR1e0001_tls_003-157a.15
+    textline: 人棄常
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6502dc34-657a-48eb-aa2b-d8742ba14777
+  text: 妖
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b4d2364f-37b7-457c-9367-6cf380428cac
+    line_id: KR1e0001_tls_003-157a.16
+    textline: 則妖興
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

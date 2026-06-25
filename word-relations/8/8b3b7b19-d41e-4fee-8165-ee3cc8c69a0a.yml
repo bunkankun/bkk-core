@@ -1,0 +1,18 @@
+uuid: 8b3b7b19-d41e-4fee-8165-ee3cc8c69a0a
+type: word-relation
+group_uuid: 0eb38aa4-3f85-53c3-bd8e-339eeb71fd8f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 40d6701e-748d-419b-8f08-59c0e6fd4871
+  text: 土
+  concept: SOIL
+  concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+right:
+  word_uuid: 9cf60b39-b7dd-46a1-8972-804c3d92fc3e
+  text: 壤
+  concept: SOIL
+  concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b0b87532-e4a7-4595-b8eb-9effa1e2f57a
+type: word-relation
+group_uuid: 34fa3422-b430-4002-8cae-39c52216f359
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: abdd2677-cba0-4ae7-8231-21e0600842dd
+  text: 多
+  concept: MANY
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  attestation:
+    text_title: 法言
+    line_uuid: 05fb0682-a74b-4c5a-b72b-63412e7dca24
+    line_id: KR3a0009_tls_002-16a.2
+    textline: 多聞則守之以約
+    offset: 1
+    range: 1
+right:
+  word_uuid: 64b231da-1d27-459a-a12f-c4b81f906d44
+  text: 寡
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 法言
+    line_uuid: b69c7e64-11b3-4901-8c2f-5f01c86af32d
+    line_id: KR3a0009_tls_002-16a.5
+    textline: 寡見則無卓也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

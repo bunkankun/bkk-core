@@ -1,0 +1,32 @@
+uuid: 4e2f87da-332b-4b54-8d4e-acafd7bf396b
+type: word-relation
+group_uuid: e42fa191-f331-4885-90ff-02ba87c4a212
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dd20936-f8b4-4cc3-b629-37def231fde6
+  text: 宗
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 論語
+    line_uuid: 5edbb268-577b-4ca5-9a4c-7c58c48f3b36
+    line_id: KR1h0004_tls_013-31a.5
+    textline: 「宗族稱孝焉
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4bba8658-ce64-4f09-85ab-babdb61aea3a
+  text: 族
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 論語
+    line_uuid: 5edbb268-577b-4ca5-9a4c-7c58c48f3b36
+    line_id: KR1h0004_tls_013-31a.5
+    textline: 「宗族稱孝焉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

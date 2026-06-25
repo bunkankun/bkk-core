@@ -1,0 +1,32 @@
+uuid: f06f74fa-855b-4b2e-967a-4242a0f8207c
+type: word-relation
+group_uuid: f06f74fa-855b-4b2e-967a-4242a0f8207c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0233a65c-6788-4164-a674-9a8916308380
+  text: 海
+  concept: SEA
+  concept_uuid: dd7585ff-f781-43d6-8bd4-d43b15415838
+  attestation:
+    text_title: 韓非子
+    line_uuid: 224588f1-00f2-41f9-a96f-f8c8b18b9294
+    line_id: KR3c0005_tls_006-30a.7
+    textline: 獨制四海之內
+    offset: 4
+    range: 1
+right:
+  word_uuid: 34b5025a-ac6c-4d6c-ae88-01fe5c84d9ca
+  text: 四
+  concept: FOUR
+  concept_uuid: 855f9807-26e6-4e4a-b1f0-d0d5421e9eec
+  attestation:
+    text_title: 韓非子
+    line_uuid: 224588f1-00f2-41f9-a96f-f8c8b18b9294
+    line_id: KR3c0005_tls_006-30a.7
+    textline: 獨制四海之內
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 23cafe18-39fb-4b77-8afe-1839fb3b77e7
+type: word-relation
+group_uuid: c6f710e1-9930-55ef-a2f8-d6704585b4b9
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 327449d8-c55e-4b1a-bf8c-e2d09099766b
+  text: 春
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_023-2a.7
+    textline: 夫春氣發而百草生
+    offset: 2
+    range: 1
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_023-2a.7
+    textline: 夫春氣發而百草生
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:38:44.711+09:00'

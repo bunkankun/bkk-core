@@ -1,0 +1,32 @@
+uuid: f7465eba-208c-49b4-9e46-eefe8e088a03
+type: word-relation
+group_uuid: 1eead154-c4d6-48e6-a913-a8039f6e093a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: add924db-054c-4dd6-8829-0064f3365fcc
+  text: 重
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4648098f-3651-42a3-8863-320d051b8c2b
+    line_id: KR3j0009_tls_001-16a.13
+    textline: 論其輕重
+    offset: 4
+    range: 1
+right:
+  word_uuid: 78a73794-c9d4-491f-955c-14ae22cda17c
+  text: 輕
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4648098f-3651-42a3-8863-320d051b8c2b
+    line_id: KR3j0009_tls_001-16a.13
+    textline: 論其輕重
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

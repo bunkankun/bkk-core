@@ -1,0 +1,33 @@
+uuid: ce677f24-c31c-4fa2-bd1b-fc204fc79e60
+type: word-relation
+group_uuid: 91f457ee-9732-4985-b560-ed0a2598749a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 40d7dfd0-2711-4535-a34d-8397c66dd45c
+  text: 俊
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 74c1f3ac-8e6e-4f6c-a8a0-4d84df607038
+    textline: 命太尉贊傑俊
+    offset: 7
+    range: 1
+right:
+  word_uuid: b5abe4fb-ab4a-476c-b6dc-06c548e62109
+  text: 傑
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 74c1f3ac-8e6e-4f6c-a8a0-4d84df607038
+    textline: 命太尉贊傑俊
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

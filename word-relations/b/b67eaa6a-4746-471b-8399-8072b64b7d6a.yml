@@ -1,0 +1,30 @@
+uuid: b67eaa6a-4746-471b-8399-8072b64b7d6a
+type: word-relation
+group_uuid: 247427e0-0295-4261-80aa-0acf5427d237
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 老子
+    line_uuid: 2d660bde-78c0-45b1-8806-d767fdfdcf1e
+    line_id: KR5c0057_tls_054-1a.16
+    textline: 故以身觀身
+    range: 1
+right:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 老子
+    line_uuid: 0db10670-5e92-4751-beea-7f0cc7f4226f
+    line_id: KR5c0057_tls_054-1a.17
+    textline: 以家觀家
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: f272ed22-761f-4deb-8591-91e7df0ecc5f
+type: word-relation
+group_uuid: 0f1cc09d-b503-5e16-a097-a045767ab6a6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: fdc26e9d-6eb0-4bf7-b753-b8b61221bc70
+  text: 敗
+  concept: DEFEAT
+  concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+right:
+  word_uuid: 1bd7a072-fcdd-460c-9902-d3ca769308dd
+  text: 克剋
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

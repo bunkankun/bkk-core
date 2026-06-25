@@ -1,0 +1,35 @@
+uuid: a514af69-b114-490c-9fa2-de6526ae1841
+type: word-relation
+group_uuid: a514af69-b114-490c-9fa2-de6526ae1841
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 423f4156-b395-443e-ad21-3c1360685448
+  text: 合
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論衡
+    line_uuid: e5aa5a68-97f1-4600-ba6b-eda072bd1748
+    line_id: KR3j0080_tls_001-4a.25
+    textline: 合中有離
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8fd51ac5-8157-48d6-bc36-e7137bd2f502
+  text: 離
+  concept: CONFLICT
+  concept_uuid: 1006db8e-cb61-453f-beb7-d37f4c343e12
+  attestation:
+    text_title: 論衡
+    line_uuid: e5aa5a68-97f1-4600-ba6b-eda072bd1748
+    line_id: KR3j0080_tls_001-4a.25
+    textline: 合中有離
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

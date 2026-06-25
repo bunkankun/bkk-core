@@ -1,0 +1,32 @@
+uuid: 7a4c1cdc-b53e-40a1-ba06-7fa1d00f274d
+type: word-relation
+group_uuid: 7a4c1cdc-b53e-40a1-ba06-7fa1d00f274d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3abc63b7-cc2d-48f1-bcc8-f733ca4e6889
+    line_id: KR3j0009_tls_003-26a.22
+    textline: 豪士時之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 06acb402-32be-4d2d-be12-883070699abe
+  text: 豪
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3abc63b7-cc2d-48f1-bcc8-f733ca4e6889
+    line_id: KR3j0009_tls_003-26a.22
+    textline: 豪士時之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,37 @@
+uuid: 9eaafd61-6bcf-4942-8e0f-0e6fcbe82bf4
+type: word-relation
+group_uuid: 28229724-da8b-46f0-9ae8-efb6210f0f8e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3a2e1a47-0c60-48f6-ab48-3f383e962c33
+    line_id: KR3c0005_tls_012-12a.6
+    textline: 論其所愛
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1162404a-8c14-4645-8cea-803f1a31e2e8
+  text: 憎
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 49d17d75-5cfa-4aa6-96db-583321266e9d
+    line_id: KR3c0005_tls_012-12a.8
+    textline: 論其所憎
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '293'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

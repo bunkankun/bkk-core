@@ -1,0 +1,21 @@
+uuid: df4c0f98-89ac-49de-ace6-0487994b7bd0
+type: word-relation
+group_uuid: 4f7539ad-6339-5f84-a8c8-2b8c28711994
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4be0e75e-b53f-424a-b101-e18522b0924e
+  text: 恨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+right:
+  word_uuid: 81b51043-ec8c-401e-b351-060ff4fdfa50
+  text: 欣歆
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

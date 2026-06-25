@@ -1,0 +1,32 @@
+uuid: 857780b9-5d3b-4ac4-8a86-d08c15609f88
+type: word-relation
+group_uuid: 857780b9-5d3b-4ac4-8a86-d08c15609f88
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e0be4421-8e26-42a9-bc7e-ed2e20ef180f
+  text: 歸
+  concept: RALLY
+  concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 24d8cf62-d26d-4444-b151-655f44287e32
+    line_id: KR3c0005_tls_007-3a.5
+    textline: 歸其臣而去其君矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: e9c5b8f3-eed8-4696-8bab-593f0b0d43c7
+  text: 去
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 韓非子
+    line_uuid: 24d8cf62-d26d-4444-b151-655f44287e32
+    line_id: KR3c0005_tls_007-3a.5
+    textline: 歸其臣而去其君矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

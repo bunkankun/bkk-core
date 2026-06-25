@@ -1,0 +1,32 @@
+uuid: 5f957d84-323f-4d6a-a712-80b0dc60e6a7
+type: word-relation
+group_uuid: 5f957d84-323f-4d6a-a712-80b0dc60e6a7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67fc175e-23e9-4e43-b9e6-136252d836a1
+  text: 法身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 65a71f1e-db60-4e98-a43a-aa4403d5e5de
+    line_id: KR6q0002_Yan_003-1126a.13
+    textline: 豈非法身乎
+    offset: 3
+    range: 2
+right:
+  word_uuid: 60ec40d0-a1bc-458c-bee4-421ff9f00f67
+  text: 法界
+  concept: REALM
+  concept_uuid: 3976062a-a968-4062-826a-af9934ecf699
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 2cf97b0d-3001-46fa-aa2b-aa0b580694da
+    line_id: KR6q0002_Yan_003-1126a.12
+    textline: 翠竹既不出於法界
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml

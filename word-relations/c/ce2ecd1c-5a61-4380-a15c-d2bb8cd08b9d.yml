@@ -1,0 +1,30 @@
+uuid: ce2ecd1c-5a61-4380-a15c-d2bb8cd08b9d
+type: word-relation
+group_uuid: ce2ecd1c-5a61-4380-a15c-d2bb8cd08b9d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 60dcd706-fa20-4c5c-afbd-2e2d502d200c
+  text: 畜
+  concept: DOMESTIC ANIMAL
+  concept_uuid: e559d865-0292-48f3-831d-5f689b4e6cf3
+  attestation:
+    text_title: 管子
+    line_uuid: e118164f-415d-4b07-bb36-b13fa5f60d4b
+    textline: 養桑麻育六畜也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 5ff172d0-d9cc-4643-85dd-cdc0cefa0625
+  text: 六
+  concept: SIX
+  concept_uuid: a4a9ab3f-4ae7-4675-98de-77e98ee9afa2
+  attestation:
+    text_title: 管子
+    line_uuid: e118164f-415d-4b07-bb36-b13fa5f60d4b
+    textline: 養桑麻育六畜也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

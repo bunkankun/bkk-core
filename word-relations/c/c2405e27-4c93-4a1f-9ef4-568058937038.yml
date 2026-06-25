@@ -1,0 +1,32 @@
+uuid: c2405e27-4c93-4a1f-9ef4-568058937038
+type: word-relation
+group_uuid: c2405e27-4c93-4a1f-9ef4-568058937038
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 2ebf9240-6bcf-497d-9c51-4b919540d008
+  text: 誘
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a9087b1-9b02-4275-b076-70f75624adf3
+    line_id: KR3c0005_tls_009-18a.10
+    textline: 而用其威求誘其君
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a9087b1-9b02-4275-b076-70f75624adf3
+    line_id: KR3c0005_tls_009-18a.10
+    textline: 而用其威求誘其君
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

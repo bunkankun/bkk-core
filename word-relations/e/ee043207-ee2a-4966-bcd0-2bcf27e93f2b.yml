@@ -1,0 +1,32 @@
+uuid: ee043207-ee2a-4966-bcd0-2bcf27e93f2b
+type: word-relation
+group_uuid: ee043207-ee2a-4966-bcd0-2bcf27e93f2b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 55614ef6-1408-47e5-b609-8469ede00218
+  text: 滅
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: f59ce9dc-0de4-49e7-9d2b-0c45473d6d91
+    line_id: KR3c0005_tls_019-15a.9
+    textline: 以滅其社稷者也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 27a8f4b4-3852-4322-b902-52c0f1497fcb
+  text: 社稷
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 韓非子
+    line_uuid: f59ce9dc-0de4-49e7-9d2b-0c45473d6d91
+    line_id: KR3c0005_tls_019-15a.9
+    textline: 以滅其社稷者也
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

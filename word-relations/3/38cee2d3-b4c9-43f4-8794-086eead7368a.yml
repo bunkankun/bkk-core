@@ -1,0 +1,32 @@
+uuid: 38cee2d3-b4c9-43f4-8794-086eead7368a
+type: word-relation
+group_uuid: 38cee2d3-b4c9-43f4-8794-086eead7368a
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 54b11cd0-cd90-4428-b578-938f5d3682df
+  text: 稟
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 論衡
+    line_uuid: 87bd8329-5abd-4080-8ec5-e3ad1806432c
+    line_id: KR3j0080_tls_006-3a.53
+    textline: 人稟氣而生
+    offset: 2
+    range: 1
+right:
+  word_uuid: f5bbea8f-008e-4d18-94d5-da98112f048a
+  text: 含
+  concept: CONTAIN
+  concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+  attestation:
+    text_title: 論衡
+    line_uuid: 12739523-7e08-4f86-86be-218d9f5c9186
+    line_id: KR3j0080_tls_006-3a.54
+    textline: 含氣而長
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4ba578c8-9851-40d3-a3a0-f46e95e9c9de
+type: word-relation
+group_uuid: 4ba578c8-9851-40d3-a3a0-f46e95e9c9de
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論衡
+    line_uuid: d024644f-64d0-4217-a031-1f13ceacafbb
+    line_id: KR3j0080_tls_006-4a.10
+    textline: 故不假操行以求福而吉自至
+    offset: 7
+    range: 1
+right:
+  word_uuid: e78b174d-dcca-46aa-a913-7a938f1ba274
+  text: 福
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 論衡
+    line_uuid: d024644f-64d0-4217-a031-1f13ceacafbb
+    line_id: KR3j0080_tls_006-4a.10
+    textline: 故不假操行以求福而吉自至
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

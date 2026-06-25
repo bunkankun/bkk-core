@@ -1,0 +1,21 @@
+uuid: a4872f87-0787-45f6-91d1-b8669fc1e7b2
+type: word-relation
+group_uuid: d18cfb9c-cf75-5b81-a39f-626c065b2601
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+right:
+  word_uuid: 6ec70f7e-2668-4a4a-b78d-c142f8ab7d4b
+  text: 過
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

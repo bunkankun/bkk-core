@@ -1,0 +1,32 @@
+uuid: ea8b1d60-db9d-467b-a0e5-20315b64d62c
+type: word-relation
+group_uuid: 1de7da6e-e1e4-4ba8-ad4f-04a20e72577f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 韓非子
+    line_uuid: a9cc54c6-78bf-4387-99cb-d743c5c05f74
+    line_id: KR3c0005_tls_005-5a.3
+    textline: 去好去惡
+    offset: 2
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: a9cc54c6-78bf-4387-99cb-d743c5c05f74
+    line_id: KR3c0005_tls_005-5a.3
+    textline: 去好去惡
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: 7aeb5608-7992-4e3e-9400-2c4dd61b878d
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 2252384f-61ad-4e5a-a5cb-095303aa941d
+    textline: 身惡（欲）勞
+    offset: 1
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: df24bdad-25d0-4a73-ae51-3620684c5c54
+    line_id: KR1c0066_tls_002-7a.6
+    textline: 心欲安
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

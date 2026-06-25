@@ -1,0 +1,21 @@
+uuid: a826949b-13ed-4191-8313-fbf7b4cf6a70
+type: word-relation
+group_uuid: 84051938-3cea-50bc-b266-3e890d1a9408
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b5da254-0a51-4e64-9a24-b429ca6c3087
+  text: 德得
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+right:
+  word_uuid: 967c2661-b8a7-447c-96be-92c22075fe23
+  text: 虐
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 71d6f8a1-0c3e-4927-847a-e50ee3e0a4fa
+type: word-relation
+group_uuid: 71d6f8a1-0c3e-4927-847a-e50ee3e0a4fa
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e9c33f99-bdd4-4019-abc7-8b74f47a2ea3
+  text: 戚
+  concept: RELATIVES
+  concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0850173d-c8dc-465e-92e3-d3028a347b45
+    line_id: KR3j0009_tls_003-27a.26
+    textline: 何謂六戚
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5ff172d0-d9cc-4643-85dd-cdc0cefa0625
+  text: 六
+  concept: SIX
+  concept_uuid: a4a9ab3f-4ae7-4675-98de-77e98ee9afa2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0850173d-c8dc-465e-92e3-d3028a347b45
+    line_id: KR3j0009_tls_003-27a.26
+    textline: 何謂六戚
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 89f7048b-1482-47b9-82cc-01615f5837b4
+type: word-relation
+group_uuid: 89f7048b-1482-47b9-82cc-01615f5837b4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fb9674c1-09df-4580-bbc6-6813661402fe
+  text: 近
+  concept: NEIGHBOUR
+  concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9fb95651-ca00-4232-9954-03cb73c1070d
+    line_id: KR3c0005_tls_015-8a.3
+    textline: 而簡近鄰
+    offset: 3
+    range: 1
+right:
+  word_uuid: 11c38c6a-361f-4e4f-9c0f-bafd091af9a6
+  text: 鄰
+  concept: NEIGHBOUR
+  concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9fb95651-ca00-4232-9954-03cb73c1070d
+    line_id: KR3c0005_tls_015-8a.3
+    textline: 而簡近鄰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

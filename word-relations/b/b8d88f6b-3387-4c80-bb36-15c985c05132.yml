@@ -1,0 +1,32 @@
+uuid: b8d88f6b-3387-4c80-bb36-15c985c05132
+type: word-relation
+group_uuid: b8d88f6b-3387-4c80-bb36-15c985c05132
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a718f18-a960-47f8-b6c0-22736b0f31c2
+  text: 刀
+  concept: KNIFE
+  concept_uuid: 641c1d3c-1f7f-40a4-aba6-41fb8c9895c3
+  attestation:
+    text_title: 法華經
+    line_uuid: 23d39b84-3302-4f59-9cbd-e724b4c1907f
+    line_id: KR6d0001_T_005-0038a.73
+    textline: 加刀杖等
+    offset: 2
+    range: 1
+right:
+  word_uuid: a681c033-9ff8-401a-9e69-d337592ec170
+  text: 杖
+  concept: STICK
+  concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+  attestation:
+    text_title: 法華經
+    line_uuid: 23d39b84-3302-4f59-9cbd-e724b4c1907f
+    line_id: KR6d0001_T_005-0038a.73
+    textline: 加刀杖等
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

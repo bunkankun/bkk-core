@@ -1,0 +1,32 @@
+uuid: e65021c9-5d70-4de1-9021-c95d703de157
+type: word-relation
+group_uuid: c0ab36b5-3543-5942-a198-5a4df007a4b9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0f323fb4-0759-432a-a6ea-40ac7b8bf706
+  text: 樂
+  concept: ENJOY
+  concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-54a.13
+    textline: 皆化而好辯樂學
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-54a.13
+    textline: 皆化而好辯樂學
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-27T01:47:08.449+09:00'

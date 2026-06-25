@@ -1,0 +1,32 @@
+uuid: 7dc9a8f2-dd81-4d5a-8af6-4ef8fba4caab
+type: word-relation
+group_uuid: 7dc9a8f2-dd81-4d5a-8af6-4ef8fba4caab
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 34bff13b-7165-4b4c-a25f-27a666ee26ec
+    line_id: KR1e0008_tls_001-43a.4
+    textline: 伐國不言圍邑
+    offset: 1
+    range: 1
+right:
+  word_uuid: c9cf9acf-15e7-4a0e-9147-76f5953fa943
+  text: 圍
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 34bff13b-7165-4b4c-a25f-27a666ee26ec
+    line_id: KR1e0008_tls_001-43a.4
+    textline: 伐國不言圍邑
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

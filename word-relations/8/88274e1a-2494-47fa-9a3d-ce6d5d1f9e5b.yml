@@ -1,0 +1,32 @@
+uuid: 88274e1a-2494-47fa-9a3d-ce6d5d1f9e5b
+type: word-relation
+group_uuid: 88274e1a-2494-47fa-9a3d-ce6d5d1f9e5b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8ac2cb59-2d72-4a7e-91c7-bd1cb0d8bb20
+  text: 鼻
+  concept: NOSE
+  concept_uuid: 7f924e8a-0d73-43a9-9fb5-8c2301c2dc67
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e80316a9-54fc-421d-b117-f42b29a16412
+    line_id: KR3j0009_tls_005-18a.15
+    textline: 耳目鼻口也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2a7e49be-ef53-4efd-8c7c-d7879b308073
+  text: 口
+  concept: MOUTH
+  concept_uuid: e522b107-d02e-4272-80b2-311471410c3f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e80316a9-54fc-421d-b117-f42b29a16412
+    line_id: KR3j0009_tls_005-18a.15
+    textline: 耳目鼻口也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

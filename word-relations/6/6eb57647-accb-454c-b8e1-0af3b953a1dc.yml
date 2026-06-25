@@ -1,0 +1,32 @@
+uuid: 6eb57647-accb-454c-b8e1-0af3b953a1dc
+type: word-relation
+group_uuid: 9b920913-7ff2-4a6f-aaae-79d95ba2ecac
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論衡
+    line_uuid: f3b55a96-4b97-4182-bd1a-9834e2f62c58
+    line_id: KR3j0080_tls_003-10a.31
+    textline: 未必不求而得之者也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 論衡
+    line_uuid: f3b55a96-4b97-4182-bd1a-9834e2f62c58
+    line_id: KR3j0080_tls_003-10a.31
+    textline: 未必不求而得之者也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

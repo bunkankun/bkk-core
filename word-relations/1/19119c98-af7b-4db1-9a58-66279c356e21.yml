@@ -1,0 +1,30 @@
+uuid: 19119c98-af7b-4db1-9a58-66279c356e21
+type: word-relation
+group_uuid: 19119c98-af7b-4db1-9a58-66279c356e21
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 06ce3ac6-ff2f-4d41-baef-3eaf5f90f173
+  text: 燒
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 1d612f31-b669-42f5-b294-ac908c133ae1
+    textline: 中頭則須髮燒燋
+    offset: 6
+    range: 1
+right:
+  word_uuid: c25ba5dd-b1bb-41b9-be3e-977112d2de34
+  text: 燋
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 1d612f31-b669-42f5-b294-ac908c133ae1
+    textline: 中頭則須髮燒燋
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b0fe85fb-3ff3-436a-b116-84455487e54b
+type: word-relation
+group_uuid: c4a53357-2d64-41fb-968c-9256e3e5af6d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 291bf2da-1c20-4e52-86ec-efb7c62a5adc
+  text: 寇
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 孟子
+    line_uuid: f71bedfd-ab96-4180-ac71-323bbb3d1bab
+    line_id: KR1h0001_tls_008-5a.22
+    textline: 此之謂寇讎
+    offset: 4
+    range: 1
+right:
+  word_uuid: c022373f-9043-4faa-bd84-5eb6efa686a2
+  text: 讎
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 孟子
+    line_uuid: f71bedfd-ab96-4180-ac71-323bbb3d1bab
+    line_id: KR1h0001_tls_008-5a.22
+    textline: 此之謂寇讎
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

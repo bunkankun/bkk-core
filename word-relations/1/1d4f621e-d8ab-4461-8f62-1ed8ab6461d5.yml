@@ -1,0 +1,32 @@
+uuid: 1d4f621e-d8ab-4461-8f62-1ed8ab6461d5
+type: word-relation
+group_uuid: 93c61dca-61b4-5861-a420-74067b651c8e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 90df272d-fdca-4fac-9f27-2dfdca4faccb
+  text: 法官
+  concept: LAWYER
+  concept_uuid: 64f9e420-37b7-46d9-9c28-727a1f47d008
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-389a.6
+    textline: 諸侯郡縣皆各為置一法官及吏
+    offset: 10
+    range: 2
+right:
+  word_uuid: 0450c1fa-897a-49cb-8187-1ade1bf674f2
+  text: 吏
+  concept: MAGISTRATE
+  concept_uuid: cae819ff-dfb1-46cb-8f1d-73cbba12e567
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-389a.6
+    textline: 諸侯郡縣皆各為置一法官及吏
+    offset: 13
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-17T22:14:25.414+09:00'

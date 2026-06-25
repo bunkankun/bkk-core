@@ -1,0 +1,30 @@
+uuid: 9b2cf1f7-a70b-46e3-97d3-7a749970b10e
+type: word-relation
+group_uuid: b2937687-81a4-4342-b2bd-b743fd7e2f24
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 46bf3754-0fcd-4ae9-b25c-be86ce5986c5
+  text: 晝
+  concept: DAY
+  concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+  attestation:
+    text_title: 法言
+    line_uuid: 519598d2-3539-4d49-858d-7281a1b118a3
+    textline: 或曰為其不舍晝夜與
+    offset: 8
+    range: 1
+right:
+  word_uuid: 8b48b4fd-c16f-4229-b145-3c0078b6e9f9
+  text: 夜
+  concept: NIGHT
+  concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+  attestation:
+    text_title: 法言
+    line_uuid: 519598d2-3539-4d49-858d-7281a1b118a3
+    textline: 或曰為其不舍晝夜與
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

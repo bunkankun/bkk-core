@@ -1,0 +1,32 @@
+uuid: 61231afe-41a0-4091-affa-17964be30d4f
+type: word-relation
+group_uuid: 61231afe-41a0-4091-affa-17964be30d4f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15b0fd5e-abf6-4cd7-81c4-4c564f2f06d3
+    line_id: KR3c0005_tls_009-12a.3
+    textline: 求諸侯之辯士
+    offset: 6
+    range: 1
+right:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15b0fd5e-abf6-4cd7-81c4-4c564f2f06d3
+    line_id: KR3c0005_tls_009-12a.3
+    textline: 求諸侯之辯士
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

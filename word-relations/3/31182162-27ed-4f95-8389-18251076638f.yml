@@ -1,0 +1,32 @@
+uuid: 31182162-27ed-4f95-8389-18251076638f
+type: word-relation
+group_uuid: 31182162-27ed-4f95-8389-18251076638f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 64356ae0-17eb-4653-8455-bd432accd011
+  text: 帝
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3625a07c-4653-4e94-a322-c8007864e0f1
+    line_id: KR3j0009_tls_003-20a.41
+    textline: 五帝先道而後德
+    offset: 2
+    range: 1
+right:
+  word_uuid: 65b7ae6a-5674-4fd3-8b11-2367a752ed5a
+  text: 五
+  concept: FIVE
+  concept_uuid: f1f62799-186d-4a41-b27a-a70d99335319
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3625a07c-4653-4e94-a322-c8007864e0f1
+    line_id: KR3j0009_tls_003-20a.41
+    textline: 五帝先道而後德
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

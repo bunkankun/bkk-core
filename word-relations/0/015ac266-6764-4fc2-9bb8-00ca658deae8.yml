@@ -1,0 +1,32 @@
+uuid: 015ac266-6764-4fc2-9bb8-00ca658deae8
+type: word-relation
+group_uuid: ce0999bb-f149-4f14-a053-c7d73616402a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 韓非子
+    line_uuid: bb262ee8-550f-42df-a03c-a99033c122e2
+    line_id: KR3c0005_tls_047-34a.3
+    textline: 不責智者之所難
+    offset: 3
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: e76f31b7-dac5-452e-b3f3-8a992d7e39f7
+    line_id: KR3c0005_tls_047-34a.2
+    textline: 明主慮愚者之所易
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: db12e8c1-ee72-4ae3-968e-d9a81aefe7a7
+type: word-relation
+group_uuid: db12e8c1-ee72-4ae3-968e-d9a81aefe7a7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c384494b-c309-4ff1-a254-b06284e485a5
+  text: 敬
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 論語
+    line_uuid: 3dc14ef2-5deb-48f2-baad-b7c8034e5353
+    line_id: KR1h0004_tls_006-3a.3
+    textline: 「居敬而行簡
+    offset: 3
+    range: 1
+right:
+  word_uuid: c5f5487b-75ca-487e-ac6d-eb5e28128d4f
+  text: 簡
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 論語
+    line_uuid: 3dc14ef2-5deb-48f2-baad-b7c8034e5353
+    line_id: KR1h0004_tls_006-3a.3
+    textline: 「居敬而行簡
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

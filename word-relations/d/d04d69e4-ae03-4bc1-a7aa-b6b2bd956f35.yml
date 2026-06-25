@@ -1,0 +1,21 @@
+uuid: d04d69e4-ae03-4bc1-a7aa-b6b2bd956f35
+type: word-relation
+group_uuid: 7c787f2e-1b6d-54a9-84ae-088056814f64
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 477c007e-90dd-4d75-babf-aae31177124a
+  text: 禁
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+right:
+  word_uuid: b9994ced-5d09-4fa3-bde7-9fe7befc7109
+  text: 止
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

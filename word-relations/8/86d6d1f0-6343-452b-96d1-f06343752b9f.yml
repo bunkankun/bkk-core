@@ -1,0 +1,32 @@
+uuid: 86d6d1f0-6343-452b-96d1-f06343752b9f
+type: word-relation
+group_uuid: 057a7d1a-9028-5bc9-89b5-2d1fc02aedd5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_012-27a.3
+    textline: 君子成人之美
+    offset: 2
+    range: 2
+right:
+  word_uuid: 8f5c9b8d-3099-4e6c-be13-c30617fefcf7
+  text: 小人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_012-28a.1
+    textline: 小人反是
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-08-08T16:31:00.5+09:00'

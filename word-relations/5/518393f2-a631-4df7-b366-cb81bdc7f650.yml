@@ -1,0 +1,21 @@
+uuid: 518393f2-a631-4df7-b366-cb81bdc7f650
+type: word-relation
+group_uuid: b1e23f28-de5e-5f26-b26a-7f7919fcc480
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f68052e5-765b-4ac5-8f35-5e75f4b9810b
+  text: 倦
+  concept: TIRED
+  concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+right:
+  word_uuid: 18ee80e2-e61d-4643-94ca-d32beaa18d40
+  text: 衰
+  concept: DECLINE
+  concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

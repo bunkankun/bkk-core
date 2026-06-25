@@ -1,0 +1,32 @@
+uuid: f4cb689b-ad51-49e5-8b68-9bad5139e5cf
+type: word-relation
+group_uuid: 5062c7f8-cd62-58f1-96e0-e7cca2235d1d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3da2caa4-097d-4ff2-9f21-d32e5dc5be82
+  text: 網
+  concept: FISHING
+  concept_uuid: 4022cf3a-b0ad-4d49-8de9-02fec223fce5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.14
+    textline: 其成猶網羅
+    offset: 4
+    range: 1
+right:
+  word_uuid: 39d6da6c-e996-49c0-8ee4-111e27763aa6
+  text: 羅
+  concept: NET
+  concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.14
+    textline: 其成猶網羅
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:09:55.366+09:00'

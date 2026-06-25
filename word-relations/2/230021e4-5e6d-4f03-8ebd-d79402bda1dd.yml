@@ -1,0 +1,32 @@
+uuid: 230021e4-5e6d-4f03-8ebd-d79402bda1dd
+type: word-relation
+group_uuid: 32d97f92-68ba-4569-bfda-decb3db2b9f1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 淮南子
+    line_uuid: 8a9f903b-7367-4bca-89af-d6f207078be2
+    line_id: KR3j0010_tls_001-1a.31
+    textline: 獸以之走
+    offset: 1
+    range: 1
+right:
+  word_uuid: 23e18eda-9af2-45d4-819c-689a669e5547
+  text: 走
+  concept: RUN
+  concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+  attestation:
+    text_title: 淮南子
+    line_uuid: 8a9f903b-7367-4bca-89af-d6f207078be2
+    line_id: KR3j0010_tls_001-1a.31
+    textline: 獸以之走
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

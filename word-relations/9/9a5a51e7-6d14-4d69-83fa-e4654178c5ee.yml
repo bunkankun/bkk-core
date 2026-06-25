@@ -1,0 +1,32 @@
+uuid: 9a5a51e7-6d14-4d69-83fa-e4654178c5ee
+type: word-relation
+group_uuid: 9a5a51e7-6d14-4d69-83fa-e4654178c5ee
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 45c7f396-444e-41e9-8e86-cdc0e59e8a16
+  text: 殊
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 192971d6-b934-4a13-9cf9-5c401fb8bd72
+    line_id: KR3j0009_tls_003-27a.3
+    textline: 人同類而智殊
+    offset: 6
+    range: 1
+right:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2e1c51e2-2480-41ea-95f2-8a3c8aa8f3e2
+    line_id: KR3j0009_tls_003-27a.4
+    textline: 賢不肖異
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

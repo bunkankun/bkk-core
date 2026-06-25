@@ -1,0 +1,31 @@
+uuid: 197146f6-2f24-47fd-8877-451c1c08571b
+type: word-relation
+group_uuid: 197146f6-2f24-47fd-8877-451c1c08571b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 韓非子
+    line_uuid: 727609ef-05f2-4438-894f-01ee636dcd03
+    textline: 而愚污之吏處官矣
+    offset: 7
+    range: 1
+right:
+  word_uuid: 2bfb0ef2-9e3b-4064-9a86-88488d8e104f
+  text: 廷
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 韓非子
+    line_uuid: e4b9d5a9-1603-4427-b9af-4ef653b327ed
+    line_id: KR3c0005_tls_011-34a.5
+    textline: 則無能之士在廷
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

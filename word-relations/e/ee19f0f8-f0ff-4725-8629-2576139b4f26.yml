@@ -1,0 +1,18 @@
+uuid: ee19f0f8-f0ff-4725-8629-2576139b4f26
+type: word-relation
+group_uuid: 87d1ff98-3e5b-5fad-9626-1cce7184a318
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a7b65f39-f613-4f47-aa61-d6da73e77c4b
+  text: 娛虞
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+source:
+  source_file: word-relations.xml

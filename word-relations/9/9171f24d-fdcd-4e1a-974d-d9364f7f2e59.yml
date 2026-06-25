@@ -1,0 +1,21 @@
+uuid: 9171f24d-fdcd-4e1a-974d-d9364f7f2e59
+type: word-relation
+group_uuid: 890289cd-5e10-50c7-8603-c19136219de0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bd21b8e7-c681-4cb1-9c28-12575274f661
+  text: 長
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+right:
+  word_uuid: 597c2944-d8bc-4a51-9879-316192cfae21
+  text: 劣
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

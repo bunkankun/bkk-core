@@ -1,0 +1,32 @@
+uuid: 45d5a526-0ce2-4c00-8b96-49702e80b54f
+type: word-relation
+group_uuid: 45d5a526-0ce2-4c00-8b96-49702e80b54f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 15693b62-1e1a-4f1b-800a-a1b66f6612c5
+  text: 親
+  concept: PERSONALLY
+  concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3b8bf145-a081-40e9-b932-df95ae6bdbd1
+    line_id: KR3c0005_tls_032-13a.4
+    textline: “不躬不親
+    offset: 5
+    range: 1
+right:
+  word_uuid: e11365eb-8589-46a5-9991-db29193360b4
+  text: 躬
+  concept: PERSONALLY
+  concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3b8bf145-a081-40e9-b932-df95ae6bdbd1
+    line_id: KR3c0005_tls_032-13a.4
+    textline: “不躬不親
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9381eb94-a6c1-4a09-81eb-94a6c14a09c2
+type: word-relation
+group_uuid: 52e4ac33-2923-500b-8fb1-c08ff29112ba
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_003-5a.8
+    textline: 故其人怨以詐
+    offset: 4
+    range: 1
+right:
+  word_uuid: 50dddd6e-df69-40b3-88e1-3dd3f6254918
+  text: 詐
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_003-5a.8
+    textline: 故其人怨以詐
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-02-24T02:12:49.334+09:00'

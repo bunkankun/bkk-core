@@ -1,0 +1,32 @@
+uuid: 7d58d7be-33e0-4d65-b086-7fc0fe2c6724
+type: word-relation
+group_uuid: ce879955-90aa-4cad-aaf4-ff10ac94e24e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d57fd401-f4d6-407a-9fdf-f36dc5eb503e
+  text: 背
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2a9b9045-811a-4f40-987b-791481b2b732
+    line_id: KR3j0009_tls_004-19a.9
+    textline: 背叛之人
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7a276356-fd07-4dd4-a266-9822cc257f4b
+  text: 叛
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2a9b9045-811a-4f40-987b-791481b2b732
+    line_id: KR3j0009_tls_004-19a.9
+    textline: 背叛之人
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

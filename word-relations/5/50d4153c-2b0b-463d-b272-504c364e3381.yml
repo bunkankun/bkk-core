@@ -1,0 +1,32 @@
+uuid: 50d4153c-2b0b-463d-b272-504c364e3381
+type: word-relation
+group_uuid: 50d4153c-2b0b-463d-b272-504c364e3381
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 17adfe52-bf70-42e3-bbb1-f18843da3f7e
+  text: 生
+  concept: BIRTH
+  concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+  attestation:
+    text_title: 老子
+    line_uuid: 1641b79e-0727-49be-a9eb-289e2e463037
+    line_id: KR5c0057_tls_002-1a.16
+    textline: 生而不有
+    offset: 1
+    range: 1
+right:
+  word_uuid: d4f4566d-64d3-49d6-a104-e3c0a0321ffb
+  text: 有
+  concept: POSSESS
+  concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+  attestation:
+    text_title: 老子
+    line_uuid: 1641b79e-0727-49be-a9eb-289e2e463037
+    line_id: KR5c0057_tls_002-1a.16
+    textline: 生而不有
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

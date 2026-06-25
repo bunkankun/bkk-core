@@ -1,0 +1,21 @@
+uuid: bd4bf116-21c2-4e4f-a3fa-4a4cbca714a5
+type: word-relation
+group_uuid: b30cccf0-fc3a-5d4f-8fd8-1c8feea78e4d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 10aac6ec-075e-45bb-98bb-867d70772c3f
+  text: 服
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+right:
+  word_uuid: 62050f12-ca48-45f7-a349-24d1f6403d08
+  text: 肯
+  concept: AGREE TO
+  concept_uuid: f002b003-9bdd-4311-8438-dfc2e5400855
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

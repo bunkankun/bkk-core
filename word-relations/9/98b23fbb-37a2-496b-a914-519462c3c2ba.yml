@@ -1,0 +1,32 @@
+uuid: 98b23fbb-37a2-496b-a914-519462c3c2ba
+type: word-relation
+group_uuid: 42ed1024-96f0-4d98-a89e-bae11f9e51b6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ddb69d29-c8c4-48dc-95ee-8d206eded660
+  text: 眾生
+  concept: CREATURE
+  concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+  attestation:
+    text_title: 祖堂集
+    line_uuid: bd7e593f-c82e-4109-90d9-e73bb04f5225
+    line_id: KR6q0002_Yan_003-1125a.39
+    textline: 眾生與佛雖同一性
+    offset: 1
+    range: 2
+right:
+  word_uuid: 6cf70cea-1530-40a9-a211-ce0e3adbe9a3
+  text: 佛
+  concept: BUDDHAS
+  concept_uuid: d99d127f-9d36-4e32-8d3a-46c19bd6151b
+  attestation:
+    text_title: 祖堂集
+    line_uuid: bd7e593f-c82e-4109-90d9-e73bb04f5225
+    line_id: KR6q0002_Yan_003-1125a.39
+    textline: 眾生與佛雖同一性
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

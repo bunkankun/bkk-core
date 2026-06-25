@@ -1,0 +1,32 @@
+uuid: 50970ad2-6b35-4351-a027-a3b9e4f2ca7f
+type: word-relation
+group_uuid: 50970ad2-6b35-4351-a027-a3b9e4f2ca7f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: acdb16d1-c89b-442b-9c0e-1a3653209b86
+  text: 父
+  concept: FATHER
+  concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+  attestation:
+    text_title: 管子
+    line_uuid: 89f318c2-18a8-4283-bfd9-884cbfd9575f
+    line_id: KR3c0001_tls_024-177a.2
+    textline: 父兄相睹樹下
+    offset: 1
+    range: 1
+right:
+  word_uuid: a19338ff-7f78-42a7-a4c0-28ab84a0536a
+  text: 兄
+  concept: BROTHER
+  concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+  attestation:
+    text_title: 管子
+    line_uuid: 89f318c2-18a8-4283-bfd9-884cbfd9575f
+    line_id: KR3c0001_tls_024-177a.2
+    textline: 父兄相睹樹下
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

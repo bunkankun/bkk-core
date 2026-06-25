@@ -1,0 +1,21 @@
+uuid: 1d8eeef4-e783-4c74-a628-e01e9b3b33a4
+type: word-relation
+group_uuid: 40116c6b-4104-59ee-9baa-688e2486f816
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+right:
+  word_uuid: 06c68c68-6405-4b6d-a726-61905134e7bb
+  text: 動
+  concept: DISPLACE
+  concept_uuid: f2ac46b3-e062-42cd-9ab9-9c57452c6eb3
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

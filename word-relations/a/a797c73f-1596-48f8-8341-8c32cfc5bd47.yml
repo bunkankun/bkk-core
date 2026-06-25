@@ -1,0 +1,32 @@
+uuid: a797c73f-1596-48f8-8341-8c32cfc5bd47
+type: word-relation
+group_uuid: 40ef8fd8-6f5c-466c-b2d3-c25ac69e0e2e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 管子
+    line_uuid: 866ad121-b982-4075-8ac6-8b124dca49c7
+    line_id: KR3c0001_tls_001-13a.3
+    textline: 則令不行矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 管子
+    line_uuid: 866ad121-b982-4075-8ac6-8b124dca49c7
+    line_id: KR3c0001_tls_001-13a.3
+    textline: 則令不行矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

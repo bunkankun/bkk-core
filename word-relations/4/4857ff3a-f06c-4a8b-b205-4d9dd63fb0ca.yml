@@ -1,0 +1,32 @@
+uuid: 4857ff3a-f06c-4a8b-b205-4d9dd63fb0ca
+type: word-relation
+group_uuid: 4857ff3a-f06c-4a8b-b205-4d9dd63fb0ca
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 16ab00cc-7db4-4f4f-bf8d-e9358b8e1496
+  text: 讙
+  concept: CLAMOUR
+  concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+  attestation:
+    text_title: 史記
+    line_uuid: bfa04a01-458e-4084-9ece-81db9ce93ac6
+    line_id: KR2a0001_tls_099-14a.38
+    textline: 無敢讙譁失禮者
+    offset: 3
+    range: 1
+right:
+  word_uuid: f8ab100f-9a49-4494-997f-ebd228d629b4
+  text: 譁
+  concept: CLAMOUR
+  concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+  attestation:
+    text_title: 史記
+    line_uuid: bfa04a01-458e-4084-9ece-81db9ce93ac6
+    line_id: KR2a0001_tls_099-14a.38
+    textline: 無敢讙譁失禮者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

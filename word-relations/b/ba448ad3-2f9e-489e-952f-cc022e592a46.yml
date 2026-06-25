@@ -1,0 +1,32 @@
+uuid: ba448ad3-2f9e-489e-952f-cc022e592a46
+type: word-relation
+group_uuid: a522c91d-9e7e-4820-b9fa-28c2cfe074d5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 淮南子
+    line_uuid: 45e3b0be-bcbb-4d55-8a72-821af998b590
+    line_id: KR3j0010_tls_011-33a.36
+    textline: 無以揜形
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 淮南子
+    line_uuid: 540c32d1-9cbc-48d1-8001-b8f25743490a
+    line_id: KR3j0010_tls_011-33a.38
+    textline: 各歸其身
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

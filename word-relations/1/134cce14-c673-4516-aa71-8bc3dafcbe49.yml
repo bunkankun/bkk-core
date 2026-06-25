@@ -1,0 +1,21 @@
+uuid: 134cce14-c673-4516-aa71-8bc3dafcbe49
+type: word-relation
+group_uuid: c6cd2b56-97b5-57d5-8c6f-a36f20b6b971
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c588093d-c54f-4345-aec5-3faf8eea0dfc
+  text: 從縱縱
+  concept: VERTICAL
+  concept_uuid: cf6bfb0d-e1aa-41f4-99a1-b17a35c10545
+right:
+  word_uuid: 461f17f8-dcad-4cc6-b3ac-7caf349fdca5
+  text: 橫衡
+  concept: HORIZONTAL
+  concept_uuid: 9db09585-7114-44e5-bd6a-600131180a9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

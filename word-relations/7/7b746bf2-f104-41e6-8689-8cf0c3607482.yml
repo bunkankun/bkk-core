@@ -1,0 +1,18 @@
+uuid: 7b746bf2-f104-41e6-8689-8cf0c3607482
+type: word-relation
+group_uuid: 1ef9cdf8-41e3-52c2-b435-69dccdaa457a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2516c0b0-2ee7-44f2-81e3-cda913710e12
+  text: 暗闇
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+right:
+  word_uuid: ecd92315-be05-4678-a688-9a4fe372ae7c
+  text: 昧
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+source:
+  source_file: word-relations.xml

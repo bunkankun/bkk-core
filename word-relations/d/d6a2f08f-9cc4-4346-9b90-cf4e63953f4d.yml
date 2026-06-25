@@ -1,0 +1,32 @@
+uuid: d6a2f08f-9cc4-4346-9b90-cf4e63953f4d
+type: word-relation
+group_uuid: d6a2f08f-9cc4-4346-9b90-cf4e63953f4d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 298face6-46bb-4f16-8a1f-0d0b2ff89a13
+  text: 殿
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 論衡
+    line_uuid: ab78f9e7-76f7-4433-875a-8215b8d91355
+    line_id: KR3j0080_tls_009-17a.5
+    textline: 生於濟陽宮後殿
+    offset: 7
+    range: 1
+right:
+  word_uuid: 3417c4ba-a87d-45a8-a1e0-202b63c34da7
+  text: 宮
+  concept: PALACE
+  concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+  attestation:
+    text_title: 論衡
+    line_uuid: ab78f9e7-76f7-4433-875a-8215b8d91355
+    line_id: KR3j0080_tls_009-17a.5
+    textline: 生於濟陽宮後殿
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

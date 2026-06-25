@@ -1,0 +1,32 @@
+uuid: 7dc28e56-fbe1-4bf9-ac8d-7c6d5d299371
+type: word-relation
+group_uuid: 7dc28e56-fbe1-4bf9-ac8d-7c6d5d299371
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 8149a785-9c7f-4c38-8420-3c77f7910943
+  text: 重
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 論語
+    line_uuid: b64c5a49-ccf5-4f6e-9970-10cf111fb7a0
+    line_id: KR1h0004_tls_001-8a.3
+    textline: 「君子不重則不威
+    offset: 5
+    range: 1
+right:
+  word_uuid: 7cdc1400-aee1-4929-b6c8-bb697d42afc6
+  text: 威
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 論語
+    line_uuid: b64c5a49-ccf5-4f6e-9970-10cf111fb7a0
+    line_id: KR1h0004_tls_001-8a.3
+    textline: 「君子不重則不威
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

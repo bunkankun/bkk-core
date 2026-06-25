@@ -1,0 +1,32 @@
+uuid: d16ef383-d72b-48d5-b34f-e6ee95720166
+type: word-relation
+group_uuid: d16ef383-d72b-48d5-b34f-e6ee95720166
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: cc87d9bb-5a13-486c-9801-508673512deb
+    line_id: KR3c0005_tls_020-79a.3
+    textline: 則上內不用刑罰
+    offset: 6
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: cc87d9bb-5a13-486c-9801-508673512deb
+    line_id: KR3c0005_tls_020-79a.3
+    textline: 則上內不用刑罰
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

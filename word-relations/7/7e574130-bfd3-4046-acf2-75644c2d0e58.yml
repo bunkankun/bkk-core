@@ -1,0 +1,32 @@
+uuid: 7e574130-bfd3-4046-acf2-75644c2d0e58
+type: word-relation
+group_uuid: 7e574130-bfd3-4046-acf2-75644c2d0e58
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 5ce32e8c-4987-4e87-87f7-03814febecdd
+  text: 君
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 韓非子
+    line_uuid: 524531b5-f35f-49b3-a530-23d30a86b7ab
+    line_id: KR3c0005_tls_007-7a.5
+    textline: 君自行之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 69b20f20-8b10-4e31-b515-be8ba9339638
+  text: 臣
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 韓非子
+    line_uuid: ed0c32a2-7660-4a60-a9a9-5476b3fd5f91
+    line_id: KR3c0005_tls_007-7a.8
+    textline: 臣請當之”
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

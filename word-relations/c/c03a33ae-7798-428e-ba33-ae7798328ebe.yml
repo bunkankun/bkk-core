@@ -1,0 +1,32 @@
+uuid: c03a33ae-7798-428e-ba33-ae7798328ebe
+type: word-relation
+group_uuid: 34aa97a4-4424-558d-891c-a00d021bd1ab
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 94bf8563-4876-4a0d-b9ff-898cf766ce05
+  text: 法令
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_045-27a.2
+    textline: 夫立法令者
+    offset: 3
+    range: 2
+right:
+  word_uuid: 208fe1c0-e377-4388-930c-ffb8e6fa9362
+  text: 私
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_045-27a.3
+    textline: 以廢私也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T02:09:14.476+09:00'

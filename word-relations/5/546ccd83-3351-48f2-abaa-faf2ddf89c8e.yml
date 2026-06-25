@@ -1,0 +1,21 @@
+uuid: 546ccd83-3351-48f2-abaa-faf2ddf89c8e
+type: word-relation
+group_uuid: b35b3a83-6b18-52ce-8198-197176d2769d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+right:
+  word_uuid: 18d8a4fe-b607-403c-bbbd-bffc7e1ca089
+  text: 職
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ecdc2ded-2877-43dc-9c2d-ed2877d3dc39
+type: word-relation
+group_uuid: 3fe380d1-9e2e-51b0-9660-13ab262532be
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.9
+    textline: 以避寒暑
+    offset: 3
+    range: 1
+right:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 暑
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.9
+    textline: 以避寒暑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:29:13.778+09:00'

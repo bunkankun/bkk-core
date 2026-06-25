@@ -1,0 +1,32 @@
+uuid: 0ad13bc9-c16b-442a-913b-c9c16b342a25
+type: word-relation
+group_uuid: e46d60b4-845f-5ff9-a3f4-65f2eaf5d0de
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6f24b3fe-76c9-4bda-a4b3-fe76c90bda8c
+  text: 天地之間
+  concept: EVERYBODY
+  concept_uuid: a2d37271-83ca-457d-96a5-797006e535e7
+  attestation:
+    text_title: 靈樞經
+    line_id: CH1d0952_CHANT_012-2a.10
+    textline: 且夫人生于天地之間
+    offset: 6
+    range: 4
+right:
+  word_uuid: b501351c-ff45-4e06-8135-1cff451e06b4
+  text: 六合之內
+  concept: EVERYWHERE
+  concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+  attestation:
+    text_title: 靈樞經
+    line_id: CH1d0952_CHANT_012-2a.11
+    textline: 六合之內
+    offset: 1
+    range: 4
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-09T22:53:18.687+09:00'

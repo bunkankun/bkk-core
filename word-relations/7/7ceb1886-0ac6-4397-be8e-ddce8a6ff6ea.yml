@@ -1,0 +1,32 @@
+uuid: 7ceb1886-0ac6-4397-be8e-ddce8a6ff6ea
+type: word-relation
+group_uuid: 7ceb1886-0ac6-4397-be8e-ddce8a6ff6ea
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論衡
+    line_uuid: be68adb5-dd33-46e1-8b3a-74353ae09ed6
+    line_id: KR3j0080_tls_033-9a.5
+    textline: 信者欺人
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1e35a438-ef6b-488d-a8f8-3753f5d26f6a
+  text: 欺
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 論衡
+    line_uuid: be68adb5-dd33-46e1-8b3a-74353ae09ed6
+    line_id: KR3j0080_tls_033-9a.5
+    textline: 信者欺人
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

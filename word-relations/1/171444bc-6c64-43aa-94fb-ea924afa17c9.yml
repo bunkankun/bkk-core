@@ -1,0 +1,21 @@
+uuid: 171444bc-6c64-43aa-94fb-ea924afa17c9
+type: word-relation
+group_uuid: b85baa81-fb38-5252-bb58-bfee1a41767b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e39308a1-d781-4e9d-a1be-adbcab09b778
+  text: 常
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+right:
+  word_uuid: ebb82f19-99be-432e-b318-b22a608f1712
+  text: 罕
+  concept: RARE
+  concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

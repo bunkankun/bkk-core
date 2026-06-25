@@ -1,0 +1,32 @@
+uuid: a9c6f9e4-87e3-4fb7-8fc3-8172b59b4154
+type: word-relation
+group_uuid: a9c6f9e4-87e3-4fb7-8fc3-8172b59b4154
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6572f0d8-9a20-475f-8643-563928f0b935
+  text: 失
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 韓非子
+    line_uuid: c18bec02-3e5d-452b-b108-6d3fceae356b
+    line_id: KR3c0005_tls_007-15a.4
+    textline: 以為失其事也
+    offset: 3
+    range: 1
+right:
+  word_uuid: fb947eff-e2ac-4a6d-b835-0db3b6d04369
+  text: 越
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea32129b-b347-45d7-8cea-9f2abe7737e7
+    line_id: KR3c0005_tls_007-15a.6
+    textline: 以為越其職也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

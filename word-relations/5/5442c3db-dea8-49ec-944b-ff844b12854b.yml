@@ -1,0 +1,32 @@
+uuid: 5442c3db-dea8-49ec-944b-ff844b12854b
+type: word-relation
+group_uuid: 5442c3db-dea8-49ec-944b-ff844b12854b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 013c02ac-b38d-4e7d-af79-45e6fcfa51bb
+  text: 悲
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+  attestation:
+    text_title: 老子
+    line_uuid: abe49343-9129-4a82-9389-6292e54932d6
+    line_id: KR5c0057_tls_031-1a.23
+    textline: 以悲哀泣之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5ebb4fb2-fde8-458a-ad9e-e0b907fbcd3d
+  text: 哀
+  concept: MOURNING
+  concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+  attestation:
+    text_title: 老子
+    line_uuid: abe49343-9129-4a82-9389-6292e54932d6
+    line_id: KR5c0057_tls_031-1a.23
+    textline: 以悲哀泣之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

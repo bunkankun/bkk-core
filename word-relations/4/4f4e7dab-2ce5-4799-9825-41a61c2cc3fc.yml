@@ -1,0 +1,21 @@
+uuid: 4f4e7dab-2ce5-4799-9825-41a61c2cc3fc
+type: word-relation
+group_uuid: 6e733973-bbc3-5f50-b56f-0144d820952b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0a937b8a-2b12-41be-9b1a-59998db56547
+  text: 苦
+  concept: BITTER
+  concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+right:
+  word_uuid: c858d093-b27e-4416-8339-bdd741f351ec
+  text: 辛
+  concept: BITTER
+  concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

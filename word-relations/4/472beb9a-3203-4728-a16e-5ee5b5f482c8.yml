@@ -1,0 +1,21 @@
+uuid: 472beb9a-3203-4728-a16e-5ee5b5f482c8
+type: word-relation
+group_uuid: 0eb631c5-111a-5dfa-9436-37fe21e0bc89
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3ce971bc-7cdb-4121-8cb6-e35ef559125a
+  text: 呼
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+right:
+  word_uuid: d8a30d93-05c3-4504-8aea-6bdf44d80325
+  text: 嚎號號
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

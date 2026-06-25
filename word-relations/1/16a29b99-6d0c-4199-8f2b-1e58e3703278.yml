@@ -1,0 +1,18 @@
+uuid: 16a29b99-6d0c-4199-8f2b-1e58e3703278
+type: word-relation
+group_uuid: 206c85c4-afdf-5b2f-827c-cc2396f27d10
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 83f8a1bf-1685-4cdd-a5df-20b802db670b
+  text: 闕
+  concept: DISAPPEAR
+  concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+right:
+  word_uuid: 3b3770be-9e9c-4ff3-80dc-248f3e8b1537
+  text: 亡
+  concept: DISAPPEAR
+  concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+source:
+  source_file: word-relations.xml

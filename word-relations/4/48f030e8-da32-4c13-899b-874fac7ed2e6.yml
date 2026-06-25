@@ -1,0 +1,32 @@
+uuid: 48f030e8-da32-4c13-899b-874fac7ed2e6
+type: word-relation
+group_uuid: 48f030e8-da32-4c13-899b-874fac7ed2e6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 1f4260ea-9f20-4b39-a544-a3b33c101743
+  text: 方
+  concept: PLACE
+  concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 55972e2c-05a5-41f2-b096-2d173c4c614e
+    line_id: KR3j0009_tls_003-26a.23
+    textline: 遠方來賓
+    offset: 2
+    range: 1
+right:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 55972e2c-05a5-41f2-b096-2d173c4c614e
+    line_id: KR3j0009_tls_003-26a.23
+    textline: 遠方來賓
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: 6e61cb2a-fcc5-4bff-a152-729106c4fd38
+type: word-relation
+group_uuid: 6e61cb2a-fcc5-4bff-a152-729106c4fd38
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4cb795be-efe8-4556-8b0b-9186a2d415f0
+  text: 作
+  concept: WRITE
+  concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+  attestation:
+    text_title: 新論
+    line_uuid: d25628fb-e4a8-4375-a8ac-dc76231dac45
+    textline: 作《呂氏春秋》
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8466df2d-d8bc-48ca-8752-822ecdab0353
+  text: 著
+  concept: WRITE
+  concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+  attestation:
+    text_title: 新論
+    line_uuid: f917c4cb-6b60-4d6b-801f-4c753ad96a2d
+    line_id: KR3j0192_tls_001-3a.7
+    textline: 以著篇章
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

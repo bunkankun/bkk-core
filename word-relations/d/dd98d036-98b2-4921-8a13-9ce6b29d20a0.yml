@@ -1,0 +1,30 @@
+uuid: dd98d036-98b2-4921-8a13-9ce6b29d20a0
+type: word-relation
+group_uuid: dd98d036-98b2-4921-8a13-9ce6b29d20a0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 144b43d4-7e4e-4962-9538-94f9338ff254
+  text: 衣
+  concept: BLANKET
+  concept_uuid: d5d3fb95-4e6c-4c5d-9797-6d4eca230f87
+  attestation:
+    text_title: 孟子
+    line_uuid: 0f7036f7-34d4-4f07-8618-7d25a13e9b13
+    textline: 謂棺槨衣衾之美也
+    offset: 4
+    range: 1
+right:
+  word_uuid: a86d66e1-4a1f-408a-94a2-0adb4c3cc874
+  text: 衾
+  concept: BLANKET
+  concept_uuid: d5d3fb95-4e6c-4c5d-9797-6d4eca230f87
+  attestation:
+    text_title: 孟子
+    line_uuid: 0f7036f7-34d4-4f07-8618-7d25a13e9b13
+    textline: 謂棺槨衣衾之美也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

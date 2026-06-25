@@ -1,0 +1,32 @@
+uuid: 9cde6353-718f-44a6-b113-b0d07ee7f020
+type: word-relation
+group_uuid: fec460e5-a75c-4838-812c-253390a1d7a4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: acdb16d1-c89b-442b-9c0e-1a3653209b86
+  text: 父
+  concept: FATHER
+  concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+  attestation:
+    text_title: 論語
+    line_uuid: de1ebbfb-ad85-4f64-abf8-ab8d65f5cd9e
+    line_id: KR1h0004_tls_004-20a.3
+    textline: 「父母在
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7fdc635e-d19e-4e94-9433-d2866178ec93
+  text: 母
+  concept: MOTHER
+  concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+  attestation:
+    text_title: 論語
+    line_uuid: de1ebbfb-ad85-4f64-abf8-ab8d65f5cd9e
+    line_id: KR1h0004_tls_004-20a.3
+    textline: 「父母在
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

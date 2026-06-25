@@ -1,0 +1,32 @@
+uuid: 3f913dd6-fb0b-46e2-913d-d6fb0b16e257
+type: word-relation
+group_uuid: ade0ce52-8270-52a7-9226-6377f9b6082d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 晏子春秋
+    line_id: KR2g0003_tls_002-4a.41
+    textline: 又不以私恚害公法
+    offset: 4
+    range: 1
+right:
+  word_uuid: cd45001c-c066-4bdc-89fb-94a5b890622f
+  text: 公
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+  attestation:
+    text_title: 晏子春秋
+    line_id: KR2g0003_tls_002-4a.41
+    textline: 又不以私恚害公法
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-21T01:35:39.918+09:00'

@@ -1,0 +1,32 @@
+uuid: d2ba42c8-260a-405d-982f-466feee4dbd9
+type: word-relation
+group_uuid: 2abe2a68-0df2-49c5-b89c-6c44478b2845
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e513711f-3b33-4403-a122-50bf3a60ce7b
+  text: 遊
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 韓非子
+    line_uuid: e5504b84-9068-4147-bb72-0178fec6d7fe
+    line_id: KR3c0005_tls_010-104a.5
+    textline: 離內遠遊
+    offset: 4
+    range: 1
+right:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 韓非子
+    line_uuid: e5504b84-9068-4147-bb72-0178fec6d7fe
+    line_id: KR3c0005_tls_010-104a.5
+    textline: 離內遠遊
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

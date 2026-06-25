@@ -1,0 +1,32 @@
+uuid: 11e39106-9f09-403f-8b88-7ecc37b14843
+type: word-relation
+group_uuid: 11e39106-9f09-403f-8b88-7ecc37b14843
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 00a29dac-f836-4e64-a13a-6c3a15ef547c
+  text: 罪
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ece0e24-fa74-4ca7-a3d6-f7ca63fcdb4c
+    line_id: KR3j0080_tls_002-1a.5
+    textline: 罪過有累積不除
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6ec70f7e-2668-4a4a-b78d-c142f8ab7d4b
+  text: 過
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ece0e24-fa74-4ca7-a3d6-f7ca63fcdb4c
+    line_id: KR3j0080_tls_002-1a.5
+    textline: 罪過有累積不除
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

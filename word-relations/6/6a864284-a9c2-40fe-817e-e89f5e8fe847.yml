@@ -1,0 +1,32 @@
+uuid: 6a864284-a9c2-40fe-817e-e89f5e8fe847
+type: word-relation
+group_uuid: 0ed6bce4-3f01-432e-b6ce-d2aa4357c0f6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73750594-beaf-4580-88f0-efa078170178
+  text: 幽
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 論衡
+    line_uuid: 87f0132e-905a-4ad8-8007-f2af09ce10fe
+    line_id: KR3j0080_tls_016-1a.12
+    textline: 夫幽冥之實尚可知
+    offset: 2
+    range: 1
+right:
+  word_uuid: d2a2d76d-e55c-489d-b80c-814c9f48934b
+  text: 冥
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 論衡
+    line_uuid: 87f0132e-905a-4ad8-8007-f2af09ce10fe
+    line_id: KR3j0080_tls_016-1a.12
+    textline: 夫幽冥之實尚可知
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

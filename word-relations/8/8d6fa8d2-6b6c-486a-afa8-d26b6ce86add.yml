@@ -1,0 +1,32 @@
+uuid: 8d6fa8d2-6b6c-486a-afa8-d26b6ce86add
+type: word-relation
+group_uuid: 72ce3b8b-4e0f-5271-8361-6e9556140426
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 58992b8a-43a9-446e-b917-8f823dcd2c31
+  text: 氣
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_002-31a.19
+    textline: 凡治氣養心之術
+    offset: 3
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_002-31a.19
+    textline: 凡治氣養心之術
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T23:14:32.602+09:00'

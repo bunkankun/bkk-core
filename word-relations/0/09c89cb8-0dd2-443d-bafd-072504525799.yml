@@ -1,0 +1,31 @@
+uuid: 09c89cb8-0dd2-443d-bafd-072504525799
+type: word-relation
+group_uuid: 09c89cb8-0dd2-443d-bafd-072504525799
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 白虎通
+    line_uuid: fd42cdf1-1670-409c-9a53-4f69fc3431e3
+    line_id: KR3j0023_tls_001-21a.1
+    textline: 公之為言公正無私也
+    range: 1
+right:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 白虎通
+    line_uuid: fd42cdf1-1670-409c-9a53-4f69fc3431e3
+    line_id: KR3j0023_tls_001-21a.1
+    textline: 公之為言公正無私也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

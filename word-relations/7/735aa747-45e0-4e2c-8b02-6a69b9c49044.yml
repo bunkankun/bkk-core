@@ -1,0 +1,32 @@
+uuid: 735aa747-45e0-4e2c-8b02-6a69b9c49044
+type: word-relation
+group_uuid: 735aa747-45e0-4e2c-8b02-6a69b9c49044
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5886d612-862a-4af7-be77-27ed65dd081f
+  text: 婢
+  concept: SERVANT
+  concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+  attestation:
+    text_title: 韓非子
+    line_uuid: d7971b36-93d4-45e9-994c-a93b7eaef46b
+    line_id: KR3c0005_tls_015-18a.6
+    textline: 婢妾之言聽
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8198167b-2460-43f4-bb04-ffbb14bafc8e
+  text: 妾
+  concept: CONCUBINE
+  concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+  attestation:
+    text_title: 韓非子
+    line_uuid: d7971b36-93d4-45e9-994c-a93b7eaef46b
+    line_id: KR3c0005_tls_015-18a.6
+    textline: 婢妾之言聽
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: 53a9ec13-308b-43bf-b411-1c6680629ec3
+type: word-relation
+group_uuid: 93530d9e-4995-53a3-b4d0-dee7fbeedb8a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+right:
+  word_uuid: 190410d6-ceae-4e3c-9363-27a26869ee72
+  text: 氓氓萌
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+source:
+  source_file: word-relations.xml

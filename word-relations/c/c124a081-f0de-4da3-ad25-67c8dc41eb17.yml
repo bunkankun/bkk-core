@@ -1,0 +1,32 @@
+uuid: c124a081-f0de-4da3-ad25-67c8dc41eb17
+type: word-relation
+group_uuid: c124a081-f0de-4da3-ad25-67c8dc41eb17
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 列子
+    line_uuid: 3f56a4fa-aea3-4a65-a464-ace189799de7
+    line_id: KR5c0124_tls_004-9a.25
+    textline: 眾人且歌
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4f1979ae-12cd-4fd9-af29-59b50224a7c3
+  text: 哭
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 列子
+    line_uuid: 891c5157-849c-4754-a1b9-f89115861468
+    line_id: KR5c0124_tls_004-9a.26
+    textline: 眾人且哭
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

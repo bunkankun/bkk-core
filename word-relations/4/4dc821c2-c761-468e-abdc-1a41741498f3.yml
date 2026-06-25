@@ -1,0 +1,30 @@
+uuid: 4dc821c2-c761-468e-abdc-1a41741498f3
+type: word-relation
+group_uuid: 4dc821c2-c761-468e-abdc-1a41741498f3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a662dee9-16b1-4bb0-8975-e6ecb06f9a69
+  text: 闢
+  concept: OPEN
+  concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+  attestation:
+    text_title: 慎到
+    line_uuid: 9c71aaba-abdf-4b93-8696-5b98f5d32061
+    textline: 闢戶開牖
+    offset: 1
+    range: 1
+right:
+  word_uuid: f35f43df-b6c5-4cee-a2f1-2e4e466e9fd7
+  text: 開
+  concept: OPEN
+  concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+  attestation:
+    text_title: 慎到
+    line_uuid: 9c71aaba-abdf-4b93-8696-5b98f5d32061
+    textline: 闢戶開牖
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

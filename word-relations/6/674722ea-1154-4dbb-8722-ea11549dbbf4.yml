@@ -1,0 +1,32 @@
+uuid: 674722ea-1154-4dbb-8722-ea11549dbbf4
+type: word-relation
+group_uuid: 4215779d-4265-5b04-9fc6-82f4e9b6671e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2d02f3ed-f3fe-483c-82f3-edf3fe183c30
+  text: 已然
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 大戴禮記
+    line_id: CH1e0875_CHANT_002-2a.3
+    textline: 能見已然
+    offset: 3
+    range: 2
+right:
+  word_uuid: 5f877388-4b21-4046-8773-884b21c04659
+  text: 將然
+  concept: FUTURE
+  concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+  attestation:
+    text_title: 大戴禮記
+    line_id: CH1e0875_CHANT_002-2a.4
+    textline: 不能見將然
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-08-18T20:35:10.585+09:00'

@@ -1,0 +1,30 @@
+uuid: f99cfcad-7416-46cd-a4f9-2bfb6972bbb9
+type: word-relation
+group_uuid: 6d568466-779a-4329-aed3-d120835e0639
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d96557e3-d6c5-4885-b672-30e6a86e75f1
+  text: 並
+  concept: ANNEX
+  concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+  attestation:
+    text_title: 淮南子
+    line_uuid: 56390e24-92d9-48a5-adae-13063b87f08b
+    textline: 並吞其地
+    offset: 1
+    range: 1
+right:
+  word_uuid: c77fb72b-9e62-4ee4-9301-c2f9ab89c521
+  text: 吞
+  concept: ANNEX
+  concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+  attestation:
+    text_title: 淮南子
+    line_uuid: 56390e24-92d9-48a5-adae-13063b87f08b
+    textline: 並吞其地
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

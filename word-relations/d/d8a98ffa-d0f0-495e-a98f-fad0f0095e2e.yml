@@ -1,0 +1,32 @@
+uuid: d8a98ffa-d0f0-495e-a98f-fad0f0095e2e
+type: word-relation
+group_uuid: e7f36ac3-fbe1-5d5e-a6a7-d3e1ac025cf0
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 747e4ece-12fc-4a67-a420-fb0baf005724
+  text: 化
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.4
+    textline: 是以政教易化
+    offset: 6
+    range: 1
+right:
+  word_uuid: 39b873d6-8060-412e-b4f2-4bc625a4c8b8
+  text: 移
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.5
+    textline: 風俗易移也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-10-10T05:15:14.132+09:00'

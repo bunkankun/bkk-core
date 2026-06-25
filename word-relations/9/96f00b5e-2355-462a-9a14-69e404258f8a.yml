@@ -1,0 +1,21 @@
+uuid: 96f00b5e-2355-462a-9a14-69e404258f8a
+type: word-relation
+group_uuid: 320de240-42d0-567f-974f-793d54defc5e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5bfac0dc-5da9-44fc-9e49-950c30514e8c
+  text: 祖
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+right:
+  word_uuid: 3bd87200-30de-4d98-a711-612f24c19d2d
+  text: 妣
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

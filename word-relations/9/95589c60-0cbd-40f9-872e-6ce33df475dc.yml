@@ -1,0 +1,32 @@
+uuid: 95589c60-0cbd-40f9-872e-6ce33df475dc
+type: word-relation
+group_uuid: 95589c60-0cbd-40f9-872e-6ce33df475dc
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: b18fd34f-fcd4-482e-90e2-900d057048b6
+  text: 持
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+  attestation:
+    text_title: 孟子
+    line_uuid: 70695ab8-cac2-4e7c-ab8e-2622d79dc3e9
+    line_id: KR1h0001_tls_004-16a.4
+    textline: 「子之持戟之士
+    offset: 4
+    range: 1
+right:
+  word_uuid: 985b5cd1-610f-4bf8-bda4-cef7059ef428
+  text: 戟
+  concept: LANCE
+  concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+  attestation:
+    text_title: 孟子
+    line_uuid: 70695ab8-cac2-4e7c-ab8e-2622d79dc3e9
+    line_id: KR1h0001_tls_004-16a.4
+    textline: 「子之持戟之士
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

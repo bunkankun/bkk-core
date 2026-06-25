@@ -1,0 +1,30 @@
+uuid: 0fb80848-9c9f-4e30-bf17-344cb13c02c9
+type: word-relation
+group_uuid: 0fb80848-9c9f-4e30-bf17-344cb13c02c9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 老子
+    line_uuid: a2c89429-ee3c-485e-a76a-0fa9db52440f
+    textline: 死而不亡者壽
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3b3770be-9e9c-4ff3-80dc-248f3e8b1537
+  text: 亡
+  concept: DISAPPEAR
+  concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+  attestation:
+    text_title: 老子
+    line_uuid: a2c89429-ee3c-485e-a76a-0fa9db52440f
+    textline: 死而不亡者壽
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

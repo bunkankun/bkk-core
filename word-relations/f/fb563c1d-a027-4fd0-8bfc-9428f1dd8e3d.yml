@@ -1,0 +1,21 @@
+uuid: fb563c1d-a027-4fd0-8bfc-9428f1dd8e3d
+type: word-relation
+group_uuid: 274fe834-6492-59cf-a7fd-367097e7701a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 23801a5c-640b-44de-91ae-8a27e34de212
+  text: 表
+  concept: OUTSIDE
+  concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+right:
+  word_uuid: 0b518daa-3935-46b3-a606-fdcf2f668099
+  text: 裡
+  concept: INSIDE
+  concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

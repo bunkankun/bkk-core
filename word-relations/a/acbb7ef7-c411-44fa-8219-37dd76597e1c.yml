@@ -1,0 +1,32 @@
+uuid: acbb7ef7-c411-44fa-8219-37dd76597e1c
+type: word-relation
+group_uuid: acbb7ef7-c411-44fa-8219-37dd76597e1c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 管子
+    line_uuid: 0778fde2-2e20-4183-8b2f-bda4ec060152
+    line_id: KR3c0001_tls_002-103a.9
+    textline: 明君能勝六攻而立三器
+    offset: 1
+    range: 1
+right:
+  word_uuid: 13db392c-2d54-45d4-9af4-c29fc15baa44
+  text: 不肖
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+  attestation:
+    text_title: 管子
+    line_uuid: db0268e4-cb2b-45ad-9bf6-970cbd02ed9d
+    line_id: KR3c0001_tls_002-103a.11
+    textline: 不肖之君不能勝六攻而立三器
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

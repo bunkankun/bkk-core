@@ -1,0 +1,31 @@
+uuid: 015f3c15-f8dc-4253-b12d-39ec2c1a2266
+type: word-relation
+group_uuid: a7f6147b-0d46-4916-8c8d-cbbd25395bf7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d635dd05-9749-4d51-8e90-e1490c97567d
+  text: 聲
+  concept: TONE
+  concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+  attestation:
+    text_title: 孟子
+    line_uuid: 73f46868-f8f9-4bc9-99e2-8a4478c0e984
+    textline: 百姓聞王鐘鼓之聲
+    offset: 8
+    range: 1
+right:
+  word_uuid: 217b50ec-9042-4009-a76e-46476308c7ed
+  text: 音
+  concept: TONE
+  concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+  attestation:
+    text_title: 孟子
+    line_uuid: 6a75839d-0a13-4c71-b6aa-59390073eadd
+    line_id: KR1h0001_tls_002-11a.5
+    textline: 管籥之音
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

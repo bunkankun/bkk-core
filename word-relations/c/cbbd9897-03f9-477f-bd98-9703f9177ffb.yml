@@ -1,0 +1,32 @@
+uuid: cbbd9897-03f9-477f-bd98-9703f9177ffb
+type: word-relation
+group_uuid: 698c0b84-3431-55ee-9405-57ae117f8d70
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 40fe95c2-cbd5-41a3-a90c-cedaa1464ec4
+  text: 佚樂
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.23
+    textline: 或佚樂
+    offset: 2
+    range: 2
+right:
+  word_uuid: cfa6d179-2f9f-4f72-a6d1-792f9f5f725f
+  text: 劬勞
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.24
+    textline: 或劬勞
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T20:02:09.22+09:00'

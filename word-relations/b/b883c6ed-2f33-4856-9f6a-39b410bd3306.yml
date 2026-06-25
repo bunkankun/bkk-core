@@ -1,0 +1,32 @@
+uuid: b883c6ed-2f33-4856-9f6a-39b410bd3306
+type: word-relation
+group_uuid: b883c6ed-2f33-4856-9f6a-39b410bd3306
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 843fb5a7-465f-4811-a3e2-2da038c8feca
+  text: 笑
+  concept: SMILE
+  concept_uuid: 8b0231ab-2843-4bdb-8123-9195937dfc8f
+  attestation:
+    text_title: 白虎通
+    line_uuid: 50dc8390-edc3-4853-89bc-ae4906c90f7d
+    line_id: KR3j0023_tls_031-1086a.2
+    textline: 孔子喟然而笑曰
+    offset: 6
+    range: 1
+right:
+  word_uuid: ce7446d5-7551-4487-a5bd-7b3840c87590
+  text: 喟然
+  concept: SIGH
+  concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+  attestation:
+    text_title: 白虎通
+    line_uuid: 50dc8390-edc3-4853-89bc-ae4906c90f7d
+    line_id: KR3j0023_tls_031-1086a.2
+    textline: 孔子喟然而笑曰
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,33 @@
+uuid: 7b71925e-6190-4c6a-893e-9aa3f45b68b8
+type: word-relation
+group_uuid: 770da490-93d7-457f-87c7-bd80fa0c8faf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cd414537-1ec7-47cf-bb5c-8c1672f31e1b
+  text: 遲
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+  attestation:
+    text_title: 荀子
+    line_uuid: 2583c996-197b-40ab-afe1-bd35981dfbc4
+    textline: 亦或遲或速或先或後
+    offset: 3
+    range: 1
+right:
+  word_uuid: b66b3c29-f852-4d73-aada-661917293703
+  text: 速
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 荀子
+    line_uuid: 2583c996-197b-40ab-afe1-bd35981dfbc4
+    textline: 亦或遲或速或先或後
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

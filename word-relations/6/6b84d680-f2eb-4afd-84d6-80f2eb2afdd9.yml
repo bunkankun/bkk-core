@@ -1,0 +1,32 @@
+uuid: 6b84d680-f2eb-4afd-84d6-80f2eb2afdd9
+type: word-relation
+group_uuid: 9361751b-bacc-475e-82ba-776d498282fc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a0636713-59a2-4d9b-b4f8-99509b19e147
+  text: 不足
+  concept: INSUFFICIENT
+  concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+  attestation:
+    text_title: 墨子
+    line_id: CH1a0938_CHANT_005-5a.35
+    textline: 則是棄所不足
+    offset: 5
+    range: 2
+right:
+  word_uuid: 40bc85a6-6ed0-4433-bf60-b7b1e56a1955
+  text: 有餘
+  concept: SURPLUS
+  concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+  attestation:
+    text_title: 墨子
+    line_id: CH1a0938_CHANT_005-5a.36
+    textline: 而重所有餘也
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T04:16:18.743+09:00'

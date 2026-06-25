@@ -1,0 +1,32 @@
+uuid: dc09e26b-9bd6-445e-89e2-6b9bd6d45ed4
+type: word-relation
+group_uuid: b87342b8-979e-5642-abcc-de71d8579699
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a3c8ff2f-d19f-48a5-829f-2884fc8d8a89
+  text: 典
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_006-5a.16
+    textline: 是君之所以象典刑
+    offset: 7
+    range: 1
+right:
+  word_uuid: c9ce379d-b124-4e9e-ae21-8305ac15798d
+  text: 刑
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_006-5a.16
+    textline: 是君之所以象典刑
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T05:15:57.863+09:00'

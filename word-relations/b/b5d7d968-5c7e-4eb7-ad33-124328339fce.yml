@@ -1,0 +1,32 @@
+uuid: b5d7d968-5c7e-4eb7-ad33-124328339fce
+type: word-relation
+group_uuid: b5d7d968-5c7e-4eb7-ad33-124328339fce
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2d05888a-5654-4afc-8a2d-900511c275ee
+    line_id: KR3j0009_tls_002-21a.25
+    textline: 功雖成乎外
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7f06b240-c1ad-4839-9c74-75ebb072843f
+  text: 虧
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0ba5d82d-c1a4-4f37-8f50-7d702fdb54d9
+    line_id: KR3j0009_tls_002-21a.26
+    textline: 而生虧乎內
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

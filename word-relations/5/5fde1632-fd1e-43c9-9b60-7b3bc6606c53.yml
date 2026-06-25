@@ -1,0 +1,32 @@
+uuid: 5fde1632-fd1e-43c9-9b60-7b3bc6606c53
+type: word-relation
+group_uuid: 5fde1632-fd1e-43c9-9b60-7b3bc6606c53
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4ee717fc-85c6-499f-9606-a5b027a4c170
+  text: 乘
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 69d8157a-ae80-4a6b-bcae-b7fa743ada05
+    line_id: KR3j0009_tls_001-2a.23
+    textline: 乘鸞輅
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3b9277bc-9c8c-40a7-a76a-2a75a0341058
+  text: 駕
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 27465fed-6552-4da0-9e0b-af2ca5057141
+    line_id: KR3j0009_tls_001-2a.24
+    textline: 駕蒼龍
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

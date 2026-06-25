@@ -1,0 +1,30 @@
+uuid: e6c483c3-4ade-4266-a84e-2eaa99ede207
+type: word-relation
+group_uuid: e6c483c3-4ade-4266-a84e-2eaa99ede207
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 903edf31-2895-4f27-8dec-e320e393f010
+  text: 微
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 540c7319-0c0a-475a-b3dc-ad55b677cde3
+    textline: 故微其君臣而著其父子
+    offset: 2
+    range: 1
+right:
+  word_uuid: 94be4e4b-b311-476c-b6e5-fb64565869e4
+  text: 著
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 540c7319-0c0a-475a-b3dc-ad55b677cde3
+    textline: 故微其君臣而著其父子
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

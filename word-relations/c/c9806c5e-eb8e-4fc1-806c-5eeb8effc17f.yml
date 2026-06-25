@@ -1,0 +1,32 @@
+uuid: c9806c5e-eb8e-4fc1-806c-5eeb8effc17f
+type: word-relation
+group_uuid: a7176520-ac59-5f89-84f0-ce5e03106f80
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: dc193087-4718-4c84-90c2-3d6dea2e73aa
+  text: 名
+  concept: NAME
+  concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  attestation:
+    text_title: 莊子集釋
+    line_id: KR5c0386_tls_005-22a.3
+    textline: 雖聞其名，
+    offset: 4
+    range: 1
+right:
+  word_uuid: a80fa477-5ea0-4e62-9ad4-608af8b63390
+  text: 義
+  concept: MEAN
+  concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+  attestation:
+    text_title: 莊子集釋
+    line_id: KR5c0386_tls_005-22a.4
+    textline: 未解其義，
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-10T16:39:08.361+09:00'

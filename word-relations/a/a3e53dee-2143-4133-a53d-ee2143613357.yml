@@ -1,0 +1,32 @@
+uuid: a3e53dee-2143-4133-a53d-ee2143613357
+type: word-relation
+group_uuid: 6592fca5-417e-5519-8e4d-cd9232ae28c9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 009aa936-0d9b-4f6f-a829-949ee6933d63
+  text: 日
+  concept: DAYTIME
+  concept_uuid: 23374601-0e1f-4530-98fe-d16101c0875b
+  attestation:
+    text_title: 搜神記
+    line_id: KR3l0099_tls_011-4a.87
+    textline: 煮頭三日
+    offset: 4
+    range: 1
+right:
+  word_uuid: fe273181-aa6f-44ce-bb71-91708c457bff
+  text: 夕
+  concept: NIGHT
+  concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+  attestation:
+    text_title: 搜神記
+    line_id: KR3l0099_tls_011-4a.88
+    textline: 三夕
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#dsehnal'
+  date: '2023-05-31T18:46:39.572+09:00'

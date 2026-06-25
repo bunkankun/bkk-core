@@ -1,0 +1,32 @@
+uuid: 6ab96280-b853-4e1e-8cb3-d86476a13403
+type: word-relation
+group_uuid: 6ab96280-b853-4e1e-8cb3-d86476a13403
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1ea59152-f83a-4b3e-ad3a-62adea9867c9
+  text: 先
+  concept: PRECEDE
+  concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+  attestation:
+    text_title: 論語
+    line_uuid: 86bc238d-93c6-469e-b7d7-5adc1a6ba894
+    line_id: KR1h0004_tls_013-1a.5
+    textline: 「先之
+    offset: 2
+    range: 1
+right:
+  word_uuid: aec48f0b-5925-49a3-bcef-4ee7914d692b
+  text: 勞
+  concept: LABOUR
+  concept_uuid: 2f844934-733e-4e0c-90df-5369a0338e96
+  attestation:
+    text_title: 論語
+    line_uuid: ca6cc0e1-a0d2-4f73-8ab2-2e9084bb005a
+    line_id: KR1h0004_tls_013-1a.6
+    textline: 勞之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

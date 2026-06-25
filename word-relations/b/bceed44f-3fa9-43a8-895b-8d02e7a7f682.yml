@@ -1,0 +1,21 @@
+uuid: bceed44f-3fa9-43a8-895b-8d02e7a7f682
+type: word-relation
+group_uuid: 51356b98-eec8-5bc7-9728-f2922299d0e7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dcf6957f-be89-40b0-bf92-893036e9797e
+  text: 僭
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+right:
+  word_uuid: dada746b-e333-4230-9972-227fa2350986
+  text: 侵
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

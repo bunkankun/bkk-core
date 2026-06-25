@@ -1,0 +1,31 @@
+uuid: ea202bf9-72b7-4eca-bdea-76107ed1cfb9
+type: word-relation
+group_uuid: 7c89ab4b-dce6-4ff2-b5b7-9a57dba5ce4f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 99b90363-4722-4ea8-84c5-59427a69a5bd
+  text: 為
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 322cdde2-8a7b-4564-9042-d69a1fda75e2
+    line_id: KR1h0004_tls_002-23a.1
+    textline: 奚其為為政
+    range: 1
+right:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論語
+    line_uuid: 322cdde2-8a7b-4564-9042-d69a1fda75e2
+    line_id: KR1h0004_tls_002-23a.1
+    textline: 奚其為為政
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

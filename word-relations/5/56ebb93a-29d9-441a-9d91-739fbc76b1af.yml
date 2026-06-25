@@ -1,0 +1,21 @@
+uuid: 56ebb93a-29d9-441a-9d91-739fbc76b1af
+type: word-relation
+group_uuid: 39b93dd5-3dde-5835-94e3-48b75fadf5c9
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8c369409-1831-424b-8f6b-34b2029a40a2
+  text: 除
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+right:
+  word_uuid: ab89356f-acf0-44d9-92cf-348d081e6e73
+  text: 去
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

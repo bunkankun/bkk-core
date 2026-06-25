@@ -1,0 +1,32 @@
+uuid: 3892e494-31b8-4878-92e4-9431b878782c
+type: word-relation
+group_uuid: 471ee131-24fb-5991-a79d-bf0b00bdd29d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7033a354-e21d-4fd2-b458-1e2fa016429f
+  text: 時
+  concept: TIME
+  concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.33
+    textline: 此皆因時變而制禮樂者也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.33
+    textline: 此皆因時變而制禮樂者也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:33:58.881+09:00'

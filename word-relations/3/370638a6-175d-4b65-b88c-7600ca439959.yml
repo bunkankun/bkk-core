@@ -1,0 +1,32 @@
+uuid: 370638a6-175d-4b65-b88c-7600ca439959
+type: word-relation
+group_uuid: 370638a6-175d-4b65-b88c-7600ca439959
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73750594-beaf-4580-88f0-efa078170178
+  text: 幽
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 楚辭
+    line_uuid: 06e35ea2-0da7-4141-9bae-ea9139f98932
+    line_id: KR4a0001_tls_001-2a.11
+    textline: 路幽昧以險隘
+    offset: 2
+    range: 1
+right:
+  word_uuid: ecd92315-be05-4678-a688-9a4fe372ae7c
+  text: 昧
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 楚辭
+    line_uuid: 06e35ea2-0da7-4141-9bae-ea9139f98932
+    line_id: KR4a0001_tls_001-2a.11
+    textline: 路幽昧以險隘
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

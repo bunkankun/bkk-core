@@ -1,0 +1,32 @@
+uuid: b2a621b4-b81a-464a-b938-c02ef86fbb23
+type: word-relation
+group_uuid: bfaf8a21-d1b0-4536-ae06-15676823b996
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 826a1579-ef3e-4410-8b17-edf76e7d8b19
+  text: 飲
+  concept: DRINK
+  concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+  attestation:
+    text_title: 老子
+    line_uuid: 9a172027-8d23-4a9f-b3e4-78d4f1a5423a
+    line_id: KR5c0057_tls_053-1a.13
+    textline: 厭飲食
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 老子
+    line_uuid: 9a172027-8d23-4a9f-b3e4-78d4f1a5423a
+    line_id: KR5c0057_tls_053-1a.13
+    textline: 厭飲食
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

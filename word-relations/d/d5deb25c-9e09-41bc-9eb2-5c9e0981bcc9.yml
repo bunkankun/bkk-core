@@ -1,0 +1,32 @@
+uuid: d5deb25c-9e09-41bc-9eb2-5c9e0981bcc9
+type: word-relation
+group_uuid: 04ed2dc2-07c0-58af-a662-2fc316be11bd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 03f7575a-7aff-42f7-bb09-e904c21023db
+  text: 得
+  concept: SUCCEED
+  concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_063-14a.16
+    textline: 觀往者得失之變
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4f90f5d8-8520-4f9b-9dd4-7d58315a7a96
+  text: 失
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_063-14a.16
+    textline: 觀往者得失之變
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-08T17:02:28.614+09:00'

@@ -1,0 +1,18 @@
+uuid: c29948b9-3c32-43f2-aeab-0de16095bf95
+type: word-relation
+group_uuid: 7138e1a3-1346-5b29-bfa4-1f845fe48728
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 52b1eed0-7d19-4178-8f58-64ea0e22b36d
+  text: 造化者
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+right:
+  word_uuid: e29c4ee9-2235-4d7c-b6e6-7a67c5fc5d40
+  text: 造化
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+source:
+  source_file: word-relations.xml

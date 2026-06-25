@@ -1,0 +1,35 @@
+uuid: 8979431b-54c5-4780-bcec-1dcddc05f065
+type: word-relation
+group_uuid: 8979431b-54c5-4780-bcec-1dcddc05f065
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c192b20d-3176-4308-b452-0a4be22ecf03
+  text: 雌
+  concept: FEMALE
+  concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+  attestation:
+    text_title: 老子
+    line_uuid: e8add67b-3cc1-47df-a35f-fc7a04d756b4
+    line_id: KR5c0057_tls_028-1a.4
+    textline: 守其雌
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4d2550aa-2c7a-4bc8-9bec-42cdaf2d6087
+  text: 雄
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+  attestation:
+    text_title: 老子
+    line_uuid: e5ccb555-9bc0-4cdb-a2da-8a1d87d540fd
+    line_id: KR5c0057_tls_028-1a.3
+    textline: 知其雄
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

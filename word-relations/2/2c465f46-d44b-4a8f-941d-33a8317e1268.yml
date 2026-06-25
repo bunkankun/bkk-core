@@ -1,0 +1,31 @@
+uuid: 2c465f46-d44b-4a8f-941d-33a8317e1268
+type: word-relation
+group_uuid: 2c465f46-d44b-4a8f-941d-33a8317e1268
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e9abd4a5-57a0-42c6-9de4-1634be847171
+  text: 趨
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 論衡
+    line_uuid: b19d6afb-2e7d-4b2e-9b95-dc974b7b1e49
+    textline: 趨雔不存志
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4986d62e-e5f7-4c81-b5f5-7ce4536a226d
+  text: 競
+  concept: COMPETE
+  concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+  attestation:
+    text_title: 論衡
+    line_uuid: f83a04c1-f48d-471a-9c9f-51afd783b7de
+    line_id: KR3j0080_tls_034-6a.16
+    textline: 競進不案禮
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

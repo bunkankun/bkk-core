@@ -1,0 +1,32 @@
+uuid: 860a059a-cef8-4fe5-8c51-52599939844c
+type: word-relation
+group_uuid: 860a059a-cef8-4fe5-8c51-52599939844c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 88c391df-6ec2-4207-90b9-99d524bc3f32
+  text: 專
+  concept: MONOPOLISE
+  concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+  attestation:
+    text_title: 韓非子
+    line_uuid: ac971a8c-b080-456e-b95b-11fa39c561a4
+    line_id: KR3c0005_tls_017-25a.5
+    textline: 臣專法而行之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: ac971a8c-b080-456e-b95b-11fa39c561a4
+    line_id: KR3c0005_tls_017-25a.5
+    textline: 臣專法而行之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

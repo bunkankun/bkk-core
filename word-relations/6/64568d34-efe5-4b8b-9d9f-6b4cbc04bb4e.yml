@@ -1,0 +1,18 @@
+uuid: 64568d34-efe5-4b8b-9d9f-6b4cbc04bb4e
+type: word-relation
+group_uuid: 8ae138af-0927-531f-bfdc-7191cea59635
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 504e1d8e-6eff-4fc9-8de0-5a16ed04a63c
+  text: 稱
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+right:
+  word_uuid: 0e63cf00-df77-4429-922f-7e2db90405ca
+  text: 媚
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+source:
+  source_file: word-relations.xml

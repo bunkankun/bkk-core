@@ -1,0 +1,32 @@
+uuid: b9e35efd-6b17-4cbb-a616-afaa7ecd90ec
+type: word-relation
+group_uuid: b9e35efd-6b17-4cbb-a616-afaa7ecd90ec
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 71212d48-f468-4ba7-a9d5-48d11840f774
+  text: 恬
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 楚辭
+    line_uuid: eb8ac59c-67f0-4486-8e5d-aa761eef7885
+    line_id: KR4a0001_tls_005-2a.14
+    textline: 漠虛靜以恬愉兮
+    offset: 5
+    range: 1
+right:
+  word_uuid: be9df035-1673-4199-810c-111d0517c19a
+  text: 愉
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 楚辭
+    line_uuid: eb8ac59c-67f0-4486-8e5d-aa761eef7885
+    line_id: KR4a0001_tls_005-2a.14
+    textline: 漠虛靜以恬愉兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

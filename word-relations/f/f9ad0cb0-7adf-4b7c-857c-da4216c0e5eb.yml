@@ -1,0 +1,31 @@
+uuid: f9ad0cb0-7adf-4b7c-857c-da4216c0e5eb
+type: word-relation
+group_uuid: 104a15ca-493a-4f01-b232-12d94b108fac
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 余
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: 60ae2af3-45bb-40c6-958d-a311b3e8f5b0
+    line_id: KR2a0001_tls_004-149a.25
+    textline: 余嘉乃勳
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: 466cb8ef-8d89-4591-a1c0-6fab2b070bd7
+    line_id: KR2a0001_tls_004-149a.26
+    textline: 毋逆朕命
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 63da602e-5045-4b89-b169-6848157195ee
+type: word-relation
+group_uuid: 63da602e-5045-4b89-b169-6848157195ee
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 96c3f7a7-c176-406e-bb83-39f413e171ab
+  text: 佞
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 論衡
+    line_uuid: 2004dea2-4e55-4c63-ae5d-c2204124a4d5
+    line_id: KR3j0080_tls_033-1a.22
+    textline: 佞以情自敗
+    offset: 1
+    range: 1
+right:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 8aed7370-684a-4050-a738-156d6627e076
+    line_id: KR3j0080_tls_033-1a.21
+    textline: 夫佞與賢者同材
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

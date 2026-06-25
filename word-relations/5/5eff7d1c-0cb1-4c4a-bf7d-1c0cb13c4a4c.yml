@@ -1,0 +1,32 @@
+uuid: 5eff7d1c-0cb1-4c4a-bf7d-1c0cb13c4a4c
+type: word-relation
+group_uuid: 0b2eaeb6-f5d5-5795-a377-a9b50e313003
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4d6c3992-debb-4204-9926-8d03e3c26d41
+  text: 和
+  concept: HARMONY
+  concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.9
+    textline: 陰陽和平
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4f20347d-19a6-419f-a034-7d19a6419f35
+  text: 平
+  concept: BALANCE
+  concept_uuid: d891b859-3e99-4e7b-a798-745724e04d2a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.9
+    textline: 陰陽和平
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T20:52:44.685+09:00'

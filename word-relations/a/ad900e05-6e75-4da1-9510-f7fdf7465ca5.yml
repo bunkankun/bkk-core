@@ -1,0 +1,21 @@
+uuid: ad900e05-6e75-4da1-9510-f7fdf7465ca5
+type: word-relation
+group_uuid: aa83024c-ba86-50a1-9644-5ca2fc868274
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+right:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲慾
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

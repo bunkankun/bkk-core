@@ -1,0 +1,32 @@
+uuid: 2e76f330-b789-48c1-9ae1-598ecbdc75f5
+type: word-relation
+group_uuid: 4861d868-eb8a-42ba-8178-81020e12715a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a6a70e6d-c41b-4af3-ae55-b32acda0e24d
+  text: 彼
+  concept: THAT
+  concept_uuid: 28da57be-e713-40d9-bc3d-600e018beb26
+  attestation:
+    text_title: 韓非子
+    line_uuid: 50eb4233-f4ec-4f71-880e-e024f5d93ecc
+    line_id: KR3c0005_tls_030-58a.8
+    textline: 彼之善者我能以為卿相
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 50eb4233-f4ec-4f71-880e-e024f5d93ecc
+    line_id: KR3c0005_tls_030-58a.8
+    textline: 彼之善者我能以為卿相
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

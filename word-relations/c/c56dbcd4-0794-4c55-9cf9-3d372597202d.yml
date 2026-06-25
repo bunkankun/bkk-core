@@ -1,0 +1,21 @@
+uuid: c56dbcd4-0794-4c55-9cf9-3d372597202d
+type: word-relation
+group_uuid: 975d426a-a8b9-5a9e-a431-69691b28dde8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 81f98fb7-3990-48aa-9300-c5379e5215e7
+  text: 給
+  concept: SUFFICIENT
+  concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+right:
+  word_uuid: f479c2ef-23e4-4e49-9a40-c62807eacbeb
+  text: 足
+  concept: SUFFICIENT
+  concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

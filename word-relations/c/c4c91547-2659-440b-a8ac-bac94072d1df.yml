@@ -1,0 +1,18 @@
+uuid: c4c91547-2659-440b-a8ac-bac94072d1df
+type: word-relation
+group_uuid: 3815f82c-1929-5866-bb01-4119e9e5d6ed
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 10839df2-e41d-43b3-84e1-9a83e01cd0d5
+  text: 苗
+  concept: SPROUT
+  concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+right:
+  word_uuid: 0616c51c-4bb8-4542-97a6-f3d317d83a76
+  text: 秀
+  concept: BLOSSOM
+  concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+source:
+  source_file: word-relations.xml

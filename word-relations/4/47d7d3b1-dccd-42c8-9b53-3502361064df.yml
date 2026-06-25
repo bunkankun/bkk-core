@@ -1,0 +1,32 @@
+uuid: 47d7d3b1-dccd-42c8-9b53-3502361064df
+type: word-relation
+group_uuid: 47d7d3b1-dccd-42c8-9b53-3502361064df
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aac587eb-1d1d-4a4a-88c5-bb4aa0894b37
+  text: 權
+  concept: SCALES
+  concept_uuid: 51f3e644-6a3d-484b-b92e-db27d286e973
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1d7893ff-1ab1-451b-8dc7-08243e4e2c2d
+    line_id: KR3c0005_tls_006-9a.7
+    textline: 有權衡之稱者
+    offset: 2
+    range: 1
+right:
+  word_uuid: cbbd8399-103e-47e2-8cae-4fbf4b46b4cd
+  text: 衡
+  concept: SCALES
+  concept_uuid: 51f3e644-6a3d-484b-b92e-db27d286e973
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1d7893ff-1ab1-451b-8dc7-08243e4e2c2d
+    line_id: KR3c0005_tls_006-9a.7
+    textline: 有權衡之稱者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

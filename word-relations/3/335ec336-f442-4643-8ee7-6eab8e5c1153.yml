@@ -1,0 +1,30 @@
+uuid: 335ec336-f442-4643-8ee7-6eab8e5c1153
+type: word-relation
+group_uuid: 335ec336-f442-4643-8ee7-6eab8e5c1153
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 20f78fa2-b7cc-4f8f-b2ea-4ef32a8c557f
+  text: 捕
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 史記
+    line_uuid: a5e6808b-70a6-456d-9054-65f8ade2bd34
+    textline: 請捕繫司直
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5f3b5640-f033-4f4c-b0ce-aea0f76f7b60
+  text: 繫
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 史記
+    line_uuid: a5e6808b-70a6-456d-9054-65f8ade2bd34
+    textline: 請捕繫司直
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

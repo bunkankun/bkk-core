@@ -1,0 +1,31 @@
+uuid: ac9ab769-ed81-4f4d-a189-9ae21d5f6ee5
+type: word-relation
+group_uuid: ac9ab769-ed81-4f4d-a189-9ae21d5f6ee5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ddb763af-eca9-45b5-a368-bd7caf479ea6
+  text: 強
+  concept: ENCOURAGE
+  concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3cc8b004-ab02-46d1-90d5-54011b13623c
+    textline: 強以其所不能為
+    offset: 1
+    range: 1
+right:
+  word_uuid: b9994ced-5d09-4fa3-bde7-9fe7befc7109
+  text: 止
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: 646a4b82-ca83-41f6-b314-42b979904119
+    line_id: KR3c0005_tls_012-11a.3
+    textline: 止以其所不能已
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: f57282ee-341a-45ad-8a18-935b3e49b755
+type: word-relation
+group_uuid: 96faf5a6-2ec9-5122-a2c9-2ce76d58ae4a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8c369409-1831-424b-8f6b-34b2029a40a2
+  text: 除
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+right:
+  word_uuid: c9f134b5-5655-4ab6-9f0b-bce30a9aadfa
+  text: 卻
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

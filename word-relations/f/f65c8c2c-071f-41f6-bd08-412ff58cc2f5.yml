@@ -1,0 +1,32 @@
+uuid: f65c8c2c-071f-41f6-bd08-412ff58cc2f5
+type: word-relation
+group_uuid: f65c8c2c-071f-41f6-bd08-412ff58cc2f5
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 5867b4fa-b228-472f-9aa0-35bf158a461d
+  text: 用
+  concept: EXPENSE
+  concept_uuid: 5552df50-2a71-41a4-a567-79af5c252e65
+  attestation:
+    text_title: 論語
+    line_uuid: dfe26a9f-1a72-4ec7-9394-a6d4b132a12c
+    line_id: KR1h0004_tls_001-5a.5
+    textline: 節用而愛人
+    offset: 2
+    range: 1
+right:
+  word_uuid: de6ba8c1-3acc-47a9-b279-28dc2c3234a2
+  text: 節
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 論語
+    line_uuid: dfe26a9f-1a72-4ec7-9394-a6d4b132a12c
+    line_id: KR1h0004_tls_001-5a.5
+    textline: 節用而愛人
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

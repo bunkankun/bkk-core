@@ -1,0 +1,32 @@
+uuid: d3ba0321-95b5-446f-b3ee-088bfd16757b
+type: word-relation
+group_uuid: d39525ac-d1ac-48b2-be25-1b8760450c8f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: d0b3a0d8-9e87-49dc-8cea-135f133d30e7
+    line_id: KR1b0001_tls_012-2a.50
+    textline: 予一人有罪
+    offset: 1
+    range: 1
+right:
+  word_uuid: dbfd43f7-d186-42b0-824f-ff2da5dc016c
+  text: 朕躬
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 6e844d87-2468-45be-82ea-2b72a3fb1bfc
+    line_id: KR1b0001_tls_012-2a.45
+    textline: 罪當朕躬
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

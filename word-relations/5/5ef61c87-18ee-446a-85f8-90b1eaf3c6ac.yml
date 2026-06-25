@@ -1,0 +1,32 @@
+uuid: 5ef61c87-18ee-446a-85f8-90b1eaf3c6ac
+type: word-relation
+group_uuid: 5ef61c87-18ee-446a-85f8-90b1eaf3c6ac
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: de3c1ec1-d913-46c0-b413-4dfd8ffb9221
+  text: 牽
+  concept: PULL
+  concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+  attestation:
+    text_title: 孟子
+    line_uuid: 0eb322c7-650f-4750-a135-35b025e0eab7
+    line_id: KR1h0001_tls_001-34a.5
+    textline: 有牽牛而過堂下者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1e6222fa-3c15-46c3-9240-f5ea255eb6c0
+  text: 牛
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 孟子
+    line_uuid: 0eb322c7-650f-4750-a135-35b025e0eab7
+    line_id: KR1h0001_tls_001-34a.5
+    textline: 有牽牛而過堂下者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

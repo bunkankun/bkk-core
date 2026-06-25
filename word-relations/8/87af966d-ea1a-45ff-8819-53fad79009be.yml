@@ -1,0 +1,32 @@
+uuid: 87af966d-ea1a-45ff-8819-53fad79009be
+type: word-relation
+group_uuid: 87af966d-ea1a-45ff-8819-53fad79009be
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c8a4d0bd-3691-43a1-bdc1-962c04e4e580
+  text: 弒
+  concept: MURDER
+  concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6f3164ea-6097-44c8-b5ad-3021fa659a20
+    line_id: KR3c0005_tls_007-9a.3
+    textline: 而簡公弒
+    offset: 4
+    range: 1
+right:
+  word_uuid: 86c19fc9-e290-4fa6-aed2-f549441d90e5
+  text: 劫
+  concept: ARROGATE
+  concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+  attestation:
+    text_title: 韓非子
+    line_uuid: b58f4fa5-e6e2-4110-97fd-7220f23e6d90
+    line_id: KR3c0005_tls_007-9a.5
+    textline: 而宋君劫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

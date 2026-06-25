@@ -1,0 +1,32 @@
+uuid: 1e894526-a662-4d01-8d04-3704e3bc1bb0
+type: word-relation
+group_uuid: 1e894526-a662-4d01-8d04-3704e3bc1bb0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: af28cc27-9dd0-42a2-adae-df1b637a15d6
+  text: 岡
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 世說新語
+    line_uuid: 23df4280-63b3-4fdd-9f82-e69e907f8343
+    line_id: KR3l0002_tls_004-68a.27
+    textline: 『金馬電發於高岡
+    offset: 8
+    range: 1
+right:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 世說新語
+    line_uuid: 23df4280-63b3-4fdd-9f82-e69e907f8343
+    line_id: KR3l0002_tls_004-68a.27
+    textline: 『金馬電發於高岡
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

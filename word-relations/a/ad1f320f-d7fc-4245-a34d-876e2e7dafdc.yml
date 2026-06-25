@@ -1,0 +1,32 @@
+uuid: ad1f320f-d7fc-4245-a34d-876e2e7dafdc
+type: word-relation
+group_uuid: ad1f320f-d7fc-4245-a34d-876e2e7dafdc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a560b741-23d2-4539-9aca-729347ba5a41
+  text: 淨
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 9f6e0a82-8d2e-491a-b448-7f70c8f7eb2b
+    line_id: KR6q0002_Yan_003-1134a.31
+    textline: 淨穢兩處不生心
+    offset: 1
+    range: 1
+right:
+  word_uuid: b26e25a7-b970-4725-9e77-e458e945466a
+  text: 穢
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 9f6e0a82-8d2e-491a-b448-7f70c8f7eb2b
+    line_id: KR6q0002_Yan_003-1134a.31
+    textline: 淨穢兩處不生心
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

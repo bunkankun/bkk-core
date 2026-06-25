@@ -1,0 +1,32 @@
+uuid: e48eca57-845f-457d-9b67-2c8c08790ab5
+type: word-relation
+group_uuid: e48eca57-845f-457d-9b67-2c8c08790ab5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8f01f385-b373-4b16-aac9-ca0b6d82df05
+  text: 全
+  concept: PERFECT
+  concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+  attestation:
+    text_title: 管子
+    line_uuid: 15a3e96c-9800-4134-8bd0-3e0e8627fe50
+    line_id: KR3c0001_tls_006-108a.4
+    textline: 故能全勝大勝
+    offset: 3
+    range: 1
+right:
+  word_uuid: cccca165-8f82-4bc5-9c1d-980a0c3ade41
+  text: 大
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 管子
+    line_uuid: 15a3e96c-9800-4134-8bd0-3e0e8627fe50
+    line_id: KR3c0001_tls_006-108a.4
+    textline: 故能全勝大勝
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

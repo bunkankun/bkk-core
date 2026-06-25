@@ -1,0 +1,32 @@
+uuid: fb64ee80-5431-438f-a4ee-805431938ff1
+type: word-relation
+group_uuid: 013bb9b8-3b2a-443e-aacb-0824079e961a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7e1027e0-11c1-4a48-a950-47bb54dd0e37
+  text: 聞
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_012-52a.1
+    textline: 多聞識乎
+    offset: 3
+    range: 1
+right:
+  word_uuid: bacd037d-6d6b-4992-9fff-bf9f8ccd1a53
+  text: 識
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_012-52a.1
+    textline: 多聞識乎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T04:53:30.829+09:00'

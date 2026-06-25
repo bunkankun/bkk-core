@@ -1,0 +1,21 @@
+uuid: 84da02a4-17e2-4c42-aa2a-0b056ffc9141
+type: word-relation
+group_uuid: 135a77b5-86ea-57b2-8da4-cd26480d5636
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 07e42c3a-fe9c-494a-ab7d-1f893924f34c
+  text: 動
+  concept: STIMULATE
+  concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+right:
+  word_uuid: 99ab77d1-1f1e-4bf0-a9f7-fe664a176402
+  text: 鼓
+  concept: ENCOURAGE
+  concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

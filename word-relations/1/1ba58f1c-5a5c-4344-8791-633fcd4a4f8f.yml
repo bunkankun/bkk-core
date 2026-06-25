@@ -1,0 +1,32 @@
+uuid: 1ba58f1c-5a5c-4344-8791-633fcd4a4f8f
+type: word-relation
+group_uuid: 16a6a39c-c986-4ad7-bbc8-cfe2f3a91ce5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5d7fa136-01d7-4340-bd27-153c72d02e6a
+  text: 技
+  concept: CRAFT
+  concept_uuid: d3cbb229-6196-444e-b9bf-4ad1932f6dd4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7bed6223-67d4-406a-be35-5c3cca125bd3
+    line_id: KR3c0005_tls_050-28a.2
+    textline: 今商官技藝之士
+    offset: 4
+    range: 1
+right:
+  word_uuid: 57f7d7b2-f2a9-4c73-83ea-40104cdd6d0b
+  text: 藝
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7bed6223-67d4-406a-be35-5c3cca125bd3
+    line_id: KR3c0005_tls_050-28a.2
+    textline: 今商官技藝之士
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

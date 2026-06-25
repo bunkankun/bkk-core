@@ -1,0 +1,32 @@
+uuid: 48af4a5a-394d-488c-af4a-5a394d388c48
+type: word-relation
+group_uuid: 9e165965-5bf4-57e2-99bb-d95310db55b5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6c24ad72-fe13-45ac-b89c-c56e8d8cf492
+  text: 非
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.5
+    textline: 非禮也
+    offset: 1
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.5
+    textline: 非禮也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T21:18:54.87+09:00'

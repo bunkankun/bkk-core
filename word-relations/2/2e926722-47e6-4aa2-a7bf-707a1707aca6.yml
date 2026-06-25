@@ -1,0 +1,30 @@
+uuid: 2e926722-47e6-4aa2-a7bf-707a1707aca6
+type: word-relation
+group_uuid: 78b8eef8-59b9-4787-a90e-93d28226a1a9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 孟子
+    line_uuid: 0c42f59e-ae11-4bf0-aff9-206045c0be03
+    textline: 『是何足與言仁義也云爾
+    offset: 7
+    range: 1
+right:
+  word_uuid: 318c4644-941b-4f78-99ce-7e1d11dc7e2f
+  text: 義
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 孟子
+    line_uuid: 0c42f59e-ae11-4bf0-aff9-206045c0be03
+    textline: 『是何足與言仁義也云爾
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

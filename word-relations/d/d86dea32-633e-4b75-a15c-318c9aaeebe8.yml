@@ -1,0 +1,32 @@
+uuid: d86dea32-633e-4b75-a15c-318c9aaeebe8
+type: word-relation
+group_uuid: cd115148-aecc-4fa0-b937-605180f94a57
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 93858190-f364-4ed0-8b88-f3bb6af8d335
+    line_id: KR3j0080_tls_003-4a.3
+    textline: 不在賢哲與辯慧
+    offset: 3
+    range: 1
+right:
+  word_uuid: 613dc0a4-c6ab-4286-affe-56c4d0d4a1a7
+  text: 哲
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論衡
+    line_uuid: 93858190-f364-4ed0-8b88-f3bb6af8d335
+    line_id: KR3j0080_tls_003-4a.3
+    textline: 不在賢哲與辯慧
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

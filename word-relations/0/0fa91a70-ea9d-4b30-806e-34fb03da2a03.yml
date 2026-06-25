@@ -1,0 +1,30 @@
+uuid: 0fa91a70-ea9d-4b30-806e-34fb03da2a03
+type: word-relation
+group_uuid: 0fa91a70-ea9d-4b30-806e-34fb03da2a03
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c8ecd3cf-5ede-4e9c-96df-6e276cd0fc44
+  text: 又復
+  concept: ALSO
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  attestation:
+    text_title: 法華經
+    line_uuid: 5df360a6-10e0-4016-92f2-c5d17d0aa888
+    textline: 又復不行
+    offset: 1
+    range: 2
+right:
+  word_uuid: 6d006ae4-3e24-4965-b8fe-332ba1eece9a
+  text: 亦
+  concept: ALSO
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  attestation:
+    text_title: 法華經
+    line_uuid: b5dacc23-90d3-4d9d-a261-7de341913125
+    textline: 亦不分別
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

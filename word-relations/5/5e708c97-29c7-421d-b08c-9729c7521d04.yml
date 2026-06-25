@@ -1,0 +1,32 @@
+uuid: 5e708c97-29c7-421d-b08c-9729c7521d04
+type: word-relation
+group_uuid: 985bd0ae-06b5-5621-a411-adfcf9a195d8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.37
+    textline: 癡無智慧
+    offset: 3
+    range: 1
+right:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.37
+    textline: 癡無智慧
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-14T17:58:34.764+09:00'

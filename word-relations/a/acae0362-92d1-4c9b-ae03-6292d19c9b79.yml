@@ -1,0 +1,32 @@
+uuid: acae0362-92d1-4c9b-ae03-6292d19c9b79
+type: word-relation
+group_uuid: d3bfaf69-7e5c-5e1c-8c3e-be29ba87ea97
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3dc1691c-96bb-45d7-9048-da500ae22596
+  text: 望
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_028-44a.24
+    textline: 望絕無冀
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2db8b174-7a40-487f-b954-8f007fa7f4df
+  text: 冀
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_028-44a.24
+    textline: 望絕無冀
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-23T22:45:48.84+09:00'

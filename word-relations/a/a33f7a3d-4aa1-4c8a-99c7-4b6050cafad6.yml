@@ -1,0 +1,21 @@
+uuid: a33f7a3d-4aa1-4c8a-99c7-4b6050cafad6
+type: word-relation
+group_uuid: c3291c66-b6e4-5cea-9ed4-ba84079396f5
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 3ae44ddc-82e5-4aac-b87f-f481f677248f
+  text: 詢
+  concept: ASK
+  concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+right:
+  word_uuid: 2bd3783c-3278-4f7f-a810-175f04ee038f
+  text: 對
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

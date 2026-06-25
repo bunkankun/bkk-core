@@ -1,0 +1,18 @@
+uuid: 1b549269-5513-4cf6-b74e-dc3306d4417f
+type: word-relation
+group_uuid: 2639989d-338e-5e4e-8039-1ead58f84abd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6e7fbe7e-e839-4b73-aaf4-6b1251a9dc5d
+  text: 獲
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+right:
+  word_uuid: 0d7d00ce-bdeb-4c5f-921b-dea9843b2c98
+  text: 受
+  concept: SUFFER
+  concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 44a1e792-c5da-4251-adfe-5e1e114d78f9
+type: word-relation
+group_uuid: be7d68b1-2436-49e6-8e92-0b7e70c3856b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 64f6ebb2-6d33-41f9-bbfb-8b8b7e8cc168
+    line_id: KR3c0005_tls_001-28a.4
+    textline: 霸王之名可成
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6eff3384-609e-4bcd-a623-10136fec8177
+  text: 霸
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 64f6ebb2-6d33-41f9-bbfb-8b8b7e8cc168
+    line_id: KR3c0005_tls_001-28a.4
+    textline: 霸王之名可成
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

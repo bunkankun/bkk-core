@@ -1,0 +1,32 @@
+uuid: 069ef31a-a742-487d-9ef3-1aa742287d81
+type: word-relation
+group_uuid: f01bec12-3dee-53ae-9c0c-8e7e1d06add3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b0068e61-a227-49bd-9395-c186eb0bad27
+  text: 智
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_003-26a.5
+    textline: 釋智謀
+    offset: 2
+    range: 1
+right:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_003-26a.6
+    textline: 去巧故
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-17T18:11:44.261+09:00'

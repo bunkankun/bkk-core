@@ -1,0 +1,32 @@
+uuid: f3328a87-2776-4b9b-8f27-58d18b102229
+type: word-relation
+group_uuid: f3328a87-2776-4b9b-8f27-58d18b102229
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c0ecba53-6ca7-462a-a84a-92eb9e2190a7
+  text: 誹
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 淮南子
+    line_uuid: 122c9e93-c44c-4931-a597-f7693a6cb97e
+    line_id: KR3j0010_tls_009-48a.11
+    textline: 舜立誹謗之木
+    offset: 3
+    range: 1
+right:
+  word_uuid: ed06042d-d545-4a60-9192-0e30421d6014
+  text: 謗
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 淮南子
+    line_uuid: 122c9e93-c44c-4931-a597-f7693a6cb97e
+    line_id: KR3j0010_tls_009-48a.11
+    textline: 舜立誹謗之木
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

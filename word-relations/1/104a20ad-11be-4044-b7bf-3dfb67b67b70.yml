@@ -1,0 +1,32 @@
+uuid: 104a20ad-11be-4044-b7bf-3dfb67b67b70
+type: word-relation
+group_uuid: 104a20ad-11be-4044-b7bf-3dfb67b67b70
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: fb947eff-e2ac-4a6d-b835-0db3b6d04369
+  text: 越
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea32129b-b347-45d7-8cea-9f2abe7737e7
+    line_id: KR3c0005_tls_007-15a.6
+    textline: 以為越其職也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 27a976d2-9596-4744-bda4-b3693e291c00
+  text: 職
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea32129b-b347-45d7-8cea-9f2abe7737e7
+    line_id: KR3c0005_tls_007-15a.6
+    textline: 以為越其職也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

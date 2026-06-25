@@ -1,0 +1,32 @@
+uuid: cddc6c1d-10b3-45a8-9c6c-1d10b3c5a8ac
+type: word-relation
+group_uuid: d2ddfa61-2860-556f-bc16-ac66ef5fc48f
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.5
+    textline: 順道而行
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.6
+    textline: 循理而言
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-02T03:17:07.508+09:00'

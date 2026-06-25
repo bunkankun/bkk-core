@@ -1,0 +1,32 @@
+uuid: 8e6361c3-211a-46c2-a1f9-4e62f365737f
+type: word-relation
+group_uuid: 823a5fc1-9662-4794-8e43-a3ab7f63a4ea
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8bf96ccb-49d3-4970-b889-35fc786017c6
+  text: 淵
+  concept: LAKE
+  concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+  attestation:
+    text_title: 淮南子
+    line_uuid: 5e5170cf-bd70-4265-99d2-eefd5563a5c4
+    line_id: KR3j0010_tls_001-1a.30
+    textline: 淵以之深
+    offset: 1
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 淮南子
+    line_uuid: 5e5170cf-bd70-4265-99d2-eefd5563a5c4
+    line_id: KR3j0010_tls_001-1a.30
+    textline: 淵以之深
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

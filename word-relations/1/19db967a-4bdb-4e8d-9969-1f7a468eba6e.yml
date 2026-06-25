@@ -1,0 +1,32 @@
+uuid: 19db967a-4bdb-4e8d-9969-1f7a468eba6e
+type: word-relation
+group_uuid: 19db967a-4bdb-4e8d-9969-1f7a468eba6e
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d608d387-682c-410d-8dbe-7314d5603a2b
+  text: 不
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 578bdaa3-9658-44c8-9e96-59354fb07237
+    line_id: KR3c0005_tls_002-6a.2
+    textline: 夫進而擊趙不能取
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7644db0e-2ec7-4cd8-9970-043e74a271ae
+  text: 弗
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 713c0f89-3b55-4938-8006-a82f65542b34
+    line_id: KR3c0005_tls_002-6a.3
+    textline: 退而攻韓弗能拔
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

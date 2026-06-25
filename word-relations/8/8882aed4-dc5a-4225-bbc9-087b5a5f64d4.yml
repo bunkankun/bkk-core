@@ -1,0 +1,21 @@
+uuid: 8882aed4-dc5a-4225-bbc9-087b5a5f64d4
+type: word-relation
+group_uuid: f76de1e3-1705-5fad-9fa5-e8b6f3b509fc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+right:
+  word_uuid: e4f20113-bac5-4d89-8350-43cedcd50cee
+  text: 罪
+  concept: ACCUSE
+  concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

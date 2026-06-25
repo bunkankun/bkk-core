@@ -1,0 +1,32 @@
+uuid: a5dc2dcf-8ab6-445a-9d70-90421ec1a08e
+type: word-relation
+group_uuid: 07192a22-6713-4b7a-b876-52d4634a7749
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c3eea40c-b0ef-4939-9240-1c8b45ed59d9
+    line_id: KR3j0009_tls_002-17a.37
+    textline: 凡六欲者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5ff172d0-d9cc-4643-85dd-cdc0cefa0625
+  text: 六
+  concept: SIX
+  concept_uuid: a4a9ab3f-4ae7-4675-98de-77e98ee9afa2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c3eea40c-b0ef-4939-9240-1c8b45ed59d9
+    line_id: KR3j0009_tls_002-17a.37
+    textline: 凡六欲者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

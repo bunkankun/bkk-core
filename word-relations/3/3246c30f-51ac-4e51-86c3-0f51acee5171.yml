@@ -1,0 +1,32 @@
+uuid: 3246c30f-51ac-4e51-86c3-0f51acee5171
+type: word-relation
+group_uuid: 29cfbcc6-0fc1-5099-ad29-e06e00110670
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: cd868119-60a6-4ffb-8e88-8314420b9913
+  text: 約
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.21
+    textline: 約而能張
+    offset: 1
+    range: 1
+right:
+  word_uuid: fac8ddc5-4319-4bd4-a98c-6b74af7d1843
+  text: 張
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.21
+    textline: 約而能張
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-24T05:45:27.37+09:00'

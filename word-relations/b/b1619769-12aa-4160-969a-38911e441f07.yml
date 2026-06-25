@@ -1,0 +1,32 @@
+uuid: b1619769-12aa-4160-969a-38911e441f07
+type: word-relation
+group_uuid: 7e470380-6643-45bb-b800-92ed46bc58ce
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 韓非子
+    line_uuid: 56c883ae-d484-46d1-88ab-feed5282f44c
+    line_id: KR3c0005_tls_015-5a.2
+    textline: 官職可以重求
+    offset: 1
+    range: 1
+right:
+  word_uuid: 18d8a4fe-b607-403c-bbbd-bffc7e1ca089
+  text: 職
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 韓非子
+    line_uuid: 56c883ae-d484-46d1-88ab-feed5282f44c
+    line_id: KR3c0005_tls_015-5a.2
+    textline: 官職可以重求
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

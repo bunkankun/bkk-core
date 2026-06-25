@@ -1,0 +1,32 @@
+uuid: 6a0ea311-8b61-48bc-b223-e4adae1f4d3b
+type: word-relation
+group_uuid: 6a0ea311-8b61-48bc-b223-e4adae1f4d3b
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 18ee80e2-e61d-4643-94ca-d32beaa18d40
+  text: 衰
+  concept: DECLINE
+  concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a91ff30-3a95-4e5b-b32c-a890c405e16d
+    line_id: KR3c0005_tls_004-4a.3
+    textline: 主道衰亡
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3b3770be-9e9c-4ff3-80dc-248f3e8b1537
+  text: 亡
+  concept: DISAPPEAR
+  concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a91ff30-3a95-4e5b-b32c-a890c405e16d
+    line_id: KR3c0005_tls_004-4a.3
+    textline: 主道衰亡
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

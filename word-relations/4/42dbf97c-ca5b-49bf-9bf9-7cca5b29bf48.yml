@@ -1,0 +1,32 @@
+uuid: 42dbf97c-ca5b-49bf-9bf9-7cca5b29bf48
+type: word-relation
+group_uuid: 4e0b6509-2413-52db-b67c-c0ac6443f403
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8d1c29e9-db13-4cdf-a0a3-a575e7af7f65
+  text: 經
+  concept: RULE
+  concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.11
+    textline: 故仁以為經
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9bc82e2d-a151-4cb5-b850-a86c1089f500
+  text: 紀
+  concept: RULE
+  concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.12
+    textline: 義以為紀
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T00:21:03.44+09:00'

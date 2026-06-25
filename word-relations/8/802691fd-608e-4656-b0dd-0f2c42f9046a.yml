@@ -1,0 +1,32 @@
+uuid: 802691fd-608e-4656-b0dd-0f2c42f9046a
+type: word-relation
+group_uuid: 4d302c52-d31c-4fc6-beca-dbb8e6ccc9d4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 148f362c-2c39-4e2e-ba6b-d78fd3ca3a4d
+  text: 清
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 70bc39b0-2704-421d-9433-ae098dee6bd2
+    line_id: KR3j0009_tls_005-21a.10
+    textline: 清濁之衷也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2c784faa-2f45-4393-a118-a48090d44b36
+  text: 濁
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 70bc39b0-2704-421d-9433-ae098dee6bd2
+    line_id: KR3j0009_tls_005-21a.10
+    textline: 清濁之衷也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

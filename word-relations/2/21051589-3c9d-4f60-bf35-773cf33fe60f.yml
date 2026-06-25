@@ -1,0 +1,21 @@
+uuid: 21051589-3c9d-4f60-bf35-773cf33fe60f
+type: word-relation
+group_uuid: 20a8b2e6-41ca-500a-b2cc-2317127f42d4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 61b7bbbc-c6ce-47ee-b356-00e589cef8bb
+  text: 從
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+right:
+  word_uuid: e980266b-4c88-4642-a6fe-d17315f4246c
+  text: 隨
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

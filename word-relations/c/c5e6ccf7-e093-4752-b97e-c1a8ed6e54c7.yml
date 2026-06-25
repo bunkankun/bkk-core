@@ -1,0 +1,32 @@
+uuid: c5e6ccf7-e093-4752-b97e-c1a8ed6e54c7
+type: word-relation
+group_uuid: c5e6ccf7-e093-4752-b97e-c1a8ed6e54c7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 38c52fac-716c-4678-98c0-c4ab66442ce0
+  text: 事
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 429cb20a-853e-4173-903c-fa42a3c0f6f3
+    line_id: KR6q0002_Yan_003-1128a.8
+    textline: “事無不盡
+    offset: 2
+    range: 1
+right:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 7c73a1d3-0f2e-490b-af88-6b4baf125a5f
+    line_id: KR6q0002_Yan_003-1136a.7
+    textline: 理無不備
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

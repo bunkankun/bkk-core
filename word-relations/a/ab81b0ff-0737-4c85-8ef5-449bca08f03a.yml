@@ -1,0 +1,32 @@
+uuid: ab81b0ff-0737-4c85-8ef5-449bca08f03a
+type: word-relation
+group_uuid: ab81b0ff-0737-4c85-8ef5-449bca08f03a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b1a62539-2f69-4862-91ca-6f70cf157f2d
+  text: 虎
+  concept: TIGER
+  concept_uuid: ab2882c3-b19a-4c96-a878-853f5c64461f
+  attestation:
+    text_title: 禮記
+    line_uuid: cde5d4fa-1bc8-4048-9aca-3680c54e21f2
+    line_id: KR1d0052_tls_011-6a.9
+    textline: 虎豹之皮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1268b99c-de4c-47cc-b8a4-451adbbe9cfa
+  text: 豹
+  concept: FELINE
+  concept_uuid: fafaea8f-5524-409f-bc93-dd91ee6542da
+  attestation:
+    text_title: 禮記
+    line_uuid: cde5d4fa-1bc8-4048-9aca-3680c54e21f2
+    line_id: KR1d0052_tls_011-6a.9
+    textline: 虎豹之皮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

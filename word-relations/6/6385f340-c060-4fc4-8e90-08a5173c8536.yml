@@ -1,0 +1,32 @@
+uuid: 6385f340-c060-4fc4-8e90-08a5173c8536
+type: word-relation
+group_uuid: 6385f340-c060-4fc4-8e90-08a5173c8536
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 094dfe57-7bc3-4a62-9117-40e9a7723d8d
+    line_id: KR2g0003_tls_007-10a.56
+    textline: 遲速高下
+    offset: 4
+    range: 1
+right:
+  word_uuid: ff0c2d21-7607-4565-a9e4-0a7148ebf601
+  text: 下
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 094dfe57-7bc3-4a62-9117-40e9a7723d8d
+    line_id: KR2g0003_tls_007-10a.56
+    textline: 遲速高下
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 1411c812-ac2a-4ce6-91c8-12ac2a7ce6f6
+type: word-relation
+group_uuid: b982b686-d93c-5ef2-95e9-09d968b61665
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: d8b72e93-fc8e-43a3-a70b-a91e992ca38d
+  text: 師
+  concept: TEACHER
+  concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_011-6a.6
+    textline: 故師為君
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8bcdf9f0-97dd-4d20-8df9-f097dd4d2044
+  text: 學
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_011-6a.7
+    textline: 而學為臣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-28T04:29:19.745+09:00'

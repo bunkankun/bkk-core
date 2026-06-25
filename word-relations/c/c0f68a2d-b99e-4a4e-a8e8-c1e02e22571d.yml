@@ -1,0 +1,32 @@
+uuid: c0f68a2d-b99e-4a4e-a8e8-c1e02e22571d
+type: word-relation
+group_uuid: c0f68a2d-b99e-4a4e-a8e8-c1e02e22571d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 292750ce-f9cc-41a2-85ed-7c7fca4eba9a
+  text: 閑
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 荀子
+    line_uuid: ab81c471-56c1-46fb-9d95-3aef04a0244e
+    line_id: KR3a0002_tls_002-3a.20
+    textline: 多見曰閑
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3e71a304-275b-48cf-be9e-58fcdd80d237
+  text: 陋
+  concept: NARROW
+  concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+  attestation:
+    text_title: 荀子
+    line_uuid: 5d6e6770-a2cd-4059-826c-e19ff4347469
+    line_id: KR3a0002_tls_002-3a.21
+    textline: 少見曰陋
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

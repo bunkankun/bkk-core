@@ -1,0 +1,32 @@
+uuid: ff1c24e2-06f6-42c7-901f-87c33ff8ea64
+type: word-relation
+group_uuid: ff1c24e2-06f6-42c7-901f-87c33ff8ea64
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 397932c0-5587-4f18-b32b-e4e6fb7113b8
+  text: 毀
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: c8fc0f05-b5d3-47b8-b30f-c541ec663c88
+    line_id: KR3c0005_tls_006-26a.7
+    textline: 毀國之厚以利其家
+    offset: 1
+    range: 1
+right:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: c8fc0f05-b5d3-47b8-b30f-c541ec663c88
+    line_id: KR3c0005_tls_006-26a.7
+    textline: 毀國之厚以利其家
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

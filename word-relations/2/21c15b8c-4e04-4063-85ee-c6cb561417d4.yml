@@ -1,0 +1,21 @@
+uuid: 21c15b8c-4e04-4063-85ee-c6cb561417d4
+type: word-relation
+group_uuid: 151c4027-a4a5-55aa-a7a7-a122efed05ee
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 03adcb9a-72c7-4a52-986d-c6491ab45bd7
+  text: 獨
+  concept: ALONE
+  concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+right:
+  word_uuid: 18cd171c-ca23-41b6-ba41-15bd7be5ce9a
+  text: 并併
+  concept: TOGETHER
+  concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

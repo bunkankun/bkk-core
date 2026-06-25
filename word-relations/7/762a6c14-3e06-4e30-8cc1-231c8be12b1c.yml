@@ -1,0 +1,32 @@
+uuid: 762a6c14-3e06-4e30-8cc1-231c8be12b1c
+type: word-relation
+group_uuid: 762a6c14-3e06-4e30-8cc1-231c8be12b1c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 17b0f160-402a-42f1-ba5e-380bae6ed8a5
+  text: 移
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 史記
+    line_uuid: a2262b1c-53e4-4f48-b32b-af73931db27b
+    line_id: KR2a0001_tls_006-299a.30
+    textline: 各案署不移徙
+    offset: 5
+    range: 1
+right:
+  word_uuid: 86241fe5-a89e-494e-8d80-a0efb4be8472
+  text: 徙
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 史記
+    line_uuid: a2262b1c-53e4-4f48-b32b-af73931db27b
+    line_id: KR2a0001_tls_006-299a.30
+    textline: 各案署不移徙
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

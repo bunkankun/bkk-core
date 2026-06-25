@@ -1,0 +1,32 @@
+uuid: c998aafb-4941-4e24-be28-0e1f2d783e26
+type: word-relation
+group_uuid: c998aafb-4941-4e24-be28-0e1f2d783e26
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 16d965ce-e657-4f0d-a2a1-ba7b00cf89da
+  text: 在
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 論語
+    line_uuid: 82422883-59c3-452a-93c7-6a4d97e3a198
+    line_id: KR1h0004_tls_001-11a.3
+    textline: 「父在
+    offset: 3
+    range: 1
+right:
+  word_uuid: ea391d25-a454-4b42-ad7f-2f2ec2489a19
+  text: 沒
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 論語
+    line_uuid: 32a4af62-6541-42a4-92d5-4f8f808de069
+    line_id: KR1h0004_tls_001-11a.5
+    textline: 父沒
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

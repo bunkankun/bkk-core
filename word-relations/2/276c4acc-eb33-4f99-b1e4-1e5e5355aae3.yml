@@ -1,0 +1,32 @@
+uuid: 276c4acc-eb33-4f99-b1e4-1e5e5355aae3
+type: word-relation
+group_uuid: 147c146a-5c22-422d-bfd0-d991b6239164
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: aab49d79-64e2-4d1f-abd9-4c2dc512f0ab
+  text: 聞
+  concept: SMELL
+  concept_uuid: 9bf7a297-3656-483f-a477-7b618b474da6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8fa46bb8-26e3-4131-be5c-bc57afd662f9
+    line_id: KR3c0005_tls_010-8a.4
+    textline: 聞酒臭而還
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7a3dc458-857a-4690-8bb8-b2fcbe32a83c
+  text: 臭
+  concept: ODOUR
+  concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8fa46bb8-26e3-4131-be5c-bc57afd662f9
+    line_id: KR3c0005_tls_010-8a.4
+    textline: 聞酒臭而還
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

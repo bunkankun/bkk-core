@@ -1,0 +1,32 @@
+uuid: 923b8f75-3b5d-40c4-8039-1e338beb8aeb
+type: word-relation
+group_uuid: ee146e19-b580-42f1-b883-0175544facc1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: f295fda1-0bcd-487e-9fae-877743bea672
+  text: 嶽
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 毛詩
+    line_uuid: 0c73d3b2-dbfb-4f87-9875-ebcf587acfc4
+    line_id: KR1c0001_tls_028-43a.4
+    textline: 嶞山喬嶽
+    offset: 4
+    range: 1
+right:
+  word_uuid: b2a9bee1-1635-4fb0-b131-e61bf4c3047c
+  text: 喬
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 毛詩
+    line_uuid: 0c73d3b2-dbfb-4f87-9875-ebcf587acfc4
+    line_id: KR1c0001_tls_028-43a.4
+    textline: 嶞山喬嶽
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 93fd6bdf-10bb-4d91-bd6b-df10bb4d91f3
+type: word-relation
+group_uuid: b796f7a7-f16c-5280-9d89-96bfd3376c71
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9343e935-75e9-4800-83e9-3575e9d80048
+  text: 德法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 大戴禮記
+    line_id: CH1e0875_CHANT_008-8a.48
+    textline: 無德法而專以刑法御民
+    offset: 2
+    range: 2
+right:
+  word_uuid: 29bb2c4c-3d22-4265-8df7-ae7ce7548642
+  text: 刑法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 大戴禮記
+    line_id: CH1e0875_CHANT_008-8a.48
+    textline: 無德法而專以刑法御民
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T20:01:32.251+09:00'

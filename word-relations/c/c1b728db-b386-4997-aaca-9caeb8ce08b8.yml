@@ -1,0 +1,32 @@
+uuid: c1b728db-b386-4997-aaca-9caeb8ce08b8
+type: word-relation
+group_uuid: eae27d17-4fe0-40d0-ad2b-f45680076d35
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e8033401-afc8-4acd-86b7-1333e4027785
+  text: 賣
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+  attestation:
+    text_title: 韓非子
+    line_uuid: c9066d87-5d77-4574-a783-d8044095d80c
+    line_id: KR3c0005_tls_023-41a.3
+    textline: “虜自賣裘而不售
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7db8133a-fd44-47b2-b984-46f6fc318e1e
+  text: 售
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+  attestation:
+    text_title: 韓非子
+    line_uuid: c9066d87-5d77-4574-a783-d8044095d80c
+    line_id: KR3c0005_tls_023-41a.3
+    textline: “虜自賣裘而不售
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

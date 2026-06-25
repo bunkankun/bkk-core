@@ -1,0 +1,32 @@
+uuid: 4889b9bb-0698-4b4d-a122-866382fb894c
+type: word-relation
+group_uuid: 4889b9bb-0698-4b4d-a122-866382fb894c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e59e4003-09bc-4625-869b-6ea0a2d01db6
+  text: 姓
+  concept: PERSONAL NAME
+  concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e440daf6-6299-4fda-ac9c-7e21594e1dea
+    line_id: KR1e0001_tls_009-279a.9
+    textline: 同姓
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4bba8658-ce64-4f09-85ab-babdb61aea3a
+  text: 族
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 20ff1571-c306-4f19-94e8-4a015e4f306c
+    line_id: KR1e0001_tls_009-279a.13
+    textline: 同族
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

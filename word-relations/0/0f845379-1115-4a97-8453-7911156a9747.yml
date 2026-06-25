@@ -1,0 +1,32 @@
+uuid: 0f845379-1115-4a97-8453-7911156a9747
+type: word-relation
+group_uuid: d67e7188-c0b0-4334-a53a-8234a6d0f873
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e76f6893-dcb4-442f-89f0-d72ef02a217b
+  text: 桎
+  concept: FETTERS
+  concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-2a.9
+    textline: 桎梏死者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 724d1938-54cf-4317-b1a6-841e02e9085a
+  text: 梏
+  concept: FETTERS
+  concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-2a.9
+    textline: 桎梏死者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T06:03:11.305+09:00'

@@ -1,0 +1,35 @@
+uuid: 701b164e-a402-44cf-9acf-4af2bea68033
+type: word-relation
+group_uuid: a875f0eb-edfb-4adf-8481-2ea9a7834423
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1ea59152-f83a-4b3e-ad3a-62adea9867c9
+  text: 先
+  concept: PRECEDE
+  concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+  attestation:
+    text_title: 論語
+    line_uuid: 1eb7cfd4-aa88-4ab4-8f4f-4f8f771534d6
+    line_id: KR1h0004_tls_011-1a.4
+    textline: 「先進於禮樂
+    offset: 2
+    range: 1
+right:
+  word_uuid: fc2f0eaf-3d04-4fb3-82b3-ee701d893b7f
+  text: 後
+  concept: LAST
+  concept_uuid: 65f2bb5a-4974-410b-a35d-8c4033a5da80
+  attestation:
+    text_title: 論語
+    line_uuid: 1e4c4ce2-2709-4283-92dc-1b6565053225
+    line_id: KR1h0004_tls_011-1a.6
+    textline: 後進於禮樂
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

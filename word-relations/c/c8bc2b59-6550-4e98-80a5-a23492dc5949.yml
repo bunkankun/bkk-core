@@ -1,0 +1,32 @@
+uuid: c8bc2b59-6550-4e98-80a5-a23492dc5949
+type: word-relation
+group_uuid: c8bc2b59-6550-4e98-80a5-a23492dc5949
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓非子
+    line_uuid: eabb8797-61f5-47fb-9e3e-0f36a37f9390
+    line_id: KR3c0005_tls_014-68a.4
+    textline: 敗其形容
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1cbd75c0-b10c-4dc2-a14d-a5f76a74b54d
+  text: 容
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 韓非子
+    line_uuid: eabb8797-61f5-47fb-9e3e-0f36a37f9390
+    line_id: KR3c0005_tls_014-68a.4
+    textline: 敗其形容
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

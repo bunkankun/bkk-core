@@ -1,0 +1,32 @@
+uuid: b7a2e32e-ca33-46e0-b547-cec195825eec
+type: word-relation
+group_uuid: b7a2e32e-ca33-46e0-b547-cec195825eec
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ed0fd511-bb6e-4720-91ed-9b870350a6eb
+  text: 風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 160f8bc2-2f73-4da2-b8b2-dab72fbe919a
+    line_id: KR3j0009_tls_005-12a.37
+    textline: 風雨時
+    offset: 1
+    range: 1
+right:
+  word_uuid: bf1e282b-bc1c-46ab-b4e6-991beb682b93
+  text: 雨
+  concept: RAIN
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 160f8bc2-2f73-4da2-b8b2-dab72fbe919a
+    line_id: KR3j0009_tls_005-12a.37
+    textline: 風雨時
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

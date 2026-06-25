@@ -1,0 +1,18 @@
+uuid: 4bcb8bc5-4b08-464c-a76a-c81f61d425cf
+type: word-relation
+group_uuid: 90e29a86-a7b1-56be-affc-c06c4ffd5e3d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0870b526-e9f5-4f64-9d85-27159efe3055
+  text: 溝
+  concept: CANAL
+  concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+right:
+  word_uuid: 75e9694e-cdc5-4612-9899-69691bd1732b
+  text: 洫
+  concept: CANAL
+  concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+source:
+  source_file: word-relations.xml

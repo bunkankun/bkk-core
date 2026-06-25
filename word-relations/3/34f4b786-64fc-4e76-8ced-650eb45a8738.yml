@@ -1,0 +1,30 @@
+uuid: 34f4b786-64fc-4e76-8ced-650eb45a8738
+type: word-relation
+group_uuid: 34f4b786-64fc-4e76-8ced-650eb45a8738
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e59450e3-d35f-47cf-a1a6-09198ae01ca5
+  text: 住
+  concept: REMAIN
+  concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: be4069d5-08f7-4b8a-97ae-b454270e7a4e
+    textline: 無住無往
+    offset: 2
+    range: 1
+right:
+  word_uuid: 138621dc-2700-4c5e-aae3-50ca93e2e454
+  text: 往
+  concept: GO TO
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: be4069d5-08f7-4b8a-97ae-b454270e7a4e
+    textline: 無住無往
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

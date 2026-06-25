@@ -1,0 +1,32 @@
+uuid: 7dea90ae-0de9-4a38-ae51-9ba3b0104a74
+type: word-relation
+group_uuid: 7dea90ae-0de9-4a38-ae51-9ba3b0104a74
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 393e0892-a84b-4e29-9bb4-4e07ac45dda3
+  text: 沈
+  concept: ADDICTED
+  concept_uuid: 16c56e86-cab7-4df2-8b9e-aa8565c10372
+  attestation:
+    text_title: 尚書
+    line_uuid: f54cb221-0924-496b-a7ff-82c1e3cf2bab
+    line_id: KR1b0001_tls_026-2a.7
+    textline: 我用沈酗于酒
+    offset: 3
+    range: 1
+right:
+  word_uuid: 62b80f50-41f3-444d-a157-6ba25f5ba65e
+  text: 酗
+  concept: ADDICTED
+  concept_uuid: 16c56e86-cab7-4df2-8b9e-aa8565c10372
+  attestation:
+    text_title: 尚書
+    line_uuid: f54cb221-0924-496b-a7ff-82c1e3cf2bab
+    line_id: KR1b0001_tls_026-2a.7
+    textline: 我用沈酗于酒
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

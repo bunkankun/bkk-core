@@ -1,0 +1,32 @@
+uuid: 8834a074-cdd3-433c-aa85-817a3f1803e3
+type: word-relation
+group_uuid: 8834a074-cdd3-433c-aa85-817a3f1803e3
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6f011eae-6136-4810-9889-015a78f7756b
+  text: 疾
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 論衡
+    line_uuid: 4e797853-c637-4635-ac78-0b37b1bf0609
+    line_id: KR3j0080_tls_006-5a.54
+    textline: 伯牛空居而遭惡疾
+    offset: 8
+    range: 1
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 4e797853-c637-4635-ac78-0b37b1bf0609
+    line_id: KR3j0080_tls_006-5a.54
+    textline: 伯牛空居而遭惡疾
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4bd2f87a-e1fb-45c8-ada5-59dadc003e25
+type: word-relation
+group_uuid: d60f1f9b-1f5e-45f1-9437-0b9fc1650b71
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a349b0d9-6362-430d-8b94-2492b4a473c1
+  text: 臺
+  concept: TOWER
+  concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+  attestation:
+    text_title: 孟子
+    line_uuid: 947ab10f-d4c2-4510-8e08-bba0f24399cb
+    line_id: KR1h0001_tls_001-4a.29
+    textline: 雖有臺池鳥獸
+    offset: 3
+    range: 1
+right:
+  word_uuid: 760a0b3c-b829-4546-9474-813588fba9d6
+  text: 池
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 孟子
+    line_uuid: 947ab10f-d4c2-4510-8e08-bba0f24399cb
+    line_id: KR1h0001_tls_001-4a.29
+    textline: 雖有臺池鳥獸
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

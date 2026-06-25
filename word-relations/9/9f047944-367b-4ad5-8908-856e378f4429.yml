@@ -1,0 +1,32 @@
+uuid: 9f047944-367b-4ad5-8908-856e378f4429
+type: word-relation
+group_uuid: 9f047944-367b-4ad5-8908-856e378f4429
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 孟子
+    line_uuid: c3f3ac84-d6d9-4ea9-b428-0a55ca315630
+    line_id: KR1h0001_tls_001-17a.7
+    textline: 此率獸而食人也
+    offset: 3
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 孟子
+    line_uuid: c3f3ac84-d6d9-4ea9-b428-0a55ca315630
+    line_id: KR1h0001_tls_001-17a.7
+    textline: 此率獸而食人也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

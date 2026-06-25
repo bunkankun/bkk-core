@@ -1,0 +1,18 @@
+uuid: 7d89ecee-950c-44b4-84ea-a53f58b081d6
+type: word-relation
+group_uuid: 39364ef0-6f8d-5d76-aaac-cca3aa7b1cd6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+right:
+  word_uuid: b9195b23-77a1-4c2d-a7dd-dc469891f588
+  text: 毒
+  concept: POISON
+  concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+source:
+  source_file: word-relations.xml

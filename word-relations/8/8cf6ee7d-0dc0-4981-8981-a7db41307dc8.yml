@@ -1,0 +1,32 @@
+uuid: 8cf6ee7d-0dc0-4981-8981-a7db41307dc8
+type: word-relation
+group_uuid: 8cf6ee7d-0dc0-4981-8981-a7db41307dc8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 11c38c6a-361f-4e4f-9c0f-bafd091af9a6
+  text: 鄰
+  concept: NEIGHBOUR
+  concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61619732-17c2-43da-8802-466b15467772
+    line_id: KR3c0005_tls_001-11a.7
+    textline: 四鄰諸侯不服
+    offset: 2
+    range: 1
+right:
+  word_uuid: 50fb935e-11d3-4d21-b3ac-36b2f3cc7ad1
+  text: 四
+  concept: EVERYWHERE
+  concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61619732-17c2-43da-8802-466b15467772
+    line_id: KR3c0005_tls_001-11a.7
+    textline: 四鄰諸侯不服
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

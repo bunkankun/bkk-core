@@ -1,0 +1,21 @@
+uuid: d5cc9d4b-ca64-4781-bec8-e11d4871de2b
+type: word-relation
+group_uuid: 389bd2b7-4594-55b6-b299-2cce614c91e3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6f4a2c40-8d9e-4fb3-852b-644b1fc63441
+  text: 玷
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+right:
+  word_uuid: f0ea3d9d-2299-41d8-bcd5-e1df825c2a9f
+  text: 污
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

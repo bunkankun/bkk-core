@@ -1,0 +1,32 @@
+uuid: 3aaebb70-0b17-4a7a-97e6-0ec80cb455af
+type: word-relation
+group_uuid: 3aaebb70-0b17-4a7a-97e6-0ec80cb455af
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 論語
+    line_uuid: 2bc64346-6bb5-4e5f-9054-3de5f4f44675
+    line_id: KR1h0004_tls_001-14a.5
+    textline: 敏於事而慎於言
+    offset: 3
+    range: 1
+right:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 論語
+    line_uuid: 2bc64346-6bb5-4e5f-9054-3de5f4f44675
+    line_id: KR1h0004_tls_001-14a.5
+    textline: 敏於事而慎於言
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

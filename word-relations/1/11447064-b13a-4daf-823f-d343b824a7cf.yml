@@ -1,0 +1,32 @@
+uuid: 11447064-b13a-4daf-823f-d343b824a7cf
+type: word-relation
+group_uuid: 11447064-b13a-4daf-823f-d343b824a7cf
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 076ab9e4-b73a-4345-a26c-70ebd8e19fde
+  text: 引
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1ac078c0-ac0a-400c-8483-3cbb1c553fb8
+    line_id: KR3c0005_tls_001-17a.6
+    textline: 引軍而退
+    offset: 1
+    range: 1
+right:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1ac078c0-ac0a-400c-8483-3cbb1c553fb8
+    line_id: KR3c0005_tls_001-17a.6
+    textline: 引軍而退
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

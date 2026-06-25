@@ -1,0 +1,32 @@
+uuid: cc7903ed-721d-4e98-8d53-adf46b2d1a23
+type: word-relation
+group_uuid: cc7903ed-721d-4e98-8d53-adf46b2d1a23
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5054c394-e57f-405d-bdfe-2e7d2a3b41fd
+  text: 酒
+  concept: LIQUOR
+  concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 828dedf3-05a3-4681-b1e3-c2a1f2eb2724
+    line_id: KR3j0009_tls_002-17a.47
+    textline: 非敗酒之謂也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4a289240-2294-4588-9a55-83e6950cd108
+  text: 敗
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 828dedf3-05a3-4681-b1e3-c2a1f2eb2724
+    line_id: KR3j0009_tls_002-17a.47
+    textline: 非敗酒之謂也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

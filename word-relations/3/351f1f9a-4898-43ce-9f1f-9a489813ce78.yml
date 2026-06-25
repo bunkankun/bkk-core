@@ -1,0 +1,32 @@
+uuid: 351f1f9a-4898-43ce-9f1f-9a489813ce78
+type: word-relation
+group_uuid: be6b8d33-1a7a-5641-9efc-100e35e095eb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-286a.2
+    textline: 所謂富者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-286a.4
+    textline: 所謂貴者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T19:48:52.02+09:00'

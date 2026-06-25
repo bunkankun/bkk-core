@@ -1,0 +1,30 @@
+uuid: c215688d-c652-4baf-b541-b55d1dea4d3a
+type: word-relation
+group_uuid: 2b00aca3-6b1c-428e-8f0b-1bd22598c8f5
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: b3433221-a25a-436b-a472-44c108a8be7b
+    textline: 凡當塗（途）者之於人主也
+    offset: 11
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: b3433221-a25a-436b-a472-44c108a8be7b
+    textline: 凡當塗（途）者之於人主也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

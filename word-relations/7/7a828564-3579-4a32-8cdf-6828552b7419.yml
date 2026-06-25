@@ -1,0 +1,32 @@
+uuid: 7a828564-3579-4a32-8cdf-6828552b7419
+type: word-relation
+group_uuid: 7a828564-3579-4a32-8cdf-6828552b7419
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 477c007e-90dd-4d75-babf-aae31177124a
+  text: 禁
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: 763d430e-8c99-4a5e-8a26-e002f587bac7
+    line_id: KR3c0005_tls_050-31a.4
+    textline: 吾以此知威勢之可以禁暴
+    offset: 10
+    range: 1
+right:
+  word_uuid: b9994ced-5d09-4fa3-bde7-9fe7befc7109
+  text: 止
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: b02d7c87-4066-4ce3-b479-fd90c59dbe0f
+    line_id: KR3c0005_tls_050-31a.5
+    textline: 而德厚之不足以止亂也
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

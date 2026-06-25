@@ -1,0 +1,35 @@
+uuid: b56f9c33-63a8-495a-9ab3-54d9684777ea
+type: word-relation
+group_uuid: b56f9c33-63a8-495a-9ab3-54d9684777ea
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9ec45957-0619-4f24-a115-61ce76a9ae09
+  text: 匹夫
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 論語
+    line_uuid: a7651613-675c-42db-8caa-7767f0591938
+    line_id: KR1h0004_tls_014-23a.14
+    textline: 豈若匹夫匹婦之為諒也
+    offset: 3
+    range: 2
+right:
+  word_uuid: 7427c69c-38dd-462b-aa46-96592fc2de44
+  text: 匹婦
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 論語
+    line_uuid: a7651613-675c-42db-8caa-7767f0591938
+    line_id: KR1h0004_tls_014-23a.14
+    textline: 豈若匹夫匹婦之為諒也
+    offset: 5
+    range: 2
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

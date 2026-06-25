@@ -1,0 +1,21 @@
+uuid: eda9dbc7-1e25-4edf-b6be-2eab204a98f0
+type: word-relation
+group_uuid: 85700bb5-ceec-58fa-be20-1b11d0590eb6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dcd195e3-6e80-4210-8075-78bef99841b7
+  text: 負
+  concept: DEFEAT
+  concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+right:
+  word_uuid: 566b7752-c546-4a80-8a6f-ee8343f3eb2f
+  text: 勝
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

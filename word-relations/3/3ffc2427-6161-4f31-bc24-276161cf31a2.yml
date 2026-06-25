@@ -1,0 +1,35 @@
+uuid: 3ffc2427-6161-4f31-bc24-276161cf31a2
+type: word-relation
+group_uuid: e98d61d5-0f3e-4dce-a8b9-96a9667444e5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_001-11a.19
+    textline: 以此為君悖
+    offset: 4
+    range: 1
+right:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_001-11a.20
+    textline: 以此為臣亂
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-24T21:54:33.935+09:00'

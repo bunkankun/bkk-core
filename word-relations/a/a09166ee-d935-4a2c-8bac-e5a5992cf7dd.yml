@@ -1,0 +1,21 @@
+uuid: a09166ee-d935-4a2c-8bac-e5a5992cf7dd
+type: word-relation
+group_uuid: b843476f-110e-5757-ac31-bd54228001fa
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 36f9e2f6-5a22-4c99-ac10-8f0babdfd06b
+  text: 定
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+right:
+  word_uuid: 90a6eed7-64e2-4731-a973-e658fa0e5076
+  text: 決
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

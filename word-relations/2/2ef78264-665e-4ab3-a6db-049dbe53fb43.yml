@@ -1,0 +1,32 @@
+uuid: 2ef78264-665e-4ab3-a6db-049dbe53fb43
+type: word-relation
+group_uuid: 2ef78264-665e-4ab3-a6db-049dbe53fb43
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 50ca1bc4-9f97-47cd-af0d-f5a55c7fce32
+  text: 百姓
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 荀子
+    line_uuid: 44268ebc-e461-4760-bde0-d1c26f6d423c
+    line_id: KR3a0002_tls_026-5a.13
+    textline: 下覆百姓
+    offset: 3
+    range: 2
+right:
+  word_uuid: a9cb26f9-e4b5-4e0c-986c-45edf1f0c735
+  text: 帝王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 荀子
+    line_uuid: 1f19657d-3dd9-4693-87d4-3fff60075cc0
+    line_id: KR3a0002_tls_026-5a.14
+    textline: 上飾帝王
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

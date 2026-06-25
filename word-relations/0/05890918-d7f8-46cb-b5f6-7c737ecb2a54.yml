@@ -1,0 +1,32 @@
+uuid: 05890918-d7f8-46cb-b5f6-7c737ecb2a54
+type: word-relation
+group_uuid: 05890918-d7f8-46cb-b5f6-7c737ecb2a54
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d0f02e93-33ec-4649-9c97-c21a0fb29f2a
+  text: 精神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 新論
+    line_uuid: 72624a2c-9475-482a-a62f-a036654eb54e
+    line_id: KR3j0192_tls_002-25a.7
+    textline: 「精神居形體
+    offset: 2
+    range: 2
+right:
+  word_uuid: 33c5997e-f2c9-4106-8b99-07effdf6d7f4
+  text: 形體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 新論
+    line_uuid: 72624a2c-9475-482a-a62f-a036654eb54e
+    line_id: KR3j0192_tls_002-25a.7
+    textline: 「精神居形體
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

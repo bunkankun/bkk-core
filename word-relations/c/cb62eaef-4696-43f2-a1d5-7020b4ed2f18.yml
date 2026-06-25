@@ -1,0 +1,31 @@
+uuid: cb62eaef-4696-43f2-a1d5-7020b4ed2f18
+type: word-relation
+group_uuid: b31f94f2-0a2c-4a0c-aace-b281560ec942
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 4ebe0940-4841-4377-a6fc-6240ceb82aa6
+    line_id: KR1h0004_tls_009-7a.5
+    textline: 吾少也賤
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 72cb9a9e-2e9b-4e5e-8448-a2da7c6a37e1
+    textline: 「太宰知我乎
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

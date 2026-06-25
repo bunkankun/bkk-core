@@ -1,0 +1,35 @@
+uuid: 4297b35f-7b3a-4c0e-bd31-60f6e23b14aa
+type: word-relation
+group_uuid: 4297b35f-7b3a-4c0e-bd31-60f6e23b14aa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2de7e140-37ca-4428-b5fe-3daaf5ae114c
+  text: 垤
+  concept: HEAP
+  concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+  attestation:
+    text_title: 孟子
+    line_uuid: 8127b240-761d-4153-8b33-0f38417ee3bb
+    line_id: KR1h0001_tls_003-34a.21
+    textline: 泰山之於丘垤
+    offset: 6
+    range: 1
+right:
+  word_uuid: 46fd1fb6-1618-42b7-84a0-4a7cdbc132e3
+  text: 丘
+  concept: MOUND
+  concept_uuid: c4fdb931-fc00-49a0-9233-4c29137b7b72
+  attestation:
+    text_title: 孟子
+    line_uuid: 8127b240-761d-4153-8b33-0f38417ee3bb
+    line_id: KR1h0001_tls_003-34a.21
+    textline: 泰山之於丘垤
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e2c42621-4285-4f1a-a9cd-dc922e0f0e2f
+type: word-relation
+group_uuid: 5c446824-8ec6-44d9-975d-0eebc4628ab3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 管子
+    line_uuid: b8146c75-b7dd-40d7-89a9-d8f35bcd33b0
+    line_id: KR3c0001_tls_009-53a.2
+    textline: 聖人之憎惡也內
+    offset: 1
+    range: 2
+right:
+  word_uuid: 35adecb0-97b1-4597-9787-974dfdd22be3
+  text: 愚人
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 管子
+    line_uuid: 334a19d2-5e0c-47b2-a6e4-7c74ae2a1f9c
+    line_id: KR3c0001_tls_009-53a.3
+    textline: 愚人之憎惡也外
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5339d380-cc91-4369-9337-4edf9e7fcf8c
+type: word-relation
+group_uuid: 5339d380-cc91-4369-9337-4edf9e7fcf8c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 722ebd84-20c9-4220-9faa-2b5ebe441d79
+  text: 甘
+  concept: SAVOURY
+  concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6038cdfa-a226-49f8-bd8e-2a32cf2d5791
+    line_id: KR3j0009_tls_004-18a.30
+    textline: 務甘肥
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0efb7a18-7246-44c9-8c15-35e1d01c2ad8
+  text: 肥
+  concept: FAT
+  concept_uuid: d1fe1333-ad06-4607-945c-1a9c64aba3ed
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6038cdfa-a226-49f8-bd8e-2a32cf2d5791
+    line_id: KR3j0009_tls_004-18a.30
+    textline: 務甘肥
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b46c9958-b4b4-4412-88eb-d8e605ba24c6
+type: word-relation
+group_uuid: 0bbeab82-df98-4748-9f50-ed0cb1b55049
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 老子
+    line_uuid: 94afd473-c002-40be-b0d9-484a77a47f47
+    line_id: KR5c0057_tls_044-1a.4
+    textline: 名與身
+    offset: 3
+    range: 1
+right:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 老子
+    line_uuid: 94afd473-c002-40be-b0d9-484a77a47f47
+    line_id: KR5c0057_tls_044-1a.4
+    textline: 名與身
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

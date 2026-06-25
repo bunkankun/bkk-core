@@ -1,0 +1,32 @@
+uuid: d2e13d63-488b-48a0-b85f-c52ffbe8144d
+type: word-relation
+group_uuid: d2e13d63-488b-48a0-b85f-c52ffbe8144d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8dc65fc1-7fbe-4993-97b8-a9c77fed50ea
+  text: 賈
+  concept: MERCHANT
+  concept_uuid: b3fe42b5-03c3-4bd8-bc21-ebb16e6f50f8
+  attestation:
+    text_title: 論語
+    line_uuid: 9e8bc1d1-139a-4ba7-bb7a-cd368d42d9fd
+    line_id: KR1h0004_tls_009-14a.6
+    textline: 求善賈而沽諸
+    offset: 3
+    range: 1
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論語
+    line_uuid: 9e8bc1d1-139a-4ba7-bb7a-cd368d42d9fd
+    line_id: KR1h0004_tls_009-14a.6
+    textline: 求善賈而沽諸
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

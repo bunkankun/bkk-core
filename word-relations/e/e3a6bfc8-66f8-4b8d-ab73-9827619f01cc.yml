@@ -1,0 +1,21 @@
+uuid: e3a6bfc8-66f8-4b8d-ab73-9827619f01cc
+type: word-relation
+group_uuid: eab7d810-8ccf-558f-b019-e026522a02e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+right:
+  word_uuid: d4ce9d61-d9cf-4fcd-8c29-b5e86a7a9786
+  text: 曲
+  concept: SONG
+  concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

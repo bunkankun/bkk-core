@@ -1,0 +1,31 @@
+uuid: a3833ef5-af9d-40b5-a7a2-e8862c7f98c9
+type: word-relation
+group_uuid: 473f367a-0d3a-4a61-968f-501d1fdd9b88
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 1e340dba-dbbf-4fb6-95d4-afc23145d0d4
+  text: 莩
+  concept: CORPSE
+  concept_uuid: 2c6ca376-008e-4a2f-a9f6-53cab2cb828e
+  attestation:
+    text_title: 孟子
+    line_uuid: f2f6c7e7-b2ff-42bc-a5e3-b4687f568658
+    line_id: KR1h0001_tls_001-17a.6
+    textline: 野有餓莩
+    range: 1
+right:
+  word_uuid: 170635d6-a68d-4415-887c-5fadd9e7808a
+  text: 餓
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 孟子
+    line_uuid: f2f6c7e7-b2ff-42bc-a5e3-b4687f568658
+    line_id: KR1h0001_tls_001-17a.6
+    textline: 野有餓莩
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

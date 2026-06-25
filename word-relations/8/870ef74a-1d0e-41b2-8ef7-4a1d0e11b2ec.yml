@@ -1,0 +1,32 @@
+uuid: 870ef74a-1d0e-41b2-8ef7-4a1d0e11b2ec
+type: word-relation
+group_uuid: 4e830bee-0cb8-515d-a2ed-bc64036230f8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 9c77da85-5591-4521-aa4a-26cb8e16044c
+  text: 句
+  concept: CURVED
+  concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.15
+    textline: 句襟委章甫哉
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8ef7f847-1cd0-4c91-974f-8e426adf6732
+  text: 襟
+  concept: COLLAR
+  concept_uuid: 3450870a-0c3b-4be9-b792-6cb9f889afcc
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.15
+    textline: 句襟委章甫哉
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:23:11.211+09:00'

@@ -1,0 +1,32 @@
+uuid: bc7e576d-7f88-4185-be57-6d7f888185e7
+type: word-relation
+group_uuid: 441692b6-fa6c-54ce-86b1-85475f2bfd34
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4bc1f34a-30bf-43a3-9b33-477c2b470239
+  text: 絕
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-11a.5
+    textline: 絕學捐書
+    offset: 1
+    range: 1
+right:
+  word_uuid: 95a4ca0b-f33f-4f06-a547-686736b6c1ba
+  text: 捐
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-11a.5
+    textline: 絕學捐書
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T20:42:17.799+09:00'

@@ -1,0 +1,32 @@
+uuid: 6f18bda9-e127-4aad-98bd-a9e1271aad4f
+type: word-relation
+group_uuid: 5d156814-02a3-55e8-b3ef-592fea169015
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 760ce388-5566-4ad2-b0b6-af1d84aaa953
+  text: 當
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.17
+    textline: 逮至當今之世
+    offset: 3
+    range: 1
+right:
+  word_uuid: 94b4d403-5d00-4aef-9104-784c921d3384
+  text: 今
+  concept: NOW
+  concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.17
+    textline: 逮至當今之世
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T02:10:58.704+09:00'

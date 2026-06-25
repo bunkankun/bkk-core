@@ -1,0 +1,21 @@
+uuid: 82adddb3-a718-4487-a373-77a86ff195cd
+type: word-relation
+group_uuid: 7c042a74-b3e9-5737-9b7f-23f98292154a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+right:
+  word_uuid: 609a6df8-42ca-49a0-9560-e3e586881e43
+  text: 告
+  concept: REPORT
+  concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

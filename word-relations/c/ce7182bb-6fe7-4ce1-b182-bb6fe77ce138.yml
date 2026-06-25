@@ -1,0 +1,32 @@
+uuid: ce7182bb-6fe7-4ce1-b182-bb6fe77ce138
+type: word-relation
+group_uuid: 5087f210-285b-5ae8-9eee-1dfbbcbc4d26
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c2eb47c9-d7a6-42b0-ab47-c9d7a662b0e3
+  text: 良
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_020-41a.8
+    textline: 吾嘗好良馬善御矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_020-41a.8
+    textline: 吾嘗好良馬善御矣
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-06T12:16:35.26+09:00'

@@ -1,0 +1,32 @@
+uuid: 93a08601-bd48-45e5-916e-0b941fba803b
+type: word-relation
+group_uuid: 93a08601-bd48-45e5-916e-0b941fba803b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1e6222fa-3c15-46c3-9240-f5ea255eb6c0
+  text: 牛
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 論衡
+    line_uuid: f1ea0d91-4f20-4e7e-8919-7d6effaaf6bd
+    line_id: KR3j0080_tls_002-1a.27
+    textline: 卒然牛馬踐根
+    offset: 3
+    range: 1
+right:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 論衡
+    line_uuid: f1ea0d91-4f20-4e7e-8919-7d6effaaf6bd
+    line_id: KR3j0080_tls_002-1a.27
+    textline: 卒然牛馬踐根
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

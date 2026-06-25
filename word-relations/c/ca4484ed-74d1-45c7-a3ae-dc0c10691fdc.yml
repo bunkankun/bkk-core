@@ -1,0 +1,32 @@
+uuid: ca4484ed-74d1-45c7-a3ae-dc0c10691fdc
+type: word-relation
+group_uuid: 1f677d1a-1043-478d-a6de-e799a497cc7a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8426c455-8c67-4700-b877-78ae685a7592
+  text: 沐
+  concept: BATHE
+  concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+  attestation:
+    text_title: 論衡
+    line_uuid: 8c2239f6-f141-4b2e-b854-2aba28723afb
+    line_id: KR3j0080_tls_002-10a.9
+    textline: 沐浴累害之中
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5e6d2688-2c48-4d0f-af22-fc0eb6096f75
+  text: 浴
+  concept: BATHE
+  concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+  attestation:
+    text_title: 論衡
+    line_uuid: 8c2239f6-f141-4b2e-b854-2aba28723afb
+    line_id: KR3j0080_tls_002-10a.9
+    textline: 沐浴累害之中
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

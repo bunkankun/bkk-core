@@ -1,0 +1,32 @@
+uuid: 6cc8124e-ebbd-48e1-8812-4eebbd98e1bc
+type: word-relation
+group_uuid: c4a6809c-afa1-5ce3-8afa-57dc2ac46316
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e3bb0875-570f-45b7-a686-598abf07387e
+  text: 然
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_021-3a.3
+    textline: 皆以為然
+    offset: 4
+    range: 1
+right:
+  word_uuid: d062202b-a052-4eb7-a3b1-5d6e16d9bdbe
+  text: 虛妄
+  concept: UNTRUE
+  concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_021-3a.5
+    textline: 虛妄言也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-06-12T16:42:09.381+09:00'

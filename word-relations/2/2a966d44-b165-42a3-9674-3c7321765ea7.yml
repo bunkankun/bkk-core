@@ -1,0 +1,30 @@
+uuid: 2a966d44-b165-42a3-9674-3c7321765ea7
+type: word-relation
+group_uuid: 2a966d44-b165-42a3-9674-3c7321765ea7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 74165a96-7f3a-44a0-ae1f-8445bec657ac
+  text: 謳
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 管子
+    line_uuid: e8ba77fe-034a-4cb5-b195-c879b86d6a7d
+    textline: 而謳吟稱號者皆誅（殊）
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8a5f4619-157f-49bb-b28b-e5bfc2679a77
+  text: 吟
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 管子
+    line_uuid: e8ba77fe-034a-4cb5-b195-c879b86d6a7d
+    textline: 而謳吟稱號者皆誅（殊）
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

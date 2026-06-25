@@ -1,0 +1,29 @@
+uuid: b469d0db-1355-46db-b71a-8b693b83e2f1
+type: word-relation
+group_uuid: b469d0db-1355-46db-b71a-8b693b83e2f1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9f796777-7403-4e8e-9fc8-0c2c566a81a1
+  text: 耶
+  concept: FATHER
+  concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+  attestation:
+    text_title: 杜甫
+    line_uuid: fd4c2950-694a-4e5b-9f4c-5dfadb569514
+    textline: 耶孃妻子走相送
+    range: 1
+right:
+  word_uuid: fa324863-b04b-49a0-b80a-02808c390240
+  text: 孃
+  concept: MOTHER
+  concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+  attestation:
+    text_title: 杜甫
+    line_uuid: fd4c2950-694a-4e5b-9f4c-5dfadb569514
+    textline: 耶孃妻子走相送
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 0a2bd184-531e-4b49-87ce-df8bb5aea20b
+type: word-relation
+group_uuid: 0a2bd184-531e-4b49-87ce-df8bb5aea20b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f3ece765-c220-48fb-b154-5c8b06920753
+  text: 阿
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+  attestation:
+    text_title: 楚辭
+    line_uuid: 9e71e533-ff28-4bff-8f51-7723b4016ac1
+    textline: 眾多兮阿媚
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0e63cf00-df77-4429-922f-7e2db90405ca
+  text: 媚
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+  attestation:
+    text_title: 楚辭
+    line_uuid: 9e71e533-ff28-4bff-8f51-7723b4016ac1
+    textline: 眾多兮阿媚
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

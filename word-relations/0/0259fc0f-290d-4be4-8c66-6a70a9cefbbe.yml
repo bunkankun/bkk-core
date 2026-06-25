@@ -1,0 +1,31 @@
+uuid: 0259fc0f-290d-4be4-8c66-6a70a9cefbbe
+type: word-relation
+group_uuid: 0259fc0f-290d-4be4-8c66-6a70a9cefbbe
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4cfeecda-caf8-4465-9df1-0c9f11c2af06
+  text: 祭
+  concept: SACRIFICE
+  concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+  attestation:
+    text_title: 論語
+    line_uuid: 348571e0-9aa3-4429-aaa9-b0909df3d5ec
+    line_id: KR1h0004_tls_003-13a.3
+    textline: 祭神如神在
+    offset: 1
+    range: 1
+right:
+  word_uuid: c70cbcd5-4a5f-4e21-be53-8c1a56585356
+  text: 神
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 論語
+    line_uuid: 348571e0-9aa3-4429-aaa9-b0909df3d5ec
+    line_id: KR1h0004_tls_003-13a.3
+    textline: 祭神如神在
+    range: 1
+source:
+  source_file: word-relations.xml

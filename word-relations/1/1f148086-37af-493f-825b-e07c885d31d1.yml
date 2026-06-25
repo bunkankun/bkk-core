@@ -1,0 +1,32 @@
+uuid: 1f148086-37af-493f-825b-e07c885d31d1
+type: word-relation
+group_uuid: 2de46c3c-afce-4575-8070-50880acd9324
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a92bd4fd-e395-4a54-b371-a25b5638862f
+  text: 真
+  concept: GENUINE
+  concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+  attestation:
+    text_title: 論衡
+    line_uuid: 3bb8662b-0e63-4034-86a8-c6da4a63addf
+    line_id: KR3j0080_tls_031-7a.23
+    textline: 真偽不別也
+    offset: 1
+    range: 1
+right:
+  word_uuid: f76cacbd-f3cc-4e20-8c08-30ab5a5633e9
+  text: 偽
+  concept: FAKE
+  concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+  attestation:
+    text_title: 論衡
+    line_uuid: 3bb8662b-0e63-4034-86a8-c6da4a63addf
+    line_id: KR3j0080_tls_031-7a.23
+    textline: 真偽不別也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

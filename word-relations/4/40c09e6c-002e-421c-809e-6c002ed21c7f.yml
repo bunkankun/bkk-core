@@ -1,0 +1,32 @@
+uuid: 40c09e6c-002e-421c-809e-6c002ed21c7f
+type: word-relation
+group_uuid: 0414a2e7-68aa-5e86-94a1-5aacefe2ef41
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73859077-89f3-4182-8590-7789f3318298
+  text: 章
+  concept: HAT
+  concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.15
+    textline: 句襟委章甫哉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 68e176d2-b3fb-4a28-8c69-41a696516639
+  text: 甫
+  concept: HAT
+  concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.15
+    textline: 句襟委章甫哉
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:13:23.385+09:00'

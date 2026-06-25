@@ -1,0 +1,32 @@
+uuid: 55683306-30f6-436d-b558-c7e87d67e9e0
+type: word-relation
+group_uuid: 55683306-30f6-436d-b558-c7e87d67e9e0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 209ceeac-5587-4a1a-9b03-dfa91d1c3ea4
+  text: 適
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  attestation:
+    text_title: 論語
+    line_uuid: 6b64ab3e-5300-48f6-b340-6b4f137ea020
+    line_id: KR1h0004_tls_004-10a.4
+    textline: 無適也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1ac49fb6-6bcd-4ef0-aeec-65f9203fa6e9
+  text: 莫
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+  attestation:
+    text_title: 論語
+    line_uuid: 0a868248-ad08-4608-9a5c-cdf7ddefae55
+    line_id: KR1h0004_tls_004-10a.5
+    textline: 無莫也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

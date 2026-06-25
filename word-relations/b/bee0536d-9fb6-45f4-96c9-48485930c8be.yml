@@ -1,0 +1,32 @@
+uuid: bee0536d-9fb6-45f4-96c9-48485930c8be
+type: word-relation
+group_uuid: bee0536d-9fb6-45f4-96c9-48485930c8be
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e669b8ab-f68e-4331-a1c4-daa494455b38
+  text: 準
+  concept: MACHINE
+  concept_uuid: baa4be13-15b2-4539-a393-3b9b4c29c380
+  attestation:
+    text_title: 淮南子
+    line_uuid: 093bb028-3b53-4c1c-90c5-053948893942
+    line_id: KR3j0010_tls_009-31a.4
+    textline: 而人主之準繩也
+    offset: 5
+    range: 1
+right:
+  word_uuid: f56902a1-c78b-47ca-bb7a-39ec0f477757
+  text: 繩
+  concept: THREAD
+  concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+  attestation:
+    text_title: 淮南子
+    line_uuid: 093bb028-3b53-4c1c-90c5-053948893942
+    line_id: KR3j0010_tls_009-31a.4
+    textline: 而人主之準繩也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

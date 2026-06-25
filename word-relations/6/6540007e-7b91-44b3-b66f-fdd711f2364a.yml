@@ -1,0 +1,32 @@
+uuid: 6540007e-7b91-44b3-b66f-fdd711f2364a
+type: word-relation
+group_uuid: 6540007e-7b91-44b3-b66f-fdd711f2364a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 46b976ed-8991-4db8-8ede-e9b402a55925
+    line_id: KR1c0066_tls_003-9a.34
+    textline: 無使百姓歌吟誹謗
+    offset: 5
+    range: 1
+right:
+  word_uuid: 8a5f4619-157f-49bb-b28b-e5bfc2679a77
+  text: 吟
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 46b976ed-8991-4db8-8ede-e9b402a55925
+    line_id: KR1c0066_tls_003-9a.34
+    textline: 無使百姓歌吟誹謗
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

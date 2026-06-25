@@ -1,0 +1,32 @@
+uuid: 9cf05597-734e-4707-a0ff-fe7dace1b6a4
+type: word-relation
+group_uuid: 9cf05597-734e-4707-a0ff-fe7dace1b6a4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: de53c3ad-b528-40d9-81e2-321a4a2a1565
+  text: 畏
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c66bcbd-1ab0-424a-ab29-579becdc9c24
+    line_id: KR3c0005_tls_007-3a.4
+    textline: 則一國之人皆畏其臣而易其君
+    offset: 7
+    range: 1
+right:
+  word_uuid: dc77e559-33d9-448d-8c7a-76f745f956cf
+  text: 易
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c66bcbd-1ab0-424a-ab29-579becdc9c24
+    line_id: KR3c0005_tls_007-3a.4
+    textline: 則一國之人皆畏其臣而易其君
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a8531c4b-d3ba-4003-a4e8-46d5ed31ee7c
+type: word-relation
+group_uuid: a8531c4b-d3ba-4003-a4e8-46d5ed31ee7c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 1c93338e-d7c1-475e-884e-838fb8247d1d
+    line_id: KR1h0004_tls_007-11a.3
+    textline: 「用之則行
+    offset: 5
+    range: 1
+right:
+  word_uuid: ee05567f-6765-4fc5-afa4-28c27f4d9dc9
+  text: 藏
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 論語
+    line_uuid: 2d2ca9b6-3205-432a-8222-8fe368a5f597
+    line_id: KR1h0004_tls_007-11a.4
+    textline: 舍之則藏
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

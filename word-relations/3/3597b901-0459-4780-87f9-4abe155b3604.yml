@@ -1,0 +1,30 @@
+uuid: 3597b901-0459-4780-87f9-4abe155b3604
+type: word-relation
+group_uuid: 3597b901-0459-4780-87f9-4abe155b3604
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b9195b23-77a1-4c2d-a7dd-dc469891f588
+  text: 毒
+  concept: POISON
+  concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+  attestation:
+    text_title: 老子
+    line_uuid: 202d7ac0-7033-41e4-b002-8f71f97b9489
+    textline: 毒蟲不螫
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2f07b0ee-da99-49b1-a959-3e454fe57b28
+  text: 蟲
+  concept: INSECTS
+  concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+  attestation:
+    text_title: 老子
+    line_uuid: 202d7ac0-7033-41e4-b002-8f71f97b9489
+    textline: 毒蟲不螫
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

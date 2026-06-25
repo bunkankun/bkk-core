@@ -1,0 +1,32 @@
+uuid: 3e796ec6-f7d7-4335-bc6b-50ff75c5d15d
+type: word-relation
+group_uuid: 3e796ec6-f7d7-4335-bc6b-50ff75c5d15d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 372d80e0-ea37-49d1-94cc-d0ab7371e2d1
+  text: 凡
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 479d0b00-0338-4c07-b0cd-32a627ec7efb
+    line_id: KR6q0002_Yan_016-4112a.6
+    textline: “從凡入聖則不問
+    offset: 3
+    range: 1
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 479d0b00-0338-4c07-b0cd-32a627ec7efb
+    line_id: KR6q0002_Yan_016-4112a.6
+    textline: “從凡入聖則不問
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

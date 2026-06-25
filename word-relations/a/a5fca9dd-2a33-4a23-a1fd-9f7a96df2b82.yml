@@ -1,0 +1,32 @@
+uuid: a5fca9dd-2a33-4a23-a1fd-9f7a96df2b82
+type: word-relation
+group_uuid: 4f1a5906-b0b8-49a6-a22d-7dce5be353ab
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e863a51b-36f6-4aa2-a9b6-8300c219a917
+  text: 執
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+  attestation:
+    text_title: 老子
+    line_uuid: 701a1bcc-be74-4f50-a9ba-f90c80f0d4d0
+    line_id: KR5c0057_tls_029-1a.8
+    textline: 執者失之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 老子
+    line_uuid: 701a1bcc-be74-4f50-a9ba-f90c80f0d4d0
+    line_id: KR5c0057_tls_029-1a.8
+    textline: 執者失之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

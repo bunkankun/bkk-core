@@ -1,0 +1,32 @@
+uuid: 95b1f5ad-5949-4dc3-8a87-bb5342a7fbbb
+type: word-relation
+group_uuid: 7e0687b0-204d-409e-80ec-3e1da4d62639
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 09df6864-296d-440f-b3cd-5eb8d80d325a
+  text: 迫
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 莊子
+    line_uuid: 3bfde0f8-7f07-427b-b435-f6dbe6cc1c32
+    line_id: KR5c0126_tls_020-8a.18
+    textline: 迫脅而棲
+    offset: 1
+    range: 1
+right:
+  word_uuid: 70fd3080-5f77-4d9c-b7ae-a578bbb392a6
+  text: 脅
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 莊子
+    line_uuid: 3bfde0f8-7f07-427b-b435-f6dbe6cc1c32
+    line_id: KR5c0126_tls_020-8a.18
+    textline: 迫脅而棲
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cdb1a355-e7b5-46d0-b199-b7b57e7005c2
+type: word-relation
+group_uuid: cdb1a355-e7b5-46d0-b199-b7b57e7005c2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4dde2308-2503-4513-b7f3-bfd5a67512c2
+  text: 端
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c33e633-144b-41ac-b163-949ca98a9e50
+    line_id: KR3c0005_tls_016-3a.2
+    textline: 然則端言直道之人
+    offset: 3
+    range: 1
+right:
+  word_uuid: 64ede978-68c8-4562-80cf-e8ab34fae98f
+  text: 直
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c33e633-144b-41ac-b163-949ca98a9e50
+    line_id: KR3c0005_tls_016-3a.2
+    textline: 然則端言直道之人
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

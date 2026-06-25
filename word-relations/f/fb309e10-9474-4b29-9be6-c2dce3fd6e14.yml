@@ -1,0 +1,18 @@
+uuid: fb309e10-9474-4b29-9be6-c2dce3fd6e14
+type: word-relation
+group_uuid: 69e8e4ad-3d50-59e5-bc8d-a51f7877f3ac
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: f917268f-e09f-4c38-b32f-0401f2436831
+  text: 螫
+  concept: STING
+  concept_uuid: 99d8e2bb-e7df-4fac-854e-6869ab62a716
+right:
+  word_uuid: b9195b23-77a1-4c2d-a7dd-dc469891f588
+  text: 毒
+  concept: POISON
+  concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+source:
+  source_file: word-relations.xml

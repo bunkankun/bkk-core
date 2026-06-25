@@ -1,0 +1,30 @@
+uuid: e8cbb828-0e14-45a6-b090-8ed702254d1b
+type: word-relation
+group_uuid: e8cbb828-0e14-45a6-b090-8ed702254d1b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1819811c-e740-4b8a-974b-8abafb48c896
+    textline: 剛愎而上（尚）悍
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8863a18f-c25f-4a81-8ed3-171ae901ce28
+  text: 愎
+  concept: STUBBORN
+  concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1819811c-e740-4b8a-974b-8abafb48c896
+    textline: 剛愎而上（尚）悍
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

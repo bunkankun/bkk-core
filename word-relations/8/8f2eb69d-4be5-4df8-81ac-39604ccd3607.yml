@@ -1,0 +1,18 @@
+uuid: 8f2eb69d-4be5-4df8-81ac-39604ccd3607
+type: word-relation
+group_uuid: a0e2b475-0d26-5c23-b3b4-dc298fb4f1b3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲慾
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+right:
+  word_uuid: 3dc1691c-96bb-45d7-9048-da500ae22596
+  text: 望望
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+source:
+  source_file: word-relations.xml

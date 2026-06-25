@@ -1,0 +1,32 @@
+uuid: 72601892-03f5-460a-bddc-de3bd82c52df
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 禮記
+    line_uuid: 8ab142bc-2a54-4867-b4b8-5fd71d14856f
+    line_id: KR1d0052_tls_036-2a.1
+    textline: 身不安美也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 禮記
+    line_uuid: 15acf1e1-eaa3-4bd9-aa20-37b2a4b340f9
+    line_id: KR1d0052_tls_036-1a.15
+    textline: 痛疾在心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

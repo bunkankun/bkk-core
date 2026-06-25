@@ -1,0 +1,32 @@
+uuid: 502fd82e-acf7-40e6-a36c-005edd1c7910
+type: word-relation
+group_uuid: 502fd82e-acf7-40e6-a36c-005edd1c7910
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: aba05fb5-2f32-4cc8-bccf-49d7eb622883
+  text: 慢
+  concept: IMPOLITE
+  concept_uuid: baec0e2f-c355-4a37-b0ac-c70fc945590f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0575a3ee-afd4-48ad-b6d9-bc3ddeba77ae
+    line_id: KR3j0009_tls_014-3a.14
+    textline: 不敢慢人
+    offset: 3
+    range: 1
+right:
+  word_uuid: 16db2d04-8a7f-4e3a-b354-40a125d04439
+  text: 敬
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 272407e7-74c8-44b3-a535-e3cc48c9a7a4
+    line_id: KR3j0009_tls_014-3a.15
+    textline: 愛敬盡於事親
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

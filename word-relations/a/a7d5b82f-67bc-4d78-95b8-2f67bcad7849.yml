@@ -1,0 +1,32 @@
+uuid: a7d5b82f-67bc-4d78-95b8-2f67bcad7849
+type: word-relation
+group_uuid: 1e6cb766-101d-4ebf-8187-610f07cb7c0e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_002-19a.13
+    textline: 貴賤愚智賢不肖欲之若一
+    offset: 3
+    range: 1
+right:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_002-19a.13
+    textline: 貴賤愚智賢不肖欲之若一
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-17T18:09:11.053+09:00'

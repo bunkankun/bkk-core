@@ -1,0 +1,15 @@
+uuid: 0d44bfa2-058e-428d-b4dc-6edb3c4f445d
+type: word-relation
+group_uuid: 72535b8a-d718-52f2-beee-a083157a8530
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+right:
+  word_uuid: db57ee48-139c-459e-bddd-934c487a18ed
+source:
+  source_file: word-relations.xml

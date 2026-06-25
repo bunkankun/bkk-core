@@ -1,0 +1,32 @@
+uuid: 05f60138-782c-42fd-958f-72d4d7a59207
+type: word-relation
+group_uuid: c6ac2cb9-74cb-457c-b998-1efa9962f37e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c04e6e0d-35b3-440c-9828-f069a0205b16
+  text: 約
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 0dd6c4bf-dbe2-4856-aecb-7243f6d0f127
+    line_id: KR1c0066_tls_006-23a.6
+    textline: 約契盟誓
+    offset: 1
+    range: 1
+right:
+  word_uuid: ed872221-feaf-4a7e-8115-cc9979249b60
+  text: 契
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 0dd6c4bf-dbe2-4856-aecb-7243f6d0f127
+    line_id: KR1c0066_tls_006-23a.6
+    textline: 約契盟誓
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

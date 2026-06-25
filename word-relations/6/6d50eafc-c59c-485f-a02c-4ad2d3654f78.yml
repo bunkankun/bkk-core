@@ -1,0 +1,32 @@
+uuid: 6d50eafc-c59c-485f-a02c-4ad2d3654f78
+type: word-relation
+group_uuid: 6d50eafc-c59c-485f-a02c-4ad2d3654f78
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 戰國策
+    line_uuid: 93950130-ea2e-40d6-bd74-f2a3b855f0f7
+    line_id: KR2e0003_tls_073-3a.6
+    textline: 『秦王明而熟於計
+    offset: 4
+    range: 1
+right:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 戰國策
+    line_uuid: e80f510c-71be-4d34-936c-1968d49428dd
+    line_id: KR2e0003_tls_073-3a.7
+    textline: 穰侯智而習於事
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

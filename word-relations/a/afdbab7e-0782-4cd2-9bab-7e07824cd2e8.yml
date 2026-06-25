@@ -1,0 +1,32 @@
+uuid: afdbab7e-0782-4cd2-9bab-7e07824cd2e8
+type: word-relation
+group_uuid: b9e7060f-1c3a-5ec8-ae1b-de51b0cee0e9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_031-7a.11
+    textline: 而卒學大道
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_031-7a.11
+    textline: 而卒學大道
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T21:58:19.695+09:00'

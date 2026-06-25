@@ -1,0 +1,32 @@
+uuid: 327b2882-d98f-4406-bd82-d63b1a5dd4a2
+type: word-relation
+group_uuid: 327b2882-d98f-4406-bd82-d63b1a5dd4a2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 25cc9c03-4dac-4293-8820-02d4d74fecdc
+    line_id: KR3c0005_tls_018-21a.2
+    textline: 民愚而不知亂
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8ab91c33-abec-4ac3-a9b0-52a2bc854210
+  text: 上
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4aaee868-0f2d-4d83-ab21-227de53664a2
+    line_id: KR3c0005_tls_018-21a.3
+    textline: 上懦而不能更
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

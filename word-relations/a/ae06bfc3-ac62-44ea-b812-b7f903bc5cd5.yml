@@ -1,0 +1,32 @@
+uuid: ae06bfc3-ac62-44ea-b812-b7f903bc5cd5
+type: word-relation
+group_uuid: ae06bfc3-ac62-44ea-b812-b7f903bc5cd5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7e0ba52c-519d-4f36-9c9c-121e97cb2db9
+  text: 垂拱
+  concept: INACTIVE
+  concept_uuid: 6cc02768-d56b-470d-a605-10d4c5fd329f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 78d49d41-d271-4cb2-85a7-6e1da0cebed2
+    line_id: KR1c0066_tls_007-25a.60
+    textline: 垂拱無為
+    offset: 1
+    range: 2
+right:
+  word_uuid: 280a60e8-5df7-4d58-82a7-29dfc3906ece
+  text: 無為
+  concept: INACTIVE
+  concept_uuid: 6cc02768-d56b-470d-a605-10d4c5fd329f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 78d49d41-d271-4cb2-85a7-6e1da0cebed2
+    line_id: KR1c0066_tls_007-25a.60
+    textline: 垂拱無為
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

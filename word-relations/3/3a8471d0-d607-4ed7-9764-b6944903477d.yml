@@ -1,0 +1,32 @@
+uuid: 3a8471d0-d607-4ed7-9764-b6944903477d
+type: word-relation
+group_uuid: 3a8471d0-d607-4ed7-9764-b6944903477d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 96949525-3c8a-4d2a-a5f2-3fcdaa01d04c
+  text: 人主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2c95f935-693a-4de2-a386-07510cc2f8ae
+    line_id: KR3c0005_tls_007-2a.4
+    textline: 故人主自用其刑德
+    offset: 2
+    range: 2
+right:
+  word_uuid: 68acc5da-0cf3-4766-804d-16d9fab0e09f
+  text: 人臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: fb7191d3-f863-4ff7-96fc-a613a4b623e8
+    line_id: KR3c0005_tls_007-2a.2
+    textline: 為人臣者畏誅罰
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: c2090f98-f79f-4e31-bea7-032b4eca7ef3
+type: word-relation
+group_uuid: b1922865-79c5-5ae6-9d04-9033aff0ddc4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 07697bc2-5f2f-41e4-9d86-686c99354d73
+  text: 溉
+  concept: IRRIGATE
+  concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+right:
+  word_uuid: 7ecc0e80-f21d-4609-89bc-801ec77ec6e6
+  text: 灌
+  concept: IRRIGATE
+  concept_uuid: d3cd08d3-fec6-4a34-8419-5fd46afd3ef3
+source:
+  source_file: word-relations.xml

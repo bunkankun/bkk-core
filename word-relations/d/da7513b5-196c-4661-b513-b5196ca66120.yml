@@ -1,0 +1,32 @@
+uuid: da7513b5-196c-4661-b513-b5196ca66120
+type: word-relation
+group_uuid: 13835104-e973-5cd9-88ec-dde63b5c8dd4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4cea833e-eef1-45c0-8ba2-54931926be52
+  text: 樸
+  concept: SIMPLE
+  concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-42a.6
+    textline: 則民樸一
+    offset: 3
+    range: 1
+right:
+  word_uuid: 87a668f7-7a0e-43b9-8b6e-5322f08e5e84
+  text: 一
+  concept: CONCENTRATE
+  concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-42a.6
+    textline: 則民樸一
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-14T00:35:33.774+09:00'

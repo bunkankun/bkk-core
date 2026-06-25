@@ -1,0 +1,32 @@
+uuid: 6c5ff786-3770-47fc-9ff7-86377027fcf2
+type: word-relation
+group_uuid: dec690e7-0cc2-57f8-80da-793ab9f64f65
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 10789ebf-5d85-45f0-b89e-bf5d85a5f07d
+  text: 詘
+  concept: WITHDRAW
+  concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_062-8a.19
+    textline: 吾聞君子詘於不知己而信於知己者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4bd7e5bc-da1c-4504-819c-ecb437824fc9
+  text: 信
+  concept: TRUST
+  concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_062-8a.19
+    textline: 吾聞君子詘於不知己而信於知己者
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#Valerie.Kiel'
+  date: '2023-06-15T20:55:12.994+09:00'

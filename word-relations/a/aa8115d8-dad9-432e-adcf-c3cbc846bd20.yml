@@ -1,0 +1,32 @@
+uuid: aa8115d8-dad9-432e-adcf-c3cbc846bd20
+type: word-relation
+group_uuid: aa8115d8-dad9-432e-adcf-c3cbc846bd20
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6e921dfc-61f2-4c09-bff0-85645aebce17
+  text: 我
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 管子
+    line_uuid: 1810c7c6-ccb3-4831-ad84-bb33f89b83bb
+    line_id: KR3c0001_tls_024-131a.6
+    textline: 天下高我獨下
+    offset: 4
+    range: 1
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 管子
+    line_uuid: 1810c7c6-ccb3-4831-ad84-bb33f89b83bb
+    line_id: KR3c0001_tls_024-131a.6
+    textline: 天下高我獨下
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

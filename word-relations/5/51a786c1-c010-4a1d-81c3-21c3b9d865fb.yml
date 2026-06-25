@@ -1,0 +1,18 @@
+uuid: 51a786c1-c010-4a1d-81c3-21c3b9d865fb
+type: word-relation
+group_uuid: 7f9ba491-d830-58dd-8eb9-6217d99423f8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 843fb5a7-465f-4811-a3e2-2da038c8feca
+  text: 笑
+  concept: SMILE
+  concept_uuid: 8b0231ab-2843-4bdb-8123-9195937dfc8f
+right:
+  word_uuid: d4478aa1-740f-481b-9c1c-8a850085d66a
+  text: 欣然
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+source:
+  source_file: word-relations.xml

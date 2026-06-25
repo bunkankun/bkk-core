@@ -1,0 +1,30 @@
+uuid: fb651ddc-b6a5-45f0-a2c6-38ce0f507746
+type: word-relation
+group_uuid: fb651ddc-b6a5-45f0-a2c6-38ce0f507746
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cba82bcf-3f89-4dde-be62-a9cbe30ab41e
+  text: 髮
+  concept: HAIR
+  concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+  attestation:
+    text_title: 論衡
+    line_uuid: 189837f2-d20f-4a3a-9230-336ce72b5aef
+    textline: 毫髮之善
+    offset: 2
+    range: 1
+right:
+  word_uuid: c99295cb-0935-4565-8f4c-58b9265ed2b2
+  text: 毫
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 論衡
+    line_uuid: 189837f2-d20f-4a3a-9230-336ce72b5aef
+    textline: 毫髮之善
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

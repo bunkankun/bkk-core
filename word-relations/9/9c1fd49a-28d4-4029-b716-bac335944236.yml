@@ -1,0 +1,21 @@
+uuid: 9c1fd49a-28d4-4029-b716-bac335944236
+type: word-relation
+group_uuid: ada1c24e-e09c-54b7-a651-36f51d8a2f52
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ecb5800b-e0bc-4b27-a0ed-acb22dfb270a
+  text: 巢
+  concept: NEST
+  concept_uuid: 9a6e93e1-f9c8-457c-9200-b4b583c7704d
+right:
+  word_uuid: be1f3047-d1c3-4681-a884-630f3a7a85b9
+  text: 棲
+  concept: NEST
+  concept_uuid: 9a6e93e1-f9c8-457c-9200-b4b583c7704d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

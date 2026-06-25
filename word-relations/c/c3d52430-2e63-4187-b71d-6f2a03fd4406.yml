@@ -1,0 +1,32 @@
+uuid: c3d52430-2e63-4187-b71d-6f2a03fd4406
+type: word-relation
+group_uuid: c3d52430-2e63-4187-b71d-6f2a03fd4406
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9ece440b-aeec-49fb-8574-989e5b3128f7
+  text: 稅
+  concept: TAX
+  concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+  attestation:
+    text_title: 孟子
+    line_uuid: 57dcf10c-40ff-4430-8636-a3e66cb1fa46
+    line_id: KR1h0001_tls_001-19a.7
+    textline: 薄稅斂
+    offset: 2
+    range: 1
+right:
+  word_uuid: c752a011-49f5-49dc-b8f9-750812c189f5
+  text: 斂
+  concept: TAX
+  concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+  attestation:
+    text_title: 孟子
+    line_uuid: 57dcf10c-40ff-4430-8636-a3e66cb1fa46
+    line_id: KR1h0001_tls_001-19a.7
+    textline: 薄稅斂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

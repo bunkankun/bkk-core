@@ -1,0 +1,32 @@
+uuid: 6dc4cd8e-7cbc-4723-95fc-7851da86500e
+type: word-relation
+group_uuid: 6dc4cd8e-7cbc-4723-95fc-7851da86500e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ea7f1f39-6ea4-40b0-ae7c-c4976399359e
+  text: 世
+  concept: GENERATION
+  concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4b4e8f5d-55ac-446f-9932-0283345a7d15
+    line_id: KR3j0009_tls_002-22a.13
+    textline: 傳乎後世
+    offset: 4
+    range: 1
+right:
+  word_uuid: c23dc95d-ee54-4ec0-9e45-8e0129d64634
+  text: 後
+  concept: LATE
+  concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4b4e8f5d-55ac-446f-9932-0283345a7d15
+    line_id: KR3j0009_tls_002-22a.13
+    textline: 傳乎後世
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e1f5e497-cd60-4a9d-96eb-0b172067b02f
+type: word-relation
+group_uuid: 7479526a-7f09-46a2-91e1-989f07b0b126
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 713c0f89-3b55-4938-8006-a82f65542b34
+    line_id: KR3c0005_tls_002-6a.3
+    textline: 退而攻韓弗能拔
+    offset: 3
+    range: 1
+right:
+  word_uuid: f1b3c35d-b78b-452e-a380-e1ece50a7109
+  text: 拔
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 713c0f89-3b55-4938-8006-a82f65542b34
+    line_id: KR3c0005_tls_002-6a.3
+    textline: 退而攻韓弗能拔
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

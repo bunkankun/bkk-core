@@ -1,0 +1,32 @@
+uuid: 26b359ba-7bde-4d10-a63d-fb5475ce447e
+type: word-relation
+group_uuid: 421cbf22-8a2f-4274-b314-157e8c3d8c3a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c53c70a2-67b5-4e66-b1b9-3f2550381f43
+    line_id: KR3j0009_tls_003-26a.16
+    textline: 則應物變化
+    offset: 4
+    range: 1
+right:
+  word_uuid: 747e4ece-12fc-4a67-a420-fb0baf005724
+  text: 化
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c53c70a2-67b5-4e66-b1b9-3f2550381f43
+    line_id: KR3j0009_tls_003-26a.16
+    textline: 則應物變化
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

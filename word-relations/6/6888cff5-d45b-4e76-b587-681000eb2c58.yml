@@ -1,0 +1,32 @@
+uuid: 6888cff5-d45b-4e76-b587-681000eb2c58
+type: word-relation
+group_uuid: 8dd28cdd-3ae9-48f0-a2d6-7d78263f1b79
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aae131cd-ebb1-4935-9db0-f6927337cde9
+  text: 兵
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: b9a61f76-aa09-4c3b-90f4-5d7babc7f6c7
+    line_id: KR3c0005_tls_001-11a.2
+    textline: 然而兵甲頓
+    offset: 3
+    range: 1
+right:
+  word_uuid: b2d2d1d3-13bc-4b93-9be4-2f8d53cc0d7d
+  text: 甲
+  concept: ARMOUR
+  concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+  attestation:
+    text_title: 韓非子
+    line_uuid: b9a61f76-aa09-4c3b-90f4-5d7babc7f6c7
+    line_id: KR3c0005_tls_001-11a.2
+    textline: 然而兵甲頓
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

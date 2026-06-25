@@ -1,0 +1,32 @@
+uuid: 595f0dbc-68f9-42bf-a595-0394a89bbfaf
+type: word-relation
+group_uuid: 595f0dbc-68f9-42bf-a595-0394a89bbfaf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 40d3333a-25de-4418-a4bb-389915e360d5
+  text: 濯
+  concept: WASH
+  concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+  attestation:
+    text_title: 毛詩
+    line_uuid: 98c1a33a-6c99-4704-bb8f-574a29d76458
+    line_id: KR1c0001_tls_024-58a.4
+    textline: 可以濯溉
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4687e3fa-7903-45e0-8198-0142fc22e971
+  text: 溉
+  concept: WASH
+  concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+  attestation:
+    text_title: 毛詩
+    line_uuid: 98c1a33a-6c99-4704-bb8f-574a29d76458
+    line_id: KR1c0001_tls_024-58a.4
+    textline: 可以濯溉
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

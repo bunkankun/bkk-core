@@ -1,0 +1,32 @@
+uuid: 3c14376c-1a6a-4d47-8a28-61ce3193b467
+type: word-relation
+group_uuid: 3c14376c-1a6a-4d47-8a28-61ce3193b467
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 論語
+    line_uuid: 4a628c92-a5fc-4ecd-b2c1-ada36dd5478d
+    line_id: KR1h0004_tls_018-29a.6
+    textline: 不辱其身
+    offset: 4
+    range: 1
+right:
+  word_uuid: f9cd466f-732d-4414-8802-956ae1b70b7b
+  text: 志
+  concept: ASPIRATION
+  concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+  attestation:
+    text_title: 論語
+    line_uuid: 5cff9e1e-48cc-4faa-805a-9bfd40abba7d
+    line_id: KR1h0004_tls_018-29a.5
+    textline: 「不降其志
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

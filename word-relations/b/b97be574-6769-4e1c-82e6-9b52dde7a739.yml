@@ -1,0 +1,21 @@
+uuid: b97be574-6769-4e1c-82e6-9b52dde7a739
+type: word-relation
+group_uuid: ba156cc0-f1e0-5d19-a008-a70bc6fa47fc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+right:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: d170a6e9-5831-4e00-bc6f-2fcec1ea624f
+type: word-relation
+group_uuid: 2de46c3c-afce-4575-8070-50880acd9324
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a92bd4fd-e395-4a54-b371-a25b5638862f
+  text: 真
+  concept: GENUINE
+  concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+  attestation:
+    text_title: 論衡
+    line_uuid: 05d8671c-e565-45eb-b18c-9eae95293749
+    line_id: KR3j0080_tls_005-1a.21
+    textline: 賞而信者未必真
+    offset: 7
+    range: 1
+right:
+  word_uuid: f76cacbd-f3cc-4e20-8c08-30ab5a5633e9
+  text: 偽
+  concept: FAKE
+  concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+  attestation:
+    text_title: 論衡
+    line_uuid: b45d18ef-fea3-48fc-b3e7-5e576799fd61
+    line_id: KR3j0080_tls_005-1a.22
+    textline: 罰而疑者未必偽
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

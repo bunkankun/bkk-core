@@ -1,0 +1,32 @@
+uuid: 76fd9d14-aa23-4a85-ade5-eaf571358030
+type: word-relation
+group_uuid: 76fd9d14-aa23-4a85-ade5-eaf571358030
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0099285e-6789-4b7a-9955-8357138606bf
+  text: 重
+  concept: HEAVY
+  concept_uuid: 3840f8d4-5b8f-449a-a230-4434b8bc9533
+  attestation:
+    text_title: 老子
+    line_uuid: 5590f5b0-752e-4167-8601-49e3e463a271
+    line_id: KR5c0057_tls_026-1a.3
+    textline: 重為輕根
+    offset: 1
+    range: 1
+right:
+  word_uuid: b6a5f40d-b4dd-4fa1-9629-bd99dce2568c
+  text: 輕
+  concept: LIGHTWEIGHT
+  concept_uuid: 226f4376-14e2-466d-83ba-54e4e996002b
+  attestation:
+    text_title: 老子
+    line_uuid: 5590f5b0-752e-4167-8601-49e3e463a271
+    line_id: KR5c0057_tls_026-1a.3
+    textline: 重為輕根
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

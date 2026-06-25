@@ -1,0 +1,30 @@
+uuid: 6c7a0eca-3018-47d3-a01a-edd63a38e960
+type: word-relation
+group_uuid: 6c7a0eca-3018-47d3-a01a-edd63a38e960
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5bfac0dc-5da9-44fc-9e49-950c30514e8c
+  text: 祖
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 654672b6-8312-471f-9577-ee9bdcc4cb77
+    textline: 以供祖宗
+    offset: 3
+    range: 1
+right:
+  word_uuid: 21a7cf34-6a72-47ca-b86a-4069da91aec7
+  text: 宗
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 654672b6-8312-471f-9577-ee9bdcc4cb77
+    textline: 以供祖宗
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

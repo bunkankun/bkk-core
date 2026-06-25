@@ -1,0 +1,32 @@
+uuid: d5b6dc9c-85b4-41d1-b6dc-9c85b4a1d196
+type: word-relation
+group_uuid: 6c6a3bc0-4f4b-58ca-906e-3490d17541e0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: cf5cea39-800e-4bad-9ac1-560e384b188f
+  text: 好學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_031-2a.21
+    textline: 甚矣子之好學也
+    offset: 5
+    range: 2
+right:
+  word_uuid: 0bf46023-d512-48c0-b460-23d51248c0fe
+  text: 脩學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_031-2a.23
+    textline: 丘少而脩學
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T21:55:01.906+09:00'

@@ -1,0 +1,35 @@
+uuid: cc34e909-25da-4b90-9aa1-c456b2a42d53
+type: word-relation
+group_uuid: cc34e909-25da-4b90-9aa1-c456b2a42d53
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 92b94441-5a35-40a5-9a96-9013c10079c1
+  text: 夫
+  concept: HUSBAND
+  concept_uuid: ca2f1879-90bd-463c-9313-a009e2c17188
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cae38968-cdc9-4aa1-9ddf-edf9e05d82e9
+    line_id: KR3j0009_tls_005-10a.26
+    textline: 夫婦失宜
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5c8e62d4-5117-4e09-98c9-3fd19d1e06a3
+  text: 婦
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cae38968-cdc9-4aa1-9ddf-edf9e05d82e9
+    line_id: KR3j0009_tls_005-10a.26
+    textline: 夫婦失宜
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

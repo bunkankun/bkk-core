@@ -1,0 +1,32 @@
+uuid: 0df0720a-3dca-4489-b072-0a3dca4489e8
+type: word-relation
+group_uuid: 138984db-4e53-5125-bd4c-057b44e5b600
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b9811c1b-144b-4af8-b017-99a3eab29187
+  text: 樵
+  concept: FIREWOOD
+  concept_uuid: 92129761-23a4-4faf-aff0-13ff78929163
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.19
+    textline: 木鉤而樵
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9b81489b-2d4d-4af0-85e3-2977d71cca96
+  text: 汲
+  concept: FETCH
+  concept_uuid: b98512b1-e27b-4c94-8efa-44119f9a2d4b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.20
+    textline: 抱甀而汲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:15:22.831+09:00'

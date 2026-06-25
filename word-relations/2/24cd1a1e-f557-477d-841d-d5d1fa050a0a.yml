@@ -1,0 +1,32 @@
+uuid: 24cd1a1e-f557-477d-841d-d5d1fa050a0a
+type: word-relation
+group_uuid: 24cd1a1e-f557-477d-841d-d5d1fa050a0a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: dcce596f-ce66-4391-bc6e-c97bbbf1988d
+  text: 餔
+  concept: FOOD
+  concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+  attestation:
+    text_title: 莊子
+    line_uuid: aa68fc75-d5b5-4603-8df4-4a56c417696f
+    line_id: KR5c0126_tls_029-5a.1
+    textline: 我將以子肝益晝餔之膳
+    offset: 8
+    range: 1
+right:
+  word_uuid: ca9d53ad-efee-47f2-9869-916d7ebf1aa7
+  text: 膳
+  concept: DELICACY
+  concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+  attestation:
+    text_title: 莊子
+    line_uuid: aa68fc75-d5b5-4603-8df4-4a56c417696f
+    line_id: KR5c0126_tls_029-5a.1
+    textline: 我將以子肝益晝餔之膳
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

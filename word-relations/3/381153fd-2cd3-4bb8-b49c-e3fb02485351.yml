@@ -1,0 +1,35 @@
+uuid: 381153fd-2cd3-4bb8-b49c-e3fb02485351
+type: word-relation
+group_uuid: ab7dfcfb-f2c7-4bc6-a979-b0fce153e7d4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 97fe5e79-b619-4b4b-b3da-d4265e7ac5a9
+  text: 成
+  concept: SUCCEED
+  concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+  attestation:
+    text_title: 韓非子
+    line_uuid: c95754fe-acc0-4019-adf8-cc9c912695a9
+    line_id: KR3c0005_tls_020-108a.9
+    textline: 得之以成
+    offset: 4
+    range: 1
+right:
+  word_uuid: 72075a12-a80e-41aa-be6e-8dbb948bdf2b
+  text: 敗
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+  attestation:
+    text_title: 韓非子
+    line_uuid: 50e210bc-bc66-40a6-accc-50c6a7414fac
+    line_id: KR3c0005_tls_020-110a.4
+    textline: 得之以敗
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

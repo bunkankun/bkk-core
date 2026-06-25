@@ -1,0 +1,31 @@
+uuid: 63c2a065-7fc3-46e3-859d-83deb3444dd1
+type: word-relation
+group_uuid: 63c2a065-7fc3-46e3-859d-83deb3444dd1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 韓非子
+    line_uuid: dad5c11f-cd39-40cb-926e-0b65f9c74bb6
+    textline: 則功臣惰其業
+    offset: 2
+    range: 1
+right:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 36551a10-e5e6-4763-91a0-f9f25bfbe251
+    line_id: KR3c0005_tls_005-24a.7
+    textline: 則姦臣易為非
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

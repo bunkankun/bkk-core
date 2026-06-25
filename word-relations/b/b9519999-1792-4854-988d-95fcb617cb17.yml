@@ -1,0 +1,30 @@
+uuid: b9519999-1792-4854-988d-95fcb617cb17
+type: word-relation
+group_uuid: b9519999-1792-4854-988d-95fcb617cb17
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 767b920e-6940-43a4-b554-9774e2392cca
+  text: 身
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 楚辭
+    line_uuid: e8e12116-41cb-4c79-9241-00f5627d725f
+    textline: 身去兮意存
+    offset: 1
+    range: 1
+right:
+  word_uuid: d2384885-8628-4dd9-9a82-58d01016b2be
+  text: 意
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 楚辭
+    line_uuid: e8e12116-41cb-4c79-9241-00f5627d725f
+    textline: 身去兮意存
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

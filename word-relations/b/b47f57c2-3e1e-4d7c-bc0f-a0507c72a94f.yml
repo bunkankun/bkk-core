@@ -1,0 +1,32 @@
+uuid: b47f57c2-3e1e-4d7c-bc0f-a0507c72a94f
+type: word-relation
+group_uuid: b47f57c2-3e1e-4d7c-bc0f-a0507c72a94f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a10a86fd-391e-4a1e-85d8-317c25836e1b
+  text: 盤
+  concept: VESSEL
+  concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+  attestation:
+    text_title: 論衡
+    line_uuid: e8a09d2f-bf3b-4102-9ff5-9a68f70e30d0
+    line_id: KR3j0080_tls_002-9a.15
+    textline: 猶漆盤盂之工
+    offset: 3
+    range: 1
+right:
+  word_uuid: 32de5c38-3f2c-4857-a1ca-c18f85bb7d26
+  text: 盂
+  concept: WATER VESSEL
+  concept_uuid: 583bf8a8-6045-494f-b245-5658d10eb5bb
+  attestation:
+    text_title: 論衡
+    line_uuid: e8a09d2f-bf3b-4102-9ff5-9a68f70e30d0
+    line_id: KR3j0080_tls_002-9a.15
+    textline: 猶漆盤盂之工
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b8d5d1b7-1da1-47ec-83af-26dfaead5840
+type: word-relation
+group_uuid: b8d5d1b7-1da1-47ec-83af-26dfaead5840
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6572f0d8-9a20-475f-8643-563928f0b935
+  text: 失
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a9231e5a-71b6-4d0d-a367-ae02b8d31e68
+    line_id: KR3j0009_tls_004-5a.7
+    textline: 無或失時
+    offset: 3
+    range: 1
+right:
+  word_uuid: ab33a3c5-49d6-4580-bf07-73e5b0c894c6
+  text: 時
+  concept: MOMENT
+  concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a9231e5a-71b6-4d0d-a367-ae02b8d31e68
+    line_id: KR3j0009_tls_004-5a.7
+    textline: 無或失時
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

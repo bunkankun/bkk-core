@@ -1,0 +1,32 @@
+uuid: 73ec3c08-8a66-4258-9bc9-8baea7ac373a
+type: word-relation
+group_uuid: 44fb9d2a-c769-4314-830d-dbbc51298a47
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5c5b2978-674f-49c5-9f7f-26b2aa5c0cbe
+  text: 衣
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0908e7b9-c309-457d-84cf-b1273ebbf74a
+    line_id: KR3j0009_tls_004-18a.25
+    textline: 適衣服
+    offset: 2
+    range: 1
+right:
+  word_uuid: b1d11bf5-dc52-4d72-9ac0-5054d11f01df
+  text: 服
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0908e7b9-c309-457d-84cf-b1273ebbf74a
+    line_id: KR3j0009_tls_004-18a.25
+    textline: 適衣服
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

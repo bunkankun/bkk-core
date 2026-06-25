@@ -1,0 +1,32 @@
+uuid: 04a7924a-853a-4356-b22b-442b6b038e7d
+type: word-relation
+group_uuid: 04a7924a-853a-4356-b22b-442b6b038e7d
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 2e76bc92-7c88-44ff-ae5d-934749699343
+  text: 觀
+  concept: INSPECT
+  concept_uuid: 9061b621-93dc-47b4-a4cd-feeb3ee4b3db
+  attestation:
+    text_title: 韓非子
+    line_uuid: c0e030db-ed54-42dd-be3e-cc292d4a45e3
+    line_id: KR3c0005_tls_009-22a.2
+    textline: 其於觀樂玩好也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: c0e030db-ed54-42dd-be3e-cc292d4a45e3
+    line_id: KR3c0005_tls_009-22a.2
+    textline: 其於觀樂玩好也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

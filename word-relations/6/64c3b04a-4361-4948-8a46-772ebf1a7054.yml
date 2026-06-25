@@ -1,0 +1,30 @@
+uuid: 64c3b04a-4361-4948-8a46-772ebf1a7054
+type: word-relation
+group_uuid: 64c3b04a-4361-4948-8a46-772ebf1a7054
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a430e483-6260-49db-8beb-e0bdc7c17db7
+  text: 昏
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 老子
+    line_uuid: 6eceaf5c-82bb-4ad8-973d-c1d7b9a42767
+    textline: 國家昏亂
+    offset: 3
+    range: 1
+right:
+  word_uuid: cb75dcef-6882-4d79-9a67-def66084fa4d
+  text: 亂
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 老子
+    line_uuid: 6eceaf5c-82bb-4ad8-973d-c1d7b9a42767
+    textline: 國家昏亂
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

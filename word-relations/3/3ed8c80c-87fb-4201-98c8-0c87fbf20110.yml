@@ -1,0 +1,32 @@
+uuid: 3ed8c80c-87fb-4201-98c8-0c87fbf20110
+type: word-relation
+group_uuid: d320cdf6-213a-585f-b724-d0f580fc21a4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_012-52a.22
+    textline: 學書計
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9fe57d1d-7610-4266-860a-e0879d134fc6
+  text: 計
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_012-52a.22
+    textline: 學書計
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-29T20:16:09.463+09:00'

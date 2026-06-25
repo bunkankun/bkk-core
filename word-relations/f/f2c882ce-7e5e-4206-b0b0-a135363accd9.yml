@@ -1,0 +1,32 @@
+uuid: f2c882ce-7e5e-4206-b0b0-a135363accd9
+type: word-relation
+group_uuid: f2c882ce-7e5e-4206-b0b0-a135363accd9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 71212d48-f468-4ba7-a9d5-48d11840f774
+  text: 恬
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 論衡
+    line_uuid: ab91a319-17ee-4494-8223-872cbf6e3d6a
+    line_id: KR3j0080_tls_003-1a.56
+    textline: 故坦蕩恬忽
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1531ed66-b485-4beb-aba5-565a66055068
+  text: 忽
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 論衡
+    line_uuid: ab91a319-17ee-4494-8223-872cbf6e3d6a
+    line_id: KR3j0080_tls_003-1a.56
+    textline: 故坦蕩恬忽
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

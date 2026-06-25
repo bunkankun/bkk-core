@@ -1,0 +1,32 @@
+uuid: 0b01a90a-861f-424e-81a9-0a861fb24e57
+type: word-relation
+group_uuid: bd31bab2-cbde-4552-ab79-df987fcf0725
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: c1eb0e6b-a920-4e03-a567-69e40bb2390f
+  text: 有
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.28
+    textline: 使呂氏絕祀而陳氏有國者
+    offset: 9
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.28
+    textline: 使呂氏絕祀而陳氏有國者
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:31:08.885+09:00'

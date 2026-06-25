@@ -1,0 +1,32 @@
+uuid: aa6f1002-5332-4698-bbea-5dc84d3aae9f
+type: word-relation
+group_uuid: aa6f1002-5332-4698-bbea-5dc84d3aae9f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: db0a8b89-7163-498e-a574-7fc7f35a8d4b
+  text: 剖
+  concept: SPLIT
+  concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+  attestation:
+    text_title: 韓非子
+    line_uuid: 694c324f-e091-4c34-9986-eae3e34ae879
+    line_id: KR3c0005_tls_020-114a.6
+    textline: 唯夫與天地之剖判也具生
+    offset: 7
+    range: 1
+right:
+  word_uuid: 25400c60-cfd3-4f31-874b-3e6ac5d50d8a
+  text: 判
+  concept: SPLIT
+  concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+  attestation:
+    text_title: 韓非子
+    line_uuid: 694c324f-e091-4c34-9986-eae3e34ae879
+    line_id: KR3c0005_tls_020-114a.6
+    textline: 唯夫與天地之剖判也具生
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

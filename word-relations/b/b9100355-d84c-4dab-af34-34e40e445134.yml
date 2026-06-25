@@ -1,0 +1,21 @@
+uuid: b9100355-d84c-4dab-af34-34e40e445134
+type: word-relation
+group_uuid: ad15dfaa-1e0e-5607-b526-5aa0f5484ddd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ab4268d1-88ff-49b1-8852-a1526a89a796
+  text: 高
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+right:
+  word_uuid: 8227870b-8382-4397-92bb-174dbf1139dd
+  text: 卓
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

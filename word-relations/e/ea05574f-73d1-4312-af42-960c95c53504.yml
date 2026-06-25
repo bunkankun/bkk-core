@@ -1,0 +1,32 @@
+uuid: ea05574f-73d1-4312-af42-960c95c53504
+type: word-relation
+group_uuid: ea05574f-73d1-4312-af42-960c95c53504
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c9a1c811-7c00-4c2b-bd9f-dbf0e3d3476e
+  text: 虎
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9d660878-113e-4db2-a9bd-09eb6801b5ae
+    line_id: KR3c0005_tls_005-14a.4
+    textline: 虎乃將存
+    offset: 1
+    range: 1
+right:
+  word_uuid: c24e573d-4bd7-4bea-b7fe-0c268d7bcf22
+  text: 賊
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e104e38-9ce3-408e-92fa-cf95441359fd
+    line_id: KR3c0005_tls_005-14a.7
+    textline: 賊乃將生
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

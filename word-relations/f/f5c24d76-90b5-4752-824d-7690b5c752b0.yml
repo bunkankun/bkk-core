@@ -1,0 +1,32 @@
+uuid: f5c24d76-90b5-4752-824d-7690b5c752b0
+type: word-relation
+group_uuid: 9b1397ab-749f-5816-a6d8-5b16fac5e2c1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4d2550aa-2c7a-4bc8-9bec-42cdaf2d6087
+  text: 雄
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+  attestation:
+    text_title: 搜神記
+    line_id: KR3l0099_tls_011-4a.26
+    textline: 一雄一雌，
+    offset: 2
+    range: 1
+right:
+  word_uuid: c192b20d-3176-4308-b452-0a4be22ecf03
+  text: 雌
+  concept: FEMALE
+  concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+  attestation:
+    text_title: 搜神記
+    line_id: KR3l0099_tls_011-4a.26
+    textline: 一雄一雌，
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#dsehnal'
+  date: '2023-05-26T20:32:06.248+09:00'

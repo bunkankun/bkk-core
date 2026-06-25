@@ -1,0 +1,35 @@
+uuid: fe64797a-602b-4ae5-b93c-d8469a26f993
+type: word-relation
+group_uuid: 480aae90-80aa-4292-b9ca-40c2834ba15d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2fb09f06-4889-4dfa-be74-aea9c4b17887
+  text: 得
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 韓非子
+    line_uuid: 00f09a1a-dfd6-4884-9569-355cdc4125eb
+    line_id: KR3c0005_tls_006-9a.2
+    textline: 故審得失
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 韓非子
+    line_uuid: 00f09a1a-dfd6-4884-9569-355cdc4125eb
+    line_id: KR3c0005_tls_006-9a.2
+    textline: 故審得失
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

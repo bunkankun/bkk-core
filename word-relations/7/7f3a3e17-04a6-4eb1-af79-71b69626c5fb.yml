@@ -1,0 +1,18 @@
+uuid: 7f3a3e17-04a6-4eb1-af79-71b69626c5fb
+type: word-relation
+group_uuid: 79888dd6-0e5e-583a-bad0-7416ca535f0d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b522d01d-2cec-4d2e-80af-6f8e883b9427
+  text: 聰
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+right:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智知
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+source:
+  source_file: word-relations.xml

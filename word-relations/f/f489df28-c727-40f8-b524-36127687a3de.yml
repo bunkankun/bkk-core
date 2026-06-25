@@ -1,0 +1,21 @@
+uuid: f489df28-c727-40f8-b524-36127687a3de
+type: word-relation
+group_uuid: f041e78c-f016-5a3d-9fe4-54f6f0934fe3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ffaf3b87-fc9f-4685-ac54-a1693472fc27
+  text: 供共
+  concept: FEED
+  concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+right:
+  word_uuid: bab397d9-43ca-498c-ac45-311b0805f1aa
+  text: 養
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

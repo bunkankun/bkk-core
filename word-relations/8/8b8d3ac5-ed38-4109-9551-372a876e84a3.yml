@@ -1,0 +1,32 @@
+uuid: 8b8d3ac5-ed38-4109-9551-372a876e84a3
+type: word-relation
+group_uuid: 8b8d3ac5-ed38-4109-9551-372a876e84a3
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 論語
+    line_uuid: 00aa57c2-43f3-48cd-ab09-1a4e697d94a8
+    line_id: KR1h0004_tls_005-15a.5
+    textline: 夫子之言性與天道
+    offset: 8
+    range: 1
+right:
+  word_uuid: 0c50ea4e-6039-4dd8-be09-c6c2511b689d
+  text: 天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 論語
+    line_uuid: 00aa57c2-43f3-48cd-ab09-1a4e697d94a8
+    line_id: KR1h0004_tls_005-15a.5
+    textline: 夫子之言性與天道
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 8e2de641-d0bf-4ceb-8a48-51a7e7e02b0c
+type: word-relation
+group_uuid: 8e2de641-d0bf-4ceb-8a48-51a7e7e02b0c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 舍
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: c9c1e76b-27c1-4df9-98b7-3080a4dce802
+    textline: 舍與慳對
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3d565370-6e94-4b25-b5bf-d8ba7fd6546a
+  text: 慳
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: c9c1e76b-27c1-4df9-98b7-3080a4dce802
+    textline: 舍與慳對
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 4c8bb925-eb73-464c-941a-d3602d473894
+type: word-relation
+group_uuid: e437bf8c-6111-5f18-9e81-a7b7e286c09b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 5a5721e6-357d-4830-9979-7fe942c40e3b
+  text: 薦
+  concept: RECOMMEND
+  concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+right:
+  word_uuid: 870b5abb-f712-4950-8a8e-7afd6c91f4ec
+  text: 舉
+  concept: RECOMMEND
+  concept_uuid: c6de376f-b3b8-4013-995c-88d0e9926cbf
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

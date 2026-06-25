@@ -1,0 +1,30 @@
+uuid: 7f12eaca-38c8-4ae9-8c4a-705f2cd4cd88
+type: word-relation
+group_uuid: 7f12eaca-38c8-4ae9-8c4a-705f2cd4cd88
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 997e5a3d-7935-4c06-876a-e23903d6dd9c
+  text: 朝
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 毛詩
+    line_uuid: d5552feb-0088-4c37-9343-746955014aec
+    textline: 朝宗於海
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5d4cbc16-77db-41cf-ad56-292fc24af76a
+  text: 宗
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 毛詩
+    line_uuid: d5552feb-0088-4c37-9343-746955014aec
+    textline: 朝宗於海
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

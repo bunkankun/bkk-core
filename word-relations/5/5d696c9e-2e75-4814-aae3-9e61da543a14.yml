@@ -1,0 +1,32 @@
+uuid: 5d696c9e-2e75-4814-aae3-9e61da543a14
+type: word-relation
+group_uuid: 5d696c9e-2e75-4814-aae3-9e61da543a14
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: e949ec57-ec2e-4651-b52c-c3e6b51ff63c
+    line_id: KR1h0004_tls_004-26a.1
+    textline: 而敏於行
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3eb76d24-2da5-41fc-8ef2-435cc2b481c0
+  text: 敏
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+  attestation:
+    text_title: 論語
+    line_uuid: e949ec57-ec2e-4651-b52c-c3e6b51ff63c
+    line_id: KR1h0004_tls_004-26a.1
+    textline: 而敏於行
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

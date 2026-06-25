@@ -1,0 +1,32 @@
+uuid: 2e21af48-2303-41e0-83d2-f4692cf92778
+type: word-relation
+group_uuid: 2e21af48-2303-41e0-83d2-f4692cf92778
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 168562bc-37b2-4ee6-ad8c-25a2a880b40b
+    line_id: KR1e0001_tls_005-389a.61
+    textline: 德之大者也
+    offset: 1
+    range: 1
+right:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 003ec507-d6cb-4225-bdf6-c2954cd7f71e
+    line_id: KR1e0001_tls_005-389a.63
+    textline: 姦之大者也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

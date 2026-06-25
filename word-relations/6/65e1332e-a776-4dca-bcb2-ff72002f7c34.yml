@@ -1,0 +1,30 @@
+uuid: 65e1332e-a776-4dca-bcb2-ff72002f7c34
+type: word-relation
+group_uuid: 65e1332e-a776-4dca-bcb2-ff72002f7c34
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 25d45e3a-5d32-4bbf-b450-53340520ec38
+  text: 煖
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ca116694-6fb1-49dd-829a-ab0a20d31e5a
+    textline: 民煖是利
+    range: 1
+right:
+  word_uuid: caf98739-222c-4786-b1b1-644b04a17dbe
+  text: 熱
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: be6fbef2-404c-42d7-86b0-fec0e3ecc5e5
+    line_id: KR3j0009_tls_002-31a.4
+    textline: 大熱在上
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

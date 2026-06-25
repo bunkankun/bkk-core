@@ -1,0 +1,30 @@
+uuid: 8291be21-63ba-41f1-9751-108ecf8365e2
+type: word-relation
+group_uuid: 8291be21-63ba-41f1-9751-108ecf8365e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8280ac35-d647-41ba-a6e2-67363c1fb83a
+  text: 迅
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 楚辭
+    line_uuid: d608e2bf-d987-4386-9651-990a693964e0
+    textline: 挑揄揚汰盪迅疾兮
+    offset: 6
+    range: 1
+right:
+  word_uuid: 40a9658c-4b5e-4952-82c0-37e84b877bf3
+  text: 疾
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 楚辭
+    line_uuid: d608e2bf-d987-4386-9651-990a693964e0
+    textline: 挑揄揚汰盪迅疾兮
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

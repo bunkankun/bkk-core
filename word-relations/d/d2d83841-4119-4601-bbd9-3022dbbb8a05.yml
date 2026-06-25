@@ -1,0 +1,32 @@
+uuid: d2d83841-4119-4601-bbd9-3022dbbb8a05
+type: word-relation
+group_uuid: d2d83841-4119-4601-bbd9-3022dbbb8a05
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d9b154a1-f11f-4c5d-b672-c411db28585d
+  text: 進
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 531a9420-7b55-4b71-a41f-6e74c923e37a
+    line_id: KR3c0005_tls_010-10a.2
+    textline: 故豎穀陽之進酒
+    offset: 6
+    range: 1
+right:
+  word_uuid: 5054c394-e57f-405d-bdfe-2e7d2a3b41fd
+  text: 酒
+  concept: LIQUOR
+  concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+  attestation:
+    text_title: 韓非子
+    line_uuid: 531a9420-7b55-4b71-a41f-6e74c923e37a
+    line_id: KR3c0005_tls_010-10a.2
+    textline: 故豎穀陽之進酒
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

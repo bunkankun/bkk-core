@@ -1,0 +1,30 @@
+uuid: a82da728-f7e5-4f13-9790-882572a12f61
+type: word-relation
+group_uuid: a82da728-f7e5-4f13-9790-882572a12f61
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4d7a7f48-485b-4f9e-9aec-960d83b33e7f
+  text: 大人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 法言
+    line_uuid: 2a68c5bb-0b34-49df-aac1-a031a63770fe
+    textline: 曰大人之學也為道,
+    offset: 3
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 法言
+    line_uuid: 9d893d49-0c69-4ab3-abd3-000727c2c5ca
+    textline: 小人之學也為利
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

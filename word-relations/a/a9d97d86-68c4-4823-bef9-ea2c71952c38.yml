@@ -1,0 +1,32 @@
+uuid: a9d97d86-68c4-4823-bef9-ea2c71952c38
+type: word-relation
+group_uuid: a9d97d86-68c4-4823-bef9-ea2c71952c38
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 00a69166-cbc8-4b06-b058-d230f66bcd4f
+  text: 說
+  concept: PERSUADE
+  concept_uuid: df302e69-b571-43a8-af45-96d598ea2ca2
+  attestation:
+    text_title: 韓非子
+    line_uuid: e72f86e7-9867-4760-a07b-2c332e23f201
+    line_id: KR3c0005_tls_015-6a.6
+    textline: 好辯說而不求其用
+    offset: 3
+    range: 1
+right:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 韓非子
+    line_uuid: e72f86e7-9867-4760-a07b-2c332e23f201
+    line_id: KR3c0005_tls_015-6a.6
+    textline: 好辯說而不求其用
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

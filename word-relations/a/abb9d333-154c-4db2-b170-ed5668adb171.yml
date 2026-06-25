@@ -1,0 +1,32 @@
+uuid: abb9d333-154c-4db2-b170-ed5668adb171
+type: word-relation
+group_uuid: abb9d333-154c-4db2-b170-ed5668adb171
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e755ab91-a02f-46a2-9c4f-570c696a5a85
+  text: 憂
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+  attestation:
+    text_title: 論語
+    line_uuid: 2c5f5d48-78fe-4acd-a645-e0b4cddbe19c
+    line_id: KR1h0004_tls_006-17a.7
+    textline: 人不堪其憂
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: b1afce85-6c6e-4c69-afca-b38972714c2d
+    line_id: KR1h0004_tls_006-17a.8
+    textline: 回也不改其樂
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

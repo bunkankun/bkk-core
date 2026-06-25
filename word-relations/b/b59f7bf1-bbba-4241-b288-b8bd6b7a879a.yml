@@ -1,0 +1,21 @@
+uuid: b59f7bf1-bbba-4241-b288-b8bd6b7a879a
+type: word-relation
+group_uuid: 9274a9f8-8908-5ab8-a2da-38b6d175121f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b6f56ec-4ba2-42c1-bdd8-88f8a4c131b2
+  text: 就
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+right:
+  word_uuid: 946c5389-8b1b-4bee-9701-be5543b28133
+  text: 棄
+  concept: DISREGARD
+  concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

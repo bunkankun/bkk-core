@@ -1,0 +1,32 @@
+uuid: 357ee136-255b-46c3-9405-9a2e68700e26
+type: word-relation
+group_uuid: 357ee136-255b-46c3-9405-9a2e68700e26
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 46f77888-87f4-43cc-b2ef-74053adeb519
+  text: 揜
+  concept: COVER
+  concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 628e67da-9487-44a9-98d8-18f0138710aa
+    line_id: KR3j0009_tls_002-17a.35
+    textline: 電則揜目
+    offset: 3
+    range: 1
+right:
+  word_uuid: 081fc31e-9e3b-44b7-b629-bc240777d5b9
+  text: 目
+  concept: EYE
+  concept_uuid: 4a10ce28-f866-4a84-8b59-5dd6ebb37101
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 628e67da-9487-44a9-98d8-18f0138710aa
+    line_id: KR3j0009_tls_002-17a.35
+    textline: 電則揜目
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

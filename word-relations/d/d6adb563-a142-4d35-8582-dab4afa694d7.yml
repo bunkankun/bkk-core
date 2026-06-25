@@ -1,0 +1,32 @@
+uuid: d6adb563-a142-4d35-8582-dab4afa694d7
+type: word-relation
+group_uuid: d6adb563-a142-4d35-8582-dab4afa694d7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3da7b304-ee9d-4590-aa3e-ddb67c8ef821
+  text: 正
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 長短經
+    line_uuid: 2c74b333-6614-4bec-a066-9f25f9bd58f5
+    line_id: KR3j0015_CH7x2006_002-1a.5
+    textline: 以正理國
+    offset: 2
+    range: 1
+right:
+  word_uuid: 327cd1ee-b481-438f-aafe-1f885f838ed1
+  text: 奇
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 長短經
+    line_uuid: 58af3ac3-0613-4fa3-9797-b4444931d3c7
+    line_id: KR3j0015_CH7x2006_002-1a.6
+    textline: 以奇用兵
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

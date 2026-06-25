@@ -1,0 +1,18 @@
+uuid: 95e0991c-914a-44b1-b720-1a088ddf105e
+type: word-relation
+group_uuid: f3cc41dc-a913-5679-acbf-7e4c4482d991
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+right:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+source:
+  source_file: word-relations.xml

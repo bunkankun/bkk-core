@@ -1,0 +1,32 @@
+uuid: c35a35f1-117d-4dbb-ba0c-d0a8d1262411
+type: word-relation
+group_uuid: c35a35f1-117d-4dbb-ba0c-d0a8d1262411
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: f6e7d579-229d-4316-bdf8-9ffad71122c9
+  text: 醫
+  concept: PHYSICIAN
+  concept_uuid: 4f3f44a0-2d10-4b09-ac7e-24e804772157
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 25fe94a9-c371-44df-ae9b-e4085ed4e328
+    line_id: KR3j0009_tls_015-44a.27
+    textline: 譬之若良醫
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 25fe94a9-c371-44df-ae9b-e4085ed4e328
+    line_id: KR3j0009_tls_015-44a.27
+    textline: 譬之若良醫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

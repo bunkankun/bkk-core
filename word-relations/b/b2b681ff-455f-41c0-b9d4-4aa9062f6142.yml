@@ -1,0 +1,30 @@
+uuid: b2b681ff-455f-41c0-b9d4-4aa9062f6142
+type: word-relation
+group_uuid: b2b681ff-455f-41c0-b9d4-4aa9062f6142
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9a71ce0f-b032-4274-9fdf-ec8822ee88a4
+  text: 賢者
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 楚辭
+    line_uuid: f4ce5e88-582e-413e-91d3-fb8ba4f0052f
+    textline: 賢者遠而隱藏
+    offset: 1
+    range: 2
+right:
+  word_uuid: ab622e9d-cf80-4cf0-aaaa-a268224733ba
+  text: 眾
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 楚辭
+    line_uuid: 91363507-60ed-4135-abc0-4eb458e1b4a3
+    textline: 眾比周以肩迫兮
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

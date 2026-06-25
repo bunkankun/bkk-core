@@ -1,0 +1,32 @@
+uuid: f27e558b-1006-4ad0-826d-86ed0207ba19
+type: word-relation
+group_uuid: f27e558b-1006-4ad0-826d-86ed0207ba19
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 35420193-16b1-4440-86a8-b7b321c671f6
+    line_id: KR3c0005_tls_019-33a.5
+    textline: 則法禁不立矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+  attestation:
+    text_title: 韓非子
+    line_uuid: 35420193-16b1-4440-86a8-b7b321c671f6
+    line_id: KR3c0005_tls_019-33a.5
+    textline: 則法禁不立矣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

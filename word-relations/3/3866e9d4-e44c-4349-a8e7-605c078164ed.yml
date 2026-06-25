@@ -1,0 +1,32 @@
+uuid: 3866e9d4-e44c-4349-a8e7-605c078164ed
+type: word-relation
+group_uuid: 50d967f8-4015-4a8e-a197-796ccdf8ef5b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f0fb7cc1-406e-46de-b6ad-5cf2f21bbbb8
+  text: 思
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 13819e18-3f76-45c1-9e98-6120832a8b93
+    line_id: KR3c0005_tls_020-45a.4
+    textline: 動靜思慮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 20ce3800-8a9c-4021-944e-ea84a5a9f1d2
+  text: 慮
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: 13819e18-3f76-45c1-9e98-6120832a8b93
+    line_id: KR3c0005_tls_020-45a.4
+    textline: 動靜思慮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

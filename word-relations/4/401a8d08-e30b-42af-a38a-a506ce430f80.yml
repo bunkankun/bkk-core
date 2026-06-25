@@ -1,0 +1,32 @@
+uuid: 401a8d08-e30b-42af-a38a-a506ce430f80
+type: word-relation
+group_uuid: df55851b-8f1f-4dbf-bebb-0c42fd8452f6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 老子
+    line_uuid: 8c5bea43-4b98-426a-930b-58df4584b0a8
+    line_id: KR5c0057_tls_045-1a.9
+    textline: 大辯若訥
+    offset: 2
+    range: 1
+right:
+  word_uuid: 637842a4-0bb7-4502-aa9f-44e400f0df70
+  text: 訥
+  concept: STUTTER
+  concept_uuid: 9e013653-f50a-43f1-b769-fee7c363a579
+  attestation:
+    text_title: 老子
+    line_uuid: 8c5bea43-4b98-426a-930b-58df4584b0a8
+    line_id: KR5c0057_tls_045-1a.9
+    textline: 大辯若訥
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 1f6c661f-a8ec-4803-ac66-1fa8ec1803ac
+type: word-relation
+group_uuid: 83697e48-efe3-594f-8869-193ecb17e90c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1dc8a066-eb41-4f68-9262-d453f28b1927
+  text: 始
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-4a.4
+    textline: 民不可與慮始
+    offset: 6
+    range: 1
+right:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-4a.5
+    textline: 而可與樂成
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-10-14T17:14:51.577+09:00'

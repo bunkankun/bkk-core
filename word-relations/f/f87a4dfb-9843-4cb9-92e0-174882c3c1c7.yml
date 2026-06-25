@@ -1,0 +1,32 @@
+uuid: f87a4dfb-9843-4cb9-92e0-174882c3c1c7
+type: word-relation
+group_uuid: f87a4dfb-9843-4cb9-92e0-174882c3c1c7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b8b79c2d-df37-4677-b27b-bea0f4c6f52f
+  text: 勇
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea09a174-4c60-4ee3-8602-dc8f38e3eb26
+    line_id: KR3c0005_tls_009-25a.2
+    textline: 其於勇力之士也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea09a174-4c60-4ee3-8602-dc8f38e3eb26
+    line_id: KR3c0005_tls_009-25a.2
+    textline: 其於勇力之士也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

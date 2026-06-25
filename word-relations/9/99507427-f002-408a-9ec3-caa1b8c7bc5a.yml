@@ -1,0 +1,32 @@
+uuid: 99507427-f002-408a-9ec3-caa1b8c7bc5a
+type: word-relation
+group_uuid: 99507427-f002-408a-9ec3-caa1b8c7bc5a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: de9e2a57-ddd8-4ba7-84bf-e586f144bfc0
+  text: 有情
+  concept: CREATURE
+  concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 9547c3f2-b921-4146-add4-b893e5016b01
+    line_id: KR6q0002_Yan_003-1123a.45
+    textline: 未審有情又如何”
+    offset: 3
+    range: 2
+right:
+  word_uuid: db5d644d-4512-49cf-8a78-622f903de40a
+  text: 無情
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 祖堂集
+    line_uuid: e5f6f143-b45a-49db-9478-ba742f885252
+    line_id: KR6q0002_Yan_003-1123a.44
+    textline: “既是無情有佛性
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

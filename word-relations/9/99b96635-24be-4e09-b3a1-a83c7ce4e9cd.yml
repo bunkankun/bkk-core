@@ -1,0 +1,33 @@
+uuid: 99b96635-24be-4e09-b3a1-a83c7ce4e9cd
+type: word-relation
+group_uuid: cee4484d-026a-4a41-aa3f-c759557221c9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 管子
+    line_uuid: afa3c18d-0db2-4dd9-9ff0-7e3034558972
+    textline: 足以避燥溼寒暑
+    offset: 6
+    range: 1
+right:
+  word_uuid: eb6c1af1-2eba-490b-8ee9-fc4a728df81d
+  text: 暑
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 管子
+    line_uuid: afa3c18d-0db2-4dd9-9ff0-7e3034558972
+    textline: 足以避燥溼寒暑
+    offset: 7
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

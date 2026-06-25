@@ -1,0 +1,32 @@
+uuid: df9c2a75-8892-4745-965b-71972a0171a8
+type: word-relation
+group_uuid: df9c2a75-8892-4745-965b-71972a0171a8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 68940a28-67a4-4680-aa26-131cd7eeb280
+  text: 多
+  concept: ADMIRE
+  concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: fa48dc2c-ad4d-4aa9-91df-a9f30cecc27e
+    line_id: KR3c0005_tls_014-70a.4
+    textline: 而世主之所多而求也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 14ed6252-6521-4c4e-aeab-2ff3415c83de
+  text: 少
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+  attestation:
+    text_title: 韓非子
+    line_uuid: 94d61b05-d5d6-4ef1-9d75-e09adba6a783
+    line_id: KR3c0005_tls_014-70a.3
+    textline: 吾所少而去也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

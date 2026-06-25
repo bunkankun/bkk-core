@@ -1,0 +1,32 @@
+uuid: b231ca31-5a51-4c72-98b7-da8d91069544
+type: word-relation
+group_uuid: b231ca31-5a51-4c72-98b7-da8d91069544
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b55af153-6166-4897-bc47-4795b5d58c13
+  text: 群
+  concept: GROUP
+  concept_uuid: f0e7b237-8209-4441-a19a-5a6046703e53
+  attestation:
+    text_title: 論語
+    line_uuid: dc51d825-c60a-4561-b017-2453cd4cf746
+    line_id: KR1h0004_tls_015-23a.1
+    textline: 群而不黨
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1ba51878-9058-432e-ad95-e364fc480fc7
+  text: 黨
+  concept: FACTION
+  concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+  attestation:
+    text_title: 論語
+    line_uuid: dc51d825-c60a-4561-b017-2453cd4cf746
+    line_id: KR1h0004_tls_015-23a.1
+    textline: 群而不黨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

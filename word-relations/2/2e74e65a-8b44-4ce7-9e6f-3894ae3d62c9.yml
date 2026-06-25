@@ -1,0 +1,32 @@
+uuid: 2e74e65a-8b44-4ce7-9e6f-3894ae3d62c9
+type: word-relation
+group_uuid: 9b920913-7ff2-4a6f-aaae-79d95ba2ecac
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論語
+    line_uuid: 1c93c54a-0812-4f05-8fd0-1eb170f280e2
+    line_id: KR1h0004_tls_007-18a.10
+    textline: 「求仁而得仁
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 論語
+    line_uuid: 1c93c54a-0812-4f05-8fd0-1eb170f280e2
+    line_id: KR1h0004_tls_007-18a.10
+    textline: 「求仁而得仁
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

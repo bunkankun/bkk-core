@@ -1,0 +1,32 @@
+uuid: de132c3d-2f84-45a1-9070-22b0c4bfc079
+type: word-relation
+group_uuid: de132c3d-2f84-45a1-9070-22b0c4bfc079
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 13473da5-3d00-4528-b1f8-893f6166b8d8
+    line_id: KR3c0005_tls_001-29a.2
+    textline: 夫以大王之明
+    offset: 6
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 41cba26c-3423-450b-b881-94c03d019a8f
+    line_id: KR3c0005_tls_001-29a.3
+    textline: 秦兵之強
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

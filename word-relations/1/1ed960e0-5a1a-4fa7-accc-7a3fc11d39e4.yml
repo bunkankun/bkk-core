@@ -1,0 +1,18 @@
+uuid: 1ed960e0-5a1a-4fa7-accc-7a3fc11d39e4
+type: word-relation
+group_uuid: b9f91c2a-7242-5254-9b15-38d7709b6362
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4bc1f34a-30bf-43a3-9b33-477c2b470239
+  text: 絕
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+right:
+  word_uuid: 332574da-def8-4947-b4b6-56c3d7b96720
+  text: 棄
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+source:
+  source_file: word-relations.xml

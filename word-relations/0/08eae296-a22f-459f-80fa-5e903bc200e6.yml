@@ -1,0 +1,32 @@
+uuid: 08eae296-a22f-459f-80fa-5e903bc200e6
+type: word-relation
+group_uuid: afa93695-5c16-452c-8efc-9b5387df677c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b805b757-0785-454d-b637-104a38cec47f
+  text: 川
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ce0c82e2-9b50-440b-9de9-9565e433936a
+    line_id: KR3j0009_tls_004-18a.19
+    textline: 入川澤
+    offset: 2
+    range: 1
+right:
+  word_uuid: a1ca0123-1ef7-435d-93ee-3042cd967916
+  text: 澤
+  concept: MARSH
+  concept_uuid: 1d168988-768f-41d1-adb5-cd633b503ead
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ce0c82e2-9b50-440b-9de9-9565e433936a
+    line_id: KR3j0009_tls_004-18a.19
+    textline: 入川澤
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

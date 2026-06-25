@@ -1,0 +1,18 @@
+uuid: dc454d5d-9374-46a6-b7e0-11e9dfe5a6e5
+type: word-relation
+group_uuid: b4478580-7b27-5f12-886d-61c0e54c7eb3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d4bbc629-4ad5-4c9d-94b9-c777c492faf3
+  text: 券
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+right:
+  word_uuid: ed872221-feaf-4a7e-8115-cc9979249b60
+  text: 契
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+source:
+  source_file: word-relations.xml

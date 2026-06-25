@@ -1,0 +1,21 @@
+uuid: 0afe029b-449b-4c38-ab0c-f95a5a6d48e8
+type: word-relation
+group_uuid: af98273e-f537-592b-ab54-e14c7319217e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 35d45f84-3607-4b4e-977d-d4a9e156955d
+  text: 定
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+right:
+  word_uuid: 553f11e4-2914-4d02-8c49-9398f51017b2
+  text: 寧
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

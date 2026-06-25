@@ -1,0 +1,32 @@
+uuid: 42ead7aa-67e0-4500-8589-7542cd817327
+type: word-relation
+group_uuid: 42ead7aa-67e0-4500-8589-7542cd817327
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 202d748c-9b79-432f-ae7c-1a39120f13cf
+  text: 辭
+  concept: REFUSE
+  concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+  attestation:
+    text_title: 孟子
+    line_uuid: 6712be8b-f907-45a9-99e6-a60996faef7f
+    line_id: KR1h0001_tls_010-14a.3
+    textline: 「請無以辭卻之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 66b6c6dc-3552-4072-ad61-1cd7e13d9955
+  text: 卻
+  concept: REFUSE
+  concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+  attestation:
+    text_title: 孟子
+    line_uuid: 6712be8b-f907-45a9-99e6-a60996faef7f
+    line_id: KR1h0001_tls_010-14a.3
+    textline: 「請無以辭卻之
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

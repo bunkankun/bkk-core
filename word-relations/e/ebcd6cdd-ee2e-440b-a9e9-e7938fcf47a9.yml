@@ -1,0 +1,30 @@
+uuid: ebcd6cdd-ee2e-440b-a9e9-e7938fcf47a9
+type: word-relation
+group_uuid: ebcd6cdd-ee2e-440b-a9e9-e7938fcf47a9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2c39b9ac-a555-47ea-bc8a-eb24e72f0501
+  text: 萌
+  concept: SPROUT
+  concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+  attestation:
+    text_title: 禮記
+    line_uuid: 61108359-6a71-4efd-a17e-0b0dd3646986
+    textline: 安萌芽
+    offset: 2
+    range: 1
+right:
+  word_uuid: 94f863cb-daba-44b5-a686-4fc89ce54643
+  text: 芽
+  concept: SPROUT
+  concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+  attestation:
+    text_title: 禮記
+    line_uuid: 61108359-6a71-4efd-a17e-0b0dd3646986
+    textline: 安萌芽
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

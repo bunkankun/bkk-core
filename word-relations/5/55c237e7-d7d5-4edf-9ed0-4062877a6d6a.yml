@@ -1,0 +1,32 @@
+uuid: 55c237e7-d7d5-4edf-9ed0-4062877a6d6a
+type: word-relation
+group_uuid: 6a1b8dfe-edf2-47c7-8f53-eca6e48c57e4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 687b63b0-8a69-4f10-a6d6-a1228fd85147
+  text: 燥
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 231c9c9e-f00b-465f-a34d-07f9293341e8
+    line_id: KR1e0001_tls_009-394a.19
+    textline: 以辟燥濕寒暑
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4a3832e6-b413-4022-ba4d-2150587a224c
+  text: 濕
+  concept: MOIST
+  concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 231c9c9e-f00b-465f-a34d-07f9293341e8
+    line_id: KR1e0001_tls_009-394a.19
+    textline: 以辟燥濕寒暑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

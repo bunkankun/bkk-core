@@ -1,0 +1,29 @@
+uuid: 15da7ab3-9770-47d7-9a7a-b3977017d7ed
+type: word-relation
+group_uuid: c2c33c62-85c1-58bf-9c68-c710517a451f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: be85cd1e-586b-48b3-85cd-1e586b48b3e7
+  text: the mindset/spirit of (personalised) Heaven
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    line_id: def-uuid-5f4e2094-bd1c-43f7-8e20-94bd1ce3f719
+    offset: 1
+    range: 43
+right:
+  word_uuid: 7e7243c8-4671-4642-9c19-2665b5ad7096
+  text: 稱
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+  attestation:
+    line_id: KR5e0001_tls_006-21a.140
+    textline: 行而不稱天心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-19T23:35:09.321+09:00'

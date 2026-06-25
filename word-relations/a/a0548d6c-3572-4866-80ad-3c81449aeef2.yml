@@ -1,0 +1,32 @@
+uuid: a0548d6c-3572-4866-80ad-3c81449aeef2
+type: word-relation
+group_uuid: a0548d6c-3572-4866-80ad-3c81449aeef2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c2d6bedd-f429-4d6f-8f0b-a36810207737
+  text: 雉
+  concept: BIRDS
+  concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+  attestation:
+    text_title: 孟子
+    line_uuid: 964c6b10-bdcb-4b99-aed1-3e4a4c5e13c6
+    line_id: KR1h0001_tls_002-18a.5
+    textline: 雉兔者往焉
+    offset: 1
+    range: 1
+right:
+  word_uuid: cbf8207b-8e82-49d7-8021-8967bd83b911
+  text: 兔
+  concept: HARE
+  concept_uuid: 72ed14b8-33e1-4bc9-a9de-271273a5a5ee
+  attestation:
+    text_title: 孟子
+    line_uuid: 964c6b10-bdcb-4b99-aed1-3e4a4c5e13c6
+    line_id: KR1h0001_tls_002-18a.5
+    textline: 雉兔者往焉
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: db73fb48-ab85-4260-97ee-bfd7feeaaef0
+type: word-relation
+group_uuid: db73fb48-ab85-4260-97ee-bfd7feeaaef0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cca4c345-afe2-46db-a61b-60dc7917e30c
+  text: 重
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: b6cbfcd6-4cd7-4ed1-ab3e-a73446d5e086
+    line_id: KR3c0005_tls_006-3a.8
+    textline: 有燕者重
+    offset: 4
+    range: 1
+right:
+  word_uuid: 23dd6550-74e2-4c8c-b609-a6ae3cf3e3e2
+  text: 輕
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 韓非子
+    line_uuid: a264992f-8deb-420b-90ff-29e990dd450a
+    line_id: KR3c0005_tls_006-3a.9
+    textline: 無燕者輕
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

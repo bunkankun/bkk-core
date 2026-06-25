@@ -1,0 +1,31 @@
+uuid: b0fd78dd-8bd3-49db-8687-48863fa11af3
+type: word-relation
+group_uuid: b0fd78dd-8bd3-49db-8687-48863fa11af3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8468026d-4970-411c-b9ac-0dbff0018b46
+  text: 矩
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 論語
+    line_uuid: 8545db37-8766-4a3d-b758-b8fc7db86e3b
+    line_id: KR1h0004_tls_002-5a.1
+    textline: 不踰矩
+    offset: 3
+    range: 1
+right:
+  word_uuid: 99e4443d-a22e-435b-b9ee-2b26310f2e8c
+  text: 踰
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 論語
+    line_uuid: 8545db37-8766-4a3d-b758-b8fc7db86e3b
+    line_id: KR1h0004_tls_002-5a.1
+    textline: 不踰矩
+    range: 1
+source:
+  source_file: word-relations.xml

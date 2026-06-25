@@ -1,0 +1,35 @@
+uuid: 0b77cb2c-8751-4a2f-89db-5a4c5915830e
+type: word-relation
+group_uuid: 33286032-ec1d-4ad4-aee0-30b4bd1dd841
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1202019a-60e5-471f-81d3-c2028b4f4d22
+  text: 別
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9f8e34dd-2891-4ac1-bc9c-72d3d00ed99c
+    line_id: KR3j0010_tls_011-27a.9
+    textline: 鄉別州異
+    offset: 2
+    range: 1
+right:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9f8e34dd-2891-4ac1-bc9c-72d3d00ed99c
+    line_id: KR3j0010_tls_011-27a.9
+    textline: 鄉別州異
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

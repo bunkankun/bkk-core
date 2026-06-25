@@ -1,0 +1,32 @@
+uuid: 66751a8c-97a3-44c7-8d1a-31c26b767bcf
+type: word-relation
+group_uuid: 0882eb7a-2b22-476b-8042-934faf18ffe6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8c4fd371-eee8-4a0b-96bc-36948c124e91
+  text: 故
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 論語
+    line_uuid: 77f9d4ba-9820-4f96-92b3-96638a5ce52d
+    line_id: KR1h0004_tls_002-12a.3
+    textline: 「溫故而知新
+    offset: 3
+    range: 1
+right:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 論語
+    line_uuid: 77f9d4ba-9820-4f96-92b3-96638a5ce52d
+    line_id: KR1h0004_tls_002-12a.3
+    textline: 「溫故而知新
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b3a850be-4730-413b-8f17-a3e22150100a
+type: word-relation
+group_uuid: b3a850be-4730-413b-8f17-a3e22150100a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ec2142e9-5ee4-401c-9138-f83a5a77b160
+  text: 符
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+  attestation:
+    text_title: 韓非子
+    line_uuid: a6fd4459-5291-4b93-ab5a-5a0daf46b484
+    line_id: KR3c0005_tls_005-21a.6
+    textline: 符契之所合
+    offset: 1
+    range: 1
+right:
+  word_uuid: 38552fbc-fc8f-455d-897a-d7a017f342c0
+  text: 契
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+  attestation:
+    text_title: 韓非子
+    line_uuid: a6fd4459-5291-4b93-ab5a-5a0daf46b484
+    line_id: KR3c0005_tls_005-21a.6
+    textline: 符契之所合
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

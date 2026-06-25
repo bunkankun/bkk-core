@@ -1,0 +1,32 @@
+uuid: a29ac98f-5e0a-4c5e-afe6-1b2b9389eb39
+type: word-relation
+group_uuid: a29ac98f-5e0a-4c5e-afe6-1b2b9389eb39
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 38cc8202-2ec1-49e8-8d89-4aefbc6d3967
+  text: 擾
+  concept: DISTURB
+  concept_uuid: 59007c08-4ecf-4f74-8427-680c3f86344b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8439b803-30b2-4b56-91f3-62194a4c3063
+    line_id: KR3c0005_tls_055-15a.2
+    textline: 是以賞罰擾亂
+    offset: 5
+    range: 1
+right:
+  word_uuid: cb75dcef-6882-4d79-9a67-def66084fa4d
+  text: 亂
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8439b803-30b2-4b56-91f3-62194a4c3063
+    line_id: KR3c0005_tls_055-15a.2
+    textline: 是以賞罰擾亂
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

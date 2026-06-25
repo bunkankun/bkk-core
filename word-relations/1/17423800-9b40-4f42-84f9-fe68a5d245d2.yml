@@ -1,0 +1,30 @@
+uuid: 17423800-9b40-4f42-84f9-fe68a5d245d2
+type: word-relation
+group_uuid: 17423800-9b40-4f42-84f9-fe68a5d245d2
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bab397d9-43ca-498c-ac45-311b0805f1aa
+  text: 養
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+  attestation:
+    text_title: 孔子家語
+    line_uuid: f61b51ea-bf0b-424e-a566-4589fe74ff11
+    textline: 制為養生送死之節
+    offset: 3
+    range: 1
+right:
+  word_uuid: 88b235df-c432-49cb-aa0f-ca4a0fc96be3
+  text: 送
+  concept: FAREWELL
+  concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+  attestation:
+    text_title: 孔子家語
+    line_uuid: f61b51ea-bf0b-424e-a566-4589fe74ff11
+    textline: 制為養生送死之節
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

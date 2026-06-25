@@ -1,0 +1,32 @@
+uuid: 6469028a-01c4-4014-aaa4-40975707715c
+type: word-relation
+group_uuid: 6469028a-01c4-4014-aaa4-40975707715c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 23763890-9ec1-49f5-be0f-fceb8918767a
+  text: 寬
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 莊子
+    line_uuid: 36a08c99-6dec-4c90-bebb-0cb84486ab44
+    line_id: KR5c0126_tls_033-14a.49
+    textline: 常寬容於物
+    offset: 2
+    range: 1
+right:
+  word_uuid: 14ad4a2e-d501-4ab2-a50e-64482c9eed23
+  text: 容
+  concept: CONTAIN
+  concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+  attestation:
+    text_title: 莊子
+    line_uuid: 36a08c99-6dec-4c90-bebb-0cb84486ab44
+    line_id: KR5c0126_tls_033-14a.49
+    textline: 常寬容於物
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

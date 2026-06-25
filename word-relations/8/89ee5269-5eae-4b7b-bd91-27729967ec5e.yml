@@ -1,0 +1,30 @@
+uuid: 89ee5269-5eae-4b7b-bd91-27729967ec5e
+type: word-relation
+group_uuid: f3666695-a3ef-47da-ae66-e83dfac3da2d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5133dfb0-4a6a-4910-912b-96e27a77fb65
+  text: 禽
+  concept: BIRD
+  concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+  attestation:
+    text_title: 論衡
+    line_uuid: 322756ec-ac05-4a5d-93f8-dd4dff683365
+    textline: 或獨為人或為禽獸
+    offset: 8
+    range: 1
+right:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 論衡
+    line_uuid: 322756ec-ac05-4a5d-93f8-dd4dff683365
+    textline: 或獨為人或為禽獸
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

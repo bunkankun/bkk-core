@@ -1,0 +1,32 @@
+uuid: 6721791d-6f65-4adc-a179-1d6f65aadcda
+type: word-relation
+group_uuid: 761d5a21-3850-5427-a1a4-76a545d7067f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 70c4f9be-09af-4e3a-b785-0e5f2be47f47
+  text: 騰
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-89a.9
+    textline: 騰虵遊霧而騰
+    offset: 6
+    range: 1
+right:
+  word_uuid: e5a7ac87-d9fd-452a-8d8f-1b1427ecc832
+  text: 舉
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-89a.10
+    textline: 應龍乘雲而舉
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-06T05:15:43.238+09:00'

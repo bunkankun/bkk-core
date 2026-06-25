@@ -1,0 +1,32 @@
+uuid: b37775f9-02f0-4589-adb0-8405da87ca8b
+type: word-relation
+group_uuid: b37775f9-02f0-4589-adb0-8405da87ca8b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6ef7ca04-ea46-4db7-8f42-c8bb7823b8e6
+  text: 致
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 韓非子
+    line_uuid: cb2eb459-05a0-4a0d-a720-9df14f2f57b2
+    line_id: KR3c0005_tls_020-134a.3
+    textline: 務致其福
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5bbb4790-f832-44bb-9d31-e45e24cca305
+  text: 除
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3b4f6b58-75b0-47fb-a023-c5ec41a19192
+    line_id: KR3c0005_tls_020-134a.6
+    textline: 事除其禍
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

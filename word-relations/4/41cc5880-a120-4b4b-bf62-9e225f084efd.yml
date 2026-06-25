@@ -1,0 +1,21 @@
+uuid: 41cc5880-a120-4b4b-bf62-9e225f084efd
+type: word-relation
+group_uuid: 5ea0e85b-a064-5109-a8a9-9c2365a69296
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3a084cb8-d778-4c0c-a9f3-c6e705014cac
+  text: 惡
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+right:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

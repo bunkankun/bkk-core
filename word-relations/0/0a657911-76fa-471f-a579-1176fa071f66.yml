@@ -1,0 +1,32 @@
+uuid: 0a657911-76fa-471f-a579-1176fa071f66
+type: word-relation
+group_uuid: 027ef044-6ef9-510b-8dc6-7722d211e4f4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 捨
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_001-7a.5
+    textline: 良捨其策
+    offset: 2
+    range: 1
+right:
+  word_uuid: eb92d09f-8d55-4dad-a258-6e554809b0e0
+  text: 投
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_001-7a.6
+    textline: 般投其斧
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-08T21:35:43.226+09:00'

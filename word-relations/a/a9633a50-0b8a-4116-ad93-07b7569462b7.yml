@@ -1,0 +1,30 @@
+uuid: a9633a50-0b8a-4116-ad93-07b7569462b7
+type: word-relation
+group_uuid: a9633a50-0b8a-4116-ad93-07b7569462b7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 11962e02-3f8d-4a44-83be-73ee51d13dbe
+  text: 寸
+  concept: LENGTH MEASURES
+  concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+  attestation:
+    text_title: 老子
+    line_uuid: 844a76e1-8080-4da2-81d5-159961a3775e
+    textline: 不敢進寸而退尺
+    offset: 4
+    range: 1
+right:
+  word_uuid: c13803bf-ba43-4f86-b874-bed1fee1403e
+  text: 尺
+  concept: LENGTH MEASURES
+  concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+  attestation:
+    text_title: 老子
+    line_uuid: 844a76e1-8080-4da2-81d5-159961a3775e
+    textline: 不敢進寸而退尺
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

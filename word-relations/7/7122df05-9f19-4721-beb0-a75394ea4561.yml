@@ -1,0 +1,21 @@
+uuid: 7122df05-9f19-4721-beb0-a75394ea4561
+type: word-relation
+group_uuid: a1d93ea4-029a-5080-b979-e93622c806b3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e2f6a99b-4bbb-4128-9c17-7f2962920161
+  text: 壞
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+right:
+  word_uuid: 870af379-4a06-4e90-b59a-286a1111fc2d
+  text: 全
+  concept: SAFE
+  concept_uuid: 056420a0-1add-4ebb-ac5d-9006d57b1135
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

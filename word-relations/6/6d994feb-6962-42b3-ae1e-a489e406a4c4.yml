@@ -1,0 +1,32 @@
+uuid: 6d994feb-6962-42b3-ae1e-a489e406a4c4
+type: word-relation
+group_uuid: afa3e127-7fc1-4746-a1ae-847ad7c92df0
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 87883cf0-b860-4c6a-9458-f08112f97bff
+    line_id: KR3c0005_tls_005-23a.3
+    textline: 臣不得陳言而不當
+    offset: 5
+    range: 1
+right:
+  word_uuid: 97dc44c5-e705-44b5-88dc-eb17f28b441e
+  text: 陳
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 87883cf0-b860-4c6a-9458-f08112f97bff
+    line_id: KR3c0005_tls_005-23a.3
+    textline: 臣不得陳言而不當
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

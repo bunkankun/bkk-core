@@ -1,0 +1,32 @@
+uuid: 37f6b530-6fc6-410d-bd0f-e395efb69ded
+type: word-relation
+group_uuid: 37f6b530-6fc6-410d-bd0f-e395efb69ded
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4bd7e5bc-da1c-4504-819c-ecb437824fc9
+  text: 信
+  concept: TRUST
+  concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+  attestation:
+    text_title: 晏子春秋
+    line_uuid: 552a9ce4-fc97-4731-b171-a60c4141359d
+    line_id: KR2g0003_tls_001-16a.2
+    textline: 景公信用讒佞
+    offset: 3
+    range: 1
+right:
+  word_uuid: d7fa8c2d-ccc8-4282-a209-8d5ca3c69a71
+  text: 用
+  concept: EMPLOY
+  concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+  attestation:
+    text_title: 晏子春秋
+    line_uuid: 552a9ce4-fc97-4731-b171-a60c4141359d
+    line_id: KR2g0003_tls_001-16a.2
+    textline: 景公信用讒佞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

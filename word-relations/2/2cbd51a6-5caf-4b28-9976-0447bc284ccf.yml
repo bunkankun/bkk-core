@@ -1,0 +1,32 @@
+uuid: 2cbd51a6-5caf-4b28-9976-0447bc284ccf
+type: word-relation
+group_uuid: 2cbd51a6-5caf-4b28-9976-0447bc284ccf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 0bf507fc-c322-4b74-bfc8-6e8f55c1e8f9
+  text: 乎
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 白虎通
+    line_uuid: fb0e2900-ea44-4914-afcd-56da6113b208
+    line_id: KR3j0023_tls_019-767a.5
+    textline: 宜乎社
+    offset: 2
+    range: 1
+right:
+  word_uuid: c84ff561-678c-47e4-9400-811aa879ecaf
+  text: 于
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 白虎通
+    line_uuid: 75874649-7bb8-43e9-aeb9-4679d2b5a7c1
+    line_id: KR3j0023_tls_010-521a.10
+    textline: 造于禰
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

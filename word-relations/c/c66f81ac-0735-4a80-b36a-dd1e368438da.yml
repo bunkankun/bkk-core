@@ -1,0 +1,32 @@
+uuid: c66f81ac-0735-4a80-b36a-dd1e368438da
+type: word-relation
+group_uuid: c66f81ac-0735-4a80-b36a-dd1e368438da
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論衡
+    line_uuid: c1ed13e2-5c13-449a-88dc-38c6b7c2a7e0
+    line_id: KR3j0080_tls_001-4a.49
+    textline: 皋陶佐政
+    offset: 4
+    range: 1
+right:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論衡
+    line_uuid: ea1d25e4-ef8d-487f-a337-f3882f8ce156
+    line_id: KR3j0080_tls_001-4a.52
+    textline: 伯益輔治
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: d5dd1ec5-05b8-4954-a236-de4b33edcb1b
+type: word-relation
+group_uuid: d5dd1ec5-05b8-4954-a236-de4b33edcb1b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0d609310-7adf-45a1-8d01-645fc58a2123
+  text: 門
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 06d98fef-9fe1-4b53-bd39-ec8e586e3c1d
+    line_id: KR3c0005_tls_013-11a.8
+    textline: 塞私門之請
+    offset: 3
+    range: 1
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 06d98fef-9fe1-4b53-bd39-ec8e586e3c1d
+    line_id: KR3c0005_tls_013-11a.8
+    textline: 塞私門之請
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 80695de7-304d-4907-a98b-bd690da14c56
+type: word-relation
+group_uuid: 80695de7-304d-4907-a98b-bd690da14c56
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ff765451-8bb8-4b51-968d-d65bdde833cf
+  text: 復
+  concept: REPEAT
+  concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+  attestation:
+    text_title: 管子
+    line_uuid: 1a817dbf-394a-4423-9b16-d45b74eefbd1
+    line_id: KR3c0001_tls_001-228a.2
+    textline: 凡言而不可復
+    offset: 6
+    range: 1
+right:
+  word_uuid: 463a1e4e-8b6e-483f-b170-f09e19e5e8a2
+  text: 再
+  concept: REPEAT
+  concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+  attestation:
+    text_title: 管子
+    line_uuid: 36907759-07e8-4ac0-b4d7-b7f441f4b228
+    line_id: KR3c0001_tls_001-226a.2
+    textline: 行而不可再者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 624a5db0-0e3e-41eb-b33a-131284d25285
+type: word-relation
+group_uuid: 624a5db0-0e3e-41eb-b33a-131284d25285
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b34bf1bd-7d2c-4f59-8719-51cb272754e8
+  text: 誹
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9e588b08-7917-4007-8fd1-b5ae74d78910
+    line_id: KR3c0005_tls_003-6a.7
+    textline: 則小者以為毀訾誹謗
+    offset: 8
+    range: 1
+right:
+  word_uuid: ed06042d-d545-4a60-9192-0e30421d6014
+  text: 謗
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9e588b08-7917-4007-8fd1-b5ae74d78910
+    line_id: KR3c0005_tls_003-6a.7
+    textline: 則小者以為毀訾誹謗
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

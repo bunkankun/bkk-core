@@ -1,0 +1,32 @@
+uuid: d4e80a50-d052-4aa7-ab97-20bf52096e2b
+type: word-relation
+group_uuid: d4e80a50-d052-4aa7-ab97-20bf52096e2b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a05f9f6f-4ab1-4179-b476-6292b6e974b0
+  text: 服
+  concept: SURRENDER
+  concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 857e598a-3fd5-47c5-b56e-514d2cd5083d
+    line_id: KR3c0005_tls_010-87a.9
+    textline: 莫不賓服
+    offset: 4
+    range: 1
+right:
+  word_uuid: 34df6fda-7a20-4f96-80e1-e026838c4526
+  text: 賓
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+  attestation:
+    text_title: 韓非子
+    line_uuid: 857e598a-3fd5-47c5-b56e-514d2cd5083d
+    line_id: KR3c0005_tls_010-87a.9
+    textline: 莫不賓服
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

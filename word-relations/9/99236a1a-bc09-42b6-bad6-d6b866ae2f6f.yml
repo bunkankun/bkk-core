@@ -1,0 +1,32 @@
+uuid: 99236a1a-bc09-42b6-bad6-d6b866ae2f6f
+type: word-relation
+group_uuid: 99236a1a-bc09-42b6-bad6-d6b866ae2f6f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 18c17b05-c7e9-4902-bb3f-22e96f0f3b9c
+    line_id: KR3j0009_tls_004-21a.30
+    textline: 故其禍福亦不同
+    offset: 3
+    range: 1
+right:
+  word_uuid: e78b174d-dcca-46aa-a913-7a938f1ba274
+  text: 福
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 18c17b05-c7e9-4902-bb3f-22e96f0f3b9c
+    line_id: KR3j0009_tls_004-21a.30
+    textline: 故其禍福亦不同
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

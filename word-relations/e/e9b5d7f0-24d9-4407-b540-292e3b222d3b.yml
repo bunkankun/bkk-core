@@ -1,0 +1,18 @@
+uuid: e9b5d7f0-24d9-4407-b540-292e3b222d3b
+type: word-relation
+group_uuid: e5dd613f-02b6-584a-b724-7bcb4600c64f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0bf04c1a-7731-4bf4-825b-253e094d67d1
+  text: 質
+  concept: SUBSTANCE
+  concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+right:
+  word_uuid: 9a3d64b9-578c-49cc-9307-b5aca93c2e9a
+  text: 貌
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+source:
+  source_file: word-relations.xml

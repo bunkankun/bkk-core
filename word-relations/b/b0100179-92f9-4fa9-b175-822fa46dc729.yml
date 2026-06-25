@@ -1,0 +1,32 @@
+uuid: b0100179-92f9-4fa9-b175-822fa46dc729
+type: word-relation
+group_uuid: b0100179-92f9-4fa9-b175-822fa46dc729
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d89589c9-2880-4937-81fd-e89bde511484
+  text: 進
+  concept: ADVANCE
+  concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+  attestation:
+    text_title: 論語
+    line_uuid: 1c4bf2de-8109-44c4-81bb-959be33b1628
+    line_id: KR1h0004_tls_009-22a.5
+    textline: 吾見其進也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 95f418d1-0d7f-4651-adca-3efa123ad2ca
+  text: 止
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 論語
+    line_uuid: 1cbe9b86-3512-4854-a457-d3f85da749dc
+    line_id: KR1h0004_tls_009-23a.1
+    textline: 未見其止也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

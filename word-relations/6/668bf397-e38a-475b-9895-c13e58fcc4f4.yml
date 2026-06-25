@@ -1,0 +1,32 @@
+uuid: 668bf397-e38a-475b-9895-c13e58fcc4f4
+type: word-relation
+group_uuid: 668bf397-e38a-475b-9895-c13e58fcc4f4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6f011eae-6136-4810-9889-015a78f7756b
+  text: 疾
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 798edfa5-531e-4d9a-b2d8-3692866be313
+    line_id: KR3j0009_tls_003-10a.9
+    textline: 則民多疾疫
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1cf6d506-ca4f-405b-82ca-5fae9ddea005
+  text: 疫
+  concept: PEST
+  concept_uuid: 9f884845-81bd-4343-984d-35138a29d8d0
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 798edfa5-531e-4d9a-b2d8-3692866be313
+    line_id: KR3j0009_tls_003-10a.9
+    textline: 則民多疾疫
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

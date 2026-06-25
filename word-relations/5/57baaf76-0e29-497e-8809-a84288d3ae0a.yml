@@ -1,0 +1,30 @@
+uuid: 57baaf76-0e29-497e-8809-a84288d3ae0a
+type: word-relation
+group_uuid: 57baaf76-0e29-497e-8809-a84288d3ae0a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d8b72e93-fc8e-43a3-a70b-a91e992ca38d
+  text: 師
+  concept: TEACHER
+  concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+  attestation:
+    text_title: 論衡
+    line_uuid: c345f9cf-1717-437f-ab0e-bb771a6fa101
+    textline: 師弟子相呵難
+    offset: 1
+    range: 1
+right:
+  word_uuid: 41d3913e-905e-4deb-aeba-4ab0cd624d3e
+  text: 弟子
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+  attestation:
+    text_title: 論衡
+    line_uuid: c345f9cf-1717-437f-ab0e-bb771a6fa101
+    textline: 師弟子相呵難
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 1d87f1de-fac0-4787-93df-75f23f4468f2
+type: word-relation
+group_uuid: 1d87f1de-fac0-4787-93df-75f23f4468f2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 18b1ce7d-f599-4b49-a372-a7679fd4e0cd
+    line_id: KR3j0080_tls_006-5a.6
+    textline: 或性善而命凶
+    offset: 2
+    range: 1
+right:
+  word_uuid: c8f75777-6e95-44f4-8188-6f489bad59c0
+  text: 命
+  concept: FATE
+  concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+  attestation:
+    text_title: 論衡
+    line_uuid: 87086f5c-5c15-4f34-bba6-7f800db8b5d8
+    line_id: KR3j0080_tls_006-5a.7
+    textline: 或性惡而命吉
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

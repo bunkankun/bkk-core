@@ -1,0 +1,32 @@
+uuid: a21fec36-262b-48f4-a91a-ac616a3ec9e1
+type: word-relation
+group_uuid: c01078da-8b6b-491f-8174-939a8e4029c4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: eb84edc2-7864-4904-93f4-da807c2e7f84
+    line_id: KR3c0005_tls_020-77a.4
+    textline: 上不行刑
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: eb84edc2-7864-4904-93f4-da807c2e7f84
+    line_id: KR3c0005_tls_020-77a.4
+    textline: 上不行刑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

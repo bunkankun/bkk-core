@@ -1,0 +1,21 @@
+uuid: c744313a-cd12-4194-a8ed-27e0d32f8611
+type: word-relation
+group_uuid: de414414-9de0-5051-9cc4-28973c50ecb0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 36f9e2f6-5a22-4c99-ac10-8f0babdfd06b
+  text: 定
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+right:
+  word_uuid: 20692132-0404-4634-8ae7-6b03a09af357
+  text: 疑
+  concept: DOUBT
+  concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

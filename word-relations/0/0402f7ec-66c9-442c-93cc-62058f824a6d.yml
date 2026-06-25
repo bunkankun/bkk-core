@@ -1,0 +1,21 @@
+uuid: 0402f7ec-66c9-442c-93cc-62058f824a6d
+type: word-relation
+group_uuid: 7ab97c1e-32a0-5503-9f69-1001b2890894
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b2f9d8a-059f-4c83-a1b8-3ae0fab27d17
+  text: 過
+  concept: EXCESSIVE
+  concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+right:
+  word_uuid: a860922f-70ef-4b25-94ea-1a110f373278
+  text: 及
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 76a38c6d-d150-4918-8da7-f91668708639
+type: word-relation
+group_uuid: b40bdcb8-c4ef-5816-98a9-a97fd3898a38
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: fc2feb7d-7dc3-4fb1-b7b0-abe97356fa53
+  text: 堪
+  concept: ENDURE
+  concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+right:
+  word_uuid: d900aa81-2121-49d2-8b23-8d37d2501ddc
+  text: 任
+  concept: ENDURE
+  concept_uuid: 77b4a72e-50b0-47a2-832f-4906b8d3165b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 52256e5a-447f-4430-803d-c6601b1931a5
+type: word-relation
+group_uuid: 52256e5a-447f-4430-803d-c6601b1931a5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 管子
+    line_uuid: ee534535-33a4-4059-ac23-7d62bf43937f
+    line_id: KR3c0001_tls_005-49a.2
+    textline: 計敵與
+    offset: 2
+    range: 1
+right:
+  word_uuid: d83c2cfb-be24-4885-a46c-154d7d14caaf
+  text: 與
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 管子
+    line_uuid: ee534535-33a4-4059-ac23-7d62bf43937f
+    line_id: KR3c0001_tls_005-49a.2
+    textline: 計敵與
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6c28c316-6ffa-4015-93f9-7822da29d265
+type: word-relation
+group_uuid: fae42b17-81c8-4903-9540-1205d0343587
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e299887f-3cec-41a9-a58c-396ef33dfab1
+    line_id: KR1e0001_tls_005-477a.21
+    textline: 喜賂
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0e287446-a0d6-42bb-bf09-a229ff4ed277
+  text: 怒
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b8d0297d-17bd-4819-a18d-b7d8a374740b
+    line_id: KR1e0001_tls_005-477a.22
+    textline: 怒頑
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

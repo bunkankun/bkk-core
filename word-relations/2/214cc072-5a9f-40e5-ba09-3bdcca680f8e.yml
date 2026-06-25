@@ -1,0 +1,32 @@
+uuid: 214cc072-5a9f-40e5-ba09-3bdcca680f8e
+type: word-relation
+group_uuid: 70841f16-53a4-4092-b4e2-d955cadb05cd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0bf04c1a-7731-4bf4-825b-253e094d67d1
+  text: 質
+  concept: SUBSTANCE
+  concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 499fd0ba-af7c-426a-9e3f-d21c86463e53
+    line_id: KR3c0005_tls_020-18a.3
+    textline: 文為質飾者也
+    offset: 3
+    range: 1
+right:
+  word_uuid: f3c4ba2d-c9d8-421d-92b9-160e5d349d75
+  text: 飾
+  concept: ORNAMENT
+  concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+  attestation:
+    text_title: 韓非子
+    line_uuid: 499fd0ba-af7c-426a-9e3f-d21c86463e53
+    line_id: KR3c0005_tls_020-18a.3
+    textline: 文為質飾者也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

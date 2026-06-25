@@ -1,0 +1,32 @@
+uuid: a3fcc49b-f8f6-4581-aaa2-cf690aec0a6f
+type: word-relation
+group_uuid: 1e51e8c2-9297-4347-a69a-718bb0da7498
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 32c3fbf6-5a9d-45f5-bb3d-6b472cd3a754
+  text: 訴
+  concept: ACCUSE
+  concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 0a245079-196e-488b-ad76-50b5d84898ea
+    line_id: KR1c0066_tls_006-26a.53
+    textline: 愁哀而無所告訴
+    offset: 7
+    range: 1
+right:
+  word_uuid: 6215f536-657c-4ddd-9236-8731647c9817
+  text: 告
+  concept: COMPLAIN
+  concept_uuid: 62e49b6c-d875-4431-bcae-3d46cf50229c
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 0a245079-196e-488b-ad76-50b5d84898ea
+    line_id: KR1c0066_tls_006-26a.53
+    textline: 愁哀而無所告訴
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

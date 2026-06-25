@@ -1,0 +1,32 @@
+uuid: 6f82dd91-3d99-42bd-82dd-913d9952bd0f
+type: word-relation
+group_uuid: 3ecdbc7d-b64f-55ed-bd23-60bd21712a22
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1475b7b0-396b-48d5-a9cf-563b7d5090f2
+  text: 棟
+  concept: BEAM
+  concept_uuid: 7da72176-ccef-4560-a716-1d136b781d18
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.7
+    textline: 上棟下宇
+    offset: 2
+    range: 1
+right:
+  word_uuid: a088c865-d156-4a09-9e2b-aebc306a3fcc
+  text: 宇
+  concept: EAVES
+  concept_uuid: c15965ad-e3f2-4fc7-a812-2269b338df9b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.7
+    textline: 上棟下宇
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-12-01T23:06:02.783+09:00'

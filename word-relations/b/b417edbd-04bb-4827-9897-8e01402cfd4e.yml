@@ -1,0 +1,18 @@
+uuid: b417edbd-04bb-4827-9897-8e01402cfd4e
+type: word-relation
+group_uuid: 71c4e2a1-b671-554a-885a-c1647f8d6db3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41d3913e-905e-4deb-aeba-4ab0cd624d3e
+  text: 弟子
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+right:
+  word_uuid: 7d2f8018-75a8-4cf8-9c79-ae7e916df9c0
+  text: 門徒
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+source:
+  source_file: word-relations.xml

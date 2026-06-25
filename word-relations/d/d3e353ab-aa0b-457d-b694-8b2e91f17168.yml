@@ -1,0 +1,30 @@
+uuid: d3e353ab-aa0b-457d-b694-8b2e91f17168
+type: word-relation
+group_uuid: d3e353ab-aa0b-457d-b694-8b2e91f17168
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2aec0888-0b77-4efa-a665-a0ae8c183d4a
+  text: 追
+  concept: REMEMBER
+  concept_uuid: ca6cc9d1-bd19-4f3b-ac3a-41146b1e8743
+  attestation:
+    text_title: 禮記
+    line_uuid: 90ac1770-8909-44d5-be4e-4b33ab0311f0
+    textline: 成王康王追念周公之所以勳勞者
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7bf92efa-16c3-4590-abe5-59a263f9cca2
+  text: 念
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 禮記
+    line_uuid: 90ac1770-8909-44d5-be4e-4b33ab0311f0
+    textline: 成王康王追念周公之所以勳勞者
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

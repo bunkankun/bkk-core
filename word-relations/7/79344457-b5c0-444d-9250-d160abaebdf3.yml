@@ -1,0 +1,30 @@
+uuid: 79344457-b5c0-444d-9250-d160abaebdf3
+type: word-relation
+group_uuid: 79344457-b5c0-444d-9250-d160abaebdf3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a097f7dd-36bd-4594-abd2-3af1695da727
+  text: 賀
+  concept: CONGRATULATE
+  concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e3834b74-0ef3-4dea-807b-7b492a38601f
+    textline: 救乏賀善弔災
+    offset: 4
+    range: 1
+right:
+  word_uuid: d4d3e615-4cf5-4ea1-beea-1e9020570cbb
+  text: 弔
+  concept: MOURNING
+  concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e3834b74-0ef3-4dea-807b-7b492a38601f
+    textline: 救乏賀善弔災
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

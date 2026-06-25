@@ -1,0 +1,32 @@
+uuid: 2b1e4af5-9f76-41f7-9e4a-f59f7621f7e2
+type: word-relation
+group_uuid: 018ed92b-5db9-5afc-ba67-99759f9189fc
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2accf994-ccca-4bbc-b012-f84cbd118a57
+  text: 張
+  concept: ARRANGE
+  concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+  attestation:
+    text_title: 新語
+    line_id: CH1a0903_CHANT_001-1a.9
+    textline: 張日月
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0753b084-7a19-4693-93b0-847a194693bc
+  text: 列
+  concept: ARRANGE
+  concept_uuid: ee4c0a83-3107-4880-9e66-b315364e8d99
+  attestation:
+    text_title: 新語
+    line_id: CH1a0903_CHANT_001-1a.10
+    textline: 列星辰
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-12-26T00:26:06.999+09:00'

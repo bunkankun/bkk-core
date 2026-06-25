@@ -1,0 +1,32 @@
+uuid: 13dde8bb-8077-4e32-905d-e00b213e1d85
+type: word-relation
+group_uuid: 13dde8bb-8077-4e32-905d-e00b213e1d85
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 81b85411-0dd4-451a-9f4a-4597f2072330
+    line_id: KR3c0005_tls_020-92a.6
+    textline: 進則教良民為姦
+    offset: 4
+    range: 1
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 725581d1-4291-41de-a8dc-5561335da299
+    line_id: KR3c0005_tls_020-92a.7
+    textline: 退則令善人有禍
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

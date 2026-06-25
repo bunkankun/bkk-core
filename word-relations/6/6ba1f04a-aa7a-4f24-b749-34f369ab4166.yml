@@ -1,0 +1,32 @@
+uuid: 6ba1f04a-aa7a-4f24-b749-34f369ab4166
+type: word-relation
+group_uuid: 6ba1f04a-aa7a-4f24-b749-34f369ab4166
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c98cca6d-d189-479c-a665-88e85601b570
+  text: 係
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 韓非子
+    line_uuid: b45d73fa-7dcd-4044-b342-67456ea50219
+    line_id: KR3c0005_tls_014-38a.7
+    textline: 而無死亡係虜之患
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3b773f28-8a0e-4efd-9f1a-185733a77d79
+  text: 虜
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 韓非子
+    line_uuid: b45d73fa-7dcd-4044-b342-67456ea50219
+    line_id: KR3c0005_tls_014-38a.7
+    textline: 而無死亡係虜之患
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

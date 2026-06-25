@@ -1,0 +1,30 @@
+uuid: 04512aa0-4627-49de-99e2-4f8ed09891c0
+type: word-relation
+group_uuid: 04512aa0-4627-49de-99e2-4f8ed09891c0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d1eea2e3-b588-4ce3-9613-98a7962c8727
+  text: 世
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 楚辭
+    line_uuid: 1368568d-8a11-443e-8b12-e272dbde0468
+    textline: 安能久見此濁世
+    offset: 7
+    range: 1
+right:
+  word_uuid: 2c784faa-2f45-4393-a118-a48090d44b36
+  text: 濁
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 楚辭
+    line_uuid: 1368568d-8a11-443e-8b12-e272dbde0468
+    textline: 安能久見此濁世
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

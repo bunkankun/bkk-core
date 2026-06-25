@@ -1,0 +1,21 @@
+uuid: e38aef72-1898-4d0d-959f-99d94620680f
+type: word-relation
+group_uuid: a5ce1f01-acfa-51f6-8a1e-dc5036b16b18
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: fd938b71-85b9-488c-98a1-95faec6ccd7a
+  text: 干
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+right:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

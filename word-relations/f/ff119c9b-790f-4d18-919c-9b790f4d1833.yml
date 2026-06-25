@@ -1,0 +1,32 @@
+uuid: ff119c9b-790f-4d18-919c-9b790f4d1833
+type: word-relation
+group_uuid: cd1a5e91-d7ba-54b4-9ed8-a63aaad6214a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 138621dc-2700-4c5e-aae3-50ca93e2e454
+  text: 往
+  concept: GO TO
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.28
+    textline: 不通往來也
+    offset: 3
+    range: 1
+right:
+  word_uuid: fa6c8d89-b299-4cdd-a237-64ed41f88132
+  text: 來
+  concept: COME
+  concept_uuid: 2fda593e-a7ab-49cc-9f02-2f1504c29056
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.28
+    textline: 不通往來也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:20:39.713+09:00'

@@ -1,0 +1,32 @@
+uuid: f00fed85-030e-423f-b2d7-d3cbd2256cdc
+type: word-relation
+group_uuid: f00fed85-030e-423f-b2d7-d3cbd2256cdc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 14339188-a6a3-43a2-9cd0-927e6592bb12
+    line_id: KR1e0001_tls_012-197a.6
+    textline: 則嘗學之矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 08c91e34-07b1-4c9f-b0cc-045566c33578
+  text: 未之聞
+  concept: IGNORANT
+  concept_uuid: b472c225-fc63-48fd-ab91-45f9780c0622
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: fe9124d5-7d51-4d0a-9530-dd97af0056c2
+    line_id: KR1e0001_tls_012-197a.8
+    textline: 未之聞也
+    offset: 1
+    range: 3
+source:
+  source_file: word-relations.xml

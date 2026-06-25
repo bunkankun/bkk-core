@@ -1,0 +1,32 @@
+uuid: 5f114dc4-ada9-4780-b62e-bc9df32c8f0c
+type: word-relation
+group_uuid: 5f114dc4-ada9-4780-b62e-bc9df32c8f0c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f603bbd5-f5b8-41f3-9b07-c0049269cdce
+  text: 獄
+  concept: LITIGATE
+  concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5267da8c-0bdb-4a77-8f6b-719466a07b4c
+    line_id: KR3j0009_tls_002-3a.12
+    textline: 止獄訟
+    offset: 2
+    range: 1
+right:
+  word_uuid: d0bdfe8f-29a8-46ae-8669-30f8b3d43dc9
+  text: 訟
+  concept: LITIGATE
+  concept_uuid: 51a3a4ec-ad6e-49fd-a412-bc64dff53f80
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5267da8c-0bdb-4a77-8f6b-719466a07b4c
+    line_id: KR3j0009_tls_002-3a.12
+    textline: 止獄訟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

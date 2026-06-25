@@ -1,0 +1,21 @@
+uuid: 11ed5b56-52d4-4d08-9e25-64424dfa957e
+type: word-relation
+group_uuid: 0e495379-0ae0-51a4-b8d6-b97d0b973f0e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4d6c3992-debb-4204-9926-8d03e3c26d41
+  text: 和
+  concept: HARMONY
+  concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+right:
+  word_uuid: f5fa22c7-eda9-466a-a190-b17bdb722a65
+  text: 順
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

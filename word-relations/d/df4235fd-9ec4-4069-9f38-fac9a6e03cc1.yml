@@ -1,0 +1,32 @@
+uuid: df4235fd-9ec4-4069-9f38-fac9a6e03cc1
+type: word-relation
+group_uuid: df4235fd-9ec4-4069-9f38-fac9a6e03cc1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 894e6d97-bc47-4234-b096-40dc48271abd
+  text: 文
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 管子
+    line_uuid: a480cf7c-6776-47e9-ae0d-8b9eca16757d
+    line_id: KR3c0001_tls_003-46a.2
+    textline: 必得文威武
+    offset: 3
+    range: 1
+right:
+  word_uuid: 55f13d62-d2fd-4bd1-993a-f368888da033
+  text: 武
+  concept: OFFICER
+  concept_uuid: 05b83502-6aff-4e9a-9ed2-ecff9e8f52fa
+  attestation:
+    text_title: 管子
+    line_uuid: a480cf7c-6776-47e9-ae0d-8b9eca16757d
+    line_id: KR3c0001_tls_003-46a.2
+    textline: 必得文威武
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

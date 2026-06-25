@@ -1,0 +1,32 @@
+uuid: 5f5fba94-0bdf-483c-afd7-0d6e21174864
+type: word-relation
+group_uuid: 5f5fba94-0bdf-483c-afd7-0d6e21174864
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3d121252-e013-4f09-95e5-6e75d92631fb
+  text: 常
+  concept: COMMON
+  concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+  attestation:
+    text_title: 論衡
+    line_uuid: bc4a6a8c-eb41-4b3e-9ac9-7b615f8f5368
+    line_id: KR3j0080_tls_006-10a.3
+    textline: 遭逢非常之變
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6c24ad72-fe13-45ac-b89c-c56e8d8cf492
+  text: 非
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 論衡
+    line_uuid: bc4a6a8c-eb41-4b3e-9ac9-7b615f8f5368
+    line_id: KR3j0080_tls_006-10a.3
+    textline: 遭逢非常之變
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

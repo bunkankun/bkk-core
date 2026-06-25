@@ -1,0 +1,30 @@
+uuid: 4c0040b7-0d37-4954-9237-20864000ce4b
+type: word-relation
+group_uuid: 4c0040b7-0d37-4954-9237-20864000ce4b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4c489944-8a45-451c-8a2a-b04ef3a4c7d9
+  text: 脆
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 老子
+    line_uuid: 3d4a3bcc-10f3-44c2-8367-39c88fd52281
+    textline: 草木之生也柔脆
+    offset: 7
+    range: 1
+right:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 老子
+    line_uuid: 3d4a3bcc-10f3-44c2-8367-39c88fd52281
+    textline: 草木之生也柔脆
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

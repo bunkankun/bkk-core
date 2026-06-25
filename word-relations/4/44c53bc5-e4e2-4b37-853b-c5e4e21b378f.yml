@@ -1,0 +1,32 @@
+uuid: 44c53bc5-e4e2-4b37-853b-c5e4e21b378f
+type: word-relation
+group_uuid: c43d13ed-6729-482f-8968-91ddc0a1c6c3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 31ac29cc-40a7-4164-8a3a-cd2cd80504aa
+  text: 脩
+  concept: CULTIVATE
+  concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-1a.12
+    textline: 脩身以俟之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-1a.12
+    textline: 脩身以俟之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T02:57:03.588+09:00'

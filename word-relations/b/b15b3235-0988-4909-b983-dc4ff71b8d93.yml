@@ -1,0 +1,32 @@
+uuid: b15b3235-0988-4909-b983-dc4ff71b8d93
+type: word-relation
+group_uuid: cd300d75-851f-438a-b64d-57ef10209522
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 05219812-7f46-4d7e-b065-f0ef2dc32a15
+    line_id: KR3j0009_tls_009-14a.18
+    textline: 身親耕而食
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6fae6b48-c46d-422d-b31b-13d4a86addc7
+  text: 妻
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5f306e38-88a9-4921-9ec6-2f7b52f3c989
+    line_id: KR3j0009_tls_009-14a.19
+    textline: 妻親織而衣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

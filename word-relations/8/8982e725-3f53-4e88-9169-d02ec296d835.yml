@@ -1,0 +1,32 @@
+uuid: 8982e725-3f53-4e88-9169-d02ec296d835
+type: word-relation
+group_uuid: e08d94d9-b83b-47e4-b5a4-3ac468d2fb23
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e6885ecd-90ab-4c9b-90ec-afb6c80d425d
+  text: 毋
+  concept: SHOULD NOT
+  concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+  attestation:
+    text_title: 韓非子
+    line_uuid: 55a9bcc7-493f-43d4-a0d0-a4ae2a8bc4a4
+    line_id: KR3c0005_tls_018-18a.5
+    textline: 毋易常”
+    offset: 1
+    range: 1
+right:
+  word_uuid: 71f99588-5a04-4931-8905-cdb30c2b257d
+  text: 無
+  concept: SHOULD NOT
+  concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+  attestation:
+    text_title: 韓非子
+    line_uuid: 170fe039-021f-48ae-a9e8-283cdd71dcd2
+    line_id: KR3c0005_tls_018-18a.4
+    textline: “無變古
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

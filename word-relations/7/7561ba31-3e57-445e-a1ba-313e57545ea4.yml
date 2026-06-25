@@ -1,0 +1,32 @@
+uuid: 7561ba31-3e57-445e-a1ba-313e57545ea4
+type: word-relation
+group_uuid: 20a2c518-0441-53fd-bbea-1da43a0dec04
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d735a6b9-e662-4276-98cc-49c3c5cf2e7b
+  text: 天下
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_008-5a.71
+    textline: 攘天下
+    offset: 2
+    range: 2
+right:
+  word_uuid: 50ca1bc4-9f97-47cd-af0d-f5a55c7fce32
+  text: 百姓
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_008-5a.72
+    textline: 虐百姓
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-03T18:26:45.455+09:00'

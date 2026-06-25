@@ -1,0 +1,21 @@
+uuid: af3cbbf1-824a-4aac-aa94-a09a94ae0a70
+type: word-relation
+group_uuid: 19096909-d4d7-5831-8ac5-9d76ec7c861e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3f8cbafe-5dc5-44d6-a09b-775f37f0290b
+  text: 代
+  concept: HEIR
+  concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+right:
+  word_uuid: 773fd2aa-33d2-4891-8ed2-3d118c537d18
+  text: 嗣
+  concept: HEIR
+  concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

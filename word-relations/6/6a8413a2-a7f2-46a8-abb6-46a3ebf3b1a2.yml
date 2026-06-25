@@ -1,0 +1,32 @@
+uuid: 6a8413a2-a7f2-46a8-abb6-46a3ebf3b1a2
+type: word-relation
+group_uuid: 6a8413a2-a7f2-46a8-abb6-46a3ebf3b1a2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ffbc8497-b11d-44b1-a895-95f4bc2faef5
+  text: 采
+  concept: PLUCK
+  concept_uuid: 83acb96f-6044-4594-8bc5-613cf56ea87e
+  attestation:
+    text_title: 孟子
+    line_uuid: e4245430-582a-47e1-aee3-1416ec93a57a
+    line_id: KR1h0001_tls_004-7a.4
+    textline: 有采薪之憂
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5f0be2ce-f10b-4f67-b1c3-4b73949e8272
+  text: 薪
+  concept: FIREWOOD
+  concept_uuid: 92129761-23a4-4faf-aff0-13ff78929163
+  attestation:
+    text_title: 孟子
+    line_uuid: e4245430-582a-47e1-aee3-1416ec93a57a
+    line_id: KR1h0001_tls_004-7a.4
+    textline: 有采薪之憂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

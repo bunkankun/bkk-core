@@ -1,0 +1,32 @@
+uuid: 712962e8-a640-4fd9-95a1-0546a59e3e7c
+type: word-relation
+group_uuid: 712962e8-a640-4fd9-95a1-0546a59e3e7c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ac096d19-f00b-4704-a0e1-2e8f744615c1
+  text: 從
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 06370fb7-7034-4f69-93d1-b80c540b2080
+    line_id: KR3c0005_tls_020-35a.2
+    textline: 夫緣道理以從事者
+    offset: 6
+    range: 1
+right:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 06370fb7-7034-4f69-93d1-b80c540b2080
+    line_id: KR3c0005_tls_020-35a.2
+    textline: 夫緣道理以從事者
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

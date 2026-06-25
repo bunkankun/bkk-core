@@ -1,0 +1,32 @@
+uuid: e042b083-c3b4-4c13-82b0-83c3b49c1389
+type: word-relation
+group_uuid: 3f6e4750-90a4-51c8-8227-4b8c6780e59e
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_028-14a.19
+    textline: 學而不能行之謂病
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_028-14a.19
+    textline: 學而不能行之謂病
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T21:29:16.834+09:00'

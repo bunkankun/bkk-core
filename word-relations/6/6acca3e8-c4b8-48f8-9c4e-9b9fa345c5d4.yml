@@ -1,0 +1,32 @@
+uuid: 6acca3e8-c4b8-48f8-9c4e-9b9fa345c5d4
+type: word-relation
+group_uuid: 6acca3e8-c4b8-48f8-9c4e-9b9fa345c5d4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fae6f4a7-9b25-4edc-9f49-c4df17785789
+  text: 斟
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1c3a8aa8-e4c4-41d1-a8b3-03c5a3725837
+    line_id: KR3c0005_tls_008-14a.7
+    textline: 斟酌用之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 662b8bba-ebd5-4adf-b828-3ca51d9c6069
+  text: 酌
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1c3a8aa8-e4c4-41d1-a8b3-03c5a3725837
+    line_id: KR3c0005_tls_008-14a.7
+    textline: 斟酌用之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

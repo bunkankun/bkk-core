@@ -1,0 +1,32 @@
+uuid: aef2fca8-ece4-4bde-b2fc-a8ece4cbde57
+type: word-relation
+group_uuid: 42e6e51d-1ba2-5595-8218-77bba7be1581
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_009-16a.17
+    textline: 汝使吾君以馬故殺人
+    offset: 6
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_009-16a.17
+    textline: 汝使吾君以馬故殺人
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#dsehnal'
+  date: '2024-07-02T23:43:40.838+09:00'

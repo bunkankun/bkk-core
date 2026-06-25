@@ -1,0 +1,32 @@
+uuid: d693e705-e951-4325-a3a0-b5a0e1dfc800
+type: word-relation
+group_uuid: d693e705-e951-4325-a3a0-b5a0e1dfc800
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 管子
+    line_uuid: 551f0494-6ee8-4a6c-8891-67307a152d01
+    line_id: KR3c0001_tls_006-54a.4
+    textline: 故雖有明智高行
+    offset: 5
+    range: 1
+right:
+  word_uuid: fbc6670d-1780-492e-bc1a-03318fc40918
+  text: 明
+  concept: CLEAR
+  concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+  attestation:
+    text_title: 管子
+    line_uuid: 551f0494-6ee8-4a6c-8891-67307a152d01
+    line_id: KR3c0001_tls_006-54a.4
+    textline: 故雖有明智高行
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

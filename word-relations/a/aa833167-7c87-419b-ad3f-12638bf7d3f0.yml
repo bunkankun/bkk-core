@@ -1,0 +1,18 @@
+uuid: aa833167-7c87-419b-ad3f-12638bf7d3f0
+type: word-relation
+group_uuid: 4842c30d-bf4d-516c-a00e-2dcbb488f842
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+right:
+  word_uuid: 5feec232-1adc-46c6-b2e2-7bb0d8cd811d
+  text: 美
+  concept: ADMIRE
+  concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+source:
+  source_file: word-relations.xml

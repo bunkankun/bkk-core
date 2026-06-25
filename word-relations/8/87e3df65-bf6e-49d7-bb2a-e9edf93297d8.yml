@@ -1,0 +1,32 @@
+uuid: 87e3df65-bf6e-49d7-bb2a-e9edf93297d8
+type: word-relation
+group_uuid: 5b8f9d5a-3242-414a-af87-2845c6c26aa2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 58011886-3cf0-4e41-ba47-adffb94a2a6f
+  text: 蓄
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 韓非子
+    line_uuid: bff04760-4fa9-4f92-9965-4ee150d18f2a
+    line_id: KR3c0005_tls_002-4a.9
+    textline: 有蓄積
+    offset: 2
+    range: 1
+right:
+  word_uuid: 375e8fd2-509c-42b4-aad6-f4f3307cd31a
+  text: 積
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 韓非子
+    line_uuid: bff04760-4fa9-4f92-9965-4ee150d18f2a
+    line_id: KR3c0005_tls_002-4a.9
+    textline: 有蓄積
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

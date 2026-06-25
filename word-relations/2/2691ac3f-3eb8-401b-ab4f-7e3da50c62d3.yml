@@ -1,0 +1,21 @@
+uuid: 2691ac3f-3eb8-401b-ab4f-7e3da50c62d3
+type: word-relation
+group_uuid: e0625796-6b9a-58b3-8f99-72e558bcada6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e25005b3-2467-418d-a30c-503954f1df0e
+  text: 毀譭
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+right:
+  word_uuid: ed06042d-d545-4a60-9192-0e30421d6014
+  text: 謗
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 3331c3e2-0965-4cd5-8bfa-6baddb6d581b
+type: word-relation
+group_uuid: 3331c3e2-0965-4cd5-8bfa-6baddb6d581b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 72eac4ae-deae-4938-87ba-09da09470e6a
+  text: 於
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e49a946e-4088-4212-a62d-f270d8af068f
+    textline: 一人門於句鼆
+    offset: 4
+    range: 1
+right:
+  word_uuid: c84ff561-678c-47e4-9400-811aa879ecaf
+  text: 于
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 0474434f-0d26-4ad5-9f3f-9e397647f754
+    textline: 一人門于戾丘皆死
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

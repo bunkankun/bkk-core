@@ -1,0 +1,32 @@
+uuid: 9d527050-a33a-4976-97f8-88349401db4a
+type: word-relation
+group_uuid: 9d527050-a33a-4976-97f8-88349401db4a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+  attestation:
+    text_title: 韓非子
+    line_uuid: 744ce37b-f1a8-4687-bdb1-95abc501429d
+    line_id: KR3c0005_tls_020-126a.3
+    textline: 輕犯禁令
+    offset: 3
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 744ce37b-f1a8-4687-bdb1-95abc501429d
+    line_id: KR3c0005_tls_020-126a.3
+    textline: 輕犯禁令
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

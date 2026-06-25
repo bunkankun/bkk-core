@@ -1,0 +1,32 @@
+uuid: 314e0d69-b8a3-4d45-8e0d-69b8a3fd4509
+type: word-relation
+group_uuid: 1d4ae0a5-c13f-5676-8bd1-1bdc83899480
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8b7ea4c9-131e-4b7b-bea4-c9131efb7bc2
+  text: 彄
+  concept: RING
+  concept_uuid: 362ff7ea-a564-430d-a3f0-a3b355fdd85a
+  attestation:
+    text_title: 西京雜記
+    line_id: CH1a0936_CHANT_001-6a.2
+    textline: 戚姬以百鍊金為彄環
+    offset: 12
+    range: 1
+right:
+  word_uuid: 348c13b2-aa3e-46e1-94e0-386bba9c2540
+  text: 環
+  concept: RING
+  concept_uuid: 362ff7ea-a564-430d-a3f0-a3b355fdd85a
+  attestation:
+    text_title: 西京雜記
+    line_id: CH1a0936_CHANT_001-6a.2
+    textline: 戚姬以百鍊金為彄環
+    offset: 13
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-23T01:37:59.82+09:00'

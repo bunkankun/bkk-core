@@ -1,0 +1,32 @@
+uuid: 7c3263b9-0d9f-4a4b-9106-4e4242d696ee
+type: word-relation
+group_uuid: 7c3263b9-0d9f-4a4b-9106-4e4242d696ee
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2fe42fb2-e98a-47e1-afa4-48c6212a9869
+  text: 宜
+  concept: SHOULD
+  concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+  attestation:
+    text_title: 論衡
+    line_uuid: 2164cc3c-7a84-464c-9f57-f73c260b0bfb
+    line_id: KR3j0080_tls_005-4a.11
+    textline: 不宜愛而受寵
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4f4aba50-0dc9-4e4f-9993-5adef881e06d
+  text: 當
+  concept: SHOULD
+  concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+  attestation:
+    text_title: 論衡
+    line_uuid: 182e523b-fdec-4a54-96df-67873e1303ad
+    line_id: KR3j0080_tls_005-4a.12
+    textline: 不當親而得附
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

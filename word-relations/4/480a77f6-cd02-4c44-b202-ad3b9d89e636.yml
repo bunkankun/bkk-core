@@ -1,0 +1,32 @@
+uuid: 480a77f6-cd02-4c44-b202-ad3b9d89e636
+type: word-relation
+group_uuid: 480a77f6-cd02-4c44-b202-ad3b9d89e636
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a82fc6ed-8c2f-4ea7-b3c0-557010a5ff06
+  text: 履
+  concept: TREAD ON
+  concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 71897bf0-be31-4f70-973e-61b663e25b58
+    line_id: KR1e0001_tls_005-238a.28
+    textline: 「君履后土
+    offset: 3
+    range: 1
+right:
+  word_uuid: cf1fc92b-b919-4946-bcb8-4efd2822b828
+  text: 戴
+  concept: WEAR
+  concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 79f13e8b-aa1f-42fe-b7a8-203a22a5bcf1
+    line_id: KR1e0001_tls_005-238a.29
+    textline: 而戴皇天
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

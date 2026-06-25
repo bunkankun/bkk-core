@@ -1,0 +1,32 @@
+uuid: 4edb6608-61fe-4b1e-8eac-bd71ffaca8e5
+type: word-relation
+group_uuid: 4edb6608-61fe-4b1e-8eac-bd71ffaca8e5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e9f1982-6c2d-4303-b589-f71cb25b3ff5
+  text: 溝
+  concept: MOAT
+  concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+  attestation:
+    text_title: 管子
+    line_uuid: 59938093-0b71-4a01-8e7a-6aea47eb6a4b
+    line_id: KR3c0001_tls_010-75a.6
+    textline: 無溝壘而有耳目
+    offset: 2
+    range: 1
+right:
+  word_uuid: e4852773-eff3-47f0-88bb-113bc16d4cc5
+  text: 壘
+  concept: CITY WALL
+  concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+  attestation:
+    text_title: 管子
+    line_uuid: 59938093-0b71-4a01-8e7a-6aea47eb6a4b
+    line_id: KR3c0001_tls_010-75a.6
+    textline: 無溝壘而有耳目
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: 0db3480e-2215-446a-8f51-1973b41dc94e
+type: word-relation
+group_uuid: e49ce35d-fbd7-5f59-a7c6-ea288f8bdeca
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+right:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+source:
+  source_file: word-relations.xml

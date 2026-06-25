@@ -1,0 +1,32 @@
+uuid: 966e18dd-ab77-49d1-8b9e-e2936f95e2fe
+type: word-relation
+group_uuid: 966e18dd-ab77-49d1-8b9e-e2936f95e2fe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f0210b75-1717-4d4a-b182-3390cab68f75
+  text: 嚴
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 81a96195-2eed-418a-9272-9c4b47377049
+    line_id: KR3j0009_tls_004-18a.35
+    textline: 必嚴肅
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9aa76347-ac85-4b4c-86bc-184a420d6062
+  text: 肅
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 81a96195-2eed-418a-9272-9c4b47377049
+    line_id: KR3j0009_tls_004-18a.35
+    textline: 必嚴肅
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

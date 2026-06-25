@@ -1,0 +1,30 @@
+uuid: 650c3972-e69d-44a4-b056-46b824028c4b
+type: word-relation
+group_uuid: 650c3972-e69d-44a4-b056-46b824028c4b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 50b2bcfc-ae9e-4567-846d-001cf996f285
+  text: 野
+  concept: COUNTRYSIDE
+  concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 914d1f15-e357-415d-a3aa-86b9a8caa564
+    textline: 曠野閒靜
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6710c81e-bb51-4c6c-b7ae-18d3b7bc6383
+  text: 曠
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 914d1f15-e357-415d-a3aa-86b9a8caa564
+    textline: 曠野閒靜
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

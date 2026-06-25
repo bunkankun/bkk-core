@@ -1,0 +1,32 @@
+uuid: 46abcf93-678b-4989-91da-aa4ba4f2dd62
+type: word-relation
+group_uuid: 46abcf93-678b-4989-91da-aa4ba4f2dd62
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: fe01643b-57d7-4630-a30e-c352e4cdf68d
+  text: 費
+  concept: WASTE
+  concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: fd37fd60-5647-4ca3-a2f8-ff76b234ac07
+    line_id: KR3j0009_tls_002-25a.52
+    textline: 傷形費神
+    offset: 3
+    range: 1
+right:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: fd37fd60-5647-4ca3-a2f8-ff76b234ac07
+    line_id: KR3j0009_tls_002-25a.52
+    textline: 傷形費神
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

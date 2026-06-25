@@ -1,0 +1,32 @@
+uuid: aed0ad29-fba1-46ff-a25a-683ec5c2bf83
+type: word-relation
+group_uuid: aed0ad29-fba1-46ff-a25a-683ec5c2bf83
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9d08bf23-e56b-4d19-a65f-a37a8c0f983a
+  text: 園
+  concept: GARDEN
+  concept_uuid: e54720e9-7079-4805-acd5-f2d094a33c22
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3a44ee3e-5aed-4ae8-af1b-6545be9dbcfe
+    line_id: KR3j0009_tls_001-18a.17
+    textline: 昔先聖王之為苑囿園池也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 760a0b3c-b829-4546-9474-813588fba9d6
+  text: 池
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3a44ee3e-5aed-4ae8-af1b-6545be9dbcfe
+    line_id: KR3j0009_tls_001-18a.17
+    textline: 昔先聖王之為苑囿園池也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

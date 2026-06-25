@@ -1,0 +1,32 @@
+uuid: ed963ab3-8e75-49d7-9588-7fcf6e741a5e
+type: word-relation
+group_uuid: ed963ab3-8e75-49d7-9588-7fcf6e741a5e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3e4634cc-8499-4e0a-a736-477f113d06e6
+  text: 陵
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4cbc61b4-0550-4a06-a76a-3f7b89f26950
+    line_id: KR3c0005_tls_014-19a.8
+    textline: 是猶上高陵之顛
+    offset: 5
+    range: 1
+right:
+  word_uuid: 428d4bc0-dab6-443e-9ce1-475627bc05a8
+  text: 谿
+  concept: VALLEY
+  concept_uuid: aec4cc37-a2e4-4cf3-b5df-d7fe714d2734
+  attestation:
+    text_title: 韓非子
+    line_uuid: a5dcd195-bee5-4b38-8b8a-600ba6878f2e
+    line_id: KR3c0005_tls_014-19a.9
+    textline: 墮峻谿之下
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

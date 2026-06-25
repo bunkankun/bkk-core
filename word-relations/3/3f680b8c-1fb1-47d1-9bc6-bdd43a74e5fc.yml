@@ -1,0 +1,30 @@
+uuid: 3f680b8c-1fb1-47d1-9bc6-bdd43a74e5fc
+type: word-relation
+group_uuid: 3f680b8c-1fb1-47d1-9bc6-bdd43a74e5fc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dff7ecd9-e976-4d10-9430-e8f5a39c6944
+  text: 中心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 五行篇 ed. Pang Pu
+    line_uuid: 7dd37186-6e93-4400-966a-4e4c89030bc1
+    textline: 而有謂中心
+    offset: 4
+    range: 2
+right:
+  word_uuid: 4490fbb6-bf90-4930-8ee2-f6961b34219a
+  text: 外心
+  concept: HEART
+  concept_uuid: 51eeccac-9e32-4780-932e-665d0d76a746
+  attestation:
+    text_title: 五行篇 ed. Pang Pu
+    line_uuid: f2ad9ca3-9aba-42a2-8a38-16b56fb602be
+    textline: 而有謂外心也
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

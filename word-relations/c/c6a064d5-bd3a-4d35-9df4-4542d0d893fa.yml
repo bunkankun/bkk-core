@@ -1,0 +1,32 @@
+uuid: c6a064d5-bd3a-4d35-9df4-4542d0d893fa
+type: word-relation
+group_uuid: c6a064d5-bd3a-4d35-9df4-4542d0d893fa
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7cdb7a98-ea3c-475b-9d3a-edf2db5092bd
+  text: 哀
+  concept: SYMPATHY
+  concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+  attestation:
+    text_title: 韓非子
+    line_uuid: 86e60516-bb7b-4f1b-9071-0954f5b26a56
+    line_id: KR3c0005_tls_014-52a.5
+    textline: 哀憐百姓
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3e51f328-261a-4dde-bf04-f91b8ff17f73
+  text: 憐
+  concept: SYMPATHY
+  concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+  attestation:
+    text_title: 韓非子
+    line_uuid: 86e60516-bb7b-4f1b-9071-0954f5b26a56
+    line_id: KR3c0005_tls_014-52a.5
+    textline: 哀憐百姓
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

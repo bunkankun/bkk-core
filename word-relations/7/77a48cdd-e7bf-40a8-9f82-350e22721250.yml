@@ -1,0 +1,21 @@
+uuid: 77a48cdd-e7bf-40a8-9f82-350e22721250
+type: word-relation
+group_uuid: 517c506b-487b-5048-8a27-fe762b322da3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b02c434b-abae-4b8f-84d8-172d9d9c43c9
+  text: 公
+  concept: PUBLIC
+  concept_uuid: 334a18e8-17db-41fa-b42d-17e7d2ce31bb
+right:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 01b08e66-265a-4c03-b137-09fa6f2de367
+type: word-relation
+group_uuid: 01b08e66-265a-4c03-b137-09fa6f2de367
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b3b13745-c817-4ed3-b145-8e7417064ffa
+  text: 輟
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 50207504-ec0e-4272-8236-d0a6b29361cc
+    line_id: KR3j0009_tls_003-30a.20
+    textline: 云云然冬夏不輟
+    offset: 7
+    range: 1
+right:
+  word_uuid: d608d387-682c-410d-8dbe-7314d5603a2b
+  text: 不
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 50207504-ec0e-4272-8236-d0a6b29361cc
+    line_id: KR3j0009_tls_003-30a.20
+    textline: 云云然冬夏不輟
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 9b7d0046-6b03-4bc5-b103-6c8b7763b942
+type: word-relation
+group_uuid: 0fbf91a7-c952-5713-b4bb-ff5453ae284a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 41d3913e-905e-4deb-aeba-4ab0cd624d3e
+  text: 弟子
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+right:
+  word_uuid: 7d2f8018-75a8-4cf8-9c79-ae7e916df9c0
+  text: 門徒
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

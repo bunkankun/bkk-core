@@ -1,0 +1,32 @@
+uuid: da4b76b6-e7af-47a3-aec4-8f56711bd936
+type: word-relation
+group_uuid: c496a2d5-d8d1-47b5-98b8-268f37746018
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 796890ee-1059-4594-b490-8aa7810d1f8a
+  text: 貴
+  concept: APPRECIATE
+  concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+  attestation:
+    text_title: 韓非子
+    line_uuid: deb9ea2c-439b-469b-b53d-81a2a266cdec
+    line_id: KR3c0005_tls_009-1a.8
+    textline: 貴夫人
+    offset: 1
+    range: 1
+right:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: ad513bf6-17db-4f26-bb81-50c3d8505e9e
+    line_id: KR3c0005_tls_009-1a.9
+    textline: 愛孺子
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

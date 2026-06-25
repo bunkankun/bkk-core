@@ -1,0 +1,32 @@
+uuid: 11570c1e-9f25-4e90-a248-c5d99c745386
+type: word-relation
+group_uuid: 11570c1e-9f25-4e90-a248-c5d99c745386
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 609a6df8-42ca-49a0-9560-e3e586881e43
+  text: 告
+  concept: REPORT
+  concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+  attestation:
+    text_title: 論語
+    line_uuid: bd7e2127-a17a-438f-b43e-f1658c73ee3a
+    line_id: KR1h0004_tls_001-17a.1
+    textline: 告諸往而知來者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1ed58ba8-4610-479b-99e0-13f08ee6e122
+  text: 知
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 論語
+    line_uuid: bd7e2127-a17a-438f-b43e-f1658c73ee3a
+    line_id: KR1h0004_tls_001-17a.1
+    textline: 告諸往而知來者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

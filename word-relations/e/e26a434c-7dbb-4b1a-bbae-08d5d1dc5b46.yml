@@ -1,0 +1,32 @@
+uuid: e26a434c-7dbb-4b1a-bbae-08d5d1dc5b46
+type: word-relation
+group_uuid: e26a434c-7dbb-4b1a-bbae-08d5d1dc5b46
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c9f5695b-c9fd-4b4e-a8f0-9ca6ce341c9e
+  text: 鼠
+  concept: RAT
+  concept_uuid: 431f4da4-e77a-4d15-b8bb-e8fcb27969cf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c240357a-f355-4ba3-a24a-cd286fc4c426
+    line_id: KR3j0009_tls_002-17a.45
+    textline: 非腐鼠之謂也
+    offset: 3
+    range: 1
+right:
+  word_uuid: a0c46cb5-4c22-465b-8b1b-35e27d666d5a
+  text: 腐
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c240357a-f355-4ba3-a24a-cd286fc4c426
+    line_id: KR3j0009_tls_002-17a.45
+    textline: 非腐鼠之謂也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

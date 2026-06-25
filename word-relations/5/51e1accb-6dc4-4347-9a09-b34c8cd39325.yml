@@ -1,0 +1,18 @@
+uuid: 51e1accb-6dc4-4347-9a09-b34c8cd39325
+type: word-relation
+group_uuid: 08feb0da-c2d4-51bf-a6fb-37d979dbc5b0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e5e03add-1c72-4a29-b7c9-660e66037470
+  text: 技
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+right:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+source:
+  source_file: word-relations.xml

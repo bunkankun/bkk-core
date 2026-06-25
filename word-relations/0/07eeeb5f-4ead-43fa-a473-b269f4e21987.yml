@@ -1,0 +1,35 @@
+uuid: 07eeeb5f-4ead-43fa-a473-b269f4e21987
+type: word-relation
+group_uuid: 07eeeb5f-4ead-43fa-a473-b269f4e21987
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 271bd686-faab-4f19-8929-48786437d9af
+  text: 晨
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  attestation:
+    text_title: 列子
+    line_uuid: 694c656b-d694-4e6e-bed1-98cbb562e0fb
+    line_id: KR5c0124_tls_003-5a.4
+    textline: 侵晨昏而弗息
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9f9e2e81-f0f3-4a10-ba83-049e4f49dfcf
+  text: 昏
+  concept: AFTERNOON
+  concept_uuid: f3eb8a1b-f22e-404d-b199-aa500463d34b
+  attestation:
+    text_title: 列子
+    line_uuid: 694c656b-d694-4e6e-bed1-98cbb562e0fb
+    line_id: KR5c0124_tls_003-5a.4
+    textline: 侵晨昏而弗息
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

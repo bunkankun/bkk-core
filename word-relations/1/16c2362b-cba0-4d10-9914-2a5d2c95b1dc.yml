@@ -1,0 +1,32 @@
+uuid: 16c2362b-cba0-4d10-9914-2a5d2c95b1dc
+type: word-relation
+group_uuid: 16c2362b-cba0-4d10-9914-2a5d2c95b1dc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 675bacce-b272-4a77-bed0-30d94e515cf6
+  text: 長
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+  attestation:
+    text_title: 老子
+    line_uuid: e97b5219-41d2-4b0a-b567-d933fc0de189
+    line_id: KR5c0057_tls_010-1a.19
+    textline: 長而不宰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d32654d-1d2b-48df-9c14-1643ad18fce9
+  text: 宰
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 老子
+    line_uuid: e97b5219-41d2-4b0a-b567-d933fc0de189
+    line_id: KR5c0057_tls_010-1a.19
+    textline: 長而不宰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

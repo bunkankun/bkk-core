@@ -1,0 +1,31 @@
+uuid: e9444563-889c-4342-8afb-77a30e15bcd8
+type: word-relation
+group_uuid: e9444563-889c-4342-8afb-77a30e15bcd8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 595e04d4-0e6f-4ace-ae89-32e2f5982f3a
+  text: 聲
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5978d0c1-8da5-4adb-9875-f9c425768bd6
+    line_id: KR3c0005_tls_030-73a.3
+    textline: “子聞寡人之聲聞
+    offset: 7
+    range: 1
+right:
+  word_uuid: 596c44ca-4b8d-46a4-8009-9047985efefc
+  text: 聞
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5978d0c1-8da5-4adb-9875-f9c425768bd6
+    line_id: KR3c0005_tls_030-73a.3
+    textline: “子聞寡人之聲聞
+    range: 1
+source:
+  source_file: word-relations.xml

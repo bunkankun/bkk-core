@@ -1,0 +1,32 @@
+uuid: 2df6f0ba-fdba-47a9-a390-89e1660cb63a
+type: word-relation
+group_uuid: 55c67e90-6137-45d4-8173-ee69a5657d38
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 莊子
+    line_uuid: f12d5be7-aab0-46b1-9465-aba5e7557a1a
+    line_id: KR5c0126_tls_022-5a.20
+    textline: 心若死灰
+    offset: 1
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 莊子
+    line_uuid: 0cea7d51-2dcc-440b-b1ce-b3baf34c2a5d
+    line_id: KR5c0126_tls_022-5a.19
+    textline: 形若槁骸
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 068ad2cd-e1f0-4f0a-9319-bd1f8e3ec66c
+type: word-relation
+group_uuid: 9bdd7802-9f73-5ad3-b3f1-757b71c979c8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3fcbf536-236b-4b55-9a93-999684598144
+  text: 好
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+right:
+  word_uuid: 1f772c2c-ee2a-4cf0-8c7e-31c682174821
+  text: 姣佼
+  concept: SEXY
+  concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

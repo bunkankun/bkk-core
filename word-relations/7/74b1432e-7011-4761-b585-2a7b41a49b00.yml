@@ -1,0 +1,32 @@
+uuid: 74b1432e-7011-4761-b585-2a7b41a49b00
+type: word-relation
+group_uuid: 74b1432e-7011-4761-b585-2a7b41a49b00
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 244fb9b6-3dfb-4df8-976b-f0134e6b498c
+  text: 盲
+  concept: BLIND
+  concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+  attestation:
+    text_title: 賢愚經
+    line_uuid: a39834d2-ec47-4fcb-84f8-6800d7560174
+    line_id: KR6b0059_T_006-0393a.1
+    textline: 盲視聾聽
+    offset: 1
+    range: 1
+right:
+  word_uuid: e03632a7-fc12-4ca5-8aa8-c9d7b85d278c
+  text: 視
+  concept: LOOK
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+  attestation:
+    text_title: 賢愚經
+    line_uuid: a39834d2-ec47-4fcb-84f8-6800d7560174
+    line_id: KR6b0059_T_006-0393a.1
+    textline: 盲視聾聽
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7cf99877-9ec0-45cd-b998-779ec055cd9a
+type: word-relation
+group_uuid: d5eb1f3a-2257-55f6-8b2a-3d14f86adc09
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 81179c21-ea3b-4040-9603-9874473f3e66
+  text: 慈
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 吳越春秋
+    line_id: CH1c0891_CHANT_001-1a.58
+    textline: 公劉慈仁
+    offset: 3
+    range: 1
+right:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 吳越春秋
+    line_id: CH1c0891_CHANT_001-1a.58
+    textline: 公劉慈仁
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-18T04:19:36.396+09:00'

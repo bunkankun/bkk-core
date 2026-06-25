@@ -1,0 +1,30 @@
+uuid: 4dfd3b53-696a-4b07-95c6-79d75d0c96cc
+type: word-relation
+group_uuid: 4dfd3b53-696a-4b07-95c6-79d75d0c96cc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 53bcbc90-f3dc-4aeb-8db3-2b2507e1c2f2
+  text: 釜
+  concept: COOKING VESSEL
+  concept_uuid: bc242709-9a9b-4334-ae67-c589c0af7c35
+  attestation:
+    text_title: 韓非子
+    line_uuid: 97f50946-9c5f-4ec4-a756-dff49205ca1e
+    textline: 然而釜鬵閒之
+    offset: 3
+    range: 1
+right:
+  word_uuid: a041f949-aa38-4747-b703-fc94017de6b0
+  text: 鬵
+  concept: COOKING VESSEL
+  concept_uuid: bc242709-9a9b-4334-ae67-c589c0af7c35
+  attestation:
+    text_title: 韓非子
+    line_uuid: 97f50946-9c5f-4ec4-a756-dff49205ca1e
+    textline: 然而釜鬵閒之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 73b49d38-cc64-4cc9-bab1-ee833b638936
+type: word-relation
+group_uuid: 73b49d38-cc64-4cc9-bab1-ee833b638936
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 722ebd84-20c9-4220-9faa-2b5ebe441d79
+  text: 甘
+  concept: SAVOURY
+  concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9875a05a-fc5a-449e-ac6e-62683f305b1c
+    line_id: KR3c0005_tls_008-1a.7
+    textline: 甘口而疾形
+    offset: 1
+    range: 1
+right:
+  word_uuid: c83ec807-daed-480d-9986-431573a602ab
+  text: 疾
+  concept: INJURE
+  concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9875a05a-fc5a-449e-ac6e-62683f305b1c
+    line_id: KR3c0005_tls_008-1a.7
+    textline: 甘口而疾形
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

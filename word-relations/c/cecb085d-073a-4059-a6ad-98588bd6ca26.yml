@@ -1,0 +1,18 @@
+uuid: cecb085d-073a-4059-a6ad-98588bd6ca26
+type: word-relation
+group_uuid: df4cffc3-e140-5022-8e8f-ff9fea198ef4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1f97ac66-a287-42d6-98b6-01d3026b9ca9
+  text: 歇
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+right:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+source:
+  source_file: word-relations.xml

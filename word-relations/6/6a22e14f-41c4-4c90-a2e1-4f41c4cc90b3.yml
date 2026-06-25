@@ -1,0 +1,32 @@
+uuid: 6a22e14f-41c4-4c90-a2e1-4f41c4cc90b3
+type: word-relation
+group_uuid: 7a094d82-6501-58fd-ab09-f8b4990d31a5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6c7be674-b766-4ab5-bd0c-9ec0dafa8ae3
+  text: 交
+  concept: INTERACT
+  concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.63
+    textline: 後於中間共他交往
+    offset: 7
+    range: 1
+right:
+  word_uuid: 9f514112-a699-4d56-9141-12a6996d56ed
+  text: 往
+  concept: VISIT
+  concept_uuid: e46554ab-5dc6-45c6-b2bc-399a9a271108
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.63
+    textline: 後於中間共他交往
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-14T22:19:33.512+09:00'

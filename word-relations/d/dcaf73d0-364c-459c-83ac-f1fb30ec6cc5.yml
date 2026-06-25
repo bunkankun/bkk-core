@@ -1,0 +1,21 @@
+uuid: dcaf73d0-364c-459c-83ac-f1fb30ec6cc5
+type: word-relation
+group_uuid: dc49515e-9638-507a-86e0-9040593bc009
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a2c994fb-c77d-4314-a7c8-9f7c7ccce31b
+  text: 非
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+right:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

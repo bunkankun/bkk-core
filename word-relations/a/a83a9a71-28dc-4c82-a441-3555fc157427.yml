@@ -1,0 +1,30 @@
+uuid: a83a9a71-28dc-4c82-a441-3555fc157427
+type: word-relation
+group_uuid: a83a9a71-28dc-4c82-a441-3555fc157427
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 74c7b2be-3d4f-450d-88bb-0da5f549f21d
+  text: 啟
+  concept: OPEN
+  concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+  attestation:
+    text_title: 楚辭
+    line_uuid: 5b233055-332f-4d53-a23f-0b0364130756
+    textline: 啟匱兮探筴
+    offset: 1
+    range: 1
+right:
+  word_uuid: b08cc6b3-db14-4671-8466-924684ba3749
+  text: 匱
+  concept: BOX
+  concept_uuid: 801df5f9-4181-4229-ae41-32984a885c95
+  attestation:
+    text_title: 楚辭
+    line_uuid: 5b233055-332f-4d53-a23f-0b0364130756
+    textline: 啟匱兮探筴
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

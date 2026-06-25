@@ -1,0 +1,32 @@
+uuid: 5158fbd0-49b8-4b81-98fb-d049b83b8170
+type: word-relation
+group_uuid: 03972868-1a7e-5fd5-ad26-b85825321cf8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 黃帝內經
+    line_id: KR3e0001_tls_068-5a.46
+    textline: 歲位為行令
+    offset: 4
+    range: 1
+right:
+  word_uuid: 39671078-8c77-4cd7-9e30-5fac8c14b942
+  text: 令
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 黃帝內經
+    line_id: KR3e0001_tls_068-5a.46
+    textline: 歲位為行令
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-18T18:40:36.869+09:00'

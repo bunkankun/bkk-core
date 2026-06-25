@@ -1,0 +1,32 @@
+uuid: 7f87a4a9-9ff4-475c-b34f-f33836b95d06
+type: word-relation
+group_uuid: fece5dc7-46ca-424a-8b6d-0c0d42b46487
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 12487654-f681-4e87-b1da-6e4e979c9b00
+  text: 號
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 韓非子
+    line_uuid: b83978a9-b66f-473c-8f55-af9a8b56e21f
+    line_id: KR3c0005_tls_001-9a.5
+    textline: 秦之號令賞罰
+    offset: 3
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 韓非子
+    line_uuid: b83978a9-b66f-473c-8f55-af9a8b56e21f
+    line_id: KR3c0005_tls_001-9a.5
+    textline: 秦之號令賞罰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

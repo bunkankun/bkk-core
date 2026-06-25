@@ -1,0 +1,32 @@
+uuid: 3cb40a8c-e2af-4417-b40a-8ce2af34170b
+type: word-relation
+group_uuid: c8d28ac3-b20c-5a3a-9176-069b582f83af
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4e4af4dc-55a5-4704-af53-d5d2346823e4
+  text: 猛
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.16
+    textline: 猛而仁
+    offset: 1
+    range: 1
+right:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.16
+    textline: 猛而仁
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-07T03:02:21.17+09:00'

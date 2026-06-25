@@ -1,0 +1,32 @@
+uuid: 8e074264-5d71-42dc-8cb1-c679a6464c26
+type: word-relation
+group_uuid: 00ad9839-f98a-422c-b512-19360bf3ef2b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a12b1de7-2b15-4e29-8aa0-349d042394e0
+  text: 操
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論衡
+    line_uuid: d024644f-64d0-4217-a031-1f13ceacafbb
+    line_id: KR3j0080_tls_006-4a.10
+    textline: 故不假操行以求福而吉自至
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論衡
+    line_uuid: d024644f-64d0-4217-a031-1f13ceacafbb
+    line_id: KR3j0080_tls_006-4a.10
+    textline: 故不假操行以求福而吉自至
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

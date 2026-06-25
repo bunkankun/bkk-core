@@ -1,0 +1,32 @@
+uuid: a2e400c1-4268-4fff-83ba-cb7481c9321e
+type: word-relation
+group_uuid: a2e400c1-4268-4fff-83ba-cb7481c9321e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 87c44e55-01c2-4170-8fb2-48a18fae4dc9
+    line_id: KR3j0009_tls_001-18a.22
+    textline: 足以逸身煖骸而已矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 05386340-8c4b-4c1b-9505-8400477d155a
+  text: 骸
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 87c44e55-01c2-4170-8fb2-48a18fae4dc9
+    line_id: KR3j0009_tls_001-18a.22
+    textline: 足以逸身煖骸而已矣
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

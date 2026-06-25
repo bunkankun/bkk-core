@@ -1,0 +1,21 @@
+uuid: 226d54bc-6e3b-44cd-907c-710b07151c37
+type: word-relation
+group_uuid: 633b87be-31d1-5cff-a7e6-33083b7ce064
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 23801a5c-640b-44de-91ae-8a27e34de212
+  text: 表
+  concept: OUTSIDE
+  concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+right:
+  word_uuid: fbfb9f53-bbff-4ed5-9e34-c5245a9d37e2
+  text: 外
+  concept: OUTSIDE
+  concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

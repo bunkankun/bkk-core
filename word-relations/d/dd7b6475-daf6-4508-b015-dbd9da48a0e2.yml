@@ -1,0 +1,30 @@
+uuid: dd7b6475-daf6-4508-b015-dbd9da48a0e2
+type: word-relation
+group_uuid: dd7b6475-daf6-4508-b015-dbd9da48a0e2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 99f9b585-d934-487a-916e-0c895405a71e
+  text: 若苟
+  concept: IF
+  concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 6c80e737-f65f-4ca4-a6d5-369ec66012ac
+    textline: 若苟是女　入財不遲
+    offset: 1
+    range: 2
+right:
+  word_uuid: c7539f87-8bde-4d73-ba5d-27b5c581e7e2
+  text: 若或
+  concept: IF
+  concept_uuid: 2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+  attestation:
+    text_title: 賢愚經
+    line_uuid: a6762d50-c609-46be-a743-42d9d7086e32
+    textline: 若或是男　應為財主”
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

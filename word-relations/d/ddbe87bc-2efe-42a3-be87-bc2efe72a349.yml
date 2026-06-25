@@ -1,0 +1,32 @@
+uuid: ddbe87bc-2efe-42a3-be87-bc2efe72a349
+type: word-relation
+group_uuid: fd7e8185-dba9-5a73-ac9a-12458ae79326
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 東觀漢記
+    line_id: CH1c0896_CHANT_017-21a.8
+    textline: 道術尤精
+    offset: 1
+    range: 2
+right:
+  word_uuid: e12f4133-8980-42f8-aa8d-5f1a3f2fdf06
+  text: 精
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 東觀漢記
+    line_id: CH1c0896_CHANT_017-21a.8
+    textline: 道術尤精
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:37:06.306+09:00'

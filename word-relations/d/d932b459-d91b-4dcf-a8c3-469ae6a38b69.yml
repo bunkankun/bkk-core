@@ -1,0 +1,30 @@
+uuid: d932b459-d91b-4dcf-a8c3-469ae6a38b69
+type: word-relation
+group_uuid: d932b459-d91b-4dcf-a8c3-469ae6a38b69
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 9fa83fe7-6fe0-4fdc-9180-1a564547c31c
+  text: 免
+  concept: PARDON
+  concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+  attestation:
+    text_title: 老子
+    line_uuid: 9509b2bd-ce35-41e2-88c6-48afbcd03e10
+    textline: 有罪以免邪
+    offset: 4
+    range: 1
+right:
+  word_uuid: 00a29dac-f836-4e64-a13a-6c3a15ef547c
+  text: 罪
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 老子
+    line_uuid: 9509b2bd-ce35-41e2-88c6-48afbcd03e10
+    textline: 有罪以免邪
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

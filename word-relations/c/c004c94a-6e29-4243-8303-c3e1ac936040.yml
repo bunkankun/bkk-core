@@ -1,0 +1,21 @@
+uuid: c004c94a-6e29-4243-8303-c3e1ac936040
+type: word-relation
+group_uuid: 32153773-f0a5-560b-bc26-2010087e4577
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 59c38938-a539-41c3-8f9d-603c1a64feee
+  text: 賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+right:
+  word_uuid: 1f76b772-6648-427f-b71c-a2387bc0453e
+  text: 窮
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

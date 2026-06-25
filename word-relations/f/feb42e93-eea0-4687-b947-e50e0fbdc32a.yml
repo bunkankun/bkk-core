@@ -1,0 +1,32 @@
+uuid: feb42e93-eea0-4687-b947-e50e0fbdc32a
+type: word-relation
+group_uuid: feb42e93-eea0-4687-b947-e50e0fbdc32a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e04f0d2f-8b3f-41fd-bf59-74cdbed9fc5b
+    line_id: KR3j0009_tls_002-21a.17
+    textline: 故古之治身與天下者
+    offset: 5
+    range: 1
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e04f0d2f-8b3f-41fd-bf59-74cdbed9fc5b
+    line_id: KR3j0009_tls_002-21a.17
+    textline: 故古之治身與天下者
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml

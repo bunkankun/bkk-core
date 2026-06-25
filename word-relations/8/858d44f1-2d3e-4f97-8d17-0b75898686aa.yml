@@ -1,0 +1,32 @@
+uuid: 858d44f1-2d3e-4f97-8d17-0b75898686aa
+type: word-relation
+group_uuid: 858d44f1-2d3e-4f97-8d17-0b75898686aa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7413705a-0bce-44a4-88f8-4d44dea5761f
+    line_id: KR3c0005_tls_007-6a.6
+    textline: 此簡公失德
+    offset: 4
+    range: 1
+right:
+  word_uuid: 42169a2c-79d1-4190-ae4c-d92e46c4eb31
+  text: 用
+  concept: USE
+  concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1c56fc29-c8c6-471b-a53c-914d6c0139dd
+    line_id: KR3c0005_tls_007-6a.7
+    textline: 而田常用之也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

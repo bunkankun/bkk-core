@@ -1,0 +1,21 @@
+uuid: 2491434c-e381-4a04-94a1-27fbe22dcd61
+type: word-relation
+group_uuid: 03bca061-4761-5834-914f-72edf9f132a2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dc90ac19-2ec0-42a2-a20d-b36189e2afac
+  text: 恚
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+right:
+  word_uuid: 797dd064-545d-46b1-b607-0c5e58fa332a
+  text: 慕
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

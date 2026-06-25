@@ -1,0 +1,32 @@
+uuid: e7b62040-70bf-441b-aa01-09a736c187cc
+type: word-relation
+group_uuid: 8d2418a6-3033-48d8-aa61-faad7c22fee8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 968a31f7-a80b-4fa0-8faa-10af56b06f57
+  text: 發
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8804ab2f-c65e-422e-b884-61a8278d6246
+    line_id: KR3c0005_tls_002-30a.6
+    textline: 秦發兵不留行
+    offset: 2
+    range: 1
+right:
+  word_uuid: aae131cd-ebb1-4935-9db0-f6927337cde9
+  text: 兵
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8804ab2f-c65e-422e-b884-61a8278d6246
+    line_id: KR3c0005_tls_002-30a.6
+    textline: 秦發兵不留行
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: 84e93828-8fd8-4f1b-8e41-37fab79cc2a9
+type: word-relation
+group_uuid: d9993b28-e886-506e-9c35-41d29bea9c30
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ad9c7f5d-655a-4c11-bbd2-689f49086066
+  text: 亡
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+right:
+  word_uuid: 4e433768-44e7-4eb8-beb3-4a2bd1c38973
+  text: 立
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+source:
+  source_file: word-relations.xml

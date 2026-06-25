@@ -1,0 +1,21 @@
+uuid: b6ff5ae3-0e9e-4b4a-b50a-914cc0e2d9cf
+type: word-relation
+group_uuid: 27f578a5-acec-5e7d-b3c3-1a938a097872
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 504e1d8e-6eff-4fc9-8de0-5a16ed04a63c
+  text: 稱
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+right:
+  word_uuid: 972ca091-9b67-4c16-8d31-e46b949152e5
+  text: 訾
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

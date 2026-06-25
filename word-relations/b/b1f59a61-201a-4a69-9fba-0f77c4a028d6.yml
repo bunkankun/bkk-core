@@ -1,0 +1,32 @@
+uuid: b1f59a61-201a-4a69-9fba-0f77c4a028d6
+type: word-relation
+group_uuid: b1f59a61-201a-4a69-9fba-0f77c4a028d6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 64b231da-1d27-459a-a12f-c4b81f906d44
+  text: 寡
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 02b10859-00bf-44a6-b435-68794680786e
+    line_id: KR3c0005_tls_027-1a.7
+    textline: 則用力寡而功立
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6de4a31a-65ec-4b1e-bc22-dbe4778f975f
+  text: 省
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4402543b-e1b2-4c3a-9fa2-9d3e80f83768
+    line_id: KR3c0005_tls_027-1a.9
+    textline: 則刑罰省而令行
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

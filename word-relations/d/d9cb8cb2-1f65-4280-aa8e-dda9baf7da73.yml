@@ -1,0 +1,32 @@
+uuid: d9cb8cb2-1f65-4280-aa8e-dda9baf7da73
+type: word-relation
+group_uuid: d9cb8cb2-1f65-4280-aa8e-dda9baf7da73
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f33ca511-26d9-485f-893f-6835e0c1731a
+  text: 夫人
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 韓非子
+    line_uuid: deb9ea2c-439b-469b-b53d-81a2a266cdec
+    line_id: KR3c0005_tls_009-1a.8
+    textline: 貴夫人
+    offset: 2
+    range: 2
+right:
+  word_uuid: 1f678556-8def-4202-847e-8c53f4cfcc32
+  text: 孺子
+  concept: GIRL
+  concept_uuid: e90baee3-dd79-4f70-9764-9d79d55bc244
+  attestation:
+    text_title: 韓非子
+    line_uuid: ad513bf6-17db-4f26-bb81-50c3d8505e9e
+    line_id: KR3c0005_tls_009-1a.9
+    textline: 愛孺子
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

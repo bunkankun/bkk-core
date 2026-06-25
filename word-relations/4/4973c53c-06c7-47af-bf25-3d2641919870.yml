@@ -1,0 +1,32 @@
+uuid: 4973c53c-06c7-47af-bf25-3d2641919870
+type: word-relation
+group_uuid: 4973c53c-06c7-47af-bf25-3d2641919870
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bea41767-661b-4c7a-8199-75fab94c5519
+  text: 日
+  concept: DAY
+  concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+  attestation:
+    text_title: 孟子
+    line_uuid: 06daa543-8bce-4440-845d-923e01c97694
+    line_id: KR1h0001_tls_002-47a.1
+    textline: 今日不知其亡也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 94b4d403-5d00-4aef-9104-784c921d3384
+  text: 今
+  concept: NOW
+  concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+  attestation:
+    text_title: 孟子
+    line_uuid: 06daa543-8bce-4440-845d-923e01c97694
+    line_id: KR1h0001_tls_002-47a.1
+    textline: 今日不知其亡也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7dbd09df-5476-4aa7-998e-19ad1ca06fab
+type: word-relation
+group_uuid: 7dbd09df-5476-4aa7-998e-19ad1ca06fab
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 3c88e010-7f11-4d9d-b35b-9c6b37d17ecd
+  text: 餧
+  concept: FEED
+  concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 42b1e302-b957-468b-a005-09d400588193
+    line_id: KR3j0009_tls_003-5a.13
+    textline: 餧獸之藥
+    offset: 1
+    range: 1
+right:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 42b1e302-b957-468b-a005-09d400588193
+    line_id: KR3j0009_tls_003-5a.13
+    textline: 餧獸之藥
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

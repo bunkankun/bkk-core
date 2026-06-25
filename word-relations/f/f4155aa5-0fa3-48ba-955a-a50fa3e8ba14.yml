@@ -1,0 +1,32 @@
+uuid: f4155aa5-0fa3-48ba-955a-a50fa3e8ba14
+type: word-relation
+group_uuid: 1543fa53-a80b-56d1-ac16-5582034f4aa1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.2
+    textline: 古者民醇工厖
+    offset: 3
+    range: 1
+right:
+  word_uuid: d20afec5-e74a-42b1-a6be-e672cda85926
+  text: 工
+  concept: ARTISAN
+  concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.2
+    textline: 古者民醇工厖
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T00:24:33.225+09:00'

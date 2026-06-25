@@ -1,0 +1,32 @@
+uuid: cfc5b883-a73a-43e7-9121-f09d5e127180
+type: word-relation
+group_uuid: cfc5b883-a73a-43e7-9121-f09d5e127180
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 毛詩
+    line_uuid: 4a36b12b-a997-4669-8703-48bcf6a4d275
+    line_id: KR1c0001_tls_021-40a.5
+    textline: 福祿綏之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 839230bf-61ea-4ef9-b602-43500bd5f4d3
+  text: 祿
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 毛詩
+    line_uuid: 4a36b12b-a997-4669-8703-48bcf6a4d275
+    line_id: KR1c0001_tls_021-40a.5
+    textline: 福祿綏之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6b0dfa56-9b9e-44a9-8dfa-569b9eb4a915
+type: word-relation
+group_uuid: 2d530710-40c7-5828-8266-9c46ed94d746
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 20ce3800-8a9c-4021-944e-ea84a5a9f1d2
+  text: 慮
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-1a.3
+    textline: 慮世事之變
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1645653c-42c6-464c-850b-750734dbb140
+  text: 討
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-1a.4
+    textline: 討正法之本
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-14T18:15:20.586+09:00'

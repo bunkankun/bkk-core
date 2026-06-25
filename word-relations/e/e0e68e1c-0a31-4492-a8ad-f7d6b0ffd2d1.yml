@@ -1,0 +1,32 @@
+uuid: e0e68e1c-0a31-4492-a8ad-f7d6b0ffd2d1
+type: word-relation
+group_uuid: 5b65d15e-0528-468a-bf32-d2b7c701d950
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9fd0f6a6-b206-484d-9c36-96bc06259843
+    line_id: KR3j0009_tls_005-16a.17
+    textline: 制乎嗜欲無窮則必失其天矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 11044dca-d6fd-4875-a2ee-3c4d439379f9
+  text: 嗜
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9fd0f6a6-b206-484d-9c36-96bc06259843
+    line_id: KR3j0009_tls_005-16a.17
+    textline: 制乎嗜欲無窮則必失其天矣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

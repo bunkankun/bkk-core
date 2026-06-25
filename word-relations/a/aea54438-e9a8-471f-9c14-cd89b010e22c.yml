@@ -1,0 +1,32 @@
+uuid: aea54438-e9a8-471f-9c14-cd89b010e22c
+type: word-relation
+group_uuid: aea54438-e9a8-471f-9c14-cd89b010e22c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+  attestation:
+    text_title: 韓非子
+    line_uuid: 783c5937-5a84-430b-9107-311fd3c11c27
+    line_id: KR3c0005_tls_004-11a.9
+    textline: 此明君之所以禁其邪
+    offset: 7
+    range: 1
+right:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 783c5937-5a84-430b-9107-311fd3c11c27
+    line_id: KR3c0005_tls_004-11a.9
+    textline: 此明君之所以禁其邪
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

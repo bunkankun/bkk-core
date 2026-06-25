@@ -1,0 +1,32 @@
+uuid: 78fa3400-6078-4104-9560-66e5b857a702
+type: word-relation
+group_uuid: 78fa3400-6078-4104-9560-66e5b857a702
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d2384885-8628-4dd9-9a82-58d01016b2be
+  text: 意
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 法華經
+    line_uuid: dc4c08eb-51ed-4219-a031-771c1fe06be2
+    line_id: KR6d0001_T_005-0038a.44
+    textline: 除嬾惰意
+    offset: 4
+    range: 1
+right:
+  word_uuid: 89dcd275-a376-4043-8227-9e4a4d5800fc
+  text: 想
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 法華經
+    line_uuid: 45b70c08-3a0c-4aa0-ab05-1b485842447c
+    line_id: KR6d0001_T_005-0038a.45
+    textline: 及懈怠想
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

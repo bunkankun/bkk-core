@@ -1,0 +1,32 @@
+uuid: fce96fc4-46b5-4fbd-a96f-c446b5bfbd60
+type: word-relation
+group_uuid: 0faef909-5c88-5418-a8d3-5be60fd9a813
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ed0fd511-bb6e-4720-91ed-9b870350a6eb
+  text: 風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_005-5a.11
+    textline: 順凱風以從遊兮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0cb8f4e8-7210-4242-aa1b-f8bbf8942306
+  text: 氣
+  concept: AIR
+  concept_uuid: ca0f15b3-4e29-45c8-a9f5-63e308786d16
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_005-5a.14
+    textline: 審壹氣之和德
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T21:56:31.524+09:00'

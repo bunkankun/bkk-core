@@ -1,0 +1,32 @@
+uuid: a901d2c1-daa6-44dc-ac37-f0c71a32a0c4
+type: word-relation
+group_uuid: a901d2c1-daa6-44dc-ac37-f0c71a32a0c4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 法集要頌經
+    line_uuid: cb5f6583-049b-4de2-9239-743c1141dfec
+    line_id: KR6b0070_T_001-0778b.17
+    textline: 害人亦自縛
+    offset: 2
+    range: 1
+right:
+  word_uuid: 046d44b4-b88c-4388-bbb4-ed036a518d5d
+  text: 自
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 法集要頌經
+    line_uuid: cb5f6583-049b-4de2-9239-743c1141dfec
+    line_id: KR6b0070_T_001-0778b.17
+    textline: 害人亦自縛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

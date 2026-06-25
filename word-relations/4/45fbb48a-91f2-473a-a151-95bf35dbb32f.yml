@@ -1,0 +1,32 @@
+uuid: 45fbb48a-91f2-473a-a151-95bf35dbb32f
+type: word-relation
+group_uuid: 45fbb48a-91f2-473a-a151-95bf35dbb32f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ab89356f-acf0-44d9-92cf-348d081e6e73
+  text: 去
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f8e73aa1-8f0e-48b4-a8f8-b0bd5df96c66
+    line_id: KR3j0009_tls_002-30a.8
+    textline: 以茹魚去蠅
+    offset: 4
+    range: 1
+right:
+  word_uuid: b797ed5b-51d0-4ccd-a50c-cd3953693c4f
+  text: 蠅
+  concept: INSECTS
+  concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f8e73aa1-8f0e-48b4-a8f8-b0bd5df96c66
+    line_id: KR3j0009_tls_002-30a.8
+    textline: 以茹魚去蠅
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

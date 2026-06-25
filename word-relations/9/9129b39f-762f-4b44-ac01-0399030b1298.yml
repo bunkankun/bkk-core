@@ -1,0 +1,32 @@
+uuid: 9129b39f-762f-4b44-ac01-0399030b1298
+type: word-relation
+group_uuid: 8f69b14d-f2b1-4d96-8974-b2cdd9ca3682
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 86a114e3-6e22-4cde-823f-59e6178e78ba
+  text: 宗
+  concept: TEMPLE
+  concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8a091a5b-0fec-4220-a031-f3ab927b6a35
+    line_id: KR1e0001_tls_010-187a.16
+    textline: 而致諸宗祧
+    offset: 4
+    range: 1
+right:
+  word_uuid: 28c10704-6acc-40f5-9de0-342f3a39152f
+  text: 祧
+  concept: TEMPLE
+  concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8a091a5b-0fec-4220-a031-f3ab927b6a35
+    line_id: KR1e0001_tls_010-187a.16
+    textline: 而致諸宗祧
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

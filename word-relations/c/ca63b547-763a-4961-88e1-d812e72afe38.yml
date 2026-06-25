@@ -1,0 +1,32 @@
+uuid: ca63b547-763a-4961-88e1-d812e72afe38
+type: word-relation
+group_uuid: ca63b547-763a-4961-88e1-d812e72afe38
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 536be9a6-663a-4f6c-9171-ac2178b8a664
+    line_id: KR3c0005_tls_014-28a.6
+    textline: 而利本事
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5984c7f0-0082-482c-9a79-22569c4b8b2a
+  text: 作
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8b606fed-6bb0-4963-a3a8-610d98f51b44
+    line_id: KR3c0005_tls_014-28a.5
+    textline: 困末作
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

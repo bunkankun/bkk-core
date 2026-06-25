@@ -1,0 +1,32 @@
+uuid: 5841cf9a-39f0-46ba-81cf-9a39f076ba6e
+type: word-relation
+group_uuid: 4b3211b8-4414-51de-8d8d-d26643f8ccb0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ad238ebb-79fd-40c8-a1a0-3a77e47bc366
+  text: 雲
+  concept: CLOUD
+  concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_001-6a.14
+    textline: 絕雲氣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 048a51bc-e6b6-446d-8131-3ed5220bcbb3
+  text: 氣
+  concept: MIST
+  concept_uuid: 909bf501-b390-4af9-848f-e11556142d69
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_001-6a.14
+    textline: 絕雲氣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T16:46:03.339+09:00'

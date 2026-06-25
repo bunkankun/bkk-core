@@ -1,0 +1,32 @@
+uuid: fde854d5-5f6e-42c5-9348-7400b07e6040
+type: word-relation
+group_uuid: 530da647-e2f1-4d6f-8540-7e4219a9f9de
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 莊子
+    line_uuid: 056a4ba2-d4f7-42df-9ece-627adeda853e
+    line_id: KR5c0126_tls_024-1a.16
+    textline: 我將勞君
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5ce32e8c-4987-4e87-87f7-03814febecdd
+  text: 君
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 莊子
+    line_uuid: 988d643b-dd54-4c9d-89ef-abe2599485e3
+    line_id: KR5c0126_tls_024-1a.9
+    textline: 君有何勞於我
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cf38633e-6691-42fc-b863-3e669152fc06
+type: word-relation
+group_uuid: 06ca4ed0-fd21-5bb3-9158-307373cb5435
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-14a.8
+    textline: 擇則亂
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5603916e-792e-44e2-a8a4-78e391f11059
+  text: 辟
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-14a.9
+    textline: 淫則辟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T01:54:55.132+09:00'

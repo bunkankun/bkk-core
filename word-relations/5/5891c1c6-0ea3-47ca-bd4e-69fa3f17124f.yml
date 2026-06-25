@@ -1,0 +1,32 @@
+uuid: 5891c1c6-0ea3-47ca-bd4e-69fa3f17124f
+type: word-relation
+group_uuid: 5891c1c6-0ea3-47ca-bd4e-69fa3f17124f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2e248f6a-9fa3-41fb-bc07-7aa585edbd32
+  text: 豪
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6edbb03e-2465-4df3-89a1-3000ddff38dc
+    line_id: KR3c0005_tls_014-73a.2
+    textline: 而恐父兄豪傑之士
+    offset: 5
+    range: 1
+right:
+  word_uuid: b5abe4fb-ab4a-476c-b6dc-06c548e62109
+  text: 傑
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6edbb03e-2465-4df3-89a1-3000ddff38dc
+    line_id: KR3c0005_tls_014-73a.2
+    textline: 而恐父兄豪傑之士
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

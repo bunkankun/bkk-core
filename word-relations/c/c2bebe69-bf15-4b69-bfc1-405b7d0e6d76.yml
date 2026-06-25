@@ -1,0 +1,32 @@
+uuid: c2bebe69-bf15-4b69-bfc1-405b7d0e6d76
+type: word-relation
+group_uuid: 4e02a2bc-97de-4c02-8009-34120030c2d5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2967ac03-bdce-4e69-a4bc-17be354a6089
+    line_id: KR3j0009_tls_016-26a.37
+    textline: 富貴不離其身
+    offset: 6
+    range: 1
+right:
+  word_uuid: 27a8f4b4-3852-4322-b902-52c0f1497fcb
+  text: 社稷
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9a6b79ee-814c-4661-b0d2-5e48bb64d348
+    line_id: KR3j0009_tls_016-26a.38
+    textline: 然後能保其社稷
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml

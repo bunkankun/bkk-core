@@ -1,0 +1,30 @@
+uuid: 93470af6-e9a3-4599-996e-073459cbe398
+type: word-relation
+group_uuid: 93470af6-e9a3-4599-996e-073459cbe398
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41d93fc0-336f-42b3-871f-ca1cbdad3f90
+  text: 江
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 論衡
+    line_uuid: 16c3d647-5715-4f99-93f2-bd38838d4bd8
+    textline: 漁者 罾江湖之魚
+    offset: 5
+    range: 1
+right:
+  word_uuid: 60fca030-640e-46e4-838a-4315a6b0c880
+  text: 湖
+  concept: LAKE
+  concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+  attestation:
+    text_title: 論衡
+    line_uuid: 16c3d647-5715-4f99-93f2-bd38838d4bd8
+    textline: 漁者 罾江湖之魚
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

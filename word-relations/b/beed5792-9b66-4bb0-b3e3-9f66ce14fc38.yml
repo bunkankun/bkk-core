@@ -1,0 +1,32 @@
+uuid: beed5792-9b66-4bb0-b3e3-9f66ce14fc38
+type: word-relation
+group_uuid: a7bd53c9-252c-4e70-8dae-bf9fd4a84daa
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 552270ae-e9bb-4698-9c0b-4b99a1f0566e
+  text: 令
+  concept: CAUSE TO
+  concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 65aba53c-6f58-4552-968c-71703ebdaf86
+    line_id: KR3c0005_tls_008-8a.4
+    textline: 令事自定
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9c714e2b-3e29-4a25-9e6c-b83a351c1ad0
+  text: 使
+  concept: CAUSE TO
+  concept_uuid: 9f80ea87-ad33-4605-bcc0-faf2b536f92a
+  attestation:
+    text_title: 韓非子
+    line_uuid: e41fba00-ca6a-4027-bebf-026c82b5a504
+    line_id: KR3c0005_tls_008-8a.3
+    textline: 使名自命
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

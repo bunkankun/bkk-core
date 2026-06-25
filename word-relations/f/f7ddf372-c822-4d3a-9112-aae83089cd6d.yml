@@ -1,0 +1,21 @@
+uuid: f7ddf372-c822-4d3a-9112-aae83089cd6d
+type: word-relation
+group_uuid: e807125e-4af4-5e68-8cea-14d861087a57
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7ac154ea-929e-4748-9f51-62e2cb8259a1
+  text: 豐酆
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+right:
+  word_uuid: d0477ef7-656d-4479-a50e-75f9763b2a1c
+  text: 滿
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

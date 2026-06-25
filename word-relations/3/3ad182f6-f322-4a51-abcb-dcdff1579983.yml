@@ -1,0 +1,30 @@
+uuid: 3ad182f6-f322-4a51-abcb-dcdff1579983
+type: word-relation
+group_uuid: 3ad182f6-f322-4a51-abcb-dcdff1579983
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 978f593b-629b-47d6-9225-3122e2ebd58e
+  text: 燈
+  concept: LAMP
+  concept_uuid: f02c4fed-eba6-416f-be20-600a39b82755
+  attestation:
+    text_title: 新論
+    line_uuid: cce468e2-e270-4356-b45e-8a6c2f3bed0e
+    textline: 欲燈燭自盡易以不能
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6fd43200-b89e-410c-9782-dac6c5455513
+  text: 燭
+  concept: CANDLE
+  concept_uuid: 03e8d064-b2f0-47ae-a667-35466dc9691a
+  attestation:
+    text_title: 新論
+    line_uuid: cce468e2-e270-4356-b45e-8a6c2f3bed0e
+    textline: 欲燈燭自盡易以不能
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

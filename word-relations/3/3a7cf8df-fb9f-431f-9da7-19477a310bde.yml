@@ -1,0 +1,31 @@
+uuid: 3a7cf8df-fb9f-431f-9da7-19477a310bde
+type: word-relation
+group_uuid: 700dcdad-0540-4404-8159-48c68487594d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 48469628-7125-406f-8dc8-0d6f66b1b8d7
+    line_id: KR1b0001_tls_041-2a.74
+    textline: 茲予其明農哉
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6e921dfc-61f2-4c09-bff0-85645aebce17
+  text: 我
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 尚書
+    line_uuid: 065a8549-fb65-4d5a-aa2c-50a0701e9c4d
+    textline: 彼裕我民
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

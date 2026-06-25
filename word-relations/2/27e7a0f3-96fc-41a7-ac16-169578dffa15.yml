@@ -1,0 +1,30 @@
+uuid: 27e7a0f3-96fc-41a7-ac16-169578dffa15
+type: word-relation
+group_uuid: 27e7a0f3-96fc-41a7-ac16-169578dffa15
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4be0e75e-b53f-424a-b101-e18522b0924e
+  text: 恨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 論衡
+    line_uuid: 378b9447-725d-4fe7-8297-6531657eb763
+    textline: （疏） 薄怨恨
+    offset: 7
+    range: 1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 論衡
+    line_uuid: 378b9447-725d-4fe7-8297-6531657eb763
+    textline: （疏） 薄怨恨
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

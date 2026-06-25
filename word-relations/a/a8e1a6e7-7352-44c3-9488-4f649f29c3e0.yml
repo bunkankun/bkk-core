@@ -1,0 +1,35 @@
+uuid: a8e1a6e7-7352-44c3-9488-4f649f29c3e0
+type: word-relation
+group_uuid: 369987d8-f343-4199-beea-213016a2a492
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 30a333e6-2e5c-40f4-9e91-f7b395428f76
+  text: 惡
+  concept: UGLY
+  concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 5d43ccca-247f-4859-86f3-7a6e0354e808
+    line_id: KR3a0006_tls_001-34a.19
+    textline: 商賈以美貿惡
+    offset: 6
+    range: 1
+right:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 5d43ccca-247f-4859-86f3-7a6e0354e808
+    line_id: KR3a0006_tls_001-34a.19
+    textline: 商賈以美貿惡
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

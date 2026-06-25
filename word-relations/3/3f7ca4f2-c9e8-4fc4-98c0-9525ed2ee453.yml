@@ -1,0 +1,32 @@
+uuid: 3f7ca4f2-c9e8-4fc4-98c0-9525ed2ee453
+type: word-relation
+group_uuid: 3f7ca4f2-c9e8-4fc4-98c0-9525ed2ee453
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 985e0979-3933-442f-8a98-540d30b377f1
+  text: 拾
+  concept: PICK UP
+  concept_uuid: fb4b8b85-67a4-4cbf-9af2-bed7617e2abf
+  attestation:
+    text_title: 論衡
+    line_uuid: 445b42f7-2362-4f3b-a9e4-1fa4da5f8fe7
+    line_id: KR3j0080_tls_001-9a.19
+    textline: 猶拾遺於塗
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9e55cedb-ba89-43d3-a41c-97ad34c40452
+  text: 遺
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 論衡
+    line_uuid: 445b42f7-2362-4f3b-a9e4-1fa4da5f8fe7
+    line_id: KR3j0080_tls_001-9a.19
+    textline: 猶拾遺於塗
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

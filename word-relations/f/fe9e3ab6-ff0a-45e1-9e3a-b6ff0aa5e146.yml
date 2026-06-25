@@ -1,0 +1,32 @@
+uuid: fe9e3ab6-ff0a-45e1-9e3a-b6ff0aa5e146
+type: word-relation
+group_uuid: f6794df0-1e16-4d50-9591-7820c3bccb13
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c837d00f-80d6-42f7-8865-be9e67ce6fb3
+  text: 矩
+  concept: SQUARE-TOOL
+  concept_uuid: 2acb28a6-9a96-4833-a492-cd355964728f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.39
+    textline: 而以知矩矱之所周[用]者也。
+    offset: 4
+    range: 1
+right:
+  word_uuid: c837d00f-80d6-42f7-8865-be9e67ce6fb3
+  text: 矱
+  concept: SQUARE-TOOL
+  concept_uuid: 2acb28a6-9a96-4833-a492-cd355964728f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.39
+    textline: 而以知矩矱之所周[用]者也。
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T22:51:11.677+09:00'

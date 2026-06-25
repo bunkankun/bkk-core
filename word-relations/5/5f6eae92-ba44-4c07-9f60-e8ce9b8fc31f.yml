@@ -1,0 +1,32 @@
+uuid: 5f6eae92-ba44-4c07-9f60-e8ce9b8fc31f
+type: word-relation
+group_uuid: 5f6eae92-ba44-4c07-9f60-e8ce9b8fc31f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 論衡
+    line_uuid: b88f1749-a27b-4dd8-ad51-39c3c54f7b53
+    line_id: KR3j0080_tls_001-6a.13
+    textline: 孟嘗愛偽客也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8ac8b797-9808-4c46-8397-28ef9343d3d8
+  text: 好
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 論衡
+    line_uuid: 93b9ec34-bb78-4e17-8dd7-f322e20db392
+    line_id: KR3j0080_tls_001-6a.12
+    textline: 子反好偷臣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

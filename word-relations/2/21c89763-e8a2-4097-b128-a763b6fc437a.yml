@@ -1,0 +1,32 @@
+uuid: 21c89763-e8a2-4097-b128-a763b6fc437a
+type: word-relation
+group_uuid: 21c89763-e8a2-4097-b128-a763b6fc437a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4e433768-44e7-4eb8-beb3-4a2bd1c38973
+  text: 立
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 老子
+    line_uuid: a4df7587-5c91-4781-87ea-d448938571a7
+    line_id: KR5c0057_tls_062-1a.10
+    textline: 故立天子
+    offset: 2
+    range: 1
+right:
+  word_uuid: b6b0edcb-214b-4fe1-b081-917e8c6f8529
+  text: 置
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 老子
+    line_uuid: 861a7f07-78d0-4df0-aa00-165b9ec4dd81
+    line_id: KR5c0057_tls_062-1a.11
+    textline: 置三公
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 424a22fe-c804-4bfa-b820-f99b2f360bed
+type: word-relation
+group_uuid: 36ce2d56-a946-5165-a7e5-400dada161c1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3d121252-e013-4f09-95e5-6e75d92631fb
+  text: 常
+  concept: COMMON
+  concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+right:
+  word_uuid: 7a1100e2-7729-42eb-bf73-917f3c39acf5
+  text: 庸
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

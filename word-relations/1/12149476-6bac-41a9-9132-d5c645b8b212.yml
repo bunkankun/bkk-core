@@ -1,0 +1,21 @@
+uuid: 12149476-6bac-41a9-9132-d5c645b8b212
+type: word-relation
+group_uuid: b4b1a382-c559-547f-86b9-0264a4bfa205
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 915dfbf1-c601-42b4-8acb-69c29b6c1e44
+  text: 寵
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

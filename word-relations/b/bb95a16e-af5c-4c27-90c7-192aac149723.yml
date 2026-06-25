@@ -1,0 +1,32 @@
+uuid: bb95a16e-af5c-4c27-90c7-192aac149723
+type: word-relation
+group_uuid: f11d69b1-287c-4148-be0c-c34d9a0b06a0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 19588a6b-68ab-4ad4-8adc-5338b565abd2
+    line_id: KR3c0005_tls_019-17a.2
+    textline: 賞罰無度
+    offset: 1
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 19588a6b-68ab-4ad4-8adc-5338b565abd2
+    line_id: KR3c0005_tls_019-17a.2
+    textline: 賞罰無度
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9bdd50c1-d115-4766-8b8a-06520278f77d
+type: word-relation
+group_uuid: 9bdd50c1-d115-4766-8b8a-06520278f77d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f438d98b-ca8a-4d5e-8627-de3046cff0ae
+  text: 眺
+  concept: LOOK
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5e356b86-fd11-425e-b3f2-3733a01b8aea
+    line_id: KR3j0009_tls_005-6a.5
+    textline: 可以遠眺望
+    offset: 4
+    range: 1
+right:
+  word_uuid: 998f1a61-f2d0-4b62-a6d6-50742623718b
+  text: 望
+  concept: LOOK
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5e356b86-fd11-425e-b3f2-3733a01b8aea
+    line_id: KR3j0009_tls_005-6a.5
+    textline: 可以遠眺望
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 56704e36-98bb-42dc-ac3b-e655eb143afa
+type: word-relation
+group_uuid: 8b7e0369-bc97-42cb-8dda-025cfb4cd488
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b1d12277-179e-4828-afe9-39e30a8854fc
+  text: 權
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 52c094a7-548e-4362-969c-7289d785e5ce
+    line_id: KR3c0005_tls_017-25a.9
+    textline: 此言人臣之不可借權勢也
+    offset: 9
+    range: 1
+right:
+  word_uuid: a8b8c49b-26c2-41ab-ad99-3cf50aaf666f
+  text: 勢
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 52c094a7-548e-4362-969c-7289d785e5ce
+    line_id: KR3c0005_tls_017-25a.9
+    textline: 此言人臣之不可借權勢也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

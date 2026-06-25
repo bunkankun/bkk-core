@@ -1,0 +1,18 @@
+uuid: 448c92d8-4f32-42ff-8029-cf45ba2c2c0b
+type: word-relation
+group_uuid: a7762e09-d48b-5d0c-9011-015eb0e01f6a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4986d62e-e5f7-4c81-b5f5-7ce4536a226d
+  text: 競
+  concept: COMPETE
+  concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+right:
+  word_uuid: ebfc8325-7459-49f1-a5c9-bfb38f6773f5
+  text: 爭
+  concept: COMPETE
+  concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7ef07cb6-f055-4bff-b3f6-cfd2d34002fd
+type: word-relation
+group_uuid: 7ef07cb6-f055-4bff-b3f6-cfd2d34002fd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fe7e0491-d837-473a-8d33-d4d6d4c7d888
+  text: 造
+  concept: PRODUCE
+  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+  attestation:
+    text_title: 韓非子
+    line_uuid: cfacb44f-ce85-40cd-a189-03497d18453c
+    line_id: KR3c0005_tls_045-30a.11
+    textline: 造言作辭
+    offset: 1
+    range: 1
+right:
+  word_uuid: 94a015ed-325f-4518-850f-01d96baf55a5
+  text: 作
+  concept: PRODUCE
+  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+  attestation:
+    text_title: 韓非子
+    line_uuid: cfacb44f-ce85-40cd-a189-03497d18453c
+    line_id: KR3c0005_tls_045-30a.11
+    textline: 造言作辭
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

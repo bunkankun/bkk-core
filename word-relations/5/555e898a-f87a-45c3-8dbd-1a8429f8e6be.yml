@@ -1,0 +1,32 @@
+uuid: 555e898a-f87a-45c3-8dbd-1a8429f8e6be
+type: word-relation
+group_uuid: 555e898a-f87a-45c3-8dbd-1a8429f8e6be
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 98be0ac5-3381-4a4c-9943-2bceb20640e0
+    line_id: KR3c0005_tls_003-13a.3
+    textline: 皆世之仁賢忠良有道術之士也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 98be0ac5-3381-4a4c-9943-2bceb20640e0
+    line_id: KR3c0005_tls_003-13a.3
+    textline: 皆世之仁賢忠良有道術之士也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

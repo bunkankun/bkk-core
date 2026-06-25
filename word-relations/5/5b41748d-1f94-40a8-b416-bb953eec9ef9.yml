@@ -1,0 +1,32 @@
+uuid: 5b41748d-1f94-40a8-b416-bb953eec9ef9
+type: word-relation
+group_uuid: 8335eda7-770a-4461-aec4-ca5978aa3f03
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: 24b3e956-eb23-459d-b3de-6692b5e15642
+    line_id: KR3j0080_tls_006-4a.14
+    textline: 縱情施欲而凶禍到
+    offset: 7
+    range: 1
+right:
+  word_uuid: 9e236b93-ff1c-43e6-81db-eeb6c3a7b754
+  text: 凶
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: 24b3e956-eb23-459d-b3de-6692b5e15642
+    line_id: KR3j0080_tls_006-4a.14
+    textline: 縱情施欲而凶禍到
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

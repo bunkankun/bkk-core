@@ -1,0 +1,32 @@
+uuid: ed937a24-69cd-4c20-8546-c0f69c35fa56
+type: word-relation
+group_uuid: ed937a24-69cd-4c20-8546-c0f69c35fa56
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 51e45038-f883-494d-a989-8dfacc83f0c5
+  text: 樹
+  concept: TREE
+  concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9d9b7a2f-0dca-4682-b96b-fb7365d10174
+    line_id: KR3j0009_tls_002-28a.15
+    textline: 樹木盛則飛鳥歸之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 53136896-b4a1-4c4e-b37b-3ef5c8c714bb
+  text: 木
+  concept: TREE
+  concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9d9b7a2f-0dca-4682-b96b-fb7365d10174
+    line_id: KR3j0009_tls_002-28a.15
+    textline: 樹木盛則飛鳥歸之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

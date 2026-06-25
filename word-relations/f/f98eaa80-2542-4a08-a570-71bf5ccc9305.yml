@@ -1,0 +1,18 @@
+uuid: f98eaa80-2542-4a08-a570-71bf5ccc9305
+type: word-relation
+group_uuid: 68ed309b-868c-589b-b66e-33522fed0193
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+source:
+  source_file: word-relations.xml

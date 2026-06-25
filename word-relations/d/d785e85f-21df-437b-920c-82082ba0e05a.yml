@@ -1,0 +1,18 @@
+uuid: d785e85f-21df-437b-920c-82082ba0e05a
+type: word-relation
+group_uuid: af66880c-da4a-52ce-946f-170224bafe4b
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: b8b79c2d-df37-4677-b27b-bea0f4c6f52f
+  text: 勇
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+right:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 28f93e36-3181-419e-b964-30ed86c53ae1
+type: word-relation
+group_uuid: 0fb1c2ac-8a3c-4e01-9777-96a9cdea857d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: e2d7387f-bf17-4eea-af44-819f1f4b24ea
+    line_id: KR3c0005_tls_055-1a.7
+    textline: 夫國治則民安
+    offset: 2
+    range: 1
+right:
+  word_uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  text: 邦
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: f6cb530e-38cd-4c0b-bc37-1de9720c956d
+    line_id: KR3c0005_tls_055-1a.8
+    textline: 事亂則邦危
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

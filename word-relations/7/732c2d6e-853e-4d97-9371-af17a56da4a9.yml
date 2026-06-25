@@ -1,0 +1,35 @@
+uuid: 732c2d6e-853e-4d97-9371-af17a56da4a9
+type: word-relation
+group_uuid: 732c2d6e-853e-4d97-9371-af17a56da4a9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4b775b86-4287-4377-8387-cee236bdbda2
+  text: 觀
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 白虎通
+    line_uuid: 0dca8838-6cd8-4573-b70d-536637197105
+    line_id: KR3j0023_tls_002-86a.1
+    textline: 於是伏羲仰觀象於天
+    offset: 6
+    range: 1
+right:
+  word_uuid: 46f67ada-938a-4836-bba0-3da33f972d9f
+  text: 察
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 白虎通
+    line_uuid: 981b928d-6829-4a21-8418-a2cdf3cf8525
+    line_id: KR3j0023_tls_002-86a.2
+    textline: 俯察法於地
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 39d63400-c8d2-47ff-9e3b-a78945047c64
+type: word-relation
+group_uuid: 39d63400-c8d2-47ff-9e3b-a78945047c64
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 論語
+    line_uuid: 9a94e825-9104-4caf-a182-12afe1fb29e2
+    line_id: KR1h0004_tls_009-3a.4
+    textline: 禮也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 643beca2-37af-4079-9a3c-80998515b311
+  text: 泰
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 論語
+    line_uuid: 86665fc7-d45c-42de-83cc-54748c352abe
+    line_id: KR1h0004_tls_009-3a.10
+    textline: 泰也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

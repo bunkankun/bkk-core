@@ -1,0 +1,32 @@
+uuid: 5329dc7c-18ca-47ed-a9dc-7c18ca37ed5f
+type: word-relation
+group_uuid: 3f20db38-1373-5187-bad1-50da75403f12
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ce756123-3003-4ec2-8410-175eae159fc1
+  text: 苛
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 鹽鐵論
+    line_id: KR3a0006_tls_010-20a.34
+    textline: 故高皇帝約秦苛法
+    offset: 7
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 鹽鐵論
+    line_id: KR3a0006_tls_010-20a.34
+    textline: 故高皇帝約秦苛法
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-19T21:51:35.259+09:00'

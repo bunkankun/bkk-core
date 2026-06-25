@@ -1,0 +1,32 @@
+uuid: f0ccbcd7-d904-4602-9be9-69c185a54535
+type: word-relation
+group_uuid: a990797d-2143-4339-9629-52217636e070
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 孟子
+    line_uuid: 6379e042-79ef-47c3-9599-3f823d8e7f63
+    line_id: KR1h0001_tls_002-59a.16
+    textline: 君行仁政
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 孟子
+    line_uuid: 6379e042-79ef-47c3-9599-3f823d8e7f63
+    line_id: KR1h0001_tls_002-59a.16
+    textline: 君行仁政
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

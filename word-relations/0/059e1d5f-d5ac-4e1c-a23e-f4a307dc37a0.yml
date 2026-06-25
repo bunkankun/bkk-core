@@ -1,0 +1,21 @@
+uuid: 059e1d5f-d5ac-4e1c-a23e-f4a307dc37a0
+type: word-relation
+group_uuid: 63855caf-3316-5607-84fd-48a90ce7de7d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 68e4f578-7d72-43e2-988e-cfde2f11abc7
+  text: 怪
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+right:
+  word_uuid: 6502dc34-657a-48eb-aa2b-d8742ba14777
+  text: 妖祅
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

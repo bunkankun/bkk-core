@@ -1,0 +1,32 @@
+uuid: 11f08a92-18df-4166-b33f-2b4ed43d1cd6
+type: word-relation
+group_uuid: b6be876f-1832-4554-9a01-6823e553c2ce
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bacd037d-6d6b-4992-9fff-bf9f8ccd1a53
+  text: 識
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 論語
+    line_uuid: b23661e3-d9de-4e0f-aef8-4abe7d737f28
+    line_id: KR1h0004_tls_007-33a.7
+    textline: 多見而識之
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論語
+    line_uuid: cdd9e601-265e-4a88-b5d9-e31475b0a27a
+    line_id: KR1h0004_tls_007-34a.1
+    textline: 知之次也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

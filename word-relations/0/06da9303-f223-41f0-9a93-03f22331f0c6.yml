@@ -1,0 +1,32 @@
+uuid: 06da9303-f223-41f0-9a93-03f22331f0c6
+type: word-relation
+group_uuid: 19b12973-fad5-5390-9b96-fa90db7b415c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ab89356f-acf0-44d9-92cf-348d081e6e73
+  text: 去
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.45
+    textline: 去其所害
+    offset: 1
+    range: 1
+right:
+  word_uuid: 53d8c13a-c787-4152-b3dd-970763f48549
+  text: 就
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.46
+    textline: 就其所利
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:12:33.971+09:00'

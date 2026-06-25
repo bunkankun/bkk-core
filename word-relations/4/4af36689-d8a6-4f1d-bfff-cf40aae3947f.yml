@@ -1,0 +1,21 @@
+uuid: 4af36689-d8a6-4f1d-bfff-cf40aae3947f
+type: word-relation
+group_uuid: e061e13a-8e23-559b-95b2-8e99f0555bdd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2439b222-118f-48cc-a686-0158869c8e90
+  text: 直
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+right:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

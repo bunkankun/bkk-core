@@ -1,0 +1,32 @@
+uuid: dd1d1223-92d5-400d-9d12-2392d5200d7b
+type: word-relation
+group_uuid: b725bd01-9db5-56a5-962f-f6592ba5a572
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3683c387-9163-4cdb-83c3-8791630cdb65
+  text: 沉
+  concept: SINK
+  concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.21
+    textline: 積陰則沉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1574f9ca-ee6d-4572-bf0f-bc8ba1953dd8
+  text: 飛
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.22
+    textline: 積陽則飛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T20:28:51.737+09:00'

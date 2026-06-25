@@ -1,0 +1,32 @@
+uuid: fb3db344-4de7-43b7-9283-b1ea6727db5d
+type: word-relation
+group_uuid: 03a72e75-ab23-4da2-82e7-099b48e6760c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 98e1e3df-c985-4a0b-a0fb-b53c56aa0589
+  text: 請
+  concept: REQUEST
+  concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3216ab53-87e9-4dcb-bcf4-e7654fc2ac08
+    line_id: KR3c0005_tls_019-42a.2
+    textline: 釋法禁而聽請謁
+    offset: 6
+    range: 1
+right:
+  word_uuid: b83a9651-3111-4135-8462-a9697f3b8c9f
+  text: 謁
+  concept: REQUEST
+  concept_uuid: 8776e03b-d58b-43cd-b694-22237290bbeb
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3216ab53-87e9-4dcb-bcf4-e7654fc2ac08
+    line_id: KR3c0005_tls_019-42a.2
+    textline: 釋法禁而聽請謁
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

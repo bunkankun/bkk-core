@@ -1,0 +1,32 @@
+uuid: 7942a184-b494-4f41-82a1-84b4941f41cf
+type: word-relation
+group_uuid: 535b8e44-8e8c-5100-88e1-3b1adaa5af2b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c338872f-3dea-4ca2-8fc9-d0cb521d05c0
+  text: 天地
+  concept: UNIVERSE
+  concept_uuid: 383dc31a-fb6a-4c5a-9182-83a8cb967831
+  attestation:
+    text_title: 列子
+    line_id: KR5c0124_tls_001-2a.39
+    textline: 故天地含精
+    offset: 2
+    range: 2
+right:
+  word_uuid: 8de7dab8-e1a8-4ae2-8267-49110cd523e9
+  text: 萬物
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 列子
+    line_id: KR5c0124_tls_001-3a.1
+    textline: 萬物化生
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-10T03:17:40.724+09:00'

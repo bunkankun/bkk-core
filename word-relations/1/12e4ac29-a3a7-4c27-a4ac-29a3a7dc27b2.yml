@@ -1,0 +1,32 @@
+uuid: 12e4ac29-a3a7-4c27-a4ac-29a3a7dc27b2
+type: word-relation
+group_uuid: 96f77848-e06a-58fb-a911-fcb82de148e2
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 92b94441-5a35-40a5-9a96-9013c10079c1
+  text: 夫
+  concept: HUSBAND
+  concept_uuid: ca2f1879-90bd-463c-9313-a009e2c17188
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.31
+    textline: 夫婦父子
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5c8e62d4-5117-4e09-98c9-3fd19d1e06a3
+  text: 婦
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.31
+    textline: 夫婦父子
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-23T03:29:46.852+09:00'

@@ -1,0 +1,32 @@
+uuid: 84bc3617-2221-4acd-a24a-28e0ba7b6473
+type: word-relation
+group_uuid: 84bc3617-2221-4acd-a24a-28e0ba7b6473
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 571d0fa2-2d3b-48a0-a2c3-798b9616a43a
+  text: 逢
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 管子
+    line_uuid: fe2ea9c2-3964-48e3-95bd-6c9dc1268878
+    line_id: KR3c0001_tls_016-27a.6
+    textline: 不逢天菑
+    offset: 2
+    range: 1
+right:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 管子
+    line_uuid: bb96929a-c7ac-4517-ba9d-a89bc65162a1
+    line_id: KR3c0001_tls_016-27a.7
+    textline: 不遇人害
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

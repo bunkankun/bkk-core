@@ -1,0 +1,21 @@
+uuid: d42c6d02-8dbe-4c3e-a91e-7917ab43308a
+type: word-relation
+group_uuid: 97498c40-1e2a-52ef-a0f4-d0377f96b9ed
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bab19ecf-a87c-43ad-b58c-3957a1962b11
+  text: 動
+  concept: GROW
+  concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+right:
+  word_uuid: c3bbc849-040e-4fb7-ac08-9111aeaf1824
+  text: 作
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

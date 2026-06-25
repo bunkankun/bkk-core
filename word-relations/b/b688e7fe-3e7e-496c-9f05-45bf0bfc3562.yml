@@ -1,0 +1,32 @@
+uuid: b688e7fe-3e7e-496c-9f05-45bf0bfc3562
+type: word-relation
+group_uuid: e432045f-8f40-481d-8346-6d41901a3620
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 02e63f98-835c-4d3e-a1c6-ba254f9d9fc4
+  text: 伐
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 老子
+    line_uuid: f2ab1253-957f-496b-a6d6-ad281a8100b8
+    line_id: KR5c0057_tls_030-1a.13
+    textline: 果而勿伐
+    offset: 4
+    range: 1
+right:
+  word_uuid: 29000d38-0522-4590-a2da-a8003aa648ed
+  text: 矜
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 老子
+    line_uuid: 359d226e-1d26-4d8b-af19-9954fc5e7659
+    line_id: KR5c0057_tls_030-1a.12
+    textline: 果而勿矜
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

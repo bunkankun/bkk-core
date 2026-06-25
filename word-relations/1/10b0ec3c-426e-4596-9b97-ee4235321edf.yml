@@ -1,0 +1,32 @@
+uuid: 10b0ec3c-426e-4596-9b97-ee4235321edf
+type: word-relation
+group_uuid: 10b0ec3c-426e-4596-9b97-ee4235321edf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d9db02e9-9221-41bb-b3ac-2ffa233c2aac
+  text: 興
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e6d655bb-20e6-4b5f-816e-1367683dbdfd
+    line_id: KR1e0001_tls_003-376a.5
+    textline: 「國之將興
+    offset: 5
+    range: 1
+right:
+  word_uuid: ad9c7f5d-655a-4c11-bbd2-689f49086066
+  text: 亡
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 2636945e-a11b-4aef-b127-a939a42e3cea
+    line_id: KR1e0001_tls_003-376a.8
+    textline: 將亡
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

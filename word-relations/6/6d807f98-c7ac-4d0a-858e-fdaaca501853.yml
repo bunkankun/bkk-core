@@ -1,0 +1,31 @@
+uuid: 6d807f98-c7ac-4d0a-858e-fdaaca501853
+type: word-relation
+group_uuid: 6d807f98-c7ac-4d0a-858e-fdaaca501853
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8c7c13af-2460-4736-8987-bb2cc2f42d34
+  text: 仕
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 法言
+    line_uuid: 20fe16a7-7846-42c6-b9b3-ea911a88c70b
+    textline: 曰君子仕則欲行其義
+    offset: 5
+    range: 1
+right:
+  word_uuid: 067c0182-b3f6-48d7-a93d-898ae98fb4cf
+  text: 居
+  concept: BE AT HOME
+  concept_uuid: d54ee83d-bcf5-44c0-8ac1-66ee701ab3b3
+  attestation:
+    text_title: 法言
+    line_uuid: 705ec5c3-7177-46b4-bd6e-6ea6968f3ffe
+    line_id: KR3a0009_tls_008-8a.24
+    textline: 居則欲彰其道
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

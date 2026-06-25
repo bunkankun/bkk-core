@@ -1,0 +1,21 @@
+uuid: 69268ab8-38ff-481a-999b-9c9dccd6fb81
+type: word-relation
+group_uuid: 0db146d3-9c2e-54e8-8126-8c5fb73c96a5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8aee0f8d-25d0-44ba-8f2e-abcb429e74df
+  text: 卷
+  concept: BOOK VOLUME
+  concept_uuid: 4c227fb6-2e28-4efb-ada8-6709ac89d0ee
+right:
+  word_uuid: 6a62113a-477d-4fc7-bd2d-ecd23e01a05d
+  text: 篇
+  concept: BOOK VOLUME
+  concept_uuid: 4c227fb6-2e28-4efb-ada8-6709ac89d0ee
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

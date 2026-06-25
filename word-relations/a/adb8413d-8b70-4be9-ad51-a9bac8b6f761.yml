@@ -1,0 +1,21 @@
+uuid: adb8413d-8b70-4be9-ad51-a9bac8b6f761
+type: word-relation
+group_uuid: 59408182-8bad-594b-a769-ced8d826d080
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 315e018a-53f2-4b6e-b393-cd14c5984956
+  text: 可
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+right:
+  word_uuid: 1db62518-f462-4ae9-895c-98e2b6d06225
+  text: 難
+  concept: DIFFICULT
+  concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

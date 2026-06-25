@@ -1,0 +1,32 @@
+uuid: bdd446e5-8431-4dd9-9e87-5a8cd05769e9
+type: word-relation
+group_uuid: bdd446e5-8431-4dd9-9e87-5a8cd05769e9
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 6c400bfe-9912-4d21-9860-48af97cd9c38
+  text: 守
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+  attestation:
+    text_title: 韓非子
+    line_uuid: 045a9eee-675f-4c39-9460-e25f0931c557
+    line_id: KR3c0005_tls_002-31a.3
+    textline: 國固守
+    offset: 3
+    range: 1
+right:
+  word_uuid: f6d83faf-fc9f-4aa4-a6df-262260b80826
+  text: 固
+  concept: SAFE
+  concept_uuid: 056420a0-1add-4ebb-ac5d-9006d57b1135
+  attestation:
+    text_title: 韓非子
+    line_uuid: 045a9eee-675f-4c39-9460-e25f0931c557
+    line_id: KR3c0005_tls_002-31a.3
+    textline: 國固守
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

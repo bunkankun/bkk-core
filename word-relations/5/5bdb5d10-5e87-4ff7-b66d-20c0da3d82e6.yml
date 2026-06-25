@@ -1,0 +1,29 @@
+uuid: 5bdb5d10-5e87-4ff7-b66d-20c0da3d82e6
+type: word-relation
+group_uuid: 5bdb5d10-5e87-4ff7-b66d-20c0da3d82e6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 93bfd271-3940-46b3-8b32-031a4b518d2c
+  text: 物
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 郭店語叢
+    line_uuid: c88f429d-c861-409d-a128-80dc7bf992f7
+    textline: 凡物由亡生　(亡 written as 望)
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5c58beee-db25-45f2-9a93-c48e4d12b7e5
+  text: 亡
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 郭店語叢
+    line_uuid: c88f429d-c861-409d-a128-80dc7bf992f7
+    textline: 凡物由亡生　(亡 written as 望)
+    range: 1
+source:
+  source_file: word-relations.xml

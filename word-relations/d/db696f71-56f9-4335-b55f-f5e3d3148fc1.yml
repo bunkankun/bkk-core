@@ -1,0 +1,21 @@
+uuid: db696f71-56f9-4335-b55f-f5e3d3148fc1
+type: word-relation
+group_uuid: 5821c8bf-5f38-53d3-8377-ec99a4bee477
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6f2f9c1e-41e6-41ab-a669-b7c308073049
+  text: 結
+  concept: BIND
+  concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+right:
+  word_uuid: 4d8de33e-8daf-4a6e-a616-accc8c42df03
+  text: 連
+  concept: TIE TO
+  concept_uuid: 66dad42c-538d-4e70-8572-904e1f3c23b9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

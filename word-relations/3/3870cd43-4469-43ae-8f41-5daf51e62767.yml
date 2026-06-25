@@ -1,0 +1,32 @@
+uuid: 3870cd43-4469-43ae-8f41-5daf51e62767
+type: word-relation
+group_uuid: db4ee513-eff1-4da7-84b3-c3fc91c9f0c2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 705c49cd-2879-486a-9b83-787bce197a58
+    line_id: KR3j0009_tls_002-26a.11
+    textline: 無賞祿以利人
+    offset: 2
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 705c49cd-2879-486a-9b83-787bce197a58
+    line_id: KR3j0009_tls_002-26a.11
+    textline: 無賞祿以利人
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

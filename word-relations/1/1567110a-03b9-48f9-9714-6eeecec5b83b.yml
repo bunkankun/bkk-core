@@ -1,0 +1,32 @@
+uuid: 1567110a-03b9-48f9-9714-6eeecec5b83b
+type: word-relation
+group_uuid: 1567110a-03b9-48f9-9714-6eeecec5b83b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2e80ba82-b6f0-4838-83c6-5b1aaf281c8c
+  text: 則
+  concept: IMITATE
+  concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+  attestation:
+    text_title: 禮記
+    line_uuid: d0ec7b12-d262-4a73-9446-862b7cea06e7
+    line_id: KR1d0052_tls_050-1a.6
+    textline: 則陰陽
+    offset: 1
+    range: 1
+right:
+  word_uuid: f5fa22c7-eda9-466a-a190-b17bdb722a65
+  text: 順
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 禮記
+    line_uuid: f5a7b381-fe7a-4d25-be84-99c454360b97
+    line_id: KR1d0052_tls_050-1a.7
+    textline: 順人情
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

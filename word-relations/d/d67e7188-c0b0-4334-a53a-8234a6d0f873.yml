@@ -1,0 +1,32 @@
+uuid: d67e7188-c0b0-4334-a53a-8234a6d0f873
+type: word-relation
+group_uuid: d67e7188-c0b0-4334-a53a-8234a6d0f873
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e76f6893-dcb4-442f-89f0-d72ef02a217b
+  text: 桎
+  concept: FETTERS
+  concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cffe4c1f-94cc-41bc-81f1-36fd1a28dcef
+    line_id: KR3j0009_tls_002-3a.10
+    textline: 去桎梏
+    offset: 2
+    range: 1
+right:
+  word_uuid: 724d1938-54cf-4317-b1a6-841e02e9085a
+  text: 梏
+  concept: FETTERS
+  concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cffe4c1f-94cc-41bc-81f1-36fd1a28dcef
+    line_id: KR3j0009_tls_002-3a.10
+    textline: 去桎梏
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

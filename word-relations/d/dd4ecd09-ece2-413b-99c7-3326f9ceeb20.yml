@@ -1,0 +1,31 @@
+uuid: dd4ecd09-ece2-413b-99c7-3326f9ceeb20
+type: word-relation
+group_uuid: dd4ecd09-ece2-413b-99c7-3326f9ceeb20
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ab2fe7f9-bff2-4220-8362-e93d7eefc01a
+    textline: 其得之以公
+    offset: 5
+    range: 1
+right:
+  word_uuid: a74128f9-ee6c-4437-92c3-0b2abbe33dd9
+  text: 偏
+  concept: PARTIAL
+  concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 438c18da-6417-4390-b67d-f1dd97b69521
+    line_id: KR3j0009_tls_001-20a.10
+    textline: 其失之必以偏
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

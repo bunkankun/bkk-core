@@ -1,0 +1,32 @@
+uuid: f3662117-4d27-44b8-bf86-6804456440fb
+type: word-relation
+group_uuid: f3662117-4d27-44b8-bf86-6804456440fb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 01ac2d5b-763c-43bf-abe7-a50283985062
+    line_id: KR3j0009_tls_021-19a.19
+    textline: 故身親耕
+    offset: 2
+    range: 1
+right:
+  word_uuid: 15693b62-1e1a-4f1b-800a-a1b66f6612c5
+  text: 親
+  concept: PERSONALLY
+  concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 01ac2d5b-763c-43bf-abe7-a50283985062
+    line_id: KR3j0009_tls_021-19a.19
+    textline: 故身親耕
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

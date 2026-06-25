@@ -1,0 +1,30 @@
+uuid: 4e486916-caf9-4144-97a6-e3635ff05bc0
+type: word-relation
+group_uuid: 4e486916-caf9-4144-97a6-e3635ff05bc0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: cf7a1bc3-eaeb-43b6-a73b-4bf8be31fc9f
+  text: 僭
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 禮記
+    line_uuid: 5ebda7c3-b42b-4f89-ad98-a1d6d86c65c7
+    textline: 君子上不僭上
+    offset: 5
+    range: 1
+right:
+  word_uuid: ab4a539d-5db5-4959-953f-4c0fa920c80d
+  text: 偪
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 禮記
+    line_uuid: 9eb0cdde-f8c2-477a-8fcf-2482d27fa603
+    line_id: KR1d0052_tls_021-38a.1
+    textline: 下不偪下
+    range: 1
+source:
+  source_file: word-relations.xml

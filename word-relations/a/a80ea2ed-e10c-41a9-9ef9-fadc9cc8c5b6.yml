@@ -1,0 +1,32 @@
+uuid: a80ea2ed-e10c-41a9-9ef9-fadc9cc8c5b6
+type: word-relation
+group_uuid: a80ea2ed-e10c-41a9-9ef9-fadc9cc8c5b6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 95603557-8cc2-4ffa-80ec-98e518901157
+  text: 創
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 孟子
+    line_uuid: 723500a7-f577-4ecb-9e7c-b7a52bed3c2b
+    line_id: KR1h0001_tls_002-63a.10
+    textline: 君子創業垂統
+    offset: 3
+    range: 1
+right:
+  word_uuid: b2bdda81-eed3-4ea9-8a25-13831cb2efe9
+  text: 業
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 孟子
+    line_uuid: 723500a7-f577-4ecb-9e7c-b7a52bed3c2b
+    line_id: KR1h0001_tls_002-63a.10
+    textline: 君子創業垂統
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

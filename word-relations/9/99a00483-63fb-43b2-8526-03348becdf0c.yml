@@ -1,0 +1,32 @@
+uuid: 99a00483-63fb-43b2-8526-03348becdf0c
+type: word-relation
+group_uuid: 99a00483-63fb-43b2-8526-03348becdf0c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9f965b3d-247e-4ad4-8900-0ab1657fbf24
+  text: 諷
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 論衡
+    line_uuid: b46625d0-4878-45a7-a003-0d54f6b8e2db
+    line_id: KR3j0080_tls_002-8a.31
+    textline: 諷詠之者
+    offset: 1
+    range: 1
+right:
+  word_uuid: c82b86a5-2178-432a-825d-436b01eb1c6f
+  text: 詠
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 論衡
+    line_uuid: b46625d0-4878-45a7-a003-0d54f6b8e2db
+    line_id: KR3j0080_tls_002-8a.31
+    textline: 諷詠之者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

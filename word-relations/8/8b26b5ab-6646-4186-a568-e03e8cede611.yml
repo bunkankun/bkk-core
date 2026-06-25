@@ -1,0 +1,32 @@
+uuid: 8b26b5ab-6646-4186-a568-e03e8cede611
+type: word-relation
+group_uuid: 8b26b5ab-6646-4186-a568-e03e8cede611
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ec1aac2d-b88c-4605-b114-328c65e496ff
+  text: 新
+  concept: RECENT
+  concept_uuid: 82bda3bd-7190-48c9-b821-6c19d0221a45
+  attestation:
+    text_title: 淮南子
+    line_uuid: 08425e19-447f-4445-a4a0-3801828a38a8
+    line_id: KR3j0010_tls_001-29a.24
+    textline: 新而不朗
+    offset: 1
+    range: 1
+right:
+  word_uuid: 254386c6-9fd6-4ff1-a9c1-296e1933854b
+  text: 久
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 淮南子
+    line_uuid: bbcaa528-c896-4d9f-b2d1-4a1ed79566f7
+    line_id: KR3j0010_tls_001-29a.25
+    textline: 久而不渝
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

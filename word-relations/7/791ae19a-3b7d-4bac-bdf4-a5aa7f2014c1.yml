@@ -1,0 +1,35 @@
+uuid: 791ae19a-3b7d-4bac-bdf4-a5aa7f2014c1
+type: word-relation
+group_uuid: 791ae19a-3b7d-4bac-bdf4-a5aa7f2014c1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: cb69c789-55f6-45bb-b291-b538661988cd
+  text: 報
+  concept: REVENGE
+  concept_uuid: 5ad2c08a-e2f2-45a1-a30b-798f3f183771
+  attestation:
+    text_title: 論衡
+    line_uuid: e4bb4207-00fd-47c6-8b45-03a3204c8d5b
+    line_id: KR3j0080_tls_021-1a.7
+    textline: 鬼神報之
+    offset: 3
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 論衡
+    line_uuid: da0c0c8c-bf4d-496c-909d-5ad5a7cb514a
+    line_id: KR3j0080_tls_021-1a.8
+    textline: 天地所罰
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

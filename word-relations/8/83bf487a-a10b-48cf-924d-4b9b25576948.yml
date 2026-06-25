@@ -1,0 +1,32 @@
+uuid: 83bf487a-a10b-48cf-924d-4b9b25576948
+type: word-relation
+group_uuid: 9a9925d5-8bc2-4465-9b60-ef3e522727d0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: d4d0aec5-e1fc-4f82-b71e-6729b436b2ad
+    line_id: KR3c0005_tls_006-17a.5
+    textline: 故明主使法擇人
+    offset: 3
+    range: 1
+right:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: d4d0aec5-e1fc-4f82-b71e-6729b436b2ad
+    line_id: KR3c0005_tls_006-17a.5
+    textline: 故明主使法擇人
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

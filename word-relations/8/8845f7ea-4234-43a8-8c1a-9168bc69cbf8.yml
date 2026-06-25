@@ -1,0 +1,32 @@
+uuid: 8845f7ea-4234-43a8-8c1a-9168bc69cbf8
+type: word-relation
+group_uuid: 8845f7ea-4234-43a8-8c1a-9168bc69cbf8
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 05ed75d8-6dfd-44c1-a2bd-e7bf3e4c5a04
+  text: 爭
+  concept: FIGHT
+  concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6513a519-48df-4f84-8841-6090f1699e85
+    line_id: KR3c0005_tls_015-34a.4
+    textline: 淺薄於爭守之事
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6c400bfe-9912-4d21-9860-48af97cd9c38
+  text: 守
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6513a519-48df-4f84-8841-6090f1699e85
+    line_id: KR3c0005_tls_015-34a.4
+    textline: 淺薄於爭守之事
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

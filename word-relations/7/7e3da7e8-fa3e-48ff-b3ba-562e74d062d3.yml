@@ -1,0 +1,21 @@
+uuid: 7e3da7e8-fa3e-48ff-b3ba-562e74d062d3
+type: word-relation
+group_uuid: f9cae536-6044-592c-9a2a-8912fb7fbd05
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8b91280b-eb76-4a81-8d71-9b34ec87ccf7
+  text: 考考
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+right:
+  word_uuid: a7c2b6b1-eddc-45a1-b069-2c05d5f384ce
+  text: 效
+  concept: CHECK
+  concept_uuid: bb9ab141-adfb-443f-9908-f7485cbd7560
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

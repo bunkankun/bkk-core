@@ -1,0 +1,21 @@
+uuid: 42807cd3-a416-4ff3-bd63-5b6f28ca6fbb
+type: word-relation
+group_uuid: 3c9df008-1fd8-5bd8-9571-2c10c2c0e0e9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 03a400e2-e31b-4a16-bf1a-8d2f36ca41f5
+  text: 懷
+  concept: CONTAIN
+  concept_uuid: 380d256c-5829-444a-b7d1-8cc0421983f1
+right:
+  word_uuid: b46e1d25-5784-49ae-870c-9a8e1e3528de
+  text: 妊
+  concept: PREGNANT
+  concept_uuid: 17bec4da-47a1-4a86-b414-7b38f8395606
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

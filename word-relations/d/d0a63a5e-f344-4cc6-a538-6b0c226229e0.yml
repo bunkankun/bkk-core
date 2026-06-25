@@ -1,0 +1,32 @@
+uuid: d0a63a5e-f344-4cc6-a538-6b0c226229e0
+type: word-relation
+group_uuid: d0a63a5e-f344-4cc6-a538-6b0c226229e0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7a8634f8-61e9-4579-9c66-aec972eef872
+  text: 淵
+  concept: ABYSS
+  concept_uuid: e3082cbb-a44c-4766-b28b-e68f39fa5b37
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2f3eb04d-ff58-4a56-ba79-9d95c05c89ea
+    line_id: KR3c0005_tls_008-44a.10
+    textline: 填其洶淵
+    offset: 4
+    range: 1
+right:
+  word_uuid: 372abb60-a1b1-451d-a829-dff7b063cd30
+  text: 洶
+  concept: BUBBLE
+  concept_uuid: 33bd683e-b7a8-49be-9f34-b0041e779296
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2f3eb04d-ff58-4a56-ba79-9d95c05c89ea
+    line_id: KR3c0005_tls_008-44a.10
+    textline: 填其洶淵
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

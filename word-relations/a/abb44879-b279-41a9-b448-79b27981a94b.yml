@@ -1,0 +1,32 @@
+uuid: abb44879-b279-41a9-b448-79b27981a94b
+type: word-relation
+group_uuid: eca31562-8694-5a60-b2b1-907d747ac523
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5d826328-65e6-4a95-8263-2865e65a9511
+  text: 襃
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.14
+    textline: 豈必襃衣博帶
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5c5b2978-674f-49c5-9f7f-26b2aa5c0cbe
+  text: 衣
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.14
+    textline: 豈必襃衣博帶
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:21:07.179+09:00'

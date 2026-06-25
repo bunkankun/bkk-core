@@ -1,0 +1,32 @@
+uuid: cc6f685b-8702-4827-b627-b8993a4fee0c
+type: word-relation
+group_uuid: b31f94f2-0a2c-4a0c-aace-b281560ec942
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a48ae610-42c1-4ddc-898a-4e9172dc2c4a
+    line_id: KR1e0001_tls_010-319a.23
+    textline: 今吾使人於周
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 14e5e647-ea3f-4116-a8e8-cd67a595806e
+    line_id: KR1e0001_tls_010-319a.25
+    textline: 王其與我乎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

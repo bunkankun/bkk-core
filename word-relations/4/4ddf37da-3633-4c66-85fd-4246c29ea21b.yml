@@ -1,0 +1,32 @@
+uuid: 4ddf37da-3633-4c66-85fd-4246c29ea21b
+type: word-relation
+group_uuid: 4ddf37da-3633-4c66-85fd-4246c29ea21b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a6db2497-033b-407f-897a-a966d07980ce
+  text: 賄
+  concept: BRIBE
+  concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+  attestation:
+    text_title: 禮記
+    line_uuid: af57d8a4-437e-47a3-9027-c4cd06a26843
+    line_id: KR1d0052_tls_006-80a.10
+    textline: 納貨賄
+    offset: 3
+    range: 1
+right:
+  word_uuid: 19fdeb84-bc98-48ed-aecc-17419378fa02
+  text: 貨
+  concept: BRIBE
+  concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+  attestation:
+    text_title: 禮記
+    line_uuid: af57d8a4-437e-47a3-9027-c4cd06a26843
+    line_id: KR1d0052_tls_006-80a.10
+    textline: 納貨賄
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

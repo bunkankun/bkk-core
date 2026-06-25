@@ -1,0 +1,32 @@
+uuid: c06c8429-2a05-4000-933b-69d3096cacbb
+type: word-relation
+group_uuid: c06c8429-2a05-4000-933b-69d3096cacbb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 59f381b4-dd75-4537-96c7-1ee3989b7e19
+  text: 貧窮
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 戰國策
+    line_uuid: 7b0c09bb-9889-45ee-8ed2-cca29c48fd4f
+    line_id: KR2e0003_tls_047-7a.20
+    textline: 貧窮則父母不子
+    offset: 1
+    range: 2
+right:
+  word_uuid: ea6fd31d-7545-4b7a-b751-8690fd4866f9
+  text: 富貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 戰國策
+    line_uuid: cfa65f58-c12b-437f-879a-89658bb5c329
+    line_id: KR2e0003_tls_047-7a.21
+    textline: 富貴則親戚畏懼
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

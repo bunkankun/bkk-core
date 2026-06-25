@@ -1,0 +1,32 @@
+uuid: 11472664-9f9f-4cbe-aa75-ef0553c7f14b
+type: word-relation
+group_uuid: 11472664-9f9f-4cbe-aa75-ef0553c7f14b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 935c09fd-3da6-438d-bb54-091132e6bcec
+  text: 官吏
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea1c97d0-5ece-4449-9e50-3064e5cb7a11
+    line_id: KR3c0005_tls_015-26a.4
+    textline: 官吏弱而人民桀
+    offset: 1
+    range: 2
+right:
+  word_uuid: 9c75d50d-a2b9-4cb8-a591-1a497fee7bc7
+  text: 人民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea1c97d0-5ece-4449-9e50-3064e5cb7a11
+    line_id: KR3c0005_tls_015-26a.4
+    textline: 官吏弱而人民桀
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

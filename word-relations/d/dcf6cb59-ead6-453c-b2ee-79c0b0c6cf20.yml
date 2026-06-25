@@ -1,0 +1,30 @@
+uuid: dcf6cb59-ead6-453c-b2ee-79c0b0c6cf20
+type: word-relation
+group_uuid: dcf6cb59-ead6-453c-b2ee-79c0b0c6cf20
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 30f4051e-4737-4a08-a08e-dfdd4437727b
+    textline: 使中眾生　除邪就正”
+    offset: 7
+    range: 1
+right:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 30f4051e-4737-4a08-a08e-dfdd4437727b
+    textline: 使中眾生　除邪就正”
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: a1daf505-24b0-462e-8919-5e7eea9c86ec
+type: word-relation
+group_uuid: a1daf505-24b0-462e-8919-5e7eea9c86ec
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1c923aee-45fd-4623-8bb3-48a1a8226232
+  text: 溢
+  concept: OVERFLOW
+  concept_uuid: 8b1bc95f-ccb4-420a-bf5d-04555214c56b
+  attestation:
+    text_title: 淮南子
+    line_uuid: c8bb24f4-6c8a-482f-ac16-bf6cc9a60814
+    line_id: KR3j0010_tls_011-2a.21
+    textline: 而言不溢乎行
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9f6f7b41-1091-44a9-9094-23c2a3f49260
+  text: 羨
+  concept: OVERFLOW
+  concept_uuid: 8b1bc95f-ccb4-420a-bf5d-04555214c56b
+  attestation:
+    text_title: 淮南子
+    line_uuid: 6ecec302-1680-4ec1-ba6b-22b5b154d3db
+    textline: 貌不羨乎情
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b4936470-eb1a-417c-85ec-3ee2c397c7d0
+type: word-relation
+group_uuid: b4936470-eb1a-417c-85ec-3ee2c397c7d0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a3c480ff-5a6e-47e6-ab16-6c46e7ed2d92
+  text: 耕
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 73d7f4af-22a7-4b30-bf97-b8afffc14051
+    line_id: KR3c0005_tls_013-7a.6
+    textline: 則浮萌趍於耕農
+    offset: 6
+    range: 1
+right:
+  word_uuid: c67031e5-5810-43a6-a496-20fd80ac0586
+  text: 農
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 73d7f4af-22a7-4b30-bf97-b8afffc14051
+    line_id: KR3c0005_tls_013-7a.6
+    textline: 則浮萌趍於耕農
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

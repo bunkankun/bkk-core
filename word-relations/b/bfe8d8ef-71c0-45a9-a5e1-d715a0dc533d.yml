@@ -1,0 +1,21 @@
+uuid: bfe8d8ef-71c0-45a9-a5e1-d715a0dc533d
+type: word-relation
+group_uuid: 77ca4d35-840d-5773-becc-2ec87207c001
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 15d872ca-07cb-4782-99d9-f9141bab61dc
+  text: 須臾
+  concept: MOMENT
+  concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+right:
+  word_uuid: b4730191-a4d1-40a7-985c-b8c6b42911de
+  text: 倉猝
+  concept: MOMENT
+  concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4b09b41e-3438-47e4-83a9-f92b67e51bbf
+type: word-relation
+group_uuid: 4b09b41e-3438-47e4-83a9-f92b67e51bbf
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 5c394d14-69b5-44ae-819a-43210fa23b5e
+  text: 生
+  concept: BEGET
+  concept_uuid: d1f85eeb-ffa2-4816-a491-5ab486545ad4
+  attestation:
+    text_title: 老子
+    line_uuid: a6b9e901-deaf-44be-b341-48229a9a044c
+    line_id: KR5c0057_tls_051-1a.3
+    textline: 道生之
+    offset: 2
+    range: 1
+right:
+  word_uuid: fed6e19b-e649-4066-8dfb-a0367f3c70c1
+  text: 畜
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+  attestation:
+    text_title: 老子
+    line_uuid: a4114905-078d-4f82-a409-3769deecd597
+    line_id: KR5c0057_tls_051-1a.14
+    textline: 德畜之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

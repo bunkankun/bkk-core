@@ -1,0 +1,32 @@
+uuid: 9b5a4cf8-7244-4a0d-bc60-4c375060ba6b
+type: word-relation
+group_uuid: 9b5a4cf8-7244-4a0d-bc60-4c375060ba6b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3d8cbb4c-f1c8-402d-9e82-892442279190
+  text: 歸
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 老子
+    line_uuid: 0bc5067c-4dd4-4e13-8a3b-1a005b46f8cd
+    line_id: KR5c0057_tls_014-1a.15
+    textline: 復歸於無物
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8645ba9d-7ef4-4244-8809-ac6d11681de6
+  text: 復
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 老子
+    line_uuid: 0bc5067c-4dd4-4e13-8a3b-1a005b46f8cd
+    line_id: KR5c0057_tls_014-1a.15
+    textline: 復歸於無物
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ce77855f-3ee5-43de-a357-718feb31a85d
+type: word-relation
+group_uuid: ce77855f-3ee5-43de-a357-718feb31a85d
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: c1eeaaa1-5939-4231-851d-0fbeb95a6d95
+  text: 溺
+  concept: DROWN
+  concept_uuid: 2f918b16-defb-4b2c-88fb-c3e8b1cd7e32
+  attestation:
+    text_title: 論衡
+    line_uuid: 3cffe649-6d57-492d-a285-e63710139688
+    line_id: KR3j0080_tls_006-2a.9
+    textline: 命當溺死
+    offset: 3
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 論衡
+    line_uuid: 3cffe649-6d57-492d-a285-e63710139688
+    line_id: KR3j0080_tls_006-2a.9
+    textline: 命當溺死
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

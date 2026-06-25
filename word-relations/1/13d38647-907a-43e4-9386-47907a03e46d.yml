@@ -1,0 +1,32 @@
+uuid: 13d38647-907a-43e4-9386-47907a03e46d
+type: word-relation
+group_uuid: 4cbbc379-dbaa-5c08-aa6a-a0065789abdf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8ddd8433-6707-4911-96ca-e9ec3412c3b6
+  text: 終日
+  concept: DAY
+  concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_001-3a.2
+    textline: 吾嘗終日而思矣
+    offset: 3
+    range: 2
+right:
+  word_uuid: 15d872ca-07cb-4782-99d9-f9141bab61dc
+  text: 須臾
+  concept: MOMENT
+  concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_001-3a.3
+    textline: 不如須臾之所學也
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#zadrapa'
+  date: '2023-02-14T23:04:03.799+09:00'

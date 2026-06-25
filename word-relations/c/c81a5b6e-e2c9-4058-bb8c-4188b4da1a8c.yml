@@ -1,0 +1,18 @@
+uuid: c81a5b6e-e2c9-4058-bb8c-4188b4da1a8c
+type: word-relation
+group_uuid: adbc327a-9694-5078-8d15-a3533ed9310f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0a2c8118-eee9-45f7-be57-5fe2178f6c41
+  text: 衣
+  concept: WEAR
+  concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+right:
+  word_uuid: e242ee95-f8b0-4489-b8de-490a4b9e05eb
+  text: 服
+  concept: WEAR
+  concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+source:
+  source_file: word-relations.xml

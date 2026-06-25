@@ -1,0 +1,32 @@
+uuid: f8680ba8-37e8-4fe9-bcea-063b52fbaf00
+type: word-relation
+group_uuid: f8680ba8-37e8-4fe9-bcea-063b52fbaf00
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3cf505a6-0f16-452e-a058-e8c7ccfd0186
+  text: 癰
+  concept: ULCER
+  concept_uuid: c0148b85-2506-4691-8908-29a12bf868b7
+  attestation:
+    text_title: 論衡
+    line_uuid: 54be8155-825a-41db-820f-08a376ddc1b2
+    line_id: KR3j0080_tls_005-2a.32
+    textline: 癰疽之發
+    offset: 1
+    range: 1
+right:
+  word_uuid: dd771c43-1d96-4fb5-8bac-8eb87596eaaa
+  text: 疽
+  concept: ULCER
+  concept_uuid: c0148b85-2506-4691-8908-29a12bf868b7
+  attestation:
+    text_title: 論衡
+    line_uuid: 54be8155-825a-41db-820f-08a376ddc1b2
+    line_id: KR3j0080_tls_005-2a.32
+    textline: 癰疽之發
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

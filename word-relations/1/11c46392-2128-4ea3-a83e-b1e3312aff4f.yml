@@ -1,0 +1,35 @@
+uuid: 11c46392-2128-4ea3-a83e-b1e3312aff4f
+type: word-relation
+group_uuid: 036936f6-733d-4616-bb5c-855fd28f2c83
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 972af1bd-15e5-4c4e-8ed9-525d929b3bc0
+  text: 歡
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6979e956-92f2-4731-8e8a-c428b0fa79ea
+    line_id: KR3j0009_tls_005-12a.4
+    textline: 歡欣生於平
+    offset: 1
+    range: 1
+right:
+  word_uuid: 822316a7-b473-4a45-a9bf-8ec152d395e3
+  text: 欣
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6979e956-92f2-4731-8e8a-c428b0fa79ea
+    line_id: KR3j0009_tls_005-12a.4
+    textline: 歡欣生於平
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

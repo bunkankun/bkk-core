@@ -1,0 +1,29 @@
+uuid: 3b1cf528-ad60-4747-9266-61ac7482d09e
+type: word-relation
+group_uuid: 3b1cf528-ad60-4747-9266-61ac7482d09e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c167a295-ca5b-4737-bf5d-6ce9a945255c
+  text: 才
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 論衡
+    line_uuid: 763df580-104e-43a3-990f-d6bf22117806
+    textline: 不能量操審才能也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 34f33548-5f1d-4a79-ad78-eb140fe5d749
+  text: 能
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 論衡
+    line_uuid: 763df580-104e-43a3-990f-d6bf22117806
+    textline: 不能量操審才能也
+    range: 1
+source:
+  source_file: word-relations.xml

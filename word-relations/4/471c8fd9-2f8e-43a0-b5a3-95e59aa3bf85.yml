@@ -1,0 +1,32 @@
+uuid: 471c8fd9-2f8e-43a0-b5a3-95e59aa3bf85
+type: word-relation
+group_uuid: 471c8fd9-2f8e-43a0-b5a3-95e59aa3bf85
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 法言
+    line_uuid: ec482497-22af-4492-b7e5-e07cd48a97d2
+    line_id: KR3a0009_tls_008-18a.2
+    textline: 聖人矢口而成言
+    offset: 7
+    range: 1
+right:
+  word_uuid: 8bd1a567-ca96-449d-9739-96ba1fb94b5d
+  text: 書
+  concept: DOCUMENT
+  concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+  attestation:
+    text_title: 法言
+    line_uuid: e74919ee-24a0-48d1-93bd-ade4db206ada
+    line_id: KR3a0009_tls_008-18a.3
+    textline: 肆筆而成書
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: b49a7c89-92b5-44db-90c2-b8b77b1a74b0
+type: word-relation
+group_uuid: b49a7c89-92b5-44db-90c2-b8b77b1a74b0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 管子
+    line_uuid: 58c9b3e0-d13d-4a27-900a-8aa1b96986ec
+    textline: 審別良苦
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5e0b9f16-631d-413b-acd9-7aff51470190
+  text: 苦
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 管子
+    line_uuid: 58c9b3e0-d13d-4a27-900a-8aa1b96986ec
+    textline: 審別良苦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

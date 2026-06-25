@@ -1,0 +1,32 @@
+uuid: 41b878d6-d793-46b8-b878-d6d793c6b8a8
+type: word-relation
+group_uuid: 7c837e3e-f6cc-4782-a7e2-a2790cd8075b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e2582819-d8da-43c4-a98b-45b96c63ead5
+  text: 琴
+  concept: STRING INSTRUMENTS
+  concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.31
+    textline: 為之鍾鼓 管磬 琴瑟 竽笙
+    offset: 9
+    range: 1
+right:
+  word_uuid: 6e5f4ae0-399f-4245-b65c-08c787dcbefa
+  text: 瑟
+  concept: STRING INSTRUMENTS
+  concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.31
+    textline: 為之鍾鼓 管磬 琴瑟 竽笙
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T20:04:14.774+09:00'

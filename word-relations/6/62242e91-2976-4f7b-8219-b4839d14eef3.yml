@@ -1,0 +1,32 @@
+uuid: 62242e91-2976-4f7b-8219-b4839d14eef3
+type: word-relation
+group_uuid: 62242e91-2976-4f7b-8219-b4839d14eef3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e863a51b-36f6-4aa2-a9b6-8300c219a917
+  text: 執
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2809597f-ed68-4b2b-a89c-ab90dee8de38
+    line_id: KR3c0005_tls_008-8a.2
+    textline: 故聖人執一以靜
+    offset: 4
+    range: 1
+right:
+  word_uuid: a450c79f-e957-4f7f-8823-7e399bd55373
+  text: 一
+  concept: ONE
+  concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2809597f-ed68-4b2b-a89c-ab90dee8de38
+    line_id: KR3c0005_tls_008-8a.2
+    textline: 故聖人執一以靜
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

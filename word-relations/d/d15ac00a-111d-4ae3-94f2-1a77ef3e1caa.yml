@@ -1,0 +1,18 @@
+uuid: d15ac00a-111d-4ae3-94f2-1a77ef3e1caa
+type: word-relation
+group_uuid: 8dce9f31-064a-5797-b246-53f407858343
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+right:
+  word_uuid: 16526974-fb05-48fa-ac42-3c15042ab0c0
+  text: 三
+  concept: THREE
+  concept_uuid: 373de8d0-0d58-4780-ae06-8270d91edc3a
+source:
+  source_file: word-relations.xml

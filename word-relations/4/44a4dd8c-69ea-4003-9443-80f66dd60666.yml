@@ -1,0 +1,32 @@
+uuid: 44a4dd8c-69ea-4003-9443-80f66dd60666
+type: word-relation
+group_uuid: 2bfdbef0-8ebf-4e39-a69d-6e383de539d7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d9d803d3-2cfa-46e8-a267-09ee19433986
+  text: 吏
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 51ac06d0-c3df-4a23-9e43-71282bc216fd
+    line_id: KR3c0005_tls_009-7a.3
+    textline: 收大臣廷吏以辭言
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2bfb0ef2-9e3b-4064-9a86-88488d8e104f
+  text: 廷
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 韓非子
+    line_uuid: 51ac06d0-c3df-4a23-9e43-71282bc216fd
+    line_id: KR3c0005_tls_009-7a.3
+    textline: 收大臣廷吏以辭言
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

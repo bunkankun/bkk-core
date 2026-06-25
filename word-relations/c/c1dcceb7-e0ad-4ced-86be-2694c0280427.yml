@@ -1,0 +1,32 @@
+uuid: c1dcceb7-e0ad-4ced-86be-2694c0280427
+type: word-relation
+group_uuid: 368decb2-2f55-4fd3-9ee4-50356f7f1869
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: df621d3f-b7f1-474e-b181-139f9b53a498
+  text: 劫
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 134557a0-11a7-4795-908d-50ddf6900aba
+    line_id: KR3c0005_tls_017-2a.5
+    textline: 此世所以有劫君
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 134557a0-11a7-4795-908d-50ddf6900aba
+    line_id: KR3c0005_tls_017-2a.5
+    textline: 此世所以有劫君
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

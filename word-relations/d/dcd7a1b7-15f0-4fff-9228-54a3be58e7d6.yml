@@ -1,0 +1,32 @@
+uuid: dcd7a1b7-15f0-4fff-9228-54a3be58e7d6
+type: word-relation
+group_uuid: bda8aa0b-4f13-43f6-be64-560d982e5249
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 莊子
+    line_uuid: 96f7c286-34e8-4971-8778-b46ae06ec2cf
+    line_id: KR5c0126_tls_029-19a.11
+    textline: 心不待學而樂之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 莊子
+    line_uuid: 7ebe9bf8-12ee-4747-ba34-72cce2565587
+    line_id: KR5c0126_tls_029-19a.12
+    textline: 體不待象而安之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

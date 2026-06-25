@@ -1,0 +1,32 @@
+uuid: 1a89cd1c-53fa-4b56-83ec-130bbffc45df
+type: word-relation
+group_uuid: 1a89cd1c-53fa-4b56-83ec-130bbffc45df
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 73e48a4c-32f1-475e-930f-e78072ae4bff
+  text: 吐
+  concept: SPIT
+  concept_uuid: a97cd503-c435-4bd0-80a1-2526af4825d2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4a04b235-51c3-4690-ae41-d1b21b9ac9ce
+    line_id: KR1e0001_tls_006-206a.8
+    textline: 『剛亦不吐
+    offset: 5
+    range: 1
+right:
+  word_uuid: b1d3eba3-596f-4bbf-a59f-576f67d49284
+  text: 茹
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 03faafda-7104-4582-91db-e95a84c8b0f1
+    line_id: KR1e0001_tls_006-206a.9
+    textline: 柔亦不茹
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

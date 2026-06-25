@@ -1,0 +1,35 @@
+uuid: 3d1c7da6-d03b-43fb-b782-048dfdf84227
+type: word-relation
+group_uuid: 3d1c7da6-d03b-43fb-b782-048dfdf84227
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 98af3af1-0cfc-43cc-8db0-172d746b650f
+  text: 急
+  concept: EAGER
+  concept_uuid: 8f72f52d-7463-48e4-95f6-794104c37c9a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 35a3d5ff-4117-4960-afcc-7e9ec8d20182
+    line_id: KR3j0009_tls_002-20a.25
+    textline: 邪利之急
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4dee7250-aee8-41a7-a648-675d92879192
+  text: 緩
+  concept: DELAY
+  concept_uuid: f67821db-0d71-4474-93db-add0deb8d69a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d75fcfe8-a9ed-40f8-9e5d-c6e39f803208
+    line_id: KR3j0009_tls_002-20a.24
+    textline: 德義之緩
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

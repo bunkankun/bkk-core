@@ -1,0 +1,23 @@
+uuid: 953de332-935f-4f36-a7f0-042cc57e4324
+type: word-relation
+group_uuid: 1b08d20d-5651-565c-b10d-ebadee50d092
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7e734ece-27db-4bda-b7fd-d265b11d91f3
+  text: 薄
+  concept: THIN
+  concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+right:
+  word_uuid: e2528583-3c4e-4ecb-9532-fa6ed540f5e1
+  text: 微
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+  scope: '26'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

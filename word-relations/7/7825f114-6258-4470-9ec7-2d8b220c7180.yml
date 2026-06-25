@@ -1,0 +1,30 @@
+uuid: 7825f114-6258-4470-9ec7-2d8b220c7180
+type: word-relation
+group_uuid: 88b083da-1ef1-4a60-b7d3-bd584d0b4912
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5feeadc4-2b57-4681-a10b-57aeb25d3f6a
+  text: 怠
+  concept: LAZY
+  concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  attestation:
+    text_title: 孟子
+    line_uuid: fefb5c3c-1505-4bd5-ab02-6cf957fbd92e
+    textline: 及是時般樂怠敖
+    offset: 6
+    range: 1
+right:
+  word_uuid: 48f9065e-d1fb-4c0f-ae90-65c8978c9fcf
+  text: 敖
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 孟子
+    line_uuid: fefb5c3c-1505-4bd5-ab02-6cf957fbd92e
+    textline: 及是時般樂怠敖
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: d30474cd-66c8-4c82-b0c2-eb0ea17a3722
+type: word-relation
+group_uuid: d30474cd-66c8-4c82-b0c2-eb0ea17a3722
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 毛詩
+    line_uuid: 66380d39-b6c6-40a9-a531-107bdc51daab
+    line_id: KR1c0001_tls_019-92a.5
+    textline: 不見其身
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9b1d6fdf-486f-4f7a-8bca-44d82006dfb6
+  text: 聲
+  concept: VOICE
+  concept_uuid: f34baeb7-45e5-4856-a7c0-25d040988c61
+  attestation:
+    text_title: 毛詩
+    line_uuid: e2b6b9c2-cc3b-4730-9dc9-58473454e1f3
+    line_id: KR1c0001_tls_019-92a.4
+    textline: 我聞其聲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

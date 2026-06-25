@@ -1,0 +1,32 @@
+uuid: c33da92f-0a3b-47fd-a067-0423d83eeab4
+type: word-relation
+group_uuid: c33da92f-0a3b-47fd-a067-0423d83eeab4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f68196da-49a2-42ed-8544-37d0d6403170
+    line_id: KR3j0009_tls_004-11a.22
+    textline: 若此則名號顯矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 965b2aa3-1979-40d1-9af2-ffbbdc481aca
+  text: 號
+  concept: NAME
+  concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f68196da-49a2-42ed-8544-37d0d6403170
+    line_id: KR3j0009_tls_004-11a.22
+    textline: 若此則名號顯矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

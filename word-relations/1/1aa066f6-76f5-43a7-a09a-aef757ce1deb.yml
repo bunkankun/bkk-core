@@ -1,0 +1,32 @@
+uuid: 1aa066f6-76f5-43a7-a09a-aef757ce1deb
+type: word-relation
+group_uuid: 1aa066f6-76f5-43a7-a09a-aef757ce1deb
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ebfc8325-7459-49f1-a5c9-bfb38f6773f5
+  text: 爭
+  concept: COMPETE
+  concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+  attestation:
+    text_title: 論衡
+    line_uuid: 3030b947-b6b1-4f68-9516-d4ead9c03f7d
+    line_id: KR3j0080_tls_002-4a.25
+    textline: 進者爭位
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 論衡
+    line_uuid: 3030b947-b6b1-4f68-9516-d4ead9c03f7d
+    line_id: KR3j0080_tls_002-4a.25
+    textline: 進者爭位
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

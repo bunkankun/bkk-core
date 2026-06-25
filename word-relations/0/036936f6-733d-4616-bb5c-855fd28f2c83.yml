@@ -1,0 +1,33 @@
+uuid: 036936f6-733d-4616-bb5c-855fd28f2c83
+type: word-relation
+group_uuid: 036936f6-733d-4616-bb5c-855fd28f2c83
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 972af1bd-15e5-4c4e-8ed9-525d929b3bc0
+  text: 歡
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a63890b4-93a8-4037-9341-834dcae71fb9
+    textline: 君臣父子長少之所歡欣而說也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 822316a7-b473-4a45-a9bf-8ec152d395e3
+  text: 欣
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a63890b4-93a8-4037-9341-834dcae71fb9
+    textline: 君臣父子長少之所歡欣而說也
+    offset: 10
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

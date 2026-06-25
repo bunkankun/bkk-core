@@ -1,0 +1,18 @@
+uuid: bdd62604-3d80-4c59-b3dc-2af882acf798
+type: word-relation
+group_uuid: 409c9d3b-8a85-5f69-aac3-9eea331a9e57
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cd37beed-d4f3-4b7a-ae26-4467255d0355
+  text: 近
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+right:
+  word_uuid: ab057f53-73f1-4cf1-9bad-02ee06916aff
+  text: 疏
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+source:
+  source_file: word-relations.xml

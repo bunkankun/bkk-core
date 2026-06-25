@@ -1,0 +1,32 @@
+uuid: 9182a7cb-18a5-43a4-a92c-c077967a6cf1
+type: word-relation
+group_uuid: 9182a7cb-18a5-43a4-a92c-c077967a6cf1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: df0833ed-a86b-4610-ae6a-67dbbade12d6
+  text: 數
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8ba4e787-7ba0-40e1-a0c9-f3216de8b9eb
+    line_id: KR3c0005_tls_014-64a.4
+    textline: 察於治強之數
+    offset: 6
+    range: 1
+right:
+  word_uuid: 495686e2-663d-4f3e-ba5a-e5ade2a38902
+  text: 術
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 057605dd-4bfa-49de-8e33-4bec6d036314
+    line_id: KR3c0005_tls_014-64a.3
+    textline: 皆明於霸王之術
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c597dfef-4d31-47e7-a68c-50984359858b
+type: word-relation
+group_uuid: c597dfef-4d31-47e7-a68c-50984359858b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ec9982bd-28df-4617-bcc9-c80dfe3f3611
+  text: 入
+  concept: ENTER
+  concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+  attestation:
+    text_title: 論語
+    line_uuid: be44861d-65b6-491a-8d16-99598eec7b7d
+    line_id: KR1h0004_tls_008-13a.5
+    textline: 危邦不入
+    offset: 4
+    range: 1
+right:
+  word_uuid: ce552edd-99ff-4918-a80a-4ce698dedc45
+  text: 居
+  concept: DWELL
+  concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+  attestation:
+    text_title: 論語
+    line_uuid: 574e5698-0b5d-495c-ade6-f54d0515b31b
+    line_id: KR1h0004_tls_008-13a.6
+    textline: 亂邦不居
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 07442698-a9f1-4055-87b4-b7ff2ea19336
+type: word-relation
+group_uuid: 085b13e7-1f1a-5e09-b2ad-c24a275ebd3d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8b91280b-eb76-4a81-8d71-9b34ec87ccf7
+  text: 考考
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+right:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

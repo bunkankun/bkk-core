@@ -1,0 +1,21 @@
+uuid: fc2cef71-1cd4-462d-832b-d46c19b9cc83
+type: word-relation
+group_uuid: 916650ff-c99c-5649-b766-b4f3e495b784
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f3a07b3d-1dc0-4fe4-83c1-d6a731ff5b4c
+  text: 旱
+  concept: DROUGHT
+  concept_uuid: eadecdab-71e5-4d3f-b2e5-481f0479edb3
+right:
+  word_uuid: 29d5b540-891c-4373-bb8f-bd6b37620030
+  text: 湛
+  concept: FLOOD
+  concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

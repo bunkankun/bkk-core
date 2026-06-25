@@ -1,0 +1,32 @@
+uuid: 852d1e90-c168-4c18-9755-f2a95d3d13be
+type: word-relation
+group_uuid: 852d1e90-c168-4c18-9755-f2a95d3d13be
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fca35c09-b24e-4c98-ab35-6f00c15ef367
+  text: 父母
+  concept: PARENT
+  concept_uuid: c6d90627-45f2-4e7e-888b-7bfb8a894b96
+  attestation:
+    text_title: 孟子
+    line_uuid: e0cb0c50-a5b3-4c95-b5ac-8ce4fd5cf1da
+    line_id: KR1h0001_tls_002-49a.1
+    textline: 然後可以為民父母
+    offset: 7
+    range: 2
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 孟子
+    line_uuid: e0cb0c50-a5b3-4c95-b5ac-8ce4fd5cf1da
+    line_id: KR1h0001_tls_002-49a.1
+    textline: 然後可以為民父母
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

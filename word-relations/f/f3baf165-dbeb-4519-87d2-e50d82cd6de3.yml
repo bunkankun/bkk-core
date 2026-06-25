@@ -1,0 +1,32 @@
+uuid: f3baf165-dbeb-4519-87d2-e50d82cd6de3
+type: word-relation
+group_uuid: f3baf165-dbeb-4519-87d2-e50d82cd6de3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 論語
+    line_uuid: 4dac718c-1a99-4a57-8667-a592057d858e
+    line_id: KR1h0004_tls_008-14a.3
+    textline: 「不在其位
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論語
+    line_uuid: 33c6586c-d936-443f-ae47-0fbd3e238cc3
+    line_id: KR1h0004_tls_008-15a.1
+    textline: 不謀其政
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

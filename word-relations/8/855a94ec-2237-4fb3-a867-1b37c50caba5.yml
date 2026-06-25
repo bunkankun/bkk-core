@@ -1,0 +1,32 @@
+uuid: 855a94ec-2237-4fb3-a867-1b37c50caba5
+type: word-relation
+group_uuid: 855a94ec-2237-4fb3-a867-1b37c50caba5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 102479b8-4bac-4401-a631-9e6ef3e55de5
+  text: 執
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: fc0ef9b8-1154-4a30-978e-5c68e9b72305
+    line_id: KR1e0001_tls_005-247a.34
+    textline: 貳而執之
+    offset: 3
+    range: 1
+right:
+  word_uuid: db91e447-3737-4002-a9b5-f57b18944a6d
+  text: 舍
+  concept: RELEASE
+  concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 2f8fefad-6e13-4847-99fb-988c0c5144c5
+    line_id: KR1e0001_tls_001-205a.11
+    textline: 服而舍之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

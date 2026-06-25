@@ -1,0 +1,32 @@
+uuid: 69b72a50-b9c8-4835-b72a-50b9c8783503
+type: word-relation
+group_uuid: e8bfda3c-ecf2-5771-8ecc-957588501c04
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2df65096-3254-4da3-8118-f0d550303ea3
+  text: 鑒
+  concept: MIRROR
+  concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_013-1a.25
+    textline: 天地之鑒也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 35bfe6d0-1944-4e94-a487-4316fa1339fa
+  text: 鏡
+  concept: MIRROR
+  concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_013-1a.26
+    textline: 萬物之鏡也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-11T21:08:20.673+09:00'

@@ -1,0 +1,21 @@
+uuid: 037c6ba5-0ee8-4f86-a0ed-52724a90da1a
+type: word-relation
+group_uuid: b097791b-ab3b-50c4-8fdd-40ab8f851431
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: eccc27a7-cec3-4494-9659-3130e9187413
+  text: 變
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+right:
+  word_uuid: 8bc96cdd-8a3a-4f89-bed5-375f8f2be3a9
+  text: 瑞
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

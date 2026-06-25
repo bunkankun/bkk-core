@@ -1,0 +1,32 @@
+uuid: d8363d05-36de-452d-b63d-0536de952d1b
+type: word-relation
+group_uuid: 5bf0469c-3b71-57ae-8938-bcbdc20463e2
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3619ed5c-8ab9-4357-8b37-edc6f3278de2
+  text: 朝
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_004-8a.3
+    textline: 朝聞道
+    offset: 2
+    range: 1
+right:
+  word_uuid: cebfb215-a04d-4a3c-bde2-1b99f016ece3
+  text: 夕
+  concept: EVENING
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_004-9a.1
+    textline: 夕死可矣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-10-16T22:02:08.183+09:00'

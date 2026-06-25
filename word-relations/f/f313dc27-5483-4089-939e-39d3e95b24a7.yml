@@ -1,0 +1,32 @@
+uuid: f313dc27-5483-4089-939e-39d3e95b24a7
+type: word-relation
+group_uuid: 50c5d122-bdbe-43ce-b2f8-b1d4a25b981e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 50dddd6e-df69-40b3-88e1-3dd3f6254918
+  text: 詐
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9c97391d-c402-4a7d-b288-67e84a530d88
+    line_id: KR3c0005_tls_006-9a.5
+    textline: 則主不可欺以詐偽
+    offset: 7
+    range: 1
+right:
+  word_uuid: f59637f7-01b6-439a-bc11-386f0bb0f760
+  text: 偽
+  concept: PRETEND
+  concept_uuid: 9baa8575-80d3-41c2-9f02-7524fcadf7a4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9c97391d-c402-4a7d-b288-67e84a530d88
+    line_id: KR3c0005_tls_006-9a.5
+    textline: 則主不可欺以詐偽
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

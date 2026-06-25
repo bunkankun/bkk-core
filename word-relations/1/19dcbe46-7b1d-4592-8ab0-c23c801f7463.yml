@@ -1,0 +1,32 @@
+uuid: 19dcbe46-7b1d-4592-8ab0-c23c801f7463
+type: word-relation
+group_uuid: ec46ea97-11c9-4554-909b-c0580150f1ca
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1fe70274-ce84-4009-a705-67e76239fc4d
+  text: 量
+  concept: MEASURE
+  concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6bc821b4-cb6c-47b1-82cd-d10337cbe01e
+    line_id: KR3c0005_tls_010-121a.2
+    textline: 奚謂內不量力
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6bc821b4-cb6c-47b1-82cd-d10337cbe01e
+    line_id: KR3c0005_tls_010-121a.2
+    textline: 奚謂內不量力
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

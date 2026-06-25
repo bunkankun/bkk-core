@@ -1,0 +1,32 @@
+uuid: 73d34171-6b8d-4e82-9772-cc43b0bf4025
+type: word-relation
+group_uuid: 73d34171-6b8d-4e82-9772-cc43b0bf4025
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ea230cab-b68f-4c1d-8fc9-e909c0e2afce
+  text: 貞
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 041ab7ed-a4fc-4ccc-9fb0-58f7b4b5acc5
+    line_id: KR3c0005_tls_014-10a.3
+    textline: 知貞信之不可以得安利也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 041ab7ed-a4fc-4ccc-9fb0-58f7b4b5acc5
+    line_id: KR3c0005_tls_014-10a.3
+    textline: 知貞信之不可以得安利也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

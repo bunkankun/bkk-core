@@ -1,0 +1,21 @@
+uuid: 84692d90-7e1b-487e-8ff6-eb9afc6f1d39
+type: word-relation
+group_uuid: db19e550-3900-5b48-9a8d-1491ace53e06
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1a04eb28-a3cb-4a6e-9428-d7f296479957
+  text: 均鈞
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+right:
+  word_uuid: 7d2ecef6-e77f-4ea4-a661-8035c2656d6f
+  text: 敵
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: 9a248029-c004-4f73-b58c-a1f447b1299c
+type: word-relation
+group_uuid: 9a248029-c004-4f73-b58c-a1f447b1299c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b6783827-8fd8-4ff1-b107-3279e8a693f0
+  text: 更
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: a63bbf8e-cda3-4bc0-9b04-1a7ea2c02acd
+    line_id: KR3c0005_tls_018-19a.10
+    textline: 郭偃毋更晉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 71c89754-a9bd-4f92-953c-1eb95982f282
+    line_id: KR3c0005_tls_018-19a.9
+    textline: 管仲毋易齊
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

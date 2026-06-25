@@ -1,0 +1,32 @@
+uuid: 57c95ffc-ca20-4c48-97e7-0c57a311cfe4
+type: word-relation
+group_uuid: 57c95ffc-ca20-4c48-97e7-0c57a311cfe4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 200715da-bc84-4540-a9d8-585b5a0560ee
+  text: 明主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 管子
+    line_uuid: 9c6a8c6a-bbda-406b-bdf9-dfc6515ff163
+    line_id: KR3c0001_tls_001-199a.4
+    textline: 明主與聖人謀
+    offset: 1
+    range: 2
+right:
+  word_uuid: 5921aaee-7f6b-42c1-8895-05b874bb38b7
+  text: 亂主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 管子
+    line_uuid: 318621ff-7d9b-4ceb-ab14-f87afcecd941
+    line_id: KR3c0001_tls_001-199a.8
+    textline: 亂主與不肖者謀
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

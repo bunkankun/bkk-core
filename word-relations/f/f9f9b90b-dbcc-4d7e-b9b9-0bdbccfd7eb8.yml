@@ -1,0 +1,32 @@
+uuid: f9f9b90b-dbcc-4d7e-b9b9-0bdbccfd7eb8
+type: word-relation
+group_uuid: e0d61e8b-2095-51c8-8897-06f8a25db60b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_020-39a.4
+    textline: 今重法而棄仁義
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9623a74b-1aa5-4a19-b945-930005e9490e
+  text: 仁義
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_020-39a.4
+    textline: 今重法而棄仁義
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T22:52:46.502+09:00'

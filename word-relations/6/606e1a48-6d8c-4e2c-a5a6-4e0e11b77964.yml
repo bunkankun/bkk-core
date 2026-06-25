@@ -1,0 +1,31 @@
+uuid: 606e1a48-6d8c-4e2c-a5a6-4e0e11b77964
+type: word-relation
+group_uuid: 606e1a48-6d8c-4e2c-a5a6-4e0e11b77964
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1ab7fb60-2c68-49c2-8d36-863df55e5d60
+  text: 響
+  concept: SOUND
+  concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3588ebbd-2984-4307-b603-ca1922ffc362
+    line_id: KR3j0009_tls_003-20a.5
+    textline: 故善響者不於響於聲
+    range: 1
+right:
+  word_uuid: b0fd1b7f-b0a6-4967-a0e0-8d2d50d2db74
+  text: 聲
+  concept: SOUND
+  concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3588ebbd-2984-4307-b603-ca1922ffc362
+    line_id: KR3j0009_tls_003-20a.5
+    textline: 故善響者不於響於聲
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

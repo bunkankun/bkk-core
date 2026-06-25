@@ -1,0 +1,32 @@
+uuid: 0da14e4a-ceb6-4e7c-a14e-4aceb66e7cfb
+type: word-relation
+group_uuid: 3b878a54-a42e-5319-b376-d8f91f9f6410
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c50ea4e-6039-4dd8-be09-c6c2511b689d
+  text: 天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.1
+    textline: 有天有命
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2f14ac18-a9e4-4a44-bb2a-afa8aa0d733d
+  text: 命
+  concept: DECREE
+  concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.1
+    textline: 有天有命
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T20:08:29.85+09:00'

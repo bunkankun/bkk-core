@@ -1,0 +1,32 @@
+uuid: 71ba3e4c-2b8e-4500-9c13-798e6af40466
+type: word-relation
+group_uuid: d2ac2551-0771-4be3-a606-8a9740a384f8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1dc8a066-eb41-4f68-9262-d453f28b1927
+  text: 始
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 祖堂集
+    line_uuid: dc1319ef-6180-4ff4-b1ae-fbf97d97db6b
+    line_id: KR6q0002_Yan_003-1144a.56
+    textline: 無始無終
+    offset: 2
+    range: 1
+right:
+  word_uuid: 208937a4-ce94-4ccf-9389-2390cf4d1d1d
+  text: 終
+  concept: END
+  concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+  attestation:
+    text_title: 祖堂集
+    line_uuid: dc1319ef-6180-4ff4-b1ae-fbf97d97db6b
+    line_id: KR6q0002_Yan_003-1144a.56
+    textline: 無始無終
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

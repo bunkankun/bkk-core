@@ -1,0 +1,32 @@
+uuid: 2bee4bae-e482-484b-ad6e-ae5b1d45c0c4
+type: word-relation
+group_uuid: 2bee4bae-e482-484b-ad6e-ae5b1d45c0c4
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8ab91c33-abec-4ac3-a9b0-52a2bc854210
+  text: 上
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 論語
+    line_uuid: deca0d25-2ea8-4522-96ec-1fe239316f8a
+    line_id: KR1h0004_tls_003-29a.3
+    textline: 「居上不寬
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9042f27d-d9a6-4170-973f-97c67f06e650
+  text: 寬
+  concept: FORGIVE
+  concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+  attestation:
+    text_title: 論語
+    line_uuid: deca0d25-2ea8-4522-96ec-1fe239316f8a
+    line_id: KR1h0004_tls_003-29a.3
+    textline: 「居上不寬
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

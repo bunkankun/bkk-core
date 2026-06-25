@@ -1,0 +1,32 @@
+uuid: 2e43e393-dac3-40bb-a6cd-245d9e42848f
+type: word-relation
+group_uuid: 0e0e4ffa-51b2-47b5-ac1f-333e720d9c44
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+  attestation:
+    text_title: 韓非子
+    line_uuid: bb38b038-2837-4a18-b511-578274f1721d
+    line_id: KR3c0005_tls_006-7a.6
+    textline: 亂弱甚矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 韓非子
+    line_uuid: bb38b038-2837-4a18-b511-578274f1721d
+    line_id: KR3c0005_tls_006-7a.6
+    textline: 亂弱甚矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

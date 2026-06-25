@@ -1,0 +1,35 @@
+uuid: 9e44139d-bd84-434b-a48a-445b3d9fd600
+type: word-relation
+group_uuid: 9e44139d-bd84-434b-a48a-445b3d9fd600
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7c93dd90-2c04-4599-8d99-c7f4727d4e3b
+  text: 水
+  concept: FLOOD
+  concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+  attestation:
+    text_title: 禮記
+    line_uuid: 97c94090-4b18-49c6-8f77-c8a7a6bc7961
+    line_id: KR1d0052_tls_024-3a.13
+    textline: 祭水旱也
+    offset: 2
+    range: 1
+right:
+  word_uuid: f3a07b3d-1dc0-4fe4-83c1-d6a731ff5b4c
+  text: 旱
+  concept: DROUGHT
+  concept_uuid: eadecdab-71e5-4d3f-b2e5-481f0479edb3
+  attestation:
+    text_title: 禮記
+    line_uuid: 97c94090-4b18-49c6-8f77-c8a7a6bc7961
+    line_id: KR1d0052_tls_024-3a.13
+    textline: 祭水旱也
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

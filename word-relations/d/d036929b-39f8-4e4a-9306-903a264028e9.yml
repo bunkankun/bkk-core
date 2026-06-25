@@ -1,0 +1,32 @@
+uuid: d036929b-39f8-4e4a-9306-903a264028e9
+type: word-relation
+group_uuid: d036929b-39f8-4e4a-9306-903a264028e9
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33362c10-bce6-4ade-8535-3abe164a417a
+    line_id: KR3c0005_tls_010-93a.6
+    textline: 敵國之憂也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33362c10-bce6-4ade-8535-3abe164a417a
+    line_id: KR3c0005_tls_010-93a.6
+    textline: 敵國之憂也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

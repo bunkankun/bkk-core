@@ -1,0 +1,34 @@
+uuid: 8aa17a46-72ea-4c7c-98c3-2a839a79cb78
+type: word-relation
+group_uuid: 8aa17a46-72ea-4c7c-98c3-2a839a79cb78
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8ad7111f-9988-443d-bf27-f204d7ca344b
+  text: 忿
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 論衡
+    line_uuid: 00d72bfe-f0e4-4150-88ca-9ff4b6743eb6
+    textline: 忿則疏遠
+    offset: 1
+    range: 1
+right:
+  word_uuid: 972af1bd-15e5-4c4e-8ed9-525d929b3bc0
+  text: 歡
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 論衡
+    line_uuid: a6fc4276-f08d-4ac1-9a3a-e973641ca85c
+    line_id: KR3j0080_tls_002-4a.18
+    textline: 歡則相親
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: 30e82b92-0bfb-441c-96f2-e0281dce8183
+type: word-relation
+group_uuid: 30e82b92-0bfb-441c-96f2-e0281dce8183
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 61647bd4-dc0e-4f3f-98a0-0d48d11ceae7
+  text: 致
+  concept: SUMMON
+  concept_uuid: 7cf983e2-ea1b-4b39-bfbb-1bd7ec47e91a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dace299c-19fe-4327-a1e5-001b658081b4
+    textline: 桀紂以去之之道致之也
+    offset: 9
+    range: 1
+right:
+  word_uuid: ab89356f-acf0-44d9-92cf-348d081e6e73
+  text: 去
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f8d4d142-8838-43d8-bcdc-67ae08c46a1e
+    line_id: KR3j0009_tls_002-30a.10
+    textline: 以致之之道去之也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

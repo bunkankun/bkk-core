@@ -1,0 +1,30 @@
+uuid: f3800d2e-7b9b-4a75-89a9-73e61e7a616f
+type: word-relation
+group_uuid: f3800d2e-7b9b-4a75-89a9-73e61e7a616f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a0664271-2532-479a-8499-fc7919eda881
+  text: 被
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 65ed8556-d4e6-4bc1-a62c-7a7c8ccc7c1c
+    textline: 萬物皆被其澤得其利
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 65ed8556-d4e6-4bc1-a62c-7a7c8ccc7c1c
+    textline: 萬物皆被其澤得其利
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

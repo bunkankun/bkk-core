@@ -1,0 +1,32 @@
+uuid: 8437f91b-2c93-4291-ad2a-ac8cc3286739
+type: word-relation
+group_uuid: 8437f91b-2c93-4291-ad2a-ac8cc3286739
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 禮記
+    line_uuid: d2062ec2-3469-4c6f-aea9-061cb11bcdab
+    line_id: KR1d0052_tls_003-43a.7
+    textline: 我則有姊之喪故也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 08d38038-e4eb-4f92-94e2-5cdc496a0bfc
+  text: 二三子
+  concept: YOU/PLUR
+  concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+  attestation:
+    text_title: 禮記
+    line_uuid: 74888a6b-7e0d-4faa-a4ec-564d3912594b
+    line_id: KR1d0052_tls_003-44a.1
+    textline: 二三子皆尚左
+    offset: 1
+    range: 3
+source:
+  source_file: word-relations.xml

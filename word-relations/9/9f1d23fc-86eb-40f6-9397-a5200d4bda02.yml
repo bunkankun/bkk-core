@@ -1,0 +1,32 @@
+uuid: 9f1d23fc-86eb-40f6-9397-a5200d4bda02
+type: word-relation
+group_uuid: 9f1d23fc-86eb-40f6-9397-a5200d4bda02
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: eb1ba291-9965-4aa0-8e5b-b7cddca597bf
+  text: 傾
+  concept: OVERTURN
+  concept_uuid: 51ed079c-2675-4502-b206-9dfec4fe64ae
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2208eccf-7493-4796-a4e8-d6a028e0607b
+    line_id: KR3c0005_tls_004-3a.7
+    textline: 以徙其威而傾其國
+    offset: 6
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2208eccf-7493-4796-a4e8-d6a028e0607b
+    line_id: KR3c0005_tls_004-3a.7
+    textline: 以徙其威而傾其國
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

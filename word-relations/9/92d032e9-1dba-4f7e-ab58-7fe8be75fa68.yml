@@ -1,0 +1,32 @@
+uuid: 92d032e9-1dba-4f7e-ab58-7fe8be75fa68
+type: word-relation
+group_uuid: 92d032e9-1dba-4f7e-ab58-7fe8be75fa68
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 論語
+    line_uuid: ad7d4075-1a1f-4eee-ae0d-f150e811adc2
+    line_id: KR1h0004_tls_009-14a.3
+    textline: 「有美玉於斯
+    offset: 4
+    range: 1
+right:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 論語
+    line_uuid: ad7d4075-1a1f-4eee-ae0d-f150e811adc2
+    line_id: KR1h0004_tls_009-14a.3
+    textline: 「有美玉於斯
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

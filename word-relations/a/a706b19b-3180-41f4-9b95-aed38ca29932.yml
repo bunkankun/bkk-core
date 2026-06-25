@@ -1,0 +1,21 @@
+uuid: a706b19b-3180-41f4-9b95-aed38ca29932
+type: word-relation
+group_uuid: da3b3670-8fac-5be9-8418-c48c63c1cc9c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a6a70e6d-c41b-4af3-ae55-b32acda0e24d
+  text: 彼
+  concept: THAT
+  concept_uuid: 28da57be-e713-40d9-bc3d-600e018beb26
+right:
+  word_uuid: 13c109a4-6c71-4bd9-bcbd-e60dc02226d3
+  text: 己
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

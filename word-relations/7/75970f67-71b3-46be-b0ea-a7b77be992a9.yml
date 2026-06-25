@@ -1,0 +1,32 @@
+uuid: 75970f67-71b3-46be-b0ea-a7b77be992a9
+type: word-relation
+group_uuid: ec428b8f-5c14-4465-8857-23bae37f895e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: dc62aa7d-3113-466d-9295-b766d452263f
+    line_id: KR3c0005_tls_006-13a.2
+    textline: 故忠臣危死於非罪
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: dc62aa7d-3113-466d-9295-b766d452263f
+    line_id: KR3c0005_tls_006-13a.2
+    textline: 故忠臣危死於非罪
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

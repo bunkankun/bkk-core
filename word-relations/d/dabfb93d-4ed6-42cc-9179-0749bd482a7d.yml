@@ -1,0 +1,18 @@
+uuid: dabfb93d-4ed6-42cc-9179-0749bd482a7d
+type: word-relation
+group_uuid: 0969d607-6ef9-56dc-aaf8-7c451eb4f8f2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b2f9d8a-059f-4c83-a1b8-3ae0fab27d17
+  text: 過
+  concept: EXCESSIVE
+  concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+right:
+  word_uuid: 5dd3895e-7990-4450-9849-9f5771b462e9
+  text: 不若
+  concept: INFERIOR
+  concept_uuid: 6557e5a6-3bf5-4df5-b39a-e80ffa163024
+source:
+  source_file: word-relations.xml

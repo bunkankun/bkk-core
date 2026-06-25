@@ -1,0 +1,21 @@
+uuid: ac8fc753-4ce6-48de-855f-64309c838a5a
+type: word-relation
+group_uuid: 2c500469-764d-57fa-ba81-9376c9c6b9bf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7c9e276a-a33b-45af-8495-44fa9b60a141
+  text: 伏
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+right:
+  word_uuid: 4946969a-c740-4171-bcb4-b3cf5015c2fa
+  text: 匿
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

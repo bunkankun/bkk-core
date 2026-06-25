@@ -1,0 +1,35 @@
+uuid: 2479c528-4df5-4cdb-906a-c8d82535846c
+type: word-relation
+group_uuid: 1958d58a-b2c4-4710-9e0d-3a02f000c7e3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 904b48a9-cb41-411d-a699-12766bc1e0e5
+    line_id: KR3c0005_tls_014-61a.8
+    textline: 行重罰嚴誅
+    offset: 1
+    range: 1
+right:
+  word_uuid: a12b1de7-2b15-4e29-8aa0-349d042394e0
+  text: 操
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 40c87444-6df3-40ab-81b9-14f76ad33247
+    line_id: KR3c0005_tls_014-61a.7
+    textline: 操法術之數
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

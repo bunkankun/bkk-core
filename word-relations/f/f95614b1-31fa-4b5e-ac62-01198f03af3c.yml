@@ -1,0 +1,32 @@
+uuid: f95614b1-31fa-4b5e-ac62-01198f03af3c
+type: word-relation
+group_uuid: f95614b1-31fa-4b5e-ac62-01198f03af3c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3ae85c3c-1e62-42ea-b9f7-7f3250aa771f
+  text: 冕
+  concept: OFFICIAL HAT
+  concept_uuid: 3a73f7de-6879-4f8b-ac62-9d71cecd9cd4
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f6cb1d3e-b5a5-44da-9a0e-3811fa881e51
+    line_id: KR1e0001_tls_009-744a.7
+    textline: 公與公冶冕服
+    offset: 5
+    range: 1
+right:
+  word_uuid: bb8ec795-00f5-44cb-bb88-fece0440533e
+  text: 服
+  concept: COURT DRESS
+  concept_uuid: fa1089c7-061e-4023-afaa-2b57eea4a7bf
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f6cb1d3e-b5a5-44da-9a0e-3811fa881e51
+    line_id: KR1e0001_tls_009-744a.7
+    textline: 公與公冶冕服
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

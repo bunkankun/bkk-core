@@ -1,0 +1,32 @@
+uuid: a23b0dd1-b09e-441f-a7d6-6f40b8466144
+type: word-relation
+group_uuid: b892bf2b-86a3-4819-bbdd-f7eb7da54e8d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 35bfe6d0-1944-4e94-a487-4316fa1339fa
+  text: 鏡
+  concept: MIRROR
+  concept_uuid: fd533a71-5131-4425-ae11-143960c09b44
+  attestation:
+    text_title: 百喻經
+    line_uuid: 1bdea0fc-63aa-4cd6-9067-d38bc158e0ac
+    line_id: KR6b0066_T_002-0548b.20
+    textline: 有一明鏡
+    offset: 4
+    range: 1
+right:
+  word_uuid: ffc1107d-020a-447b-bdb2-afa492522d78
+  text: 明
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+  attestation:
+    text_title: 百喻經
+    line_uuid: 1bdea0fc-63aa-4cd6-9067-d38bc158e0ac
+    line_id: KR6b0066_T_002-0548b.20
+    textline: 有一明鏡
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

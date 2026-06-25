@@ -1,0 +1,32 @@
+uuid: ed881c0b-066b-417e-808c-b6ed21260182
+type: word-relation
+group_uuid: a879c1cd-b791-4eb2-8cd6-ec7fc949355a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e8d66687-6488-4f4a-afd9-58e0ace04ab5
+  text: 至
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+  attestation:
+    text_title: 論衡
+    line_uuid: 4f8b06d5-8774-4621-8591-115b43864514
+    line_id: KR3j0080_tls_006-4a.13
+    textline: 戮力操行而吉福至
+    offset: 8
+    range: 1
+right:
+  word_uuid: a9854e7d-9c1f-41dc-959f-65825b344e76
+  text: 到
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+  attestation:
+    text_title: 論衡
+    line_uuid: 24b3e956-eb23-459d-b3de-6692b5e15642
+    line_id: KR3j0080_tls_006-4a.14
+    textline: 縱情施欲而凶禍到
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 0dada484-17e1-48f2-ada4-8417e128f20c
+type: word-relation
+group_uuid: 785eda15-5d76-5bc8-b9e6-a4d6a05d7caa
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4eb17d18-75c7-473e-b17d-1875c7873e1d
+  text: 鏑銜
+  concept: BRIDLE
+  concept_uuid: b9e6c405-60f5-431f-b916-b8fb48c11036
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.10
+    textline: 是猶无鏑銜策錣而御馯馬也
+    offset: 4
+    range: 2
+right:
+  word_uuid: 03569179-2048-4464-9691-79204844640b
+  text: 策錣
+  concept: WHIP
+  concept_uuid: 671b14e2-b38f-451a-ad00-c1a0acde9345
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.10
+    textline: 是猶无鏑銜策錣而御馯馬也
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T01:57:18.878+09:00'

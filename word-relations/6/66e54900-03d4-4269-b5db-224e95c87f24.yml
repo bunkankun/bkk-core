@@ -1,0 +1,32 @@
+uuid: 66e54900-03d4-4269-b5db-224e95c87f24
+type: word-relation
+group_uuid: 66e54900-03d4-4269-b5db-224e95c87f24
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 26748e98-af5a-487f-81ca-b6fea2eed4c8
+  text: 聖賢
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論衡
+    line_uuid: fb6f04d8-b9b2-47e9-a71c-728a629a6cd7
+    line_id: KR3j0080_tls_003-1a.8
+    textline: 聖賢及下愚
+    offset: 1
+    range: 2
+right:
+  word_uuid: 82f0bdd5-69ee-476c-a3d9-82c534f1c5b2
+  text: 下愚
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論衡
+    line_uuid: fb6f04d8-b9b2-47e9-a71c-728a629a6cd7
+    line_id: KR3j0080_tls_003-1a.8
+    textline: 聖賢及下愚
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

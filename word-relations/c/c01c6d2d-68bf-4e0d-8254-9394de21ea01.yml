@@ -1,0 +1,32 @@
+uuid: c01c6d2d-68bf-4e0d-8254-9394de21ea01
+type: word-relation
+group_uuid: c01c6d2d-68bf-4e0d-8254-9394de21ea01
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 373a9366-87bb-400b-a235-cc3fd21fbb14
+  text: 殫
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 33f741d8-b5fa-4515-9f1e-60c6f31741ac
+    line_id: KR3j0009_tls_014-13a.34
+    textline: 相為殫智竭力
+    offset: 3
+    range: 1
+right:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 33f741d8-b5fa-4515-9f1e-60c6f31741ac
+    line_id: KR3j0009_tls_014-13a.34
+    textline: 相為殫智竭力
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

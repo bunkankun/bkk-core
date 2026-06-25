@@ -1,0 +1,21 @@
+uuid: b8107bba-3493-41d8-83c9-ff0c48e13c0c
+type: word-relation
+group_uuid: 342630ef-e247-58f8-8e89-d5ac179b3e71
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 85561811-c3e7-462f-9955-a174bfa6f8fd
+  text: 發
+  concept: LEAK
+  concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+right:
+  word_uuid: 5ccffb44-3605-49c0-8c9d-cf216fe228d5
+  text: 泄
+  concept: LEAK
+  concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

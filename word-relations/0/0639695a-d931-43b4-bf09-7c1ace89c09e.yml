@@ -1,0 +1,32 @@
+uuid: 0639695a-d931-43b4-bf09-7c1ace89c09e
+type: word-relation
+group_uuid: 0639695a-d931-43b4-bf09-7c1ace89c09e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d23622c3-b446-4d19-a2ae-abc3e705a1ac
+  text: 先生
+  concept: TEACHER
+  concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+  attestation:
+    text_title: 管子
+    line_uuid: 5146e4e0-cc87-457a-be3f-45fc9bf7ffe7
+    line_id: KR3c0001_tls_019-94a.2
+    textline: 先生將息
+    offset: 1
+    range: 2
+right:
+  word_uuid: 41d3913e-905e-4deb-aeba-4ab0cd624d3e
+  text: 弟子
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+  attestation:
+    text_title: 管子
+    line_uuid: 32b8b1b7-ecbd-47d6-a036-7a61db7a9d2f
+    line_id: KR3c0001_tls_019-94a.3
+    textline: 弟子皆起
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

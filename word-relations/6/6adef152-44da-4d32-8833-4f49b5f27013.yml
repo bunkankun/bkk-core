@@ -1,0 +1,32 @@
+uuid: 6adef152-44da-4d32-8833-4f49b5f27013
+type: word-relation
+group_uuid: 6adef152-44da-4d32-8833-4f49b5f27013
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 017117aa-a19d-44d6-a7de-9cc58fdf718e
+  text: 賂
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 史記
+    line_uuid: f9798fc7-547f-45df-8c3b-29e139ec4a51
+    line_id: KR2a0007_tls_054-2a.16
+    textline: 漢之賂遺王財物不可勝言
+    offset: 3
+    range: 1
+right:
+  word_uuid: 937c95d5-456b-4708-8962-8fa3b6003f28
+  text: 遺
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 史記
+    line_uuid: f9798fc7-547f-45df-8c3b-29e139ec4a51
+    line_id: KR2a0007_tls_054-2a.16
+    textline: 漢之賂遺王財物不可勝言
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

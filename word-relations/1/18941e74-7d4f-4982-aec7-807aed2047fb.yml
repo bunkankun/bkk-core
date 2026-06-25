@@ -1,0 +1,32 @@
+uuid: 18941e74-7d4f-4982-aec7-807aed2047fb
+type: word-relation
+group_uuid: dd39dbc3-370d-4665-a635-317e0f5d11f1
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: c3843f26-5b64-422a-98cd-9e9589221db6
+    line_id: KR3c0005_tls_002-30a.9
+    textline: 則雖欲察賤臣愚忠之計
+    offset: 7
+    range: 1
+right:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: c3843f26-5b64-422a-98cd-9e9589221db6
+    line_id: KR3c0005_tls_002-30a.9
+    textline: 則雖欲察賤臣愚忠之計
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

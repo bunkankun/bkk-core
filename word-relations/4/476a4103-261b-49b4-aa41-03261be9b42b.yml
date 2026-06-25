@@ -1,0 +1,32 @@
+uuid: 476a4103-261b-49b4-aa41-03261be9b42b
+type: word-relation
+group_uuid: 44a5050a-9f01-5bf2-bf3b-47ece971b2de
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: be85cd1e-586b-48b3-85cd-1e586b48b3e7
+  text: 天心
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-23a.86
+    textline: 復取中古人所案行得天心者書策文
+    offset: 10
+    range: 2
+right:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-23a.87
+    textline: 復取下古人所思務行得天意而長自全者文書
+    offset: 11
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-19T17:09:26.527+09:00'

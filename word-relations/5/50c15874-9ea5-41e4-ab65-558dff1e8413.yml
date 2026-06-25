@@ -1,0 +1,32 @@
+uuid: 50c15874-9ea5-41e4-ab65-558dff1e8413
+type: word-relation
+group_uuid: 50c15874-9ea5-41e4-ab65-558dff1e8413
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: efa84a97-1b41-4b33-ab18-1067cd5c671b
+  text: 俯
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 史記
+    line_uuid: 64e6ec6d-d527-4864-89b0-2865874d3bb6
+    line_id: KR2a0001_tls_103-3a.28
+    textline: 必稽首俯伏而食之
+    offset: 4
+    range: 1
+right:
+  word_uuid: d4929991-8a4d-4f5b-8f88-e3b227a8300c
+  text: 伏
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 史記
+    line_uuid: 64e6ec6d-d527-4864-89b0-2865874d3bb6
+    line_id: KR2a0001_tls_103-3a.28
+    textline: 必稽首俯伏而食之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

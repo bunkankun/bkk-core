@@ -1,0 +1,32 @@
+uuid: 3c7ad592-2e7b-4e24-8f9e-f2d24325931a
+type: word-relation
+group_uuid: 3c7ad592-2e7b-4e24-8f9e-f2d24325931a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0593407-e82d-45d2-9eef-c3fd134ad1a7
+  text: 顏
+  concept: COLOUR
+  concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 85dfccf3-6a71-4018-8e81-24ef92e52c4a
+    line_id: KR3j0009_tls_004-18a.32
+    textline: 和顏色
+    offset: 2
+    range: 1
+right:
+  word_uuid: a4ce10eb-dd81-4f5d-bb0e-b026ae95513f
+  text: 色
+  concept: COLOUR
+  concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 85dfccf3-6a71-4018-8e81-24ef92e52c4a
+    line_id: KR3j0009_tls_004-18a.32
+    textline: 和顏色
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

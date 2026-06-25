@@ -1,0 +1,21 @@
+uuid: 1ee888f0-3751-4d49-b8bf-34f1467ebb71
+type: word-relation
+group_uuid: 3871814e-9633-5fc9-bf5b-206aff8a04cb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6ec70f7e-2668-4a4a-b78d-c142f8ab7d4b
+  text: 過
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

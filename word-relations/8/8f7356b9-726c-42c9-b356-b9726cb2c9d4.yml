@@ -1,0 +1,32 @@
+uuid: 8f7356b9-726c-42c9-b356-b9726cb2c9d4
+type: word-relation
+group_uuid: 1d26a162-2689-577d-8473-d35c12e197d6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6934b820-9748-4d93-8cbc-6e6f99621389
+  text: 名
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_002-23a.60
+    textline: 以買名譽於天下
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7ad0e38e-4443-4cf8-a9a1-94cadd3627a0
+  text: 譽
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_002-23a.60
+    textline: 以買名譽於天下
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-03T16:09:56.499+09:00'

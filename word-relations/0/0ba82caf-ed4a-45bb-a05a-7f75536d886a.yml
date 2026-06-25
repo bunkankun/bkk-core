@@ -1,0 +1,21 @@
+uuid: 0ba82caf-ed4a-45bb-a05a-7f75536d886a
+type: word-relation
+group_uuid: ab1bf357-1c3d-54da-bf60-ea8c201af127
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0235770a-993a-4ddf-9567-1d67a96d688f
+  text: 鈍
+  concept: BLUNT
+  concept_uuid: e1867ebb-a782-407a-a31b-f46b0901920b
+right:
+  word_uuid: 8e285e8f-6694-4080-ba9f-7b67f2fb8ecf
+  text: 利
+  concept: SHARP
+  concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

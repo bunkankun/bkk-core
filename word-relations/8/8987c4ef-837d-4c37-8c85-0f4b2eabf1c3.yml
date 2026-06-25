@@ -1,0 +1,32 @@
+uuid: 8987c4ef-837d-4c37-8c85-0f4b2eabf1c3
+type: word-relation
+group_uuid: d7194397-80c4-4d46-96f9-3fe506024361
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ad9c7f5d-655a-4c11-bbd2-689f49086066
+  text: 亡
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 34550e50-6c81-48f8-a714-d50fcc9294ab
+    line_id: KR3c0005_tls_046-20a.8
+    textline: 此亂亡之術也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 34550e50-6c81-48f8-a714-d50fcc9294ab
+    line_id: KR3c0005_tls_046-20a.8
+    textline: 此亂亡之術也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

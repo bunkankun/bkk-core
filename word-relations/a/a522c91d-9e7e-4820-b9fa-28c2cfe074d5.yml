@@ -1,0 +1,32 @@
+uuid: a522c91d-9e7e-4820-b9fa-28c2cfe074d5
+type: word-relation
+group_uuid: a522c91d-9e7e-4820-b9fa-28c2cfe074d5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: fe4d945f-911a-4795-9de4-905850a9ebb8
+    line_id: KR3j0009_tls_014-9a.17
+    textline: 不損其形
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8505013a-9a2c-449c-9f56-3becd4e92d9c
+    line_id: KR3j0009_tls_014-9a.16
+    textline: 不虧其身
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

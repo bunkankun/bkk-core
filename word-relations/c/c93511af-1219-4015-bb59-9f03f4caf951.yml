@@ -1,0 +1,30 @@
+uuid: c93511af-1219-4015-bb59-9f03f4caf951
+type: word-relation
+group_uuid: c93511af-1219-4015-bb59-9f03f4caf951
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9fe39c37-ee77-4713-a36c-a06c6915f5b7
+  text: 純
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 論衡
+    line_uuid: ac2051be-2176-47ac-b41d-e4fb4f75a958
+    textline: 有純有駁
+    offset: 2
+    range: 1
+right:
+  word_uuid: edaea7cb-b021-46fc-82ca-5eb3965bb8f1
+  text: 駁
+  concept: COLOURFUL
+  concept_uuid: 18077152-effe-42f8-bc0b-a04afe162b1e
+  attestation:
+    text_title: 論衡
+    line_uuid: ac2051be-2176-47ac-b41d-e4fb4f75a958
+    textline: 有純有駁
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5b027e96-2d37-440b-abf1-abe60e0070bb
+type: word-relation
+group_uuid: 5b027e96-2d37-440b-abf1-abe60e0070bb
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 92b783f9-23cb-4f56-b1c5-fe7116b7783a
+  text: 金
+  concept: GOLD
+  concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 896e5485-e3c3-4c1c-9978-92f0d5c7f59d
+    line_id: KR3c0005_tls_010-136a.4
+    textline: 盛黃金於壺
+    offset: 3
+    range: 1
+right:
+  word_uuid: dd00d993-6bd4-4ad2-b3cc-c535937fc01f
+  text: 黃
+  concept: YELLOW
+  concept_uuid: 6be60b62-3c4c-48ec-b3b5-ec5556e20d3c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 896e5485-e3c3-4c1c-9978-92f0d5c7f59d
+    line_id: KR3c0005_tls_010-136a.4
+    textline: 盛黃金於壺
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

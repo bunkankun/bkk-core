@@ -1,0 +1,31 @@
+uuid: 67dd8eb5-7bb1-470b-b001-40e9b144d97b
+type: word-relation
+group_uuid: 67dd8eb5-7bb1-470b-b001-40e9b144d97b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 48305d34-1a35-4f6c-90d8-8501f72ce08d
+  text: 彌
+  concept: MORE
+  concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+  attestation:
+    text_title: 法言
+    line_uuid: e4cbbfe8-860a-4687-b4c1-15ad2e46fdd9
+    line_id: KR3a0009_tls_004-9a.1
+    textline: 宿之而彌壯
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7266b08e-24ef-444a-9552-75c47aaf6cc8
+  text: 益
+  concept: MORE
+  concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+  attestation:
+    text_title: 法言
+    line_uuid: 65bf93e3-1699-441e-8485-e94d6a1856aa
+    textline: 曰水測之而益深
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

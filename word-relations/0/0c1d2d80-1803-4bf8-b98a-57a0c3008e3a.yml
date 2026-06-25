@@ -1,0 +1,32 @@
+uuid: 0c1d2d80-1803-4bf8-b98a-57a0c3008e3a
+type: word-relation
+group_uuid: ca04f387-6c1b-44ae-ae02-63c7d9020663
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8cdf776d-2846-4889-8619-539ae78bf6b0
+  text: 貢
+  concept: TRIBUTE
+  concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+  attestation:
+    text_title: 韓非子
+    line_uuid: 097a7f17-4d96-44a2-b5ed-72609bb8815c
+    line_id: KR3c0005_tls_002-1a.10
+    textline: 且夫韓入貢職
+    offset: 5
+    range: 1
+right:
+  word_uuid: e36e12d5-5b92-42c7-9c84-0cf679e07c21
+  text: 職
+  concept: TRIBUTE
+  concept_uuid: 560e9b58-0eae-47bf-9b77-eb90f884e9be
+  attestation:
+    text_title: 韓非子
+    line_uuid: 097a7f17-4d96-44a2-b5ed-72609bb8815c
+    line_id: KR3c0005_tls_002-1a.10
+    textline: 且夫韓入貢職
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

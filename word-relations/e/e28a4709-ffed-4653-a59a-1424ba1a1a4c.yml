@@ -1,0 +1,32 @@
+uuid: e28a4709-ffed-4653-a59a-1424ba1a1a4c
+type: word-relation
+group_uuid: e28a4709-ffed-4653-a59a-1424ba1a1a4c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 651e2b16-25d0-4557-ac54-a647a5525f2b
+  text: 徭
+  concept: SERVANT
+  concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0adff030-c702-4e71-a807-db79048dba5c
+    line_id: KR3c0005_tls_017-19a.2
+    textline: 徭役多則民苦
+    offset: 1
+    range: 1
+right:
+  word_uuid: cf9d4c29-0a8f-438c-a3ed-723c9d38081d
+  text: 役
+  concept: WORKER
+  concept_uuid: 1e621fd0-64c0-4b87-9d63-e596e4da2a7e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0adff030-c702-4e71-a807-db79048dba5c
+    line_id: KR3c0005_tls_017-19a.2
+    textline: 徭役多則民苦
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

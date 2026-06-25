@@ -1,0 +1,32 @@
+uuid: 14baf230-f3d8-41ff-ac06-07fe02ae48bb
+type: word-relation
+group_uuid: 14baf230-f3d8-41ff-ac06-07fe02ae48bb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bdde31d7-31f8-4fa1-985d-da68670cce79
+  text: 贊
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d1eb56ef-1f0f-4ef2-9863-471205290a3c
+    line_id: KR1e0001_tls_010-659a.32
+    textline: 有天之贊
+    offset: 4
+    range: 1
+right:
+  word_uuid: ad199d99-58ff-4bf4-9c27-be4669e83456
+  text: 助
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: dae1819b-f31b-4dc6-8f90-0571c40599fc
+    line_id: KR1e0001_tls_010-659a.33
+    textline: 有民之助
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

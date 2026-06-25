@@ -1,0 +1,32 @@
+uuid: 10186eb4-7961-41c0-aa73-d147f992c489
+type: word-relation
+group_uuid: 10186eb4-7961-41c0-aa73-d147f992c489
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 管子
+    line_uuid: c0cf28f4-a380-48ca-be20-a9356383e7a3
+    line_id: KR3c0001_tls_005-17a.5
+    textline: 姦智生則邪巧作
+    offset: 5
+    range: 1
+right:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 管子
+    line_uuid: c0cf28f4-a380-48ca-be20-a9356383e7a3
+    line_id: KR3c0001_tls_005-17a.5
+    textline: 姦智生則邪巧作
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

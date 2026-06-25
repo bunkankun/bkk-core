@@ -1,0 +1,30 @@
+uuid: 2062b39e-db5e-46cc-b8f6-0f18173f9593
+type: word-relation
+group_uuid: 2062b39e-db5e-46cc-b8f6-0f18173f9593
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 孫臏
+    line_uuid: 62f7927e-20fc-446f-ba1c-0a825d6e5e96
+    textline: 令士忘死也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 孫臏
+    line_uuid: e0cf12b6-4e00-4369-a332-b581f0007d9b
+    textline: 令民畏上也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

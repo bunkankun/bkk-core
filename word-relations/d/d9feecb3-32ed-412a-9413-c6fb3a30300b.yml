@@ -1,0 +1,32 @@
+uuid: d9feecb3-32ed-412a-9413-c6fb3a30300b
+type: word-relation
+group_uuid: f546a14d-62f6-43b9-9a00-e11bf746f597
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 老子
+    line_uuid: 534f7096-b0d1-4092-be81-df63294f976b
+    line_id: KR5c0057_tls_076-1a.13
+    textline: 柔弱處上
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 老子
+    line_uuid: 534f7096-b0d1-4092-be81-df63294f976b
+    line_id: KR5c0057_tls_076-1a.13
+    textline: 柔弱處上
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

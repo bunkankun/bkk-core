@@ -1,0 +1,21 @@
+uuid: 0931234f-247f-4b9f-8bb5-1ae862a7f0b9
+type: word-relation
+group_uuid: 3db70d7f-ec35-5f47-96c3-781dfea575ee
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7a6a9e26-c826-4242-bf26-09cdeed090de
+  text: 鈍
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+right:
+  word_uuid: 8ac352c9-2311-42e1-81c2-ae4e05b1654e
+  text: 巧
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

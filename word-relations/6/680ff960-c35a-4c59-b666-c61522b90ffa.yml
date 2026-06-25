@@ -1,0 +1,32 @@
+uuid: 680ff960-c35a-4c59-b666-c61522b90ffa
+type: word-relation
+group_uuid: 680ff960-c35a-4c59-b666-c61522b90ffa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 13db392c-2d54-45d4-9af4-c29fc15baa44
+  text: 不肖
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee34bd29-312f-4aba-a0dc-b4aa8947e044
+    line_id: KR3c0005_tls_015-37a.3
+    textline: 不肖用事而賢良伏
+    offset: 1
+    range: 2
+right:
+  word_uuid: 6420eaf6-8b62-4ee9-bc75-2ccbad1a81f4
+  text: 賢良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee34bd29-312f-4aba-a0dc-b4aa8947e044
+    line_id: KR3c0005_tls_015-37a.3
+    textline: 不肖用事而賢良伏
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml

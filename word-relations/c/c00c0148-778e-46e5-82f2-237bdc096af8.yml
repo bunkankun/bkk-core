@@ -1,0 +1,32 @@
+uuid: c00c0148-778e-46e5-82f2-237bdc096af8
+type: word-relation
+group_uuid: 7ed143fd-6be2-423c-b986-2c2732d36c4d
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: ebd42c35-c894-433d-8c3c-237ea13d98a6
+  text: 出
+  concept: EXILE
+  concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 641ef3c1-57b0-4b69-8421-585c641d71b2
+    line_id: KR3c0005_tls_010-135a.7
+    textline: 今窮而出亡過於曹
+    offset: 4
+    range: 1
+right:
+  word_uuid: cd4e3655-c871-46ba-ae25-e7a2f78d2fd3
+  text: 亡
+  concept: EXILE
+  concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 641ef3c1-57b0-4b69-8421-585c641d71b2
+    line_id: KR3c0005_tls_010-135a.7
+    textline: 今窮而出亡過於曹
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

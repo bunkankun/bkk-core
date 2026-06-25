@@ -1,0 +1,32 @@
+uuid: 5240e5a2-d269-482b-82ac-a17c7094fb53
+type: word-relation
+group_uuid: 5240e5a2-d269-482b-82ac-a17c7094fb53
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3bcf7f08-0efa-480a-92cb-63215a067004
+  text: 已
+  concept: ALREADY
+  concept_uuid: cc18d75b-1176-4f08-a123-2e8e2b74eb65
+  attestation:
+    text_title: 韓非子
+    line_uuid: 563ef0a0-e316-4a07-a8c1-7005a47a2c7e
+    line_id: KR3c0005_tls_022-8a.7
+    textline: 今我已亡之矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9bbb8427-6887-475a-a26a-acf2f60cec86
+  text: 且
+  concept: IMMEDIATELY
+  concept_uuid: 5ff25af0-99fe-4bd5-8bac-49e696952213
+  attestation:
+    text_title: 韓非子
+    line_uuid: 04bb7225-d2f1-4c40-8a9e-e37d03a6dd0d
+    line_id: KR3c0005_tls_022-8a.8
+    textline: 我且曰
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

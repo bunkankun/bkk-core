@@ -1,0 +1,32 @@
+uuid: 39d16170-5b49-47e0-9444-88b09dca4c8c
+type: word-relation
+group_uuid: 6c7a0eca-3018-47d3-a01a-edd63a38e960
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5bfac0dc-5da9-44fc-9e49-950c30514e8c
+  text: 祖
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 933bccd4-2f9a-4bb9-9ca8-d23b8949d2ef
+    line_id: KR1c0066_tls_006-15a.8
+    textline: 宗祖不足道也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 21a7cf34-6a72-47ca-b86a-4069da91aec7
+  text: 宗
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 933bccd4-2f9a-4bb9-9ca8-d23b8949d2ef
+    line_id: KR1c0066_tls_006-15a.8
+    textline: 宗祖不足道也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

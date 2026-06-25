@@ -1,0 +1,32 @@
+uuid: 2cef65c9-2d9a-45b3-9530-3cd8b971e969
+type: word-relation
+group_uuid: 2cef65c9-2d9a-45b3-9530-3cd8b971e969
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 76d2aa66-ea32-451f-a374-1654ee5969a9
+  text: 恣
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9eb04019-6215-4e6f-99db-0b57e244e42d
+    line_id: KR3c0005_tls_008-26a.6
+    textline: 不使自恣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 046d44b4-b88c-4388-bbb4-ed036a518d5d
+  text: 自
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9eb04019-6215-4e6f-99db-0b57e244e42d
+    line_id: KR3c0005_tls_008-26a.6
+    textline: 不使自恣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

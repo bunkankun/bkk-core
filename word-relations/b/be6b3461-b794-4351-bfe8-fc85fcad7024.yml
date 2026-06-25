@@ -1,0 +1,32 @@
+uuid: be6b3461-b794-4351-bfe8-fc85fcad7024
+type: word-relation
+group_uuid: be6b3461-b794-4351-bfe8-fc85fcad7024
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d5b04397-9d6e-4405-91a8-b115b65df680
+  text: 保
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 荀子
+    line_uuid: 0ea7a36e-d84b-4864-acf7-0cf707bc2a8d
+    line_id: KR3a0002_tls_002-3a.17
+    textline: 保利棄義謂之至賊
+    offset: 1
+    range: 1
+right:
+  word_uuid: 946c5389-8b1b-4bee-9701-be5543b28133
+  text: 棄
+  concept: DISREGARD
+  concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+  attestation:
+    text_title: 荀子
+    line_uuid: 0ea7a36e-d84b-4864-acf7-0cf707bc2a8d
+    line_id: KR3a0002_tls_002-3a.17
+    textline: 保利棄義謂之至賊
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

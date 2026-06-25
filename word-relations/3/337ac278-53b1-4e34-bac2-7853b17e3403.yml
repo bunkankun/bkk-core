@@ -1,0 +1,32 @@
+uuid: 337ac278-53b1-4e34-bac2-7853b17e3403
+type: word-relation
+group_uuid: e4f96720-0f79-501a-a09c-bb33080ba2da
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_074-4a.48
+    textline: 駟先生蓄積道術
+    offset: 6
+    range: 2
+right:
+  word_uuid: 375e8fd2-509c-42b4-aad6-f4f3307cd31a
+  text: 積
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_074-4a.48
+    textline: 駟先生蓄積道術
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:14:38.377+09:00'

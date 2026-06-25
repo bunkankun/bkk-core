@@ -1,0 +1,32 @@
+uuid: 2f6af305-fa6f-41cd-aaf3-05fa6ff1cdcc
+type: word-relation
+group_uuid: 6fea408a-17ad-52db-b913-507d0264036e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7a7df26c-65bf-44f7-bd80-e485442ae0c0
+  text: 金
+  concept: METAL
+  concept_uuid: 678eda4e-9edf-42e1-aa07-b5d5c0081ead
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.39
+    textline: 而作為之鑄金鍛鐵
+    offset: 6
+    range: 1
+right:
+  word_uuid: 6b9ae8d8-d321-4636-886e-e4071b43726d
+  text: 鐵
+  concept: IRON
+  concept_uuid: 9fad2133-9f7c-406c-87db-bfc99aaed551
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.39
+    textline: 而作為之鑄金鍛鐵
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:33:09.991+09:00'

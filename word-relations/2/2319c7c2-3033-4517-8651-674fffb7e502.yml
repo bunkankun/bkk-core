@@ -1,0 +1,32 @@
+uuid: 2319c7c2-3033-4517-8651-674fffb7e502
+type: word-relation
+group_uuid: 2319c7c2-3033-4517-8651-674fffb7e502
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 47dd2ea8-6386-4b23-b3f3-d11074f5d095
+  text: 寬
+  concept: LENIENT
+  concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f7063dc2-913f-4a03-947d-2424560b15bb
+    line_id: KR1e0001_tls_010-498a.8
+    textline: 寬以濟猛
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4e4af4dc-55a5-4704-af53-d5d2346823e4
+  text: 猛
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 3cd23ef8-c469-44eb-a317-57a74a0eca38
+    line_id: KR1e0001_tls_010-498a.9
+    textline: 猛以濟寬
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

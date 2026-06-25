@@ -1,0 +1,32 @@
+uuid: 0c0f4bf0-83ec-4c73-9615-5c45071166b4
+type: word-relation
+group_uuid: 3bfdaefd-3ce6-4094-9f69-d35bbfa9f157
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6015ce36-4503-4e49-a74b-c7080bc35264
+    line_id: KR3j0009_tls_003-26a.62
+    textline: 故日殺僇而不止
+    offset: 3
+    range: 1
+right:
+  word_uuid: afa2998f-b866-40bd-b0e6-ba16d63bda6a
+  text: 僇
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6015ce36-4503-4e49-a74b-c7080bc35264
+    line_id: KR3j0009_tls_003-26a.62
+    textline: 故日殺僇而不止
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

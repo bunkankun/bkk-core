@@ -1,0 +1,32 @@
+uuid: 5e34257d-5019-43e4-bd45-aa79efbf3d2f
+type: word-relation
+group_uuid: 5e34257d-5019-43e4-bd45-aa79efbf3d2f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1411ef38-1423-40d7-a03c-4f414974c458
+  text: 長
+  concept: GROW
+  concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+  attestation:
+    text_title: 老子
+    line_uuid: 4687675a-fafe-47aa-ad46-e284f8371a91
+    line_id: KR5c0057_tls_010-1a.19
+    textline: 長而不宰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d32654d-1d2b-48df-9c14-1643ad18fce9
+  text: 宰
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 老子
+    line_uuid: 4687675a-fafe-47aa-ad46-e284f8371a91
+    line_id: KR5c0057_tls_010-1a.19
+    textline: 長而不宰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

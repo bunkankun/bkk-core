@@ -1,0 +1,32 @@
+uuid: a100667a-15aa-44fc-9778-0aa9b3c33771
+type: word-relation
+group_uuid: a100667a-15aa-44fc-9778-0aa9b3c33771
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 88c391df-6ec2-4207-90b9-99d524bc3f32
+  text: 專
+  concept: MONOPOLISE
+  concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+  attestation:
+    text_title: 韓非子
+    line_uuid: fec837d3-bb48-4794-b5e1-5ca5c1caa77d
+    line_id: KR3c0005_tls_011-22a.5
+    textline: 大臣專權
+    offset: 3
+    range: 1
+right:
+  word_uuid: b1d12277-179e-4828-afe9-39e30a8854fc
+  text: 權
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: fec837d3-bb48-4794-b5e1-5ca5c1caa77d
+    line_id: KR3c0005_tls_011-22a.5
+    textline: 大臣專權
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

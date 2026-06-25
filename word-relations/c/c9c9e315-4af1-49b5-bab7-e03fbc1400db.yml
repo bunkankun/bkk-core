@@ -1,0 +1,21 @@
+uuid: c9c9e315-4af1-49b5-bab7-e03fbc1400db
+type: word-relation
+group_uuid: fa666b85-c30c-523b-aded-19988435fd21
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9c40544d-fe2a-47c9-b02c-fa3fd30ff290
+  text: 薄
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+right:
+  word_uuid: 116492c6-a607-4fee-99cf-8a6c5ece193c
+  text: 高
+  concept: SUPERIOR
+  concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

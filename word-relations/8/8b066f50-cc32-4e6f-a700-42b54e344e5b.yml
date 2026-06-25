@@ -1,0 +1,32 @@
+uuid: 8b066f50-cc32-4e6f-a700-42b54e344e5b
+type: word-relation
+group_uuid: 8b066f50-cc32-4e6f-a700-42b54e344e5b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1fe70274-ce84-4009-a705-67e76239fc4d
+  text: 量
+  concept: MEASURE
+  concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+  attestation:
+    text_title: 韓非子
+    line_uuid: b6798d8c-699e-4c2f-8a2c-826595e18c4b
+    line_id: KR3c0005_tls_005-16a.2
+    textline: 大不可量
+    offset: 4
+    range: 1
+right:
+  word_uuid: ead1727d-5069-44e2-b881-e1fa3ff031b6
+  text: 測
+  concept: ESTIMATE
+  concept_uuid: 994559c9-660e-4651-9e60-c91c7ba01e64
+  attestation:
+    text_title: 韓非子
+    line_uuid: db4ff87b-cedf-4b8d-af66-a2c47bc11896
+    line_id: KR3c0005_tls_005-16a.3
+    textline: 深不可測
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

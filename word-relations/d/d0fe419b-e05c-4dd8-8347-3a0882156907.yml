@@ -1,0 +1,35 @@
+uuid: d0fe419b-e05c-4dd8-8347-3a0882156907
+type: word-relation
+group_uuid: d0fe419b-e05c-4dd8-8347-3a0882156907
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ae541adf-2d39-4215-b6a6-59fbfcef325d
+  text: 甘
+  concept: SWEET
+  concept_uuid: 27b184f0-cc0c-4e7e-b69b-40f26b5a2dd4
+  attestation:
+    text_title: 論衡
+    line_uuid: 896ef84e-b511-4e5b-92ce-4991dc6f4047
+    line_id: KR3j0080_tls_005-7a.14
+    textline: 甘苦異味
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0a937b8a-2b12-41be-9b1a-59998db56547
+  text: 苦
+  concept: BITTER
+  concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+  attestation:
+    text_title: 論衡
+    line_uuid: 896ef84e-b511-4e5b-92ce-4991dc6f4047
+    line_id: KR3j0080_tls_005-7a.14
+    textline: 甘苦異味
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 806605be-3179-401f-b0c0-8fdf379519c4
+type: word-relation
+group_uuid: 6e253229-d839-57a9-8083-ef0ef9b67667
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 43ce5cde-799d-4668-9320-03c314a71b17
+  text: 慚慙慚慙
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+right:
+  word_uuid: 2a60b31e-da8a-4388-8a4a-78c50575354c
+  text: 負
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

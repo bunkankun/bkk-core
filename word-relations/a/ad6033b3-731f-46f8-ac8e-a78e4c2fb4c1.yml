@@ -1,0 +1,18 @@
+uuid: ad6033b3-731f-46f8-ac8e-a78e4c2fb4c1
+type: word-relation
+group_uuid: 416b72d2-db92-5f7b-86b4-a676e062e4a2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b9994ced-5d09-4fa3-bde7-9fe7befc7109
+  text: 止
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+right:
+  word_uuid: d5eb7e41-b106-4f07-b176-92601c391333
+  text: 已
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+source:
+  source_file: word-relations.xml

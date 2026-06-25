@@ -1,0 +1,32 @@
+uuid: 113ab404-ea3d-4f20-be35-c9346a21c392
+type: word-relation
+group_uuid: 113ab404-ea3d-4f20-be35-c9346a21c392
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 淮南子
+    line_uuid: 5be749fe-0edd-44c7-8a24-da0e3c053980
+    line_id: KR3j0010_tls_009-43a.15
+    textline: 三年耕而餘一年之食
+    offset: 9
+    range: 1
+right:
+  word_uuid: 58011886-3cf0-4e41-ba47-adffb94a2a6f
+  text: 畜
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 淮南子
+    line_uuid: cedf9947-01fd-48dd-a20e-7f7f919dc419
+    line_id: KR3j0010_tls_009-43a.16
+    textline: 率九年而有三年之畜
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

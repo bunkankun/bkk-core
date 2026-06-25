@@ -1,0 +1,31 @@
+uuid: 89298183-1557-4436-a420-db0dc995e4e7
+type: word-relation
+group_uuid: 7660fb63-18aa-4333-b945-97b2d31a7c53
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e6dede31-ac8d-46c3-9b42-5d8105c02261
+    textline: 「臣聞〔之〕君子恥之
+    offset: 7
+    range: 2
+right:
+  word_uuid: 8f5c9b8d-3099-4e6c-be13-c30617fefcf7
+  text: 小人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 803d2b41-c4a8-49ac-98a5-1628380ac35e
+    line_id: KR3j0009_tls_023-6a.76
+    textline: 小人痛之
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

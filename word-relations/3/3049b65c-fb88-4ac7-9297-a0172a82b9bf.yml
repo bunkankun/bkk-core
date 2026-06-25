@@ -1,0 +1,32 @@
+uuid: 3049b65c-fb88-4ac7-9297-a0172a82b9bf
+type: word-relation
+group_uuid: 3049b65c-fb88-4ac7-9297-a0172a82b9bf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ca73bdad-04dd-4bd1-946c-3bb3c3e4f04b
+  text: 真心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 429975d2-1bb3-4dcd-bdcb-14f53064612e
+    line_id: KR6q0002_Yan_003-1103a.42
+    textline: 真心任遍知
+    offset: 1
+    range: 2
+right:
+  word_uuid: 843b35cf-d32e-4b4c-9221-51d9113c81f8
+  text: 妄心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 037a97cf-b5c3-435e-b688-f141d029d6b5
+    line_id: KR6q0002_Yan_003-1103a.41
+    textline: 妄心既不起
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

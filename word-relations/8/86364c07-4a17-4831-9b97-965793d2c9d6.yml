@@ -1,0 +1,21 @@
+uuid: 86364c07-4a17-4831-9b97-965793d2c9d6
+type: word-relation
+group_uuid: 4d6b1ad8-83af-584c-9c0c-36a1e358f444
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 451a115e-f9cc-41b4-bc6b-ff8be89b71f9
+  text: 諱
+  concept: TABOO
+  concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+right:
+  word_uuid: a4770659-f409-446a-952e-b236a17a7ab4
+  text: 宣
+  concept: PUBLICISE
+  concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6f082054-d75f-4e43-83d9-42f84c41809c
+type: word-relation
+group_uuid: 6f082054-d75f-4e43-83d9-42f84c41809c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2f07b0ee-da99-49b1-a959-3e454fe57b28
+  text: 蟲
+  concept: INSECTS
+  concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+  attestation:
+    text_title: 論衡
+    line_uuid: b02593a2-8046-47bc-b282-be9580c7e489
+    line_id: KR3j0080_tls_005-2a.42
+    textline: 蜚蟲過之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1574f9ca-ee6d-4572-bf0f-bc8ba1953dd8
+  text: 蜚
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 論衡
+    line_uuid: b02593a2-8046-47bc-b282-be9580c7e489
+    line_id: KR3j0080_tls_005-2a.42
+    textline: 蜚蟲過之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

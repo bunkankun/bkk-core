@@ -1,0 +1,32 @@
+uuid: 854a4535-978c-4ba8-8a45-35978ceba87b
+type: word-relation
+group_uuid: 57c8b4b9-d5de-517f-a2f3-ee1a03f1ac03
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_033-4a.19
+    textline: 又好學而博
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1f8c51f8-b94d-4be8-97f5-5588eddeb130
+  text: 博
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_033-4a.19
+    textline: 又好學而博
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-27T01:28:22.2+09:00'

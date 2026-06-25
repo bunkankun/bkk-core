@@ -1,0 +1,32 @@
+uuid: ea3b245f-81f4-4348-bb24-5f81f40348b9
+type: word-relation
+group_uuid: 689bc88c-d74f-5345-b47a-2b9ffe6b0789
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a609c631-fb04-43cd-bf69-374c020a2df7
+  text: 血
+  concept: BLOOD
+  concept_uuid: 30c7ee56-1df4-4e57-b2f5-29f1e7e1f9c2
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_010-4a.13
+    textline: 曼澤怡面 血氣盛只
+    offset: 6
+    range: 1
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_010-4a.13
+    textline: 曼澤怡面 血氣盛只
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T22:02:03.567+09:00'

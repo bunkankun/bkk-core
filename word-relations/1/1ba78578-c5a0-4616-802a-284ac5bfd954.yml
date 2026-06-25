@@ -1,0 +1,31 @@
+uuid: 1ba78578-c5a0-4616-802a-284ac5bfd954
+type: word-relation
+group_uuid: 1ba78578-c5a0-4616-802a-284ac5bfd954
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6caaf498-bb70-469d-87de-3e54a4fa98bb
+  text: 地
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  attestation:
+    text_title: 韓非子
+    line_uuid: ed5403c3-5153-4681-986c-e10bf6044aa9
+    textline: 攻盡陶魏之地
+    offset: 7
+    range: 1
+right:
+  word_uuid: d5c15d69-0ee8-4396-a6c6-13ace5a0e6f5
+  text: 都
+  concept: CAPITAL CITY
+  concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+  attestation:
+    text_title: 韓非子
+    line_uuid: d711e51b-5abf-4474-8dbd-1c5a0811f44d
+    line_id: KR3c0005_tls_006-4a.7
+    textline: 私平陸之都
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

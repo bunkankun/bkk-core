@@ -1,0 +1,21 @@
+uuid: 4402e35f-b616-4092-9ad4-6d61f5c8f31c
+type: word-relation
+group_uuid: 98a9bd6f-0ffc-5161-ba86-de975baeaad8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fec4658b-9eb7-4a6b-a13a-8866dfc71d5e
+  text: 多
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+right:
+  word_uuid: f479c2ef-23e4-4e49-9a40-c62807eacbeb
+  text: 足
+  concept: SUFFICIENT
+  concept_uuid: 9e5c8f07-1df3-4322-977a-8457999252fd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

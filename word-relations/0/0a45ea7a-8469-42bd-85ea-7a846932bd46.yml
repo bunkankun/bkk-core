@@ -1,0 +1,32 @@
+uuid: 0a45ea7a-8469-42bd-85ea-7a846932bd46
+type: word-relation
+group_uuid: 35ca9bcc-32d4-595b-bd85-a87034530717
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 201d8bc0-b834-4cc3-a831-d4e5b495fbbf
+  text: 干
+  concept: SHIELD
+  concept_uuid: 703e26d2-b7a7-4ead-be62-3c6076f8645e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-9a.5
+    textline: 舜執干戚而服有苗
+    offset: 3
+    range: 1
+right:
+  word_uuid: 757f2a46-15b0-41e4-9964-a534f28b080a
+  text: 戚
+  concept: AXE
+  concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-9a.5
+    textline: 舜執干戚而服有苗
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T19:32:42.992+09:00'

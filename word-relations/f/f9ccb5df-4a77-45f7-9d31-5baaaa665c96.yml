@@ -1,0 +1,32 @@
+uuid: f9ccb5df-4a77-45f7-9d31-5baaaa665c96
+type: word-relation
+group_uuid: f9ccb5df-4a77-45f7-9d31-5baaaa665c96
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5d08c62e-d0aa-448b-a329-1442d0da4940
+  text: 語
+  concept: DIALOGUE
+  concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+  attestation:
+    text_title: 管子
+    line_uuid: 87db76ae-3be1-4b93-bcfb-8bd30a8a0a93
+    line_id: KR3c0001_tls_011-93a.11
+    textline: 戲樂笑語
+    offset: 4
+    range: 1
+right:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 管子
+    line_uuid: 87db76ae-3be1-4b93-bcfb-8bd30a8a0a93
+    line_id: KR3c0001_tls_011-93a.11
+    textline: 戲樂笑語
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

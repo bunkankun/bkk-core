@@ -1,0 +1,32 @@
+uuid: 8e9029e9-cab7-4230-88fe-4859e72ad365
+type: word-relation
+group_uuid: 8e9029e9-cab7-4230-88fe-4859e72ad365
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6a8e2674-9e83-44a1-ab73-e7a62b0b35bd
+  text: 動
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 管子
+    line_uuid: dd3bd88f-9033-43d6-8bc8-fdff1d93a616
+    line_id: KR3c0001_tls_004-99a.4
+    textline: 動作必思之
+    offset: 1
+    range: 1
+right:
+  word_uuid: e801de29-6ac1-4139-82a5-a0e8faaca525
+  text: 作
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 管子
+    line_uuid: dd3bd88f-9033-43d6-8bc8-fdff1d93a616
+    line_id: KR3c0001_tls_004-99a.4
+    textline: 動作必思之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

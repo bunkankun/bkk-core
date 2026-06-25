@@ -1,0 +1,32 @@
+uuid: a919a4cb-b89d-4aa8-a885-c7c57647ccf1
+type: word-relation
+group_uuid: 74c4205e-751d-4d82-8f2b-bd4deea167ec
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 老子
+    line_uuid: a6b9e901-deaf-44be-b341-48229a9a044c
+    line_id: KR5c0057_tls_051-1a.3
+    textline: 道生之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 老子
+    line_uuid: a4114905-078d-4f82-a409-3769deecd597
+    line_id: KR5c0057_tls_051-1a.14
+    textline: 德畜之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 829c3713-4000-48db-b62e-0098f24e59ce
+type: word-relation
+group_uuid: 829c3713-4000-48db-b62e-0098f24e59ce
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 孟子
+    line_uuid: dfbf7bb8-8965-433f-91e2-bc02bdf7cf84
+    line_id: KR1h0001_tls_001-21a.5
+    textline: 「望之不似人君
+    offset: 7
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 孟子
+    line_uuid: dfbf7bb8-8965-433f-91e2-bc02bdf7cf84
+    line_id: KR1h0001_tls_001-21a.5
+    textline: 「望之不似人君
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

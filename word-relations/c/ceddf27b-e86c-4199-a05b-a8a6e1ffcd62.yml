@@ -1,0 +1,32 @@
+uuid: ceddf27b-e86c-4199-a05b-a8a6e1ffcd62
+type: word-relation
+group_uuid: ceddf27b-e86c-4199-a05b-a8a6e1ffcd62
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 99985f99-b7bd-4fa6-8cd4-684f83f0558b
+  text: 絕
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 956a441e-b479-4eda-b8fb-55a3b57c29f5
+    line_id: KR3c0005_tls_005-13a.7
+    textline: 絕其望
+    offset: 1
+    range: 1
+right:
+  word_uuid: 073b7a18-4ede-442a-826d-91691679269a
+  text: 破
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7d4f1abb-d478-4b83-9d8c-11367a1705eb
+    line_id: KR3c0005_tls_005-13a.8
+    textline: 破其意
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

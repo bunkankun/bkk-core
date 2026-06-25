@@ -1,0 +1,32 @@
+uuid: 92f6bb47-dbb6-40d8-94bf-65bd463e1465
+type: word-relation
+group_uuid: 92f6bb47-dbb6-40d8-94bf-65bd463e1465
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 319efe94-9f2a-4775-9d0e-adf4ea573977
+  text: 殿
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: 8565586d-4aea-45de-a229-59154d88797b
+    line_id: KR3j0080_tls_005-7a.41
+    textline: 或基殿堂
+    offset: 3
+    range: 1
+right:
+  word_uuid: 59b6f1a6-a7b9-4742-930d-937be5b31e6c
+  text: 堂
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: 8565586d-4aea-45de-a229-59154d88797b
+    line_id: KR3j0080_tls_005-7a.41
+    textline: 或基殿堂
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

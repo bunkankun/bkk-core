@@ -1,0 +1,39 @@
+uuid: b07402fe-60f1-40de-b402-fe60f190de91
+type: word-relation
+group_uuid: e11a6d2f-8092-4b4c-8cd4-894ba62bc371
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.29
+    textline: 使足以辨貴賤而已
+    offset: 5
+    range: 1
+right:
+  word_uuid: 59c38938-a539-41c3-8f9d-603c1a64feee
+  text: 賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.29
+    textline: 使足以辨貴賤而已
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '295'
+  scope_unit: page
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T20:04:58.124+09:00'

@@ -1,0 +1,32 @@
+uuid: e4fa03ad-f3f4-4247-b389-f142d3ed245d
+type: word-relation
+group_uuid: 4af76b74-371f-44a5-803d-38dc2924f726
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bcd184af-0895-4165-8778-911e52acc0da
+  text: 遼
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 管子
+    line_uuid: f3c9e79c-0a23-4089-ac94-4c02b5ef7729
+    line_id: KR3c0001_tls_001-329a.4
+    textline: 遼遠之地謀
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7f46c7c2-9e15-43f3-a98f-e32f064643bd
+  text: 遠
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 管子
+    line_uuid: f3c9e79c-0a23-4089-ac94-4c02b5ef7729
+    line_id: KR3c0001_tls_001-329a.4
+    textline: 遼遠之地謀
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

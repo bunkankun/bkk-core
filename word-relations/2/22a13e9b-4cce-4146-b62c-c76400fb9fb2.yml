@@ -1,0 +1,18 @@
+uuid: 22a13e9b-4cce-4146-b62c-c76400fb9fb2
+type: word-relation
+group_uuid: d950f40f-c174-5056-aa83-e16de0dca1d1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0da12c3-1276-4f7a-9ef6-571df12f500c
+  text: 巫
+  concept: SHAMAN
+  concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+right:
+  word_uuid: b58bdd7d-7e53-4c26-ab48-58541eb1b00e
+  text: 蠱
+  concept: BEWITCH
+  concept_uuid: 1ee60420-95ac-4599-af8f-06ebedd89b80
+source:
+  source_file: word-relations.xml

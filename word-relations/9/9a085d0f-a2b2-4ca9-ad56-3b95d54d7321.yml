@@ -1,0 +1,30 @@
+uuid: 9a085d0f-a2b2-4ca9-ad56-3b95d54d7321
+type: word-relation
+group_uuid: 9a085d0f-a2b2-4ca9-ad56-3b95d54d7321
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: dd610641-8251-402a-8f69-b5c5d4e19244
+  text: 神
+  concept: SUPERNATURAL
+  concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+  attestation:
+    text_title: 老子
+    line_uuid: d704694b-b484-43e7-9863-f23fe8d83d1e
+    textline: 天下神器
+    offset: 3
+    range: 1
+right:
+  word_uuid: 36f8914c-9a87-4ddf-805b-c76e9c817a1f
+  text: 器
+  concept: VESSEL
+  concept_uuid: 0235af56-e1d7-410e-a979-496a4573b46c
+  attestation:
+    text_title: 老子
+    line_uuid: d704694b-b484-43e7-9863-f23fe8d83d1e
+    textline: 天下神器
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9201e0e8-eb0d-429d-865b-4066d47d83c2
+type: word-relation
+group_uuid: 9201e0e8-eb0d-429d-865b-4066d47d83c2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 973af6c3-88e5-43de-bdc0-ff0aef3cb179
+  text: 障
+  concept: HINDER
+  concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 40a595c0-8105-4a34-9682-6260020aa7ab
+    line_id: KR3j0009_tls_003-5a.10
+    textline: 無有障塞
+    offset: 3
+    range: 1
+right:
+  word_uuid: 874a7955-cf7d-4736-b997-4834ea6edcfa
+  text: 塞
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 40a595c0-8105-4a34-9682-6260020aa7ab
+    line_id: KR3j0009_tls_003-5a.10
+    textline: 無有障塞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

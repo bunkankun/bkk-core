@@ -1,0 +1,32 @@
+uuid: 7706e61f-7da9-4258-86e6-1f7da9e25802
+type: word-relation
+group_uuid: 88bce933-3c8b-5ac0-be39-9c868bcff30c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1c1a014d-ff42-4318-9a01-4dff42231884
+  text: 宮營
+  concept: PUBLIC BUILDING
+  concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+  attestation:
+    text_title: 管子
+    line_id: KR3c0001_tls_005-15a.6
+    textline: 宮營大而室屋寡者
+    offset: 1
+    range: 2
+right:
+  word_uuid: 53809fda-622e-4ef2-a347-a5ed94b651d2
+  text: 室屋
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 管子
+    line_id: KR3c0001_tls_005-15a.6
+    textline: 宮營大而室屋寡者
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-12-01T23:20:30.407+09:00'

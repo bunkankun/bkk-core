@@ -1,0 +1,32 @@
+uuid: 714ee826-9d6e-4898-bf03-6a6e2c2be3a5
+type: word-relation
+group_uuid: 0d346150-823e-4899-9ac6-cd3a3c598a0d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0a87d2ea-bd7d-4c9a-bea8-0414a9c8ce07
+  text: 黑
+  concept: BLACK
+  concept_uuid: 2047f99c-937b-4935-a7a8-c09a28e77642
+  attestation:
+    text_title: 韓非子
+    line_uuid: a1e94370-8014-4983-9aac-f91af11dd794
+    line_id: KR3c0005_tls_020-46a.9
+    textline: 則不能決黑白之分
+    offset: 5
+    range: 1
+right:
+  word_uuid: aa198c3b-4c6c-431d-86ba-becb2478850d
+  text: 白
+  concept: WHITE
+  concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+  attestation:
+    text_title: 韓非子
+    line_uuid: a1e94370-8014-4983-9aac-f91af11dd794
+    line_id: KR3c0005_tls_020-46a.9
+    textline: 則不能決黑白之分
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

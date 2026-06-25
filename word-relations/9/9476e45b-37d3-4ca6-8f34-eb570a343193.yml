@@ -1,0 +1,21 @@
+uuid: 9476e45b-37d3-4ca6-8f34-eb570a343193
+type: word-relation
+group_uuid: a121a84e-5832-525b-b5de-ec946910563d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 87acdc47-87a5-4743-aaad-9b4df6fc7896
+  text: 共
+  concept: SHARE OUT
+  concept_uuid: c8885655-f457-4f57-ad87-a5ab65620ef1
+right:
+  word_uuid: f61895a9-eba3-4abc-bc5e-1b6246a041f0
+  text: 同
+  concept: SHARE OUT
+  concept_uuid: c8885655-f457-4f57-ad87-a5ab65620ef1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

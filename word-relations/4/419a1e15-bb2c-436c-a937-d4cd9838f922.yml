@@ -1,0 +1,30 @@
+uuid: 419a1e15-bb2c-436c-a937-d4cd9838f922
+type: word-relation
+group_uuid: 419a1e15-bb2c-436c-a937-d4cd9838f922
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aa5cf34d-32db-4f92-a4c4-b1293dc3dfbc
+  text: 凶
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 論衡
+    line_uuid: 2f485ad4-7cbc-4968-91e7-d93b1f3aaa8a
+    textline: 遭命者初稟氣時遭凶惡也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 73d7f4e6-79df-4268-9e04-b609ea2074ca
+  text: 惡
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: 2f485ad4-7cbc-4968-91e7-d93b1f3aaa8a
+    textline: 遭命者初稟氣時遭凶惡也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

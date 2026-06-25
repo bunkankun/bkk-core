@@ -1,0 +1,32 @@
+uuid: 08fdec1c-6d7c-4d93-be69-c285e29ed297
+type: word-relation
+group_uuid: 08fdec1c-6d7c-4d93-be69-c285e29ed297
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6a3a154e-e502-455d-865d-86592442eb57
+  text: 逆
+  concept: WELCOME
+  concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f7b24bd9-95bc-456a-804c-b399c79ee725
+    line_id: KR1e0001_tls_010-345a.120
+    textline: 歸楚而不逆
+    offset: 5
+    range: 1
+right:
+  word_uuid: 88b235df-c432-49cb-aa0f-ca4a0fc96be3
+  text: 送
+  concept: FAREWELL
+  concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: c813a0b5-a850-4ce7-b0ae-5ec48951b560
+    line_id: KR1e0001_tls_010-345a.119
+    textline: 去晉而不送
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

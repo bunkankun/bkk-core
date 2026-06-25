@@ -1,0 +1,32 @@
+uuid: 55897988-598c-4e64-8979-88598c8e64b0
+type: word-relation
+group_uuid: e8ee16f6-c324-50e6-9818-d30e384e82cf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.13
+    textline: 今世之法籍與時變
+    offset: 4
+    range: 1
+right:
+  word_uuid: 688eec54-0833-467f-a3ff-61944cd8874f
+  text: 籍
+  concept: DOCUMENT
+  concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.13
+    textline: 今世之法籍與時變
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:24:07.202+09:00'

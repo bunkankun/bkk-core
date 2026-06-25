@@ -1,0 +1,21 @@
+uuid: aaf89873-456b-4563-a13c-bc6f04941636
+type: word-relation
+group_uuid: 0b3ef66b-0669-507c-8d97-f0f4b57df889
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 891f4993-7c48-41b2-bbbe-e30bf5829512
+  text: 卑
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+right:
+  word_uuid: 1402deca-7b58-40e9-9110-440dd28702c7
+  text: 謙
+  concept: YIELD
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

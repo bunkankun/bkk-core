@@ -1,0 +1,32 @@
+uuid: 0067e26a-abe6-413a-97df-3a756acf7bbd
+type: word-relation
+group_uuid: 0067e26a-abe6-413a-97df-3a756acf7bbd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5bb78206-5004-4d1a-a331-d25a77c8b3a0
+  text: 拜
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 論語
+    line_uuid: da5b3607-eb95-4c89-bec1-fb6585639cb4
+    line_id: KR1h0004_tls_010-32a.3
+    textline: 再拜而送之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 88b235df-c432-49cb-aa0f-ca4a0fc96be3
+  text: 送
+  concept: FAREWELL
+  concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+  attestation:
+    text_title: 論語
+    line_uuid: da5b3607-eb95-4c89-bec1-fb6585639cb4
+    line_id: KR1h0004_tls_010-32a.3
+    textline: 再拜而送之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

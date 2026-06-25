@@ -1,0 +1,32 @@
+uuid: e2e17126-504a-4109-9971-e6b3eef2f45a
+type: word-relation
+group_uuid: 3290fcbb-d55a-457a-a66f-3c8189acab95
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 003325fc-2ead-4512-92a0-394535f02a5d
+  text: 貪
+  concept: GREEDY
+  concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2765a62d-b259-40c0-a445-d45378860e10
+    line_id: KR3c0005_tls_015-13a.5
+    textline: 貪愎而拙交者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8863a18f-c25f-4a81-8ed3-171ae901ce28
+  text: 愎
+  concept: STUBBORN
+  concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2765a62d-b259-40c0-a445-d45378860e10
+    line_id: KR3c0005_tls_015-13a.5
+    textline: 貪愎而拙交者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

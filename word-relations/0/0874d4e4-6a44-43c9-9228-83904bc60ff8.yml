@@ -1,0 +1,32 @@
+uuid: 0874d4e4-6a44-43c9-9228-83904bc60ff8
+type: word-relation
+group_uuid: 0874d4e4-6a44-43c9-9228-83904bc60ff8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 26ac3412-18a7-4f7e-89d3-81b02ec207ba
+  text: 賢
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論衡
+    line_uuid: 802b3927-a6d0-4461-9b07-cb99c8be0dbf
+    line_id: KR3j0080_tls_006-7a.39
+    textline: 置以賢師良傅
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 802b3927-a6d0-4461-9b07-cb99c8be0dbf
+    line_id: KR3j0080_tls_006-7a.39
+    textline: 置以賢師良傅
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

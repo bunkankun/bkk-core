@@ -1,0 +1,21 @@
+uuid: 1aeac29d-c621-4854-b796-ba7829cee7d3
+type: word-relation
+group_uuid: 01b66c28-907b-5274-a280-6ca0aa859092
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 013c02ac-b38d-4e7d-af79-45e6fcfa51bb
+  text: 悲
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+right:
+  word_uuid: abccfc09-0a86-49bf-a77d-a7d0ca4627ee
+  text: 痛
+  concept: PAIN
+  concept_uuid: 1babfc6a-dc73-4072-bb8a-21a58f671735
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

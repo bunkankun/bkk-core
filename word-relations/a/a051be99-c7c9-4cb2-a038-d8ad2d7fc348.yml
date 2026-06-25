@@ -1,0 +1,32 @@
+uuid: a051be99-c7c9-4cb2-a038-d8ad2d7fc348
+type: word-relation
+group_uuid: a051be99-c7c9-4cb2-a038-d8ad2d7fc348
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 64ede978-68c8-4562-80cf-e8ab34fae98f
+  text: 直
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 老子
+    line_uuid: 92ea7263-fe49-4e78-8a52-f474a40f35bb
+    line_id: KR5c0057_tls_058-1a.16
+    textline: 直而不肆
+    offset: 5
+    range: 1
+right:
+  word_uuid: e0685339-63c0-4688-80ee-55651b4d5bd0
+  text: 肆
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 老子
+    line_uuid: 92ea7263-fe49-4e78-8a52-f474a40f35bb
+    line_id: KR5c0057_tls_058-1a.16
+    textline: 直而不肆
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

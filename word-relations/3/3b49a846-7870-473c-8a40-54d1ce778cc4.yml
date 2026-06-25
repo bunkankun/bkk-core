@@ -1,0 +1,31 @@
+uuid: 3b49a846-7870-473c-8a40-54d1ce778cc4
+type: word-relation
+group_uuid: 3b49a846-7870-473c-8a40-54d1ce778cc4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0f92b81a-8ae2-4cb2-9a92-b8a30476f5c3
+  text: 奉
+  concept: PROMOTE
+  concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 832acfe9-0be6-4f22-8dda-3969b23f3483
+    line_id: KR3c0005_tls_014-19a.5
+    textline: “我不以清廉方正奉法
+    offset: 9
+    range: 1
+right:
+  word_uuid: 15fa2582-96d0-40d4-969b-f1db21c36b75
+  text: 枉
+  concept: TWIST
+  concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+  attestation:
+    text_title: 韓非子
+    line_uuid: b01e1b6a-fbc4-463f-916e-c1428d4fee99
+    textline: 乃以貪污之心枉法
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

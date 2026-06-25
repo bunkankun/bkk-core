@@ -1,0 +1,32 @@
+uuid: 4bf88c0d-b80e-4ee0-8197-914f09079860
+type: word-relation
+group_uuid: 4bf88c0d-b80e-4ee0-8197-914f09079860
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f3913f87-54b3-4b4e-84cd-2b2a60e147ff
+  text: 戈
+  concept: LANCE
+  concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 47163090-7b01-4e8a-8418-4c18b6d6585b
+    line_id: KR3j0009_tls_005-14a.10
+    textline: 多以珠玉戈劍為寶
+    offset: 5
+    range: 1
+right:
+  word_uuid: 35315462-2b98-4759-932b-68ed0d7c5cd7
+  text: 劍
+  concept: SWORD
+  concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 47163090-7b01-4e8a-8418-4c18b6d6585b
+    line_id: KR3j0009_tls_005-14a.10
+    textline: 多以珠玉戈劍為寶
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

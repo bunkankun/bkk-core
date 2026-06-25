@@ -1,0 +1,32 @@
+uuid: 73b083d2-4880-4cfe-b507-9f0ec8a5ea95
+type: word-relation
+group_uuid: 17c3c378-e4e5-434b-90e0-1545a61b1e3b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 00658bf6-378d-4b7e-851f-5f6f6dfc073a
+  text: 斬衰
+  concept: GARMENT FOR MOURNING
+  concept_uuid: a048c75b-69f2-47fc-9848-35ef4a83db76
+  attestation:
+    text_title: 禮記
+    line_uuid: e77ed055-ce35-4f9d-9bb9-34ecdfa0c2b8
+    line_id: KR1d0052_tls_015-23a.2
+    textline: 斬衰之葛與齊衰之麻同
+    offset: 1
+    range: 2
+right:
+  word_uuid: 3393439a-7581-4661-b188-7a0f04bd541c
+  text: 齊衰
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 禮記
+    line_uuid: e028df05-db97-4dac-8cd4-7bcbfc41cace
+    line_id: KR1d0052_tls_015-23a.3
+    textline: 齊衰之葛與大功之麻同
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

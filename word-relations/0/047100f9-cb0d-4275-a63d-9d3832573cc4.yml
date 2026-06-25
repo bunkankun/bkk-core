@@ -1,0 +1,21 @@
+uuid: 047100f9-cb0d-4275-a63d-9d3832573cc4
+type: word-relation
+group_uuid: a0d08686-8273-590e-a8d6-ce14e5395af9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9f8d326b-97ac-414d-b940-270a7d8d50a5
+  text: 嘉
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+right:
+  word_uuid: 2f0aaf0e-2953-4091-8bbf-e85b4cf5f3e8
+  text: 責
+  concept: BLAME
+  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

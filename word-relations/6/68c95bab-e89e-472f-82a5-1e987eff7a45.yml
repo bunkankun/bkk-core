@@ -1,0 +1,21 @@
+uuid: 68c95bab-e89e-472f-82a5-1e987eff7a45
+type: word-relation
+group_uuid: 17b21cec-aa31-5e15-a282-e11ba7ebabc7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2a5c4e4e-268f-4829-877e-08332e0baf0c
+  text: 官
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+right:
+  word_uuid: d9d803d3-2cfa-46e8-a267-09ee19433986
+  text: 吏
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

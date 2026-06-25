@@ -1,0 +1,18 @@
+uuid: 01ea023c-1730-4d6c-a611-3db5c4f76191
+type: word-relation
+group_uuid: 65d9a073-2c4d-593f-b077-d7fed79425ac
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ae7c2ffb-2ada-44d2-a331-6c0e5d77c3e3
+  text: 縛
+  concept: BIND
+  concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+right:
+  word_uuid: 9f714e41-05e6-4ba3-ac67-2df851efec18
+  text: 束
+  concept: BIND
+  concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: eca46041-ba0f-40c2-9527-43a85dfa5ff5
+type: word-relation
+group_uuid: eca46041-ba0f-40c2-9527-43a85dfa5ff5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: add924db-054c-4dd6-8829-0064f3365fcc
+  text: 重
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d6558751-ceab-4da9-88a7-0314a4a5091d
+    textline: 非不重其國愛其身也
+    offset: 3
+    range: 1
+right:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d6558751-ceab-4da9-88a7-0314a4a5091d
+    textline: 非不重其國愛其身也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

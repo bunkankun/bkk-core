@@ -1,0 +1,32 @@
+uuid: a639ad63-a68e-4a1f-9e5a-bd6cd4d69eb6
+type: word-relation
+group_uuid: a639ad63-a68e-4a1f-9e5a-bd6cd4d69eb6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c6cdf2af-8d5b-4191-9af6-8cc62050fb21
+  text: 戰
+  concept: TREMBLE
+  concept_uuid: b237081d-2ffa-4cc5-bb3e-04792610663b
+  attestation:
+    text_title: 論語
+    line_uuid: 08d347dc-3231-415e-bf01-c1f2820181d4
+    line_id: KR1h0004_tls_003-22a.8
+    textline: 使民戰栗
+    offset: 3
+    range: 1
+right:
+  word_uuid: 279ea704-dac3-444d-a72f-f1ed939b07ae
+  text: 栗
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 論語
+    line_uuid: 08d347dc-3231-415e-bf01-c1f2820181d4
+    line_id: KR1h0004_tls_003-22a.8
+    textline: 使民戰栗
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

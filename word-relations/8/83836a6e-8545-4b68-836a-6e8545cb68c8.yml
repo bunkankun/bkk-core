@@ -1,0 +1,32 @@
+uuid: 83836a6e-8545-4b68-836a-6e8545cb68c8
+type: word-relation
+group_uuid: 162c0188-edf5-479e-b099-447ad9e8d82d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 631aa9f8-04b3-4450-bb6d-f23dfd3b5d99
+  text: 厚
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.4
+    textline: 厚葬久喪以送死
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1abfe24c-c7f2-49ad-ae90-e16e450deffc
+  text: 葬
+  concept: BURY
+  concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.4
+    textline: 厚葬久喪以送死
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-23T03:23:58.812+09:00'

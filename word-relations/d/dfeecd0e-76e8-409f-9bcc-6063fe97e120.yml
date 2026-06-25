@@ -1,0 +1,18 @@
+uuid: dfeecd0e-76e8-409f-9bcc-6063fe97e120
+type: word-relation
+group_uuid: b489877e-9bc1-5c0a-94fa-92908075ba39
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d87eea5f-0aaa-4866-823b-9beee6d1e49d
+  text: 恥
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+right:
+  word_uuid: 8cec9621-f1fd-42e2-ad0e-134c2f104f43
+  text: 愧愧
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+source:
+  source_file: word-relations.xml

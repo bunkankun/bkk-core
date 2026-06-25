@@ -1,0 +1,32 @@
+uuid: baf9a98d-0a89-482c-aed5-42cf0917bc13
+type: word-relation
+group_uuid: baf9a98d-0a89-482c-aed5-42cf0917bc13
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 243789cc-ac44-4553-838b-3052b944344c
+    line_id: KR3c0005_tls_038-20a.8
+    textline: “葉都大而國小
+    offset: 6
+    range: 1
+right:
+  word_uuid: d5c15d69-0ee8-4396-a6c6-13ace5a0e6f5
+  text: 都
+  concept: CAPITAL CITY
+  concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 243789cc-ac44-4553-838b-3052b944344c
+    line_id: KR3c0005_tls_038-20a.8
+    textline: “葉都大而國小
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

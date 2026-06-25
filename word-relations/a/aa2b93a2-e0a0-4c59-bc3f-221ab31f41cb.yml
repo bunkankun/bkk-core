@@ -1,0 +1,32 @@
+uuid: aa2b93a2-e0a0-4c59-bc3f-221ab31f41cb
+type: word-relation
+group_uuid: aa2b93a2-e0a0-4c59-bc3f-221ab31f41cb
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: bbcc85b5-12ba-4e60-9654-40a1a3a89f6e
+  text: 乎
+  concept: TOWARDS
+  concept_uuid: 2313d986-de8b-46fa-a62d-5b1f29122caa
+  attestation:
+    text_title: 文子
+    line_uuid: 9320721e-4277-4b4d-87d4-98a0fa86db12
+    line_id: KR5c0118_tls_003-1a.16
+    textline: 精神本乎天
+    offset: 4
+    range: 1
+right:
+  word_uuid: d1260bf7-78fd-45fa-9286-27983c8dcfa7
+  text: 於
+  concept: RELATION
+  concept_uuid: 87a0729f-0c38-4ded-950b-0cb39f37e6f9
+  attestation:
+    text_title: 文子
+    line_uuid: 2a17373f-8484-432a-afcb-fdfafc0ac743
+    line_id: KR5c0118_tls_003-1a.17
+    textline: 骨骸根於地
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 2384ddec-2d32-4bec-81b9-aba2b3cef00e
+type: word-relation
+group_uuid: d9264fa5-525d-5d6b-b1b1-975dd0589206
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 064b80a2-9af4-46d7-a1d6-89802baa39d5
+  text: 階
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+right:
+  word_uuid: f62a8007-3541-4a14-b7fc-407064b8732a
+  text: 由
+  concept: FROM
+  concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

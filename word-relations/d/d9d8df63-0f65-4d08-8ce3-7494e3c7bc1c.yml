@@ -1,0 +1,35 @@
+uuid: d9d8df63-0f65-4d08-8ce3-7494e3c7bc1c
+type: word-relation
+group_uuid: d9d8df63-0f65-4d08-8ce3-7494e3c7bc1c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5df2516e-8e89-48b1-829e-12da2b2e1ee8
+  text: 急
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 祖堂集
+    line_uuid: d5807ef2-0334-4ead-a6bf-070985d8660d
+    line_id: KR6q0002_Yan_003-1145a.2
+    textline: 不急不緩
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9018fe61-fda7-4a71-ad38-a5cf3856f610
+  text: 緩
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+  attestation:
+    text_title: 祖堂集
+    line_uuid: d5807ef2-0334-4ead-a6bf-070985d8660d
+    line_id: KR6q0002_Yan_003-1145a.2
+    textline: 不急不緩
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

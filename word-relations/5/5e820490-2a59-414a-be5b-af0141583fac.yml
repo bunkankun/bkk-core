@@ -1,0 +1,32 @@
+uuid: 5e820490-2a59-414a-be5b-af0141583fac
+type: word-relation
+group_uuid: 247427e0-0295-4261-80aa-0acf5427d237
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 韓非子
+    line_uuid: a93d1064-393d-4cb4-8468-1fbca080eb09
+    line_id: KR3c0005_tls_006-26a.6
+    textline: 卑主之名以顯其身
+    offset: 8
+    range: 1
+right:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 韓非子
+    line_uuid: c8fc0f05-b5d3-47b8-b30f-c541ec663c88
+    line_id: KR3c0005_tls_006-26a.7
+    textline: 毀國之厚以利其家
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

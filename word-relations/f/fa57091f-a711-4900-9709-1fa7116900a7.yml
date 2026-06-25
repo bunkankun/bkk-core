@@ -1,0 +1,32 @@
+uuid: fa57091f-a711-4900-9709-1fa7116900a7
+type: word-relation
+group_uuid: d10a34c8-c330-57ad-af73-6b16dd3da321
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-3a.6
+    textline: 求在我者也
+    offset: 3
+    range: 1
+right:
+  word_uuid: fbfb9f53-bbff-4ed5-9e34-c5245a9d37e2
+  text: 外
+  concept: OUTSIDE
+  concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-4a.1
+    textline: 求在外者也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-02-10T23:23:49.043+09:00'

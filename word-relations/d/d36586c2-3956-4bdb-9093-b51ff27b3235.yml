@@ -1,0 +1,18 @@
+uuid: d36586c2-3956-4bdb-9093-b51ff27b3235
+type: word-relation
+group_uuid: 25ce5884-ffba-5947-8424-590b5b3793ba
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: b8b79c2d-df37-4677-b27b-bea0f4c6f52f
+  text: 勇
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+source:
+  source_file: word-relations.xml

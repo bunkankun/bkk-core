@@ -1,0 +1,32 @@
+uuid: a57d2fc1-d98f-4dc8-8101-62e60b01b7c2
+type: word-relation
+group_uuid: a57d2fc1-d98f-4dc8-8101-62e60b01b7c2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e46713d0-6cb1-40cb-98f8-006b1740de93
+    line_id: KR3c0005_tls_019-34a.7
+    textline: 不矯於名譽矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7ad0e38e-4443-4cf8-a9a1-94cadd3627a0
+  text: 譽
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e46713d0-6cb1-40cb-98f8-006b1740de93
+    line_id: KR3c0005_tls_019-34a.7
+    textline: 不矯於名譽矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

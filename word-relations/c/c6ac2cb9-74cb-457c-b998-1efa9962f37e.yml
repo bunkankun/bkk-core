@@ -1,0 +1,32 @@
+uuid: c6ac2cb9-74cb-457c-b998-1efa9962f37e
+type: word-relation
+group_uuid: c6ac2cb9-74cb-457c-b998-1efa9962f37e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c04e6e0d-35b3-440c-9828-f069a0205b16
+  text: 約
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 史記
+    line_uuid: bbe415e7-37e9-494f-9137-97a174f98901
+    line_id: KR2a0001_tls_086-34a.90
+    textline: 必得約契以報太子也
+    offset: 3
+    range: 1
+right:
+  word_uuid: ed872221-feaf-4a7e-8115-cc9979249b60
+  text: 契
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 史記
+    line_uuid: bbe415e7-37e9-494f-9137-97a174f98901
+    line_id: KR2a0001_tls_086-34a.90
+    textline: 必得約契以報太子也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

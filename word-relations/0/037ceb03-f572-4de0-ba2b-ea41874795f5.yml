@@ -1,0 +1,32 @@
+uuid: 037ceb03-f572-4de0-ba2b-ea41874795f5
+type: word-relation
+group_uuid: e59b7b5d-910d-4397-a795-ee7078f874ba
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6fae6b48-c46d-422d-b31b-13d4a86addc7
+  text: 妻
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 韓非子
+    line_uuid: 95811f86-f0b6-433a-baa6-53c35ab2d785
+    line_id: KR3c0005_tls_014-42a.4
+    textline: 春申君之正妻子曰甲
+    offset: 6
+    range: 1
+right:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 韓非子
+    line_uuid: 95811f86-f0b6-433a-baa6-53c35ab2d785
+    line_id: KR3c0005_tls_014-42a.4
+    textline: 春申君之正妻子曰甲
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: d44590f0-1d64-4ae4-b9ca-61e81f9d96e8
+type: word-relation
+group_uuid: 073a2234-2d73-5ae1-8f17-98ea56e78d91
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d3e177ed-1428-4c7b-a576-b7091efdbee6
+  text: 節
+  concept: STANDARD
+  concept_uuid: 4f0f4bf8-e5f0-464e-b7d9-4820f6ff176a
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8645e683-5292-4714-b363-0a967ff4b285
+type: word-relation
+group_uuid: 8645e683-5292-4714-b363-0a967ff4b285
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論語
+    line_uuid: c21582e3-6115-4ee2-8526-cc48ebefef72
+    line_id: KR1h0004_tls_009-30a.3
+    textline: 「知者不惑
+    offset: 2
+    range: 1
+right:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 論語
+    line_uuid: c21582e3-6115-4ee2-8526-cc48ebefef72
+    line_id: KR1h0004_tls_009-30a.3
+    textline: 「知者不惑
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

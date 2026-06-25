@@ -1,0 +1,32 @@
+uuid: 9cc6460e-caf2-4096-8646-0ecaf2109679
+type: word-relation
+group_uuid: ba116fde-3afe-5c6c-be25-8afcfc6917ae
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6df05cac-664b-46c8-9bb6-ed34a2ae6088
+  text: 粗
+  concept: COARSE
+  concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_001-22a.7
+    textline: 彼以其粗
+    offset: 5
+    range: 1
+right:
+  word_uuid: b9244375-00b8-4987-bee0-b571daedd370
+  text: 精
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_001-22a.8
+    textline: 顏以其精
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T04:24:50.309+09:00'

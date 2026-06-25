@@ -1,0 +1,30 @@
+uuid: 1be39336-63e4-43b0-bff2-d97d573663d4
+type: word-relation
+group_uuid: 1be39336-63e4-43b0-bff2-d97d573663d4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a92bd4fd-e395-4a54-b371-a25b5638862f
+  text: 真
+  concept: GENUINE
+  concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+  attestation:
+    text_title: 楚辭
+    line_uuid: aced0c3e-6830-420a-bede-44db3d3bc2f1
+    textline: 夫人孰能不反其真情
+    offset: 8
+    range: 1
+right:
+  word_uuid: 7a8ca2a6-5b72-472e-b1ca-42ac652ca243
+  text: 情
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 楚辭
+    line_uuid: aced0c3e-6830-420a-bede-44db3d3bc2f1
+    textline: 夫人孰能不反其真情
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

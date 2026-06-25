@@ -1,0 +1,18 @@
+uuid: f2423dd7-5c80-45fa-98a8-b33ed30486b5
+type: word-relation
+group_uuid: 5f7667db-633c-599e-a66e-72f6d8c42012
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 79cc1222-323e-4a6d-9922-0416d9fa4df8
+  text: 延
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+right:
+  word_uuid: bc2739d5-c55d-4d96-9ff2-07c3a16b43d6
+  text: 舒
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: a591ea17-e342-4dab-9f01-639e2f63dc3a
+type: word-relation
+group_uuid: f29a55a9-d64e-5205-be0f-c4fcb10f390c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9f958737-858f-47d5-a77d-86422b8f21bf
+  text: 冬
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+right:
+  word_uuid: 76c48b50-be0d-4935-ab1e-5d88e6377cb4
+  text: 夏
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+source:
+  source_file: word-relations.xml

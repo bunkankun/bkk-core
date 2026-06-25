@@ -1,0 +1,32 @@
+uuid: 67f0ff00-1ac4-493c-8861-e6bd1f9f49dd
+type: word-relation
+group_uuid: b2937687-81a4-4342-b2bd-b743fd7e2f24
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 46bf3754-0fcd-4ae9-b25c-be86ce5986c5
+  text: 晝
+  concept: DAY
+  concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+  attestation:
+    text_title: 列子
+    line_uuid: d72968b3-daa7-4961-9c11-89d2105ee11e
+    line_id: KR5c0124_tls_003-5a.8
+    textline: 晝則呻呼而即事
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8b48b4fd-c16f-4229-b145-3c0078b6e9f9
+  text: 夜
+  concept: NIGHT
+  concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+  attestation:
+    text_title: 列子
+    line_uuid: 745252b6-915d-46be-8421-858712951bc0
+    line_id: KR5c0124_tls_003-5a.9
+    textline: 夜則昏憊而熟寐
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

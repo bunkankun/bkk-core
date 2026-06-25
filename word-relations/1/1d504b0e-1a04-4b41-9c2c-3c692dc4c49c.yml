@@ -1,0 +1,32 @@
+uuid: 1d504b0e-1a04-4b41-9c2c-3c692dc4c49c
+type: word-relation
+group_uuid: 1d504b0e-1a04-4b41-9c2c-3c692dc4c49c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1dc8a066-eb41-4f68-9262-d453f28b1927
+  text: 始
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 論語
+    line_uuid: 99344983-1435-465a-8a46-466b26cbec27
+    line_id: KR1h0004_tls_003-26a.5
+    textline: 始作
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6d0bcbea-77f8-4b57-8864-f27372abaf76
+  text: 從
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+  attestation:
+    text_title: 論語
+    line_uuid: e6ed7503-8244-48cf-a154-523e854f1e72
+    line_id: KR1h0004_tls_003-26a.7
+    textline: 從之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

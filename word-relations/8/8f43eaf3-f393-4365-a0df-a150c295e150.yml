@@ -1,0 +1,32 @@
+uuid: 8f43eaf3-f393-4365-a0df-a150c295e150
+type: word-relation
+group_uuid: 8f43eaf3-f393-4365-a0df-a150c295e150
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: feb9442d-289e-49f6-b560-d96009c707b7
+    line_id: KR1e0001_tls_005-350a.7
+    textline: 「彼眾我寡
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6e921dfc-61f2-4c09-bff0-85645aebce17
+  text: 我
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: feb9442d-289e-49f6-b560-d96009c707b7
+    line_id: KR1e0001_tls_005-350a.7
+    textline: 「彼眾我寡
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

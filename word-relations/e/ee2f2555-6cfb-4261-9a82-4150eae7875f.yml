@@ -1,0 +1,32 @@
+uuid: ee2f2555-6cfb-4261-9a82-4150eae7875f
+type: word-relation
+group_uuid: ee2f2555-6cfb-4261-9a82-4150eae7875f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3eb76d24-2da5-41fc-8ef2-435cc2b481c0
+  text: 敏
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+  attestation:
+    text_title: 論語
+    line_uuid: 2bc64346-6bb5-4e5f-9054-3de5f4f44675
+    line_id: KR1h0004_tls_001-14a.5
+    textline: 敏於事而慎於言
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0ad2e8e0-4724-4954-8899-a6aae9c5287b
+  text: 慎
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 論語
+    line_uuid: 2bc64346-6bb5-4e5f-9054-3de5f4f44675
+    line_id: KR1h0004_tls_001-14a.5
+    textline: 敏於事而慎於言
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

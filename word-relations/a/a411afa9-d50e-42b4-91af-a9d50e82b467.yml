@@ -1,0 +1,32 @@
+uuid: a411afa9-d50e-42b4-91af-a9d50e82b467
+type: word-relation
+group_uuid: ef817919-be2b-5909-905d-8abccb2385ff
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_014-55a.6
+    textline: 狂者進取
+    offset: 1
+    range: 1
+right:
+  word_uuid: ca74b737-d599-48e9-b76b-a69c403c1847
+  text: 狷
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_014-55a.7
+    textline: 狷者有所不為也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T00:20:24.17+09:00'

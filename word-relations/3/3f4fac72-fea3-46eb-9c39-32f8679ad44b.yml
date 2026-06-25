@@ -1,0 +1,32 @@
+uuid: 3f4fac72-fea3-46eb-9c39-32f8679ad44b
+type: word-relation
+group_uuid: 3f4fac72-fea3-46eb-9c39-32f8679ad44b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b80bff6d-0ac3-4af4-b37a-d626b1ad5b97
+  text: 春秋
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 素問
+    line_uuid: a5f93cca-ea38-4b89-bd75-959f14e74b0e
+    line_id: KR3e0001_tls_001-1a.12
+    textline: 春秋皆度百歲
+    offset: 1
+    range: 2
+right:
+  word_uuid: c5ef4469-8908-4e7b-9b38-e101f20184dc
+  text: 年
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 素問
+    line_uuid: d28afada-c5bb-43f0-86e5-1e4451a04377
+    line_id: KR3e0001_tls_001-1a.15
+    textline: 年半百
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

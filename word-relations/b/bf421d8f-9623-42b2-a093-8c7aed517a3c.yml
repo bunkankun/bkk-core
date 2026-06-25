@@ -1,0 +1,32 @@
+uuid: bf421d8f-9623-42b2-a093-8c7aed517a3c
+type: word-relation
+group_uuid: bf421d8f-9623-42b2-a093-8c7aed517a3c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 論衡
+    line_uuid: 176a59df-c93f-49f2-9b61-25617e303ec7
+    line_id: KR3j0080_tls_024-31a.10
+    textline: 謂身死精神去乎
+    offset: 2
+    range: 1
+right:
+  word_uuid: d0f02e93-33ec-4649-9c97-c21a0fb29f2a
+  text: 精神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 論衡
+    line_uuid: 176a59df-c93f-49f2-9b61-25617e303ec7
+    line_id: KR3j0080_tls_024-31a.10
+    textline: 謂身死精神去乎
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

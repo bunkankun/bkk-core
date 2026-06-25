@@ -1,0 +1,21 @@
+uuid: ba60b8a7-5c1c-4e51-8928-6b46ae55e0b5
+type: word-relation
+group_uuid: 5fda7954-4837-5d5f-a5c4-f41d963aaa44
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 03b83004-8a84-4bb0-939b-9acc9f4aceb7
+  text: 崇
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+right:
+  word_uuid: a841e9f1-9eb5-44ee-bab8-92a96790a122
+  text: 下
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

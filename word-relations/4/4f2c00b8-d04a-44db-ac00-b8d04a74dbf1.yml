@@ -1,0 +1,32 @@
+uuid: 4f2c00b8-d04a-44db-ac00-b8d04a74dbf1
+type: word-relation
+group_uuid: e6990c91-905f-5acc-b5ee-bd64aeaafc71
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: b1d44720-5029-4784-9954-0101718cdc1a
+  text: 生
+  concept: LIFE
+  concept_uuid: 0253f062-ec1c-4af9-8d78-6d22ef588077
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-6a.1
+    textline: 有生有知
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-6a.1
+    textline: 有生有知
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-20T00:21:07.101+09:00'

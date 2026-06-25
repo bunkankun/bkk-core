@@ -1,0 +1,31 @@
+uuid: 9c80201d-f2e2-49bc-867d-ad965169acb1
+type: word-relation
+group_uuid: 9c80201d-f2e2-49bc-867d-ad965169acb1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 百喻經
+    line_uuid: 9989b7a1-4aec-4c3f-9820-f50e0dbf3021
+    textline: 若犯一戒不生慚愧清淨懺悔
+    offset: 2
+    range: 1
+right:
+  word_uuid: e6b09f23-171d-4c94-acf8-cf4e53291805
+  text: 破
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 百喻經
+    line_uuid: 18898ed2-513e-40d4-90f3-0fe71808cc82
+    line_id: KR6b0066_T_002-0548c.23
+    textline: 「我已破一戒
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

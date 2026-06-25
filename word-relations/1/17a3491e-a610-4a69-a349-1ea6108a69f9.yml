@@ -1,0 +1,35 @@
+uuid: 17a3491e-a610-4a69-a349-1ea6108a69f9
+type: word-relation
+group_uuid: 5214b982-05ad-5c49-8498-67cfc27094b7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e9703dfb-e050-4b0a-85ee-c4512e47e8cf
+  text: 古
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.19
+    textline: 不必法古
+    offset: 4
+    range: 1
+right:
+  word_uuid: 965c3255-56ae-47b4-948d-6906a49df508
+  text: 舊
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.21
+    textline: 不必循舊
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:50:47.944+09:00'

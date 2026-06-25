@@ -1,0 +1,32 @@
+uuid: 1b6a831c-6643-437d-9177-c0737f4be953
+type: word-relation
+group_uuid: 1b6a831c-6643-437d-9177-c0737f4be953
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d987eecd-2413-40ce-9e2d-b7ce5c6d0a94
+  text: 四海
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 史記
+    line_uuid: 3f94c785-54f6-49d0-ae92-52c6406fafa3
+    line_id: KR2a0001_tls_006-323a.7
+    textline: 囊括四海之意
+    offset: 3
+    range: 2
+right:
+  word_uuid: a77b8e55-b21c-4595-838b-2977f4d57ecf
+  text: 八荒
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 史記
+    line_uuid: 97ff49cd-f315-4690-a5e5-afea6ae5dc04
+    line_id: KR2a0001_tls_006-323a.8
+    textline: 并吞八荒之心
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

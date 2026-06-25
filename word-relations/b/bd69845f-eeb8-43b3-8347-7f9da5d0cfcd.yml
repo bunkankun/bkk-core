@@ -1,0 +1,31 @@
+uuid: bd69845f-eeb8-43b3-8347-7f9da5d0cfcd
+type: word-relation
+group_uuid: bd69845f-eeb8-43b3-8347-7f9da5d0cfcd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 99b90363-4722-4ea8-84c5-59427a69a5bd
+  text: 為
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3cc8b004-ab02-46d1-90d5-54011b13623c
+    textline: 強以其所不能為
+    offset: 7
+    range: 1
+right:
+  word_uuid: d5eb7e41-b106-4f07-b176-92601c391333
+  text: 已
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: 646a4b82-ca83-41f6-b314-42b979904119
+    line_id: KR3c0005_tls_012-11a.3
+    textline: 止以其所不能已
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

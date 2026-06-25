@@ -1,0 +1,32 @@
+uuid: 2bb53c62-4985-4f51-9d81-1d12abef954b
+type: word-relation
+group_uuid: 89122da2-f73d-4aeb-a443-3411eebdbd9f
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 95fa2b31-a7d4-44a1-bf37-33f088288d39
+  text: 治
+  concept: ORDERLY
+  concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+  attestation:
+    text_title: 韓非子
+    line_uuid: 644f1fe9-3417-453d-8574-db2e5a9adf3c
+    line_id: KR3c0005_tls_014-31a.6
+    textline: 是以國治而兵強
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 644f1fe9-3417-453d-8574-db2e5a9adf3c
+    line_id: KR3c0005_tls_014-31a.6
+    textline: 是以國治而兵強
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 119b28e0-410a-4591-af6d-d4f153caffde
+type: word-relation
+group_uuid: 818ab708-602e-4a15-bad9-dd6efc580f9d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 356b690e-f5e9-468c-add1-829149245275
+    line_id: KR3j0009_tls_003-31a.7
+    textline: 賢主也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 356b690e-f5e9-468c-add1-829149245275
+    line_id: KR3j0009_tls_003-31a.7
+    textline: 賢主也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

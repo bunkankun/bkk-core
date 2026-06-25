@@ -1,0 +1,21 @@
+uuid: 4778d7b0-4bf8-4875-b4fc-97010b3e9b63
+type: word-relation
+group_uuid: 1600d224-b818-557e-8919-11e7ebf93e0a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fef14a53-6f38-43f8-881d-4b17f5f71520
+  text: 囚
+  concept: PRISONER
+  concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+right:
+  word_uuid: 2d145868-e1c3-475c-adc8-c1bb3d6ef691
+  text: 拘
+  concept: PRISONER
+  concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

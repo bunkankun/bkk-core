@@ -1,0 +1,32 @@
+uuid: dbad6a58-7ac3-4cfa-ad6a-587ac3bcfa26
+type: word-relation
+group_uuid: 26705429-3411-5eb9-b463-835b9abde682
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6eb42597-179b-42cf-b0a2-41899d6b5e4a
+  text: 邪
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543c.10
+    textline: 聞他邪說
+    offset: 3
+    range: 1
+right:
+  word_uuid: 36967578-7f72-45c1-8819-4f94b950220e
+  text: 說
+  concept: DOCTRINE
+  concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543c.10
+    textline: 聞他邪說
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-15T00:42:42.671+09:00'

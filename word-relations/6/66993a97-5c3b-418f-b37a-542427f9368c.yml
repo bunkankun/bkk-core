@@ -1,0 +1,21 @@
+uuid: 66993a97-5c3b-418f-b37a-542427f9368c
+type: word-relation
+group_uuid: 46296a10-e530-5fea-87b7-c182e1ff41d6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1a04eb28-a3cb-4a6e-9428-d7f296479957
+  text: 均鈞
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+right:
+  word_uuid: 71df4c84-b796-4222-b398-a73c326e4bcb
+  text: 等
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

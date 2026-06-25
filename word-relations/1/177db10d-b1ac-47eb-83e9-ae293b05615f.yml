@@ -1,0 +1,18 @@
+uuid: 177db10d-b1ac-47eb-83e9-ae293b05615f
+type: word-relation
+group_uuid: 61516838-f15c-5518-80bf-8ea6b64fa737
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6df05cac-664b-46c8-9bb6-ed34a2ae6088
+  text: 粗麤
+  concept: COARSE
+  concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+right:
+  word_uuid: 32f6c380-5ceb-4e81-94df-7130e574f778
+  text: 細軟
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+source:
+  source_file: word-relations.xml

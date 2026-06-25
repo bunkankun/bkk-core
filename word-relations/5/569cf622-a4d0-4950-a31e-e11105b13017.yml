@@ -1,0 +1,32 @@
+uuid: 569cf622-a4d0-4950-a31e-e11105b13017
+type: word-relation
+group_uuid: 569cf622-a4d0-4950-a31e-e11105b13017
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 2b22ae20-c449-4235-be65-5a9bdfed837d
+  text: 侵
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8c97024d-7e17-4b58-a372-585da2b57156
+    line_id: KR3j0009_tls_005-33a.5
+    textline: 侵削諸侯
+    offset: 1
+    range: 1
+right:
+  word_uuid: 78c0672e-a316-45f4-9946-6d938217681f
+  text: 削
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8c97024d-7e17-4b58-a372-585da2b57156
+    line_id: KR3j0009_tls_005-33a.5
+    textline: 侵削諸侯
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

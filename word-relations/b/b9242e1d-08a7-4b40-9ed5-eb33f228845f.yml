@@ -1,0 +1,32 @@
+uuid: b9242e1d-08a7-4b40-9ed5-eb33f228845f
+type: word-relation
+group_uuid: b9242e1d-08a7-4b40-9ed5-eb33f228845f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: b0303aaf-ea31-4040-9a21-9a82bbefb4e6
+  text: 持
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: 808a7b25-8fd3-4fcc-937b-a70346b52050
+    line_id: KR3c0005_tls_008-40a.4
+    textline: 夫妻持政
+    offset: 3
+    range: 1
+right:
+  word_uuid: a98edd7b-b5b2-481d-97e2-8c7990b586db
+  text: 政
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 808a7b25-8fd3-4fcc-937b-a70346b52050
+    line_id: KR3c0005_tls_008-40a.4
+    textline: 夫妻持政
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9555eb37-5352-416c-8a3c-f4ceee57d667
+type: word-relation
+group_uuid: 9555eb37-5352-416c-8a3c-f4ceee57d667
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 335eb9fe-49b5-4d5b-afa8-dd607998195f
+  text: 清
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9510a4c9-be62-4896-a630-393415d63058
+    line_id: KR3c0005_tls_006-21a.6
+    textline: 清暖寒熱
+    offset: 1
+    range: 1
+right:
+  word_uuid: 25d45e3a-5d32-4bbf-b450-53340520ec38
+  text: 暖
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9510a4c9-be62-4896-a630-393415d63058
+    line_id: KR3c0005_tls_006-21a.6
+    textline: 清暖寒熱
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

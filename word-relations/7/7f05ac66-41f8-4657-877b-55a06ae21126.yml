@@ -1,0 +1,30 @@
+uuid: 7f05ac66-41f8-4657-877b-55a06ae21126
+type: word-relation
+group_uuid: 7f05ac66-41f8-4657-877b-55a06ae21126
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 926c7837-38c0-4294-a4e9-fa6329fdf5df
+  text: 今時
+  concept: NOW
+  concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+  attestation:
+    text_title: 素問
+    line_uuid: 0d545de8-687f-482d-adf8-6ca5f2b3de8a
+    textline: 今時之人
+    offset: 1
+    range: 2
+right:
+  word_uuid: 3f42e348-f6a0-42df-a42e-7f8f98bd6535
+  text: 上古
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 素問
+    line_uuid: d4f75ba3-66e7-4c45-ba2f-a09f24ad32d1
+    textline: 上古之人
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

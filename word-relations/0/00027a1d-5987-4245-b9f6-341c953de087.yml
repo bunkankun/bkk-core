@@ -1,0 +1,21 @@
+uuid: 00027a1d-5987-4245-b9f6-341c953de087
+type: word-relation
+group_uuid: 0c7eea86-4514-5c65-939f-25d53b8cc130
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: f3c9e217-61d1-40ec-80f5-0b05f3c217dc
+  text: 嫁
+  concept: MARRY
+  concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+right:
+  word_uuid: 9ab09f13-253a-4c91-a7e5-61625c7b97bc
+  text: 取娶
+  concept: MARRY
+  concept_uuid: 4affa3a2-bf8d-40e9-93ea-02ba10fcd7a0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

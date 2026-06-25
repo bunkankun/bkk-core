@@ -1,0 +1,32 @@
+uuid: 1e3e1c9a-fb45-4dba-9100-8070e3188f76
+type: word-relation
+group_uuid: aee5b7c9-5972-45e9-866d-bef5e4389cdb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 98c0b699-6352-4a25-9ef5-3837ab67c480
+  text: 寇
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a25bc887-3e0c-4352-9874-479ed643d54e
+    line_id: KR1e0001_tls_009-821a.75
+    textline: 不畏寇盜
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3d0d905e-90c1-4f8f-bc00-4e4f51beb5c8
+  text: 盜
+  concept: THIEF
+  concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a25bc887-3e0c-4352-9874-479ed643d54e
+    line_id: KR1e0001_tls_009-821a.75
+    textline: 不畏寇盜
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: eff06c39-ec75-47cd-ba54-b6c84accb94a
+type: word-relation
+group_uuid: 1454702e-99d9-4453-a104-cc8cb3dc8d0d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: d46a5ce3-2a05-4d3e-b8bd-988159686f53
+    line_id: KR1h0004_tls_001-8a.5
+    textline: 「主忠信
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: d46a5ce3-2a05-4d3e-b8bd-988159686f53
+    line_id: KR1h0004_tls_001-8a.5
+    textline: 「主忠信
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

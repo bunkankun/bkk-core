@@ -1,0 +1,32 @@
+uuid: a82a692f-f411-4753-94c8-97325bfd3778
+type: word-relation
+group_uuid: a82a692f-f411-4753-94c8-97325bfd3778
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 老子
+    line_uuid: 6c1914b0-f03e-4925-9d5a-a86d9711644b
+    line_id: KR5c0057_tls_067-1a.3
+    textline: 天下皆謂我道大
+    offset: 5
+    range: 1
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 老子
+    line_uuid: 6c1914b0-f03e-4925-9d5a-a86d9711644b
+    line_id: KR5c0057_tls_067-1a.3
+    textline: 天下皆謂我道大
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

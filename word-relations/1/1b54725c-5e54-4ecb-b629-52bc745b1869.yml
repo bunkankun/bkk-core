@@ -1,0 +1,31 @@
+uuid: 1b54725c-5e54-4ecb-b629-52bc745b1869
+type: word-relation
+group_uuid: 1b54725c-5e54-4ecb-b629-52bc745b1869
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 80adcc27-0228-4aa2-a110-5c20f3276cc8
+  text: 買
+  concept: BUY
+  concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+  attestation:
+    text_title: 管子
+    line_uuid: 5783f794-ab4b-4838-a18c-75b80fa49d06
+    textline: 買為取(趣）
+    offset: 1
+    range: 1
+right:
+  word_uuid: e8033401-afc8-4acd-86b7-1333e4027785
+  text: 賣
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+  attestation:
+    text_title: 管子
+    line_uuid: 66ac5fe0-83d5-4909-8a60-7d5cc9df7245
+    line_id: KR3c0001_tls_024-168a.4
+    textline: 賈人蓄物而賣為讎
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

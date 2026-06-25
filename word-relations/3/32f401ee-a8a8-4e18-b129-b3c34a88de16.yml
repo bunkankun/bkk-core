@@ -1,0 +1,32 @@
+uuid: 32f401ee-a8a8-4e18-b129-b3c34a88de16
+type: word-relation
+group_uuid: 32f401ee-a8a8-4e18-b129-b3c34a88de16
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 9e5c244f-ff82-4759-a8cf-2a44f0f75d06
+    line_id: KR6q0002_Yan_003-1138a.46
+    textline: 富貴與貧賤
+    offset: 4
+    range: 1
+right:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 9e5c244f-ff82-4759-a8cf-2a44f0f75d06
+    line_id: KR6q0002_Yan_003-1138a.46
+    textline: 富貴與貧賤
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

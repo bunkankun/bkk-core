@@ -1,0 +1,32 @@
+uuid: acd24b7c-9a7a-41a0-802d-6f238e000eb8
+type: word-relation
+group_uuid: d0a84c93-d831-40ef-9935-03f64600c614
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e489e581-cc89-48d1-ac5d-7cb87325901e
+  text: 反
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 韓非子
+    line_uuid: ae850e1d-f28a-4b0e-9e8b-0c8e92d59b9b
+    line_id: KR3c0005_tls_010-135a.9
+    textline: 此若反國
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: ae850e1d-f28a-4b0e-9e8b-0c8e92d59b9b
+    line_id: KR3c0005_tls_010-135a.9
+    textline: 此若反國
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

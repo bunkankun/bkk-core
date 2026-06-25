@@ -1,0 +1,32 @@
+uuid: d8208309-a238-4ece-b458-ad3c38c2453c
+type: word-relation
+group_uuid: 7073a446-cf4f-4db4-b72a-31c8fc68b7dc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6e920588-6e39-4856-ab40-ce1e2328f613
+  text: 悚
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5136bf0d-f394-417a-b654-423326bbdc0e
+    line_id: KR3c0005_tls_030-121a.5
+    textline: 吏乃皆悚懼其所
+    offset: 4
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5136bf0d-f394-417a-b654-423326bbdc0e
+    line_id: KR3c0005_tls_030-121a.5
+    textline: 吏乃皆悚懼其所
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

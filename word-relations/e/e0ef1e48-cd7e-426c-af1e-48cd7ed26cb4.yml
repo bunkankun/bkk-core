@@ -1,0 +1,32 @@
+uuid: e0ef1e48-cd7e-426c-af1e-48cd7ed26cb4
+type: word-relation
+group_uuid: 440e8372-94ef-59cb-b308-97c054dedad7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-27a.2
+    textline: 逢蒙學射於羿
+    offset: 8
+    range: 1
+right:
+  word_uuid: f707e37b-3358-4f21-8852-4c4a4fb6297e
+  text: 射
+  concept: ARCHERY
+  concept_uuid: 7dc4196a-d4e9-48ab-9f3a-3cec77f2b637
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-27a.2
+    textline: 逢蒙學射於羿
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T16:48:29.793+09:00'

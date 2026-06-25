@@ -1,0 +1,32 @@
+uuid: e2b164b9-7230-470d-92d2-f390a9e6829a
+type: word-relation
+group_uuid: e2b164b9-7230-470d-92d2-f390a9e6829a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 631aa9f8-04b3-4450-bb6d-f23dfd3b5d99
+  text: 厚
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+  attestation:
+    text_title: 百喻經
+    line_uuid: 83df3e61-9e77-46bb-86e0-d4b0eb0f2d5d
+    line_id: KR6b0066_T_003-0553a.17
+    textline: 厚加爵賞
+    offset: 1
+    range: 1
+right:
+  word_uuid: cccca165-8f82-4bc5-9c1d-980a0c3ade41
+  text: 大
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 百喻經
+    line_uuid: a0ec1dc1-2b46-492e-941b-3821fa88c4e4
+    line_id: KR6b0066_T_003-0553a.18
+    textline: 大賜珍寶
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

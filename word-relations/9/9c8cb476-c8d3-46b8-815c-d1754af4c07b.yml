@@ -1,0 +1,32 @@
+uuid: 9c8cb476-c8d3-46b8-815c-d1754af4c07b
+type: word-relation
+group_uuid: 9c8cb476-c8d3-46b8-815c-d1754af4c07b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 29dc08a0-3572-4f6b-9549-712677609029
+  text: 闇
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: 38259fa0-988b-4790-a8d9-fea32fd3d8e8
+    line_id: KR3c0005_tls_003-13a.4
+    textline: 不幸而遇悖亂闇惑之主而死
+    offset: 7
+    range: 1
+right:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 38259fa0-988b-4790-a8d9-fea32fd3d8e8
+    line_id: KR3c0005_tls_003-13a.4
+    textline: 不幸而遇悖亂闇惑之主而死
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

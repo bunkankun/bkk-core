@@ -1,0 +1,30 @@
+uuid: 17354870-16bb-4727-9496-99373b90ca1e
+type: word-relation
+group_uuid: 17354870-16bb-4727-9496-99373b90ca1e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4a3832e6-b413-4022-ba4d-2150587a224c
+  text: 溼
+  concept: MOIST
+  concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 7d537f41-8499-4f29-951b-5fb000aa0626
+    textline: 斂乎太陰而不溼
+    range: 1
+right:
+  word_uuid: 20dde62e-738a-4ca9-8879-ab4d63c915c1
+  text: 枯
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: a6346863-0f0f-461c-b259-c591d6d6402a
+    line_id: KR1c0066_tls_005-29a.10
+    textline: 散乎太陽而不枯
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

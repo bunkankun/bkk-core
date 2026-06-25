@@ -1,0 +1,39 @@
+uuid: ee48f511-997d-45d7-ae8d-f3cb6f42dbcc
+type: word-relation
+group_uuid: ee48f511-997d-45d7-ae8d-f3cb6f42dbcc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b85973cf-5445-423e-861a-c81a71dfe255
+  text: 弛
+  concept: LOOSEN
+  concept_uuid: fca95f35-7f10-4653-9dae-b902e38e9c36
+  attestation:
+    text_title: 法言
+    line_uuid: 968785db-6701-4f87-bc58-26d619553bc5
+    line_id: KR3a0009_tls_008-25a.3
+    textline: 弛而不失其良兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: fac8ddc5-4319-4bd4-a98c-6b74af7d1843
+  text: 張
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+  attestation:
+    text_title: 法言
+    line_uuid: 6707aae4-9e08-4c79-8178-10d59bcb4d24
+    line_id: KR3a0009_tls_008-25a.2
+    textline: 見弓之張兮
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '297'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

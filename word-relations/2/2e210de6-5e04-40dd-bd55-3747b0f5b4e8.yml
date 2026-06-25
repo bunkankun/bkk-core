@@ -1,0 +1,32 @@
+uuid: 2e210de6-5e04-40dd-bd55-3747b0f5b4e8
+type: word-relation
+group_uuid: 2e210de6-5e04-40dd-bd55-3747b0f5b4e8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dc61bb01-0429-4717-9f2d-4d29a36569a4
+  text: 仇
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: fd5e3444-a995-44e9-a175-aeb5d26613eb
+    line_id: KR1e0001_tls_010-450a.4
+    textline: 仇敵也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: fd5e3444-a995-44e9-a175-aeb5d26613eb
+    line_id: KR1e0001_tls_010-450a.4
+    textline: 仇敵也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

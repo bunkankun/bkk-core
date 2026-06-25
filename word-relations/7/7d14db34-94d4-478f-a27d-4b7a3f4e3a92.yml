@@ -1,0 +1,32 @@
+uuid: 7d14db34-94d4-478f-a27d-4b7a3f4e3a92
+type: word-relation
+group_uuid: 7d14db34-94d4-478f-a27d-4b7a3f4e3a92
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7266b08e-24ef-444a-9552-75c47aaf6cc8
+  text: 益
+  concept: MORE
+  concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+  attestation:
+    text_title: 韓非子
+    line_uuid: 97f55bd7-4e37-41ae-8755-3f9d68531ea1
+    line_id: KR3c0005_tls_011-20a.4
+    textline: 私門益尊
+    offset: 3
+    range: 1
+right:
+  word_uuid: f13ee725-441f-4261-a991-44bac2453435
+  text: 愈
+  concept: MORE
+  concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+  attestation:
+    text_title: 韓非子
+    line_uuid: b51d482d-f517-4f5b-ad2b-b6a7e19f171f
+    line_id: KR3c0005_tls_011-20a.3
+    textline: 故主上愈卑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

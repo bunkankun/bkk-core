@@ -1,0 +1,32 @@
+uuid: 857bf83c-31a1-4fa5-b1fc-bd7dcd4955b1
+type: word-relation
+group_uuid: 857bf83c-31a1-4fa5-b1fc-bd7dcd4955b1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cf95cd19-b795-4901-8dd5-54d15bdba73d
+  text: 兵
+  concept: WEAPON
+  concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6e096e76-3bd6-4c53-a799-4426b5fbd07d
+    line_id: KR3c0005_tls_001-32a.3
+    textline: 外者極吾兵力
+    offset: 5
+    range: 1
+right:
+  word_uuid: 14a591c4-eb05-4d3d-95a2-9263bbcead6a
+  text: 力
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6e096e76-3bd6-4c53-a799-4426b5fbd07d
+    line_id: KR3c0005_tls_001-32a.3
+    textline: 外者極吾兵力
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5e92b850-79e0-4522-92b8-5079e0152269
+type: word-relation
+group_uuid: 476ea2bf-78d6-51eb-8e11-69cc5e4d0d8b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 57cf397a-5639-407e-8f39-7a5639a07ead
+  text: 喘
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-03754a
+    textline: 喘息未定
+    offset: 1
+    range: 1
+right:
+  word_uuid: b418f553-0b9e-4d66-a0fb-ccad71335dd5
+  text: 息
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-03754a
+    textline: 喘息未定
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-19T22:19:16.985+09:00'

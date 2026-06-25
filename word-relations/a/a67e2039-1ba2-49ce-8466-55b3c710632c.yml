@@ -1,0 +1,32 @@
+uuid: a67e2039-1ba2-49ce-8466-55b3c710632c
+type: word-relation
+group_uuid: 4f33d06e-429d-48fb-9074-0aa32d474ae7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 08fd71f8-92fa-4754-9208-04a3e43202bf
+  text: 倉
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 管子
+    line_uuid: 41b270f0-7fb6-49fb-ba94-d10b3ed783de
+    line_id: KR3c0001_tls_001-2a.2
+    textline: 倉廩實
+    offset: 1
+    range: 1
+right:
+  word_uuid: d650de93-e8b6-45b8-b7ba-c1a8db896f9c
+  text: 廩
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 管子
+    line_uuid: 41b270f0-7fb6-49fb-ba94-d10b3ed783de
+    line_id: KR3c0001_tls_001-2a.2
+    textline: 倉廩實
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

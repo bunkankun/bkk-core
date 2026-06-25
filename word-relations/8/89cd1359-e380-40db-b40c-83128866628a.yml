@@ -1,0 +1,21 @@
+uuid: 89cd1359-e380-40db-b40c-83128866628a
+type: word-relation
+group_uuid: 210eb48f-ba1e-5526-9adc-49f907ec91f4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f8ab100f-9a49-4494-997f-ebd228d629b4
+  text: 譁嘩
+  concept: CLAMOUR
+  concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+right:
+  word_uuid: ae0763f5-6c76-428d-b194-a5971c2ad70a
+  text: 寂
+  concept: SILENCE
+  concept_uuid: b5c76985-0c6b-497c-a427-d693b6d1108c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

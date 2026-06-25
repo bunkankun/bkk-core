@@ -1,0 +1,30 @@
+uuid: ed49b663-87e5-4d1f-819a-10fd1a81becf
+type: word-relation
+group_uuid: ed49b663-87e5-4d1f-819a-10fd1a81becf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5d50054e-08df-4dd4-af32-4de4ae70c5cb
+  text: 姑
+  concept: AUNT
+  concept_uuid: 5d641918-73be-4a19-a220-4de5aa2be6e3
+  attestation:
+    text_title: 禮記
+    line_uuid: 3771a775-a281-4cf9-97d6-7ee06691f0df
+    textline: 如姑姊妹
+    offset: 2
+    range: 1
+right:
+  word_uuid: 68271b84-6651-4a51-92da-1a3cf4b29cb4
+  text: 姊妹
+  concept: SISTER
+  concept_uuid: 9e1b6f7f-1dac-4e87-b6f0-6b8a472fa023
+  attestation:
+    text_title: 禮記
+    line_uuid: 3771a775-a281-4cf9-97d6-7ee06691f0df
+    textline: 如姑姊妹
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

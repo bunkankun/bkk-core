@@ -1,0 +1,32 @@
+uuid: a68a8a45-17a5-4f26-940c-09e42225fe89
+type: word-relation
+group_uuid: a68a8a45-17a5-4f26-940c-09e42225fe89
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 93c05683-bb64-459c-90d0-800a1b71d39f
+  text: 難
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 管子
+    line_uuid: 29f31aa9-d0b8-4f82-8e62-42edc3bf4543
+    line_id: KR3c0001_tls_006-77a.7
+    textline: 不免於外難
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0ca421c2-e6cd-4f69-8516-7b6d749d14f3
+  text: 亂
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 管子
+    line_uuid: 3e9a1660-12b9-4a38-9738-c0f2f5613d72
+    line_id: KR3c0001_tls_006-77a.9
+    textline: 不免於內亂
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7d9e6faa-235b-482c-8283-322ce1a82c92
+type: word-relation
+group_uuid: 7c46d33e-20a9-45b9-92d2-58ba240c436d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 老子
+    line_uuid: d95da6d1-12cb-4e2a-a721-b3210ff21e1e
+    line_id: KR5c0057_tls_013-1a.14
+    textline: 故貴以身為天下
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 老子
+    line_uuid: 5c76d50a-0a8a-402f-8bd1-9e3ad2a2cd30
+    line_id: KR5c0057_tls_013-1a.16
+    textline: 愛以身為天下
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

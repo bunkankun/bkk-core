@@ -1,0 +1,32 @@
+uuid: dc35c30a-abf6-4931-b5c3-0aabf69931f5
+type: word-relation
+group_uuid: d7407a05-2355-5224-b870-0b69b6a35ed4
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d8f152ff-e0f2-48bb-a9f3-f357b441348b
+  text: 作
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.7
+    textline: 大人作而弟子循
+    offset: 3
+    range: 1
+right:
+  word_uuid: 76ef5cc8-cc0f-417a-bc47-32dd72e04355
+  text: 循
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.7
+    textline: 大人作而弟子循
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:17:59.707+09:00'

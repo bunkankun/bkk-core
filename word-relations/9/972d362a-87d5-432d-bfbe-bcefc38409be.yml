@@ -1,0 +1,32 @@
+uuid: 972d362a-87d5-432d-bfbe-bcefc38409be
+type: word-relation
+group_uuid: 972d362a-87d5-432d-bfbe-bcefc38409be
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: b6b0edcb-214b-4fe1-b081-917e8c6f8529
+  text: 置
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 孟子
+    line_uuid: 9c873e4a-f3ce-4211-8d52-427cc10885b9
+    line_id: KR1h0001_tls_002-57a.43
+    textline: 置君而後去之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 孟子
+    line_uuid: 9c873e4a-f3ce-4211-8d52-427cc10885b9
+    line_id: KR1h0001_tls_002-57a.43
+    textline: 置君而後去之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

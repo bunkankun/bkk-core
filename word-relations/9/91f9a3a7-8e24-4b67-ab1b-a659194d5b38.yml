@@ -1,0 +1,32 @@
+uuid: 91f9a3a7-8e24-4b67-ab1b-a659194d5b38
+type: word-relation
+group_uuid: 91f9a3a7-8e24-4b67-ab1b-a659194d5b38
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c54c2c87-c316-4267-975e-8f0739827d81
+  text: 角
+  concept: HORN
+  concept_uuid: 62a07cea-0c1d-4ff0-9666-6722b2cc78b7
+  attestation:
+    text_title: 禮記
+    line_uuid: 5f328592-5f8c-41c3-94bd-536c5e3f87fd
+    line_id: KR1d0052_tls_006-29a.19
+    textline: 角齒
+    offset: 1
+    range: 1
+right:
+  word_uuid: 58cd67a6-51e5-4add-8158-942a1e12bb09
+  text: 齒
+  concept: IVORY
+  concept_uuid: e12c6df1-6102-4b32-9cea-f85e2cc7c881
+  attestation:
+    text_title: 禮記
+    line_uuid: 5f328592-5f8c-41c3-94bd-536c5e3f87fd
+    line_id: KR1d0052_tls_006-29a.19
+    textline: 角齒
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

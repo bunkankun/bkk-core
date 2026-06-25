@@ -1,0 +1,21 @@
+uuid: be01a349-6790-468b-a4e9-7ade63cc5578
+type: word-relation
+group_uuid: 83d474a9-b234-5245-b128-cc90eeb68843
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 140000c0-8b14-451f-a357-39e08169ee1e
+  text: 精
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+right:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

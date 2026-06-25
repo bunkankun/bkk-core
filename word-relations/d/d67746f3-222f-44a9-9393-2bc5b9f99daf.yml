@@ -1,0 +1,32 @@
+uuid: d67746f3-222f-44a9-9393-2bc5b9f99daf
+type: word-relation
+group_uuid: d67746f3-222f-44a9-9393-2bc5b9f99daf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fa4f4d27-3b83-4d0b-b1b2-ef7cc22c9d5f
+  text: 廬
+  concept: HUT
+  concept_uuid: d10affc9-c77e-4d25-8cac-c6da4d3342bf
+  attestation:
+    text_title: 論衡
+    line_uuid: a61542e5-b4ad-40bc-acf4-af7394f1876f
+    line_id: KR3j0080_tls_018-11a.11
+    textline: 若民人處草廬之中
+    offset: 6
+    range: 1
+right:
+  word_uuid: 622acb76-3c92-4f58-a934-7246aa0053f8
+  text: 草
+  concept: GRASS
+  concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+  attestation:
+    text_title: 論衡
+    line_uuid: a61542e5-b4ad-40bc-acf4-af7394f1876f
+    line_id: KR3j0080_tls_018-11a.11
+    textline: 若民人處草廬之中
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,33 @@
+uuid: 06d833f8-b0ea-4fa4-b4f6-8218c9fdfaff
+type: word-relation
+group_uuid: a5d01d99-4725-46cb-a59f-6d74f35fb37b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 老子
+    line_uuid: 497c673a-da1c-4bed-8384-e752ec3e0b4a
+    textline: 禍尚福之所倚
+    offset: 3
+    range: 1
+right:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 老子
+    line_uuid: ccaa3b93-7e69-40b9-9a2d-225ae56d795f
+    textline: 福尚禍之所伏
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

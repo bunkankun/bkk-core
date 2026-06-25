@@ -1,0 +1,32 @@
+uuid: 721b8155-ba91-4476-9149-4354abe44b97
+type: word-relation
+group_uuid: 37a554a0-4b43-45b7-8316-1975db0c2c5d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 韓非子
+    line_uuid: e8cbe2e2-161e-47be-87ae-88a371df1a12
+    line_id: KR3c0005_tls_014-37a.7
+    textline: 使強不陵弱
+    offset: 5
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: e8cbe2e2-161e-47be-87ae-88a371df1a12
+    line_id: KR3c0005_tls_014-37a.7
+    textline: 使強不陵弱
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

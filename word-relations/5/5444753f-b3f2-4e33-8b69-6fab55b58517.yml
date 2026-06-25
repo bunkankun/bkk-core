@@ -1,0 +1,32 @@
+uuid: 5444753f-b3f2-4e33-8b69-6fab55b58517
+type: word-relation
+group_uuid: 5444753f-b3f2-4e33-8b69-6fab55b58517
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 289ebdfc-c5a7-4424-9a8c-d8bdfb1bcc21
+  text: 好
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  attestation:
+    text_title: 孟子
+    line_uuid: b24cf48b-e62f-45a1-80d5-386a041f805f
+    line_id: KR1h0001_tls_002-39a.3
+    textline: 「昔者太王好色
+    offset: 6
+    range: 1
+right:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 孟子
+    line_uuid: 1f20ae34-f538-415d-a02d-a9306f4db223
+    line_id: KR1h0001_tls_002-39a.4
+    textline: 愛厥妃
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

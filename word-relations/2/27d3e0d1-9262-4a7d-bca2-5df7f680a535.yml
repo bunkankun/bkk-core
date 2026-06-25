@@ -1,0 +1,32 @@
+uuid: 27d3e0d1-9262-4a7d-bca2-5df7f680a535
+type: word-relation
+group_uuid: 44034018-2b1f-499d-afa5-727d8f669450
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e5f9f4f9-7ac0-438e-8c19-1eebd2992e91
+  text: 短
+  concept: SHORT
+  concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+  attestation:
+    text_title: 論語
+    line_uuid: 340a8496-9880-48ed-8c9e-005f3ab2b0a1
+    line_id: KR1h0004_tls_006-4a.8
+    textline: 不幸短命死矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: de7ab44d-7ac6-4d1f-9f3a-b2dac057784a
+  text: 命
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 論語
+    line_uuid: 340a8496-9880-48ed-8c9e-005f3ab2b0a1
+    line_id: KR1h0004_tls_006-4a.8
+    textline: 不幸短命死矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

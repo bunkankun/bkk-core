@@ -1,0 +1,32 @@
+uuid: 8980c982-8deb-44e6-aa7b-ddc3797106da
+type: word-relation
+group_uuid: 8980c982-8deb-44e6-aa7b-ddc3797106da
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b8de84a9-cc71-4e05-a4ab-b0f0ee361b83
+  text: 蔽
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 76678d87-9db2-47ae-84fa-371b5bba5069
+    line_id: KR3c0005_tls_006-31a.5
+    textline: 不敢蔽善飾非
+    offset: 3
+    range: 1
+right:
+  word_uuid: b61e4ee3-c29f-4632-b476-6dab0e614350
+  text: 飾
+  concept: EMBELLISH
+  concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+  attestation:
+    text_title: 韓非子
+    line_uuid: 76678d87-9db2-47ae-84fa-371b5bba5069
+    line_id: KR3c0005_tls_006-31a.5
+    textline: 不敢蔽善飾非
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

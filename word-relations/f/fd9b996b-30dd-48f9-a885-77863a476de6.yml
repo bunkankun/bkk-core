@@ -1,0 +1,30 @@
+uuid: fd9b996b-30dd-48f9-a885-77863a476de6
+type: word-relation
+group_uuid: fd9b996b-30dd-48f9-a885-77863a476de6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 楚辭
+    line_uuid: b74d0df8-7005-43a0-babd-0a2ffccbf0f0
+    textline: 心戃慌其不我與兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: f1f2d39f-06f7-4073-85bd-862f27d16f52
+  text: 躬
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 楚辭
+    line_uuid: 5e275176-e5bc-484e-9934-1606d2773893
+    textline: 躬速速其不吾親
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

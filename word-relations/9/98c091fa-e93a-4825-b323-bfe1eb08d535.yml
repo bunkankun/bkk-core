@@ -1,0 +1,32 @@
+uuid: 98c091fa-e93a-4825-b323-bfe1eb08d535
+type: word-relation
+group_uuid: 98c091fa-e93a-4825-b323-bfe1eb08d535
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 48cec736-8549-40e6-8031-5eb1e3f8f5ca
+  text: 閒
+  concept: LEISURE
+  concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+  attestation:
+    text_title: 孟子
+    line_uuid: 108f4361-fee8-4ad7-949e-a888706f5203
+    line_id: KR1h0001_tls_003-36a.26
+    textline: 今國家閒暇
+    offset: 4
+    range: 1
+right:
+  word_uuid: e73b9bb5-5ad9-4860-b7f5-dffaf0f774d8
+  text: 暇
+  concept: LEISURE
+  concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+  attestation:
+    text_title: 孟子
+    line_uuid: 108f4361-fee8-4ad7-949e-a888706f5203
+    line_id: KR1h0001_tls_003-36a.26
+    textline: 今國家閒暇
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

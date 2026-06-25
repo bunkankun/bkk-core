@@ -1,0 +1,21 @@
+uuid: d2f93289-1041-41a6-adb5-578e2ae3785e
+type: word-relation
+group_uuid: d3e0b78d-2647-583e-bf4a-7475c7902ded
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1ba2c594-c52d-4236-9850-0bcdf67dba66
+  text: 廢
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+right:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 捨舍
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

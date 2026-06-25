@@ -1,0 +1,32 @@
+uuid: 0faca97a-188e-47eb-b9ce-3881b8af493c
+type: word-relation
+group_uuid: e44bdff2-ac07-476e-9a14-507e52719744
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: de22fb8c-8061-4877-9059-2e1389b3b3f1
+    line_id: KR3c0005_tls_020-92a.3
+    textline: 禍難生於邪心
+    offset: 1
+    range: 1
+right:
+  word_uuid: 93c05683-bb64-459c-90d0-800a1b71d39f
+  text: 難
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: de22fb8c-8061-4877-9059-2e1389b3b3f1
+    line_id: KR3c0005_tls_020-92a.3
+    textline: 禍難生於邪心
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

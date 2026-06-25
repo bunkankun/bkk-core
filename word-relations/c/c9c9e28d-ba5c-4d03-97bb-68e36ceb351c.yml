@@ -1,0 +1,32 @@
+uuid: c9c9e28d-ba5c-4d03-97bb-68e36ceb351c
+type: word-relation
+group_uuid: c9c9e28d-ba5c-4d03-97bb-68e36ceb351c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2b22ae20-c449-4235-be65-5a9bdfed837d
+  text: 侵
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 淮南子
+    line_uuid: 7a639c7a-2000-40ee-a9e5-fd6f336abd2c
+    line_id: KR3j0010_tls_009-43a.34
+    textline: 侵漁其民
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8f95b689-d273-4673-97bd-26b44c51a9b8
+  text: 漁
+  concept: ROB
+  concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+  attestation:
+    text_title: 淮南子
+    line_uuid: 7a639c7a-2000-40ee-a9e5-fd6f336abd2c
+    line_id: KR3j0010_tls_009-43a.34
+    textline: 侵漁其民
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

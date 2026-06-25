@@ -1,0 +1,31 @@
+uuid: cb0fc84c-317c-44bf-b072-5a563f0c3f13
+type: word-relation
+group_uuid: cb0fc84c-317c-44bf-b072-5a563f0c3f13
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 74e9ad14-839a-4347-a2dd-c6b64a7561fc
+  text: 為
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 老子
+    line_uuid: fe42f76f-3ada-43a1-a21e-f5ced3f8f0ac
+    textline: 聖人終不為大
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 老子
+    line_uuid: 59a604ac-a558-49bf-a6ca-f2dd4b9df633
+    line_id: KR5c0057_tls_034-1a.16
+    textline: 故能成其大
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5dd4c365-9950-4330-94c3-6599502330a4
+type: word-relation
+group_uuid: 65a4f1e0-1313-5a99-a2d9-389b529c2727
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 291452e8-b8f6-4e89-9149-970ea9e9fdf1
+  text: 困
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.43
+    textline: 困其患則造其備
+    offset: 1
+    range: 1
+right:
+  word_uuid: 61c1c50e-cfd4-4eff-8ee2-4dbdff0ebd61
+  text: 患
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.43
+    textline: 困其患則造其備
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:09:55.404+09:00'

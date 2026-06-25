@@ -1,0 +1,21 @@
+uuid: 3066d8e5-85e9-45ac-a9e9-f20161888af0
+type: word-relation
+group_uuid: b9083763-240e-518f-8a76-d6fd934d76f9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 221a3d02-b26b-4a58-85c5-1dc4d4f444af
+  text: 乾
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+right:
+  word_uuid: 4a3832e6-b413-4022-ba4d-2150587a224c
+  text: 濕濕
+  concept: MOIST
+  concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

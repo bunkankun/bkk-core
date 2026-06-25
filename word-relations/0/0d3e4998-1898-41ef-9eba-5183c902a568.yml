@@ -1,0 +1,32 @@
+uuid: 0d3e4998-1898-41ef-9eba-5183c902a568
+type: word-relation
+group_uuid: 0d3e4998-1898-41ef-9eba-5183c902a568
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 53f63430-ac7b-4b97-9af3-d1558bc45498
+  text: 株
+  concept: TRUNK
+  concept_uuid: 3fa1d00e-fa3b-4442-852f-5e43faf12caf
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6661ad60-8029-47cc-a96a-19d62f4cfe7e
+    line_id: KR2e0003_tls_050-4a.3
+    textline: 『削株掘根
+    offset: 3
+    range: 1
+right:
+  word_uuid: fc18723f-79cd-4e12-b5c8-bfe91d8c6522
+  text: 根
+  concept: ROOT
+  concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6661ad60-8029-47cc-a96a-19d62f4cfe7e
+    line_id: KR2e0003_tls_050-4a.3
+    textline: 『削株掘根
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

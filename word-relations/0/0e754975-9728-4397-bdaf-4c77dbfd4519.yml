@@ -1,0 +1,32 @@
+uuid: 0e754975-9728-4397-bdaf-4c77dbfd4519
+type: word-relation
+group_uuid: 622fc510-fe29-4dc6-ba96-fb908ba775e4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d9c1b2fd-fd53-40e5-8875-083a920a9581
+  text: 朋
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: cd3d3f53-1ba5-4e9a-b71f-b0b4318fe794
+    line_id: KR3c0005_tls_007-16a.9
+    textline: 則群臣不得朋黨相為矣
+    offset: 6
+    range: 1
+right:
+  word_uuid: 206052f6-2005-477d-9ffe-c18eb7909d29
+  text: 黨
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: cd3d3f53-1ba5-4e9a-b71f-b0b4318fe794
+    line_id: KR3c0005_tls_007-16a.9
+    textline: 則群臣不得朋黨相為矣
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

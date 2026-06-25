@@ -1,0 +1,32 @@
+uuid: 971e3917-1fe3-47d7-9780-c43699c159df
+type: word-relation
+group_uuid: 971e3917-1fe3-47d7-9780-c43699c159df
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fb49a57b-3e75-4beb-a9c3-1297df98216b
+  text: 闈
+  concept: DOOR
+  concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8f31f152-263e-45e3-985c-2a59e12a46e6
+    line_id: KR1e0001_tls_012-261a.4
+    textline: 攻闈與大門
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8ae56395-0d2f-49ba-acbd-454224f13291
+  text: 大門
+  concept: GATE
+  concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8f31f152-263e-45e3-985c-2a59e12a46e6
+    line_id: KR1e0001_tls_012-261a.4
+    textline: 攻闈與大門
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

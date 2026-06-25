@@ -1,0 +1,32 @@
+uuid: 9f3f1754-875d-4f2e-92d1-57ae83334f07
+type: word-relation
+group_uuid: 9f3f1754-875d-4f2e-92d1-57ae83334f07
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: f721cd3d-157d-42d7-ad26-3071f3c96306
+  text: 槁
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 孟子
+    line_uuid: 3e4c3651-8ea7-44a6-8e0e-7fc07cead8c3
+    line_id: KR1h0001_tls_003-20a.30
+    textline: 苗則槁矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 10839df2-e41d-43b3-84e1-9a83e01cd0d5
+  text: 苗
+  concept: SPROUT
+  concept_uuid: ad7c5609-570e-4e71-ab75-b557dfdfcff1
+  attestation:
+    text_title: 孟子
+    line_uuid: 3e4c3651-8ea7-44a6-8e0e-7fc07cead8c3
+    line_id: KR1h0001_tls_003-20a.30
+    textline: 苗則槁矣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

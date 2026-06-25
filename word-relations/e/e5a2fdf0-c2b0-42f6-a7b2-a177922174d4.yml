@@ -1,0 +1,32 @@
+uuid: e5a2fdf0-c2b0-42f6-a7b2-a177922174d4
+type: word-relation
+group_uuid: e5a2fdf0-c2b0-42f6-a7b2-a177922174d4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: c2fe5b61-b0cd-458b-a3d8-92c1a5e32334
+  text: 甘
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 韓非子
+    line_uuid: 887e39a1-a47c-4b88-b9e0-90fc5cf551dd
+    line_id: KR3c0005_tls_010-7a.4
+    textline: 而甘之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5054c394-e57f-405d-bdfe-2e7d2a3b41fd
+  text: 酒
+  concept: LIQUOR
+  concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43133535-bd39-4626-9023-b6eee440b5a3
+    line_id: KR3c0005_tls_010-7a.3
+    textline: 嗜酒
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

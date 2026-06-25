@@ -1,0 +1,32 @@
+uuid: d26e5634-eb88-4795-ae56-34eb8817952d
+type: word-relation
+group_uuid: f6a74c90-842c-525f-8fab-e68b41633753
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 5c207710-03db-4a69-8398-8626932ebdd9
+  text: 文
+  concept: SHAPE
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-12a.8
+    textline: 曰 其文是也
+    offset: 6
+    range: 1
+right:
+  word_uuid: a981f4d1-7bd5-450e-9cdc-e093e92c5ab4
+  text: 質
+  concept: ESSENCE
+  concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-12a.9
+    textline: 其質非也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-07T04:58:36.584+09:00'

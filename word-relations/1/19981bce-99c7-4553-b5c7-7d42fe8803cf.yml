@@ -1,0 +1,32 @@
+uuid: 19981bce-99c7-4553-b5c7-7d42fe8803cf
+type: word-relation
+group_uuid: f8c3d2ab-b346-4feb-b37f-a0c58c5c6118
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 52d95042-a72f-4534-a23c-4d7646cf5c1c
+    line_id: KR3c0005_tls_034-59a.8
+    textline: 臣請變更
+    offset: 3
+    range: 1
+right:
+  word_uuid: b6783827-8fd8-4ff1-b107-3279e8a693f0
+  text: 更
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 52d95042-a72f-4534-a23c-4d7646cf5c1c
+    line_id: KR3c0005_tls_034-59a.8
+    textline: 臣請變更
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

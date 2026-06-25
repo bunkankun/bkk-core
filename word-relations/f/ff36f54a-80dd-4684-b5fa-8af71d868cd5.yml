@@ -1,0 +1,32 @@
+uuid: ff36f54a-80dd-4684-b5fa-8af71d868cd5
+type: word-relation
+group_uuid: f133ec4e-bc30-419b-a0c0-083b2af947f6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ea7f1f39-6ea4-40b0-ae7c-c4976399359e
+  text: 世
+  concept: GENERATION
+  concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e407358a-58c4-43b1-aa54-27f003ea1032
+    line_id: KR3j0009_tls_005-21a.17
+    textline: 亂世之音怨以怒
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0dd99c58-b997-4c57-97ce-2ceb0e73f69a
+  text: 亂
+  concept: CHAOS
+  concept_uuid: 5aacd628-adec-45bf-bf43-45dfca31ffe3
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e407358a-58c4-43b1-aa54-27f003ea1032
+    line_id: KR3j0009_tls_005-21a.17
+    textline: 亂世之音怨以怒
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

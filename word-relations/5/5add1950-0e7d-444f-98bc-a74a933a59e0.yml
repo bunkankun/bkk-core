@@ -1,0 +1,32 @@
+uuid: 5add1950-0e7d-444f-98bc-a74a933a59e0
+type: word-relation
+group_uuid: 5add1950-0e7d-444f-98bc-a74a933a59e0
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: a5253388-0a32-4d99-b259-321b450ddf00
+    line_id: KR1b0001_tls_054-2a.48
+    textline: 惟予汝辜”
+    offset: 2
+    range: 1
+right:
+  word_uuid: 43510f10-692a-4db9-9132-946ba861e0b5
+  text: 汝
+  concept: YOU/PLUR
+  concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+  attestation:
+    text_title: 尚書
+    line_uuid: a5253388-0a32-4d99-b259-321b450ddf00
+    line_id: KR1b0001_tls_054-2a.48
+    textline: 惟予汝辜”
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

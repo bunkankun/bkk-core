@@ -1,0 +1,32 @@
+uuid: e432045f-8f40-481d-8346-6d41901a3620
+type: word-relation
+group_uuid: e432045f-8f40-481d-8346-6d41901a3620
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 02e63f98-835c-4d3e-a1c6-ba254f9d9fc4
+  text: 伐
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 老子
+    line_uuid: f303db3d-7b52-4747-b351-173fc8ee12d4
+    line_id: KR5c0057_tls_024-1a.7
+    textline: 自伐者無功
+    offset: 2
+    range: 1
+right:
+  word_uuid: 29000d38-0522-4590-a2da-a8003aa648ed
+  text: 矜
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 老子
+    line_uuid: be6ac14f-4578-4f44-8e32-bd51f49673cd
+    line_id: KR5c0057_tls_024-1a.8
+    textline: 自矜者不長
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

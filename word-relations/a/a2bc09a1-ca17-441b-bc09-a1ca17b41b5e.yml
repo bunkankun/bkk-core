@@ -1,0 +1,32 @@
+uuid: a2bc09a1-ca17-441b-bc09-a1ca17b41b5e
+type: word-relation
+group_uuid: fb0f368c-91fb-573c-b52f-a55c21a96fbe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a62257e1-7d9a-459c-a663-1a84972885ca
+  text: 志
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_029-13a.6
+    textline: 志氣欲盈
+    offset: 1
+    range: 1
+right:
+  word_uuid: 58992b8a-43a9-446e-b917-8f823dcd2c31
+  text: 氣
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_029-13a.6
+    textline: 志氣欲盈
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:48:23.067+09:00'

@@ -1,0 +1,32 @@
+uuid: 2b045124-3842-4c02-b9b2-a7db150f3aeb
+type: word-relation
+group_uuid: 2b045124-3842-4c02-b9b2-a7db150f3aeb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0f177dec-b064-4ff8-85b3-10ecb11f95cb
+  text: 塵
+  concept: DUST
+  concept_uuid: 33c110e0-d2f6-41f0-be53-a74361ee3f69
+  attestation:
+    text_title: 論衡
+    line_uuid: 88f4edf0-e4b9-48b7-9353-0e95d05f880b
+    line_id: KR3j0080_tls_002-6a.6
+    textline: 清受塵
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5ce482fc-bea5-4e4c-838f-bb8ff5c6e12c
+  text: 垢
+  concept: DUST
+  concept_uuid: 33c110e0-d2f6-41f0-be53-a74361ee3f69
+  attestation:
+    text_title: 論衡
+    line_uuid: 334abf62-f627-4a5f-87f6-fc68a6273c7b
+    line_id: KR3j0080_tls_002-6a.7
+    textline: 白取垢
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

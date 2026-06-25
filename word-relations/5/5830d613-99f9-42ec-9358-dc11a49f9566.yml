@@ -1,0 +1,32 @@
+uuid: 5830d613-99f9-42ec-9358-dc11a49f9566
+type: word-relation
+group_uuid: 7e42bccc-6023-4330-addb-3f5088a64f5f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e04f0d2f-8b3f-41fd-bf59-74cdbed9fc5b
+    line_id: KR3j0009_tls_002-21a.17
+    textline: 故古之治身與天下者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e04f0d2f-8b3f-41fd-bf59-74cdbed9fc5b
+    line_id: KR3j0009_tls_002-21a.17
+    textline: 故古之治身與天下者
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml

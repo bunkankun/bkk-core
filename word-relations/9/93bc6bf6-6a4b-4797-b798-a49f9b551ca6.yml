@@ -1,0 +1,32 @@
+uuid: 93bc6bf6-6a4b-4797-b798-a49f9b551ca6
+type: word-relation
+group_uuid: 93bc6bf6-6a4b-4797-b798-a49f9b551ca6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 9e236b93-ff1c-43e6-81db-eeb6c3a7b754
+  text: 凶
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 老子
+    line_uuid: 786f8aa0-585b-4b64-a526-8dc39297595b
+    line_id: KR5c0057_tls_030-1a.9
+    textline: 必有凶年
+    offset: 3
+    range: 1
+right:
+  word_uuid: 92f9f213-ddc4-4dc0-9e15-f1adec91a887
+  text: 年
+  concept: HARVEST
+  concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+  attestation:
+    text_title: 老子
+    line_uuid: 786f8aa0-585b-4b64-a526-8dc39297595b
+    line_id: KR5c0057_tls_030-1a.9
+    textline: 必有凶年
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

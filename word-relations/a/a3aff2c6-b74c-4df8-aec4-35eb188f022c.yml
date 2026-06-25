@@ -1,0 +1,21 @@
+uuid: a3aff2c6-b74c-4df8-aec4-35eb188f022c
+type: word-relation
+group_uuid: 4ea9eb69-f548-52fd-bd70-9514506862da
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 154baa8e-d1e8-40b9-bd7b-ba8f60edfd48
+  text: 割
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+right:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

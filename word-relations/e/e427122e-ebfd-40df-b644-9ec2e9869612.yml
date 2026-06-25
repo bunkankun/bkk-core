@@ -1,0 +1,21 @@
+uuid: e427122e-ebfd-40df-b644-9ec2e9869612
+type: word-relation
+group_uuid: 8bfab7d3-6c32-5404-ace8-ecc6097be404
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 72d6bba8-9a15-4904-ad47-d953e325ae08
+  text: 財
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+right:
+  word_uuid: 1146ff34-809f-4892-a715-2a863a460456
+  text: 貨
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

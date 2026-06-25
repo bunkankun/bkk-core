@@ -1,0 +1,32 @@
+uuid: 799100e1-c244-4d7c-9100-e1c2441d7c28
+type: word-relation
+group_uuid: 8d9dd4be-7957-5f48-8911-b9b6504c55e4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 25c3da72-2c0d-4a3b-b57a-c27c453edd68
+  text: 拘
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.26
+    textline: 拘於俗
+    offset: 1
+    range: 1
+right:
+  word_uuid: 24353516-0400-44e8-9dd6-163dc587a027
+  text: 束
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.27
+    textline: 束於教也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-02T19:17:01.473+09:00'

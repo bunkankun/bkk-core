@@ -1,0 +1,21 @@
+uuid: b71c838f-a1bd-4b53-83ab-b462d87410ad
+type: word-relation
+group_uuid: e2d1afe1-15b2-5f59-9f78-c4eb6970209d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4be0e75e-b53f-424a-b101-e18522b0924e
+  text: 恨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+right:
+  word_uuid: 8ad7111f-9988-443d-bf27-f204d7ca344b
+  text: 忿
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: ca89954a-cd10-4590-b0e9-c5dc6b0ba35c
+type: word-relation
+group_uuid: 822a6f42-8bf1-5b98-8351-8b75e3312d0c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5b5da254-0a51-4e64-9a24-b429ca6c3087
+  text: 德得
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+right:
+  word_uuid: 8c408e85-b6be-4949-8870-e36a3436a4c0
+  text: 惠
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

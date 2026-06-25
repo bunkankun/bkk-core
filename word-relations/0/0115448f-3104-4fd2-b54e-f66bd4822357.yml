@@ -1,0 +1,21 @@
+uuid: 0115448f-3104-4fd2-b54e-f66bd4822357
+type: word-relation
+group_uuid: bce83505-8104-50cf-a262-da8af3f08409
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1642c4b6-9a8d-4f6c-8366-3a7f70dc85c3
+  text: 苟茍
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+right:
+  word_uuid: 2d06494c-0835-41c4-a04c-5dcd84b8f985
+  text: 妄
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

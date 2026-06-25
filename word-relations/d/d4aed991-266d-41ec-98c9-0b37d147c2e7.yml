@@ -1,0 +1,32 @@
+uuid: d4aed991-266d-41ec-98c9-0b37d147c2e7
+type: word-relation
+group_uuid: bb0fe7c5-18cb-41bb-8c31-5359e9164da6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 孟子
+    line_uuid: aae83e40-8486-4c19-906d-ea1640b6533a
+    line_id: KR1h0001_tls_002-64a.4
+    textline: 竭力以事大國
+    offset: 2
+    range: 1
+right:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 孟子
+    line_uuid: aae83e40-8486-4c19-906d-ea1640b6533a
+    line_id: KR1h0001_tls_002-64a.4
+    textline: 竭力以事大國
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

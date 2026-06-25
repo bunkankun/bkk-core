@@ -1,0 +1,32 @@
+uuid: 11da58f0-0813-4b3d-9a58-f008137b3dc5
+type: word-relation
+group_uuid: 0fb674a4-c43d-507c-9b0c-fa77daad3102
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0085ffe8-55af-4e2f-a6e6-4304edce2670
+  text: 侗
+  concept: COARSE
+  concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_008-16a.4
+    textline: 侗而不愿
+    offset: 1
+    range: 1
+right:
+  word_uuid: 63f082fa-e1bb-433d-b09f-09d7caa99103
+  text: 愿
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_008-16a.4
+    textline: 侗而不愿
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T02:35:04.604+09:00'

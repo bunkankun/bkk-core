@@ -1,0 +1,32 @@
+uuid: 9071f225-9cc2-4c72-b4bc-782d1108c55d
+type: word-relation
+group_uuid: 9071f225-9cc2-4c72-b4bc-782d1108c55d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64cc1486-51f1-4903-8788-a39c5a08e1fd
+  text: 遺
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 92319ad5-edeb-4e3c-ad11-c47d7c5aef9c
+    line_id: KR1c0066_tls_005-32a.5
+    textline: 不遺其小
+    offset: 2
+    range: 1
+right:
+  word_uuid: eb25729d-dd4c-4543-8833-1ccb6a2823a8
+  text: 存
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: b80da88f-e0ac-43e0-aad1-d704faa1cb3d
+    line_id: KR1c0066_tls_005-32a.6
+    textline: 存其精神
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

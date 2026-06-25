@@ -1,0 +1,32 @@
+uuid: 192408c3-d8a2-4a65-9cd7-69da8d287731
+type: word-relation
+group_uuid: 957b631e-f608-4b16-9016-7f10f2c2bf2c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d7522cbf-2499-485c-941d-6185687375e9
+  text: 爪
+  concept: CLAWS
+  concept_uuid: 3e010b68-9b90-458f-842f-adcc37c19ab8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3e890090-d0f7-4478-acf7-917c2e5529c8
+    line_id: KR3c0005_tls_020-124a.8
+    textline: 而莫知萬物之盡有爪角也
+    offset: 9
+    range: 1
+right:
+  word_uuid: c54c2c87-c316-4267-975e-8f0739827d81
+  text: 角
+  concept: HORN
+  concept_uuid: 62a07cea-0c1d-4ff0-9666-6722b2cc78b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3e890090-d0f7-4478-acf7-917c2e5529c8
+    line_id: KR3c0005_tls_020-124a.8
+    textline: 而莫知萬物之盡有爪角也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

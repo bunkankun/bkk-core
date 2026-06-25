@@ -1,0 +1,32 @@
+uuid: df567787-a56d-4c03-8a5f-5378ee45e196
+type: word-relation
+group_uuid: df567787-a56d-4c03-8a5f-5378ee45e196
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 047f40d8-ce5e-40df-a558-eb857ebdb3a2
+  text: 仰
+  concept: LOOK UP
+  concept_uuid: df3e2b33-735b-4cc6-ab38-c478d4776eed
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4a3c5853-573c-445f-a489-21064b2d0e2f
+    line_id: KR3j0009_tls_002-13a.12
+    textline: 仰天而呼曰
+    offset: 1
+    range: 1
+right:
+  word_uuid: c82c5735-d7b2-44c5-9690-d4030b6ad922
+  text: 天
+  concept: SKY
+  concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4a3c5853-573c-445f-a489-21064b2d0e2f
+    line_id: KR3j0009_tls_002-13a.12
+    textline: 仰天而呼曰
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6c9b1b6b-21c3-47e4-9746-1a68b51f1314
+type: word-relation
+group_uuid: 6c9b1b6b-21c3-47e4-9746-1a68b51f1314
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eefaca0d-5f7f-4e1b-a644-b7342aa4ed21
+  text: 鄉
+  concept: VILLAGE
+  concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+  attestation:
+    text_title: 論衡
+    line_uuid: f478ea3e-2288-46e0-bc30-b75a137714fd
+    line_id: KR3j0080_tls_002-2a.18
+    textline: 累生於鄉里
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0e4ad8a8-6f67-41f3-b850-26692f0677cf
+  text: 里
+  concept: VILLAGE
+  concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+  attestation:
+    text_title: 論衡
+    line_uuid: f478ea3e-2288-46e0-bc30-b75a137714fd
+    line_id: KR3j0080_tls_002-2a.18
+    textline: 累生於鄉里
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

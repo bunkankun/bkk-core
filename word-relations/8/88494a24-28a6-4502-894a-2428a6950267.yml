@@ -1,0 +1,32 @@
+uuid: 88494a24-28a6-4502-894a-2428a6950267
+type: word-relation
+group_uuid: 56204434-e1da-56f5-bd50-d7f6f47fb790
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 59f606da-7740-4c9b-b606-da77403c9b06
+  text: 人意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-44a.152
+    textline: 人意西
+    offset: 1
+    range: 2
+right:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-44a.153
+    textline: 天意東
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T10:05:05.314+09:00'

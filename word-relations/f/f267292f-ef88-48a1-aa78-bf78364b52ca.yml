@@ -1,0 +1,30 @@
+uuid: f267292f-ef88-48a1-aa78-bf78364b52ca
+type: word-relation
+group_uuid: f267292f-ef88-48a1-aa78-bf78364b52ca
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0263fd52-c1d9-4603-b51f-1bcacf42bc93
+  text: 幽
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 楚辭
+    line_uuid: 12c4c551-f2cb-4e01-8ca0-0c51771b7442
+    textline: 方世俗之幽昏兮
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9097ef0d-9cbc-4c86-a4d6-0ee702efe67b
+  text: 昏
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 楚辭
+    line_uuid: 12c4c551-f2cb-4e01-8ca0-0c51771b7442
+    textline: 方世俗之幽昏兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

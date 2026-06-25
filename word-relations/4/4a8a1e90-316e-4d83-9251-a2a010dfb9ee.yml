@@ -1,0 +1,32 @@
+uuid: 4a8a1e90-316e-4d83-9251-a2a010dfb9ee
+type: word-relation
+group_uuid: 4a8a1e90-316e-4d83-9251-a2a010dfb9ee
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ed06042d-d545-4a60-9192-0e30421d6014
+  text: 謗
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a50d5307-66c4-4a41-816c-68704680b271
+    line_id: KR1e0001_tls_010-15a.30
+    textline: 民無謗讟
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9bd752bb-6f51-45cb-b20a-4f88a78e7cd4
+  text: 讟
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a50d5307-66c4-4a41-816c-68704680b271
+    line_id: KR1e0001_tls_010-15a.30
+    textline: 民無謗讟
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

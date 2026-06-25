@@ -1,0 +1,31 @@
+uuid: abe9b6ad-4851-4bc6-b5d1-aa4db500dca0
+type: word-relation
+group_uuid: abe9b6ad-4851-4bc6-b5d1-aa4db500dca0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 40d3333a-25de-4418-a4bb-389915e360d5
+  text: 濯
+  concept: WASH
+  concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 36211aa0-8173-4437-b4a0-3771d837c781
+    line_id: KR1e0001_tls_009-484a.37
+    textline: 在上位者洒濯其心
+    offset: 6
+    range: 1
+right:
+  word_uuid: 63d58850-4f38-4243-9f3f-33945fbcdad3
+  text: 洒
+  concept: WASH
+  concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 36211aa0-8173-4437-b4a0-3771d837c781
+    line_id: KR1e0001_tls_009-484a.37
+    textline: 在上位者洒濯其心
+    range: 1
+source:
+  source_file: word-relations.xml

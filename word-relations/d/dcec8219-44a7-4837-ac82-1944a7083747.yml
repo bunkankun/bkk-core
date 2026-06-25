@@ -1,0 +1,32 @@
+uuid: dcec8219-44a7-4837-ac82-1944a7083747
+type: word-relation
+group_uuid: 3cec43aa-67c9-50a8-90d2-108e67ca7093
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e5931844-9807-4575-9318-44980775756e
+  text: 小事
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 戰國策
+    line_id: KR2e0003_tls_305-1a.7
+    textline: 小事也
+    offset: 2
+    range: 2
+right:
+  word_uuid: 614fc470-480a-46df-8fc4-70480a06df40
+  text: 大事
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 戰國策
+    line_id: KR2e0003_tls_305-1a.11
+    textline: 大事也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-05T17:20:20.447+09:00'

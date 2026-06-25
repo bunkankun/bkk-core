@@ -1,0 +1,32 @@
+uuid: de937761-50e7-4257-bbc6-de7e4c392d44
+type: word-relation
+group_uuid: de937761-50e7-4257-bbc6-de7e4c392d44
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b2567893-1388-4631-a158-0849fbbbdc63
+  text: 孤
+  concept: ORPHAN
+  concept_uuid: 4c710940-344b-43f5-8bab-cecf6bf228df
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5dbe488f-c15e-4669-886d-5e8f5725b46d
+    line_id: KR1e0001_tls_006-386a.39
+    textline: 不分孤寡
+    offset: 3
+    range: 1
+right:
+  word_uuid: c6dcb20d-d579-4f65-8b36-33f26437bf1f
+  text: 寡
+  concept: BEREAVED
+  concept_uuid: b6caba39-5f9a-4e80-add6-a3ace5b0ef5d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5dbe488f-c15e-4669-886d-5e8f5725b46d
+    line_id: KR1e0001_tls_006-386a.39
+    textline: 不分孤寡
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

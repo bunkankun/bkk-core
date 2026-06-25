@@ -1,0 +1,32 @@
+uuid: fc6f88ef-9512-4cbb-9aa2-a3baba598f52
+type: word-relation
+group_uuid: ce779c6b-6ea2-41f7-9b27-1a0fde23cdf8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6297d090-eb77-4ef4-b0b0-e1f7febdf177
+  text: 壯
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8502bcc5-5765-4f13-bce2-2a3713d53b3f
+    line_id: KR1e0001_tls_005-480a.11
+    textline: 「師直為壯
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2ddc5f20-543c-4c13-9c95-82b3e6eed186
+  text: 老
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d2013254-6268-4e3d-8f3c-134ae1811a8b
+    line_id: KR1e0001_tls_005-480a.12
+    textline: 曲為老
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

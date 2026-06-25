@@ -1,0 +1,21 @@
+uuid: 044b6953-8812-43d1-a331-d20503e3ef8b
+type: word-relation
+group_uuid: 03874027-4fab-5676-aee6-06f530243cf2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: aa7b5267-f344-464b-b3da-7ebcb4539d00
+  text: 補
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+right:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

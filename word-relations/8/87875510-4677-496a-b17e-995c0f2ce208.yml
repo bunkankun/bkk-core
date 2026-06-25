@@ -1,0 +1,32 @@
+uuid: 87875510-4677-496a-b17e-995c0f2ce208
+type: word-relation
+group_uuid: 87875510-4677-496a-b17e-995c0f2ce208
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3bc46cf6-e0a4-4d45-9636-6f8fce4112d8
+    line_id: KR3c0005_tls_010-10a.4
+    textline: 其心忠愛之
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3bc46cf6-e0a4-4d45-9636-6f8fce4112d8
+    line_id: KR3c0005_tls_010-10a.4
+    textline: 其心忠愛之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

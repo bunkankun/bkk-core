@@ -1,0 +1,18 @@
+uuid: c636498e-9e94-484e-9950-dc7088c4dbc0
+type: word-relation
+group_uuid: ede34573-48d3-5128-a5b7-0b7aeacd0127
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+right:
+  word_uuid: a12b1de7-2b15-4e29-8aa0-349d042394e0
+  text: 操
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+source:
+  source_file: word-relations.xml

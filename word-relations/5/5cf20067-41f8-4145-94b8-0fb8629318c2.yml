@@ -1,0 +1,32 @@
+uuid: 5cf20067-41f8-4145-94b8-0fb8629318c2
+type: word-relation
+group_uuid: 5cf20067-41f8-4145-94b8-0fb8629318c2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cfed217d-9428-4d2a-9fc7-b2ee2affbef3
+  text: 放
+  concept: RELEASE
+  concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+  attestation:
+    text_title: 韓非子
+    line_uuid: 494ecaa3-a88b-454f-8afa-ba9ee09efd0b
+    line_id: KR3c0005_tls_010-24a.5
+    textline: 稅車而放馬
+    offset: 4
+    range: 1
+right:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 494ecaa3-a88b-454f-8afa-ba9ee09efd0b
+    line_id: KR3c0005_tls_010-24a.5
+    textline: 稅車而放馬
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

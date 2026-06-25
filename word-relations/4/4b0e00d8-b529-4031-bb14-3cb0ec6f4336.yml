@@ -1,0 +1,21 @@
+uuid: 4b0e00d8-b529-4031-bb14-3cb0ec6f4336
+type: word-relation
+group_uuid: 6ff8f851-ad82-5956-a220-9eeac2263f67
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5edc986a-144b-4819-9205-f16346522160
+  text: 懼
+  concept: FRIGHTEN
+  concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+right:
+  word_uuid: 373001ee-57f4-49fa-8199-1acf4adfba16
+  text: 誡戒
+  concept: WARN
+  concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

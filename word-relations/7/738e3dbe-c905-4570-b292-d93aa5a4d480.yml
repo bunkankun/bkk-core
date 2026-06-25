@@ -1,0 +1,32 @@
+uuid: 738e3dbe-c905-4570-b292-d93aa5a4d480
+type: word-relation
+group_uuid: 738e3dbe-c905-4570-b292-d93aa5a4d480
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: be12e775-d8fc-4be5-b9b3-dee9b699f48e
+  text: 惛
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 管子
+    line_uuid: 79012618-9648-4039-811c-66a9a9ed2136
+    line_id: KR3c0001_tls_011-84a.4
+    textline: 「寡人幼弱惛愚
+    offset: 6
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 管子
+    line_uuid: 79012618-9648-4039-811c-66a9a9ed2136
+    line_id: KR3c0001_tls_011-84a.4
+    textline: 「寡人幼弱惛愚
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

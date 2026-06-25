@@ -1,0 +1,30 @@
+uuid: f6cd859c-e421-4505-ba06-c81cce367503
+type: word-relation
+group_uuid: fdf41b4b-223d-4507-87ee-62223721da08
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e5155299-f4c6-4803-88c8-b77c35d4e1e7
+  text: 決
+  concept: BREAK OFF
+  concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2fbba6cd-9895-42c2-aef5-f739192fc778
+    textline: 決晉陽之水以灌之
+    offset: 1
+    range: 1
+right:
+  word_uuid: d5f02ddf-3fe9-41c4-af6d-5a884a0b16bf
+  text: 水
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2fbba6cd-9895-42c2-aef5-f739192fc778
+    textline: 決晉陽之水以灌之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

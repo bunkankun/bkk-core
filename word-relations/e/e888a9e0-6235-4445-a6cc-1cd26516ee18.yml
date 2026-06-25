@@ -1,0 +1,21 @@
+uuid: e888a9e0-6235-4445-a6cc-1cd26516ee18
+type: word-relation
+group_uuid: 93b9ab3c-a9f3-5780-bd6b-c6d47ce2fae1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 393e0892-a84b-4e29-9bb4-4e07ac45dda3
+  text: 沈
+  concept: ADDICTED
+  concept_uuid: 16c56e86-cab7-4df2-8b9e-aa8565c10372
+right:
+  word_uuid: d1a5ec7b-982f-4438-ada9-e0248d4c82e8
+  text: 湎
+  concept: ADDICTED
+  concept_uuid: 16c56e86-cab7-4df2-8b9e-aa8565c10372
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

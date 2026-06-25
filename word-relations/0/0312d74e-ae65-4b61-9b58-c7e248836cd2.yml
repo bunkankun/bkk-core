@@ -1,0 +1,32 @@
+uuid: 0312d74e-ae65-4b61-9b58-c7e248836cd2
+type: word-relation
+group_uuid: 7e0687b0-204d-409e-80ec-3e1da4d62639
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 09df6864-296d-440f-b3cd-5eb8d80d325a
+  text: 迫
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 楚辭
+    line_uuid: 02a993d6-4b26-424b-b0e7-c95b9a25ce9c
+    line_id: KR5c0386_tls_004-107a.92
+    textline: 外迫脅於機臂兮
+    offset: 2
+    range: 1
+right:
+  word_uuid: 70fd3080-5f77-4d9c-b7ae-a578bbb392a6
+  text: 脅
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 楚辭
+    line_uuid: 02a993d6-4b26-424b-b0e7-c95b9a25ce9c
+    line_id: KR5c0386_tls_004-107a.92
+    textline: 外迫脅於機臂兮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 154d622a-7f20-4141-8d62-2a7f20814166
+type: word-relation
+group_uuid: b0134767-f430-5980-bc47-60e24832d58c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 22d3be46-42fe-4f23-9a7b-00772e56bf5e
+  text: 據
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.16
+    textline: 據籍守舊
+    offset: 1
+    range: 1
+right:
+  word_uuid: 688eec54-0833-467f-a3ff-61944cd8874f
+  text: 籍
+  concept: DOCUMENT
+  concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.16
+    textline: 據籍守舊
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:28:03.855+09:00'

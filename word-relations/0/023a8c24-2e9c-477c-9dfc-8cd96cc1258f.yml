@@ -1,0 +1,21 @@
+uuid: 023a8c24-2e9c-477c-9dfc-8cd96cc1258f
+type: word-relation
+group_uuid: 41d67891-872c-511b-a49e-d30d8aca5a8b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fab01125-fa80-41e0-921b-23e02ef4809d
+  text: 功
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+right:
+  word_uuid: 041e8a0c-6995-4832-8dfe-bf13daed0aec
+  text: 力
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

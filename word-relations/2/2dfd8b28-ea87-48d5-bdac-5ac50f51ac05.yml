@@ -1,0 +1,32 @@
+uuid: 2dfd8b28-ea87-48d5-bdac-5ac50f51ac05
+type: word-relation
+group_uuid: 2dfd8b28-ea87-48d5-bdac-5ac50f51ac05
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 楚辭
+    line_uuid: f756dd62-907a-4139-9061-ac758b28223f
+    line_id: KR4a0001_tls_002-20a.18
+    textline: 身既死兮神以靈
+    offset: 1
+    range: 1
+right:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 楚辭
+    line_uuid: f756dd62-907a-4139-9061-ac758b28223f
+    line_id: KR4a0001_tls_002-20a.18
+    textline: 身既死兮神以靈
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

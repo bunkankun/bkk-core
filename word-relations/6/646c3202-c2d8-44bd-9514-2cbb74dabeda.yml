@@ -1,0 +1,32 @@
+uuid: 646c3202-c2d8-44bd-9514-2cbb74dabeda
+type: word-relation
+group_uuid: 646c3202-c2d8-44bd-9514-2cbb74dabeda
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 54b11cd0-cd90-4428-b578-938f5d3682df
+  text: 稟
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 文子
+    line_uuid: 54ceba18-bf24-4def-900d-048922d32780
+    line_id: KR5c0118_tls_003-1a.35
+    textline: 骨骸者所稟於地也
+    offset: 5
+    range: 1
+right:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 文子
+    line_uuid: 0a6e617a-dfe2-4779-ac67-661a7f92c3fc
+    line_id: KR5c0118_tls_003-1a.34
+    textline: 夫精神者所受於天也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

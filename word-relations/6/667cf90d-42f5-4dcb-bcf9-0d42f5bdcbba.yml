@@ -1,0 +1,32 @@
+uuid: 667cf90d-42f5-4dcb-bcf9-0d42f5bdcbba
+type: word-relation
+group_uuid: 02121570-f7ef-5e17-8e81-7a69ae1bc71a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 81179c21-ea3b-4040-9603-9874473f3e66
+  text: 慈
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.4
+    textline: 故有慈母之服
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7fdc635e-d19e-4e94-9433-d2866178ec93
+  text: 母
+  concept: MOTHER
+  concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.4
+    textline: 故有慈母之服
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:41:31.599+09:00'

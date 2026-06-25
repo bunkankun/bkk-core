@@ -1,0 +1,32 @@
+uuid: 5dd58150-8750-4871-9c5f-50a790117bf2
+type: word-relation
+group_uuid: 32e7c8e4-7648-4f09-9e88-50d4b046d24f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 848967fb-96b0-4737-9dc7-a870db13a43b
+  text: 賜
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 韓非子
+    line_uuid: b174b903-b064-4f21-be5f-a0ccef67da92
+    line_id: KR3c0005_tls_035-19a.3
+    textline: “慶賞賜與
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 與
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 韓非子
+    line_uuid: b174b903-b064-4f21-be5f-a0ccef67da92
+    line_id: KR3c0005_tls_035-19a.3
+    textline: “慶賞賜與
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: e16b7910-90fb-4bcc-88d6-f4e3dde34717
+type: word-relation
+group_uuid: 62a3b6dd-f4c9-50eb-aa7d-f99ddab3538c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 753ae858-9774-4976-be5f-2a2711627f23
+  text: 堅
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+right:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+source:
+  source_file: word-relations.xml

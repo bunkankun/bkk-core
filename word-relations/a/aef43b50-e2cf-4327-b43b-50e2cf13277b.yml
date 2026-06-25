@@ -1,0 +1,32 @@
+uuid: aef43b50-e2cf-4327-b43b-50e2cf13277b
+type: word-relation
+group_uuid: c3324ee2-e221-5073-abdc-8d77fb878545
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 148f362c-2c39-4e2e-ba6b-d78fd3ca3a4d
+  text: 清
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-10a.8
+    textline: 耳不知清濁之分者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2c784faa-2f45-4393-a118-a48090d44b36
+  text: 濁
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-10a.8
+    textline: 耳不知清濁之分者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:09:04.135+09:00'

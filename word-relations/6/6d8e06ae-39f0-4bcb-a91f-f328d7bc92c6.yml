@@ -1,0 +1,32 @@
+uuid: 6d8e06ae-39f0-4bcb-a91f-f328d7bc92c6
+type: word-relation
+group_uuid: a7baf4a7-e8a9-4094-833a-9ba317380b89
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e9f1982-6c2d-4303-b589-f71cb25b3ff5
+  text: 溝
+  concept: MOAT
+  concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+  attestation:
+    text_title: 禮記
+    line_uuid: cb9dacba-418b-4a34-bdff-acdf39e2872b
+    line_id: KR1d0052_tls_009-1a.44
+    textline: 城郭溝池以為固
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8db1d227-2832-4183-bf08-b6e88bd8f0a3
+  text: 池
+  concept: MOAT
+  concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+  attestation:
+    text_title: 禮記
+    line_uuid: cb9dacba-418b-4a34-bdff-acdf39e2872b
+    line_id: KR1d0052_tls_009-1a.44
+    textline: 城郭溝池以為固
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

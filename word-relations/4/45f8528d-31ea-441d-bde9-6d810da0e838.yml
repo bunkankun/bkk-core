@@ -1,0 +1,18 @@
+uuid: 45f8528d-31ea-441d-bde9-6d810da0e838
+type: word-relation
+group_uuid: 52834a88-0b11-5f41-925a-c878a9f8b6eb
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ba625a13-4472-4598-ad4c-d8d2a1a14d90
+  text: 身
+  concept: PERSONALLY
+  concept_uuid: d491ac91-bdfe-4292-b98b-3ac057ed87e6
+right:
+  word_uuid: 003de6f0-3072-4748-a27d-159323869e62
+  text: 施
+  concept: DISTRIBUTE
+  concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+source:
+  source_file: word-relations.xml

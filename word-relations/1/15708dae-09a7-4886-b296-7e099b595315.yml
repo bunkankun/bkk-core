@@ -1,0 +1,32 @@
+uuid: 15708dae-09a7-4886-b296-7e099b595315
+type: word-relation
+group_uuid: 1e6cb766-101d-4ebf-8187-610f07cb7c0e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2faafd34-0633-43c2-8ad9-8bf4a3c4b766
+    line_id: KR3c0005_tls_030-24a.6
+    textline: 是何智者之眾也
+    offset: 3
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9434cdca-7469-47d4-834f-fd9b4eab5c8e
+    line_id: KR3c0005_tls_030-24a.9
+    textline: 何愚者之眾也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 1cb89d78-92d6-4bc1-a20d-e661c5f854ab
+type: word-relation
+group_uuid: 7c46d33e-20a9-45b9-92d2-58ba240c436d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: fa88788d-bf20-40c7-82d4-cc7296f96982
+    textline: 身者所為也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e570c3ed-b9c7-4349-94a2-1a521fd2d12c
+    textline: 天下者所以為也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

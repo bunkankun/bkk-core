@@ -1,0 +1,32 @@
+uuid: 4924b963-cf87-48f9-9f64-b0ac778c1e67
+type: word-relation
+group_uuid: 3118869c-74f4-492b-aae6-2c8719582b13
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ad034131-5fcf-4a07-9038-c4204c7cda58
+  text: 實
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+  attestation:
+    text_title: 老子
+    line_uuid: a2fe59b7-cd2c-4da8-943c-63ebbc29e252
+    line_id: KR5c0057_tls_003-1a.11
+    textline: 實其腹
+    offset: 1
+    range: 1
+right:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 老子
+    line_uuid: d6113e49-f6ae-4367-8a84-24dbc34d847c
+    line_id: KR5c0057_tls_003-1a.10
+    textline: 虛其心
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

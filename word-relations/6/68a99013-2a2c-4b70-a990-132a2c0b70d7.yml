@@ -1,0 +1,32 @@
+uuid: 68a99013-2a2c-4b70-a990-132a2c0b70d7
+type: word-relation
+group_uuid: d2ddfa61-2860-556f-bc16-ac66ef5fc48f
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-13a.4
+    textline: 言不必信
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-13a.5
+    textline: 行不必果
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T18:48:16.728+09:00'

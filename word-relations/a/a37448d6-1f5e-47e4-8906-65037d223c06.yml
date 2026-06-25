@@ -1,0 +1,21 @@
+uuid: a37448d6-1f5e-47e4-8906-65037d223c06
+type: word-relation
+group_uuid: be6d16fc-13ff-5c82-af17-c07f000a130b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4e34a85c-44c2-4434-ab96-b1cf41dccf87
+  text: 改
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

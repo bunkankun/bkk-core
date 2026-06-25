@@ -1,0 +1,32 @@
+uuid: 60a99e22-abc8-4369-a99e-22abc8a3692d
+type: word-relation
+group_uuid: ac75d4e4-91aa-50cb-ace8-4aa286857b10
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.8
+    textline: 知法治所由生
+    offset: 2
+    range: 1
+right:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.8
+    textline: 知法治所由生
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:19:07.393+09:00'

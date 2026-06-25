@@ -1,0 +1,21 @@
+uuid: 2576e2bb-bb9c-4f70-a409-bc30040792d5
+type: word-relation
+group_uuid: 0ea13bd3-0ff0-5194-9923-932c3be0d613
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f28b4f7f-8214-43ea-b1cc-5a36216369a5
+  text: 勁
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+right:
+  word_uuid: f7b75e1f-23f4-41e5-825c-c0e7d810cce0
+  text: 羸
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6fbd67a9-20d3-4fc2-af75-455adf3a68c0
+type: word-relation
+group_uuid: 6fbd67a9-20d3-4fc2-af75-455adf3a68c0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 48df9c2e-d458-4bee-9f40-c84fb165dce5
+  text: 室
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 韓非子
+    line_uuid: 37db4c86-9994-4eef-89a9-e93d2d3222c7
+    line_id: KR3c0005_tls_009-6a.5
+    textline: 側室公子
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6c96b252-1273-43b9-92f3-ff9b9b4a8cf0
+  text: 側
+  concept: ACCOMPANY
+  concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 37db4c86-9994-4eef-89a9-e93d2d3222c7
+    line_id: KR3c0005_tls_009-6a.5
+    textline: 側室公子
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

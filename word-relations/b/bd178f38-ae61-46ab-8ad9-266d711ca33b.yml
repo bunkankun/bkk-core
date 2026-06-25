@@ -1,0 +1,32 @@
+uuid: bd178f38-ae61-46ab-8ad9-266d711ca33b
+type: word-relation
+group_uuid: bd178f38-ae61-46ab-8ad9-266d711ca33b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 16e4c018-fe08-405d-b514-4b83408aa857
+    line_id: KR3j0009_tls_002-11a.16
+    textline: 不得擅行
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3e262154-22f2-486f-8e02-ffef9fb714aa
+  text: 擅
+  concept: ARROGATE
+  concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 16e4c018-fe08-405d-b514-4b83408aa857
+    line_id: KR3j0009_tls_002-11a.16
+    textline: 不得擅行
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

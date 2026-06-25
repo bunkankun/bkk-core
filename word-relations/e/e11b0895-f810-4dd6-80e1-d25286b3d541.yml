@@ -1,0 +1,32 @@
+uuid: e11b0895-f810-4dd6-80e1-d25286b3d541
+type: word-relation
+group_uuid: e11b0895-f810-4dd6-80e1-d25286b3d541
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 375e8fd2-509c-42b4-aad6-f4f3307cd31a
+  text: 積
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 30c5b815-c09b-4a3c-ab4d-9711181854a3
+    line_id: KR3c0005_tls_010-56a.5
+    textline: 倉無積粟
+    offset: 3
+    range: 1
+right:
+  word_uuid: eb3d6e27-55db-4009-aba3-f36d15bd4700
+  text: 儲
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 韓非子
+    line_uuid: fa00fac0-5ba3-4c4a-8cee-e605278c773c
+    line_id: KR3c0005_tls_010-56a.6
+    textline: 府無儲錢
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

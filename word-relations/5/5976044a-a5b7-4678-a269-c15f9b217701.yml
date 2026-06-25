@@ -1,0 +1,32 @@
+uuid: 5976044a-a5b7-4678-a269-c15f9b217701
+type: word-relation
+group_uuid: 5976044a-a5b7-4678-a269-c15f9b217701
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9b6eb9d3-6232-4afe-b6a5-d58b47bcd45e
+  text: 倨
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6093bc0b-f205-4bd8-9184-575f822f1abc
+    line_id: KR2e0003_tls_047-7a.14
+    textline: 何前倨而後卑也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 891f4993-7c48-41b2-bbbe-e30bf5829512
+  text: 卑
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6093bc0b-f205-4bd8-9184-575f822f1abc
+    line_id: KR2e0003_tls_047-7a.14
+    textline: 何前倨而後卑也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

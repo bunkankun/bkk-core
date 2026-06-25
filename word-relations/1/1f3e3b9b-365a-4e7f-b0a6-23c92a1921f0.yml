@@ -1,0 +1,32 @@
+uuid: 1f3e3b9b-365a-4e7f-b0a6-23c92a1921f0
+type: word-relation
+group_uuid: 1f3e3b9b-365a-4e7f-b0a6-23c92a1921f0
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 孟子
+    line_uuid: bee23927-358d-4624-b47c-722ed3e5aa8b
+    line_id: KR1h0001_tls_001-64a.16
+    textline: 必使仰足以事父母
+    offset: 6
+    range: 1
+right:
+  word_uuid: fed6e19b-e649-4066-8dfb-a0367f3c70c1
+  text: 畜
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+  attestation:
+    text_title: 孟子
+    line_uuid: 76dd878a-8bd8-47ab-abbc-211df9a1f0af
+    line_id: KR1h0001_tls_001-64a.17
+    textline: 俯足以畜妻子
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

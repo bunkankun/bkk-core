@@ -1,0 +1,21 @@
+uuid: f0a1dae9-10bf-411c-987a-755ad75f28a8
+type: word-relation
+group_uuid: beffce0f-72f1-57ec-a35d-b0cfec72eac7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+right:
+  word_uuid: 97d43d85-61da-4490-a2aa-be149f7bb049
+  text: 賊
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

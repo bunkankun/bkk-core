@@ -1,0 +1,32 @@
+uuid: fc14229b-bb45-48b2-98e7-44bca948b3c3
+type: word-relation
+group_uuid: fc14229b-bb45-48b2-98e7-44bca948b3c3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3bc3e498-1499-4e67-b199-9956e9cd0b61
+  text: 立
+  concept: INSTALL
+  concept_uuid: ecbce649-3c11-45f1-93fd-a7cb076f990d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f0715083-6776-45f2-9411-c982a5884c65
+    line_id: KR1e0001_tls_005-247a.43
+    textline: 廢而不立
+    offset: 4
+    range: 1
+right:
+  word_uuid: c6a81737-51e2-47b3-8dc8-50960164d947
+  text: 廢
+  concept: DISMISS
+  concept_uuid: f3a9a273-a8dd-442a-affc-427d1514772d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f0715083-6776-45f2-9411-c982a5884c65
+    line_id: KR1e0001_tls_005-247a.43
+    textline: 廢而不立
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

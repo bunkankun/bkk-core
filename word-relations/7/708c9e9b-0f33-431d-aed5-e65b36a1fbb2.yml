@@ -1,0 +1,32 @@
+uuid: 708c9e9b-0f33-431d-aed5-e65b36a1fbb2
+type: word-relation
+group_uuid: c63d39da-f6ad-434b-b93e-9854d4b9cbdb
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 566b7752-c546-4a80-8a6f-ee8343f3eb2f
+  text: 勝
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: e772adfb-7eba-4998-80ec-1f1b178fe32e
+    line_id: KR3c0005_tls_020-55a.8
+    textline: 戰易勝敵
+    offset: 3
+    range: 1
+right:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e772adfb-7eba-4998-80ec-1f1b178fe32e
+    line_id: KR3c0005_tls_020-55a.8
+    textline: 戰易勝敵
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

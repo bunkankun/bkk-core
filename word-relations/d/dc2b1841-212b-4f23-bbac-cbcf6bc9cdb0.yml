@@ -1,0 +1,30 @@
+uuid: dc2b1841-212b-4f23-bbac-cbcf6bc9cdb0
+type: word-relation
+group_uuid: dc2b1841-212b-4f23-bbac-cbcf6bc9cdb0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 87cfa289-995f-45a5-b5f8-1143ea757aad
+  text: 形
+  concept: SHAPE
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ec5a24a-d5e3-4d8b-840d-c3197b25e3a6
+    textline: 發齒吻（+相）形容
+    offset: 8
+    range: 1
+right:
+  word_uuid: 2ca3802c-5f5f-4e8c-8ea5-b84e7c330372
+  text: 容
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ec5a24a-d5e3-4d8b-840d-c3197b25e3a6
+    textline: 發齒吻（+相）形容
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

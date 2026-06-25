@@ -1,0 +1,21 @@
+uuid: 68e7a0cd-2795-44a0-be05-aea5dedd9372
+type: word-relation
+group_uuid: 28bd806e-0cfd-593c-800a-0839494505a2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 80dd1c79-5bbd-4df7-a18b-a3e2ece0f942
+  text: 觀
+  concept: SURVEY
+  concept_uuid: 40ce2fe2-1e89-48ec-9381-f56af49ae111
+right:
+  word_uuid: 75ff07ee-2735-47ad-8d5e-267e8657ac26
+  text: 覽
+  concept: SURVEY
+  concept_uuid: 40ce2fe2-1e89-48ec-9381-f56af49ae111
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

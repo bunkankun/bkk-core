@@ -1,0 +1,30 @@
+uuid: 5f2b1ede-826a-46ad-8925-6277ccf44294
+type: word-relation
+group_uuid: 5f2b1ede-826a-46ad-8925-6277ccf44294
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 老子
+    line_uuid: 917e3b57-3e17-455e-9033-d0ebcb7b5b91
+    textline: 小國不過欲入事人
+    offset: 7
+    range: 1
+right:
+  word_uuid: fed6e19b-e649-4066-8dfb-a0367f3c70c1
+  text: 畜
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+  attestation:
+    text_title: 老子
+    line_uuid: 15b17f12-6d39-4832-8b80-39d0c7822544
+    textline: 大國不過欲兼畜人
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

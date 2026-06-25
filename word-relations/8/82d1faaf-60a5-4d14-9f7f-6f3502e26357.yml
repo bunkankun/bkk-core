@@ -1,0 +1,32 @@
+uuid: 82d1faaf-60a5-4d14-9f7f-6f3502e26357
+type: word-relation
+group_uuid: 82d1faaf-60a5-4d14-9f7f-6f3502e26357
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 59c38938-a539-41c3-8f9d-603c1a64feee
+  text: 賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 論語
+    line_uuid: 4ebe0940-4841-4377-a6fc-6240ceb82aa6
+    line_id: KR1h0004_tls_009-7a.5
+    textline: 吾少也賤
+    offset: 4
+    range: 1
+right:
+  word_uuid: b62166a7-60f9-4584-b440-0d73fd958afb
+  text: 鄙
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 論語
+    line_uuid: 0e72c088-9144-47e1-8e24-982d99e0db7c
+    line_id: KR1h0004_tls_009-7a.6
+    textline: 故多能鄙事
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

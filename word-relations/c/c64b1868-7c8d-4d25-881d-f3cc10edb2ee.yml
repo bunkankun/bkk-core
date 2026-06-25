@@ -1,0 +1,35 @@
+uuid: c64b1868-7c8d-4d25-881d-f3cc10edb2ee
+type: word-relation
+group_uuid: e7a52ec7-ee07-4e92-9fe3-c16fdf78a37a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 54f197e8-c5cb-44c2-8352-ed9a5f579786
+  text: 近
+  concept: NEAR
+  concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cf80ce1c-ec48-45fc-9871-3494bceb3da6
+    line_id: KR3j0009_tls_005-12a.24
+    textline: 和遠近
+    offset: 3
+    range: 1
+right:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cf80ce1c-ec48-45fc-9871-3494bceb3da6
+    line_id: KR3j0009_tls_005-12a.24
+    textline: 和遠近
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

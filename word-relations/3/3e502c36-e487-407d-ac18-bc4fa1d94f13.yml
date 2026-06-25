@@ -1,0 +1,32 @@
+uuid: 3e502c36-e487-407d-ac18-bc4fa1d94f13
+type: word-relation
+group_uuid: d5a177e7-1908-427d-bd41-14f1d5e3733b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5bd49882-740c-481e-92df-bb1fbb73568e
+    line_id: KR1e0001_tls_001-70a.26
+    textline: 遠間親
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5bd49882-740c-481e-92df-bb1fbb73568e
+    line_id: KR1e0001_tls_001-70a.26
+    textline: 遠間親
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

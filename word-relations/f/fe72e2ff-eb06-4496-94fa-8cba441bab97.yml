@@ -1,0 +1,32 @@
+uuid: fe72e2ff-eb06-4496-94fa-8cba441bab97
+type: word-relation
+group_uuid: fe72e2ff-eb06-4496-94fa-8cba441bab97
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1d471202-96e5-46b0-ba00-3d45e88859e5
+  text: 持戒
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 百喻經
+    line_uuid: 3778c9f4-c347-4eba-99e9-7d080603166e
+    line_id: KR6b0066_T_002-0548a.42
+    textline: 如來法王有持戒樹能生勝果
+    offset: 6
+    range: 2
+right:
+  word_uuid: 45e556da-a72d-4e9a-a772-41af9b35b433
+  text: 破戒
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 百喻經
+    line_uuid: 7224fa0a-63f6-48df-9b67-8ad7bd11ef0c
+    line_id: KR6b0066_T_002-0548a.52
+    textline: 破戒之人亦復如是
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

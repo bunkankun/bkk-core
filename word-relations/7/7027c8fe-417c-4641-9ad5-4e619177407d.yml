@@ -1,0 +1,32 @@
+uuid: 7027c8fe-417c-4641-9ad5-4e619177407d
+type: word-relation
+group_uuid: 951f31ce-d57c-49d0-9c63-916223f88014
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6cefce66-bf9c-4893-8e14-6d15295dc147
+  text: 俗
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+  attestation:
+    text_title: 論衡
+    line_uuid: dd34a10d-acb4-4055-a5f2-74a724d101a8
+    line_id: KR3j0080_tls_002-9a.24
+    textline: 世俗之所謂賢潔者
+    offset: 2
+    range: 1
+right:
+  word_uuid: a16e78f7-ec2c-4cdc-9608-b04b4325b224
+  text: 世
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 論衡
+    line_uuid: dd34a10d-acb4-4055-a5f2-74a724d101a8
+    line_id: KR3j0080_tls_002-9a.24
+    textline: 世俗之所謂賢潔者
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

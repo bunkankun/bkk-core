@@ -1,0 +1,32 @@
+uuid: f784268d-bbf4-41c1-9381-e6aaad94dd87
+type: word-relation
+group_uuid: f784268d-bbf4-41c1-9381-e6aaad94dd87
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: afed64f5-3a37-4626-9b78-f611edf0fc0c
+  text: 談
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 淮南子
+    line_uuid: a9167cc2-eb1c-4919-8717-630232a50deb
+    line_id: KR3j0010_tls_011-25a.28
+    textline: 談語而不稱師
+    offset: 1
+    range: 1
+right:
+  word_uuid: a67ab7b1-849b-4c37-bb24-7aabc826c285
+  text: 語
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 淮南子
+    line_uuid: a9167cc2-eb1c-4919-8717-630232a50deb
+    line_id: KR3j0010_tls_011-25a.28
+    textline: 談語而不稱師
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

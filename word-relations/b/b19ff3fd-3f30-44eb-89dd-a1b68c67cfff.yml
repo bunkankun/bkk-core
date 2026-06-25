@@ -1,0 +1,32 @@
+uuid: b19ff3fd-3f30-44eb-89dd-a1b68c67cfff
+type: word-relation
+group_uuid: b19ff3fd-3f30-44eb-89dd-a1b68c67cfff
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 747e4ece-12fc-4a67-a420-fb0baf005724
+  text: 化
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4ee4b35e-69b0-4fab-8130-57830debc27e
+    line_id: KR3c0005_tls_008-31a.7
+    textline: 虎化為人
+    offset: 2
+    range: 1
+right:
+  word_uuid: e2dff72d-71e3-462a-aab4-84bda15d9d2c
+  text: 為
+  concept: BECOME
+  concept_uuid: 1a308a52-d691-4ffa-82ec-acf6db84a199
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4ee4b35e-69b0-4fab-8130-57830debc27e
+    line_id: KR3c0005_tls_008-31a.7
+    textline: 虎化為人
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

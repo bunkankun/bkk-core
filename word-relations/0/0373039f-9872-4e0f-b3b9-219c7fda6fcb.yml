@@ -1,0 +1,35 @@
+uuid: 0373039f-9872-4e0f-b3b9-219c7fda6fcb
+type: word-relation
+group_uuid: 702f2ba2-31b1-44cc-8289-1cc4092562bf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 547f6e92-68b0-4e6a-be39-d4b2d554d33f
+  text: 逆
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e1ec7b8c-09d6-4097-8bd4-079ecd552248
+    line_id: KR3c0005_tls_014-40a.3
+    textline: 必逆於世
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2d552e26-0869-442f-9d04-9d2f30d21c70
+  text: 順
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 韓非子
+    line_uuid: 342fb347-971d-489f-914d-948daf46b5c7
+    line_id: KR3c0005_tls_014-40a.4
+    textline: 而順於道德
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

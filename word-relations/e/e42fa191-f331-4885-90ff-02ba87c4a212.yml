@@ -1,0 +1,30 @@
+uuid: e42fa191-f331-4885-90ff-02ba87c4a212
+type: word-relation
+group_uuid: e42fa191-f331-4885-90ff-02ba87c4a212
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dd20936-f8b4-4cc3-b629-37def231fde6
+  text: 宗
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: c467363f-f295-4b5c-a6e4-a0dbf5c14a94
+    textline: 取恥宗族
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4bba8658-ce64-4f09-85ab-babdb61aea3a
+  text: 族
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: c467363f-f295-4b5c-a6e4-a0dbf5c14a94
+    textline: 取恥宗族
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9f41a3a6-cf11-4248-81a3-a6cf11e24880
+type: word-relation
+group_uuid: 9383f64c-db76-595f-8f4a-d15361a8a705
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_005-45a.13
+    textline: 勞心者治人
+    offset: 4
+    range: 1
+right:
+  word_uuid: b73cd87f-1d18-4870-bcd8-7f1d185870e6
+  text: 治於
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_005-45a.14
+    textline: 勞力者治於人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T19:27:24.206+09:00'

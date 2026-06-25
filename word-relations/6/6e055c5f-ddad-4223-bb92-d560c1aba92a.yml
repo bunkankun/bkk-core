@@ -1,0 +1,21 @@
+uuid: 6e055c5f-ddad-4223-bb92-d560c1aba92a
+type: word-relation
+group_uuid: eb023dae-828e-544e-84f3-e3118234f7ba
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 972af1bd-15e5-4c4e-8ed9-525d929b3bc0
+  text: 歡歡驩
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+right:
+  word_uuid: 5feec232-1adc-46c6-b2e2-7bb0d8cd811d
+  text: 美
+  concept: ADMIRE
+  concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

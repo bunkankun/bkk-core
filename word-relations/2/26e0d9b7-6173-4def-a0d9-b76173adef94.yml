@@ -1,0 +1,32 @@
+uuid: 26e0d9b7-6173-4def-a0d9-b76173adef94
+type: word-relation
+group_uuid: f6908e61-fa2e-5a62-9ce5-8e9b95e52f42
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 85310c76-c2fc-419d-b10c-76c2fc019dd1
+  text: 馯
+  concept: WILD
+  concept_uuid: 617295c0-4c5f-49ee-a30c-8527a9dfb192
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.10
+    textline: 是猶无鏑銜策錣而御馯馬也
+    offset: 10
+    range: 1
+right:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.10
+    textline: 是猶无鏑銜策錣而御馯馬也
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T01:58:09.314+09:00'

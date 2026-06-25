@@ -1,0 +1,32 @@
+uuid: 69cc71f6-d43e-40ee-b4d6-01ea4ad8640a
+type: word-relation
+group_uuid: 69cc71f6-d43e-40ee-b4d6-01ea4ad8640a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ddf03015-f596-4b98-bd0c-44a808a125e1
+  text: 室
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 635515bb-bee8-420c-8138-86a506f64734
+    line_id: KR3j0009_tls_001-18a.2
+    textline: 室大則多陰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 13808986-a234-484d-a412-862d3e387251
+  text: 大
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 635515bb-bee8-420c-8138-86a506f64734
+    line_id: KR3j0009_tls_001-18a.2
+    textline: 室大則多陰
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

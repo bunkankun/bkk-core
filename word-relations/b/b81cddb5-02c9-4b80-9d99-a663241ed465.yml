@@ -1,0 +1,30 @@
+uuid: b81cddb5-02c9-4b80-9d99-a663241ed465
+type: word-relation
+group_uuid: b81cddb5-02c9-4b80-9d99-a663241ed465
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c167a295-ca5b-4737-bf5d-6ce9a945255c
+  text: 才
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 論衡
+    line_uuid: 7a42a6a7-585d-422d-8e3f-15e58fc0e7d0
+    textline: 人臣猶以鴻才為廝役
+    offset: 6
+    range: 1
+right:
+  word_uuid: 13801b36-7530-4547-83a8-d9fb608e701c
+  text: 鴻
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 論衡
+    line_uuid: 7a42a6a7-585d-422d-8e3f-15e58fc0e7d0
+    textline: 人臣猶以鴻才為廝役
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

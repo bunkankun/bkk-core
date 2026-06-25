@@ -1,0 +1,32 @@
+uuid: 7be42661-7e7b-445f-800f-70366115b0f0
+type: word-relation
+group_uuid: 7be42661-7e7b-445f-800f-70366115b0f0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8d8b815d-dbad-4f8f-a155-c05406d8ae9b
+  text: 謀
+  concept: ADVISE
+  concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+  attestation:
+    text_title: 論語
+    line_uuid: 66301e5a-577d-4d12-a0a1-2124796e1419
+    line_id: KR1h0004_tls_001-4a.4
+    textline: 為人謀而不忠乎
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: 66301e5a-577d-4d12-a0a1-2124796e1419
+    line_id: KR1h0004_tls_001-4a.4
+    textline: 為人謀而不忠乎
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

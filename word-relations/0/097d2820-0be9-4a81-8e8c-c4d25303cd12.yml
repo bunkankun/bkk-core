@@ -1,0 +1,32 @@
+uuid: 097d2820-0be9-4a81-8e8c-c4d25303cd12
+type: word-relation
+group_uuid: 097d2820-0be9-4a81-8e8c-c4d25303cd12
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4ffe0350-87bc-4876-8290-df76d6dfd976
+  text: 燀
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f07c272b-7590-4bac-b69d-3b00f3f9e26b
+    line_id: KR3j0009_tls_001-18a.11
+    textline: 燀熱則理塞
+    offset: 1
+    range: 1
+right:
+  word_uuid: caf98739-222c-4786-b1b1-644b04a17dbe
+  text: 熱
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f07c272b-7590-4bac-b69d-3b00f3f9e26b
+    line_id: KR3j0009_tls_001-18a.11
+    textline: 燀熱則理塞
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

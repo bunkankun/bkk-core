@@ -1,0 +1,21 @@
+uuid: 6f37b50e-6876-411b-92fa-4e0624738ee7
+type: word-relation
+group_uuid: f05076f1-5938-5873-ac87-4cabfc415511
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: aeb1a565-4de8-42fb-8372-5a3d68601d0b
+  text: 臭
+  concept: STINK
+  concept_uuid: dd396b03-ebdf-4208-a5b3-38ba6f0dfc3c
+right:
+  word_uuid: e6531707-27d4-4287-9596-1851f38f81d6
+  text: 香
+  concept: FRAGRANT
+  concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

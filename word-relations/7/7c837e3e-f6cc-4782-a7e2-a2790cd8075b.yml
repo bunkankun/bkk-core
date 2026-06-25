@@ -1,0 +1,32 @@
+uuid: 7c837e3e-f6cc-4782-a7e2-a2790cd8075b
+type: word-relation
+group_uuid: 7c837e3e-f6cc-4782-a7e2-a2790cd8075b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e2582819-d8da-43c4-a98b-45b96c63ead5
+  text: 琴
+  concept: STRING INSTRUMENTS
+  concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f5630c08-2ed4-406e-be0d-0821c543bd33
+    line_id: KR3j0009_tls_003-21a.12
+    textline: 琴瑟不張
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6e5f4ae0-399f-4245-b65c-08c787dcbefa
+  text: 瑟
+  concept: STRING INSTRUMENTS
+  concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f5630c08-2ed4-406e-be0d-0821c543bd33
+    line_id: KR3j0009_tls_003-21a.12
+    textline: 琴瑟不張
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

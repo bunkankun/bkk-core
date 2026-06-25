@@ -1,0 +1,34 @@
+uuid: b212db41-0dc7-47df-aef7-73b6298d1bcb
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: ccfb9073-e232-4e23-8297-9933b4953a4d
+    line_id: KR1h0004_tls_007-44a.3
+    textline: 「君子坦蕩蕩
+    offset: 2
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論語
+    line_uuid: 86468485-4459-4f99-a891-ca879aabfaf3
+    textline: 小人長(悵)戚戚
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 0d7b5ee0-ac8f-49fb-aea5-d157cbb78643
+type: word-relation
+group_uuid: 7660fb63-18aa-4333-b945-97b2d31a7c53
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3b6d9834-ceb5-4797-adaa-1852f4d1b413
+    textline: 盛衰賢不肖君子小人皆形於樂
+    offset: 8
+    range: 2
+right:
+  word_uuid: 8f5c9b8d-3099-4e6c-be13-c30617fefcf7
+  text: 小人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3b6d9834-ceb5-4797-adaa-1852f4d1b413
+    textline: 盛衰賢不肖君子小人皆形於樂
+    offset: 11
+    range: 2
+source:
+  source_file: word-relations.xml

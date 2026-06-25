@@ -1,0 +1,32 @@
+uuid: c562f5af-86e7-4bea-b0ac-7291993ef1bd
+type: word-relation
+group_uuid: c562f5af-86e7-4bea-b0ac-7291993ef1bd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 233df6d2-e94c-4952-a34f-c524ac730483
+  text: 危
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 韓非子
+    line_uuid: f0bf2e1c-71aa-4e81-93d2-24dbf9accd99
+    line_id: KR3c0005_tls_020-88a.9
+    textline: 則軍危殆
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0f22730c-9b32-42d3-bc52-4972c748aaf7
+  text: 殆
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 韓非子
+    line_uuid: f0bf2e1c-71aa-4e81-93d2-24dbf9accd99
+    line_id: KR3c0005_tls_020-88a.9
+    textline: 則軍危殆
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

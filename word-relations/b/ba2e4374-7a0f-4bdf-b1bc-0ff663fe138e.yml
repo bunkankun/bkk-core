@@ -1,0 +1,18 @@
+uuid: ba2e4374-7a0f-4bdf-b1bc-0ff663fe138e
+type: word-relation
+group_uuid: 3ba0432c-14e2-5a82-9d37-c48e2d6e7fff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7b07e312-6a69-44ae-9f75-cf670c034598
+  text: 又
+  concept: AGAIN
+  concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+right:
+  word_uuid: 5a32964e-b2c8-4693-9e93-50337a502993
+  text: 復
+  concept: AGAIN
+  concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: d5b1f94c-0ced-4fe9-975e-a57b35a97046
+type: word-relation
+group_uuid: b4d9d7cd-28fe-5082-b483-1777aa17e31d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+source:
+  source_file: word-relations.xml

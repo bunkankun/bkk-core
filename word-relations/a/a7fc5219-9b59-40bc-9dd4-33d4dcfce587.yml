@@ -1,0 +1,32 @@
+uuid: a7fc5219-9b59-40bc-9dd4-33d4dcfce587
+type: word-relation
+group_uuid: a7fc5219-9b59-40bc-9dd4-33d4dcfce587
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67374e46-dc24-437d-a0ae-4d791fdd3d95
+  text: 疵
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 973f02d3-4b3f-458d-b136-3a6275625384
+    line_id: KR1e0001_tls_005-116a.13
+    textline: 不女疵瑕也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 615dd0d2-ea76-40f6-b8a6-17f90cca7833
+  text: 瑕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 973f02d3-4b3f-458d-b136-3a6275625384
+    line_id: KR1e0001_tls_005-116a.13
+    textline: 不女疵瑕也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

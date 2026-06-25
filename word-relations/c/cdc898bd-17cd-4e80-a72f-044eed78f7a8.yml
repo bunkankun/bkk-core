@@ -1,0 +1,35 @@
+uuid: cdc898bd-17cd-4e80-a72f-044eed78f7a8
+type: word-relation
+group_uuid: 6b6e8532-f3ed-4fe8-825d-f7802540f88a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41187096-05ad-498e-9553-de3973a93524
+  text: 宮
+  concept: DWELLING
+  concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+  attestation:
+    text_title: 韓非子
+    line_uuid: 11d678af-96f7-4c93-a3ac-7595867eb2eb
+    line_id: KR3c0005_tls_009-9a.3
+    textline: 以美宮室臺池
+    offset: 3
+    range: 1
+right:
+  word_uuid: ddf03015-f596-4b98-bd0c-44a808a125e1
+  text: 室
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 韓非子
+    line_uuid: 11d678af-96f7-4c93-a3ac-7595867eb2eb
+    line_id: KR3c0005_tls_009-9a.3
+    textline: 以美宮室臺池
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

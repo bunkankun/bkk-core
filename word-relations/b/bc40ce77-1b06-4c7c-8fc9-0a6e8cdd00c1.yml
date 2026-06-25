@@ -1,0 +1,32 @@
+uuid: bc40ce77-1b06-4c7c-8fc9-0a6e8cdd00c1
+type: word-relation
+group_uuid: bc40ce77-1b06-4c7c-8fc9-0a6e8cdd00c1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 35f33b94-b3b7-4066-a3fa-4a900acc9b6e
+  text: 馘
+  concept: EAR
+  concept_uuid: cfec8c6f-06c5-479d-96a4-5ea48af644f2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 446d4b4b-60b3-445f-a73d-f4babb20e0a2
+    line_id: KR3j0009_tls_005-35a.7
+    textline: 乃薦俘馘于京太室
+    offset: 4
+    range: 1
+right:
+  word_uuid: c696a6a7-30a5-48e7-bd98-0090c822b3cb
+  text: 俘
+  concept: PRISONER
+  concept_uuid: 3da609fc-7f81-4e7a-a471-3354c9c25ec0
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 446d4b4b-60b3-445f-a73d-f4babb20e0a2
+    line_id: KR3j0009_tls_005-35a.7
+    textline: 乃薦俘馘于京太室
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6da8b330-54a6-46f9-a78c-85203e5ba05d
+type: word-relation
+group_uuid: 6da8b330-54a6-46f9-a78c-85203e5ba05d
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 626c09ce-5142-4333-b0ef-d2eeda2bc9e9
+  text: 撫
+  concept: TOUCH
+  concept_uuid: 21c32fc6-08b2-402f-b38c-27a3ffca5e26
+  attestation:
+    text_title: 韓非子
+    line_uuid: 83f1a7ae-9083-473e-bd6c-220e4e75ab5c
+    line_id: KR3c0005_tls_010-28a.11
+    textline: 師曠撫止之
+    offset: 3
+    range: 1
+right:
+  word_uuid: b9994ced-5d09-4fa3-bde7-9fe7befc7109
+  text: 止
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: 83f1a7ae-9083-473e-bd6c-220e4e75ab5c
+    line_id: KR3c0005_tls_010-28a.11
+    textline: 師曠撫止之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

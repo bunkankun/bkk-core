@@ -1,0 +1,32 @@
+uuid: 937abd00-52fc-4774-8fcd-7642afe1ae01
+type: word-relation
+group_uuid: 937abd00-52fc-4774-8fcd-7642afe1ae01
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4c533cea-d592-434a-a379-c56308fa321c
+  text: 恐
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d07af223-7c77-40ff-a917-78b5d9f3c8f3
+    line_id: KR3j0009_tls_003-26a.37
+    textline: 嚴不能恐
+    offset: 4
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bca13c12-75b8-4a0a-817f-81d303751baa
+    line_id: KR3j0009_tls_003-26a.36
+    textline: 威不能懼
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

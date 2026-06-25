@@ -1,0 +1,32 @@
+uuid: 77e899b3-38c5-47ed-a899-b338c517ed74
+type: word-relation
+group_uuid: 3dd790ad-22eb-5d27-a4c1-af052e035a79
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b4b3d2f3-fd7c-42c5-9fde-540d765c71bc
+  text: 制
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.12
+    textline: 故聖人制禮樂
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5724f205-2dde-428c-a4f2-052dde028c99
+  text: 制於
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.13
+    textline: 而不制於禮樂
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:47:44.603+09:00'

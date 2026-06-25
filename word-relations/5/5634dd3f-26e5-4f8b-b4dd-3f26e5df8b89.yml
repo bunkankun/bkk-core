@@ -1,0 +1,32 @@
+uuid: 5634dd3f-26e5-4f8b-b4dd-3f26e5df8b89
+type: word-relation
+group_uuid: d5545981-845e-587f-863b-a11bbefca37d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-128a.267
+    textline: 聖人乃深知天意
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0a9996fa-ad73-4e77-87b0-2d402aaf63ce
+  text: 深
+  concept: PROFOUND
+  concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-128a.267
+    textline: 聖人乃深知天意
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T14:36:30.324+09:00'

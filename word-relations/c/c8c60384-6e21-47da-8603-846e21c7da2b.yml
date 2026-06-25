@@ -1,0 +1,32 @@
+uuid: c8c60384-6e21-47da-8603-846e21c7da2b
+type: word-relation
+group_uuid: 6b65f420-0440-4cdc-9ae6-ee051eb4ef99
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7e60d87e-8a02-4a8b-b5e3-42afa95c6c3e
+  text: 沖
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.12
+    textline: 沖而徐盈
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4dafa974-7085-43a9-8dec-157f598ea3f8
+  text: 盈
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.12
+    textline: 沖而徐盈
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-24T04:48:43.733+09:00'

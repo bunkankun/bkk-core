@@ -1,0 +1,32 @@
+uuid: e4fddd93-75a0-4d0f-b5d4-5e0d9deb89f1
+type: word-relation
+group_uuid: e4fddd93-75a0-4d0f-b5d4-5e0d9deb89f1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: fe562ea3-70f0-4658-8763-c93d89bcc08f
+  text: 歔
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 老子
+    line_uuid: 4a9d2208-8cd2-4a4a-bf28-8f52c59240d5
+    line_id: KR5c0057_tls_029-1a.10
+    textline: 或歔或吹
+    offset: 2
+    range: 1
+right:
+  word_uuid: a6a412cb-23df-490b-a949-174d166badb9
+  text: 吹
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 老子
+    line_uuid: 4a9d2208-8cd2-4a4a-bf28-8f52c59240d5
+    line_id: KR5c0057_tls_029-1a.10
+    textline: 或歔或吹
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

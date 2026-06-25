@@ -1,0 +1,32 @@
+uuid: 53258710-4e0d-4607-8dcc-ef51ab8c0dbe
+type: word-relation
+group_uuid: 53258710-4e0d-4607-8dcc-ef51ab8c0dbe
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: fe7ef320-cbdc-4d14-afcb-cb4b84ece986
+    line_id: KR1e0001_tls_009-718a.38
+    textline: 「善人富謂之賞
+    offset: 2
+    range: 1
+right:
+  word_uuid: 83c39693-3e41-45ea-a4d3-faeff151da21
+  text: 淫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5aa9f1cb-8bff-4647-b2c1-47bd428754c2
+    line_id: KR1e0001_tls_009-718a.39
+    textline: 淫人富謂之殃
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 74285fcf-d234-461b-bec8-da794d8159b8
+type: word-relation
+group_uuid: e368facf-17d5-4277-84d5-e39337848804
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 62de2824-135d-47ac-87d7-635d53c064cb
+  text: 損
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+  attestation:
+    text_title: 老子
+    line_uuid: 6bf84b52-0cca-4db7-9d82-5f6e8006dfc5
+    line_id: KR5c0057_tls_048-1a.4
+    textline: 為道日損
+    offset: 4
+    range: 1
+right:
+  word_uuid: dbbd252b-fb4b-49a8-8563-8676c58ef909
+  text: 益
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 老子
+    line_uuid: c4d14a99-cd9c-4e9a-afa8-149e93842b59
+    line_id: KR5c0057_tls_048-1a.3
+    textline: 為學日益
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

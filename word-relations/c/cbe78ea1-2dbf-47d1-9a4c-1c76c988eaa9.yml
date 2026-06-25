@@ -1,0 +1,32 @@
+uuid: cbe78ea1-2dbf-47d1-9a4c-1c76c988eaa9
+type: word-relation
+group_uuid: cbe78ea1-2dbf-47d1-9a4c-1c76c988eaa9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cf3ddfaf-3538-4816-b5c9-213dc178b1e4
+  text: 同
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 41944c9b-2347-48a1-9baf-31bfe9b41c5b
+    line_id: KR6q0002_Yan_003-1125a.33
+    textline: ‘同中有異
+    offset: 2
+    range: 1
+right:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 41944c9b-2347-48a1-9baf-31bfe9b41c5b
+    line_id: KR6q0002_Yan_003-1125a.33
+    textline: ‘同中有異
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

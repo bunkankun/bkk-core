@@ -1,0 +1,32 @@
+uuid: 0ec87e26-064e-4aa0-879f-7e8b5481b485
+type: word-relation
+group_uuid: 0ec87e26-064e-4aa0-879f-7e8b5481b485
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aaa2807b-e572-4f35-b077-3447963a7c17
+  text: 義
+  concept: RECTITUDE
+  concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+  attestation:
+    text_title: 韓非子
+    line_uuid: e75c18cb-1915-44e7-8aba-6a068f56ed44
+    line_id: KR3c0005_tls_003-6a.4
+    textline: 義理雖全
+    offset: 1
+    range: 1
+right:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 韓非子
+    line_uuid: e75c18cb-1915-44e7-8aba-6a068f56ed44
+    line_id: KR3c0005_tls_003-6a.4
+    textline: 義理雖全
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

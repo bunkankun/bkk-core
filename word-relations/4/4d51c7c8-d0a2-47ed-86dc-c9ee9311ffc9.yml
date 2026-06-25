@@ -1,0 +1,32 @@
+uuid: 4d51c7c8-d0a2-47ed-86dc-c9ee9311ffc9
+type: word-relation
+group_uuid: 4d51c7c8-d0a2-47ed-86dc-c9ee9311ffc9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 18d6f730-3b02-4f98-bc17-2ca742e4d322
+  text: 鳥
+  concept: BIRD
+  concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+  attestation:
+    text_title: 孟子
+    line_uuid: 947ab10f-d4c2-4510-8e08-bba0f24399cb
+    line_id: KR1h0001_tls_001-4a.29
+    textline: 雖有臺池鳥獸
+    offset: 5
+    range: 1
+right:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 孟子
+    line_uuid: 947ab10f-d4c2-4510-8e08-bba0f24399cb
+    line_id: KR1h0001_tls_001-4a.29
+    textline: 雖有臺池鳥獸
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

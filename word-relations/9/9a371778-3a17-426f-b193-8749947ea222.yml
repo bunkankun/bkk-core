@@ -1,0 +1,32 @@
+uuid: 9a371778-3a17-426f-b193-8749947ea222
+type: word-relation
+group_uuid: 9a371778-3a17-426f-b193-8749947ea222
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9a789ee9-6630-4334-96a7-d54966a722ac
+  text: 太子
+  concept: HEIR
+  concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2e2054ae-0630-4b2b-b372-d4dfca8f14e6
+    line_id: KR3c0005_tls_015-26a.3
+    textline: 太子輕而庶子伉
+    offset: 1
+    range: 2
+right:
+  word_uuid: 9d9a2ba1-547e-476d-a2ab-ba307a858386
+  text: 庶子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2e2054ae-0630-4b2b-b372-d4dfca8f14e6
+    line_id: KR3c0005_tls_015-26a.3
+    textline: 太子輕而庶子伉
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

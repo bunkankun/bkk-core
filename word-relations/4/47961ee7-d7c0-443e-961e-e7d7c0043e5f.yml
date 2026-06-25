@@ -1,0 +1,32 @@
+uuid: 47961ee7-d7c0-443e-961e-e7d7c0043e5f
+type: word-relation
+group_uuid: 2b052828-27af-51d8-8181-763fb586020b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 69b0ff44-5f21-4e17-9d67-985c3199f606
+  text: 周
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_002-15a.3
+    textline: 君子周而不比
+    offset: 4
+    range: 1
+right:
+  word_uuid: b9fe3c57-b16f-4308-9c3f-8be211b63c41
+  text: 比
+  concept: PARTIAL
+  concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_002-15a.3
+    textline: 君子周而不比
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-24T18:23:21.006+09:00'

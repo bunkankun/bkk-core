@@ -1,0 +1,32 @@
+uuid: 11ddf003-fe46-415f-9df0-03fe46a15f21
+type: word-relation
+group_uuid: 9d1942ff-b369-5673-84c8-4fddba62aeeb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ac998de5-d87f-4964-a1c6-566341ad81dd
+  text: 千
+  concept: THOUSAND
+  concept_uuid: 0168ed1a-ee36-4c5a-879b-06c64e9927d9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.33
+    textline: 為靼蹻而超千里
+    offset: 6
+    range: 1
+right:
+  word_uuid: 76b285aa-04c9-49c2-8988-79fcca146428
+  text: 里
+  concept: LENGTH MEASURES
+  concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.33
+    textline: 為靼蹻而超千里
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:25:08.24+09:00'

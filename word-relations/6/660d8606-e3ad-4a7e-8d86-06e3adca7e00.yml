@@ -1,0 +1,32 @@
+uuid: 660d8606-e3ad-4a7e-8d86-06e3adca7e00
+type: word-relation
+group_uuid: 2b4d8ace-cc56-515f-9663-50495823703d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6e599a48-8a8a-47c1-ad90-c7ea76267b6c
+  text: 其
+  concept: CERTAIN
+  concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_005-303a.13
+    textline: 天其或者欲使衛討邢乎
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5753add8-7f1f-41bf-9755-14a97a3b5a5a
+  text: 或者
+  concept: PROBABLE
+  concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_005-303a.13
+    textline: 天其或者欲使衛討邢乎
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-01T16:28:50.565+09:00'

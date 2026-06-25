@@ -1,0 +1,32 @@
+uuid: 5515fdb5-3ef1-4231-bbea-87aeab432aef
+type: word-relation
+group_uuid: 5515fdb5-3ef1-4231-bbea-87aeab432aef
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 韓非子
+    line_uuid: 10428768-6452-4389-8ee6-991ffd1c6ae6
+    line_id: KR3c0005_tls_015-15a.3
+    textline: 蚤見而心柔懦
+    offset: 5
+    range: 1
+right:
+  word_uuid: 51b1f18e-c989-451f-a44a-e328b639af1b
+  text: 懦
+  concept: COWARDLY
+  concept_uuid: 15831024-bfe8-489b-b701-e1a0143abdd6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 10428768-6452-4389-8ee6-991ffd1c6ae6
+    line_id: KR3c0005_tls_015-15a.3
+    textline: 蚤見而心柔懦
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

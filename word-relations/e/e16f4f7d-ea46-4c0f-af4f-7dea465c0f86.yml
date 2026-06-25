@@ -1,0 +1,32 @@
+uuid: e16f4f7d-ea46-4c0f-af4f-7dea465c0f86
+type: word-relation
+group_uuid: 98b59956-9a21-5b37-b22c-93aaae8a4384
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: aedd4785-84b9-4020-a60f-4031f695d3be
+  text: 律
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_027-3a.15
+    textline: 鳴而當律
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_027-3a.16
+    textline: 言而當法
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T00:14:20.641+09:00'

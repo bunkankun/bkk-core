@@ -1,0 +1,30 @@
+uuid: 20718eda-bbd3-4992-90f4-d259ca79aba6
+type: word-relation
+group_uuid: a57b6b67-35d2-4069-9a66-3b99c0f97366
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bd157ccd-3b12-490e-a90c-b9a58c8b32f4
+  text: 友
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 陶淵明詩
+    line_uuid: 9f810f7e-1ef8-404d-89da-dd10a2778f0a
+    textline: 我求良友
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 陶淵明詩
+    line_uuid: 9f810f7e-1ef8-404d-89da-dd10a2778f0a
+    textline: 我求良友
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

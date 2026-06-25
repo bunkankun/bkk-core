@@ -1,0 +1,32 @@
+uuid: 56831d83-94e5-4901-831d-8394e57901b6
+type: word-relation
+group_uuid: 81c40bf2-e8bf-5f56-9adc-d6661c1867da
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3318eeb2-369b-44bb-9fc8-693be82b159f
+  text: 誓
+  concept: OATH
+  concept_uuid: d12adeb9-a0e6-4650-96ac-3024c723420a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.15
+    textline: 殷人誓
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0cb7eff2-872d-495e-b9ce-51b94bd4a24a
+  text: 盟
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.16
+    textline: 周人盟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T02:09:00.581+09:00'

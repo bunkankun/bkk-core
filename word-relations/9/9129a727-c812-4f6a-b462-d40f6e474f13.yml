@@ -1,0 +1,18 @@
+uuid: 9129a727-c812-4f6a-b462-d40f6e474f13
+type: word-relation
+group_uuid: 8c4f140b-3291-5a07-bb5f-b377852bd5d6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 302d3a92-671c-404a-af12-f0dab2bfb669
+  text: 巨
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+right:
+  word_uuid: 147d9836-3c89-4615-bc75-ffb2807383c4
+  text: 細
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: fc7bc98c-0d08-4827-b35d-4baac282f922
+type: word-relation
+group_uuid: e66da8d7-b43f-54d6-a907-5e30ff39bdd3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7d2ecef6-e77f-4ea4-a661-8035c2656d6f
+  text: 敵
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+right:
+  word_uuid: 1a04eb28-a3cb-4a6e-9428-d7f296479957
+  text: 均鈞
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

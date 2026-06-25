@@ -1,0 +1,32 @@
+uuid: 85ca85e9-0abc-445b-8a85-e90abc145b49
+type: word-relation
+group_uuid: 160e58ee-a781-5390-863d-fa7262cd66c5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ca6c16e7-7702-4db6-9de4-8524c2b2a07a
+  text: 舞
+  concept: DANCE
+  concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.2
+    textline: 夫弦歌鼓舞以為樂
+    offset: 5
+    range: 1
+right:
+  word_uuid: ca6c16e7-7702-4db6-9de4-8524c2b2a07a
+  text: 舞
+  concept: DANCE
+  concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.2
+    textline: 夫弦歌鼓舞以為樂
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:48:53.905+09:00'

@@ -1,0 +1,30 @@
+uuid: 145ae962-48a2-4686-962e-3990244564e4
+type: word-relation
+group_uuid: 145ae962-48a2-4686-962e-3990244564e4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3d08cf56-6af0-4ec5-ac28-0c759d038b03
+  text: 鸞
+  concept: BELL
+  concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+  attestation:
+    text_title: 禮記
+    line_uuid: 0922c9d0-2490-41ef-a06a-a862ba1e6360
+    textline: 和鸞中采齊
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9dc1fc77-bee5-4831-a735-5e7d40cb4058
+  text: 和
+  concept: BELL
+  concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+  attestation:
+    text_title: 禮記
+    line_uuid: 0922c9d0-2490-41ef-a06a-a862ba1e6360
+    textline: 和鸞中采齊
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

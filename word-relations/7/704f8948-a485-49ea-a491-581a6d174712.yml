@@ -1,0 +1,18 @@
+uuid: 704f8948-a485-49ea-a491-581a6d174712
+type: word-relation
+group_uuid: df57224b-f2a0-5024-a29a-1892a974f0b5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 242c081e-f5a8-4791-90b6-f6ecaaa339f1
+  text: 走
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+right:
+  word_uuid: 3d8cbb4c-f1c8-402d-9e82-892442279190
+  text: 歸
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cc922b07-1c64-4104-85e1-0ef1db4eddc4
+type: word-relation
+group_uuid: ac2b291f-65eb-43bf-92c0-fb3b36e8f04b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: f983aa53-b344-495c-8d01-30c348a8bd5e
+    line_id: KR1c0066_tls_006-15a.5
+    textline: 其身體不足觀也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: f983aa53-b344-495c-8d01-30c348a8bd5e
+    line_id: KR1c0066_tls_006-15a.5
+    textline: 其身體不足觀也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

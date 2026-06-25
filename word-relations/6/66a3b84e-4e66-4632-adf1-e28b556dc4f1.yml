@@ -1,0 +1,32 @@
+uuid: 66a3b84e-4e66-4632-adf1-e28b556dc4f1
+type: word-relation
+group_uuid: 66a3b84e-4e66-4632-adf1-e28b556dc4f1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f7eb8ff3-628c-4221-98b8-a945982f83f4
+  text: 覽
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 楚辭
+    line_uuid: ad6778fe-0809-438b-be86-29097eab851b
+    line_id: KR4a0001_tls_001-7a.18
+    textline: 覽察草木其猶未得兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 704dc3aa-44ec-4eab-8777-4f794f02ac38
+  text: 察
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 楚辭
+    line_uuid: ad6778fe-0809-438b-be86-29097eab851b
+    line_id: KR4a0001_tls_001-7a.18
+    textline: 覽察草木其猶未得兮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

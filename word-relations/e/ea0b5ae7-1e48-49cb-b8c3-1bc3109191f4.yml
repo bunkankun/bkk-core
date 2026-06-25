@@ -1,0 +1,32 @@
+uuid: ea0b5ae7-1e48-49cb-b8c3-1bc3109191f4
+type: word-relation
+group_uuid: ea0b5ae7-1e48-49cb-b8c3-1bc3109191f4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 942f5e39-8d2e-4e5e-b14d-5d505f47500c
+  text: 鑿
+  concept: DIG
+  concept_uuid: 6f634378-0fdc-4824-b9a5-5af05270005b
+  attestation:
+    text_title: 孟子
+    line_uuid: 9b575cc5-f93c-4efb-8369-6cde788e603b
+    line_id: KR1h0001_tls_002-61a.6
+    textline: 鑿斯池也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8db1d227-2832-4183-bf08-b6e88bd8f0a3
+  text: 池
+  concept: MOAT
+  concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+  attestation:
+    text_title: 孟子
+    line_uuid: 9b575cc5-f93c-4efb-8369-6cde788e603b
+    line_id: KR1h0001_tls_002-61a.6
+    textline: 鑿斯池也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

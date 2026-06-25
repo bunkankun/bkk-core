@@ -1,0 +1,32 @@
+uuid: 20f914f6-f141-462b-ba4f-fc23144453de
+type: word-relation
+group_uuid: 20f914f6-f141-462b-ba4f-fc23144453de
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73048d7c-5411-4042-b3b6-4242d5c4695b
+  text: 論
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 50c617b0-1e69-4b3d-8c12-e4335dd7080a
+    line_id: KR3c0005_tls_009-11a.7
+    textline: 希於聽論議
+    offset: 4
+    range: 1
+right:
+  word_uuid: 34ed9998-66d1-4789-95de-fa0de7e344fd
+  text: 議
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 50c617b0-1e69-4b3d-8c12-e4335dd7080a
+    line_id: KR3c0005_tls_009-11a.7
+    textline: 希於聽論議
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

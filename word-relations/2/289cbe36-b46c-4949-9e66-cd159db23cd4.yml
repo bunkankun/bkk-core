@@ -1,0 +1,32 @@
+uuid: 289cbe36-b46c-4949-9e66-cd159db23cd4
+type: word-relation
+group_uuid: 289cbe36-b46c-4949-9e66-cd159db23cd4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: bfa6280f-dfc9-4c7b-91f6-49c77566c28f
+  text: 淡
+  concept: TASTELESS
+  concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+  attestation:
+    text_title: 百喻經
+    line_uuid: df117b95-c4d0-4d22-87cc-3d9c64dc6b61
+    line_id: KR6b0066_T_001-0543a.34
+    textline: 嫌淡無味
+    offset: 2
+    range: 1
+right:
+  word_uuid: d7e4ffcd-ef0b-4ec2-a144-9524ed464a1d
+  text: 無味
+  concept: TASTELESS
+  concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+  attestation:
+    text_title: 百喻經
+    line_uuid: df117b95-c4d0-4d22-87cc-3d9c64dc6b61
+    line_id: KR6b0066_T_001-0543a.34
+    textline: 嫌淡無味
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 086c53f6-00cd-4fc3-9cde-cace0e3f5801
+type: word-relation
+group_uuid: 086c53f6-00cd-4fc3-9cde-cace0e3f5801
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 7848a558-7195-40e7-a29f-de8154a0b4f6
+  text: 事
+  concept: EFFORT
+  concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+  attestation:
+    text_title: 老子
+    line_uuid: be045b67-3aa5-4143-8591-6dadb3501fc1
+    line_id: KR5c0057_tls_002-1a.13
+    textline: 是以聖人處無為之事
+    offset: 9
+    range: 1
+right:
+  word_uuid: 3c763a58-1371-4507-80c5-2f80f1417e63
+  text: 教
+  concept: DOCTRINE
+  concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+  attestation:
+    text_title: 老子
+    line_uuid: 85b835cb-d494-4612-a975-426426852219
+    line_id: KR5c0057_tls_002-1a.14
+    textline: 行不言之教
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

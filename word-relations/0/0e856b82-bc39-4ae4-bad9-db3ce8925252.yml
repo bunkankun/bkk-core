@@ -1,0 +1,32 @@
+uuid: 0e856b82-bc39-4ae4-bad9-db3ce8925252
+type: word-relation
+group_uuid: bbd2f326-7af9-4877-9149-4f92142cd0fd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8f5c9b8d-3099-4e6c-be13-c30617fefcf7
+  text: 小人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 戰國策
+    line_uuid: cd44da32-7752-4be0-b4c2-ea46144ea10c
+    line_id: KR2e0003_tls_023-1a.17
+    textline: 施於小人
+    offset: 3
+    range: 2
+right:
+  word_uuid: 291918dc-d4eb-40f7-8fd9-ec5994e591e1
+  text: 大人
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 戰國策
+    line_uuid: c2a27d79-0f98-4b09-83d1-fd63631ebc46
+    line_id: KR2e0003_tls_023-1a.21
+    textline: 不必且為大人者
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

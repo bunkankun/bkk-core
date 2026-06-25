@@ -1,0 +1,32 @@
+uuid: 61a800aa-c2a4-4536-912d-10731146bce1
+type: word-relation
+group_uuid: 61a800aa-c2a4-4536-912d-10731146bce1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2c5262fa-4730-4e6f-b401-799530ef50dc
+    line_id: KR3c0005_tls_002-12a.10
+    textline: 攻伐而使從者間焉
+    offset: 1
+    range: 1
+right:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2c5262fa-4730-4e6f-b401-799530ef50dc
+    line_id: KR3c0005_tls_002-12a.10
+    textline: 攻伐而使從者間焉
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

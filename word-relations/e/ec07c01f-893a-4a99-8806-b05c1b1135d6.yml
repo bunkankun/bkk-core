@@ -1,0 +1,35 @@
+uuid: ec07c01f-893a-4a99-8806-b05c1b1135d6
+type: word-relation
+group_uuid: fb27f37d-1d52-4517-897e-6ad30109b383
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e6539a0b-720a-4e13-8941-7c2f3b34632b
+  text: 存
+  concept: PERSIST
+  concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5dd04ee1-1dcd-488e-a69d-3a4a647db346
+    line_id: KR3j0009_tls_002-19a.20
+    textline: 死生存亡之本也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3b3770be-9e9c-4ff3-80dc-248f3e8b1537
+  text: 亡
+  concept: DISAPPEAR
+  concept_uuid: fb0d503b-2189-4bca-9a03-078aabeac630
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5dd04ee1-1dcd-488e-a69d-3a4a647db346
+    line_id: KR3j0009_tls_002-19a.20
+    textline: 死生存亡之本也
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

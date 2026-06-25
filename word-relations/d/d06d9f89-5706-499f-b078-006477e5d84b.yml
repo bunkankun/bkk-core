@@ -1,0 +1,32 @@
+uuid: d06d9f89-5706-499f-b078-006477e5d84b
+type: word-relation
+group_uuid: 33a6e8bd-c061-41e2-a560-d344e836a101
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7afc2c94-1eac-447f-a80a-f6dee7407c0f
+  text: 益
+  concept: ADD
+  concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+  attestation:
+    text_title: 論語
+    line_uuid: cb348b83-d211-442a-9bf4-a788a79345c8
+    line_id: KR1h0004_tls_002-24a.6
+    textline: 所損益
+    offset: 3
+    range: 1
+right:
+  word_uuid: 62de2824-135d-47ac-87d7-635d53c064cb
+  text: 損
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+  attestation:
+    text_title: 論語
+    line_uuid: cb348b83-d211-442a-9bf4-a788a79345c8
+    line_id: KR1h0004_tls_002-24a.6
+    textline: 所損益
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

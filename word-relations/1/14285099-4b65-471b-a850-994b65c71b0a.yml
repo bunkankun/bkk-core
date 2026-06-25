@@ -1,0 +1,32 @@
+uuid: 14285099-4b65-471b-a850-994b65c71b0a
+type: word-relation
+group_uuid: 1e504a6c-c327-56af-9346-f9b00e7e40cc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 736bbe62-c897-4273-bc04-9d413cc5037d
+  text: 非
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.31
+    textline: 故變古未可非
+    offset: 6
+    range: 1
+right:
+  word_uuid: 68940a28-67a4-4680-aa26-131cd7eeb280
+  text: 多
+  concept: ADMIRE
+  concept_uuid: 0825fe94-beba-4585-a1eb-1668d11bccbe
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.32
+    textline: 而循俗未足多也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T19:00:53.126+09:00'

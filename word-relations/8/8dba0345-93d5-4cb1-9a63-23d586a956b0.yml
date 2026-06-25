@@ -1,0 +1,30 @@
+uuid: 8dba0345-93d5-4cb1-9a63-23d586a956b0
+type: word-relation
+group_uuid: 8dba0345-93d5-4cb1-9a63-23d586a956b0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e12f4133-8980-42f8-aa8d-5f1a3f2fdf06
+  text: 精
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1897f8d2-9da6-418e-8c86-43162f1c18cc
+    textline: 其修士且以精絜固身
+    offset: 6
+    range: 1
+right:
+  word_uuid: dd9c6b61-9fc2-42be-a5cb-d5d5d2a43186
+  text: 絜
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1897f8d2-9da6-418e-8c86-43162f1c18cc
+    textline: 其修士且以精絜固身
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

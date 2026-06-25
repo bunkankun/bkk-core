@@ -1,0 +1,32 @@
+uuid: 993307e7-45fa-440e-940d-824e045d4b00
+type: word-relation
+group_uuid: 993307e7-45fa-440e-940d-824e045d4b00
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a836825d-d7b0-49d1-80e4-d820710aecfc
+  text: 桑
+  concept: TREE, KINDS
+  concept_uuid: b5e991a9-bcc5-4224-97bc-5cd4c591d0a9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 43cf00ff-bc84-4179-b9bc-064481396d16
+    line_id: KR3j0009_tls_003-6a.4
+    textline: 無伐桑柘
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7b78fb74-0cf8-4326-97eb-645ace74541a
+  text: 柘
+  concept: TREE, KINDS
+  concept_uuid: b5e991a9-bcc5-4224-97bc-5cd4c591d0a9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 43cf00ff-bc84-4179-b9bc-064481396d16
+    line_id: KR3j0009_tls_003-6a.4
+    textline: 無伐桑柘
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

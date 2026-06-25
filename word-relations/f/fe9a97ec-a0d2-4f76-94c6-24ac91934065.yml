@@ -1,0 +1,32 @@
+uuid: fe9a97ec-a0d2-4f76-94c6-24ac91934065
+type: word-relation
+group_uuid: 20e1cb00-c855-4ef6-b503-0cb1403d6b69
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 孟子
+    line_uuid: 3334ec98-464a-4648-b041-24c40dcf67be
+    line_id: KR1h0001_tls_004-56a.15
+    textline: 人亦孰不欲富貴
+    offset: 6
+    range: 1
+right:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 孟子
+    line_uuid: 3334ec98-464a-4648-b041-24c40dcf67be
+    line_id: KR1h0001_tls_004-56a.15
+    textline: 人亦孰不欲富貴
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

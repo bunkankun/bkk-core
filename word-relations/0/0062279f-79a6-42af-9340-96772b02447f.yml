@@ -1,0 +1,32 @@
+uuid: 0062279f-79a6-42af-9340-96772b02447f
+type: word-relation
+group_uuid: 0062279f-79a6-42af-9340-96772b02447f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7065dfb7-ff09-4e4f-a037-77d44bfcc078
+    line_id: KR3j0009_tls_005-30a.7
+    textline: 以象上帝玉磬之音
+    offset: 5
+    range: 1
+right:
+  word_uuid: 304763f2-1d21-4bde-b3ce-c2b431d708d4
+  text: 磬
+  concept: STONE MUSICAL INSTRUMENTS
+  concept_uuid: 7aa759ee-1c1d-45b2-a333-98c8588fc388
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7065dfb7-ff09-4e4f-a037-77d44bfcc078
+    line_id: KR3j0009_tls_005-30a.7
+    textline: 以象上帝玉磬之音
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

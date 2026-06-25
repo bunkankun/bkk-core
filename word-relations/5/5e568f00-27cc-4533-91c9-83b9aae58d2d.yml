@@ -1,0 +1,32 @@
+uuid: 5e568f00-27cc-4533-91c9-83b9aae58d2d
+type: word-relation
+group_uuid: acc53f2c-b516-4cab-b4b3-6649b56f1931
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 722159d0-e92b-4c53-bc2c-b4645f4e15a4
+  text: 明
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 老子
+    line_uuid: 3636f29a-2979-43e9-8bc8-dbf1dbfce259
+    line_id: KR5c0057_tls_024-1a.5
+    textline: 自見者不明
+    offset: 5
+    range: 1
+right:
+  word_uuid: cbf0f42d-d751-4bfd-ac1b-457a236f9ef6
+  text: 彰
+  concept: VISIBLE
+  concept_uuid: eeb0f0cb-ce31-4a50-9fee-e0ec5b0ca35e
+  attestation:
+    text_title: 老子
+    line_uuid: 69dd9c44-b731-4679-a6df-cc78621b270b
+    line_id: KR5c0057_tls_024-1a.6
+    textline: 自是者不彰
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

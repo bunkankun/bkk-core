@@ -1,0 +1,21 @@
+uuid: 1d4ab54e-537b-4055-94f9-2fffc0338fce
+type: word-relation
+group_uuid: 98a4bf4a-e2cc-5099-a7cc-1f31a439daae
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 352ba9c2-b361-439d-b6cf-9b6b53133225
+  text: 救
+  concept: RESCUE
+  concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+right:
+  word_uuid: 8a880735-008b-4858-bee8-142edbb84858
+  text: 拯
+  concept: RESCUE
+  concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

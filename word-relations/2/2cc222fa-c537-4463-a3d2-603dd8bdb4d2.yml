@@ -1,0 +1,32 @@
+uuid: 2cc222fa-c537-4463-a3d2-603dd8bdb4d2
+type: word-relation
+group_uuid: 2cc222fa-c537-4463-a3d2-603dd8bdb4d2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: df60db55-d49c-4cca-a5b1-d4b5d24c88de
+  text: 囹
+  concept: PRISON
+  concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+  attestation:
+    text_title: 韓非子
+    line_uuid: b3bdb39d-aad1-4d95-bf35-bff17187546a
+    line_id: KR3c0005_tls_016-14a.2
+    textline: 至於守司囹圄
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1dd9b222-fc1c-4e26-b442-e2e58172f9c6
+  text: 圄
+  concept: PRISON
+  concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+  attestation:
+    text_title: 韓非子
+    line_uuid: b3bdb39d-aad1-4d95-bf35-bff17187546a
+    line_id: KR3c0005_tls_016-14a.2
+    textline: 至於守司囹圄
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

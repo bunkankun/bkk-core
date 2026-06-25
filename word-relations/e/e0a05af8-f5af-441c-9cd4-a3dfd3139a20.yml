@@ -1,0 +1,32 @@
+uuid: e0a05af8-f5af-441c-9cd4-a3dfd3139a20
+type: word-relation
+group_uuid: f40ef569-0d6c-418a-9012-d98b80bfb1a0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2a5c4e4e-268f-4829-877e-08332e0baf0c
+  text: 官
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ccd17fd6-09b5-4cdf-a9f1-91ca4a76a21d
+    line_id: KR3j0009_tls_003-20a.16
+    textline: 而百官已治矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: fd383745-8da7-4ea1-8674-5817198ffd28
+  text: 百
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ccd17fd6-09b5-4cdf-a9f1-91ca4a76a21d
+    line_id: KR3j0009_tls_003-20a.16
+    textline: 而百官已治矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

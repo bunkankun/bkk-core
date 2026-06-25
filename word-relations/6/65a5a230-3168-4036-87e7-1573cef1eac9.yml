@@ -1,0 +1,32 @@
+uuid: 65a5a230-3168-4036-87e7-1573cef1eac9
+type: word-relation
+group_uuid: 65a5a230-3168-4036-87e7-1573cef1eac9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: e4f20113-bac5-4d89-8350-43cedcd50cee
+  text: 罪
+  concept: ACCUSE
+  concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5b743bad-3b75-45fe-897a-b5ec2e4bebd8
+    line_id: KR3c0005_tls_007-2a.9
+    textline: 則能得之其主而罪之
+    offset: 8
+    range: 1
+right:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2bd090cc-e3a2-4f71-a592-a57d2e105d39
+    line_id: KR3c0005_tls_007-2a.11
+    textline: 則能得之其主而賞之
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

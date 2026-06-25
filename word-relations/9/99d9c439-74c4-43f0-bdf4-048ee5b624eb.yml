@@ -1,0 +1,32 @@
+uuid: 99d9c439-74c4-43f0-bdf4-048ee5b624eb
+type: word-relation
+group_uuid: 99d9c439-74c4-43f0-bdf4-048ee5b624eb
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b8cdc227-0ade-4596-ae55-a6abda84a6bf
+  text: 文
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 尚書
+    line_uuid: 85af7b2d-097d-46d1-ad04-c8fa7f4380ed
+    line_id: KR1b0001_tls_031-2a.11
+    textline: 乃偃武修文
+    offset: 5
+    range: 1
+right:
+  word_uuid: a8c5e3dd-d973-4fa3-81ee-943459efa327
+  text: 武
+  concept: WARFARE
+  concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+  attestation:
+    text_title: 尚書
+    line_uuid: 85af7b2d-097d-46d1-ad04-c8fa7f4380ed
+    line_id: KR1b0001_tls_031-2a.11
+    textline: 乃偃武修文
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6b589aee-11b5-4fb4-abae-7dd48d02d018
+type: word-relation
+group_uuid: c8468449-cd6e-438d-85bf-7c839fe535ce
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6fa4e84a-ea3e-4a51-8380-e2ae71e9b311
+  text: 懦
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 管子
+    line_uuid: 4abd5ec4-ca04-48b4-be33-3149cf7ca752
+    line_id: KR3c0001_tls_006-77a.8
+    textline: 「懦弱之君
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 管子
+    line_uuid: 4abd5ec4-ca04-48b4-be33-3149cf7ca752
+    line_id: KR3c0001_tls_006-77a.8
+    textline: 「懦弱之君
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

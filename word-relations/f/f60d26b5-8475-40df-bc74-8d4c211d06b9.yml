@@ -1,0 +1,32 @@
+uuid: f60d26b5-8475-40df-bc74-8d4c211d06b9
+type: word-relation
+group_uuid: f60d26b5-8475-40df-bc74-8d4c211d06b9
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7ac79010-8a35-483d-b416-b75f55a4ae51
+  text: 追
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b29c7f05-1514-4748-be3c-53a7af143d5b
+    line_id: KR1e0001_tls_006-139a.48
+    textline: 逐寇如追逃
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3ab36092-29f5-4a3a-b2d4-b3ec597122a4
+  text: 逐
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b29c7f05-1514-4748-be3c-53a7af143d5b
+    line_id: KR1e0001_tls_006-139a.48
+    textline: 逐寇如追逃
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6154ee5d-aae5-42a6-ad54-4698add0de02
+type: word-relation
+group_uuid: 6154ee5d-aae5-42a6-ad54-4698add0de02
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5cffe26c-2ba3-429d-92fc-33b96047bf6e
+    line_id: KR3c0005_tls_032-85a.8
+    textline: 此女欺我也”
+    offset: 4
+    range: 1
+right:
+  word_uuid: 23bd4002-d494-4648-a4a8-2ef6d1d4c599
+  text: 女
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5cffe26c-2ba3-429d-92fc-33b96047bf6e
+    line_id: KR3c0005_tls_032-85a.8
+    textline: 此女欺我也”
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

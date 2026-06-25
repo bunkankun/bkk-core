@@ -1,0 +1,32 @@
+uuid: 05e573d1-df0a-4e07-bf03-478afe360cd8
+type: word-relation
+group_uuid: 326e8242-1dab-4b2a-aba9-b65be4dc33f5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ed06042d-d545-4a60-9192-0e30421d6014
+  text: 謗
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 論衡
+    line_uuid: b26bc4ed-c443-43b6-a717-adf2e217b2ac
+    line_id: KR3j0080_tls_002-11a.7
+    textline: 以毀謗言之
+    offset: 3
+    range: 1
+right:
+  word_uuid: e25005b3-2467-418d-a30c-503954f1df0e
+  text: 毀
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 論衡
+    line_uuid: b26bc4ed-c443-43b6-a717-adf2e217b2ac
+    line_id: KR3j0080_tls_002-11a.7
+    textline: 以毀謗言之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

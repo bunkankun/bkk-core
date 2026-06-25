@@ -1,0 +1,32 @@
+uuid: c04f74eb-5b52-4b0a-afc1-29da45c21121
+type: word-relation
+group_uuid: c04f74eb-5b52-4b0a-afc1-29da45c21121
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cd868119-60a6-4ffb-8e88-8314420b9913
+  text: 約
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 淮南子
+    line_uuid: df9e2fa0-3035-48e7-bd1a-6912f2228ae0
+    line_id: KR3j0010_tls_001-1a.21
+    textline: 約而能張
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5bebc5a0-a44e-4523-a896-72889a938bad
+  text: 張
+  concept: LONG
+  concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+  attestation:
+    text_title: 淮南子
+    line_uuid: df9e2fa0-3035-48e7-bd1a-6912f2228ae0
+    line_id: KR3j0010_tls_001-1a.21
+    textline: 約而能張
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

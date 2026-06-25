@@ -1,0 +1,32 @@
+uuid: dcc7afe0-2406-4464-87af-e02406c464d1
+type: word-relation
+group_uuid: 616106b6-96bb-5f29-8e35-76af9ca8213a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e6760cd5-03b6-4aac-8fe6-7802f639f946
+  text: 萬
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.11
+    textline: 萬物蕃息
+    offset: 1
+    range: 1
+right:
+  word_uuid: 93bfd271-3940-46b3-8b32-031a4b518d2c
+  text: 物
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.11
+    textline: 萬物蕃息
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T20:55:25.909+09:00'

@@ -1,0 +1,21 @@
+uuid: 5bb2ac72-95ed-4697-9b7b-6ebba0b74473
+type: word-relation
+group_uuid: 25238f80-987b-56e7-b926-42b90ceb9056
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c585a95f-139a-4729-b6a1-306fe96c756c
+  text: 泊
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+right:
+  word_uuid: e2528583-3c4e-4ecb-9532-fa6ed540f5e1
+  text: 微
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

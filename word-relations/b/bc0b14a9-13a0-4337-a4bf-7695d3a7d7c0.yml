@@ -1,0 +1,30 @@
+uuid: bc0b14a9-13a0-4337-a4bf-7695d3a7d7c0
+type: word-relation
+group_uuid: bc0b14a9-13a0-4337-a4bf-7695d3a7d7c0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4874901a-2b34-444f-83c8-602cb8eb766c
+  text: 巷
+  concept: STREET
+  concept_uuid: 6be4dafa-85e2-4081-ae79-f782549eeb53
+  attestation:
+    text_title: 戰國策
+    line_uuid: feac2bd4-79da-4ef0-b3a3-2e15dfd490f2
+    textline: 且夫蘇秦特窮巷掘門桑戶棬樞之士耳
+    offset: 7
+    range: 1
+right:
+  word_uuid: 1f76b772-6648-427f-b71c-a2387bc0453e
+  text: 窮
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 戰國策
+    line_uuid: feac2bd4-79da-4ef0-b3a3-2e15dfd490f2
+    textline: 且夫蘇秦特窮巷掘門桑戶棬樞之士耳
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

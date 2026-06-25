@@ -1,0 +1,32 @@
+uuid: 2e1f08a9-2d34-471c-9f08-a92d34571ce0
+type: word-relation
+group_uuid: 5dd0ddf6-a94a-5f07-b6c7-747e20e5300e
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_014-46a.3
+    textline: 言近而指遠者
+    offset: 2
+    range: 1
+right:
+  word_uuid: ad7a6643-6f42-42f7-8a25-e28e878a8f85
+  text: 指
+  concept: MEAN
+  concept_uuid: be238a91-d7bf-4b0c-97c3-543ac5d851e4
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_014-46a.3
+    textline: 言近而指遠者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T17:22:29.72+09:00'

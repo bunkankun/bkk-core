@@ -1,0 +1,32 @@
+uuid: b304835c-4029-41ff-99f3-908302b61ce5
+type: word-relation
+group_uuid: b304835c-4029-41ff-99f3-908302b61ce5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41dfe080-0982-4423-a092-0e9214870dfc
+  text: 雷
+  concept: THUNDER
+  concept_uuid: 112ed6ac-08ec-4341-bd13-22ba52c7d742
+  attestation:
+    text_title: 論衡
+    line_uuid: ce9811e0-8445-448f-a9bf-5a09de928a6a
+    line_id: KR3j0080_tls_002-8a.33
+    textline: 故無雷風之變
+    offset: 3
+    range: 1
+right:
+  word_uuid: ed0fd511-bb6e-4720-91ed-9b870350a6eb
+  text: 風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 論衡
+    line_uuid: ce9811e0-8445-448f-a9bf-5a09de928a6a
+    line_id: KR3j0080_tls_002-8a.33
+    textline: 故無雷風之變
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

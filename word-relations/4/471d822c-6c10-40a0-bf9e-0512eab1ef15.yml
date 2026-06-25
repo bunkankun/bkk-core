@@ -1,0 +1,37 @@
+uuid: 471d822c-6c10-40a0-bf9e-0512eab1ef15
+type: word-relation
+group_uuid: 471d822c-6c10-40a0-bf9e-0512eab1ef15
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00a29dac-f836-4e64-a13a-6c3a15ef547c
+  text: 罪
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3c447908-3b71-4535-ada5-0a761c76b792
+    line_id: KR3c0005_tls_036-41a.3
+    textline: 罰不加於無罪
+    offset: 6
+    range: 1
+right:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6319376d-21da-419b-8a81-9ab9e38ee326
+    line_id: KR3c0005_tls_036-41a.2
+    textline: 明主賞不加於無功
+    offset: 8
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

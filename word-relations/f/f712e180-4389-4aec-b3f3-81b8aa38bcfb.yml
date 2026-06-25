@@ -1,0 +1,32 @@
+uuid: f712e180-4389-4aec-b3f3-81b8aa38bcfb
+type: word-relation
+group_uuid: 6209dea8-ca46-4a90-a589-1e1bff05069a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7c4e328e-c8a7-4537-9075-2947ff8defdb
+  text: 心
+  concept: HEART
+  concept_uuid: 51eeccac-9e32-4780-932e-665d0d76a746
+  attestation:
+    text_title: 韓非子
+    line_uuid: e494c050-f569-4efc-8024-e504d41a8bb7
+    line_id: KR3c0005_tls_002-16a.6
+    textline: 則韓必為腹心之病
+    offset: 6
+    range: 1
+right:
+  word_uuid: 741c2ea0-f53c-4878-bedb-d3e924e231cf
+  text: 腹
+  concept: STOMACH
+  concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e494c050-f569-4efc-8024-e504d41a8bb7
+    line_id: KR3c0005_tls_002-16a.6
+    textline: 則韓必為腹心之病
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

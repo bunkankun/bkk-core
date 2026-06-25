@@ -1,0 +1,32 @@
+uuid: 847886b6-6799-4164-b886-b66799d16490
+type: word-relation
+group_uuid: 150fd2b4-04a0-57f9-8fc8-f8b8f971de71
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c0d152f5-533b-450b-a6d5-30bc5d407541
+  text: 事
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 性自命出
+    line_id: CH8x4422_CHANT_005-1a.6
+    textline: 雖能其事
+    offset: 4
+    range: 1
+right:
+  word_uuid: f939a0db-da00-445e-b3ba-ed430e5d5a62
+  text: 心
+  concept: INTEND
+  concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+  attestation:
+    text_title: 性自命出
+    line_id: CH8x4422_CHANT_005-1a.7
+    textline: 不能其心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-12-02T23:11:19.747+09:00'

@@ -1,0 +1,32 @@
+uuid: 07a32834-3321-4c74-9d55-33a00f40383b
+type: word-relation
+group_uuid: 07a32834-3321-4c74-9d55-33a00f40383b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 戰國策
+    line_uuid: a0aca923-0edd-4869-aad8-cfec01ca71b0
+    line_id: KR2e0003_tls_047-3a.48
+    textline: 明主賢君
+    offset: 4
+    range: 1
+right:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 戰國策
+    line_uuid: a0aca923-0edd-4869-aad8-cfec01ca71b0
+    line_id: KR2e0003_tls_047-3a.48
+    textline: 明主賢君
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

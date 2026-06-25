@@ -1,0 +1,32 @@
+uuid: cb68d1f2-9a26-4a08-a8d1-f29a261a08fe
+type: word-relation
+group_uuid: f66e6a48-b768-56e7-938b-8f782570d451
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f5cc4a65-1d55-4c2c-9de4-9a06d7a9cca4
+  text: 擇
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-14a.8
+    textline: 擇則亂
+    offset: 1
+    range: 1
+right:
+  word_uuid: 83c39693-3e41-45ea-a4d3-faeff151da21
+  text: 淫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-14a.9
+    textline: 淫則辟
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T01:53:34.958+09:00'

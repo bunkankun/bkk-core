@@ -1,0 +1,31 @@
+uuid: d17fdd13-96c5-4de4-906a-af1cfe813c3d
+type: word-relation
+group_uuid: 347c1dc0-0096-462f-8324-f671fa9dd4e4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 韓非子
+    line_uuid: abe58f1c-8075-4293-9760-a3345b8bf46f
+    textline: 東以弱齊燕
+    offset: 3
+    range: 1
+right:
+  word_uuid: a79f4967-24ae-4ac7-936a-5b2202d7a4d3
+  text: 凌
+  concept: OPPRESS
+  concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a5b93a4-8154-4db0-835a-8377b1c2e18a
+    line_id: KR3c0005_tls_001-16a.9
+    textline: 中以凌三晉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

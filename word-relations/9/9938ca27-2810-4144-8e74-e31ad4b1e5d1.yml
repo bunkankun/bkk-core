@@ -1,0 +1,32 @@
+uuid: 9938ca27-2810-4144-8e74-e31ad4b1e5d1
+type: word-relation
+group_uuid: 48fc657b-7256-4480-8592-3202c6389a71
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 6f166f24-20ae-4676-91a8-6aeee89c19b8
+    line_id: KR3j0080_tls_001-3a.25
+    textline: 聖賢務高
+    offset: 2
+    range: 1
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論衡
+    line_uuid: 6f166f24-20ae-4676-91a8-6aeee89c19b8
+    line_id: KR3j0080_tls_001-3a.25
+    textline: 聖賢務高
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

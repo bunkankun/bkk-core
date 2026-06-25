@@ -1,0 +1,31 @@
+uuid: 1b092658-f3e3-48c9-96b5-d60d897c8e92
+type: word-relation
+group_uuid: 1b092658-f3e3-48c9-96b5-d60d897c8e92
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b805b757-0785-454d-b637-104a38cec47f
+  text: 川
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 論衡
+    line_uuid: d208bd58-72db-4354-a589-4c546f1bb3d0
+    line_id: KR3j0080_tls_039-12a.29
+    textline: 四方多川
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1975160c-1dbf-4756-8e4c-edb4ee920709
+  text: 瀆
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 論衡
+    line_uuid: 85ccc868-e532-458d-81bc-a50bccdc5026
+    textline: 而江河為瀆者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

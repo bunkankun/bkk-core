@@ -1,0 +1,32 @@
+uuid: a284e9cd-85e2-4453-8993-9d1e9acd4901
+type: word-relation
+group_uuid: a284e9cd-85e2-4453-8993-9d1e9acd4901
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 14c572d4-cad4-4dc0-a8c2-5c296692a6b4
+  text: 情
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 楚辭
+    line_uuid: 9126ec36-3dc6-47aa-a83f-8f712127582e
+    line_id: KR4a0001_tls_004-36a.32
+    textline: 願陳情以白行兮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 楚辭
+    line_uuid: 9126ec36-3dc6-47aa-a83f-8f712127582e
+    line_id: KR4a0001_tls_004-36a.32
+    textline: 願陳情以白行兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

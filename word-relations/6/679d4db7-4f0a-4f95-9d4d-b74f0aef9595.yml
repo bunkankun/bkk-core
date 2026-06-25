@@ -1,0 +1,32 @@
+uuid: 679d4db7-4f0a-4f95-9d4d-b74f0aef9595
+type: word-relation
+group_uuid: 72db271b-7bb9-56ee-86b5-45c6f43d97db
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 273eb179-c9aa-4683-beb1-79c9aa368347
+  text: 法籍
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_011-20a.8
+    textline: 五帝三王之法籍風俗
+    offset: 6
+    range: 2
+right:
+  word_uuid: ffc04cd1-e1ca-435e-8461-2aac762ce5ae
+  text: 風俗
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_011-20a.8
+    textline: 五帝三王之法籍風俗
+    offset: 8
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-17T19:32:38.754+09:00'

@@ -1,0 +1,32 @@
+uuid: f0c02878-76d0-46bb-9339-18fe118ca9e9
+type: word-relation
+group_uuid: 4d6683ba-bd37-4388-b77b-e5869b1dfeb5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d120a1d9-b856-45f7-a892-466bd321d268
+  text: 蕃
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+  attestation:
+    text_title: 韓非子
+    line_uuid: afc99cdf-cd41-443e-b960-ce9d48ef130d
+    line_id: KR3c0005_tls_020-79a.8
+    textline: 民蕃息而畜積盛
+    offset: 2
+    range: 1
+right:
+  word_uuid: 89f1b79b-af5b-4d6e-ae34-06efc70e01fe
+  text: 息
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+  attestation:
+    text_title: 韓非子
+    line_uuid: afc99cdf-cd41-443e-b960-ce9d48ef130d
+    line_id: KR3c0005_tls_020-79a.8
+    textline: 民蕃息而畜積盛
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

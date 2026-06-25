@@ -1,0 +1,32 @@
+uuid: cfd430a7-715b-4d2d-a215-ebc7f55720da
+type: word-relation
+group_uuid: 98309327-88ef-48a5-a208-15391667efdc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 老子
+    line_uuid: 07647066-8639-4ca3-9e6f-554121624f70
+    line_id: KR5c0057_tls_056-1a.12
+    textline: 故不可得而親
+    offset: 6
+    range: 1
+right:
+  word_uuid: ab057f53-73f1-4cf1-9bad-02ee06916aff
+  text: 疏
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 老子
+    line_uuid: 2b9b8fee-1e87-43ca-b7e1-b1b9fec138d7
+    line_id: KR5c0386_tls_007-394a.9
+    textline: 不可得而疏
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

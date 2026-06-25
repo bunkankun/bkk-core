@@ -1,0 +1,32 @@
+uuid: 766b463c-3ea6-4487-8469-135c1e7cc5aa
+type: word-relation
+group_uuid: 766b463c-3ea6-4487-8469-135c1e7cc5aa
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7ac79010-8a35-483d-b416-b75f55a4ae51
+  text: 追
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 楚辭
+    line_uuid: 92dcbc41-0fb4-4646-bae8-553a63e9ed34
+    line_id: KR4a0001_tls_004-36a.11
+    textline: 文君寤而追求
+    offset: 5
+    range: 1
+right:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 楚辭
+    line_uuid: 92dcbc41-0fb4-4646-bae8-553a63e9ed34
+    line_id: KR4a0001_tls_004-36a.11
+    textline: 文君寤而追求
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

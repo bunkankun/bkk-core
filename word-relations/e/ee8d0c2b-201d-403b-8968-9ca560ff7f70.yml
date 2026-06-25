@@ -1,0 +1,32 @@
+uuid: ee8d0c2b-201d-403b-8968-9ca560ff7f70
+type: word-relation
+group_uuid: ee8d0c2b-201d-403b-8968-9ca560ff7f70
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 淮南子
+    line_uuid: 26a88162-7c8c-4540-b2d7-a40ee9385298
+    line_id: KR3j0010_tls_006-2a.18
+    textline: 夫全性保真
+    offset: 3
+    range: 1
+right:
+  word_uuid: a92bd4fd-e395-4a54-b371-a25b5638862f
+  text: 真
+  concept: GENUINE
+  concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+  attestation:
+    text_title: 淮南子
+    line_uuid: 26a88162-7c8c-4540-b2d7-a40ee9385298
+    line_id: KR3j0010_tls_006-2a.18
+    textline: 夫全性保真
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

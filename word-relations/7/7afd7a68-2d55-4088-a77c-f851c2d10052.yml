@@ -1,0 +1,32 @@
+uuid: 7afd7a68-2d55-4088-a77c-f851c2d10052
+type: word-relation
+group_uuid: 7afd7a68-2d55-4088-a77c-f851c2d10052
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dd20936-f8b4-4cc3-b629-37def231fde6
+  text: 宗
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 禮記
+    line_uuid: c4d4b86b-a19a-4b8b-b961-7ef76ff6bec9
+    line_id: KR1d0052_tls_045-7a.6
+    textline: 教于宗室
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0ebb602e-fe62-44c6-8381-668605b235a0
+  text: 室
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 禮記
+    line_uuid: c4d4b86b-a19a-4b8b-b961-7ef76ff6bec9
+    line_id: KR1d0052_tls_045-7a.6
+    textline: 教于宗室
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

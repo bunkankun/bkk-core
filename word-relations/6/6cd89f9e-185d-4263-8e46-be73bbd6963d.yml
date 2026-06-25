@@ -1,0 +1,32 @@
+uuid: 6cd89f9e-185d-4263-8e46-be73bbd6963d
+type: word-relation
+group_uuid: 6cd89f9e-185d-4263-8e46-be73bbd6963d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e53750e3-c5b3-4c97-8c33-46f87dbebb53
+  text: 斧
+  concept: AXE
+  concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9728f3a4-2f5b-4e10-a07d-5f68d2ec49b2
+    line_id: KR3c0005_tls_001-5a.11
+    textline: 斧鑕在後
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6ab5d656-df9a-432d-ada2-af7a5bd8b162
+  text: 鑕
+  concept: CHOPPING BLOCK
+  concept_uuid: 2a790324-4787-4145-82dd-f309d53bfb83
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9728f3a4-2f5b-4e10-a07d-5f68d2ec49b2
+    line_id: KR3c0005_tls_001-5a.11
+    textline: 斧鑕在後
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

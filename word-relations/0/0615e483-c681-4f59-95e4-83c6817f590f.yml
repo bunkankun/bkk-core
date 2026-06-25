@@ -1,0 +1,32 @@
+uuid: 0615e483-c681-4f59-95e4-83c6817f590f
+type: word-relation
+group_uuid: d54b46c6-7cdd-5de7-873c-076bc8214441
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 21aca014-20ad-40fe-833e-f047577a5098
+  text: 存
+  concept: EXIST
+  concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-27a.14
+    textline: 欲以存亡繼絕
+    offset: 3
+    range: 1
+right:
+  word_uuid: 254654e2-3249-4886-8654-e232495886ef
+  text: 亡
+  concept: ABSENT
+  concept_uuid: fd91e5db-8b39-4511-a24e-052ebaa95986
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-27a.14
+    textline: 欲以存亡繼絕
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-22T23:46:17.751+09:00'

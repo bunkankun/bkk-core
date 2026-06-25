@@ -1,0 +1,32 @@
+uuid: 18aacd9c-a2f6-45b6-a970-ebaed48bbb74
+type: word-relation
+group_uuid: 18aacd9c-a2f6-45b6-a970-ebaed48bbb74
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: bd9ad055-db94-4770-b5ea-407a08218cba
+  text: 沾
+  concept: MOIST
+  concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+  attestation:
+    text_title: 法言
+    line_uuid: 4364ef76-dabf-4a0e-9062-9d3b55a3ce60
+    line_id: KR3a0009_tls_004-21a.9
+    textline: 沾項漸襟
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0c6eb39e-a33a-4713-a2f3-7bb41715c193
+  text: 漸
+  concept: MOIST
+  concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+  attestation:
+    text_title: 法言
+    line_uuid: 4364ef76-dabf-4a0e-9062-9d3b55a3ce60
+    line_id: KR3a0009_tls_004-21a.9
+    textline: 沾項漸襟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

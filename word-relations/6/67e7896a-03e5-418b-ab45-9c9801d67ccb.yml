@@ -1,0 +1,31 @@
+uuid: 67e7896a-03e5-418b-ab45-9c9801d67ccb
+type: word-relation
+group_uuid: aadf1097-3698-4a83-9eb2-6ea9657af727
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ff372309-db2d-4053-8bb4-b5006d7694eb
+  text: 誅
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8037ec08-6621-48f1-886f-5a694ccfc53e
+    textline: 舉兵而誅xi4宛
+    offset: 4
+    range: 1
+right:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 94dc0f12-41e3-411f-87e7-afcea3161b7d
+    line_id: KR3c0005_tls_031-56a.10
+    textline: 遂殺之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

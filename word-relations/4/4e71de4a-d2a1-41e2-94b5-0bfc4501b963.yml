@@ -1,0 +1,32 @@
+uuid: 4e71de4a-d2a1-41e2-94b5-0bfc4501b963
+type: word-relation
+group_uuid: dcca68e3-b996-449c-b3d6-7358a8ffc4b8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0f13a601-cbed-4b54-90d7-4078d3e2bb6c
+    line_id: KR3c0005_tls_001-39a.5
+    textline: 秦國之號令賞罰
+    offset: 6
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0f13a601-cbed-4b54-90d7-4078d3e2bb6c
+    line_id: KR3c0005_tls_001-39a.5
+    textline: 秦國之號令賞罰
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

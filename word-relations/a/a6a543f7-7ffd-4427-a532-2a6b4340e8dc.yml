@@ -1,0 +1,32 @@
+uuid: a6a543f7-7ffd-4427-a532-2a6b4340e8dc
+type: word-relation
+group_uuid: a6a543f7-7ffd-4427-a532-2a6b4340e8dc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b1a62539-2f69-4862-91ca-6f70cf157f2d
+  text: 虎
+  concept: TIGER
+  concept_uuid: ab2882c3-b19a-4c96-a878-853f5c64461f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 08410dd8-61b4-4efb-b2f4-19d3ccef6f01
+    line_id: KR3c0005_tls_007-4a.4
+    textline: 使虎釋其爪牙
+    offset: 2
+    range: 1
+right:
+  word_uuid: ab84a1f5-bde9-4595-b325-548afb2c046d
+  text: 狗
+  concept: DOG
+  concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9bdf6298-3b14-4c19-94f2-63918fee23ff
+    line_id: KR3c0005_tls_007-4a.5
+    textline: 而使狗用之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

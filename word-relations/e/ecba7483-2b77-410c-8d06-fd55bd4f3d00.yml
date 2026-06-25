@@ -1,0 +1,32 @@
+uuid: ecba7483-2b77-410c-8d06-fd55bd4f3d00
+type: word-relation
+group_uuid: ecba7483-2b77-410c-8d06-fd55bd4f3d00
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9aa3e483-f0e6-4251-9117-419141db8317
+  text: 色
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 79466e36-2fc6-44a8-90af-1e368f3aaf08
+    line_id: KR6q0002_Yan_003-1125a.23
+    textline: “色既是空
+    offset: 2
+    range: 1
+right:
+  word_uuid: ade8ee5d-ef62-4c36-beac-99463c90797c
+  text: 空
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 79466e36-2fc6-44a8-90af-1e368f3aaf08
+    line_id: KR6q0002_Yan_003-1125a.23
+    textline: “色既是空
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,33 @@
+uuid: ecfe0c4e-e9d0-4b3b-9bfd-4147a17b1c76
+type: word-relation
+group_uuid: ecfe0c4e-e9d0-4b3b-9bfd-4147a17b1c76
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4a482de4-7d2f-434e-af84-a662ef5ff616
+  text: 超
+  concept: SURPASS
+  concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+  attestation:
+    text_title: 論衡
+    line_uuid: 4535b2d8-8796-488a-8406-dea17c5372d5
+    textline: 興而超逾
+    offset: 3
+    range: 1
+right:
+  word_uuid: 85fc4955-fa96-4937-806b-7dee833f2a67
+  text: 逾
+  concept: SURPASS
+  concept_uuid: 05fefdec-6b42-4d88-9e90-b5bdaae77fd9
+  attestation:
+    text_title: 論衡
+    line_uuid: 4535b2d8-8796-488a-8406-dea17c5372d5
+    textline: 興而超逾
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

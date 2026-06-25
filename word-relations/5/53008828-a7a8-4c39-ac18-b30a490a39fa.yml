@@ -1,0 +1,35 @@
+uuid: 53008828-a7a8-4c39-ac18-b30a490a39fa
+type: word-relation
+group_uuid: 53008828-a7a8-4c39-ac18-b30a490a39fa
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d651fd91-945b-486b-8234-27bfc2494cd5
+  text: 功
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 老子
+    line_uuid: a388840d-b6dd-495d-8c3d-19cb2666e483
+    line_id: KR5c0057_tls_017-1a.10
+    textline: 功成事遂
+    offset: 1
+    range: 1
+right:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 老子
+    line_uuid: a388840d-b6dd-495d-8c3d-19cb2666e483
+    line_id: KR5c0057_tls_017-1a.10
+    textline: 功成事遂
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

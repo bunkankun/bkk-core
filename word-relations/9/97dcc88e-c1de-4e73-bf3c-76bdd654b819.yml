@@ -1,0 +1,21 @@
+uuid: 97dcc88e-c1de-4e73-bf3c-76bdd654b819
+type: word-relation
+group_uuid: 9f57aeba-1866-5a34-b483-ecb9c8a88753
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6caea74a-8df7-417e-ac2e-6f6efba0e99c
+  text: 華
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+right:
+  word_uuid: c610d8af-3b25-4127-ae3a-12ff62794da3
+  text: 榮
+  concept: BLOSSOM
+  concept_uuid: 54d55a62-91aa-4003-b3a7-79182e02fd9a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

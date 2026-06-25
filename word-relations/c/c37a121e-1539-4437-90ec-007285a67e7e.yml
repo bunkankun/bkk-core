@@ -1,0 +1,35 @@
+uuid: c37a121e-1539-4437-90ec-007285a67e7e
+type: word-relation
+group_uuid: c37a121e-1539-4437-90ec-007285a67e7e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 42720c58-bf8b-4661-8e62-c33f039f9ddf
+  text: 懲
+  concept: WARN
+  concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 371f55be-9052-4ac4-92ad-48b99bf1c107
+    line_id: KR1e0001_tls_008-302a.12
+    textline: 懲惡而勸善
+    offset: 1
+    range: 1
+right:
+  word_uuid: 08380628-9d22-4304-b160-4725c7e8282c
+  text: 勸
+  concept: ENCOURAGE
+  concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 371f55be-9052-4ac4-92ad-48b99bf1c107
+    line_id: KR1e0001_tls_008-302a.12
+    textline: 懲惡而勸善
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

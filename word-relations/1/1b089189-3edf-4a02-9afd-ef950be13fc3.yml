@@ -1,0 +1,23 @@
+uuid: 1b089189-3edf-4a02-9afd-ef950be13fc3
+type: word-relation
+group_uuid: 6d23f964-43d2-5716-ac5e-18a48e734cb1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4340213e-8f09-40e8-9e31-18493e1df7df
+  text: 誇夸
+  concept: EXAGGERATE
+  concept_uuid: b6b64ef3-c1ee-4880-8c67-74af01e81f9d
+right:
+  word_uuid: 8743e249-47de-4b60-89a4-55505c6b867f
+  text: 誕
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+  scope: '217'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

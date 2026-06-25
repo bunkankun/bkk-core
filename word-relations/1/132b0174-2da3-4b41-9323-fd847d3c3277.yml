@@ -1,0 +1,35 @@
+uuid: 132b0174-2da3-4b41-9323-fd847d3c3277
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論衡
+    line_uuid: 03a7ac00-0db9-416c-8563-1f4789c9cccd
+    line_id: KR3j0080_tls_010-19a.10
+    textline: 君子輔善
+    offset: 1
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 156c9be1-ed0f-4434-999e-1cb3389ba4a8
+    line_id: KR3j0080_tls_010-19a.12
+    textline: 小人毀奇
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

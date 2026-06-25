@@ -1,0 +1,32 @@
+uuid: 8d250937-d5be-496a-b85a-7902ba09f8b3
+type: word-relation
+group_uuid: f17e94ad-b54b-41d6-b45f-1da885944d90
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1a60b24c-feb7-473b-819e-0302f272fb11
+  text: 體
+  concept: LIMB
+  concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+  attestation:
+    text_title: 莊子
+    line_uuid: adf06544-0f28-4df8-b5e9-ec73491115db
+    line_id: KR5c0126_tls_029-18a.29
+    textline: 不監於體
+    offset: 4
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 莊子
+    line_uuid: fe55a951-51de-4e08-9f72-89f9386ecd15
+    line_id: KR5c0126_tls_029-18a.32
+    textline: 不監於心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

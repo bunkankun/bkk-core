@@ -1,0 +1,32 @@
+uuid: 724f7458-1c6a-46c6-8ae0-75d18ea08ca0
+type: word-relation
+group_uuid: 724f7458-1c6a-46c6-8ae0-75d18ea08ca0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d0af672f-d259-4fde-b34f-5bfc33ec0317
+  text: 集
+  concept: GATHER
+  concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+  attestation:
+    text_title: 百喻經
+    line_uuid: dfe014fb-93bd-4270-9b68-43069ca8a167
+    line_id: KR6b0066_T_001-0543a.61
+    textline: 欲集牛乳
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6d25b6ac-c09d-41f7-9310-aa59b58cb8a0
+  text: 會
+  concept: GATHER
+  concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+  attestation:
+    text_title: 百喻經
+    line_uuid: 04d02918-470b-481d-9f59-fdaf372f624c
+    line_id: KR6b0066_T_001-0543a.60
+    textline: 將會賓客
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

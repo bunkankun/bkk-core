@@ -1,0 +1,23 @@
+uuid: d8c1bcb6-0fb5-4f35-a4af-dd2c89518ada
+type: word-relation
+group_uuid: 29f89a06-f0af-5ebd-accb-1b29ff4ad91b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9d50d66d-d06b-4d7f-9e57-65f9116673fc
+  text: 對
+  concept: ADDRESS
+  concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+right:
+  word_uuid: ae038809-d229-464a-8b13-6808d5f9f10e
+  text: 向
+  concept: ADDRESS
+  concept_uuid: ffe85849-0547-451b-8952-d32067596c12
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

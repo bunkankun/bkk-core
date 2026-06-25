@@ -1,0 +1,32 @@
+uuid: 4a3a454a-547a-4bd8-a3c7-4bc8561c795d
+type: word-relation
+group_uuid: 4a3a454a-547a-4bd8-a3c7-4bc8561c795d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bb3c5341-c83e-4664-ab21-3f5fd8b53aea
+  text: 實
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 韓非子
+    line_uuid: bfec4c8c-10ef-4189-936f-2ccdcdda1bf5
+    line_id: KR3c0005_tls_003-1a.7
+    textline: 則見以為華而不實
+    offset: 8
+    range: 1
+right:
+  word_uuid: 6caea74a-8df7-417e-ac2e-6f6efba0e99c
+  text: 華
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 韓非子
+    line_uuid: bfec4c8c-10ef-4189-936f-2ccdcdda1bf5
+    line_id: KR3c0005_tls_003-1a.7
+    textline: 則見以為華而不實
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

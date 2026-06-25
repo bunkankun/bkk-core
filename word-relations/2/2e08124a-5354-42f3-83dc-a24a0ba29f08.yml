@@ -1,0 +1,30 @@
+uuid: 2e08124a-5354-42f3-83dc-a24a0ba29f08
+type: word-relation
+group_uuid: 2e08124a-5354-42f3-83dc-a24a0ba29f08
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 論語
+    line_uuid: 8a4f3705-3342-46d9-b3a3-6defe9b045d5
+    textline: 與朋友交言而有信
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: 8a4f3705-3342-46d9-b3a3-6defe9b045d5
+    textline: 與朋友交言而有信
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

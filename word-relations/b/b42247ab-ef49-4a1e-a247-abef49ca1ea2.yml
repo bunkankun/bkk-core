@@ -1,0 +1,32 @@
+uuid: b42247ab-ef49-4a1e-a247-abef49ca1ea2
+type: word-relation
+group_uuid: e869b543-e1cc-5646-ae1a-4d57690be9cd
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_006-21a.133
+    textline: 帝王德君思此天意
+    offset: 7
+    range: 2
+right:
+  word_uuid: f0fb7cc1-406e-46de-b6ad-5cf2f21bbbb8
+  text: 思
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_006-21a.133
+    textline: 帝王德君思此天意
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-19T23:28:05.266+09:00'

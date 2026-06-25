@@ -1,0 +1,32 @@
+uuid: 9c712daf-733b-41fa-b12d-af733b81fa31
+type: word-relation
+group_uuid: ef2f24b4-7bf7-5836-90ab-728c5efa7686
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: dc193087-4718-4c84-90c2-3d6dea2e73aa
+  text: 名
+  concept: NAME
+  concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-4a.6
+    textline: 有名而後有倫
+    offset: 2
+    range: 1
+right:
+  word_uuid: 46724c20-4bba-4890-bcd4-5db45667eb5a
+  text: 倫
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-4a.6
+    textline: 有名而後有倫
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T21:09:52.535+09:00'

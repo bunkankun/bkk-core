@@ -1,0 +1,18 @@
+uuid: d30a6f2c-1780-44b1-9540-9d19385c6a71
+type: word-relation
+group_uuid: 2b5eb363-3202-5f27-80e3-aba642648975
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+right:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+source:
+  source_file: word-relations.xml

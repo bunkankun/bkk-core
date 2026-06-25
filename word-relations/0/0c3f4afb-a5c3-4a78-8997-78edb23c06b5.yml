@@ -1,0 +1,32 @@
+uuid: 0c3f4afb-a5c3-4a78-8997-78edb23c06b5
+type: word-relation
+group_uuid: 0c3f4afb-a5c3-4a78-8997-78edb23c06b5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 老子
+    line_uuid: 6bf531b8-673d-4cc9-b348-8f061eea04f1
+    line_id: KR5c0057_tls_019-1a.3
+    textline: 絕聖棄智
+    offset: 2
+    range: 1
+right:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 老子
+    line_uuid: 6bf531b8-673d-4cc9-b348-8f061eea04f1
+    line_id: KR5c0057_tls_019-1a.3
+    textline: 絕聖棄智
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

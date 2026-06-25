@@ -1,0 +1,21 @@
+uuid: c6236f49-0c3d-4fe1-b9cb-f9766e3f266e
+type: word-relation
+group_uuid: 5759ccf9-3e86-5922-8409-aa29f203c079
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 78dce4f6-6458-49be-8f4f-cf19f4223c66
+  text: 險
+  concept: INACCESSIBLE
+  concept_uuid: df71c3bd-ec8c-46ac-99a3-971cd5b8b6b5
+right:
+  word_uuid: 506c78e8-31e9-4bf1-819d-d5ab1d31e088
+  text: 夷
+  concept: FLAT
+  concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

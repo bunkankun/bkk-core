@@ -1,0 +1,32 @@
+uuid: 11312676-bbbe-4062-9b98-a4b1276a78b1
+type: word-relation
+group_uuid: 11312676-bbbe-4062-9b98-a4b1276a78b1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c84155e-25a6-41a5-bb2c-487ecf9e4b61
+  text: 容貌
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 論語
+    line_uuid: d2e66f8d-1c46-4772-a466-92e4a6155ccc
+    line_id: KR1h0004_tls_008-4a.10
+    textline: 動容貌
+    offset: 2
+    range: 2
+right:
+  word_uuid: 10ff48a0-9fac-4d46-a985-c83c63d91ef0
+  text: 顏色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 論語
+    line_uuid: 726a9608-d451-4c90-bafb-b306691ee081
+    line_id: KR1h0004_tls_008-4a.12
+    textline: 正顏色
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

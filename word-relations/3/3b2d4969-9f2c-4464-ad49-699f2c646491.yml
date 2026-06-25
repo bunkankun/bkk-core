@@ -1,0 +1,32 @@
+uuid: 3b2d4969-9f2c-4464-ad49-699f2c646491
+type: word-relation
+group_uuid: af6dc081-1c84-4ef2-9998-c819ccd197af
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.19
+    textline: 聖人正在剛柔之閒
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.19
+    textline: 聖人正在剛柔之閒
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-07T03:04:04.662+09:00'

@@ -1,0 +1,30 @@
+uuid: c22c82ab-b291-4be7-b2d4-28881cfbd3ee
+type: word-relation
+group_uuid: c22c82ab-b291-4be7-b2d4-28881cfbd3ee
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b8a9acb3-8d2b-4dd2-b6dd-fa6ce4c77273
+  text: 臥
+  concept: SLEEP
+  concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+  attestation:
+    text_title: 淮南子
+    line_uuid: 40758768-4a6e-4b27-86e8-9feb4b422595
+    textline: 昏若純醉而甘臥
+    offset: 7
+    range: 1
+right:
+  word_uuid: ae541adf-2d39-4215-b6a6-59fbfcef325d
+  text: 甘
+  concept: SWEET
+  concept_uuid: 27b184f0-cc0c-4e7e-b69b-40f26b5a2dd4
+  attestation:
+    text_title: 淮南子
+    line_uuid: 40758768-4a6e-4b27-86e8-9feb4b422595
+    textline: 昏若純醉而甘臥
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

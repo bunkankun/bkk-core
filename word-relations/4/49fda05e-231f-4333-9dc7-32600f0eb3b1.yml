@@ -1,0 +1,32 @@
+uuid: 49fda05e-231f-4333-9dc7-32600f0eb3b1
+type: word-relation
+group_uuid: 49fda05e-231f-4333-9dc7-32600f0eb3b1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c24e573d-4bd7-4bea-b7fe-0c268d7bcf22
+  text: 賊
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ee41912-83c5-476f-ab31-bf920a6841d4
+    line_id: KR3c0005_tls_046-5a.2
+    textline: 挫賊遏姦
+    offset: 2
+    range: 1
+right:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ee41912-83c5-476f-ab31-bf920a6841d4
+    line_id: KR3c0005_tls_046-5a.2
+    textline: 挫賊遏姦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

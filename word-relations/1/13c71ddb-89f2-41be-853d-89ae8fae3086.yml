@@ -1,0 +1,18 @@
+uuid: 13c71ddb-89f2-41be-853d-89ae8fae3086
+type: word-relation
+group_uuid: d505563f-22d1-57e2-b3f1-6f063c9abf0b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6f011eae-6136-4810-9889-015a78f7756b
+  text: 疾
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+source:
+  source_file: word-relations.xml

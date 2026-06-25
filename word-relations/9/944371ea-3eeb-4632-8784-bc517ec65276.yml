@@ -1,0 +1,32 @@
+uuid: 944371ea-3eeb-4632-8784-bc517ec65276
+type: word-relation
+group_uuid: 944371ea-3eeb-4632-8784-bc517ec65276
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41dfe080-0982-4423-a092-0e9214870dfc
+  text: 雷
+  concept: THUNDER
+  concept_uuid: 112ed6ac-08ec-4341-bd13-22ba52c7d742
+  attestation:
+    text_title: 論衡
+    line_uuid: e15e9737-f61c-492b-8e57-16dfce01d82c
+    line_id: KR3j0080_tls_006-6a.6
+    textline: 或遭雷雨之變
+    offset: 3
+    range: 1
+right:
+  word_uuid: bf1e282b-bc1c-46ab-b4e6-991beb682b93
+  text: 雨
+  concept: RAIN
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  attestation:
+    text_title: 論衡
+    line_uuid: e15e9737-f61c-492b-8e57-16dfce01d82c
+    line_id: KR3j0080_tls_006-6a.6
+    textline: 或遭雷雨之變
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

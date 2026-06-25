@@ -1,0 +1,32 @@
+uuid: 2dabefa0-7b7d-411f-96ba-9b4f8778db41
+type: word-relation
+group_uuid: 2dabefa0-7b7d-411f-96ba-9b4f8778db41
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3181eb62-65db-4f18-a969-3bb8f95e64f4
+  text: 親愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 論衡
+    line_uuid: c84edf41-bc9f-4fbe-b0a5-357832d628ce
+    line_id: KR3j0080_tls_014-7a.5
+    textline: 令之相親愛
+    offset: 4
+    range: 2
+right:
+  word_uuid: 84a9f39d-c3ed-42bb-ab10-3f4e276e4169
+  text: 賊害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 論衡
+    line_uuid: 127eafd4-1e96-4295-ba05-9062e02cf726
+    line_id: KR3j0080_tls_014-7a.7
+    textline: 反使相賊害也”
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

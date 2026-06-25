@@ -1,0 +1,32 @@
+uuid: f1c8a393-7ac5-4cc8-8430-e85f856fd7c3
+type: word-relation
+group_uuid: 8291be21-63ba-41f1-9751-108ecf8365e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8280ac35-d647-41ba-a6e2-67363c1fb83a
+  text: 迅
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 論衡
+    line_uuid: a0dec645-8eb7-47ad-be73-56790c07e4cf
+    line_id: KR3j0080_tls_023-1a.4
+    textline: 雷電迅疾
+    offset: 3
+    range: 1
+right:
+  word_uuid: 40a9658c-4b5e-4952-82c0-37e84b877bf3
+  text: 疾
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 論衡
+    line_uuid: a0dec645-8eb7-47ad-be73-56790c07e4cf
+    line_id: KR3j0080_tls_023-1a.4
+    textline: 雷電迅疾
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

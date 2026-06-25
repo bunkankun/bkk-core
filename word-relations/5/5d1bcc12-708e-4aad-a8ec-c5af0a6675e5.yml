@@ -1,0 +1,21 @@
+uuid: 5d1bcc12-708e-4aad-a8ec-c5af0a6675e5
+type: word-relation
+group_uuid: b2074bf9-01af-5a87-9d8f-fd53c5393bfa
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 44f3c8d8-3d17-494a-ac7b-8bcdab59691f
+  text: 及
+  concept: CATCH UP
+  concept_uuid: 333c0f68-fc44-4b75-86aa-60163e40d917
+right:
+  word_uuid: a9337947-1807-4af5-9660-49e40e6b8310
+  text: 如
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

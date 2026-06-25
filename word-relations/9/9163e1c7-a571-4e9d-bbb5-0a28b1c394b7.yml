@@ -1,0 +1,32 @@
+uuid: 9163e1c7-a571-4e9d-bbb5-0a28b1c394b7
+type: word-relation
+group_uuid: 9163e1c7-a571-4e9d-bbb5-0a28b1c394b7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1d1ab746-0da7-4805-a01b-6d98b6b9b68e
+  text: 起
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0fbe72d4-fc79-48d6-b146-b4c4f0bad267
+    line_id: KR3c0005_tls_010-132a.6
+    textline: 彼若有時反國而起兵
+    offset: 8
+    range: 1
+right:
+  word_uuid: aae131cd-ebb1-4935-9db0-f6927337cde9
+  text: 兵
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0fbe72d4-fc79-48d6-b146-b4c4f0bad267
+    line_id: KR3c0005_tls_010-132a.6
+    textline: 彼若有時反國而起兵
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

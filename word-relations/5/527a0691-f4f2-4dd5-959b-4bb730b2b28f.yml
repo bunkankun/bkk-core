@@ -1,0 +1,18 @@
+uuid: 527a0691-f4f2-4dd5-959b-4bb730b2b28f
+type: word-relation
+group_uuid: c687b84c-4166-5b35-ba6e-5c85f8a7fd94
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: fc1971fb-64e2-4439-b735-4e37ed6d3d4c
+  text: 約
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+source:
+  source_file: word-relations.xml

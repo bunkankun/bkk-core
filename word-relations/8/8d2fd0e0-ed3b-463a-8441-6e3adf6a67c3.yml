@@ -1,0 +1,37 @@
+uuid: 8d2fd0e0-ed3b-463a-8441-6e3adf6a67c3
+type: word-relation
+group_uuid: 8d2fd0e0-ed3b-463a-8441-6e3adf6a67c3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5313b6f6-8d21-40ff-9d80-13c362afb936
+    line_id: KR1e0001_tls_009-713a.41
+    textline: 以賀其福
+    offset: 4
+    range: 1
+right:
+  word_uuid: aa5cf34d-32db-4f92-a4c4-b1293dc3dfbc
+  text: 凶
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b28701d8-3a6c-4625-917e-3646c0c753ae
+    line_id: KR1e0001_tls_009-713a.42
+    textline: 而弔其凶
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

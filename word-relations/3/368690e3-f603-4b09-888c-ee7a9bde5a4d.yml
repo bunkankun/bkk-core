@@ -1,0 +1,30 @@
+uuid: 368690e3-f603-4b09-888c-ee7a9bde5a4d
+type: word-relation
+group_uuid: 368690e3-f603-4b09-888c-ee7a9bde5a4d
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 76ef5cc8-cc0f-417a-bc47-32dd72e04355
+  text: 循
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論衡
+    line_uuid: 4575fd67-3a45-47c3-abfa-c7a5e17b87c2
+    textline: 故循性行以俟累害者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 4575fd67-3a45-47c3-abfa-c7a5e17b87c2
+    textline: 故循性行以俟累害者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

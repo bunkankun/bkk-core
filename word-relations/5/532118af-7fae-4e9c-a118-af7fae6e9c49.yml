@@ -1,0 +1,32 @@
+uuid: 532118af-7fae-4e9c-a118-af7fae6e9c49
+type: word-relation
+group_uuid: d149e58a-2289-5065-8e6e-e8588873dace
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 670c0adc-d54f-41b4-b9b4-c4d8242f3972
+  text: 學
+  concept: DOCTRINE
+  concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+  attestation:
+    text_title: 尚書
+    line_id: KR1b0001_tls_048-2a.80
+    textline: 學古入官
+    offset: 1
+    range: 1
+right:
+  word_uuid: 11c3d577-78e5-43c1-b20b-103903757003
+  text: 古
+  concept: ANCIENT
+  concept_uuid: 338ea661-050b-48b3-831e-977100799f31
+  attestation:
+    text_title: 尚書
+    line_id: KR1b0001_tls_048-2a.80
+    textline: 學古入官
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T20:41:29.521+09:00'

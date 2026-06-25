@@ -1,0 +1,32 @@
+uuid: 8224fb9b-5492-43d7-9525-906fd707f6be
+type: word-relation
+group_uuid: 8224fb9b-5492-43d7-9525-906fd707f6be
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5eea6e41-5bf0-4765-9f29-c28feb09a4ac
+    line_id: KR3c0005_tls_042-2a.9
+    textline: 眩乎辯說
+    offset: 3
+    range: 1
+right:
+  word_uuid: 25a63e4c-7bca-41b5-b1ee-8c8a6a371066
+  text: 說
+  concept: EXPLAIN
+  concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5eea6e41-5bf0-4765-9f29-c28feb09a4ac
+    line_id: KR3c0005_tls_042-2a.9
+    textline: 眩乎辯說
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

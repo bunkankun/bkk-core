@@ -1,0 +1,32 @@
+uuid: 6dc0cc74-8cef-4b73-8f85-692a49f73789
+type: word-relation
+group_uuid: 2665a86c-ce47-4adb-9562-272bc4e5061a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9e236b93-ff1c-43e6-81db-eeb6c3a7b754
+  text: 凶
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 淮南子
+    line_uuid: faa1ca82-97dd-49be-b841-b273e02911ae
+    line_id: KR3j0010_tls_006-6a.8
+    textline: 逆之者凶
+    offset: 4
+    range: 1
+right:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 淮南子
+    line_uuid: 6a9e5f39-ce84-43f6-ba26-e65b9361bd8a
+    line_id: KR3j0010_tls_009-40a.7
+    textline: 從之者利
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

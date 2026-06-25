@@ -1,0 +1,32 @@
+uuid: 6dd4bb27-539f-4380-b902-92a1738b28de
+type: word-relation
+group_uuid: 6dd4bb27-539f-4380-b902-92a1738b28de
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7e41c9a1-0cd6-409f-ac13-5ecb459f6f25
+    line_id: KR3c0005_tls_005-23a.9
+    textline: 神聖不能解也
+    offset: 2
+    range: 1
+right:
+  word_uuid: dd610641-8251-402a-8f69-b5c5d4e19244
+  text: 神
+  concept: SUPERNATURAL
+  concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7e41c9a1-0cd6-409f-ac13-5ecb459f6f25
+    line_id: KR3c0005_tls_005-23a.9
+    textline: 神聖不能解也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

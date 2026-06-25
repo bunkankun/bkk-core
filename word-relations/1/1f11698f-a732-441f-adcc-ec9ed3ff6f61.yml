@@ -1,0 +1,32 @@
+uuid: 1f11698f-a732-441f-adcc-ec9ed3ff6f61
+type: word-relation
+group_uuid: 1f11698f-a732-441f-adcc-ec9ed3ff6f61
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2dd6b1f4-72b3-4941-b222-5dfb683583ca
+  text: 魁
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2cccb033-99f5-46f9-8535-baa2872f5ce2
+    line_id: KR3j0009_tls_004-11a.33
+    textline: 不疾學而能為魁士名人者
+    offset: 7
+    range: 1
+right:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2cccb033-99f5-46f9-8535-baa2872f5ce2
+    line_id: KR3j0009_tls_004-11a.33
+    textline: 不疾學而能為魁士名人者
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

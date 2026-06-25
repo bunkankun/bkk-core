@@ -1,0 +1,32 @@
+uuid: 2edf783e-4b24-41c4-a216-152ef2ec0d98
+type: word-relation
+group_uuid: 2edf783e-4b24-41c4-a216-152ef2ec0d98
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: aaff8c01-54af-4605-969e-366d1baefd38
+  text: 珠
+  concept: PEARL
+  concept_uuid: c750e177-6b9a-48c1-8b4b-ec61d5ad3992
+  attestation:
+    text_title: 百喻經
+    line_uuid: 8612154d-f806-48c6-ad26-ff3c16aa4d52
+    line_id: KR6b0066_T_001-0543c.82
+    textline: 如護明珠
+    offset: 4
+    range: 1
+right:
+  word_uuid: ffc1107d-020a-447b-bdb2-afa492522d78
+  text: 明
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+  attestation:
+    text_title: 百喻經
+    line_uuid: 8612154d-f806-48c6-ad26-ff3c16aa4d52
+    line_id: KR6b0066_T_001-0543c.82
+    textline: 如護明珠
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

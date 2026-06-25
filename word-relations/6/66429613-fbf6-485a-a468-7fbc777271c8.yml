@@ -1,0 +1,32 @@
+uuid: 66429613-fbf6-485a-a468-7fbc777271c8
+type: word-relation
+group_uuid: 66429613-fbf6-485a-a468-7fbc777271c8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2bfb0ef2-9e3b-4064-9a86-88488d8e104f
+  text: 庭
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 韓非子
+    line_uuid: b5b23090-e00b-4662-a91d-88a4de17f09f
+    line_id: KR3c0005_tls_008-41a.8
+    textline: 公庭將虛
+    offset: 2
+    range: 1
+right:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 韓非子
+    line_uuid: b5b23090-e00b-4662-a91d-88a4de17f09f
+    line_id: KR3c0005_tls_008-41a.8
+    textline: 公庭將虛
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 1c5cff94-532a-4245-8fb1-eba0f66801ee
+type: word-relation
+group_uuid: ea13359f-dcf9-5dfd-802f-a5518e07b3bc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5bbb4790-f832-44bb-9d31-e45e24cca305
+  text: 除
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+right:
+  word_uuid: 2de1569e-6779-4fa5-b7f0-c183180d595c
+  text: 避辟
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

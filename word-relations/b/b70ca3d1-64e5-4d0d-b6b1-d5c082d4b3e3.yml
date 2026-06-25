@@ -1,0 +1,30 @@
+uuid: b70ca3d1-64e5-4d0d-b6b1-d5c082d4b3e3
+type: word-relation
+group_uuid: b70ca3d1-64e5-4d0d-b6b1-d5c082d4b3e3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 721a9856-21fb-4caa-8f4c-df5ad560c86d
+  text: 法
+  concept: IMITATE
+  concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: 5c29f946-8123-4368-9b7f-7a2742b328e3
+    textline: 湯武法桀紂者矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 07e2e496-645c-44e4-a067-1769be9abb6b
+  text: 追
+  concept: IMITATE
+  concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: f8fff354-c2fd-4268-ae72-aab537307d88
+    textline: 吾未聞仲尼追盜跖
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

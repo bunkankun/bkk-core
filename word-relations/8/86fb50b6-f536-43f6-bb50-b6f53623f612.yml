@@ -1,0 +1,32 @@
+uuid: 86fb50b6-f536-43f6-bb50-b6f53623f612
+type: word-relation
+group_uuid: 244328cd-2ab2-5c7a-8d9a-d8b871b50fd8
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d2427d27-5f95-407a-8b8b-5b2935039790
+  text: 物
+  concept: CREATURE
+  concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.3
+    textline: 有物有容
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2395791b-2d9a-4a18-a05f-141ff4e90e83
+  text: 容
+  concept: SHAPE
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.3
+    textline: 有物有容
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T20:12:14.266+09:00'

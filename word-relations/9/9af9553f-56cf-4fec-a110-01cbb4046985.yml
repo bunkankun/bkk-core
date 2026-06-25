@@ -1,0 +1,32 @@
+uuid: 9af9553f-56cf-4fec-a110-01cbb4046985
+type: word-relation
+group_uuid: 9af9553f-56cf-4fec-a110-01cbb4046985
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8149a785-9c7f-4c38-8420-3c77f7910943
+  text: 重
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 白虎通
+    line_uuid: 7b3d3ed4-37b1-4ddf-ac88-a0ebea5f1136
+    line_id: KR3j0023_tls_020-847a.3
+    textline: 君子重德薄刑
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8c5849ef-cc11-4fd7-8d2b-ab725aaf0bba
+  text: 薄
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+  attestation:
+    text_title: 白虎通
+    line_uuid: 7b3d3ed4-37b1-4ddf-ac88-a0ebea5f1136
+    line_id: KR3j0023_tls_020-847a.3
+    textline: 君子重德薄刑
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c7b8baed-ebf1-4f76-8d19-120f20295f15
+type: word-relation
+group_uuid: c7b8baed-ebf1-4f76-8d19-120f20295f15
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4fb2897c-5939-4e42-97f0-3a33dc6bee5a
+  text: 收
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 戰國策
+    line_uuid: 1076e144-7993-4ae3-933d-176181fabf63
+    line_id: KR2e0003_tls_013-1a.14
+    textline: 公東收寶於秦
+    offset: 3
+    range: 1
+right:
+  word_uuid: 346a82e0-c843-4285-8ce3-9e8389ba0187
+  text: 取
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 戰國策
+    line_uuid: b048c017-2e58-4cff-b50e-996d1bfadcd2
+    line_id: KR2e0003_tls_013-1a.15
+    textline: 南取地於韓
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

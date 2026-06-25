@@ -1,0 +1,32 @@
+uuid: 50ac7755-5084-4623-ac77-555084f62334
+type: word-relation
+group_uuid: 54e80091-e51b-5869-97fa-ececb1e00640
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8bc08425-5b32-45c4-b795-56a05597113d
+  text: 致
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_006-311a.49
+    textline: 吏致法焉
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_006-311a.49
+    textline: 吏致法焉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T17:33:29.194+09:00'

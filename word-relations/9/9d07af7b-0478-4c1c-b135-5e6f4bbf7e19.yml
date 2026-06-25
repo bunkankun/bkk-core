@@ -1,0 +1,32 @@
+uuid: 9d07af7b-0478-4c1c-b135-5e6f4bbf7e19
+type: word-relation
+group_uuid: 9d07af7b-0478-4c1c-b135-5e6f4bbf7e19
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 63f082fa-e1bb-433d-b09f-09d7caa99103
+  text: 愿
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 論語
+    line_uuid: 1d041718-7f96-426f-9329-c72ec502ea82
+    line_id: KR1h0004_tls_008-16a.4
+    textline: 侗而不愿
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2439b222-118f-48cc-a686-0158869c8e90
+  text: 直
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: 1c283cca-a602-43e7-b2e1-de28c179539e
+    line_id: KR1h0004_tls_008-16a.3
+    textline: 「狂而不直
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

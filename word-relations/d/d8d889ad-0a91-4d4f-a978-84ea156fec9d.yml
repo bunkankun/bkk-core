@@ -1,0 +1,32 @@
+uuid: d8d889ad-0a91-4d4f-a978-84ea156fec9d
+type: word-relation
+group_uuid: b79e22c7-ccbd-45d6-82df-d6cfdbd62e65
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 148f362c-2c39-4e2e-ba6b-d78fd3ca3a4d
+  text: 清
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e4aa019-1ad7-459f-98ea-37d2c04c4267
+    line_id: KR3c0005_tls_047-24a.11
+    textline: 不求清潔之吏
+    offset: 3
+    range: 1
+right:
+  word_uuid: dd9c6b61-9fc2-42be-a5cb-d5d5d2a43186
+  text: 潔
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e4aa019-1ad7-459f-98ea-37d2c04c4267
+    line_id: KR3c0005_tls_047-24a.11
+    textline: 不求清潔之吏
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

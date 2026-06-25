@@ -1,0 +1,32 @@
+uuid: 8da04029-4b94-46f1-945e-2b70b64cf0f5
+type: word-relation
+group_uuid: 72945c72-ef56-4bf1-8ae3-f428b917bd76
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bab5406b-1cf4-43e7-8091-bb608c5c7bd8
+  text: 田
+  concept: HUNT
+  concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+  attestation:
+    text_title: 孟子
+    line_uuid: 676b053a-c6d4-45a2-9835-f80a295d8f07
+    line_id: KR1h0001_tls_002-11a.15
+    textline: 『吾王之好田獵
+    offset: 6
+    range: 1
+right:
+  word_uuid: 6e8dcc74-e9af-4a4c-815a-70ffddbb0638
+  text: 獵
+  concept: HUNT
+  concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+  attestation:
+    text_title: 孟子
+    line_uuid: 676b053a-c6d4-45a2-9835-f80a295d8f07
+    line_id: KR1h0001_tls_002-11a.15
+    textline: 『吾王之好田獵
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

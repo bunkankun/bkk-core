@@ -1,0 +1,32 @@
+uuid: 6e372221-b469-4713-b722-21b469971309
+type: word-relation
+group_uuid: 7479732a-89cf-5f4f-8b36-6fe54a199aba
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-73a.5
+    textline: 君子不貴之也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 45ac0d7e-07c3-4c2d-a4b8-a71c51aef663
+  text: 子
+  concept: SON
+  concept_uuid: 1b8a3aac-d13b-436a-9766-80ebc2d07757
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-73a.5
+    textline: 君子不貴之也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T03:29:36.025+09:00'

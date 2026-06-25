@@ -1,0 +1,30 @@
+uuid: 3a8e2e1d-3462-481e-b04d-0367ee7f2f03
+type: word-relation
+group_uuid: 3a8e2e1d-3462-481e-b04d-0367ee7f2f03
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 40d7dfd0-2711-4535-a34d-8397c66dd45c
+  text: 俊
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 1bd068ef-518d-42a4-804a-e75ac93c50f7
+    textline: 非俊疑杰
+    offset: 2
+    range: 1
+right:
+  word_uuid: b5abe4fb-ab4a-476c-b6dc-06c548e62109
+  text: 杰
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 1bd068ef-518d-42a4-804a-e75ac93c50f7
+    textline: 非俊疑杰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

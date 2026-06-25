@@ -1,0 +1,32 @@
+uuid: 64e27189-3280-43ad-842d-096dc0ed2aae
+type: word-relation
+group_uuid: 64e27189-3280-43ad-842d-096dc0ed2aae
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ba7905c7-2a8b-4f52-9086-fc3ae24aabe0
+  text: 曲
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 老子
+    line_uuid: 62afe928-795e-4218-a1a6-4e46ff5ecae9
+    line_id: KR5c0057_tls_022-1a.3
+    textline: 曲則全
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8f01f385-b373-4b16-aac9-ca0b6d82df05
+  text: 全
+  concept: PERFECT
+  concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+  attestation:
+    text_title: 老子
+    line_uuid: 62afe928-795e-4218-a1a6-4e46ff5ecae9
+    line_id: KR5c0057_tls_022-1a.3
+    textline: 曲則全
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 99d1fe43-00ef-4568-94fb-ebf605054187
+type: word-relation
+group_uuid: 99d1fe43-00ef-4568-94fb-ebf605054187
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 280703a2-dad2-4a2e-b288-c643668dc9e7
+  text: 闕
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: e82535ac-f49a-4c14-b4bb-373003db87ed
+    line_id: KR1e0008_tls_002-23a.12
+    textline: 諸母兄弟不出闕門
+    offset: 7
+    range: 1
+right:
+  word_uuid: 1003e3f4-0855-4cfa-bf9d-a22f01c7c9cc
+  text: 門
+  concept: GATE
+  concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: e82535ac-f49a-4c14-b4bb-373003db87ed
+    line_id: KR1e0008_tls_002-23a.12
+    textline: 諸母兄弟不出闕門
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

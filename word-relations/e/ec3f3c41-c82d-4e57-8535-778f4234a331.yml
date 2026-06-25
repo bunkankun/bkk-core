@@ -1,0 +1,32 @@
+uuid: ec3f3c41-c82d-4e57-8535-778f4234a331
+type: word-relation
+group_uuid: ec3f3c41-c82d-4e57-8535-778f4234a331
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 017117aa-a19d-44d6-a7de-9cc58fdf718e
+  text: 賂
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 09c53b71-104c-4852-88bf-455c1981ff82
+    line_id: KR1e0001_tls_009-799a.4
+    textline: 賂與之邑
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 與
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 09c53b71-104c-4852-88bf-455c1981ff82
+    line_id: KR1e0001_tls_009-799a.4
+    textline: 賂與之邑
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

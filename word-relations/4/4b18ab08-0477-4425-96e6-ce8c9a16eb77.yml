@@ -1,0 +1,21 @@
+uuid: 4b18ab08-0477-4425-96e6-ce8c9a16eb77
+type: word-relation
+group_uuid: 33e6b501-59bd-5256-9eea-a32e05dc8b39
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 66ad575e-55dc-41be-887b-9670ed357fb8
+  text: 猝卒
+  concept: SUDDENLY
+  concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+right:
+  word_uuid: 3b1548fe-eba9-4ac7-af7f-6ca19c1861fc
+  text: 暫
+  concept: SUDDENLY
+  concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

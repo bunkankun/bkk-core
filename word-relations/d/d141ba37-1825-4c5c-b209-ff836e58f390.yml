@@ -1,0 +1,32 @@
+uuid: d141ba37-1825-4c5c-b209-ff836e58f390
+type: word-relation
+group_uuid: d141ba37-1825-4c5c-b209-ff836e58f390
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1c9e849e-56a4-4af4-8d27-b42bc2809512
+  text: 文
+  concept: PROSE
+  concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+  attestation:
+    text_title: 論衡
+    line_uuid: 41c89dc4-e9e1-43b3-a74c-4d3694d532d3
+    line_id: KR3j0080_tls_001-8a.25
+    textline: 文與言
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 論衡
+    line_uuid: 41c89dc4-e9e1-43b3-a74c-4d3694d532d3
+    line_id: KR3j0080_tls_001-8a.25
+    textline: 文與言
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8695b7d0-15f3-49f7-9e5f-7985b8d92fa1
+type: word-relation
+group_uuid: 8695b7d0-15f3-49f7-9e5f-7985b8d92fa1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 毛詩
+    line_uuid: 0ad05dcc-d5a7-47e3-a579-005e9285c277
+    line_id: KR1c0001_tls_028-7a.6
+    textline: 將予就之
+    offset: 2
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 毛詩
+    line_uuid: 0010d2ef-749b-4d8f-94e0-c659158e1800
+    line_id: KR1c0001_tls_028-7a.5
+    textline: 朕未有艾
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

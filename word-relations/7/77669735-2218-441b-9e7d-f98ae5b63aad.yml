@@ -1,0 +1,32 @@
+uuid: 77669735-2218-441b-9e7d-f98ae5b63aad
+type: word-relation
+group_uuid: 2d90c98a-6ac1-479b-bca4-a47d032eb973
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 116492c6-a607-4fee-99cf-8a6c5ece193c
+  text: 高
+  concept: SUPERIOR
+  concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+  attestation:
+    text_title: 論衡
+    line_uuid: c9fb5248-9646-498d-996b-aed264887dd3
+    line_id: KR3j0080_tls_001-1a.13
+    textline: 或高才潔行
+    offset: 2
+    range: 1
+right:
+  word_uuid: 25694bc2-5d10-43dd-8bab-8a3058c0a53b
+  text: 潔
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論衡
+    line_uuid: c9fb5248-9646-498d-996b-aed264887dd3
+    line_id: KR3j0080_tls_001-1a.13
+    textline: 或高才潔行
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

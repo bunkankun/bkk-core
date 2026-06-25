@@ -1,0 +1,32 @@
+uuid: 7bc78122-d1c2-46ea-addb-1c480e7c0512
+type: word-relation
+group_uuid: 7bc78122-d1c2-46ea-addb-1c480e7c0512
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 論語
+    line_uuid: 7b912274-4e55-4620-9299-321586ec436e
+    line_id: KR1h0004_tls_006-26a.3
+    textline: 「知之者不如好之者
+    offset: 7
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: 036f991e-216c-461a-9b3b-f2e14c8543de
+    line_id: KR1h0004_tls_006-27a.1
+    textline: 好之者不如樂之者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

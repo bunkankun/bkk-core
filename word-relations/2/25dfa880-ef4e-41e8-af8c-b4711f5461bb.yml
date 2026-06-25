@@ -1,0 +1,32 @@
+uuid: 25dfa880-ef4e-41e8-af8c-b4711f5461bb
+type: word-relation
+group_uuid: 35a4e658-4438-4782-93da-d1807a3a150f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 管子
+    line_uuid: 4c7defab-7d50-4dd3-a667-3e711c667f90
+    line_id: KR3c0001_tls_018-34a.8
+    textline: 此古聖帝明王所以有而勿失
+    offset: 3
+    range: 1
+right:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 管子
+    line_uuid: 4c7defab-7d50-4dd3-a667-3e711c667f90
+    line_id: KR3c0001_tls_018-34a.8
+    textline: 此古聖帝明王所以有而勿失
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

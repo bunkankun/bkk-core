@@ -1,0 +1,21 @@
+uuid: d1d539a5-2a95-4b74-9473-a0c3c4eec3b0
+type: word-relation
+group_uuid: 7ddcf97b-ef7d-58bf-97df-0623e3a0a230
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 026b3382-d2bb-46ae-b501-fa23e3e814ec
+  text: 鈞均
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+right:
+  word_uuid: 45c7f396-444e-41e9-8e86-cdc0e59e8a16
+  text: 殊
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

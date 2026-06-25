@@ -1,0 +1,32 @@
+uuid: 9b671019-7553-4d25-a06e-ec45bfd48016
+type: word-relation
+group_uuid: c4ddbd1d-15ab-4f2d-bfe1-10f3c8f1bf50
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 27f98fe9-8ba6-445c-baf6-3ba18823d602
+    line_id: KR3j0009_tls_005-12a.27
+    textline: 能以一治其身者
+    offset: 6
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6b94300f-3254-4bfb-9727-fb6c12390f16
+    line_id: KR3j0009_tls_005-12a.31
+    textline: 能以一治其國者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

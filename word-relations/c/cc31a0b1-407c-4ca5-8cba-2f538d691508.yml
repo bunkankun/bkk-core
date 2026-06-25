@@ -1,0 +1,35 @@
+uuid: cc31a0b1-407c-4ca5-8cba-2f538d691508
+type: word-relation
+group_uuid: cee4484d-026a-4a41-aa3f-c759557221c9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 禮記
+    line_uuid: d19b8de9-22ef-4028-8c6f-9de48567ecd9
+    line_id: KR1d0052_tls_019-9a.13
+    textline: 寒暑不時則疾
+    offset: 1
+    range: 1
+right:
+  word_uuid: eb6c1af1-2eba-490b-8ee9-fc4a728df81d
+  text: 暑
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 禮記
+    line_uuid: d19b8de9-22ef-4028-8c6f-9de48567ecd9
+    line_id: KR1d0052_tls_019-9a.13
+    textline: 寒暑不時則疾
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

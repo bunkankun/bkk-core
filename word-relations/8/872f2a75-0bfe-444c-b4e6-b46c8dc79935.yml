@@ -1,0 +1,30 @@
+uuid: 872f2a75-0bfe-444c-b4e6-b46c8dc79935
+type: word-relation
+group_uuid: 872f2a75-0bfe-444c-b4e6-b46c8dc79935
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2de7e140-37ca-4428-b5fe-3daaf5ae114c
+  text: 垤
+  concept: HEAP
+  concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+  attestation:
+    text_title: 韓非子
+    line_uuid: d81bfa7c-f1cf-4e3e-9d4a-130700e0ebd4
+    textline: 猶蟻垤之比大陵也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3e4634cc-8499-4e0a-a736-477f113d06e6
+  text: 陵
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 韓非子
+    line_uuid: d81bfa7c-f1cf-4e3e-9d4a-130700e0ebd4
+    textline: 猶蟻垤之比大陵也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

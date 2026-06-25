@@ -1,0 +1,32 @@
+uuid: 7724561e-7055-4e95-a3b1-dcc449765fcc
+type: word-relation
+group_uuid: 7724561e-7055-4e95-a3b1-dcc449765fcc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8c408e85-b6be-4949-8870-e36a3436a4c0
+  text: 惠
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 652d6b77-206b-441b-93f4-f4408283f9ab
+    line_id: KR3c0005_tls_014-59a.3
+    textline: 行愛惠
+    offset: 3
+    range: 1
+right:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 652d6b77-206b-441b-93f4-f4408283f9ab
+    line_id: KR3c0005_tls_014-59a.3
+    textline: 行愛惠
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 0f330d15-d176-4711-b30d-15d176f711a4
+type: word-relation
+group_uuid: bcf5d623-4c74-5152-92fe-8c4085b8e1b1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cd45001c-c066-4bdc-89fb-94a5b890622f
+  text: 公
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_026-13a.13
+    textline: 少私義則公法立
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_026-13a.13
+    textline: 少私義則公法立
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T18:19:51.486+09:00'

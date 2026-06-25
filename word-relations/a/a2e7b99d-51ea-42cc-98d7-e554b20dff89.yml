@@ -1,0 +1,21 @@
+uuid: a2e7b99d-51ea-42cc-98d7-e554b20dff89
+type: word-relation
+group_uuid: 3631f3cb-6a55-5e89-ae4c-0fc20659aca5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b48677ed-25fd-4c81-8eb9-7496abcd8fea
+  text: 車車
+  concept: VEHICLE
+  concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+right:
+  word_uuid: bb844c33-b179-49b7-bef0-a3b2a4ee4905
+  text: 輿
+  concept: VEHICLE
+  concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

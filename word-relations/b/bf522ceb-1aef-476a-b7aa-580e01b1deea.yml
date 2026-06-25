@@ -1,0 +1,32 @@
+uuid: bf522ceb-1aef-476a-b7aa-580e01b1deea
+type: word-relation
+group_uuid: bf522ceb-1aef-476a-b7aa-580e01b1deea
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 84bc2345-4db6-48d4-a49e-4b9ae6782c3d
+    line_id: KR3j0080_tls_002-1a.32
+    textline: 遇害不遂
+    offset: 1
+    range: 1
+right:
+  word_uuid: b1c3c955-c1ae-444a-a0fa-734672e58648
+  text: 害
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: 84bc2345-4db6-48d4-a49e-4b9ae6782c3d
+    line_id: KR3j0080_tls_002-1a.32
+    textline: 遇害不遂
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 0273f8ee-6d61-412e-8996-d8706a294889
+type: word-relation
+group_uuid: 104a15ca-493a-4f01-b232-12d94b108fac
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 17cdb3ba-5e77-4606-bafc-502ae458880d
+    textline: 予有後弗棄基
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: e274dd75-97f2-4439-8def-59066e94771a
+    textline: 若昔朕其逝
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 263aec48-ce94-4c17-ae64-36fba3b8e04d
+type: word-relation
+group_uuid: d98662db-31eb-438d-977c-d610f199fcbe
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 045bfc58-b263-4015-9321-d8f8da117073
+  text: 小
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 韓非子
+    line_uuid: 48d05cbb-bd79-432e-a4d5-45cfe2019ff6
+    line_id: KR3c0005_tls_007-13a.6
+    textline: 群臣其言小而功大者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 13808986-a234-484d-a412-862d3e387251
+  text: 大
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 48d05cbb-bd79-432e-a4d5-45cfe2019ff6
+    line_id: KR3c0005_tls_007-13a.6
+    textline: 群臣其言小而功大者
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

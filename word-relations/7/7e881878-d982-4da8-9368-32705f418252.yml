@@ -1,0 +1,31 @@
+uuid: 7e881878-d982-4da8-9368-32705f418252
+type: word-relation
+group_uuid: 1dabd644-66cf-4438-8d2b-0969a8095004
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d380647d-f57f-467b-8c1d-66d655ccfde8
+  text: 眾人
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 老子
+    line_uuid: 76d90408-20b9-4ec7-a2c0-f2d4a3236ba5
+    line_id: KR5c0057_tls_020-1a.28
+    textline: 眾人皆有以
+    offset: 1
+    range: 2
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 老子
+    line_uuid: e6ff6281-2d59-4c60-a82e-f53abdbc085e
+    textline: 而我獨頑且鄙
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

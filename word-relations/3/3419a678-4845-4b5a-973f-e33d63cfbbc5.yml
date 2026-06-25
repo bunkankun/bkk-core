@@ -1,0 +1,30 @@
+uuid: 3419a678-4845-4b5a-973f-e33d63cfbbc5
+type: word-relation
+group_uuid: 3419a678-4845-4b5a-973f-e33d63cfbbc5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a3c480ff-5a6e-47e6-ab16-6c46e7ed2d92
+  text: 耕
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 孟子
+    line_uuid: c2e34760-cc26-4737-bccc-d49741ab0af3
+    textline: 自耕稼陶漁
+    offset: 2
+    range: 1
+right:
+  word_uuid: e839a26b-88f5-4357-8438-a0a0c1296828
+  text: 稼
+  concept: SOW
+  concept_uuid: e6a0a8df-500f-4f4a-bfac-8052022a9076
+  attestation:
+    text_title: 孟子
+    line_uuid: c2e34760-cc26-4737-bccc-d49741ab0af3
+    textline: 自耕稼陶漁
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

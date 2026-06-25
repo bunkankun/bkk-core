@@ -1,0 +1,32 @@
+uuid: d1c76edd-9517-4b40-9eca-3e8a6d9b5354
+type: word-relation
+group_uuid: 779af34c-b073-41ec-99f3-a640c80d50e5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c629a366-c17d-4b9f-aaaa-4eaffaa13966
+    line_id: KR3j0009_tls_016-26a.30
+    textline: 國必危
+    offset: 1
+    range: 1
+right:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d766bcdc-4d67-45d8-be80-0a1b0ef6c1ae
+    line_id: KR3j0009_tls_016-26a.31
+    textline: 身必窮
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

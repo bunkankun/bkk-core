@@ -1,0 +1,30 @@
+uuid: 72420ece-37fa-4eaa-80aa-abec5036ebfb
+type: word-relation
+group_uuid: 72420ece-37fa-4eaa-80aa-abec5036ebfb
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7c6e379a-6183-4c60-a20f-a5477f2a5e3d
+  text: 龍
+  concept: DRAGON
+  concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e2aeedf5-1afd-48b9-80c1-4bf27813d0ef
+    textline: 乃令飛龍作效八風之音
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1574f9ca-ee6d-4572-bf0f-bc8ba1953dd8
+  text: 飛
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e2aeedf5-1afd-48b9-80c1-4bf27813d0ef
+    textline: 乃令飛龍作效八風之音
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

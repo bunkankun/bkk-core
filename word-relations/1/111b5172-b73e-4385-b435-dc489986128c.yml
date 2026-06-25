@@ -1,0 +1,32 @@
+uuid: 111b5172-b73e-4385-b435-dc489986128c
+type: word-relation
+group_uuid: 111b5172-b73e-4385-b435-dc489986128c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 老子
+    line_uuid: 1df2f3e2-d499-4878-945d-0a4ac8a58f33
+    line_id: KR5c0057_tls_044-1a.5
+    textline: 身與貨
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1146ff34-809f-4892-a715-2a863a460456
+  text: 貨
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 老子
+    line_uuid: 1df2f3e2-d499-4878-945d-0a4ac8a58f33
+    line_id: KR5c0057_tls_044-1a.5
+    textline: 身與貨
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

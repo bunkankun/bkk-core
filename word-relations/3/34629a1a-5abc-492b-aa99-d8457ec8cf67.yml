@@ -1,0 +1,21 @@
+uuid: 34629a1a-5abc-492b-aa99-d8457ec8cf67
+type: word-relation
+group_uuid: 96c7776b-6710-56ae-88ba-ecea467a4c69
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3ce1a114-3a92-4269-8856-d899a8178458
+  text: 觸
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+right:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

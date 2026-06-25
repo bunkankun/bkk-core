@@ -1,0 +1,21 @@
+uuid: c97ca9d9-0dab-4132-b9af-70b8637b1ba5
+type: word-relation
+group_uuid: 61fbd920-80a5-541c-ae5e-ba6e1f9f45d9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2495e210-8924-4a97-b021-b55a5417a3b3
+  text: 賜
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+right:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

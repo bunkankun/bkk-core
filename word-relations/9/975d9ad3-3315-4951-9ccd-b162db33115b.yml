@@ -1,0 +1,32 @@
+uuid: 975d9ad3-3315-4951-9ccd-b162db33115b
+type: word-relation
+group_uuid: 48a5fc6c-1966-4590-8fb2-457fc0109e8f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3640f0f6-78c1-478e-8477-bdd2d73eaf07
+  text: 象
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 白虎通
+    line_uuid: 04f4c460-ac0e-4cc8-8a6e-a3e1de460126
+    line_id: KR3j0023_tls_006-197a.3
+    textline: 樂以象天
+    offset: 3
+    range: 1
+right:
+  word_uuid: a82bc565-3af4-48c7-a00a-fb657992787d
+  text: 法
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 白虎通
+    line_uuid: 03a10b92-fcba-42f0-82da-18b94f0febd3
+    line_id: KR3j0023_tls_006-197a.4
+    textline: 禮以法地
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

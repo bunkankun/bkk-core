@@ -1,0 +1,32 @@
+uuid: 8f9f13d8-955f-4793-9f13-d8955fe7930d
+type: word-relation
+group_uuid: ef42371f-bcf6-52ee-bf7c-bce034abf9ec
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8d0e696d-a1da-405d-a0fb-878304417176
+  text: 制
+  concept: DECREE
+  concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.30
+    textline: 法度制令各因其宜
+    offset: 3
+    range: 1
+right:
+  word_uuid: 050c7cea-1df3-4f6f-8fd0-401aba696437
+  text: 令
+  concept: DECREE
+  concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.30
+    textline: 法度制令各因其宜
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:56:35.912+09:00'

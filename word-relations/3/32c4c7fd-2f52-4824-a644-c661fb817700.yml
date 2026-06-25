@@ -1,0 +1,18 @@
+uuid: 32c4c7fd-2f52-4824-a644-c661fb817700
+type: word-relation
+group_uuid: 4f219e55-8b41-5631-a97c-77a0068c1ea4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b6483341-7bb0-41e3-bc25-d382e7c1034a
+  text: 從
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+right:
+  word_uuid: d57426f1-b772-482c-a8c0-de2ca1457d3c
+  text: 由
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+source:
+  source_file: word-relations.xml

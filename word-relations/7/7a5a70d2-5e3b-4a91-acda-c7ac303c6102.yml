@@ -1,0 +1,32 @@
+uuid: 7a5a70d2-5e3b-4a91-acda-c7ac303c6102
+type: word-relation
+group_uuid: db10910b-1bca-4016-869a-6dab64e813a0
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 史記
+    line_uuid: ad91df17-36aa-4231-bb30-2e3d0d8964b8
+    line_id: KR2a0001_tls_006-323a.5
+    textline: 有席卷天下
+    offset: 4
+    range: 2
+right:
+  word_uuid: 9efd4e33-d01f-4dd2-af85-21fb7233de3f
+  text: 宇內
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 史記
+    line_uuid: 9e34af39-4d93-4f95-b418-a4f87b1d4bcd
+    line_id: KR2a0001_tls_006-323a.6
+    textline: 包舉宇內
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

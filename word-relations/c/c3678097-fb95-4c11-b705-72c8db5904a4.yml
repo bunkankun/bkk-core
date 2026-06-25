@@ -1,0 +1,21 @@
+uuid: c3678097-fb95-4c11-b705-72c8db5904a4
+type: word-relation
+group_uuid: 0e714416-3de8-59df-8dfa-6cec55564cb0
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 94de5819-0ca4-4bc1-b77b-078a7e2c4b22
+  text: 會
+  concept: TIME
+  concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+right:
+  word_uuid: 17d49f88-9eb8-4d94-b2de-f6992f78fbff
+  text: 際
+  concept: TIME
+  concept_uuid: b7cf3877-654b-4a89-8cee-b86aad030cc0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

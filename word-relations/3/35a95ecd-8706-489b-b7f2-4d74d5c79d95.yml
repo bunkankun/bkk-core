@@ -1,0 +1,21 @@
+uuid: 35a95ecd-8706-489b-b7f2-4d74d5c79d95
+type: word-relation
+group_uuid: 4021a216-29a8-5c96-9b0a-cc0a135569a1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3ce971bc-7cdb-4121-8cb6-e35ef559125a
+  text: 呼
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+right:
+  word_uuid: aa3fbc27-188a-4b4c-b661-75a7998f10a7
+  text: 鳴
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

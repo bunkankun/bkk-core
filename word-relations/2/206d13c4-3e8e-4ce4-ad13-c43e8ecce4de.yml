@@ -1,0 +1,32 @@
+uuid: 206d13c4-3e8e-4ce4-ad13-c43e8ecce4de
+type: word-relation
+group_uuid: 03d4d56d-e2b7-5e32-8bc2-403d9517df17
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.15
+    textline: 柔而直
+    offset: 1
+    range: 1
+right:
+  word_uuid: 97c003ed-2dc8-4131-8003-ed2dc8813148
+  text: 直
+  concept: UPRIGHT
+  concept_uuid: ee6af2ee-934e-492b-aaf2-ee934ec92bfd
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.15
+    textline: 柔而直
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-07T03:01:12.032+09:00'

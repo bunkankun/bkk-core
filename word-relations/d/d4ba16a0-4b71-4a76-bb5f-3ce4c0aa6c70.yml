@@ -1,0 +1,21 @@
+uuid: d4ba16a0-4b71-4a76-bb5f-3ce4c0aa6c70
+type: word-relation
+group_uuid: 01d156ef-5bde-5171-b963-2dedc156fb33
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0ef72af8-8c34-46f9-9395-aa01ba779e5d
+  text: 悍
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+right:
+  word_uuid: 4e4af4dc-55a5-4704-af53-d5d2346823e4
+  text: 猛
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

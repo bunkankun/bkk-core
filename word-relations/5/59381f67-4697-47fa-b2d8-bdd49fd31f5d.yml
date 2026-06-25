@@ -1,0 +1,32 @@
+uuid: 59381f67-4697-47fa-b2d8-bdd49fd31f5d
+type: word-relation
+group_uuid: 59381f67-4697-47fa-b2d8-bdd49fd31f5d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 61f41f41-fdfa-4b0f-af85-d6c7290ad81c
+    line_id: KR3j0009_tls_005-23a.5
+    textline: 有正有淫矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 83c39693-3e41-45ea-a4d3-faeff151da21
+  text: 淫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 61f41f41-fdfa-4b0f-af85-d6c7290ad81c
+    line_id: KR3j0009_tls_005-23a.5
+    textline: 有正有淫矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

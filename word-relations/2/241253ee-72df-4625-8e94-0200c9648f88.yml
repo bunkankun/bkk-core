@@ -1,0 +1,35 @@
+uuid: 241253ee-72df-4625-8e94-0200c9648f88
+type: word-relation
+group_uuid: 241253ee-72df-4625-8e94-0200c9648f88
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 023451ce-93c3-4ff6-ab5d-d2836e0252f2
+  text: 尊
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 8a326a51-647a-415d-a664-dd0d1053ff73
+    line_id: KR1e0008_tls_001-36a.8
+    textline: 尊不親小事
+    offset: 1
+    range: 1
+right:
+  word_uuid: 891f4993-7c48-41b2-bbbe-e30bf5829512
+  text: 卑
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 7123c785-4eaf-417b-881c-5c1e136352b7
+    line_id: KR1e0008_tls_001-36a.9
+    textline: 卑不尸大功
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

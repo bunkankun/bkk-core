@@ -1,0 +1,32 @@
+uuid: 59f582c0-a727-483a-97df-17b0185f7e61
+type: word-relation
+group_uuid: 59f582c0-a727-483a-97df-17b0185f7e61
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f28b4f7f-8214-43ea-b1cc-5a36216369a5
+  text: 勁
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: e23cf4ed-86b8-4084-9f5b-fb3fd2c0b893
+    line_id: KR3c0005_tls_002-20a.8
+    textline: 而勁韓以威擒
+    offset: 2
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd13b975-7a95-4e32-ba9b-eda99b65880b
+    line_id: KR3c0005_tls_002-20a.9
+    textline: 強齊以義從矣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

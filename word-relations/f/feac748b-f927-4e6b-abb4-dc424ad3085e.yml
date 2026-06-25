@@ -1,0 +1,21 @@
+uuid: feac748b-f927-4e6b-abb4-dc424ad3085e
+type: word-relation
+group_uuid: f4c482bc-cc02-58a3-80de-bc0250d634f4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: eccc27a7-cec3-4494-9659-3130e9187413
+  text: 變
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+right:
+  word_uuid: 61c1c50e-cfd4-4eff-8ee2-4dbdff0ebd61
+  text: 患
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

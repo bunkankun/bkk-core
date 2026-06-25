@@ -1,0 +1,32 @@
+uuid: 05982d0c-f373-43d0-b9ea-598342bce209
+type: word-relation
+group_uuid: 05982d0c-f373-43d0-b9ea-598342bce209
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 韓非子
+    line_uuid: b5b23090-e00b-4662-a91d-88a4de17f09f
+    line_id: KR3c0005_tls_008-41a.8
+    textline: 公庭將虛
+    offset: 1
+    range: 1
+right:
+  word_uuid: 208fe1c0-e377-4388-930c-ffb8e6fa9362
+  text: 私
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4d09297d-622d-4ff8-8c8f-a2a94a6700c1
+    line_id: KR3c0005_tls_008-41a.7
+    textline: 私門將實
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

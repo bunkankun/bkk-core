@@ -1,0 +1,32 @@
+uuid: 329d6973-22c7-4171-8c73-e3ff649f170f
+type: word-relation
+group_uuid: 0f9deaa4-c028-4626-b3f3-f16a82f36830
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 論衡
+    line_uuid: fc83e669-a8f3-48f9-a2bb-2f02f0eea25b
+    line_id: KR3j0080_tls_005-4a.13
+    textline: 非道理之宜
+    offset: 3
+    range: 1
+right:
+  word_uuid: df58d627-66d4-4d59-a579-350a14003375
+  text: 道
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 論衡
+    line_uuid: fc83e669-a8f3-48f9-a2bb-2f02f0eea25b
+    line_id: KR3j0080_tls_005-4a.13
+    textline: 非道理之宜
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

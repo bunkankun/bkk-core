@@ -1,0 +1,32 @@
+uuid: 4b6209a3-c994-4cf7-8a6e-c7261dd07d5a
+type: word-relation
+group_uuid: bd6cd759-ccfe-4fc8-b87e-0fbaef8bdae9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 孟子
+    line_uuid: bee23927-358d-4624-b47c-722ed3e5aa8b
+    line_id: KR1h0001_tls_001-64a.16
+    textline: 必使仰足以事父母
+    offset: 6
+    range: 1
+right:
+  word_uuid: fca35c09-b24e-4c98-ab35-6f00c15ef367
+  text: 父母
+  concept: PARENT
+  concept_uuid: c6d90627-45f2-4e7e-888b-7bfb8a894b96
+  attestation:
+    text_title: 孟子
+    line_uuid: bee23927-358d-4624-b47c-722ed3e5aa8b
+    line_id: KR1h0001_tls_001-64a.16
+    textline: 必使仰足以事父母
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml

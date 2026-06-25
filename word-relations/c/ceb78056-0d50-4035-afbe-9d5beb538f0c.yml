@@ -1,0 +1,21 @@
+uuid: ceb78056-0d50-4035-afbe-9d5beb538f0c
+type: word-relation
+group_uuid: 42333b2c-2732-5682-b9f6-826bd53769d7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9cbbc615-c8b8-43da-979c-1f0fd9f48ee7
+  text: 賤
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+right:
+  word_uuid: 8c5849ef-cc11-4fd7-8d2b-ab725aaf0bba
+  text: 薄
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

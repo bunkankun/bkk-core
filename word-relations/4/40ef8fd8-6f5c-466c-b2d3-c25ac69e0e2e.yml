@@ -1,0 +1,32 @@
+uuid: 40ef8fd8-6f5c-466c-b2d3-c25ac69e0e2e
+type: word-relation
+group_uuid: 40ef8fd8-6f5c-466c-b2d3-c25ac69e0e2e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d40d7a8f-168f-4c30-8645-03b151bbd619
+    line_id: KR3j0009_tls_002-9a.2
+    textline: 仲春行秋令
+    offset: 3
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d40d7a8f-168f-4c30-8645-03b151bbd619
+    line_id: KR3j0009_tls_002-9a.2
+    textline: 仲春行秋令
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

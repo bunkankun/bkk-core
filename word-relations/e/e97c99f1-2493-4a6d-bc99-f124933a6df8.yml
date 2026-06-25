@@ -1,0 +1,32 @@
+uuid: e97c99f1-2493-4a6d-bc99-f124933a6df8
+type: word-relation
+group_uuid: a337eceb-efba-5856-b64d-1cc0a4a685fd
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_027-13a.8
+    textline: 不學不成
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_027-13a.8
+    textline: 不學不成
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T17:02:34.697+09:00'

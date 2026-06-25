@@ -1,0 +1,32 @@
+uuid: 2a017dc8-745d-4efc-b476-4f3329a08b90
+type: word-relation
+group_uuid: 4c1fb4d6-35c0-4e18-b1f6-d986383e741b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: acdb16d1-c89b-442b-9c0e-1a3653209b86
+  text: 父
+  concept: FATHER
+  concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 49eeef30-ef08-4625-a1ec-1c21a6501ad6
+    line_id: KR3a0006_tls_002-35a.17
+    textline: 慈父之道也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 81179c21-ea3b-4040-9603-9874473f3e66
+  text: 慈
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 49eeef30-ef08-4625-a1ec-1c21a6501ad6
+    line_id: KR3a0006_tls_002-35a.17
+    textline: 慈父之道也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

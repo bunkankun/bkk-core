@@ -1,0 +1,32 @@
+uuid: 8894213f-930d-4867-962a-ad8d3e222bdf
+type: word-relation
+group_uuid: 8894213f-930d-4867-962a-ad8d3e222bdf
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 與
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2574f140-0ef6-41ff-a6fe-cbf43a5f4850
+    line_id: KR3j0009_tls_001-27a.3
+    textline: 不與其子而授舜
+    offset: 2
+    range: 1
+right:
+  word_uuid: 37450e32-e41f-47fd-9539-74dbec407805
+  text: 授
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d0d76eb7-02e5-4d8e-8631-1f98f570bf7d
+    line_id: KR3j0009_tls_001-27a.5
+    textline: 不與其子而授禹
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

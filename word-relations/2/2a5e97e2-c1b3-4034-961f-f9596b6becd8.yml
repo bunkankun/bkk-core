@@ -1,0 +1,31 @@
+uuid: 2a5e97e2-c1b3-4034-961f-f9596b6becd8
+type: word-relation
+group_uuid: 2a5e97e2-c1b3-4034-961f-f9596b6becd8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f0ea3d9d-2299-41d8-bcd5-e1df825c2a9f
+  text: 污
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 論衡
+    line_uuid: 20203815-ed4d-41c8-9a47-64af473dad84
+    textline: 或抱洿（污）行
+    offset: 5
+    range: 1
+right:
+  word_uuid: dd9c6b61-9fc2-42be-a5cb-d5d5d2a43186
+  text: 潔
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 論衡
+    line_uuid: c5201f5f-22a0-4935-9eb3-49440e92adb4
+    line_id: KR3j0080_tls_001-1a.33
+    textline: 或持潔節
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

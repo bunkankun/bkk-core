@@ -1,0 +1,35 @@
+uuid: 54bfb3c9-95a3-474b-a68b-6bafd95c4da4
+type: word-relation
+group_uuid: 54bfb3c9-95a3-474b-a68b-6bafd95c4da4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1c2050de-6414-4377-9954-e55f6a70acd4
+  text: 海內
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 白虎通
+    line_uuid: d83312af-795c-4810-8a27-db7916b9d467
+    line_id: KR3j0023_tls_040-1323a.7
+    textline: 明海內小人之君子也
+    offset: 2
+    range: 2
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 白虎通
+    line_uuid: 50183ff2-e1ef-49b3-8e07-d991cc44bb0e
+    line_id: KR3j0023_tls_040-1323a.5
+    textline: 天下尊之
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

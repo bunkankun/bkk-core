@@ -1,0 +1,32 @@
+uuid: 20f44e30-6905-4cf9-b4a4-253d1d91d7b3
+type: word-relation
+group_uuid: 20f44e30-6905-4cf9-b4a4-253d1d91d7b3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 28e24140-1584-47f2-b1f8-d187f9a1de52
+  text: 曠夫
+  concept: BACHELOR
+  concept_uuid: fd1dee47-90f7-4baa-a3df-06fc724eac80
+  attestation:
+    text_title: 韓非子
+    line_uuid: 262dae7e-acdc-4b79-a142-f2edc2bf0c24
+    line_id: KR3c0005_tls_035-87a.5
+    textline: 外無曠夫
+    offset: 3
+    range: 2
+right:
+  word_uuid: b91f2ec9-756d-4506-821c-da9378cff0ad
+  text: 怨女
+  concept: WOMAN
+  concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 18de7581-dd85-401b-ad25-419cd3ece6db
+    line_id: KR3c0005_tls_035-87a.4
+    textline: 則內無怨女
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

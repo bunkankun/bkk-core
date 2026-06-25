@@ -1,0 +1,37 @@
+uuid: 9f241bbd-0da0-4cdf-b741-3f2584072777
+type: word-relation
+group_uuid: 6057dfb0-c0fe-4414-8ad1-abb67a8d7f65
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 736bbe62-c897-4273-bc04-9d413cc5037d
+  text: 非
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0413c1f4-3ab8-4537-abaa-244cc88bdfae
+    line_id: KR3c0005_tls_018-3a.5
+    textline: 非譽交爭
+    offset: 1
+    range: 1
+right:
+  word_uuid: b8a7ac65-6563-4763-b430-dcd32c23a0d1
+  text: 譽
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0413c1f4-3ab8-4537-abaa-244cc88bdfae
+    line_id: KR3c0005_tls_018-3a.5
+    textline: 非譽交爭
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 71c667e5-a471-4315-a4c9-45d1aa0490ec
+type: word-relation
+group_uuid: e0a726ee-7852-5af1-a6b5-a08622afc90f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c3fe890b-d04f-4ae5-ab0b-4a15342aa0b5
+  text: 多
+  concept: OFTEN
+  concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+right:
+  word_uuid: 08db701a-9f3b-4a07-a8e7-300afcb6f437
+  text: 希稀
+  concept: RARE
+  concept_uuid: 1b9afe52-cffb-49e8-9e84-2a9194cc6abb
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: cf2b0e9b-6d2e-4d3b-906e-f25c8e7f1a91
+type: word-relation
+group_uuid: cf2b0e9b-6d2e-4d3b-906e-f25c8e7f1a91
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 375e8fd2-509c-42b4-aad6-f4f3307cd31a
+  text: 積
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ece0e24-fa74-4ca7-a3d6-f7ca63fcdb4c
+    line_id: KR3j0080_tls_002-1a.5
+    textline: 罪過有累積不除
+    offset: 5
+    range: 1
+right:
+  word_uuid: d3bc284b-c162-4b05-a844-66524aede20b
+  text: 累
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ece0e24-fa74-4ca7-a3d6-f7ca63fcdb4c
+    line_id: KR3j0080_tls_002-1a.5
+    textline: 罪過有累積不除
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,23 @@
+uuid: e4815258-76d0-4654-a541-858473f5e99d
+type: word-relation
+group_uuid: 57b434fe-48ab-5f75-a047-5f304a2ec236
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+right:
+  word_uuid: a2ff34dd-86e3-4d1c-9cbe-fa0d37a934c5
+  text: 辯
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+  scope: '21'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

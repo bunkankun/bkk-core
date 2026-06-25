@@ -1,0 +1,37 @@
+uuid: d65cc62f-38ae-494b-9262-4d86d0f27d40
+type: word-relation
+group_uuid: d65cc62f-38ae-494b-9262-4d86d0f27d40
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64ede978-68c8-4562-80cf-e8ab34fae98f
+  text: 直
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 祖堂集
+    line_uuid: fec76f41-9e9f-462b-b868-4a659c2591ce
+    line_id: KR6q0002_Yan_003-1134a.30
+    textline: 遇曲逢直無彼此
+    offset: 4
+    range: 1
+right:
+  word_uuid: d3cf843b-ac74-4f18-bbc1-18f48f97a7f1
+  text: 曲
+  concept: CURVED
+  concept_uuid: 88638705-ddb0-43cf-b9a7-0710bce4e9e0
+  attestation:
+    text_title: 祖堂集
+    line_uuid: fec76f41-9e9f-462b-b868-4a659c2591ce
+    line_id: KR6q0002_Yan_003-1134a.30
+    textline: 遇曲逢直無彼此
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '281'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

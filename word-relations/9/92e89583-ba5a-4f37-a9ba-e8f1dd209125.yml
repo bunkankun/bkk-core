@@ -1,0 +1,32 @@
+uuid: 92e89583-ba5a-4f37-a9ba-e8f1dd209125
+type: word-relation
+group_uuid: 9cdb4f33-5dfe-4ca0-8da6-95bbbf21449b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 73750594-beaf-4580-88f0-efa078170178
+  text: 幽
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9e6359cd-bf35-4002-b87b-69ce7f3e6e6b
+    line_id: KR3j0010_tls_001-1a.22
+    textline: 幽而能明
+    offset: 1
+    range: 1
+right:
+  word_uuid: fbc6670d-1780-492e-bc1a-03318fc40918
+  text: 明
+  concept: CLEAR
+  concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9e6359cd-bf35-4002-b87b-69ce7f3e6e6b
+    line_id: KR3j0010_tls_001-1a.22
+    textline: 幽而能明
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

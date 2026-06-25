@@ -1,0 +1,18 @@
+uuid: d970dbe0-7f35-4df0-9306-2a9168e8634e
+type: word-relation
+group_uuid: 215bd291-27dd-52c0-96ae-b8e1fa16de35
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+right:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+source:
+  source_file: word-relations.xml

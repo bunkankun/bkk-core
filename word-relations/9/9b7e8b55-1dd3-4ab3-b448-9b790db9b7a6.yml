@@ -1,0 +1,30 @@
+uuid: 9b7e8b55-1dd3-4ab3-b448-9b790db9b7a6
+type: word-relation
+group_uuid: 9b7e8b55-1dd3-4ab3-b448-9b790db9b7a6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cf4722f1-40b6-4f72-9200-f6f911af5fbf
+  text: 萎
+  concept: WITHER
+  concept_uuid: a2dfada5-2754-463a-af78-1984a182182a
+  attestation:
+    text_title: 楚辭
+    line_uuid: ff4bd763-b005-49c3-8787-6061a2f19ff1
+    textline: 橘柚萎枯兮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 20dde62e-738a-4ca9-8879-ab4d63c915c1
+  text: 枯
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 楚辭
+    line_uuid: ff4bd763-b005-49c3-8787-6061a2f19ff1
+    textline: 橘柚萎枯兮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

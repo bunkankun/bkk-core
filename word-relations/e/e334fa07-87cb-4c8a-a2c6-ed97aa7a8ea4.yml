@@ -1,0 +1,30 @@
+uuid: e334fa07-87cb-4c8a-a2c6-ed97aa7a8ea4
+type: word-relation
+group_uuid: e334fa07-87cb-4c8a-a2c6-ed97aa7a8ea4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dc61bb01-0429-4717-9f2d-4d29a36569a4
+  text: 仇
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 7c0a31c9-aaae-4941-92bf-06dd71e30426
+    textline: 仇讎之人非所以接婚姻也
+    offset: 1
+    range: 1
+right:
+  word_uuid: c022373f-9043-4faa-bd84-5eb6efa686a2
+  text: 讎
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 7c0a31c9-aaae-4941-92bf-06dd71e30426
+    textline: 仇讎之人非所以接婚姻也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

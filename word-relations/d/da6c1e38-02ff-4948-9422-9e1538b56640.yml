@@ -1,0 +1,32 @@
+uuid: da6c1e38-02ff-4948-9422-9e1538b56640
+type: word-relation
+group_uuid: 87345709-49cc-4229-b21e-ceadc5095386
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ec9b7a1d-87c4-43a9-9bc8-231ea63e7ecc
+  text: 謀
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 論衡
+    line_uuid: 7816cae1-b49a-464b-ab67-b1b00277dc25
+    line_id: KR3j0080_tls_003-3a.6
+    textline: 見人謀慮深
+    offset: 3
+    range: 1
+right:
+  word_uuid: 20ce3800-8a9c-4021-944e-ea84a5a9f1d2
+  text: 慮
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 論衡
+    line_uuid: 7816cae1-b49a-464b-ab67-b1b00277dc25
+    line_id: KR3j0080_tls_003-3a.6
+    textline: 見人謀慮深
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

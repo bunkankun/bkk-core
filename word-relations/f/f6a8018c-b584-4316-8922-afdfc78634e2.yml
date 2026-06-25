@@ -1,0 +1,21 @@
+uuid: f6a8018c-b584-4316-8922-afdfc78634e2
+type: word-relation
+group_uuid: 59b032b4-4ec3-5e68-85eb-59ef675ba278
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 90b4a8b3-74d9-4edc-b267-6f8a74ebd334
+  text: 恆恆恒
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+right:
+  word_uuid: 7a1100e2-7729-42eb-bf73-917f3c39acf5
+  text: 庸
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

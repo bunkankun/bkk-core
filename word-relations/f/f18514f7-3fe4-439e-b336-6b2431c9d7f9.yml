@@ -1,0 +1,30 @@
+uuid: f18514f7-3fe4-439e-b336-6b2431c9d7f9
+type: word-relation
+group_uuid: f18514f7-3fe4-439e-b336-6b2431c9d7f9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 楚辭
+    line_uuid: 6323688f-bc4a-49e5-b51d-72220e37e8c2
+    textline: 身永流而不還兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: bf6a08cf-16d2-4f5a-a0b3-ed674e8fc9e1
+  text: 魂
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 楚辭
+    line_uuid: 04ab44bc-91b6-42d4-bf1a-db692ea5c440
+    textline: 魂長逝而常愁
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

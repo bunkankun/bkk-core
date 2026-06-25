@@ -1,0 +1,32 @@
+uuid: fe49e4ff-2d60-4396-91bc-79dde1b3b3db
+type: word-relation
+group_uuid: fe49e4ff-2d60-4396-91bc-79dde1b3b3db
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 874077d3-55f1-44ad-b1a6-d92e438f7e94
+  text: 徙
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 論語
+    line_uuid: c5937225-7196-45bc-a364-85c2dfa58e5f
+    line_id: KR1h0004_tls_007-3a.5
+    textline: 聞義不能徙
+    offset: 5
+    range: 1
+right:
+  word_uuid: e46ef3f3-ae5f-4bbf-b3ed-cb6bbfa74b91
+  text: 改
+  concept: IMPROVE
+  concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+  attestation:
+    text_title: 論語
+    line_uuid: 56795370-cba3-41b0-b2e3-0f8729a8098c
+    line_id: KR1h0004_tls_007-3a.6
+    textline: 不善不能改
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

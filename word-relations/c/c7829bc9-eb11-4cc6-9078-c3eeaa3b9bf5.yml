@@ -1,0 +1,30 @@
+uuid: c7829bc9-eb11-4cc6-9078-c3eeaa3b9bf5
+type: word-relation
+group_uuid: c7829bc9-eb11-4cc6-9078-c3eeaa3b9bf5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dad411c5-612e-4f87-aba5-78790cfeda1b
+  text: 眾
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 論語
+    line_uuid: cb8f97e9-a547-4c27-a985-e28d37785c69
+    textline: 汎愛眾而親仁
+    offset: 3
+    range: 1
+right:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 論語
+    line_uuid: cb8f97e9-a547-4c27-a985-e28d37785c69
+    textline: 汎愛眾而親仁
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

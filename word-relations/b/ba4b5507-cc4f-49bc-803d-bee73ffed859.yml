@@ -1,0 +1,32 @@
+uuid: ba4b5507-cc4f-49bc-803d-bee73ffed859
+type: word-relation
+group_uuid: ba4b5507-cc4f-49bc-803d-bee73ffed859
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1bf31b96-eada-432b-b441-252119a150d8
+  text: 野
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 論語
+    line_uuid: b505ab09-8143-4e4c-adfc-98a7d800f53c
+    line_id: KR1h0004_tls_006-24a.3
+    textline: 「質勝文則野
+    offset: 6
+    range: 1
+right:
+  word_uuid: 05239078-899f-4b4d-9277-b226a9f54c20
+  text: 史
+  concept: SCRIBE
+  concept_uuid: 066f00b2-4f40-4c1f-bd5e-d7b8b10307a4
+  attestation:
+    text_title: 論語
+    line_uuid: adc56191-aae7-4d7f-ae26-fe7378b12522
+    line_id: KR1h0004_tls_006-24a.4
+    textline: 文勝質則史
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

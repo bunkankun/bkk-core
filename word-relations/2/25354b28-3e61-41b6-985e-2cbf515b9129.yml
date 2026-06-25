@@ -1,0 +1,32 @@
+uuid: 25354b28-3e61-41b6-985e-2cbf515b9129
+type: word-relation
+group_uuid: 25354b28-3e61-41b6-985e-2cbf515b9129
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 論語
+    line_uuid: 92c7da45-f64e-4e3d-be4c-b1ca0a6c0f2c
+    line_id: KR1h0004_tls_007-3a.4
+    textline: 學之不講
+    offset: 1
+    range: 1
+right:
+  word_uuid: 40ba364c-fcf3-4a99-9374-05ece93773b1
+  text: 講
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 論語
+    line_uuid: 92c7da45-f64e-4e3d-be4c-b1ca0a6c0f2c
+    line_id: KR1h0004_tls_007-3a.4
+    textline: 學之不講
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

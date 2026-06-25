@@ -1,0 +1,32 @@
+uuid: 52886797-0698-450a-a151-808a44cc4db6
+type: word-relation
+group_uuid: 52886797-0698-450a-a151-808a44cc4db6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: f882c04b-8100-4c3f-be6d-1348582195c5
+  text: 子
+  concept: YOU/PLUR
+  concept_uuid: b79e4679-292b-46e5-9458-f0cb20c8c894
+  attestation:
+    text_title: 列子
+    line_uuid: 9da2f666-d54f-44df-a197-f9f8af808bd4
+    line_id: KR5c0124_tls_002-6a.76
+    textline: 子其愚我也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6e921dfc-61f2-4c09-bff0-85645aebce17
+  text: 我
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 列子
+    line_uuid: 00d7f384-e2ca-4b7f-95ad-9edd31246759
+    line_id: KR5c0124_tls_002-6a.78
+    textline: 子其盲我也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: bdc0a8fd-b89e-4c33-91b9-6717066c06a7
+type: word-relation
+group_uuid: bdc0a8fd-b89e-4c33-91b9-6717066c06a7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8626d901-1c50-4de6-9dcf-fb3745d7db9c
+  text: 麟
+  concept: MYTHICAL ANIMALS
+  concept_uuid: 841079cf-b513-4dba-8c42-e9140cd95f2a
+  attestation:
+    text_title: 淮南子
+    line_uuid: 03c25aa7-2669-4ac7-bda8-5a2c65dde88b
+    line_id: KR3j0010_tls_001-1a.35
+    textline: 麟以之游
+    offset: 1
+    range: 1
+right:
+  word_uuid: e513711f-3b33-4403-a122-50bf3a60ce7b
+  text: 游
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 淮南子
+    line_uuid: 03c25aa7-2669-4ac7-bda8-5a2c65dde88b
+    line_id: KR3j0010_tls_001-1a.35
+    textline: 麟以之游
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

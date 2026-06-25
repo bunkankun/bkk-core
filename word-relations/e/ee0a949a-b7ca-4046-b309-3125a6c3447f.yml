@@ -1,0 +1,32 @@
+uuid: ee0a949a-b7ca-4046-b309-3125a6c3447f
+type: word-relation
+group_uuid: 1c3cac6f-4638-4d83-bcd2-2dc6cddac759
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6fae6b48-c46d-422d-b31b-13d4a86addc7
+  text: 妻
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 孟子
+    line_uuid: 209a9397-aea1-4d74-90dd-a0a0a8ce412a
+    line_id: KR1h0001_tls_001-20a.6
+    textline: 兄弟妻子離散
+    offset: 3
+    range: 1
+right:
+  word_uuid: c8db65b9-7001-4baa-a932-ed8322e242e7
+  text: 子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 孟子
+    line_uuid: 209a9397-aea1-4d74-90dd-a0a0a8ce412a
+    line_id: KR1h0001_tls_001-20a.6
+    textline: 兄弟妻子離散
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

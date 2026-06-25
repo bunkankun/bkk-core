@@ -1,0 +1,32 @@
+uuid: 3dca9166-b85c-4fea-a2df-3d04f67f514f
+type: word-relation
+group_uuid: 245fcfd6-1257-4eda-9bdb-cfca266ea482
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 祖堂集
+    line_uuid: d21c3d7f-6ca6-4ae5-bfc4-af6f480031a1
+    line_id: KR6q0002_Yan_003-1144a.57
+    textline: 不成不壞
+    offset: 2
+    range: 1
+right:
+  word_uuid: e2f6a99b-4bbb-4128-9c17-7f2962920161
+  text: 壞
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 祖堂集
+    line_uuid: d21c3d7f-6ca6-4ae5-bfc4-af6f480031a1
+    line_id: KR6q0002_Yan_003-1144a.57
+    textline: 不成不壞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

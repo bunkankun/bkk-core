@@ -1,0 +1,21 @@
+uuid: f32fbf46-e3c6-46ba-9361-20ebd94e06cb
+type: word-relation
+group_uuid: 54dc8f1c-cf63-5dc4-a985-a1bc2db31f3f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c167a295-ca5b-4737-bf5d-6ce9a945255c
+  text: 才材
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+right:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧惠
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

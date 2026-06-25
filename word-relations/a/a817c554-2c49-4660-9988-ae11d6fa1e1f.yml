@@ -1,0 +1,32 @@
+uuid: a817c554-2c49-4660-9988-ae11d6fa1e1f
+type: word-relation
+group_uuid: 1b11c88e-53dd-499d-b073-42000ce761c1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 94494611-f261-4be6-9ec4-642a7e9c5185
+  text: 暴
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6e321cf3-8da2-4b82-a180-11ce2abdb883
+    line_id: KR3j0009_tls_005-33a.4
+    textline: 暴虐萬民
+    offset: 1
+    range: 1
+right:
+  word_uuid: 967c2661-b8a7-447c-96be-92c22075fe23
+  text: 虐
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6e321cf3-8da2-4b82-a180-11ce2abdb883
+    line_id: KR3j0009_tls_005-33a.4
+    textline: 暴虐萬民
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

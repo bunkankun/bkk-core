@@ -1,0 +1,32 @@
+uuid: 2878158d-82b7-4853-9377-165942fd49ed
+type: word-relation
+group_uuid: 2878158d-82b7-4853-9377-165942fd49ed
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 352ba9c2-b361-439d-b6cf-9b6b53133225
+  text: 救
+  concept: RESCUE
+  concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee6ee39c-07c6-4c43-8ff7-d52cbd087b4b
+    line_id: KR3c0005_tls_006-7a.5
+    textline: 則是負薪而救火也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 86124c3d-5b53-4903-a878-9336b95e2370
+  text: 火
+  concept: FIRE
+  concept_uuid: 39ec3bea-feb6-4638-a367-12ed383908c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee6ee39c-07c6-4c43-8ff7-d52cbd087b4b
+    line_id: KR3c0005_tls_006-7a.5
+    textline: 則是負薪而救火也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

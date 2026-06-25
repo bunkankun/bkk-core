@@ -1,0 +1,21 @@
+uuid: dae6d84b-2efe-4882-8db4-57b2f011cd10
+type: word-relation
+group_uuid: fe0d1243-fc5d-5768-9c1b-ff5586407249
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 42ae7230-7b2b-4122-8004-771c98d991a9
+  text: 乖
+  concept: CONTRARY
+  concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+right:
+  word_uuid: 5ce111ae-8315-42a6-8df0-0ebff4b7c551
+  text: 詭
+  concept: CONTRARY
+  concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 2f8a9ba8-7392-434b-8bfd-0fe00472e753
+type: word-relation
+group_uuid: 4c3b000e-11d8-592a-af27-11151a7775e0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c6cc4ba5-e242-455f-ab53-f627c6925bf0
+  text: 分
+  concept: DISTINGUISH
+  concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+right:
+  word_uuid: 232f5af2-6d6c-4580-b43d-01d89c7b7cbd
+  text: 明
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

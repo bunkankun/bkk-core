@@ -1,0 +1,18 @@
+uuid: 9496daa8-0dc7-4866-8791-7a0ebaae5901
+type: word-relation
+group_uuid: 7b3017c5-8a25-5ce1-bb10-abf456640f3a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b6f56ec-4ba2-42c1-bdd8-88f8a4c131b2
+  text: 就
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+right:
+  word_uuid: aa7d5025-9b27-43d8-863a-51b991ec91a8
+  text: 捨舍
+  concept: DISREGARD
+  concept_uuid: 904cd3b9-1db0-4d32-8171-e35473ec6401
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,33 @@
+uuid: 4799b652-c3b7-4b81-b1fe-b1c08f150991
+type: word-relation
+group_uuid: eccc5a0d-7da8-4b0b-b55b-083c8e7aa25f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cd414537-1ec7-47cf-bb5c-8c1672f31e1b
+  text: 遲
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 258f6e00-8794-4f37-848a-8aefd1bf224f
+    textline: 迷誤有遲疾
+    offset: 4
+    range: 1
+right:
+  word_uuid: 40a9658c-4b5e-4952-82c0-37e84b877bf3
+  text: 疾
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 258f6e00-8794-4f37-848a-8aefd1bf224f
+    textline: 迷誤有遲疾
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

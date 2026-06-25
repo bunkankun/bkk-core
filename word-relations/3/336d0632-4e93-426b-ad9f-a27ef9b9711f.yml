@@ -1,0 +1,31 @@
+uuid: 336d0632-4e93-426b-ad9f-a27ef9b9711f
+type: word-relation
+group_uuid: 336d0632-4e93-426b-ad9f-a27ef9b9711f
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6c3d535c-c982-4e3e-816d-0e234b7f480d
+    line_id: KR3j0009_tls_022-5a.49
+    textline: 身為僇
+    offset: 1
+    range: 1
+right:
+  word_uuid: 77f09efe-cb59-4d20-9f9b-7a3f87a9fcfd
+  text: 支屬
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44de1b62-d63a-41b6-906d-de01e933d2a0
+    textline: 支屬不可以（見）〔完〕
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

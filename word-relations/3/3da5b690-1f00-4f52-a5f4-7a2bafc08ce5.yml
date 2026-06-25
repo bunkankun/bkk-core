@@ -1,0 +1,18 @@
+uuid: 3da5b690-1f00-4f52-a5f4-7a2bafc08ce5
+type: word-relation
+group_uuid: ff2aa7a6-cf82-53c5-821f-1d8d2e4e281e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 07c5cb34-9b12-494d-98bd-59628ead2bfe
+  text: 親
+  concept: PARENT
+  concept_uuid: c6d90627-45f2-4e7e-888b-7bfb8a894b96
+right:
+  word_uuid: bab397d9-43ca-498c-ac45-311b0805f1aa
+  text: 養
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+source:
+  source_file: word-relations.xml

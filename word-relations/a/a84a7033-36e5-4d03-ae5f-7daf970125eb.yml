@@ -1,0 +1,32 @@
+uuid: a84a7033-36e5-4d03-ae5f-7daf970125eb
+type: word-relation
+group_uuid: a84a7033-36e5-4d03-ae5f-7daf970125eb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0aa96901-d2df-4308-ab6f-5d11756fc729
+    line_id: KR3j0009_tls_010-5a.24
+    textline: 營丘壟之小大高卑薄厚之度
+    offset: 7
+    range: 1
+right:
+  word_uuid: 84ffd313-c0e6-4514-aa11-eff4b2a9ef3d
+  text: 卑
+  concept: LOW
+  concept_uuid: f3e13579-7f52-46be-aa49-a573417c0d6a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0aa96901-d2df-4308-ab6f-5d11756fc729
+    line_id: KR3j0009_tls_010-5a.24
+    textline: 營丘壟之小大高卑薄厚之度
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

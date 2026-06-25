@@ -1,0 +1,32 @@
+uuid: 73699bf0-309e-4771-a0f0-cceeff3a62e2
+type: word-relation
+group_uuid: 0e810e3e-0cd3-4536-be24-6dfa2102bfda
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 170545f2-d563-4ef9-8600-6598a11212b0
+    line_id: KR3c0005_tls_001-37a.7
+    textline: 以視利害
+    offset: 3
+    range: 1
+right:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 韓非子
+    line_uuid: 170545f2-d563-4ef9-8600-6598a11212b0
+    line_id: KR3c0005_tls_001-37a.7
+    textline: 以視利害
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

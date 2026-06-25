@@ -1,0 +1,32 @@
+uuid: f533866a-0376-4208-b386-6a037632081b
+type: word-relation
+group_uuid: fb8f1003-8908-5083-ace7-f57c422599cb
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_030-69a.3
+    textline: 王太仁
+    offset: 4
+    range: 1
+right:
+  word_uuid: bff0f7c7-e9aa-4173-b2b1-2d733fdfa551
+  text: 不忍
+  concept: SYMPATHY
+  concept_uuid: 9d1a8a03-7295-445b-8ecf-0cccd2e31b41
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_030-69a.4
+    textline: 太不忍人
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-02-26T17:51:29.359+09:00'

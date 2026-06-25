@@ -1,0 +1,21 @@
+uuid: 8dbea120-b7aa-4a36-93cb-857b9c2b288f
+type: word-relation
+group_uuid: 0147d92a-2160-5973-a4a9-9cb50723c240
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f8110e1d-955d-4377-8489-3931cdeabaeb
+  text: 委
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+right:
+  word_uuid: e0322117-d2c3-4d6a-8d4f-de6045dd2cfb
+  text: 聚聚
+  concept: GATHER
+  concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

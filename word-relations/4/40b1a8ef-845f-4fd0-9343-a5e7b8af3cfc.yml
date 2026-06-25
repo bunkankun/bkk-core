@@ -1,0 +1,32 @@
+uuid: 40b1a8ef-845f-4fd0-9343-a5e7b8af3cfc
+type: word-relation
+group_uuid: dcca68e3-b996-449c-b3d6-7358a8ffc4b8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 30a8b129-e386-4a93-9ede-a2f79780470c
+    line_id: KR3c0005_tls_006-11a.4
+    textline: 以譽為賞
+    offset: 4
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: b7be2582-0bd0-43ec-a1b4-1646cdcda054
+    line_id: KR3c0005_tls_006-11a.5
+    textline: 以毀為罰也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

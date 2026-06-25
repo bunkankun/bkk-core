@@ -1,0 +1,32 @@
+uuid: db6bcdc4-4445-483d-bdda-3011d3df2e17
+type: word-relation
+group_uuid: db6bcdc4-4445-483d-bdda-3011d3df2e17
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3fd76bba-51d8-490c-a7e7-1aa3db981235
+  text: 旄
+  concept: BANNER
+  concept_uuid: cc0be571-ecac-43e4-aa0c-90f37b85fe8a
+  attestation:
+    text_title: 孟子
+    line_uuid: 67eb28e6-8d56-471d-9435-981673accf18
+    line_id: KR1h0001_tls_002-11a.13
+    textline: 見羽旄之美
+    offset: 3
+    range: 1
+right:
+  word_uuid: 67b2daa8-1426-4243-91d1-1760704a6abf
+  text: 羽
+  concept: FEATHER
+  concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+  attestation:
+    text_title: 孟子
+    line_uuid: 67eb28e6-8d56-471d-9435-981673accf18
+    line_id: KR1h0001_tls_002-11a.13
+    textline: 見羽旄之美
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

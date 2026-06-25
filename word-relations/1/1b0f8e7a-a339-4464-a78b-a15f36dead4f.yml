@@ -1,0 +1,21 @@
+uuid: 1b0f8e7a-a339-4464-a78b-a15f36dead4f
+type: word-relation
+group_uuid: 65e9ecd4-4425-50a9-9aea-32f6c17e9ccc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+right:
+  word_uuid: a3faa599-4822-408c-ae7f-d3f21d31549b
+  text: 襲
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

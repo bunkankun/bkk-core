@@ -1,0 +1,32 @@
+uuid: 61ddbb78-c216-4e9d-b55a-7cbb61aaf8b3
+type: word-relation
+group_uuid: 61ddbb78-c216-4e9d-b55a-7cbb61aaf8b3
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: e4eda489-c83e-4f89-b30a-d0151ac46847
+  text: 學
+  concept: SCHOLAR
+  concept_uuid: 3d0ee556-737f-4910-9b12-541696812ce3
+  attestation:
+    text_title: 韓非子
+    line_uuid: caa06668-95a1-4cc0-b91c-dbc0a2cf8759
+    line_id: KR3c0005_tls_014-33a.2
+    textline: 且夫世之愚學
+    offset: 6
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: caa06668-95a1-4cc0-b91c-dbc0a2cf8759
+    line_id: KR3c0005_tls_014-33a.2
+    textline: 且夫世之愚學
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

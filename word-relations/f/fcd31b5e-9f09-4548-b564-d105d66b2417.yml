@@ -1,0 +1,21 @@
+uuid: fcd31b5e-9f09-4548-b564-d105d66b2417
+type: word-relation
+group_uuid: 1938c1db-dc4d-51e1-8698-b46d9226829c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4224d456-912d-478d-963c-58a828dadf8a
+  text: 館
+  concept: GUEST HOUSE
+  concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+right:
+  word_uuid: 933d6e45-ba3d-445d-a278-e4c7def80592
+  text: 舍
+  concept: GUEST HOUSE
+  concept_uuid: e722b573-067f-4618-857a-23d4b8512db2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 47b2737a-f230-4b5c-9b48-eafba8e754e6
+type: word-relation
+group_uuid: 47b2737a-f230-4b5c-9b48-eafba8e754e6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b0df3f29-8ba0-4f76-84ed-ebaa1249e71b
+  text: 染
+  concept: DYE
+  concept_uuid: 4bb9333e-a44e-4049-81bd-c3b4948d3a91
+  attestation:
+    text_title: 論衡
+    line_uuid: 0cdd74d7-3595-40e2-a6c2-254e812eefc2
+    line_id: KR3j0080_tls_008-2a.20
+    textline: 猶藍丹之染練絲
+    offset: 5
+    range: 1
+right:
+  word_uuid: e5cf9c7b-8cbc-4306-8f7b-4d93ba0b8fd8
+  text: 練
+  concept: WHITE
+  concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+  attestation:
+    text_title: 論衡
+    line_uuid: 0cdd74d7-3595-40e2-a6c2-254e812eefc2
+    line_id: KR3j0080_tls_008-2a.20
+    textline: 猶藍丹之染練絲
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

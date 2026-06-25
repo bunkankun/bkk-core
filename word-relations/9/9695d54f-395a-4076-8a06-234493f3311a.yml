@@ -1,0 +1,18 @@
+uuid: 9695d54f-395a-4076-8a06-234493f3311a
+type: word-relation
+group_uuid: 4f0a025f-e508-5ec0-959a-91ad62928739
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 1ba51878-9058-432e-ad95-e364fc480fc7
+  text: 黨
+  concept: FACTION
+  concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+source:
+  source_file: word-relations.xml

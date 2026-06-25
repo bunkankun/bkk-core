@@ -1,0 +1,32 @@
+uuid: 177878af-d20d-415c-b878-afd20d915ce4
+type: word-relation
+group_uuid: 6d20b8a9-54e8-5c8c-8deb-9c5a1acd4fdc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4cea833e-eef1-45c0-8ba2-54931926be52
+  text: 樸
+  concept: SIMPLE
+  concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-42a.6
+    textline: 則民樸一
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2312e186-562c-478b-a1b8-6aeed3023199
+  text: 一
+  concept: UNITE
+  concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-42a.6
+    textline: 則民樸一
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-14T00:37:41.43+09:00'

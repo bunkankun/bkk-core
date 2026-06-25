@@ -1,0 +1,32 @@
+uuid: e74b3d35-428c-47b8-ae77-56b88c04b318
+type: word-relation
+group_uuid: 92c3197b-c598-477c-93dc-3bb3ef8d10bc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 190410d6-ceae-4e3c-9363-27a26869ee72
+  text: 萌
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 55613204-78fd-443e-a11a-89bb10e40795
+    line_id: KR3c0001_tls_024-125a.6
+    textline: 聞子之假貸吾貧萌
+    offset: 8
+    range: 1
+right:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 管子
+    line_uuid: 55613204-78fd-443e-a11a-89bb10e40795
+    line_id: KR3c0001_tls_024-125a.6
+    textline: 聞子之假貸吾貧萌
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

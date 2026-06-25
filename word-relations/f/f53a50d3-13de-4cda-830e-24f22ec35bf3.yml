@@ -1,0 +1,32 @@
+uuid: f53a50d3-13de-4cda-830e-24f22ec35bf3
+type: word-relation
+group_uuid: 2062b39e-db5e-46cc-b8f6-0f18173f9593
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 管子
+    line_uuid: 89f653c9-ad13-4854-abb9-977e54b7820b
+    line_id: KR3c0001_tls_001-267a.5
+    textline: 士無邪行
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 5345597d-9b9e-40a0-a96e-bf3a90a82c06
+    line_id: KR3c0001_tls_001-248a.2
+    textline: 凡牧民者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

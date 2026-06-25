@@ -1,0 +1,30 @@
+uuid: bf0f5afd-fe81-4139-aa72-4ef839fe7103
+type: word-relation
+group_uuid: bf0f5afd-fe81-4139-aa72-4ef839fe7103
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bb43d011-f0b7-4018-8ba5-fe1ab815bb20
+  text: 弁
+  concept: OFFICIAL HAT
+  concept_uuid: 3a73f7de-6879-4f8b-ac62-9d71cecd9cd4
+  attestation:
+    text_title: 禮記
+    line_uuid: 6f05a079-890f-4d7d-82c9-7f13bd566ee4
+    textline: 君皮弁素積
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4ae0d95c-0002-4a0e-8367-c13d80161234
+  text: 皮
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 禮記
+    line_uuid: 6f05a079-890f-4d7d-82c9-7f13bd566ee4
+    textline: 君皮弁素積
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 4ad5f175-efe4-4951-9869-95a3b7d7aa47
+type: word-relation
+group_uuid: ba29f21e-527f-5600-8e05-8f5dd2ae09dd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+right:
+  word_uuid: 346a82e0-c843-4285-8ce3-9e8389ba0187
+  text: 取
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

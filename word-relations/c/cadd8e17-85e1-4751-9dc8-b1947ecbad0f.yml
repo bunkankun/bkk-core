@@ -1,0 +1,32 @@
+uuid: cadd8e17-85e1-4751-9dc8-b1947ecbad0f
+type: word-relation
+group_uuid: cadd8e17-85e1-4751-9dc8-b1947ecbad0f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6cdc0664-c4bc-4af9-84e5-e9bfca19983d
+  text: 重
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 904b48a9-cb41-411d-a699-12766bc1e0e5
+    line_id: KR3c0005_tls_014-61a.8
+    textline: 行重罰嚴誅
+    offset: 2
+    range: 1
+right:
+  word_uuid: f0210b75-1717-4d4a-b182-3390cab68f75
+  text: 嚴
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 904b48a9-cb41-411d-a699-12766bc1e0e5
+    line_id: KR3c0005_tls_014-61a.8
+    textline: 行重罰嚴誅
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

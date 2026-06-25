@@ -1,0 +1,32 @@
+uuid: 097afcaa-e690-4d94-bafc-aae690dd94d4
+type: word-relation
+group_uuid: 617e4c49-f98b-58f4-aa2b-f827ac16c4c2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3daafa80-92ef-44d1-aafa-8092ef04d191
+  text: 布衣
+  concept: COMMONER
+  concept_uuid: fb48a6d9-ac99-40ef-ba9a-5a395949ca37
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-02313a
+    textline: 布衣黔首
+    offset: 1
+    range: 2
+right:
+  word_uuid: 61338f52-f26b-405d-ba20-475b333ab4df
+  text: 黔首
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-02313a
+    textline: 布衣黔首
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-19T07:51:36.013+09:00'

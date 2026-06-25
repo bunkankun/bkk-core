@@ -1,0 +1,32 @@
+uuid: c496b1f7-68e3-4305-9a41-06c741a274ca
+type: word-relation
+group_uuid: c496b1f7-68e3-4305-9a41-06c741a274ca
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c43a84dd-acc5-4e8d-a490-bf5c09e0af9a
+  text: 予一人
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 229671c6-dceb-4e36-826f-eedc095a7624
+    line_id: KR1b0001_tls_056-2a.26
+    textline: 予一人永綏在位
+    offset: 1
+    range: 3
+right:
+  word_uuid: dbfd43f7-d186-42b0-824f-ff2da5dc016c
+  text: 朕躬
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: b1426965-7227-4cba-8904-e60dfd9c38ff
+    line_id: KR1b0001_tls_056-2a.24
+    textline: 其伊恤朕躬
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: f730e180-e0f3-44e5-a620-3c56deb56067
+type: word-relation
+group_uuid: bc7554fb-0ddf-4d0b-a4be-afb9e0b73f1d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: dfc4f173-6a3a-4323-b9d9-f4b3edefbeb4
+    line_id: KR1h0004_tls_011-12a.6
+    textline: 予不得視猶子也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 6b13da50-32ef-4e33-8890-40c5f970c94c
+    line_id: KR1h0004_tls_011-12a.7
+    textline: 非我也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

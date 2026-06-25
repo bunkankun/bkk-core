@@ -1,0 +1,32 @@
+uuid: 9b920913-7ff2-4a6f-aaae-79d95ba2ecac
+type: word-relation
+group_uuid: 9b920913-7ff2-4a6f-aaae-79d95ba2ecac
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論語
+    line_uuid: b47b5213-d567-4a86-85ca-cb358f0d8605
+    line_id: KR1h0004_tls_001-10a.9
+    textline: 夫子之求之也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 論語
+    line_uuid: 3fff0736-3613-4a28-a55f-7c48e37c2bfd
+    line_id: KR2a0001_tls_067-36a.17
+    textline: 「夫子溫良恭儉讓以得之
+    offset: 14
+    range: 1
+source:
+  source_file: word-relations.xml

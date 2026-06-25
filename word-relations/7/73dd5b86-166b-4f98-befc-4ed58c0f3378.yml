@@ -1,0 +1,32 @@
+uuid: 73dd5b86-166b-4f98-befc-4ed58c0f3378
+type: word-relation
+group_uuid: 73dd5b86-166b-4f98-befc-4ed58c0f3378
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 103307d6-7964-435a-b4a4-258d10bb2888
+  text: 臥
+  concept: LIE DOWN
+  concept_uuid: 7eca4eb6-7f7e-49c0-93f0-b8d392f45e6a
+  attestation:
+    text_title: 論衡
+    line_uuid: 1c0949d2-a8af-42b4-92a6-ee21b5d243b6
+    line_id: KR3j0080_tls_028-33a.25
+    textline: 適有臥厭不悟者
+    offset: 3
+    range: 1
+right:
+  word_uuid: a1db030b-168c-45da-a242-9219bea5dd64
+  text: 悟
+  concept: WAKE UP
+  concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+  attestation:
+    text_title: 論衡
+    line_uuid: 1c0949d2-a8af-42b4-92a6-ee21b5d243b6
+    line_id: KR3j0080_tls_028-33a.25
+    textline: 適有臥厭不悟者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

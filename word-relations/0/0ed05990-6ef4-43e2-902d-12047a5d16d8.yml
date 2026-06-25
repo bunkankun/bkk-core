@@ -1,0 +1,32 @@
+uuid: 0ed05990-6ef4-43e2-902d-12047a5d16d8
+type: word-relation
+group_uuid: 0ed05990-6ef4-43e2-902d-12047a5d16d8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b3b13745-c817-4ed3-b145-8e7417064ffa
+  text: 輟
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 50207504-ec0e-4272-8236-d0a6b29361cc
+    line_id: KR3j0009_tls_003-30a.20
+    textline: 云云然冬夏不輟
+    offset: 7
+    range: 1
+right:
+  word_uuid: 529d7220-c088-4402-9dd7-5210c6d1698c
+  text: 休
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1b50c121-4f29-4dc8-9fcb-b16fdd6ce1dd
+    line_id: KR3j0009_tls_003-30a.22
+    textline: 日夜不休
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

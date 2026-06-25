@@ -1,0 +1,32 @@
+uuid: 862162e2-9508-4a50-b2d5-a7c2266ae5cb
+type: word-relation
+group_uuid: 862162e2-9508-4a50-b2d5-a7c2266ae5cb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 233df6d2-e94c-4952-a34f-c524ac730483
+  text: 危
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44f36be7-1e96-477e-b524-4903f1868be6
+    line_id: KR3j0009_tls_005-14a.13
+    textline: 身愈危累
+    offset: 3
+    range: 1
+right:
+  word_uuid: 40bf9c92-35bc-4351-90a9-0494af72d84d
+  text: 累
+  concept: ENTANGLE
+  concept_uuid: 1ea0113c-9b0c-4f8c-a741-48469f9bd0bc
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44f36be7-1e96-477e-b524-4903f1868be6
+    line_id: KR3j0009_tls_005-14a.13
+    textline: 身愈危累
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

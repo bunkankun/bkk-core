@@ -1,0 +1,32 @@
+uuid: 25b1196b-827e-4d48-b120-eb3391268d7d
+type: word-relation
+group_uuid: 27f9707a-284d-4cc6-89bd-fbb7d3a8d1f8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7380adee-8c9f-48ff-8fce-53a1af23d461
+  text: 產
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: b8c947e7-bdc4-448a-988b-8b5ef7e85155
+    line_id: KR3c0005_tls_020-79a.4
+    textline: 而外不事利其產業
+    offset: 7
+    range: 1
+right:
+  word_uuid: 7be4cf02-dc34-4b61-bd6c-dff159981025
+  text: 業
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: b8c947e7-bdc4-448a-988b-8b5ef7e85155
+    line_id: KR3c0005_tls_020-79a.4
+    textline: 而外不事利其產業
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 98143f33-ffcf-4985-b62e-0cd03c977062
+type: word-relation
+group_uuid: 98143f33-ffcf-4985-b62e-0cd03c977062
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7c28d034-15a8-4619-8ded-517ff1eaf136
+  text: 急
+  concept: NEED
+  concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+  attestation:
+    text_title: 論語
+    line_uuid: da19d1fd-59d7-4508-90af-2c2b61d29375
+    line_id: KR1h0004_tls_006-9a.1
+    textline: 君子周急不繼富
+    offset: 4
+    range: 1
+right:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 論語
+    line_uuid: da19d1fd-59d7-4508-90af-2c2b61d29375
+    line_id: KR1h0004_tls_006-9a.1
+    textline: 君子周急不繼富
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

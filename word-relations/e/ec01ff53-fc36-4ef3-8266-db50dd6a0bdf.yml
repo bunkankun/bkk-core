@@ -1,0 +1,30 @@
+uuid: ec01ff53-fc36-4ef3-8266-db50dd6a0bdf
+type: word-relation
+group_uuid: ec01ff53-fc36-4ef3-8266-db50dd6a0bdf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 59018110-96b2-40c8-8264-30dda75d6a45
+  text: 揜
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+  attestation:
+    text_title: 韓非子
+    line_uuid: 733e2520-168e-4dd0-babf-92d6263c0e28
+    textline: 人主揜蔽
+    offset: 3
+    range: 1
+right:
+  word_uuid: e6053b47-5843-46cc-9a8b-fdc872cc8fa3
+  text: 蔽
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+  attestation:
+    text_title: 韓非子
+    line_uuid: 733e2520-168e-4dd0-babf-92d6263c0e28
+    textline: 人主揜蔽
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

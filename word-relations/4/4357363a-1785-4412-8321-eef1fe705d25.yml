@@ -1,0 +1,32 @@
+uuid: 4357363a-1785-4412-8321-eef1fe705d25
+type: word-relation
+group_uuid: 4357363a-1785-4412-8321-eef1fe705d25
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1f36b3b6-d4df-4eae-9088-34e692dfc273
+  text: 足
+  concept: FOOT
+  concept_uuid: 00c2825c-ad47-4e6e-911d-e30f1be15054
+  attestation:
+    text_title: 論語
+    line_uuid: 82b5f3d3-ec4a-407c-9d3e-8d75b50faf13
+    line_id: KR1h0004_tls_008-3a.4
+    textline: 「啟予足
+    offset: 4
+    range: 1
+right:
+  word_uuid: ddeddaf7-a6fc-47bf-880a-1ae4df206c4f
+  text: 手
+  concept: HAND
+  concept_uuid: b8794663-3320-4e0e-ada8-33476189ddf6
+  attestation:
+    text_title: 論語
+    line_uuid: 6bd4e18c-bd7c-42e7-9983-ae1104c19352
+    line_id: KR1h0004_tls_008-3a.5
+    textline: 啟予手
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 58ea6b6a-b301-4e1d-bd3b-67077c33491e
+type: word-relation
+group_uuid: f1f19041-3705-499d-82ae-1b6d0f7a9b01
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4c533cea-d592-434a-a379-c56308fa321c
+  text: 恐
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 禮記
+    line_uuid: 4d073e2e-5694-4398-b1a6-878c08973714
+    line_id: KR1d0052_tls_032-1a.10
+    textline: 恐懼乎其所不聞
+    offset: 1
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 禮記
+    line_uuid: 4d073e2e-5694-4398-b1a6-878c08973714
+    line_id: KR1d0052_tls_032-1a.10
+    textline: 恐懼乎其所不聞
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

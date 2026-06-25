@@ -1,0 +1,32 @@
+uuid: b6969797-8325-4d62-99f1-0bdf2003a206
+type: word-relation
+group_uuid: 84bc3617-2221-4acd-a24a-28e0ba7b6473
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 571d0fa2-2d3b-48a0-a2c3-798b9616a43a
+  text: 逢
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 34af9749-af41-4f20-94e4-ed47357b97f4
+    line_id: KR3j0080_tls_003-8a.16
+    textline: 逢時遇會
+    offset: 1
+    range: 1
+right:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 34af9749-af41-4f20-94e4-ed47357b97f4
+    line_id: KR3j0080_tls_003-8a.16
+    textline: 逢時遇會
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: 2a28e91b-127d-468c-bb42-8e9915cdd449
+type: word-relation
+group_uuid: 91cdaa33-a514-562f-b563-3ff34007ffc9
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 90b6f979-8ace-4430-a409-19e32b02ec4b
+  text: 驕
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+right:
+  word_uuid: cc4796ef-a79e-4f5b-823a-bb4ac20b60e4
+  text: 慢
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+source:
+  source_file: word-relations.xml

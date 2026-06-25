@@ -1,0 +1,32 @@
+uuid: d66f0b0a-21cf-468a-9ddf-8faf5b09ed5b
+type: word-relation
+group_uuid: d66f0b0a-21cf-468a-9ddf-8faf5b09ed5b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 3b9277bc-9c8c-40a7-a76a-2a75a0341058
+  text: 駕
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 韓非子
+    line_uuid: b54fcac0-1c15-40c1-8199-30e2b291144b
+    line_id: KR3c0005_tls_010-39a.8
+    textline: 駕象車而六蛟龍
+    offset: 1
+    range: 1
+right:
+  word_uuid: b48677ed-25fd-4c81-8eb9-7496abcd8fea
+  text: 車
+  concept: VEHICLE
+  concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+  attestation:
+    text_title: 韓非子
+    line_uuid: b54fcac0-1c15-40c1-8199-30e2b291144b
+    line_id: KR3c0005_tls_010-39a.8
+    textline: 駕象車而六蛟龍
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

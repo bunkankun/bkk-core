@@ -1,0 +1,32 @@
+uuid: 09c5e3ad-5c1d-49fc-8a26-7fe88d446276
+type: word-relation
+group_uuid: 09c5e3ad-5c1d-49fc-8a26-7fe88d446276
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4f4aba50-0dc9-4e4f-9993-5adef881e06d
+  text: 當
+  concept: SHOULD
+  concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+  attestation:
+    text_title: 論衡
+    line_uuid: 5441296d-50f2-418f-830a-650b0f86f7af
+    line_id: KR3j0080_tls_003-10a.19
+    textline: 當須索之
+    offset: 1
+    range: 1
+right:
+  word_uuid: b9f8f71d-fb72-4a75-be29-692c2de6a4ef
+  text: 須
+  concept: SHOULD
+  concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+  attestation:
+    text_title: 論衡
+    line_uuid: 5441296d-50f2-418f-830a-650b0f86f7af
+    line_id: KR3j0080_tls_003-10a.19
+    textline: 當須索之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 396949d6-ba21-4dad-8077-f56179f2eb89
+type: word-relation
+group_uuid: 396949d6-ba21-4dad-8077-f56179f2eb89
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5dde2193-e418-4bf2-b91a-bc3cd0d8532e
+    line_id: KR1e0001_tls_012-358a.22
+    textline: 「大尹惑蠱其君
+    offset: 4
+    range: 1
+right:
+  word_uuid: b58bdd7d-7e53-4c26-ab48-58541eb1b00e
+  text: 蠱
+  concept: BEWITCH
+  concept_uuid: 1ee60420-95ac-4599-af8f-06ebedd89b80
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5dde2193-e418-4bf2-b91a-bc3cd0d8532e
+    line_id: KR1e0001_tls_012-358a.22
+    textline: 「大尹惑蠱其君
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

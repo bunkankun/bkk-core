@@ -1,0 +1,32 @@
+uuid: 33fdee6a-ed2e-4e07-bafa-6e6f58330db2
+type: word-relation
+group_uuid: 33fdee6a-ed2e-4e07-bafa-6e6f58330db2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 83c39693-3e41-45ea-a4d3-faeff151da21
+  text: 淫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: cc33a43f-2711-45af-a22d-8e298bbc5d2f
+    line_id: KR1e0001_tls_001-70a.29
+    textline: 淫破義
+    offset: 1
+    range: 1
+right:
+  word_uuid: aaa2807b-e572-4f35-b077-3447963a7c17
+  text: 義
+  concept: RECTITUDE
+  concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: cc33a43f-2711-45af-a22d-8e298bbc5d2f
+    line_id: KR1e0001_tls_001-70a.29
+    textline: 淫破義
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

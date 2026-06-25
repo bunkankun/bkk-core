@@ -1,0 +1,32 @@
+uuid: 9aaa7a89-9918-4b71-bfc5-2effb6dfabed
+type: word-relation
+group_uuid: 9aaa7a89-9918-4b71-bfc5-2effb6dfabed
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: b8e48df1-5a7d-4dbf-9c9f-b1880fa82d51
+  text: 率
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3acf6efa-dd46-4f9d-947d-9e187cb81c8a
+    line_id: KR3c0005_tls_001-37a.2
+    textline: 知伯率三國之眾
+    offset: 3
+    range: 1
+right:
+  word_uuid: 155801d8-de49-4870-a369-ae08344b2ead
+  text: 眾
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3acf6efa-dd46-4f9d-947d-9e187cb81c8a
+    line_id: KR3c0005_tls_001-37a.2
+    textline: 知伯率三國之眾
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 579c87c0-bf46-41c0-b926-15d726f23b32
+type: word-relation
+group_uuid: 579c87c0-bf46-41c0-b926-15d726f23b32
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e82eb99f-0d44-4ce2-a0b1-ea1d61776d83
+  text: 優
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 2436d411-b3f4-4ccb-9ebe-cbc5eb32d34c
+    line_id: KR3j0080_tls_004-4a.31
+    textline: 優劣異名
+    offset: 1
+    range: 1
+right:
+  word_uuid: 597c2944-d8bc-4a51-9879-316192cfae21
+  text: 劣
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 2436d411-b3f4-4ccb-9ebe-cbc5eb32d34c
+    line_id: KR3j0080_tls_004-4a.31
+    textline: 優劣異名
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5a324212-506d-4401-a0f6-13e716be4a4d
+type: word-relation
+group_uuid: 58bfe554-77cd-4460-b9cf-df71978f0b97
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e905fe55-e6af-4db8-8b10-b0f051e399eb
+  text: 逮
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+  attestation:
+    text_title: 莊子
+    line_uuid: 16707ac5-a31c-411d-aeaf-e02001313be0
+    line_id: KR5c0126_tls_029-19a.4
+    textline: 至人之所不得逮
+    offset: 7
+    range: 1
+right:
+  word_uuid: a860922f-70ef-4b25-94ea-1a110f373278
+  text: 及
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+  attestation:
+    text_title: 莊子
+    line_uuid: a925c93c-d874-4d5f-8c3a-f715e4b36506
+    line_id: KR5c0126_tls_029-19a.5
+    textline: 賢人之所不能及
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cbf5b9cf-47fe-4d34-9f17-eebe2a06b99c
+type: word-relation
+group_uuid: cbf5b9cf-47fe-4d34-9f17-eebe2a06b99c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ff372309-db2d-4053-8bb4-b5006d7694eb
+  text: 誅
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 60733d53-4d0a-4715-84c8-e939b2c0d8a8
+    line_id: KR3c0005_tls_014-53a.4
+    textline: 不忍誅罰
+    offset: 3
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 60733d53-4d0a-4715-84c8-e939b2c0d8a8
+    line_id: KR3c0005_tls_014-53a.4
+    textline: 不忍誅罰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

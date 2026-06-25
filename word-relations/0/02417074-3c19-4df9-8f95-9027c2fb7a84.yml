@@ -1,0 +1,32 @@
+uuid: 02417074-3c19-4df9-8f95-9027c2fb7a84
+type: word-relation
+group_uuid: de93644a-3ce1-4938-89b5-2f9482fb324f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 697335b2-8384-4d98-933e-949e33347409
+  text: 城
+  concept: CITY WALL
+  concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: daca269f-00bd-4c8b-a678-78fd242b64a7
+    line_id: KR3c0005_tls_010-60a.7
+    textline: 居五日而城郭已治
+    offset: 5
+    range: 1
+right:
+  word_uuid: a584004f-0e2a-486d-b8aa-4f90c249a428
+  text: 郭
+  concept: CITY WALL
+  concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: daca269f-00bd-4c8b-a678-78fd242b64a7
+    line_id: KR3c0005_tls_010-60a.7
+    textline: 居五日而城郭已治
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b32fc605-c903-4c35-a6d3-5648a9eac2d4
+type: word-relation
+group_uuid: b32fc605-c903-4c35-a6d3-5648a9eac2d4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 76ef5cc8-cc0f-417a-bc47-32dd72e04355
+  text: 循
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 韓非子
+    line_uuid: fd636b94-9754-4d3c-b69d-bbc1de1e1ea5
+    line_id: KR3c0005_tls_027-1a.4
+    textline: 必循天順人
+    offset: 2
+    range: 1
+right:
+  word_uuid: f5fa22c7-eda9-466a-a190-b17bdb722a65
+  text: 順
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 韓非子
+    line_uuid: fd636b94-9754-4d3c-b69d-bbc1de1e1ea5
+    line_id: KR3c0005_tls_027-1a.4
+    textline: 必循天順人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

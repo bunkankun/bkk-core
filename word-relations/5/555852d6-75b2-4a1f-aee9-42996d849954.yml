@@ -1,0 +1,32 @@
+uuid: 555852d6-75b2-4a1f-aee9-42996d849954
+type: word-relation
+group_uuid: 555852d6-75b2-4a1f-aee9-42996d849954
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d4d545a5-6216-4d0a-920a-c2bd2edcf304
+  text: 係
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 莊子
+    line_uuid: cc98135f-c722-4957-b3bc-c8bee7b30b4d
+    line_id: KR5c0126_tls_009-2a.12
+    textline: 是故禽獸可係羈而遊
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7969d9f2-133d-4294-8474-d439fbf18ae1
+  text: 羈
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 莊子
+    line_uuid: cc98135f-c722-4957-b3bc-c8bee7b30b4d
+    line_id: KR5c0126_tls_009-2a.12
+    textline: 是故禽獸可係羈而遊
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

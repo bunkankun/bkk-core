@@ -1,0 +1,32 @@
+uuid: 1c27820a-34f4-4717-873d-bc2946a42f3f
+type: word-relation
+group_uuid: a9431471-b91a-4300-97f4-3415ecd8de9d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 論衡
+    line_uuid: 49498853-b630-4d5e-8d0c-f83ff79a4b1d
+    line_id: KR3j0080_tls_036-1a.18
+    textline: 非彼而是我
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論衡
+    line_uuid: 49498853-b630-4d5e-8d0c-f83ff79a4b1d
+    line_id: KR3j0080_tls_036-1a.18
+    textline: 非彼而是我
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

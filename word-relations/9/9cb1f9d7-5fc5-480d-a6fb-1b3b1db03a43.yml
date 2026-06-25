@@ -1,0 +1,32 @@
+uuid: 9cb1f9d7-5fc5-480d-a6fb-1b3b1db03a43
+type: word-relation
+group_uuid: 41dd4108-db20-48e9-a340-5810e35976a1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 18d6f730-3b02-4f98-bc17-2ca742e4d322
+  text: 鳥
+  concept: BIRD
+  concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9d9b7a2f-0dca-4682-b96b-fb7365d10174
+    line_id: KR3j0009_tls_002-28a.15
+    textline: 樹木盛則飛鳥歸之
+    offset: 6
+    range: 1
+right:
+  word_uuid: 1574f9ca-ee6d-4572-bf0f-bc8ba1953dd8
+  text: 飛
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9d9b7a2f-0dca-4682-b96b-fb7365d10174
+    line_id: KR3j0009_tls_002-28a.15
+    textline: 樹木盛則飛鳥歸之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

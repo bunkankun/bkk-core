@@ -1,0 +1,30 @@
+uuid: 03dac7c2-2459-4706-b1bd-aeb306e7b7bd
+type: word-relation
+group_uuid: 03dac7c2-2459-4706-b1bd-aeb306e7b7bd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5000a604-9042-4595-b410-64c5ab0e54e3
+  text: 賢
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 睡虎地
+    line_uuid: d348169e-3ee2-494f-ba41-3e75c508beaa
+    textline: 賢鄙既乂
+    offset: 1
+    range: 1
+right:
+  word_uuid: b62166a7-60f9-4584-b440-0d73fd958afb
+  text: 鄙
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 睡虎地
+    line_uuid: d348169e-3ee2-494f-ba41-3e75c508beaa
+    textline: 賢鄙既乂
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

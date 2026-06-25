@@ -1,0 +1,32 @@
+uuid: a51401b2-de5d-4afe-9401-b2de5d8afe8c
+type: word-relation
+group_uuid: fbcd376c-68e8-5efd-bd08-8ca9935c451f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-1a.10
+    textline: 所以事天也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 474629fb-821e-4bcc-95f3-a5915b87a6d3
+  text: 天
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-1a.10
+    textline: 所以事天也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T02:58:30.914+09:00'

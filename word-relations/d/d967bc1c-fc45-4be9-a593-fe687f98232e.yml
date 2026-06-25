@@ -1,0 +1,35 @@
+uuid: d967bc1c-fc45-4be9-a593-fe687f98232e
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 成之聞之
+    line_uuid: 312e0aae-8934-45e9-bc89-d9a4f2240acd
+    line_id: KR2p0024_tls_001-12a.7
+    textline: 君子治人倫以順天德
+    offset: 1
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 成之聞之
+    line_uuid: 6e62ec99-d3d8-4da2-af41-6fcc50cefd77
+    line_id: KR2p0024_tls_001-12a.6
+    textline: 是故小人亂天常以逆大道
+    offset: 3
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c574e305-b414-4df2-b1cc-66f0c41cd9f0
+type: word-relation
+group_uuid: c574e305-b414-4df2-b1cc-66f0c41cd9f0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 論語
+    line_uuid: f2ab68a7-71c0-4817-a58b-52424553fce5
+    line_id: KR1h0004_tls_001-12a.4
+    textline: 和為貴
+    offset: 3
+    range: 1
+right:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 論語
+    line_uuid: 7af5b3aa-2be9-4388-b281-4b6c0ae391ff
+    line_id: KR1h0004_tls_001-12a.6
+    textline: 斯為美
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

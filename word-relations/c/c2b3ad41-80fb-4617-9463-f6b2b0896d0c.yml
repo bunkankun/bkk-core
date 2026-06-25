@@ -1,0 +1,21 @@
+uuid: c2b3ad41-80fb-4617-9463-f6b2b0896d0c
+type: word-relation
+group_uuid: 8330cc7d-d92e-5b5f-82c8-8779a06ee6e3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 61b7bbbc-c6ce-47ee-b356-00e589cef8bb
+  text: 從
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+right:
+  word_uuid: 08aaf3a2-747b-41c2-bdf5-d56b5d85d7ac
+  text: 驅
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

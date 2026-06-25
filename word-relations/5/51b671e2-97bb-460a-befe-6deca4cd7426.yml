@@ -1,0 +1,32 @@
+uuid: 51b671e2-97bb-460a-befe-6deca4cd7426
+type: word-relation
+group_uuid: 51b671e2-97bb-460a-befe-6deca4cd7426
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 833aad8d-a3a5-4a3d-ad80-3ac39668f919
+  text: 援
+  concept: TAKE
+  concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 48825863-d7b4-4fc1-bdff-af213e60f66f
+    line_id: KR3c0005_tls_010-101a.6
+    textline: 援戈將擊之
+    offset: 1
+    range: 1
+right:
+  word_uuid: f3913f87-54b3-4b4e-84cd-2b2a60e147ff
+  text: 戈
+  concept: LANCE
+  concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+  attestation:
+    text_title: 韓非子
+    line_uuid: 48825863-d7b4-4fc1-bdff-af213e60f66f
+    line_id: KR3c0005_tls_010-101a.6
+    textline: 援戈將擊之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

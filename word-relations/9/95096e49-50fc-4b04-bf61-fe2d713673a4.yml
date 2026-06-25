@@ -1,0 +1,32 @@
+uuid: 95096e49-50fc-4b04-bf61-fe2d713673a4
+type: word-relation
+group_uuid: 95096e49-50fc-4b04-bf61-fe2d713673a4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 631ff222-ac9a-4107-a3ef-bdfa1b59d2b4
+  text: 恭
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 史記
+    line_uuid: e1b8801e-fefe-42cd-91de-4351dc3a43aa
+    line_id: KR2a0001_tls_100-5a.4
+    textline: 遇人恭謹
+    offset: 3
+    range: 1
+right:
+  word_uuid: b547fcf5-5778-4ac1-8ce8-54b3b6f85afd
+  text: 謹
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 史記
+    line_uuid: e1b8801e-fefe-42cd-91de-4351dc3a43aa
+    line_id: KR2a0001_tls_100-5a.4
+    textline: 遇人恭謹
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

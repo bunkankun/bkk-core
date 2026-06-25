@@ -1,0 +1,32 @@
+uuid: 3ef5a19a-6549-41dc-bd8f-a12b8c042520
+type: word-relation
+group_uuid: 3ef5a19a-6549-41dc-bd8f-a12b8c042520
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1d1ab746-0da7-4805-a01b-6d98b6b9b68e
+  text: 起
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 566a754f-4b81-4bf5-945d-753c93159cd4
+    line_id: KR3c0005_tls_010-126a.3
+    textline: 視楚之起卒也’”
+    offset: 4
+    range: 1
+right:
+  word_uuid: 49591c8a-7a23-4c97-91ed-c94f1427c603
+  text: 卒
+  concept: SOLDIER
+  concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 566a754f-4b81-4bf5-945d-753c93159cd4
+    line_id: KR3c0005_tls_010-126a.3
+    textline: 視楚之起卒也’”
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

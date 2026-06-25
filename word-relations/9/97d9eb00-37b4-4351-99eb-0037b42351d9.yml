@@ -1,0 +1,32 @@
+uuid: 97d9eb00-37b4-4351-99eb-0037b42351d9
+type: word-relation
+group_uuid: ffb9ac13-ade7-51eb-a1fe-5ce000dd0754
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: eefaca0d-5f7f-4e1b-a644-b7342aa4ed21
+  text: 鄉
+  concept: VILLAGE
+  concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.26
+    textline: 為鄉邑之下
+    offset: 2
+    range: 1
+right:
+  word_uuid: b8294f29-1097-4498-a2ff-f8daefb0b4a1
+  text: 邑
+  concept: CITY
+  concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.26
+    textline: 為鄉邑之下
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T02:15:03.052+09:00'

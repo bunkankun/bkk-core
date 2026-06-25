@@ -1,0 +1,32 @@
+uuid: da584323-919d-4405-b1c6-682fe62b96d8
+type: word-relation
+group_uuid: da584323-919d-4405-b1c6-682fe62b96d8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 85f23685-3487-4ad2-adbe-c45650c04c54
+    line_id: KR3a0006_tls_001-34a.18
+    textline: 不知姦貞
+    offset: 3
+    range: 1
+right:
+  word_uuid: ea230cab-b68f-4c1d-8fc9-e909c0e2afce
+  text: 貞
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 85f23685-3487-4ad2-adbe-c45650c04c54
+    line_id: KR3a0006_tls_001-34a.18
+    textline: 不知姦貞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 2f4dea00-f27c-4f87-a676-3ba41267a0d1
+type: word-relation
+group_uuid: 2f4dea00-f27c-4f87-a676-3ba41267a0d1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ebd03e27-7a3f-4be5-a2da-f47776197d02
+    line_id: KR3j0009_tls_014-46a.5
+    textline: 以定其身
+    offset: 4
+    range: 1
+right:
+  word_uuid: bcce10b3-3699-4cc2-9cce-ad8463fd0e56
+  text: 壽
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 553e0e2c-42f1-406c-a5f3-caaa96e8ad3a
+    line_id: KR3j0009_tls_014-46a.6
+    textline: 不終其壽
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

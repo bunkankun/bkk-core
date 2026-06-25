@@ -1,0 +1,30 @@
+uuid: fedd6409-a9cf-4de5-ad6d-3042a6678b1b
+type: word-relation
+group_uuid: fedd6409-a9cf-4de5-ad6d-3042a6678b1b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 60fca030-640e-46e4-838a-4315a6b0c880
+  text: 湖
+  concept: LAKE
+  concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 73843958-aa24-4287-8265-7e64599857ce
+    textline: 疏三江五湖
+    offset: 5
+    range: 1
+right:
+  word_uuid: 65b7ae6a-5674-4fd3-8b11-2367a752ed5a
+  text: 五
+  concept: FIVE
+  concept_uuid: f1f62799-186d-4a41-b27a-a70d99335319
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 73843958-aa24-4287-8265-7e64599857ce
+    textline: 疏三江五湖
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

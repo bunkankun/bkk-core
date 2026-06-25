@@ -1,0 +1,32 @@
+uuid: ee79cb84-8a90-4017-b9cb-848a90301756
+type: word-relation
+group_uuid: 6295d623-d5ad-4cd6-ace2-c11a864aecfd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0068e61-a227-49bd-9395-c186eb0bad27
+  text: 智
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-27a.11
+    textline: 而民多智巧
+    offset: 4
+    range: 1
+right:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-27a.11
+    textline: 而民多智巧
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-22T23:43:04.049+09:00'

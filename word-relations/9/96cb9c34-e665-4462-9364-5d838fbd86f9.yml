@@ -1,0 +1,32 @@
+uuid: 96cb9c34-e665-4462-9364-5d838fbd86f9
+type: word-relation
+group_uuid: 96cb9c34-e665-4462-9364-5d838fbd86f9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f37bfe8b-c43b-4b66-865e-3530e54cc567
+  text: 慎
+  concept: CAUTIOUS
+  concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e353fc4-e5ba-49da-aab2-c98cd571b593
+    line_id: KR3c0005_tls_005-14a.5
+    textline: 不慎其事
+    offset: 2
+    range: 1
+right:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e353fc4-e5ba-49da-aab2-c98cd571b593
+    line_id: KR3c0005_tls_005-14a.5
+    textline: 不慎其事
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

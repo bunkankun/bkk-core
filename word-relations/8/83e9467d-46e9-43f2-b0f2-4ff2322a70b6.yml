@@ -1,0 +1,31 @@
+uuid: 83e9467d-46e9-43f2-b0f2-4ff2322a70b6
+type: word-relation
+group_uuid: 858d44f1-2d3e-4f97-8d17-0b75898686aa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 韓非子
+    line_uuid: c99f8c8c-e475-48e0-a9ac-8a97136666c0
+    textline: 非（兼）失刑德
+    offset: 5
+    range: 1
+right:
+  word_uuid: 42169a2c-79d1-4190-ae4c-d92e46c4eb31
+  text: 用
+  concept: USE
+  concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+  attestation:
+    text_title: 韓非子
+    line_uuid: c7aac29f-0e6a-4162-9e54-cf368c92a75d
+    line_id: KR3c0005_tls_007-5a.5
+    textline: 而使臣用之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

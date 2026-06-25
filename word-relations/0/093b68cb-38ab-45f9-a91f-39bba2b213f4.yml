@@ -1,0 +1,32 @@
+uuid: 093b68cb-38ab-45f9-a91f-39bba2b213f4
+type: word-relation
+group_uuid: 093b68cb-38ab-45f9-a91f-39bba2b213f4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: db0a8b89-7163-498e-a574-7fc7f35a8d4b
+  text: 剖
+  concept: SPLIT
+  concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+  attestation:
+    text_title: 韓非子
+    line_uuid: b4d59be1-ac22-401a-a48d-b78a57465f85
+    line_id: KR3c0005_tls_003-10a.4
+    textline: 比干剖心
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7c4e328e-c8a7-4537-9075-2947ff8defdb
+  text: 心
+  concept: HEART
+  concept_uuid: 51eeccac-9e32-4780-932e-665d0d76a746
+  attestation:
+    text_title: 韓非子
+    line_uuid: b4d59be1-ac22-401a-a48d-b78a57465f85
+    line_id: KR3c0005_tls_003-10a.4
+    textline: 比干剖心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

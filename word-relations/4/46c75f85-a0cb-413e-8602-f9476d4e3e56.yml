@@ -1,0 +1,21 @@
+uuid: 46c75f85-a0cb-413e-8602-f9476d4e3e56
+type: word-relation
+group_uuid: de76698e-47dd-5acc-9687-6f4e39746b52
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e2a943b3-dbdb-4787-a838-5c9c9769e129
+  text: 篤
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+right:
+  word_uuid: 727168ee-f23d-4f93-a494-f08442a9c303
+  text: 劇
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

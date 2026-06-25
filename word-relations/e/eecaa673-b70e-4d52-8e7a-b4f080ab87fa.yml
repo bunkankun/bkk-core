@@ -1,0 +1,32 @@
+uuid: eecaa673-b70e-4d52-8e7a-b4f080ab87fa
+type: word-relation
+group_uuid: eecaa673-b70e-4d52-8e7a-b4f080ab87fa
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 99da2871-d0b4-4bd4-89fe-fa9186959b6d
+  text: 擊
+  concept: KNOCK
+  concept_uuid: 85c370ab-9026-4028-b42b-081833558a22
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5198e518-f7a9-4ca0-9441-be7fa50da651
+    line_id: KR3j0009_tls_005-29a.6
+    textline: 擊鐘磬
+    offset: 1
+    range: 1
+right:
+  word_uuid: 304763f2-1d21-4bde-b3ce-c2b431d708d4
+  text: 磬
+  concept: STONE MUSICAL INSTRUMENTS
+  concept_uuid: 7aa759ee-1c1d-45b2-a333-98c8588fc388
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5198e518-f7a9-4ca0-9441-be7fa50da651
+    line_id: KR3j0009_tls_005-29a.6
+    textline: 擊鐘磬
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

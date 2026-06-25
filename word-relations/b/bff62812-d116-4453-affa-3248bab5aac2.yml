@@ -1,0 +1,21 @@
+uuid: bff62812-d116-4453-affa-3248bab5aac2
+type: word-relation
+group_uuid: 5af55971-4b4e-5ec7-b821-a91996e2a546
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 58d5deb0-d9a6-4a5b-a3ae-1e2ed93459bf
+  text: 關
+  concept: SHUT
+  concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+right:
+  word_uuid: 5db6555a-ca7b-4708-a4a8-14b28bab76d7
+  text: 閉
+  concept: SHUT
+  concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

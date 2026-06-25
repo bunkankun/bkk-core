@@ -1,0 +1,32 @@
+uuid: 9aad15ea-e101-49b9-ad15-eae10139b9e4
+type: word-relation
+group_uuid: 12dfda6d-89a8-56df-9f38-bbe4825687bf
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: be85cd1e-586b-48b3-85cd-1e586b48b3e7
+  text: 天心
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-29a.5064
+    textline: 乃事合天心
+    offset: 4
+    range: 2
+right:
+  word_uuid: 59f606da-7740-4c9b-b606-da77403c9b06
+  text: 人意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-29a.5065
+    textline: 不逆人意
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T10:11:25.44+09:00'

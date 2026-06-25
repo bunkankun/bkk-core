@@ -1,0 +1,32 @@
+uuid: 03a6f7a7-4f5a-4c69-8308-1f33c5bae39d
+type: word-relation
+group_uuid: 03a6f7a7-4f5a-4c69-8308-1f33c5bae39d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7cdc1400-aee1-4929-b6c8-bb697d42afc6
+  text: 威
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 26f2be96-c57b-4f0c-b2b9-427df31b7807
+    line_id: KR3c0005_tls_006-35a.4
+    textline: 威制共
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4b3d2f3-fd7c-42c5-9fde-540d765c71bc
+  text: 制
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 韓非子
+    line_uuid: 26f2be96-c57b-4f0c-b2b9-427df31b7807
+    line_id: KR3c0005_tls_006-35a.4
+    textline: 威制共
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

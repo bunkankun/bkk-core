@@ -1,0 +1,32 @@
+uuid: 630807e5-6469-41c9-8807-e5646991c96b
+type: word-relation
+group_uuid: 7b71f8ad-600d-5781-ba28-5e227c14016d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8bab8184-5f1f-455b-ab81-845f1f455bfb
+  text: 昊天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_025-24a.2
+    textline: 昊天孔昭
+    offset: 1
+    range: 2
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_025-24a.3
+    textline: 我生靡樂
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-29T17:53:46.487+09:00'

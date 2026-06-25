@@ -1,0 +1,32 @@
+uuid: 0c465b28-496e-4b01-a3e4-11f8d5a90b76
+type: word-relation
+group_uuid: 0c465b28-496e-4b01-a3e4-11f8d5a90b76
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: b293aead-c9f0-4d81-bca6-3405261053e9
+  text: 赴
+  concept: GO TO
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+  attestation:
+    text_title: 孟子
+    line_uuid: 07d3a758-e9b6-4e5f-8b30-37ce7bdf533f
+    line_id: KR1h0001_tls_001-62a.8
+    textline: 皆欲赴愬於王
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3db9b55c-e9bb-41e9-83ab-c1e4a8d50cdb
+  text: 愬
+  concept: COMPLAIN
+  concept_uuid: 62e49b6c-d875-4431-bcae-3d46cf50229c
+  attestation:
+    text_title: 孟子
+    line_uuid: 07d3a758-e9b6-4e5f-8b30-37ce7bdf533f
+    line_id: KR1h0001_tls_001-62a.8
+    textline: 皆欲赴愬於王
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

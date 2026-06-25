@@ -1,0 +1,32 @@
+uuid: c326b105-d857-4e85-9c7e-053094f8fa86
+type: word-relation
+group_uuid: c326b105-d857-4e85-9c7e-053094f8fa86
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9b680eff-6508-4da6-993a-f4fa4eba0ec1
+  text: 素
+  concept: SIMPLE
+  concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+  attestation:
+    text_title: 老子
+    line_uuid: d1972eaf-607b-43e9-8142-6ccc4f100314
+    line_id: KR5c0057_tls_019-1a.12
+    textline: 見素抱樸
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4cea833e-eef1-45c0-8ba2-54931926be52
+  text: 樸
+  concept: SIMPLE
+  concept_uuid: 252a5c78-c298-498e-ae02-b5ebc2820d8b
+  attestation:
+    text_title: 老子
+    line_uuid: d1972eaf-607b-43e9-8142-6ccc4f100314
+    line_id: KR5c0057_tls_019-1a.12
+    textline: 見素抱樸
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

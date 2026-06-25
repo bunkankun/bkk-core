@@ -1,0 +1,32 @@
+uuid: a5823f36-07b2-407a-b7b1-55d3594616b6
+type: word-relation
+group_uuid: a5823f36-07b2-407a-b7b1-55d3594616b6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 46f77888-87f4-43cc-b2ef-74053adeb519
+  text: 揜
+  concept: COVER
+  concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 369e79ee-6885-42d7-a548-be33d0fd6618
+    line_id: KR3j0009_tls_002-17a.34
+    textline: 故雷則揜耳
+    offset: 4
+    range: 1
+right:
+  word_uuid: ec04fae7-9c89-40c9-bd19-9ef46bdb6044
+  text: 耳
+  concept: EAR
+  concept_uuid: cfec8c6f-06c5-479d-96a4-5ea48af644f2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 369e79ee-6885-42d7-a548-be33d0fd6618
+    line_id: KR3j0009_tls_002-17a.34
+    textline: 故雷則揜耳
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

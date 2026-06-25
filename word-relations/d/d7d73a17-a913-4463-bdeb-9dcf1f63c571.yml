@@ -1,0 +1,21 @@
+uuid: d7d73a17-a913-4463-bdeb-9dcf1f63c571
+type: word-relation
+group_uuid: bfeebc4e-11d2-52ef-8043-56ad72e4abaf
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d87aa65f-ed39-4671-9676-0b6d0a2046ad
+  text: 快
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+right:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 20a63d17-fdde-4e38-9f48-00ff82820a60
+type: word-relation
+group_uuid: 20a63d17-fdde-4e38-9f48-00ff82820a60
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 楚辭
+    line_uuid: 7a313e90-924f-4e6d-9c6c-419f2f607a37
+    line_id: KR4a0001_tls_007-1a.11
+    textline: 「舉世皆濁我獨清
+    offset: 6
+    range: 1
+right:
+  word_uuid: 76ec23b4-02d8-4dd3-91ed-cd36e98e6bfc
+  text: 舉世
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 楚辭
+    line_uuid: 7a313e90-924f-4e6d-9c6c-419f2f607a37
+    line_id: KR4a0001_tls_007-1a.11
+    textline: 「舉世皆濁我獨清
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

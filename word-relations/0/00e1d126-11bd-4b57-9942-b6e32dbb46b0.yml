@@ -1,0 +1,32 @@
+uuid: 00e1d126-11bd-4b57-9942-b6e32dbb46b0
+type: word-relation
+group_uuid: 00e1d126-11bd-4b57-9942-b6e32dbb46b0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 873051bb-0d36-4745-ba69-3de9f7cbc34c
+  text: 失
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 075badf8-eba4-4bbb-8b91-cb5af80eede0
+    line_id: KR3c0005_tls_011-44a.4
+    textline: 使其主有大失於上
+    offset: 6
+    range: 1
+right:
+  word_uuid: 00a29dac-f836-4e64-a13a-6c3a15ef547c
+  text: 罪
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 韓非子
+    line_uuid: e9460ef3-3ab7-4951-9ae6-c1f55457ef6b
+    line_id: KR3c0005_tls_011-44a.5
+    textline: 臣有大罪於下
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

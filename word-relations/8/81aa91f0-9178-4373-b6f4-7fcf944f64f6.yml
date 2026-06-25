@@ -1,0 +1,32 @@
+uuid: 81aa91f0-9178-4373-b6f4-7fcf944f64f6
+type: word-relation
+group_uuid: 81aa91f0-9178-4373-b6f4-7fcf944f64f6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 79cc1222-323e-4a6d-9922-0416d9fa4df8
+  text: 延
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+  attestation:
+    text_title: 韓非子
+    line_uuid: f48c07ea-3bdc-44f1-9706-8bb2f24f5dd3
+    line_id: KR3c0005_tls_010-37a.3
+    textline: 延頸而鳴
+    offset: 1
+    range: 1
+right:
+  word_uuid: d719aa23-48df-4c78-b077-70934e9d6b37
+  text: 頸
+  concept: NECK
+  concept_uuid: 209e6066-91a9-4ab2-b0b8-7786620f4660
+  attestation:
+    text_title: 韓非子
+    line_uuid: f48c07ea-3bdc-44f1-9706-8bb2f24f5dd3
+    line_id: KR3c0005_tls_010-37a.3
+    textline: 延頸而鳴
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

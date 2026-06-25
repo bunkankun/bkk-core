@@ -1,0 +1,32 @@
+uuid: 9ed55909-61cd-415e-9cfc-431bc24719fc
+type: word-relation
+group_uuid: 9ed55909-61cd-415e-9cfc-431bc24719fc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5a1f01de-d148-483a-a04f-b819022bcaae
+    line_id: KR3j0009_tls_010-23a.48
+    textline: 身不可得而見
+    offset: 1
+    range: 1
+right:
+  word_uuid: dc193087-4718-4c84-90c2-3d6dea2e73aa
+  text: 名
+  concept: NAME
+  concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7c17445e-d7c1-4579-a175-19ff238b4222
+    line_id: KR3j0009_tls_010-23a.47
+    textline: 名不可得而聞
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5e9d1e15-3c8c-49d3-b882-1a0eeb5cce5b
+type: word-relation
+group_uuid: 37a554a0-4b43-45b7-8316-1975db0c2c5d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 老子
+    line_uuid: 68003038-c55f-4f93-9965-5d0076cb0a97
+    line_id: KR5c0057_tls_036-1a.5
+    textline: 將欲弱之
+    offset: 3
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 老子
+    line_uuid: e5670619-ea48-4eee-9c76-4bdcf4c00ced
+    line_id: KR5c0057_tls_036-1a.6
+    textline: 必固強之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

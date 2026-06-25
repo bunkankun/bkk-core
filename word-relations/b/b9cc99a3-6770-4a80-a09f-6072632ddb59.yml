@@ -1,0 +1,32 @@
+uuid: b9cc99a3-6770-4a80-a09f-6072632ddb59
+type: word-relation
+group_uuid: b9cc99a3-6770-4a80-a09f-6072632ddb59
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 89fb6455-667f-4207-a2c7-f77c3dc65636
+  text: 松
+  concept: TREE, KINDS
+  concept_uuid: b5e991a9-bcc5-4224-97bc-5cd4c591d0a9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8b75654d-01c8-4836-a4a9-18d8d5d72f4d
+    line_id: KR3j0009_tls_003-23a.1
+    textline: 松柏成而塗之人已蔭矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: a8c03477-2a26-4f7a-8bd3-8af708591c56
+  text: 柏
+  concept: TREE, KINDS
+  concept_uuid: b5e991a9-bcc5-4224-97bc-5cd4c591d0a9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8b75654d-01c8-4836-a4a9-18d8d5d72f4d
+    line_id: KR3j0009_tls_003-23a.1
+    textline: 松柏成而塗之人已蔭矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

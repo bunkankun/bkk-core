@@ -1,0 +1,30 @@
+uuid: 66c9cdf6-932b-43d0-a6de-eb95cd27fc67
+type: word-relation
+group_uuid: 1c3e7d66-6c46-4fd4-b8cd-5bf7b365708d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 43048d60-251d-4883-a3b6-66f117c909b6
+  text: 丕
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 091c4573-3de5-42fc-964f-5bbe2153cfbf
+    textline: 奉揚天子之丕顯休命
+    offset: 6
+    range: 1
+right:
+  word_uuid: d85d9335-9722-410c-9ae9-ac34011919e6
+  text: 顯
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 091c4573-3de5-42fc-964f-5bbe2153cfbf
+    textline: 奉揚天子之丕顯休命
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

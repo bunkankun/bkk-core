@@ -1,0 +1,30 @@
+uuid: 9e2fcaa1-12c9-4e7f-b773-62894d0bf6b1
+type: word-relation
+group_uuid: 9e2fcaa1-12c9-4e7f-b773-62894d0bf6b1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c946037f-38da-473b-a749-d59b2b0fbbba
+  text: 劫
+  concept: PERIOD
+  concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: add4cf1e-6ca1-4df6-984f-c635f01a9c38
+    textline: 不悟即長劫輪回
+    offset: 5
+    range: 1
+right:
+  word_uuid: 58530286-3dc9-4a6b-a9dc-4b942a1a5ed0
+  text: 長
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: add4cf1e-6ca1-4df6-984f-c635f01a9c38
+    textline: 不悟即長劫輪回
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

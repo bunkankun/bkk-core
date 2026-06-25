@@ -1,0 +1,32 @@
+uuid: a8abf6d0-9a9a-40a4-be85-deeec403f369
+type: word-relation
+group_uuid: a8abf6d0-9a9a-40a4-be85-deeec403f369
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 26a4e35c-5437-488d-9157-ad60321ccd93
+  text: 孔
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 老子
+    line_uuid: 80a98fd7-9fb2-464a-9670-cd3e14b195f6
+    line_id: KR5c0057_tls_021-1a.3
+    textline: 孔德之容
+    offset: 1
+    range: 1
+right:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 老子
+    line_uuid: 80a98fd7-9fb2-464a-9670-cd3e14b195f6
+    line_id: KR5c0057_tls_021-1a.3
+    textline: 孔德之容
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

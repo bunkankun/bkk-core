@@ -1,0 +1,30 @@
+uuid: e5ced81d-ec76-4e4f-a24e-301b2db07d88
+type: word-relation
+group_uuid: 32722118-8644-434b-8a26-6fe4b5906fae
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 67754da8-7eb9-4639-b2c3-b454bb5046df
+  text: 月
+  concept: MOON
+  concept_uuid: 13d6e1fc-3c19-4399-8f5e-6bd3e7e3f825
+  attestation:
+    text_title: 王昌齡
+    line_uuid: 967ad38a-919d-405a-8aac-a41e05ca7024
+    textline: 秦時明月漢時關
+    offset: 4
+    range: 1
+right:
+  word_uuid: ffc1107d-020a-447b-bdb2-afa492522d78
+  text: 明
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+  attestation:
+    text_title: 王昌齡
+    line_uuid: 967ad38a-919d-405a-8aac-a41e05ca7024
+    textline: 秦時明月漢時關
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

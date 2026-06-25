@@ -1,0 +1,30 @@
+uuid: 8ba1532b-c698-4709-937f-32bb7a7b4b1f
+type: word-relation
+group_uuid: 8ba1532b-c698-4709-937f-32bb7a7b4b1f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a718f18-a960-47f8-b6c0-22736b0f31c2
+  text: 刀
+  concept: KNIFE
+  concept_uuid: 641c1d3c-1f7f-40a4-aba6-41fb8c9895c3
+  attestation:
+    text_title: 論衡
+    line_uuid: 6a0b4680-658b-4ec7-87ee-ea3585675087
+    textline: 刀鐮割莖
+    offset: 1
+    range: 1
+right:
+  word_uuid: eef8253b-27b3-4a43-9012-2b497fe7ebc6
+  text: 鐮
+  concept: SICKLE
+  concept_uuid: 1f406d9a-a486-44bc-8312-75f40a2801f7
+  attestation:
+    text_title: 論衡
+    line_uuid: 6a0b4680-658b-4ec7-87ee-ea3585675087
+    textline: 刀鐮割莖
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

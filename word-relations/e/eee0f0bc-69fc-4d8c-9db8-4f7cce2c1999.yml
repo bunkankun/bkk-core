@@ -1,0 +1,32 @@
+uuid: eee0f0bc-69fc-4d8c-9db8-4f7cce2c1999
+type: word-relation
+group_uuid: 64943a9e-fa5a-4968-875d-ee9b26b56cd3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 尚書
+    line_uuid: 74893da8-c70e-4e50-99a3-53e7f4e15537
+    line_id: KR1b0001_tls_001-2a.45
+    textline: 厥民夷
+    offset: 2
+    range: 1
+right:
+  word_uuid: e97f4901-156e-403f-8be3-284ce46e33d7
+  text: 鳥獸
+  concept: ANIMAL
+  concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+  attestation:
+    text_title: 尚書
+    line_uuid: 91083344-5a61-49f8-ad71-9165f96d904c
+    line_id: KR1b0001_tls_001-2a.46
+    textline: 鳥獸毛毨
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

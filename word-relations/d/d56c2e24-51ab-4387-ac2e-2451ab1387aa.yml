@@ -1,0 +1,32 @@
+uuid: d56c2e24-51ab-4387-ac2e-2451ab1387aa
+type: word-relation
+group_uuid: 0a37bdd6-03fe-5a77-ac44-0df2352b0cc2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_006-42a.3
+    textline: 人主釋法用私
+    offset: 4
+    range: 1
+right:
+  word_uuid: 208fe1c0-e377-4388-930c-ffb8e6fa9362
+  text: 私
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_006-42a.3
+    textline: 人主釋法用私
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T17:56:32.263+09:00'

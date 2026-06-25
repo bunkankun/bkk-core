@@ -1,0 +1,21 @@
+uuid: e2a04de3-452d-4101-af7a-19690cf6e32e
+type: word-relation
+group_uuid: 9bdc50b9-232c-57bb-8b32-e6f4dff466ac
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d8a30d93-05c3-4504-8aea-6bdf44d80325
+  text: 嚎號號
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+right:
+  word_uuid: 3ce971bc-7cdb-4121-8cb6-e35ef559125a
+  text: 呼
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

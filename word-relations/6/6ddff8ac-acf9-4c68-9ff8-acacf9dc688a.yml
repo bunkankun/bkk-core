@@ -1,0 +1,32 @@
+uuid: 6ddff8ac-acf9-4c68-9ff8-acacf9dc688a
+type: word-relation
+group_uuid: ac3e57f3-c6aa-597c-a1a6-61658873dc4a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 46f77888-87f4-43cc-b2ef-74053adeb519
+  text: 掩
+  concept: COVER
+  concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.16
+    textline: 而民得以掩形御寒
+    offset: 5
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.16
+    textline: 而民得以掩形御寒
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:12:02.132+09:00'

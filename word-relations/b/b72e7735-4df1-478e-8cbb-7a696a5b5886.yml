@@ -1,0 +1,32 @@
+uuid: b72e7735-4df1-478e-8cbb-7a696a5b5886
+type: word-relation
+group_uuid: b72e7735-4df1-478e-8cbb-7a696a5b5886
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6e1ab59e-3180-488e-a4af-3b2d89896e6a
+  text: 絲
+  concept: THREAD
+  concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2119d189-2f06-4f2d-8e4e-d645e5313c89
+    line_id: KR3j0009_tls_005-14a.18
+    textline: 為絲竹歌舞之聲則若譟
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9347c419-bfee-4db6-811b-7f1902fc1317
+  text: 竹
+  concept: BAMBOO
+  concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2119d189-2f06-4f2d-8e4e-d645e5313c89
+    line_id: KR3j0009_tls_005-14a.18
+    textline: 為絲竹歌舞之聲則若譟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: d316585d-d0e5-401d-8cb4-28227811bce9
+type: word-relation
+group_uuid: d316585d-d0e5-401d-8cb4-28227811bce9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b3ef1119-7448-44d2-bc5c-44705cec7de4
+    line_id: KR3j0009_tls_003-19a.12
+    textline: 用其新
+    offset: 3
+    range: 1
+right:
+  word_uuid: f61c1267-4429-48cf-a795-8d0634c6ef29
+  text: 陳
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 83d908e7-bf3f-419d-96e8-66f4f215d718
+    line_id: KR3j0009_tls_003-19a.13
+    textline: 棄其陳
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

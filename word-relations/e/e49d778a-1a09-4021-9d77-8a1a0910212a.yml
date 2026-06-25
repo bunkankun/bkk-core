@@ -1,0 +1,32 @@
+uuid: e49d778a-1a09-4021-9d77-8a1a0910212a
+type: word-relation
+group_uuid: b6e474db-56fa-5e61-a58c-54c0858100e9
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.18
+    textline: 與道游者也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 094758c2-1faf-4baf-9c11-50bdb6586a4c
+  text: 俗
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.20
+    textline: 與俗交者也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-23T00:02:51.391+09:00'

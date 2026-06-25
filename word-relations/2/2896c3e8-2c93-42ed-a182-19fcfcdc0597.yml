@@ -1,0 +1,30 @@
+uuid: 2896c3e8-2c93-42ed-a182-19fcfcdc0597
+type: word-relation
+group_uuid: cab2fd98-b816-465f-9071-10cfe11cf4d9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d85d9335-9722-410c-9ae9-ac34011919e6
+  text: 顯
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7331b3a4-9051-440e-9444-40709e75e215
+    textline: 孔墨之後學顯榮於天下者眾矣
+    offset: 7
+    range: 1
+right:
+  word_uuid: f1af2835-00fd-4b9b-9d32-863c0f64643b
+  text: 榮
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7331b3a4-9051-440e-9444-40709e75e215
+    textline: 孔墨之後學顯榮於天下者眾矣
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

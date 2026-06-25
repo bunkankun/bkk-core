@@ -1,0 +1,35 @@
+uuid: f57c002f-0f29-4c1e-a1e2-332a6b337fd8
+type: word-relation
+group_uuid: 3a2a90a0-c53f-4495-86b6-f29dfd0a917c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: d7a4256e-ffe3-453e-906c-59a78d09f4e3
+    line_id: KR3c0005_tls_014-18a.6
+    textline: 盡力竭智以事主
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6abf9878-d322-417b-b607-6abab093647b
+  text: 盡
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: d7a4256e-ffe3-453e-906c-59a78d09f4e3
+    line_id: KR3c0005_tls_014-18a.6
+    textline: 盡力竭智以事主
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

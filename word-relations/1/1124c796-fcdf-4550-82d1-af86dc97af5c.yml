@@ -1,0 +1,30 @@
+uuid: 1124c796-fcdf-4550-82d1-af86dc97af5c
+type: word-relation
+group_uuid: 1124c796-fcdf-4550-82d1-af86dc97af5c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6c7be674-b766-4ab5-bd0c-9ec0dafa8ae3
+  text: 交
+  concept: INTERACT
+  concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+  attestation:
+    text_title: 論語
+    line_uuid: 8a4f3705-3342-46d9-b3a3-6defe9b045d5
+    textline: 與朋友交言而有信
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 論語
+    line_uuid: 5a4eaca8-11f5-4436-9f15-b54314a19b2b
+    textline: 事父母能竭其力
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

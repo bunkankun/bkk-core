@@ -1,0 +1,32 @@
+uuid: 9e0dca3f-c31f-480c-bd4a-dcfa5026a357
+type: word-relation
+group_uuid: 9e0dca3f-c31f-480c-bd4a-dcfa5026a357
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1f981234-8738-4b1d-b7bf-6671d221be39
+  text: 用
+  concept: DEPLOY
+  concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b3ef1119-7448-44d2-bc5c-44705cec7de4
+    line_id: KR3j0009_tls_003-19a.12
+    textline: 用其新
+    offset: 1
+    range: 1
+right:
+  word_uuid: 332574da-def8-4947-b4b6-56c3d7b96720
+  text: 棄
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 83d908e7-bf3f-419d-96e8-66f4f215d718
+    line_id: KR3j0009_tls_003-19a.13
+    textline: 棄其陳
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

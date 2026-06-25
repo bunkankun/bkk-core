@@ -1,0 +1,31 @@
+uuid: 2e7a8cd0-408f-4796-9950-5a0680d7fc92
+type: word-relation
+group_uuid: 2e7a8cd0-408f-4796-9950-5a0680d7fc92
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6183ab90-404e-455a-9004-96d3eb9520b2
+  text: 當
+  concept: FUTURE
+  concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+  attestation:
+    text_title: 論衡
+    line_uuid: 6caefefb-58fc-490f-99b8-a21ad1f4cf68
+    textline: “朝當亡”哉
+    offset: 3
+    range: 1
+right:
+  word_uuid: ee0c12a1-355c-48a2-9f08-68b6ca7ab624
+  text: 欲
+  concept: FUTURE
+  concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+  attestation:
+    text_title: 論衡
+    line_uuid: 8f4cbe2f-fbba-4540-adc9-36acb40968ff
+    line_id: KR3j0080_tls_018-4a.8
+    textline: 國欲亡
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

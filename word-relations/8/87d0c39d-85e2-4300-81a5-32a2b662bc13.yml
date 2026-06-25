@@ -1,0 +1,21 @@
+uuid: 87d0c39d-85e2-4300-81a5-32a2b662bc13
+type: word-relation
+group_uuid: 8b3447d9-44bd-5329-8402-65e2c349ca6e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 43988d28-eac0-44ab-aad2-2a26bc276e84
+  text: 沈沈
+  concept: SINK
+  concept_uuid: fc2a61d1-7510-4952-855c-90799abe0179
+right:
+  word_uuid: 0ae8b536-ee12-4656-85d3-8e79b9205e66
+  text: 汎
+  concept: FLOAT
+  concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

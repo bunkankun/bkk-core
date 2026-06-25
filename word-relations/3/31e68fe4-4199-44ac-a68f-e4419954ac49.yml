@@ -1,0 +1,32 @@
+uuid: 31e68fe4-4199-44ac-a68f-e4419954ac49
+type: word-relation
+group_uuid: d7f63b79-9c4f-5d53-a8db-664490722963
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_008-16a.3
+    textline: 狂而不直
+    offset: 2
+    range: 1
+right:
+  word_uuid: c2e7d2ed-ec17-4deb-991c-47b25e3d5f43
+  text: 直
+  concept: STERN
+  concept_uuid: 51fc63c2-f53d-48a9-8b03-042ce0863a2c
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_008-16a.3
+    textline: 狂而不直
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T02:34:36.033+09:00'

@@ -1,0 +1,35 @@
+uuid: 9cf3df75-eff3-450e-9e2f-403500b7f911
+type: word-relation
+group_uuid: 9cf3df75-eff3-450e-9e2f-403500b7f911
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 152d0ee6-a679-416a-924b-d689246a127b
+  text: 報
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 論衡
+    line_uuid: 413cdb5d-456f-4931-8fc9-264f3dcc93e1
+    line_id: KR3j0080_tls_020-1a.12
+    textline: 天地報其德
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 論衡
+    line_uuid: 47b4721e-f602-4fec-94b6-72f9dd736409
+    line_id: KR3j0080_tls_020-1a.10
+    textline: 人君賞其行
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

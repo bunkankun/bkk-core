@@ -1,0 +1,32 @@
+uuid: e2d2bc13-ab63-4176-8018-201877654d30
+type: word-relation
+group_uuid: e2d2bc13-ab63-4176-8018-201877654d30
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 632557a8-83ae-41d4-87e2-13ec1f8948be
+  text: 天
+  concept: NATURALLY
+  concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5c848775-ae75-46ca-8428-adc3c43b6721
+    line_id: KR3j0009_tls_020-15a.20
+    textline: 天固有衰嗛廢伏
+    offset: 1
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b04f12f5-7e44-4b17-ba8a-bc6f3baec076
+    line_id: KR3j0009_tls_020-15a.22
+    textline: 人亦有困窮屈匱
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

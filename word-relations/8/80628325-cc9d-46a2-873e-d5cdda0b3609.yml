@@ -1,0 +1,35 @@
+uuid: 80628325-cc9d-46a2-873e-d5cdda0b3609
+type: word-relation
+group_uuid: 80628325-cc9d-46a2-873e-d5cdda0b3609
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e489e581-cc89-48d1-ac5d-7cb87325901e
+  text: 反
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5d6e997d-35fc-4e58-a259-de53d1868735
+    line_id: KR3c0005_tls_035-83a.8
+    textline: 傭未反”
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3d8cbb4c-f1c8-402d-9e82-892442279190
+  text: 歸
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 韓非子
+    line_uuid: ebefb364-1611-4a62-befa-1e3c862d9f25
+    line_id: KR3c0005_tls_035-83a.9
+    textline: 桓公歸
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

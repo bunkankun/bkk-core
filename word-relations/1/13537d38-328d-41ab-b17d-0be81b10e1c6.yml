@@ -1,0 +1,32 @@
+uuid: 13537d38-328d-41ab-b17d-0be81b10e1c6
+type: word-relation
+group_uuid: 13537d38-328d-41ab-b17d-0be81b10e1c6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 023451ce-93c3-4ff6-ab5d-d2836e0252f2
+  text: 尊
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 51779785-3027-462c-83aa-abd2677106ea
+    line_id: KR3c0005_tls_014-29a.5
+    textline: 無功可以得尊顯也
+    offset: 6
+    range: 1
+right:
+  word_uuid: d85d9335-9722-410c-9ae9-ac34011919e6
+  text: 顯
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 韓非子
+    line_uuid: 51779785-3027-462c-83aa-abd2677106ea
+    line_id: KR3c0005_tls_014-29a.5
+    textline: 無功可以得尊顯也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

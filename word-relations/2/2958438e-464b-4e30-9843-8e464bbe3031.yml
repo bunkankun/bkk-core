@@ -1,0 +1,32 @@
+uuid: 2958438e-464b-4e30-9843-8e464bbe3031
+type: word-relation
+group_uuid: 52b3212a-4eec-56a0-ba1c-c5abfb987447
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 55f3c5b4-4eb9-405d-b3c5-b44eb9405de6
+  text: 天下
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_015-12a.6
+    textline: 王公由之 所以得天下也
+    offset: 9
+    range: 2
+right:
+  word_uuid: 27a8f4b4-3852-4322-b902-52c0f1497fcb
+  text: 社稷
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_015-12a.7
+    textline: 不由之 所以隕社稷也
+    offset: 8
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-05T17:10:39.037+09:00'

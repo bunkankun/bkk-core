@@ -1,0 +1,32 @@
+uuid: ed0e2969-d248-430a-8e29-69d248930a4d
+type: word-relation
+group_uuid: 8ddd36a8-5c0c-5681-96ab-eae8febdc131
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.38
+    textline: 古之伐國
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.38
+    textline: 古之伐國
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T19:21:25.844+09:00'

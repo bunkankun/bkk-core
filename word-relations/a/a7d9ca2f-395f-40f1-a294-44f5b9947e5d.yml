@@ -1,0 +1,31 @@
+uuid: a7d9ca2f-395f-40f1-a294-44f5b9947e5d
+type: word-relation
+group_uuid: 98309327-88ef-48a5-a208-15391667efdc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 韓非子
+    line_uuid: b00ba939-b3cc-4abd-8335-a20927e69e48
+    line_id: KR3c0005_tls_017-7a.5
+    textline: 愛則親
+    offset: 3
+    range: 1
+right:
+  word_uuid: ab057f53-73f1-4cf1-9bad-02ee06916aff
+  text: 疏
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 韓非子
+    line_uuid: a80770e0-95da-4351-9bae-0ca70fcf68c8
+    textline: 不愛則疏
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

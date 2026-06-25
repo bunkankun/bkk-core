@@ -1,0 +1,32 @@
+uuid: 55aab802-a0d2-4936-a236-cfef3f54d57d
+type: word-relation
+group_uuid: 55aab802-a0d2-4936-a236-cfef3f54d57d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d0f02e93-33ec-4649-9c97-c21a0fb29f2a
+  text: 精神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 韓非子
+    line_uuid: b5cdb920-985e-4d24-ad9f-f6cb71dc857a
+    line_id: KR3c0005_tls_020-81a.5
+    textline: 而精神不亂
+    offset: 2
+    range: 2
+right:
+  word_uuid: 78e34804-cfbf-466b-b2db-079b3b5f6b69
+  text: 魂魄
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 81f684d2-b7c4-40ef-b0a8-f2fcbe217dfb
+    line_id: KR3c0005_tls_020-81a.3
+    textline: 則魂魄不去
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

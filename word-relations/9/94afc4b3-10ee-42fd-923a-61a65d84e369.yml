@@ -1,0 +1,21 @@
+uuid: 94afc4b3-10ee-42fd-923a-61a65d84e369
+type: word-relation
+group_uuid: 02de401b-4b00-5479-a3d5-c7dae392a6fa
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 35ab63fa-cbf5-4a24-ba33-9721047852d7
+  text: 分
+  concept: DISTRIBUTE
+  concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+right:
+  word_uuid: f795b649-a031-4f3f-9465-b4f00ecf16f9
+  text: 散
+  concept: SCATTER
+  concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 9f182774-2f47-4b8f-bbc2-d4c1f8c4e40e
+type: word-relation
+group_uuid: 28c3b12f-5380-5c6b-84bd-9d604ed3fb51
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+right:
+  word_uuid: 6f020606-a835-4ebb-8f76-b9f6021ee846
+  text: 凶
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

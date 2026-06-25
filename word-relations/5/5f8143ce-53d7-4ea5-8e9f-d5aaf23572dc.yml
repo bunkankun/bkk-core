@@ -1,0 +1,32 @@
+uuid: 5f8143ce-53d7-4ea5-8e9f-d5aaf23572dc
+type: word-relation
+group_uuid: 5f8143ce-53d7-4ea5-8e9f-d5aaf23572dc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 老子
+    line_uuid: 21211290-9ccb-4f26-a1d1-b9359374694f
+    line_id: KR5c0057_tls_045-1a.3
+    textline: 大成若缺
+    offset: 2
+    range: 1
+right:
+  word_uuid: b8a81f07-833a-416b-98d3-fa738f48b28b
+  text: 缺
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 老子
+    line_uuid: 21211290-9ccb-4f26-a1d1-b9359374694f
+    line_id: KR5c0057_tls_045-1a.3
+    textline: 大成若缺
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

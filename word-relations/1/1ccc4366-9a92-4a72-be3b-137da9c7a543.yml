@@ -1,0 +1,21 @@
+uuid: 1ccc4366-9a92-4a72-be3b-137da9c7a543
+type: word-relation
+group_uuid: 4f144e65-6f2f-5eac-84d8-bfb79e3a1669
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: fab01125-fa80-41e0-921b-23e02ef4809d
+  text: 功
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+right:
+  word_uuid: e6aac59f-5b4d-4bea-bd6b-8c41a6dc18ba
+  text: 戾
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

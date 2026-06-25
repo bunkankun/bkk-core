@@ -1,0 +1,32 @@
+uuid: e56ea2cb-701f-4023-be6b-611c8200a92b
+type: word-relation
+group_uuid: e0ce5043-cdf4-4afb-8a36-d7a50dc1f656
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 淮南子
+    line_uuid: def8c29f-c180-428f-a095-ef22d5d72746
+    line_id: KR3j0010_tls_011-25a.63
+    textline: 今吾雖欲正身而待物
+    offset: 6
+    range: 1
+right:
+  word_uuid: 93bfd271-3940-46b3-8b32-031a4b518d2c
+  text: 物
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 淮南子
+    line_uuid: def8c29f-c180-428f-a095-ef22d5d72746
+    line_id: KR3j0010_tls_011-25a.63
+    textline: 今吾雖欲正身而待物
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

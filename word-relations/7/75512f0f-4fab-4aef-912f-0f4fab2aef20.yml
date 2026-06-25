@@ -1,0 +1,32 @@
+uuid: 75512f0f-4fab-4aef-912f-0f4fab2aef20
+type: word-relation
+group_uuid: 54b605f7-651e-5fcc-88ed-640cba0c529e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0dcf4728-5ceb-4633-93a9-d77c56db556c
+  text: 厚
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.21
+    textline: 或厚
+    offset: 2
+    range: 1
+right:
+  word_uuid: 79f6cbc7-bf87-45ca-b6cb-c7bf87b5cae1
+  text: 薄
+  concept: STINGY
+  concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.22
+    textline: 或薄
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T21:32:18.966+09:00'

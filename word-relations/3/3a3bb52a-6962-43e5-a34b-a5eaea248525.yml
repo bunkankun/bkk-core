@@ -1,0 +1,32 @@
+uuid: 3a3bb52a-6962-43e5-a34b-a5eaea248525
+type: word-relation
+group_uuid: ca657d4e-f858-43be-8436-f4e75384f5aa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9ee503e3-470e-4ed0-b6af-6d224b05d67b
+    line_id: KR3c0005_tls_005-25a.6
+    textline: 疏賤必賞
+    offset: 4
+    range: 1
+right:
+  word_uuid: ff372309-db2d-4053-8bb4-b5006d7694eb
+  text: 誅
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: e8aac5f9-2e94-4430-830a-7294a9cea509
+    line_id: KR3c0005_tls_005-25a.7
+    textline: 近愛必誅
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

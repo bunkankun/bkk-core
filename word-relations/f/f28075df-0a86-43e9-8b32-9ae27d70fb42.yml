@@ -1,0 +1,32 @@
+uuid: f28075df-0a86-43e9-8b32-9ae27d70fb42
+type: word-relation
+group_uuid: f28075df-0a86-43e9-8b32-9ae27d70fb42
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2631fe60-f07f-41fc-b9a6-13bb3463ad8c
+  text: 必
+  concept: CERTAIN
+  concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd7e587d-8a9d-4771-9818-cf3ee7134380
+    line_id: KR3c0005_tls_014-30a.2
+    textline: 於是犯之者其誅重而必
+    offset: 10
+    range: 1
+right:
+  word_uuid: cab05785-b76b-4300-86ad-a92a06d93f75
+  text: 信
+  concept: CERTAIN
+  concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9599b570-3735-4d3f-bd98-9468f6279637
+    line_id: KR3c0005_tls_014-30a.3
+    textline: 告之者其賞厚而信
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ef9ffe8b-73cf-4bba-afd4-5304e5474967
+type: word-relation
+group_uuid: ef9ffe8b-73cf-4bba-afd4-5304e5474967
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: db60e95f-3c53-4d60-af08-fc88af78a196
+  text: 商
+  concept: MERCHANT
+  concept_uuid: b3fe42b5-03c3-4bd8-bc21-ebb16e6f50f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5b283179-007c-44ca-a0f6-261b62bbe7e5
+    line_id: KR3c0005_tls_015-2a.4
+    textline: 商賈外積
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8dc65fc1-7fbe-4993-97b8-a9c77fed50ea
+  text: 賈
+  concept: MERCHANT
+  concept_uuid: b3fe42b5-03c3-4bd8-bc21-ebb16e6f50f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5b283179-007c-44ca-a0f6-261b62bbe7e5
+    line_id: KR3c0005_tls_015-2a.4
+    textline: 商賈外積
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

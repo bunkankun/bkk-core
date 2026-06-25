@@ -1,0 +1,32 @@
+uuid: 2c8272d1-310a-4e6d-8272-d1310a4e6df3
+type: word-relation
+group_uuid: 3b316ef4-d0a0-536b-a2fe-02ffb2fdb0af
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 18e95232-e7c6-47c2-a952-32e7c677c266
+  text: 維
+  concept: ROPE
+  concept_uuid: 6a18fc60-aad3-4018-83a2-bc9a31510642
+  attestation:
+    text_title: 鹽鐵論
+    line_id: KR3a0006_tls_010-7a.6
+    textline: 國之維楫也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 435260a8-8028-4a6f-a9ce-8a951b70ef62
+  text: 楫
+  concept: OAR
+  concept_uuid: 8451dd9f-f4fe-4d25-8306-1e492045a3ce
+  attestation:
+    text_title: 鹽鐵論
+    line_id: KR3a0006_tls_010-7a.6
+    textline: 國之維楫也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-18T19:03:15.598+09:00'

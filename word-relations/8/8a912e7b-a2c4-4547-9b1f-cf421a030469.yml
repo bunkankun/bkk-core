@@ -1,0 +1,32 @@
+uuid: 8a912e7b-a2c4-4547-9b1f-cf421a030469
+type: word-relation
+group_uuid: 8a912e7b-a2c4-4547-9b1f-cf421a030469
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: bfba9917-9ffe-4e67-a1bf-ec9c5e2b25a6
+  text: 孤
+  concept: LONELY
+  concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+  attestation:
+    text_title: 論語
+    line_uuid: 6eb35196-9fbe-42a1-92af-6499d88791ae
+    line_id: KR1h0004_tls_004-26a.3
+    textline: 「德不孤
+    offset: 4
+    range: 1
+right:
+  word_uuid: 11c38c6a-361f-4e4f-9c0f-bafd091af9a6
+  text: 鄰
+  concept: NEIGHBOUR
+  concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+  attestation:
+    text_title: 論語
+    line_uuid: 86edaf23-8c3a-437a-9b25-a1ba3abb0f82
+    line_id: KR1h0004_tls_004-27a.1
+    textline: 必有鄰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

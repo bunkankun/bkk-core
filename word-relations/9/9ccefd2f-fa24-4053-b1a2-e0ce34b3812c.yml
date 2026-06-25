@@ -1,0 +1,32 @@
+uuid: 9ccefd2f-fa24-4053-b1a2-e0ce34b3812c
+type: word-relation
+group_uuid: 9ccefd2f-fa24-4053-b1a2-e0ce34b3812c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 06430ab2-fcad-493c-8d2c-572e538d2152
+  text: 補
+  concept: REPAIR
+  concept_uuid: dcb0f7ed-991f-4d83-8bd5-e4631ef94674
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4016e2f2-1acf-43e8-8079-5880ee2958dc
+    line_id: KR1e0001_tls_007-40a.40
+    textline: 惟仲山甫補之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0a496880-42c3-412f-ab63-62d52a7b3a5e
+  text: 闕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 1397f62b-8143-4bb4-9410-327bd634dc78
+    line_id: KR1e0001_tls_007-40a.39
+    textline: 『袞職有闕
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

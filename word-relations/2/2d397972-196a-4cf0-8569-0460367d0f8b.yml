@@ -1,0 +1,21 @@
+uuid: 2d397972-196a-4cf0-8569-0460367d0f8b
+type: word-relation
+group_uuid: 65a5a514-47fa-59cf-b8c0-439f017b182a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 978f593b-629b-47d6-9225-3122e2ebd58e
+  text: 燈
+  concept: LAMP
+  concept_uuid: f02c4fed-eba6-416f-be20-600a39b82755
+right:
+  word_uuid: 6fd43200-b89e-410c-9782-dac6c5455513
+  text: 燭
+  concept: CANDLE
+  concept_uuid: 03e8d064-b2f0-47ae-a667-35466dc9691a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

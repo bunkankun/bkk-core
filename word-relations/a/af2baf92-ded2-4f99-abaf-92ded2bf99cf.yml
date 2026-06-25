@@ -1,0 +1,32 @@
+uuid: af2baf92-ded2-4f99-abaf-92ded2bf99cf
+type: word-relation
+group_uuid: 1d7b9ebd-f79d-5d65-aa7d-a853748aa00f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 289ebdfc-c5a7-4424-9a8c-d8bdfb1bcc21
+  text: 好
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.30
+    textline: 今夫圖工好畫鬼魅
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1162404a-8c14-4645-8cea-803f1a31e2e8
+  text: 憎
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.31
+    textline: 而憎圖狗馬者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-06T17:57:41.626+09:00'

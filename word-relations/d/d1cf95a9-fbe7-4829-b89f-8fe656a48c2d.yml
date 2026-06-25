@@ -1,0 +1,29 @@
+uuid: d1cf95a9-fbe7-4829-b89f-8fe656a48c2d
+type: word-relation
+group_uuid: d1cf95a9-fbe7-4829-b89f-8fe656a48c2d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 91f80023-5441-4dc3-b804-d6c4d41057d6
+  text: 勅
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 百喻經
+    line_uuid: d8c5a313-6e16-4f08-a95d-24062fa1d314
+    textline: 王勅村人常使日日送其美水
+    range: 1
+right:
+  word_uuid: 05c0fea8-1271-448c-9e88-abb99f9f09a1
+  text: 使
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 百喻經
+    line_uuid: d8c5a313-6e16-4f08-a95d-24062fa1d314
+    textline: 王勅村人常使日日送其美水
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

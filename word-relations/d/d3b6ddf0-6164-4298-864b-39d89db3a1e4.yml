@@ -1,0 +1,32 @@
+uuid: d3b6ddf0-6164-4298-864b-39d89db3a1e4
+type: word-relation
+group_uuid: 2b00aca3-6b1c-428e-8f0b-1bd22598c8f5
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1fbc16bb-4d12-4e44-8f7a-4ca2381c3f9b
+    line_id: KR3c0005_tls_005-20a.2
+    textline: 人主之道
+    offset: 2
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1fbc16bb-4d12-4e44-8f7a-4ca2381c3f9b
+    line_id: KR3c0005_tls_005-20a.2
+    textline: 人主之道
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

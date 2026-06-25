@@ -1,0 +1,32 @@
+uuid: 19de45a1-75c8-489f-a471-4e5a089dfbac
+type: word-relation
+group_uuid: 19de45a1-75c8-489f-a471-4e5a089dfbac
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3619ed5c-8ab9-4357-8b37-edc6f3278de2
+  text: 朝
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  attestation:
+    text_title: 論衡
+    line_uuid: b4466169-e5e5-4bb2-8482-08894cb57246
+    line_id: KR3j0080_tls_003-8a.9
+    textline: 日朝出而暮入
+    offset: 2
+    range: 1
+right:
+  word_uuid: 81bcad97-078d-41b0-98c4-f94d0ee55a20
+  text: 暮
+  concept: EVENING
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+  attestation:
+    text_title: 論衡
+    line_uuid: b4466169-e5e5-4bb2-8482-08894cb57246
+    line_id: KR3j0080_tls_003-8a.9
+    textline: 日朝出而暮入
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

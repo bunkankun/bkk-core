@@ -1,0 +1,32 @@
+uuid: 363a6978-9a34-4353-adcf-3e653e6aa84a
+type: word-relation
+group_uuid: 363a6978-9a34-4353-adcf-3e653e6aa84a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: efd219e1-4eec-4fec-aaa6-00f07cd3c1d5
+    line_id: KR3c0005_tls_004-4a.7
+    textline: 君主之敗也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: efd219e1-4eec-4fec-aaa6-00f07cd3c1d5
+    line_id: KR3c0005_tls_004-4a.7
+    textline: 君主之敗也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

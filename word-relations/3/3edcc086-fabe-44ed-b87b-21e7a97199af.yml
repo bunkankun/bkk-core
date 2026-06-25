@@ -1,0 +1,32 @@
+uuid: 3edcc086-fabe-44ed-b87b-21e7a97199af
+type: word-relation
+group_uuid: 3edcc086-fabe-44ed-b87b-21e7a97199af
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 5bd88e08-8618-4b13-9979-66dbdf59f063
+  text: 諂
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+  attestation:
+    text_title: 論語
+    line_uuid: d8b6fc11-7952-482f-b2a4-563fc31318d6
+    line_id: KR1h0004_tls_001-15a.3
+    textline: 「貧而無諂
+    offset: 5
+    range: 1
+right:
+  word_uuid: 90b6f979-8ace-4430-a409-19e32b02ec4b
+  text: 驕
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 論語
+    line_uuid: ae5af1eb-80fa-493c-abce-ef7b99cb43a9
+    line_id: KR1h0004_tls_001-15a.4
+    textline: 富而無驕
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

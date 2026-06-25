@@ -1,0 +1,32 @@
+uuid: fd2b22f1-1b0a-43c2-8752-9b8d11d5a3bf
+type: word-relation
+group_uuid: e42fa191-f331-4885-90ff-02ba87c4a212
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dd20936-f8b4-4cc3-b629-37def231fde6
+  text: 宗
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 淮南子
+    line_uuid: d81d1480-7f97-4c3b-9a32-b88c359552a9
+    line_id: KR3j0010_tls_001-12a.12
+    textline: 宗族殘滅
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4bba8658-ce64-4f09-85ab-babdb61aea3a
+  text: 族
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 淮南子
+    line_uuid: d81d1480-7f97-4c3b-9a32-b88c359552a9
+    line_id: KR3j0010_tls_001-12a.12
+    textline: 宗族殘滅
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

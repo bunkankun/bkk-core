@@ -1,0 +1,35 @@
+uuid: 222d81c6-7959-49b7-8ec0-8ad45a0c8014
+type: word-relation
+group_uuid: 222d81c6-7959-49b7-8ec0-8ad45a0c8014
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7a59d11a-b3b6-44a4-a8c5-c784ddfe8e2a
+  text: 戒
+  concept: CAUTIOUS
+  concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+  attestation:
+    text_title: 論衡
+    line_uuid: a2627d7c-92a7-44e8-b34b-0be1caf05447
+    line_id: KR3j0080_tls_005-3a.24
+    textline: 孔子戒慎已甚
+    offset: 3
+    range: 1
+right:
+  word_uuid: f37bfe8b-c43b-4b66-865e-3530e54cc567
+  text: 慎
+  concept: CAUTIOUS
+  concept_uuid: ed50db17-950b-42b4-b7d6-24dafb704523
+  attestation:
+    text_title: 論衡
+    line_uuid: a2627d7c-92a7-44e8-b34b-0be1caf05447
+    line_id: KR3j0080_tls_005-3a.24
+    textline: 孔子戒慎已甚
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

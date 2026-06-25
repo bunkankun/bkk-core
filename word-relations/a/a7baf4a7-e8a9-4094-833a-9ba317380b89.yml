@@ -1,0 +1,30 @@
+uuid: a7baf4a7-e8a9-4094-833a-9ba317380b89
+type: word-relation
+group_uuid: a7baf4a7-e8a9-4094-833a-9ba317380b89
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e9f1982-6c2d-4303-b589-f71cb25b3ff5
+  text: 溝
+  concept: MOAT
+  concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+  attestation:
+    text_title: 孫臏
+    line_uuid: a93686a6-b178-4e10-a22d-be3fa14dc788
+    textline: 所以當溝池也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8db1d227-2832-4183-bf08-b6e88bd8f0a3
+  text: 池
+  concept: MOAT
+  concept_uuid: ad2541a7-8c04-42b9-8117-3e2b2d10b038
+  attestation:
+    text_title: 孫臏
+    line_uuid: a93686a6-b178-4e10-a22d-be3fa14dc788
+    textline: 所以當溝池也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8ba771d0-eb83-455f-83fb-575c7a4ee82a
+type: word-relation
+group_uuid: 5b65d15e-0528-468a-bf32-d2b7c701d950
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 慾
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 33e0efe8-eed3-4c44-b0b5-fa5e5a0de3fc
+    line_id: KR3j0009_tls_005-10a.8
+    textline: 嗜慾不辟
+    offset: 2
+    range: 1
+right:
+  word_uuid: 11044dca-d6fd-4875-a2ee-3c4d439379f9
+  text: 嗜
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 33e0efe8-eed3-4c44-b0b5-fa5e5a0de3fc
+    line_id: KR3j0009_tls_005-10a.8
+    textline: 嗜慾不辟
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

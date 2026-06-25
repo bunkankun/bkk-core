@@ -1,0 +1,21 @@
+uuid: 994689d9-9970-4975-ba1b-34a91a6e6c05
+type: word-relation
+group_uuid: 30cf8a75-7ed1-5038-b8b9-899cd6af644e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 82f4951d-72d3-42f7-955c-c35e2ec2cd90
+  text: 具俱
+  concept: PROVIDE
+  concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+right:
+  word_uuid: 1a816e18-7dfa-4617-bfbd-9fb09b107899
+  text: 設
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

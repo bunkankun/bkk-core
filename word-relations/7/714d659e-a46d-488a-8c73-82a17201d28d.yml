@@ -1,0 +1,32 @@
+uuid: 714d659e-a46d-488a-8c73-82a17201d28d
+type: word-relation
+group_uuid: 714d659e-a46d-488a-8c73-82a17201d28d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b36654-cf47-401f-b0fd-217cba8b031e
+  text: 去
+  concept: LEAVE
+  concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33b5f07e-5bd6-4d52-9d1e-6c31b521d88c
+    line_id: KR3c0005_tls_035-17a.7
+    textline: 去車走池
+    offset: 1
+    range: 1
+right:
+  word_uuid: 23e18eda-9af2-45d4-819c-689a669e5547
+  text: 走
+  concept: RUN
+  concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33b5f07e-5bd6-4d52-9d1e-6c31b521d88c
+    line_id: KR3c0005_tls_035-17a.7
+    textline: 去車走池
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

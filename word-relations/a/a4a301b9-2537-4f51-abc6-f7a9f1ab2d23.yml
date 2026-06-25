@@ -1,0 +1,32 @@
+uuid: a4a301b9-2537-4f51-abc6-f7a9f1ab2d23
+type: word-relation
+group_uuid: efb3f93b-ea05-447e-912a-e1ec7db46029
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ec04fae7-9c89-40c9-bd19-9ef46bdb6044
+  text: 耳
+  concept: EAR
+  concept_uuid: cfec8c6f-06c5-479d-96a4-5ea48af644f2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cfdc6c55-6deb-46d1-92fa-29c7dbc4baf0
+    line_id: KR3j0009_tls_005-18a.19
+    textline: 心必樂然後耳目鼻口有以欲之
+    offset: 6
+    range: 1
+right:
+  word_uuid: 081fc31e-9e3b-44b7-b629-bc240777d5b9
+  text: 目
+  concept: EYE
+  concept_uuid: 4a10ce28-f866-4a84-8b59-5dd6ebb37101
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cfdc6c55-6deb-46d1-92fa-29c7dbc4baf0
+    line_id: KR3j0009_tls_005-18a.19
+    textline: 心必樂然後耳目鼻口有以欲之
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

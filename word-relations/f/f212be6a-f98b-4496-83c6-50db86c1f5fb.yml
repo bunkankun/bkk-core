@@ -1,0 +1,30 @@
+uuid: f212be6a-f98b-4496-83c6-50db86c1f5fb
+type: word-relation
+group_uuid: 2cbd51a6-5caf-4b28-9976-0447bc284ccf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 0bf507fc-c322-4b74-bfc8-6e8f55c1e8f9
+  text: 於
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7549d09d-0500-4207-8eb2-8423057b571c
+    line_id: KR1e0001_tls_007-275a.32
+    textline: 劍及於寢門之外
+    range: 1
+right:
+  word_uuid: c84ff561-678c-47e4-9400-811aa879ecaf
+  text: 于
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4c9accbf-e692-4566-a2e4-af97ed265d7e
+    textline: 車及于蒲胥之市
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

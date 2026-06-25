@@ -1,0 +1,35 @@
+uuid: d8aed43d-4348-4ae5-b82e-b5af73b8c39b
+type: word-relation
+group_uuid: d8aed43d-4348-4ae5-b82e-b5af73b8c39b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 論衡
+    line_uuid: 3ca01bfe-19a0-471b-a745-872e49b40dd5
+    line_id: KR3j0080_tls_001-6a.9
+    textline: 親於子反
+    offset: 1
+    range: 1
+right:
+  word_uuid: 74ead6e2-d829-4c80-a796-1793302d1570
+  text: 幸
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 論衡
+    line_uuid: 1c47f19d-3909-4a02-87d9-d9274ec578de
+    line_id: KR3j0080_tls_001-6a.11
+    textline: 幸於孟嘗
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

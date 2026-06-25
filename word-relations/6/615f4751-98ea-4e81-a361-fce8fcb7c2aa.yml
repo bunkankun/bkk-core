@@ -1,0 +1,32 @@
+uuid: 615f4751-98ea-4e81-a361-fce8fcb7c2aa
+type: word-relation
+group_uuid: c332cd25-0e1c-4935-afa6-ac9949503321
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 孟子
+    line_uuid: 465f5c4b-4198-4bb8-8e35-a83b9683fe5c
+    line_id: KR1h0001_tls_001-19a.9
+    textline: 壯者以暇日修其孝悌忠信
+    offset: 10
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 孟子
+    line_uuid: 465f5c4b-4198-4bb8-8e35-a83b9683fe5c
+    line_id: KR1h0001_tls_001-19a.9
+    textline: 壯者以暇日修其孝悌忠信
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

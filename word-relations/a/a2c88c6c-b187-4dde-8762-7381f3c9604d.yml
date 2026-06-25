@@ -1,0 +1,32 @@
+uuid: a2c88c6c-b187-4dde-8762-7381f3c9604d
+type: word-relation
+group_uuid: 20e1cb00-c855-4ef6-b503-0cb1403d6b69
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 論衡
+    line_uuid: 9bdde746-f023-4047-bb87-7457fa3fd726
+    line_id: KR3j0080_tls_006-9a.6
+    textline: 以命當富貴
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 論衡
+    line_uuid: 9bdde746-f023-4047-bb87-7457fa3fd726
+    line_id: KR3j0080_tls_006-9a.6
+    textline: 以命當富貴
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

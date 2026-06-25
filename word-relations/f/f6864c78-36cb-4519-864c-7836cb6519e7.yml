@@ -1,0 +1,32 @@
+uuid: f6864c78-36cb-4519-864c-7836cb6519e7
+type: word-relation
+group_uuid: 3daa3234-57c3-54e6-8fb6-490aa3703372
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.26
+    textline: 背天意而從欲
+    offset: 2
+    range: 2
+right:
+  word_uuid: 6e362e40-786b-48c8-ae1f-ca6ca2e2701e
+  text: 背
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.26
+    textline: 背天意而從欲
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:45:19.938+09:00'

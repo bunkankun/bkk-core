@@ -1,0 +1,32 @@
+uuid: 2f6b1036-e405-4373-a0d0-da33d9c9644c
+type: word-relation
+group_uuid: 2f6b1036-e405-4373-a0d0-da33d9c9644c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea1c97d0-5ece-4449-9e50-3064e5cb7a11
+    line_id: KR3c0005_tls_015-26a.4
+    textline: 官吏弱而人民桀
+    offset: 3
+    range: 1
+right:
+  word_uuid: e5226b4b-1499-4249-8423-7f081ed88fcf
+  text: 桀
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea1c97d0-5ece-4449-9e50-3064e5cb7a11
+    line_id: KR3c0005_tls_015-26a.4
+    textline: 官吏弱而人民桀
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

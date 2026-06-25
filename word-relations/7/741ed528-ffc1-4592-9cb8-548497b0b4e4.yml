@@ -1,0 +1,32 @@
+uuid: 741ed528-ffc1-4592-9cb8-548497b0b4e4
+type: word-relation
+group_uuid: 741ed528-ffc1-4592-9cb8-548497b0b4e4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b25d0405-74aa-4440-a5a2-aa2d061dc726
+  text: 心
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 荀子
+    line_uuid: b9bd2bb2-a558-4658-8036-98f2c9425698
+    line_id: KR3a0002_tls_002-1a.28
+    textline: 心如虎狼
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 荀子
+    line_uuid: 6c8eb923-2b07-450d-a85e-f75af6da578d
+    line_id: KR3a0002_tls_002-1a.29
+    textline: 行如禽獸
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

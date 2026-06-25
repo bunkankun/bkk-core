@@ -1,0 +1,32 @@
+uuid: b66b6bc7-1b36-4ec5-ab6b-c71b36dec53a
+type: word-relation
+group_uuid: 511a318e-ba97-5231-8148-3a814d52854a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-2a.17
+    textline: 此神農黃帝之法則也
+    offset: 7
+    range: 1
+right:
+  word_uuid: 6a21a1ac-04f0-434b-9c33-0874113ad0e5
+  text: 則
+  concept: RULE
+  concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-2a.17
+    textline: 此神農黃帝之法則也
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T00:11:20.818+09:00'

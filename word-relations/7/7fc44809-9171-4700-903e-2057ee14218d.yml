@@ -1,0 +1,30 @@
+uuid: 7fc44809-9171-4700-903e-2057ee14218d
+type: word-relation
+group_uuid: 7fc44809-9171-4700-903e-2057ee14218d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 95a42b9d-e9aa-49a3-a143-1d760ba3415d
+  text: 華
+  concept: CHINESE
+  concept_uuid: 3b0f32f4-7b6e-43a8-bbb4-b0763266948e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 68213488-eb98-4982-bb47-82a1bae36985
+    textline: 獲戎失華
+    offset: 4
+    range: 1
+right:
+  word_uuid: d111e785-e677-448c-9e6e-ff168c330bfa
+  text: 戎
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 68213488-eb98-4982-bb47-82a1bae36985
+    textline: 獲戎失華
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

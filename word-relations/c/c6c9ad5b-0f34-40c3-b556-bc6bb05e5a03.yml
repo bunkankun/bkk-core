@@ -1,0 +1,32 @@
+uuid: c6c9ad5b-0f34-40c3-b556-bc6bb05e5a03
+type: word-relation
+group_uuid: c6c9ad5b-0f34-40c3-b556-bc6bb05e5a03
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cdda801b-b5d2-4f84-80e5-42dac6d847c5
+  text: 美
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ad89ccc-b288-40ef-a4ed-e987c9a8308f
+    line_id: KR3c0005_tls_030-34a.6
+    textline: 君子不蔽人之美
+    offset: 7
+    range: 1
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 55d2ac5d-960a-42b8-85c3-ad6564ed0cd3
+    line_id: KR3c0005_tls_030-34a.7
+    textline: 不言人之惡
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

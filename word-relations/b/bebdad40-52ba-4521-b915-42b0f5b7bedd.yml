@@ -1,0 +1,32 @@
+uuid: bebdad40-52ba-4521-b915-42b0f5b7bedd
+type: word-relation
+group_uuid: bebdad40-52ba-4521-b915-42b0f5b7bedd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e8bbc2a9-e851-49ae-96b7-38df5a721589
+  text: 壅
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+  attestation:
+    text_title: 韓非子
+    line_uuid: 75abc11e-f620-4f41-abf6-b40165e0b93d
+    line_id: KR3c0005_tls_011-22a.4
+    textline: 然而人主壅蔽
+    offset: 5
+    range: 1
+right:
+  word_uuid: e6053b47-5843-46cc-9a8b-fdc872cc8fa3
+  text: 蔽
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+  attestation:
+    text_title: 韓非子
+    line_uuid: 75abc11e-f620-4f41-abf6-b40165e0b93d
+    line_id: KR3c0005_tls_011-22a.4
+    textline: 然而人主壅蔽
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

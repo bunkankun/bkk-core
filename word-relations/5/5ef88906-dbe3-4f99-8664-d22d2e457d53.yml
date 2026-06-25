@@ -1,0 +1,32 @@
+uuid: 5ef88906-dbe3-4f99-8664-d22d2e457d53
+type: word-relation
+group_uuid: 5ef88906-dbe3-4f99-8664-d22d2e457d53
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e53750e3-c5b3-4c97-8c33-46f87dbebb53
+  text: 斧
+  concept: AXE
+  concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+  attestation:
+    text_title: 管子
+    line_uuid: d38f2d60-c62f-46f1-93f8-86809ff931c6
+    line_id: KR3c0001_tls_005-121a.5
+    textline: 不為六者疑錯於斧鉞
+    offset: 8
+    range: 1
+right:
+  word_uuid: 31ba6c0e-9db8-43c3-b006-6b87e579e5b3
+  text: 鉞
+  concept: AXE
+  concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+  attestation:
+    text_title: 管子
+    line_uuid: d38f2d60-c62f-46f1-93f8-86809ff931c6
+    line_id: KR3c0001_tls_005-121a.5
+    textline: 不為六者疑錯於斧鉞
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

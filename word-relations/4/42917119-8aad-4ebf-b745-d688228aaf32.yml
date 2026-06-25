@@ -1,0 +1,32 @@
+uuid: 42917119-8aad-4ebf-b745-d688228aaf32
+type: word-relation
+group_uuid: 42917119-8aad-4ebf-b745-d688228aaf32
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7aa57cc2-d1c8-4266-82d2-0a972a406e6d
+  text: 有
+  concept: EXIST
+  concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4fa2d58b-7d8f-440b-ad3e-c7c254c7d54c
+    line_id: KR1e0001_tls_007-245a.42
+    textline: 猶有晉在
+    offset: 2
+    range: 1
+right:
+  word_uuid: 342f39a6-66fd-45c7-b7c4-b450d9c4b7e6
+  text: 在
+  concept: EXIST
+  concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4fa2d58b-7d8f-440b-ad3e-c7c254c7d54c
+    line_id: KR1e0001_tls_007-245a.42
+    textline: 猶有晉在
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

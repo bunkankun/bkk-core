@@ -1,0 +1,32 @@
+uuid: b26c25a1-fc64-4f24-bbfc-787b1fae7c11
+type: word-relation
+group_uuid: b26c25a1-fc64-4f24-bbfc-787b1fae7c11
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cbee600b-e6ce-4dbe-8317-7acde950b117
+  text: 適
+  concept: COINCIDENCE
+  concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+  attestation:
+    text_title: 史記
+    line_uuid: 8ce38bc0-9fe8-4b2e-9ad0-0d629f3911bc
+    line_id: KR2a0001_tls_101-2a.24
+    textline: 適會其成功
+    offset: 1
+    range: 1
+right:
+  word_uuid: c05d2ced-31de-41d3-ac90-f9311caa0a4a
+  text: 會
+  concept: COINCIDENCE
+  concept_uuid: 4ff1aae2-f104-4104-92db-73b3979271eb
+  attestation:
+    text_title: 史記
+    line_uuid: 8ce38bc0-9fe8-4b2e-9ad0-0d629f3911bc
+    line_id: KR2a0001_tls_101-2a.24
+    textline: 適會其成功
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

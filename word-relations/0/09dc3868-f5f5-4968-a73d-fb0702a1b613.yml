@@ -1,0 +1,18 @@
+uuid: 09dc3868-f5f5-4968-a73d-fb0702a1b613
+type: word-relation
+group_uuid: 781e1ac0-bcab-57ed-9a24-a510ccd36d9d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4b4eda8e-25d8-4902-987b-6423232e9c38
+  text: 實
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+right:
+  word_uuid: d63b1e7b-afa5-47fb-9746-4fc4754cc405
+  text: 非實
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+source:
+  source_file: word-relations.xml

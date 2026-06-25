@@ -1,0 +1,32 @@
+uuid: 72cfeb98-7777-4f3f-a14c-9b25656574f7
+type: word-relation
+group_uuid: 72cfeb98-7777-4f3f-a14c-9b25656574f7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 708d277d-5ab1-4fe0-beb0-f1fb686620b5
+    line_id: KR6q0002_Yan_003-1135a.40
+    textline: 佛是虛名
+    offset: 3
+    range: 1
+right:
+  word_uuid: fd140f3d-680f-443c-b991-28f227876875
+  text: 假
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 祖堂集
+    line_uuid: cc92131b-3cfa-4725-b6af-0af03b061034
+    line_id: KR6q0002_Yan_003-1135a.43
+    textline: 都是假名
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

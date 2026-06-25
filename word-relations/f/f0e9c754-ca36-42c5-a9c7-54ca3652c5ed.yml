@@ -1,0 +1,32 @@
+uuid: f0e9c754-ca36-42c5-a9c7-54ca3652c5ed
+type: word-relation
+group_uuid: 05b643bc-b640-5682-8dc3-a335d96e0074
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ad504677-2211-4e69-a2e5-bf971cdbfa19
+  text: 推
+  concept: PUSH
+  concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.35
+    textline: 所推移上下者无寸尺之度
+    offset: 2
+    range: 1
+right:
+  word_uuid: 17b0f160-402a-42f1-ba5e-380bae6ed8a5
+  text: 移
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.35
+    textline: 所推移上下者无寸尺之度
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:35:19.125+09:00'

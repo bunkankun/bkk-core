@@ -1,0 +1,23 @@
+uuid: 972c902d-d9b7-42e8-83c8-ec89d156a951
+type: word-relation
+group_uuid: 7678514b-0cf9-5069-84a2-88b51aa27a77
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b9195b23-77a1-4c2d-a7dd-dc469891f588
+  text: 毒
+  concept: POISON
+  concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+right:
+  word_uuid: 0a937b8a-2b12-41be-9b1a-59998db56547
+  text: 苦
+  concept: BITTER
+  concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+  scope: '217.6'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

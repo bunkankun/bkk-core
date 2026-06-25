@@ -1,0 +1,32 @@
+uuid: 72f74896-6751-4b20-a848-ee3a79b32c77
+type: word-relation
+group_uuid: 3c87a318-e72c-446a-9f10-19792b380f95
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 韓非子
+    line_uuid: c4c54406-7938-4876-b10a-dc42d453f80c
+    line_id: KR3c0005_tls_008-33a.2
+    textline: 彼求我予
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 予
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 韓非子
+    line_uuid: c4c54406-7938-4876-b10a-dc42d453f80c
+    line_id: KR3c0005_tls_008-33a.2
+    textline: 彼求我予
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

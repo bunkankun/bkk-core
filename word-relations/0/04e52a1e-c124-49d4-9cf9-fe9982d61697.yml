@@ -1,0 +1,30 @@
+uuid: 04e52a1e-c124-49d4-9cf9-fe9982d61697
+type: word-relation
+group_uuid: 04e52a1e-c124-49d4-9cf9-fe9982d61697
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 論語
+    line_uuid: 157a9e10-3581-4a82-98e4-aa6d0cefd887
+    textline: 未若貧而樂
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: 157a9e10-3581-4a82-98e4-aa6d0cefd887
+    textline: 未若貧而樂
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

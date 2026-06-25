@@ -1,0 +1,32 @@
+uuid: f260db4b-636b-4b26-a0db-4b636b6b2600
+type: word-relation
+group_uuid: 5807b963-11cf-5c82-9662-ad0a99bb80b9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c338872f-3dea-4ca2-8fc9-d0cb521d05c0
+  text: 天地
+  concept: UNIVERSE
+  concept_uuid: 383dc31a-fb6a-4c5a-9182-83a8cb967831
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-6a.24
+    textline: 威動天地
+    offset: 3
+    range: 2
+right:
+  word_uuid: 1c2050de-6414-4377-9954-e55f6a70acd4
+  text: 海內
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-6a.25
+    textline: 聲懾海內
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-23T17:01:02.043+09:00'

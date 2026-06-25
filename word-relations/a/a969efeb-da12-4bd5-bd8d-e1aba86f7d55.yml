@@ -1,0 +1,32 @@
+uuid: a969efeb-da12-4bd5-bd8d-e1aba86f7d55
+type: word-relation
+group_uuid: a969efeb-da12-4bd5-bd8d-e1aba86f7d55
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 論衡
+    line_uuid: 04ac55a7-4a4c-48f3-9c63-7ef3da943bee
+    line_id: KR3j0080_tls_005-5a.9
+    textline: 人物受性有厚薄也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5c9617a6-a502-4e12-a2b0-22e4d5ab2ef3
+  text: 物
+  concept: ANIMAL
+  concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+  attestation:
+    text_title: 論衡
+    line_uuid: 04ac55a7-4a4c-48f3-9c63-7ef3da943bee
+    line_id: KR3j0080_tls_005-5a.9
+    textline: 人物受性有厚薄也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

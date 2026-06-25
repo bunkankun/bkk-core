@@ -1,0 +1,32 @@
+uuid: a22c2cb3-5880-4134-9fa5-79d44c7c6e01
+type: word-relation
+group_uuid: 5bd16e74-801e-4fc8-b197-3da92ca452c2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 5e223b18-1bb8-4c38-ba49-2aa184dabfdd
+  text: 效
+  concept: RISK
+  concept_uuid: 36e1fa8e-0596-4eed-a000-dfae2593bf0f
+  attestation:
+    text_title: 孟子
+    line_uuid: 1f238618-e7b4-474d-bf88-9a245350c429
+    line_id: KR1h0001_tls_002-67a.1
+    textline: 效死勿去
+    offset: 1
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 孟子
+    line_uuid: 1f238618-e7b4-474d-bf88-9a245350c429
+    line_id: KR1h0001_tls_002-67a.1
+    textline: 效死勿去
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 89a4bc6b-ba51-495a-a4bc-6bba51095ad2
+type: word-relation
+group_uuid: f9afd5c4-510b-5fbf-9f4f-a763a27dfe28
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 632ba18e-a8d2-40c4-b445-c2dcc54548f2
+  text: 機
+  concept: LOOM
+  concept_uuid: 3ba821c8-320c-45e6-8432-c9cc56527bbb
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.15
+    textline: 後世為之機杼勝複[=滕椱]以便其用，
+    offset: 5
+    range: 1
+right:
+  word_uuid: ea6ec0b9-d55e-4b93-bf04-6819d93fa888
+  text: 杼
+  concept: SHUTTLE
+  concept_uuid: 50b92a4a-9cc9-4cbb-a3bc-8815210dc7fe
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.15
+    textline: 後世為之機杼勝複[=滕椱]以便其用，
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:31:15.433+09:00'

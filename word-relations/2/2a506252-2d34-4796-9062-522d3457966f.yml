@@ -1,0 +1,32 @@
+uuid: 2a506252-2d34-4796-9062-522d3457966f
+type: word-relation
+group_uuid: 037b70c4-e513-5496-97ba-6f868c169171
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e0c38955-6415-47c7-a121-f209194cbbe8
+  text: 居
+  concept: DWELLING
+  concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-89a.5
+    textline: 離其居也
+    offset: 3
+    range: 1
+right:
+  word_uuid: e0328c25-5d9a-42d5-b147-6de7ffb744bd
+  text: 處
+  concept: DWELL
+  concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-89a.8
+    textline: 非其處也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-13T04:14:28.501+09:00'

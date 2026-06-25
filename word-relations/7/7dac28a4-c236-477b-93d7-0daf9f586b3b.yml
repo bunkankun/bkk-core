@@ -1,0 +1,30 @@
+uuid: 7dac28a4-c236-477b-93d7-0daf9f586b3b
+type: word-relation
+group_uuid: 390a1eb0-f557-4822-91a2-03fda84c04f9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 韓非子
+    line_uuid: ebeeada3-b948-4008-83d4-b6e55a4c87e7
+    textline: 疾生則智慧衰
+    offset: 5
+    range: 1
+right:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 韓非子
+    line_uuid: ebeeada3-b948-4008-83d4-b6e55a4c87e7
+    textline: 疾生則智慧衰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

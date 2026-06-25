@@ -1,0 +1,32 @@
+uuid: dd6c7459-ac9c-4fa0-9da4-60ff93f26cc5
+type: word-relation
+group_uuid: dd6c7459-ac9c-4fa0-9da4-60ff93f26cc5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 332574da-def8-4947-b4b6-56c3d7b96720
+  text: 棄
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 論衡
+    line_uuid: 12500a58-a561-4757-bfee-cb396b5518cd
+    line_id: KR3j0080_tls_001-3a.21
+    textline: 故至言棄捐
+    offset: 4
+    range: 1
+right:
+  word_uuid: 95a4ca0b-f33f-4f06-a547-686736b6c1ba
+  text: 捐
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 論衡
+    line_uuid: 12500a58-a561-4757-bfee-cb396b5518cd
+    line_id: KR3j0080_tls_001-3a.21
+    textline: 故至言棄捐
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

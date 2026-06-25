@@ -1,0 +1,32 @@
+uuid: 7644023b-aa02-4697-8f07-89a3621c55b4
+type: word-relation
+group_uuid: 7644023b-aa02-4697-8f07-89a3621c55b4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 韓非子
+    line_uuid: ebd0ee4b-8d7d-4ac2-a7cd-70bed78d7bf5
+    line_id: KR3c0005_tls_012-21a.3
+    textline: 親近不疑
+    offset: 1
+    range: 1
+right:
+  word_uuid: cd37beed-d4f3-4b7a-ae26-4467255d0355
+  text: 近
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 韓非子
+    line_uuid: ebd0ee4b-8d7d-4ac2-a7cd-70bed78d7bf5
+    line_id: KR3c0005_tls_012-21a.3
+    textline: 親近不疑
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

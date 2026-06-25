@@ -1,0 +1,18 @@
+uuid: 6c4d861a-4001-49fa-89f0-13d6f9875279
+type: word-relation
+group_uuid: 87e44547-4385-52b0-bf74-2a90d9168e12
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7ac154ea-929e-4748-9f51-62e2cb8259a1
+  text: 豐酆
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+right:
+  word_uuid: f9519591-aaa7-44df-9f06-82fdae17d3f0
+  text: 歉歉
+  concept: NEED
+  concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+source:
+  source_file: word-relations.xml

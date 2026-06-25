@@ -1,0 +1,32 @@
+uuid: bee22138-6a8c-426f-a08a-29a29f0ec801
+type: word-relation
+group_uuid: bee22138-6a8c-426f-a08a-29a29f0ec801
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4bac8866-7213-4b8c-a905-d3889a7aee9c
+  text: 貌
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e45eccf-9fce-45a7-92c2-ad982c514a26
+    line_id: KR3c0005_tls_009-3a.10
+    textline: 觀貌察色
+    offset: 2
+    range: 1
+right:
+  word_uuid: b97645e3-02dd-4ed7-ae8e-da285b8ab821
+  text: 色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e45eccf-9fce-45a7-92c2-ad982c514a26
+    line_id: KR3c0005_tls_009-3a.10
+    textline: 觀貌察色
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

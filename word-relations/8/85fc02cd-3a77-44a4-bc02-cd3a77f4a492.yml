@@ -1,0 +1,32 @@
+uuid: 85fc02cd-3a77-44a4-bc02-cd3a77f4a492
+type: word-relation
+group_uuid: aa482544-b760-5252-adf3-83f21a203e08
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1c2050de-6414-4377-9954-e55f6a70acd4
+  text: 海內
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-41a.22
+    textline: 非能盡害海內之眾也
+    offset: 5
+    range: 2
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-41a.23
+    textline: 害一人而天下離叛
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-03T19:56:26.791+09:00'

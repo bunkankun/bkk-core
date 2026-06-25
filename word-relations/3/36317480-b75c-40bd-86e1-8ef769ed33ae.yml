@@ -1,0 +1,32 @@
+uuid: 36317480-b75c-40bd-86e1-8ef769ed33ae
+type: word-relation
+group_uuid: 36317480-b75c-40bd-86e1-8ef769ed33ae
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d16474a9-8e7e-4268-96d8-88993b7d7c66
+  text: 鮮
+  concept: FISH
+  concept_uuid: 9ffb2c11-2835-4d6c-8fec-91d47ef90809
+  attestation:
+    text_title: 韓非子
+    line_uuid: b669afb4-c6c0-4bd6-93cd-bdcb19bc66e1
+    line_id: KR3c0005_tls_020-72a.5
+    textline: “治大國者若烹小鮮”
+    offset: 9
+    range: 1
+right:
+  word_uuid: 045bfc58-b263-4015-9321-d8f8da117073
+  text: 小
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 韓非子
+    line_uuid: b669afb4-c6c0-4bd6-93cd-bdcb19bc66e1
+    line_id: KR3c0005_tls_020-72a.5
+    textline: “治大國者若烹小鮮”
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

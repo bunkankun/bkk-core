@@ -1,0 +1,32 @@
+uuid: 33499271-4f30-4cc1-a7b3-273345839fa0
+type: word-relation
+group_uuid: 33499271-4f30-4cc1-a7b3-273345839fa0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4b775b86-4287-4377-8387-cee236bdbda2
+  text: 觀
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 論衡
+    line_uuid: bd8d0fc9-8555-4972-8782-197d3610e791
+    line_id: KR3j0080_tls_001-7a.6
+    textline: 觀鑒治內
+    offset: 1
+    range: 1
+right:
+  word_uuid: df1dc847-b86f-4d82-9458-6b1ae8628332
+  text: 鑒
+  concept: LOOK
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+  attestation:
+    text_title: 論衡
+    line_uuid: bd8d0fc9-8555-4972-8782-197d3610e791
+    line_id: KR3j0080_tls_001-7a.6
+    textline: 觀鑒治內
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

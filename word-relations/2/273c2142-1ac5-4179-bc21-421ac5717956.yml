@@ -1,0 +1,32 @@
+uuid: 273c2142-1ac5-4179-bc21-421ac5717956
+type: word-relation
+group_uuid: 07ee729d-dec0-5fea-a37f-506f83cd4fb0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fff43b2d-bcbc-4753-9621-d0184c9b4062
+  text: 專
+  concept: COMBINE
+  concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_008-6a.107
+    textline: 夫天地專而為一
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2312e186-562c-478b-a1b8-6aeed3023199
+  text: 一
+  concept: UNITE
+  concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_008-6a.107
+    textline: 夫天地專而為一
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T17:15:32.258+09:00'

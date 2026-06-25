@@ -1,0 +1,32 @@
+uuid: 00daaa4e-bbd2-4b47-82bc-97101333ea74
+type: word-relation
+group_uuid: 00daaa4e-bbd2-4b47-82bc-97101333ea74
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ff372309-db2d-4053-8bb4-b5006d7694eb
+  text: 誅
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 904b48a9-cb41-411d-a699-12766bc1e0e5
+    line_id: KR3c0005_tls_014-61a.8
+    textline: 行重罰嚴誅
+    offset: 5
+    range: 1
+right:
+  word_uuid: f0210b75-1717-4d4a-b182-3390cab68f75
+  text: 嚴
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 904b48a9-cb41-411d-a699-12766bc1e0e5
+    line_id: KR3c0005_tls_014-61a.8
+    textline: 行重罰嚴誅
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

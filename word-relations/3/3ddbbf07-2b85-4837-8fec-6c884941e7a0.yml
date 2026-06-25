@@ -1,0 +1,31 @@
+uuid: 3ddbbf07-2b85-4837-8fec-6c884941e7a0
+type: word-relation
+group_uuid: 3ddbbf07-2b85-4837-8fec-6c884941e7a0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 老子
+    line_uuid: 22c2bb62-ef4b-4fa6-a728-09dc1d866ae1
+    textline: 自愛
+    offset: 6
+    range: 1
+right:
+  word_uuid: 796890ee-1059-4594-b490-8aa7810d1f8a
+  text: 貴
+  concept: APPRECIATE
+  concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+  attestation:
+    text_title: 老子
+    line_uuid: 0e7068f6-2cc8-4b76-9204-becaf88a8e53
+    line_id: KR5f0019_tls_000-89a.63
+    textline: 不自貴
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

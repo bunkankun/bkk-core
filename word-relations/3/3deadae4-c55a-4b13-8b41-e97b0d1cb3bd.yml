@@ -1,0 +1,32 @@
+uuid: 3deadae4-c55a-4b13-8b41-e97b0d1cb3bd
+type: word-relation
+group_uuid: 3deadae4-c55a-4b13-8b41-e97b0d1cb3bd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 89bcb0c1-d3e2-461f-a8c0-219aff256394
+  text: 芻
+  concept: HAY
+  concept_uuid: 850a98f1-b50e-4008-9410-ad92c84e0d32
+  attestation:
+    text_title: 老子
+    line_uuid: 6a4d116a-2180-4822-a25d-5925d1081e14
+    line_id: KR5c0057_tls_005-1a.4
+    textline: 以萬物為芻狗
+    offset: 5
+    range: 1
+right:
+  word_uuid: ab84a1f5-bde9-4595-b325-548afb2c046d
+  text: 狗
+  concept: DOG
+  concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+  attestation:
+    text_title: 老子
+    line_uuid: 6a4d116a-2180-4822-a25d-5925d1081e14
+    line_id: KR5c0057_tls_005-1a.4
+    textline: 以萬物為芻狗
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

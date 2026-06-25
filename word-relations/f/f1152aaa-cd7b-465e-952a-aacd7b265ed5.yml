@@ -1,0 +1,32 @@
+uuid: f1152aaa-cd7b-465e-952a-aacd7b265ed5
+type: word-relation
+group_uuid: 94266076-f71a-5d02-b03b-62fd0d45fe1f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_024-23a.6
+    textline: 學一先生之言
+    offset: 1
+    range: 1
+right:
+  word_uuid: ba1fc21f-8530-4805-a938-a5a12b5b9e21
+  text: 言
+  concept: WORD
+  concept_uuid: aecf371d-2cfd-4924-9e21-fee14f8e43e2
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_024-23a.6
+    textline: 學一先生之言
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T21:08:35.948+09:00'

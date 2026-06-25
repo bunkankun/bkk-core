@@ -1,0 +1,32 @@
+uuid: c23131c8-31fd-4e07-b131-c831fd8e07e9
+type: word-relation
+group_uuid: 13dde8bb-8077-4e32-905d-e00b213e1d85
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_007-22a.8
+    textline: 叔善射忌
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_007-22a.9
+    textline: 又良御忌
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-07T18:44:37.797+09:00'

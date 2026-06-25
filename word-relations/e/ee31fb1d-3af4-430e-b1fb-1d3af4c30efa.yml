@@ -1,0 +1,32 @@
+uuid: ee31fb1d-3af4-430e-b1fb-1d3af4c30efa
+type: word-relation
+group_uuid: 076a2618-96b7-5129-b27f-32160c8ac241
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a450c79f-e957-4f7f-8823-7e399bd55373
+  text: 一
+  concept: ONE
+  concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_008-6a.84
+    textline: 合於一道
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5d197d62-8be3-4eca-8d7a-df78c014bb38
+  text: 道
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_008-6a.84
+    textline: 合於一道
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T17:13:47.826+09:00'

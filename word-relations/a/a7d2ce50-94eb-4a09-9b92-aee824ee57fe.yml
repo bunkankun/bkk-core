@@ -1,0 +1,32 @@
+uuid: a7d2ce50-94eb-4a09-9b92-aee824ee57fe
+type: word-relation
+group_uuid: d98662db-31eb-438d-977c-d610f199fcbe
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 045bfc58-b263-4015-9321-d8f8da117073
+  text: 小
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e70eb1f-81c5-43bb-85fb-e32f7bed26a5
+    line_id: KR3c0005_tls_009-18a.3
+    textline: 小國必聽
+    offset: 1
+    range: 1
+right:
+  word_uuid: 13808986-a234-484d-a412-862d3e387251
+  text: 大
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 84d03f1e-e08e-485c-9fc2-b9de598071ab
+    line_id: KR3c0005_tls_009-18a.2
+    textline: 大國之所索
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cde8e63b-3613-43cf-a03d-72103a331856
+type: word-relation
+group_uuid: cde8e63b-3613-43cf-a03d-72103a331856
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 227cf5d5-7c24-4ff0-8274-ad1b26c2959b
+    line_id: KR6q0002_Yan_003-1104a.23
+    textline: 此謂聖人”
+    offset: 3
+    range: 2
+right:
+  word_uuid: fba31535-9034-4c95-a2ac-6f5f27421cd2
+  text: 凡夫
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 87d0785b-45d6-4c74-bcef-859601ef4953
+    line_id: KR6q0002_Yan_003-1104a.26
+    textline: 與凡夫有何異”
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

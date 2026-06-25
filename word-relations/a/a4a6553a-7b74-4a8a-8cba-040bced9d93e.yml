@@ -1,0 +1,21 @@
+uuid: a4a6553a-7b74-4a8a-8cba-040bced9d93e
+type: word-relation
+group_uuid: c9753c6f-d135-5d81-9385-d1141d1d11ed
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6b684696-ea4d-48bd-9cbb-079ef180b95e
+  text: 逮
+  concept: UNTIL
+  concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+right:
+  word_uuid: d4528a69-ff6e-474e-9ab6-1b63370318c8
+  text: 及
+  concept: UNTIL
+  concept_uuid: e0ba8b6b-8c62-4279-9a06-f4611be42800
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

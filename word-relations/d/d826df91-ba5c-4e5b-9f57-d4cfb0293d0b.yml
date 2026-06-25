@@ -1,0 +1,32 @@
+uuid: d826df91-ba5c-4e5b-9f57-d4cfb0293d0b
+type: word-relation
+group_uuid: d826df91-ba5c-4e5b-9f57-d4cfb0293d0b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 2e29f9da-7d8b-477a-bd22-caa00396cb61
+  text: 執
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3bd97c0a-61af-4419-b603-72003a268e76
+    line_id: KR3c0005_tls_005-21a.3
+    textline: 則執其契
+    offset: 2
+    range: 1
+right:
+  word_uuid: ed872221-feaf-4a7e-8115-cc9979249b60
+  text: 契
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3bd97c0a-61af-4419-b603-72003a268e76
+    line_id: KR3c0005_tls_005-21a.3
+    textline: 則執其契
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

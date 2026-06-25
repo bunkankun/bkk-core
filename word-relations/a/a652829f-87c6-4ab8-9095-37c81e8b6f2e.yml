@@ -1,0 +1,32 @@
+uuid: a652829f-87c6-4ab8-9095-37c81e8b6f2e
+type: word-relation
+group_uuid: 3f23c1d0-3d81-431c-914c-4b26ed37d314
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8507421b-df90-4aa3-a5e3-f4dfd84ff4cb
+  text: 材
+  concept: TIMBER
+  concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+  attestation:
+    text_title: 孟子
+    line_uuid: 8feffbe1-1ad5-441f-b539-6e4994ffbc16
+    line_id: KR1h0001_tls_001-9a.6
+    textline: 材木不可勝用
+    offset: 1
+    range: 1
+right:
+  word_uuid: 70a622d2-4c59-4db7-9af7-ef4a262438af
+  text: 木
+  concept: TIMBER
+  concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+  attestation:
+    text_title: 孟子
+    line_uuid: 8feffbe1-1ad5-441f-b539-6e4994ffbc16
+    line_id: KR1h0001_tls_001-9a.6
+    textline: 材木不可勝用
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

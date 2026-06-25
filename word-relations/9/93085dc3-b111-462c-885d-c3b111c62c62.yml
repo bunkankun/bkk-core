@@ -1,0 +1,32 @@
+uuid: 93085dc3-b111-462c-885d-c3b111c62c62
+type: word-relation
+group_uuid: feecb3b1-31ab-56e0-a18e-1cae7e4359c9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 793a3872-e1ef-45c1-ba38-72e1ef85c1e5
+  text: 濁
+  concept: TONE
+  concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.46
+    textline: 濁之則鬱而无轉
+    offset: 1
+    range: 1
+right:
+  word_uuid: b0e59c7a-1297-4a50-b629-80c602d4c7e3
+  text: 清
+  concept: TONE
+  concept_uuid: 3b0e1fc6-f5ab-4fc2-9b4a-cb3039c44f17
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.47
+    textline: 清之則憔而不調
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:39:50.649+09:00'

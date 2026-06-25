@@ -1,0 +1,32 @@
+uuid: 95c3df69-6f01-4b17-83df-696f012b1742
+type: word-relation
+group_uuid: e0442617-422a-5937-b3e7-6bd0dacb52e3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dbc776da-9ddc-4c13-8776-da9ddc9c13b5
+  text: 居息
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_020-41a.2
+    textline: 或燕燕居息
+    offset: 4
+    range: 2
+right:
+  word_uuid: 1605d40a-bc23-4e46-85d4-0abc230e4637
+  text: 事國
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_020-41a.3
+    textline: 或盡瘁事國
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-19T21:30:36.187+09:00'

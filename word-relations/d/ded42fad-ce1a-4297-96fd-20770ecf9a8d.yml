@@ -1,0 +1,32 @@
+uuid: ded42fad-ce1a-4297-96fd-20770ecf9a8d
+type: word-relation
+group_uuid: b4615b63-43cc-46da-927e-347f27bdb20d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9ada0487-b1e9-4814-a81f-b795f9317d2d
+  text: 府
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6b667ed4-4a33-4ce3-a0eb-779261e66d5d
+    line_id: KR3c0005_tls_010-58a.5
+    textline: 不藏於府庫
+    offset: 4
+    range: 1
+right:
+  word_uuid: 16f10c9a-f138-44da-b8c8-15f158c996d0
+  text: 庫
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6b667ed4-4a33-4ce3-a0eb-779261e66d5d
+    line_id: KR3c0005_tls_010-58a.5
+    textline: 不藏於府庫
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

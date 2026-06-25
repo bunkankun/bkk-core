@@ -1,0 +1,21 @@
+uuid: 4698c915-fe81-41ed-adc9-a4dde17a6ec9
+type: word-relation
+group_uuid: f337f649-fb01-5919-b67f-5556e93d869d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+right:
+  word_uuid: 37450e32-e41f-47fd-9539-74dbec407805
+  text: 授受
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

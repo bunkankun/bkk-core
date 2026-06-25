@@ -1,0 +1,21 @@
+uuid: 85d6282c-cff3-4a5f-bad0-2843c786c876
+type: word-relation
+group_uuid: de4573eb-44be-5b98-afb2-c59afbef2d8e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 08ba19de-e07e-4334-b19f-390a16ae3c6c
+  text: 撫
+  concept: CONSOLE
+  concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+right:
+  word_uuid: e0ebcaa1-8695-4d89-844b-f6154d5d52b1
+  text: 慰
+  concept: CONSOLE
+  concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

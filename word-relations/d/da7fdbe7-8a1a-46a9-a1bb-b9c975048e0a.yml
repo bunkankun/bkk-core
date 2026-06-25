@@ -1,0 +1,32 @@
+uuid: da7fdbe7-8a1a-46a9-a1bb-b9c975048e0a
+type: word-relation
+group_uuid: da7fdbe7-8a1a-46a9-a1bb-b9c975048e0a
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 6ec70f7e-2668-4a4a-b78d-c142f8ab7d4b
+  text: 過
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論語
+    line_uuid: f333c111-054d-42e7-9c38-ea3e2b41b7a0
+    line_id: KR1h0004_tls_001-9a.1
+    textline: 過則勿憚改
+    offset: 1
+    range: 1
+right:
+  word_uuid: e46ef3f3-ae5f-4bbf-b3ed-cb6bbfa74b91
+  text: 改
+  concept: IMPROVE
+  concept_uuid: ca1ccfc1-a790-459f-8a61-623207cbdbd5
+  attestation:
+    text_title: 論語
+    line_uuid: f333c111-054d-42e7-9c38-ea3e2b41b7a0
+    line_id: KR1h0004_tls_001-9a.1
+    textline: 過則勿憚改
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

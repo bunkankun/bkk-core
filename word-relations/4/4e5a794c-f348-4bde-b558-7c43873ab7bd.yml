@@ -1,0 +1,32 @@
+uuid: 4e5a794c-f348-4bde-b558-7c43873ab7bd
+type: word-relation
+group_uuid: 4e5a794c-f348-4bde-b558-7c43873ab7bd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c040f387-4567-48b0-a791-14d3d97ae263
+  text: 罪
+  concept: BLAME
+  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+  attestation:
+    text_title: 論衡
+    line_uuid: 4ec79506-58e9-423c-a8b8-a6af3063f6da
+    line_id: KR3j0080_tls_002-6a.32
+    textline: 此又孔子之所罪
+    offset: 7
+    range: 1
+right:
+  word_uuid: 03e43e02-9f51-41c9-b769-c552a06f7c54
+  text: 愆
+  concept: BLAME
+  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+  attestation:
+    text_title: 論衡
+    line_uuid: badb14cb-2b0e-4098-baa5-7160a0d0054e
+    line_id: KR3j0080_tls_002-6a.33
+    textline: 孟軻之所愆也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

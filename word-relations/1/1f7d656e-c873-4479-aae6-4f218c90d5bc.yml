@@ -1,0 +1,32 @@
+uuid: 1f7d656e-c873-4479-aae6-4f218c90d5bc
+type: word-relation
+group_uuid: 1f7d656e-c873-4479-aae6-4f218c90d5bc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 355ceea2-26e5-4ef6-aeb9-38bab2399216
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 45d65bbd-35e6-4013-a6ca-9c9ea150c94d
+    line_id: KR3c0005_tls_020-38a.7
+    textline: 凡失其所欲之路而妄行者之謂迷
+    offset: 10
+    range: 1
+right:
+  word_uuid: 2d06494c-0835-41c4-a04c-5dcd84b8f985
+  text: 妄
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 45d65bbd-35e6-4013-a6ca-9c9ea150c94d
+    line_id: KR3c0005_tls_020-38a.7
+    textline: 凡失其所欲之路而妄行者之謂迷
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

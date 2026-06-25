@@ -1,0 +1,32 @@
+uuid: b2359508-f9fa-4699-b595-08f9fa069967
+type: word-relation
+group_uuid: 4ee300f1-80ff-594d-b1f0-9baea3619fd1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: aa7971d9-6c4f-4839-821e-4c8333ac9fe5
+  text: 可
+  concept: SHOULD
+  concept_uuid: d0fba9df-4d64-437e-a88e-9f848207a2ce
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.31
+    textline: 故變古未可非
+    offset: 5
+    range: 1
+right:
+  word_uuid: d5dd7680-9afc-4dec-8a03-2bdcd2d4c809
+  text: 足
+  concept: DESERVE
+  concept_uuid: 6bde907a-249f-4ab6-a5f7-07c71623336f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.32
+    textline: 而循俗未足多也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:58:16.195+09:00'

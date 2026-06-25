@@ -1,0 +1,31 @@
+uuid: 91035493-4740-4cee-844d-2e5530862ba3
+type: word-relation
+group_uuid: 91035493-4740-4cee-844d-2e5530862ba3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8eb5b2ed-985c-44b4-9efa-c5be4737ee9c
+  text: 諸
+  concept: MANY
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  attestation:
+    text_title: 法華經
+    line_uuid: 161c9d2a-f0ab-4381-b6d2-3cc6362710b0
+    textline: 以諸因緣
+    offset: 2
+    range: 1
+right:
+  word_uuid: e46c77c3-ae30-4c92-89ab-106a64c59729
+  text: 無量
+  concept: INFINITE
+  concept_uuid: a1bc4e89-f29d-4361-babb-3f2211dd6e62
+  attestation:
+    text_title: 法華經
+    line_uuid: 8af0f2fd-3772-4d5a-922e-a83f0eb1507c
+    line_id: KR6d0001_T_005-0038a.51
+    textline: 無量譬喻
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

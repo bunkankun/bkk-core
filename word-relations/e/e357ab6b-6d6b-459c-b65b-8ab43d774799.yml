@@ -1,0 +1,21 @@
+uuid: e357ab6b-6d6b-459c-b65b-8ab43d774799
+type: word-relation
+group_uuid: 0f8a02dd-5275-5828-a649-f6f710a947bc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 43e3d110-d31c-4590-afd4-81583a5057b2
+  text: 絕
+  concept: BREAK OFF
+  concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+right:
+  word_uuid: 26845234-b501-4a76-8aea-505ca14c9eec
+  text: 繼
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

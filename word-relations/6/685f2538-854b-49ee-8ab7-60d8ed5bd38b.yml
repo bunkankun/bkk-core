@@ -1,0 +1,32 @@
+uuid: 685f2538-854b-49ee-8ab7-60d8ed5bd38b
+type: word-relation
+group_uuid: 685f2538-854b-49ee-8ab7-60d8ed5bd38b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bfba9917-9ffe-4e67-a1bf-ec9c5e2b25a6
+  text: 孤
+  concept: LONELY
+  concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+  attestation:
+    text_title: 韓非子
+    line_uuid: cc62d4fc-d061-433d-87c1-028534a23b4f
+    line_id: KR3c0005_tls_011-12a.3
+    textline: 無黨孤特
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9818f56d-d931-4ede-be92-b17009222c0c
+  text: 特
+  concept: ALONE
+  concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+  attestation:
+    text_title: 韓非子
+    line_uuid: cc62d4fc-d061-433d-87c1-028534a23b4f
+    line_id: KR3c0005_tls_011-12a.3
+    textline: 無黨孤特
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 1649d43b-2fa4-4b11-89d4-3b2fa40b1139
+type: word-relation
+group_uuid: a8eb3352-05a1-5378-852f-ce43337bdf5f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6e599a48-8a8a-47c1-ad90-c7ea76267b6c
+  text: 其
+  concept: CERTAIN
+  concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_005-303a.13
+    textline: 天其或者欲使衛討邢乎
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5753add8-7f1f-41bf-9755-14a97a3b5a5a
+  text: 或者
+  concept: PROBABLE
+  concept_uuid: cc26ca83-0ac3-4ff6-a1e8-a183960424d7
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_005-303a.13
+    textline: 天其或者欲使衛討邢乎
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-01T16:29:40.057+09:00'

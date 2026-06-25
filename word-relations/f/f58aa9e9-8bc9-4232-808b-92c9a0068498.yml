@@ -1,0 +1,32 @@
+uuid: f58aa9e9-8bc9-4232-808b-92c9a0068498
+type: word-relation
+group_uuid: f58aa9e9-8bc9-4232-808b-92c9a0068498
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: c5f5487b-75ca-487e-ac6d-eb5e28128d4f
+  text: 簡
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 韓非子
+    line_uuid: b00f44ea-8ef2-4ebb-ae54-6d0fa0de0c3e
+    line_id: KR3c0005_tls_009-32a.6
+    textline: 有功者隳而簡其業
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7be4cf02-dc34-4b61-bd6c-dff159981025
+  text: 業
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: b00f44ea-8ef2-4ebb-ae54-6d0fa0de0c3e
+    line_id: KR3c0005_tls_009-32a.6
+    textline: 有功者隳而簡其業
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

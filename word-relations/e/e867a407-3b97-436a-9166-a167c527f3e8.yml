@@ -1,0 +1,23 @@
+uuid: e867a407-3b97-436a-9166-a167c527f3e8
+type: word-relation
+group_uuid: 70f8a2fe-77dc-5bf5-838a-c54d7469d031
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 90b6f979-8ace-4430-a409-19e32b02ec4b
+  text: 驕
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+right:
+  word_uuid: 1402deca-7b58-40e9-9110-440dd28702c7
+  text: 謙
+  concept: YIELD
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '313'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

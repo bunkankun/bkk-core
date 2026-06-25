@@ -1,0 +1,32 @@
+uuid: 44fb9d2a-c769-4314-830d-dbbc51298a47
+type: word-relation
+group_uuid: 44fb9d2a-c769-4314-830d-dbbc51298a47
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5c5b2978-674f-49c5-9f7f-26b2aa5c0cbe
+  text: 衣
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 論語
+    line_uuid: ae0161f7-1bf0-49d6-bfcd-c586c34dd0b7
+    line_id: KR1h0004_tls_008-21a.5
+    textline: 惡衣服而致美乎黻冕
+    offset: 2
+    range: 1
+right:
+  word_uuid: b1d11bf5-dc52-4d72-9ac0-5054d11f01df
+  text: 服
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 論語
+    line_uuid: ae0161f7-1bf0-49d6-bfcd-c586c34dd0b7
+    line_id: KR1h0004_tls_008-21a.5
+    textline: 惡衣服而致美乎黻冕
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

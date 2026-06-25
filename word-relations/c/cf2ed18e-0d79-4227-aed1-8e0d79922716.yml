@@ -1,0 +1,32 @@
+uuid: cf2ed18e-0d79-4227-aed1-8e0d79922716
+type: word-relation
+group_uuid: 446002e3-f67e-5708-9f7c-683dc93014a6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 86986c51-de30-4b9c-986c-51de30fb9c24
+  text: 自由
+  concept: INDEPENDENT
+  concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+  attestation:
+    text_title: 翻譯名義集
+    line_id: KR6s0019_T_006-1152b.82
+    textline: 但驗尋常行心塵境自由不自由
+    offset: 9
+    range: 2
+right:
+  word_uuid: f8e7ad10-9d82-44d0-a7ad-109d8274d0b0
+  text: 不自由
+  concept: DEPEND ON
+  concept_uuid: 18111d76-cd07-4adf-a21d-e4c273df9d48
+  attestation:
+    text_title: 翻譯名義集
+    line_id: KR6s0019_T_006-1152b.82
+    textline: 但驗尋常行心塵境自由不自由
+    offset: 11
+    range: 3
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-15T18:22:01.592+09:00'

@@ -1,0 +1,30 @@
+uuid: f6b8cf03-bfb8-40f8-b43d-2cb559f5c425
+type: word-relation
+group_uuid: f6b8cf03-bfb8-40f8-b43d-2cb559f5c425
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7299f116-856e-42d0-93b1-604d312aa9de
+  text: 珍
+  concept: PRECIOUS
+  concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+  attestation:
+    text_title: 劉歆：遂初賦
+    line_uuid: 1e8db9ee-931f-4ac2-902a-fbe9b5f89370
+    textline: 140. 總萬物之珍怪
+    offset: 10
+    range: 1
+right:
+  word_uuid: f111cc15-3e54-4152-8ad6-2788932213a4
+  text: 怪
+  concept: PRECIOUS
+  concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+  attestation:
+    text_title: 劉歆：遂初賦
+    line_uuid: 1e8db9ee-931f-4ac2-902a-fbe9b5f89370
+    textline: 140. 總萬物之珍怪
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

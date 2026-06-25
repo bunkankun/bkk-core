@@ -1,0 +1,32 @@
+uuid: 2e1488dc-dec3-4f07-aa25-56b944657052
+type: word-relation
+group_uuid: 2e1488dc-dec3-4f07-aa25-56b944657052
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 69161666-23c0-4575-bb8e-b897706cbe61
+  text: 借
+  concept: BORROW
+  concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+  attestation:
+    text_title: 韓非子
+    line_uuid: fcdd3d9e-5dfe-4602-b2d7-0e4c1666b2f4
+    line_id: KR3c0005_tls_002-27a.4
+    textline: 使人來借道
+    offset: 4
+    range: 1
+right:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: fcdd3d9e-5dfe-4602-b2d7-0e4c1666b2f4
+    line_id: KR3c0005_tls_002-27a.4
+    textline: 使人來借道
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

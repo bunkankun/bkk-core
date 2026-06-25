@@ -1,0 +1,32 @@
+uuid: 0ab01067-5753-4e6f-b010-675753de6fdf
+type: word-relation
+group_uuid: ba9652a8-33ea-50a7-98f9-55218cdcf592
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: d32ea67d-0480-4e01-8a72-dc675c0ed731
+  text: 食
+  concept: FEED
+  concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_005-45a.15
+    textline: 治於人者食人
+    offset: 5
+    range: 1
+right:
+  word_uuid: e25f9834-565f-4844-9f98-34565f784426
+  text: 食於
+  concept: FEED
+  concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_005-45a.16
+    textline: 治人者食於人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T19:41:24.887+09:00'

@@ -1,0 +1,32 @@
+uuid: 26ce8478-0403-449e-9e77-a3417f238d5e
+type: word-relation
+group_uuid: 26ce8478-0403-449e-9e77-a3417f238d5e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d1855315-5fc0-4af0-a7f8-623a25faeab3
+  text: 戮
+  concept: EXECUTE
+  concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+  attestation:
+    text_title: 論語
+    line_uuid: 3545ab8c-b56b-470e-b412-7bbef3a835e5
+    line_id: KR1h0004_tls_005-2a.5
+    textline: 免於刑戮
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 論語
+    line_uuid: 3545ab8c-b56b-470e-b412-7bbef3a835e5
+    line_id: KR1h0004_tls_005-2a.5
+    textline: 免於刑戮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

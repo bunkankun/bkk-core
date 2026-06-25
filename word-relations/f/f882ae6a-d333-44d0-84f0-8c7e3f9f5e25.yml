@@ -1,0 +1,30 @@
+uuid: f882ae6a-d333-44d0-84f0-8c7e3f9f5e25
+type: word-relation
+group_uuid: f882ae6a-d333-44d0-84f0-8c7e3f9f5e25
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ea230cab-b68f-4c1d-8fc9-e909c0e2afce
+  text: 貞
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論衡
+    line_uuid: 2b037207-990e-439a-a520-7933c1b09d3f
+    textline: 貞良見妒
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 2b037207-990e-439a-a520-7933c1b09d3f
+    textline: 貞良見妒
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

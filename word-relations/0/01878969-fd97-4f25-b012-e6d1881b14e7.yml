@@ -1,0 +1,21 @@
+uuid: 01878969-fd97-4f25-b012-e6d1881b14e7
+type: word-relation
+group_uuid: 7267c9e0-24b6-5a1d-b42e-8a9a073a7ed1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+right:
+  word_uuid: 747e4ece-12fc-4a67-a420-fb0baf005724
+  text: 化
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

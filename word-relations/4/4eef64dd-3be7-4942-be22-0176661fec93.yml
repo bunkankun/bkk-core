@@ -1,0 +1,32 @@
+uuid: 4eef64dd-3be7-4942-be22-0176661fec93
+type: word-relation
+group_uuid: 4eef64dd-3be7-4942-be22-0176661fec93
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 833aad8d-a3a5-4a3d-ad80-3ac39668f919
+  text: 援
+  concept: TAKE
+  concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 23297c7f-d01f-4dd1-add4-86ce31cea784
+    line_id: KR3c0005_tls_010-35a.7
+    textline: 援琴而鼓
+    offset: 1
+    range: 1
+right:
+  word_uuid: e2582819-d8da-43c4-a98b-45b96c63ead5
+  text: 琴
+  concept: STRING INSTRUMENTS
+  concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+  attestation:
+    text_title: 韓非子
+    line_uuid: 23297c7f-d01f-4dd1-add4-86ce31cea784
+    line_id: KR3c0005_tls_010-35a.7
+    textline: 援琴而鼓
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a3122887-6d4a-4682-aa23-093adf025eea
+type: word-relation
+group_uuid: a3122887-6d4a-4682-aa23-093adf025eea
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4ca6eeb8-f930-4860-82ad-8921d77166ef
+  text: 兵
+  concept: SOLDIER
+  concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3538a016-cd5d-4ff2-a9d5-406615f3c357
+    line_id: KR3j0009_tls_005-35a.5
+    textline: 以銳兵克之於牧野
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7fdb2f00-f366-4c4e-80ba-ab8c890a6fe8
+  text: 銳
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3538a016-cd5d-4ff2-a9d5-406615f3c357
+    line_id: KR3j0009_tls_005-35a.5
+    textline: 以銳兵克之於牧野
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

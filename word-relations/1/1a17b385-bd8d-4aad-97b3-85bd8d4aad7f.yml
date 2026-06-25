@@ -1,0 +1,32 @@
+uuid: 1a17b385-bd8d-4aad-97b3-85bd8d4aad7f
+type: word-relation
+group_uuid: 928b9e5a-9ebd-5a2e-8175-8fa7e2d57e10
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 629ab052-71bf-4d00-a799-f39b1bb5555a
+  text: 先
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.7
+    textline: 先王之制
+    offset: 1
+    range: 1
+right:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.7
+    textline: 先王之制
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T22:57:36.227+09:00'

@@ -1,0 +1,32 @@
+uuid: 20e155fe-a17b-4539-ace8-dde733fab256
+type: word-relation
+group_uuid: 20e155fe-a17b-4539-ace8-dde733fab256
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6ebdb8cc-5b42-4267-8958-016aa6611937
+  text: 休
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: daef1815-b340-47ab-90de-8e25ea99f3af
+    line_id: KR3j0009_tls_003-30a.22
+    textline: 日夜不休
+    offset: 4
+    range: 1
+right:
+  word_uuid: d608d387-682c-410d-8dbe-7314d5603a2b
+  text: 不
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: daef1815-b340-47ab-90de-8e25ea99f3af
+    line_id: KR3j0009_tls_003-30a.22
+    textline: 日夜不休
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

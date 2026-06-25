@@ -1,0 +1,32 @@
+uuid: bfe7b5e1-0a32-4ad9-8463-bea58b9cd369
+type: word-relation
+group_uuid: bfe7b5e1-0a32-4ad9-8463-bea58b9cd369
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論語
+    line_uuid: 4e566626-caa3-4b16-8fce-7d750f15d50e
+    line_id: KR1h0004_tls_002-21a.10
+    textline: 舉善而教不能
+    offset: 2
+    range: 1
+right:
+  word_uuid: a15a6fd5-cf66-4c76-a134-90c1329b7edb
+  text: 不能
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+  attestation:
+    text_title: 論語
+    line_uuid: 4e566626-caa3-4b16-8fce-7d750f15d50e
+    line_id: KR1h0004_tls_002-21a.10
+    textline: 舉善而教不能
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

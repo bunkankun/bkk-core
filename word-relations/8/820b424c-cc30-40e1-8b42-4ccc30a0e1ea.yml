@@ -1,0 +1,32 @@
+uuid: 820b424c-cc30-40e1-8b42-4ccc30a0e1ea
+type: word-relation
+group_uuid: 8959a23c-f8c5-5e15-8e3c-97e682f3b3c6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.2
+    textline: 故聖人所由曰道
+    offset: 7
+    range: 1
+right:
+  word_uuid: c0d152f5-533b-450b-a6d5-30bc5d407541
+  text: 事
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.3
+    textline: 所為曰事
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T00:14:01.975+09:00'

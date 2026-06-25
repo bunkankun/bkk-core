@@ -1,0 +1,32 @@
+uuid: 66310907-59f2-463f-b109-0759f2d63fa8
+type: word-relation
+group_uuid: 179a725a-cf98-50d6-923a-85a0a98cd7cf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d8944c6f-6379-44a2-b9da-4d306f0641b4
+  text: 之
+  concept: MONTH
+  concept_uuid: a4f255d5-fdc0-44c5-a7c0-71632973937e
+  attestation:
+    text_title: 南華真經註疏
+    line_id: KR5c0139_tls_001-017cs.10
+    textline: 月 終謂之晦
+    offset: 4
+    range: 1
+right:
+  word_uuid: d8944c6f-6379-44a2-b9da-4d306f0641b4
+  text: 之
+  concept: MONTH
+  concept_uuid: a4f255d5-fdc0-44c5-a7c0-71632973937e
+  attestation:
+    text_title: 南華真經註疏
+    line_id: KR5c0139_tls_001-017cs.10
+    textline: 月 終謂之晦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#jrwilliams'
+  date: '2023-10-09T08:29:06.598+09:00'

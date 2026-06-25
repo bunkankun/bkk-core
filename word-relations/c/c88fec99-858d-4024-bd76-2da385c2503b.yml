@@ -1,0 +1,21 @@
+uuid: c88fec99-858d-4024-bd76-2da385c2503b
+type: word-relation
+group_uuid: 1b014a35-5ab0-5111-a271-7214c347e1c3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+right:
+  word_uuid: 655237dc-6e95-4493-afe6-208e5a671924
+  text: 討
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

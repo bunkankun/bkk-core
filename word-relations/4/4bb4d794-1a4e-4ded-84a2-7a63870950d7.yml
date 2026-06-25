@@ -1,0 +1,18 @@
+uuid: 4bb4d794-1a4e-4ded-84a2-7a63870950d7
+type: word-relation
+group_uuid: 7b893a90-264c-50e5-9816-af3985ccadcb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+right:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+source:
+  source_file: word-relations.xml

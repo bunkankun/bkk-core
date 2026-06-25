@@ -1,0 +1,21 @@
+uuid: e3f4d341-f3d2-45ec-9fa2-57eefc0d1ba2
+type: word-relation
+group_uuid: ff8b8329-9f12-59a1-b0f3-9286d3a862ef
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 78256280-d92d-4889-836d-27c76ea94e1e
+  text: 浮
+  concept: FRIVOLOUS
+  concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+right:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

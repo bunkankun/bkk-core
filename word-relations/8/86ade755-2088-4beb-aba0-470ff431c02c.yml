@@ -1,0 +1,33 @@
+uuid: 86ade755-2088-4beb-aba0-470ff431c02c
+type: word-relation
+group_uuid: 86ade755-2088-4beb-aba0-470ff431c02c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 94406991-1230-4f94-a506-e8ceadcc2963
+  text: 通
+  concept: ARRIVE
+  concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: f905bd67-e640-42e3-9dae-c1daf75435e1
+    textline: 通達神明
+    offset: 1
+    range: 1
+right:
+  word_uuid: ed12672d-feaa-41b0-9868-1dd4c5fa4e91
+  text: 達
+  concept: ARRIVE
+  concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: f905bd67-e640-42e3-9dae-c1daf75435e1
+    textline: 通達神明
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

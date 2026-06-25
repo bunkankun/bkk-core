@@ -1,0 +1,32 @@
+uuid: b37bf660-062d-48c7-bbb2-95400bd0c9cf
+type: word-relation
+group_uuid: 92a9d4a4-3202-4929-87b5-d8dbeaf22dc0
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bf6a08cf-16d2-4f5a-a0b3-ed674e8fc9e1
+  text: 魂
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1fd83860-a5c0-4996-b204-dad179d5fac6
+    line_id: KR3c0005_tls_020-81a.4
+    textline: 魂魄不去
+    offset: 1
+    range: 1
+right:
+  word_uuid: 610d1374-a8a6-4754-8c57-e0d83da67ac2
+  text: 魄
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1fd83860-a5c0-4996-b204-dad179d5fac6
+    line_id: KR3c0005_tls_020-81a.4
+    textline: 魂魄不去
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

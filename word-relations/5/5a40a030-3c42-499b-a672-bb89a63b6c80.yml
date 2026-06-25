@@ -1,0 +1,32 @@
+uuid: 5a40a030-3c42-499b-a672-bb89a63b6c80
+type: word-relation
+group_uuid: 5a40a030-3c42-499b-a672-bb89a63b6c80
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 352e2ddc-e5b0-4cdd-9e5c-24a37ce8e50e
+  text: 孝
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 論語
+    line_uuid: 6ebe8858-bc0c-4ddc-9baf-34b93d4becd1
+    line_id: KR1h0004_tls_002-5a.2
+    textline: 孟懿子問孝
+    offset: 5
+    range: 1
+right:
+  word_uuid: e5d2b3d7-a586-4ed4-8c30-5ddbb82dad1b
+  text: 違
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 論語
+    line_uuid: cc3150b9-c1a1-4716-acf5-44899108f592
+    line_id: KR1h0004_tls_002-6a.1
+    textline: 「無違
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 46682ce4-0595-4950-bb71-79983c931431
+type: word-relation
+group_uuid: 46682ce4-0595-4950-bb71-79983c931431
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c8b55bad-4e24-46ed-ad8d-c4a569e26b53
+  text: 亟
+  concept: OFTEN
+  concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+  attestation:
+    text_title: 論衡
+    line_uuid: 5fa1b73f-791b-4093-a067-74454cacd1d2
+    line_id: KR3j0080_tls_004-3a.40
+    textline: 字乳亟數
+    offset: 3
+    range: 1
+right:
+  word_uuid: 96add057-7f86-475c-a7de-3c7deaf2638b
+  text: 數
+  concept: OFTEN
+  concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+  attestation:
+    text_title: 論衡
+    line_uuid: 5fa1b73f-791b-4093-a067-74454cacd1d2
+    line_id: KR3j0080_tls_004-3a.40
+    textline: 字乳亟數
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

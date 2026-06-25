@@ -1,0 +1,30 @@
+uuid: 82d2226f-2e9a-46d0-bf52-c5ce1b134c38
+type: word-relation
+group_uuid: bbe63d58-e23b-4b77-9902-700254ae39e1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b096ad4d-aa5b-4dda-9c66-463a07f2fa7a
+  text: 聽
+  concept: LISTEN
+  concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+  attestation:
+    text_title: 老子
+    line_uuid: 385a5ca0-5232-4399-9be8-36dccb28d4d6
+    textline: 聽之不聞
+    offset: 1
+    range: 1
+right:
+  word_uuid: 326aee14-98d8-4224-96f6-037c385c778d
+  text: 聞
+  concept: HEAR
+  concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+  attestation:
+    text_title: 老子
+    line_uuid: 385a5ca0-5232-4399-9be8-36dccb28d4d6
+    textline: 聽之不聞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

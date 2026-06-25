@@ -1,0 +1,32 @@
+uuid: d511b3f6-05f5-4366-91b3-f605f5936660
+type: word-relation
+group_uuid: 6bd4a959-9434-5d46-a2e4-623237a6c82f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f0897d4c-cc43-45fc-897d-4ccc4345fc78
+  text: 天地萬物
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 莊子集釋
+    line_id: KR5c0386_tls_009-9a.5
+    textline: 故天地萬物，
+    offset: 2
+    range: 4
+right:
+  word_uuid: 280c2ead-8507-42f9-8c2e-ad850732f9ae
+  text: 凡所有者
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 莊子集釋
+    line_id: KR5c0386_tls_009-9a.6
+    textline: 凡所有者，
+    offset: 1
+    range: 4
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-10T19:45:15.52+09:00'

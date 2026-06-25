@@ -1,0 +1,32 @@
+uuid: 9b1d2fca-cf01-4b07-9d2f-cacf018b07cb
+type: word-relation
+group_uuid: f88b0b68-a9b8-5a03-b0a6-f29c983a0c20
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_008-2a.4
+    textline: 春夏學干戈
+    offset: 3
+    range: 1
+right:
+  word_uuid: a4fc87db-3c9d-46bb-b145-1d8171c245ce
+  text: 干戈
+  concept: WARFARE
+  concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_008-2a.4
+    textline: 春夏學干戈
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-29T17:43:30.412+09:00'

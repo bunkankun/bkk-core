@@ -1,0 +1,18 @@
+uuid: 4503d875-df8a-48be-af69-1a61221899b0
+type: word-relation
+group_uuid: f8a769d0-02e2-58e8-80ed-e2d78029484d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e4dcd0d7-0db7-47a8-af7f-f303f9a6dabf
+  text: 雜
+  concept: MIXED
+  concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+right:
+  word_uuid: ce0b4fdb-8959-45ac-8888-45b4703fa963
+  text: 廁
+  concept: MIXED
+  concept_uuid: c4ab04b1-8d32-4156-bffd-26971b03e8bd
+source:
+  source_file: word-relations.xml

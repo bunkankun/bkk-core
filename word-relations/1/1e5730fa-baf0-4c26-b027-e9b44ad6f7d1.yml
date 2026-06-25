@@ -1,0 +1,32 @@
+uuid: 1e5730fa-baf0-4c26-b027-e9b44ad6f7d1
+type: word-relation
+group_uuid: 071e717d-0484-43ac-819f-cf22dd3e7c82
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e59e4003-09bc-4625-869b-6ea0a2d01db6
+  text: 姓
+  concept: PERSONAL NAME
+  concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 25855445-af10-41a9-81bf-258f70e4f3be
+    line_id: KR3c0005_tls_009-14a.6
+    textline: 以群臣百姓
+    offset: 5
+    range: 1
+right:
+  word_uuid: fd383745-8da7-4ea1-8674-5817198ffd28
+  text: 百
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 韓非子
+    line_uuid: 25855445-af10-41a9-81bf-258f70e4f3be
+    line_id: KR3c0005_tls_009-14a.6
+    textline: 以群臣百姓
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b87d89e9-ab1f-4f12-9c4a-66151c96c302
+type: word-relation
+group_uuid: 0ed6bce4-3f01-432e-b6ce-d2aa4357c0f6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73750594-beaf-4580-88f0-efa078170178
+  text: 幽
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 論衡
+    line_uuid: 911d84d3-b48f-4bc8-bbbc-4fcf8a65b80a
+    line_id: KR3j0080_tls_024-20a.12
+    textline: 見月上下幽冥
+    offset: 5
+    range: 1
+right:
+  word_uuid: d2a2d76d-e55c-489d-b80c-814c9f48934b
+  text: 冥
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 論衡
+    line_uuid: 911d84d3-b48f-4bc8-bbbc-4fcf8a65b80a
+    line_id: KR3j0080_tls_024-20a.12
+    textline: 見月上下幽冥
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

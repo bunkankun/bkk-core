@@ -1,0 +1,32 @@
+uuid: b9d73525-b2bd-4ca3-a66c-df19e3e37a88
+type: word-relation
+group_uuid: 0388e1c6-1470-4dad-8ae5-84263224ca3f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 646b0bfc-62ee-43a7-bbad-58814a966f55
+  text: 效
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: f2a558e7-9974-4c61-a90d-c1ada0bac2e4
+    line_id: KR3j0080_tls_035-5a.8
+    textline: 此亦報上之效驗也”
+    offset: 6
+    range: 1
+right:
+  word_uuid: 9f102487-1f81-404a-a918-320c1052ebd9
+  text: 驗
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: f2a558e7-9974-4c61-a90d-c1ada0bac2e4
+    line_id: KR3j0080_tls_035-5a.8
+    textline: 此亦報上之效驗也”
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

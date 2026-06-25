@@ -1,0 +1,32 @@
+uuid: 55a7172a-cffa-4609-b5f7-0afb53cefbb5
+type: word-relation
+group_uuid: 484ea619-81fe-48de-84fd-08e504de254a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 75ae2de0-8654-4d5a-be05-36fbb5ea6908
+  text: 子
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 莊子
+    line_uuid: 547d0f02-e06f-4543-b8df-444981570339
+    line_id: KR5c0126_tls_005-4a.5
+    textline: 我先出則子止
+    offset: 5
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 莊子
+    line_uuid: b1d2514f-2cf4-4eee-b267-1a5d8624cea9
+    line_id: KR5c0126_tls_005-4a.6
+    textline: 子先出則我止
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

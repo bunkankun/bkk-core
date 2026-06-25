@@ -1,0 +1,35 @@
+uuid: a93f504d-2a97-4553-9d28-3bf55a5784ff
+type: word-relation
+group_uuid: a93f504d-2a97-4553-9d28-3bf55a5784ff
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 375e8fd2-509c-42b4-aad6-f4f3307cd31a
+  text: 積
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 論衡
+    line_uuid: 9db8d0e1-967f-4360-b98f-f7821e2b769b
+    line_id: KR3j0080_tls_003-4a.11
+    textline: 積金累玉
+    offset: 1
+    range: 1
+right:
+  word_uuid: d3bc284b-c162-4b05-a844-66524aede20b
+  text: 累
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 論衡
+    line_uuid: 9db8d0e1-967f-4360-b98f-f7821e2b769b
+    line_id: KR3j0080_tls_003-4a.11
+    textline: 積金累玉
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 72ee3efc-70de-4881-8443-5c6aa5400b2f
+type: word-relation
+group_uuid: 72ee3efc-70de-4881-8443-5c6aa5400b2f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 論語
+    line_uuid: 4de01ce0-4312-4fd7-8ade-57dbc36b5ad6
+    line_id: KR1h0004_tls_003-29a.4
+    textline: 為禮不敬
+    offset: 2
+    range: 1
+right:
+  word_uuid: 16db2d04-8a7f-4e3a-b354-40a125d04439
+  text: 敬
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 論語
+    line_uuid: 4de01ce0-4312-4fd7-8ade-57dbc36b5ad6
+    line_id: KR1h0004_tls_003-29a.4
+    textline: 為禮不敬
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

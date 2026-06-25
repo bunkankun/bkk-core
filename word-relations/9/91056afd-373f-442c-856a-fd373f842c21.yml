@@ -1,0 +1,32 @@
+uuid: 91056afd-373f-442c-856a-fd373f842c21
+type: word-relation
+group_uuid: 2ec9287a-60e7-58fa-a311-6c84362aa078
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1f8c51f8-b94d-4be8-97f5-5588eddeb130
+  text: 博
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-17a.3
+    textline: 博學而詳說之
+    offset: 2
+    range: 1
+right:
+  word_uuid: b0e2aa13-b8a4-4a0c-91f2-ddbbc7c4b4e5
+  text: 詳
+  concept: DETAILED
+  concept_uuid: 30bb8904-6a01-454f-aadf-e12b06689f64
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-17a.3
+    textline: 博學而詳說之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T17:48:51.572+09:00'

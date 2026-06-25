@@ -1,0 +1,32 @@
+uuid: 631db95b-fb01-4633-90df-58e0d5703c1c
+type: word-relation
+group_uuid: 631db95b-fb01-4633-90df-58e0d5703c1c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e9928a2d-5bca-46a5-997e-81cc2e4e931d
+  text: 嘗
+  concept: TEST
+  concept_uuid: 370547be-ddf0-46fc-acd6-4eb1ab534866
+  attestation:
+    text_title: 孟子
+    line_uuid: 2b3f47f9-cfd6-44e6-bdb1-bcccb0578532
+    line_id: KR1h0001_tls_001-64a.1
+    textline: 請嘗試之
+    offset: 2
+    range: 1
+right:
+  word_uuid: f0d727bd-c6b2-4d5c-beb2-11c987f7f9b1
+  text: 試
+  concept: TEST
+  concept_uuid: 370547be-ddf0-46fc-acd6-4eb1ab534866
+  attestation:
+    text_title: 孟子
+    line_uuid: 2b3f47f9-cfd6-44e6-bdb1-bcccb0578532
+    line_id: KR1h0001_tls_001-64a.1
+    textline: 請嘗試之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

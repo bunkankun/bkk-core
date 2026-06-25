@@ -1,0 +1,32 @@
+uuid: 8d016083-f809-42f3-981c-2fab5eead8cc
+type: word-relation
+group_uuid: b72a39c2-86f0-4c13-9b7b-01fc90585a67
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43386770-1ada-42de-97ef-d7dd9fd94e65
+    line_id: KR3c0005_tls_014-20a.3
+    textline: 左右安能以虛言惑主
+    offset: 7
+    range: 1
+right:
+  word_uuid: 373de0b4-700c-4387-bb03-fdc8b4eae516
+  text: 虛
+  concept: UNTRUE
+  concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43386770-1ada-42de-97ef-d7dd9fd94e65
+    line_id: KR3c0005_tls_014-20a.3
+    textline: 左右安能以虛言惑主
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

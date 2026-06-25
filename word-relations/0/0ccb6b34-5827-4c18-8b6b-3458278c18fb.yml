@@ -1,0 +1,32 @@
+uuid: 0ccb6b34-5827-4c18-8b6b-3458278c18fb
+type: word-relation
+group_uuid: 95839115-551c-4666-b525-4857f3a35e00
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 13c109a4-6c71-4bd9-bcbd-e60dc02226d3
+  text: 己
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_012-1a.8
+    textline: 為仁由己
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_012-2a.1
+    textline: 而由人乎哉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-25T22:08:44.27+09:00'

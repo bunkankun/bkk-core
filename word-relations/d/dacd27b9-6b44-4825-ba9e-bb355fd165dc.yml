@@ -1,0 +1,32 @@
+uuid: dacd27b9-6b44-4825-ba9e-bb355fd165dc
+type: word-relation
+group_uuid: dacd27b9-6b44-4825-ba9e-bb355fd165dc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 6eea1f8b-1622-4f4e-ae4f-007ce6c2cca7
+    line_id: KR1e0008_tls_001-43a.15
+    textline: 曰伐
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2b22ae20-c449-4235-be65-5a9bdfed837d
+  text: 侵
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: abd0363f-ac79-4751-81f2-54462a289b43
+    line_id: KR1e0008_tls_001-43a.13
+    textline: 曰侵
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

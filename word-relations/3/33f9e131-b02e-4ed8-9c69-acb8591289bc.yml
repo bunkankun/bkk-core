@@ -1,0 +1,32 @@
+uuid: 33f9e131-b02e-4ed8-9c69-acb8591289bc
+type: word-relation
+group_uuid: 33f9e131-b02e-4ed8-9c69-acb8591289bc
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 36a23e48-c1a5-43cf-9860-329371265b94
+  text: 臨
+  concept: APPROACH
+  concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4a8771c9-0524-4200-916f-8c289d84c966
+    line_id: KR3j0009_tls_002-21a.32
+    textline: 臨死之上
+    offset: 1
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4a8771c9-0524-4200-916f-8c289d84c966
+    line_id: KR3j0009_tls_002-21a.32
+    textline: 臨死之上
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

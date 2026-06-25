@@ -1,0 +1,32 @@
+uuid: 2f87a15a-738c-47e4-87a1-5a738c07e410
+type: word-relation
+group_uuid: fa658922-dd29-509a-a3f1-b12f53145c68
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 519d42ac-7238-4729-b58d-d4398f3bfbe1
+  text: 循
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.11
+    textline: 雖循古
+    offset: 2
+    range: 1
+right:
+  word_uuid: 540754a5-ce46-48e2-8754-a5ce4628e2f9
+  text: 古
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.11
+    textline: 雖循古
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:22:39.402+09:00'

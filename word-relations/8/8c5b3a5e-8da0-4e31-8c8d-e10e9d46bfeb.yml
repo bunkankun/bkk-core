@@ -1,0 +1,30 @@
+uuid: 8c5b3a5e-8da0-4e31-8c8d-e10e9d46bfeb
+type: word-relation
+group_uuid: 8c5b3a5e-8da0-4e31-8c8d-e10e9d46bfeb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bd21b8e7-c681-4cb1-9c28-12575274f661
+  text: 長
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 老子
+    line_uuid: 0b522760-3534-4408-8691-f23a8326a77f
+    textline: 長短相形
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7333f19e-bdf7-4186-b191-58c3153411fe
+  text: 短
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+  attestation:
+    text_title: 老子
+    line_uuid: 0b522760-3534-4408-8691-f23a8326a77f
+    textline: 長短相形
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

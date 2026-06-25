@@ -1,0 +1,32 @@
+uuid: a0ed8155-d786-4bba-8b78-e2c0e13629ad
+type: word-relation
+group_uuid: a0ed8155-d786-4bba-8b78-e2c0e13629ad
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 25658ce2-b712-4511-88f4-bba38d9263d9
+  text: 炙
+  concept: GRILL
+  concept_uuid: 9a909e97-b33d-4e8a-977d-8cfaec2a833d
+  attestation:
+    text_title: 韓非子
+    line_uuid: c17eea58-bbcf-4a32-b4b5-adfa7bb66bba
+    line_id: KR3c0005_tls_003-10a.2
+    textline: 翼侯炙
+    offset: 3
+    range: 1
+right:
+  word_uuid: f783c953-b6c8-402e-90ef-ee0d54b6d6c8
+  text: 腊
+  concept: DRIED MEAT
+  concept_uuid: 4e54c8b0-a7c5-4b06-b215-6b928be209df
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ac98b36-333b-4584-8370-a42e32a9f18a
+    line_id: KR3c0005_tls_003-10a.3
+    textline: 鬼侯腊
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

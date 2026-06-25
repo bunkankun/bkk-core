@@ -1,0 +1,32 @@
+uuid: 88da3663-518f-439a-88fc-53e6109d98aa
+type: word-relation
+group_uuid: ec4ad217-fa98-4222-91a5-5275f1e88040
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8280ac35-d647-41ba-a6e2-67363c1fb83a
+  text: 迅
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 887febbb-7515-4995-b1fb-a3a422fb645d
+    line_id: KR1c0066_tls_005-12a.23
+    textline: ‘久矣天之不迅風疾雨也
+    offset: 7
+    range: 1
+right:
+  word_uuid: 40a9658c-4b5e-4952-82c0-37e84b877bf3
+  text: 疾
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 887febbb-7515-4995-b1fb-a3a422fb645d
+    line_id: KR1c0066_tls_005-12a.23
+    textline: ‘久矣天之不迅風疾雨也
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

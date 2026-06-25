@@ -1,0 +1,32 @@
+uuid: c825bda6-c6e3-47c7-a5bd-a6c6e347c74d
+type: word-relation
+group_uuid: c7dc742e-c913-5592-8dc2-2bbf809f3baa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 420e6596-59e7-4879-82d6-ed33ba61a84f
+  text: 約
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_014-46a.5
+    textline: 守約而施博者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1f8c51f8-b94d-4be8-97f5-5588eddeb130
+  text: 博
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_014-46a.5
+    textline: 守約而施博者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T17:23:38.602+09:00'

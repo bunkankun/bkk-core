@@ -1,0 +1,32 @@
+uuid: 81af9daa-ef5e-43f8-af9d-aaef5e93f8d3
+type: word-relation
+group_uuid: 76e0b3cf-cba8-53cc-81ee-790cebcb5e59
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 74ea11ee-92da-44ea-9393-d21440d1810a
+  text: 襲
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.15
+    textline: 為學者循先襲業
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7be4cf02-dc34-4b61-bd6c-dff159981025
+  text: 業
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.15
+    textline: 為學者循先襲業
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:26:18.678+09:00'

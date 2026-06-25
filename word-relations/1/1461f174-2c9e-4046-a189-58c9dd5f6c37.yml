@@ -1,0 +1,31 @@
+uuid: 1461f174-2c9e-4046-a189-58c9dd5f6c37
+type: word-relation
+group_uuid: 1461f174-2c9e-4046-a189-58c9dd5f6c37
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c022373f-9043-4faa-bd84-5eb6efa686a2
+  text: 讎
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 尚書
+    line_uuid: 95e79c3c-2a25-4b8d-983f-a03a258029f3
+    line_id: KR1b0001_tls_040-2a.138
+    textline: 予小臣敢以王之讎民
+    offset: 8
+    range: 1
+right:
+  word_uuid: bd157ccd-3b12-490e-a90c-b9a58c8b32f4
+  text: 友
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 尚書
+    line_uuid: bbe08d4b-25e1-41d3-84d5-6984cb295d08
+    textline: 百君子越友民
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

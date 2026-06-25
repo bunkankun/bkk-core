@@ -1,0 +1,35 @@
+uuid: ceedc616-6155-426f-8c25-4c7ffc927b72
+type: word-relation
+group_uuid: dc62b7f7-06e8-4544-a77d-1c7ad7356a00
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6a54f5ba-2159-406b-9762-1c935f75a95f
+  text: 過
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 論衡
+    line_uuid: ddd303f4-70ae-4ce8-b160-2e227c11379a
+    line_id: KR3j0080_tls_003-1a.33
+    textline: 獲過受罪
+    offset: 2
+    range: 1
+right:
+  word_uuid: 00a29dac-f836-4e64-a13a-6c3a15ef547c
+  text: 罪
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 論衡
+    line_uuid: ddd303f4-70ae-4ce8-b160-2e227c11379a
+    line_id: KR3j0080_tls_003-1a.33
+    textline: 獲過受罪
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

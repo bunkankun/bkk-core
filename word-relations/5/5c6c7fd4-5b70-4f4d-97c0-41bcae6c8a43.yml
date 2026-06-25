@@ -1,0 +1,32 @@
+uuid: 5c6c7fd4-5b70-4f4d-97c0-41bcae6c8a43
+type: word-relation
+group_uuid: ac5d22c5-10a2-4cb7-9965-549ca2e6f6ed
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2f4d1688-fdc5-4d2f-b203-a43402253d12
+  text: 慶
+  concept: CONGRATULATE
+  concept_uuid: ec264de5-ea70-4f0c-b99e-4f4d4cca0651
+  attestation:
+    text_title: 韓非子
+    line_uuid: f560dbc2-fed9-443d-acaa-0f9806546d39
+    line_id: KR3c0005_tls_007-2a.3
+    textline: 而利慶賞
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: f560dbc2-fed9-443d-acaa-0f9806546d39
+    line_id: KR3c0005_tls_007-2a.3
+    textline: 而利慶賞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

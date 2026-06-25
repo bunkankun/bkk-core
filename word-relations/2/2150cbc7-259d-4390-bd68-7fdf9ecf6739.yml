@@ -1,0 +1,30 @@
+uuid: 2150cbc7-259d-4390-bd68-7fdf9ecf6739
+type: word-relation
+group_uuid: 2150cbc7-259d-4390-bd68-7fdf9ecf6739
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 孔子家語
+    line_uuid: d392970e-8f49-4a52-a758-5cd8d774663e
+    textline: 與小人處而不能親賢
+    offset: 2
+    range: 2
+right:
+  word_uuid: 26ac3412-18a7-4f7e-89d3-81b02ec207ba
+  text: 賢
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 孔子家語
+    line_uuid: d392970e-8f49-4a52-a758-5cd8d774663e
+    textline: 與小人處而不能親賢
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 442e801b-d1c8-4dc4-8e21-b17e1e16f55b
+type: word-relation
+group_uuid: a5eb6c87-e8e8-5b1f-8b41-4f714078f7b8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 47ccc0b2-715f-4343-b1be-ed8e020aedb1
+  text: 吉
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 44404038-b702-40df-95d2-a0363d3b6af9
+type: word-relation
+group_uuid: 44404038-b702-40df-95d2-a0363d3b6af9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5e286cf0-101c-423f-8378-1174d1a08825
+  text: 密
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 韓非子
+    line_uuid: f415fa8c-c848-4abb-b8b0-49db5eb7ee75
+    line_id: KR3c0005_tls_012-6a.2
+    textline: 夫事以密成
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5ccffb44-3605-49c0-8c9d-cf216fe228d5
+  text: 泄
+  concept: LEAK
+  concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61c7924a-a172-4fbd-9d81-5910ae2010da
+    line_id: KR3c0005_tls_012-6a.3
+    textline: 語以泄敗
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a62e186a-d6f5-406c-800a-9cae90037a4f
+type: word-relation
+group_uuid: cbe78ea1-2dbf-47d1-9a4c-1c76c988eaa9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cf3ddfaf-3538-4816-b5c9-213dc178b1e4
+  text: 同
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d68e791b-4964-4277-8497-b33ce645a496
+    line_id: KR1e0001_tls_010-202a.14
+    textline: 同始異終
+    offset: 1
+    range: 1
+right:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d68e791b-4964-4277-8497-b33ce645a496
+    line_id: KR1e0001_tls_010-202a.14
+    textline: 同始異終
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

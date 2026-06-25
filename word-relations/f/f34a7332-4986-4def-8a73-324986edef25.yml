@@ -1,0 +1,32 @@
+uuid: f34a7332-4986-4def-8a73-324986edef25
+type: word-relation
+group_uuid: 0582815b-ebdb-51ac-86a2-37d451b158da
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4e433768-44e7-4eb8-beb3-4a2bd1c38973
+  text: 立
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_008-5a.5
+    textline: 凡始立學者
+    offset: 3
+    range: 1
+right:
+  word_uuid: b3c1bcdf-ba82-4136-95d3-8dd4d498d9ce
+  text: 學
+  concept: SCHOOL
+  concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_008-5a.5
+    textline: 凡始立學者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-29T17:48:32.744+09:00'

@@ -1,0 +1,35 @@
+uuid: 4fb26b78-0d93-4495-8476-11036f6eab3d
+type: word-relation
+group_uuid: 4fb26b78-0d93-4495-8476-11036f6eab3d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0e387a08-0132-4ea9-b629-ef5d1798dbfd
+  text: 觀
+  concept: READ
+  concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+  attestation:
+    text_title: 論衡
+    line_uuid: 2a3a19ba-9992-4dc0-bac5-894a70052f5d
+    line_id: KR3j0080_tls_031-7a.20
+    textline: 相隨觀讀諷述以談
+    offset: 3
+    range: 1
+right:
+  word_uuid: a1999033-ff42-4948-b1bd-d6cb72da23ce
+  text: 讀
+  concept: READ
+  concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+  attestation:
+    text_title: 論衡
+    line_uuid: 2a3a19ba-9992-4dc0-bac5-894a70052f5d
+    line_id: KR3j0080_tls_031-7a.20
+    textline: 相隨觀讀諷述以談
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: dd50af9d-1511-4d4b-bb24-473cb43510f7
+type: word-relation
+group_uuid: dd50af9d-1511-4d4b-bb24-473cb43510f7
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: ed815a67-a9b3-45ce-bf94-7a65526fb4b4
+  text: 弓
+  concept: BOW
+  concept_uuid: 627ef940-0fa4-40c1-95f6-2b853df4e150
+  attestation:
+    text_title: 法言
+    line_uuid: 0ac8f1fe-e667-4aab-812a-2de54830f69f
+    line_id: KR3a0009_tls_008-21a.2
+    textline: 彤弓盧矢
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0ad7b8ea-4c0a-41ae-98b0-f54a28699e5f
+  text: 矢
+  concept: ARROW
+  concept_uuid: dccfac2b-3aa1-4eea-a933-6b1b6854817f
+  attestation:
+    text_title: 法言
+    line_uuid: 0ac8f1fe-e667-4aab-812a-2de54830f69f
+    line_id: KR3a0009_tls_008-21a.2
+    textline: 彤弓盧矢
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

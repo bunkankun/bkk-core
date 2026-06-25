@@ -1,0 +1,30 @@
+uuid: ebc5fcef-0af4-468f-b111-264582808310
+type: word-relation
+group_uuid: ebc5fcef-0af4-468f-b111-264582808310
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ff372309-db2d-4053-8bb4-b5006d7694eb
+  text: 誅
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 孔子家語
+    line_uuid: de8ed956-cc36-41bd-85ff-8ec4c2d7d74a
+    textline: 皆異世而同誅者
+    offset: 6
+    range: 1
+right:
+  word_uuid: cb4d51e7-e681-48fc-9118-e80545be4c34
+  text: 赦
+  concept: PARDON
+  concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+  attestation:
+    text_title: 孔子家語
+    line_uuid: 79a24597-5200-46c2-b735-d18958920a81
+    textline: 故不可赦也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

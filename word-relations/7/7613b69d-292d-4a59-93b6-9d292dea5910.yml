@@ -1,0 +1,32 @@
+uuid: 7613b69d-292d-4a59-93b6-9d292dea5910
+type: word-relation
+group_uuid: c7679db7-6db6-5607-99ba-b58d9d46f848
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_016-1a.4
+    textline: 俗學以求復其初；
+    offset: 2
+    range: 1
+right:
+  word_uuid: 688041c1-0ba4-4f8d-8041-c10ba4ff8d0c
+  text: 俗
+  concept: COMMON
+  concept_uuid: 20771156-4e18-4d13-a840-1faee98ba1f4
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_016-1a.4
+    textline: 俗學以求復其初；
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T17:58:03.153+09:00'

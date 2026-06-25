@@ -1,0 +1,32 @@
+uuid: a631a27e-dd07-4aa6-ab4a-53aba91d0114
+type: word-relation
+group_uuid: a631a27e-dd07-4aa6-ab4a-53aba91d0114
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 660219ec-d39a-4435-8452-48899236d83a
+  text: 擇
+  concept: CHOOSE
+  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+  attestation:
+    text_title: 韓非子
+    line_uuid: d4d0aec5-e1fc-4f82-b71e-6729b436b2ad
+    line_id: KR3c0005_tls_006-17a.5
+    textline: 故明主使法擇人
+    offset: 6
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: d4d0aec5-e1fc-4f82-b71e-6729b436b2ad
+    line_id: KR3c0005_tls_006-17a.5
+    textline: 故明主使法擇人
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

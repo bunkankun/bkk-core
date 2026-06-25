@@ -1,0 +1,32 @@
+uuid: 5b5dcf6c-2d4b-4496-ad17-813569989a31
+type: word-relation
+group_uuid: 5b5dcf6c-2d4b-4496-ad17-813569989a31
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 688faa0e-62bc-4239-af4f-7cfd7fcef7c9
+  text: 卜
+  concept: DIVINATION
+  concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+  attestation:
+    text_title: 韓非子
+    line_uuid: d99098d5-2c3b-46e9-ad44-286381e7c3fa
+    line_id: KR3c0005_tls_015-4a.4
+    textline: 信卜筮
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7eed0caa-70b4-477e-a2a8-615314ad237e
+  text: 筮
+  concept: DIVINATION
+  concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+  attestation:
+    text_title: 韓非子
+    line_uuid: d99098d5-2c3b-46e9-ad44-286381e7c3fa
+    line_id: KR3c0005_tls_015-4a.4
+    textline: 信卜筮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

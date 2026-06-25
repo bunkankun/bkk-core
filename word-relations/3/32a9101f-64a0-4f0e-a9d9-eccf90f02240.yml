@@ -1,0 +1,32 @@
+uuid: 32a9101f-64a0-4f0e-a9d9-eccf90f02240
+type: word-relation
+group_uuid: 32a9101f-64a0-4f0e-a9d9-eccf90f02240
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7c6e379a-6183-4c60-a20f-a5477f2a5e3d
+  text: 龍
+  concept: DRAGON
+  concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f52db78a-1d5e-4601-98e8-32fafdc79761
+    line_id: KR3j0009_tls_001-2a.24
+    textline: 駕蒼龍
+    offset: 3
+    range: 1
+right:
+  word_uuid: da317d85-de6b-47e2-a6c8-6a9cdc0f22a7
+  text: 蒼
+  concept: BLUE
+  concept_uuid: 180e1eca-7df8-42da-b199-7f1e24d33489
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f52db78a-1d5e-4601-98e8-32fafdc79761
+    line_id: KR3j0009_tls_001-2a.24
+    textline: 駕蒼龍
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

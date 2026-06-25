@@ -1,0 +1,32 @@
+uuid: 5985be91-f925-498b-90e0-717f55d442f9
+type: word-relation
+group_uuid: 5985be91-f925-498b-90e0-717f55d442f9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7f58cd12-762d-4df1-9f73-a8cb6bc8011d
+  text: 咫
+  concept: LENGTH MEASURES
+  concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+  attestation:
+    text_title: 韓非子
+    line_uuid: ca0bfbc4-5849-473a-b64c-a742a44f472f
+    line_id: KR3c0005_tls_008-22a.8
+    textline: 咫尺已具
+    offset: 1
+    range: 1
+right:
+  word_uuid: f94f2b05-0680-455d-809e-5d938aaf4cd8
+  text: 尺
+  concept: SURFACE MEASURE
+  concept_uuid: d636b491-b1e9-48bb-a17c-83de15a92fbc
+  attestation:
+    text_title: 韓非子
+    line_uuid: ca0bfbc4-5849-473a-b64c-a742a44f472f
+    line_id: KR3c0005_tls_008-22a.8
+    textline: 咫尺已具
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

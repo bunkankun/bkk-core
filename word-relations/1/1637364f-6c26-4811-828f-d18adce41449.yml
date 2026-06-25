@@ -1,0 +1,30 @@
+uuid: 1637364f-6c26-4811-828f-d18adce41449
+type: word-relation
+group_uuid: 5392d24d-291c-4571-9630-61bf124dd2d7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cf95cd19-b795-4901-8dd5-54d15bdba73d
+  text: 兵
+  concept: WEAPON
+  concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 39b74561-8a31-4d6c-b31e-76ca9aa33939
+    textline: 兵革并起
+    offset: 1
+    range: 1
+right:
+  word_uuid: 00b31e86-7c1c-481a-9c6f-2713d97c6774
+  text: 革
+  concept: ARMOUR
+  concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+  attestation:
+    text_title: 論衡
+    line_uuid: 39b74561-8a31-4d6c-b31e-76ca9aa33939
+    textline: 兵革并起
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9c936639-87b7-418c-be50-4c46f684ad20
+type: word-relation
+group_uuid: 9c936639-87b7-418c-be50-4c46f684ad20
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 656c4fa4-395a-4450-a1d7-f93f9bed4770
+  text: 為
+  concept: COPULA
+  concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+  attestation:
+    text_title: 白虎通
+    line_uuid: a49712e8-74a6-41bb-a573-41c1baf59778
+    line_id: KR3j0023_tls_001-3a.7
+    textline: 以為天下王
+    offset: 2
+    range: 1
+right:
+  word_uuid: d10aa327-3b22-435c-818f-ff4fa8427792
+  text: 作
+  concept: COPULA
+  concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+  attestation:
+    text_title: 白虎通
+    line_uuid: b1019670-3e02-4481-bce3-8c799008192f
+    line_id: KR3j0023_tls_001-3a.6
+    textline: 「天子作民父母
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

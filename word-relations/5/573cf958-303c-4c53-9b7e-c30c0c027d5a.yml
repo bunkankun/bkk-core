@@ -1,0 +1,32 @@
+uuid: 573cf958-303c-4c53-9b7e-c30c0c027d5a
+type: word-relation
+group_uuid: 009cb3dc-76e0-468f-b30f-691093a6a338
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 94494611-f261-4be6-9ec4-642a7e9c5185
+  text: 暴
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0d35b8f3-fff1-4dae-ae08-cfc0dd1e6cd2
+    line_id: KR3c0005_tls_014-56a.11
+    textline: 是以國安而暴亂不起
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0ca421c2-e6cd-4f69-8516-7b6d749d14f3
+  text: 亂
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0d35b8f3-fff1-4dae-ae08-cfc0dd1e6cd2
+    line_id: KR3c0005_tls_014-56a.11
+    textline: 是以國安而暴亂不起
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

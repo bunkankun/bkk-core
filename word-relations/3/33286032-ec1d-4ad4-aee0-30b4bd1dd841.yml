@@ -1,0 +1,34 @@
+uuid: 33286032-ec1d-4ad4-aee0-30b4bd1dd841
+type: word-relation
+group_uuid: 33286032-ec1d-4ad4-aee0-30b4bd1dd841
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1202019a-60e5-471f-81d3-c2028b4f4d22
+  text: 別
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 淮南子
+    line_uuid: a3f93568-c192-4cad-9d1a-550b90451f07
+    textline: 夫禮者所以別尊卑
+    offset: 6
+    range: 1
+right:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 淮南子
+    line_uuid: 08167886-5150-4dfa-8f3e-af8f8aa0325e
+    line_id: KR3j0010_tls_008-1a.117
+    textline: 異貴賤
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 94279ec2-68c0-4166-b91d-2844805f27a5
+type: word-relation
+group_uuid: 94279ec2-68c0-4166-b91d-2844805f27a5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6eff3384-609e-4bcd-a623-10136fec8177
+  text: 霸
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6f01794c-6726-427c-bee2-a1605533a6f3
+    textline: 則荊齊可以霸
+    offset: 7
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 977a27f9-7c25-46dd-8c5a-18d12ade81fd
+    textline: 則燕魏可以強
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

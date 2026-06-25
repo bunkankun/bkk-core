@@ -1,0 +1,32 @@
+uuid: 62f13a56-f5a7-4b1c-b13a-56f5a7cb1c50
+type: word-relation
+group_uuid: a2223661-064f-536d-a316-122023c5385c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 43d5be30-f1d6-492a-87c9-1de993bbf003
+  text: 狂
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_001-120a.48
+    textline: 於是乎有狂悖之言
+    offset: 5
+    range: 1
+right:
+  word_uuid: 75b243b2-a130-4c23-b69c-5c70fe0ae7ab
+  text: 悖
+  concept: ABSURD
+  concept_uuid: 175d5264-4103-49d7-8bd3-a0d40b1ee93f
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_001-120a.48
+    textline: 於是乎有狂悖之言
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T00:09:54.573+09:00'

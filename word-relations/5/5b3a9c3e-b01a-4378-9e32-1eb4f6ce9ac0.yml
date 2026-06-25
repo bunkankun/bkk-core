@@ -1,0 +1,32 @@
+uuid: 5b3a9c3e-b01a-4378-9e32-1eb4f6ce9ac0
+type: word-relation
+group_uuid: 5b3a9c3e-b01a-4378-9e32-1eb4f6ce9ac0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4ffd0b80-8021-462c-bdcf-fe1b554a8aa9
+  text: 時
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 管子
+    line_uuid: 6ea219f6-d428-429f-b83e-f19639fc781d
+    line_id: KR3c0001_tls_001-4a.2
+    textline: 不務天時
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c50ea4e-6039-4dd8-be09-c6c2511b689d
+  text: 天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 管子
+    line_uuid: 6ea219f6-d428-429f-b83e-f19639fc781d
+    line_id: KR3c0001_tls_001-4a.2
+    textline: 不務天時
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

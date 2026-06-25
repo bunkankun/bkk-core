@@ -1,0 +1,32 @@
+uuid: f6555997-0c6e-4f35-9559-970c6e4f35eb
+type: word-relation
+group_uuid: 6d11cef3-7464-5c2d-b6af-dbd8674e4e7b
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: aaa2807b-e572-4f35-b077-3447963a7c17
+  text: 義
+  concept: RECTITUDE
+  concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-7a.2
+    textline: 有義有禮
+    offset: 2
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-7a.2
+    textline: 有義有禮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T23:59:51.903+09:00'

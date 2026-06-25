@@ -1,0 +1,32 @@
+uuid: 4e4553d2-275b-45b2-a52d-e60f976795dc
+type: word-relation
+group_uuid: 4e4553d2-275b-45b2-a52d-e60f976795dc
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 論語
+    line_uuid: 3ab253cc-c05d-4184-8d07-ed32fd95fc2c
+    line_id: KR1h0004_tls_007-39a.2
+    textline: 子與人歌而善
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2eb2d3b6-464d-430f-b28e-4526111e2a2f
+  text: 和
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 論語
+    line_uuid: b31b0ead-e5e6-4191-ac93-6dac032fd0a7
+    line_id: KR1h0004_tls_007-39a.4
+    textline: 而後和之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

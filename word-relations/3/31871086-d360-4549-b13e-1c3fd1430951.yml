@@ -1,0 +1,32 @@
+uuid: 31871086-d360-4549-b13e-1c3fd1430951
+type: word-relation
+group_uuid: 31871086-d360-4549-b13e-1c3fd1430951
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1e35a438-ef6b-488d-a8f8-3753f5d26f6a
+  text: 欺
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 論語
+    line_uuid: a7832799-c89f-4219-a302-2fcd5b94e63c
+    line_id: KR1h0004_tls_006-33a.10
+    textline: 可欺也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 59fe2cc8-5224-441e-85b1-be664d16b760
+  text: 罔
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 論語
+    line_uuid: f8fd9b4d-78dc-4516-8243-40c0ce7723f9
+    line_id: KR1h0004_tls_006-34a.1
+    textline: 不可罔也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

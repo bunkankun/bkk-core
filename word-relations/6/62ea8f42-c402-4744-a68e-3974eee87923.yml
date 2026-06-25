@@ -1,0 +1,30 @@
+uuid: 62ea8f42-c402-4744-a68e-3974eee87923
+type: word-relation
+group_uuid: 62ea8f42-c402-4744-a68e-3974eee87923
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 列女傳
+    line_uuid: 61a513aa-57a1-40c7-b668-d6cc0d054197
+    textline: 薄於德
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0210977e-e9af-4251-a796-d11deb613309
+  text: 色
+  concept: SEXY
+  concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+  attestation:
+    text_title: 列女傳
+    line_uuid: 2dfd5f15-9fd3-4ac6-997f-d8fb36224f2c
+    textline: 美於色
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

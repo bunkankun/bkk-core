@@ -1,0 +1,32 @@
+uuid: 09ae06d2-a2b1-4346-a654-242c90eb3000
+type: word-relation
+group_uuid: 09ae06d2-a2b1-4346-a654-242c90eb3000
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 戰國策
+    line_uuid: da630545-d995-44dc-9766-b66387e2c03b
+    line_id: KR2e0003_tls_083-2a.3
+    textline: 見者無不變色易容者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 戰國策
+    line_uuid: da630545-d995-44dc-9766-b66387e2c03b
+    line_id: KR2e0003_tls_083-2a.3
+    textline: 見者無不變色易容者
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

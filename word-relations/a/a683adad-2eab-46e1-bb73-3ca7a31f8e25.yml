@@ -1,0 +1,35 @@
+uuid: a683adad-2eab-46e1-bb73-3ca7a31f8e25
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 淮南子
+    line_uuid: 6648789e-1a62-4276-b773-d61e1742518b
+    line_id: KR3j0010_tls_011-25a.41
+    textline: 或以為君子
+    offset: 4
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 淮南子
+    line_uuid: 260fd9d5-1f7d-4962-8155-53901cfcd67e
+    line_id: KR3j0010_tls_011-25a.42
+    textline: 或以為小人
+    offset: 4
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

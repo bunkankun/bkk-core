@@ -1,0 +1,32 @@
+uuid: cea14bc1-ca7a-4b89-8b06-745a27b8f9a8
+type: word-relation
+group_uuid: cea14bc1-ca7a-4b89-8b06-745a27b8f9a8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 史記
+    line_uuid: fec01a75-367c-48d9-bf60-04c97cd73641
+    line_id: KR2a0001_tls_087-38a.12
+    textline: 以補主上之缺
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8ab91c33-abec-4ac3-a9b0-52a2bc854210
+  text: 上
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 史記
+    line_uuid: fec01a75-367c-48d9-bf60-04c97cd73641
+    line_id: KR2a0001_tls_087-38a.12
+    textline: 以補主上之缺
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

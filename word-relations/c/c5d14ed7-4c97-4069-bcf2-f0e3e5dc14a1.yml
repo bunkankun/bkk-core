@@ -1,0 +1,32 @@
+uuid: c5d14ed7-4c97-4069-bcf2-f0e3e5dc14a1
+type: word-relation
+group_uuid: 87a6b3d7-140a-4a5b-b871-a59fb89a611b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0245d280-fb4b-44ca-980c-a3dd6fade451
+  text: 貴
+  concept: EXPENSIVE
+  concept_uuid: 9dcfacdd-91c6-42d6-b3b9-f17494ffefab
+  attestation:
+    text_title: 老子
+    line_uuid: e262420d-0690-4327-b9b1-a6c229d14356
+    line_id: KR5c0057_tls_039-1a.17
+    textline: 故貴以賤為本
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7c36b4ea-f789-43a4-b8ba-1eacc616fbf0
+  text: 賤
+  concept: CHEAP
+  concept_uuid: 1f07ab5a-cffd-4ab0-8f20-4ed59626143e
+  attestation:
+    text_title: 老子
+    line_uuid: e262420d-0690-4327-b9b1-a6c229d14356
+    line_id: KR5c0057_tls_039-1a.17
+    textline: 故貴以賤為本
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 043c8d68-7b6e-4067-88fd-7808e7e5f331
+type: word-relation
+group_uuid: 043c8d68-7b6e-4067-88fd-7808e7e5f331
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9c40544d-fe2a-47c9-b02c-fa3fd30ff290
+  text: 薄
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: beb0f242-9521-43b4-925b-039458bda8a1
+    line_id: KR1c0066_tls_003-34a.28
+    textline: 薄夫厚
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0dcf4728-5ceb-4633-93a9-d77c56db556c
+  text: 厚
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: beb0f242-9521-43b4-925b-039458bda8a1
+    line_id: KR1c0066_tls_003-34a.28
+    textline: 薄夫厚
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

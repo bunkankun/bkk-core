@@ -1,0 +1,32 @@
+uuid: cd623bdd-d05d-444f-a63e-5fc0acad202b
+type: word-relation
+group_uuid: cd623bdd-d05d-444f-a63e-5fc0acad202b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 39edbbce-07eb-42fe-ab77-9f8532b9640e
+  text: 麻
+  concept: CLOTH MATERIALS
+  concept_uuid: be1b0859-c516-4c8f-be40-bb65e2643fbf
+  attestation:
+    text_title: 論語
+    line_uuid: d1c9a633-83d6-459c-a932-146ba40e3bf0
+    line_id: KR1h0004_tls_009-3a.3
+    textline: 「麻冕
+    offset: 2
+    range: 1
+right:
+  word_uuid: 584badd2-564f-4a15-9327-ad72373b4b66
+  text: 純
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 論語
+    line_uuid: d8e811bd-6f8f-47c4-b530-7309516cd8d5
+    line_id: KR1h0004_tls_009-3a.5
+    textline: 今也純儉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

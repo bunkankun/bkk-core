@@ -1,0 +1,32 @@
+uuid: 5abe6d64-1708-4161-9dff-a2c0ab49f3c0
+type: word-relation
+group_uuid: 5abe6d64-1708-4161-9dff-a2c0ab49f3c0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5e96ed6c-a851-4a4f-8f1c-95662d695177
+  text: 顧
+  concept: ATTENTION
+  concept_uuid: cb631a55-ef0b-42b1-a0c4-34cfd9d07807
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3afd8164-6f9e-41bf-b31d-e4745cf18c3e
+    line_id: KR3c0005_tls_015-7a.9
+    textline: 不顧社稷
+    offset: 2
+    range: 1
+right:
+  word_uuid: d608d387-682c-410d-8dbe-7314d5603a2b
+  text: 不
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3afd8164-6f9e-41bf-b31d-e4745cf18c3e
+    line_id: KR3c0005_tls_015-7a.9
+    textline: 不顧社稷
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

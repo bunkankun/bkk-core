@@ -1,0 +1,32 @@
+uuid: 0a1a8258-a1f4-480e-9a82-58a1f4680e30
+type: word-relation
+group_uuid: 0f62af32-dcdb-514b-b6b6-5e92789aecd9
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-12a.3
+    textline: 龍少學先王之道
+    offset: 4
+    range: 1
+right:
+  word_uuid: 232f5af2-6d6c-4580-b43d-01d89c7b7cbd
+  text: 明
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-12a.4
+    textline: 長而明仁義之行
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T18:03:19.865+09:00'

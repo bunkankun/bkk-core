@@ -1,0 +1,21 @@
+uuid: 2c53301a-cf16-48fa-912b-13cc0818dda3
+type: word-relation
+group_uuid: 944a458e-495c-57ad-94ab-599c90824473
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 50593438-52c2-46f6-b9bc-8ffa236fb6b1
+  text: 吉
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+right:
+  word_uuid: e5701c83-b013-4777-baef-c75396df2641
+  text: 祥
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

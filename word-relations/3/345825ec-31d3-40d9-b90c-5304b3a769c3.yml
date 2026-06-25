@@ -1,0 +1,32 @@
+uuid: 345825ec-31d3-40d9-b90c-5304b3a769c3
+type: word-relation
+group_uuid: 345825ec-31d3-40d9-b90c-5304b3a769c3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6ebdb8cc-5b42-4267-8958-016aa6611937
+  text: 休
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 韓非子
+    line_uuid: e9477dd7-8376-4c40-9b2d-2d1cf4ae99f4
+    line_id: KR3c0005_tls_010-46a.9
+    textline: 休兵數年
+    offset: 1
+    range: 1
+right:
+  word_uuid: aae131cd-ebb1-4935-9db0-f6927337cde9
+  text: 兵
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: e9477dd7-8376-4c40-9b2d-2d1cf4ae99f4
+    line_id: KR3c0005_tls_010-46a.9
+    textline: 休兵數年
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

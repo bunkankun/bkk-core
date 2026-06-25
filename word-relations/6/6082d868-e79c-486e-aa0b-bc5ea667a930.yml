@@ -1,0 +1,32 @@
+uuid: 6082d868-e79c-486e-aa0b-bc5ea667a930
+type: word-relation
+group_uuid: 6082d868-e79c-486e-aa0b-bc5ea667a930
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ebfc8325-7459-49f1-a5c9-bfb38f6773f5
+  text: 爭
+  concept: COMPETE
+  concept_uuid: 40f8f868-4221-4c0a-8b11-24fad7e0231b
+  attestation:
+    text_title: 荀子
+    line_uuid: 74297ec2-2f54-4776-add6-11f3d7a9c86a
+    line_id: KR3a0002_tls_023-1a.8
+    textline: 故爭奪生
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9a31814f-077e-4261-8c8f-807e10b0d8fb
+  text: 奪
+  concept: TAKE
+  concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+  attestation:
+    text_title: 荀子
+    line_uuid: 74297ec2-2f54-4776-add6-11f3d7a9c86a
+    line_id: KR3a0002_tls_023-1a.8
+    textline: 故爭奪生
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: aba017d5-aaac-4858-9e9e-e8dec7ffcb23
+type: word-relation
+group_uuid: aba017d5-aaac-4858-9e9e-e8dec7ffcb23
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 3a79f8ec-3a3a-4e5d-8e9a-3334f6573798
+    line_id: KR3c0001_tls_022-153a.5
+    textline: 民智而君愚
+    offset: 1
+    range: 1
+right:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 管子
+    line_uuid: 3a79f8ec-3a3a-4e5d-8e9a-3334f6573798
+    line_id: KR3c0001_tls_022-153a.5
+    textline: 民智而君愚
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

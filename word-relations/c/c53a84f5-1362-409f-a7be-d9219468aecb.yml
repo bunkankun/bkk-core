@@ -1,0 +1,32 @@
+uuid: c53a84f5-1362-409f-a7be-d9219468aecb
+type: word-relation
+group_uuid: c53a84f5-1362-409f-a7be-d9219468aecb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a74128f9-ee6c-4437-92c3-0b2abbe33dd9
+  text: 偏
+  concept: PARTIAL
+  concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+  attestation:
+    text_title: 韓非子
+    line_uuid: 327c229f-f024-4197-a15a-80df4318a4b0
+    line_id: KR3c0005_tls_031-20a.7
+    textline: 偏誅而不盡
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4efeb4f6-f330-4886-8543-9862bb34a09e
+  text: 盡
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 韓非子
+    line_uuid: 327c229f-f024-4197-a15a-80df4318a4b0
+    line_id: KR3c0005_tls_031-20a.7
+    textline: 偏誅而不盡
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7b4dc640-83ed-409b-8dc6-4083edd09b40
+type: word-relation
+group_uuid: fb7a8a74-becb-5c00-9170-abbdf6991eeb
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f489286b-e1d7-44bd-b6c4-c8cf8982de47
+  text: 施
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-11a.1
+    textline: 又況於執法施令乎
+    offset: 6
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-11a.1
+    textline: 又況於執法施令乎
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-18T18:47:38.724+09:00'

@@ -1,0 +1,32 @@
+uuid: 885d6bf0-9da4-4853-9bb9-237ffefd1c22
+type: word-relation
+group_uuid: 885d6bf0-9da4-4853-9bb9-237ffefd1c22
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 873051bb-0d36-4745-ba69-3de9f7cbc34c
+  text: 失
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 韓非子
+    line_uuid: d7848a75-8646-4137-9826-1ed22d8967de
+    line_id: KR3c0005_tls_006-39a.4
+    textline: 故矯上之失
+    offset: 5
+    range: 1
+right:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 710f8813-ef77-4018-95e2-9b43473dfc7d
+    line_id: KR3c0005_tls_006-39a.5
+    textline: 詰下之邪
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

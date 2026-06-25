@@ -1,0 +1,32 @@
+uuid: 8e6cd433-cb89-40fa-bbe9-f52ac25ebca8
+type: word-relation
+group_uuid: 8e6cd433-cb89-40fa-bbe9-f52ac25ebca8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: fcdfdd91-1580-4d74-b184-51e5ac003478
+  text: 造
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 論衡
+    line_uuid: 1ac2a198-56e0-4d70-9372-5848be1c92bd
+    line_id: KR3j0080_tls_036-11a.17
+    textline: 文王所造
+    offset: 4
+    range: 1
+right:
+  word_uuid: d8f152ff-e0f2-48bb-a9f3-f357b441348b
+  text: 作
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 論衡
+    line_uuid: e9bfd242-fcbc-4f33-ad82-35eff56dfc01
+    line_id: KR3j0080_tls_036-11a.16
+    textline: 伏羲所作
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

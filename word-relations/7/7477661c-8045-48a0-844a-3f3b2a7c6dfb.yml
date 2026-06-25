@@ -1,0 +1,30 @@
+uuid: 7477661c-8045-48a0-844a-3f3b2a7c6dfb
+type: word-relation
+group_uuid: 7477661c-8045-48a0-844a-3f3b2a7c6dfb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41918d66-66fe-410f-ae6a-5eca5e7752be
+  text: 灼
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 8ba8eae4-ff66-4795-b0cc-ecef13b7c371
+    textline: 中身則皮膚灼焚
+    offset: 6
+    range: 1
+right:
+  word_uuid: 69c817ac-9f51-4157-a6f0-8e70ebf0a1da
+  text: 焚
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 8ba8eae4-ff66-4795-b0cc-ecef13b7c371
+    textline: 中身則皮膚灼焚
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

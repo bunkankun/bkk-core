@@ -1,0 +1,21 @@
+uuid: 85f223dd-0aa2-478e-99c6-6c595a6c8d22
+type: word-relation
+group_uuid: d9549bef-6091-55f6-91ff-59abb8a5b51e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+right:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

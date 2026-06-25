@@ -1,0 +1,18 @@
+uuid: 92fe6b1b-101e-415c-9f17-4ae5ca716810
+type: word-relation
+group_uuid: 5814d31c-73cb-5ad9-86dc-c001fc47ed91
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9ae23c13-1532-4c55-b654-a37e0d679e46
+  text: 德
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+source:
+  source_file: word-relations.xml

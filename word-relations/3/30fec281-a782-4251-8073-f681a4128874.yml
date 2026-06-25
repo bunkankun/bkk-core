@@ -1,0 +1,32 @@
+uuid: 30fec281-a782-4251-8073-f681a4128874
+type: word-relation
+group_uuid: 30fec281-a782-4251-8073-f681a4128874
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 孟子
+    line_uuid: 4f5fde39-7daf-44bb-a8fc-49e23b842902
+    line_id: KR1h0001_tls_001-57a.9
+    textline: 盡心力而為之
+    offset: 3
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 孟子
+    line_uuid: 4f5fde39-7daf-44bb-a8fc-49e23b842902
+    line_id: KR1h0001_tls_001-57a.9
+    textline: 盡心力而為之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

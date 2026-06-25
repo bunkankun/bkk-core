@@ -1,0 +1,32 @@
+uuid: 5cd70388-19ce-47c1-9703-8819cea7c1ca
+type: word-relation
+group_uuid: cdb107f5-7a5e-567d-9da5-637e8ccf7d9e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 963c3187-c5f9-4aea-b7d0-e9ca880eb6e9
+  text: 上天
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_006-42a.19
+    textline: 重寔上天
+    offset: 4
+    range: 2
+right:
+  word_uuid: 5387b939-2b05-42cd-87b9-392b0582cd85
+  text: 下地
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_006-42a.20
+    textline: 黎寔下地
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-28T23:13:19.109+09:00'

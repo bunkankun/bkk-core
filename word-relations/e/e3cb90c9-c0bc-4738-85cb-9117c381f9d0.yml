@@ -1,0 +1,30 @@
+uuid: e3cb90c9-c0bc-4738-85cb-9117c381f9d0
+type: word-relation
+group_uuid: e3cb90c9-c0bc-4738-85cb-9117c381f9d0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1e9d2f42-2d37-42da-b155-a1cf8c147fbe
+  text: 菹
+  concept: EXECUTE
+  concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0a71eb05-cb90-48c2-8662-d3f6242ed36f
+    textline: 退就菹戮
+    offset: 3
+    range: 1
+right:
+  word_uuid: d1855315-5fc0-4af0-a7f8-623a25faeab3
+  text: 戮
+  concept: EXECUTE
+  concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0a71eb05-cb90-48c2-8662-d3f6242ed36f
+    textline: 退就菹戮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

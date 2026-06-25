@@ -1,0 +1,32 @@
+uuid: 6121cb49-b333-440f-b0da-329cd36969d3
+type: word-relation
+group_uuid: 8fbbb3c8-3055-44ee-b270-df30373f84cc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e7eb65e-170e-440e-b5a8-ce24a703c5cc
+    line_id: KR3c0005_tls_010-2a.8
+    textline: 不顧國政
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8e7eb65e-170e-440e-b5a8-ce24a703c5cc
+    line_id: KR3c0005_tls_010-2a.8
+    textline: 不顧國政
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

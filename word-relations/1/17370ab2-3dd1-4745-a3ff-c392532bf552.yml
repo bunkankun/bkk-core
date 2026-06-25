@@ -1,0 +1,32 @@
+uuid: 17370ab2-3dd1-4745-a3ff-c392532bf552
+type: word-relation
+group_uuid: 211f5266-b358-4b87-8979-d510b424a100
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dddfa333-638e-4b82-9647-3081a701edc4
+  text: 安
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 管子
+    line_uuid: c5602366-ff03-4522-be48-46f57cd340e5
+    line_id: KR3c0001_tls_018-18a.3
+    textline: 安徐而靜
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7618a0b6-ef3b-4463-8fc7-8c561e7ec2b4
+  text: 徐
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+  attestation:
+    text_title: 管子
+    line_uuid: c5602366-ff03-4522-be48-46f57cd340e5
+    line_id: KR3c0001_tls_018-18a.3
+    textline: 安徐而靜
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 32c98409-6a47-4ca6-8984-096a47eca6d2
+type: word-relation
+group_uuid: 50e9063e-2d82-5396-8dfd-f1a87100217c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_003-6a.3
+    textline: 古之從仕者養人
+    offset: 7
+    range: 1
+right:
+  word_uuid: 13c109a4-6c71-4bd9-bcbd-e60dc02226d3
+  text: 己
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_003-6a.4
+    textline: 今之從仕者養己
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-02-24T02:17:25.999+09:00'

@@ -1,0 +1,32 @@
+uuid: 2e3da5b3-b3af-413b-bda5-b3b3afc13b3d
+type: word-relation
+group_uuid: 1cb402fa-5290-5a7e-a9b4-02a65adc1f68
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a0457eff-1be4-422a-8572-97c9822abe71
+  text: 諸
+  concept: PRONOUN
+  concept_uuid: c1654743-3e55-4188-816b-511da251682f
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_020-109a.2
+    textline: 道譬諸若水
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6792af62-5c79-4dd5-bf5d-bb92fc37e755
+  text: 之
+  concept: PRONOUN
+  concept_uuid: c1654743-3e55-4188-816b-511da251682f
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_020-109a.5
+    textline: 譬之若劍戟
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-07T17:02:24.678+09:00'

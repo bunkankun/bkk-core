@@ -1,0 +1,32 @@
+uuid: 2ba7f19e-889b-4dc7-885c-46a715ce65fe
+type: word-relation
+group_uuid: 2ba7f19e-889b-4dc7-885c-46a715ce65fe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e80a9649-84cb-42c4-8d65-b1fd5ca91a9c
+  text: 狐
+  concept: FOX
+  concept_uuid: 78121e18-c323-4dbc-864d-8fbae1068169
+  attestation:
+    text_title: 論語
+    line_uuid: d227b6c9-fae9-40b7-a62c-cc9c51003857
+    line_id: KR1h0004_tls_010-19a.2
+    textline: 狐貉之厚以居
+    offset: 1
+    range: 1
+right:
+  word_uuid: 86c38597-153e-4836-8fc6-debd214ecb30
+  text: 貉
+  concept: RODENTS
+  concept_uuid: 3ee55fa4-47fb-4d5c-a7fc-0ba57a34342b
+  attestation:
+    text_title: 論語
+    line_uuid: d227b6c9-fae9-40b7-a62c-cc9c51003857
+    line_id: KR1h0004_tls_010-19a.2
+    textline: 狐貉之厚以居
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

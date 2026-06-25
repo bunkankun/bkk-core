@@ -1,0 +1,32 @@
+uuid: 3d3027c0-d8b7-426b-bcfb-fc90a21fe4eb
+type: word-relation
+group_uuid: 3d3027c0-d8b7-426b-bcfb-fc90a21fe4eb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0cb7eff2-872d-495e-b9ce-51b94bd4a24a
+  text: 盟
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 73ebe030-b604-42bb-8060-8b286b9d4384
+    line_id: KR1e0001_tls_008-283a.7
+    textline: 申之以盟誓
+    offset: 4
+    range: 1
+right:
+  word_uuid: 241953c8-8c18-41e3-9640-c04bd4d249aa
+  text: 誓
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 73ebe030-b604-42bb-8060-8b286b9d4384
+    line_id: KR1e0001_tls_008-283a.7
+    textline: 申之以盟誓
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

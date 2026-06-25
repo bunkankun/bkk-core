@@ -1,0 +1,32 @@
+uuid: 4d60ffc8-721b-440c-a0ff-c8721b640c71
+type: word-relation
+group_uuid: f3666695-a3ef-47da-ae66-e83dfac3da2d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5133dfb0-4a6a-4910-912b-96e27a77fb65
+  text: 禽
+  concept: BIRD
+  concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.13
+    textline: 禽獸可羈而從也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.13
+    textline: 禽獸可羈而從也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:09:51.713+09:00'

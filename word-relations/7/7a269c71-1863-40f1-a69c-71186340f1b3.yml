@@ -1,0 +1,32 @@
+uuid: 7a269c71-1863-40f1-a69c-71186340f1b3
+type: word-relation
+group_uuid: 4b9159af-d518-5c5c-91f6-807e33ea4b36
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: eeb879df-074f-4d32-8da2-bc0503a80b2e
+  text: 訓
+  concept: DECREE
+  concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+  attestation:
+    text_title: 尚書
+    line_id: KR1b0001_tls_023-1a.22
+    textline: 學于古訓乃有獲
+    offset: 4
+    range: 1
+right:
+  word_uuid: e9703dfb-e050-4b0a-85ee-c4512e47e8cf
+  text: 古
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 尚書
+    line_id: KR1b0001_tls_023-1a.22
+    textline: 學于古訓乃有獲
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T20:32:26.045+09:00'

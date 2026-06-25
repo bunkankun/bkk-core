@@ -1,0 +1,21 @@
+uuid: 5b9c9eb6-1eaf-49c8-b4d3-a695d68a279b
+type: word-relation
+group_uuid: 92b82da1-d9ef-5132-a9f0-916393113737
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8466df2d-d8bc-48ca-8752-822ecdab0353
+  text: 著
+  concept: WRITE
+  concept_uuid: 570cf6d6-3f68-4d94-b76f-10c89c353f8b
+right:
+  word_uuid: ae061d43-ec51-402b-a0e9-d3170be16995
+  text: 垂
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

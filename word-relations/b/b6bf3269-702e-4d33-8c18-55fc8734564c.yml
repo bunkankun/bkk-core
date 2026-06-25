@@ -1,0 +1,32 @@
+uuid: b6bf3269-702e-4d33-8c18-55fc8734564c
+type: word-relation
+group_uuid: b6bf3269-702e-4d33-8c18-55fc8734564c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 64356ae0-17eb-4653-8455-bd432accd011
+  text: 帝
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6e9ce997-e2fc-4a86-b4e6-f2c3f2d43d84
+    line_id: KR3j0009_tls_002-15a.10
+    textline: 帝王之功
+    offset: 1
+    range: 1
+right:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6e9ce997-e2fc-4a86-b4e6-f2c3f2d43d84
+    line_id: KR3j0009_tls_002-15a.10
+    textline: 帝王之功
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

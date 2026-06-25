@@ -1,0 +1,32 @@
+uuid: a6838419-5067-49ff-b4a9-35d66ea34dec
+type: word-relation
+group_uuid: a6838419-5067-49ff-b4a9-35d66ea34dec
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 5567f88a-fe02-48fb-b960-eb57496a5c19
+  text: 戎狄
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5d4f28a9-5f26-4d53-a6a3-7e3785c84e64
+    line_id: KR1e0001_tls_009-267a.4
+    textline: 「子教寡人和諸戎狄
+    offset: 8
+    range: 2
+right:
+  word_uuid: 95a42b9d-e9aa-49a3-a143-1d760ba3415d
+  text: 華
+  concept: CHINESE
+  concept_uuid: 3b0f32f4-7b6e-43a8-bbb4-b0763266948e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b7e226b9-4645-4a22-994e-a8de54820e23
+    line_id: KR1e0001_tls_009-267a.5
+    textline: 以正諸華
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 98091dcd-e95c-42b2-b380-9d3d3f8313f7
+type: word-relation
+group_uuid: b4274031-e160-44f4-8df0-65dfa1e32d18
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b3e802a5-fba9-4299-a3f8-39e5459f8a2a
+  text: 孝
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 論語
+    line_uuid: 6e61817e-614b-4b1c-b03c-827d6696dc8b
+    line_id: KR1h0004_tls_001-2a.9
+    textline: 孝弟也者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3e8aad6e-3d57-423c-a5cc-ec9c53002926
+  text: 弟
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 論語
+    line_uuid: 6e61817e-614b-4b1c-b03c-827d6696dc8b
+    line_id: KR1h0004_tls_001-2a.9
+    textline: 孝弟也者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: c63d39da-f6ad-434b-b93e-9854d4b9cbdb
+type: word-relation
+group_uuid: c63d39da-f6ad-434b-b93e-9854d4b9cbdb
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 566b7752-c546-4a80-8a6f-ee8343f3eb2f
+  text: 勝
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 老子
+    line_uuid: 81f3680d-81d2-4505-939f-d9b10686dc6a
+    textline: 善勝敵者不與
+    offset: 2
+    range: 1
+right:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 老子
+    line_uuid: 81f3680d-81d2-4505-939f-d9b10686dc6a
+    textline: 善勝敵者不與
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

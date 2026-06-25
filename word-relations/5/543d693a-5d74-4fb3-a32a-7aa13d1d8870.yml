@@ -1,0 +1,21 @@
+uuid: 543d693a-5d74-4fb3-a32a-7aa13d1d8870
+type: word-relation
+group_uuid: 6bc9d723-a354-588d-888c-3349a1317411
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d28b2555-9be7-4055-9193-89fcea39835f
+  text: 減
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+right:
+  word_uuid: 62de2824-135d-47ac-87d7-635d53c064cb
+  text: 損
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

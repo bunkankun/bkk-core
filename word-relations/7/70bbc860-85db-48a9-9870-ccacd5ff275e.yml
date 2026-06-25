@@ -1,0 +1,30 @@
+uuid: 70bbc860-85db-48a9-9870-ccacd5ff275e
+type: word-relation
+group_uuid: 70bbc860-85db-48a9-9870-ccacd5ff275e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 荀子
+    line_uuid: cd571d05-df4e-43ea-9bb1-af2ff84e446d
+    textline: 是性偽之所生
+    offset: 2
+    range: 1
+right:
+  word_uuid: 826660fd-997d-4573-8da8-6393608c654d
+  text: 偽
+  concept: ARTEFACT
+  concept_uuid: e6b6915f-ba7f-4489-88b7-e3fbf53188d2
+  attestation:
+    text_title: 荀子
+    line_uuid: cd571d05-df4e-43ea-9bb1-af2ff84e446d
+    textline: 是性偽之所生
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

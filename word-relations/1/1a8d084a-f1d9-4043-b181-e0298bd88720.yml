@@ -1,0 +1,32 @@
+uuid: 1a8d084a-f1d9-4043-b181-e0298bd88720
+type: word-relation
+group_uuid: 39dc7040-957a-4639-9fe3-80f529cf1b7e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8ac17c2d-7ded-4025-90b0-9bed417c9f40
+  text: 拙
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 管子
+    line_uuid: 1e9e075b-2a51-4f56-86b1-43c09274ad7e
+    line_id: KR3c0001_tls_003-52a.9
+    textline: 則拙者巧
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8ac352c9-2311-42e1-81c2-ae4e05b1654e
+  text: 巧
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+  attestation:
+    text_title: 管子
+    line_uuid: 1e9e075b-2a51-4f56-86b1-43c09274ad7e
+    line_id: KR3c0001_tls_003-52a.9
+    textline: 則拙者巧
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

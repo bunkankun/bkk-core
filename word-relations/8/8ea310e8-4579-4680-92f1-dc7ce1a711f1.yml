@@ -1,0 +1,32 @@
+uuid: 8ea310e8-4579-4680-92f1-dc7ce1a711f1
+type: word-relation
+group_uuid: 8ea310e8-4579-4680-92f1-dc7ce1a711f1
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 11044dca-d6fd-4875-a2ee-3c4d439379f9
+  text: 嗜
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a57d0616-994a-45f9-aa6e-295e6ce02e44
+    line_id: KR3j0009_tls_002-17a.44
+    textline: 嗜肉者
+    offset: 1
+    range: 1
+right:
+  word_uuid: fa306955-ab34-48a8-9453-a15c35962ec4
+  text: 肉
+  concept: MEAT
+  concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a57d0616-994a-45f9-aa6e-295e6ce02e44
+    line_id: KR3j0009_tls_002-17a.44
+    textline: 嗜肉者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

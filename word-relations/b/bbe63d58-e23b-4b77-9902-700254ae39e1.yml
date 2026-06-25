@@ -1,0 +1,30 @@
+uuid: bbe63d58-e23b-4b77-9902-700254ae39e1
+type: word-relation
+group_uuid: bbe63d58-e23b-4b77-9902-700254ae39e1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b096ad4d-aa5b-4dda-9c66-463a07f2fa7a
+  text: 聽
+  concept: LISTEN
+  concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+  attestation:
+    text_title: 上博。民之父母
+    line_uuid: f20e72f0-d149-42e2-bc5e-5f35493cc7c4
+    textline: 傾耳而聽之,
+    offset: 4
+    range: 1
+right:
+  word_uuid: 326aee14-98d8-4224-96f6-037c385c778d
+  text: 聞
+  concept: HEAR
+  concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+  attestation:
+    text_title: 上博。民之父母
+    line_uuid: ab94676b-14e2-412d-80d9-f43bda29f7e5
+    textline: 不可得而聞也;
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

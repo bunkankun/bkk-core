@@ -1,0 +1,32 @@
+uuid: a44221bc-b29b-497d-8f7c-a65d3eb055f3
+type: word-relation
+group_uuid: 2c4a28dc-0601-42e2-9fd5-77e848296be0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d3e70e87-ddae-46a6-98e2-1039213c7bf0
+  text: 穀
+  concept: GRAIN
+  concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0d95fad4-5326-405e-8c3b-a1a8ea33727c
+    line_id: KR3j0009_tls_004-18a.17
+    textline: 事五穀
+    offset: 3
+    range: 1
+right:
+  word_uuid: 65b7ae6a-5674-4fd3-8b11-2367a752ed5a
+  text: 五
+  concept: FIVE
+  concept_uuid: f1f62799-186d-4a41-b27a-a70d99335319
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0d95fad4-5326-405e-8c3b-a1a8ea33727c
+    line_id: KR3j0009_tls_004-18a.17
+    textline: 事五穀
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

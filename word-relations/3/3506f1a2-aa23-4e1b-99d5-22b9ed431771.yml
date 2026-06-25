@@ -1,0 +1,32 @@
+uuid: 3506f1a2-aa23-4e1b-99d5-22b9ed431771
+type: word-relation
+group_uuid: 3506f1a2-aa23-4e1b-99d5-22b9ed431771
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7e1027e0-11c1-4a48-a950-47bb54dd0e37
+  text: 聞
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 論語
+    line_uuid: 4c6e9d6e-2377-46f1-b84f-24d05da46b04
+    line_id: KR1h0004_tls_002-19a.4
+    textline: 「多聞闕疑
+    offset: 3
+    range: 1
+right:
+  word_uuid: f4b50c55-65fe-4117-a5b4-5b53b5761118
+  text: 見
+  concept: SEE
+  concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+  attestation:
+    text_title: 論語
+    line_uuid: 4eed6414-80ee-4f1d-b98a-efac6b7efde5
+    line_id: KR1h0004_tls_002-19a.7
+    textline: 多見闕殆
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

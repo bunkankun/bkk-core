@@ -1,0 +1,21 @@
+uuid: ad55840f-6364-46ef-a041-4d8455d784fe
+type: word-relation
+group_uuid: 3694d1c8-e8ca-5670-9fe1-b31301b9c04e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+right:
+  word_uuid: a7c2d403-6ba7-493a-b1d9-f3ae760f269e
+  text: 烈
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

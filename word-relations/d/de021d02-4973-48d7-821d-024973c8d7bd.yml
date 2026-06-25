@@ -1,0 +1,32 @@
+uuid: de021d02-4973-48d7-821d-024973c8d7bd
+type: word-relation
+group_uuid: 743266eb-a156-5d00-80e2-e19de111ba66
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.7
+    textline: 民俗益薄
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6cefce66-bf9c-4893-8e14-6d15295dc147
+  text: 俗
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.7
+    textline: 民俗益薄
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T01:55:22.747+09:00'

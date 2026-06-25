@@ -1,0 +1,32 @@
+uuid: 99ef54f2-b7fe-4c86-af54-f2b7fecc868d
+type: word-relation
+group_uuid: e5069cb4-140d-5136-a9c9-84ea40022fa5
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 2d552e26-0869-442f-9d04-9d2f30d21c70
+  text: 順
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 白虎通
+    line_id: KR3j0023_tls_040-1255a.2
+    textline: 吾子順先典
+    offset: 4
+    range: 1
+right:
+  word_uuid: cfc8ea02-c38e-4a24-88ea-02c38e3a24bf
+  text: 先典
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 白虎通
+    line_id: KR3j0023_tls_040-1255a.2
+    textline: 吾子順先典
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T02:04:13.708+09:00'

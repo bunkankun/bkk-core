@@ -1,0 +1,21 @@
+uuid: 27d24865-77b4-4ff0-a3f8-0f4256b26910
+type: word-relation
+group_uuid: 7592ccd3-0c23-57b4-9913-ba146359bacb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ae753169-eafb-4a34-ae87-0d0bdd2e0c2e
+  text: 覆
+  concept: COVER
+  concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+right:
+  word_uuid: 777f73ca-d9c9-41bb-b9db-9a0ed42d4d24
+  text: 蓋
+  concept: COVER
+  concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 6644a1ec-6f94-4ba7-be94-36b812242fef
+type: word-relation
+group_uuid: 6644a1ec-6f94-4ba7-be94-36b812242fef
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: aa198c3b-4c6c-431d-86ba-becb2478850d
+  text: 白
+  concept: WHITE
+  concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+  attestation:
+    text_title: 楚辭
+    line_uuid: f37a355f-e2cb-4dca-9b76-5c78aec4384a
+    textline: 形體白而質素兮
+    offset: 3
+    range: 1
+right:
+  word_uuid: fe0cb063-2630-4524-acd1-f1e4c39689be
+  text: 素
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 楚辭
+    line_uuid: f37a355f-e2cb-4dca-9b76-5c78aec4384a
+    textline: 形體白而質素兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

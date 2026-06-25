@@ -1,0 +1,32 @@
+uuid: 97e4d696-98ef-4cbf-a4d6-9698efbcbf62
+type: word-relation
+group_uuid: b718326c-6864-5667-a01f-93c0dbb3d01a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-46a.3
+    textline: 羿之教人射
+    offset: 4
+    range: 1
+right:
+  word_uuid: 75add126-ff59-4089-878b-153f2d7c32b0
+  text: 誨
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-46a.6
+    textline: 大匠誨人
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T16:57:23.622+09:00'

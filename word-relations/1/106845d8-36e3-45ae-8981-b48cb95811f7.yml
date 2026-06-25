@@ -1,0 +1,35 @@
+uuid: 106845d8-36e3-45ae-8981-b48cb95811f7
+type: word-relation
+group_uuid: d8bdd606-c7ad-46c5-bea5-96be86d2e3f3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 140000c0-8b14-451f-a357-39e08169ee1e
+  text: 精
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3cc0d578-1aa7-434e-9c8e-8c695bebdd3c
+    line_id: KR3j0009_tls_003-12a.9
+    textline: 故精神安乎形
+    offset: 2
+    range: 1
+right:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3cc0d578-1aa7-434e-9c8e-8c695bebdd3c
+    line_id: KR3j0009_tls_003-12a.9
+    textline: 故精神安乎形
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

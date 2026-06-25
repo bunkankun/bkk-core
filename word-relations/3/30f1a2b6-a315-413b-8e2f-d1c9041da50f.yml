@@ -1,0 +1,32 @@
+uuid: 30f1a2b6-a315-413b-8e2f-d1c9041da50f
+type: word-relation
+group_uuid: 30f1a2b6-a315-413b-8e2f-d1c9041da50f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7299f116-856e-42d0-93b1-604d312aa9de
+  text: 珍
+  concept: PRECIOUS
+  concept_uuid: 612c914e-1b4e-44d3-a48a-3f717c51432b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 119e5e00-56c2-4a5c-b19b-4d9ead3b7514
+    line_id: KR1e0001_tls_012-13a.39
+    textline: 珍異是聚
+    offset: 1
+    range: 1
+right:
+  word_uuid: dc155761-a643-4fbd-94ce-e543d65fcbc1
+  text: 異
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 119e5e00-56c2-4a5c-b19b-4d9ead3b7514
+    line_id: KR1e0001_tls_012-13a.39
+    textline: 珍異是聚
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

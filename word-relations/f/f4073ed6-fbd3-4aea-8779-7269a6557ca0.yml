@@ -1,0 +1,21 @@
+uuid: f4073ed6-fbd3-4aea-8779-7269a6557ca0
+type: word-relation
+group_uuid: 90f38a36-d0b0-5ae9-95f5-8fd998f254c5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c58131b1-56b0-4a24-9955-233180152209
+  text: 風
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+right:
+  word_uuid: 6cefce66-bf9c-4893-8e14-6d15295dc147
+  text: 俗
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

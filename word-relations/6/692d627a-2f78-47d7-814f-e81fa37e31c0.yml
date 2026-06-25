@@ -1,0 +1,21 @@
+uuid: 692d627a-2f78-47d7-814f-e81fa37e31c0
+type: word-relation
+group_uuid: cd45543f-42fc-51c9-8b86-834a671530f1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 451625e0-8f24-4c07-8916-0f6d64f418b2
+  text: 分
+  concept: DIVIDE
+  concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+right:
+  word_uuid: ac13027d-3551-4d04-b46f-b8aa1da77e20
+  text: 拆
+  concept: SPLIT
+  concept_uuid: f88d0223-a021-4d3a-a4a8-02a5ffaf5527
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

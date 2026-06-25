@@ -1,0 +1,32 @@
+uuid: f4e7ba9d-958e-449b-9026-4cd274a76566
+type: word-relation
+group_uuid: a522c91d-9e7e-4820-b9fa-28c2cfe074d5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 莊子
+    line_uuid: dfd358c5-5071-44b1-bbfb-e8922741be11
+    line_id: KR5c0126_tls_023-4a.12
+    textline: 夫全其形生之人
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 莊子
+    line_uuid: 8e317fb5-0c96-4114-b3ca-f9ab8eff2694
+    line_id: KR5c0126_tls_023-4a.13
+    textline: 藏其身也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

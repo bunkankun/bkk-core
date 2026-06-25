@@ -1,0 +1,32 @@
+uuid: aaf1c35f-6923-4c2b-a6b8-e8d298bb19de
+type: word-relation
+group_uuid: 93f16a25-8efe-49b2-868c-043bc08003fa
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 083fab34-6743-4c19-a187-659d3ee7fcc5
+  text: 舉
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ddeab62-6ae2-455a-993b-848ac053619a
+    line_id: KR3c0005_tls_010-98a.3
+    textline: 舉兵而伐之
+    offset: 1
+    range: 1
+right:
+  word_uuid: aae131cd-ebb1-4935-9db0-f6927337cde9
+  text: 兵
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ddeab62-6ae2-455a-993b-848ac053619a
+    line_id: KR3c0005_tls_010-98a.3
+    textline: 舉兵而伐之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

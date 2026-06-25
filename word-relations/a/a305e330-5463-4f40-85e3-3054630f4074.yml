@@ -1,0 +1,32 @@
+uuid: a305e330-5463-4f40-85e3-3054630f4074
+type: word-relation
+group_uuid: 627fbab3-b416-509b-b1bc-b5d4692b1033
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8c2a98f7-32ce-4384-a6b8-c919563b849f
+  text: 大
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-39a.25
+    textline: 非郊亭大而廟堂狹小也
+    offset: 4
+    range: 1
+right:
+  word_uuid: bf1fe621-433a-43c9-ae65-dcd80ddbadcc
+  text: 小
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-39a.25
+    textline: 非郊亭大而廟堂狹小也
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-07-30T17:08:37.069+09:00'

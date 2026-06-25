@@ -1,0 +1,32 @@
+uuid: 0744d43e-568d-4e34-9bf0-ffe2e085b60a
+type: word-relation
+group_uuid: 0744d43e-568d-4e34-9bf0-ffe2e085b60a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 35ce571a-3686-492d-ac6e-62b73e4a60fc
+  text: 明
+  concept: SEE
+  concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+  attestation:
+    text_title: 荀子
+    line_uuid: 00e476a5-958c-4031-90a9-6a0de97b4da7
+    line_id: KR3a0002_tls_001-6a.36
+    textline: 目不能兩視而明
+    offset: 7
+    range: 1
+right:
+  word_uuid: 928495cb-886a-4076-bf77-18d2db42e0e1
+  text: 聰
+  concept: HEAR
+  concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+  attestation:
+    text_title: 荀子
+    line_uuid: e2b48554-7c06-47c9-857f-e76fe1dc4549
+    line_id: KR3a0002_tls_001-6a.37
+    textline: 耳不能兩聽而聰
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8ded95a9-26cd-429f-ad95-a926cd329f3c
+type: word-relation
+group_uuid: 87155b6e-3085-5a50-86c6-a8feeba9d3e5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a3c480ff-5a6e-47e6-ab16-6c46e7ed2d92
+  text: 耕
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.17
+    textline: 古者剡耜而耕
+    offset: 6
+    range: 1
+right:
+  word_uuid: a8a14aa1-0a10-48b2-a1f5-53aefcb5699f
+  text: 耨
+  concept: WEED
+  concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.18
+    textline: 摩蜃而耨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:14:36.351+09:00'

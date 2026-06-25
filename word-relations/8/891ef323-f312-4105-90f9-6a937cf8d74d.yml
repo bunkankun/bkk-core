@@ -1,0 +1,32 @@
+uuid: 891ef323-f312-4105-90f9-6a937cf8d74d
+type: word-relation
+group_uuid: 891ef323-f312-4105-90f9-6a937cf8d74d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2da9a4ee-b36a-4671-92cf-a89dfd51ed53
+  text: 疾
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1c619027-fc89-4951-820c-d443cfbe1070
+    line_id: KR3c0005_tls_014-30a.6
+    textline: 民疾怨
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1c619027-fc89-4951-820c-d443cfbe1070
+    line_id: KR3c0005_tls_014-30a.6
+    textline: 民疾怨
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

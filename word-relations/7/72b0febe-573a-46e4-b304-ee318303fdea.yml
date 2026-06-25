@@ -1,0 +1,32 @@
+uuid: 72b0febe-573a-46e4-b304-ee318303fdea
+type: word-relation
+group_uuid: 72b0febe-573a-46e4-b304-ee318303fdea
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ca9d53ad-efee-47f2-9869-916d7ebf1aa7
+  text: 膳
+  concept: DELICACY
+  concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+  attestation:
+    text_title: 禮記
+    line_uuid: caabc43f-0b3d-4e79-aec8-8bda7dbee309
+    line_id: KR1d0052_tls_005-48a.12
+    textline: 膳飲從於遊可也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 826a1579-ef3e-4410-8b17-edf76e7d8b19
+  text: 飲
+  concept: DRINK
+  concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+  attestation:
+    text_title: 禮記
+    line_uuid: caabc43f-0b3d-4e79-aec8-8bda7dbee309
+    line_id: KR1d0052_tls_005-48a.12
+    textline: 膳飲從於遊可也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

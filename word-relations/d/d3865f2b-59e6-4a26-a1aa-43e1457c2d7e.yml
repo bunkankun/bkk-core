@@ -1,0 +1,32 @@
+uuid: d3865f2b-59e6-4a26-a1aa-43e1457c2d7e
+type: word-relation
+group_uuid: d3865f2b-59e6-4a26-a1aa-43e1457c2d7e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4bd7e5bc-da1c-4504-819c-ecb437824fc9
+  text: 信
+  concept: TRUST
+  concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: e219e6cd-9281-4da2-97b8-b638ef9e8985
+    line_id: KR3a0006_tls_001-34a.17
+    textline: 信故疑新
+    offset: 1
+    range: 1
+right:
+  word_uuid: cd3ee973-4973-4ecd-8d59-eb5cd5d62dbd
+  text: 疑
+  concept: SUSPECT
+  concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: e219e6cd-9281-4da2-97b8-b638ef9e8985
+    line_id: KR3a0006_tls_001-34a.17
+    textline: 信故疑新
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

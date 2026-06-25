@@ -1,0 +1,31 @@
+uuid: 73fa75ec-4995-4992-af57-69f6c826ff98
+type: word-relation
+group_uuid: 73fa75ec-4995-4992-af57-69f6c826ff98
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 493e6e6d-b153-470e-a782-c5569d917381
+    line_id: KR3j0080_tls_072-3a.38
+    textline: 孔子聖人
+    offset: 3
+    range: 2
+right:
+  word_uuid: 9a71ce0f-b032-4274-9fdf-ec8822ee88a4
+  text: 賢者
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 論衡
+    line_uuid: 5a08f30c-8d33-4265-b192-c8e2438e3ce1
+    textline: 孟子賢者
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 06712bb3-1215-418e-91fd-d571d62889b8
+type: word-relation
+group_uuid: 06712bb3-1215-418e-91fd-d571d62889b8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 585e33ca-cfa0-41a0-8b9b-5aa062332570
+  text: 奴
+  concept: SLAVE
+  concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+  attestation:
+    text_title: 論衡
+    line_uuid: b3887f71-a972-449a-a007-f6a78c335ca8
+    textline: 貴至封侯賤至奴僕
+    offset: 8
+    range: 1
+right:
+  word_uuid: a15930bf-0eea-4442-a652-4c475737c0d0
+  text: 僕
+  concept: SERVANT
+  concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+  attestation:
+    text_title: 論衡
+    line_uuid: b3887f71-a972-449a-a007-f6a78c335ca8
+    textline: 貴至封侯賤至奴僕
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

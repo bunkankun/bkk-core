@@ -1,0 +1,32 @@
+uuid: 56a71651-13f8-4093-b32c-121ea3bf2557
+type: word-relation
+group_uuid: 56a71651-13f8-4093-b32c-121ea3bf2557
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6ab41e32-a925-4baf-bb06-e5a7fc953c47
+  text: 驁
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7f252d41-ed2e-454e-97d6-f5d1806a1967
+    line_id: KR3c0005_tls_010-47a.6
+    textline: 好利而驁愎
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8863a18f-c25f-4a81-8ed3-171ae901ce28
+  text: 愎
+  concept: STUBBORN
+  concept_uuid: 2a27d7be-3823-4743-babe-7cf9b94883ea
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7f252d41-ed2e-454e-97d6-f5d1806a1967
+    line_id: KR3c0005_tls_010-47a.6
+    textline: 好利而驁愎
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

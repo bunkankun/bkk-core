@@ -1,0 +1,32 @@
+uuid: c967e9e6-d84b-40fb-8a8b-af9155c31180
+type: word-relation
+group_uuid: c967e9e6-d84b-40fb-8a8b-af9155c31180
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f07b1a13-08e1-48b6-a13c-9adfb1d0a673
+    line_id: KR3j0009_tls_003-4a.17
+    textline: 聘名士
+    offset: 3
+    range: 1
+right:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f07b1a13-08e1-48b6-a13c-9adfb1d0a673
+    line_id: KR3j0009_tls_003-4a.17
+    textline: 聘名士
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

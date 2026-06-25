@@ -1,0 +1,32 @@
+uuid: 10ea70f6-f7e5-4431-a570-d50cc9b156a5
+type: word-relation
+group_uuid: 5b65d15e-0528-468a-bf32-d2b7c701d950
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 慾
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3bb08d86-5257-4197-9a49-be086a84195c
+    line_id: KR3c0005_tls_020-127a.2
+    textline: 嗜慾無限
+    offset: 2
+    range: 1
+right:
+  word_uuid: 11044dca-d6fd-4875-a2ee-3c4d439379f9
+  text: 嗜
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3bb08d86-5257-4197-9a49-be086a84195c
+    line_id: KR3c0005_tls_020-127a.2
+    textline: 嗜慾無限
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

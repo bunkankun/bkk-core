@@ -1,0 +1,35 @@
+uuid: 9bb8aabe-fc72-4a26-b8aa-befc72ea267d
+type: word-relation
+group_uuid: 1ee95314-5b94-40f8-acc2-a04e25d4aeb3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c82c5735-d7b2-44c5-9690-d4030b6ad922
+  text: 天
+  concept: SKY
+  concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_009-330a.10
+    textline: 蓋之如天
+    offset: 4
+    range: 1
+right:
+  word_uuid: 96845ebb-8521-4cdc-9b35-f3972d293097
+  text: 地
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_009-330a.11
+    textline: 容之如地
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-05T16:37:04.015+09:00'

@@ -1,0 +1,21 @@
+uuid: 7339a915-998d-4d62-a24e-7d018e8edc29
+type: word-relation
+group_uuid: 689c9b09-6aac-5533-9c6d-a66cf5b026b3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+right:
+  word_uuid: b18fd34f-fcd4-482e-90e2-900d057048b6
+  text: 持
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

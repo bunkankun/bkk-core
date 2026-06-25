@@ -1,0 +1,30 @@
+uuid: e8ca3bc7-73a9-45e5-a4a6-ef4c101c8d61
+type: word-relation
+group_uuid: e8ca3bc7-73a9-45e5-a4a6-ef4c101c8d61
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: dd22ee1b-596f-477a-a677-4f779bc2b8c1
+  text: 缺
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 5d98d680-2037-4357-9636-7ed559dbc0da
+    textline: 則威儀廢缺
+    offset: 5
+    range: 1
+right:
+  word_uuid: 818d2809-8bf1-476a-9332-26a1caab6061
+  text: 闕
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: a0d009c0-2e40-4e10-b466-66ddfcf32e13
+    textline: 則義理墮闕
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

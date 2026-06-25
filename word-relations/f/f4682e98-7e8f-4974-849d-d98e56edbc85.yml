@@ -1,0 +1,32 @@
+uuid: f4682e98-7e8f-4974-849d-d98e56edbc85
+type: word-relation
+group_uuid: f4682e98-7e8f-4974-849d-d98e56edbc85
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c8b5ac57-1325-484f-ad65-928a8e1008bb
+  text: 辭
+  concept: PROSE
+  concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+  attestation:
+    text_title: 韓非子
+    line_uuid: e84063ac-08b3-4021-adb1-0caca69a94ff
+    line_id: KR3c0005_tls_015-6a.5
+    textline: 喜淫辭而不周於法
+    offset: 3
+    range: 1
+right:
+  word_uuid: 83c39693-3e41-45ea-a4d3-faeff151da21
+  text: 淫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 韓非子
+    line_uuid: e84063ac-08b3-4021-adb1-0caca69a94ff
+    line_id: KR3c0005_tls_015-6a.5
+    textline: 喜淫辭而不周於法
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

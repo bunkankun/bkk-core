@@ -1,0 +1,32 @@
+uuid: 279f8293-f8ad-48ee-8f4a-db978c45800a
+type: word-relation
+group_uuid: 104a15ca-493a-4f01-b232-12d94b108fac
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 185f3beb-5e4f-4fa3-9fc1-53f20e065379
+    line_id: KR1b0001_tls_035-2a.120
+    textline: 予永念曰
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: dd09d8d7-9b45-4a6c-a7d4-f5290eb7ce1d
+    line_id: KR1b0001_tls_035-2a.122
+    textline: 予曷敢不終朕畝
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

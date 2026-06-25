@@ -1,0 +1,32 @@
+uuid: eafdf4f9-efb4-44e0-aa7d-301fd2199291
+type: word-relation
+group_uuid: eafdf4f9-efb4-44e0-aa7d-301fd2199291
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5054c394-e57f-405d-bdfe-2e7d2a3b41fd
+  text: 酒
+  concept: LIQUOR
+  concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+  attestation:
+    text_title: 論語
+    line_uuid: 8f106ca7-b752-49c3-8cd3-9c8f91bf88a5
+    line_id: KR1h0004_tls_010-25a.23
+    textline: 沽酒市脯
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3820fc8e-fabb-4495-b2ec-e063b4050453
+  text: 脯
+  concept: DRIED MEAT
+  concept_uuid: 4e54c8b0-a7c5-4b06-b215-6b928be209df
+  attestation:
+    text_title: 論語
+    line_uuid: 8f106ca7-b752-49c3-8cd3-9c8f91bf88a5
+    line_id: KR1h0004_tls_010-25a.23
+    textline: 沽酒市脯
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

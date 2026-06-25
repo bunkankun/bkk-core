@@ -1,0 +1,32 @@
+uuid: 3cec1d39-1c6c-4e63-b184-2f75a391cc67
+type: word-relation
+group_uuid: 3cec1d39-1c6c-4e63-b184-2f75a391cc67
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b3fc9c5d-0925-4fd4-8c5f-8d22c88cd496
+  text: 生
+  concept: ANIMAL
+  concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+  attestation:
+    text_title: 韓非子
+    line_uuid: d6faa40e-8da6-404e-ab28-c999cd5c9fd1
+    line_id: KR3c0005_tls_020-88a.3
+    textline: 則畜生少
+    offset: 3
+    range: 1
+right:
+  word_uuid: fed6e19b-e649-4066-8dfb-a0367f3c70c1
+  text: 畜
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+  attestation:
+    text_title: 韓非子
+    line_uuid: d6faa40e-8da6-404e-ab28-c999cd5c9fd1
+    line_id: KR3c0005_tls_020-88a.3
+    textline: 則畜生少
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

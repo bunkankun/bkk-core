@@ -1,0 +1,32 @@
+uuid: 71bb279e-9fc5-445d-ac01-329b5b055f04
+type: word-relation
+group_uuid: 71bb279e-9fc5-445d-ac01-329b5b055f04
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: c3b793f7-7feb-43b2-8b8f-45b77bcdc445
+    line_id: KR3c0005_tls_015-2a.5
+    textline: 小民右仗者
+    offset: 2
+    range: 1
+right:
+  word_uuid: e4591e37-dd8d-4710-b26a-72de6e4d217f
+  text: 小
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: c3b793f7-7feb-43b2-8b8f-45b77bcdc445
+    line_id: KR3c0005_tls_015-2a.5
+    textline: 小民右仗者
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

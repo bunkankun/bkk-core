@@ -1,0 +1,30 @@
+uuid: 31af3c24-269a-4410-9e3b-341ddbb13175
+type: word-relation
+group_uuid: 31af3c24-269a-4410-9e3b-341ddbb13175
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 管子
+    line_uuid: 85ba4d9b-0e1e-4fb0-9d65-0188a8f5c5fc
+    textline: 一舉而名實俱在也
+    offset: 4
+    range: 1
+right:
+  word_uuid: f3ecab85-c2af-4cb0-873e-d71ba2bedbf7
+  text: 實
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 管子
+    line_uuid: 85ba4d9b-0e1e-4fb0-9d65-0188a8f5c5fc
+    textline: 一舉而名實俱在也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

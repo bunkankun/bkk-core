@@ -1,0 +1,32 @@
+uuid: bc722825-1aa1-428f-b655-ffe153eed8cb
+type: word-relation
+group_uuid: 3cd64446-4222-46c1-bc1c-c68511708ed5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 淮南子
+    line_uuid: ecfbf47d-b6b8-4e65-ba2d-a854197fd745
+    line_id: KR3j0010_tls_001-32a.14
+    textline: 形神相失也
+    offset: 2
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 淮南子
+    line_uuid: ecfbf47d-b6b8-4e65-ba2d-a854197fd745
+    line_id: KR3j0010_tls_001-32a.14
+    textline: 形神相失也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

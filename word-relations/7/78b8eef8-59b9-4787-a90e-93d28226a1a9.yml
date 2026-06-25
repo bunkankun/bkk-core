@@ -1,0 +1,30 @@
+uuid: 78b8eef8-59b9-4787-a90e-93d28226a1a9
+type: word-relation
+group_uuid: 78b8eef8-59b9-4787-a90e-93d28226a1a9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 老子
+    line_uuid: 5cbf2df4-76a4-4725-8fb7-f510f83eae55
+    textline: 有仁義
+    offset: 2
+    range: 1
+right:
+  word_uuid: 318c4644-941b-4f78-99ce-7e1d11dc7e2f
+  text: 義
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 老子
+    line_uuid: 5cbf2df4-76a4-4725-8fb7-f510f83eae55
+    textline: 有仁義
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

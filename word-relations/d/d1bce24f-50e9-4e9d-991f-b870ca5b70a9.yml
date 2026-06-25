@@ -1,0 +1,32 @@
+uuid: d1bce24f-50e9-4e9d-991f-b870ca5b70a9
+type: word-relation
+group_uuid: d1bce24f-50e9-4e9d-991f-b870ca5b70a9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 14c572d4-cad4-4dc0-a8c2-5c296692a6b4
+  text: 情
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 白虎通
+    line_uuid: 558e1e2e-6680-499d-bfdb-7ea6f362a20f
+    line_id: KR3j0023_tls_033-1142a.2
+    textline: 所以表情見意
+    offset: 4
+    range: 1
+right:
+  word_uuid: d2384885-8628-4dd9-9a82-58d01016b2be
+  text: 意
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 白虎通
+    line_uuid: 558e1e2e-6680-499d-bfdb-7ea6f362a20f
+    line_id: KR3j0023_tls_033-1142a.2
+    textline: 所以表情見意
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

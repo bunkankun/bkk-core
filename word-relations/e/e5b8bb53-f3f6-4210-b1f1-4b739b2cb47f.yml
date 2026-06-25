@@ -1,0 +1,32 @@
+uuid: e5b8bb53-f3f6-4210-b1f1-4b739b2cb47f
+type: word-relation
+group_uuid: 80fb45d1-7193-4d78-afb7-d126f4f07d77
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 318c4644-941b-4f78-99ce-7e1d11dc7e2f
+  text: 義
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d8928c25-b030-4cc7-a054-5a53c7cbfb23
+    line_id: KR1e0001_tls_005-501a.19
+    textline: 禮以行義
+    offset: 4
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d8928c25-b030-4cc7-a054-5a53c7cbfb23
+    line_id: KR1e0001_tls_005-501a.19
+    textline: 禮以行義
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

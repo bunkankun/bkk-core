@@ -1,0 +1,32 @@
+uuid: 2ab1cc26-881c-48c4-a2c4-ce54f384d0c8
+type: word-relation
+group_uuid: 2ab1cc26-881c-48c4-a2c4-ce54f384d0c8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d7a5d689-672b-48fb-8987-8ac384d73dd3
+  text: 醜
+  concept: UGLY
+  concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+  attestation:
+    text_title: 論衡
+    line_uuid: 686bc44d-5111-4fd2-90d9-74f28c7783ab
+    line_id: KR3j0080_tls_006-7a.46
+    textline: 形體醜惡
+    offset: 3
+    range: 1
+right:
+  word_uuid: 30a333e6-2e5c-40f4-9e91-f7b395428f76
+  text: 惡
+  concept: UGLY
+  concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+  attestation:
+    text_title: 論衡
+    line_uuid: 686bc44d-5111-4fd2-90d9-74f28c7783ab
+    line_id: KR3j0080_tls_006-7a.46
+    textline: 形體醜惡
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

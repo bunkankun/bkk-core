@@ -1,0 +1,31 @@
+uuid: d6c244ed-582e-4453-bd83-395473359202
+type: word-relation
+group_uuid: 63a687b8-79de-4cc7-934a-9af67658620e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 老子
+    line_uuid: 3376d292-1d0b-4673-8a9a-b69bf0b8f7de
+    line_id: KR5c0057_tls_053-1a.4
+    textline: 行於大道
+    offset: 4
+    range: 1
+right:
+  word_uuid: b80c382f-af6f-4a67-8afc-1167fa2c1d01
+  text: 徑
+  concept: PATH
+  concept_uuid: 07a0323c-f326-44e7-a6e8-16d747e3a604
+  attestation:
+    text_title: 老子
+    line_uuid: 2be8233c-5b3d-4eea-937d-bb46a46c9ec6
+    textline: 而人好徑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

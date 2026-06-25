@@ -1,0 +1,32 @@
+uuid: 33b5ad6c-c6e8-4b5b-bf8a-167445dc8454
+type: word-relation
+group_uuid: 33b5ad6c-c6e8-4b5b-bf8a-167445dc8454
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 論語
+    line_uuid: 23e56298-d6c5-4c9e-98cf-7aa932c9ebc8
+    line_id: KR1h0004_tls_007-2a.4
+    textline: 學而不厭
+    offset: 1
+    range: 1
+right:
+  word_uuid: 75add126-ff59-4089-878b-153f2d7c32b0
+  text: 誨
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 論語
+    line_uuid: d5874ef3-9a70-40f6-98cd-66338cbc9cd3
+    line_id: KR1h0004_tls_007-2a.5
+    textline: 誨人不倦
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

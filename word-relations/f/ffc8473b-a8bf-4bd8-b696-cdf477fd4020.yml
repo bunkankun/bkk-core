@@ -1,0 +1,30 @@
+uuid: ffc8473b-a8bf-4bd8-b696-cdf477fd4020
+type: word-relation
+group_uuid: ffc8473b-a8bf-4bd8-b696-cdf477fd4020
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c1086737-4c04-4754-a66c-2013343ee836
+  text: 迫
+  concept: NEAR
+  concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+  attestation:
+    text_title: 史記
+    line_uuid: c9966832-5e24-4e73-bbf6-e19704eb8e99
+    textline: 迫近憚之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 54f197e8-c5cb-44c2-8352-ed9a5f579786
+  text: 近
+  concept: NEAR
+  concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+  attestation:
+    text_title: 史記
+    line_uuid: c9966832-5e24-4e73-bbf6-e19704eb8e99
+    textline: 迫近憚之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,37 @@
+uuid: c67117f9-e4ca-447a-b542-cedce4a060ba
+type: word-relation
+group_uuid: c67117f9-e4ca-447a-b542-cedce4a060ba
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c05e2257-8f03-42d4-91ca-d8f061b8ec45
+  text: 施
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e4f334dd-172f-40ed-a883-47db4c6cdf6a
+    line_id: KR1e0001_tls_005-479a.22
+    textline: 楚有三施
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: bbf24d29-38cf-4429-853e-7146a3e14928
+    line_id: KR1e0001_tls_005-479a.23
+    textline: 我有三怨
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '283'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

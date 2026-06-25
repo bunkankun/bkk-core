@@ -1,0 +1,32 @@
+uuid: 80797829-bd80-44c5-8037-6beead402352
+type: word-relation
+group_uuid: 80797829-bd80-44c5-8037-6beead402352
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: eeb1b54f-27ed-411f-ab9f-cfcbcca5ea30
+  text: 王公
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 荀子
+    line_uuid: 60ffc720-6d88-42a7-8c9e-883a9f654e4b
+    line_id: KR3a0002_tls_012-6a.76
+    textline: 上在王公之朝
+    offset: 3
+    range: 2
+right:
+  word_uuid: 50ca1bc4-9f97-47cd-af0d-f5a55c7fce32
+  text: 百姓
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 荀子
+    line_uuid: c1f4ec0a-770e-45fc-a9ae-88fbddbe9476
+    line_id: KR3a0002_tls_012-6a.77
+    textline: 下在百姓之家
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

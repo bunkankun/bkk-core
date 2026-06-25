@@ -1,0 +1,21 @@
+uuid: e1bda0a0-664d-450b-b804-07e0d15d37eb
+type: word-relation
+group_uuid: ac140d89-d1b8-512d-93e4-3d41eb499ff4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a34146e3-3a7f-41ee-a167-c15d8463fe9a
+  text: 朝
+  concept: DYNASTY
+  concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

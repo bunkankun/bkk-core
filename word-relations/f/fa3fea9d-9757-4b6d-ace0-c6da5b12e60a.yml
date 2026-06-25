@@ -1,0 +1,32 @@
+uuid: fa3fea9d-9757-4b6d-ace0-c6da5b12e60a
+type: word-relation
+group_uuid: fa3fea9d-9757-4b6d-ace0-c6da5b12e60a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9e236b93-ff1c-43e6-81db-eeb6c3a7b754
+  text: 凶
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 1b3a0a1d-7883-4dbd-b30c-ff3ca864f530
+    line_id: KR1e0001_tls_008-268a.13
+    textline: 備救凶患
+    offset: 3
+    range: 1
+right:
+  word_uuid: 61c1c50e-cfd4-4eff-8ee2-4dbdff0ebd61
+  text: 患
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 1b3a0a1d-7883-4dbd-b30c-ff3ca864f530
+    line_id: KR1e0001_tls_008-268a.13
+    textline: 備救凶患
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

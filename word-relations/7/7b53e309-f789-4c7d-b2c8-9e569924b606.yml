@@ -1,0 +1,21 @@
+uuid: 7b53e309-f789-4c7d-b2c8-9e569924b606
+type: word-relation
+group_uuid: cc36623e-fddf-531d-81d5-462d7136bb7f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 10cfd3fa-893e-4c7f-8081-98aec30c99fd
+  text: 晦
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+right:
+  word_uuid: d2a2d76d-e55c-489d-b80c-814c9f48934b
+  text: 冥
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

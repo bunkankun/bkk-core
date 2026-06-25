@@ -1,0 +1,32 @@
+uuid: b9fb3121-1789-4598-b26e-86099b7c6d07
+type: word-relation
+group_uuid: c924a223-943f-403b-a399-ac5c1f9ae9b5
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e276e8a9-6ec3-42f1-b1ec-805c1aae4f85
+    line_id: KR3j0009_tls_004-13a.24
+    textline: 猶曾參之事父也
+    offset: 5
+    range: 1
+right:
+  word_uuid: acdb16d1-c89b-442b-9c0e-1a3653209b86
+  text: 父
+  concept: FATHER
+  concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e276e8a9-6ec3-42f1-b1ec-805c1aae4f85
+    line_id: KR3j0009_tls_004-13a.24
+    textline: 猶曾參之事父也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

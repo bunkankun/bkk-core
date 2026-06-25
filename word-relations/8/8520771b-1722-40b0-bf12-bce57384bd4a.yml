@@ -1,0 +1,21 @@
+uuid: 8520771b-1722-40b0-bf12-bce57384bd4a
+type: word-relation
+group_uuid: 85772eac-48ea-590f-b457-1523abab4651
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ea4c9c89-79bd-48bf-ac0d-20f41fcef423
+  text: 加
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+right:
+  word_uuid: 003de6f0-3072-4748-a27d-159323869e62
+  text: 施
+  concept: DISTRIBUTE
+  concept_uuid: de81a969-98d3-4b53-90e2-74b652e787e5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

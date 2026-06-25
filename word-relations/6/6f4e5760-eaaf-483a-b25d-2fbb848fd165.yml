@@ -1,0 +1,32 @@
+uuid: 6f4e5760-eaaf-483a-b25d-2fbb848fd165
+type: word-relation
+group_uuid: 6f4e5760-eaaf-483a-b25d-2fbb848fd165
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 論語
+    line_uuid: 5d28330c-8e78-457c-9866-5250fb083bf3
+    line_id: KR1h0004_tls_003-22a.10
+    textline: 「成事不說
+    offset: 2
+    range: 1
+right:
+  word_uuid: cc532b13-bd96-4580-bd79-f201d0613015
+  text: 遂
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 論語
+    line_uuid: c6dccefb-8ef6-44e5-a4c8-c64cbbff3b8e
+    line_id: KR1h0004_tls_003-22a.11
+    textline: 遂事不諫
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

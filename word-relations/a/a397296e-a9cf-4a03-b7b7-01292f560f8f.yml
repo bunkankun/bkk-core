@@ -1,0 +1,21 @@
+uuid: a397296e-a9cf-4a03-b7b7-01292f560f8f
+type: word-relation
+group_uuid: 9c6d45bc-2fcd-5330-80ba-c3ae0c2eb4f6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 40ba364c-fcf3-4a99-9374-05ece93773b1
+  text: 講
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+right:
+  word_uuid: 25a63e4c-7bca-41b5-b1ee-8c8a6a371066
+  text: 說
+  concept: EXPLAIN
+  concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

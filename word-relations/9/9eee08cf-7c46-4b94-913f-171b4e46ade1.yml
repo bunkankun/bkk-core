@@ -1,0 +1,30 @@
+uuid: 9eee08cf-7c46-4b94-913f-171b4e46ade1
+type: word-relation
+group_uuid: 9eee08cf-7c46-4b94-913f-171b4e46ade1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3a7e0b26-30e7-4e45-baa8-6a1063c0f66b
+  text: 女子
+  concept: WOMAN
+  concept_uuid: c96c706b-ce2d-49f3-abb0-73b84862c24e
+  attestation:
+    text_title: 列女傳
+    line_uuid: c4058db0-48f3-4bf4-a27d-6cfff921ffa1
+    textline: 女子行丈夫心
+    offset: 1
+    range: 2
+right:
+  word_uuid: 9518059f-027a-41eb-b078-a4be13376e89
+  text: 丈夫
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+  attestation:
+    text_title: 列女傳
+    line_uuid: c4058db0-48f3-4bf4-a27d-6cfff921ffa1
+    textline: 女子行丈夫心
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

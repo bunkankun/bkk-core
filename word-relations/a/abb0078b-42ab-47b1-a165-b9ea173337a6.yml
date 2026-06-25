@@ -1,0 +1,32 @@
+uuid: abb0078b-42ab-47b1-a165-b9ea173337a6
+type: word-relation
+group_uuid: abb0078b-42ab-47b1-a165-b9ea173337a6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 02e63f98-835c-4d3e-a1c6-ba254f9d9fc4
+  text: 伐
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 論語
+    line_uuid: 81e6c413-81bf-43b2-ae36-a2829f523071
+    line_id: KR1h0004_tls_005-29a.10
+    textline: 「願無伐善
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5240a736-500d-47f0-b770-7611bdd18720
+  text: 施
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 論語
+    line_uuid: 0825fbe6-30eb-441b-88ec-bcd8f8871c0a
+    line_id: KR1h0004_tls_005-29a.11
+    textline: 無施勞
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

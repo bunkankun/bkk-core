@@ -1,0 +1,30 @@
+uuid: 93b83d85-d22e-4cc1-aadc-d8a89f3ff449
+type: word-relation
+group_uuid: 93b83d85-d22e-4cc1-aadc-d8a89f3ff449
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3f970906-1131-440a-968b-7eec8db85589
+  text: 桑
+  concept: PLANTS
+  concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+  attestation:
+    text_title: 管子
+    line_uuid: e118164f-415d-4b07-bb36-b13fa5f60d4b
+    textline: 養桑麻育六畜也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 39edbbce-07eb-42fe-ab77-9f8532b9640e
+  text: 麻
+  concept: CLOTH MATERIALS
+  concept_uuid: be1b0859-c516-4c8f-be40-bb65e2643fbf
+  attestation:
+    text_title: 管子
+    line_uuid: e118164f-415d-4b07-bb36-b13fa5f60d4b
+    textline: 養桑麻育六畜也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: fd7d78ef-18eb-46b9-b3eb-72c6432a5872
+type: word-relation
+group_uuid: c332cd25-0e1c-4935-afa6-ac9949503321
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: e95cddef-2c65-4a35-bee8-c8f4c18c1213
+    line_id: KR1h0004_tls_005-31a.4
+    textline: 必有忠信如丘者焉
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: e95cddef-2c65-4a35-bee8-c8f4c18c1213
+    line_id: KR1h0004_tls_005-31a.4
+    textline: 必有忠信如丘者焉
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

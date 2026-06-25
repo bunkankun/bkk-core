@@ -1,0 +1,32 @@
+uuid: 9c7935b6-c5df-4016-8779-07c9b2923a68
+type: word-relation
+group_uuid: 9c7935b6-c5df-4016-8779-07c9b2923a68
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 62e56e48-4368-4c4f-b48b-22597175efa4
+  text: 節
+  concept: DECENT
+  concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+  attestation:
+    text_title: 論衡
+    line_uuid: 51ee7601-9980-4d7f-8394-d1753bc72251
+    line_id: KR3j0080_tls_002-4a.42
+    textline: 佐吏非清節
+    offset: 5
+    range: 1
+right:
+  word_uuid: 148f362c-2c39-4e2e-ba6b-d78fd3ca3a4d
+  text: 清
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+  attestation:
+    text_title: 論衡
+    line_uuid: 51ee7601-9980-4d7f-8394-d1753bc72251
+    line_id: KR3j0080_tls_002-4a.42
+    textline: 佐吏非清節
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 47894ce8-c8e5-4e67-9b48-ac705a57f20a
+type: word-relation
+group_uuid: 47894ce8-c8e5-4e67-9b48-ac705a57f20a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d4f2b0ff-fd89-41bb-bc72-a004b47d8ff9
+  text: 昧
+  concept: RISK
+  concept_uuid: 36e1fa8e-0596-4eed-a000-dfae2593bf0f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3232daec-1c6d-4e88-91a7-dac219c9c185
+    textline: 臣昧死願見大王
+    offset: 2
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3232daec-1c6d-4e88-91a7-dac219c9c185
+    textline: 臣昧死願見大王
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

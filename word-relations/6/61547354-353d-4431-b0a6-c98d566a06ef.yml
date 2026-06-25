@@ -1,0 +1,32 @@
+uuid: 61547354-353d-4431-b0a6-c98d566a06ef
+type: word-relation
+group_uuid: 61547354-353d-4431-b0a6-c98d566a06ef
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 92b0e1a1-4aae-4fa7-aa16-37ac2c0144a7
+  text: 體
+  concept: SUBSTANCE
+  concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 43a0d892-d560-42c6-a5c8-87c0a2adcd9c
+    line_id: KR6q0002_Yan_003-1131a.33
+    textline: 體用如如
+    offset: 1
+    range: 1
+right:
+  word_uuid: c97db0f9-1a95-44b0-abff-39ef951834db
+  text: 用
+  concept: FUNCTION
+  concept_uuid: b56d5b21-c292-4251-98b7-f8d1fb302a76
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 43a0d892-d560-42c6-a5c8-87c0a2adcd9c
+    line_id: KR6q0002_Yan_003-1131a.33
+    textline: 體用如如
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

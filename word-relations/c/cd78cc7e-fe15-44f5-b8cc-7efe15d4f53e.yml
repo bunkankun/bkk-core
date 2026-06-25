@@ -1,0 +1,32 @@
+uuid: cd78cc7e-fe15-44f5-b8cc-7efe15d4f53e
+type: word-relation
+group_uuid: 605b4956-b028-581d-97c9-2a8270e741ed
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f1358ccb-e688-4f3d-932e-b53e8ee09d05
+  text: 窮
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-74a.2
+    textline: 君子雖窮
+    offset: 11
+    range: 1
+right:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-74a.4
+    textline: 雖貧
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T04:28:31.991+09:00'

@@ -1,0 +1,23 @@
+uuid: 6139d4cf-5b5f-4845-a451-a27e2750389e
+type: word-relation
+group_uuid: dec519d6-a7b9-527f-ad90-ac6776d2e75c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ffc1107d-020a-447b-bdb2-afa492522d78
+  text: 明
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+right:
+  word_uuid: 10cfd3fa-893e-4c7f-8081-98aec30c99fd
+  text: 晦
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '297'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

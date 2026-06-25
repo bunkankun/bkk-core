@@ -1,0 +1,32 @@
+uuid: cd742735-1f31-4f32-b427-351f315f3281
+type: word-relation
+group_uuid: a6423977-ef01-5805-82a3-315af0f56542
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_015-2a.31
+    textline: 弗學孰能
+    offset: 2
+    range: 1
+right:
+  word_uuid: 34f33548-5f1d-4a79-ad78-eb140fe5d749
+  text: 能
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_015-2a.31
+    textline: 弗學孰能
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-28T04:45:49.062+09:00'

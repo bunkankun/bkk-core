@@ -1,0 +1,21 @@
+uuid: e75a460a-9bff-4d36-850c-6344e8de2a6f
+type: word-relation
+group_uuid: 6603d735-d418-5d87-b7de-5c66c3259031
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cd4e3655-c871-46ba-ae25-e7a2f78d2fd3
+  text: 亡
+  concept: EXILE
+  concept_uuid: e7f80807-5c4f-46c3-8ce0-1da39b1171f9
+right:
+  word_uuid: e489e581-cc89-48d1-ac5d-7cb87325901e
+  text: 返反
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

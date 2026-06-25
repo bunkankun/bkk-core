@@ -1,0 +1,21 @@
+uuid: 63e21404-8861-483a-a016-38080c636075
+type: word-relation
+group_uuid: f8116b29-9fd0-5e94-8ba2-1c9debfb5b91
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+right:
+  word_uuid: b49bcdb1-28d6-48ac-9986-23244409aa36
+  text: 殃央
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

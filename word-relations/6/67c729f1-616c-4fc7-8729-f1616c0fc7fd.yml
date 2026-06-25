@@ -1,0 +1,32 @@
+uuid: 67c729f1-616c-4fc7-8729-f1616c0fc7fd
+type: word-relation
+group_uuid: feb076e7-e365-52b1-b096-f7b12a81b63a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.9
+    textline: 治既弊之民
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.9
+    textline: 治既弊之民
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T01:56:05.772+09:00'

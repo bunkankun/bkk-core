@@ -1,0 +1,32 @@
+uuid: d39525ac-d1ac-48b2-be25-1b8760450c8f
+type: word-relation
+group_uuid: d39525ac-d1ac-48b2-be25-1b8760450c8f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 9e22c523-25b6-4fde-bb94-3cebb4f78deb
+    line_id: KR1h0004_tls_020-3a.2
+    textline: 「予小子履
+    offset: 2
+    range: 1
+right:
+  word_uuid: dbfd43f7-d186-42b0-824f-ff2da5dc016c
+  text: 朕躬
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 02ea4634-1d09-4aba-849e-7ef27aa01c8f
+    line_id: KR1h0004_tls_020-3a.8
+    textline: 朕躬有罪
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

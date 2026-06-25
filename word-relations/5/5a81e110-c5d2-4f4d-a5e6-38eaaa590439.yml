@@ -1,0 +1,32 @@
+uuid: 5a81e110-c5d2-4f4d-a5e6-38eaaa590439
+type: word-relation
+group_uuid: e58108cb-5922-4d04-b848-42b6ff916bad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 莊子
+    line_uuid: 775dfd8e-dd7a-46ae-b14a-9d31084b90c8
+    line_id: KR5c0126_tls_018-2a.20
+    textline: 不足活身
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 莊子
+    line_uuid: 99b39329-2949-4579-bb45-d1bc622c5081
+    line_id: KR5c0126_tls_018-2a.22
+    textline: 足以活人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

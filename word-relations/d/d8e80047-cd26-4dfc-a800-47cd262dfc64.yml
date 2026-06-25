@@ -1,0 +1,32 @@
+uuid: d8e80047-cd26-4dfc-a800-47cd262dfc64
+type: word-relation
+group_uuid: d6741514-1bf5-50ab-83df-0b1722f03bb2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 58530286-3dc9-4a6b-a9dc-4b942a1a5ed0
+  text: 長
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_007-1a.3
+    textline: 天長地久
+    offset: 2
+    range: 1
+right:
+  word_uuid: 254386c6-9fd6-4ff1-a9c1-296e1933854b
+  text: 久
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_007-1a.3
+    textline: 天長地久
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-08T04:48:10.248+09:00'

@@ -1,0 +1,32 @@
+uuid: cfa233c6-a0b2-4911-898e-45e642d3d36c
+type: word-relation
+group_uuid: 7660fb63-18aa-4333-b945-97b2d31a7c53
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ccfd820-cc8b-48f6-b83e-51a6b780e560
+    line_id: KR3c0005_tls_023-54a.4
+    textline: 其君子必休
+    offset: 2
+    range: 2
+right:
+  word_uuid: 8f5c9b8d-3099-4e6c-be13-c30617fefcf7
+  text: 小人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 韓非子
+    line_uuid: f35ad64f-ede7-4460-8f04-f5bd49f04e0a
+    line_id: KR3c0005_tls_023-54a.5
+    textline: 小人必食
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

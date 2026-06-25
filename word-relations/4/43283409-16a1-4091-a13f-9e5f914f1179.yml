@@ -1,0 +1,32 @@
+uuid: 43283409-16a1-4091-a13f-9e5f914f1179
+type: word-relation
+group_uuid: 43283409-16a1-4091-a13f-9e5f914f1179
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 10aac6ec-075e-45bb-98bb-867d70772c3f
+  text: 服
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 韓非子
+    line_uuid: 67119cbf-25f3-4c35-9744-5b67be152d3c
+    line_id: KR3c0005_tls_020-51a.8
+    textline: 而不服從道理
+    offset: 3
+    range: 1
+right:
+  word_uuid: bb60f3af-cfd1-4cbb-a79d-57bbb70a0353
+  text: 從
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 韓非子
+    line_uuid: 67119cbf-25f3-4c35-9744-5b67be152d3c
+    line_id: KR3c0005_tls_020-51a.8
+    textline: 而不服從道理
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

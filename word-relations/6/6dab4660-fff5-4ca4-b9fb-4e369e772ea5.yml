@@ -1,0 +1,32 @@
+uuid: 6dab4660-fff5-4ca4-b9fb-4e369e772ea5
+type: word-relation
+group_uuid: 6dab4660-fff5-4ca4-b9fb-4e369e772ea5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 70a622d2-4c59-4db7-9af7-ef4a262438af
+  text: 木
+  concept: TIMBER
+  concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7d327f02-0a09-47e3-ad63-4de90b2f9e37
+    line_id: KR3j0009_tls_005-14a.16
+    textline: 為木革之聲則若雷
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9e100f6d-aeac-4c83-8845-931f9169aa2a
+  text: 革
+  concept: LEATHER
+  concept_uuid: f5ec67c7-9094-410c-a3fc-9514ba62816a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7d327f02-0a09-47e3-ad63-4de90b2f9e37
+    line_id: KR3j0009_tls_005-14a.16
+    textline: 為木革之聲則若雷
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

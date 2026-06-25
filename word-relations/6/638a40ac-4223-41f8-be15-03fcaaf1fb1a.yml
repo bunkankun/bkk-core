@@ -1,0 +1,32 @@
+uuid: 638a40ac-4223-41f8-be15-03fcaaf1fb1a
+type: word-relation
+group_uuid: 638a40ac-4223-41f8-be15-03fcaaf1fb1a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2fb09f06-4889-4dfa-be74-aea9c4b17887
+  text: 得
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 管子
+    line_uuid: 734fa70b-766f-4433-b3df-fc4afa6d9663
+    line_id: KR3c0001_tls_017-56a.9
+    textline: 得所欲則樂
+    offset: 1
+    range: 1
+right:
+  word_uuid: 838247df-e440-4725-8ae7-2db3f01893be
+  text: 逢
+  concept: SUFFER
+  concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+  attestation:
+    text_title: 管子
+    line_uuid: 1ebbf78c-d77f-405b-8c4e-9d763d189ffd
+    line_id: KR3c0001_tls_017-56a.10
+    textline: 逢所惡則憂
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

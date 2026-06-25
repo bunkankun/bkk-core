@@ -1,0 +1,21 @@
+uuid: b4658e57-9571-4b9c-980d-d07a0edc7441
+type: word-relation
+group_uuid: 0aa8eee6-2ae1-54a4-8024-66e9538212f6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 02b8aa98-fb05-472e-be41-e17e9ee6fc04
+  text: 解
+  concept: EXPLAIN
+  concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+right:
+  word_uuid: 7ca01932-08aa-4a65-8e72-82b33097a761
+  text: 剝
+  concept: ANALYSE
+  concept_uuid: ad0cb391-810d-4740-9994-266d02712d0f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

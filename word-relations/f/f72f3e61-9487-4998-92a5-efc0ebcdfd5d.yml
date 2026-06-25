@@ -1,0 +1,32 @@
+uuid: f72f3e61-9487-4998-92a5-efc0ebcdfd5d
+type: word-relation
+group_uuid: f72f3e61-9487-4998-92a5-efc0ebcdfd5d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c344b687-d4e5-4a05-9a78-15d98d7658be
+  text: 亡
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 韓非子
+    line_uuid: 843b06dd-2e06-40e3-b93b-353497682b5e
+    line_id: KR3c0005_tls_001-15a.8
+    textline: 荊王君臣亡走
+    offset: 5
+    range: 1
+right:
+  word_uuid: 242c081e-f5a8-4791-90b6-f6ecaaa339f1
+  text: 走
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 韓非子
+    line_uuid: 843b06dd-2e06-40e3-b93b-353497682b5e
+    line_id: KR3c0005_tls_001-15a.8
+    textline: 荊王君臣亡走
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

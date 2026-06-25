@@ -1,0 +1,21 @@
+uuid: fdd45739-e758-4de3-be9e-d85f406ef1c3
+type: word-relation
+group_uuid: a85b9a6a-3a33-5eb9-a9b3-2d497c17985d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+right:
+  word_uuid: a12b1de7-2b15-4e29-8aa0-349d042394e0
+  text: 操
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

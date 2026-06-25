@@ -1,0 +1,21 @@
+uuid: aef7d548-95a6-4b9f-96fc-98cacf031153
+type: word-relation
+group_uuid: 29b9ceea-7b97-5f2b-8358-db27a418c7ec
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0dc81ec8-50fa-4f64-a379-f7f916a9dbff
+  text: 跌
+  concept: STUMBLE
+  concept_uuid: c2e89145-9ff8-4132-ac96-fcb650d59bfc
+right:
+  word_uuid: 92ad34a3-d4a6-427c-882c-b516cb3982dd
+  text: 蹉
+  concept: STUMBLE
+  concept_uuid: c2e89145-9ff8-4132-ac96-fcb650d59bfc
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

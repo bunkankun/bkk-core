@@ -1,0 +1,32 @@
+uuid: b8551466-cf05-4465-a4aa-1316b0ce7d22
+type: word-relation
+group_uuid: b8551466-cf05-4465-a4aa-1316b0ce7d22
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ae3df0c5-53f0-49ff-a94e-62fb8f4ecba1
+  text: 鼎
+  concept: FOOD VESSEL
+  concept_uuid: 90acd163-bc09-472b-b190-121231185aa5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 21255f33-b8ae-4791-ba38-f21e9fbb208b
+    line_id: KR3c0005_tls_003-8a.8
+    textline: 身執鼎俎為庖宰
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4397b79a-e75d-44da-8d25-3831c1f74c44
+  text: 俎
+  concept: KITCHEN UTENSIL
+  concept_uuid: c34b2d9b-60bf-4e33-8c1b-7ef584be8218
+  attestation:
+    text_title: 韓非子
+    line_uuid: 21255f33-b8ae-4791-ba38-f21e9fbb208b
+    line_id: KR3c0005_tls_003-8a.8
+    textline: 身執鼎俎為庖宰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

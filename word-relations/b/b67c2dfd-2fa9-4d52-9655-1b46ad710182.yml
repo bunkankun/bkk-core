@@ -1,0 +1,32 @@
+uuid: b67c2dfd-2fa9-4d52-9655-1b46ad710182
+type: word-relation
+group_uuid: b67c2dfd-2fa9-4d52-9655-1b46ad710182
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 孟子
+    line_uuid: 853e7d24-7b09-4398-bbb2-3aa698469654
+    line_id: KR1h0001_tls_006-34a.3
+    textline: 聖人之道衰
+    offset: 1
+    range: 2
+right:
+  word_uuid: 3a34d04e-fede-4220-90d0-e21b5c50c4d3
+  text: 暴君
+  concept: TYRANT
+  concept_uuid: 6e397ac8-242c-4b7e-aa52-095fc1590f4e
+  attestation:
+    text_title: 孟子
+    line_uuid: 62815b74-03e4-4bc7-bf98-40dab6791a78
+    line_id: KR1h0001_tls_006-34a.4
+    textline: 暴君代作
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

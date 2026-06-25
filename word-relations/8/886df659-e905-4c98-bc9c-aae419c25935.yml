@@ -1,0 +1,32 @@
+uuid: 886df659-e905-4c98-bc9c-aae419c25935
+type: word-relation
+group_uuid: 886df659-e905-4c98-bc9c-aae419c25935
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cf95cd19-b795-4901-8dd5-54d15bdba73d
+  text: 兵
+  concept: WEAPON
+  concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 95722d31-226d-4b12-a53e-499c0e860488
+    line_id: KR3c0005_tls_004-12a.3
+    textline: 不載奇兵
+    offset: 4
+    range: 1
+right:
+  word_uuid: 25600d18-0efe-43a2-9efd-4988fb58d013
+  text: 奇
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 95722d31-226d-4b12-a53e-499c0e860488
+    line_id: KR3c0005_tls_004-12a.3
+    textline: 不載奇兵
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

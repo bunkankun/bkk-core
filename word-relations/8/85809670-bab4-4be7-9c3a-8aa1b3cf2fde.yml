@@ -1,0 +1,18 @@
+uuid: 85809670-bab4-4be7-9c3a-8aa1b3cf2fde
+type: word-relation
+group_uuid: 604c509e-9f5a-5523-884e-fd2c0ec2a115
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: ad43a8d3-6507-477f-b635-c1b6268bebf3
+  text: 餽饋
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+right:
+  word_uuid: 8742623d-8b8b-4e93-9d69-e3ac5103bd56
+  text: 受
+  concept: ACCEPT
+  concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+source:
+  source_file: word-relations.xml

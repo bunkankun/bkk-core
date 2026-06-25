@@ -1,0 +1,18 @@
+uuid: e29ff1b8-73d7-47fb-8c9a-4dde2358530e
+type: word-relation
+group_uuid: c9eef209-9c89-55e3-b72c-80eb1d93fb1a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e755ab91-a02f-46a2-9c4f-570c696a5a85
+  text: 憂
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+right:
+  word_uuid: 7d0def92-7c1e-48ff-956e-be138aee4254
+  text: 患
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+source:
+  source_file: word-relations.xml

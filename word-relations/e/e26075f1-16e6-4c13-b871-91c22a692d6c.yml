@@ -1,0 +1,21 @@
+uuid: e26075f1-16e6-4c13-b871-91c22a692d6c
+type: word-relation
+group_uuid: ba9e6029-4a09-5869-8bc5-c5d61f7661cc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fd689fb1-fb68-46d3-803d-8a4e4b3a9a6c
+  text: 乏
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+right:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

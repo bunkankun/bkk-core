@@ -1,0 +1,21 @@
+uuid: 3a9bf8ed-3886-4e47-9b00-e9717c1aa460
+type: word-relation
+group_uuid: 9dc28c7c-2adf-55cf-b9db-145543fe109c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+right:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

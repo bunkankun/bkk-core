@@ -1,0 +1,32 @@
+uuid: e8069bab-7cd5-4ed0-b527-12c015a30ae5
+type: word-relation
+group_uuid: e8069bab-7cd5-4ed0-b527-12c015a30ae5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8ab91c33-abec-4ac3-a9b0-52a2bc854210
+  text: 上
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: f945bb25-1962-4cc1-b513-2382394d06ed
+    line_id: KR3c0005_tls_006-19a.7
+    textline: 順上之為
+    offset: 2
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3644b8d4-4e01-4d62-96a5-6e225264b080
+    line_id: KR3c0005_tls_006-19a.8
+    textline: 從主之法
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

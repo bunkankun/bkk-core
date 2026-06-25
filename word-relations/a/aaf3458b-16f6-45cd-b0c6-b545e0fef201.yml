@@ -1,0 +1,21 @@
+uuid: aaf3458b-16f6-45cd-b0c6-b545e0fef201
+type: word-relation
+group_uuid: 541cac08-e8c6-511d-9f55-d659e042f1e6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0ad2e8e0-4724-4954-8899-a6aae9c5287b
+  text: 慎
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+right:
+  word_uuid: d4f1c1ab-874c-4c46-913c-ccd1de347a34
+  text: 輕輕
+  concept: FRIVOLOUS
+  concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

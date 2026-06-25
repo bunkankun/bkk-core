@@ -1,0 +1,32 @@
+uuid: 25768efc-beb3-4ac2-96ca-b6719574d556
+type: word-relation
+group_uuid: 25768efc-beb3-4ac2-96ca-b6719574d556
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9cdda6e1-7960-40d7-a04b-8846ca4309d9
+  text: 救
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+  attestation:
+    text_title: 韓非子
+    line_uuid: 959f0344-1486-4456-b862-68c86f379974
+    line_id: KR3c0005_tls_014-37a.5
+    textline: 將以救群生之亂
+    offset: 3
+    range: 1
+right:
+  word_uuid: ab89356f-acf0-44d9-92cf-348d081e6e73
+  text: 去
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+  attestation:
+    text_title: 韓非子
+    line_uuid: 09a6d57c-7bd9-45be-bbae-965297a0024b
+    line_id: KR3c0005_tls_014-37a.6
+    textline: 去天下之禍
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

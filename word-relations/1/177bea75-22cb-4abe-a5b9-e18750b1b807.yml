@@ -1,0 +1,21 @@
+uuid: 177bea75-22cb-4abe-a5b9-e18750b1b807
+type: word-relation
+group_uuid: 288fb6d2-5b7a-557c-969a-ce2c5ed5616f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 28dbe192-06d1-487d-80fa-2b3bd1381490
+  text: 服
+  concept: TAME
+  concept_uuid: a0dd511b-e11d-4d07-8383-7ac7069b782c
+right:
+  word_uuid: ea9e292b-79ef-4327-8526-bf02a534efd9
+  text: 馴
+  concept: TAME
+  concept_uuid: a0dd511b-e11d-4d07-8383-7ac7069b782c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: d5bf2497-da8f-455f-a3dc-5afad078c4ce
+type: word-relation
+group_uuid: d5bf2497-da8f-455f-a3dc-5afad078c4ce
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bea41767-661b-4c7a-8199-75fab94c5519
+  text: 日
+  concept: DAY
+  concept_uuid: 96e70cb3-5bb8-4cce-94ce-251c2bdc9b30
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e67f824a-908d-4480-bf91-6f8ffcfef368
+    line_id: KR3j0009_tls_003-30a.2
+    textline: 日夜一周
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8b48b4fd-c16f-4229-b145-3c0078b6e9f9
+  text: 夜
+  concept: NIGHT
+  concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e67f824a-908d-4480-bf91-6f8ffcfef368
+    line_id: KR3j0009_tls_003-30a.2
+    textline: 日夜一周
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 979b0f7f-ffec-41c1-9f3f-e406f887314b
+type: word-relation
+group_uuid: d855cd99-daa9-464e-8d56-f0edae48ba6f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 50d5a776-38d4-4b71-9155-4981c4056f6e
+  text: 軒
+  concept: CARRIAGE
+  concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+  attestation:
+    text_title: 管子
+    line_uuid: 612cc04d-d97e-4e64-9d25-e9068c6575da
+    line_id: KR3c0001_tls_006-37a.6
+    textline: 軒冕不下儗
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3ae85c3c-1e62-42ea-b9f7-7f3250aa771f
+  text: 冕
+  concept: OFFICIAL HAT
+  concept_uuid: 3a73f7de-6879-4f8b-ac62-9d71cecd9cd4
+  attestation:
+    text_title: 管子
+    line_uuid: 612cc04d-d97e-4e64-9d25-e9068c6575da
+    line_id: KR3c0001_tls_006-37a.6
+    textline: 軒冕不下儗
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

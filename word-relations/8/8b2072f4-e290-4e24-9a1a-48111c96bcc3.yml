@@ -1,0 +1,21 @@
+uuid: 8b2072f4-e290-4e24-9a1a-48111c96bcc3
+type: word-relation
+group_uuid: 2c14d0df-bd2d-5a66-986b-212bbe08133f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7c9e276a-a33b-45af-8495-44fa9b60a141
+  text: 伏
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+right:
+  word_uuid: a3fc37d9-42d7-4e40-a4b1-5d5a0c50a979
+  text: 現見
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

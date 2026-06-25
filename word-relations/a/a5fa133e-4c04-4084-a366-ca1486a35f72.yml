@@ -1,0 +1,21 @@
+uuid: a5fa133e-4c04-4084-a366-ca1486a35f72
+type: word-relation
+group_uuid: ce4b059a-a270-51b1-a305-38feeb1b2aa9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e444e1ab-d178-41de-850c-ba2ba0f2e67f
+  text: 待
+  concept: WAIT
+  concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+right:
+  word_uuid: bf9dc9d1-05f7-4e68-8f11-a612403c05cc
+  text: 須
+  concept: WAIT
+  concept_uuid: 8fd9d5a5-ba4f-478d-86e3-7f6f3496d2e8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

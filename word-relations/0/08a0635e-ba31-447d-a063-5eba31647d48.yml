@@ -1,0 +1,32 @@
+uuid: 08a0635e-ba31-447d-a063-5eba31647d48
+type: word-relation
+group_uuid: 9eefeeed-b78f-52e1-99f8-a3ebe514cc36
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 45a68abf-3723-4cbf-9699-d79a5fca0e55
+  text: 風
+  concept: STORM
+  concept_uuid: db9e826b-f841-4d17-9120-9f9e9c4393c9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.8
+    textline: 以蔽風雨
+    offset: 3
+    range: 1
+right:
+  word_uuid: f61ebedb-526d-4a32-80f2-238ea6c97497
+  text: 雨
+  concept: RAIN
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.8
+    textline: 以蔽風雨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-12-01T23:23:18.824+09:00'

@@ -1,0 +1,35 @@
+uuid: bc5a1bbb-8a98-43af-976c-40261f2ca723
+type: word-relation
+group_uuid: bc5a1bbb-8a98-43af-976c-40261f2ca723
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 論衡
+    line_uuid: 2164cc3c-7a84-464c-9f57-f73c260b0bfb
+    line_id: KR3j0080_tls_005-4a.11
+    textline: 不宜愛而受寵
+    offset: 3
+    range: 1
+right:
+  word_uuid: 12ecf59e-a35c-492d-8666-83e8ed287140
+  text: 寵
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 論衡
+    line_uuid: 2164cc3c-7a84-464c-9f57-f73c260b0bfb
+    line_id: KR3j0080_tls_005-4a.11
+    textline: 不宜愛而受寵
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9b1ec899-051f-44a8-9ec8-99051f34a8b0
+type: word-relation
+group_uuid: 404e1e36-2f13-52e1-ab9c-37552aa61d7d
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_019-7a.4
+    textline: 吾聞祝腎學生
+    offset: 6
+    range: 1
+right:
+  word_uuid: b1d44720-5029-4784-9954-0101718cdc1a
+  text: 生
+  concept: LIFE
+  concept_uuid: 0253f062-ec1c-4af9-8d78-6d22ef588077
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_019-7a.4
+    textline: 吾聞祝腎學生
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T20:34:15.148+09:00'

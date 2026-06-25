@@ -1,0 +1,30 @@
+uuid: 64a9ec60-6ea6-4321-84d4-2317980aaa9a
+type: word-relation
+group_uuid: 64a9ec60-6ea6-4321-84d4-2317980aaa9a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 845dcaf7-61d9-44f6-9aee-7e5447424156
+  text: 萍
+  concept: PLANTS
+  concept_uuid: 46af35a4-b831-4eba-a0ba-3b4bbbd1c1f8
+  attestation:
+    text_title: 楚辭
+    line_uuid: fb227ac7-c186-4535-b440-393d71aa05d5
+    textline: 竊哀兮浮萍
+    offset: 5
+    range: 1
+right:
+  word_uuid: c89ceaa1-c5ce-4c1e-bbbf-c6120bf3e392
+  text: 浮
+  concept: FLOAT
+  concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+  attestation:
+    text_title: 楚辭
+    line_uuid: fb227ac7-c186-4535-b440-393d71aa05d5
+    textline: 竊哀兮浮萍
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

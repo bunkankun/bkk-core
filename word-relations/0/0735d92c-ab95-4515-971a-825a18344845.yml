@@ -1,0 +1,30 @@
+uuid: 0735d92c-ab95-4515-971a-825a18344845
+type: word-relation
+group_uuid: 0735d92c-ab95-4515-971a-825a18344845
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a7e49be-ef53-4efd-8c7c-d7879b308073
+  text: 口
+  concept: MOUTH
+  concept_uuid: e522b107-d02e-4272-80b2-311471410c3f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 04a71f07-d875-4aaa-8dbb-568686f8dd6c
+    textline: 非特以歡耳目極口腹之欲也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 741c2ea0-f53c-4878-bedb-d3e924e231cf
+  text: 腹
+  concept: STOMACH
+  concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 04a71f07-d875-4aaa-8dbb-568686f8dd6c
+    textline: 非特以歡耳目極口腹之欲也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

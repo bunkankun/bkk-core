@@ -1,0 +1,21 @@
+uuid: d7049b23-600d-444e-9a2d-70de278a5b16
+type: word-relation
+group_uuid: 0be92ac7-29be-5502-81be-d68db452106d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 68e4f578-7d72-43e2-988e-cfde2f11abc7
+  text: 怪
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+right:
+  word_uuid: 5389c058-de93-4a0b-b5b0-83f3b0797199
+  text: 災菑
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

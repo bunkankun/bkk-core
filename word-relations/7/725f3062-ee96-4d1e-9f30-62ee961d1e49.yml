@@ -1,0 +1,32 @@
+uuid: 725f3062-ee96-4d1e-9f30-62ee961d1e49
+type: word-relation
+group_uuid: 12c2e3fd-7fca-5103-bbf0-5fe016737db6
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 6abf9878-d322-417b-b607-6abab093647b
+  text: 盡
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.4
+    textline: 有盡有厚
+    offset: 2
+    range: 1
+right:
+  word_uuid: 912d55a3-d911-4061-82b7-04342b85064c
+  text: 厚
+  concept: THICK
+  concept_uuid: 4aa10180-a0c8-4bf2-9762-043bdbd2a4f4
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.4
+    textline: 有盡有厚
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T20:17:22.698+09:00'

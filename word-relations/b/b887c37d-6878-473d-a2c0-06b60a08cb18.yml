@@ -1,0 +1,32 @@
+uuid: b887c37d-6878-473d-a2c0-06b60a08cb18
+type: word-relation
+group_uuid: 48d10eac-3b3d-4da2-92ba-e96ec378adfe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2d96799a-acb7-4e9f-a840-62fce03031fd
+  text: 攘
+  concept: STEAL
+  concept_uuid: 39d06476-e7f4-4e6e-a855-2b6f0a86ae4f
+  attestation:
+    text_title: 管子
+    line_uuid: e7891588-0549-463b-a70b-b19aae0ceb7c
+    line_id: KR3c0001_tls_005-35a.6
+    textline: 則攘奪竊盜
+    offset: 2
+    range: 1
+right:
+  word_uuid: 46cfdcc6-f9fc-4670-b437-48dc6b0da051
+  text: 奪
+  concept: ROB
+  concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+  attestation:
+    text_title: 管子
+    line_uuid: e7891588-0549-463b-a70b-b19aae0ceb7c
+    line_id: KR3c0001_tls_005-35a.6
+    textline: 則攘奪竊盜
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

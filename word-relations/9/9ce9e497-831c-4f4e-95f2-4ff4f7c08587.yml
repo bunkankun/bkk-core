@@ -1,0 +1,32 @@
+uuid: 9ce9e497-831c-4f4e-95f2-4ff4f7c08587
+type: word-relation
+group_uuid: 9ce9e497-831c-4f4e-95f2-4ff4f7c08587
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ee262ce1-ebed-4117-ad81-07f8b0d0b643
+  text: 誦
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 荀子
+    line_uuid: e949063f-bbca-4553-bbe7-e69b6a06a3c8
+    line_id: KR3a0002_tls_001-8a.5
+    textline: 其數則始乎誦經
+    offset: 6
+    range: 1
+right:
+  word_uuid: a1999033-ff42-4948-b1bd-d6cb72da23ce
+  text: 讀
+  concept: READ
+  concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+  attestation:
+    text_title: 荀子
+    line_uuid: 32a4a15a-de57-4e20-b6d6-4dc8d899bbc3
+    line_id: KR3a0002_tls_001-8a.6
+    textline: 終乎讀禮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

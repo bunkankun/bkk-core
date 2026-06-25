@@ -1,0 +1,33 @@
+uuid: 3d650962-c8e8-41e2-a2c9-a68020ff30b2
+type: word-relation
+group_uuid: 3d650962-c8e8-41e2-a2c9-a68020ff30b2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 68e4f578-7d72-43e2-988e-cfde2f11abc7
+  text: 怪
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+  attestation:
+    text_title: 論衡
+    line_uuid: 8494bdaa-d43c-41ed-85a3-7c25865810ad
+    textline: 善達占卜射覆為怪奇之戲
+    offset: 8
+    range: 1
+right:
+  word_uuid: 25600d18-0efe-43a2-9efd-4988fb58d013
+  text: 奇
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+  attestation:
+    text_title: 論衡
+    line_uuid: 8494bdaa-d43c-41ed-85a3-7c25865810ad
+    textline: 善達占卜射覆為怪奇之戲
+    offset: 9
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

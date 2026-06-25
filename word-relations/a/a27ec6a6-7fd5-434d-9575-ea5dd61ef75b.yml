@@ -1,0 +1,18 @@
+uuid: a27ec6a6-7fd5-434d-9575-ea5dd61ef75b
+type: word-relation
+group_uuid: 1acfe0a3-17a3-5fa2-84ee-ddea964918f6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: eb725433-e847-4d90-a781-00b907da6576
+  text: 師
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+right:
+  word_uuid: 661bb212-d5df-40c4-8579-9e38198bce1c
+  text: 銳
+  concept: SHARP
+  concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+source:
+  source_file: word-relations.xml

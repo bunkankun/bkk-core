@@ -1,0 +1,32 @@
+uuid: d0c4b691-1f97-4242-84b6-911f975242b4
+type: word-relation
+group_uuid: c8f25739-643b-5ee0-98a3-71d352137f86
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f86c1b99-9d52-49f2-a4aa-602d556bae23
+  text: 專
+  concept: CONCENTRATE
+  concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-53a.42
+    textline: 心不專一
+    offset: 3
+    range: 1
+right:
+  word_uuid: f86c1b99-9d52-49f2-a4aa-602d556bae23
+  text: 一
+  concept: CONCENTRATE
+  concept_uuid: d63759c9-e8a3-4ba3-803b-d3febf9acba3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-53a.42
+    textline: 心不專一
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T03:45:23.786+09:00'

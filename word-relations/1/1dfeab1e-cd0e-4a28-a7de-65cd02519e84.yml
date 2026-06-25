@@ -1,0 +1,32 @@
+uuid: 1dfeab1e-cd0e-4a28-a7de-65cd02519e84
+type: word-relation
+group_uuid: 1dfeab1e-cd0e-4a28-a7de-65cd02519e84
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 論語
+    line_uuid: ec8e055b-a3f7-45a2-9b43-371dcfb8d664
+    line_id: KR1h0004_tls_011-21a.2
+    textline: 柴也愚
+    offset: 3
+    range: 1
+right:
+  word_uuid: 462ecd8c-30b7-44b0-b5b9-79a581b5ff5c
+  text: 魯
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 論語
+    line_uuid: ece9aad5-5df9-4d85-99ce-5265fc22602a
+    line_id: KR1h0004_tls_011-21a.3
+    textline: 參也魯
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: f80d89a5-8aba-4287-b2a0-a1a879d8639f
+type: word-relation
+group_uuid: f80d89a5-8aba-4287-b2a0-a1a879d8639f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c4e2ff05-aa2d-48ec-9d0d-5f1f63a31331
+  text: 冰
+  concept: ICE
+  concept_uuid: 757e854c-90b7-4d06-8762-cc2866351120
+  attestation:
+    text_title: 列女傳
+    line_uuid: 270db1e8-41f1-4763-aeab-38bb30a22c7d
+    line_id: KR2g0017_CHANT_001-7a.18
+    textline: 乃取置寒冰之上
+    offset: 5
+    range: 1
+right:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 列女傳
+    line_uuid: 270db1e8-41f1-4763-aeab-38bb30a22c7d
+    line_id: KR2g0017_CHANT_001-7a.18
+    textline: 乃取置寒冰之上
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

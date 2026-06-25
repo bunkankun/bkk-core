@@ -1,0 +1,32 @@
+uuid: 3d83bef0-028d-40a9-a1fe-2f89fd11771d
+type: word-relation
+group_uuid: 3d83bef0-028d-40a9-a1fe-2f89fd11771d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: fd6344fc-09e8-47d3-be02-e6f71d31d9d2
+    line_id: KR3j0009_tls_004-22a.37
+    textline: 不能親其所怨
+    offset: 6
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9d750fa2-0d85-47b3-933b-118aeb9e1cd5
+    line_id: KR3j0009_tls_004-22a.38
+    textline: 不能譽其所惡
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

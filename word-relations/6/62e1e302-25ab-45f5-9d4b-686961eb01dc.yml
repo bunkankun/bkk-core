@@ -1,0 +1,32 @@
+uuid: 62e1e302-25ab-45f5-9d4b-686961eb01dc
+type: word-relation
+group_uuid: 62e1e302-25ab-45f5-9d4b-686961eb01dc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a62257e1-7d9a-459c-a663-1a84972885ca
+  text: 志
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 禮記
+    line_uuid: b6f1a3ef-4552-43e9-a3b4-cb5319f128d2
+    line_id: KR1d0052_tls_047-2a.4
+    textline: 內志正
+    offset: 2
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 禮記
+    line_uuid: 80437a00-c629-4a1f-94c5-d96e3ce4e712
+    line_id: KR1d0052_tls_047-2a.5
+    textline: 外體直
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

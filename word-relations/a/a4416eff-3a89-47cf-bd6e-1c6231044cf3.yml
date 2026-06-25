@@ -1,0 +1,32 @@
+uuid: a4416eff-3a89-47cf-bd6e-1c6231044cf3
+type: word-relation
+group_uuid: 7a414daa-8366-4938-9e9c-bb968b031e95
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 0ffdf64f-7a10-41ac-9614-5a1f7a017eee
+    line_id: KR1c0066_tls_002-25a.28
+    textline: 夫士欲立身行道
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 0ffdf64f-7a10-41ac-9614-5a1f7a017eee
+    line_id: KR1c0066_tls_002-25a.28
+    textline: 夫士欲立身行道
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

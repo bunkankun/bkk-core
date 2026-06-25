@@ -1,0 +1,32 @@
+uuid: fece5dc7-46ca-424a-8b6d-0c0d42b46487
+type: word-relation
+group_uuid: fece5dc7-46ca-424a-8b6d-0c0d42b46487
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 12487654-f681-4e87-b1da-6e4e979c9b00
+  text: 號
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 管子
+    line_uuid: d30a439d-92df-4296-9769-ff6eb1e9953c
+    line_id: KR3c0001_tls_005-121a.4
+    textline: 「不為六者變更於號令
+    offset: 9
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 管子
+    line_uuid: d30a439d-92df-4296-9769-ff6eb1e9953c
+    line_id: KR3c0001_tls_005-121a.4
+    textline: 「不為六者變更於號令
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

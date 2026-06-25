@@ -1,0 +1,30 @@
+uuid: 36aa8370-3b7f-486a-b0fa-b7a1548891e2
+type: word-relation
+group_uuid: 32ecb6da-d6d1-4b71-b302-dff5faf6a87a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 71a7967a-9077-4370-84e2-04d646baa66e
+  text: 筆
+  concept: BRUSH
+  concept_uuid: 2095bac4-6e1b-4bdb-9876-a012aa10a869
+  attestation:
+    text_title: 法言
+    line_uuid: 7043b142-21d0-43be-9307-cc3e0d4bf5cb
+    textline: 吾見天常為帝王之筆舌也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 0c2de73c-523b-4956-aa6a-ae5d54b263ae
+  text: 舌
+  concept: TONGUE
+  concept_uuid: c2d2f73f-0058-42ec-9192-3fffc3c8df72
+  attestation:
+    text_title: 法言
+    line_uuid: 7043b142-21d0-43be-9307-cc3e0d4bf5cb
+    textline: 吾見天常為帝王之筆舌也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

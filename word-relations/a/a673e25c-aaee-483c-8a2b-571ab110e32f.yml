@@ -1,0 +1,32 @@
+uuid: a673e25c-aaee-483c-8a2b-571ab110e32f
+type: word-relation
+group_uuid: 3bde1da2-777b-4cd5-9213-7a7552322353
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 54b11cd0-cd90-4428-b578-938f5d3682df
+  text: 稟
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 論衡
+    line_uuid: bd55c885-3d99-44f8-adf8-3facad00303d
+    line_id: KR3j0080_tls_006-3a.66
+    textline: 稟受其氣
+    offset: 1
+    range: 1
+right:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 論衡
+    line_uuid: bd55c885-3d99-44f8-adf8-3facad00303d
+    line_id: KR3j0080_tls_006-3a.66
+    textline: 稟受其氣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

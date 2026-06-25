@@ -1,0 +1,21 @@
+uuid: d8f2b09d-c579-4613-be16-53514d7218d5
+type: word-relation
+group_uuid: 5ab205e0-0193-5143-bc1a-5ad754f34963
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 00761e5c-d083-4648-bbc7-96d22439c750
+  text: 典
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+right:
+  word_uuid: 881a0ce3-3806-490d-8d51-3c0620f3e3c9
+  text: 主
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

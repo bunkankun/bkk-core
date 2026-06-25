@@ -1,0 +1,32 @@
+uuid: ac38545f-0f64-4ab8-94bc-45b16f364d2f
+type: word-relation
+group_uuid: ac38545f-0f64-4ab8-94bc-45b16f364d2f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論衡
+    line_uuid: 59f0cac0-7da3-43ff-98a0-153b51e11288
+    line_id: KR3j0080_tls_003-4a.7
+    textline: 智慮深而無財
+    offset: 1
+    range: 1
+right:
+  word_uuid: 20ce3800-8a9c-4021-944e-ea84a5a9f1d2
+  text: 慮
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 論衡
+    line_uuid: 59f0cac0-7da3-43ff-98a0-153b51e11288
+    line_id: KR3j0080_tls_003-4a.7
+    textline: 智慮深而無財
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: fda3edb0-f939-4f73-9e66-a3cab2d39214
+type: word-relation
+group_uuid: 32f401ee-a8a8-4e18-b129-b3c34a88de16
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 論衡
+    line_uuid: 17ee858c-29bd-4bea-b7d6-42604fc5571b
+    line_id: KR3j0080_tls_003-4a.19
+    textline: 祿命有貧富
+    offset: 4
+    range: 1
+right:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 論衡
+    line_uuid: 17ee858c-29bd-4bea-b7d6-42604fc5571b
+    line_id: KR3j0080_tls_003-4a.19
+    textline: 祿命有貧富
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

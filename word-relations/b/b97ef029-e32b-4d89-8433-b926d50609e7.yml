@@ -1,0 +1,32 @@
+uuid: b97ef029-e32b-4d89-8433-b926d50609e7
+type: word-relation
+group_uuid: b97ef029-e32b-4d89-8433-b926d50609e7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 91895a89-a276-40e5-bcad-a4f3dda25daa
+  text: 將
+  concept: PUSH
+  concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+  attestation:
+    text_title: 百喻經
+    line_uuid: ae6bb2bf-b463-47f9-b989-4af9f565f61d
+    line_id: KR6b0066_T_003-0551b.3
+    textline: 時將車者語彼二人
+    offset: 2
+    range: 1
+right:
+  word_uuid: ad504677-2211-4e69-a2e5-bf971cdbfa19
+  text: 推
+  concept: PUSH
+  concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+  attestation:
+    text_title: 百喻經
+    line_uuid: d8eec4fd-bd23-4a73-a2c3-baff3a08bb2c
+    line_id: KR6b0066_T_003-0551b.4
+    textline: 佐我推車出此嶮路
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

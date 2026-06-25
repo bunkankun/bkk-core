@@ -1,0 +1,31 @@
+uuid: 51719eea-50eb-4df8-b89a-a660dee0513b
+type: word-relation
+group_uuid: 51719eea-50eb-4df8-b89a-a660dee0513b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4e132cbe-aadd-4e0e-a3bd-a77e6af3a247
+  text: 莫
+  concept: DON'T
+  concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+  attestation:
+    text_title: 法華經
+    line_uuid: 62ec1a7a-ba16-4e5f-8db1-460d93252bb6
+    line_id: KR6d0001_T_005-0037c.5
+    textline: 亦莫親近
+    offset: 2
+    range: 1
+right:
+  word_uuid: ea1c2919-6327-4c98-b72a-128b374cce4c
+  text: 勿
+  concept: DON'T
+  concept_uuid: 40a298a2-0ea4-4660-a410-a1f7029383b3
+  attestation:
+    text_title: 法華經
+    line_uuid: 9f97d529-1efb-4a36-acba-79cc18ee0616
+    textline: 皆勿親近
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

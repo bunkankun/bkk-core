@@ -1,0 +1,32 @@
+uuid: a0462aa1-e188-4e8e-8896-9de4726b0755
+type: word-relation
+group_uuid: a0462aa1-e188-4e8e-8896-9de4726b0755
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 489d42f6-37d2-4430-9c04-b068404802bf
+  text: 慶賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 058cc053-feac-43e6-b0d3-b59a55bb0012
+    line_id: KR3c0005_tls_007-7a.3
+    textline: “夫慶賞賜予者
+    offset: 3
+    range: 2
+right:
+  word_uuid: 5c56c052-4dd6-409a-bb83-4c1d5e39acc8
+  text: 賜予
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 韓非子
+    line_uuid: 058cc053-feac-43e6-b0d3-b59a55bb0012
+    line_id: KR3c0005_tls_007-7a.3
+    textline: “夫慶賞賜予者
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

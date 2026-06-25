@@ -1,0 +1,18 @@
+uuid: a8a7b448-e5b4-48cf-a95c-b8f217122e11
+type: word-relation
+group_uuid: 795d071c-007b-590f-9700-45968db8357c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 529ec13a-126e-45be-8899-1bcbce626012
+  text: 謠
+  concept: SONG
+  concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+right:
+  word_uuid: d0e5fefb-5cf3-4db3-8c81-5a4f987894ef
+  text: 童
+  concept: BOY
+  concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+source:
+  source_file: word-relations.xml

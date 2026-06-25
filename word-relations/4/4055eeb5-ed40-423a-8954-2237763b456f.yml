@@ -1,0 +1,32 @@
+uuid: 4055eeb5-ed40-423a-8954-2237763b456f
+type: word-relation
+group_uuid: 4055eeb5-ed40-423a-8954-2237763b456f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ff0f597f-56f6-49c4-b970-ed6504645c75
+  text: 中
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ff76ec9-8e35-4d26-976e-e69180517b04
+    line_id: KR3c0005_tls_006-36a.3
+    textline: 巧匠目意中繩
+    offset: 5
+    range: 1
+right:
+  word_uuid: f56902a1-c78b-47ca-bb7a-39ec0f477757
+  text: 繩
+  concept: THREAD
+  concept_uuid: 114078e6-e712-4751-9ab8-ac46ab27c8d6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ff76ec9-8e35-4d26-976e-e69180517b04
+    line_id: KR3c0005_tls_006-36a.3
+    textline: 巧匠目意中繩
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 6d006da3-6bab-4901-b6a9-f022a7f984b1
+type: word-relation
+group_uuid: b04e910f-7a7c-5f49-a511-92b601fcfecc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 714ec2d4-37a0-4bca-b920-867c34223288
+  text: 廢
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+right:
+  word_uuid: f1becac1-c86a-4f6d-9b19-17c85ef4cb61
+  text: 盛
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 0ab3724a-e938-477b-8c80-4a75d15c6bff
+type: word-relation
+group_uuid: 0ab3724a-e938-477b-8c80-4a75d15c6bff
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 26a55f71-0807-4d32-87b0-7d63662419ec
+    line_id: KR1e0001_tls_002-27a.10
+    textline: 已殺孔父而弒殤公
+    offset: 2
+    range: 1
+right:
+  word_uuid: c8a4d0bd-3691-43a1-bdc1-962c04e4e580
+  text: 弒
+  concept: MURDER
+  concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 26a55f71-0807-4d32-87b0-7d63662419ec
+    line_id: KR1e0001_tls_002-27a.10
+    textline: 已殺孔父而弒殤公
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

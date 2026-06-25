@@ -1,0 +1,32 @@
+uuid: d1023f6a-f42a-4c1c-b746-b8f00fc38481
+type: word-relation
+group_uuid: d1023f6a-f42a-4c1c-b746-b8f00fc38481
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 88c391df-6ec2-4207-90b9-99d524bc3f32
+  text: 專
+  concept: MONOPOLISE
+  concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0c9b8610-9fe4-4e20-b8a7-40941a0075ba
+    line_id: KR3c0005_tls_016-12a.5
+    textline: 而功成則臣獨專之
+    offset: 7
+    range: 1
+right:
+  word_uuid: 03adcb9a-72c7-4a52-986d-c6491ab45bd7
+  text: 獨
+  concept: ALONE
+  concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0c9b8610-9fe4-4e20-b8a7-40941a0075ba
+    line_id: KR3c0005_tls_016-12a.5
+    textline: 而功成則臣獨專之
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

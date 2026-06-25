@@ -1,0 +1,32 @@
+uuid: 580693f2-2345-4217-8ffa-56916e872525
+type: word-relation
+group_uuid: de93644a-3ce1-4938-89b5-2f9482fb324f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 697335b2-8384-4d98-933e-949e33347409
+  text: 城
+  concept: CITY WALL
+  concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: ecfd07f4-f68a-41be-bd7c-a1361cf9966c
+    line_id: KR3c0005_tls_015-21a.3
+    textline: 城郭惡
+    offset: 1
+    range: 1
+right:
+  word_uuid: a584004f-0e2a-486d-b8aa-4f90c249a428
+  text: 郭
+  concept: CITY WALL
+  concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: ecfd07f4-f68a-41be-bd7c-a1361cf9966c
+    line_id: KR3c0005_tls_015-21a.3
+    textline: 城郭惡
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

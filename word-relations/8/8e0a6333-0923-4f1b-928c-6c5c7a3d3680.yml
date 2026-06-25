@@ -1,0 +1,32 @@
+uuid: 8e0a6333-0923-4f1b-928c-6c5c7a3d3680
+type: word-relation
+group_uuid: 8e0a6333-0923-4f1b-928c-6c5c7a3d3680
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: ef325713-b048-4ffb-8540-fa27ad5d55be
+    line_id: KR1e0001_tls_010-259a.8
+    textline: 我則不足
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3193d6c6-f939-4c39-8590-f97b4f70462d
+  text: 夫子
+  concept: TEACHER
+  concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d03f71e8-c6c6-4a10-9543-b0a0e8466d5d
+    line_id: KR1e0001_tls_010-217a.1
+    textline: 夫子知之矣
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

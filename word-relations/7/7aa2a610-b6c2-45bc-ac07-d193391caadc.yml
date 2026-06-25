@@ -1,0 +1,32 @@
+uuid: 7aa2a610-b6c2-45bc-ac07-d193391caadc
+type: word-relation
+group_uuid: 47c55516-5c58-408a-aacd-0518d3a504bc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 722ebd84-20c9-4220-9faa-2b5ebe441d79
+  text: 甘
+  concept: SAVOURY
+  concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 025efe69-5170-4ced-bd4e-50674f8d74ea
+    line_id: KR3j0009_tls_001-21a.6
+    textline: 甘露時雨
+    offset: 1
+    range: 1
+right:
+  word_uuid: cbd513a5-dc37-407b-a130-3b1e140e2fc9
+  text: 露
+  concept: DEW
+  concept_uuid: 8b0132d9-72f7-4c10-ba5a-d01352aef17c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 025efe69-5170-4ced-bd4e-50674f8d74ea
+    line_id: KR3j0009_tls_001-21a.6
+    textline: 甘露時雨
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

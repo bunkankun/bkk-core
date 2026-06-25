@@ -1,0 +1,21 @@
+uuid: a81fe6a3-f0a4-45f4-9137-248c9712c0f4
+type: word-relation
+group_uuid: dc8aaacc-9d81-532c-ac1a-ff48d9e485ab
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9a48a6d1-a0de-4686-96f1-c602e8abe31d
+  text: 達
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+right:
+  word_uuid: ea050d59-b84a-4a74-b3b6-fa3048dd4944
+  text: 致
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

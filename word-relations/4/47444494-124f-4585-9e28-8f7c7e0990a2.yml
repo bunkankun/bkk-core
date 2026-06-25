@@ -1,0 +1,21 @@
+uuid: 47444494-124f-4585-9e28-8f7c7e0990a2
+type: word-relation
+group_uuid: cd9e2545-ea77-5a2e-9ea1-53665e06cdfe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ac679d2b-7d25-44c0-85a0-0c3851941647
+  text: 畫
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+right:
+  word_uuid: acede607-7859-474a-bf1a-f69fd08ee45c
+  text: 計
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

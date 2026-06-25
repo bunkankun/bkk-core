@@ -1,0 +1,32 @@
+uuid: b5959c46-c587-436c-959c-46c587136c0c
+type: word-relation
+group_uuid: ea21d098-441f-5bef-ab78-9dc723c2a7ec
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 5bad5338-d55f-4acf-be46-90c0c62e84e5
+  text: 治
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_002-31a.19
+    textline: 凡治氣養心之術
+    offset: 2
+    range: 1
+right:
+  word_uuid: 84b97005-fa29-4396-b0c3-b345176c03c3
+  text: 氣
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_002-31a.19
+    textline: 凡治氣養心之術
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T23:13:55.964+09:00'

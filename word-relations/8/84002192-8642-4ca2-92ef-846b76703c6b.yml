@@ -1,0 +1,32 @@
+uuid: 84002192-8642-4ca2-92ef-846b76703c6b
+type: word-relation
+group_uuid: db7a0827-ae1a-4fdb-bfa4-48c1c8d381c4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 論衡
+    line_uuid: 9b591adc-aede-44f5-b0c4-0b602f6df81d
+    line_id: KR3j0080_tls_003-1a.16
+    textline: 雖貧賤之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 59c38938-a539-41c3-8f9d-603c1a64feee
+  text: 賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 9b591adc-aede-44f5-b0c4-0b602f6df81d
+    line_id: KR3j0080_tls_003-1a.16
+    textline: 雖貧賤之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: fc18d1f0-3933-4293-98d1-f03933229309
+type: word-relation
+group_uuid: d23e7008-14e2-58bd-8ce5-26d4a9848170
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f7ebc637-1b08-4027-9a80-98cee2fd3111
+  text: 升
+  concept: ASCEND
+  concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_024-22a.14
+    textline: 升而復降
+    offset: 1
+    range: 1
+right:
+  word_uuid: 35dca112-713d-4363-b2bd-8112598e6402
+  text: 降
+  concept: DESCEND
+  concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_024-22a.14
+    textline: 升而復降
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-06-12T23:17:08.213+09:00'

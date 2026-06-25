@@ -1,0 +1,23 @@
+uuid: 4d164930-a63c-4b08-b5a8-e81c0df94c0a
+type: word-relation
+group_uuid: a9e16860-a568-5e44-9093-f49644bc73cf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+right:
+  word_uuid: 5389c058-de93-4a0b-b5b0-83f3b0797199
+  text: 災菑
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

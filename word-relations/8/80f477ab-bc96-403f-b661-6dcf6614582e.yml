@@ -1,0 +1,23 @@
+uuid: 80f477ab-bc96-403f-b661-6dcf6614582e
+type: word-relation
+group_uuid: f9659506-92f6-52a3-9995-c859462e8ec8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f35f43df-b6c5-4cee-a2f1-2e4e466e9fd7
+  text: 開
+  concept: OPEN
+  concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+right:
+  word_uuid: 5db6555a-ca7b-4708-a4a8-14b28bab76d7
+  text: 閉
+  concept: SHUT
+  concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '289'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

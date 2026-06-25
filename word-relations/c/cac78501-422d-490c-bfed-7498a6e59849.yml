@@ -1,0 +1,32 @@
+uuid: cac78501-422d-490c-bfed-7498a6e59849
+type: word-relation
+group_uuid: cac78501-422d-490c-bfed-7498a6e59849
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 管子
+    line_uuid: bdd763f5-727d-4007-9641-1535c763f07c
+    line_id: KR3c0001_tls_013-72a.2
+    textline: 昔者明王之愛天下
+    offset: 3
+    range: 1
+right:
+  word_uuid: 94494611-f261-4be6-9ec4-642a7e9c5185
+  text: 暴
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 管子
+    line_uuid: 3c3d8582-5488-4dda-808c-283d5e2ff88e
+    line_id: KR3c0001_tls_013-72a.4
+    textline: 暴王之惡天下
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

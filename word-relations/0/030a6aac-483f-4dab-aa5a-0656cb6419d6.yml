@@ -1,0 +1,32 @@
+uuid: 030a6aac-483f-4dab-aa5a-0656cb6419d6
+type: word-relation
+group_uuid: 030a6aac-483f-4dab-aa5a-0656cb6419d6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論衡
+    line_uuid: 83c73c51-84e4-48bd-850a-d0b188c28f12
+    line_id: KR3j0080_tls_003-1a.51
+    textline: 治產貧富
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5becde3a-51b5-4450-9746-b66b29f244b2
+  text: 產
+  concept: ASSET
+  concept_uuid: adb5c10b-f78f-44d4-a280-b14e7ff2e3fc
+  attestation:
+    text_title: 論衡
+    line_uuid: 83c73c51-84e4-48bd-850a-d0b188c28f12
+    line_id: KR3j0080_tls_003-1a.51
+    textline: 治產貧富
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

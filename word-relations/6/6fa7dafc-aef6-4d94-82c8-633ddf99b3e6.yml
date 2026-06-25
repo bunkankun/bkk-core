@@ -1,0 +1,32 @@
+uuid: 6fa7dafc-aef6-4d94-82c8-633ddf99b3e6
+type: word-relation
+group_uuid: 6fa7dafc-aef6-4d94-82c8-633ddf99b3e6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 58992b8a-43a9-446e-b917-8f823dcd2c31
+  text: 氣
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9c6de72d-7666-4543-abf2-98328487f8c2
+    line_id: KR3j0010_tls_001-31a.16
+    textline: 氣為之充
+    offset: 1
+    range: 1
+right:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 淮南子
+    line_uuid: d194d547-bd96-4d0b-b648-7d56e5cfc2c0
+    line_id: KR3j0010_tls_001-31a.17
+    textline: 而神為之使也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

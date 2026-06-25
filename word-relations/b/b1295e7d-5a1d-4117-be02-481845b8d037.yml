@@ -1,0 +1,32 @@
+uuid: b1295e7d-5a1d-4117-be02-481845b8d037
+type: word-relation
+group_uuid: b1295e7d-5a1d-4117-be02-481845b8d037
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 淮南子
+    line_uuid: ec611800-11d9-407d-b5e9-a8fd49619527
+    line_id: KR3j0010_tls_011-13a.21
+    textline: 雖笑不和
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4d6c3992-debb-4204-9926-8d03e3c26d41
+  text: 和
+  concept: HARMONY
+  concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+  attestation:
+    text_title: 淮南子
+    line_uuid: ec611800-11d9-407d-b5e9-a8fd49619527
+    line_id: KR3j0010_tls_011-13a.21
+    textline: 雖笑不和
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

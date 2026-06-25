@@ -1,0 +1,29 @@
+uuid: fa492721-8444-4f54-a5ad-45018525c84b
+type: word-relation
+group_uuid: fa492721-8444-4f54-a5ad-45018525c84b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 12d45b28-faba-4067-974d-e4aaf8f3d774
+    textline: 見一切人及非人惡之與善惡法善法
+    range: 1
+right:
+  word_uuid: d61a8535-e9d2-4a56-bdd6-37bac0c4e8f9
+  text: 非人
+  concept: CREATURE
+  concept_uuid: 7fbdcac8-ef20-48c8-9e33-233020456e38
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 12d45b28-faba-4067-974d-e4aaf8f3d774
+    textline: 見一切人及非人惡之與善惡法善法
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml

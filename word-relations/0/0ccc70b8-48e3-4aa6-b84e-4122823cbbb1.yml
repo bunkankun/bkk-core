@@ -1,0 +1,30 @@
+uuid: 0ccc70b8-48e3-4aa6-b84e-4122823cbbb1
+type: word-relation
+group_uuid: 0ccc70b8-48e3-4aa6-b84e-4122823cbbb1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1bbbe1aa-3eeb-4d2b-8ac4-93b6336fa70a
+  text: 謫
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 老子
+    line_uuid: cb151141-38e0-4cb6-9f1d-3155671b0e72
+    textline: 善言無瑕謫
+    offset: 5
+    range: 1
+right:
+  word_uuid: 615dd0d2-ea76-40f6-b8a6-17f90cca7833
+  text: 瑕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 老子
+    line_uuid: cb151141-38e0-4cb6-9f1d-3155671b0e72
+    textline: 善言無瑕謫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

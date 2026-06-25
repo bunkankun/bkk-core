@@ -1,0 +1,21 @@
+uuid: 48c67ee3-046a-4614-96f9-4d41d75c59ac
+type: word-relation
+group_uuid: a1bb3f54-342f-50d5-8ecc-085e605674ec
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2e9df244-5635-46cd-8416-ed68fc8e0a4a
+  text: 盡
+  concept: END
+  concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+right:
+  word_uuid: 208937a4-ce94-4ccf-9389-2390cf4d1d1d
+  text: 終
+  concept: END
+  concept_uuid: d32046d9-2cea-4892-80a2-1bcbcdc1f113
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 06642a0c-11fb-47da-af2e-0fe6beeacc00
+type: word-relation
+group_uuid: 06642a0c-11fb-47da-af2e-0fe6beeacc00
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5bb78206-5004-4d1a-a331-d25a77c8b3a0
+  text: 拜
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: e7e8bd50-0e03-4e8d-9256-cfbe46d802b4
+    line_id: KR3c0005_tls_020-12a.3
+    textline: 故疾趨卑拜而明之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 891f4993-7c48-41b2-bbbe-e30bf5829512
+  text: 卑
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: e7e8bd50-0e03-4e8d-9256-cfbe46d802b4
+    line_id: KR3c0005_tls_020-12a.3
+    textline: 故疾趨卑拜而明之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

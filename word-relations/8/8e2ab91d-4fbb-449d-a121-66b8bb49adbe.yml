@@ -1,0 +1,32 @@
+uuid: 8e2ab91d-4fbb-449d-a121-66b8bb49adbe
+type: word-relation
+group_uuid: 8e2ab91d-4fbb-449d-a121-66b8bb49adbe
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 論語
+    line_uuid: e20a3bcb-cab9-43d6-a0f4-3a8e768365c8
+    line_id: KR1h0004_tls_002-23a.3
+    textline: 「人而無信
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: e20a3bcb-cab9-43d6-a0f4-3a8e768365c8
+    line_id: KR1h0004_tls_002-23a.3
+    textline: 「人而無信
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

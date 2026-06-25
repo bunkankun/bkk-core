@@ -1,0 +1,32 @@
+uuid: b924c75d-a009-48bc-9a40-b3ea1ab67206
+type: word-relation
+group_uuid: e30fe0af-aff2-4e7b-abdb-9fb8b7780b98
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2ae3fb78-0c84-42ae-94de-badabf496f5a
+  text: 內
+  concept: INSIDE
+  concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+  attestation:
+    text_title: 禮記
+    line_uuid: b6f1a3ef-4552-43e9-a3b4-cb5319f128d2
+    line_id: KR1d0052_tls_047-2a.4
+    textline: 內志正
+    offset: 1
+    range: 1
+right:
+  word_uuid: fbfb9f53-bbff-4ed5-9e34-c5245a9d37e2
+  text: 外
+  concept: OUTSIDE
+  concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+  attestation:
+    text_title: 禮記
+    line_uuid: 80437a00-c629-4a1f-94c5-d96e3ce4e712
+    line_id: KR1d0052_tls_047-2a.5
+    textline: 外體直
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

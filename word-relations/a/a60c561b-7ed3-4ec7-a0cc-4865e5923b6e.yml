@@ -1,0 +1,32 @@
+uuid: a60c561b-7ed3-4ec7-a0cc-4865e5923b6e
+type: word-relation
+group_uuid: a60c561b-7ed3-4ec7-a0cc-4865e5923b6e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b97645e3-02dd-4ed7-ae8e-da285b8ab821
+  text: 色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 論語
+    line_uuid: d9c444fb-7aad-432d-968c-5e1446b9a4b1
+    line_id: KR1h0004_tls_010-3a.3
+    textline: 色勃如也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8900ebc7-716d-4b25-80e9-b2f426f299ed
+  text: 足
+  concept: LEG
+  concept_uuid: 29d9355e-9957-476d-b2b8-415faedfb5e5
+  attestation:
+    text_title: 論語
+    line_uuid: d23e6aff-908e-404a-a62f-a60377b2a798
+    line_id: KR1h0004_tls_010-3a.4
+    textline: 足躩如也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

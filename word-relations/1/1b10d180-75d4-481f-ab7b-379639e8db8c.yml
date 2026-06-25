@@ -1,0 +1,32 @@
+uuid: 1b10d180-75d4-481f-ab7b-379639e8db8c
+type: word-relation
+group_uuid: 1b10d180-75d4-481f-ab7b-379639e8db8c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 183cdc98-39b3-4a2b-8f91-8579cf2ba5c9
+  text: 豺
+  concept: WOLF
+  concept_uuid: c16b243b-6b61-4112-b2e9-e955fe90727f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 260ad722-b994-42a5-aabf-8e98fe71006d
+    line_id: KR3c0005_tls_008-39a.6
+    textline: 豺狼在牢
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2d7a3654-3ca1-451c-9a1c-b7e22cf85b14
+  text: 狼
+  concept: WOLF
+  concept_uuid: c16b243b-6b61-4112-b2e9-e955fe90727f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 260ad722-b994-42a5-aabf-8e98fe71006d
+    line_id: KR3c0005_tls_008-39a.6
+    textline: 豺狼在牢
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

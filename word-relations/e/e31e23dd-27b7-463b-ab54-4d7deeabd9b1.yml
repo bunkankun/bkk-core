@@ -1,0 +1,32 @@
+uuid: e31e23dd-27b7-463b-ab54-4d7deeabd9b1
+type: word-relation
+group_uuid: e31e23dd-27b7-463b-ab54-4d7deeabd9b1
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: b420976b-03d3-468c-bb65-fe59e77f04a5
+  text: 遭
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: dffed6e4-92b3-4eaf-9b61-05efe52c9bf3
+    line_id: KR3j0080_tls_006-7a.29
+    textline: 遭受此性
+    offset: 1
+    range: 1
+right:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 論衡
+    line_uuid: dffed6e4-92b3-4eaf-9b61-05efe52c9bf3
+    line_id: KR3j0080_tls_006-7a.29
+    textline: 遭受此性
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 03ac8970-eddc-4eac-ac89-70eddc7eacbd
+type: word-relation
+group_uuid: 3010a031-c091-5f0b-87a8-c1d59f2cd5e7
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 7720bd16-5d72-4ff4-b05e-212efc48224f
+  text: 悅
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_003-5a.5
+    textline: 故其人悅以恕
+    offset: 4
+    range: 1
+right:
+  word_uuid: df677435-803f-48db-88b9-8d4e016b7a83
+  text: 恕
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_003-5a.5
+    textline: 故其人悅以恕
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-02-24T02:11:58.335+09:00'

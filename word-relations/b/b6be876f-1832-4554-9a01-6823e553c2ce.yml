@@ -1,0 +1,32 @@
+uuid: b6be876f-1832-4554-9a01-6823e553c2ce
+type: word-relation
+group_uuid: b6be876f-1832-4554-9a01-6823e553c2ce
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bacd037d-6d6b-4992-9fff-bf9f8ccd1a53
+  text: 識
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 淮南子
+    line_uuid: 3597477b-198b-42ac-a036-80ed1e7e4d87
+    line_id: KR3j0010_tls_009-13a.34
+    textline: 因物以識物
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 淮南子
+    line_uuid: 05e38b13-0e78-4c42-8408-25f758b6fbf6
+    line_id: KR3j0010_tls_009-13a.35
+    textline: 因人以知人也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

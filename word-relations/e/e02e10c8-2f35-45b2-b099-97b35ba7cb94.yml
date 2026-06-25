@@ -1,0 +1,21 @@
+uuid: e02e10c8-2f35-45b2-b099-97b35ba7cb94
+type: word-relation
+group_uuid: 29fa3e46-e3d7-5bd2-aa62-46068b216852
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 65b956d0-bd72-4483-a96d-bb13d515f369
+  text: 華
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+right:
+  word_uuid: 5d0eba96-bf2e-441a-8e24-8e0726d95994
+  text: 淫
+  concept: LEWD
+  concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

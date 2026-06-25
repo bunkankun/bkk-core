@@ -1,0 +1,30 @@
+uuid: 68677d68-34c6-4e16-9297-cba01fd28d2f
+type: word-relation
+group_uuid: a7fc5219-9b59-40bc-9dd4-33d4dcfce587
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67374e46-dc24-437d-a0ae-4d791fdd3d95
+  text: 疵
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 7b1c5509-ecec-4d59-9cf0-df8b1a408dd3
+    textline: 疵瑕在其中
+    offset: 1
+    range: 1
+right:
+  word_uuid: 615dd0d2-ea76-40f6-b8a6-17f90cca7833
+  text: 瑕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 7b1c5509-ecec-4d59-9cf0-df8b1a408dd3
+    textline: 疵瑕在其中
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

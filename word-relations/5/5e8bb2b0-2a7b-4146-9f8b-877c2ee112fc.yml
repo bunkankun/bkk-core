@@ -1,0 +1,32 @@
+uuid: 5e8bb2b0-2a7b-4146-9f8b-877c2ee112fc
+type: word-relation
+group_uuid: 5e8bb2b0-2a7b-4146-9f8b-877c2ee112fc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 74165a96-7f3a-44a0-ae1f-8445bec657ac
+  text: 謳
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 孟子
+    line_uuid: a39d5518-d2d4-47c5-bffc-4f005a5c5fb2
+    line_id: KR1h0001_tls_009-32a.26
+    textline: 謳歌者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 孟子
+    line_uuid: a39d5518-d2d4-47c5-bffc-4f005a5c5fb2
+    line_id: KR1h0001_tls_009-32a.26
+    textline: 謳歌者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

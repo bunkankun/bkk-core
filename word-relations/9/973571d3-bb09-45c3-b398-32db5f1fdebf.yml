@@ -1,0 +1,32 @@
+uuid: 973571d3-bb09-45c3-b398-32db5f1fdebf
+type: word-relation
+group_uuid: 973571d3-bb09-45c3-b398-32db5f1fdebf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9f1879d5-844d-44f2-b9bb-480ff0e52c43
+  text: 露
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+  attestation:
+    text_title: 法華經
+    line_uuid: 14928418-34f7-415c-98fd-936e8041b5b5
+    line_id: KR6d0001_T_005-0037b.16
+    textline: 不露齒笑
+    offset: 2
+    range: 1
+right:
+  word_uuid: a3fc37d9-42d7-4e40-a4b1-5d5a0c50a979
+  text: 現
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+  attestation:
+    text_title: 法華經
+    line_uuid: 087ece06-5b09-4e0f-b6d4-9a14aed5b6b5
+    line_id: KR6d0001_T_005-0037b.17
+    textline: 不現胸臆
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

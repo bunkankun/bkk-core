@@ -1,0 +1,32 @@
+uuid: 6209da46-894d-4760-89da-46894d6760a6
+type: word-relation
+group_uuid: d56f05dc-d384-5672-b6c7-e35223f525dd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 58888416-b55e-4abd-8c82-0c274b1534ce
+  text: 解
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-29a.6212
+    textline: 出則不能解天文明地理
+    offset: 5
+    range: 1
+right:
+  word_uuid: 232f5af2-6d6c-4580-b43d-01d89c7b7cbd
+  text: 明
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_003-29a.6212
+    textline: 出則不能解天文明地理
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-19T18:23:05.821+09:00'

@@ -1,0 +1,32 @@
+uuid: 45fddaa2-4b39-489f-aad8-68318840692d
+type: word-relation
+group_uuid: 45fddaa2-4b39-489f-aad8-68318840692d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ea795945-2cc3-4393-99ae-bb7167767ed0
+  text: 追
+  concept: ACCOMPANY
+  concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+  attestation:
+    text_title: 淮南子
+    line_uuid: b92772b1-5ab0-4b1a-912a-57c95c5e872d
+    line_id: KR3j0010_tls_011-16a.35
+    textline: 追送死也
+    offset: 1
+    range: 1
+right:
+  word_uuid: e05bd799-f9f6-4484-a731-aab749009353
+  text: 送
+  concept: ACCOMPANY
+  concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+  attestation:
+    text_title: 淮南子
+    line_uuid: b92772b1-5ab0-4b1a-912a-57c95c5e872d
+    line_id: KR3j0010_tls_011-16a.35
+    textline: 追送死也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

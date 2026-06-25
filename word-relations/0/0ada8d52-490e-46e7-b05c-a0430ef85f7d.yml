@@ -1,0 +1,21 @@
+uuid: 0ada8d52-490e-46e7-b05c-a0430ef85f7d
+type: word-relation
+group_uuid: 38f0a052-d079-504d-9447-484a0e239382
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5a32964e-b2c8-4693-9e93-50337a502993
+  text: 復
+  concept: AGAIN
+  concept_uuid: 0325d724-1865-497d-a930-6e348d270825
+right:
+  word_uuid: 06f98714-1245-4c22-919d-daefcea6cd4b
+  text: 重
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

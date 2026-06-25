@@ -1,0 +1,30 @@
+uuid: 83948dd9-e2cd-45d7-9b5b-4d7d449adf44
+type: word-relation
+group_uuid: fd11795f-43d0-422b-90c7-8a0d485594e9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 61252f16-fbf2-41a3-84e0-18fe2b0f31a9
+  text: 上
+  concept: ABOVE
+  concept_uuid: 67c0f256-db52-4848-9f4b-f1cd389839b3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 788f51ad-001d-443f-b6cd-b5a93803f6c4
+    textline: 上以修頭
+    offset: 1
+    range: 1
+right:
+  word_uuid: f35680ef-b9a3-4a4f-9d5a-b956daa7c25b
+  text: 下
+  concept: BELOW
+  concept_uuid: 62252aba-6452-4ee9-aeb4-3b50862a8170
+  attestation:
+    text_title: 韓非子
+    line_uuid: bb687e67-1f92-4ee3-bc33-f681b06dcd73
+    textline: 下以修足
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

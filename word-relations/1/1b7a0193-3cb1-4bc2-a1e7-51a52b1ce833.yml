@@ -1,0 +1,32 @@
+uuid: 1b7a0193-3cb1-4bc2-a1e7-51a52b1ce833
+type: word-relation
+group_uuid: 9b920913-7ff2-4a6f-aaae-79d95ba2ecac
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 94217d84-7058-41de-b6be-b0ca7be61743
+    line_id: KR3j0009_tls_002-14a.18
+    textline: 復來求之
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9594792f-9eae-4e27-9518-6d2bf4c096c7
+    line_id: KR3j0009_tls_002-14a.19
+    textline: 則不得已
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

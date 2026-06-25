@@ -1,0 +1,31 @@
+uuid: 6871b1ea-9c71-4e71-80a0-3156f8d6e19d
+type: word-relation
+group_uuid: 6871b1ea-9c71-4e71-80a0-3156f8d6e19d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 96c2a179-e051-4fc0-8450-52d1334db594
+  text: 幼子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 禮記
+    line_uuid: 36639dc7-4838-459d-a344-fd11f05d9c34
+    line_id: KR1d0052_tls_001-15a.2
+    textline: 幼子常視毋誑
+    offset: 1
+    range: 2
+right:
+  word_uuid: c0e504eb-54a7-43c4-a97b-54a2ed12a092
+  text: 童子
+  concept: BOY
+  concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+  attestation:
+    text_title: 禮記
+    line_uuid: c5822780-4002-4f87-852d-a9a408c3025b
+    textline: 童子不衣裘裳
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

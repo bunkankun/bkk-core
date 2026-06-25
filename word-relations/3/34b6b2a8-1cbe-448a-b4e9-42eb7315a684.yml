@@ -1,0 +1,32 @@
+uuid: 34b6b2a8-1cbe-448a-b4e9-42eb7315a684
+type: word-relation
+group_uuid: 34b6b2a8-1cbe-448a-b4e9-42eb7315a684
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 226d752a-e576-47d0-9f99-84e91e410df2
+  text: 群臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2bf7617b-679c-4a85-aeb9-ddcdc4b9aab2
+    line_id: KR3c0005_tls_030-22a.6
+    textline: 群臣左右皆為張子言
+    offset: 1
+    range: 2
+right:
+  word_uuid: d7b6b37d-3588-4fd1-b661-89329f91426c
+  text: 左右
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2bf7617b-679c-4a85-aeb9-ddcdc4b9aab2
+    line_id: KR3c0005_tls_030-22a.6
+    textline: 群臣左右皆為張子言
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

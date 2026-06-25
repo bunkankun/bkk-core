@@ -1,0 +1,32 @@
+uuid: 7ab0847d-e4ab-4791-b084-7de4abd791bd
+type: word-relation
+group_uuid: ad472d1e-3d71-561a-bcdd-0fb9a0f448d3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ea230cab-b68f-4c1d-8fc9-e909c0e2afce
+  text: 貞
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.62
+    textline: 婦無貞信，
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.62
+    textline: 婦無貞信，
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-14T22:13:50.524+09:00'

@@ -1,0 +1,32 @@
+uuid: 53d39204-e124-4b82-a400-ca281caeac44
+type: word-relation
+group_uuid: 53d39204-e124-4b82-a400-ca281caeac44
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5c5b2978-674f-49c5-9f7f-26b2aa5c0cbe
+  text: 衣
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 論語
+    line_uuid: 4e39b7d2-7aa8-4b67-94a1-cdb126f25eb9
+    line_id: KR1h0004_tls_010-16a.2
+    textline: 緇衣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 79ca7042-6c42-4e68-aed3-dc621c7c087e
+  text: 裘
+  concept: CLOAK
+  concept_uuid: 59166bc2-cf54-43e2-ae09-0117fcac748a
+  attestation:
+    text_title: 論語
+    line_uuid: ec8751e3-44bb-49a6-bb45-5e086699342c
+    line_id: KR1h0004_tls_010-16a.3
+    textline: 羔裘
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

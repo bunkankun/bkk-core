@@ -1,0 +1,35 @@
+uuid: ccfc602e-ee2c-486e-b958-e5965a78c5cf
+type: word-relation
+group_uuid: ccfc602e-ee2c-486e-b958-e5965a78c5cf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4759afde-f27a-41dc-a764-bc0358f2d0d2
+  text: 活
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 老子
+    line_uuid: 28445cc8-044b-4c68-a5cb-14cbfbe81622
+    line_id: KR3j0010_tls_012-10a.61
+    textline: 勇於不敢則活
+    offset: 6
+    range: 1
+right:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 老子
+    line_uuid: b08103cb-ca25-4afd-b810-8eb6db742dd7
+    line_id: KR3j0010_tls_012-10a.60
+    textline: 勇於敢則殺
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

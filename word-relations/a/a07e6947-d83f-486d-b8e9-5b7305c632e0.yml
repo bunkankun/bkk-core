@@ -1,0 +1,32 @@
+uuid: a07e6947-d83f-486d-b8e9-5b7305c632e0
+type: word-relation
+group_uuid: 9cffaa18-c8b6-4a9a-8b3b-efcbb510440c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7a01d975-2c5f-4027-ba91-603932ec2695
+    line_id: KR1e0001_tls_001-21a.15
+    textline: 繄我獨無
+    offset: 2
+    range: 1
+right:
+  word_uuid: f247efa1-49a9-4537-ad10-473b87e11741
+  text: 爾
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8e17bc91-8f2d-4243-9ee5-1fa41a89757c
+    line_id: KR1e0001_tls_001-21a.14
+    textline: 「爾有母遺
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

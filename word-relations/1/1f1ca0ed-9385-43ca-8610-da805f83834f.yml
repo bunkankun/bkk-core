@@ -1,0 +1,30 @@
+uuid: 1f1ca0ed-9385-43ca-8610-da805f83834f
+type: word-relation
+group_uuid: 918e8ffd-ed82-4652-a732-7b6ac368b5cf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 41d93fc0-336f-42b3-871f-ca1cbdad3f90
+  text: 江
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 老子
+    line_uuid: b1f2b633-ca95-4abd-abdd-145c0c8cbada
+    textline: 江海之所以能為百谷王者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0233a65c-6788-4164-a674-9a8916308380
+  text: 海
+  concept: SEA
+  concept_uuid: dd7585ff-f781-43d6-8bd4-d43b15415838
+  attestation:
+    text_title: 老子
+    line_uuid: b1f2b633-ca95-4abd-abdd-145c0c8cbada
+    textline: 江海之所以能為百谷王者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c936c43d-65bd-4c01-9607-93c8854b33cd
+type: word-relation
+group_uuid: c936c43d-65bd-4c01-9607-93c8854b33cd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 論衡
+    line_uuid: d968ddc2-5f4a-4d5b-b6c0-0c2ca7ffa28a
+    line_id: KR3j0080_tls_024-7a.23
+    textline: 則心意調和
+    offset: 2
+    range: 1
+right:
+  word_uuid: d2384885-8628-4dd9-9a82-58d01016b2be
+  text: 意
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 論衡
+    line_uuid: d968ddc2-5f4a-4d5b-b6c0-0c2ca7ffa28a
+    line_id: KR3j0080_tls_024-7a.23
+    textline: 則心意調和
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

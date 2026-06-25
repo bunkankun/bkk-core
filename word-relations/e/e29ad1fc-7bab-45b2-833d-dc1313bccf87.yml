@@ -1,0 +1,30 @@
+uuid: e29ad1fc-7bab-45b2-833d-dc1313bccf87
+type: word-relation
+group_uuid: e29ad1fc-7bab-45b2-833d-dc1313bccf87
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 84815b35-5740-4b67-b134-86b7574a8419
+  text: 操
+  concept: WIELD
+  concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7c1a0920-5100-42bd-b594-ab949ff1aa3d
+    textline: 萬人操弓共射（其）一招
+    offset: 3
+    range: 1
+right:
+  word_uuid: ed815a67-a9b3-45ce-bf94-7a65526fb4b4
+  text: 弓
+  concept: BOW
+  concept_uuid: 627ef940-0fa4-40c1-95f6-2b853df4e150
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7c1a0920-5100-42bd-b594-ab949ff1aa3d
+    textline: 萬人操弓共射（其）一招
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

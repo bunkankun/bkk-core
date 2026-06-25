@@ -1,0 +1,30 @@
+uuid: 397a3fce-3360-48e7-b424-a00adf617a9b
+type: word-relation
+group_uuid: 397a3fce-3360-48e7-b424-a00adf617a9b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 論語
+    line_uuid: 000da468-065d-4d5f-b8f6-a287005d94c1
+    textline: 德行顏淵閔子騫冉伯牛仲弓
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 000da468-065d-4d5f-b8f6-a287005d94c1
+    textline: 德行顏淵閔子騫冉伯牛仲弓
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

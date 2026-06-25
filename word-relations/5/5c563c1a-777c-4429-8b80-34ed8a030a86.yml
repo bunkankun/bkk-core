@@ -1,0 +1,32 @@
+uuid: 5c563c1a-777c-4429-8b80-34ed8a030a86
+type: word-relation
+group_uuid: 5c563c1a-777c-4429-8b80-34ed8a030a86
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 白虎通
+    line_uuid: 8eaef6af-8f91-4196-9d9c-5ed2050b87b1
+    line_id: KR3j0023_tls_042-1397a.5
+    textline: 笑不至矧
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0e287446-a0d6-42bb-bf09-a229ff4ed277
+  text: 怒
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 白虎通
+    line_uuid: 687ebc84-82bc-44ca-901b-b7b72b0e2291
+    line_id: KR3j0023_tls_042-1397a.6
+    textline: 怒不至詈
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

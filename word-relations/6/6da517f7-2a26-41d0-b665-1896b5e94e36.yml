@@ -1,0 +1,30 @@
+uuid: 6da517f7-2a26-41d0-b665-1896b5e94e36
+type: word-relation
+group_uuid: 6da517f7-2a26-41d0-b665-1896b5e94e36
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2516c0b0-2ee7-44f2-81e3-cda913710e12
+  text: 暗
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 論衡
+    line_uuid: cd5b2b6d-db90-4a30-a92b-73b75bc6562b
+    textline: 聲名有暗昧不明
+    offset: 4
+    range: 1
+right:
+  word_uuid: ecd92315-be05-4678-a688-9a4fe372ae7c
+  text: 昧
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 論衡
+    line_uuid: cd5b2b6d-db90-4a30-a92b-73b75bc6562b
+    textline: 聲名有暗昧不明
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

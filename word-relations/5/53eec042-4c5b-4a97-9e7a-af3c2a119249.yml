@@ -1,0 +1,32 @@
+uuid: 53eec042-4c5b-4a97-9e7a-af3c2a119249
+type: word-relation
+group_uuid: 53eec042-4c5b-4a97-9e7a-af3c2a119249
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 74b5094e-3bc7-4224-b4f6-39bd74db20e4
+  text: 親
+  concept: RELATIVES
+  concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c964c81-281f-46f8-bb69-00c21e8ba024
+    line_id: KR3c0005_tls_010-142a.3
+    textline: 率其親戚
+    offset: 3
+    range: 1
+right:
+  word_uuid: e9c33f99-bdd4-4019-abc7-8b74f47a2ea3
+  text: 戚
+  concept: RELATIVES
+  concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c964c81-281f-46f8-bb69-00c21e8ba024
+    line_id: KR3c0005_tls_010-142a.3
+    textline: 率其親戚
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

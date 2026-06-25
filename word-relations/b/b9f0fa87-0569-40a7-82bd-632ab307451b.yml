@@ -1,0 +1,32 @@
+uuid: b9f0fa87-0569-40a7-82bd-632ab307451b
+type: word-relation
+group_uuid: b9f0fa87-0569-40a7-82bd-632ab307451b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b547fcf5-5778-4ac1-8ce8-54b3b6f85afd
+  text: 謹
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 禮記
+    line_uuid: 89c933f4-7581-4311-8ac7-50bf5208247c
+    line_id: KR1d0052_tls_034-8a.7
+    textline: 則民謹於言而慎於行
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0ad2e8e0-4724-4954-8899-a6aae9c5287b
+  text: 慎
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 禮記
+    line_uuid: 89c933f4-7581-4311-8ac7-50bf5208247c
+    line_id: KR1d0052_tls_034-8a.7
+    textline: 則民謹於言而慎於行
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

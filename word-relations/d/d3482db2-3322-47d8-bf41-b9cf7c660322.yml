@@ -1,0 +1,32 @@
+uuid: d3482db2-3322-47d8-bf41-b9cf7c660322
+type: word-relation
+group_uuid: d3482db2-3322-47d8-bf41-b9cf7c660322
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4fc0b4d5-2d2b-484e-ad42-49556dafcf46
+    line_id: KR3c0005_tls_009-7a.5
+    textline: 事成則進爵益祿
+    offset: 5
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4fc0b4d5-2d2b-484e-ad42-49556dafcf46
+    line_id: KR3c0005_tls_009-7a.5
+    textline: 事成則進爵益祿
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

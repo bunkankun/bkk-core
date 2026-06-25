@@ -1,0 +1,18 @@
+uuid: 4ed37a36-a343-4ccc-8981-dbdc76281567
+type: word-relation
+group_uuid: 74460973-74c8-5ed2-ace1-5f48da5daf8f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1ba2c594-c52d-4236-9850-0bcdf67dba66
+  text: 廢
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+right:
+  word_uuid: 35dc3a58-73c2-4965-88a8-66969f73149c
+  text: 荒
+  concept: BARREN
+  concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+source:
+  source_file: word-relations.xml

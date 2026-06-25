@@ -1,0 +1,18 @@
+uuid: 5f849616-33e4-46ee-8479-d7b33fa3a9c8
+type: word-relation
+group_uuid: 37366b16-5a42-5b83-a90b-51ab96095e33
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1ed58ba8-4610-479b-99e0-13f08ee6e122
+  text: 知
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+right:
+  word_uuid: 8911d53f-1039-4c4e-9887-87d2abadbe72
+  text: 覺
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+source:
+  source_file: word-relations.xml

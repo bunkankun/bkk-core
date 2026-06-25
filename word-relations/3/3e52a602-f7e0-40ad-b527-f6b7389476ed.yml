@@ -1,0 +1,35 @@
+uuid: 3e52a602-f7e0-40ad-b527-f6b7389476ed
+type: word-relation
+group_uuid: a5d01d99-4725-46cb-a59f-6d74f35fb37b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 韓非子
+    line_uuid: ac691ee1-8bfa-4d23-80c4-a0e2b1f4a013
+    line_id: KR3c0005_tls_020-109a.7
+    textline: 聖人以誅暴則福成
+    offset: 7
+    range: 1
+right:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 53b4e40c-7899-4ef8-85d8-08fc794c9197
+    line_id: KR3c0005_tls_020-109a.6
+    textline: 愚人以行忿則禍生
+    offset: 7
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 71d0ef4a-872a-4801-b961-9fb945fe45a8
+type: word-relation
+group_uuid: bee1457d-72aa-577a-a455-e4d4e384cd56
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ae061d43-ec51-402b-a0e9-d3170be16995
+  text: 垂
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+right:
+  word_uuid: 9d81701b-746f-4c1a-8f5a-c86cb9c25741
+  text: 遺
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

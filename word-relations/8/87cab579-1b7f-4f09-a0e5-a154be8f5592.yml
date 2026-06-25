@@ -1,0 +1,32 @@
+uuid: 87cab579-1b7f-4f09-a0e5-a154be8f5592
+type: word-relation
+group_uuid: 87cab579-1b7f-4f09-a0e5-a154be8f5592
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b6483341-7bb0-41e3-bc25-d382e7c1034a
+  text: 從
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 荀子
+    line_uuid: 78ca1c53-bb53-4811-9ce0-7b4ac5878974
+    line_id: KR3a0002_tls_023-1a.19
+    textline: 然則從人之性
+    offset: 3
+    range: 1
+right:
+  word_uuid: f5fa22c7-eda9-466a-a190-b17bdb722a65
+  text: 順
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 荀子
+    line_uuid: 217e234f-a028-4d49-98e2-161807247227
+    line_id: KR3a0002_tls_023-1a.20
+    textline: 順人之情
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

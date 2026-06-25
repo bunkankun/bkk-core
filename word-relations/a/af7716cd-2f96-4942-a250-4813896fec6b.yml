@@ -1,0 +1,32 @@
+uuid: af7716cd-2f96-4942-a250-4813896fec6b
+type: word-relation
+group_uuid: af7716cd-2f96-4942-a250-4813896fec6b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ca01e24b-8a88-4e59-be8d-7f8c542d652b
+  text: 城
+  concept: CITY
+  concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 663f5718-1347-41e0-a17a-99ef50c79b09
+    line_id: KR3c0005_tls_004-11a.3
+    textline: 不得藉威城市
+    offset: 5
+    range: 1
+right:
+  word_uuid: ad00b987-a275-455c-a141-f904511279d3
+  text: 市
+  concept: MARKET
+  concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 663f5718-1347-41e0-a17a-99ef50c79b09
+    line_id: KR3c0005_tls_004-11a.3
+    textline: 不得藉威城市
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

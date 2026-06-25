@@ -1,0 +1,32 @@
+uuid: 3183bf5d-0cab-40d9-834b-20083ae5059f
+type: word-relation
+group_uuid: 3183bf5d-0cab-40d9-834b-20083ae5059f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 584c1690-62bf-43e0-9de4-5242ffa32a56
+  text: 提
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+  attestation:
+    text_title: 韓非子
+    line_uuid: c6da54cb-99ae-4f8c-9d0c-5dbf59fc6502
+    line_id: KR3c0005_tls_010-38a.2
+    textline: 平公提觴
+    offset: 3
+    range: 1
+right:
+  word_uuid: 78f0c57a-a1e6-401a-b110-955ddc054916
+  text: 觴
+  concept: CUP
+  concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+  attestation:
+    text_title: 韓非子
+    line_uuid: c6da54cb-99ae-4f8c-9d0c-5dbf59fc6502
+    line_id: KR3c0005_tls_010-38a.2
+    textline: 平公提觴
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

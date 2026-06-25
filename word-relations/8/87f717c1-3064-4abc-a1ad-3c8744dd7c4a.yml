@@ -1,0 +1,18 @@
+uuid: 87f717c1-3064-4abc-a1ad-3c8744dd7c4a
+type: word-relation
+group_uuid: e68a996b-43ce-52ae-b656-dede12861e8f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 335eb9fe-49b5-4d5b-afa8-dd607998195f
+  text: 清
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+right:
+  word_uuid: 7b21b78a-2770-49c3-8861-adf837ca313c
+  text: 涼
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+source:
+  source_file: word-relations.xml

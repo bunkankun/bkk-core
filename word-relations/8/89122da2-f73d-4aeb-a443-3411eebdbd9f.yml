@@ -1,0 +1,32 @@
+uuid: 89122da2-f73d-4aeb-a443-3411eebdbd9f
+type: word-relation
+group_uuid: 89122da2-f73d-4aeb-a443-3411eebdbd9f
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 95fa2b31-a7d4-44a1-bf37-33f088288d39
+  text: 治
+  concept: ORDERLY
+  concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+  attestation:
+    text_title: 韓非子
+    line_uuid: 12f44965-e4b7-44f1-b7fe-8ffdbfa130a4
+    line_id: KR3c0005_tls_008-6a.7
+    textline: 國故不治
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 12f44965-e4b7-44f1-b7fe-8ffdbfa130a4
+    line_id: KR3c0005_tls_008-6a.7
+    textline: 國故不治
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

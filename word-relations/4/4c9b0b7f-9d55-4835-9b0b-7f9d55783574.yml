@@ -1,0 +1,32 @@
+uuid: 4c9b0b7f-9d55-4835-9b0b-7f9d55783574
+type: word-relation
+group_uuid: b8c5d7e2-64e7-580e-8bfa-3fddf94cb947
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_008-4a.10
+    textline: 求奇方道術
+    offset: 4
+    range: 2
+right:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_008-4a.10
+    textline: 求奇方道術
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T18:58:34.588+09:00'

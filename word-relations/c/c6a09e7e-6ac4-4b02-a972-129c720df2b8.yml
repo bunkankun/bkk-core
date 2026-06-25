@@ -1,0 +1,32 @@
+uuid: c6a09e7e-6ac4-4b02-a972-129c720df2b8
+type: word-relation
+group_uuid: 6f9ed81a-8264-481d-8934-201c1e244e8e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1e6b4a0b-98e7-462c-b707-cde98c119ce2
+    line_id: KR3j0009_tls_003-4a.8
+    textline: 天子布德行惠
+    offset: 5
+    range: 1
+right:
+  word_uuid: 8c408e85-b6be-4949-8870-e36a3436a4c0
+  text: 惠
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1e6b4a0b-98e7-462c-b707-cde98c119ce2
+    line_id: KR3j0009_tls_003-4a.8
+    textline: 天子布德行惠
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

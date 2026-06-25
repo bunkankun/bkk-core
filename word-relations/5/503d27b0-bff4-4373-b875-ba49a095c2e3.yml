@@ -1,0 +1,31 @@
+uuid: 503d27b0-bff4-4373-b875-ba49a095c2e3
+type: word-relation
+group_uuid: ffde48d5-4c64-42a9-b231-b57fa075dd9d
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 8527cde9-78fa-475f-8448-3d635bd3a780
+  text: 壞
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 69be7927-8b15-48b4-8fcc-96f7dee2c97c
+    line_id: KR3c0005_tls_015-41a.7
+    textline: 無大雨不壞
+    offset: 5
+    range: 1
+right:
+  word_uuid: 82ea0c5b-9966-45c8-9fa4-455cffb68d9e
+  text: 牆
+  concept: WALL
+  concept_uuid: f9ec5c79-96cc-4313-87f9-2f9975a2bbc4
+  attestation:
+    text_title: 韓非子
+    line_uuid: d99aab18-5848-4eee-a449-3e21b515dbe3
+    textline: 牆雖隙
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

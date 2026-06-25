@@ -1,0 +1,32 @@
+uuid: 34b64eeb-8ec6-409c-bd6a-adfb8ad42297
+type: word-relation
+group_uuid: 34b64eeb-8ec6-409c-bd6a-adfb8ad42297
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b62166a7-60f9-4584-b440-0d73fd958afb
+  text: 鄙
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: fcb55f17-218f-4c54-b3f8-f41e76c10c0d
+    line_id: KR1c0066_tls_003-34a.27
+    textline: 鄙夫寬
+    offset: 1
+    range: 1
+right:
+  word_uuid: fe3275dd-2bde-4dec-88e3-5aa26cd3f591
+  text: 寬
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: fcb55f17-218f-4c54-b3f8-f41e76c10c0d
+    line_id: KR1c0066_tls_003-34a.27
+    textline: 鄙夫寬
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

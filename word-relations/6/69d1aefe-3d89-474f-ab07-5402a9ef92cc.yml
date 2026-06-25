@@ -1,0 +1,32 @@
+uuid: 69d1aefe-3d89-474f-ab07-5402a9ef92cc
+type: word-relation
+group_uuid: bc65094f-90b0-47b5-9ea7-c5a1795249de
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 66deb0a2-5022-45ae-a6e0-d867231b5eb7
+  text: 收
+  concept: HARVEST
+  concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+  attestation:
+    text_title: 管子
+    line_uuid: e5fa490b-1805-4e4a-861f-e57163801481
+    line_id: KR3c0001_tls_003-21a.4
+    textline: 收聚
+    offset: 1
+    range: 1
+right:
+  word_uuid: e0322117-d2c3-4d6a-8d4f-de6045dd2cfb
+  text: 聚
+  concept: GATHER
+  concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+  attestation:
+    text_title: 管子
+    line_uuid: e5fa490b-1805-4e4a-861f-e57163801481
+    line_id: KR3c0001_tls_003-21a.4
+    textline: 收聚
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

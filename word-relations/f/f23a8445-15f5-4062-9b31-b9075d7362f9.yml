@@ -1,0 +1,18 @@
+uuid: f23a8445-15f5-4062-9b31-b9075d7362f9
+type: word-relation
+group_uuid: 7ca3ee1c-1744-5467-b131-b8556a3967e3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: dcdc7977-8ea9-4263-a70b-d50732f98ccd
+  text: 本
+  concept: MONEY
+  concept_uuid: 946d8783-29a5-45ad-b92b-ac2dc9bdf938
+right:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+source:
+  source_file: word-relations.xml

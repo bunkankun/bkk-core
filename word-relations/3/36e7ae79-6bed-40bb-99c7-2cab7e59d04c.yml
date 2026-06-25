@@ -1,0 +1,32 @@
+uuid: 36e7ae79-6bed-40bb-99c7-2cab7e59d04c
+type: word-relation
+group_uuid: e368facf-17d5-4277-84d5-e39337848804
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 62de2824-135d-47ac-87d7-635d53c064cb
+  text: 損
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+  attestation:
+    text_title: 老子
+    line_uuid: eccb5937-0854-44e7-9f05-0393b12e7552
+    line_id: KR5c0057_tls_042-1a.13
+    textline: 故物或損之而益
+    offset: 4
+    range: 1
+right:
+  word_uuid: dbbd252b-fb4b-49a8-8563-8676c58ef909
+  text: 益
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 老子
+    line_uuid: eccb5937-0854-44e7-9f05-0393b12e7552
+    line_id: KR5c0057_tls_042-1a.13
+    textline: 故物或損之而益
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

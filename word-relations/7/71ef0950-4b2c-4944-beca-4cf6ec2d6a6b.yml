@@ -1,0 +1,32 @@
+uuid: 71ef0950-4b2c-4944-beca-4cf6ec2d6a6b
+type: word-relation
+group_uuid: 71ef0950-4b2c-4944-beca-4cf6ec2d6a6b
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0681709f-304e-476a-bcd4-a18aadce7d94
+    line_id: KR3c0005_tls_011-21a.2
+    textline: 夫越雖國富兵強
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0681709f-304e-476a-bcd4-a18aadce7d94
+    line_id: KR3c0005_tls_011-21a.2
+    textline: 夫越雖國富兵強
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

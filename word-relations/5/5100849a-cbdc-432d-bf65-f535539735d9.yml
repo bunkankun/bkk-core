@@ -1,0 +1,32 @@
+uuid: 5100849a-cbdc-432d-bf65-f535539735d9
+type: word-relation
+group_uuid: 5100849a-cbdc-432d-bf65-f535539735d9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a3c480ff-5a6e-47e6-ab16-6c46e7ed2d92
+  text: 耕
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 孟子
+    line_uuid: f2107fcc-a563-43ca-894e-8e848cf7f9bd
+    line_id: KR1h0001_tls_001-20a.3
+    textline: 使不得耕耨
+    offset: 4
+    range: 1
+right:
+  word_uuid: a8a14aa1-0a10-48b2-a1f5-53aefcb5699f
+  text: 耨
+  concept: WEED
+  concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+  attestation:
+    text_title: 孟子
+    line_uuid: f2107fcc-a563-43ca-894e-8e848cf7f9bd
+    line_id: KR1h0001_tls_001-20a.3
+    textline: 使不得耕耨
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

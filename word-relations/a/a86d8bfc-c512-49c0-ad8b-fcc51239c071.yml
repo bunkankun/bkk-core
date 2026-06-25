@@ -1,0 +1,32 @@
+uuid: a86d8bfc-c512-49c0-ad8b-fcc51239c071
+type: word-relation
+group_uuid: e1f351fd-988f-5170-b0fa-84118bec4c5d
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_018-2a.5
+    textline: 不知道
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_018-2a.5
+    textline: 不知道
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-29T20:23:49.384+09:00'

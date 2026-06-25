@@ -1,0 +1,32 @@
+uuid: 742d8d6c-9f50-4ce6-ad8d-6c9f50ece6df
+type: word-relation
+group_uuid: 6b563fe5-7558-55f3-a545-08648916587b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7efb878e-7de7-40ef-9f05-5692e3d8ed9e
+  text: 譬
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.37
+    textline: 譬若斤斧椎鑿之各有所施也
+    offset: 1
+    range: 1
+right:
+  word_uuid: c5ff8fe9-d3f4-433f-ab63-2504ba021430
+  text: 若
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.37
+    textline: 譬若斤斧椎鑿之各有所施也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-23T03:31:20.806+09:00'

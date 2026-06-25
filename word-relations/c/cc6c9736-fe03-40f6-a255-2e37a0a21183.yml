@@ -1,0 +1,21 @@
+uuid: cc6c9736-fe03-40f6-a255-2e37a0a21183
+type: word-relation
+group_uuid: 2e3c94ba-50e9-573a-b37e-745b80109d3a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2e8f8c30-bd2d-430b-8011-78c7a3d5396d
+  text: 厚
+  concept: SAVOURY
+  concept_uuid: 06cbd800-7c12-4849-80bb-db3a695dab22
+right:
+  word_uuid: c585a95f-139a-4729-b6a1-306fe96c756c
+  text: 泊
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ea7337da-7239-4db4-b5f7-bfb3bbbcfbb3
+type: word-relation
+group_uuid: fbf72036-3830-4018-894b-1ec95bda7064
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 92b783f9-23cb-4f56-b1c5-fe7116b7783a
+  text: 金
+  concept: GOLD
+  concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+  attestation:
+    text_title: 論衡
+    line_uuid: 045561ef-1069-4464-a903-18f9bbb6e236
+    line_id: KR3j0080_tls_003-6a.12
+    textline: 積累金玉
+    offset: 3
+    range: 1
+right:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 論衡
+    line_uuid: 045561ef-1069-4464-a903-18f9bbb6e236
+    line_id: KR3j0080_tls_003-6a.12
+    textline: 積累金玉
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

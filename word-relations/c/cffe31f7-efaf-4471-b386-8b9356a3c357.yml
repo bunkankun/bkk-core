@@ -1,0 +1,32 @@
+uuid: cffe31f7-efaf-4471-b386-8b9356a3c357
+type: word-relation
+group_uuid: cffe31f7-efaf-4471-b386-8b9356a3c357
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 50dddd6e-df69-40b3-88e1-3dd3f6254918
+  text: 詐
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 論語
+    line_uuid: c4384a4d-f833-4633-8fff-acd83c1e36f3
+    line_id: KR1h0004_tls_009-13a.7
+    textline: 由之行詐也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1e35a438-ef6b-488d-a8f8-3753f5d26f6a
+  text: 欺
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 論語
+    line_uuid: 38fe1fec-5ecd-44f5-b518-3979d797807c
+    line_id: KR1h0004_tls_009-13a.9
+    textline: 吾誰欺
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

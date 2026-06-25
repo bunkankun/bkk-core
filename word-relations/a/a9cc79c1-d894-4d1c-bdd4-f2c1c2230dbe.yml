@@ -1,0 +1,32 @@
+uuid: a9cc79c1-d894-4d1c-bdd4-f2c1c2230dbe
+type: word-relation
+group_uuid: a9cc79c1-d894-4d1c-bdd4-f2c1c2230dbe
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a7e24041-5342-4e9f-b16f-0eb2b2858155
+  text: 溫
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: 0b23e91e-b89b-454a-8ba1-fc651fcd1291
+    line_id: KR1h0004_tls_007-45a.2
+    textline: 子溫而厲
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8199bb79-9ee2-49f6-b102-4947615154b3
+  text: 厲
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 論語
+    line_uuid: 0b23e91e-b89b-454a-8ba1-fc651fcd1291
+    line_id: KR1h0004_tls_007-45a.2
+    textline: 子溫而厲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 808c969c-0608-473c-8c96-9c0608473cf9
+type: word-relation
+group_uuid: bd68f14b-acf1-50e6-8ab6-289c57db5995
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7905be86-427d-4e09-8070-264ba67c63c1
+  text: 幼
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-558a.16
+    textline: 胡 沈之君幼而狂
+    offset: 6
+    range: 1
+right:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-558a.16
+    textline: 胡 沈之君幼而狂
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T00:02:26.32+09:00'

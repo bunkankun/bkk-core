@@ -1,0 +1,32 @@
+uuid: 41e4f4da-802b-4e83-8d9d-a060bf290a93
+type: word-relation
+group_uuid: 7660fb63-18aa-4333-b945-97b2d31a7c53
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 孟子
+    line_uuid: 215fd4ce-4c7c-4b91-b5b4-7db718aaa2bc
+    line_id: KR1h0001_tls_010-48a.25
+    textline: 君子所履
+    offset: 1
+    range: 2
+right:
+  word_uuid: 8f5c9b8d-3099-4e6c-be13-c30617fefcf7
+  text: 小人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 孟子
+    line_uuid: d20a0464-276a-46d8-9483-8c5e366a1f95
+    line_id: KR1h0001_tls_010-49a.1
+    textline: 小人所視
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

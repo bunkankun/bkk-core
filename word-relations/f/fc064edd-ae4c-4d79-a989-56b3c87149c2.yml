@@ -1,0 +1,32 @@
+uuid: fc064edd-ae4c-4d79-a989-56b3c87149c2
+type: word-relation
+group_uuid: fc064edd-ae4c-4d79-a989-56b3c87149c2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d57426f1-b772-482c-a8c0-de2ca1457d3c
+  text: 由
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論語
+    line_uuid: 050e2ad6-9e8a-4a56-92a2-17feb79f3e6c
+    line_id: KR1h0004_tls_001-12a.7
+    textline: 小大由之
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 67ff208e-b581-419f-ab6b-5e5d5eb6e68c
+    line_id: KR1h0004_tls_001-12a.8
+    textline: 有所不行
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

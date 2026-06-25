@@ -1,0 +1,30 @@
+uuid: 41ae1bc4-3cc8-4403-b3f1-af7db4205d0f
+type: word-relation
+group_uuid: 41ae1bc4-3cc8-4403-b3f1-af7db4205d0f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 睡虎地
+    line_uuid: 28f9e442-4feb-402b-bb44-05504c81605a
+    textline: 非以官祿決助治
+    offset: 3
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 睡虎地
+    line_uuid: 28f9e442-4feb-402b-bb44-05504c81605a
+    textline: 非以官祿決助治
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 51a07ee9-e020-4099-a2dd-41b2b1d212c9
+type: word-relation
+group_uuid: dbfc0ae4-838a-4e3d-9ac8-824137b88619
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6bb2b1db-9366-412a-af8d-53862a82ca7a
+    line_id: KR2e0003_tls_229-2a.27
+    textline: 吾請資先生厚用”
+    offset: 1
+    range: 1
+right:
+  word_uuid: fb8a2321-fec9-4550-8b1e-045ff68192f9
+  text: 先生
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 戰國策
+    line_uuid: 5ffceff2-02a2-4ec1-9483-4f14cc8e0d4e
+    line_id: KR2e0003_tls_229-2a.26
+    textline: 先生明日復來
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

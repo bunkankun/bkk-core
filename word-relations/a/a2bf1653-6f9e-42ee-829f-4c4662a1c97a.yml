@@ -1,0 +1,32 @@
+uuid: a2bf1653-6f9e-42ee-829f-4c4662a1c97a
+type: word-relation
+group_uuid: a2bf1653-6f9e-42ee-829f-4c4662a1c97a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aaa16889-15bc-40c4-bc39-52f9ec6e0a3f
+  text: 逮
+  concept: WHEN
+  concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+  attestation:
+    text_title: 淮南子
+    line_uuid: c276fe91-5ccf-4fac-b187-7a0c49c91b42
+    line_id: KR3j0010_tls_006-14a.2
+    textline: 逮至夏桀之時
+    offset: 1
+    range: 1
+right:
+  word_uuid: d4c3a071-8933-412c-9df2-b47ba21b4408
+  text: 至
+  concept: WHEN
+  concept_uuid: 26f8690a-dab8-4750-afd5-f490ec3c5418
+  attestation:
+    text_title: 淮南子
+    line_uuid: c276fe91-5ccf-4fac-b187-7a0c49c91b42
+    line_id: KR3j0010_tls_006-14a.2
+    textline: 逮至夏桀之時
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

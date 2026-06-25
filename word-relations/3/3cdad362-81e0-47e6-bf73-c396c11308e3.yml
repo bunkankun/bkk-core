@@ -1,0 +1,32 @@
+uuid: 3cdad362-81e0-47e6-bf73-c396c11308e3
+type: word-relation
+group_uuid: 3cdad362-81e0-47e6-bf73-c396c11308e3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f0210b75-1717-4d4a-b182-3390cab68f75
+  text: 嚴
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 479fc81b-dc4e-4246-be44-f0dd1c9a0e47
+    line_id: KR3a0006_tls_002-5a.11
+    textline: 刑既嚴峻矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 28b9f122-87f4-4f1a-8c77-1e31ca9f6403
+  text: 峻
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 479fc81b-dc4e-4246-be44-f0dd1c9a0e47
+    line_id: KR3a0006_tls_002-5a.11
+    textline: 刑既嚴峻矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: fa6c2624-d3c1-4c7e-b0f9-09640d22ad62
+type: word-relation
+group_uuid: bdb31b26-dc85-58b5-9e73-5d7e783eeec4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e5701c83-b013-4777-baef-c75396df2641
+  text: 祥
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+right:
+  word_uuid: 6502dc34-657a-48eb-aa2b-d8742ba14777
+  text: 妖祅
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

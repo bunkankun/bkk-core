@@ -1,0 +1,32 @@
+uuid: f3666695-a3ef-47da-ae66-e83dfac3da2d
+type: word-relation
+group_uuid: f3666695-a3ef-47da-ae66-e83dfac3da2d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5133dfb0-4a6a-4910-912b-96e27a77fb65
+  text: 禽
+  concept: BIRD
+  concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+  attestation:
+    text_title: 孟子
+    line_uuid: 4ddb95a9-10ea-474d-8124-7c2a9e27906d
+    line_id: KR1h0001_tls_001-40a.6
+    textline: 君子之於禽獸也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 孟子
+    line_uuid: 4ddb95a9-10ea-474d-8124-7c2a9e27906d
+    line_id: KR1h0001_tls_001-40a.6
+    textline: 君子之於禽獸也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

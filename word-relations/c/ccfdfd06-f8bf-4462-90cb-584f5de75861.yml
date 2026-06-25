@@ -1,0 +1,18 @@
+uuid: ccfdfd06-f8bf-4462-90cb-584f5de75861
+type: word-relation
+group_uuid: a0ac3f54-5a5f-5b9c-aec3-1c90e39b7294
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 90a6eed7-64e2-4731-a973-e658fa0e5076
+  text: 決
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+right:
+  word_uuid: 197b19c4-fbde-4e27-affc-c6b626c29a68
+  text: 解
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+source:
+  source_file: word-relations.xml

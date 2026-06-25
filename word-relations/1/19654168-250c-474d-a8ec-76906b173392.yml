@@ -1,0 +1,35 @@
+uuid: 19654168-250c-474d-a8ec-76906b173392
+type: word-relation
+group_uuid: 944a53f3-ba7f-4fc9-b37e-92211b0e0427
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 論語
+    line_uuid: d14c0e9b-0e4b-4118-b0a0-e6c55ff42e4d
+    line_id: KR1h0004_tls_002-19a.5
+    textline: 慎言其餘
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 5c67c480-1d1a-4598-a579-ff4fed7d8088
+    line_id: KR1h0004_tls_002-19a.11
+    textline: 行寡悔
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

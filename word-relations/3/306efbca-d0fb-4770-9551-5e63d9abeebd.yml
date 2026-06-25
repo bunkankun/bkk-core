@@ -1,0 +1,32 @@
+uuid: 306efbca-d0fb-4770-9551-5e63d9abeebd
+type: word-relation
+group_uuid: 306efbca-d0fb-4770-9551-5e63d9abeebd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 戰國策
+    line_uuid: 8a556e2f-f251-4504-ba8b-dca8c39b5c4f
+    line_id: KR2e0003_tls_058-2a.38
+    textline: 今楚王明主也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5000a604-9042-4595-b410-64c5ab0e54e3
+  text: 賢
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 戰國策
+    line_uuid: 2687cdd7-0f00-4834-9a93-0bb2e57244cb
+    line_id: KR2e0003_tls_058-2a.39
+    textline: 而昭陽賢相也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

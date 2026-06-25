@@ -1,0 +1,21 @@
+uuid: d9726240-1b24-4fd8-b45c-6e59cc117402
+type: word-relation
+group_uuid: fc5552b8-3f4f-5eab-a82a-305a63a0f35f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 190b64c2-0b8d-4888-9d49-25c5c39e1b78
+  text: 稼
+  concept: HARVEST
+  concept_uuid: 7710d974-8084-4ac7-8876-87c3150375df
+right:
+  word_uuid: d3e70e87-ddae-46a6-98e2-1039213c7bf0
+  text: 穀谷
+  concept: GRAIN
+  concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

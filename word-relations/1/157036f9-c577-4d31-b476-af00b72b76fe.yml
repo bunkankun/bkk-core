@@ -1,0 +1,32 @@
+uuid: 157036f9-c577-4d31-b476-af00b72b76fe
+type: word-relation
+group_uuid: 157036f9-c577-4d31-b476-af00b72b76fe
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1ba2c594-c52d-4236-9850-0bcdf67dba66
+  text: 廢
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 韓非子
+    line_uuid: de7ebe12-3990-487f-975b-ff70cb021ea4
+    line_id: KR3c0005_tls_006-14a.3
+    textline: 則群臣廢法
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: de7ebe12-3990-487f-975b-ff70cb021ea4
+    line_id: KR3c0005_tls_006-14a.3
+    textline: 則群臣廢法
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

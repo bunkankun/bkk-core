@@ -1,0 +1,32 @@
+uuid: 0cf63f07-8977-4005-b2a7-9bd79e232461
+type: word-relation
+group_uuid: 0cf63f07-8977-4005-b2a7-9bd79e232461
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2e399ca-3c6f-43dc-aef4-2ff09c66142e
+    line_id: KR3c0005_tls_015-21a.7
+    textline: 而輕攻伐者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2e399ca-3c6f-43dc-aef4-2ff09c66142e
+    line_id: KR3c0005_tls_015-21a.7
+    textline: 而輕攻伐者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

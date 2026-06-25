@@ -1,0 +1,32 @@
+uuid: cb1f9760-2f86-4363-a774-c5fd53a06e06
+type: word-relation
+group_uuid: cb1f9760-2f86-4363-a774-c5fd53a06e06
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6129a228-a3a1-4cfb-b192-bb779f563263
+  text: 築
+  concept: BUILD
+  concept_uuid: 6370996e-e211-4d0c-a84a-194e5d7093cb
+  attestation:
+    text_title: 孟子
+    line_uuid: e7762b43-dc86-415f-95dd-65748806aaf9
+    line_id: KR1h0001_tls_002-61a.7
+    textline: 築斯城也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 697335b2-8384-4d98-933e-949e33347409
+  text: 城
+  concept: CITY WALL
+  concept_uuid: 097ce0e4-819b-489f-b034-a9d4906938e1
+  attestation:
+    text_title: 孟子
+    line_uuid: e7762b43-dc86-415f-95dd-65748806aaf9
+    line_id: KR1h0001_tls_002-61a.7
+    textline: 築斯城也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

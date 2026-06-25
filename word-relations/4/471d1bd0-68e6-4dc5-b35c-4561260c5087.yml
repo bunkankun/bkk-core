@@ -1,0 +1,21 @@
+uuid: 471d1bd0-68e6-4dc5-b35c-4561260c5087
+type: word-relation
+group_uuid: a0733b93-d19c-5b56-b0ea-6aea35e331fc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: eb8a1deb-59bf-4227-bff3-9478eac83aec
+  text: 封
+  concept: APPOINT
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+right:
+  word_uuid: a4f2f22d-c6a8-4243-8170-7c80a7742c67
+  text: 拜
+  concept: APPOINT
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

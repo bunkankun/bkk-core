@@ -1,0 +1,32 @@
+uuid: 17f91621-4804-4ef5-8b87-123a42617c0c
+type: word-relation
+group_uuid: 17f91621-4804-4ef5-8b87-123a42617c0c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e513711f-3b33-4403-a122-50bf3a60ce7b
+  text: 遊
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 韓非子
+    line_uuid: f429534c-3265-477f-85bd-d9a32a43bfd6
+    line_id: KR3c0005_tls_002-34a.7
+    textline: 遊觀不樂
+    offset: 1
+    range: 1
+right:
+  word_uuid: 80dd1c79-5bbd-4df7-a18b-a3e2ece0f942
+  text: 觀
+  concept: SURVEY
+  concept_uuid: 40ce2fe2-1e89-48ec-9381-f56af49ae111
+  attestation:
+    text_title: 韓非子
+    line_uuid: f429534c-3265-477f-85bd-d9a32a43bfd6
+    line_id: KR3c0005_tls_002-34a.7
+    textline: 遊觀不樂
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

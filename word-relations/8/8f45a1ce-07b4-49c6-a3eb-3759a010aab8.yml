@@ -1,0 +1,32 @@
+uuid: 8f45a1ce-07b4-49c6-a3eb-3759a010aab8
+type: word-relation
+group_uuid: 8f45a1ce-07b4-49c6-a3eb-3759a010aab8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7f62049c-1106-4519-a6bb-2dd26b97aec8
+    line_id: KR3c0005_tls_006-23a.2
+    textline: 今夫輕爵祿
+    offset: 4
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7f62049c-1106-4519-a6bb-2dd26b97aec8
+    line_id: KR3c0005_tls_006-23a.2
+    textline: 今夫輕爵祿
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: f3ccd6eb-a5cb-4ef2-b858-593f3f90393c
+type: word-relation
+group_uuid: f3ccd6eb-a5cb-4ef2-b858-593f3f90393c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 12ecf59e-a35c-492d-8666-83e8ed287140
+  text: 寵
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 老子
+    line_uuid: 74a1765c-3c13-4446-933a-ca8964fa69ed
+    line_id: KR5c0057_tls_013-1a.8
+    textline: 是謂寵辱若驚
+    offset: 3
+    range: 1
+right:
+  word_uuid: 49f734c6-8972-48e8-9fce-a482c02a85cc
+  text: 辱
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+  attestation:
+    text_title: 老子
+    line_uuid: 74a1765c-3c13-4446-933a-ca8964fa69ed
+    line_id: KR5c0057_tls_013-1a.8
+    textline: 是謂寵辱若驚
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

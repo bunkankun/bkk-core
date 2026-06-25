@@ -1,0 +1,32 @@
+uuid: df3821c5-5e1b-4785-b821-c55e1bf7855b
+type: word-relation
+group_uuid: 9a1f82f9-a9fe-5980-9178-9f8366cd2489
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eb6c1af1-2eba-490b-8ee9-fc4a728df81d
+  text: 暑
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.4
+    textline: 夏日則不勝暑熱蟁䖟
+    offset: 6
+    range: 1
+right:
+  word_uuid: caf98739-222c-4786-b1b1-644b04a17dbe
+  text: 熱
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.4
+    textline: 夏日則不勝暑熱蟁䖟
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:03:06.799+09:00'

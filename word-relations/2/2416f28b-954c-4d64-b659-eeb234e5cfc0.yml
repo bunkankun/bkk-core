@@ -1,0 +1,32 @@
+uuid: 2416f28b-954c-4d64-b659-eeb234e5cfc0
+type: word-relation
+group_uuid: 2416f28b-954c-4d64-b659-eeb234e5cfc0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a09daeff-e525-49a2-bf6f-8c5ea9227ecc
+  text: 辜
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 29d2fba8-e229-4eb3-bed0-c06e2af41540
+    line_id: KR3c0005_tls_015-19a.5
+    textline: 殺戮不辜者
+    offset: 4
+    range: 1
+right:
+  word_uuid: d608d387-682c-410d-8dbe-7314d5603a2b
+  text: 不
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 29d2fba8-e229-4eb3-bed0-c06e2af41540
+    line_id: KR3c0005_tls_015-19a.5
+    textline: 殺戮不辜者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

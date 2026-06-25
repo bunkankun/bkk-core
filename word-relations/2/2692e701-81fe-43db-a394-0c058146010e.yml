@@ -1,0 +1,32 @@
+uuid: 2692e701-81fe-43db-a394-0c058146010e
+type: word-relation
+group_uuid: 2692e701-81fe-43db-a394-0c058146010e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 管子
+    line_uuid: 2e94c70b-5aa1-4982-a1b3-25700b7a3031
+    line_id: KR3c0001_tls_001-2a.9
+    textline: 則君令行
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 管子
+    line_uuid: 2e94c70b-5aa1-4982-a1b3-25700b7a3031
+    line_id: KR3c0001_tls_001-2a.9
+    textline: 則君令行
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

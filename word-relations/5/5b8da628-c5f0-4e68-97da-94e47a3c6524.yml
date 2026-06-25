@@ -1,0 +1,30 @@
+uuid: 5b8da628-c5f0-4e68-97da-94e47a3c6524
+type: word-relation
+group_uuid: d1b93ca5-bec9-4ab0-afe7-41ed43cb263c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 23a8db88-af85-4363-8137-aeff54285419
+  text: 國家
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 墨子
+    line_uuid: f306e290-fbba-41d9-9a6d-0f7daf94987e
+    textline: 逮至其國家之亂
+    offset: 4
+    range: 2
+right:
+  word_uuid: 27a8f4b4-3852-4322-b902-52c0f1497fcb
+  text: 社稷
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 墨子
+    line_uuid: d80030a2-97ba-485c-952d-8aeebdd01113
+    textline: 社稷之危
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

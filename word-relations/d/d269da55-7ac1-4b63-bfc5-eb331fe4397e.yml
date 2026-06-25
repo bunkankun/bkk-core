@@ -1,0 +1,21 @@
+uuid: d269da55-7ac1-4b63-bfc5-eb331fe4397e
+type: word-relation
+group_uuid: 031c9096-7c40-543b-8ff6-4e7a285bab27
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2de1569e-6779-4fa5-b7f0-c183180d595c
+  text: 避辟
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+right:
+  word_uuid: 3ce1a114-3a92-4269-8856-d899a8178458
+  text: 觸
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 1506672c-face-4caa-93ac-b538c5182291
+type: word-relation
+group_uuid: eaa73045-2b02-49b3-a7f8-598ac5aef70d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 06ce3ac6-ff2f-4d41-baef-3eaf5f90f173
+  text: 燒
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 管子
+    line_uuid: 9452d759-33fc-4c45-bd76-0397d31d1049
+    line_id: KR3c0001_tls_023-34a.5
+    textline: 「燒山林
+    offset: 2
+    range: 1
+right:
+  word_uuid: 69c817ac-9f51-4157-a6f0-8e70ebf0a1da
+  text: 焚
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 管子
+    line_uuid: d30e6d48-a2a0-45c3-8c89-4efb7bb0fca5
+    line_id: KR3c0001_tls_023-34a.7
+    textline: 焚沛澤
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

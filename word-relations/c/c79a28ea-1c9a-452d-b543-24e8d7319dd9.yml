@@ -1,0 +1,18 @@
+uuid: c79a28ea-1c9a-452d-b543-24e8d7319dd9
+type: word-relation
+group_uuid: 6b2e7c89-1183-5d67-ac6f-1cea5cbde0e1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 790af03c-15f1-4acf-9f71-4dad8b611e22
+  text: 爰
+  concept: THEN
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+right:
+  word_uuid: 040dad9c-df21-4ff9-8bae-08e007516ff9
+  text: 方
+  concept: THEN
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+source:
+  source_file: word-relations.xml

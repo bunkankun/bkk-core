@@ -1,0 +1,30 @@
+uuid: c0e33f90-1bd8-487d-8bf7-877e0f814e61
+type: word-relation
+group_uuid: c0e33f90-1bd8-487d-8bf7-877e0f814e61
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b49bcdb1-28d6-48ac-9986-23244409aa36
+  text: 殃
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 孟子
+    line_uuid: 83c20b0d-7152-4411-beec-0c0708786da2
+    textline: 不取必有天殃
+    offset: 7
+    range: 1
+right:
+  word_uuid: 0c50ea4e-6039-4dd8-be09-c6c2511b689d
+  text: 天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 孟子
+    line_uuid: 83c20b0d-7152-4411-beec-0c0708786da2
+    textline: 不取必有天殃
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

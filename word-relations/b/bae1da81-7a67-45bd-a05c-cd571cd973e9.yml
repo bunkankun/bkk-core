@@ -1,0 +1,30 @@
+uuid: bae1da81-7a67-45bd-a05c-cd571cd973e9
+type: word-relation
+group_uuid: bae1da81-7a67-45bd-a05c-cd571cd973e9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c5ef4469-8908-4e7b-9b38-e101f20184dc
+  text: 年
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 楚辭
+    line_uuid: 0cb0b8a2-97a0-41dc-9de8-37031ea60a13
+    textline: 惜年齒之未央
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7aa673c4-4e92-4bdc-8f9e-c0e1f68bbc3b
+  text: 齒
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 楚辭
+    line_uuid: 0cb0b8a2-97a0-41dc-9de8-37031ea60a13
+    textline: 惜年齒之未央
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

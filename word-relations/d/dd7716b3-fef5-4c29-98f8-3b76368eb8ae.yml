@@ -1,0 +1,32 @@
+uuid: dd7716b3-fef5-4c29-98f8-3b76368eb8ae
+type: word-relation
+group_uuid: dd7716b3-fef5-4c29-98f8-3b76368eb8ae
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 157e574c-2f01-48c4-bb99-e5715e495295
+  text: 啄
+  concept: BITE
+  concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+  attestation:
+    text_title: 論衡
+    line_uuid: 85eb2720-ca07-46d3-9cd3-6ccd25dd1f59
+    line_id: KR3j0080_tls_019-64a.4
+    textline: 有葉實可啄食者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論衡
+    line_uuid: 85eb2720-ca07-46d3-9cd3-6ccd25dd1f59
+    line_id: KR3j0080_tls_019-64a.4
+    textline: 有葉實可啄食者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

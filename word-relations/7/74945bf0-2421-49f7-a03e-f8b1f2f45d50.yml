@@ -1,0 +1,35 @@
+uuid: 74945bf0-2421-49f7-a03e-f8b1f2f45d50
+type: word-relation
+group_uuid: 702f2ba2-31b1-44cc-8289-1cc4092562bf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 547f6e92-68b0-4e6a-be39-d4b2d554d33f
+  text: 逆
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 83f45c7f-7778-44ad-ac48-d2c6fdef1286
+    line_id: KR3c0005_tls_016-8a.7
+    textline: 逆者必有禍
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2d552e26-0869-442f-9d04-9d2f30d21c70
+  text: 順
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 韓非子
+    line_uuid: a85830c1-c508-43aa-ab8b-55c57776ee41
+    line_id: KR3c0005_tls_016-8a.8
+    textline: 而順者必有福
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

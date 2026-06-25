@@ -1,0 +1,18 @@
+uuid: e82192a6-bd94-4a3c-ad84-4089a2b2242b
+type: word-relation
+group_uuid: 8a994c14-dc86-55bb-8ea3-26bd537f60de
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b5b750c9-ca3d-4e91-a2b7-6a3e7ce0aca2
+  text: 當
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+right:
+  word_uuid: 8f192df9-ba7d-47a0-a111-10a59569fbae
+  text: 向
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e946c823-5657-4dd2-9f21-4c17da418908
+type: word-relation
+group_uuid: a33fdb8d-8aa1-467d-be5e-147cc2c6c048
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3fc0016a-84f8-4f54-a791-790a0cacacd6
+  text: 本
+  concept: BASIS
+  concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+  attestation:
+    text_title: 禮記
+    line_uuid: 0d9d4ff7-529a-4f02-afce-d3f48d7e86a9
+    line_id: KR1d0052_tls_043-1a.38
+    textline: 其本亂而末治者否矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4806f71c-ce91-465b-a1c3-e5b03f884118
+  text: 末
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 禮記
+    line_uuid: 0d9d4ff7-529a-4f02-afce-d3f48d7e86a9
+    line_id: KR1d0052_tls_043-1a.38
+    textline: 其本亂而末治者否矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

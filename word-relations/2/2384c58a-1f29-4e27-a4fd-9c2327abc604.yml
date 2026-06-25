@@ -1,0 +1,21 @@
+uuid: 2384c58a-1f29-4e27-a4fd-9c2327abc604
+type: word-relation
+group_uuid: 9dff7101-31ac-55e1-abf8-0b4cdeb8bbd0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5b597070-5573-4f53-8529-6e23f27bf722
+  text: 豐
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+right:
+  word_uuid: 2618fe62-eab8-4ed2-8ca6-4e7f454d1e46
+  text: 茂
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

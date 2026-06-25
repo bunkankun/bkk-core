@@ -1,0 +1,21 @@
+uuid: c73effaf-3e4d-424e-b20d-a93f543bd787
+type: word-relation
+group_uuid: f5a25dde-9a1c-5776-a7b0-f7541acab1dc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 饑
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+right:
+  word_uuid: ff1d999b-a633-42fa-80ac-d74a0f0bdc39
+  text: 耗
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: de37a7a9-798d-455e-b7a7-a9798d455e76
+type: word-relation
+group_uuid: 8843346a-6af3-55bb-bd6c-b0411107a37e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a43babe1-f3ef-48ee-9974-aa3433a7c7b0
+  text: 弊
+  concept: TATTERED
+  concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_022-1a.6
+    textline: 弊則新
+    offset: 1
+    range: 1
+right:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_022-1a.6
+    textline: 弊則新
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-01T02:28:55.521+09:00'

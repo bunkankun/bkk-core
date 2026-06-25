@@ -1,0 +1,32 @@
+uuid: 43af42ce-e806-4fab-901d-20d970b87350
+type: word-relation
+group_uuid: 43af42ce-e806-4fab-901d-20d970b87350
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 7b0259a0-3128-4ffb-8bfe-af07668baebc
+  text: 任
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1a73a68f-7b64-4f06-9e67-e5b1fce5a281
+    line_id: KR3c0005_tls_006-32a.3
+    textline: 上之任勢使然也
+    offset: 3
+    range: 1
+right:
+  word_uuid: a8b8c49b-26c2-41ab-ad99-3cf50aaf666f
+  text: 勢
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1a73a68f-7b64-4f06-9e67-e5b1fce5a281
+    line_id: KR3c0005_tls_006-32a.3
+    textline: 上之任勢使然也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

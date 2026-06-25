@@ -1,0 +1,32 @@
+uuid: 79c76559-70d9-4630-bd56-311a84477c36
+type: word-relation
+group_uuid: 79c76559-70d9-4630-bd56-311a84477c36
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6e921dfc-61f2-4c09-bff0-85645aebce17
+  text: 我
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 0a9d325e-aaf0-498d-8d22-eed0c21c6a2b
+    line_id: KR1e0001_tls_006-338a.5
+    textline: 我能往
+    offset: 1
+    range: 1
+right:
+  word_uuid: 291bf2da-1c20-4e52-86ec-efb7c62a5adc
+  text: 寇
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4d799e89-82ba-451f-ab07-c0b25fd573c0
+    line_id: KR1e0001_tls_006-338a.6
+    textline: 寇亦能往
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 1409b9ac-403c-428a-a598-b6628b71dcc3
+type: word-relation
+group_uuid: 17cd6eac-e44c-4538-81e7-42954f2cd794
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 95b2acbb-cadb-457a-8914-092c6a730a41
+    textline: 非良篤脩身行之君子
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 95b2acbb-cadb-457a-8914-092c6a730a41
+    textline: 非良篤脩身行之君子
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

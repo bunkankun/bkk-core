@@ -1,0 +1,32 @@
+uuid: 168bb188-465e-4ce9-bd50-f0f12bdf6583
+type: word-relation
+group_uuid: 168bb188-465e-4ce9-bd50-f0f12bdf6583
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e755ab91-a02f-46a2-9c4f-570c696a5a85
+  text: 憂
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+  attestation:
+    text_title: 管子
+    line_uuid: 58b01510-0a85-45bd-9a78-972505ca4d0e
+    line_id: KR3c0001_tls_001-10a.6
+    textline: 民惡憂勞
+    offset: 3
+    range: 1
+right:
+  word_uuid: f5e9fc11-f6f5-48a8-b54a-4d481bbff58e
+  text: 勞
+  concept: TIRED
+  concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+  attestation:
+    text_title: 管子
+    line_uuid: 58b01510-0a85-45bd-9a78-972505ca4d0e
+    line_id: KR3c0001_tls_001-10a.6
+    textline: 民惡憂勞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

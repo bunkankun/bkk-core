@@ -1,0 +1,30 @@
+uuid: 137a2be1-4a7e-4ab1-affb-591660249d85
+type: word-relation
+group_uuid: 137a2be1-4a7e-4ab1-affb-591660249d85
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 737c1f58-e209-44c8-89ff-9eda3fdc60ec
+  text: 籌
+  concept: STICK
+  concept_uuid: c8e47163-7e21-4e28-b56f-fb2b57b9dda1
+  attestation:
+    text_title: 老子
+    line_uuid: 5ef18472-223c-41a8-b116-09b6cbceb14c
+    textline: 善數不用籌策
+    offset: 5
+    range: 1
+right:
+  word_uuid: 31192d80-250f-4246-8fc6-686cc31a2a3a
+  text: 策
+  concept: DOCUMENT
+  concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+  attestation:
+    text_title: 老子
+    line_uuid: 5ef18472-223c-41a8-b116-09b6cbceb14c
+    textline: 善數不用籌策
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

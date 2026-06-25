@@ -1,0 +1,32 @@
+uuid: f29c8fb3-aece-47f8-ad61-7e0529885be5
+type: word-relation
+group_uuid: 3bba09a4-1308-402a-a3ec-d82872fd3f70
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 646b0bfc-62ee-43a7-bbad-58814a966f55
+  text: 效
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: 135a48c2-ccbe-410a-b669-5b5c86fb3372
+    line_id: KR3j0080_tls_032-11a.72
+    textline: 既以火為效
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9f102487-1f81-404a-a918-320c1052ebd9
+  text: 驗
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: 56021488-d785-40de-bec5-82550d80ac30
+    line_id: KR3j0080_tls_032-11a.73
+    textline: 又以星為驗
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

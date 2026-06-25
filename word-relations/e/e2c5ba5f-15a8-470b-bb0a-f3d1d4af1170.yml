@@ -1,0 +1,34 @@
+uuid: e2c5ba5f-15a8-470b-bb0a-f3d1d4af1170
+type: word-relation
+group_uuid: e2c5ba5f-15a8-470b-bb0a-f3d1d4af1170
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 孟子
+    line_uuid: 8e110019-ce46-4beb-a480-d0f9c574b07f
+    textline: 「王何必曰利
+    offset: 6
+    range: 1
+right:
+  word_uuid: 9623a74b-1aa5-4a19-b945-930005e9490e
+  text: 仁義
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 孟子
+    line_uuid: 57a28d1a-a20e-4d96-8950-ef291e927868
+    line_id: KR1h0001_tls_001-2a.4
+    textline: 亦有仁義而已矣
+    offset: 3
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cf239e8d-af88-4018-a3d1-227cef9a442e
+type: word-relation
+group_uuid: cf239e8d-af88-4018-a3d1-227cef9a442e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 221a3d02-b26b-4a58-85c5-1dc4d4f444af
+  text: 乾
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 管子
+    line_uuid: 4fb5e409-2514-4c09-aac9-28ad8490f986
+    line_id: KR3c0001_tls_018-67a.6
+    textline: 天地乾燥
+    offset: 3
+    range: 1
+right:
+  word_uuid: 687b63b0-8a69-4f10-a6d6-a1228fd85147
+  text: 燥
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 管子
+    line_uuid: 4fb5e409-2514-4c09-aac9-28ad8490f986
+    line_id: KR3c0001_tls_018-67a.6
+    textline: 天地乾燥
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

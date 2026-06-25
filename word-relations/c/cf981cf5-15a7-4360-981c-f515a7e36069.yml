@@ -1,0 +1,32 @@
+uuid: cf981cf5-15a7-4360-981c-f515a7e36069
+type: word-relation
+group_uuid: b2bd1917-5bc7-55f3-b5c5-5e9b9d5f6d67
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c182cc11-14f5-4527-9d4c-1a5122dcbc14
+  text: 人中
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_003-0550c.67
+    textline: 人中天上雖受少樂
+    offset: 1
+    range: 2
+right:
+  word_uuid: b860a158-a2b8-4d35-a0a1-58a2b8bd35bc
+  text: 天上
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_003-0550c.67
+    textline: 人中天上雖受少樂
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-19T17:20:52.742+09:00'

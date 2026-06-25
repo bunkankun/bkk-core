@@ -1,0 +1,32 @@
+uuid: 87d90d4b-bdc7-4c64-8b06-f3037e2a1863
+type: word-relation
+group_uuid: 87d90d4b-bdc7-4c64-8b06-f3037e2a1863
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dca9f19b-8414-4b65-8be9-5d4473cab92b
+  text: 弟子
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 論語
+    line_uuid: 8704f8fd-973a-43c4-8700-4bfd0c2697b9
+    line_id: KR1h0004_tls_002-9a.6
+    textline: 弟子服其勞
+    offset: 1
+    range: 2
+right:
+  word_uuid: e1b727ab-b070-4e04-a8ab-62169a8e7fd9
+  text: 先生
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 論語
+    line_uuid: 2602bb88-3da3-474a-92ca-e7c711b0cd21
+    line_id: KR1h0004_tls_002-9a.8
+    textline: 先生饌
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

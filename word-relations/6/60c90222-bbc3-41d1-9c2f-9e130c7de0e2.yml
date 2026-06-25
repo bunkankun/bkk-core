@@ -1,0 +1,30 @@
+uuid: 60c90222-bbc3-41d1-9c2f-9e130c7de0e2
+type: word-relation
+group_uuid: 60c90222-bbc3-41d1-9c2f-9e130c7de0e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bdb60b9b-a34a-487c-9113-b5510082d111
+  text: 毛
+  concept: HAIR
+  concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5cd37181-2551-4ac7-a972-dab024b680b9
+    textline: 皮革齒牙骨角毛羽不登於器
+    offset: 10
+    range: 1
+right:
+  word_uuid: 67b2daa8-1426-4243-91d1-1760704a6abf
+  text: 羽
+  concept: FEATHER
+  concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5cd37181-2551-4ac7-a972-dab024b680b9
+    textline: 皮革齒牙骨角毛羽不登於器
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

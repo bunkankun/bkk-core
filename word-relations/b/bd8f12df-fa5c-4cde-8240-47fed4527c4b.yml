@@ -1,0 +1,23 @@
+uuid: bd8f12df-fa5c-4cde-8240-47fed4527c4b
+type: word-relation
+group_uuid: a786338e-f2ed-5f7e-b6d0-5a372ce47abd
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 37450e32-e41f-47fd-9539-74dbec407805
+  text: 授受
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+right:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '298'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

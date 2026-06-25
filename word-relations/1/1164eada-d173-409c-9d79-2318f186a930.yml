@@ -1,0 +1,32 @@
+uuid: 1164eada-d173-409c-9d79-2318f186a930
+type: word-relation
+group_uuid: bfaf8a21-d1b0-4536-ae06-15676823b996
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 826a1579-ef3e-4410-8b17-edf76e7d8b19
+  text: 飲
+  concept: DRINK
+  concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+  attestation:
+    text_title: 韓非子
+    line_uuid: dd2b134d-08c4-4a56-931b-fee39fd8b77b
+    line_id: KR3c0005_tls_002-34a.6
+    textline: 秦王飲食不甘
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 韓非子
+    line_uuid: dd2b134d-08c4-4a56-931b-fee39fd8b77b
+    line_id: KR3c0005_tls_002-34a.6
+    textline: 秦王飲食不甘
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

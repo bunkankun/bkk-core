@@ -1,0 +1,32 @@
+uuid: 15d6b82e-8533-40ca-96b8-2e853330ca6c
+type: word-relation
+group_uuid: fa7486fd-e032-537c-8954-d243def97f66
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 64e690e6-ecef-47dc-a291-6fab410f5489
+  text: 舟
+  concept: SHIP
+  concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.30
+    textline: 以為舟航
+    offset: 3
+    range: 1
+right:
+  word_uuid: 712e26dc-8ac4-41f5-8980-7cb7575a8773
+  text: 航
+  concept: SHIP
+  concept_uuid: 2065bf8e-6381-482f-9877-799fcb54ca4e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.30
+    textline: 以為舟航
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:22:57.93+09:00'

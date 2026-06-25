@@ -1,0 +1,21 @@
+uuid: 0640c9b2-ebf7-4a0a-8c22-f4d8dd68e306
+type: word-relation
+group_uuid: 5c91995a-51eb-5961-b3e6-03312d8f23c0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4a3a3f40-3f47-4a81-977e-18d83c167a8e
+  text: 即
+  concept: COPULA
+  concept_uuid: 418ea48e-b91f-4303-8076-be3ca87f9da5
+right:
+  word_uuid: 6c24ad72-fe13-45ac-b89c-c56e8d8cf492
+  text: 非
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 15fad5d9-4c1e-4c9d-bad5-d94c1e9c9d5d
+type: word-relation
+group_uuid: 91e34447-6abd-5e05-991c-820c751fb10e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_005-45a.11
+    textline: 或勞心
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_005-45a.12
+    textline: 或勞力
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T19:22:43.61+09:00'

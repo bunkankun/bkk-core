@@ -1,0 +1,32 @@
+uuid: 9a78a5e2-03ed-4964-88c3-c6f45cdefdd7
+type: word-relation
+group_uuid: 9a78a5e2-03ed-4964-88c3-c6f45cdefdd7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 53136896-b4a1-4c4e-b37b-3ef5c8c714bb
+  text: 木
+  concept: TREE
+  concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+  attestation:
+    text_title: 韓非子
+    line_uuid: d378c430-b526-4a47-8bd0-8f36f36060a4
+    line_id: KR3c0005_tls_008-44a.9
+    textline: 木乃不神
+    offset: 1
+    range: 1
+right:
+  word_uuid: fc18723f-79cd-4e12-b5c8-bfe91d8c6522
+  text: 根
+  concept: ROOT
+  concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+  attestation:
+    text_title: 韓非子
+    line_uuid: eba7a69c-e961-4b5c-9f84-3305d94a053f
+    line_id: KR3c0005_tls_008-44a.7
+    textline: 掘其根
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

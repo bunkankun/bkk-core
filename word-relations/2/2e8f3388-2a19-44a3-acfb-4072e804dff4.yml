@@ -1,0 +1,32 @@
+uuid: 2e8f3388-2a19-44a3-acfb-4072e804dff4
+type: word-relation
+group_uuid: 2e8f3388-2a19-44a3-acfb-4072e804dff4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 荀子
+    line_uuid: 3b5dc8da-e0e2-43f7-8922-1ce4da37b5c9
+    line_id: KR3a0002_tls_001-5a.10
+    textline: 強自取柱
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 荀子
+    line_uuid: 40c0c3bc-2d46-4f16-9e79-f2e9dca27b09
+    line_id: KR3a0002_tls_001-5a.11
+    textline: 柔自取束
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

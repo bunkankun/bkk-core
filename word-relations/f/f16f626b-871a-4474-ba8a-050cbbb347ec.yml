@@ -1,0 +1,18 @@
+uuid: f16f626b-871a-4474-ba8a-050cbbb347ec
+type: word-relation
+group_uuid: de603301-5945-5dcd-b70f-e1ab84b45b47
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fe7e0491-d837-473a-8d33-d4d6d4c7d888
+  text: 造
+  concept: PRODUCE
+  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+right:
+  word_uuid: 94a015ed-325f-4518-850f-01d96baf55a5
+  text: 作作作乍
+  concept: PRODUCE
+  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+source:
+  source_file: word-relations.xml

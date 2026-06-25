@@ -1,0 +1,32 @@
+uuid: 19bafce4-b2a0-4247-b867-ac797fe30a7a
+type: word-relation
+group_uuid: 19bafce4-b2a0-4247-b867-ac797fe30a7a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5d8ae826-94ba-46fa-b5f3-997a2c2abfa5
+  text: 節
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 24e8907c-e504-4e1c-83ce-002d66eb881a
+    line_id: KR3j0009_tls_003-26a.4
+    textline: 節嗜欲
+    offset: 1
+    range: 1
+right:
+  word_uuid: cd6c9839-47eb-47df-aba0-4435a0c3e154
+  text: 適
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 54eac828-5af0-4b20-9225-f3e8cbf11172
+    line_id: KR3j0009_tls_003-26a.3
+    textline: 適耳目
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

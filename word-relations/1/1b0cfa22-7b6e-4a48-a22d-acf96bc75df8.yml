@@ -1,0 +1,35 @@
+uuid: 1b0cfa22-7b6e-4a48-a22d-acf96bc75df8
+type: word-relation
+group_uuid: 1b0cfa22-7b6e-4a48-a22d-acf96bc75df8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 饑
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9591c682-cd13-4ac8-83c7-46b9ca4cf553
+    line_id: KR3j0009_tls_005-16a.5
+    textline: 寒溫勞逸饑飽
+    offset: 5
+    range: 1
+right:
+  word_uuid: 97823c1b-71f8-44f2-be0f-26298aeb5686
+  text: 飽
+  concept: SATIATED
+  concept_uuid: b6ab585d-086e-4a4b-ba4d-d95daf2b0f64
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9591c682-cd13-4ac8-83c7-46b9ca4cf553
+    line_id: KR3j0009_tls_005-16a.5
+    textline: 寒溫勞逸饑飽
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

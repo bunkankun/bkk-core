@@ -1,0 +1,21 @@
+uuid: 4f48517e-5047-41fe-b7a9-4685ca272c3b
+type: word-relation
+group_uuid: d74893dd-3cfa-50c3-b20e-3228dad99837
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0cf8a5e2-af7a-4c37-b972-69cd2e3e2266
+  text: 定
+  concept: FIX
+  concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+right:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

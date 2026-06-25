@@ -1,0 +1,32 @@
+uuid: 680f0b84-b000-445d-be6e-f6777f84961f
+type: word-relation
+group_uuid: 680f0b84-b000-445d-be6e-f6777f84961f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fac68483-1c3d-4171-8bd2-51b738fb0bab
+  text: 動
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 孟子
+    line_uuid: 93f675e4-8bec-4490-b1f5-238de429b700
+    line_id: KR1h0001_tls_014-47a.7
+    textline: 「動容周旋中禮者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2ca3802c-5f5f-4e8c-8ea5-b84e7c330372
+  text: 容
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 孟子
+    line_uuid: 93f675e4-8bec-4490-b1f5-238de429b700
+    line_id: KR1h0001_tls_014-47a.7
+    textline: 「動容周旋中禮者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

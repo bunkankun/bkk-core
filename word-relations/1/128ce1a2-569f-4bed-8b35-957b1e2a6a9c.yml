@@ -1,0 +1,32 @@
+uuid: 128ce1a2-569f-4bed-8b35-957b1e2a6a9c
+type: word-relation
+group_uuid: 128ce1a2-569f-4bed-8b35-957b1e2a6a9c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ad034131-5fcf-4a07-9038-c4204c7cda58
+  text: 實
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+  attestation:
+    text_title: 孟子
+    line_uuid: 6a988ebf-3e71-4500-b5dd-843b4746fb0f
+    line_id: KR1h0001_tls_002-59a.6
+    textline: 而君之倉廩實
+    offset: 6
+    range: 1
+right:
+  word_uuid: 74686036-b4de-4413-b131-cb2bfd9da694
+  text: 充
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+  attestation:
+    text_title: 孟子
+    line_uuid: 57d1f0be-4b65-424b-8f18-cca9b9b8375e
+    line_id: KR1h0001_tls_002-59a.7
+    textline: 府庫充
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

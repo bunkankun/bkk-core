@@ -1,0 +1,32 @@
+uuid: ffacedf1-5a83-4abe-862b-f9796e89663c
+type: word-relation
+group_uuid: ffacedf1-5a83-4abe-862b-f9796e89663c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e1bc932-f729-491e-8f9d-638c1db54902
+  text: 帷
+  concept: CURTAIN
+  concept_uuid: b1410f27-7b6e-40da-ac9d-a944ef149e9f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9423d6cb-8068-4234-9030-83f6d1024a47
+    line_id: KR3c0005_tls_010-43a.5
+    textline: 裂帷幕
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7e099d14-20ff-49fc-a092-b69171eeac30
+  text: 幕
+  concept: CURTAIN
+  concept_uuid: b1410f27-7b6e-40da-ac9d-a944ef149e9f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9423d6cb-8068-4234-9030-83f6d1024a47
+    line_id: KR3c0005_tls_010-43a.5
+    textline: 裂帷幕
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

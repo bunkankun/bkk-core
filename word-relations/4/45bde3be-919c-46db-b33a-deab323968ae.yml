@@ -1,0 +1,32 @@
+uuid: 45bde3be-919c-46db-b33a-deab323968ae
+type: word-relation
+group_uuid: 4a26341c-d002-41ff-8938-7bf5e6989d60
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2d171b3c-7277-4250-a4c7-f938e47fd62e
+  text: 男
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+  attestation:
+    text_title: 論衡
+    line_uuid: 37530f6c-bd13-40fb-8096-f2a4cd6e63d0
+    line_id: KR3j0080_tls_006-2a.21
+    textline: 男女俱沒
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4d96aa2c-29b0-4af9-a11f-ba6189f84cdc
+  text: 女
+  concept: FEMALE
+  concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+  attestation:
+    text_title: 論衡
+    line_uuid: 37530f6c-bd13-40fb-8096-f2a4cd6e63d0
+    line_id: KR3j0080_tls_006-2a.21
+    textline: 男女俱沒
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

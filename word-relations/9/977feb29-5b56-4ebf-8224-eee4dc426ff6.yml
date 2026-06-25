@@ -1,0 +1,21 @@
+uuid: 977feb29-5b56-4ebf-8224-eee4dc426ff6
+type: word-relation
+group_uuid: 528f20a4-048b-55ae-864b-ae8e69173079
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1ef0a7ae-d827-4707-b4ea-6443fe2dd369
+  text: 驚
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+right:
+  word_uuid: bfe7f465-51b1-4984-a77f-d06a7e5cad3c
+  text: 駭
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

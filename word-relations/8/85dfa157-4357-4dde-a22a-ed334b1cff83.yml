@@ -1,0 +1,32 @@
+uuid: 85dfa157-4357-4dde-a22a-ed334b1cff83
+type: word-relation
+group_uuid: 2e08124a-5354-42f3-83dc-a24a0ba29f08
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 60f12333-26f3-4ef0-be35-71c8248db739
+    line_id: KR3j0009_tls_004-11a.36
+    textline: 師尊則言信矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 60f12333-26f3-4ef0-be35-71c8248db739
+    line_id: KR3j0009_tls_004-11a.36
+    textline: 師尊則言信矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

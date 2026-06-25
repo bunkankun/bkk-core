@@ -1,0 +1,30 @@
+uuid: 53d73dfb-cfe2-4c8b-933f-8db4c0b88a88
+type: word-relation
+group_uuid: 045b9204-9549-4d3f-b0b9-3aec38524f5f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9dfbc447-e476-461d-bb57-3de6f930f9e4
+  text: 量
+  concept: ASSESS
+  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+  attestation:
+    text_title: 墨子
+    line_uuid: eb2bbb94-8779-4083-b26d-0b50378ab503
+    textline: 將以量度天下之方與不方也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 32fa292a-3c75-44e2-ab2f-425a2c672fb9
+  text: 度
+  concept: ASSESS
+  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+  attestation:
+    text_title: 墨子
+    line_uuid: eb2bbb94-8779-4083-b26d-0b50378ab503
+    textline: 將以量度天下之方與不方也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

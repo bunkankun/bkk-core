@@ -1,0 +1,21 @@
+uuid: 5fd4dd4f-5929-4218-9581-c2000589b0c0
+type: word-relation
+group_uuid: daa68c90-00a9-5bb3-8dec-beda66d8a3ba
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4b0fd24c-a582-4e5d-b090-bf0a2dced269
+  text: 蹈
+  concept: TREAD ON
+  concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+right:
+  word_uuid: a82fc6ed-8c2f-4ea7-b3c0-557010a5ff06
+  text: 履
+  concept: TREAD ON
+  concept_uuid: 82101b8f-1bc8-468e-a1e7-550cc61b3829
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

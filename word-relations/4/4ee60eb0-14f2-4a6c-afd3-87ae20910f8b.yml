@@ -1,0 +1,18 @@
+uuid: 4ee60eb0-14f2-4a6c-afd3-87ae20910f8b
+type: word-relation
+group_uuid: 71c6a01d-56e2-5f4e-92f1-69979f8570e4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+right:
+  word_uuid: 04a265b4-fc6f-40c8-9c63-985c5bdb33af
+  text: 妃
+  concept: CONCUBINE
+  concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+source:
+  source_file: word-relations.xml

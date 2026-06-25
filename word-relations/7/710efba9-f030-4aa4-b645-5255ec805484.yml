@@ -1,0 +1,32 @@
+uuid: 710efba9-f030-4aa4-b645-5255ec805484
+type: word-relation
+group_uuid: 710efba9-f030-4aa4-b645-5255ec805484
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 54a3fc14-6363-4cf8-b0e7-b6d1f19ea44f
+  text: 縲
+  concept: FETTERS
+  concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+  attestation:
+    text_title: 論語
+    line_uuid: 52f33ab0-d677-4fec-934b-b7adf46766b5
+    line_id: KR1h0004_tls_005-1a.5
+    textline: 雖在縲絏之中
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6202724c-8f16-4927-b5db-7df7fa5574ef
+  text: 絏
+  concept: FETTERS
+  concept_uuid: 2665a8cc-44cc-46fb-a0c8-7d851b953a05
+  attestation:
+    text_title: 論語
+    line_uuid: 52f33ab0-d677-4fec-934b-b7adf46766b5
+    line_id: KR1h0004_tls_005-1a.5
+    textline: 雖在縲絏之中
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

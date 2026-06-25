@@ -1,0 +1,35 @@
+uuid: d90db0c6-e826-4cbb-8db0-c6e826fcbba8
+type: word-relation
+group_uuid: ea4fdf7a-d877-5cac-8a45-b58b4ea6c91e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_024-9a.12
+    textline: 法律之士廣治
+    offset: 1
+    range: 1
+right:
+  word_uuid: aedd4785-84b9-4020-a60f-4031f695d3be
+  text: 律
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_024-9a.12
+    textline: 法律之士廣治
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-12T19:04:44.314+09:00'

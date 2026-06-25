@@ -1,0 +1,32 @@
+uuid: 576ed447-0d4f-41df-aed4-470d4ff1df46
+type: word-relation
+group_uuid: f281656b-5350-5d41-921b-083e2a743081
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 381d7304-363e-492b-9d73-04363e792bba
+  text: 蟁
+  concept: MOSQUITO
+  concept_uuid: c138fa17-aa73-4180-910b-fe1b6be9a7e2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.4
+    textline: 夏日則不勝暑熱蟁䖟
+    offset: 8
+    range: 1
+right:
+  word_uuid: 16513de0-d63a-4d70-913d-e0d63a7d70ea
+  text: 䖟
+  concept: INSECTS
+  concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.4
+    textline: 夏日則不勝暑熱蟁䖟
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:25:29.212+09:00'

@@ -1,0 +1,32 @@
+uuid: 95141fd3-e9dd-45ca-a48e-cfd04cc2e23a
+type: word-relation
+group_uuid: 95141fd3-e9dd-45ca-a48e-cfd04cc2e23a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bd9ac16b-2986-45af-8807-407b49dff2dc
+  text: 成
+  concept: PEACE
+  concept_uuid: 82a12bdd-5f0d-4bf6-b4da-8b92ce215217
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 3609412e-bf35-40a1-9c94-375c227b2995
+    line_id: KR1e0001_tls_009-626a.1
+    textline: 成而不結
+    offset: 1
+    range: 1
+right:
+  word_uuid: 66a172a8-b210-415a-a34e-80919b1de0c1
+  text: 結
+  concept: COOPERATE
+  concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 3609412e-bf35-40a1-9c94-375c227b2995
+    line_id: KR1e0001_tls_009-626a.1
+    textline: 成而不結
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

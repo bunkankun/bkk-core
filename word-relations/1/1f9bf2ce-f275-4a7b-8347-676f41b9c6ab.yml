@@ -1,0 +1,21 @@
+uuid: 1f9bf2ce-f275-4a7b-8347-676f41b9c6ab
+type: word-relation
+group_uuid: 6ddd0380-f7d4-5145-8a9a-a559075c38ef
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 43ce5cde-799d-4668-9320-03c314a71b17
+  text: 慚慙慚慙
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+right:
+  word_uuid: 8cec9621-f1fd-42e2-ad0e-134c2f104f43
+  text: 愧愧
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

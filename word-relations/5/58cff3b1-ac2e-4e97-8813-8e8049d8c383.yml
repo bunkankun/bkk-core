@@ -1,0 +1,32 @@
+uuid: 58cff3b1-ac2e-4e97-8813-8e8049d8c383
+type: word-relation
+group_uuid: 58cff3b1-ac2e-4e97-8813-8e8049d8c383
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b8cdc227-0ade-4596-ae55-a6abda84a6bf
+  text: 文
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 韓非子
+    line_uuid: 283c62bf-e368-4648-9d80-08518a609d13
+    line_id: KR3c0005_tls_020-104a.11
+    textline: 聖人得之以成文章
+    offset: 7
+    range: 1
+right:
+  word_uuid: 63013b72-575e-48c4-beb5-813e667e1b45
+  text: 章
+  concept: PATTERN
+  concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+  attestation:
+    text_title: 韓非子
+    line_uuid: 283c62bf-e368-4648-9d80-08518a609d13
+    line_id: KR3c0005_tls_020-104a.11
+    textline: 聖人得之以成文章
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

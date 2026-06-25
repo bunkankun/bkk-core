@@ -1,0 +1,32 @@
+uuid: a2c8bbf3-d8b8-4a32-b5ca-4420c01c0345
+type: word-relation
+group_uuid: a2c8bbf3-d8b8-4a32-b5ca-4420c01c0345
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: af3f227b-5b30-4502-b741-2eb34f3c6e47
+    line_id: KR1e0001_tls_005-216a.38
+    textline: 況怨敵乎
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: af3f227b-5b30-4502-b741-2eb34f3c6e47
+    line_id: KR1e0001_tls_005-216a.38
+    textline: 況怨敵乎
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

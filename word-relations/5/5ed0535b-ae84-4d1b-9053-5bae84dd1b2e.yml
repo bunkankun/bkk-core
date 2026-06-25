@@ -1,0 +1,32 @@
+uuid: 5ed0535b-ae84-4d1b-9053-5bae84dd1b2e
+type: word-relation
+group_uuid: 41d8cb57-6ee2-5593-a17b-363b97369022
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b1a62539-2f69-4862-91ca-6f70cf157f2d
+  text: 虎
+  concept: TIGER
+  concept_uuid: ab2882c3-b19a-4c96-a878-853f5c64461f
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_002-1a.28
+    textline: 心如虎狼
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2d7a3654-3ca1-451c-9a1c-b7e22cf85b14
+  text: 狼
+  concept: WOLF
+  concept_uuid: c16b243b-6b61-4112-b2e9-e955fe90727f
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_002-1a.28
+    textline: 心如虎狼
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#tls'
+  date: '2023-01-27T18:38:49.83+09:00'

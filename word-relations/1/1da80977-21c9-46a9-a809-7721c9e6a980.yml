@@ -1,0 +1,32 @@
+uuid: 1da80977-21c9-46a9-a809-7721c9e6a980
+type: word-relation
+group_uuid: 5d99d0e0-62db-5aaa-adc2-96401e997cc2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b7472173-59a2-4a85-96de-3c022ef3c216
+  text: 如此
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_003-8a.1
+    textline: 如此 則動心否乎
+    offset: 1
+    range: 2
+right:
+  word_uuid: a1ab5823-fcd6-433d-9ce6-26f98189606d
+  text: 若是
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_003-9a.3
+    textline: 若是
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-14T00:47:12.161+09:00'

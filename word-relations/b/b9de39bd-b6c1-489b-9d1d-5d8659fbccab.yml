@@ -1,0 +1,21 @@
+uuid: b9de39bd-b6c1-489b-9d1d-5d8659fbccab
+type: word-relation
+group_uuid: 82e0800d-e6c0-5492-85a0-4ccd540dfea1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b0e8d995-d7a3-4bb4-8b9b-f6ed5fd3dbe0
+  text: 發
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+right:
+  word_uuid: 6af51390-ea48-4fb4-8af8-f772c84e7de8
+  text: 起
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

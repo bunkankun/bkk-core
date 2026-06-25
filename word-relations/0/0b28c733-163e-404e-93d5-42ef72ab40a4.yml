@@ -1,0 +1,21 @@
+uuid: 0b28c733-163e-404e-93d5-42ef72ab40a4
+type: word-relation
+group_uuid: 880fe528-c4e6-5677-a465-c841d2e370b5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8463ec8b-200a-42bb-bf23-c34a6a3db7d2
+  text: 可
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+right:
+  word_uuid: 1729893e-b474-400d-8987-2c5560c35775
+  text: 否
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 5851b029-693e-4142-bec1-b1b383fbebec
+type: word-relation
+group_uuid: bd235af9-29c7-5be7-99a6-a091c0777df5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 426e4868-7721-49af-9231-cc065af0cf21
+  text: 俱
+  concept: TOGETHER
+  concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+right:
+  word_uuid: 1d32c548-6510-4a93-af3c-cf08584ad429
+  text: 同
+  concept: TOGETHER
+  concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

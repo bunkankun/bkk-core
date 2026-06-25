@@ -1,0 +1,18 @@
+uuid: fd229b0c-c0de-458b-82b5-ba7c4edca7a5
+type: word-relation
+group_uuid: dde47ad5-7069-5019-9559-fc15132947e4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智知
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+right:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧惠
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+source:
+  source_file: word-relations.xml

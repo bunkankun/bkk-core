@@ -1,0 +1,30 @@
+uuid: 0f3b77a2-b162-4760-80d2-013a3b6be082
+type: word-relation
+group_uuid: e28e0291-3857-4c3a-86bb-bd40ab0506b5
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: d6866bd9-9f94-4f41-a808-4cf522e32e6e
+    textline: 戰克攻取
+    offset: 3
+    range: 1
+right:
+  word_uuid: 59d2056e-0886-41d9-8c7f-465c76f45e7b
+  text: 取
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: d6866bd9-9f94-4f41-a808-4cf522e32e6e
+    textline: 戰克攻取
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

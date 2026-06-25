@@ -1,0 +1,21 @@
+uuid: 4f1b7b87-78a1-4ff3-a3b6-7b02869e907d
+type: word-relation
+group_uuid: c28980b9-f833-5e5b-acb4-ebfb2e5d05c6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4d107c24-43a3-4085-9976-8a00a6500d25
+  text: 貶
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+right:
+  word_uuid: c720e417-a271-4b6f-a3c9-0b3edc56a983
+  text: 增曾
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

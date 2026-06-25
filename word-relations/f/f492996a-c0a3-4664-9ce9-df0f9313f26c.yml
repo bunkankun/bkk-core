@@ -1,0 +1,35 @@
+uuid: f492996a-c0a3-4664-9ce9-df0f9313f26c
+type: word-relation
+group_uuid: 11fd29ce-2e4c-48c0-9398-8e65afc6ec02
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 344015b6-6124-4291-8ff6-b1363717ca42
+    line_id: KR3c0005_tls_020-41a.3
+    textline: 官爵尊貴
+    offset: 4
+    range: 1
+right:
+  word_uuid: 023451ce-93c3-4ff6-ab5d-d2836e0252f2
+  text: 尊
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 344015b6-6124-4291-8ff6-b1363717ca42
+    line_id: KR3c0005_tls_020-41a.3
+    textline: 官爵尊貴
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

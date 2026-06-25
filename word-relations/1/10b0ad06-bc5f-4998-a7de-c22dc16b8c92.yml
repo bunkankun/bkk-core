@@ -1,0 +1,21 @@
+uuid: 10b0ad06-bc5f-4998-a7de-c22dc16b8c92
+type: word-relation
+group_uuid: 51a0445b-17ca-5358-94a2-7a96f045a1dc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9a31814f-077e-4261-8c8f-807e10b0d8fb
+  text: 奪
+  concept: TAKE
+  concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+right:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

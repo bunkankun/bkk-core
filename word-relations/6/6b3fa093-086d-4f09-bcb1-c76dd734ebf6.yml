@@ -1,0 +1,21 @@
+uuid: 6b3fa093-086d-4f09-bcb1-c76dd734ebf6
+type: word-relation
+group_uuid: f45eab98-9b40-527e-9071-706cd74e33a1
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+right:
+  word_uuid: e7c6b8ff-27e2-417d-aea8-740ad7acc2cc
+  text: 習
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

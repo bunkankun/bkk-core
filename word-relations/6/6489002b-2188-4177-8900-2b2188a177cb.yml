@@ -1,0 +1,32 @@
+uuid: 6489002b-2188-4177-8900-2b2188a177cb
+type: word-relation
+group_uuid: f3e0a1a1-35a5-5160-b0ca-2288656093f7
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 舍
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-29a.30
+    textline: 舍則失之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-29a.30
+    textline: 舍則失之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-02-12T01:03:46.451+09:00'

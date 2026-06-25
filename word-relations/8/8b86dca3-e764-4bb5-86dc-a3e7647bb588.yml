@@ -1,0 +1,32 @@
+uuid: 8b86dca3-e764-4bb5-86dc-a3e7647bb588
+type: word-relation
+group_uuid: 501385bb-1306-58f6-8d6d-8b2cdc850ea1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a450c79f-e957-4f7f-8823-7e399bd55373
+  text: 一
+  concept: ONE
+  concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_007-10a.6
+    textline: 處其一不知其二
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7f47291e-8897-4fff-a27d-63a7369bac4b
+  text: 二
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_007-10a.6
+    textline: 處其一不知其二
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-11T20:39:42.109+09:00'

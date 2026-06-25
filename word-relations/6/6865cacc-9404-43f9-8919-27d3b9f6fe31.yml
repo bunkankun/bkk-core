@@ -1,0 +1,21 @@
+uuid: 6865cacc-9404-43f9-8919-27d3b9f6fe31
+type: word-relation
+group_uuid: 4591471a-8767-5e55-a7c1-8248f0f52877
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+right:
+  word_uuid: 14a591c4-eb05-4d3d-95a2-9263bbcead6a
+  text: 力
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

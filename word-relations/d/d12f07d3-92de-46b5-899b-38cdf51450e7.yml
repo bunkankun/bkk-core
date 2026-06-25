@@ -1,0 +1,32 @@
+uuid: d12f07d3-92de-46b5-899b-38cdf51450e7
+type: word-relation
+group_uuid: d12f07d3-92de-46b5-899b-38cdf51450e7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4d9ef7f2-0133-43db-a717-00013c741baf
+  text: 心
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8d38a98a-86f9-4576-b27c-0bae9f0e6dba
+    line_id: KR3c0005_tls_006-19a.4
+    textline: 無有二心
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0938201e-3b63-45ca-9f5c-44c000276a52
+  text: 二
+  concept: DISLOYAL
+  concept_uuid: ee9f58b1-8bc7-4f9c-bc64-d945c5cd6958
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8d38a98a-86f9-4576-b27c-0bae9f0e6dba
+    line_id: KR3c0005_tls_006-19a.4
+    textline: 無有二心
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

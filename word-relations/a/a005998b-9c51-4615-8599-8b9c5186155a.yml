@@ -1,0 +1,32 @@
+uuid: a005998b-9c51-4615-8599-8b9c5186155a
+type: word-relation
+group_uuid: 6a465a73-6d46-5048-a12f-6d579b152b35
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 61c1c50e-cfd4-4eff-8ee2-4dbdff0ebd61
+  text: 患
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.43
+    textline: 困其患則造其備
+    offset: 3
+    range: 1
+right:
+  word_uuid: fe6eca71-8ea7-4128-b286-7883815c25dc
+  text: 備
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.43
+    textline: 困其患則造其備
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:11:12.148+09:00'

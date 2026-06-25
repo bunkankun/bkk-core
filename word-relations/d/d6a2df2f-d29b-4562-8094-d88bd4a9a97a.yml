@@ -1,0 +1,32 @@
+uuid: d6a2df2f-d29b-4562-8094-d88bd4a9a97a
+type: word-relation
+group_uuid: d6a2df2f-d29b-4562-8094-d88bd4a9a97a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8ea0706d-cd9f-4e06-9953-25bb61b39c5c
+  text: 呻
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 莊子
+    line_uuid: ced02031-ce45-4a0e-b6ed-924493b0d2fc
+    line_id: KR5c0126_tls_032-3a.3
+    textline: 呻吟裘氏之地
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8a5f4619-157f-49bb-b28b-e5bfc2679a77
+  text: 吟
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 莊子
+    line_uuid: ced02031-ce45-4a0e-b6ed-924493b0d2fc
+    line_id: KR5c0126_tls_032-3a.3
+    textline: 呻吟裘氏之地
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

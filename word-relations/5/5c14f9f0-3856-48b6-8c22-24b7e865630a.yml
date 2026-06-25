@@ -1,0 +1,37 @@
+uuid: 5c14f9f0-3856-48b6-8c22-24b7e865630a
+type: word-relation
+group_uuid: 5c14f9f0-3856-48b6-8c22-24b7e865630a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4bd7e5bc-da1c-4504-819c-ecb437824fc9
+  text: 信
+  concept: TRUST
+  concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+  attestation:
+    text_title: 論衡
+    line_uuid: 70664cee-5f16-4b07-a7a5-2f6bef4e79c5
+    line_id: KR3j0080_tls_005-1a.20
+    textline: 或信或疑
+    offset: 2
+    range: 1
+right:
+  word_uuid: cd3ee973-4973-4ecd-8d59-eb5cd5d62dbd
+  text: 疑
+  concept: SUSPECT
+  concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+  attestation:
+    text_title: 論衡
+    line_uuid: 70664cee-5f16-4b07-a7a5-2f6bef4e79c5
+    line_id: KR3j0080_tls_005-1a.20
+    textline: 或信或疑
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '284'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a178dbe6-8ba8-4624-b8db-e68ba8f62428
+type: word-relation
+group_uuid: 094ae144-823d-5078-af93-1910fa4d425f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_069-50a.12
+    textline: 舉有德行道術通明之士充備天官
+    offset: 5
+    range: 2
+right:
+  word_uuid: 83ea98df-d7a0-414b-aa98-dfd7a0b14b00
+  text: 通明
+  concept: CLEAR
+  concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_069-50a.12
+    textline: 舉有德行道術通明之士充備天官
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:12:51.243+09:00'

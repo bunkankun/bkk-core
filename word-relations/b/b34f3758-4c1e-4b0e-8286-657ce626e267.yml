@@ -1,0 +1,18 @@
+uuid: b34f3758-4c1e-4b0e-8286-657ce626e267
+type: word-relation
+group_uuid: 266abed2-4c7e-5f63-8781-2a42ab9f5292
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 79ef1fec-84aa-4d79-b783-8faa62870014
+  text: 降
+  concept: FALL
+  concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+right:
+  word_uuid: bbd7503f-fd45-426f-a645-afbc0ab68066
+  text: 下
+  concept: FALL
+  concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+source:
+  source_file: word-relations.xml

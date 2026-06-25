@@ -1,0 +1,32 @@
+uuid: 23ea830c-1f4b-4ee8-a8bf-aa000e623673
+type: word-relation
+group_uuid: 3bba09a4-1308-402a-a3ec-d82872fd3f70
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 646b0bfc-62ee-43a7-bbad-58814a966f55
+  text: 效
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: c6ed6a32-b1d9-47d8-b911-87b1baa24645
+    line_id: KR3j0080_tls_039-8a.16
+    textline: 徒能筆說之效也”
+    offset: 6
+    range: 1
+right:
+  word_uuid: 9f102487-1f81-404a-a918-320c1052ebd9
+  text: 驗
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: fd040ba8-fde4-40f6-afb2-150d900f3b69
+    line_id: KR3j0080_tls_039-8a.15
+    textline: 無能建功之驗
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

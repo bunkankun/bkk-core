@@ -1,0 +1,32 @@
+uuid: 9516c98f-3145-4d9f-a4cf-4b3c26916394
+type: word-relation
+group_uuid: b4615b63-43cc-46da-927e-347f27bdb20d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9ada0487-b1e9-4814-a81f-b795f9317d2d
+  text: 府
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: fdc95140-5ff5-4b32-91a2-47dd8c7160b0
+    line_id: KR3c0005_tls_004-11a.8
+    textline: 其府庫不得私貸於家
+    offset: 2
+    range: 1
+right:
+  word_uuid: 16f10c9a-f138-44da-b8c8-15f158c996d0
+  text: 庫
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: fdc95140-5ff5-4b32-91a2-47dd8c7160b0
+    line_id: KR3c0005_tls_004-11a.8
+    textline: 其府庫不得私貸於家
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

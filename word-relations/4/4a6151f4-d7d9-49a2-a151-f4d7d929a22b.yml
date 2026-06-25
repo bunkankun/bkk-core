@@ -1,0 +1,32 @@
+uuid: 4a6151f4-d7d9-49a2-a151-f4d7d929a22b
+type: word-relation
+group_uuid: f9f408ca-fc0e-5026-99fb-1109803c577d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fd383745-8da7-4ea1-8674-5817198ffd28
+  text: 百
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.10
+    textline: 而百姓安之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 243c6b2e-bc38-462d-adaf-391c2d8077af
+  text: 姓
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.10
+    textline: 而百姓安之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:07:39.446+09:00'

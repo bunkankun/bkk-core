@@ -1,0 +1,21 @@
+uuid: a6309d30-dba1-4bcf-89ec-13d898a82076
+type: word-relation
+group_uuid: b5782234-239f-5e4e-b12b-41dc42b43e04
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3f49f6be-c2d6-4474-bb53-844d1b9bb62d
+  text: 極
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+right:
+  word_uuid: 6abf9878-d322-417b-b607-6abab093647b
+  text: 盡
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 5bce052f-6c36-4e7c-8a89-c68ff8b42a15
+type: word-relation
+group_uuid: d7514887-abbb-55ec-bc2a-7dae55f03b50
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c7fb9dd1-2f31-45dd-8366-1a755ca137d1
+  text: 呴
+  concept: ROAR
+  concept_uuid: edbcaea5-8019-4d67-ba60-66207034fd4e
+right:
+  word_uuid: 3ce971bc-7cdb-4121-8cb6-e35ef559125a
+  text: 呼
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

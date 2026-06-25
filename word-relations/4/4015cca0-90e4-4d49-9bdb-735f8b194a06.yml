@@ -1,0 +1,30 @@
+uuid: 4015cca0-90e4-4d49-9bdb-735f8b194a06
+type: word-relation
+group_uuid: 4015cca0-90e4-4d49-9bdb-735f8b194a06
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 67829b38-b79a-437a-9b65-0edcda543be0
+  text: 奮
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d40c2476-1584-40f9-ba5d-fe70ed806b0d
+    line_id: KR3j0009_tls_002-5a.9
+    textline: 奮鐸以令于兆民曰
+    offset: 1
+    range: 1
+right:
+  word_uuid: bece3e13-9793-4040-a44b-e1639af2dbad
+  text: 鐸
+  concept: BELL
+  concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d40c2476-1584-40f9-ba5d-fe70ed806b0d
+    line_id: KR3j0009_tls_002-5a.9
+    textline: 奮鐸以令于兆民曰
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

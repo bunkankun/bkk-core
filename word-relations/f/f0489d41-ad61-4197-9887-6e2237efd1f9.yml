@@ -1,0 +1,32 @@
+uuid: f0489d41-ad61-4197-9887-6e2237efd1f9
+type: word-relation
+group_uuid: f2509c41-29a1-428b-a7d3-967362d3d125
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 韓非子
+    line_uuid: d5cc4a03-f52d-490e-86d5-6b84d8403993
+    line_id: KR3c0005_tls_020-79a.2
+    textline: 民不敢犯法
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: d5cc4a03-f52d-490e-86d5-6b84d8403993
+    line_id: KR3c0005_tls_020-79a.2
+    textline: 民不敢犯法
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

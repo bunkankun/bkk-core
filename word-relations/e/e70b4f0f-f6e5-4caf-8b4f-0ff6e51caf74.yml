@@ -1,0 +1,32 @@
+uuid: e70b4f0f-f6e5-4caf-8b4f-0ff6e51caf74
+type: word-relation
+group_uuid: 2e667625-bd04-5461-8eaf-678c63722674
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67eea98a-6764-43d0-a59d-4653c87c8fed
+  text: 霧
+  concept: MIST
+  concept_uuid: 909bf501-b390-4af9-848f-e11556142d69
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.3
+    textline: 冬日則不勝霜雪霧露
+    offset: 8
+    range: 1
+right:
+  word_uuid: cbd513a5-dc37-407b-a130-3b1e140e2fc9
+  text: 露
+  concept: DEW
+  concept_uuid: 8b0132d9-72f7-4c10-ba5a-d01352aef17c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.3
+    textline: 冬日則不勝霜雪霧露
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:23:56.583+09:00'

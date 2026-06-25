@@ -1,0 +1,32 @@
+uuid: 91904c15-9300-4b7e-9082-f5867110e6c8
+type: word-relation
+group_uuid: 91904c15-9300-4b7e-9082-f5867110e6c8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fed5c11d-8e06-467f-a71a-c677c086a04f
+  text: 名
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 37840866-2bfc-4973-9a73-31008971ec48
+    line_id: KR3c0005_tls_012-5a.3
+    textline: 而顯為名高者也
+    offset: 4
+    range: 1
+right:
+  word_uuid: ab4268d1-88ff-49b1-8852-a1526a89a796
+  text: 高
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 37840866-2bfc-4973-9a73-31008971ec48
+    line_id: KR3c0005_tls_012-5a.3
+    textline: 而顯為名高者也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

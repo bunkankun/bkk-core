@@ -1,0 +1,32 @@
+uuid: e18dee23-9409-4fc8-b78c-1b3cc601450d
+type: word-relation
+group_uuid: 8e02a8e7-256b-4366-b875-d797bd36dce2
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6356762b-0c0f-48f9-a728-91f287713a6b
+    line_id: KR3c0005_tls_010-83a.7
+    textline: 知伯身死軍破
+    offset: 3
+    range: 1
+right:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6356762b-0c0f-48f9-a728-91f287713a6b
+    line_id: KR3c0005_tls_010-83a.7
+    textline: 知伯身死軍破
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

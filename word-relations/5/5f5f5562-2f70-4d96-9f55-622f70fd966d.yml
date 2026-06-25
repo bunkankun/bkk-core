@@ -1,0 +1,32 @@
+uuid: 5f5f5562-2f70-4d96-9f55-622f70fd966d
+type: word-relation
+group_uuid: 1d4345bd-64fb-5cc3-9440-89b6b9bf5f75
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 唐虞之道
+    line_id: CH8x4418_CHANT_004-1a.21
+    textline: 知仁義
+    offset: 1
+    range: 1
+right:
+  word_uuid: 232f5af2-6d6c-4580-b43d-01d89c7b7cbd
+  text: 明
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 唐虞之道
+    line_id: CH8x4418_CHANT_004-1a.22
+    textline: 明禮
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-14T04:52:02.998+09:00'

@@ -1,0 +1,30 @@
+uuid: bd4c7509-7cfc-439d-8972-67d88c139513
+type: word-relation
+group_uuid: bd4c7509-7cfc-439d-8972-67d88c139513
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aa3ada03-759b-43e4-8029-048900b19ec2
+  text: 竽
+  concept: MOUTH ORGAN
+  concept_uuid: 8bc8d719-5899-4140-8644-2e220113fce9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: aeda3db2-8248-436f-8eac-22104645cd3b
+    textline: 調竽笙壎箎
+    offset: 2
+    range: 1
+right:
+  word_uuid: bec7f603-08a6-4c69-8932-8bdcf862d4fb
+  text: 笙
+  concept: MOUTH ORGAN
+  concept_uuid: 8bc8d719-5899-4140-8644-2e220113fce9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: aeda3db2-8248-436f-8eac-22104645cd3b
+    textline: 調竽笙壎箎
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

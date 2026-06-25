@@ -1,0 +1,32 @@
+uuid: 786d19a2-4e47-4245-ad19-a24e47b24557
+type: word-relation
+group_uuid: 591fea1f-5e88-581b-9138-55010bb2ee5c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3151d8aa-789d-459f-abdc-285fb17d0e63
+  text: 棺
+  concept: COFFIN
+  concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.16
+    textline: 有虞氏用瓦棺
+    offset: 6
+    range: 1
+right:
+  word_uuid: 1968c072-0e4b-41f4-9517-8548ca77cb8e
+  text: 槨
+  concept: COFFIN
+  concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.18
+    textline: 殷人用槨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:22:16.211+09:00'

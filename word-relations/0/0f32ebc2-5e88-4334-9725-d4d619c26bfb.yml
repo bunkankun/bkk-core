@@ -1,0 +1,21 @@
+uuid: 0f32ebc2-5e88-4334-9725-d4d619c26bfb
+type: word-relation
+group_uuid: 98d1a9b4-8f47-5a43-8915-f30b07607baa
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b9dc1ea7-d258-4b08-8886-a92261615ebd
+  text: 初
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+right:
+  word_uuid: 1dc8a066-eb41-4f68-9262-d453f28b1927
+  text: 始
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

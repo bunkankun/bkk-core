@@ -1,0 +1,32 @@
+uuid: 89aef191-bd47-42ad-9a33-3315f98e8748
+type: word-relation
+group_uuid: 89aef191-bd47-42ad-9a33-3315f98e8748
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7b0259a0-3128-4ffb-8bfe-af07668baebc
+  text: 任
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 韓非子
+    line_uuid: f4a9e5a9-fff2-4261-a614-81d132a544cb
+    line_id: KR3c0005_tls_018-14a.9
+    textline: 任理去欲
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0ea0a71a-b772-493f-9407-382308107984
+  text: 去
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 韓非子
+    line_uuid: f4a9e5a9-fff2-4261-a614-81d132a544cb
+    line_id: KR3c0005_tls_018-14a.9
+    textline: 任理去欲
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

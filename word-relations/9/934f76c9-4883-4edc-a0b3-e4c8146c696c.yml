@@ -1,0 +1,32 @@
+uuid: 934f76c9-4883-4edc-a0b3-e4c8146c696c
+type: word-relation
+group_uuid: 934f76c9-4883-4edc-a0b3-e4c8146c696c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1509aa8a-6ee3-4434-b8e1-004ab04d3ad9
+  text: 都
+  concept: CITY
+  concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+  attestation:
+    text_title: 管子
+    line_uuid: dc04ce6f-429e-4673-952f-abc3b68f21b1
+    line_id: KR3c0001_tls_005-47a.8
+    textline: 徙都邑
+    offset: 2
+    range: 1
+right:
+  word_uuid: b8294f29-1097-4498-a2ff-f8daefb0b4a1
+  text: 邑
+  concept: CITY
+  concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+  attestation:
+    text_title: 管子
+    line_uuid: dc04ce6f-429e-4673-952f-abc3b68f21b1
+    line_id: KR3c0001_tls_005-47a.8
+    textline: 徙都邑
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

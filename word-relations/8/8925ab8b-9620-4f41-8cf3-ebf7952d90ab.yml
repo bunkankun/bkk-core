@@ -1,0 +1,30 @@
+uuid: 8925ab8b-9620-4f41-8cf3-ebf7952d90ab
+type: word-relation
+group_uuid: 8925ab8b-9620-4f41-8cf3-ebf7952d90ab
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eb725433-e847-4d90-a781-00b907da6576
+  text: 師
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 0ec09094-e720-4582-ab6a-518d7aa61f9d
+    textline: 自六正五吏三十帥三軍之大夫百官之正長師旅及處守者皆有賂
+    offset: 23
+    range: 1
+right:
+  word_uuid: f93f3fdb-0cd4-4f5f-88e6-13a304480d83
+  text: 旅
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 0ec09094-e720-4582-ab6a-518d7aa61f9d
+    textline: 自六正五吏三十帥三軍之大夫百官之正長師旅及處守者皆有賂
+    offset: 24
+    range: 1
+source:
+  source_file: word-relations.xml

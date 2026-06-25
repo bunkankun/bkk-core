@@ -1,0 +1,30 @@
+uuid: e13cd7bf-533c-47aa-ae23-bbd1e4f994bd
+type: word-relation
+group_uuid: e13cd7bf-533c-47aa-ae23-bbd1e4f994bd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 75ae2de0-8654-4d5a-be05-36fbb5ea6908
+  text: 子
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 孔雀東南飛
+    line_uuid: 7dd95302-94e5-4066-beac-b813ce402702
+    textline: 不圖子自歸
+    offset: 3
+    range: 1
+right:
+  word_uuid: 23bd4002-d494-4648-a4a8-2ef6d1d4c599
+  text: 汝
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 孔雀東南飛
+    line_uuid: 75b37bcd-502a-44f2-ba1f-054bad69aa64
+    textline: 十三教汝織
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

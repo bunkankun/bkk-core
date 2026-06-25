@@ -1,0 +1,21 @@
+uuid: 6912bdaf-b5aa-4732-84b3-5651730d18d2
+type: word-relation
+group_uuid: 1cc410c6-40e2-57c0-843c-bb5359e373da
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 79ea8ba4-b6f8-40a8-a962-8806fe49b505
+  text: 愁
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+right:
+  word_uuid: 4b8c6fcc-002b-402c-acdc-67e33da270b8
+  text: 悅說
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

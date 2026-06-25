@@ -1,0 +1,21 @@
+uuid: 30d0b67d-8e97-4dc8-9af3-c733d19d3102
+type: word-relation
+group_uuid: 40aa4eb3-f90c-5be4-89cc-fa8507917ff8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bea8eb01-6cd3-4425-ae86-95fdfa23485b
+  text: 割
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+right:
+  word_uuid: c25c2bc7-35d7-4a3a-9170-ee3521c8ec35
+  text: 屠
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

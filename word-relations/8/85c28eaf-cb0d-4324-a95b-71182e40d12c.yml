@@ -1,0 +1,32 @@
+uuid: 85c28eaf-cb0d-4324-a95b-71182e40d12c
+type: word-relation
+group_uuid: 85c28eaf-cb0d-4324-a95b-71182e40d12c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7cdc1400-aee1-4929-b6c8-bb697d42afc6
+  text: 威
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 論語
+    line_uuid: b718d2cf-2580-40c1-a9ae-9c8ef642b9c7
+    line_id: KR1h0004_tls_007-45a.3
+    textline: 威而不猛
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4e4af4dc-55a5-4704-af53-d5d2346823e4
+  text: 猛
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 論語
+    line_uuid: b718d2cf-2580-40c1-a9ae-9c8ef642b9c7
+    line_id: KR1h0004_tls_007-45a.3
+    textline: 威而不猛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

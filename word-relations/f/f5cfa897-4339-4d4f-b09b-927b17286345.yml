@@ -1,0 +1,31 @@
+uuid: f5cfa897-4339-4d4f-b09b-927b17286345
+type: word-relation
+group_uuid: f5cfa897-4339-4d4f-b09b-927b17286345
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e0599275-0afa-426f-ba0f-a15b7f3ed3c3
+  text: 擊
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 論衡
+    line_uuid: eb959a24-9eee-4422-97cd-da825ea3ff3b
+    line_id: KR3j0080_tls_014-14a.32
+    textline: 鷹之擊鳩雀
+    offset: 3
+    range: 1
+right:
+  word_uuid: 157e574c-2f01-48c4-bb99-e5715e495295
+  text: 啄
+  concept: BITE
+  concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+  attestation:
+    text_title: 論衡
+    line_uuid: 3d9359b3-2ae6-49a3-beec-a431964b20f1
+    textline: Ｘ之啄鵠雁
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

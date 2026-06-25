@@ -1,0 +1,30 @@
+uuid: 5433cc6e-872d-42c7-9f0e-f0e95439aa82
+type: word-relation
+group_uuid: 247427e0-0295-4261-80aa-0acf5427d237
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6415d5a6-71fe-45bd-a0d6-d75302ba9e25
+    textline: （身今）〔今身〕得見王
+    range: 1
+right:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e92bd4c6-f98d-4b3f-a452-215e63274517
+    line_id: KR3j0009_tls_023-3a.12
+    textline: 而家宅乎齊
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

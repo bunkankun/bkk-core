@@ -1,0 +1,18 @@
+uuid: 19c69c94-3ee7-4004-9e05-9ce1bfa6fc32
+type: word-relation
+group_uuid: adee5bc0-91b1-5e89-8944-19ed9a6a7be4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 753ae858-9774-4976-be5f-2a2711627f23
+  text: 堅
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+right:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+source:
+  source_file: word-relations.xml

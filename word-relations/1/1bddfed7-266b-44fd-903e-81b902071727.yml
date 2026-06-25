@@ -1,0 +1,33 @@
+uuid: 1bddfed7-266b-44fd-903e-81b902071727
+type: word-relation
+group_uuid: 1bddfed7-266b-44fd-903e-81b902071727
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: af642e2b-eaab-49cf-873f-94df86579c1e
+  text: 妒
+  concept: JEALOUS
+  concept_uuid: c64a831b-0166-4379-81b8-a56ed5ff4d64
+  attestation:
+    text_title: 論衡
+    line_uuid: 8c3ae45c-1739-4243-9e72-58990b5068d7
+    textline: 嫉妒之人
+    offset: 2
+    range: 1
+right:
+  word_uuid: e6cadd99-a915-44ad-9027-0235a6741bb7
+  text: 嫉
+  concept: JEALOUS
+  concept_uuid: c64a831b-0166-4379-81b8-a56ed5ff4d64
+  attestation:
+    text_title: 論衡
+    line_uuid: 8c3ae45c-1739-4243-9e72-58990b5068d7
+    textline: 嫉妒之人
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

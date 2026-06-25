@@ -1,0 +1,32 @@
+uuid: 939ecec6-c256-412d-9ece-c6c256612d62
+type: word-relation
+group_uuid: 297734e3-0064-576b-9662-758d6c9dd55b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c9ce379d-b124-4e9e-ae21-8305ac15798d
+  text: 刑
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-637a.14
+    textline: 慢棄刑法
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-637a.14
+    textline: 慢棄刑法
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T05:34:33.2+09:00'

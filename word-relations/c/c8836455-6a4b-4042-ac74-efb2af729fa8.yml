@@ -1,0 +1,18 @@
+uuid: c8836455-6a4b-4042-ac74-efb2af729fa8
+type: word-relation
+group_uuid: 37708b52-4f5d-5bb0-bdbc-f03a29d26100
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e59e4003-09bc-4625-869b-6ea0a2d01db6
+  text: 姓
+  concept: PERSONAL NAME
+  concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+right:
+  word_uuid: d669e521-0309-42b6-a280-a1a371f19a10
+  text: 名
+  concept: PERSONAL NAME
+  concept_uuid: ae696dd3-dbe6-46ff-b2e7-db552dd29ea0
+source:
+  source_file: word-relations.xml

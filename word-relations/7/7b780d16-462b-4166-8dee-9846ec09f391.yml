@@ -1,0 +1,32 @@
+uuid: 7b780d16-462b-4166-8dee-9846ec09f391
+type: word-relation
+group_uuid: 7b780d16-462b-4166-8dee-9846ec09f391
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c70cbcd5-4a5f-4e21-be53-8c1a56585356
+  text: 神
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 史記
+    line_uuid: d8884649-0051-4275-b346-3fc374e75c70
+    line_id: KR2a0001_tls_012-631a.57
+    textline: 而神靈之封居七千
+    offset: 2
+    range: 1
+right:
+  word_uuid: 963e31b9-f5ce-463c-b1fd-45894f0429dc
+  text: 靈
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 史記
+    line_uuid: d8884649-0051-4275-b346-3fc374e75c70
+    line_id: KR2a0001_tls_012-631a.57
+    textline: 而神靈之封居七千
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

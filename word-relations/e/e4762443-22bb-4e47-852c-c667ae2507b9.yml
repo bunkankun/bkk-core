@@ -1,0 +1,32 @@
+uuid: e4762443-22bb-4e47-852c-c667ae2507b9
+type: word-relation
+group_uuid: 779af34c-b073-41ec-99f3-a640c80d50e5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: aaffd4e2-73b0-450c-b5d1-c06478ad1b9b
+    line_id: KR3c0005_tls_020-59a.4
+    textline: 不可謂能有其國
+    offset: 7
+    range: 1
+right:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 韓非子
+    line_uuid: a9f0f37e-cebc-4ac4-b617-192983a5540e
+    line_id: KR3c0005_tls_020-59a.5
+    textline: 能保其身
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

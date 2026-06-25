@@ -1,0 +1,21 @@
+uuid: 03392ee0-8bb3-41f6-8151-cb82c95899a2
+type: word-relation
+group_uuid: def3971a-9d2d-5dc4-a64c-352d32d2b1a7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 03b83004-8a84-4bb0-939b-9acc9f4aceb7
+  text: 崇
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+right:
+  word_uuid: 18a1e90a-bc20-42f4-aecf-b2ff0e5f6bbe
+  text: 卑
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

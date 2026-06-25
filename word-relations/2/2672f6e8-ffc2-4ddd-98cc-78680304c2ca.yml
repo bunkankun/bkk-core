@@ -1,0 +1,32 @@
+uuid: 2672f6e8-ffc2-4ddd-98cc-78680304c2ca
+type: word-relation
+group_uuid: 2672f6e8-ffc2-4ddd-98cc-78680304c2ca
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ad238ebb-79fd-40c8-a1a0-3a77e47bc366
+  text: 雲
+  concept: CLOUD
+  concept_uuid: d1171ef5-87ca-4499-b68c-e4016f75693a
+  attestation:
+    text_title: 論語
+    line_uuid: 51765eba-259c-40b1-9417-2c4f78fb1a0a
+    line_id: KR1h0004_tls_007-21a.1
+    textline: 於我如浮雲
+    offset: 5
+    range: 1
+right:
+  word_uuid: c89ceaa1-c5ce-4c1e-bbbf-c6120bf3e392
+  text: 浮
+  concept: FLOAT
+  concept_uuid: e1ba4421-f44a-4cea-9437-74053c71d9eb
+  attestation:
+    text_title: 論語
+    line_uuid: 51765eba-259c-40b1-9417-2c4f78fb1a0a
+    line_id: KR1h0004_tls_007-21a.1
+    textline: 於我如浮雲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

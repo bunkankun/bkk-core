@@ -1,0 +1,32 @@
+uuid: f4b2047b-cc26-48ec-b204-7bcc2618ec84
+type: word-relation
+group_uuid: 8cd3834f-4a51-58f8-bc4e-1cb8fa7cb636
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e9a4cfa6-9704-4c46-a4cf-a697046c4637
+  text: 天地之間
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_012-5a.16
+    textline: 天地之間
+    offset: 1
+    range: 4
+right:
+  word_uuid: b501351c-ff45-4e06-8135-1cff451e06b4
+  text: 六合之內
+  concept: EVERYWHERE
+  concept_uuid: 36a8559e-d328-4d73-a9e4-0857690eeaa1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_012-5a.17
+    textline: 六合之內
+    offset: 1
+    range: 4
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-09T22:30:37.065+09:00'

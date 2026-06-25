@@ -1,0 +1,30 @@
+uuid: 280d6d02-4a67-4cbf-b7a7-1adefd0bed29
+type: word-relation
+group_uuid: 280d6d02-4a67-4cbf-b7a7-1adefd0bed29
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 98bb7b77-2b53-4b98-9496-8bb99efbfcb9
+  text: 啟
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 孟子
+    line_uuid: bac5cbf9-8052-4b79-9780-cadfc5043395
+    textline: 然後可以爰方啟行
+    offset: 7
+    range: 1
+right:
+  word_uuid: 62557396-2051-43a3-a111-f450581f0799
+  text: 行
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 孟子
+    line_uuid: bac5cbf9-8052-4b79-9780-cadfc5043395
+    textline: 然後可以爰方啟行
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

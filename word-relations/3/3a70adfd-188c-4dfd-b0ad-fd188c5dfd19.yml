@@ -1,0 +1,32 @@
+uuid: 3a70adfd-188c-4dfd-b0ad-fd188c5dfd19
+type: word-relation
+group_uuid: 59ca736d-9b71-5430-a230-57ecf19fa201
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1fe70274-ce84-4009-a705-67e76239fc4d
+  text: 量
+  concept: MEASURE
+  concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-75a.5
+    textline: 食人以壯為量
+    offset: 6
+    range: 1
+right:
+  word_uuid: 10cee9f4-8b12-47fd-beb7-503c249990c0
+  text: 程
+  concept: MEASURE
+  concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-75a.6
+    textline: 事人以老為程
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-23T05:12:27.217+09:00'

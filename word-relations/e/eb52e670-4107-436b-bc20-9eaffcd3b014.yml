@@ -1,0 +1,32 @@
+uuid: eb52e670-4107-436b-bc20-9eaffcd3b014
+type: word-relation
+group_uuid: eb52e670-4107-436b-bc20-9eaffcd3b014
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 20dde62e-738a-4ca9-8879-ab4d63c915c1
+  text: 枯
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+  attestation:
+    text_title: 論衡
+    line_uuid: 10d03ce6-233f-416b-b305-5f691570b20c
+    line_id: KR3j0080_tls_004-3a.7
+    textline: 枯死而墮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 論衡
+    line_uuid: 10d03ce6-233f-416b-b305-5f691570b20c
+    line_id: KR3j0080_tls_004-3a.7
+    textline: 枯死而墮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

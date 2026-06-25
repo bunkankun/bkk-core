@@ -1,0 +1,32 @@
+uuid: 3fceeb1d-3320-4fd7-b91a-737529587c0d
+type: word-relation
+group_uuid: bca3d704-7258-405b-980b-138818720c74
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 108d8a6c-1bac-4dfc-81b3-4aac99783165
+  text: 功
+  concept: SUCCEED
+  concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+  attestation:
+    text_title: 韓非子
+    line_uuid: aad15369-4335-4c35-a919-07d75aaa242c
+    line_id: KR3c0005_tls_014-10a.6
+    textline: 積功勞而求安
+    offset: 2
+    range: 1
+right:
+  word_uuid: 13d9f362-fc1c-49df-bbfe-b6b3779f4fc7
+  text: 勞
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 韓非子
+    line_uuid: aad15369-4335-4c35-a919-07d75aaa242c
+    line_id: KR3c0005_tls_014-10a.6
+    textline: 積功勞而求安
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

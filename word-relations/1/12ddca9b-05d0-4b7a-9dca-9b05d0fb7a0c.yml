@@ -1,0 +1,32 @@
+uuid: 12ddca9b-05d0-4b7a-9dca-9b05d0fb7a0c
+type: word-relation
+group_uuid: a6967060-28ed-569d-831f-b649869bfbe8
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 338ddf66-a845-41e8-9101-64aa32a68ea3
+  text: 喜
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.7
+    textline: 喜不加易
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0e287446-a0d6-42bb-bf09-a229ff4ed277
+  text: 怒
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.8
+    textline: 怒不加難
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-02T03:18:42.927+09:00'

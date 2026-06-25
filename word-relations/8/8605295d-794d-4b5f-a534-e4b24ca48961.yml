@@ -1,0 +1,32 @@
+uuid: 8605295d-794d-4b5f-a534-e4b24ca48961
+type: word-relation
+group_uuid: 8605295d-794d-4b5f-a534-e4b24ca48961
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: ec9b7a1d-87c4-43a9-9bc8-231ea63e7ecc
+  text: 謀
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 論語
+    line_uuid: ce284d15-1136-4221-9ee4-c1098476a675
+    line_id: KR1h0004_tls_007-14a.1
+    textline: 好謀而成者也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 論語
+    line_uuid: ce284d15-1136-4221-9ee4-c1098476a675
+    line_id: KR1h0004_tls_007-14a.1
+    textline: 好謀而成者也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

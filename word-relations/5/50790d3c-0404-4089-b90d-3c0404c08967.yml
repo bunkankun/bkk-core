@@ -1,0 +1,32 @@
+uuid: 50790d3c-0404-4089-b90d-3c0404c08967
+type: word-relation
+group_uuid: ec727da6-0b03-53c6-b6cd-22540ded3b7c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 554ff26e-0b7b-42a6-99e9-fb5b012d1d9c
+  text: 大
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 長短經
+    line_id: KR3j0015_CH7x2006_008-1a.2693
+    textline: 夫天下以紂為大
+    offset: 8
+    range: 1
+right:
+  word_uuid: 7c63e166-20c0-4b94-a3c1-71d1b95cbe76
+  text: 細
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 長短經
+    line_id: KR3j0015_CH7x2006_008-1a.2694
+    textline: 以周為細
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-11-03T02:04:55.252+09:00'

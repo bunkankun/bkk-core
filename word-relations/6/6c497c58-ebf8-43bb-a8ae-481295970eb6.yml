@@ -1,0 +1,30 @@
+uuid: 6c497c58-ebf8-43bb-a8ae-481295970eb6
+type: word-relation
+group_uuid: 6c497c58-ebf8-43bb-a8ae-481295970eb6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c720e417-a271-4b6f-a3c9-0b3edc56a983
+  text: 增
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 57050763-0762-46b9-ae6c-9f1dc622ced0
+    textline: 以增父母之羞
+    offset: 2
+    range: 1
+right:
+  word_uuid: dbbd252b-fb4b-49a8-8563-8676c58ef909
+  text: 益
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 1d3fd2a5-6844-4573-96e2-8bb680d97e70
+    textline: 以益中外之累
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

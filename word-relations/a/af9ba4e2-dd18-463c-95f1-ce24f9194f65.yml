@@ -1,0 +1,32 @@
+uuid: af9ba4e2-dd18-463c-95f1-ce24f9194f65
+type: word-relation
+group_uuid: 763654c4-8041-4ccb-a943-bd5225831623
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: af019603-1f72-4dcd-906f-23439a376067
+  text: 方
+  concept: SQUARE
+  concept_uuid: ff492103-d171-4ff2-bea1-70c36deb3067
+  attestation:
+    text_title: 韓非子
+    line_uuid: ba87da9c-418c-4778-ade5-3a393b0af1ca
+    line_id: KR3c0005_tls_014-58a.4
+    textline: 雖王爾不能以成方圓
+    offset: 8
+    range: 1
+right:
+  word_uuid: 32b922d6-b37d-453f-b3d5-56bcaa5f91a9
+  text: 圓
+  concept: CIRCLE
+  concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+  attestation:
+    text_title: 韓非子
+    line_uuid: ba87da9c-418c-4778-ade5-3a393b0af1ca
+    line_id: KR3c0005_tls_014-58a.4
+    textline: 雖王爾不能以成方圓
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

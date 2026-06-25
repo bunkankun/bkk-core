@@ -1,0 +1,18 @@
+uuid: c0f7394c-3c4e-4829-a09b-6b71e3c24ad6
+type: word-relation
+group_uuid: 7f79fc31-c63b-590b-b343-a85ae5bbf281
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: f0fb7cc1-406e-46de-b6ad-5cf2f21bbbb8
+  text: 思
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+source:
+  source_file: word-relations.xml

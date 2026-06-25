@@ -1,0 +1,32 @@
+uuid: 05433446-0b37-4bd1-ae01-ed7488e3758c
+type: word-relation
+group_uuid: 05433446-0b37-4bd1-ae01-ed7488e3758c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8f265e41-a6f9-4026-8c13-bf7ab3a1e344
+  text: 負
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 論衡
+    line_uuid: eb9b21f7-421c-4cf4-aa54-2bdea3e9baf2
+    line_id: KR3j0080_tls_037-9a.32
+    textline: 身能負荷千鈞
+    offset: 3
+    range: 1
+right:
+  word_uuid: f64c6f21-1dd5-444e-963d-3b6ac259ddc8
+  text: 荷
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 論衡
+    line_uuid: eb9b21f7-421c-4cf4-aa54-2bdea3e9baf2
+    line_id: KR3j0080_tls_037-9a.32
+    textline: 身能負荷千鈞
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

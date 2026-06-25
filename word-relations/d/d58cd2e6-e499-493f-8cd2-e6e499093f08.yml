@@ -1,0 +1,32 @@
+uuid: d58cd2e6-e499-493f-8cd2-e6e499093f08
+type: word-relation
+group_uuid: de138bb2-6b41-5895-b8de-506370448a09
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2c784faa-2f45-4393-a118-a48090d44b36
+  text: 濁
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.14
+    textline: 濁而徐清
+    offset: 1
+    range: 1
+right:
+  word_uuid: 219ebe48-fe1e-4fd0-aede-cca5f38a2ff6
+  text: 清
+  concept: CLEAN
+  concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.14
+    textline: 濁而徐清
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-24T04:50:00.382+09:00'

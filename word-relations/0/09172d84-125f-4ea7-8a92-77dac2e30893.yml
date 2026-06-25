@@ -1,0 +1,32 @@
+uuid: 09172d84-125f-4ea7-8a92-77dac2e30893
+type: word-relation
+group_uuid: ce779c6b-6ea2-41f7-9b27-1a0fde23cdf8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6297d090-eb77-4ef4-b0b0-e1f7febdf177
+  text: 壯
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 2ab2f925-71e5-4054-b2e4-3ff9f6340c58
+    line_id: KR1c0066_tls_007-25a.47
+    textline: 壯者趨而進
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2ddc5f20-543c-4c13-9c95-82b3e6eed186
+  text: 老
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: bc5c1311-3474-4f37-9ef6-57df6fbcf4f2
+    line_id: KR1c0066_tls_007-25a.48
+    textline: 老者扶而至
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

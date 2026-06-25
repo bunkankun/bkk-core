@@ -1,0 +1,32 @@
+uuid: 320d28c2-d0c9-4fec-a964-73cea1298286
+type: word-relation
+group_uuid: 9cffaa18-c8b6-4a9a-8b3b-efcbb510440c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 40905350-1909-4417-81e9-3b09eaa62da5
+    line_id: KR3a0047_tls_094-117a.10
+    textline: 惟我與爾有是夫
+    offset: 2
+    range: 1
+right:
+  word_uuid: f247efa1-49a9-4537-ad10-473b87e11741
+  text: 爾
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 論語
+    line_uuid: 40905350-1909-4417-81e9-3b09eaa62da5
+    line_id: KR3a0047_tls_094-117a.10
+    textline: 惟我與爾有是夫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

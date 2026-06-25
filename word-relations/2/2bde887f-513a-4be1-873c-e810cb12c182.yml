@@ -1,0 +1,32 @@
+uuid: 2bde887f-513a-4be1-873c-e810cb12c182
+type: word-relation
+group_uuid: 2bde887f-513a-4be1-873c-e810cb12c182
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 99b90363-4722-4ea8-84c5-59427a69a5bd
+  text: 為
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 老子
+    line_uuid: be045b67-3aa5-4143-8591-6dadb3501fc1
+    line_id: KR5c0057_tls_002-1a.13
+    textline: 是以聖人處無為之事
+    offset: 7
+    range: 1
+right:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 老子
+    line_uuid: 85b835cb-d494-4612-a975-426426852219
+    line_id: KR5c0057_tls_002-1a.14
+    textline: 行不言之教
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4880b7e2-af2a-4103-8c5f-9b35204ee74a
+type: word-relation
+group_uuid: 4880b7e2-af2a-4103-8c5f-9b35204ee74a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8c09fdd3-3033-488d-8fc4-4a23b1c821d4
+  text: 被
+  concept: SUFFER
+  concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1facc05d-8490-4e78-90ca-e9de23d2fc83
+    line_id: KR3c0005_tls_014-30a.5
+    textline: 而被刑者眾
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1facc05d-8490-4e78-90ca-e9de23d2fc83
+    line_id: KR3c0005_tls_014-30a.5
+    textline: 而被刑者眾
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 37f182b0-a413-48c9-be42-4e14b1e37337
+type: word-relation
+group_uuid: 69a40a22-f5a4-421e-9fa1-f0cc0b8e0b48
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3d0d905e-90c1-4f8f-bc00-4e4f51beb5c8
+  text: 盜
+  concept: THIEF
+  concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7574a48d-a565-4b78-be0d-6c65472f0fb2
+    line_id: KR3c0005_tls_032-114a.6
+    textline: 國無盜賊
+    offset: 3
+    range: 1
+right:
+  word_uuid: c24e573d-4bd7-4bea-b7fe-0c268d7bcf22
+  text: 賊
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7574a48d-a565-4b78-be0d-6c65472f0fb2
+    line_id: KR3c0005_tls_032-114a.6
+    textline: 國無盜賊
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

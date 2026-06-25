@@ -1,0 +1,18 @@
+uuid: e7a068f1-896b-4d51-90e2-7499596d25e1
+type: word-relation
+group_uuid: 1cb2b5c8-c910-5e54-8db1-b16ad5c43e7b
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 826a1579-ef3e-4410-8b17-edf76e7d8b19
+  text: 飲
+  concept: DRINK
+  concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+right:
+  word_uuid: 5054c394-e57f-405d-bdfe-2e7d2a3b41fd
+  text: 酒
+  concept: LIQUOR
+  concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+source:
+  source_file: word-relations.xml

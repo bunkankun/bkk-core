@@ -1,0 +1,35 @@
+uuid: 1cd0412e-5d51-455f-a9a1-f54c3ae3c1a8
+type: word-relation
+group_uuid: 4bcfe849-4388-4e62-8215-abce393b39f3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c11a718-b311-4934-bf37-ac501acff3ff
+    line_id: KR3c0005_tls_020-99a.4
+    textline: 禍害至
+    offset: 1
+    range: 1
+right:
+  word_uuid: b1c3c955-c1ae-444a-a0fa-734672e58648
+  text: 害
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c11a718-b311-4934-bf37-ac501acff3ff
+    line_id: KR3c0005_tls_020-99a.4
+    textline: 禍害至
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

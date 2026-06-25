@@ -1,0 +1,31 @@
+uuid: 1f8af384-8b48-40d0-8af1-8163a79a63c6
+type: word-relation
+group_uuid: 1f8af384-8b48-40d0-8af1-8163a79a63c6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b0068e61-a227-49bd-9395-c186eb0bad27
+  text: 智
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 管子
+    line_uuid: 324be7c5-0670-4ffb-a3aa-1c634e2db0ee
+    textline: 智者能牧（收）之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 管子
+    line_uuid: 6b9ae2be-6de8-4220-aaa8-3c8091cb400c
+    line_id: KR3c0001_tls_012-10a.7
+    textline: 則強者能守之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

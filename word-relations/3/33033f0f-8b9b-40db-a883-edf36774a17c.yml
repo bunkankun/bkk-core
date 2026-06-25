@@ -1,0 +1,21 @@
+uuid: 33033f0f-8b9b-40db-a883-edf36774a17c
+type: word-relation
+group_uuid: ac62249b-bba9-5513-9db3-56f34b6861db
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6caea74a-8df7-417e-ac2e-6f6efba0e99c
+  text: 華
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+right:
+  word_uuid: f76cacbd-f3cc-4e20-8c08-30ab5a5633e9
+  text: 偽
+  concept: FAKE
+  concept_uuid: fa7b9375-f785-42a8-ad8f-5147463a21f4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

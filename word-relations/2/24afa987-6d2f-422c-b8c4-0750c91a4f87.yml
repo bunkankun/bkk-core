@@ -1,0 +1,32 @@
+uuid: 24afa987-6d2f-422c-b8c4-0750c91a4f87
+type: word-relation
+group_uuid: 24afa987-6d2f-422c-b8c4-0750c91a4f87
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: b52855f3-af43-46b9-846c-d618c6b0854a
+  text: 繪
+  concept: PAINT
+  concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+  attestation:
+    text_title: 論語
+    line_uuid: c700b957-83b2-4d44-aeca-a188fc1cc952
+    line_id: KR1h0004_tls_003-9a.1
+    textline: 「繪事後素
+    offset: 2
+    range: 1
+right:
+  word_uuid: 38c52fac-716c-4678-98c0-c4ab66442ce0
+  text: 事
+  concept: THING
+  concept_uuid: 489631ae-4197-44be-afeb-b5b1ccf0d2c8
+  attestation:
+    text_title: 論語
+    line_uuid: c700b957-83b2-4d44-aeca-a188fc1cc952
+    line_id: KR1h0004_tls_003-9a.1
+    textline: 「繪事後素
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: 2ede5d3e-6e35-4141-9bfe-048b6b12f1f6
+type: word-relation
+group_uuid: 2ede5d3e-6e35-4141-9bfe-048b6b12f1f6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7aa57cc2-d1c8-4266-82d2-0a972a406e6d
+  text: 有
+  concept: EXIST
+  concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+  attestation:
+    text_title: 老子
+    line_uuid: e290b6c3-241f-4e24-a005-4962e934869c
+    line_id: KR5c0057_tls_040-1a.5
+    textline: 天下萬物生於有
+    offset: 7
+    range: 1
+right:
+  word_uuid: 5c58beee-db25-45f2-9a93-c48e4d12b7e5
+  text: 無
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 老子
+    line_uuid: ee8f6921-775f-44d3-b20c-3d025d6e3b8b
+    line_id: KR5c0057_tls_040-1a.6
+    textline: 有生於無
+    range: 1
+source:
+  source_file: word-relations.xml

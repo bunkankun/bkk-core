@@ -1,0 +1,35 @@
+uuid: 475a800a-89d7-4a6b-b669-efbfba9cebc4
+type: word-relation
+group_uuid: 475a800a-89d7-4a6b-b669-efbfba9cebc4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2db8b174-7a40-487f-b954-8f007fa7f4df
+  text: 冀
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+  attestation:
+    text_title: 論衡
+    line_uuid: a6e7f1fa-9037-4884-aa85-1662366c289f
+    line_id: KR3j0080_tls_006-4a.18
+    textline: 非所冀望
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3dc1691c-96bb-45d7-9048-da500ae22596
+  text: 望
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+  attestation:
+    text_title: 論衡
+    line_uuid: a6e7f1fa-9037-4884-aa85-1662366c289f
+    line_id: KR3j0080_tls_006-4a.18
+    textline: 非所冀望
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

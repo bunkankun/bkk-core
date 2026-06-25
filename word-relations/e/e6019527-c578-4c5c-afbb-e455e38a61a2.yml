@@ -1,0 +1,32 @@
+uuid: e6019527-c578-4c5c-afbb-e455e38a61a2
+type: word-relation
+group_uuid: e6019527-c578-4c5c-afbb-e455e38a61a2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5d0eba96-bf2e-441a-8e24-8e0726d95994
+  text: 淫
+  concept: LEWD
+  concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+  attestation:
+    text_title: 楚辭
+    line_uuid: c6c2f114-041b-4bc0-827f-a477a8235d2c
+    line_id: KR4a0001_tls_005-7a.13
+    textline: 神要眇以淫放
+    offset: 5
+    range: 1
+right:
+  word_uuid: d594563d-7fcf-46b8-94f3-b348dacf4bbd
+  text: 放
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 楚辭
+    line_uuid: c6c2f114-041b-4bc0-827f-a477a8235d2c
+    line_id: KR4a0001_tls_005-7a.13
+    textline: 神要眇以淫放
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4a55727c-35dd-491c-810e-8bae3f2715b6
+type: word-relation
+group_uuid: 4a55727c-35dd-491c-810e-8bae3f2715b6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 論語
+    line_uuid: 9d999e41-0661-400d-b6f7-5123c6aba0a4
+    line_id: KR1h0004_tls_002-16a.3
+    textline: 「學而不思則罔
+    offset: 2
+    range: 1
+right:
+  word_uuid: f0fb7cc1-406e-46de-b6ad-5cf2f21bbbb8
+  text: 思
+  concept: THINK
+  concept_uuid: 5654d5cc-b8bd-493b-a7d7-27a6675768b4
+  attestation:
+    text_title: 論語
+    line_uuid: bc318387-b6bf-439d-a543-ce4b31a6caec
+    line_id: KR1h0004_tls_002-17a.1
+    textline: 思而不學則殆
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

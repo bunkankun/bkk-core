@@ -1,0 +1,32 @@
+uuid: 4037f271-294b-463d-b7f2-71294ba63dec
+type: word-relation
+group_uuid: bccd9c68-d3f3-57a0-8065-b97203c41d26
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_012-14a.13
+    textline: 汝方將忘汝神氣
+    offset: 6
+    range: 1
+right:
+  word_uuid: 58992b8a-43a9-446e-b917-8f823dcd2c31
+  text: 氣
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_012-14a.13
+    textline: 汝方將忘汝神氣
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:18:34.848+09:00'

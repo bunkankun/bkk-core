@@ -1,0 +1,32 @@
+uuid: 67f1d062-5d60-47ad-9b14-26a3738b83f8
+type: word-relation
+group_uuid: bc7554fb-0ddf-4d0b-a4be-afb9e0b73f1d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 毛詩
+    line_uuid: 745ac99c-d251-4722-93f3-c25bf159661c
+    line_id: KR1c0001_tls_007-77a.1
+    textline: 悔予不將兮
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 毛詩
+    line_uuid: e5d99685-80fd-4c04-a043-fae63877968f
+    line_id: KR1c0001_tls_007-76a.3
+    textline: 俟我乎堂兮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

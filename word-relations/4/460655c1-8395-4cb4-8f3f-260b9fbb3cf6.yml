@@ -1,0 +1,32 @@
+uuid: 460655c1-8395-4cb4-8f3f-260b9fbb3cf6
+type: word-relation
+group_uuid: 460655c1-8395-4cb4-8f3f-260b9fbb3cf6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a5c4e4e-268f-4829-877e-08332e0baf0c
+  text: 官
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea1c97d0-5ece-4449-9e50-3064e5cb7a11
+    line_id: KR3c0005_tls_015-26a.4
+    textline: 官吏弱而人民桀
+    offset: 1
+    range: 1
+right:
+  word_uuid: d9d803d3-2cfa-46e8-a267-09ee19433986
+  text: 吏
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea1c97d0-5ece-4449-9e50-3064e5cb7a11
+    line_id: KR3c0005_tls_015-26a.4
+    textline: 官吏弱而人民桀
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

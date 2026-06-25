@@ -1,0 +1,32 @@
+uuid: 200512f8-68dd-4c5f-a7af-635092e93386
+type: word-relation
+group_uuid: 200512f8-68dd-4c5f-a7af-635092e93386
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 論語
+    line_uuid: 31797b38-73f3-4876-99d6-0c1e3cbbe64f
+    line_id: KR1h0004_tls_006-37a.3
+    textline: 「如有博施於民而能濟眾
+    offset: 7
+    range: 1
+right:
+  word_uuid: dad411c5-612e-4f87-aba5-78790cfeda1b
+  text: 眾
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 論語
+    line_uuid: 31797b38-73f3-4876-99d6-0c1e3cbbe64f
+    line_id: KR1h0004_tls_006-37a.3
+    textline: 「如有博施於民而能濟眾
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

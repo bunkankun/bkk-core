@@ -1,0 +1,32 @@
+uuid: 14930c82-0b19-402f-8948-1e2c5fd1ac07
+type: word-relation
+group_uuid: 14930c82-0b19-402f-8948-1e2c5fd1ac07
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1dc8a066-eb41-4f68-9262-d453f28b1927
+  text: 始
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 老子
+    line_uuid: 2dbde87a-6a88-4b3c-a42c-51eeb3c053a8
+    line_id: KR3a0047_tls_125-19a.21
+    textline: 無名天地之始
+    offset: 6
+    range: 1
+right:
+  word_uuid: 4987600e-1705-4c8c-bf14-781c0a4ef2f6
+  text: 母
+  concept: SOURCE
+  concept_uuid: 002e6d74-ef11-42bd-87c7-8e86e8b59641
+  attestation:
+    text_title: 老子
+    line_uuid: 8bb8d0ef-6540-4482-9f7c-7d4ffe79e067
+    line_id: KR3a0047_tls_125-19a.22
+    textline: 有名萬物之母
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

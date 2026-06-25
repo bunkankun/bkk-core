@@ -1,0 +1,34 @@
+uuid: 54389e0f-db88-4ef8-b998-308c1e1c3b87
+type: word-relation
+group_uuid: 54389e0f-db88-4ef8-b998-308c1e1c3b87
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 10fa883e-b4a3-4455-a0cc-cbd516e8defe
+    textline: 不一圖主之國
+    offset: 6
+    range: 1
+right:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 23d8122b-8329-49b4-8d47-f78cf0d9065a
+    line_id: KR3c0005_tls_006-14a.8
+    textline: 百慮私家之便
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

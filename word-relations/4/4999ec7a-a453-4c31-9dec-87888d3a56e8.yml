@@ -1,0 +1,32 @@
+uuid: 4999ec7a-a453-4c31-9dec-87888d3a56e8
+type: word-relation
+group_uuid: 4999ec7a-a453-4c31-9dec-87888d3a56e8
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: c9896145-bc67-4ba7-b880-5a7533377bef
+    line_id: KR1h0004_tls_003-21a.4
+    textline: 樂而不淫
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5d0eba96-bf2e-441a-8e24-8e0726d95994
+  text: 淫
+  concept: LEWD
+  concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+  attestation:
+    text_title: 論語
+    line_uuid: c9896145-bc67-4ba7-b880-5a7533377bef
+    line_id: KR1h0004_tls_003-21a.4
+    textline: 樂而不淫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

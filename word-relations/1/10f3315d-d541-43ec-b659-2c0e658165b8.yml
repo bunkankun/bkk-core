@@ -1,0 +1,32 @@
+uuid: 10f3315d-d541-43ec-b659-2c0e658165b8
+type: word-relation
+group_uuid: 10f3315d-d541-43ec-b659-2c0e658165b8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4358b5ae-1f5f-40c7-8fa8-1851f84f422a
+  text: 御者
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: d18cd9c3-1ee0-483f-bd0f-357bc68137d6
+    line_id: KR1c0066_tls_008-32a.5
+    textline: 以問於御者曰
+    offset: 4
+    range: 2
+right:
+  word_uuid: bcaa221d-d7c9-4338-b326-b27751c78b4f
+  text: 御
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: ca48d17e-0d20-42e9-9eb0-ba2c817a79c3
+    line_id: KR1c0066_tls_006-11a.84
+    textline: 御曰
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

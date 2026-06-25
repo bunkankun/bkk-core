@@ -1,0 +1,34 @@
+uuid: 1448ac6a-9b6e-453c-b014-674833efe48d
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論衡
+    line_uuid: 11d6e188-2836-4fe9-848f-97405f0bcf00
+    line_id: KR3j0080_tls_023-27a.42
+    textline: 君子之人無為恐也
+    offset: 1
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 7075f9b0-0310-441f-b391-3523a414b2c6
+    textline: 小人乃當懼耳
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

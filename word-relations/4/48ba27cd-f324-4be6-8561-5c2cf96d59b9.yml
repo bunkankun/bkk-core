@@ -1,0 +1,32 @@
+uuid: 48ba27cd-f324-4be6-8561-5c2cf96d59b9
+type: word-relation
+group_uuid: 48ba27cd-f324-4be6-8561-5c2cf96d59b9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4f58b068-ba51-4abb-9e6b-ddad147cd012
+  text: 柢
+  concept: ROOT
+  concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+  attestation:
+    text_title: 韓非子
+    line_uuid: b6a94632-0f79-4ba8-81b5-20ca9d18c296
+    line_id: KR3c0005_tls_020-67a.2
+    textline: 柢固
+    offset: 1
+    range: 1
+right:
+  word_uuid: fc18723f-79cd-4e12-b5c8-bfe91d8c6522
+  text: 根
+  concept: ROOT
+  concept_uuid: e87bc63d-c864-401a-880a-5c002ce0b39b
+  attestation:
+    text_title: 韓非子
+    line_uuid: e92e00f0-39c0-47c6-b520-62ad8ff95ef8
+    line_id: KR3c0005_tls_020-67a.4
+    textline: 根深
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

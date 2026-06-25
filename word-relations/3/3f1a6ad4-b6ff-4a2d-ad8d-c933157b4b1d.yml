@@ -1,0 +1,18 @@
+uuid: 3f1a6ad4-b6ff-4a2d-ad8d-c933157b4b1d
+type: word-relation
+group_uuid: 4d76191c-3dc7-5484-9ad8-d92ac0983bd0
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+right:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+source:
+  source_file: word-relations.xml

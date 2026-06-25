@@ -1,0 +1,30 @@
+uuid: b1c7ea11-3970-4bae-917c-040945715de1
+type: word-relation
+group_uuid: b1c7ea11-3970-4bae-917c-040945715de1
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 33c5997e-f2c9-4106-8b99-07effdf6d7f4
+  text: 形體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 楚辭
+    line_uuid: 654a886d-1bfe-4ef6-9c70-d194cd47aea8
+    textline: 哀形體之離解兮
+    offset: 2
+    range: 2
+right:
+  word_uuid: ac342b8f-6651-4658-8272-e89a04e23dd1
+  text: 神
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 楚辭
+    line_uuid: d49a497d-003a-4165-a9ff-90254c1aac11
+    textline: 神罔兩而無舍
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

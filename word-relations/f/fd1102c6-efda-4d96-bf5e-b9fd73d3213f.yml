@@ -1,0 +1,32 @@
+uuid: fd1102c6-efda-4d96-bf5e-b9fd73d3213f
+type: word-relation
+group_uuid: e8c6a78f-6c8a-4151-a643-2514f370dbf9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ea6fd31d-7545-4b7a-b751-8690fd4866f9
+  text: 富貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 論衡
+    line_uuid: 26ff052b-139d-499f-a2bc-e176c2c9a6c8
+    line_id: KR3j0080_tls_003-7a.42
+    textline: “富貴不違貧賤
+    offset: 2
+    range: 2
+right:
+  word_uuid: cfb5ec11-f440-4ade-9900-cecf07893b13
+  text: 貧賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 論衡
+    line_uuid: 26ff052b-139d-499f-a2bc-e176c2c9a6c8
+    line_id: KR3j0080_tls_003-7a.42
+    textline: “富貴不違貧賤
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml

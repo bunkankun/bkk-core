@@ -1,0 +1,32 @@
+uuid: c8a1bb16-aa30-4075-a1bb-16aa30a07553
+type: word-relation
+group_uuid: 62d40676-6f65-53ef-b688-ad5066aa5ea5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 86986c51-de30-4b9c-986c-51de30fb9c24
+  text: 自由
+  concept: INDEPENDENT
+  concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+  attestation:
+    text_title: 景德傳燈錄
+    line_id: KR6q0003_T_023-0393a.57
+    textline: 自由自在
+    offset: 2
+    range: 2
+right:
+  word_uuid: a3c635cb-f4f3-4831-ae10-bc07dde79236
+  text: 自在
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 景德傳燈錄
+    line_id: KR6q0003_T_023-0393a.57
+    textline: 自由自在
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-15T18:18:39.398+09:00'

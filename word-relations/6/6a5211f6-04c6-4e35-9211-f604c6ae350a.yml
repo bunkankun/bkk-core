@@ -1,0 +1,32 @@
+uuid: 6a5211f6-04c6-4e35-9211-f604c6ae350a
+type: word-relation
+group_uuid: d0af796a-57f9-50bb-8ae7-08a5ae51e641
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 46048a14-cb1c-495a-b50a-6353625243cd
+  text: 縣
+  concept: HANG
+  concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_002-12a.3
+    textline: 縣法設賞而不能移風易俗者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_002-12a.3
+    textline: 縣法設賞而不能移風易俗者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T19:24:48.903+09:00'

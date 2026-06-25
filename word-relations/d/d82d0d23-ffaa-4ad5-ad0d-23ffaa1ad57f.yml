@@ -1,0 +1,32 @@
+uuid: d82d0d23-ffaa-4ad5-ad0d-23ffaa1ad57f
+type: word-relation
+group_uuid: a0b82f8d-c816-56d0-93bb-66219d40c907
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c87acf29-bfaa-4131-ae44-2d12a7481fd1
+  text: 色
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_012-31a.19
+    textline: 色取仁而行違
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_012-31a.19
+    textline: 色取仁而行違
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-08-30T16:59:19.375+09:00'

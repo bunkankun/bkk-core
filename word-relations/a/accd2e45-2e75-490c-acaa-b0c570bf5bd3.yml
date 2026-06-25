@@ -1,0 +1,35 @@
+uuid: accd2e45-2e75-490c-acaa-b0c570bf5bd3
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: 6adf73c6-64c4-4c0f-9781-8a963012d292
+    line_id: KR1h0004_tls_006-19a.3
+    textline: 「女為君子儒
+    offset: 4
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論語
+    line_uuid: 7b3df500-1c06-4e90-9454-8bc34c747e46
+    line_id: KR1h0004_tls_006-20a.1
+    textline: 無為小人儒
+    offset: 3
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

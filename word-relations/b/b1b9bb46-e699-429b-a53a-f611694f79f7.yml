@@ -1,0 +1,18 @@
+uuid: b1b9bb46-e699-429b-a53a-f611694f79f7
+type: word-relation
+group_uuid: 753095e5-eb67-52f8-a647-bc385849cfb3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9fe57d1d-7610-4266-860a-e0879d134fc6
+  text: 計
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+right:
+  word_uuid: ee4e5293-84d1-4b15-9624-f6c593f6e049
+  text: 度
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+source:
+  source_file: word-relations.xml

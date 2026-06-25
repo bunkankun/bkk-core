@@ -1,0 +1,35 @@
+uuid: 944a53f3-ba7f-4fc9-b37e-92211b0e0427
+type: word-relation
+group_uuid: 944a53f3-ba7f-4fc9-b37e-92211b0e0427
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 荀子
+    line_uuid: cb816065-f051-45e7-adf1-33665e12232b
+    line_id: KR3a0002_tls_002-3a.15
+    textline: 易言曰誕
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 荀子
+    line_uuid: ff2cc66e-7707-47e0-a9fd-9ce7484eb3e4
+    line_id: KR3a0002_tls_002-3a.14
+    textline: 匿行曰詐
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

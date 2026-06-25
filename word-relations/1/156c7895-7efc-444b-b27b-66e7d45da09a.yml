@@ -1,0 +1,21 @@
+uuid: 156c7895-7efc-444b-b27b-66e7d45da09a
+type: word-relation
+group_uuid: 3a448ac1-a370-50e6-a715-e9d1f8d2fdea
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 22c25a42-c888-4919-8c93-2a44abd1d907
+  text: 街
+  concept: STREET
+  concept_uuid: 6be4dafa-85e2-4081-ae79-f782549eeb53
+right:
+  word_uuid: 4874901a-2b34-444f-83c8-602cb8eb766c
+  text: 巷
+  concept: STREET
+  concept_uuid: 6be4dafa-85e2-4081-ae79-f782549eeb53
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

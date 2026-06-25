@@ -1,0 +1,32 @@
+uuid: 45fa49c2-6a9b-4038-a181-82b177363316
+type: word-relation
+group_uuid: 45fa49c2-6a9b-4038-a181-82b177363316
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 92f1a619-9fba-419e-a150-5d9ed757c5f6
+  text: 彌
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f177de4b-36c4-4341-a1b9-3233ea8862c3
+    line_id: KR1e0001_tls_005-433a.34
+    textline: 彌縫其闕
+    offset: 1
+    range: 1
+right:
+  word_uuid: ce02668d-48d2-487f-9e7b-601eaccfdf27
+  text: 縫
+  concept: SEW
+  concept_uuid: 842fab35-4816-4fb9-8bb7-01b5f2f0fdfe
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f177de4b-36c4-4341-a1b9-3233ea8862c3
+    line_id: KR1e0001_tls_005-433a.34
+    textline: 彌縫其闕
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

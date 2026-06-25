@@ -1,0 +1,32 @@
+uuid: ff99d61f-0e3d-4bda-99d6-1f0e3dfbda84
+type: word-relation
+group_uuid: bf6ae895-fe31-5af1-b964-1c9d80eb549f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2a57a523-d379-4951-97a5-23d379b9518c
+  text: 畫
+  concept: DEPICT
+  concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.30
+    textline: 今夫圖工好畫鬼魅
+    offset: 6
+    range: 1
+right:
+  word_uuid: 49491988-e319-43db-9b17-ca16577e9370
+  text: 圖
+  concept: DEPICT
+  concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.31
+    textline: 而憎圖狗馬者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-06T17:55:31.141+09:00'

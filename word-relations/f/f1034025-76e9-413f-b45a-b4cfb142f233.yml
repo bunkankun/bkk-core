@@ -1,0 +1,32 @@
+uuid: f1034025-76e9-413f-b45a-b4cfb142f233
+type: word-relation
+group_uuid: f1034025-76e9-413f-b45a-b4cfb142f233
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4274e974-9495-47ea-bd24-6fef0b7dcb44
+  text: 水
+  concept: WATER
+  concept_uuid: 911978fb-131c-4263-833a-eee4e9624af2
+  attestation:
+    text_title: 論語
+    line_uuid: 85bfc9f9-48ac-419d-9aa6-ef2ea7547b40
+    line_id: KR1h0004_tls_006-30a.3
+    textline: 「知者樂水
+    offset: 5
+    range: 1
+right:
+  word_uuid: 5a9ad312-3b67-41c4-8200-efd309275fb1
+  text: 山
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 論語
+    line_uuid: c13800e3-eaca-4861-9ad0-5911fbcdf35b
+    line_id: KR1h0004_tls_006-30a.4
+    textline: 仁者樂山
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

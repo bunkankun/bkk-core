@@ -1,0 +1,32 @@
+uuid: 418116dc-bf21-4a4f-b9a8-38e95b23c0ce
+type: word-relation
+group_uuid: 8a2a287b-64b1-4b03-8b95-0f462f7ac731
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 23c1c1e3-42e7-423f-bc30-56c61b6708c4
+    line_id: KR1e0001_tls_001-70a.25
+    textline: 少陵長
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3d4ba55e-ab6a-49f5-bfa3-c073f0ca45b4
+  text: 長
+  concept: SENIOR
+  concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 23c1c1e3-42e7-423f-bc30-56c61b6708c4
+    line_id: KR1e0001_tls_001-70a.25
+    textline: 少陵長
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

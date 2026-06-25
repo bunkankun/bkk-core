@@ -1,0 +1,21 @@
+uuid: 84159750-2504-424a-bf9b-cfda94965fe9
+type: word-relation
+group_uuid: 55339be7-d80f-5daa-a658-34dca62a8770
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4b4a9bc6-446a-4a10-8cab-fd4d47728894
+  text: 畫
+  concept: PAINT
+  concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+right:
+  word_uuid: 738bed84-716e-44bf-897b-35b5e3aee4a4
+  text: 圖
+  concept: PAINT
+  concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

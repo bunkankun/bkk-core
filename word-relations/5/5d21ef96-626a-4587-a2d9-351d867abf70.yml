@@ -1,0 +1,32 @@
+uuid: 5d21ef96-626a-4587-a2d9-351d867abf70
+type: word-relation
+group_uuid: 5d21ef96-626a-4587-a2d9-351d867abf70
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f63711d7-fa86-4e87-83c4-33152e4d86e8
+  text: 輔
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+  attestation:
+    text_title: 論衡
+    line_uuid: e4014870-cfe6-4024-ac71-d422722cc1f3
+    line_id: KR3j0080_tls_001-4a.30
+    textline: 皇者之輔也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 001b5066-c854-4959-8816-6db08c376577
+  text: 佐
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+  attestation:
+    text_title: 論衡
+    line_uuid: 55928ddf-a42e-44f5-a9cb-a501266c87a6
+    line_id: KR3j0080_tls_001-4a.33
+    textline: 帝者之佐也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

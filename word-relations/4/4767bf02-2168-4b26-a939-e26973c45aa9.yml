@@ -1,0 +1,32 @@
+uuid: 4767bf02-2168-4b26-a939-e26973c45aa9
+type: word-relation
+group_uuid: 0e810e3e-0cd3-4536-be24-6dfa2102bfda
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 老子
+    line_uuid: 9b1b7e69-0e79-48d5-9ec8-b347eba2605a
+    line_id: KR5c0057_tls_056-1a.14
+    textline: 不可得而利
+    offset: 6
+    range: 1
+right:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 老子
+    line_uuid: b393e9cd-b7e8-436f-b0b7-81f036fcaf1d
+    line_id: KR5c0386_tls_007-394a.11
+    textline: 不可得而害
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

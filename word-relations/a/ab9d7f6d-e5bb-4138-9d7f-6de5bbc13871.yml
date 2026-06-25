@@ -1,0 +1,32 @@
+uuid: ab9d7f6d-e5bb-4138-9d7f-6de5bbc13871
+type: word-relation
+group_uuid: 5372f48f-9876-582d-aeb3-e9e9ade8a60f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 92ef66c7-618a-4322-9ac5-5012967f87f7
+  text: 一
+  concept: ONCE
+  concept_uuid: e340dde7-51fa-4813-b278-58580f841f16
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-6a.24
+    textline: 一呼而不聞
+    offset: 1
+    range: 1
+right:
+  word_uuid: 75069bf8-5465-4676-9ea5-9e909370dc88
+  text: 再
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-6a.25
+    textline: 再呼而不聞
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-07T00:08:21.657+09:00'

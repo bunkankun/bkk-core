@@ -1,0 +1,32 @@
+uuid: 83b2d76d-08aa-4151-af25-779f0933d682
+type: word-relation
+group_uuid: 83b2d76d-08aa-4151-af25-779f0933d682
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8b7b7c23-69de-4e6c-b2a2-25e453803cc1
+  text: 裹
+  concept: BAG
+  concept_uuid: 6203b39e-77a2-434b-bf90-0a7ed4476aae
+  attestation:
+    text_title: 孟子
+    line_uuid: f1aea8cd-6d92-4d1c-893c-c9fc8f7031b5
+    line_id: KR1h0001_tls_002-37a.13
+    textline: 行者有裹囊也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 52c6fee0-c93e-45ed-a091-835e1ecaed38
+  text: 囊
+  concept: BAG
+  concept_uuid: 6203b39e-77a2-434b-bf90-0a7ed4476aae
+  attestation:
+    text_title: 孟子
+    line_uuid: f1aea8cd-6d92-4d1c-893c-c9fc8f7031b5
+    line_id: KR1h0001_tls_002-37a.13
+    textline: 行者有裹囊也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

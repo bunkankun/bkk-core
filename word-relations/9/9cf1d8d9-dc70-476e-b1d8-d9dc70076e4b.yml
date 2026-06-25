@@ -1,0 +1,32 @@
+uuid: 9cf1d8d9-dc70-476e-b1d8-d9dc70076e4b
+type: word-relation
+group_uuid: 0a45135c-a38b-5897-958a-d4f2ec1b3b58
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 091e67ab-db17-4145-9e67-abdb17914566
+  text: 舍
+  concept: REJECT
+  concept_uuid: c632e13b-a2ea-4b93-b2e1-3ba2eaab9325
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.7
+    textline: 文王舍伯邑考而用武王
+    offset: 3
+    range: 1
+right:
+  word_uuid: 42169a2c-79d1-4190-ae4c-d92e46c4eb31
+  text: 用
+  concept: USE
+  concept_uuid: bcbe1a3b-ce56-4144-8017-4e5b8417fc10
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.7
+    textline: 文王舍伯邑考而用武王
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T21:20:24.354+09:00'

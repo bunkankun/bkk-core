@@ -1,0 +1,32 @@
+uuid: 2589bcae-9202-4e73-ae30-12a50c1f4840
+type: word-relation
+group_uuid: 2ab966c2-2942-42bf-bfbe-85bdb6ea4a5b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fa306955-ab34-48a8-9453-a15c35962ec4
+  text: 肉
+  concept: MEAT
+  concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 71d945fc-36cd-46dc-abfb-698832b06856
+    line_id: KR3c0005_tls_008-1a.6
+    textline: 厚酒肥肉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0efb7a18-7246-44c9-8c15-35e1d01c2ad8
+  text: 肥
+  concept: FAT
+  concept_uuid: d1fe1333-ad06-4607-945c-1a9c64aba3ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: 71d945fc-36cd-46dc-abfb-698832b06856
+    line_id: KR3c0005_tls_008-1a.6
+    textline: 厚酒肥肉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

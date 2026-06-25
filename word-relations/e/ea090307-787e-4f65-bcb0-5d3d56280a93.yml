@@ -1,0 +1,31 @@
+uuid: ea090307-787e-4f65-bcb0-5d3d56280a93
+type: word-relation
+group_uuid: ea090307-787e-4f65-bcb0-5d3d56280a93
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 韓非子
+    line_uuid: 107418d0-5e75-44c0-b98d-f9b1a657e2ec
+    textline: 如是者功小
+    offset: 4
+    range: 1
+right:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3ce695ac-9da2-4106-a11c-33dc3d675cf5
+    line_id: KR3c0005_tls_018-16a.3
+    textline: 而害大矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

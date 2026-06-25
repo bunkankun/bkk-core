@@ -1,0 +1,35 @@
+uuid: 2c9e5e9e-4743-47f9-bc34-85fae97eb927
+type: word-relation
+group_uuid: 2c9e5e9e-4743-47f9-bc34-85fae97eb927
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 848967fb-96b0-4737-9dc7-a870db13a43b
+  text: 賜
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 百喻經
+    line_uuid: a0ec1dc1-2b46-492e-941b-3821fa88c4e4
+    line_id: KR6b0066_T_003-0553a.18
+    textline: 大賜珍寶
+    offset: 2
+    range: 1
+right:
+  word_uuid: ea4c9c89-79bd-48bf-ac0d-20f41fcef423
+  text: 加
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 百喻經
+    line_uuid: 83df3e61-9e77-46bb-86e0-d4b0eb0f2d5d
+    line_id: KR6b0066_T_003-0553a.17
+    textline: 厚加爵賞
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

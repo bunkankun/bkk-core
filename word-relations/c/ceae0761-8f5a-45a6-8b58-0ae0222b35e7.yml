@@ -1,0 +1,32 @@
+uuid: ceae0761-8f5a-45a6-8b58-0ae0222b35e7
+type: word-relation
+group_uuid: ceae0761-8f5a-45a6-8b58-0ae0222b35e7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ad43a8d3-6507-477f-b635-c1b6268bebf3
+  text: 饋
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 論語
+    line_uuid: db24ef29-2bff-4a81-a80b-067188246ff9
+    line_id: KR1h0004_tls_010-40a.2
+    textline: 朋友之饋
+    offset: 4
+    range: 1
+right:
+  word_uuid: 18f970cc-1276-44ff-b1b7-afbb4df6b0a0
+  text: 拜
+  concept: ACCEPT
+  concept_uuid: 063a52a8-1c98-4709-bec0-6631a60f73f9
+  attestation:
+    text_title: 論語
+    line_uuid: 7de1f89e-fb1e-461c-9416-bc087b9cd57b
+    line_id: KR1h0004_tls_010-40a.5
+    textline: 不拜
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

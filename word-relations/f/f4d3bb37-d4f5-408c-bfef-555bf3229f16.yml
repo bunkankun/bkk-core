@@ -1,0 +1,29 @@
+uuid: f4d3bb37-d4f5-408c-bfef-555bf3229f16
+type: word-relation
+group_uuid: f4d3bb37-d4f5-408c-bfef-555bf3229f16
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f393eeb5-7c51-4374-8c6d-a89f5173a580
+  text: 淡
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 文子
+    line_uuid: d05101f2-c6c6-4bdf-94bf-fe22b89215de
+    textline: 寂寥淡漠
+    range: 1
+right:
+  word_uuid: ea092ed9-79e3-4dd1-9eaa-dad1f73c6f26
+  text: 漠
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 文子
+    line_uuid: d05101f2-c6c6-4bdf-94bf-fe22b89215de
+    textline: 寂寥淡漠
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

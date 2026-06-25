@@ -1,0 +1,32 @@
+uuid: 0f7ada55-d56d-4bdb-92f6-0d48918a32e3
+type: word-relation
+group_uuid: 75371922-0338-4550-bb86-3b0fac31f7fa
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 50681e34-cf55-47a5-a87c-c7892be86c1c
+  text: 士
+  concept: SOLDIER
+  concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22cc97f4-178c-4506-832b-8803663e6719
+    line_id: KR3c0005_tls_002-2a.4
+    textline: 夫趙氏聚士卒
+    offset: 5
+    range: 1
+right:
+  word_uuid: 49591c8a-7a23-4c97-91ed-c94f1427c603
+  text: 卒
+  concept: SOLDIER
+  concept_uuid: e83e8799-6130-475b-92a5-924e740a449e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22cc97f4-178c-4506-832b-8803663e6719
+    line_id: KR3c0005_tls_002-2a.4
+    textline: 夫趙氏聚士卒
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

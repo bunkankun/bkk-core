@@ -1,0 +1,18 @@
+uuid: a6978d60-cb9f-4d92-b68c-347fb91d2633
+type: word-relation
+group_uuid: d044bee7-2d16-5089-a0b6-7d8809e0f770
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7905be86-427d-4e09-8070-264ba67c63c1
+  text: 幼
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+right:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+source:
+  source_file: word-relations.xml

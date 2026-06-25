@@ -1,0 +1,32 @@
+uuid: 76c83b4f-1ffb-4409-883b-4f1ffbf40911
+type: word-relation
+group_uuid: 1917c650-8df5-5047-a6fe-2c901fa20c06
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_074-8a.7
+    textline: 遣使者申諭道術守藩之義
+    offset: 6
+    range: 2
+right:
+  word_uuid: 9a97f2b7-ae6b-4ed5-a2ab-0a0b4958712f
+  text: 諭
+  concept: EXPLAIN
+  concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_074-8a.7
+    textline: 遣使者申諭道術守藩之義
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:17:20.319+09:00'

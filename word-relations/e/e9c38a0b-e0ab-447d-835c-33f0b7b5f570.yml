@@ -1,0 +1,31 @@
+uuid: e9c38a0b-e0ab-447d-835c-33f0b7b5f570
+type: word-relation
+group_uuid: e9c38a0b-e0ab-447d-835c-33f0b7b5f570
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9e500949-6a36-4f8e-99a0-f5be542c4e33
+  text: 鍼
+  concept: NEEDLE
+  concept_uuid: 31a8226c-d5cc-439f-bcfd-ba9e070309dd
+  attestation:
+    text_title: 新論
+    line_uuid: 28c7223a-58d3-444c-af0a-5708246605d7
+    line_id: KR3j0192_tls_001-11a.12
+    textline: 醫無鍼藥
+    range: 1
+right:
+  word_uuid: a7cc995b-aefc-4bc2-b4cc-e6186b192d0b
+  text: 藥
+  concept: DRUG
+  concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+  attestation:
+    text_title: 新論
+    line_uuid: 28c7223a-58d3-444c-af0a-5708246605d7
+    line_id: KR3j0192_tls_001-11a.12
+    textline: 醫無鍼藥
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9f01ae93-7a49-4ae1-953a-39800a684dff
+type: word-relation
+group_uuid: 9f01ae93-7a49-4ae1-953a-39800a684dff
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b9972c47-c1a3-44c1-ae5e-a86e82e616a8
+  text: 務
+  concept: STRIVE FOR
+  concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+  attestation:
+    text_title: 韓非子
+    line_uuid: cb2eb459-05a0-4a0d-a720-9df14f2f57b2
+    line_id: KR3c0005_tls_020-134a.3
+    textline: 務致其福
+    offset: 1
+    range: 1
+right:
+  word_uuid: fc8d73c5-c57e-4d6a-a27e-e1274fc35943
+  text: 事
+  concept: STRIVE FOR
+  concept_uuid: 1ab0d35c-7045-429c-b240-b3f1819dbdb1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3b4f6b58-75b0-47fb-a023-c5ec41a19192
+    line_id: KR3c0005_tls_020-134a.6
+    textline: 事除其禍
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: dc0aed55-be9c-44dd-bda0-b4c2c59a7f95
+type: word-relation
+group_uuid: 5527fed1-a7c4-4695-ab3e-cb88831fece3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7080c7ba-17bb-451f-958b-d9e13a781210
+  text: 骨
+  concept: BONE
+  concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+  attestation:
+    text_title: 韓非子
+    line_uuid: 34294bc2-9644-4c49-aaea-e89ca8feb720
+    line_id: KR3c0005_tls_017-12a.7
+    textline: 非骨肉之親也
+    offset: 2
+    range: 1
+right:
+  word_uuid: fa306955-ab34-48a8-9453-a15c35962ec4
+  text: 肉
+  concept: MEAT
+  concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 34294bc2-9644-4c49-aaea-e89ca8feb720
+    line_id: KR3c0005_tls_017-12a.7
+    textline: 非骨肉之親也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

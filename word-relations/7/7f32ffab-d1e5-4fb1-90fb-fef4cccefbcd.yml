@@ -1,0 +1,32 @@
+uuid: 7f32ffab-d1e5-4fb1-90fb-fef4cccefbcd
+type: word-relation
+group_uuid: 7f32ffab-d1e5-4fb1-90fb-fef4cccefbcd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b08850d9-183c-4f0e-9e41-310c60d553e6
+  text: 佚
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 管子
+    line_uuid: 1354e5ac-bbc4-448d-a999-0c3451b083b5
+    line_id: KR3c0001_tls_001-10a.7
+    textline: 我佚樂之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 11762a98-209f-4f58-88a3-dab36f1e046a
+  text: 樂
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 管子
+    line_uuid: 1354e5ac-bbc4-448d-a999-0c3451b083b5
+    line_id: KR3c0001_tls_001-10a.7
+    textline: 我佚樂之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

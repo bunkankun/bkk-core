@@ -1,0 +1,21 @@
+uuid: a445e162-be11-4572-ae0e-6204b3f4b911
+type: word-relation
+group_uuid: 15fa241c-2d18-58d8-b524-d6812d7f42ab
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b7774457-bf21-4f40-bcc8-2ba6c209465c
+  text: 答荅
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+right:
+  word_uuid: 02b8aa98-fb05-472e-be41-e17e9ee6fc04
+  text: 解
+  concept: EXPLAIN
+  concept_uuid: 65c1c732-370e-4a5c-ab62-3ebbc2b8cf71
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

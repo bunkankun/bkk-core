@@ -1,0 +1,21 @@
+uuid: 9ee4a409-9b8e-4056-b2b4-04cd0ab1e688
+type: word-relation
+group_uuid: 1aec5093-c965-5426-9455-7e40de349301
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 714ec2d4-37a0-4bca-b920-867c34223288
+  text: 廢
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+right:
+  word_uuid: 97fe5e79-b619-4b4b-b3da-d4265e7ac5a9
+  text: 成
+  concept: SUCCEED
+  concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

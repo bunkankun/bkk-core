@@ -1,0 +1,21 @@
+uuid: f968db70-ced3-4a12-99b6-2bf1699db204
+type: word-relation
+group_uuid: 1e2b15e0-cc0e-5f25-a6d9-b616f1bcdaad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+right:
+  word_uuid: 74ea11ee-92da-44ea-9393-d21440d1810a
+  text: 襲
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

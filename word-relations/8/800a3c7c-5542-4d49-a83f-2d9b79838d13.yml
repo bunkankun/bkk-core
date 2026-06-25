@@ -1,0 +1,31 @@
+uuid: 800a3c7c-5542-4d49-a83f-2d9b79838d13
+type: word-relation
+group_uuid: 800a3c7c-5542-4d49-a83f-2d9b79838d13
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: e89c54e7-3a48-4013-b2f5-6b339f3790f0
+    line_id: KR3c0005_tls_006-15a.6
+    textline: 然則主有人主之名
+    range: 1
+right:
+  word_uuid: 96949525-3c8a-4d2a-a5f2-3fcdaa01d04c
+  text: 人主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: e89c54e7-3a48-4013-b2f5-6b339f3790f0
+    line_id: KR3c0005_tls_006-15a.6
+    textline: 然則主有人主之名
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

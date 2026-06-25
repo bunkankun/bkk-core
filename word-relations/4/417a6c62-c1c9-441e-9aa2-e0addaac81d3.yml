@@ -1,0 +1,21 @@
+uuid: 417a6c62-c1c9-441e-9aa2-e0addaac81d3
+type: word-relation
+group_uuid: 07e7c251-10dc-5baa-b41d-c4a5a5cf2dc4
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: a1a7c269-70b0-4055-b4fa-df9f30e1c6dd
+  text: 乞
+  concept: BEG
+  concept_uuid: 87c1fbcd-a34c-47c5-b855-01de94c5d74c
+right:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 與予
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

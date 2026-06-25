@@ -1,0 +1,32 @@
+uuid: 8ba3c2b1-aaf3-4cfd-879b-79f2ecb31a94
+type: word-relation
+group_uuid: 8ba3c2b1-aaf3-4cfd-879b-79f2ecb31a94
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8b4d4759-8e87-4c4d-aa35-c576efd5b1e4
+    line_id: KR3j0009_tls_024-10a.17
+    textline: 吾將為子游
+    offset: 1
+    range: 1
+right:
+  word_uuid: 75ae2de0-8654-4d5a-be05-36fbb5ea6908
+  text: 子
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8b4d4759-8e87-4c4d-aa35-c576efd5b1e4
+    line_id: KR3j0009_tls_024-10a.17
+    textline: 吾將為子游
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

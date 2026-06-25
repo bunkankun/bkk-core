@@ -1,0 +1,32 @@
+uuid: b090fd27-9aa2-4987-b9a5-ff9b5344e41a
+type: word-relation
+group_uuid: b090fd27-9aa2-4987-b9a5-ff9b5344e41a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9347c419-bfee-4db6-811b-7f1902fc1317
+  text: 竹
+  concept: BAMBOO
+  concept_uuid: 9d68a969-067c-42a1-9ece-8ef21edca8e4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5d0b5b1c-7c30-4b97-853f-4ab64effd2d0
+    line_id: KR3j0009_tls_002-22a.12
+    textline: 故使莊王功跡著乎竹帛
+    offset: 9
+    range: 1
+right:
+  word_uuid: 2f0f487c-cb2c-4470-98f1-0705a2c7aaa4
+  text: 帛
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5d0b5b1c-7c30-4b97-853f-4ab64effd2d0
+    line_id: KR3j0009_tls_002-22a.12
+    textline: 故使莊王功跡著乎竹帛
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

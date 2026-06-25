@@ -1,0 +1,32 @@
+uuid: eb4babaa-90d3-42ec-8bab-aa90d3f2ecfd
+type: word-relation
+group_uuid: 41806850-d75b-5b6b-87f5-6a405f684633
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2690dfea-2a3a-4760-b057-ad5cd72ed3e3
+  text: 朝
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-85a.5
+    textline: 爵人於朝
+    offset: 4
+    range: 1
+right:
+  word_uuid: ad00b987-a275-455c-a141-f904511279d3
+  text: 市
+  concept: MARKET
+  concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-85a.6
+    textline: 論人於市
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-27T04:34:52.303+09:00'

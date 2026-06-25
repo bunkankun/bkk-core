@@ -1,0 +1,32 @@
+uuid: 806fd207-d2ec-4419-8939-b99caabdfc42
+type: word-relation
+group_uuid: 806fd207-d2ec-4419-8939-b99caabdfc42
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 471a01ac-15da-4e30-a379-f13b571d81b9
+    line_id: KR3c0005_tls_006-19a.6
+    textline: 軍旅不敢辭難
+    offset: 1
+    range: 1
+right:
+  word_uuid: f93f3fdb-0cd4-4f5f-88e6-13a304480d83
+  text: 旅
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 471a01ac-15da-4e30-a379-f13b571d81b9
+    line_id: KR3c0005_tls_006-19a.6
+    textline: 軍旅不敢辭難
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

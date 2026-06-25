@@ -1,0 +1,32 @@
+uuid: 57e66bc0-f522-4a41-a7b0-b9f80a4971f7
+type: word-relation
+group_uuid: 57e66bc0-f522-4a41-a7b0-b9f80a4971f7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 884c43c1-e1cf-48d0-b070-3b7535e62535
+  text: 琢
+  concept: POLISH
+  concept_uuid: e4f27013-ca16-4fdf-b7a1-075d72b062cb
+  attestation:
+    text_title: 論語
+    line_uuid: bb18a237-4600-4b5a-be11-e71ab715825d
+    line_id: KR1h0004_tls_001-16a.5
+    textline: 如琢如磨
+    offset: 2
+    range: 1
+right:
+  word_uuid: b72c6045-2afc-4f8b-b346-71c5c0920b04
+  text: 磨
+  concept: RUB
+  concept_uuid: 6f7adb7e-4a80-498a-9ad8-5886013168de
+  attestation:
+    text_title: 論語
+    line_uuid: bb18a237-4600-4b5a-be11-e71ab715825d
+    line_id: KR1h0004_tls_001-16a.5
+    textline: 如琢如磨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

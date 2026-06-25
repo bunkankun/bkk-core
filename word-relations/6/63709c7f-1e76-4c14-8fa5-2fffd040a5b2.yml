@@ -1,0 +1,32 @@
+uuid: 63709c7f-1e76-4c14-8fa5-2fffd040a5b2
+type: word-relation
+group_uuid: 63709c7f-1e76-4c14-8fa5-2fffd040a5b2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b2cbcfef-3f67-4a36-8662-4f25b990c7e2
+  text: 習
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: 52abf311-b116-4cbd-9b3e-4359ec9599a5
+    line_id: KR3c0005_tls_011-12a.6
+    textline: 以新旅與習故爭
+    offset: 5
+    range: 1
+right:
+  word_uuid: a650f2cd-5259-460d-b248-e69d050dd249
+  text: 故
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: 52abf311-b116-4cbd-9b3e-4359ec9599a5
+    line_id: KR3c0005_tls_011-12a.6
+    textline: 以新旅與習故爭
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

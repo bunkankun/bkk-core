@@ -1,0 +1,32 @@
+uuid: 6573c45c-ad8f-4a11-926f-20b86acdbdb9
+type: word-relation
+group_uuid: 6573c45c-ad8f-4a11-926f-20b86acdbdb9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 韓非子
+    line_uuid: a3eeb38a-9527-4287-b832-5bb6ce523d2a
+    line_id: KR3c0005_tls_022-58a.12
+    textline: 而我獨知之
+    offset: 2
+    range: 1
+right:
+  word_uuid: cec8c653-fb91-4e58-8d24-523e11488562
+  text: 一國
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 54edf44a-d7fa-46d5-a1f3-0de34a428797
+    line_id: KR3c0005_tls_022-58a.11
+    textline: 一國皆不知
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

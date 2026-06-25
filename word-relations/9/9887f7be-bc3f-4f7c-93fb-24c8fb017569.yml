@@ -1,0 +1,32 @@
+uuid: 9887f7be-bc3f-4f7c-93fb-24c8fb017569
+type: word-relation
+group_uuid: 0ea6868a-562e-45d0-92c5-e2350afbfabe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e7fabc39-afc9-471f-9ee5-eb9b8741eb47
+    line_id: KR3j0009_tls_002-26a.10
+    textline: 無爵位以顯人
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e7fabc39-afc9-471f-9ee5-eb9b8741eb47
+    line_id: KR3j0009_tls_002-26a.10
+    textline: 無爵位以顯人
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

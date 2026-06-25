@@ -1,0 +1,18 @@
+uuid: 7c58803e-6f87-4e7c-b730-33b6d26de7fe
+type: word-relation
+group_uuid: aeeca5f3-9715-5a7d-8807-3bca4a04e5bc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 049c81da-4d24-4ce0-b53d-98d93d7db95d
+  text: 歲
+  concept: YEAR
+  concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+right:
+  word_uuid: 86a4d5e3-bbe9-462c-8738-ee8ad9823cc6
+  text: 年
+  concept: YEAR
+  concept_uuid: f3219841-eb3a-476c-93f4-348edae0999d
+source:
+  source_file: word-relations.xml

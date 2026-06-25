@@ -1,0 +1,32 @@
+uuid: 2098494a-3fcd-4ccc-928a-7a66840a79a5
+type: word-relation
+group_uuid: ce1a3ebd-85f7-4747-9352-031a1ca64cdf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 57bf0ca2-d4c1-48ea-b9c7-4e455d80cbc4
+  text: 橋
+  concept: BRIDGE
+  concept_uuid: 334b6662-31c2-493c-944f-1bb1c348515c
+  attestation:
+    text_title: 論衡
+    line_uuid: 95ca6e6f-fca8-4352-9a50-7b7aa950e893
+    line_id: KR3j0080_tls_034-4a.20
+    textline: 橋梁之設也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 853e57a7-5cc8-49f1-a7f6-e6aaa40a3eb5
+  text: 梁
+  concept: BRIDGE
+  concept_uuid: 334b6662-31c2-493c-944f-1bb1c348515c
+  attestation:
+    text_title: 論衡
+    line_uuid: 95ca6e6f-fca8-4352-9a50-7b7aa950e893
+    line_id: KR3j0080_tls_034-4a.20
+    textline: 橋梁之設也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

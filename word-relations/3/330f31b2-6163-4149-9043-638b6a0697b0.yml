@@ -1,0 +1,32 @@
+uuid: 330f31b2-6163-4149-9043-638b6a0697b0
+type: word-relation
+group_uuid: 330f31b2-6163-4149-9043-638b6a0697b0
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 603f8220-fa49-4831-bc6e-631a1d93f841
+  text: 使
+  concept: EMPLOY
+  concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 357d7df8-857b-4377-94ef-38e6dcad44ac
+    line_id: KR3j0009_tls_003-21a.16
+    textline: 尊賢使能
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8d345ead-fc7e-4ff0-a538-63ec5137d989
+  text: 能
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 357d7df8-857b-4377-94ef-38e6dcad44ac
+    line_id: KR3j0009_tls_003-21a.16
+    textline: 尊賢使能
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 0f369dac-e07a-4f18-8407-39be158ac87c
+type: word-relation
+group_uuid: 0f369dac-e07a-4f18-8407-39be158ac87c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 121abf2e-264a-484f-be5c-eb70251817ae
+  text: 貢
+  concept: TAX
+  concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+  attestation:
+    text_title: 孟子
+    line_uuid: 4df7ffaf-c466-44c6-8299-e09ba8c4fd5d
+    line_id: KR1h0001_tls_009-18a.5
+    textline: 而納其貢稅焉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9ece440b-aeec-49fb-8574-989e5b3128f7
+  text: 稅
+  concept: TAX
+  concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+  attestation:
+    text_title: 孟子
+    line_uuid: 4df7ffaf-c466-44c6-8299-e09ba8c4fd5d
+    line_id: KR1h0001_tls_009-18a.5
+    textline: 而納其貢稅焉
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

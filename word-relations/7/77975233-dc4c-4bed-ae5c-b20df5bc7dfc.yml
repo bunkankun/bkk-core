@@ -1,0 +1,31 @@
+uuid: 77975233-dc4c-4bed-ae5c-b20df5bc7dfc
+type: word-relation
+group_uuid: 77975233-dc4c-4bed-ae5c-b20df5bc7dfc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5c58beee-db25-45f2-9a93-c48e4d12b7e5
+  text: 無
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 老子
+    line_uuid: 90966b8b-cf61-4d38-aece-215514ad82bd
+    line_id: KR3j0010_tls_012-33a.22
+    textline: 非以其無私邪
+    range: 1
+right:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 老子
+    line_uuid: 15b57136-b5f7-489c-88a4-0c839aae5cdd
+    line_id: KR5c0057_tls_007-1a.11
+    textline: 故能成其私
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 27f3c2cb-20e1-4c6a-b3c2-cb20e11c6aa7
+type: word-relation
+group_uuid: 21820d9b-d0e5-52c9-bed3-c7c917d06d4f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_005-13a.35
+    textline: 行其憲令
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9506d2d1-8f0b-4ff8-b709-0b7a72f737e6
+  text: 憲令
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_005-13a.35
+    textline: 行其憲令
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-17T19:39:59.75+09:00'

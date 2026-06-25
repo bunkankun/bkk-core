@@ -1,0 +1,21 @@
+uuid: 6f7a2709-2ab0-40de-b736-d18ae3440409
+type: word-relation
+group_uuid: a6bb832b-1b86-5ff4-98b4-609cb6fcf118
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6f2f9c1e-41e6-41ab-a669-b7c308073049
+  text: 結
+  concept: BIND
+  concept_uuid: 3d4e3af4-36fc-41b2-b732-dd9721af4325
+right:
+  word_uuid: 4c87a614-53ca-452c-9221-7dfb9d6c6050
+  text: 解
+  concept: UNTIE
+  concept_uuid: a3b41487-8afe-4d30-8434-d8a6b801ca01
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9912d3c1-84ed-4e8b-84a9-debd3d79cc9b
+type: word-relation
+group_uuid: 6321caf6-098d-48c4-b7af-9e4847566556
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: cf6138d7-b546-4ebd-986c-c537f844e308
+    line_id: KR3c0005_tls_007-2a.10
+    textline: 所愛
+    offset: 2
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15456329-7dae-4f7d-b201-09c572028728
+    line_id: KR3c0005_tls_007-2a.8
+    textline: 所惡
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

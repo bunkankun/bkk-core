@@ -1,0 +1,32 @@
+uuid: fe1882ea-1005-4764-bb00-860bf19f91f3
+type: word-relation
+group_uuid: fe1882ea-1005-4764-bb00-860bf19f91f3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 265e5468-b339-4db8-b50e-e5171c5de387
+  text: 懈
+  concept: LAZY
+  concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  attestation:
+    text_title: 韓非子
+    line_uuid: e0b7a469-7a2d-43cc-930d-344aeae948cd
+    line_id: KR3c0005_tls_009-32a.5
+    textline: 是以賢者懈怠而不勸
+    offset: 5
+    range: 1
+right:
+  word_uuid: 5feeadc4-2b57-4681-a10b-57aeb25d3f6a
+  text: 怠
+  concept: LAZY
+  concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  attestation:
+    text_title: 韓非子
+    line_uuid: e0b7a469-7a2d-43cc-930d-344aeae948cd
+    line_id: KR3c0005_tls_009-32a.5
+    textline: 是以賢者懈怠而不勸
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

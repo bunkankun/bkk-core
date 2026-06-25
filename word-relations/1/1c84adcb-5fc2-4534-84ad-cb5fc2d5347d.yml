@@ -1,0 +1,32 @@
+uuid: 1c84adcb-5fc2-4534-84ad-cb5fc2d5347d
+type: word-relation
+group_uuid: e3bd0d3a-186b-57dd-a5c7-0cfd7627ee8d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 73048d7c-5411-4042-b3b6-4242d5c4695b
+  text: 論
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_002-10a.14
+    textline: 聖人論而不議
+    offset: 3
+    range: 1
+right:
+  word_uuid: 34ed9998-66d1-4789-95de-fa0de7e344fd
+  text: 議
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_002-10a.14
+    textline: 聖人論而不議
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T03:40:53.979+09:00'

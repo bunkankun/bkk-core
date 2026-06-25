@@ -1,0 +1,32 @@
+uuid: bdd329e1-c407-4101-91d6-317796c90011
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 18adbd7c-931b-4652-8147-a9a97a9ab1f5
+    line_id: KR3c0005_tls_020-96a.3
+    textline: 其身之憂也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓非子
+    line_uuid: 961d7521-f33c-49d2-98ff-a3568a0c68c2
+    line_id: KR3c0005_tls_020-96a.2
+    textline: 欲利之心不除
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

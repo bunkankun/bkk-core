@@ -1,0 +1,21 @@
+uuid: 6f71b1d9-6ae4-4785-88f5-8e837a7c2b18
+type: word-relation
+group_uuid: 00d1ec76-d28f-5f20-84e9-ff80c3e474dd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6fae6b48-c46d-422d-b31b-13d4a86addc7
+  text: 妻
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+right:
+  word_uuid: 8198167b-2460-43f4-bb04-ffbb14bafc8e
+  text: 妾
+  concept: CONCUBINE
+  concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

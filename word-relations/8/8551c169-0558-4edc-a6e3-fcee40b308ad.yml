@@ -1,0 +1,21 @@
+uuid: 8551c169-0558-4edc-a6e3-fcee40b308ad
+type: word-relation
+group_uuid: aa0eaf33-43dd-5343-af36-012dfb1ca03b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ee0b79cb-b443-4d4b-9937-feaf38cba523
+  text: 抑
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+right:
+  word_uuid: e5e3bb0f-1bca-447e-9483-bfb1a5750e8f
+  text: 揚
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

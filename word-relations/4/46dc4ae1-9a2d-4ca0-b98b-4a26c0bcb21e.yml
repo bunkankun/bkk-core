@@ -1,0 +1,32 @@
+uuid: 46dc4ae1-9a2d-4ca0-b98b-4a26c0bcb21e
+type: word-relation
+group_uuid: 46dc4ae1-9a2d-4ca0-b98b-4a26c0bcb21e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: afd9d409-469a-48ed-ba1b-ce07e0d27a5a
+  text: 蹙
+  concept: FROWN
+  concept_uuid: c5fc615d-935b-4b15-a3b8-9a9c73f226cd
+  attestation:
+    text_title: 孟子
+    line_uuid: 404bdb2d-5031-47d8-97ac-81d549e3039f
+    line_id: KR1h0001_tls_002-11a.6
+    textline: 舉疾首蹙頞而相告曰
+    offset: 4
+    range: 1
+right:
+  word_uuid: 40c1ea96-54f8-4b5e-8e40-3b0f27c95eff
+  text: 頞
+  concept: NOSE
+  concept_uuid: 7f924e8a-0d73-43a9-9fb5-8c2301c2dc67
+  attestation:
+    text_title: 孟子
+    line_uuid: 404bdb2d-5031-47d8-97ac-81d549e3039f
+    line_id: KR1h0001_tls_002-11a.6
+    textline: 舉疾首蹙頞而相告曰
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

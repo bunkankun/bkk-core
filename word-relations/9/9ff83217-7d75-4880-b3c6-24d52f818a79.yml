@@ -1,0 +1,32 @@
+uuid: 9ff83217-7d75-4880-b3c6-24d52f818a79
+type: word-relation
+group_uuid: 9ff83217-7d75-4880-b3c6-24d52f818a79
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ece39397-3a9e-4148-937e-d2d650dca186
+  text: 覽
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論衡
+    line_uuid: b48eb495-0ec5-4f77-a607-be344643c0e5
+    line_id: KR3j0080_tls_038-18a.21
+    textline: 覽達古今
+    offset: 1
+    range: 1
+right:
+  word_uuid: 36a8f104-2660-4fd1-92aa-287c11f24a0a
+  text: 達
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論衡
+    line_uuid: b48eb495-0ec5-4f77-a607-be344643c0e5
+    line_id: KR3j0080_tls_038-18a.21
+    textline: 覽達古今
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

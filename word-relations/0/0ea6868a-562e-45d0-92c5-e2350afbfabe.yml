@@ -1,0 +1,32 @@
+uuid: 0ea6868a-562e-45d0-92c5-e2350afbfabe
+type: word-relation
+group_uuid: 0ea6868a-562e-45d0-92c5-e2350afbfabe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 管子
+    line_uuid: 4c2b554a-4fb7-4497-b6a6-d7060a25553a
+    line_id: KR3c0001_tls_011-102a.3
+    textline: 卑其爵位
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 管子
+    line_uuid: 4c2b554a-4fb7-4497-b6a6-d7060a25553a
+    line_id: KR3c0001_tls_011-102a.3
+    textline: 卑其爵位
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

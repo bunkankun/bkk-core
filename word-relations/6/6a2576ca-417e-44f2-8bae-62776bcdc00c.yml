@@ -1,0 +1,21 @@
+uuid: 6a2576ca-417e-44f2-8bae-62776bcdc00c
+type: word-relation
+group_uuid: f4bbafdd-381c-5f9f-97ed-52aa1e2c4130
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 928495cb-886a-4076-bf77-18d2db42e0e1
+  text: 聰
+  concept: HEAR
+  concept_uuid: 22554eec-b80f-44ae-9918-f7be39e2287b
+right:
+  word_uuid: 636f0900-8560-432f-bcaf-0640bbda6b97
+  text: 聾
+  concept: DEAF
+  concept_uuid: 7b5bef5c-952b-48de-bc22-838bfdc4c6e9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

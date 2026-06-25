@@ -1,0 +1,32 @@
+uuid: 7a6a8152-b544-4cb3-aa81-52b544dcb39a
+type: word-relation
+group_uuid: e03e4bd6-fbb1-532a-a80e-5b9bd4c5d725
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0cf8a5e2-af7a-4c37-b972-69cd2e3e2266
+  text: 定
+  concept: FIX
+  concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+  attestation:
+    text_title: 新論-漢-桓譚
+    line_id: KR3j0192_tls_001-28a.5
+    textline: 群臣制事定法
+    offset: 5
+    range: 1
+right:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 新論-漢-桓譚
+    line_id: KR3j0192_tls_001-28a.5
+    textline: 群臣制事定法
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T05:41:45.587+09:00'

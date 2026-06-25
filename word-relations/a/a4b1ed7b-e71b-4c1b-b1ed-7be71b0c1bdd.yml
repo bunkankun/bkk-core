@@ -1,0 +1,32 @@
+uuid: a4b1ed7b-e71b-4c1b-b1ed-7be71b0c1bdd
+type: word-relation
+group_uuid: 6aa940dc-d53d-539d-a06c-070359f79ee0
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1c2050de-6414-4377-9954-e55f6a70acd4
+  text: 海內
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-41a.22
+    textline: 非能盡害海內之眾也
+    offset: 5
+    range: 2
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-41a.23
+    textline: 害一人而天下離叛
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-03T19:57:30.59+09:00'

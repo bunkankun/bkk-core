@@ -1,0 +1,35 @@
+uuid: 40b2fbb6-9199-472c-9a88-08fe0163d32e
+type: word-relation
+group_uuid: 40b2fbb6-9199-472c-9a88-08fe0163d32e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f1358ccb-e688-4f3d-932e-b53e8ee09d05
+  text: 窮
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6a9b00ad-ae15-4f84-adb7-47b696505e1a
+    line_id: KR2e0003_tls_081-1a.15
+    textline: 「窮而不收
+    offset: 2
+    range: 1
+right:
+  word_uuid: ab23f0ed-d3a8-4f91-ab98-fde2573e239d
+  text: 達
+  concept: SUCCEED
+  concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+  attestation:
+    text_title: 戰國策
+    line_uuid: 92006aa3-e5c7-4c84-ba1c-91a02dd60648
+    line_id: KR2e0003_tls_081-1a.16
+    textline: 達而報之
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 76438462-3caa-414a-803b-83ca6ca61022
+type: word-relation
+group_uuid: 3e71905e-7095-4ad7-a00a-b063512c79c8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 86a114e3-6e22-4cde-823f-59e6178e78ba
+  text: 宗
+  concept: TEMPLE
+  concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78936df5-d0cd-4fa0-b4f3-a64104ad1052
+    line_id: KR3c0005_tls_001-18a.5
+    textline: 置宗廟
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7996a608-7534-46c4-b1d4-ee3ccf46bcee
+  text: 廟
+  concept: TEMPLE
+  concept_uuid: 8306ec09-3863-420b-a21c-cc98bfcfc2bb
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78936df5-d0cd-4fa0-b4f3-a64104ad1052
+    line_id: KR3c0005_tls_001-18a.5
+    textline: 置宗廟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

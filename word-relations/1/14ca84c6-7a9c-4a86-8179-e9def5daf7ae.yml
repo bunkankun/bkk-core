@@ -1,0 +1,30 @@
+uuid: 14ca84c6-7a9c-4a86-8179-e9def5daf7ae
+type: word-relation
+group_uuid: 6db26fc7-91ea-433b-8cdf-2f735bd81297
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e6053b47-5843-46cc-9a8b-fdc872cc8fa3
+  text: 蔽
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+  attestation:
+    text_title: 韓非子
+    line_uuid: c0835897-6a04-4dc9-b292-08940a9c7bc9
+    textline: 我安能無相比周蔽主上為姦私
+    offset: 9
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: c0835897-6a04-4dc9-b292-08940a9c7bc9
+    textline: 我安能無相比周蔽主上為姦私
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

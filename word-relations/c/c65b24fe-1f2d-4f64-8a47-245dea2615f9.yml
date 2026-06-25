@@ -1,0 +1,32 @@
+uuid: c65b24fe-1f2d-4f64-8a47-245dea2615f9
+type: word-relation
+group_uuid: c65b24fe-1f2d-4f64-8a47-245dea2615f9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: da750ddd-701b-4c17-a7bb-97f4f75a9f78
+  text: 子女
+  concept: GIRL
+  concept_uuid: e90baee3-dd79-4f70-9764-9d79d55bc244
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1aec7b9b-d2a1-4a91-ab15-9606ca5132aa
+    line_id: KR3c0005_tls_009-8a.6
+    textline: 好飾子女狗馬以娛其心
+    offset: 3
+    range: 2
+right:
+  word_uuid: ab84a1f5-bde9-4595-b325-548afb2c046d
+  text: 狗
+  concept: DOG
+  concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1aec7b9b-d2a1-4a91-ab15-9606ca5132aa
+    line_id: KR3c0005_tls_009-8a.6
+    textline: 好飾子女狗馬以娛其心
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

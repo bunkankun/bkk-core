@@ -1,0 +1,35 @@
+uuid: f8322f76-1019-4ecb-acb0-475c05dc4211
+type: word-relation
+group_uuid: f8322f76-1019-4ecb-acb0-475c05dc4211
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e0bd7eab-9665-48f9-a641-0be40efa0c16
+  text: 儉
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 韓非子
+    line_uuid: a5a2dab3-e45c-40b7-97e7-8ae8ef29fdcc
+    line_id: KR3c0005_tls_010-86a.4
+    textline: 常以儉得之
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5bac74ea-4694-4b77-a96d-3e9bed7ee1cb
+  text: 奢
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+  attestation:
+    text_title: 韓非子
+    line_uuid: a7bc73b4-d641-4e75-b72a-3b49703db39d
+    line_id: KR3c0005_tls_010-86a.5
+    textline: 以奢失之”
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

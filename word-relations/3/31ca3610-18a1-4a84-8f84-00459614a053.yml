@@ -1,0 +1,32 @@
+uuid: 31ca3610-18a1-4a84-8f84-00459614a053
+type: word-relation
+group_uuid: c0d255cf-3ff5-4899-bd6f-837cd50c9f9f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0da12c3-1276-4f7a-9ef6-571df12f500c
+  text: 巫
+  concept: SHAMAN
+  concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+  attestation:
+    text_title: 莊子
+    line_uuid: 9fa9c33a-9ccb-43ab-94f2-b4d229dab9b4
+    line_id: KR5c0126_tls_004-15a.19
+    textline: 此皆巫祝以知之矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 99a4d937-a93d-4eb8-ae19-e233e6d8b6ac
+  text: 祝
+  concept: SHAMAN
+  concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+  attestation:
+    text_title: 莊子
+    line_uuid: 9fa9c33a-9ccb-43ab-94f2-b4d229dab9b4
+    line_id: KR5c0126_tls_004-15a.19
+    textline: 此皆巫祝以知之矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

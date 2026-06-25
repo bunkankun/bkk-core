@@ -1,0 +1,32 @@
+uuid: 83575d05-4292-467a-9947-2b8e3a0aa483
+type: word-relation
+group_uuid: 83575d05-4292-467a-9947-2b8e3a0aa483
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a74128f9-ee6c-4437-92c3-0b2abbe33dd9
+  text: 偏
+  concept: PARTIAL
+  concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8e70c5b4-9baf-4fc4-8190-dc33bc108352
+    line_id: KR3j0009_tls_001-20a.14
+    textline: 「無偏無黨
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1ba51878-9058-432e-ad95-e364fc480fc7
+  text: 黨
+  concept: FACTION
+  concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8e70c5b4-9baf-4fc4-8190-dc33bc108352
+    line_id: KR3j0009_tls_001-20a.14
+    textline: 「無偏無黨
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

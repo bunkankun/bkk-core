@@ -1,0 +1,32 @@
+uuid: bf255292-278c-4698-b549-b2befa79f044
+type: word-relation
+group_uuid: bf255292-278c-4698-b549-b2befa79f044
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6c7be674-b766-4ab5-bd0c-9ec0dafa8ae3
+  text: 交
+  concept: INTERACT
+  concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+  attestation:
+    text_title: 論語
+    line_uuid: f0c1c665-7696-4459-b316-bd0736a7fa10
+    line_id: KR1h0004_tls_001-4a.5
+    textline: 與朋友交而不信乎
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: f0c1c665-7696-4459-b316-bd0736a7fa10
+    line_id: KR1h0004_tls_001-4a.5
+    textline: 與朋友交而不信乎
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

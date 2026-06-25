@@ -1,0 +1,35 @@
+uuid: 46e51db6-c4a8-4496-a0ad-ecddb227a607
+type: word-relation
+group_uuid: 46e51db6-c4a8-4496-a0ad-ecddb227a607
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 孟子
+    line_uuid: df239fb2-648d-4fc2-b59b-7424d3ebaa94
+    line_id: KR1h0001_tls_012-60a.4
+    textline: 予不屑之教誨也者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 75add126-ff59-4089-878b-153f2d7c32b0
+  text: 誨
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 孟子
+    line_uuid: df239fb2-648d-4fc2-b59b-7424d3ebaa94
+    line_id: KR1h0001_tls_012-60a.4
+    textline: 予不屑之教誨也者
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

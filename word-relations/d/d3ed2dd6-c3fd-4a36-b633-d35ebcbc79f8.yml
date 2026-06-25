@@ -1,0 +1,32 @@
+uuid: d3ed2dd6-c3fd-4a36-b633-d35ebcbc79f8
+type: word-relation
+group_uuid: 3aaebb70-0b17-4a7a-97e6-0ec80cb455af
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 85a8a0f5-9c5c-45d4-93e1-d070600dd06b
+    line_id: KR3c0005_tls_005-22a.9
+    textline: 事不當其言
+    offset: 1
+    range: 1
+right:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 85a8a0f5-9c5c-45d4-93e1-d070600dd06b
+    line_id: KR3c0005_tls_005-22a.9
+    textline: 事不當其言
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

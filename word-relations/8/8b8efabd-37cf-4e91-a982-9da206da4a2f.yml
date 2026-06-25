@@ -1,0 +1,33 @@
+uuid: 8b8efabd-37cf-4e91-a982-9da206da4a2f
+type: word-relation
+group_uuid: 8b8efabd-37cf-4e91-a982-9da206da4a2f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 67d1436c-7a93-4c5f-9e71-9fef1120e096
+  text: 夷
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: ee819f43-3484-48c1-9c0b-438c5c08fc5c
+    textline: “吾聞用夏變夷
+    offset: 7
+    range: 1
+right:
+  word_uuid: a6df0b5b-7bda-48a9-bd98-0ee6ff3b15dc
+  text: 夏
+  concept: CHINA
+  concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: ee819f43-3484-48c1-9c0b-438c5c08fc5c
+    textline: “吾聞用夏變夷
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

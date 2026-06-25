@@ -1,0 +1,32 @@
+uuid: 6f384862-82e4-4880-8008-034b31c216b1
+type: word-relation
+group_uuid: 6f384862-82e4-4880-8008-034b31c216b1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3400a49c-b895-4445-870b-24f0ea297953
+  text: 果
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+  attestation:
+    text_title: 論語
+    line_uuid: 6d6fe326-68eb-4674-a7ff-6d119514269d
+    line_id: KR1h0004_tls_017-41a.1
+    textline: 惡果敢而窒者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6fb3481e-1acb-4f28-a1de-4f1e5bd219d3
+  text: 敢
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+  attestation:
+    text_title: 論語
+    line_uuid: 6d6fe326-68eb-4674-a7ff-6d119514269d
+    line_id: KR1h0004_tls_017-41a.1
+    textline: 惡果敢而窒者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

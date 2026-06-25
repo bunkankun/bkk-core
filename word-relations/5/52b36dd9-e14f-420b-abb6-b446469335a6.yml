@@ -1,0 +1,21 @@
+uuid: 52b36dd9-e14f-420b-abb6-b446469335a6
+type: word-relation
+group_uuid: 059415c8-2640-502c-a075-7e036cd98280
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 423f4156-b395-443e-ad21-3c1360685448
+  text: 合
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+right:
+  word_uuid: 95bec5e3-9680-4f21-8130-373b329e974f
+  text: 倍
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

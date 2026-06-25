@@ -1,0 +1,32 @@
+uuid: ba5ca7ff-f327-4a5f-9f17-475ecce6cc33
+type: word-relation
+group_uuid: ba5ca7ff-f327-4a5f-9f17-475ecce6cc33
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e2e06433-ba4d-4f33-80d8-f4cf527a0db4
+  text: 枝
+  concept: BRANCH
+  concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e01dc0d-8ea9-454e-ae48-6b975990dba5
+    line_id: KR3c0005_tls_008-42a.4
+    textline: 木枝外拒
+    offset: 2
+    range: 1
+right:
+  word_uuid: 53136896-b4a1-4c4e-b37b-3ef5c8c714bb
+  text: 木
+  concept: TREE
+  concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e01dc0d-8ea9-454e-ae48-6b975990dba5
+    line_id: KR3c0005_tls_008-42a.4
+    textline: 木枝外拒
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

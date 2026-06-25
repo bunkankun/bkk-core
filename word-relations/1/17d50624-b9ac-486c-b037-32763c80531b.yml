@@ -1,0 +1,31 @@
+uuid: 17d50624-b9ac-486c-b037-32763c80531b
+type: word-relation
+group_uuid: 17d50624-b9ac-486c-b037-32763c80531b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b420976b-03d3-468c-bb65-fe59e77f04a5
+  text: 遭
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 8d690ae7-5bdf-4040-880b-62d32558ed55
+    textline: 遭難不退
+    offset: 1
+    range: 1
+right:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 0e3f12af-4e0a-43ff-9200-c87d099ae88d
+    line_id: KR6q0082_T_001-0345b.29
+    textline: 遇苦能忍
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

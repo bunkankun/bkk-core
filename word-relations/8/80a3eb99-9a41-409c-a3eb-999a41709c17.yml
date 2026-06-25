@@ -1,0 +1,32 @@
+uuid: 80a3eb99-9a41-409c-a3eb-999a41709c17
+type: word-relation
+group_uuid: 4567b16b-fdb9-52e0-b4c4-fbcdeab934c7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3fc0016a-84f8-4f54-a791-790a0cacacd6
+  text: 本
+  concept: BASIS
+  concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.58
+    textline: 中有本主以定清濁
+    offset: 3
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.58
+    textline: 中有本主以定清濁
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:43:12.567+09:00'

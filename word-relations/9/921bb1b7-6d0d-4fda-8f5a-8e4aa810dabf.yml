@@ -1,0 +1,32 @@
+uuid: 921bb1b7-6d0d-4fda-8f5a-8e4aa810dabf
+type: word-relation
+group_uuid: 059895e8-6360-4aa8-b658-ed82a18bd0d8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 291cbf50-1f17-4cc5-8f1d-ae0648577492
+  text: 尊
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 731fb647-6bbb-4fc0-bba7-614a6438dd11
+    line_id: KR3j0009_tls_004-18a.8
+    textline: 此所以尊師也
+    offset: 4
+    range: 1
+right:
+  word_uuid: d8b72e93-fc8e-43a3-a70b-a91e992ca38d
+  text: 師
+  concept: TEACHER
+  concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 731fb647-6bbb-4fc0-bba7-614a6438dd11
+    line_id: KR3j0009_tls_004-18a.8
+    textline: 此所以尊師也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

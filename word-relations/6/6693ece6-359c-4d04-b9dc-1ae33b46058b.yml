@@ -1,0 +1,35 @@
+uuid: 6693ece6-359c-4d04-b9dc-1ae33b46058b
+type: word-relation
+group_uuid: 6693ece6-359c-4d04-b9dc-1ae33b46058b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9bad0e87-c69d-4a95-9c9e-622fc801d83f
+  text: 悖
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 38259fa0-988b-4790-a8d9-fea32fd3d8e8
+    line_id: KR3c0005_tls_003-13a.4
+    textline: 不幸而遇悖亂闇惑之主而死
+    offset: 5
+    range: 1
+right:
+  word_uuid: cb75dcef-6882-4d79-9a67-def66084fa4d
+  text: 亂
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 38259fa0-988b-4790-a8d9-fea32fd3d8e8
+    line_id: KR3c0005_tls_003-13a.4
+    textline: 不幸而遇悖亂闇惑之主而死
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

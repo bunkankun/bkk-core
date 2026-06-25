@@ -1,0 +1,32 @@
+uuid: 618eb73a-b744-426d-a562-130eb30b973e
+type: word-relation
+group_uuid: 618eb73a-b744-426d-a562-130eb30b973e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 49ceef36-a043-4af1-aae8-9c72ef31ad53
+  text: 戲
+  concept: JOKE
+  concept_uuid: 315ce152-3c9e-4648-87aa-dde4fe97c199
+  attestation:
+    text_title: 管子
+    line_uuid: 87db76ae-3be1-4b93-bcfb-8bd30a8a0a93
+    line_id: KR3c0001_tls_011-93a.11
+    textline: 戲樂笑語
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 管子
+    line_uuid: 87db76ae-3be1-4b93-bcfb-8bd30a8a0a93
+    line_id: KR3c0001_tls_011-93a.11
+    textline: 戲樂笑語
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

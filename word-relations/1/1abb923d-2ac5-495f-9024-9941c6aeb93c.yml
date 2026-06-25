@@ -1,0 +1,30 @@
+uuid: 1abb923d-2ac5-495f-9024-9941c6aeb93c
+type: word-relation
+group_uuid: 1abb923d-2ac5-495f-9024-9941c6aeb93c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d111e785-e677-448c-9e6e-ff168c330bfa
+  text: 戎
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 韓非子
+    line_uuid: a66173da-3d26-4735-b255-326950b9ee4d
+    textline: 而戎狄叛之
+    offset: 2
+    range: 1
+right:
+  word_uuid: b1322625-762d-4bc0-97df-70443fcf0a1c
+  text: 狄
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 韓非子
+    line_uuid: a66173da-3d26-4735-b255-326950b9ee4d
+    textline: 而戎狄叛之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 626747bc-0f0a-4ccd-a44a-05bb93baddf7
+type: word-relation
+group_uuid: 626747bc-0f0a-4ccd-a44a-05bb93baddf7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e2e06433-ba4d-4f33-80d8-f4cf527a0db4
+  text: 枝
+  concept: BRANCH
+  concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+  attestation:
+    text_title: 王績
+    line_uuid: dd41d252-45e5-4541-acca-34b28f63d1d3
+    textline: 萋萋結綠枝
+    offset: 5
+    range: 1
+right:
+  word_uuid: 30b5bc6a-90f7-4184-a4eb-6a5efda255ba
+  text: 綠
+  concept: GREEN
+  concept_uuid: 2c12b51a-6442-47a9-b247-3b866cf65f39
+  attestation:
+    text_title: 王績
+    line_uuid: dd41d252-45e5-4541-acca-34b28f63d1d3
+    textline: 萋萋結綠枝
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 12db0e74-42dd-4590-8c8f-9f5f5b49f706
+type: word-relation
+group_uuid: 9b920913-7ff2-4a6f-aaae-79d95ba2ecac
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論衡
+    line_uuid: db52d9c0-b7d6-4c2d-8282-a1723d3ce6ad
+    line_id: KR3j0080_tls_006-5a.25
+    textline: “求之有道
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 論衡
+    line_uuid: 41ebc694-d4b7-4342-9dec-f801fbe56a18
+    line_id: KR3j0080_tls_006-5a.26
+    textline: 得之有命”
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

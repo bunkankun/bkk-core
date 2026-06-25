@@ -1,0 +1,30 @@
+uuid: f489b1bc-1004-46af-866b-e6b3ea3a59f8
+type: word-relation
+group_uuid: a9a10465-10b8-4442-879c-95de52587ef6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 210515a0-b2ff-43fa-ba04-f6a66fea9817
+  text: 取
+  concept: CHOOSE
+  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3fa1c3b6-fb1f-4d14-a9a2-9e7e90d9fbbd
+    textline: 所謂“去彼取此”者
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0ea0a71a-b772-493f-9407-382308107984
+  text: 去
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3fa1c3b6-fb1f-4d14-a9a2-9e7e90d9fbbd
+    textline: 所謂“去彼取此”者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

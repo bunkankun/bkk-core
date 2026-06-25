@@ -1,0 +1,32 @@
+uuid: 9954c50e-0948-4ef5-a57b-bc842d7f4d7e
+type: word-relation
+group_uuid: 1b00cecc-73ee-4a71-b86e-bd2a579c279e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 毛詩
+    line_uuid: 77d27ee6-da42-42c9-9050-784b6ad1664c
+    line_id: KR1c0001_tls_019-38a.7
+    textline: 我獨不敢休
+    offset: 1
+    range: 1
+right:
+  word_uuid: 52e3fd78-5dc1-4aef-995e-764dad971c33
+  text: 民
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 毛詩
+    line_uuid: 792991c7-f806-4705-858a-9f6a492ab9a5
+    line_id: KR1c0001_tls_019-38a.6
+    textline: 民莫不逸
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

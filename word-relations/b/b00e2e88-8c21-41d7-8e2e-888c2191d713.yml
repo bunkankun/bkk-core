@@ -1,0 +1,32 @@
+uuid: b00e2e88-8c21-41d7-8e2e-888c2191d713
+type: word-relation
+group_uuid: 728044ea-ce02-5047-a545-3599f417d260
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d0a2e987-83e4-46ba-8296-88f213369872
+  text: 終身
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.3
+    textline: 君子有終身之憂
+    offset: 11
+    range: 2
+right:
+  word_uuid: 69c86108-ce12-4dac-9dce-4353900b7b5d
+  text: 一朝
+  concept: MOMENT
+  concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.4
+    textline: 而無一朝之患
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-02T03:20:49.042+09:00'

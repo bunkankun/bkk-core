@@ -1,0 +1,18 @@
+uuid: e2ea8ede-dae9-41d7-a830-8b1da8a55b1f
+type: word-relation
+group_uuid: 4f4bb714-d318-585b-b36f-3b731b898dbb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 372d80e0-ea37-49d1-94cc-d0ab7371e2d1
+  text: 凡
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+right:
+  word_uuid: 25600d18-0efe-43a2-9efd-4988fb58d013
+  text: 奇
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7a592616-5636-438c-b267-9b3ffa843bbb
+type: word-relation
+group_uuid: 22a4d8ae-3969-4dba-bbe7-d6836232c1a3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 19859f02-00e7-4340-aff6-41d3a723da09
+  text: 名
+  concept: SEEM
+  concept_uuid: 4a314030-6c75-45c6-b793-c685a0b6f31c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6d2c32a5-4063-4342-ae63-331e9cf50030
+    line_id: KR3c0005_tls_018-15a.11
+    textline: 則是名得而實亡
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4b4eda8e-25d8-4902-987b-6423232e9c38
+  text: 實
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6d2c32a5-4063-4342-ae63-331e9cf50030
+    line_id: KR3c0005_tls_018-15a.11
+    textline: 則是名得而實亡
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

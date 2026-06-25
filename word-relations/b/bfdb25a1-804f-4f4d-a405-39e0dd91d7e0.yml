@@ -1,0 +1,32 @@
+uuid: bfdb25a1-804f-4f4d-a405-39e0dd91d7e0
+type: word-relation
+group_uuid: bfdb25a1-804f-4f4d-a405-39e0dd91d7e0
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 47e0c03a-626c-473f-aff1-8a8da23b7aad
+  text: 極
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+  attestation:
+    text_title: 文子
+    line_uuid: 64956eaa-0f19-4e68-a23b-65978953a0d7
+    line_id: KR5c0118_tls_001-1a.13
+    textline: 高不可極
+    offset: 4
+    range: 1
+right:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 文子
+    line_uuid: 64956eaa-0f19-4e68-a23b-65978953a0d7
+    line_id: KR5c0118_tls_001-1a.13
+    textline: 高不可極
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

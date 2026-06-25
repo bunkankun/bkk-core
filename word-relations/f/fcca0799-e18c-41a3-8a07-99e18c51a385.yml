@@ -1,0 +1,32 @@
+uuid: fcca0799-e18c-41a3-8a07-99e18c51a385
+type: word-relation
+group_uuid: abe9fdd8-ce77-54ec-9d4c-f15ea57aea79
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e5e33897-adf7-418a-a6fd-99eb8d996a21
+  text: 未
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.11
+    textline: 是故禮樂未始有常也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1dc8a066-eb41-4f68-9262-d453f28b1927
+  text: 始
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.11
+    textline: 是故禮樂未始有常也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T22:59:00.562+09:00'

@@ -1,0 +1,32 @@
+uuid: 68bc8b90-a427-4a04-8400-30d260c0dd0a
+type: word-relation
+group_uuid: 68bc8b90-a427-4a04-8400-30d260c0dd0a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 736bbe62-c897-4273-bc04-9d413cc5037d
+  text: 非
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 戰國策
+    line_uuid: 3ab51433-6dca-4eba-9587-0cdd2465f8c5
+    line_id: KR2e0003_tls_011-2a.9
+    textline: 民非子罕而善其君
+    offset: 2
+    range: 1
+right:
+  word_uuid: bd2ab051-1b62-4256-a2c8-6045e96e9a76
+  text: 善
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+  attestation:
+    text_title: 戰國策
+    line_uuid: 3ab51433-6dca-4eba-9587-0cdd2465f8c5
+    line_id: KR2e0003_tls_011-2a.9
+    textline: 民非子罕而善其君
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

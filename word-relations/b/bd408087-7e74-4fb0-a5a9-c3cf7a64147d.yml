@@ -1,0 +1,35 @@
+uuid: bd408087-7e74-4fb0-a5a9-c3cf7a64147d
+type: word-relation
+group_uuid: 740034a0-8020-4f65-8404-c5386878a591
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f929b6a3-39e7-42d6-b446-1d9be4662aa9
+  text: 二
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 254b3290-c131-4738-a118-ae6a1a0c7c9b
+    line_id: KR3c0005_tls_031-41a.3
+    textline: “二軍相當
+    offset: 2
+    range: 1
+right:
+  word_uuid: c0b4b2af-c287-4511-8b91-a22879b8e9c9
+  text: 兩
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33c466f7-254f-4e75-b496-f989461deb7f
+    line_id: KR3c0005_tls_031-41a.4
+    textline: 兩旗相望
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

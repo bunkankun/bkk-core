@@ -1,0 +1,32 @@
+uuid: 3a09d500-4a88-4651-ace9-b84cf89c8aab
+type: word-relation
+group_uuid: 3a09d500-4a88-4651-ace9-b84cf89c8aab
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 42fc71b2-4234-4703-8e17-b6099c7c43df
+    line_id: KR3c0001_tls_014-28a.7
+    textline: 故其民愚疾而垢
+    offset: 3
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 管子
+    line_uuid: 42fc71b2-4234-4703-8e17-b6099c7c43df
+    line_id: KR3c0001_tls_014-28a.7
+    textline: 故其民愚疾而垢
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

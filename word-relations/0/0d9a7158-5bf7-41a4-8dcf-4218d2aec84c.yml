@@ -1,0 +1,32 @@
+uuid: 0d9a7158-5bf7-41a4-8dcf-4218d2aec84c
+type: word-relation
+group_uuid: 0d9a7158-5bf7-41a4-8dcf-4218d2aec84c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 318c4644-941b-4f78-99ce-7e1d11dc7e2f
+  text: 義
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 論語
+    line_uuid: 48cfe4b2-1fbd-4e6e-9ba8-1ca2e4fd7bed
+    line_id: KR1h0004_tls_004-17a.3
+    textline: 「君子喻於義
+    offset: 6
+    range: 1
+right:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 論語
+    line_uuid: b470bdd9-8c75-4765-91fb-ebfd45b0297b
+    line_id: KR1h0004_tls_004-18a.1
+    textline: 小人喻於利
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

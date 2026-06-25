@@ -1,0 +1,32 @@
+uuid: 6406bc55-dffd-4408-8323-1c1914b157b5
+type: word-relation
+group_uuid: bd31bab2-cbde-4552-ab79-df987fcf0725
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: c1eb0e6b-a920-4e03-a567-69e40bb2390f
+  text: 有
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: 86f5be1d-1f0b-43ac-ab5e-24fec699c001
+    line_id: KR3c0005_tls_009-26a.5
+    textline: 皆非己有也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1458e618-93b2-411c-b347-b93e20a1427e
+    line_id: KR3c0005_tls_009-26a.3
+    textline: 非莫有其國也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

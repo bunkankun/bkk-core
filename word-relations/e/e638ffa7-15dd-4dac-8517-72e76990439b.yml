@@ -1,0 +1,30 @@
+uuid: e638ffa7-15dd-4dac-8517-72e76990439b
+type: word-relation
+group_uuid: e638ffa7-15dd-4dac-8517-72e76990439b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 752ce516-6164-4411-ab5c-52f7ccce9014
+  text: 生死
+  concept: EXIST
+  concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+  attestation:
+    text_title: 祖堂集
+    line_uuid: e3091ce6-9d64-4721-a680-73c32600d344
+    textline: 皆猒離有為生死（猒=厭）
+    offset: 6
+    range: 2
+right:
+  word_uuid: 12ada19e-85f1-4a2e-8e7d-3443719bf538
+  text: 涅槃
+  concept: SALVATION
+  concept_uuid: 10ca3dbe-56f7-4aee-9149-b2dc07143a67
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 544a5409-5ccc-4230-92fe-149ffe0f8ffc
+    line_id: KR6q0002_Yan_003-1126a.34
+    textline: 忻樂無餘涅槃
+    range: 2
+source:
+  source_file: word-relations.xml

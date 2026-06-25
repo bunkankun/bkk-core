@@ -1,0 +1,32 @@
+uuid: c00bc92a-e8c4-42f6-8bc9-2ae8c452f624
+type: word-relation
+group_uuid: 4b865c77-0fb6-5dbc-bc3f-06dd5c22538e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f1e6ea09-4b5f-4124-bd0c-01b3dca21452
+  text: 執
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 晏子春秋
+    line_id: KR2g0003_tls_001-16a.16
+    textline: 執法之吏
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 晏子春秋
+    line_id: KR2g0003_tls_001-16a.16
+    textline: 執法之吏
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-18T17:49:55.694+09:00'

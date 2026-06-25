@@ -1,0 +1,21 @@
+uuid: 0159df0c-896d-4b83-b541-3effdfcab096
+type: word-relation
+group_uuid: e9f222a6-e62a-529a-a54c-eaaa1d18b915
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 831bd891-649b-42d1-99d5-fec2f122537a
+  text: 據
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+right:
+  word_uuid: 46b3365c-5503-47d7-b790-48e652d450ad
+  text: 執
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

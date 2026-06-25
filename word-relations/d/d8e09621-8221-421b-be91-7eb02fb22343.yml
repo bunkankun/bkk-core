@@ -1,0 +1,31 @@
+uuid: d8e09621-8221-421b-be91-7eb02fb22343
+type: word-relation
+group_uuid: d8e09621-8221-421b-be91-7eb02fb22343
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8a9acb3-8d2b-4dd2-b6dd-fa6ce4c77273
+  text: 臥
+  concept: SLEEP
+  concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+  attestation:
+    text_title: 莊子
+    line_uuid: ced4c834-3885-4a1f-b272-b9c0064cd33e
+    textline: 泰氏其臥徐徐
+    offset: 5
+    range: 1
+right:
+  word_uuid: bfa12629-8c48-4d7f-a8df-9ff96b1b69e3
+  text: 覺
+  concept: WAKE UP
+  concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+  attestation:
+    text_title: 莊子
+    line_uuid: 8d9f3868-c019-43b6-94a6-cb3d97f4e46d
+    line_id: KR5c0126_tls_007-1a.15
+    textline: 其覺于于
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

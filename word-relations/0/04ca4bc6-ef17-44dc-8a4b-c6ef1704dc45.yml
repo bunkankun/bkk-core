@@ -1,0 +1,32 @@
+uuid: 04ca4bc6-ef17-44dc-8a4b-c6ef1704dc45
+type: word-relation
+group_uuid: dd3c3082-95cc-50c2-a919-38b7541522d3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 79abb512-2418-4d54-b467-47a83e3fcb3b
+  text: 厭
+  concept: BOREDOM
+  concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_003-24a.9
+    textline: 我學不厭而教不倦也
+    offset: 4
+    range: 1
+right:
+  word_uuid: f68052e5-765b-4ac5-8f35-5e75f4b9810b
+  text: 倦
+  concept: TIRED
+  concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_003-24a.9
+    textline: 我學不厭而教不倦也
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T01:46:15.987+09:00'

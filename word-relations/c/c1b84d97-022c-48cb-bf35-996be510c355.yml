@@ -1,0 +1,30 @@
+uuid: c1b84d97-022c-48cb-bf35-996be510c355
+type: word-relation
+group_uuid: c1b84d97-022c-48cb-bf35-996be510c355
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4faf6c1e-a7e5-4a04-a9df-0f0c5e4dd98d
+  text: 一
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 0bb37bbd-21ec-4d20-8ee1-52a1d9e48bf0
+    textline: “沙門行與行李處是一是二”
+    offset: 10
+    range: 1
+right:
+  word_uuid: 2fc8f96e-4666-4134-9a9f-a095fa0e8227
+  text: 二
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 0bb37bbd-21ec-4d20-8ee1-52a1d9e48bf0
+    textline: “沙門行與行李處是一是二”
+    offset: 12
+    range: 1
+source:
+  source_file: word-relations.xml

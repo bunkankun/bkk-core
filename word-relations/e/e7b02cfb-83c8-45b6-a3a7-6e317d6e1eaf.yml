@@ -1,0 +1,32 @@
+uuid: e7b02cfb-83c8-45b6-a3a7-6e317d6e1eaf
+type: word-relation
+group_uuid: e7b02cfb-83c8-45b6-a3a7-6e317d6e1eaf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: f330eb2c-64b3-453b-a538-924bab457309
+    line_id: KR3c0005_tls_014-14a.7
+    textline: 能無廢法行私
+    offset: 5
+    range: 1
+right:
+  word_uuid: b222a78f-ec76-4015-a4a4-0ec0f3dfd7f9
+  text: 廢
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 韓非子
+    line_uuid: f330eb2c-64b3-453b-a538-924bab457309
+    line_id: KR3c0005_tls_014-14a.7
+    textline: 能無廢法行私
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

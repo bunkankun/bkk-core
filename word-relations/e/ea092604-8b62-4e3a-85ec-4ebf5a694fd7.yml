@@ -1,0 +1,21 @@
+uuid: ea092604-8b62-4e3a-85ec-4ebf5a694fd7
+type: word-relation
+group_uuid: 1ca9ed8f-8ca1-5286-a241-921a92b63456
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4b8c6fcc-002b-402c-acdc-67e33da270b8
+  text: 悅說
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

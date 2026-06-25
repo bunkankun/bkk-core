@@ -1,0 +1,35 @@
+uuid: b6dfb86b-edce-4970-9ef4-e9ea66a6d11e
+type: word-relation
+group_uuid: b6dfb86b-edce-4970-9ef4-e9ea66a6d11e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: e140d6ad-44e8-45d5-892e-9d8f61cc35f1
+  text: 鬼
+  concept: GHOST
+  concept_uuid: 3005dd74-e3f8-4c0a-a760-fcb009c1a067
+  attestation:
+    text_title: 老子
+    line_uuid: 81010441-33b5-4feb-9171-62d84afa58c5
+    line_id: KR5c0057_tls_060-1a.5
+    textline: 其鬼不神
+    offset: 2
+    range: 1
+right:
+  word_uuid: c70cbcd5-4a5f-4e21-be53-8c1a56585356
+  text: 神
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 老子
+    line_uuid: 81010441-33b5-4feb-9171-62d84afa58c5
+    line_id: KR5c0057_tls_060-1a.5
+    textline: 其鬼不神
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

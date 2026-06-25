@@ -1,0 +1,32 @@
+uuid: 709cebee-0751-4490-afb0-10e794248176
+type: word-relation
+group_uuid: 29642c64-43d4-42e6-9d5d-b14e18f1e289
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4ae0d95c-0002-4a0e-8367-c13d80161234
+  text: 皮
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 孟子
+    line_uuid: 7cd85b0a-ed6f-445e-8fc4-a1332359c6d2
+    line_id: KR1h0001_tls_002-65a.5
+    textline: 事之以皮幣
+    offset: 4
+    range: 1
+right:
+  word_uuid: b32abcf9-90dd-4a72-8a6c-33135c6284b4
+  text: 幣
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 孟子
+    line_uuid: 7cd85b0a-ed6f-445e-8fc4-a1332359c6d2
+    line_id: KR1h0001_tls_002-65a.5
+    textline: 事之以皮幣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 48f1884c-0b8f-4dac-8f4f-545984f7bc9b
+type: word-relation
+group_uuid: 6b30a9da-5521-4410-83cf-2482b4e3222d
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43dc8828-f75a-441c-af3a-55a9ada36936
+    textline: 而人臣有（又）不敢忠主
+    offset: 10
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43dc8828-f75a-441c-af3a-55a9ada36936
+    textline: 而人臣有（又）不敢忠主
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

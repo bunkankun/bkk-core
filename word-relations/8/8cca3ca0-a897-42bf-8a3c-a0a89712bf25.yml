@@ -1,0 +1,32 @@
+uuid: 8cca3ca0-a897-42bf-8a3c-a0a89712bf25
+type: word-relation
+group_uuid: a8851874-675a-5ab1-b5fa-79f8de04bd49
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4f3c5e80-3bdb-4696-8759-0daada877bec
+  text: 事
+  concept: SITUATION
+  concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.18
+    textline: 當於世事
+    offset: 4
+    range: 1
+right:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.19
+    textline: 得於人理
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T00:22:28.299+09:00'

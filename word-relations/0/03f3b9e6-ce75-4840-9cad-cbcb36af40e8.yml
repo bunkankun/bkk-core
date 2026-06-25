@@ -1,0 +1,32 @@
+uuid: 03f3b9e6-ce75-4840-9cad-cbcb36af40e8
+type: word-relation
+group_uuid: 03f3b9e6-ce75-4840-9cad-cbcb36af40e8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8b79c2d-df37-4677-b27b-bea0f4c6f52f
+  text: 勇
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ae5f8279-7828-4811-b597-60d3315aa3b3
+    line_id: KR3j0009_tls_005-16a.23
+    textline: 勇者凌怯
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3f4518e6-9e24-4ecc-afcb-0f972d8c42df
+  text: 怯
+  concept: COWARDLY
+  concept_uuid: 15831024-bfe8-489b-b701-e1a0143abdd6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ae5f8279-7828-4811-b597-60d3315aa3b3
+    line_id: KR3j0009_tls_005-16a.23
+    textline: 勇者凌怯
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4fa2ecfb-f00a-4ea7-a2ec-fbf00a6ea7de
+type: word-relation
+group_uuid: de57fddf-1945-5818-b2f5-fb74dc1e8cca
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6a40800c-6c04-41f7-8eb3-24cb756d15ba
+  text: 陰
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.9
+    textline: 陰陽和平
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9dcf88dd-252b-4172-81be-908b8633c6a7
+  text: 陽
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.9
+    textline: 陰陽和平
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:05:19.35+09:00'

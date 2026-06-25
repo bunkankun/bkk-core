@@ -1,0 +1,32 @@
+uuid: 699fc195-ae88-40bb-87d1-6e1d4f4db8e0
+type: word-relation
+group_uuid: 699fc195-ae88-40bb-87d1-6e1d4f4db8e0
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb4d51e7-e681-48fc-9118-e80545be4c34
+  text: 赦
+  concept: PARDON
+  concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7d707972-1f85-49e0-b182-29d901361fa0
+    line_id: KR3c0005_tls_005-24a.3
+    textline: 無赦罰
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8849ea01-6388-4315-83f2-f07012953cd1
+  text: 罰
+  concept: PENALTY
+  concept_uuid: 26945df2-203d-4158-9bc5-7f93783b7c06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7d707972-1f85-49e0-b182-29d901361fa0
+    line_id: KR3c0005_tls_005-24a.3
+    textline: 無赦罰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

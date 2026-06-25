@@ -1,0 +1,32 @@
+uuid: 990a0b31-9681-4856-aec1-a17ce401f34f
+type: word-relation
+group_uuid: 4e8b2382-86d7-446b-bf70-728a5b41a82f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 233df6d2-e94c-4952-a34f-c524ac730483
+  text: 危
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 管子
+    line_uuid: 4d02c238-7812-419a-9ef9-d6360891ac5b
+    line_id: KR3c0001_tls_005-111a.10
+    textline: 此危亡之時也
+    offset: 2
+    range: 1
+right:
+  word_uuid: ad9c7f5d-655a-4c11-bbd2-689f49086066
+  text: 亡
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 管子
+    line_uuid: 4d02c238-7812-419a-9ef9-d6360891ac5b
+    line_id: KR3c0001_tls_005-111a.10
+    textline: 此危亡之時也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

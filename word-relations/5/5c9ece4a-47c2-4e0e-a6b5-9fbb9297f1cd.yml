@@ -1,0 +1,32 @@
+uuid: 5c9ece4a-47c2-4e0e-a6b5-9fbb9297f1cd
+type: word-relation
+group_uuid: 5c9ece4a-47c2-4e0e-a6b5-9fbb9297f1cd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e8aa83a1-a44d-43a6-9805-a003561ca149
+  text: 狐
+  concept: DOUBT
+  concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8d84f41e-3d9a-4c6a-9196-41f2cf097c88
+    line_id: KR3c0005_tls_002-21a.4
+    textline: 荊人狐疑
+    offset: 3
+    range: 1
+right:
+  word_uuid: cd3ee973-4973-4ecd-8d59-eb5cd5d62dbd
+  text: 疑
+  concept: SUSPECT
+  concept_uuid: 918f56cf-6c9b-411f-afdd-dd6fbf05bbdd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8d84f41e-3d9a-4c6a-9196-41f2cf097c88
+    line_id: KR3c0005_tls_002-21a.4
+    textline: 荊人狐疑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

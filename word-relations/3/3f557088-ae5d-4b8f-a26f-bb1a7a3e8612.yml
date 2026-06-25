@@ -1,0 +1,21 @@
+uuid: 3f557088-ae5d-4b8f-a26f-bb1a7a3e8612
+type: word-relation
+group_uuid: fbb8b3dd-d27a-520f-9c86-8aab2acfb9df
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d4cb582b-6ee8-49b5-ac72-974bb4208333
+  text: 感
+  concept: STIMULATE
+  concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+right:
+  word_uuid: 07e42c3a-fe9c-494a-ab7d-1f893924f34c
+  text: 動
+  concept: STIMULATE
+  concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

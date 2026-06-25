@@ -1,0 +1,32 @@
+uuid: e2c9f92f-c038-472d-90bc-ec0598f34082
+type: word-relation
+group_uuid: a02c115b-775b-488c-9754-5b5fae40c448
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6b29ef92-2cf8-4e7b-bf39-b5049f89fce5
+  text: 淺
+  concept: SHALLOW
+  concept_uuid: 9a55881b-7984-4567-aaa9-714e78d66931
+  attestation:
+    text_title: 新論
+    line_uuid: 9ed3e671-08f7-48e4-8ef0-f475b73a8ef4
+    line_id: KR3j0192_tls_001-25a.10
+    textline: 智略有深淺
+    offset: 5
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 新論
+    line_uuid: 9ed3e671-08f7-48e4-8ef0-f475b73a8ef4
+    line_id: KR3j0192_tls_001-25a.10
+    textline: 智略有深淺
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: df3baee6-f268-46e9-8823-f39b06c236cf
+type: word-relation
+group_uuid: 1de7da6e-e1e4-4ba8-ad4f-04a20e72577f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 論語
+    line_uuid: 6872c42e-a1ca-4983-b2e5-f3f8d68f0e2a
+    line_id: KR1h0004_tls_004-6a.5
+    textline: 好仁者
+    offset: 1
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 論語
+    line_uuid: e3e1f60f-9e3b-4594-956e-c89cbb672dc9
+    line_id: KR1h0004_tls_004-6a.4
+    textline: 惡不仁者
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

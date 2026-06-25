@@ -1,0 +1,32 @@
+uuid: 75f26a68-7bb3-4af7-85c4-2fca8dd87ca8
+type: word-relation
+group_uuid: 7b780d16-462b-4166-8dee-9846ec09f391
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c70cbcd5-4a5f-4e21-be53-8c1a56585356
+  text: 神
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 史記
+    line_uuid: 3ca0a3d6-6704-43be-bf3f-cda57cd45fb7
+    line_id: KR2a0001_tls_012-633a.24
+    textline: 「神靈之休
+    offset: 2
+    range: 1
+right:
+  word_uuid: 963e31b9-f5ce-463c-b1fd-45894f0429dc
+  text: 靈
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 史記
+    line_uuid: 3ca0a3d6-6704-43be-bf3f-cda57cd45fb7
+    line_id: KR2a0001_tls_012-633a.24
+    textline: 「神靈之休
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

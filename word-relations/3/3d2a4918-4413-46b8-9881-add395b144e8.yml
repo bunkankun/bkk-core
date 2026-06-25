@@ -1,0 +1,30 @@
+uuid: 3d2a4918-4413-46b8-9881-add395b144e8
+type: word-relation
+group_uuid: 3d2a4918-4413-46b8-9881-add395b144e8
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 老子
+    line_uuid: 0db10670-5e92-4751-beea-7f0cc7f4226f
+    line_id: KR5c0057_tls_054-1a.17
+    textline: 以家觀家
+    range: 1
+right:
+  word_uuid: 63faf8ce-c0df-4f61-86b5-3dfd393546f1
+  text: 鄉
+  concept: REGION
+  concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+  attestation:
+    text_title: 老子
+    line_uuid: d0ead683-9f98-42d4-ba06-ea0c1f93dc49
+    line_id: KR5c0057_tls_054-1a.18
+    textline: 以鄉觀鄉
+    range: 1
+source:
+  source_file: word-relations.xml

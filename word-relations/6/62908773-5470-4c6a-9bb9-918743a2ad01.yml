@@ -1,0 +1,32 @@
+uuid: 62908773-5470-4c6a-9bb9-918743a2ad01
+type: word-relation
+group_uuid: 62908773-5470-4c6a-9bb9-918743a2ad01
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ce419d7-ec48-4c73-a5bc-80dd2d8c7757
+    line_id: KR3c0005_tls_015-26a.2
+    textline: 君不肖而側室賢
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6e61a920-e322-4f55-8b12-d8eff26bb8a2
+  text: 側室
+  concept: RELATIVES
+  concept_uuid: 0721c890-1b6e-4c06-9fa6-1ccd3ece0aa6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ce419d7-ec48-4c73-a5bc-80dd2d8c7757
+    line_id: KR3c0005_tls_015-26a.2
+    textline: 君不肖而側室賢
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

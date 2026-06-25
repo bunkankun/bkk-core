@@ -1,0 +1,32 @@
+uuid: b4707c0b-9654-40e3-9239-0f0af361e147
+type: word-relation
+group_uuid: b4707c0b-9654-40e3-9239-0f0af361e147
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 873051bb-0d36-4745-ba69-3de9f7cbc34c
+  text: 失
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論衡
+    line_uuid: 02597867-c105-4f31-9001-77178c1a06f6
+    line_id: KR3j0080_tls_017-4a.15
+    textline: 使景公有失誤之行
+    offset: 5
+    range: 1
+right:
+  word_uuid: 7b133ea6-9f34-46b0-bf30-a4829c9569e4
+  text: 誤
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論衡
+    line_uuid: 02597867-c105-4f31-9001-77178c1a06f6
+    line_id: KR3j0080_tls_017-4a.15
+    textline: 使景公有失誤之行
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

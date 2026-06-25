@@ -1,0 +1,30 @@
+uuid: 57d31dc5-43d5-4733-828a-e60a47095891
+type: word-relation
+group_uuid: 57d31dc5-43d5-4733-828a-e60a47095891
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 21c950fe-c089-4df1-9f16-678101e2903b
+  text: '1'
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+  attestation:
+    text_title: 老子
+    line_uuid: 30f91bd8-df24-4e9f-8259-598beac18a7f
+    textline: 其上不1
+    range: 1
+right:
+  word_uuid: ecd92315-be05-4678-a688-9a4fe372ae7c
+  text: 昧
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 老子
+    line_uuid: 4925b578-dcab-458f-950f-5062d940f66f
+    line_id: KR5c0057_tls_014-1a.13
+    textline: 其下不昧
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

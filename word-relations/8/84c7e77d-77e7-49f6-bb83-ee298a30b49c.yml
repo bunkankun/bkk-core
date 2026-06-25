@@ -1,0 +1,32 @@
+uuid: 84c7e77d-77e7-49f6-bb83-ee298a30b49c
+type: word-relation
+group_uuid: 84c7e77d-77e7-49f6-bb83-ee298a30b49c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: b0df3f29-8ba0-4f76-84ed-ebaa1249e71b
+  text: 染
+  concept: DYE
+  concept_uuid: 4bb9333e-a44e-4049-81bd-c3b4948d3a91
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1faae43a-18a9-4edc-bfec-ad5f33218004
+    line_id: KR3j0009_tls_002-24a.3
+    textline: 墨子見染素絲者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8a4de793-20d6-4901-85b5-d7da111c44f9
+  text: 絲
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1faae43a-18a9-4edc-bfec-ad5f33218004
+    line_id: KR3j0009_tls_002-24a.3
+    textline: 墨子見染素絲者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

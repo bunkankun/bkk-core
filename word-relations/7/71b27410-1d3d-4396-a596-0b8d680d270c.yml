@@ -1,0 +1,32 @@
+uuid: 71b27410-1d3d-4396-a596-0b8d680d270c
+type: word-relation
+group_uuid: 71b27410-1d3d-4396-a596-0b8d680d270c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: ccb98d63-750d-4786-919b-cd5af0d40bb4
+    line_id: KR1h0004_tls_004-22a.5
+    textline: 一則以喜
+    offset: 4
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 論語
+    line_uuid: 131035aa-74a7-4966-8a95-488a016a61c7
+    line_id: KR1h0004_tls_004-23a.1
+    textline: 一則以懼
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

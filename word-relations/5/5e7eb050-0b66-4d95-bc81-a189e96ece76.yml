@@ -1,0 +1,32 @@
+uuid: 5e7eb050-0b66-4d95-bc81-a189e96ece76
+type: word-relation
+group_uuid: 5e7eb050-0b66-4d95-bc81-a189e96ece76
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 論語
+    line_uuid: 78b9e664-7cb8-4e8f-955e-cc06502b22e6
+    line_id: KR1h0004_tls_001-5a.4
+    textline: 敬事而信
+    offset: 2
+    range: 1
+right:
+  word_uuid: c384494b-c309-4ff1-a254-b06284e485a5
+  text: 敬
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 論語
+    line_uuid: 78b9e664-7cb8-4e8f-955e-cc06502b22e6
+    line_id: KR1h0004_tls_001-5a.4
+    textline: 敬事而信
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

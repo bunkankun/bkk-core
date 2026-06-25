@@ -1,0 +1,35 @@
+uuid: 27c016e6-3306-42b6-bf5d-5268c20ed47a
+type: word-relation
+group_uuid: 27c016e6-3306-42b6-bf5d-5268c20ed47a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9b61b179-e3c8-48fc-b51a-a11e4cb76cf6
+  text: 拔
+  concept: CHOOSE
+  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+  attestation:
+    text_title: 論衡
+    line_uuid: 0a5f48d2-defd-4b4e-821a-99ce7fe36ecd
+    line_id: KR3j0080_tls_002-11a.32
+    textline: 夫采玉者破石拔玉
+    offset: 7
+    range: 1
+right:
+  word_uuid: 210515a0-b2ff-43fa-ba04-f6a66fea9817
+  text: 取
+  concept: CHOOSE
+  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+  attestation:
+    text_title: 論衡
+    line_uuid: 71d090be-4525-4f36-98f7-376658e9112c
+    line_id: KR3j0080_tls_002-11a.33
+    textline: 選士者棄惡取善
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

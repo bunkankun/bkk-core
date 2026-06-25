@@ -1,0 +1,32 @@
+uuid: 7d4ef6c0-c8cd-4faf-8ef6-c0c8cddfaf95
+type: word-relation
+group_uuid: cf300d31-863b-5195-b420-fa7f4b0c29ae
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c167a295-ca5b-4737-bf5d-6ce9a945255c
+  text: 才
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.14
+    textline: 若乃人考其才
+    offset: 6
+    range: 1
+right:
+  word_uuid: 858dd4ad-939b-4096-8a4c-269143390b90
+  text: 用
+  concept: USEFUL
+  concept_uuid: 9a17ae53-4f3a-4d18-9a22-d0f66f6e394b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-7a.15
+    textline: 而時省其用
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T01:50:17.739+09:00'

@@ -1,0 +1,32 @@
+uuid: 19492dbf-1257-43a2-a0bd-6f7f24047c95
+type: word-relation
+group_uuid: 19492dbf-1257-43a2-a0bd-6f7f24047c95
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 論衡
+    line_uuid: 397398ee-8afc-405b-8c93-248b1b16fcad
+    line_id: KR3j0080_tls_002-9a.12
+    textline: 邪偽之人
+    offset: 1
+    range: 1
+right:
+  word_uuid: fd3344d7-d09b-4669-8f13-62e41f3f66ba
+  text: 偽
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 論衡
+    line_uuid: 397398ee-8afc-405b-8c93-248b1b16fcad
+    line_id: KR3j0080_tls_002-9a.12
+    textline: 邪偽之人
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

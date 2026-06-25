@@ -1,0 +1,32 @@
+uuid: c8298ae7-07fe-46b6-9779-1ac3e0945df4
+type: word-relation
+group_uuid: c8298ae7-07fe-46b6-9779-1ac3e0945df4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3a7be0ae-95ae-4728-8d6d-0034b7529798
+  text: 誓
+  concept: PUBLICISE
+  concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+  attestation:
+    text_title: 禮記
+    line_uuid: 48338999-1f29-4e8f-bb67-8e36131efaa8
+    line_id: KR1d0052_tls_011-20a.25
+    textline: 親聽誓命
+    offset: 3
+    range: 1
+right:
+  word_uuid: c1686aab-bb4c-406e-8b3e-8b8e3cb18932
+  text: 命
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 禮記
+    line_uuid: 48338999-1f29-4e8f-bb67-8e36131efaa8
+    line_id: KR1d0052_tls_011-20a.25
+    textline: 親聽誓命
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

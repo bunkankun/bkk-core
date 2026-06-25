@@ -1,0 +1,35 @@
+uuid: 4a42ea06-7a6c-48dc-8db7-978fea96b385
+type: word-relation
+group_uuid: 4a42ea06-7a6c-48dc-8db7-978fea96b385
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 013c02ac-b38d-4e7d-af79-45e6fcfa51bb
+  text: 悲
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+  attestation:
+    text_title: 論衡
+    line_uuid: ea5143ce-586f-43d0-ab7f-0801e135c0a5
+    line_id: KR3j0080_tls_002-8a.32
+    textline: 乃悲傷之
+    offset: 2
+    range: 1
+right:
+  word_uuid: 092d54f8-817f-4360-be48-9e5d71a1d11a
+  text: 傷
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+  attestation:
+    text_title: 論衡
+    line_uuid: ea5143ce-586f-43d0-ab7f-0801e135c0a5
+    line_id: KR3j0080_tls_002-8a.32
+    textline: 乃悲傷之
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

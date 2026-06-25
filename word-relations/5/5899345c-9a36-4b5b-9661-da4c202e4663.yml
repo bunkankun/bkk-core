@@ -1,0 +1,30 @@
+uuid: 5899345c-9a36-4b5b-9661-da4c202e4663
+type: word-relation
+group_uuid: ff70d673-24f4-4aaa-8654-6fb3f0c9ce56
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 25694bc2-5d10-43dd-8bab-8a3058c0a53b
+  text: 潔
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 韓非子
+    line_uuid: d21995db-cf47-4982-8993-395a724c7fa2
+    textline: 清克潔愨
+    offset: 3
+    range: 1
+right:
+  word_uuid: c198ae7d-05b4-4bcf-8749-c01247d1e6c5
+  text: 愨
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 韓非子
+    line_uuid: d21995db-cf47-4982-8993-395a724c7fa2
+    textline: 清克潔愨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

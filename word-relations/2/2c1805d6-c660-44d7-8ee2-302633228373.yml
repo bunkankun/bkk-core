@@ -1,0 +1,18 @@
+uuid: 2c1805d6-c660-44d7-8ee2-302633228373
+type: word-relation
+group_uuid: bb0d42dd-a7f2-5b56-b641-182aab4114b0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 658e8cec-6a17-4634-9ff9-5995a24976ca
+  text: 教
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+source:
+  source_file: word-relations.xml

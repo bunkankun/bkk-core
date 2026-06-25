@@ -1,0 +1,32 @@
+uuid: 90fa5cc7-1453-4cbc-8e4b-4634c98898c2
+type: word-relation
+group_uuid: 90fa5cc7-1453-4cbc-8e4b-4634c98898c2
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 79ca7042-6c42-4e68-aed3-dc621c7c087e
+  text: 裘
+  concept: CLOAK
+  concept_uuid: 59166bc2-cf54-43e2-ae09-0117fcac748a
+  attestation:
+    text_title: 論語
+    line_uuid: 210db14c-dbd2-48e1-840d-4e2a1e4436a5
+    line_id: KR1h0004_tls_006-8a.5
+    textline: 衣輕裘
+    offset: 3
+    range: 1
+right:
+  word_uuid: b6a5f40d-b4dd-4fa1-9629-bd99dce2568c
+  text: 輕
+  concept: LIGHTWEIGHT
+  concept_uuid: 226f4376-14e2-466d-83ba-54e4e996002b
+  attestation:
+    text_title: 論語
+    line_uuid: 210db14c-dbd2-48e1-840d-4e2a1e4436a5
+    line_id: KR1h0004_tls_006-8a.5
+    textline: 衣輕裘
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

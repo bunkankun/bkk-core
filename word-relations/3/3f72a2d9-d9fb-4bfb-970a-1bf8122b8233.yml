@@ -1,0 +1,35 @@
+uuid: 3f72a2d9-d9fb-4bfb-970a-1bf8122b8233
+type: word-relation
+group_uuid: bd6e8ba5-f06c-4523-b42f-c5bafec49905
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 論衡
+    line_uuid: 4f8b06d5-8774-4621-8591-115b43864514
+    line_id: KR3j0080_tls_006-4a.13
+    textline: 戮力操行而吉福至
+    offset: 7
+    range: 1
+right:
+  word_uuid: 50593438-52c2-46f6-b9bc-8ffa236fb6b1
+  text: 吉
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+  attestation:
+    text_title: 論衡
+    line_uuid: 4f8b06d5-8774-4621-8591-115b43864514
+    line_id: KR3j0080_tls_006-4a.13
+    textline: 戮力操行而吉福至
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

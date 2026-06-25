@@ -1,0 +1,21 @@
+uuid: e0c91ea5-703c-4bab-9295-b3c79bf80787
+type: word-relation
+group_uuid: 8d25756b-7472-5d29-b848-bc5f8f1662e0
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ee05567f-6765-4fc5-afa4-28c27f4d9dc9
+  text: 藏藏臧
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+right:
+  word_uuid: 4946969a-c740-4171-bcb4-b3cf5015c2fa
+  text: 匿
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

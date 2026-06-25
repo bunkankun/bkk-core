@@ -1,0 +1,32 @@
+uuid: ba9b3687-3ada-4a49-86ff-abd3508c1be4
+type: word-relation
+group_uuid: cbe78ea1-2dbf-47d1-9a4c-1c76c988eaa9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cf3ddfaf-3538-4816-b5c9-213dc178b1e4
+  text: 同
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 韓非子
+    line_uuid: c14ef5c6-2ff9-4bca-aec5-e4545dd77680
+    line_id: KR3c0005_tls_014-40a.8
+    textline: 異於義而同於俗
+    offset: 5
+    range: 1
+right:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 韓非子
+    line_uuid: c14ef5c6-2ff9-4bca-aec5-e4545dd77680
+    line_id: KR3c0005_tls_014-40a.8
+    textline: 異於義而同於俗
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

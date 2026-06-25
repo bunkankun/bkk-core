@@ -1,0 +1,32 @@
+uuid: 8ee5bc6c-9043-4152-aa66-0118e632f070
+type: word-relation
+group_uuid: a4016853-bfb8-4ee5-ae72-c39c47164a19
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: ad9c7f5d-655a-4c11-bbd2-689f49086066
+  text: 亡
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ccc5a7c-92a4-43f9-90bb-078cc568a147
+    line_id: KR3c0005_tls_010-29a.2
+    textline: “此亡國之聲
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ccc5a7c-92a4-43f9-90bb-078cc568a147
+    line_id: KR3c0005_tls_010-29a.2
+    textline: “此亡國之聲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

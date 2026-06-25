@@ -1,0 +1,21 @@
+uuid: 59ab4fbf-8012-476d-bc51-f01baab69a51
+type: word-relation
+group_uuid: 62758157-e34a-5b03-b628-6411ac6ae321
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a560b741-23d2-4539-9aca-729347ba5a41
+  text: 淨
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+right:
+  word_uuid: 148f362c-2c39-4e2e-ba6b-d78fd3ca3a4d
+  text: 清
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

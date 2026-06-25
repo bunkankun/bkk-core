@@ -1,0 +1,32 @@
+uuid: 8d1e5ba9-9e56-4dfd-bc73-2c4515a92635
+type: word-relation
+group_uuid: 8d1e5ba9-9e56-4dfd-bc73-2c4515a92635
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9ac19c6c-51cc-4c74-ac02-a3380bb612a9
+    line_id: KR3c0005_tls_030-80a.12
+    textline: 雖失十左氏無害也”
+    offset: 7
+    range: 1
+right:
+  word_uuid: ffb09a7b-fb87-410b-bb8a-a7e99afb9476
+  text: 益
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 042025d2-2d5e-4ed9-a23b-b2207f2cb4f5
+    line_id: KR3c0005_tls_030-80a.10
+    textline: 雖有十左氏無益也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

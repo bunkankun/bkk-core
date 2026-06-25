@@ -1,0 +1,37 @@
+uuid: 7e5ce4b9-8116-4930-90a4-0165752f1ac8
+type: word-relation
+group_uuid: 0eb0ceb0-5693-4cc7-81aa-29ca9552645b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9796824b-595a-4ceb-9588-1d31b9f13176
+  text: 廢
+  concept: DECLINE
+  concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+  attestation:
+    text_title: 老子
+    line_uuid: 81331203-4c4c-48ac-9b17-fb57e4a86a7c
+    line_id: KR5c0057_tls_036-1a.7
+    textline: 將欲廢之
+    offset: 3
+    range: 1
+right:
+  word_uuid: d9db02e9-9221-41bb-b3ac-2ffa233c2aac
+  text: 興
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+  attestation:
+    text_title: 老子
+    line_uuid: f13d715b-c88f-46a9-bbf9-f7d807355048
+    line_id: KR5c0057_tls_036-1a.8
+    textline: 必固興之
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

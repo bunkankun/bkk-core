@@ -1,0 +1,32 @@
+uuid: abc196af-c44d-47e0-ac80-e1e6a9508aa3
+type: word-relation
+group_uuid: 20083100-e654-415f-b532-cb8269bf8660
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 615dd0d2-ea76-40f6-b8a6-17f90cca7833
+  text: 瑕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 史記
+    line_uuid: 14f8f9b6-4382-41a2-917f-6eaa8d9e4dee
+    line_id: KR2a0001_tls_087-38a.5
+    textline: 因以瑕釁
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5528c4a0-adc8-40c9-9c27-551004a5181b
+  text: 釁
+  concept: HOLE
+  concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+  attestation:
+    text_title: 史記
+    line_uuid: 14f8f9b6-4382-41a2-917f-6eaa8d9e4dee
+    line_id: KR2a0001_tls_087-38a.5
+    textline: 因以瑕釁
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

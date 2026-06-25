@@ -1,0 +1,32 @@
+uuid: 2ccf558a-80fe-4654-af6f-41965db62e4d
+type: word-relation
+group_uuid: 2ccf558a-80fe-4654-af6f-41965db62e4d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 00a69166-cbc8-4b06-b058-d230f66bcd4f
+  text: 說
+  concept: PERSUADE
+  concept_uuid: df302e69-b571-43a8-af45-96d598ea2ca2
+  attestation:
+    text_title: 韓非子
+    line_uuid: f76571a4-014a-4663-b0e6-03fed8cbfc74
+    line_id: KR3c0005_tls_003-13a.7
+    textline: 則愚者難說也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 73793f5a-3b08-4ee0-a60c-aca4588e86ba
+  text: 言
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 87e449ca-3a07-456a-8b80-19196ac148f7
+    line_id: KR3c0005_tls_003-13a.8
+    textline: 故君子難言也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

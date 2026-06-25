@@ -1,0 +1,32 @@
+uuid: 23cd240c-b4f4-41b2-9f0c-1c07e53424ac
+type: word-relation
+group_uuid: f9d04b48-004d-41d2-b015-503d88f693cd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9ada0487-b1e9-4814-a81f-b795f9317d2d
+  text: 府
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 99b7dac7-5119-41b4-befb-56ae7ddd58b5
+    line_id: KR3j0009_tls_003-4a.13
+    textline: 開府庫
+    offset: 2
+    range: 1
+right:
+  word_uuid: 16f10c9a-f138-44da-b8c8-15f158c996d0
+  text: 庫
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 99b7dac7-5119-41b4-befb-56ae7ddd58b5
+    line_id: KR3j0009_tls_003-4a.13
+    textline: 開府庫
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: fcfa1031-d906-438a-9db2-282335b7b1af
+type: word-relation
+group_uuid: fcfa1031-d906-438a-9db2-282335b7b1af
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dec1ac0-0275-4703-80fe-82fc8abbe591
+  text: 獲
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 管子
+    line_uuid: cd7429d5-c20b-4455-a013-1a3ab57a7e54
+    textline: 列陳繫纍獲虜
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3b773f28-8a0e-4efd-9f1a-185733a77d79
+  text: 虜
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 管子
+    line_uuid: cd7429d5-c20b-4455-a013-1a3ab57a7e54
+    textline: 列陳繫纍獲虜
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

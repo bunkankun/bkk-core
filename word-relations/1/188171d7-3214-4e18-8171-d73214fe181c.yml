@@ -1,0 +1,32 @@
+uuid: 188171d7-3214-4e18-8171-d73214fe181c
+type: word-relation
+group_uuid: 05c8ba8e-4bb8-5e33-a003-947573ace41f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_006-13a.46
+    textline: 修法飭刑
+    offset: 2
+    range: 1
+right:
+  word_uuid: c9ce379d-b124-4e9e-ae21-8305ac15798d
+  text: 刑
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_006-13a.46
+    textline: 修法飭刑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T18:36:40.149+09:00'

@@ -1,0 +1,32 @@
+uuid: ab2a2a21-b0f8-466d-aa2a-21b0f8066d29
+type: word-relation
+group_uuid: 81ff10cc-0ee8-5415-ae2d-5fa130c3e37f
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 208fe1c0-e377-4388-930c-ffb8e6fa9362
+  text: 私
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_026-13a.13
+    textline: 少私義則公法立
+    offset: 2
+    range: 1
+right:
+  word_uuid: cd45001c-c066-4bdc-89fb-94a5b890622f
+  text: 公
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_026-13a.13
+    textline: 少私義則公法立
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T18:21:25.253+09:00'

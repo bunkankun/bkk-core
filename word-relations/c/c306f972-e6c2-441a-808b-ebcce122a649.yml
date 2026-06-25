@@ -1,0 +1,32 @@
+uuid: c306f972-e6c2-441a-808b-ebcce122a649
+type: word-relation
+group_uuid: c306f972-e6c2-441a-808b-ebcce122a649
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 18676608-115a-47fd-8a01-698dff4454e5
+  text: 誠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 076cec7b-d33d-4b56-8faa-4b70318bdbee
+    line_id: KR3c0005_tls_008-10a.6
+    textline: 二者誠信
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 076cec7b-d33d-4b56-8faa-4b70318bdbee
+    line_id: KR3c0005_tls_008-10a.6
+    textline: 二者誠信
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

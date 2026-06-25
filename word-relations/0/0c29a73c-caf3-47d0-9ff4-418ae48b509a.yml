@@ -1,0 +1,32 @@
+uuid: 0c29a73c-caf3-47d0-9ff4-418ae48b509a
+type: word-relation
+group_uuid: 0c29a73c-caf3-47d0-9ff4-418ae48b509a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 論衡
+    line_uuid: a84c5b3c-8829-4073-8d76-a5032fec0f94
+    line_id: KR3j0080_tls_018-6a.44
+    textline: 國必興
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2690dfea-2a3a-4760-b057-ad5cd72ed3e3
+  text: 朝
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: 991e3d27-787b-4890-b218-8e3f5f2f3b09
+    line_id: KR3j0080_tls_018-6a.46
+    textline: 朝必亡
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

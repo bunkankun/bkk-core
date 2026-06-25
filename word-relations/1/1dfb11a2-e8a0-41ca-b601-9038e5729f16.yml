@@ -1,0 +1,32 @@
+uuid: 1dfb11a2-e8a0-41ca-b601-9038e5729f16
+type: word-relation
+group_uuid: 1dfb11a2-e8a0-41ca-b601-9038e5729f16
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 54a0a400-1ae7-4e54-a908-bd3e9d160830
+  text: 機
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 莊子
+    line_uuid: c836a7a4-c3cb-46f3-9132-d049be6cb434
+    line_id: KR5c0126_tls_012-15a.23
+    textline: 功利機巧必忘夫人之心
+    offset: 3
+    range: 1
+right:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 莊子
+    line_uuid: c836a7a4-c3cb-46f3-9132-d049be6cb434
+    line_id: KR5c0126_tls_012-15a.23
+    textline: 功利機巧必忘夫人之心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

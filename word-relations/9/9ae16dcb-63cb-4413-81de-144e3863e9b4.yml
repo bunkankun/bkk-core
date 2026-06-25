@@ -1,0 +1,32 @@
+uuid: 9ae16dcb-63cb-4413-81de-144e3863e9b4
+type: word-relation
+group_uuid: 9ae16dcb-63cb-4413-81de-144e3863e9b4
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5389c058-de93-4a0b-b5b0-83f3b0797199
+  text: 災
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 禮記
+    line_uuid: 98840b6f-bcd5-4e0d-87ad-1f2a7e1cae6a
+    line_id: KR1d0052_tls_006-17a.13
+    textline: 必有凶災
+    offset: 4
+    range: 1
+right:
+  word_uuid: aa5cf34d-32db-4f92-a4c4-b1293dc3dfbc
+  text: 凶
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 禮記
+    line_uuid: 98840b6f-bcd5-4e0d-87ad-1f2a7e1cae6a
+    line_id: KR1d0052_tls_006-17a.13
+    textline: 必有凶災
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

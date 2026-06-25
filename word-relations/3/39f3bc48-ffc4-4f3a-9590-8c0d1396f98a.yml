@@ -1,0 +1,32 @@
+uuid: 39f3bc48-ffc4-4f3a-9590-8c0d1396f98a
+type: word-relation
+group_uuid: 39f3bc48-ffc4-4f3a-9590-8c0d1396f98a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 78e34804-cfbf-466b-b2db-079b3b5f6b69
+  text: 魂魄
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 莊子
+    line_uuid: 9546f9b1-5369-45b8-ba90-c3b112ec3fc9
+    line_id: KR5c0126_tls_022-10a.16
+    textline: 魂魄將往
+    offset: 1
+    range: 2
+right:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 莊子
+    line_uuid: e033dfaa-9920-4a9c-b169-b5a955de0644
+    line_id: KR5c0126_tls_022-10a.17
+    textline: 乃身從之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

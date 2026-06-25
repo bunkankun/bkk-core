@@ -1,0 +1,32 @@
+uuid: 2db113d0-550f-4583-9ecb-3d90e488a510
+type: word-relation
+group_uuid: 2db113d0-550f-4583-9ecb-3d90e488a510
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a44223cb-dbfd-4499-a022-a255a00034f6
+  text: 窮
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 莊子
+    line_uuid: fe197c3e-1e30-43b0-b9d0-880c11e0a72c
+    line_id: KR5c0126_tls_031-3a.45
+    textline: 財用窮匱
+    offset: 3
+    range: 1
+right:
+  word_uuid: 147b3388-e455-4d78-aff5-dd6ee8a9ebf4
+  text: 匱
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 莊子
+    line_uuid: fe197c3e-1e30-43b0-b9d0-880c11e0a72c
+    line_id: KR5c0126_tls_031-3a.45
+    textline: 財用窮匱
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

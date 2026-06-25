@@ -1,0 +1,32 @@
+uuid: 921a2f5b-0fc3-4f62-b42c-49d4c3ba1272
+type: word-relation
+group_uuid: f1f19041-3705-499d-82ae-1b6d0f7a9b01
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4c533cea-d592-434a-a379-c56308fa321c
+  text: 恐
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8614848b-c63f-465e-b6aa-65f605aa4946
+    line_id: KR3c0005_tls_009-19a.5
+    textline: 使之恐懼
+    offset: 3
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8614848b-c63f-465e-b6aa-65f605aa4946
+    line_id: KR3c0005_tls_009-19a.5
+    textline: 使之恐懼
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 52e01f2c-e893-49b8-978a-f7a5a60ec478
+type: word-relation
+group_uuid: 5795814e-b352-4769-885a-6e92107a9cfb
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論語
+    line_uuid: 7fefe7de-cd40-4792-a4fb-fa1de386c127
+    line_id: KR1h0004_tls_007-9a.2
+    textline: 子食於有喪者之側
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8acadea3-08d1-4772-bad5-e7b9a6fbabc4
+  text: 飽
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論語
+    line_uuid: 45bb1fce-ee66-4123-98cb-a43c4649ad5e
+    line_id: KR1h0004_tls_007-9a.3
+    textline: 未嘗飽也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

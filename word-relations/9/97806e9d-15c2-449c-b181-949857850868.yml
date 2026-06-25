@@ -1,0 +1,21 @@
+uuid: 97806e9d-15c2-449c-b181-949857850868
+type: word-relation
+group_uuid: db88c179-42dc-5cf5-bba5-d3450b7a2ae5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 504e1d8e-6eff-4fc9-8de0-5a16ed04a63c
+  text: 稱
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+right:
+  word_uuid: 31199f34-cb40-4e00-a9cd-6a1aec341df9
+  text: 舉
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

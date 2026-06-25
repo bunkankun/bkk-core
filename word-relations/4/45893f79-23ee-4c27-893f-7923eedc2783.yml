@@ -1,0 +1,32 @@
+uuid: 45893f79-23ee-4c27-893f-7923eedc2783
+type: word-relation
+group_uuid: 43a7c616-ae4e-5395-9f82-aa77c2b5c5e8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ee84e7d3-2088-4f9c-9f41-9d0b19295ce8
+  text: 治
+  concept: ORDERLY
+  concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-8a.5
+    textline: 不治其內
+    offset: 2
+    range: 1
+right:
+  word_uuid: 31ac29cc-40a7-4164-8a3a-cd2cd80504aa
+  text: 脩
+  concept: CULTIVATE
+  concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-8a.6
+    textline: 而脩其外
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#dsehnal'
+  date: '2023-05-13T19:32:30.433+09:00'

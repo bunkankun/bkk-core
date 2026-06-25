@@ -1,0 +1,21 @@
+uuid: ac85b250-ca6f-49d1-af8f-03479f8f1668
+type: word-relation
+group_uuid: 80ac949f-888b-5efa-a02a-5273eaa7890c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9d665ea9-2628-4070-a74e-93609211b249
+  text: 反
+  concept: REVOLVE
+  concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+right:
+  word_uuid: abdda9b3-4230-4e8e-bc0d-fbd955fb8a84
+  text: 轉
+  concept: REVOLVE
+  concept_uuid: b8f62ae5-94fa-49ee-8dc6-066769474044
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

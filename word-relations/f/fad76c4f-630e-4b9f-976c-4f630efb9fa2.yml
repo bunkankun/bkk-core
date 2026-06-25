@@ -1,0 +1,32 @@
+uuid: fad76c4f-630e-4b9f-976c-4f630efb9fa2
+type: word-relation
+group_uuid: 13dde8bb-8077-4e32-905d-e00b213e1d85
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_002-28a.9
+    textline: 善弋者下鳥乎百仞之上
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_002-28a.10
+    textline: 弓良也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-06T12:41:04.174+09:00'

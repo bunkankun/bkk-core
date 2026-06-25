@@ -1,0 +1,21 @@
+uuid: c14642a8-77c1-4682-9f27-70ed7b3338b5
+type: word-relation
+group_uuid: 8cfb7ff9-2160-5b12-9c07-13a45f2079df
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3bb98d8a-3757-4950-adab-5102c368a31e
+  text: 存
+  concept: YEARN
+  concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+right:
+  word_uuid: c1bf0ea5-5006-47fb-aafe-7b0cf1aabee4
+  text: 想
+  concept: YEARN
+  concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

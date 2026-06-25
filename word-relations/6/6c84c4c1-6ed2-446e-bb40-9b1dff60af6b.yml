@@ -1,0 +1,18 @@
+uuid: 6c84c4c1-6ed2-446e-bb40-9b1dff60af6b
+type: word-relation
+group_uuid: 26a223da-3292-584a-bf33-c9bc71f4c13f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a38573cd-0880-4b8c-8483-a9a5216866f7
+  text: 常住
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+right:
+  word_uuid: b4534d5f-619e-42f0-b7f3-df3038671ea2
+  text: 無常
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+source:
+  source_file: word-relations.xml

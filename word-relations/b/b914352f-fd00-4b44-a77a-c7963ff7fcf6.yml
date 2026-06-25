@@ -1,0 +1,32 @@
+uuid: b914352f-fd00-4b44-a77a-c7963ff7fcf6
+type: word-relation
+group_uuid: b914352f-fd00-4b44-a77a-c7963ff7fcf6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c5f6c657-3015-475e-a380-c36fb406d9c8
+  text: 逢
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+  attestation:
+    text_title: 史記
+    line_uuid: 1d14be79-918f-40f7-8045-eb5910a27ae9
+    line_id: KR2a0001_tls_086-28a.2
+    textline: 太子逢迎
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0450574a-8da5-4952-bdaa-70fc542a3ce9
+  text: 迎
+  concept: WELCOME
+  concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+  attestation:
+    text_title: 史記
+    line_uuid: 1d14be79-918f-40f7-8045-eb5910a27ae9
+    line_id: KR2a0001_tls_086-28a.2
+    textline: 太子逢迎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

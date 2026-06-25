@@ -1,0 +1,32 @@
+uuid: cb6d1083-da84-4d1d-a628-dc3534f64069
+type: word-relation
+group_uuid: 16473409-ab7f-4eff-8976-1f38f84a1bc1
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 50398bb2-f3c7-43bb-96c2-ffa82042f77c
+  text: 在
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+  attestation:
+    text_title: 論衡
+    line_uuid: fd69ec96-ed96-41eb-b049-e5c0725e9e7e
+    line_id: KR3j0080_tls_004-5a.21
+    textline: 在位五十載
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 論衡
+    line_uuid: fd69ec96-ed96-41eb-b049-e5c0725e9e7e
+    line_id: KR3j0080_tls_004-5a.21
+    textline: 在位五十載
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

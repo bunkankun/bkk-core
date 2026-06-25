@@ -1,0 +1,32 @@
+uuid: 7a866c0e-d015-410c-972b-5ae3e352bf7c
+type: word-relation
+group_uuid: 7a866c0e-d015-410c-972b-5ae3e352bf7c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dd610641-8251-402a-8f69-b5c5d4e19244
+  text: 神
+  concept: SUPERNATURAL
+  concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+  attestation:
+    text_title: 論衡
+    line_uuid: adeb3aae-3da7-4aa4-9082-dce2fb86860c
+    line_id: KR3j0080_tls_024-17a.9
+    textline: 故能神仙
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4439cbe4-a557-4df3-9304-d5de6405a668
+  text: 仙
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 論衡
+    line_uuid: adeb3aae-3da7-4aa4-9082-dce2fb86860c
+    line_id: KR3j0080_tls_024-17a.9
+    textline: 故能神仙
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

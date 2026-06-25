@@ -1,0 +1,32 @@
+uuid: 5384158e-2c85-4f93-b1f9-59ced929615d
+type: word-relation
+group_uuid: 5384158e-2c85-4f93-b1f9-59ced929615d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8ad7111f-9988-443d-bf27-f204d7ca344b
+  text: 忿
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 戰國策
+    line_uuid: ef005f89-45fa-4204-991b-ca6886f49d5a
+    line_id: KR2e0003_tls_048-1a.12
+    textline: 寡人忿然
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0e287446-a0d6-42bb-bf09-a229ff4ed277
+  text: 怒
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 戰國策
+    line_uuid: afe7c613-b0a1-4c38-9f0d-42ccb80551de
+    line_id: KR2e0003_tls_048-1a.13
+    textline: 含怒日久
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: bfbcf9ef-42f7-47dd-b05a-a6476a3813fc
+type: word-relation
+group_uuid: bfbcf9ef-42f7-47dd-b05a-a6476a3813fc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 法言
+    line_uuid: 86ff168a-711c-468c-9587-e10e5a0dd480
+    line_id: KR3a0009_tls_008-16a.2
+    textline: 聖人之言遠如天
+    offset: 1
+    range: 2
+right:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 法言
+    line_uuid: 86ff168a-711c-468c-9587-e10e5a0dd480
+    line_id: KR3a0009_tls_008-16a.2
+    textline: 聖人之言遠如天
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

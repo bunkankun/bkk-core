@@ -1,0 +1,21 @@
+uuid: 206367a4-939b-49bf-bf96-09ad3e6f4fe5
+type: word-relation
+group_uuid: 7fc27974-85f6-52c8-92e5-57808cf01b74
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 33f5f1e6-5495-4048-8695-8aacee409aca
+  text: 舉
+  concept: APPOINT
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+right:
+  word_uuid: cc6d3f49-6993-49fc-afe0-bac968c8a2ec
+  text: 選
+  concept: CHOOSE
+  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

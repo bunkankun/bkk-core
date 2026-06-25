@@ -1,0 +1,18 @@
+uuid: d6102dd5-9a35-4aad-86fe-1b41a08dc7a1
+type: word-relation
+group_uuid: 84bfe162-87bb-538f-bae9-a80dee5219ec
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 90a6eed7-64e2-4731-a973-e658fa0e5076
+  text: 決
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+right:
+  word_uuid: ba973757-fdb8-4daa-a3b6-7a67f12df2b0
+  text: 別
+  concept: DISTINGUISH
+  concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+source:
+  source_file: word-relations.xml

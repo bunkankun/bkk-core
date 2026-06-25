@@ -1,0 +1,30 @@
+uuid: 19477a97-1b8d-4638-8e50-417970841adc
+type: word-relation
+group_uuid: 19477a97-1b8d-4638-8e50-417970841adc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2de7e140-37ca-4428-b5fe-3daaf5ae114c
+  text: 垤
+  concept: HEAP
+  concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+  attestation:
+    text_title: 韓非子
+    line_uuid: d81bfa7c-f1cf-4e3e-9d4a-130700e0ebd4
+    textline: 猶蟻垤之比大陵也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1370e9da-9886-4e10-b54c-3172c50d46d2
+  text: 蟻
+  concept: ANT
+  concept_uuid: b409829d-de2c-438e-9781-14ef6afd2d96
+  attestation:
+    text_title: 韓非子
+    line_uuid: d81bfa7c-f1cf-4e3e-9d4a-130700e0ebd4
+    textline: 猶蟻垤之比大陵也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

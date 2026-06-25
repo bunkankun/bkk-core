@@ -1,0 +1,21 @@
+uuid: 584c039e-afa6-4f3b-9d9c-ca6d018fb5bb
+type: word-relation
+group_uuid: da4c7980-c192-5233-a1a3-3dc7726f7fe2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6a54f5ba-2159-406b-9762-1c935f75a95f
+  text: 過
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+right:
+  word_uuid: 873051bb-0d36-4745-ba69-3de9f7cbc34c
+  text: 失
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

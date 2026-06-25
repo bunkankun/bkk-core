@@ -1,0 +1,32 @@
+uuid: e08d94d9-b83b-47e4-b5a4-3ac468d2fb23
+type: word-relation
+group_uuid: e08d94d9-b83b-47e4-b5a4-3ac468d2fb23
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e6885ecd-90ab-4c9b-90ec-afb6c80d425d
+  text: 毋
+  concept: SHOULD NOT
+  concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+  attestation:
+    text_title: 韓非子
+    line_uuid: bce8cd50-1e39-4db7-9e53-b4185ab6e42f
+    line_id: KR3c0005_tls_012-20a.3
+    textline: 則毋以其難概之也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 71f99588-5a04-4931-8905-cdb30c2b257d
+  text: 無
+  concept: SHOULD NOT
+  concept_uuid: 4910c2ce-6aa8-4e74-83f6-4795cd02e996
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c51591b-c0e6-4730-845d-ed6cb61689ce
+    line_id: KR3c0005_tls_012-20a.5
+    textline: 則無以其謫怒之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

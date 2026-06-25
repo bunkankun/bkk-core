@@ -1,0 +1,31 @@
+uuid: 3528a098-e14c-4d31-95f8-cf2edca17655
+type: word-relation
+group_uuid: 3528a098-e14c-4d31-95f8-cf2edca17655
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a38573cd-0880-4b8c-8483-a9a5216866f7
+  text: 常住
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 法華經
+    line_uuid: bd34ec57-3d9d-419d-a64a-5fcfb59e52b1
+    textline: 無有常住
+    offset: 3
+    range: 2
+right:
+  word_uuid: 08d9c144-02a6-48d9-99d0-c2732a6fa7c0
+  text: 起滅
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 法華經
+    line_uuid: 66a493d6-5c34-49f9-bd29-defa614d635d
+    line_id: KR6d0001_T_005-0037c.42
+    textline: 亦無起滅
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

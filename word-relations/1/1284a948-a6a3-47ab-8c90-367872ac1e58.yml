@@ -1,0 +1,31 @@
+uuid: 1284a948-a6a3-47ab-8c90-367872ac1e58
+type: word-relation
+group_uuid: 1284a948-a6a3-47ab-8c90-367872ac1e58
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 004bde0e-672f-4000-beb9-e6961642c886
+  text: 影
+  concept: SHADOW
+  concept_uuid: 98f0a561-121d-43fb-a211-d6e3b31eb675
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4227d188-014f-4ae3-8389-55710e43be81
+    line_id: KR3j0009_tls_003-20a.6
+    textline: 善影者不於影於形
+    range: 1
+right:
+  word_uuid: 87cfa289-995f-45a5-b5f8-1143ea757aad
+  text: 形
+  concept: SHAPE
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4227d188-014f-4ae3-8389-55710e43be81
+    line_id: KR3j0009_tls_003-20a.6
+    textline: 善影者不於影於形
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

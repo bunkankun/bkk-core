@@ -1,0 +1,32 @@
+uuid: 5bbf69ee-e92f-48e6-8d8c-6759d3039195
+type: word-relation
+group_uuid: 5bbf69ee-e92f-48e6-8d8c-6759d3039195
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e76aa933-86e4-40d8-a3f4-b32be8c01fe8
+  text: 斷
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+  attestation:
+    text_title: 論衡
+    line_uuid: 0aaf4fc9-ffdf-4090-9309-2f95a4a566de
+    line_id: KR3j0080_tls_006-5a.36
+    textline: 斷斬人身
+    offset: 1
+    range: 1
+right:
+  word_uuid: 305ac95e-4fb1-46b0-ace7-aac96af117c2
+  text: 斬
+  concept: BEHEAD
+  concept_uuid: 6c7873f8-335a-41dd-931f-fb75cce3ab2b
+  attestation:
+    text_title: 論衡
+    line_uuid: 0aaf4fc9-ffdf-4090-9309-2f95a4a566de
+    line_id: KR3j0080_tls_006-5a.36
+    textline: 斷斬人身
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

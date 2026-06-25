@@ -1,0 +1,18 @@
+uuid: 20e866ac-3fec-4168-ac83-ed45f18d6f11
+type: word-relation
+group_uuid: 639cd48a-01c0-5746-94c6-29e8f11b0399
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+right:
+  word_uuid: acede607-7859-474a-bf1a-f69fd08ee45c
+  text: 計
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+source:
+  source_file: word-relations.xml

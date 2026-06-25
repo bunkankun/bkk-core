@@ -1,0 +1,21 @@
+uuid: dfae0b33-fd34-49f5-a3eb-f2f26ddaf0fd
+type: word-relation
+group_uuid: b2d70358-2fc8-5538-8b1a-cf5e22f92e60
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: fac68483-1c3d-4171-8bd2-51b738fb0bab
+  text: 動
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+right:
+  word_uuid: b0e8d995-d7a3-4bb4-8b9b-f6ed5fd3dbe0
+  text: 發
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

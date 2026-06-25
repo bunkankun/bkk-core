@@ -1,0 +1,32 @@
+uuid: fc1b90fa-686b-4c0f-ad22-8d5709e3a0ff
+type: word-relation
+group_uuid: fc1b90fa-686b-4c0f-ad22-8d5709e3a0ff
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b916faf1-aecd-4dc3-ad41-dc0e9d2ea590
+  text: 平
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 05f845da-3d02-4a4a-9fe1-39accb81f32e
+    line_id: KR3j0009_tls_005-10a.2
+    textline: 天下太平
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3297bd56-bd38-4010-97cb-7eea7256279f
+  text: 太
+  concept: EXCESSIVE
+  concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 05f845da-3d02-4a4a-9fe1-39accb81f32e
+    line_id: KR3j0009_tls_005-10a.2
+    textline: 天下太平
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: c164c501-dd68-41d8-b011-d43914b56690
+type: word-relation
+group_uuid: c164c501-dd68-41d8-b011-d43914b56690
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cf9d3335-67e2-4879-b76b-340c5dfabaa4
+  text: 席
+  concept: MAT
+  concept_uuid: 356925e2-2fac-4b9a-ba0e-dee11f871aa4
+  attestation:
+    text_title: 韓非子
+    line_uuid: d03cf24d-4026-466d-8971-6ef00afacfa6
+    textline: 入則為席薦
+    offset: 4
+    range: 1
+right:
+  word_uuid: f93a8757-1827-4588-b38d-1472d187aab0
+  text: 薦
+  concept: STRAW MAT
+  concept_uuid: 300abed6-0a43-4506-9e35-87ca18465d6b
+  attestation:
+    text_title: 韓非子
+    line_uuid: d03cf24d-4026-466d-8971-6ef00afacfa6
+    textline: 入則為席薦
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

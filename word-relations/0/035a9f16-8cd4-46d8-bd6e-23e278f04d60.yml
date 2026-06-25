@@ -1,0 +1,32 @@
+uuid: 035a9f16-8cd4-46d8-bd6e-23e278f04d60
+type: word-relation
+group_uuid: 035a9f16-8cd4-46d8-bd6e-23e278f04d60
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 12d525dc-2e46-4f99-9c0e-0c4d930cf50c
+  text: 得
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 韓非子
+    line_uuid: 98e029a8-bf54-42d9-ade3-a09f828647c2
+    line_id: KR3c0005_tls_030-58a.9
+    textline: 彼不善者我得以斬其首
+    offset: 6
+    range: 1
+right:
+  word_uuid: 34f33548-5f1d-4a79-ad78-eb140fe5d749
+  text: 能
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 韓非子
+    line_uuid: 50eb4233-f4ec-4f71-880e-e024f5d93ecc
+    line_id: KR3c0005_tls_030-58a.8
+    textline: 彼之善者我能以為卿相
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

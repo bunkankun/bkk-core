@@ -1,0 +1,32 @@
+uuid: 9d923d31-b9f5-4e20-81d9-0ce016af0958
+type: word-relation
+group_uuid: 9d923d31-b9f5-4e20-81d9-0ce016af0958
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9fe57d1d-7610-4266-860a-e0879d134fc6
+  text: 計
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 韓非子
+    line_uuid: 476c7c0d-5466-46b1-8a8f-717cc45cc8dd
+    line_id: KR3c0005_tls_020-91a.3
+    textline: 則計會亂
+    offset: 2
+    range: 1
+right:
+  word_uuid: a648239b-7f5a-4f30-80f8-2aeca9f27377
+  text: 會
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 韓非子
+    line_uuid: 476c7c0d-5466-46b1-8a8f-717cc45cc8dd
+    line_id: KR3c0005_tls_020-91a.3
+    textline: 則計會亂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

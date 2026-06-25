@@ -1,0 +1,32 @@
+uuid: 2dea29e8-d8a5-4e46-9c0a-0770f838fbae
+type: word-relation
+group_uuid: 2dea29e8-d8a5-4e46-9c0a-0770f838fbae
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 管子
+    line_uuid: 8dbdbd46-00f0-4d67-bca8-d5c2b95f1691
+    line_id: KR3c0001_tls_002-104a.7
+    textline: 巧佞也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8b1a0239-fc50-4994-a327-93ab2aeeddc5
+  text: 佞
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+  attestation:
+    text_title: 管子
+    line_uuid: 8dbdbd46-00f0-4d67-bca8-d5c2b95f1691
+    line_id: KR3c0001_tls_002-104a.7
+    textline: 巧佞也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 3ced16b9-5712-45e6-ad16-b9571215e6d1
+type: word-relation
+group_uuid: e12bc213-3edd-5782-8366-bab7163ed6a7
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 2f14ac18-a9e4-4a44-bb2a-afa8aa0d733d
+  text: 命
+  concept: DECREE
+  concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-4a.5
+    textline: 有命有文
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2def47de-b9df-49ff-93e7-5691c35aa830
+  text: 文
+  concept: PATTERN
+  concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-4a.5
+    textline: 有命有文
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T20:55:40.163+09:00'

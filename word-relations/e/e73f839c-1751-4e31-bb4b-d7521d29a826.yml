@@ -1,0 +1,32 @@
+uuid: e73f839c-1751-4e31-bb4b-d7521d29a826
+type: word-relation
+group_uuid: e73f839c-1751-4e31-bb4b-d7521d29a826
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ec9982bd-28df-4617-bcc9-c80dfe3f3611
+  text: 入
+  concept: ENTER
+  concept_uuid: 8b374beb-95e8-4459-8ce0-fbc5e23b428a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2b1d9dc4-3edb-4fbb-8639-7158dde3a27a
+    line_id: KR3c0005_tls_010-126a.2
+    textline: 因願大國令使者入境
+    offset: 8
+    range: 1
+right:
+  word_uuid: 8e0b7c4d-ceda-4b8c-b0fb-b9e1a4180791
+  text: 境
+  concept: BORDER AREA
+  concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2b1d9dc4-3edb-4fbb-8639-7158dde3a27a
+    line_id: KR3c0005_tls_010-126a.2
+    textline: 因願大國令使者入境
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,33 @@
+uuid: e7249fe3-e780-46bb-b20c-50f58972daf0
+type: word-relation
+group_uuid: 3b2e7042-0c16-45b0-8edd-fe761ca9cc7e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3ac90048-1766-41de-8b34-fcbb90b411cd
+  text: 長
+  concept: LONG
+  concept_uuid: a3eb58df-8b60-4a0c-a8d1-4453c9f56f5e
+  attestation:
+    text_title: 老子
+    line_uuid: 0b522760-3534-4408-8691-f23a8326a77f
+    textline: 長短相形
+    offset: 2
+    range: 1
+right:
+  word_uuid: e5f9f4f9-7ac0-438e-8c19-1eebd2992e91
+  text: 短
+  concept: SHORT
+  concept_uuid: c2fe95ab-4a13-47e4-8ed8-c32122568882
+  attestation:
+    text_title: 老子
+    line_uuid: 0b522760-3534-4408-8691-f23a8326a77f
+    textline: 長短相形
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

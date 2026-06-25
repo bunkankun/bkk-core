@@ -1,0 +1,32 @@
+uuid: deaeed8c-e230-4d5b-a330-c9c6d8936832
+type: word-relation
+group_uuid: deaeed8c-e230-4d5b-a330-c9c6d8936832
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3d4ba55e-ab6a-49f5-bfa3-c073f0ca45b4
+  text: 長
+  concept: SENIOR
+  concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+  attestation:
+    text_title: 孟子
+    line_uuid: cc5dad0d-00c2-45eb-b95c-e528ec0475f3
+    line_id: KR1h0001_tls_001-19a.11
+    textline: 出以事其長上
+    offset: 5
+    range: 1
+right:
+  word_uuid: c8b1d719-3632-4492-9341-f17c75e6a9e6
+  text: 上
+  concept: SUPERIOR
+  concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+  attestation:
+    text_title: 孟子
+    line_uuid: cc5dad0d-00c2-45eb-b95c-e528ec0475f3
+    line_id: KR1h0001_tls_001-19a.11
+    textline: 出以事其長上
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

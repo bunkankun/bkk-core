@@ -1,0 +1,32 @@
+uuid: 4040e820-0f64-40d0-93c8-38d82ccf13d3
+type: word-relation
+group_uuid: ef859229-1bd6-4088-ab94-78858211d707
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c9e3381-078d-434c-9c3a-b3ffdb53dcc3
+    line_id: KR3c0005_tls_005-1a.6
+    textline: 是以明君守始以知萬物之源
+    offset: 4
+    range: 1
+right:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c9e3381-078d-434c-9c3a-b3ffdb53dcc3
+    line_id: KR3c0005_tls_005-1a.6
+    textline: 是以明君守始以知萬物之源
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

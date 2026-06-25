@@ -1,0 +1,32 @@
+uuid: b036b792-ef7e-421c-a35e-8a853f7f5d0f
+type: word-relation
+group_uuid: b036b792-ef7e-421c-a35e-8a853f7f5d0f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 75126866-fec3-4b8b-a614-3e847efdf005
+  text: 驟
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 老子
+    line_uuid: 1bb49d38-f818-4464-be07-f2a60be8a6e1
+    line_id: KR5c0057_tls_023-1a.6
+    textline: 驟雨不終日
+    offset: 1
+    range: 1
+right:
+  word_uuid: bf1e282b-bc1c-46ab-b4e6-991beb682b93
+  text: 雨
+  concept: RAIN
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  attestation:
+    text_title: 老子
+    line_uuid: 1bb49d38-f818-4464-be07-f2a60be8a6e1
+    line_id: KR5c0057_tls_023-1a.6
+    textline: 驟雨不終日
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

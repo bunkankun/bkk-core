@@ -1,0 +1,18 @@
+uuid: 57fb27f8-cf3c-4b57-9788-7247e6e8037a
+type: word-relation
+group_uuid: 75efa339-afb0-5779-b26c-c4f30e36c178
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+source:
+  source_file: word-relations.xml

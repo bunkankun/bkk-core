@@ -1,0 +1,32 @@
+uuid: eff81aec-b74c-413b-b5ca-ffd45fa5e602
+type: word-relation
+group_uuid: eff81aec-b74c-413b-b5ca-ffd45fa5e602
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c38c8cee-de06-4ace-9a16-511f14ab0978
+    line_id: KR3j0009_tls_002-21a.9
+    textline: 知早嗇則精不竭
+    offset: 7
+    range: 1
+right:
+  word_uuid: 140000c0-8b14-451f-a357-39e08169ee1e
+  text: 精
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c38c8cee-de06-4ace-9a16-511f14ab0978
+    line_id: KR3j0009_tls_002-21a.9
+    textline: 知早嗇則精不竭
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

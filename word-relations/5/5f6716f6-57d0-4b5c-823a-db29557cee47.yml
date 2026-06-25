@@ -1,0 +1,32 @@
+uuid: 5f6716f6-57d0-4b5c-823a-db29557cee47
+type: word-relation
+group_uuid: 5f6716f6-57d0-4b5c-823a-db29557cee47
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 761fd9ba-1972-4c82-994b-7b9867f83ace
+  text: 父兄
+  concept: SENIOR
+  concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+  attestation:
+    text_title: 孟子
+    line_uuid: 59b6b872-7e30-4117-a1fd-4cfb95c62939
+    line_id: KR1h0001_tls_002-57a.30
+    textline: 若殺其父兄
+    offset: 4
+    range: 2
+right:
+  word_uuid: 8e5c09a9-dccc-4196-aac1-03fbfb037a5f
+  text: 子弟
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 孟子
+    line_uuid: 6765bc39-52fc-48bf-a8ae-017a99d7f4e3
+    line_id: KR1h0001_tls_002-57a.31
+    textline: 係累其子弟
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

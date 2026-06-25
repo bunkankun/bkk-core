@@ -1,0 +1,32 @@
+uuid: edea1131-6de0-4b70-8457-d6f67be30af7
+type: word-relation
+group_uuid: edea1131-6de0-4b70-8457-d6f67be30af7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: 83c118b5-d587-4f08-be66-b1397c74d48b
+    line_id: KR1h0004_tls_005-21a.4
+    textline: 無喜色
+    offset: 2
+    range: 1
+right:
+  word_uuid: dbf882ab-b12d-4dea-846d-e7e41c99bfee
+  text: 慍
+  concept: ANGUISH
+  concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+  attestation:
+    text_title: 論語
+    line_uuid: 95b85edf-5a3e-4dd9-ac33-18296e906c2b
+    line_id: KR1h0004_tls_005-21a.6
+    textline: 無慍色
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

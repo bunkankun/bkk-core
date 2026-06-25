@@ -1,0 +1,35 @@
+uuid: c9723501-88ac-496f-80ce-694e04fdfb5f
+type: word-relation
+group_uuid: 48a1bc28-7aee-494f-b7aa-25ccc7559d9c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7f55acbb-fe54-46f6-bdb2-135d0fa3d542
+    line_id: KR3j0009_tls_001-7a.7
+    textline: 無變天之道
+    offset: 5
+    range: 1
+right:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6a959288-50d2-4543-8725-272ce165a98d
+    line_id: KR3j0009_tls_001-7a.8
+    textline: 無絕地之理
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

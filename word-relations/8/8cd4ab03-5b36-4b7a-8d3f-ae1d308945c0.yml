@@ -1,0 +1,32 @@
+uuid: 8cd4ab03-5b36-4b7a-8d3f-ae1d308945c0
+type: word-relation
+group_uuid: 8cd4ab03-5b36-4b7a-8d3f-ae1d308945c0
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ad9c7f5d-655a-4c11-bbd2-689f49086066
+  text: 亡
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 71a5ece9-d5dd-4f24-93ae-7e64d63602e0
+    line_id: KR3c0005_tls_001-27a.13
+    textline: 是一舉而三晉亡
+    offset: 7
+    range: 1
+right:
+  word_uuid: 4354011c-aca1-46f9-8766-cf6a9159e246
+  text: 敗
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5827fb65-bd60-4144-8eca-3ebe0d9b6f73
+    line_id: KR3c0005_tls_001-27a.14
+    textline: 從者敗也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

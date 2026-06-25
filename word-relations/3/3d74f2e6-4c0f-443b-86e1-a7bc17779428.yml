@@ -1,0 +1,30 @@
+uuid: 3d74f2e6-4c0f-443b-86e1-a7bc17779428
+type: word-relation
+group_uuid: 3d74f2e6-4c0f-443b-86e1-a7bc17779428
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 69c817ac-9f51-4157-a6f0-8e70ebf0a1da
+  text: 焚
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 管子
+    line_uuid: c14c360b-9ce1-4f1e-a3f7-83884f70cf55
+    textline: 火暴（暴火）焚地燋草
+    offset: 7
+    range: 1
+right:
+  word_uuid: c25ba5dd-b1bb-41b9-be3e-977112d2de34
+  text: 燋
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 管子
+    line_uuid: c14c360b-9ce1-4f1e-a3f7-83884f70cf55
+    textline: 火暴（暴火）焚地燋草
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 73b676e0-7547-4491-9d05-fa7c8dd4cf28
+type: word-relation
+group_uuid: 73b676e0-7547-4491-9d05-fa7c8dd4cf28
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 13c109a4-6c71-4bd9-bcbd-e60dc02226d3
+  text: 己
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c828ad53-a038-4c0c-96af-a5a0c9df342f
+    line_id: KR3j0009_tls_016-27a.24
+    textline: 知彼知己
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c828ad53-a038-4c0c-96af-a5a0c9df342f
+    line_id: KR3j0009_tls_016-27a.24
+    textline: 知彼知己
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

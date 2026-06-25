@@ -1,0 +1,21 @@
+uuid: 913bc365-13f9-4073-b6f0-40c411f26ec8
+type: word-relation
+group_uuid: 01355578-086d-5b58-b2de-00aef0548b77
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9c3371fd-695f-44d8-9de4-96d0e883b18b
+  text: 傳
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+right:
+  word_uuid: ae061d43-ec51-402b-a0e9-d3170be16995
+  text: 垂
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

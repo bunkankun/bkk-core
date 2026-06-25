@@ -1,0 +1,35 @@
+uuid: 002f9c90-d0ba-4b9e-919e-bb0fe5594cde
+type: word-relation
+group_uuid: 002f9c90-d0ba-4b9e-919e-bb0fe5594cde
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 631ff222-ac9a-4107-a3ef-bdfa1b59d2b4
+  text: 恭
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78a4f682-6ef1-4547-9b7b-9adafd79ed6f
+    line_id: KR3c0005_tls_020-15a.3
+    textline: 聖人之復恭敬
+    offset: 5
+    range: 1
+right:
+  word_uuid: 16db2d04-8a7f-4e3a-b354-40a125d04439
+  text: 敬
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78a4f682-6ef1-4547-9b7b-9adafd79ed6f
+    line_id: KR3c0005_tls_020-15a.3
+    textline: 聖人之復恭敬
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

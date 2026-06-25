@@ -1,0 +1,31 @@
+uuid: eaa4ae2f-96fc-4679-9cb3-11d4a9c69053
+type: word-relation
+group_uuid: eaa4ae2f-96fc-4679-9cb3-11d4a9c69053
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: de53c3ad-b528-40d9-81e2-321a4a2a1565
+  text: 畏
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 法言
+    line_uuid: 06cc6fbe-cacc-44c7-bfd6-f09fe65e5373
+    textline: 或問何如動而見畏
+    offset: 9
+    range: 1
+right:
+  word_uuid: 13f2d404-778c-4eb4-8d02-af78abe58713
+  text: 侮
+  concept: HUMILIATE
+  concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+  attestation:
+    text_title: 法言
+    line_uuid: 3b0aaec9-6f09-4442-b8bf-57b739550e37
+    line_id: KR3a0009_tls_008-23a.5
+    textline: 何如動而見侮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

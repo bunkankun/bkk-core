@@ -1,0 +1,32 @@
+uuid: f6cf092f-e11e-4500-8a13-d9696ad677b3
+type: word-relation
+group_uuid: f7f1e86a-4425-408f-a1fc-88f0067a9a47
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 326f87d8-76cc-4c0c-8503-3875e02c5a3a
+  text: 奉
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 832acfe9-0be6-4f22-8dda-3969b23f3483
+    line_id: KR3c0005_tls_014-19a.5
+    textline: “我不以清廉方正奉法
+    offset: 9
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 832acfe9-0be6-4f22-8dda-3969b23f3483
+    line_id: KR3c0005_tls_014-19a.5
+    textline: “我不以清廉方正奉法
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

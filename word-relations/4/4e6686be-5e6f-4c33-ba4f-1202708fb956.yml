@@ -1,0 +1,32 @@
+uuid: 4e6686be-5e6f-4c33-ba4f-1202708fb956
+type: word-relation
+group_uuid: 4e6686be-5e6f-4c33-ba4f-1202708fb956
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 700a4bc2-f75b-4429-a26d-ee83f4777d2b
+    line_id: KR3c0005_tls_038-31a.2
+    textline: 燕子噲賢子之
+    offset: 4
+    range: 1
+right:
+  word_uuid: 736bbe62-c897-4273-bc04-9d413cc5037d
+  text: 非
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5871e760-49a5-43af-b39d-4bdf87f5802d
+    line_id: KR3c0005_tls_038-31a.3
+    textline: 而非孫卿
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

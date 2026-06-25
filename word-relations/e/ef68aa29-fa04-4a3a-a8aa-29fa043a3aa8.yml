@@ -1,0 +1,32 @@
+uuid: ef68aa29-fa04-4a3a-a8aa-29fa043a3aa8
+type: word-relation
+group_uuid: 9c5b2e6a-bdae-5696-a8b3-eb521b9f8d9f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 474629fb-821e-4bcc-95f3-a5915b87a6d3
+  text: 天
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-637a.24
+    textline: 若我一二兄弟甥舅獎順天法
+    offset: 11
+    range: 1
+right:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-637a.24
+    textline: 若我一二兄弟甥舅獎順天法
+    offset: 12
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T05:36:56.907+09:00'

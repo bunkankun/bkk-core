@@ -1,0 +1,32 @@
+uuid: 7feede50-f6df-4cd9-b77d-51b2d671933b
+type: word-relation
+group_uuid: 7feede50-f6df-4cd9-b77d-51b2d671933b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 孟子
+    line_uuid: 3beabf83-6980-454d-be70-a38000ac1dfc
+    line_id: KR1h0001_tls_011-13a.3
+    textline: 「彼長而我長之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 孟子
+    line_uuid: 3beabf83-6980-454d-be70-a38000ac1dfc
+    line_id: KR1h0001_tls_011-13a.3
+    textline: 「彼長而我長之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e755cf5f-62b1-43a6-82f2-1cf0b7560404
+type: word-relation
+group_uuid: e755cf5f-62b1-43a6-82f2-1cf0b7560404
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: faaf4377-2a35-4643-848e-cbc0f920caaa
+  text: 出
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  attestation:
+    text_title: 論衡
+    line_uuid: b4466169-e5e5-4bb2-8482-08894cb57246
+    line_id: KR3j0080_tls_003-8a.9
+    textline: 日朝出而暮入
+    offset: 3
+    range: 1
+right:
+  word_uuid: c9d08995-d273-4e9c-bcaf-ec7b5a9a303f
+  text: 日
+  concept: SUN
+  concept_uuid: f38a0449-f3c5-41fc-bade-e73fc35b743d
+  attestation:
+    text_title: 論衡
+    line_uuid: b4466169-e5e5-4bb2-8482-08894cb57246
+    line_id: KR3j0080_tls_003-8a.9
+    textline: 日朝出而暮入
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

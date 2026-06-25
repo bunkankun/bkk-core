@@ -1,0 +1,32 @@
+uuid: c449012f-0a4a-44d0-8901-2f0a4aa4d093
+type: word-relation
+group_uuid: 9a5a51e7-6d14-4d69-83fa-e4654178c5ee
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-5a.2
+    textline: 百川異源而皆歸於海
+    offset: 3
+    range: 1
+right:
+  word_uuid: 45c7f396-444e-41e9-8e86-cdc0e59e8a16
+  text: 殊
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-5a.3
+    textline: 百家殊業而皆務於治
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T19:01:33.678+09:00'

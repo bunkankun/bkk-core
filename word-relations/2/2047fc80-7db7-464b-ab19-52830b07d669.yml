@@ -1,0 +1,32 @@
+uuid: 2047fc80-7db7-464b-ab19-52830b07d669
+type: word-relation
+group_uuid: 2047fc80-7db7-464b-ab19-52830b07d669
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 54f98bd8-482c-435f-86e8-7ddf2b88dc96
+  text: 中
+  concept: INSIDE
+  concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e09bdcd7-0a33-496e-9c8f-8446b20b02d1
+    line_id: KR3c0005_tls_001-23a.3
+    textline: 中央之國也
+    offset: 1
+    range: 1
+right:
+  word_uuid: b8c54189-e2f7-4010-afa9-b4180aff21ba
+  text: 央
+  concept: INSIDE
+  concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e09bdcd7-0a33-496e-9c8f-8446b20b02d1
+    line_id: KR3c0005_tls_001-23a.3
+    textline: 中央之國也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

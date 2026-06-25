@@ -1,0 +1,32 @@
+uuid: ad1d5a48-2a17-4f41-9d5a-482a175f4133
+type: word-relation
+group_uuid: 2b824881-44cd-5ae4-a281-390668c89b63
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0ac41513-0bb9-44ca-8415-130bb9f4ca98
+  text: 冬日
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.3
+    textline: 冬日則不勝霜雪霧露
+    offset: 1
+    range: 2
+right:
+  word_uuid: b2a65917-833c-4def-a659-17833cfdef7a
+  text: 夏日
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.4
+    textline: 夏日則不勝暑熱蟁䖟
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:01:33.478+09:00'

@@ -1,0 +1,21 @@
+uuid: a2813095-15e8-431d-ab79-9673ac9dc5d0
+type: word-relation
+group_uuid: 929b2d8a-49df-52d9-95fc-7db0f50b02f6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 714ec2d4-37a0-4bca-b920-867c34223288
+  text: 廢
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+right:
+  word_uuid: 4f90f5d8-8520-4f9b-9dd4-7d58315a7a96
+  text: 失
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

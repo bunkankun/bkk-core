@@ -1,0 +1,21 @@
+uuid: 29032f03-c041-4787-a7c4-f1ca6182c68a
+type: word-relation
+group_uuid: 9976a22f-7bb9-5999-82a2-b333bef45ea7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 504e1d8e-6eff-4fc9-8de0-5a16ed04a63c
+  text: 稱
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+right:
+  word_uuid: e25005b3-2467-418d-a30c-503954f1df0e
+  text: 毀譭
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

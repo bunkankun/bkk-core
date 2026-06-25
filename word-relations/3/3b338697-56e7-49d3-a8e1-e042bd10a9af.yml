@@ -1,0 +1,30 @@
+uuid: 3b338697-56e7-49d3-a8e1-e042bd10a9af
+type: word-relation
+group_uuid: 6e0e8fd8-c595-49b6-b596-e96615d8d1cc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 932835ad-2033-4dff-b325-d67ed6a3ce6a
+  text: 馳
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 老子
+    line_uuid: 23a62a24-ffcf-4b7c-a6f8-21967d8f6ec7
+    textline: 馳騁天下之至堅
+    offset: 1
+    range: 1
+right:
+  word_uuid: f22a6687-fa66-4520-a258-bbb4eb7b0ddf
+  text: 騁
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 老子
+    line_uuid: 23a62a24-ffcf-4b7c-a6f8-21967d8f6ec7
+    textline: 馳騁天下之至堅
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

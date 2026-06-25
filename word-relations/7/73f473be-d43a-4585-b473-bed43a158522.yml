@@ -1,0 +1,32 @@
+uuid: 73f473be-d43a-4585-b473-bed43a158522
+type: word-relation
+group_uuid: f50659d7-bdc7-57b4-be65-5c6547db0329
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bbbafff7-e5eb-4f11-a943-8e41df621ec2
+  text: 壯
+  concept: ADULT
+  concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-16a.4
+    textline: 壯民疾農不變
+    offset: 1
+    range: 1
+right:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-16a.5
+    textline: 則少民學之不休
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-27T01:33:02.97+09:00'

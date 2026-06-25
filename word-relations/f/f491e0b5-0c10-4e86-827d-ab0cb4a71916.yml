@@ -1,0 +1,32 @@
+uuid: f491e0b5-0c10-4e86-827d-ab0cb4a71916
+type: word-relation
+group_uuid: f491e0b5-0c10-4e86-827d-ab0cb4a71916
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8471e94f-1107-4344-a1ee-8bb5dd8e49fc
+  text: 盥
+  concept: WASH
+  concept_uuid: c8ea695b-c96c-43e9-a32c-2292f65100a2
+  attestation:
+    text_title: 禮記
+    line_uuid: 1ea83d3e-bdbd-4559-96cc-1fa28adf7226
+    line_id: KR3j0023_tls_040-1319a.4
+    textline: 咸盥漱
+    offset: 2
+    range: 1
+right:
+  word_uuid: b4ef724b-a684-40bc-854f-1f81d16947ff
+  text: 漱
+  concept: BATHE
+  concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+  attestation:
+    text_title: 禮記
+    line_uuid: 1ea83d3e-bdbd-4559-96cc-1fa28adf7226
+    line_id: KR3j0023_tls_040-1319a.4
+    textline: 咸盥漱
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

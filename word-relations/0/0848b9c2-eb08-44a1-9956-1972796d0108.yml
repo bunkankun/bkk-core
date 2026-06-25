@@ -1,0 +1,32 @@
+uuid: 0848b9c2-eb08-44a1-9956-1972796d0108
+type: word-relation
+group_uuid: 0848b9c2-eb08-44a1-9956-1972796d0108
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b8cdc227-0ade-4596-ae55-a6abda84a6bf
+  text: 文
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 論語
+    line_uuid: 4c368be0-d781-4408-8d86-1ba31b50ec74
+    line_id: KR1h0004_tls_006-34a.3
+    textline: 「君子博學於文
+    offset: 7
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 論語
+    line_uuid: b3e2e79b-36bf-43c4-8c67-d17d82ae3f35
+    line_id: KR1h0004_tls_006-34a.4
+    textline: 約之以禮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

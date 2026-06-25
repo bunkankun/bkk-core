@@ -1,0 +1,21 @@
+uuid: 5707b26f-7567-4f9d-9e2e-1aeb52c5cbb0
+type: word-relation
+group_uuid: 60c90186-82a5-5730-a85d-efd65322c2e7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 35dca112-713d-4363-b2bd-8112598e6402
+  text: 降
+  concept: DESCEND
+  concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+right:
+  word_uuid: 16e6830c-c257-4916-81db-30cc0e19d273
+  text: 集
+  concept: SIT
+  concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

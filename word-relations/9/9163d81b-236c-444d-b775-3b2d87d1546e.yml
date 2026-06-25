@@ -1,0 +1,32 @@
+uuid: 9163d81b-236c-444d-b775-3b2d87d1546e
+type: word-relation
+group_uuid: e36c3e99-b898-4ee2-ac72-f2768e8afb7f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e6e689df-b5a4-45a9-bd5d-c33f472f1350
+  text: 軀
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 25cabca0-b483-4736-8ebb-9a8b0e2d858a
+    line_id: KR3c0005_tls_042-4a.10
+    textline: 而殆於軀
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 韓非子
+    line_uuid: e55cc4ec-d1a3-4d66-9f3b-6ce7fe50edb3
+    line_id: KR3c0005_tls_042-4a.9
+    textline: 臣竊以為危於身
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

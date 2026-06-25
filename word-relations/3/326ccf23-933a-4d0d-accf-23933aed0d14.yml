@@ -1,0 +1,32 @@
+uuid: 326ccf23-933a-4d0d-accf-23933aed0d14
+type: word-relation
+group_uuid: 15731232-4556-534e-8caf-f9c193323060
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-40a.6
+    textline: 務學詩書
+    offset: 2
+    range: 1
+right:
+  word_uuid: 68250cc6-1d5d-436d-a50c-c61d5dd36dcb
+  text: 詩書
+  concept: CLASSIC
+  concept_uuid: af101f73-75b8-43eb-bcbf-6a0af87d7704
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-40a.6
+    textline: 務學詩書
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-27T01:43:54.516+09:00'

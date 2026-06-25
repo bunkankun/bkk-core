@@ -1,0 +1,32 @@
+uuid: 39718535-e2a3-49aa-ba83-d4c0300ec655
+type: word-relation
+group_uuid: 4277c01c-39c8-40c9-b8e5-9beefb392896
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 32e9c69e-6aa2-472b-b99e-ad35e52675a7
+  text: 清
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1dda7e08-7790-4cd1-98a9-bddf30b12b60
+    line_id: KR3j0009_tls_001-22a.26
+    textline: 清廉潔直
+    offset: 1
+    range: 1
+right:
+  word_uuid: b8e024a1-ed59-45a0-95b1-37bf8dedd712
+  text: 廉
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1dda7e08-7790-4cd1-98a9-bddf30b12b60
+    line_id: KR3j0009_tls_001-22a.26
+    textline: 清廉潔直
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

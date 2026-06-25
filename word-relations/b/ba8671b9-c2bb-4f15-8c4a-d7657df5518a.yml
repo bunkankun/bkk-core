@@ -1,0 +1,32 @@
+uuid: ba8671b9-c2bb-4f15-8c4a-d7657df5518a
+type: word-relation
+group_uuid: ba8671b9-c2bb-4f15-8c4a-d7657df5518a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3640f0f6-78c1-478e-8477-bdd2d73eaf07
+  text: 象
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 白虎通
+    line_uuid: a6a1e5e2-0154-4e46-a11d-13be8340f66b
+    line_id: KR3j0023_tls_026-950a.5
+    textline: 內圓象陽
+    offset: 3
+    range: 1
+right:
+  word_uuid: ecacd075-c553-4f3a-8c4b-bc6dc0696121
+  text: 為
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 白虎通
+    line_uuid: b1f41fab-bf45-455d-b9d6-71da9823df35
+    line_id: KR3j0023_tls_026-950a.6
+    textline: 外直為陰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

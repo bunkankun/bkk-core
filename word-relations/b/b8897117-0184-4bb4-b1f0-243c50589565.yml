@@ -1,0 +1,32 @@
+uuid: b8897117-0184-4bb4-b1f0-243c50589565
+type: word-relation
+group_uuid: b8897117-0184-4bb4-b1f0-243c50589565
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e3d8c4bb-3152-4ca5-a3ab-ba7c83b3eca1
+  text: 箴
+  concept: WARN
+  concept_uuid: 424050ec-c869-417d-9ed5-12be62e558e9
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 48a5e8dc-77cc-4c4f-b05d-2e4fa35346d3
+    line_id: KR1e0001_tls_009-330a.48
+    textline: 工誦箴諫
+    offset: 3
+    range: 1
+right:
+  word_uuid: e4488b6b-6ee8-4236-81cd-9b31e5ef2c92
+  text: 諫
+  concept: REMONSTRATE
+  concept_uuid: 71709674-8874-4a1e-bd0b-2342771d60f4
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 48a5e8dc-77cc-4c4f-b05d-2e4fa35346d3
+    line_id: KR1e0001_tls_009-330a.48
+    textline: 工誦箴諫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

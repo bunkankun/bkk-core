@@ -1,0 +1,32 @@
+uuid: 48a5fc6c-1966-4590-8fb2-457fc0109e8f
+type: word-relation
+group_uuid: 48a5fc6c-1966-4590-8fb2-457fc0109e8f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3640f0f6-78c1-478e-8477-bdd2d73eaf07
+  text: 象
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 白虎通
+    line_uuid: fa15e447-db10-489e-809a-8c4cb99be317
+    line_id: KR3j0023_tls_039-1224a.4
+    textline: 故仰則觀象於天
+    offset: 5
+    range: 1
+right:
+  word_uuid: a82bc565-3af4-48c7-a00a-fb657992787d
+  text: 法
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 白虎通
+    line_uuid: 5a3bd5c8-41b8-4441-9919-9cd763e06df9
+    line_id: KR3j0023_tls_039-1224a.5
+    textline: 俯則察法於地
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

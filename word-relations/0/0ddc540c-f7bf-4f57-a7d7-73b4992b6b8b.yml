@@ -1,0 +1,32 @@
+uuid: 0ddc540c-f7bf-4f57-a7d7-73b4992b6b8b
+type: word-relation
+group_uuid: 7e470380-6643-45bb-b800-92ed46bc58ce
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7ed0e10f-95be-4399-b731-0cf1239c1774
+    line_id: KR3j0009_tls_003-30a.55
+    textline: 官職受而行之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 18d8a4fe-b607-403c-bbbd-bffc7e1ca089
+  text: 職
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7ed0e10f-95be-4399-b731-0cf1239c1774
+    line_id: KR3j0009_tls_003-30a.55
+    textline: 官職受而行之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

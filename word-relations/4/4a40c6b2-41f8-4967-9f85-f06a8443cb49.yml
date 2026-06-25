@@ -1,0 +1,32 @@
+uuid: 4a40c6b2-41f8-4967-9f85-f06a8443cb49
+type: word-relation
+group_uuid: 4a40c6b2-41f8-4967-9f85-f06a8443cb49
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 荀子
+    line_uuid: 212147ff-7e5d-45fd-8958-4d25bf7b7243
+    line_id: KR3a0002_tls_001-2a.2
+    textline: 故不登高山
+    offset: 4
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 荀子
+    line_uuid: 21452e5a-5e61-4a91-8f19-66241e837186
+    line_id: KR3a0002_tls_001-2a.4
+    textline: 不臨深谿
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

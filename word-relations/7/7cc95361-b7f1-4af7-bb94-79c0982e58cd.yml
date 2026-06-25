@@ -1,0 +1,31 @@
+uuid: 7cc95361-b7f1-4af7-bb94-79c0982e58cd
+type: word-relation
+group_uuid: 763654c4-8041-4ccb-a943-bd5225831623
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: af019603-1f72-4dcd-906f-23439a376067
+  text: 方
+  concept: SQUARE
+  concept_uuid: ff492103-d171-4ff2-bea1-70c36deb3067
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 35d2c2f4-96a8-4f50-9dde-0d4eb1554909
+    line_id: KR3j0009_tls_003-29a.3
+    textline: 地道方
+    offset: 3
+    range: 1
+right:
+  word_uuid: 32b922d6-b37d-453f-b3d5-56bcaa5f91a9
+  text: 圜
+  concept: CIRCLE
+  concept_uuid: 57af8b26-a912-4bd4-ad86-7e98a0673dc5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4dea1fab-0943-4125-adfb-35c386f85209
+    line_id: KR3j0009_tls_003-29a.2
+    textline: 天道圜
+    range: 1
+source:
+  source_file: word-relations.xml

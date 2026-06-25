@@ -1,0 +1,30 @@
+uuid: 7fa41d7e-2d89-4384-8f07-31b507736669
+type: word-relation
+group_uuid: 7fa41d7e-2d89-4384-8f07-31b507736669
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0182f188-4809-4fc9-9e6d-087d18e65cdc
+  text: 齒
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5cd37181-2551-4ac7-a972-dab024b680b9
+    textline: 皮革齒牙骨角毛羽不登於器
+    offset: 4
+    range: 1
+right:
+  word_uuid: a656a9a5-0c34-4cab-998c-3ff894ab78b8
+  text: 牙
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5cd37181-2551-4ac7-a972-dab024b680b9
+    textline: 皮革齒牙骨角毛羽不登於器
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

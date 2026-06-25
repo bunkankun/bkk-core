@@ -1,0 +1,32 @@
+uuid: ef96bfc9-d9ae-4628-aae6-737d36666a28
+type: word-relation
+group_uuid: 72c765d0-a4a2-486e-9852-9a1a78a7a606
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 2fb09f06-4889-4dfa-be74-aea9c4b17887
+  text: 得
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8dd18fa8-7f09-410e-8018-8bf8caac60af
+    line_id: KR3j0009_tls_002-21a.2
+    textline: 古人得道者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8dd18fa8-7f09-410e-8018-8bf8caac60af
+    line_id: KR3j0009_tls_002-21a.2
+    textline: 古人得道者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

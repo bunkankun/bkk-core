@@ -1,0 +1,21 @@
+uuid: c55a2c28-9449-4f60-9c8f-fd360c5ac91e
+type: word-relation
+group_uuid: d688dba9-9c58-543b-bd36-53267b67d6a0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bd5fec19-48c8-4ad6-8e5d-d2708c60bb4c
+  text: 懿
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

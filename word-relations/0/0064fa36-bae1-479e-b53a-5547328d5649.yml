@@ -1,0 +1,18 @@
+uuid: 0064fa36-bae1-479e-b53a-5547328d5649
+type: word-relation
+group_uuid: 366bada7-3eb7-55d9-be28-7f10c021d5ba
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b26e25a7-b970-4725-9e77-e458e945466a
+  text: 穢
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+right:
+  word_uuid: 27580f7c-62fa-4305-ad20-c401f4220fe5
+  text: 垢
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: d7ea7889-abb5-4519-8974-11917f89cf7c
+type: word-relation
+group_uuid: d7ea7889-abb5-4519-8974-11917f89cf7c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1f8c51f8-b94d-4be8-97f5-5588eddeb130
+  text: 博
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 荀子
+    line_uuid: 45b67571-1f5c-4fcd-866d-7d6e2e097fce
+    line_id: KR3a0002_tls_002-3a.18
+    textline: 多聞曰博
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6b29ef92-2cf8-4e7b-bf39-b5049f89fce5
+  text: 淺
+  concept: SHALLOW
+  concept_uuid: 9a55881b-7984-4567-aaa9-714e78d66931
+  attestation:
+    text_title: 荀子
+    line_uuid: f97d3fe0-2b91-402a-b263-02937fd3ec2f
+    line_id: KR3a0002_tls_002-3a.19
+    textline: 少聞曰淺
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

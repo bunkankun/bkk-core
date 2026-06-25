@@ -1,0 +1,32 @@
+uuid: 5ef43960-af3c-4765-b667-75c647039ea0
+type: word-relation
+group_uuid: 8b83105a-f4e4-4b7e-a9c9-03c55561b732
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 韓非子
+    line_uuid: f6947426-c161-46ae-b175-bbbc988acb24
+    line_id: KR3c0005_tls_001-11a.3
+    textline: 士民病
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: f6947426-c161-46ae-b175-bbbc988acb24
+    line_id: KR3c0005_tls_001-11a.3
+    textline: 士民病
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

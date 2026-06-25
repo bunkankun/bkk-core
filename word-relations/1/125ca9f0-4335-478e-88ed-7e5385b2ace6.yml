@@ -1,0 +1,32 @@
+uuid: 125ca9f0-4335-478e-88ed-7e5385b2ace6
+type: word-relation
+group_uuid: 125ca9f0-4335-478e-88ed-7e5385b2ace6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓非子
+    line_uuid: adb332d3-64e2-4e17-84b9-b95744f45ceb
+    line_id: KR3c0005_tls_012-16a.2
+    textline: 其心有高也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4b4eda8e-25d8-4902-987b-6423232e9c38
+  text: 實
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9b94ddc4-ebac-4423-91e0-467987c7d218
+    line_id: KR3c0005_tls_012-16a.3
+    textline: 而實不能及
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

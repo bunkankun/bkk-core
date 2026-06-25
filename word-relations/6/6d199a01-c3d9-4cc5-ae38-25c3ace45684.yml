@@ -1,0 +1,32 @@
+uuid: 6d199a01-c3d9-4cc5-ae38-25c3ace45684
+type: word-relation
+group_uuid: 72945c72-ef56-4bf1-8ae3-f428b917bd76
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bab5406b-1cf4-43e7-8091-bb608c5c7bd8
+  text: 田
+  concept: HUNT
+  concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c9f4d88a-8cc6-461a-aee4-885d51d021c3
+    line_id: KR3j0009_tls_002-22a.6
+    textline: 荊莊王好周遊田獵
+    offset: 7
+    range: 1
+right:
+  word_uuid: 6e8dcc74-e9af-4a4c-815a-70ffddbb0638
+  text: 獵
+  concept: HUNT
+  concept_uuid: 09d4fd56-a4a8-4b40-91a5-5f7ffe59e32e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c9f4d88a-8cc6-461a-aee4-885d51d021c3
+    line_id: KR3j0009_tls_002-22a.6
+    textline: 荊莊王好周遊田獵
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

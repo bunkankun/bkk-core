@@ -1,0 +1,32 @@
+uuid: ebe94a18-5d48-4ad5-a94a-185d48ead56c
+type: word-relation
+group_uuid: 721221cb-c8ec-5f51-b53d-9799cb711ebc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a1491e4-66d3-422f-9491-e466d3922fc1
+  text: 柔
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.38
+    textline: 見柔懦者侵
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6fa4e84a-ea3e-4a51-8380-e2ae71e9b311
+  text: 懦
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.38
+    textline: 見柔懦者侵
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:33:43.045+09:00'

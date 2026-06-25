@@ -1,0 +1,32 @@
+uuid: c5f9b9e7-f49d-4189-ae60-df1bfdb7f553
+type: word-relation
+group_uuid: c5f9b9e7-f49d-4189-ae60-df1bfdb7f553
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6e362e40-786b-48c8-ae1f-ca6ca2e2701e
+  text: 背
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 韓非子
+    line_uuid: df7611d9-ecc8-460b-9787-a25166caa11e
+    line_id: KR3c0005_tls_018-4a.5
+    textline: 非背法專制
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: df7611d9-ecc8-460b-9787-a25166caa11e
+    line_id: KR3c0005_tls_018-4a.5
+    textline: 非背法專制
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

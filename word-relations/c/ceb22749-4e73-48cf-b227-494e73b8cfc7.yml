@@ -1,0 +1,32 @@
+uuid: ceb22749-4e73-48cf-b227-494e73b8cfc7
+type: word-relation
+group_uuid: 69990da6-a5c4-5b95-97bf-d4163c56b900
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 37c1df56-421f-4b16-a331-e982429b367b
+  text: 天道
+  concept: LAW OF NATURE
+  concept_uuid: 2b1d35b0-f651-44ba-a4a2-9b654592a0a8
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_011-15a.57
+    textline: 主者 天道也
+    offset: 4
+    range: 2
+right:
+  word_uuid: a5e856cb-194f-4a41-a856-cb194f1a4153
+  text: 人道
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_011-15a.58
+    textline: 臣者 人道也
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-13T00:05:30.586+09:00'

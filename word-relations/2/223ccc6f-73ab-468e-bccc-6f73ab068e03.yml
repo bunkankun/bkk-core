@@ -1,0 +1,32 @@
+uuid: 223ccc6f-73ab-468e-bccc-6f73ab068e03
+type: word-relation
+group_uuid: 16a225a7-8ee3-53b8-bba8-caccbfb92dbd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a3c8ff2f-d19f-48a5-829f-2884fc8d8a89
+  text: 典
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_021-12a.28
+    textline: 典法无更
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_021-12a.28
+    textline: 典法无更
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T00:12:28.393+09:00'

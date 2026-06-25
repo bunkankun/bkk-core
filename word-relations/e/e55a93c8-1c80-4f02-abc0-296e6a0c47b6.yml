@@ -1,0 +1,21 @@
+uuid: e55a93c8-1c80-4f02-abc0-296e6a0c47b6
+type: word-relation
+group_uuid: 35634464-6e81-596f-bb2f-dbbd9e2d9fe0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 714ec2d4-37a0-4bca-b920-867c34223288
+  text: 廢
+  concept: FAIL
+  concept_uuid: 76b3fc40-8739-433c-839a-19226a5e4407
+right:
+  word_uuid: 18ee80e2-e61d-4643-94ca-d32beaa18d40
+  text: 衰
+  concept: DECLINE
+  concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

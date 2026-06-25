@@ -1,0 +1,32 @@
+uuid: a612440b-5d20-4492-8f3c-c7125b99ccf7
+type: word-relation
+group_uuid: a612440b-5d20-4492-8f3c-c7125b99ccf7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 58fd9cfc-73fd-4f56-98ee-400127cc8ea4
+  text: 堂
+  concept: ROOM
+  concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+  attestation:
+    text_title: 論語
+    line_uuid: 7bfe83da-9467-44a0-b031-64ba040ce0ec
+    line_id: KR1h0004_tls_011-17a.6
+    textline: 「由也升堂矣
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4b2e1b22-cdfa-474e-8472-9adaea09a8aa
+  text: 室
+  concept: ROOM
+  concept_uuid: a7b53f03-8907-49ea-8772-e24ad6fd16a3
+  attestation:
+    text_title: 論語
+    line_uuid: fb4053af-ccf2-4a89-94ed-264cbd01cbbf
+    line_id: KR1h0004_tls_011-18a.1
+    textline: 未入於室也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

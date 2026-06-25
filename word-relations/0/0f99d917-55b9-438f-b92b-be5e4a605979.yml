@@ -1,0 +1,21 @@
+uuid: 0f99d917-55b9-438f-b92b-be5e4a605979
+type: word-relation
+group_uuid: 1e15f049-975a-5db8-be77-9fe5c08f10d0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 05318fa2-36f3-41e8-8045-2329c370f484
+  text: 防
+  concept: HINDER
+  concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+right:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

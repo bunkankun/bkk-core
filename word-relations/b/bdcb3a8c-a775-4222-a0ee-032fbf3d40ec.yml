@@ -1,0 +1,21 @@
+uuid: bdcb3a8c-a775-4222-a0ee-032fbf3d40ec
+type: word-relation
+group_uuid: c9590875-3a67-596c-b1cb-f2d5d3994858
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7d4bff5c-034a-4869-bd16-2f2539124365
+  text: 便
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+right:
+  word_uuid: 8ac352c9-2311-42e1-81c2-ae4e05b1654e
+  text: 巧
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

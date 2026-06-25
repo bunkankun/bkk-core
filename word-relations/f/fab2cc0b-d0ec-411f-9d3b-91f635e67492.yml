@@ -1,0 +1,32 @@
+uuid: fab2cc0b-d0ec-411f-9d3b-91f635e67492
+type: word-relation
+group_uuid: fab2cc0b-d0ec-411f-9d3b-91f635e67492
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 47ccc0b2-715f-4343-b1be-ed8e020aedb1
+  text: 吉
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論衡
+    line_uuid: 0f1bc4d4-4ad4-486d-80e0-fcf129fdc462
+    line_id: KR3j0080_tls_003-6a.5
+    textline: 以吉盛時舉事而福至
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3362a514-03ab-49db-98b7-c1b6828f868b
+  text: 盛
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+  attestation:
+    text_title: 論衡
+    line_uuid: 0f1bc4d4-4ad4-486d-80e0-fcf129fdc462
+    line_id: KR3j0080_tls_003-6a.5
+    textline: 以吉盛時舉事而福至
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

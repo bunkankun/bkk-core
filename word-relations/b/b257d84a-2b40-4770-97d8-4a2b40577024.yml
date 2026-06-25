@@ -1,0 +1,32 @@
+uuid: b257d84a-2b40-4770-97d8-4a2b40577024
+type: word-relation
+group_uuid: 4da310b6-a48d-553b-92d6-a2e3535081be
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c58131b1-56b0-4a24-9955-233180152209
+  text: 風
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.5
+    textline: 風俗易移也
+    offset: 1
+    range: 1
+right:
+  word_uuid: c58131b1-56b0-4a24-9955-233180152209
+  text: 俗
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.5
+    textline: 風俗易移也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-09T00:38:14.376+09:00'

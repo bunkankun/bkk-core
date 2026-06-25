@@ -1,0 +1,32 @@
+uuid: 164e7954-a671-4628-b29b-5b68eae940fa
+type: word-relation
+group_uuid: 164e7954-a671-4628-b29b-5b68eae940fa
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 838713df-d5c5-463d-a53a-a743600e7f99
+  text: 機
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 韓非子
+    line_uuid: 25187ad2-f402-40a0-a521-ee560781b0e9
+    line_id: KR3c0005_tls_016-5a.5
+    textline: 使殺生之機
+    offset: 5
+    range: 1
+right:
+  word_uuid: a04119a1-15de-4dc6-8aca-60c927ee99cf
+  text: 要
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 韓非子
+    line_uuid: baf7203b-6c6e-48b1-84b3-12b7fcba2608
+    line_id: KR3c0005_tls_016-5a.6
+    textline: 奪予之要
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

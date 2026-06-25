@@ -1,0 +1,32 @@
+uuid: b1b9acba-87d3-44b6-86ef-a372bc8b9670
+type: word-relation
+group_uuid: 93fddc17-be10-4b81-8389-da952bc01300
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論衡
+    line_uuid: 7e8dac08-f284-433b-94b1-687347350926
+    line_id: KR3j0080_tls_002-9a.13
+    textline: 治身以巧俗
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 論衡
+    line_uuid: 7e8dac08-f284-433b-94b1-687347350926
+    line_id: KR3j0080_tls_002-9a.13
+    textline: 治身以巧俗
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

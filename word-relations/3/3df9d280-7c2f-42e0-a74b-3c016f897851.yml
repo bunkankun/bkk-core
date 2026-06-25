@@ -1,0 +1,32 @@
+uuid: 3df9d280-7c2f-42e0-a74b-3c016f897851
+type: word-relation
+group_uuid: 55c67e90-6137-45d4-8173-ee69a5657d38
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 莊子
+    line_uuid: a6555961-1d47-4746-a04a-067df5849653
+    line_id: KR5c0126_tls_024-17a.8
+    textline: 心固可使若死灰乎
+    offset: 1
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 莊子
+    line_uuid: e671033a-d4c3-4109-93ea-a538ff2caac2
+    line_id: KR5c0126_tls_024-17a.7
+    textline: 形固可使若槁骸
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

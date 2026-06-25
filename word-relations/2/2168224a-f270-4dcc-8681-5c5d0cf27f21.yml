@@ -1,0 +1,30 @@
+uuid: 2168224a-f270-4dcc-8681-5c5d0cf27f21
+type: word-relation
+group_uuid: 2168224a-f270-4dcc-8681-5c5d0cf27f21
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3d4ba55e-ab6a-49f5-bfa3-c073f0ca45b4
+  text: 長
+  concept: SENIOR
+  concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+  attestation:
+    text_title: 孔子家語
+    line_uuid: 6f152ff5-4928-41d8-914e-348df7a7a7b4
+    textline: 長幼異食
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7905be86-427d-4e09-8070-264ba67c63c1
+  text: 幼
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 孔子家語
+    line_uuid: 6f152ff5-4928-41d8-914e-348df7a7a7b4
+    textline: 長幼異食
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

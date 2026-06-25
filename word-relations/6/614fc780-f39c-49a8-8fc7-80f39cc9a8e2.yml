@@ -1,0 +1,32 @@
+uuid: 614fc780-f39c-49a8-8fc7-80f39cc9a8e2
+type: word-relation
+group_uuid: 374243b9-9a15-5476-aecc-b9ef1325f0c3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-14a.24
+    textline: 且子獨不聞夫壽陵餘子之學行於邯鄲與
+    offset: 12
+    range: 1
+right:
+  word_uuid: c74708cf-2a21-4f27-a21e-69b984d260c3
+  text: 行
+  concept: WALK
+  concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-14a.24
+    textline: 且子獨不聞夫壽陵餘子之學行於邯鄲與
+    offset: 13
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T18:06:25.104+09:00'

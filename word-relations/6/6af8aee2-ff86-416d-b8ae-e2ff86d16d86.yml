@@ -1,0 +1,32 @@
+uuid: 6af8aee2-ff86-416d-b8ae-e2ff86d16d86
+type: word-relation
+group_uuid: 912ce6e7-c2b3-5074-a5fd-1252bb1e5694
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 474629fb-821e-4bcc-95f3-a5915b87a6d3
+  text: 天
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_011-11a.17
+    textline: 雲將曰 天氣不和 地氣鬱結
+    offset: 7
+    range: 1
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_011-11a.17
+    textline: 雲將曰 天氣不和 地氣鬱結
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:15:52.769+09:00'

@@ -1,0 +1,21 @@
+uuid: 7fa33a0c-0dc5-4ddd-a93e-af425591411f
+type: word-relation
+group_uuid: 9fd9c4e6-581b-515d-b9e5-7ebad0ae238c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0ccd74b8-678c-48b3-a338-b6213248bda2
+  text: 急
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+right:
+  word_uuid: 40dd86be-c451-4c70-a7e9-4ae7c1ca7590
+  text: 促
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

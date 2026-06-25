@@ -1,0 +1,32 @@
+uuid: e1c8f25f-fd1b-451c-ba75-66727036deee
+type: word-relation
+group_uuid: e1c8f25f-fd1b-451c-ba75-66727036deee
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a430e483-6260-49db-8beb-e0bdc7c17db7
+  text: 昏
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 40356d7e-4c20-4737-bcc4-ec082e5990b5
+    line_id: KR1e0001_tls_009-685a.28
+    textline: 昏明之術
+    offset: 1
+    range: 1
+right:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 40356d7e-4c20-4737-bcc4-ec082e5990b5
+    line_id: KR1e0001_tls_009-685a.28
+    textline: 昏明之術
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

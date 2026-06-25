@@ -1,0 +1,35 @@
+uuid: 048bcb84-bdc0-448c-aba1-c06fb3cd871c
+type: word-relation
+group_uuid: 80ce228a-2a7f-43c0-bd63-d06695dddfb0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 397932c0-5587-4f18-b32b-e4e6fb7113b8
+  text: 毀
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 論衡
+    line_uuid: 12381e77-ec92-4f98-9ba1-12503a0b96fd
+    line_id: KR3j0080_tls_002-4a.7
+    textline: 毀傷其行
+    offset: 1
+    range: 1
+right:
+  word_uuid: bda690af-8ab5-4792-8bf9-082fb0d6a674
+  text: 傷
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 論衡
+    line_uuid: 12381e77-ec92-4f98-9ba1-12503a0b96fd
+    line_id: KR3j0080_tls_002-4a.7
+    textline: 毀傷其行
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: f31b0840-b132-42b5-b7b1-4292af416b91
+type: word-relation
+group_uuid: bf66c8ac-dc8c-58d1-8652-c1b88a79d2b7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+right:
+  word_uuid: 3f3c8078-e3be-4eae-becd-ad2e08760900
+  text: 走
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+source:
+  source_file: word-relations.xml

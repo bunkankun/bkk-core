@@ -1,0 +1,32 @@
+uuid: 12ef3b7c-215d-47aa-9864-e9c7c4e9a650
+type: word-relation
+group_uuid: 12ef3b7c-215d-47aa-9864-e9c7c4e9a650
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bce56ab9-5b3d-4532-833f-764cc15d38c9
+  text: 腓
+  concept: THIGH
+  concept_uuid: 0b6c7196-54e3-422e-b381-f96776677cbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: 470531bf-3ebb-45c2-aeeb-8f25fcf5e820
+    line_id: KR3c0005_tls_008-29a.2
+    textline: 腓大於股
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4b94b794-c73c-4ef4-b67c-67886851f848
+  text: 股
+  concept: THIGH
+  concept_uuid: 0b6c7196-54e3-422e-b381-f96776677cbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: 470531bf-3ebb-45c2-aeeb-8f25fcf5e820
+    line_id: KR3c0005_tls_008-29a.2
+    textline: 腓大於股
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

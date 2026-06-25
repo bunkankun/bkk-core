@@ -1,0 +1,32 @@
+uuid: 66e6e507-fcb7-46ef-a6e5-07fcb7b6efbf
+type: word-relation
+group_uuid: eda100ec-4799-5f70-a8d4-e1dafabf3a68
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 7a802ee2-4b1f-4034-b4cb-63d4d0d4fc47
+  text: 肥
+  concept: FERTILE
+  concept_uuid: 4ba683a6-974f-4812-a94a-6b5ae8818e19
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-30a.17
+    textline: 則地有肥磽
+    offset: 4
+    range: 1
+right:
+  word_uuid: ccbcd9bf-f4b6-44c0-88a6-17812d927968
+  text: 磽
+  concept: BARREN
+  concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-30a.17
+    textline: 則地有肥磽
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-02-12T05:30:32.373+09:00'

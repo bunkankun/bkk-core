@@ -1,0 +1,32 @@
+uuid: e8cd065f-467f-4676-a0b1-938c974753cf
+type: word-relation
+group_uuid: 5624603e-86ba-42bc-a8e7-7ae01ce069a9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a44eaca5-5611-42e3-9987-aee41c50ecb3
+  text: 閨
+  concept: DOOR
+  concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+  attestation:
+    text_title: 禮記
+    line_uuid: 4a3f3abd-3399-44fc-9ac9-af84d77f4b4b
+    line_id: KR1d0052_tls_019-28a.8
+    textline: 在閨門之內
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1003e3f4-0855-4cfa-bf9d-a22f01c7c9cc
+  text: 門
+  concept: GATE
+  concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+  attestation:
+    text_title: 禮記
+    line_uuid: 4a3f3abd-3399-44fc-9ac9-af84d77f4b4b
+    line_id: KR1d0052_tls_019-28a.8
+    textline: 在閨門之內
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

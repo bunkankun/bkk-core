@@ -1,0 +1,21 @@
+uuid: a98d8fe3-3b1c-4969-893e-714bea5795c7
+type: word-relation
+group_uuid: e96b7b1c-165a-585a-8122-946fe9eaf7f6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a1999033-ff42-4948-b1bd-d6cb72da23ce
+  text: 讀
+  concept: READ
+  concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+right:
+  word_uuid: 585db3f2-c394-47fa-9e55-4819c9590c2d
+  text: 諷
+  concept: READ
+  concept_uuid: 7fc51e90-6254-422d-9821-33b4e85f9f11
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

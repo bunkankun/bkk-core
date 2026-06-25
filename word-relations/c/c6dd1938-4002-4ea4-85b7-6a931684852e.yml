@@ -1,0 +1,21 @@
+uuid: c6dd1938-4002-4ea4-85b7-6a931684852e
+type: word-relation
+group_uuid: 2ac002dc-d63a-5c22-a853-a09075b05e18
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 09c0027e-534d-4600-bc02-f827b60c4049
+  text: 摧
+  concept: BREAK OFF
+  concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+right:
+  word_uuid: 3af5bc32-3a27-439b-9509-9789e4b12b4f
+  text: 折
+  concept: BREAK OFF
+  concept_uuid: 5f8b4034-e0fd-4aeb-9971-b43e5f6ea63d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

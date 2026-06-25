@@ -1,0 +1,32 @@
+uuid: a7387edc-e8f9-41d1-b87e-dce8f941d1e7
+type: word-relation
+group_uuid: 156aff6e-3339-555c-ab32-24b6996b2eb7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 003325fc-2ead-4512-92a0-394535f02a5d
+  text: 貪
+  concept: GREEDY
+  concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.19
+    textline: 貪得而寡羞
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.19
+    textline: 貪得而寡羞
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T02:13:48.951+09:00'

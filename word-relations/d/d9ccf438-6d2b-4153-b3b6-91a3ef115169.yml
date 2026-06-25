@@ -1,0 +1,21 @@
+uuid: d9ccf438-6d2b-4153-b3b6-91a3ef115169
+type: word-relation
+group_uuid: 6d3ea6f7-349f-56e7-a2f1-ebbfe0903cc9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ed435f4b-9d46-4ec5-8e70-93ccdc419d62
+  text: 公室
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+right:
+  word_uuid: 1c75e5e0-3d81-438a-8718-fdae94d8a5ed
+  text: 私門
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

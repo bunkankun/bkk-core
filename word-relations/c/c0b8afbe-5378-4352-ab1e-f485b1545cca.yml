@@ -1,0 +1,21 @@
+uuid: c0b8afbe-5378-4352-ab1e-f485b1545cca
+type: word-relation
+group_uuid: 89a00b9d-25ae-50a4-94e4-69731a314e58
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 00137c12-2c43-4aab-92c4-8534bafeec02
+  text: 旦
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+right:
+  word_uuid: 81bcad97-078d-41b0-98c4-f94d0ee55a20
+  text: 暮莫
+  concept: EVENING
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cf1116f5-4bf1-4cb8-a29f-a4b7eb16737e
+type: word-relation
+group_uuid: cf1116f5-4bf1-4cb8-a29f-a4b7eb16737e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6f4a2c40-8d9e-4fb3-852b-644b1fc63441
+  text: 玷
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 論衡
+    line_uuid: b32ab079-25bb-4831-833d-2887c15af2b7
+    line_id: KR3j0080_tls_002-11a.5
+    textline: 以玷污言之
+    offset: 2
+    range: 1
+right:
+  word_uuid: f0ea3d9d-2299-41d8-bcd5-e1df825c2a9f
+  text: 污
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 論衡
+    line_uuid: b32ab079-25bb-4831-833d-2887c15af2b7
+    line_id: KR3j0080_tls_002-11a.5
+    textline: 以玷污言之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

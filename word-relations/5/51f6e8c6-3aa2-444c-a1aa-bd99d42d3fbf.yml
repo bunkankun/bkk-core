@@ -1,0 +1,21 @@
+uuid: 51f6e8c6-3aa2-444c-a1aa-bd99d42d3fbf
+type: word-relation
+group_uuid: d2e1e0e2-546c-55ad-90d5-aa1d7aa355de
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: db1d7279-ac9f-4077-90be-11935a8d10ce
+  text: 丈夫
+  concept: HUSBAND
+  concept_uuid: ca2f1879-90bd-463c-9313-a009e2c17188
+right:
+  word_uuid: 749a398e-3b59-451c-abf8-c4a6c572bf37
+  text: 婦人
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

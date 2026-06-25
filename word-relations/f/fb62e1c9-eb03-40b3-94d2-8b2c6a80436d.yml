@@ -1,0 +1,18 @@
+uuid: fb62e1c9-eb03-40b3-94d2-8b2c6a80436d
+type: word-relation
+group_uuid: c9befc14-a2a4-570b-b0b5-99f78c96da95
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e06f281b-e468-430f-b596-4cc51fc3a865
+  text: 前
+  concept: EARLY
+  concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+right:
+  word_uuid: c23dc95d-ee54-4ec0-9e45-8e0129d64634
+  text: 後
+  concept: LATE
+  concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+source:
+  source_file: word-relations.xml

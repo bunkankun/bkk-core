@@ -1,0 +1,32 @@
+uuid: 188f0d9a-b815-4f8a-a48a-73e6709f3229
+type: word-relation
+group_uuid: 67dc1ec8-d6be-4a8f-a47e-9afd1644cfff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c8b911cf-3e62-4afd-9bca-f78d30ee01eb
+  text: 枝
+  concept: LIMB
+  concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+  attestation:
+    text_title: 莊子
+    line_uuid: 8e896763-80d5-44e3-bb2d-582315305e2e
+    line_id: KR5c0126_tls_006-18a.27
+    textline: 墮枝體
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1a60b24c-feb7-473b-819e-0302f272fb11
+  text: 體
+  concept: LIMB
+  concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+  attestation:
+    text_title: 莊子
+    line_uuid: 8e896763-80d5-44e3-bb2d-582315305e2e
+    line_id: KR5c0126_tls_006-18a.27
+    textline: 墮枝體
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

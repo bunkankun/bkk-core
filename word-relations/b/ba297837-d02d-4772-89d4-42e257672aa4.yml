@@ -1,0 +1,32 @@
+uuid: ba297837-d02d-4772-89d4-42e257672aa4
+type: word-relation
+group_uuid: ba297837-d02d-4772-89d4-42e257672aa4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: aa21aead-0935-49f9-9eb9-650eb59e9f8c
+    line_id: KR2a0001_tls_010-577a.15
+    textline: 今吾聞祠官祝釐
+    offset: 2
+    range: 1
+right:
+  word_uuid: dbfd43f7-d186-42b0-824f-ff2da5dc016c
+  text: 朕躬
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: c692c10a-51cf-4c28-ac1d-f0793e3ba572
+    line_id: KR2a0001_tls_010-577a.16
+    textline: 皆歸福朕躬
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

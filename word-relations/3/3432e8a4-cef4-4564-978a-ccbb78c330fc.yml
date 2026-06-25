@@ -1,0 +1,32 @@
+uuid: 3432e8a4-cef4-4564-978a-ccbb78c330fc
+type: word-relation
+group_uuid: 73b7711e-b347-46bf-9040-df133a89d27b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2119d189-2f06-4f2d-8e4e-d645e5313c89
+    line_id: KR3j0009_tls_005-14a.18
+    textline: 為絲竹歌舞之聲則若譟
+    offset: 4
+    range: 1
+right:
+  word_uuid: ca6c16e7-7702-4db6-9de4-8524c2b2a07a
+  text: 舞
+  concept: DANCE
+  concept_uuid: 6a579a8a-71d2-4e94-9a78-b18d829ae2a5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2119d189-2f06-4f2d-8e4e-d645e5313c89
+    line_id: KR3j0009_tls_005-14a.18
+    textline: 為絲竹歌舞之聲則若譟
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

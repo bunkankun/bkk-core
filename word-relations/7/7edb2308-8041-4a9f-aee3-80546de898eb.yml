@@ -1,0 +1,32 @@
+uuid: 7edb2308-8041-4a9f-aee3-80546de898eb
+type: word-relation
+group_uuid: 7edb2308-8041-4a9f-aee3-80546de898eb
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fa4f4d27-3b83-4d0b-b1b2-ef7cc22c9d5f
+  text: 廬
+  concept: HUT
+  concept_uuid: d10affc9-c77e-4d25-8cac-c6da4d3342bf
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 74a77939-e9a6-4e89-8192-b3a9f6c4b560
+    line_id: KR1e0001_tls_010-84a.4
+    textline: 小人糞除先人之敝廬
+    offset: 9
+    range: 1
+right:
+  word_uuid: f1f63d7b-add1-4577-ad23-49563a4d85a0
+  text: 敝
+  concept: TATTERED
+  concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 74a77939-e9a6-4e89-8192-b3a9f6c4b560
+    line_id: KR1e0001_tls_010-84a.4
+    textline: 小人糞除先人之敝廬
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

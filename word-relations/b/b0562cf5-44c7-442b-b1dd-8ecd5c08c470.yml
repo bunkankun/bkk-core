@@ -1,0 +1,32 @@
+uuid: b0562cf5-44c7-442b-b1dd-8ecd5c08c470
+type: word-relation
+group_uuid: b0562cf5-44c7-442b-b1dd-8ecd5c08c470
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ba973757-fdb8-4daa-a3b6-7a67f12df2b0
+  text: 別
+  concept: DISTINGUISH
+  concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+  attestation:
+    text_title: 禮記
+    line_uuid: 0899435c-573a-4c5e-9216-68464099ab8a
+    line_id: KR1d0052_tls_001-5a.5
+    textline: 別同異
+    offset: 1
+    range: 1
+right:
+  word_uuid: 232f5af2-6d6c-4580-b43d-01d89c7b7cbd
+  text: 明
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 禮記
+    line_uuid: 103eef60-a593-42c1-aef8-9dfff42ab874
+    line_id: KR1d0052_tls_001-5a.6
+    textline: 明是非也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

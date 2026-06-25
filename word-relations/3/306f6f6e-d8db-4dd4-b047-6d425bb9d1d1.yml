@@ -1,0 +1,32 @@
+uuid: 306f6f6e-d8db-4dd4-b047-6d425bb9d1d1
+type: word-relation
+group_uuid: 4f33d06e-429d-48fb-9074-0aa32d474ae7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 08fd71f8-92fa-4754-9208-04a3e43202bf
+  text: 倉
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 管子
+    line_uuid: e6ce42be-1f6e-44ce-bbea-b8ad9c54d3e0
+    line_id: KR3c0001_tls_001-1a.6
+    textline: 守在倉廩
+    offset: 3
+    range: 1
+right:
+  word_uuid: d650de93-e8b6-45b8-b7ba-c1a8db896f9c
+  text: 廩
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 管子
+    line_uuid: e6ce42be-1f6e-44ce-bbea-b8ad9c54d3e0
+    line_id: KR3c0001_tls_001-1a.6
+    textline: 守在倉廩
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

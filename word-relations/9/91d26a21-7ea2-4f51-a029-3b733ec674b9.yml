@@ -1,0 +1,32 @@
+uuid: 91d26a21-7ea2-4f51-a029-3b733ec674b9
+type: word-relation
+group_uuid: 91d26a21-7ea2-4f51-a029-3b733ec674b9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: f4747a34-e8ae-4272-961b-0dfe7507a500
+    line_id: KR6q0082_T_001-0343b.82
+    textline: 喜與嗔對
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1111e044-0c19-404e-bd8a-ac947804415e
+  text: 嗔
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: f4747a34-e8ae-4272-961b-0dfe7507a500
+    line_id: KR6q0082_T_001-0343b.82
+    textline: 喜與嗔對
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 46b6fcf9-c6a6-46fa-9b06-75a053050d5f
+type: word-relation
+group_uuid: a1ecf154-5648-4105-a925-e300e30f68d0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 楚辭
+    line_uuid: d5d512d9-0897-4a8a-8cee-d896aabb645d
+    line_id: KR4a0001_tls_004-33a.13
+    textline: 入下吾不能
+    offset: 3
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 楚辭
+    line_uuid: 96e3449c-6cac-4c04-b5f5-78086a9d5dd0
+    line_id: KR4a0001_tls_004-33a.14
+    textline: 固朕形之不服兮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 0e59704e-b973-48dd-a083-2f003a653c5e
+type: word-relation
+group_uuid: c7fe172d-24cf-4948-917f-565ef7366788
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd966fed-7ee4-470f-ba26-52f283de9a2c
+    line_id: KR3c0005_tls_014-55a.2
+    textline: 故姦私之臣愈眾
+    offset: 2
+    range: 1
+right:
+  word_uuid: 208fe1c0-e377-4388-930c-ffb8e6fa9362
+  text: 私
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd966fed-7ee4-470f-ba26-52f283de9a2c
+    line_id: KR3c0005_tls_014-55a.2
+    textline: 故姦私之臣愈眾
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

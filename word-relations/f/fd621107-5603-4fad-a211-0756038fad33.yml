@@ -1,0 +1,32 @@
+uuid: fd621107-5603-4fad-a211-0756038fad33
+type: word-relation
+group_uuid: 69a6307a-1c6e-574d-a87e-b6af9b15df2d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2540f8f3-0e03-479d-80f8-f30e03879dcd
+  text: 噓
+  concept: SIGH
+  concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-02817a
+    textline: 長噓短嘆
+    offset: 2
+    range: 1
+right:
+  word_uuid: b071e947-17a8-4254-a7ce-42cc5d2016d7
+  text: 嘆
+  concept: SIGH
+  concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+  attestation:
+    text_title: 成語大全
+    line_id: KR1j0090_tls_001-02817a
+    textline: 長噓短嘆
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-19T18:43:33.804+09:00'

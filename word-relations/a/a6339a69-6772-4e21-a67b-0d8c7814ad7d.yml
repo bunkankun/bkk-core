@@ -1,0 +1,32 @@
+uuid: a6339a69-6772-4e21-a67b-0d8c7814ad7d
+type: word-relation
+group_uuid: a6339a69-6772-4e21-a67b-0d8c7814ad7d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 32e9c69e-6aa2-472b-b99e-ad35e52675a7
+  text: 清
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ac35987-0dc6-43eb-bfe5-b77e3c244d8e
+    line_id: KR3c0005_tls_035-91a.10
+    textline: 今人主以其清潔也進之
+    offset: 6
+    range: 1
+right:
+  word_uuid: 25694bc2-5d10-43dd-8bab-8a3058c0a53b
+  text: 潔
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ac35987-0dc6-43eb-bfe5-b77e3c244d8e
+    line_id: KR3c0005_tls_035-91a.10
+    textline: 今人主以其清潔也進之
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

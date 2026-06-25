@@ -1,0 +1,32 @@
+uuid: d4ffe491-54e0-4033-80ac-86d4a0eaa2a5
+type: word-relation
+group_uuid: d4ffe491-54e0-4033-80ac-86d4a0eaa2a5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: b5f88aae-a79e-4f07-9264-419bfb926523
+    line_id: KR1c0066_tls_001-1a.6
+    textline: 曾子重其祿而輕其身
+    offset: 9
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: b5f88aae-a79e-4f07-9264-419bfb926523
+    line_id: KR1c0066_tls_001-1a.6
+    textline: 曾子重其祿而輕其身
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 7ff1b5a3-c60d-440d-b689-b4af7eb34800
+type: word-relation
+group_uuid: 94b2719c-9e34-5bbe-b9fd-b2b289f51c85
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+right:
+  word_uuid: 51512e68-f1a1-412c-8d33-788b9c2624f8
+  text: 罪
+  concept: GUILT
+  concept_uuid: 21896666-fc4e-4b61-90e9-5f55c8dcf3aa
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

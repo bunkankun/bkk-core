@@ -1,0 +1,32 @@
+uuid: 5dbe7bd6-2247-4e3d-be7b-d622475e3df4
+type: word-relation
+group_uuid: e2d2bc13-ab63-4176-8018-201877654d30
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 632557a8-83ae-41d4-87e2-13ec1f8948be
+  text: 天
+  concept: NATURALLY
+  concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.13
+    textline: 天也
+    offset: 1
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.16
+    textline: 人也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-22T23:57:42.665+09:00'

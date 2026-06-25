@@ -1,0 +1,32 @@
+uuid: 61589f88-c62c-456e-ac0a-824d2f09dfff
+type: word-relation
+group_uuid: 61589f88-c62c-456e-ac0a-824d2f09dfff
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4960702e-86b5-4daa-ac90-ee28b393b90d
+  text: 善
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: e735df07-8203-42b1-b9fc-13254eac4c38
+    line_id: KR3c0005_tls_017-24a.4
+    textline: 陰相善而陽相惡
+    offset: 3
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: e735df07-8203-42b1-b9fc-13254eac4c38
+    line_id: KR3c0005_tls_017-24a.4
+    textline: 陰相善而陽相惡
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

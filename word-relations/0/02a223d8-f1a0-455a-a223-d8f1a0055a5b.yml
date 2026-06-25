@@ -1,0 +1,32 @@
+uuid: 02a223d8-f1a0-455a-a223-d8f1a0055a5b
+type: word-relation
+group_uuid: 28a8192b-94d9-53a3-8181-686236c95112
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_005-2a.13
+    textline: 求正氣之所由
+    offset: 2
+    range: 1
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_005-2a.13
+    textline: 求正氣之所由
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T21:50:14.731+09:00'

@@ -1,0 +1,32 @@
+uuid: c167bb51-d6da-428f-a985-6350af514cb6
+type: word-relation
+group_uuid: c167bb51-d6da-428f-a985-6350af514cb6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 96c3f7a7-c176-406e-bb83-39f413e171ab
+  text: 佞
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 論語
+    line_uuid: 63af29f0-8f55-4a26-a643-57ebee06d840
+    line_id: KR1h0004_tls_006-22a.3
+    textline: 「不有祝鮀之佞
+    offset: 7
+    range: 1
+right:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 論語
+    line_uuid: ca9020cf-b236-4108-99fe-5b8072c1a07a
+    line_id: KR1h0004_tls_006-22a.4
+    textline: 而有宋朝之美
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

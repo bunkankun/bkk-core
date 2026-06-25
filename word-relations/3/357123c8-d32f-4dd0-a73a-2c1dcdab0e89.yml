@@ -1,0 +1,32 @@
+uuid: 357123c8-d32f-4dd0-a73a-2c1dcdab0e89
+type: word-relation
+group_uuid: 357123c8-d32f-4dd0-a73a-2c1dcdab0e89
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: cccaecff-3e56-4a6e-97b1-2e3f29c6e178
+  text: 冠者
+  concept: ADULT
+  concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+  attestation:
+    text_title: 論語
+    line_uuid: a1c5444b-2be2-4be1-b17c-dadcf0001bfd
+    line_id: KR1h0004_tls_011-45a.5
+    textline: 冠者五六人
+    offset: 1
+    range: 2
+right:
+  word_uuid: 35f177fa-d99f-470f-b0d6-41cc100d5284
+  text: 童子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 論語
+    line_uuid: 8f426c25-0132-4aba-91b4-27cd78ba9291
+    line_id: KR1h0004_tls_011-45a.6
+    textline: 童子六七人
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

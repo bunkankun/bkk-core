@@ -1,0 +1,32 @@
+uuid: 9a613f14-4e5d-498e-8629-374011eaf8cf
+type: word-relation
+group_uuid: 9a613f14-4e5d-498e-8629-374011eaf8cf
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7916d2e5-fe12-45ff-96a7-e08747e76216
+    line_id: KR3c0005_tls_008-14a.4
+    textline: 德者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 48e57e0c-a51b-41e2-acfb-157db0093dcf
+  text: 得
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3288f72f-8d82-4c3d-aec0-f2b49f54aae7
+    line_id: KR3c0005_tls_020-1a.5
+    textline: 得者
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

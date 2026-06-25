@@ -1,0 +1,32 @@
+uuid: 4bec4bbb-2cf2-4c54-884d-eba22887947b
+type: word-relation
+group_uuid: 4bec4bbb-2cf2-4c54-884d-eba22887947b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 孟子
+    line_uuid: fb3aa7b1-2ae4-4b05-ab7e-822e4e0f64ba
+    line_id: KR1h0001_tls_003-37a.3
+    textline: 「尊賢使能
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8d345ead-fc7e-4ff0-a538-63ec5137d989
+  text: 能
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 孟子
+    line_uuid: fb3aa7b1-2ae4-4b05-ab7e-822e4e0f64ba
+    line_id: KR1h0001_tls_003-37a.3
+    textline: 「尊賢使能
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

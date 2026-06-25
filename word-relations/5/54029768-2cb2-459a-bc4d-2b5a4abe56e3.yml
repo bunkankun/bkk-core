@@ -1,0 +1,32 @@
+uuid: 54029768-2cb2-459a-bc4d-2b5a4abe56e3
+type: word-relation
+group_uuid: 54029768-2cb2-459a-bc4d-2b5a4abe56e3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5df2516e-8e89-48b1-829e-12da2b2e1ee8
+  text: 急
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 管子
+    line_uuid: 772c7114-8718-4101-bc13-aa4db14018a8
+    line_id: KR3c0001_tls_001-107a.9
+    textline: 禍患之至亦急
+    offset: 6
+    range: 1
+right:
+  word_uuid: b66b3c29-f852-4d73-aada-661917293703
+  text: 速
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 管子
+    line_uuid: 79695588-0541-4801-96ff-23186f617d6c
+    line_id: KR3c0001_tls_001-107a.8
+    textline: 其得之雖速
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

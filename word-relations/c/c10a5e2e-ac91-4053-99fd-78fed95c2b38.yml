@@ -1,0 +1,35 @@
+uuid: c10a5e2e-ac91-4053-99fd-78fed95c2b38
+type: word-relation
+group_uuid: 8a394b41-1582-4995-992b-16bc3ef442ff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1146ff34-809f-4892-a715-2a863a460456
+  text: 貨
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd5d4aef-d00c-401f-a1e8-499651ce47a7
+    line_id: KR3c0005_tls_019-43a.5
+    textline: 則貨財上流
+    offset: 2
+    range: 1
+right:
+  word_uuid: 72d6bba8-9a15-4904-ad47-d953e325ae08
+  text: 財
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd5d4aef-d00c-401f-a1e8-499651ce47a7
+    line_id: KR3c0005_tls_019-43a.5
+    textline: 則貨財上流
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

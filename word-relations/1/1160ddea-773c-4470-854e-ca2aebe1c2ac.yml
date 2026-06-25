@@ -1,0 +1,32 @@
+uuid: 1160ddea-773c-4470-854e-ca2aebe1c2ac
+type: word-relation
+group_uuid: 1160ddea-773c-4470-854e-ca2aebe1c2ac
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 韓非子
+    line_uuid: 390206e4-1d28-4eba-80df-6298b7a88f66
+    line_id: KR3c0005_tls_014-15a.3
+    textline: 而以法事君者少矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 390206e4-1d28-4eba-80df-6298b7a88f66
+    line_id: KR3c0005_tls_014-15a.3
+    textline: 而以法事君者少矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

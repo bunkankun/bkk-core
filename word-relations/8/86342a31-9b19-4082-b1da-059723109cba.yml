@@ -1,0 +1,32 @@
+uuid: 86342a31-9b19-4082-b1da-059723109cba
+type: word-relation
+group_uuid: 86342a31-9b19-4082-b1da-059723109cba
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d7746325-7759-4963-8dd0-b2a481c49b01
+  text: 寡
+  concept: LITTLE
+  concept_uuid: 259b57ae-5a7a-4ad9-8ac9-0ac11f8054c5
+  attestation:
+    text_title: 論衡
+    line_uuid: 76c137d7-9e5e-4598-941c-204a09be0ecf
+    line_id: KR3j0080_tls_003-1a.39
+    textline: 智寡德薄
+    offset: 2
+    range: 1
+right:
+  word_uuid: c3f26b7b-dd70-4baf-841d-5afd8d051659
+  text: 薄
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+  attestation:
+    text_title: 論衡
+    line_uuid: 76c137d7-9e5e-4598-941c-204a09be0ecf
+    line_id: KR3j0080_tls_003-1a.39
+    textline: 智寡德薄
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

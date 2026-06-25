@@ -1,0 +1,32 @@
+uuid: ffdbb004-b055-400a-b7a8-4071803dbc1b
+type: word-relation
+group_uuid: ffdbb004-b055-400a-b7a8-4071803dbc1b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6733f2ec-47f6-4dd4-addb-90e0d442de5d
+  text: 正
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 韓非子
+    line_uuid: f211f235-cfd4-497a-a727-485170fd482f
+    line_id: KR3c0005_tls_014-22a.5
+    textline: 正直之道不可以得安
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2439b222-118f-48cc-a686-0158869c8e90
+  text: 直
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 韓非子
+    line_uuid: f211f235-cfd4-497a-a727-485170fd482f
+    line_id: KR3c0005_tls_014-22a.5
+    textline: 正直之道不可以得安
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

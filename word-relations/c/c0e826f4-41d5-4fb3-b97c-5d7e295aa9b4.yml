@@ -1,0 +1,32 @@
+uuid: c0e826f4-41d5-4fb3-b97c-5d7e295aa9b4
+type: word-relation
+group_uuid: c0e826f4-41d5-4fb3-b97c-5d7e295aa9b4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: afa2998f-b866-40bd-b0e6-ba16d63bda6a
+  text: 戮
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cb115d31-3652-4ff1-92f0-e95d6e4d5639
+    line_id: KR3j0009_tls_005-10a.16
+    textline: 亡國戮民
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cb115d31-3652-4ff1-92f0-e95d6e4d5639
+    line_id: KR3j0009_tls_005-10a.16
+    textline: 亡國戮民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

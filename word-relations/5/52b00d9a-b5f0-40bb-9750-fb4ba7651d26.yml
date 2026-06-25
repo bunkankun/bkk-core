@@ -1,0 +1,32 @@
+uuid: 52b00d9a-b5f0-40bb-9750-fb4ba7651d26
+type: word-relation
+group_uuid: 52b00d9a-b5f0-40bb-9750-fb4ba7651d26
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 4f1979ae-12cd-4fd9-af29-59b50224a7c3
+  text: 哭
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 論語
+    line_uuid: fd00edaf-a7a6-4ced-a7c9-6a83cff6e669
+    line_id: KR1h0004_tls_007-10a.2
+    textline: 子於是日哭
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 論語
+    line_uuid: 88afd7b1-7528-43b4-a0c7-ac12d00fe528
+    line_id: KR1h0004_tls_007-10a.3
+    textline: 則不歌
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

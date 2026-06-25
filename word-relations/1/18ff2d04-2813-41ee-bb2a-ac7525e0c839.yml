@@ -1,0 +1,32 @@
+uuid: 18ff2d04-2813-41ee-bb2a-ac7525e0c839
+type: word-relation
+group_uuid: 18ff2d04-2813-41ee-bb2a-ac7525e0c839
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 054a7a78-3a84-446f-828e-ba8d7c8989c1
+  text: 氾
+  concept: FLOOD
+  concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+  attestation:
+    text_title: 孟子
+    line_uuid: d330cc55-bb95-4af0-8170-ae1ea239c2a9
+    line_id: KR1h0001_tls_005-46a.5
+    textline: 氾濫於天下
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4c775aa6-bdde-421e-a90a-3666930693c1
+  text: 濫
+  concept: FLOOD
+  concept_uuid: e5320a47-768d-42e1-a877-4d103d328bfd
+  attestation:
+    text_title: 孟子
+    line_uuid: d330cc55-bb95-4af0-8170-ae1ea239c2a9
+    line_id: KR1h0001_tls_005-46a.5
+    textline: 氾濫於天下
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

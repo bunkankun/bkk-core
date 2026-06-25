@@ -1,0 +1,32 @@
+uuid: 26e080ed-45e6-46be-a080-ed45e6b6be02
+type: word-relation
+group_uuid: 11026163-acbd-5cfb-a36f-8a9d5eac1937
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 55f3c5b4-4eb9-405d-b3c5-b44eb9405de6
+  text: 天下
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_014-33a.10
+    textline: 故天下可得而不可取也
+    offset: 2
+    range: 2
+right:
+  word_uuid: 809dc2b1-2317-4978-bbf4-13c3364ed58e
+  text: 霸王
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_014-33a.11
+    textline: 霸王可受而不可求也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-04T17:27:08.451+09:00'

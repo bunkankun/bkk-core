@@ -1,0 +1,30 @@
+uuid: f3502b4b-902b-4f8f-bff9-a29517cc38a6
+type: word-relation
+group_uuid: 9778c7dd-0585-409c-aa1b-b88d29e3ba0d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 62557396-2051-43a3-a111-f450581f0799
+  text: 行
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 論衡
+    line_uuid: c86eb4f7-07ac-4cb7-98d0-3aa71fd9b4ea
+    textline: 而盜跖莊蹻橫行天下
+    offset: 8
+    range: 1
+right:
+  word_uuid: c821de0d-fe34-43d4-82f6-46407906250e
+  text: 橫
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 論衡
+    line_uuid: c86eb4f7-07ac-4cb7-98d0-3aa71fd9b4ea
+    textline: 而盜跖莊蹻橫行天下
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

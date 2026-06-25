@@ -1,0 +1,32 @@
+uuid: 998a8fb4-e3e5-46a2-8fa1-bc830c673856
+type: word-relation
+group_uuid: d16ef383-d72b-48d5-b34f-e6ee95720166
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 孟子
+    line_uuid: c8d8536c-9920-48ff-a577-70a10ce40374
+    line_id: KR1h0001_tls_001-19a.6
+    textline: 省刑罰
+    offset: 2
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 孟子
+    line_uuid: c8d8536c-9920-48ff-a577-70a10ce40374
+    line_id: KR1h0001_tls_001-19a.6
+    textline: 省刑罰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

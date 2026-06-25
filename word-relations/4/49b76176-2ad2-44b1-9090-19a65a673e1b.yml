@@ -1,0 +1,21 @@
+uuid: 49b76176-2ad2-44b1-9090-19a65a673e1b
+type: word-relation
+group_uuid: 8a7fe3b0-7f35-5cfa-90fc-78526a36a5fe
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: e9328b81-8fbe-423c-a056-3841938a81f7
+  text: 姊
+  concept: SISTER
+  concept_uuid: 9e1b6f7f-1dac-4e87-b6f0-6b8a472fa023
+right:
+  word_uuid: 594ace46-86f6-4bab-8e6f-f91227420f56
+  text: 妹
+  concept: SISTER
+  concept_uuid: 9e1b6f7f-1dac-4e87-b6f0-6b8a472fa023
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

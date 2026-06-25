@@ -1,0 +1,21 @@
+uuid: 5c301277-7b4f-4493-a6bd-644203637336
+type: word-relation
+group_uuid: 264478f5-d2b0-572f-8c0c-47e2d3621def
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9c40544d-fe2a-47c9-b02c-fa3fd30ff290
+  text: 薄
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+right:
+  word_uuid: b8cdc227-0ade-4596-ae55-a6abda84a6bf
+  text: 文
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cd224767-4a37-48ec-a247-674a3748ece7
+type: word-relation
+group_uuid: 1569f45b-f2e6-57fc-a61a-53049ea58738
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_028-59a.5
+    textline: 學士若茲
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_028-59a.5
+    textline: 學士若茲
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-23T23:52:08.591+09:00'

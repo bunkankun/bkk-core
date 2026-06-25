@@ -1,0 +1,21 @@
+uuid: 8c959ecb-b7c6-4c53-8c9f-1de8784c71a6
+type: word-relation
+group_uuid: bd0c5da2-f1f3-5244-8a3d-30a9b6e3fa77
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 154baa8e-d1e8-40b9-bd7b-ba8f60edfd48
+  text: 割
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+right:
+  word_uuid: cb6b7d13-1d0b-47a2-bad8-e159482fc4b7
+  text: 切
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

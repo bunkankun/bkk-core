@@ -1,0 +1,18 @@
+uuid: 04b96aa8-3d1a-4c72-8e20-dc3307e17855
+type: word-relation
+group_uuid: 77453f2c-221e-5eb2-9904-b54a4c6587ce
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+right:
+  word_uuid: 023451ce-93c3-4ff6-ab5d-d2836e0252f2
+  text: 尊
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: 1a227a8f-3c05-4d52-9910-0eede17d319a
+type: word-relation
+group_uuid: 1fc9e8cc-9971-5683-bf2f-cc157994ad67
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c0b83551-739e-4a98-bc95-c92396f7990b
+  text: 納內
+  concept: INSIDE
+  concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+right:
+  word_uuid: a996a631-ebe8-4e2b-b841-e4904ff0c0b3
+  text: 宇
+  concept: SPACE
+  concept_uuid: 3ac38710-8bfa-4014-bff4-f7d7040b7219
+source:
+  source_file: word-relations.xml

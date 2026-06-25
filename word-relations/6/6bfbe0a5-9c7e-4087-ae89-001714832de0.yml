@@ -1,0 +1,31 @@
+uuid: 6bfbe0a5-9c7e-4087-ae89-001714832de0
+type: word-relation
+group_uuid: 6bfbe0a5-9c7e-4087-ae89-001714832de0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6e921dfc-61f2-4c09-bff0-85645aebce17
+  text: 我
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 尚書
+    line_uuid: 0a70d2bc-4e6e-428f-b86d-58ba5522a7d1
+    textline: 假手於我有命
+    offset: 4
+    range: 1
+right:
+  word_uuid: b89b5679-a3e9-4d5b-a1b9-9d3b7d46be6c
+  text: 朕
+  concept: WE
+  concept_uuid: 87ba5d81-cf48-47b1-84dd-7a48657f1454
+  attestation:
+    text_title: 尚書
+    line_uuid: 540991b2-5107-4fcd-8b69-772d853ba6f0
+    line_id: KR1b0001_tls_013-2a.21
+    textline: 朕哉自亳
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

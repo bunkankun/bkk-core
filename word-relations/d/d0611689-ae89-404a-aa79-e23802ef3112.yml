@@ -1,0 +1,30 @@
+uuid: d0611689-ae89-404a-aa79-e23802ef3112
+type: word-relation
+group_uuid: d0611689-ae89-404a-aa79-e23802ef3112
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c3bbc849-040e-4fb7-ac08-9111aeaf1824
+  text: 作
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+  attestation:
+    text_title: 情史序
+    line_uuid: ad858ff8-2bc8-42e1-85a9-c9daef0f391c
+    textline: 盜賊必不作
+    offset: 5
+    range: 1
+right:
+  word_uuid: 6af51390-ea48-4fb4-8af8-f772c84e7de8
+  text: 起
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+  attestation:
+    text_title: 情史序
+    line_uuid: 24e10fce-3db2-4f4f-b75b-539c020c7a2c
+    textline: 姦宄必不起
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

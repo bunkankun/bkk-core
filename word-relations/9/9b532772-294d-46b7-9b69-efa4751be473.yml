@@ -1,0 +1,32 @@
+uuid: 9b532772-294d-46b7-9b69-efa4751be473
+type: word-relation
+group_uuid: 9b532772-294d-46b7-9b69-efa4751be473
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3640f0f6-78c1-478e-8477-bdd2d73eaf07
+  text: 象
+  concept: SYMBOL
+  concept_uuid: 43ed7810-ef10-416c-8044-df9eade18fa0
+  attestation:
+    text_title: 老子
+    line_uuid: 3a43bf02-c2df-47f8-8c72-50026d465898
+    line_id: KR5c0057_tls_041-1a.24
+    textline: 大象無形
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3559d498-8b84-4f42-9dfe-ac763d0b5c6b
+  text: 形
+  concept: DEPICT
+  concept_uuid: b8f063ab-7407-407f-b7bc-abecaf6adc41
+  attestation:
+    text_title: 老子
+    line_uuid: 3a43bf02-c2df-47f8-8c72-50026d465898
+    line_id: KR5c0057_tls_041-1a.24
+    textline: 大象無形
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

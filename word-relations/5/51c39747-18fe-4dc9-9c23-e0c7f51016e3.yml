@@ -1,0 +1,32 @@
+uuid: 51c39747-18fe-4dc9-9c23-e0c7f51016e3
+type: word-relation
+group_uuid: 909b0ce9-0ef4-4f9b-bffd-79fb0be1278d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 戰國策
+    line_uuid: bbcef2f2-4e90-43cf-91e7-867260aebadb
+    line_id: KR2e0003_tls_367-1a.17
+    textline: “人之憎我也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 戰國策
+    line_uuid: bbcef2f2-4e90-43cf-91e7-867260aebadb
+    line_id: KR2e0003_tls_367-1a.17
+    textline: “人之憎我也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

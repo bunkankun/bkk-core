@@ -1,0 +1,32 @@
+uuid: af659d0b-1834-4d5b-a149-54d0db729aaf
+type: word-relation
+group_uuid: af659d0b-1834-4d5b-a149-54d0db729aaf
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: dddfa333-638e-4b82-9647-3081a701edc4
+  text: 安
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0a6c44ed-61a0-415a-a683-08d8f8e7fcef
+    line_id: KR3j0009_tls_005-21a.15
+    textline: 故治世之音安以樂
+    offset: 6
+    range: 1
+right:
+  word_uuid: 11762a98-209f-4f58-88a3-dab36f1e046a
+  text: 樂
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0a6c44ed-61a0-415a-a683-08d8f8e7fcef
+    line_id: KR3j0009_tls_005-21a.15
+    textline: 故治世之音安以樂
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

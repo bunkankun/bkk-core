@@ -1,0 +1,32 @@
+uuid: 2024d6c0-2a02-4bda-9cb5-23d831e38b8d
+type: word-relation
+group_uuid: 2024d6c0-2a02-4bda-9cb5-23d831e38b8d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 291452e8-b8f6-4e89-9149-970ea9e9fdf1
+  text: 困
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 24d647fe-4f8f-4224-9e10-841b0b6bf38f
+    line_id: KR3j0009_tls_003-26a.49
+    textline: 讒人困窮
+    offset: 3
+    range: 1
+right:
+  word_uuid: f1358ccb-e688-4f3d-932e-b53e8ee09d05
+  text: 窮
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 24d647fe-4f8f-4224-9e10-841b0b6bf38f
+    line_id: KR3j0009_tls_003-26a.49
+    textline: 讒人困窮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

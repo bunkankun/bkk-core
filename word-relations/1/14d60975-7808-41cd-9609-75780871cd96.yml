@@ -1,0 +1,32 @@
+uuid: 14d60975-7808-41cd-9609-75780871cd96
+type: word-relation
+group_uuid: 03b166a0-7af6-5bc0-ad78-c711dd3f7701
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_074-11a.4
+    textline: 年五十始來游學於齊
+    offset: 7
+    range: 1
+right:
+  word_uuid: e513711f-3b33-4403-a122-50bf3a60ce7b
+  text: 游
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_074-11a.4
+    textline: 年五十始來游學於齊
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T17:27:01.851+09:00'

@@ -1,0 +1,30 @@
+uuid: 61344421-821f-455e-8a4a-8a6af319fcf7
+type: word-relation
+group_uuid: 61344421-821f-455e-8a4a-8a6af319fcf7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2770ac0e-be46-47e0-a2be-94f7b0d96277
+  text: 禮
+  concept: POLITE
+  concept_uuid: d4d55af3-ead9-479e-ade0-9b592476c9d0
+  attestation:
+    text_title: 論語
+    line_uuid: 166e0bda-9d79-41ef-b67f-81938d189140
+    textline: 「能以禮讓為國乎
+    offset: 4
+    range: 1
+right:
+  word_uuid: 79958102-e049-443f-a7be-87f754978264
+  text: 讓
+  concept: YIELD
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+  attestation:
+    text_title: 論語
+    line_uuid: 166e0bda-9d79-41ef-b67f-81938d189140
+    textline: 「能以禮讓為國乎
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

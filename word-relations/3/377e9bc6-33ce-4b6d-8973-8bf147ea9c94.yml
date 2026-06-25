@@ -1,0 +1,30 @@
+uuid: 377e9bc6-33ce-4b6d-8973-8bf147ea9c94
+type: word-relation
+group_uuid: 377e9bc6-33ce-4b6d-8973-8bf147ea9c94
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c1eb0e6b-a920-4e03-a567-69e40bb2390f
+  text: 有
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 論語
+    line_uuid: 11bed250-1e34-45c9-8961-149008fabfe9
+    textline: 舜禹之有天下也而不與焉
+    offset: 4
+    range: 1
+right:
+  word_uuid: f392d3eb-04cf-42cb-bffe-eaecd3d4e93e
+  text: 與
+  concept: COOPERATE
+  concept_uuid: e5479b8b-9e1c-4678-aaf2-6088a249c540
+  attestation:
+    text_title: 論語
+    line_uuid: 11bed250-1e34-45c9-8961-149008fabfe9
+    textline: 舜禹之有天下也而不與焉
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

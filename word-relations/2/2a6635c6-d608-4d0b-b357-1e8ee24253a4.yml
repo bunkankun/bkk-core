@@ -1,0 +1,32 @@
+uuid: 2a6635c6-d608-4d0b-b357-1e8ee24253a4
+type: word-relation
+group_uuid: 45c1d0d2-214a-4bee-b9e0-010d0ca33c33
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b32abcf9-90dd-4a72-8a6c-33135c6284b4
+  text: 幣
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1716ecbe-c7b7-4ba3-8384-39a2d22e2bd3
+    line_id: KR3j0009_tls_003-4a.14
+    textline: 出幣帛
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2f0f487c-cb2c-4470-98f1-0705a2c7aaa4
+  text: 帛
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1716ecbe-c7b7-4ba3-8384-39a2d22e2bd3
+    line_id: KR3j0009_tls_003-4a.14
+    textline: 出幣帛
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

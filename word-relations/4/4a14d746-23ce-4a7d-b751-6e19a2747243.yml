@@ -1,0 +1,32 @@
+uuid: 4a14d746-23ce-4a7d-b751-6e19a2747243
+type: word-relation
+group_uuid: b52ebf23-6b6a-4115-95de-f78dfdbf6981
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: cf4a039d-c70d-4717-ac87-1b79c3620ffc
+  text: 至
+  concept: ARRIVE
+  concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+  attestation:
+    text_title: 論衡
+    line_uuid: 8a43960e-ff9a-4e24-b617-684d91e0596c
+    line_id: KR3j0080_tls_016-18a.25
+    textline: 舜至蒼梧
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2c85d164-bb83-452a-9a92-752a0d304fc2
+  text: 到
+  concept: ARRIVE
+  concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+  attestation:
+    text_title: 論衡
+    line_uuid: a2c36d0a-9999-4fa3-ab10-d46600b4218b
+    line_id: KR3j0080_tls_016-18a.26
+    textline: 禹到會稽
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

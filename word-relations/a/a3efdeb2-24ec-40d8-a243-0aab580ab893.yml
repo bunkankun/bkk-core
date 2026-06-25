@@ -1,0 +1,30 @@
+uuid: a3efdeb2-24ec-40d8-a243-0aab580ab893
+type: word-relation
+group_uuid: 42cd973e-d571-4e77-a13b-be7e009c1a48
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43fc4bc5-114f-416d-a1b5-6f2c26bc7377
+    textline: 姦邪之臣安肯乘（棄）利而退其身
+    offset: 1
+    range: 1
+right:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 43fc4bc5-114f-416d-a1b5-6f2c26bc7377
+    textline: 姦邪之臣安肯乘（棄）利而退其身
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

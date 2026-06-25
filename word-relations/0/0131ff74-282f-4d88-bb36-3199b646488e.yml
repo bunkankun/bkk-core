@@ -1,0 +1,32 @@
+uuid: 0131ff74-282f-4d88-bb36-3199b646488e
+type: word-relation
+group_uuid: 0131ff74-282f-4d88-bb36-3199b646488e
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 170635d6-a68d-4415-887c-5fadd9e7808a
+  text: 餓
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 韓非子
+    line_uuid: a49594e5-5fdc-47a0-837b-6c5f670f1546
+    line_id: KR3c0005_tls_010-23a.2
+    textline: 靈王餓而死乾溪之上
+    offset: 3
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 韓非子
+    line_uuid: a49594e5-5fdc-47a0-837b-6c5f670f1546
+    line_id: KR3c0005_tls_010-23a.2
+    textline: 靈王餓而死乾溪之上
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

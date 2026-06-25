@@ -1,0 +1,32 @@
+uuid: 1b11c88e-53dd-499d-b073-42000ce761c1
+type: word-relation
+group_uuid: 1b11c88e-53dd-499d-b073-42000ce761c1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 94494611-f261-4be6-9ec4-642a7e9c5185
+  text: 暴
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 韓非子
+    line_uuid: f5ff5970-b762-4717-be2b-3765e127d2bb
+    line_id: KR3c0005_tls_020-87a.3
+    textline: 則內暴虐其民
+    offset: 3
+    range: 1
+right:
+  word_uuid: 967c2661-b8a7-447c-96be-92c22075fe23
+  text: 虐
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+  attestation:
+    text_title: 韓非子
+    line_uuid: f5ff5970-b762-4717-be2b-3765e127d2bb
+    line_id: KR3c0005_tls_020-87a.3
+    textline: 則內暴虐其民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

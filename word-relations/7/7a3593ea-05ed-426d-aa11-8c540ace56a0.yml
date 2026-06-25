@@ -1,0 +1,32 @@
+uuid: 7a3593ea-05ed-426d-aa11-8c540ace56a0
+type: word-relation
+group_uuid: 7a3593ea-05ed-426d-aa11-8c540ace56a0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a84eecc5-b2d4-403f-bbe6-bfa4a2c6e003
+  text: 依
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 論語
+    line_uuid: dd7fa751-50e5-4479-a1e0-f73891a30595
+    line_id: KR1h0004_tls_007-6a.5
+    textline: 依於仁
+    offset: 1
+    range: 1
+right:
+  word_uuid: e513711f-3b33-4403-a122-50bf3a60ce7b
+  text: 遊
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 論語
+    line_uuid: c8f40faf-89f0-47b0-b4ce-70f98799a459
+    line_id: KR1h0004_tls_007-7a.1
+    textline: 遊於藝
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

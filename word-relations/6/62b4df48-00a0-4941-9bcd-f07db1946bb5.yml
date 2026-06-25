@@ -1,0 +1,32 @@
+uuid: 62b4df48-00a0-4941-9bcd-f07db1946bb5
+type: word-relation
+group_uuid: 69cc71f6-d43e-40ee-b4d6-01ea4ad8640a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ddf03015-f596-4b98-bd0c-44a808a125e1
+  text: 室
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bb7cc7cb-d4a9-4227-83e3-c714306ebe03
+    line_id: KR3j0009_tls_001-18a.7
+    textline: 是故先王不處大室
+    offset: 8
+    range: 1
+right:
+  word_uuid: 13808986-a234-484d-a412-862d3e387251
+  text: 大
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bb7cc7cb-d4a9-4227-83e3-c714306ebe03
+    line_id: KR3j0009_tls_001-18a.7
+    textline: 是故先王不處大室
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

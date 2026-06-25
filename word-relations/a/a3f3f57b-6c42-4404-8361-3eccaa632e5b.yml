@@ -1,0 +1,32 @@
+uuid: a3f3f57b-6c42-4404-8361-3eccaa632e5b
+type: word-relation
+group_uuid: 2411dfed-d4fb-453e-8f17-d73500618251
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 78c0672e-a316-45f4-9946-6d938217681f
+  text: 削
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+  attestation:
+    text_title: 韓非子
+    line_uuid: f0234205-2586-4ee4-a570-ca6fbe1c6115
+    line_id: KR3c0005_tls_014-51a.5
+    textline: 小者地削主卑
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6caaf498-bb70-469d-87de-3e54a4fa98bb
+  text: 地
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  attestation:
+    text_title: 韓非子
+    line_uuid: f0234205-2586-4ee4-a570-ca6fbe1c6115
+    line_id: KR3c0005_tls_014-51a.5
+    textline: 小者地削主卑
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

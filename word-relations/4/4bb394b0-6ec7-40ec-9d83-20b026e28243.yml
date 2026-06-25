@@ -1,0 +1,32 @@
+uuid: 4bb394b0-6ec7-40ec-9d83-20b026e28243
+type: word-relation
+group_uuid: 4bb394b0-6ec7-40ec-9d83-20b026e28243
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e15ae26-4bef-4744-b762-169ef3a26cd6
+    line_id: KR3c0005_tls_005-20a.7
+    textline: 而知福與咎
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1008ffdc-e50c-4043-aa6e-0134635f5672
+  text: 咎
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e15ae26-4bef-4744-b762-169ef3a26cd6
+    line_id: KR3c0005_tls_005-20a.7
+    textline: 而知福與咎
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

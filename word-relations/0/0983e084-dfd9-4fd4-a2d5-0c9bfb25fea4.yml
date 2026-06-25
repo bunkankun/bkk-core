@@ -1,0 +1,32 @@
+uuid: 0983e084-dfd9-4fd4-a2d5-0c9bfb25fea4
+type: word-relation
+group_uuid: fbf72036-3830-4018-894b-1ec95bda7064
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 92b783f9-23cb-4f56-b1c5-fe7116b7783a
+  text: 金
+  concept: GOLD
+  concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1941f71d-7853-44f0-b64d-6ff822df1643
+    line_id: KR3c0005_tls_009-5a.3
+    textline: 內事之以金玉玩好
+    offset: 5
+    range: 1
+right:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1941f71d-7853-44f0-b64d-6ff822df1643
+    line_id: KR3c0005_tls_009-5a.3
+    textline: 內事之以金玉玩好
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

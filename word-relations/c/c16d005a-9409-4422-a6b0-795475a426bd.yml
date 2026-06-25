@@ -1,0 +1,32 @@
+uuid: c16d005a-9409-4422-a6b0-795475a426bd
+type: word-relation
+group_uuid: 45afb55f-acc5-4845-a0c7-4007e58ece13
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 韓非子
+    line_uuid: 344015b6-6124-4291-8ff6-b1363717ca42
+    line_id: KR3c0005_tls_020-41a.3
+    textline: 官爵尊貴
+    offset: 1
+    range: 1
+right:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 344015b6-6124-4291-8ff6-b1363717ca42
+    line_id: KR3c0005_tls_020-41a.3
+    textline: 官爵尊貴
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

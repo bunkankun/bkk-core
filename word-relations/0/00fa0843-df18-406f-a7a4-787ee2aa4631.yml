@@ -1,0 +1,18 @@
+uuid: 00fa0843-df18-406f-a7a4-787ee2aa4631
+type: word-relation
+group_uuid: 8cd0f19d-f3b9-5dfe-b9cd-6e870eec22b5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 66ad575e-55dc-41be-887b-9670ed357fb8
+  text: 猝卒
+  concept: SUDDENLY
+  concept_uuid: 4967f382-6297-477f-a8ff-201d56a0e325
+right:
+  word_uuid: 3c82341c-d4ee-47d3-a72a-7aa1e6c89960
+  text: 漸
+  concept: GRADUALLY
+  concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+source:
+  source_file: word-relations.xml

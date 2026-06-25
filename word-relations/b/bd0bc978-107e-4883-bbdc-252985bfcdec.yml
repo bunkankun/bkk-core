@@ -1,0 +1,21 @@
+uuid: bd0bc978-107e-4883-bbdc-252985bfcdec
+type: word-relation
+group_uuid: 1b514fe5-219f-572e-a0b5-ef80b6b0ad16
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e0fb7e0-50e8-48a5-95f2-66cde679ad79
+  text: 匡
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+right:
+  word_uuid: 9bbe1923-8f55-4441-9816-d5ee5972d481
+  text: 濟
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

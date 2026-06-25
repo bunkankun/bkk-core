@@ -1,0 +1,21 @@
+uuid: b82a6257-05d7-4184-8237-e310136caaec
+type: word-relation
+group_uuid: fd98f020-cc5f-530d-9b3d-fb8a9f03804c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b022a39d-f912-42ac-8fcc-cb2ef38338e5
+  text: 詆
+  concept: SCOLD
+  concept_uuid: 274dd192-78a3-45df-9faf-fe824f64633a
+right:
+  word_uuid: 972ca091-9b67-4c16-8d31-e46b949152e5
+  text: 訾
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 09008f5b-5b55-4829-b619-24c7fc318dd1
+type: word-relation
+group_uuid: 09008f5b-5b55-4829-b619-24c7fc318dd1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 453a7e5a-01ba-4564-9a66-c4ccd6ed0453
+    line_id: KR3c0005_tls_009-25a.6
+    textline: 其於諸侯之求索也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 76c5cdbe-7a9e-4a16-a393-738a487f40e1
+  text: 索
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 453a7e5a-01ba-4564-9a66-c4ccd6ed0453
+    line_id: KR3c0005_tls_009-25a.6
+    textline: 其於諸侯之求索也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

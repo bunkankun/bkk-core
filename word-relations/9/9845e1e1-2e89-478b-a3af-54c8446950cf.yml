@@ -1,0 +1,31 @@
+uuid: 9845e1e1-2e89-478b-a3af-54c8446950cf
+type: word-relation
+group_uuid: 9845e1e1-2e89-478b-a3af-54c8446950cf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 79931a1e-aa05-4bad-a227-c8ff48e16eb7
+  text: 有
+  concept: HAVE
+  concept_uuid: fb02970d-7e8c-43ca-b0fd-fddc6055d130
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e13b355-4c5d-4ee7-a129-05d36e36ee35
+    line_id: KR3c0005_tls_001-7a.3
+    textline: 有功無功相事也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5c58beee-db25-45f2-9a93-c48e4d12b7e5
+  text: 無
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5e13b355-4c5d-4ee7-a129-05d36e36ee35
+    line_id: KR3c0005_tls_001-7a.3
+    textline: 有功無功相事也
+    range: 1
+source:
+  source_file: word-relations.xml

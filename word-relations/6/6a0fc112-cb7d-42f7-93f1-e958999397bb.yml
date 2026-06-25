@@ -1,0 +1,21 @@
+uuid: 6a0fc112-cb7d-42f7-93f1-e958999397bb
+type: word-relation
+group_uuid: 6779286c-5f48-5910-8c64-86890340d2fa
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+right:
+  word_uuid: 0b964334-d71a-4e95-a70c-bf1ed89734c3
+  text: 拔
+  concept: PULL
+  concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

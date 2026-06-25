@@ -1,0 +1,32 @@
+uuid: c58b1eef-808e-44a5-8df1-3c74ee5f7021
+type: word-relation
+group_uuid: c58b1eef-808e-44a5-8df1-3c74ee5f7021
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4bf70c05-1abb-4dce-998c-4e759f8d8571
+    line_id: KR3c0005_tls_052-12a.11
+    textline: 而蔽於愚不肖之患也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 13db392c-2d54-45d4-9af4-c29fc15baa44
+  text: 不肖
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4bf70c05-1abb-4dce-998c-4e759f8d8571
+    line_id: KR3c0005_tls_052-12a.11
+    textline: 而蔽於愚不肖之患也
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

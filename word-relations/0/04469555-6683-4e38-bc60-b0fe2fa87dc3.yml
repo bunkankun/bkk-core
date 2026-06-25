@@ -1,0 +1,21 @@
+uuid: 04469555-6683-4e38-bc60-b0fe2fa87dc3
+type: word-relation
+group_uuid: 165d29b4-5941-55fa-b3fe-f7e5f06248dd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1e92de76-44db-41c0-9fef-090ce6dfb9c8
+  text: 反
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+right:
+  word_uuid: 7c8b034a-243e-4822-8dfe-b53d33a60536
+  text: 畔叛
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

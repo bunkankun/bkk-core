@@ -1,0 +1,32 @@
+uuid: 5880ed08-0afa-4cf9-80ed-080afa3cf912
+type: word-relation
+group_uuid: 0d757f5b-3a48-5a9f-ab42-fcf3f4e1b850
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 929a1f55-292a-4e86-9a1f-55292a1e864f
+  text: 聲音
+  concept: VOICE
+  concept_uuid: f34baeb7-45e5-4856-a7c0-25d040988c61
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_012-56a.12
+    textline: ����之聲音顏色
+    offset: 6
+    range: 2
+right:
+  word_uuid: 10ff48a0-9fac-4d46-a985-c83c63d91ef0
+  text: 顏色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_012-56a.12
+    textline: ����之聲音顏色
+    offset: 8
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T04:56:19.136+09:00'

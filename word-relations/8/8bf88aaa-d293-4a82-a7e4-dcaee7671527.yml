@@ -1,0 +1,21 @@
+uuid: 8bf88aaa-d293-4a82-a7e4-dcaee7671527
+type: word-relation
+group_uuid: 86ea9cfc-b1ac-5370-bf95-aad0ef07e64e
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e38bf479-af5d-401f-b6fd-2bdec28f0ec3
+  text: 朽
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+right:
+  word_uuid: 4a289240-2294-4588-9a55-83e6950cd108
+  text: 敗
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

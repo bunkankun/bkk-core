@@ -1,0 +1,32 @@
+uuid: 1529f61e-e48f-415d-a9f6-1ee48f015d97
+type: word-relation
+group_uuid: 19816d08-253d-5faf-9640-3505e4b7e4e3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 93f55d81-6b31-4f9d-a2a2-656d6615e4f5
+  text: 戇
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_011-9a.68
+    textline: 人苟不狂惑戇陋者
+    offset: 6
+    range: 1
+right:
+  word_uuid: 2ff84208-6d9b-4c29-b7dd-518b79f5cfd4
+  text: 陋
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_011-9a.68
+    textline: 人苟不狂惑戇陋者
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T02:55:02.309+09:00'

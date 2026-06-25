@@ -1,0 +1,32 @@
+uuid: 1f8c03fa-051f-4c92-b0dd-1ba55e0dc22e
+type: word-relation
+group_uuid: 1f8c03fa-051f-4c92-b0dd-1ba55e0dc22e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 35315462-2b98-4759-932b-68ed0d7c5cd7
+  text: 劍
+  concept: SWORD
+  concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+  attestation:
+    text_title: 韓非子
+    line_uuid: fc2f0d6f-8f3c-45df-9e29-c188d5e48160
+    line_id: KR3c0005_tls_020-157a.6
+    textline: 若以利劍刺之
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8e285e8f-6694-4080-ba9f-7b67f2fb8ecf
+  text: 利
+  concept: SHARP
+  concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+  attestation:
+    text_title: 韓非子
+    line_uuid: fc2f0d6f-8f3c-45df-9e29-c188d5e48160
+    line_id: KR3c0005_tls_020-157a.6
+    textline: 若以利劍刺之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

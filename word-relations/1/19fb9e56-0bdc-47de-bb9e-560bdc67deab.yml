@@ -1,0 +1,32 @@
+uuid: 19fb9e56-0bdc-47de-bb9e-560bdc67deab
+type: word-relation
+group_uuid: 7b059e61-0d07-5c41-a4a3-a8cbb2f32993
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 232f5af2-6d6c-4580-b43d-01d89c7b7cbd
+  text: 明
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.26
+    textline: 將以明仁之文
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5e851a68-7bb7-461c-8bd2-05ce55e52136
+  text: 通
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.27
+    textline: 通仁之順也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T21:33:08.312+09:00'

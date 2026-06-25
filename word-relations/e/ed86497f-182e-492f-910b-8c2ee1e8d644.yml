@@ -1,0 +1,31 @@
+uuid: ed86497f-182e-492f-910b-8c2ee1e8d644
+type: word-relation
+group_uuid: ed86497f-182e-492f-910b-8c2ee1e8d644
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c24e573d-4bd7-4bea-b7fe-0c268d7bcf22
+  text: 賊
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 6dcf4a91-c52d-431b-8613-cfda88642ded
+    line_id: KR1e0001_tls_010-734a.29
+    textline: 蝥賊遠屏
+    offset: 2
+    range: 1
+right:
+  word_uuid: 871d65b5-42cb-4a7f-aa4c-25a98a719590
+  text: 蝥
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 6dcf4a91-c52d-431b-8613-cfda88642ded
+    line_id: KR1e0001_tls_010-734a.29
+    textline: 蝥賊遠屏
+    range: 1
+source:
+  source_file: word-relations.xml

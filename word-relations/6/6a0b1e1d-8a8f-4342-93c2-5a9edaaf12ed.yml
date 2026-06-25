@@ -1,0 +1,32 @@
+uuid: 6a0b1e1d-8a8f-4342-93c2-5a9edaaf12ed
+type: word-relation
+group_uuid: 6a0b1e1d-8a8f-4342-93c2-5a9edaaf12ed
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 86265d24-659e-4b7f-9488-d12e9301b7f5
+    line_id: KR3j0009_tls_002-31a.25
+    textline: 暴君幸矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1019e90a-a32e-4605-8193-fb0914e1eb96
+  text: 暴
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 86265d24-659e-4b7f-9488-d12e9301b7f5
+    line_id: KR3j0009_tls_002-31a.25
+    textline: 暴君幸矣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

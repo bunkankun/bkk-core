@@ -1,0 +1,32 @@
+uuid: 6467ac51-2539-4584-8af8-457d5618d7ac
+type: word-relation
+group_uuid: 6467ac51-2539-4584-8af8-457d5618d7ac
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8f265e41-a6f9-4026-8c13-bf7ab3a1e344
+  text: 負
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 孟子
+    line_uuid: a7b12fc1-5029-4e71-9209-279a08a9c8df
+    line_id: KR1h0001_tls_001-10a.10
+    textline: 頒白者不負戴於道路矣
+    offset: 5
+    range: 1
+right:
+  word_uuid: 6b9e6bc4-eb16-4ded-9a15-5edd4df2ee46
+  text: 戴
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 孟子
+    line_uuid: a7b12fc1-5029-4e71-9209-279a08a9c8df
+    line_id: KR1h0001_tls_001-10a.10
+    textline: 頒白者不負戴於道路矣
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

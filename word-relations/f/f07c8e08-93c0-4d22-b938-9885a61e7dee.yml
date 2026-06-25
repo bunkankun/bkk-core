@@ -1,0 +1,32 @@
+uuid: f07c8e08-93c0-4d22-b938-9885a61e7dee
+type: word-relation
+group_uuid: f07c8e08-93c0-4d22-b938-9885a61e7dee
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b48677ed-25fd-4c81-8eb9-7496abcd8fea
+  text: 車
+  concept: VEHICLE
+  concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 00cf615b-2e2c-4b85-a232-2f9450ac1f43
+    line_id: KR3j0009_tls_003-26a.58
+    textline: 則車輕馬利
+    offset: 2
+    range: 1
+right:
+  word_uuid: b6a5f40d-b4dd-4fa1-9629-bd99dce2568c
+  text: 輕
+  concept: LIGHTWEIGHT
+  concept_uuid: 226f4376-14e2-466d-83ba-54e4e996002b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 00cf615b-2e2c-4b85-a232-2f9450ac1f43
+    line_id: KR3j0009_tls_003-26a.58
+    textline: 則車輕馬利
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

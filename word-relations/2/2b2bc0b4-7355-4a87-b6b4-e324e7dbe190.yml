@@ -1,0 +1,32 @@
+uuid: 2b2bc0b4-7355-4a87-b6b4-e324e7dbe190
+type: word-relation
+group_uuid: 2b2bc0b4-7355-4a87-b6b4-e324e7dbe190
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b2d2d1d3-13bc-4b93-9be4-2f8d53cc0d7d
+  text: 甲
+  concept: ARMOUR
+  concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+  attestation:
+    text_title: 孟子
+    line_uuid: 28ca1e65-a965-4c48-838d-cb9a9021ecd6
+    line_id: KR1h0001_tls_001-20a.1
+    textline: 可使制梃以撻秦楚之堅甲利兵矣
+    offset: 11
+    range: 1
+right:
+  word_uuid: 753ae858-9774-4976-be5f-2a2711627f23
+  text: 堅
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+  attestation:
+    text_title: 孟子
+    line_uuid: 28ca1e65-a965-4c48-838d-cb9a9021ecd6
+    line_id: KR1h0001_tls_001-20a.1
+    textline: 可使制梃以撻秦楚之堅甲利兵矣
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

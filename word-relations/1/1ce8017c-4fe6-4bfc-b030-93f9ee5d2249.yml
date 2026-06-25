@@ -1,0 +1,31 @@
+uuid: 1ce8017c-4fe6-4bfc-b030-93f9ee5d2249
+type: word-relation
+group_uuid: 1ce8017c-4fe6-4bfc-b030-93f9ee5d2249
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8a880735-008b-4858-bee8-142edbb84858
+  text: 拯
+  concept: RESCUE
+  concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: daf7ca2f-005d-4624-9e43-d9899d99331b
+    line_id: KR3j0009_tls_004-12a.8
+    textline: 是拯溺而硾之以石也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 352ba9c2-b361-439d-b6cf-9b6b53133225
+  text: 救
+  concept: RESCUE
+  concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2f5e13b9-0e7f-4f6a-afb4-81416e22a4ed
+    textline: 是救病而飲之以堇也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

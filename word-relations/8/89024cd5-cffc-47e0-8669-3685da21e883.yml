@@ -1,0 +1,30 @@
+uuid: 89024cd5-cffc-47e0-8669-3685da21e883
+type: word-relation
+group_uuid: 89024cd5-cffc-47e0-8669-3685da21e883
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f526f46b-96b2-4424-91b1-e40d73ccea49
+  text: 喑
+  concept: DUMB
+  concept_uuid: bd2fb0c3-9ea9-4bd7-8841-9da413e46e49
+  attestation:
+    text_title: 管子
+    line_uuid: db702ba9-1f6a-4c10-a13a-a77a731222a6
+    textline: 聾盲喑啞跛躄偏枯握遞
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2e4d21fe-9524-4112-8670-c50ea1ce26cb
+  text: 啞
+  concept: DUMB
+  concept_uuid: bd2fb0c3-9ea9-4bd7-8841-9da413e46e49
+  attestation:
+    text_title: 管子
+    line_uuid: db702ba9-1f6a-4c10-a13a-a77a731222a6
+    textline: 聾盲喑啞跛躄偏枯握遞
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

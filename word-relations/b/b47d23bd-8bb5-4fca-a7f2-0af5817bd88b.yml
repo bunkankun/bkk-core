@@ -1,0 +1,30 @@
+uuid: b47d23bd-8bb5-4fca-a7f2-0af5817bd88b
+type: word-relation
+group_uuid: b47d23bd-8bb5-4fca-a7f2-0af5817bd88b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 論衡
+    line_uuid: 322756ec-ac05-4a5d-93f8-dd4dff683365
+    textline: 或獨為人或為禽獸
+    offset: 4
+    range: 1
+right:
+  word_uuid: f474d363-8590-4244-a559-30304f2bd6bc
+  text: 禽獸
+  concept: ANIMAL
+  concept_uuid: 14a4e830-0ab6-47b9-94da-c725be1f1ac5
+  attestation:
+    text_title: 論衡
+    line_uuid: 322756ec-ac05-4a5d-93f8-dd4dff683365
+    textline: 或獨為人或為禽獸
+    offset: 8
+    range: 2
+source:
+  source_file: word-relations.xml

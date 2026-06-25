@@ -1,0 +1,30 @@
+uuid: 4bfbfcf0-95be-4ced-ad3b-5319aaa0704b
+type: word-relation
+group_uuid: f27e558b-1006-4ad0-826d-86ed0207ba19
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6323915a-b8e1-4e27-ae3e-9f4d0139f5f3
+    textline: 此廢法禁後功勞舉名譽聽請謁之失也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6323915a-b8e1-4e27-ae3e-9f4d0139f5f3
+    textline: 此廢法禁後功勞舉名譽聽請謁之失也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

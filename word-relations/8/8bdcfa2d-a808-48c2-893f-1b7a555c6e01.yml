@@ -1,0 +1,30 @@
+uuid: 8bdcfa2d-a808-48c2-893f-1b7a555c6e01
+type: word-relation
+group_uuid: 93fddc17-be10-4b81-8389-da952bc01300
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 57ceb16f-4d0d-4452-9f56-7117cf90fb79
+    textline: 勝理以治身則生全
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 57ceb16f-4d0d-4452-9f56-7117cf90fb79
+    textline: 勝理以治身則生全
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

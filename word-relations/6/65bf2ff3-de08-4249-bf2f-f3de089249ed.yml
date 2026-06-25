@@ -1,0 +1,32 @@
+uuid: 65bf2ff3-de08-4249-bf2f-f3de089249ed
+type: word-relation
+group_uuid: 3ab5850a-48cb-5f78-a92d-6c54d63932e7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-12a.3
+    textline: 龍少學先王之道
+    offset: 3
+    range: 1
+right:
+  word_uuid: 064d533e-94a6-454e-b151-6b3b92d578a4
+  text: 長
+  concept: ADULT
+  concept_uuid: 17c5977a-0682-43c0-97c9-80813ff8ad67
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-12a.4
+    textline: 長而明仁義之行
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T18:04:27.384+09:00'

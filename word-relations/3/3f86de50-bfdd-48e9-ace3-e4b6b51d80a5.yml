@@ -1,0 +1,32 @@
+uuid: 3f86de50-bfdd-48e9-ace3-e4b6b51d80a5
+type: word-relation
+group_uuid: 3f86de50-bfdd-48e9-ace3-e4b6b51d80a5
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bece3e13-9793-4040-a44b-e1639af2dbad
+  text: 鐸
+  concept: BELL
+  concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+  attestation:
+    text_title: 論語
+    line_uuid: 5eca2c4a-1852-4383-8f98-e3256e7af265
+    line_id: KR1h0004_tls_003-28a.1
+    textline: 天將以夫子為木鐸
+    offset: 8
+    range: 1
+right:
+  word_uuid: 70a622d2-4c59-4db7-9af7-ef4a262438af
+  text: 木
+  concept: TIMBER
+  concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+  attestation:
+    text_title: 論語
+    line_uuid: 5eca2c4a-1852-4383-8f98-e3256e7af265
+    line_id: KR1h0004_tls_003-28a.1
+    textline: 天將以夫子為木鐸
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

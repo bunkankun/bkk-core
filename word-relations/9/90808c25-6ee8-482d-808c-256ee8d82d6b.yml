@@ -1,0 +1,32 @@
+uuid: 90808c25-6ee8-482d-808c-256ee8d82d6b
+type: word-relation
+group_uuid: f3096df3-4874-5626-b88e-c5276f77a06a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_001-2a.2
+    textline: 故不登高山
+    offset: 4
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_001-2a.4
+    textline: 不臨深谿
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#zadrapa'
+  date: '2023-02-14T22:58:26.473+09:00'

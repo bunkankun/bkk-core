@@ -1,0 +1,32 @@
+uuid: 447e1bc2-0fdf-4409-8c9f-0d2cbea2609f
+type: word-relation
+group_uuid: 447e1bc2-0fdf-4409-8c9f-0d2cbea2609f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 7532bb01-1f35-4efe-b9e2-9c344a6dd97b
+    line_id: KR1c0066_tls_008-24a.61
+    textline: 士必學問
+    offset: 1
+    range: 1
+right:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 03486682-cb04-4e68-a428-aa6e0249d20d
+    line_id: KR1c0066_tls_008-24a.62
+    textline: 然後成君子
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

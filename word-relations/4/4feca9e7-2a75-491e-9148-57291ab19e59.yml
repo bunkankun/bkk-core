@@ -1,0 +1,32 @@
+uuid: 4feca9e7-2a75-491e-9148-57291ab19e59
+type: word-relation
+group_uuid: 4feca9e7-2a75-491e-9148-57291ab19e59
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a5bc246f-1403-4701-9baf-2943d6e1b6d8
+  text: 斬
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33e35996-a686-4de0-9b5f-1f6cedd54364
+    line_id: KR3c0005_tls_014-54a.3
+    textline: 則民不外務當敵斬首
+    offset: 8
+    range: 1
+right:
+  word_uuid: 4e49b394-fb70-4b21-ba75-811ec46cd4b6
+  text: 首
+  concept: HEAD
+  concept_uuid: 566b791c-d2a1-46ca-8187-a2d071ebc5d1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33e35996-a686-4de0-9b5f-1f6cedd54364
+    line_id: KR3c0005_tls_014-54a.3
+    textline: 則民不外務當敵斬首
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

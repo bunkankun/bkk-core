@@ -1,0 +1,32 @@
+uuid: 9badbeab-5c91-4f9b-8866-3aefbbf4cc51
+type: word-relation
+group_uuid: 9badbeab-5c91-4f9b-8866-3aefbbf4cc51
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4c764826-a0ba-4e61-a9cd-2c47cff08737
+  text: 味
+  concept: DELICACY
+  concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 57996ffd-b99e-490f-9cfe-fe84ca03cccf
+    line_id: KR1c0066_tls_005-31a.54
+    textline: 累味而備珍
+    offset: 2
+    range: 1
+right:
+  word_uuid: f30229e3-98a7-41dd-b206-de909926a678
+  text: 珍
+  concept: DELICACY
+  concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 57996ffd-b99e-490f-9cfe-fe84ca03cccf
+    line_id: KR1c0066_tls_005-31a.54
+    textline: 累味而備珍
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

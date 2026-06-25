@@ -1,0 +1,32 @@
+uuid: a340dbd8-93c0-4e8c-80db-d893c05e8c0f
+type: word-relation
+group_uuid: 8ff5b45a-afb5-5237-bcb2-2982435ced1a
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 94bf8563-4876-4a0d-b9ff-898cf766ce05
+  text: 法令
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_045-27a.4
+    textline: 法令行
+    offset: 1
+    range: 2
+right:
+  word_uuid: e029f4de-8b47-4fd6-a9f4-de8b471fd66c
+  text: 私道
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_045-27a.5
+    textline: 而私道廢矣
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T02:10:15.818+09:00'

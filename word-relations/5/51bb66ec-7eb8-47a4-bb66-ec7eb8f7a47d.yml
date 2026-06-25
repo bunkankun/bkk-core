@@ -1,0 +1,32 @@
+uuid: 51bb66ec-7eb8-47a4-bb66-ec7eb8f7a47d
+type: word-relation
+group_uuid: dc5be76f-8129-5700-b1e5-af39c210ff66
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0e258fda-2519-4fde-933d-e8c0e860bede
+  text: 各
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.44
+    textline: 人各以其知
+    offset: 2
+    range: 1
+right:
+  word_uuid: 99e95c8a-9d40-411c-a95c-8a9d40011cc7
+  text: 其
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.44
+    textline: 人各以其知
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T21:08:36.293+09:00'

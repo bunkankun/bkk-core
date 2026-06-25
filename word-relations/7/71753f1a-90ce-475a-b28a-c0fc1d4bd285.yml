@@ -1,0 +1,32 @@
+uuid: 71753f1a-90ce-475a-b28a-c0fc1d4bd285
+type: word-relation
+group_uuid: bc7554fb-0ddf-4d0b-a4be-afb9e0b73f1d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 8e0cee52-22e8-4104-a9da-028ac2140f1d
+    line_id: KR1b0001_tls_044-2a.24
+    textline: 在今予小子旦
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 0e10b659-4fad-4c57-bda0-534cf3d630af
+    line_id: KR1b0001_tls_044-2a.27
+    textline: 施于我沖子
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

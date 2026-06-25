@@ -1,0 +1,30 @@
+uuid: 98e0f135-d25d-4450-89d9-f0dde69de4c4
+type: word-relation
+group_uuid: 98e0f135-d25d-4450-89d9-f0dde69de4c4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d014b5e5-f540-4829-8798-4ec3f7375778
+  text: 面
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5f9a84e3-ce12-4d04-85cc-f2ac4b8ca2bc
+    textline: 面有饑色
+    offset: 1
+    range: 1
+right:
+  word_uuid: b97645e3-02dd-4ed7-ae8e-da285b8ab821
+  text: 色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5f9a84e3-ce12-4d04-85cc-f2ac4b8ca2bc
+    textline: 面有饑色
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

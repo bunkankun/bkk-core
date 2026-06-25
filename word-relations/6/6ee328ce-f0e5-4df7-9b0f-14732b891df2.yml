@@ -1,0 +1,32 @@
+uuid: 6ee328ce-f0e5-4df7-9b0f-14732b891df2
+type: word-relation
+group_uuid: 6ee328ce-f0e5-4df7-9b0f-14732b891df2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 管子
+    line_uuid: 123e3108-7067-462e-8494-ec7023770065
+    line_id: KR3c0001_tls_011-30a.3
+    textline: 仁智者君
+    offset: 1
+    range: 1
+right:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 管子
+    line_uuid: 123e3108-7067-462e-8494-ec7023770065
+    line_id: KR3c0001_tls_011-30a.3
+    textline: 仁智者君
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

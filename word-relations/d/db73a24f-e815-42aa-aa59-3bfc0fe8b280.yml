@@ -1,0 +1,35 @@
+uuid: db73a24f-e815-42aa-aa59-3bfc0fe8b280
+type: word-relation
+group_uuid: fcd897e9-3ad2-474e-84c8-0e3f32c8443c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b8424f36-4674-4d99-a9ec-43812760449c
+    line_id: KR3j0009_tls_003-30a.68
+    textline: 賢不肖安危之所定也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 13db392c-2d54-45d4-9af4-c29fc15baa44
+  text: 不肖
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b8424f36-4674-4d99-a9ec-43812760449c
+    line_id: KR3j0009_tls_003-30a.68
+    textline: 賢不肖安危之所定也
+    offset: 2
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

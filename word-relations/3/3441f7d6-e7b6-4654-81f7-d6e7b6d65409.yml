@@ -1,0 +1,32 @@
+uuid: 3441f7d6-e7b6-4654-81f7-d6e7b6d65409
+type: word-relation
+group_uuid: 5bd2ab96-7c01-59ef-83cc-c049b3b73348
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 09052302-beb4-4fac-90e7-9a23016c0317
+  text: 專
+  concept: ONLY
+  concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.22
+    textline: 而專任其大臣，
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7b0259a0-3128-4ffb-8bfe-af07668baebc
+  text: 任
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.22
+    textline: 而專任其大臣，
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:25:33.156+09:00'

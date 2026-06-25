@@ -1,0 +1,30 @@
+uuid: 2ab92e44-2ffd-46fb-9a07-7b226a6e5913
+type: word-relation
+group_uuid: 2ab92e44-2ffd-46fb-9a07-7b226a6e5913
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 02e44068-f8a5-42fb-b5f0-408ecd8a650a
+  text: 笑
+  concept: MOCK
+  concept_uuid: e6b4e1e1-6e1e-4f01-a01b-4d658b1fb7d4
+  attestation:
+    text_title: 淮南子
+    line_uuid: 28c8b4e5-1ff8-49c8-b3d7-50cb5bee719d
+    textline: 然而不免為人戮笑者何也
+    offset: 8
+    range: 1
+right:
+  word_uuid: 2a3c00ea-837f-40c8-98e3-a4c430926ccc
+  text: 戮
+  concept: HUMILIATE
+  concept_uuid: bfc0a321-4319-4d7a-ba93-99a026a91309
+  attestation:
+    text_title: 淮南子
+    line_uuid: 28c8b4e5-1ff8-49c8-b3d7-50cb5bee719d
+    textline: 然而不免為人戮笑者何也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

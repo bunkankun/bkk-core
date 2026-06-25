@@ -1,0 +1,32 @@
+uuid: 61ff4f7f-5e6f-4929-97e2-d62a2212dc5e
+type: word-relation
+group_uuid: 61ff4f7f-5e6f-4929-97e2-d62a2212dc5e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8aea81bd-895b-4387-bb61-5edc8396983c
+  text: 徒
+  concept: ONLY
+  concept_uuid: 72833a4e-d1ec-471f-806c-64c1e3317aaf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4f3d1397-f996-4640-8ec7-35400f4c8307
+    line_id: KR3j0009_tls_004-16a.33
+    textline: 今非徒免於刑戮死辱也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6c24ad72-fe13-45ac-b89c-c56e8d8cf492
+  text: 非
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4f3d1397-f996-4640-8ec7-35400f4c8307
+    line_id: KR3j0009_tls_004-16a.33
+    textline: 今非徒免於刑戮死辱也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

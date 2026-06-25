@@ -1,0 +1,32 @@
+uuid: a2ebcce8-6887-4259-bc78-6145245ef21c
+type: word-relation
+group_uuid: a2ebcce8-6887-4259-bc78-6145245ef21c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 55614ef6-1408-47e5-b609-8469ede00218
+  text: 滅
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e553c4e-91d9-48b1-8f5d-2da7afe329f7
+    line_id: KR3c0005_tls_010-2a.6
+    textline: 則滅國殺身之本也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e553c4e-91d9-48b1-8f5d-2da7afe329f7
+    line_id: KR3c0005_tls_010-2a.6
+    textline: 則滅國殺身之本也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

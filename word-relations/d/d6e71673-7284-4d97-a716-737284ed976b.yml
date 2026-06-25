@@ -1,0 +1,32 @@
+uuid: d6e71673-7284-4d97-a716-737284ed976b
+type: word-relation
+group_uuid: 58bba86e-dff0-51cc-8bb4-ff71ab9a8ee4
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c338872f-3dea-4ca2-8fc9-d0cb521d05c0
+  text: 天地
+  concept: UNIVERSE
+  concept_uuid: 383dc31a-fb6a-4c5a-9182-83a8cb967831
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_006-13a.8
+    textline: 而遊乎天地之一氣
+    offset: 4
+    range: 2
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_006-13a.8
+    textline: 而遊乎天地之一氣
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:08:30.399+09:00'

@@ -1,0 +1,32 @@
+uuid: e7f7567f-f63e-4e79-b756-7ff63e7e79b7
+type: word-relation
+group_uuid: 6e2eac09-a338-5228-8c31-82e7e864d551
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_003-28a.3
+    textline: 盡美矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_003-28a.4
+    textline: 又盡善也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-07-22T00:19:59.369+09:00'

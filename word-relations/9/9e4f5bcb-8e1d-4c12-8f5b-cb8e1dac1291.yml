@@ -1,0 +1,32 @@
+uuid: 9e4f5bcb-8e1d-4c12-8f5b-cb8e1dac1291
+type: word-relation
+group_uuid: 194d454b-5660-5578-b840-5334458a033c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4faf6c1e-a7e5-4a04-a9df-0f0c5e4dd98d
+  text: 一
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-7a.25
+    textline: 萬物一齊
+    offset: 3
+    range: 1
+right:
+  word_uuid: ec260d21-a467-41c9-93fe-c1e5d24be7ee
+  text: 齊
+  concept: EQUAL
+  concept_uuid: d1f5f85d-1395-4230-bfa5-d6ca47c04271
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_017-7a.25
+    textline: 萬物一齊
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-06T20:51:36.715+09:00'

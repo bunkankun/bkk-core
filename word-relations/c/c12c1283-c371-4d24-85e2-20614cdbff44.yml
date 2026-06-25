@@ -1,0 +1,32 @@
+uuid: c12c1283-c371-4d24-85e2-20614cdbff44
+type: word-relation
+group_uuid: 4d16be00-8f81-4461-9493-d80093fa4ca7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e2873df7-9e95-4040-afd6-23a5b333dcac
+  text: 謬
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論衡
+    line_uuid: f189fa1f-4e3c-46db-a8e3-62e130b2d5c0
+    line_id: KR3j0080_tls_034-5a.36
+    textline: 對向謬誤
+    offset: 3
+    range: 1
+right:
+  word_uuid: 75bd9eea-b007-45e3-af5b-ee3cde64bd3b
+  text: 誤
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: f189fa1f-4e3c-46db-a8e3-62e130b2d5c0
+    line_id: KR3j0080_tls_034-5a.36
+    textline: 對向謬誤
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

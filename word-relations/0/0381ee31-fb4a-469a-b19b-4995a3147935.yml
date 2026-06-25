@@ -1,0 +1,18 @@
+uuid: 0381ee31-fb4a-469a-b19b-4995a3147935
+type: word-relation
+group_uuid: e0c9dcf2-c3c5-5444-a0ec-17493905336d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6e0c1770-c243-46e3-94c3-9ea11b2c5541
+  text: 侈
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+right:
+  word_uuid: 303fbc6e-c7a6-48f6-afc4-aef50c5732cf
+  text: 淫
+  concept: EXCESSIVE
+  concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+source:
+  source_file: word-relations.xml

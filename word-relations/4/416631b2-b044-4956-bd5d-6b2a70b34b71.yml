@@ -1,0 +1,32 @@
+uuid: 416631b2-b044-4956-bd5d-6b2a70b34b71
+type: word-relation
+group_uuid: 416631b2-b044-4956-bd5d-6b2a70b34b71
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d57426f1-b772-482c-a8c0-de2ca1457d3c
+  text: 由
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論語
+    line_uuid: ee35e9a1-1aa9-4711-9124-f50e7beac3e5
+    line_id: KR1h0004_tls_008-9a.3
+    textline: 「民可使由之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論語
+    line_uuid: 60ad9c2c-96ca-4a95-98b8-7ccf2b70adb8
+    line_id: KR1h0004_tls_008-10a.1
+    textline: 不可使知之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

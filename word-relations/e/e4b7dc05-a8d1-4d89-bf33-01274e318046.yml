@@ -1,0 +1,32 @@
+uuid: e4b7dc05-a8d1-4d89-bf33-01274e318046
+type: word-relation
+group_uuid: e4b7dc05-a8d1-4d89-bf33-01274e318046
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 8a23289b-6b3c-48af-9b44-872e37a4e712
+  text: 賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ba95dba-b14b-41f3-87cc-af598a0c1a2f
+    line_id: KR3c0005_tls_019-57a.2
+    textline: 故先王明賞以勸之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 08380628-9d22-4304-b160-4725c7e8282c
+  text: 勸
+  concept: ENCOURAGE
+  concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ba95dba-b14b-41f3-87cc-af598a0c1a2f
+    line_id: KR3c0005_tls_019-57a.2
+    textline: 故先王明賞以勸之
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

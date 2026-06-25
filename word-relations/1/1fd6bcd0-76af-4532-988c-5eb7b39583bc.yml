@@ -1,0 +1,32 @@
+uuid: 1fd6bcd0-76af-4532-988c-5eb7b39583bc
+type: word-relation
+group_uuid: 1fd6bcd0-76af-4532-988c-5eb7b39583bc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e7df68d5-5b5f-43ed-b005-9177757f33ef
+  text: 雞
+  concept: CHICKEN
+  concept_uuid: 7ed2254c-2f56-4e85-9887-7d593ec689e0
+  attestation:
+    text_title: 楚辭
+    line_uuid: 74cff211-a00e-4992-a82d-58f6201dab5c
+    line_id: KR4a0001_tls_006-1a.42
+    textline: 將與雞鶩爭食乎
+    offset: 3
+    range: 1
+right:
+  word_uuid: b3213353-9256-4042-a17e-e7c2e74aeead
+  text: 鶩
+  concept: DUCK
+  concept_uuid: 6cc79a28-eefc-46cc-ac1a-2457f16676e2
+  attestation:
+    text_title: 楚辭
+    line_uuid: 74cff211-a00e-4992-a82d-58f6201dab5c
+    line_id: KR4a0001_tls_006-1a.42
+    textline: 將與雞鶩爭食乎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

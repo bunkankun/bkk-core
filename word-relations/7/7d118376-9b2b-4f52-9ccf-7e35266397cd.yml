@@ -1,0 +1,32 @@
+uuid: 7d118376-9b2b-4f52-9ccf-7e35266397cd
+type: word-relation
+group_uuid: 792a84ba-2e51-46bc-9343-6816d6e1a24d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 571d0fa2-2d3b-48a0-a2c3-798b9616a43a
+  text: 逢
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: bc4a6a8c-eb41-4b3e-9ac9-7b615f8f5368
+    line_id: KR3j0080_tls_006-10a.3
+    textline: 遭逢非常之變
+    offset: 2
+    range: 1
+right:
+  word_uuid: b420976b-03d3-468c-bb65-fe59e77f04a5
+  text: 遭
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: bc4a6a8c-eb41-4b3e-9ac9-7b615f8f5368
+    line_id: KR3j0080_tls_006-10a.3
+    textline: 遭逢非常之變
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

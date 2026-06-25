@@ -1,0 +1,32 @@
+uuid: 9d62c8d0-7dd3-4cea-a2c8-d07dd3fcea19
+type: word-relation
+group_uuid: 1b4f92ae-f181-5670-b701-762693db3573
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c5c63f85-d2e6-48dc-863f-85d2e648dc42
+  text: 上天
+  concept: SKY
+  concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_020-53a.2
+    textline: 明明上天
+    offset: 3
+    range: 2
+right:
+  word_uuid: 76365ac7-6090-4228-b65a-c76090a228da
+  text: 下土
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_020-53a.3
+    textline: 照臨下土
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-28T20:45:04.096+09:00'

@@ -1,0 +1,32 @@
+uuid: a4327fa8-fe62-4b73-b27f-a8fe628b73fe
+type: word-relation
+group_uuid: 6f4f682b-5697-5913-add6-58383c577165
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 晏子春秋
+    line_id: KR2g0003_tls_004-40a.38
+    textline: 命之曰狂僻之民
+    offset: 4
+    range: 1
+right:
+  word_uuid: 70d2c8a0-5b71-45cd-b7b3-94f801123b89
+  text: 僻
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 晏子春秋
+    line_id: KR2g0003_tls_004-40a.38
+    textline: 命之曰狂僻之民
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T02:46:05.594+09:00'

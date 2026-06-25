@@ -1,0 +1,21 @@
+uuid: c79fef3b-8128-4eef-b626-2a5d9e849ca0
+type: word-relation
+group_uuid: 270904ad-0d47-5343-a484-9dcd5d156ecf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ae6cbb51-4053-413a-8687-2f4923c3c2d0
+  text: 辭
+  concept: YIELD
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+right:
+  word_uuid: 79958102-e049-443f-a7be-87f754978264
+  text: 讓
+  concept: YIELD
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

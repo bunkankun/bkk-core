@@ -1,0 +1,32 @@
+uuid: 618e5d67-9b3f-44ad-a2c7-27eaf365300f
+type: word-relation
+group_uuid: 618e5d67-9b3f-44ad-a2c7-27eaf365300f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c74708cf-2a21-4f27-a21e-69b984d260c3
+  text: 行
+  concept: WALK
+  concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 202cc63c-b39d-4246-9fc9-392ee9c91f76
+    line_id: KR3c0005_tls_010-69a.8
+    textline: 臣請試潛行而出
+    offset: 5
+    range: 1
+right:
+  word_uuid: ffbd9e6b-b6f6-49d7-8808-884bc27585d4
+  text: 潛
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 韓非子
+    line_uuid: 202cc63c-b39d-4246-9fc9-392ee9c91f76
+    line_id: KR3c0005_tls_010-69a.8
+    textline: 臣請試潛行而出
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

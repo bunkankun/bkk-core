@@ -1,0 +1,32 @@
+uuid: 7dc62ec0-7625-4fdd-862e-c076254fdd4a
+type: word-relation
+group_uuid: 4e22b5f5-ffdc-5e1d-a7e5-7789b3eb66b1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 28b9f122-87f4-4f1a-8c77-1e31ca9f6403
+  text: 峻
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_089-6a.15
+    textline: 重之以苛法峻刑
+    offset: 6
+    range: 1
+right:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_089-6a.15
+    textline: 重之以苛法峻刑
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-19T21:54:37.09+09:00'

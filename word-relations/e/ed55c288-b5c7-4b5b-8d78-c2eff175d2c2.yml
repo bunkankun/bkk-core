@@ -1,0 +1,21 @@
+uuid: ed55c288-b5c7-4b5b-8d78-c2eff175d2c2
+type: word-relation
+group_uuid: de403ff1-cbac-5509-a6f5-29f18d54ce51
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 87780b87-9c02-4f5f-aa79-b18fbff7a9c0
+  text: 酷
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+right:
+  word_uuid: a73c6525-a350-417e-80c7-e78d8730e69d
+  text: 烈
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

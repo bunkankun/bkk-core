@@ -1,0 +1,32 @@
+uuid: 5795814e-b352-4769-885a-6e92107a9cfb
+type: word-relation
+group_uuid: 5795814e-b352-4769-885a-6e92107a9cfb
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論語
+    line_uuid: 6c8c1dd2-0a64-478b-ac26-e0bd48e473f8
+    line_id: KR1h0004_tls_001-14a.3
+    textline: 「君子食無求飽
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8acadea3-08d1-4772-bad5-e7b9a6fbabc4
+  text: 飽
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論語
+    line_uuid: 6c8c1dd2-0a64-478b-ac26-e0bd48e473f8
+    line_id: KR1h0004_tls_001-14a.3
+    textline: 「君子食無求飽
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

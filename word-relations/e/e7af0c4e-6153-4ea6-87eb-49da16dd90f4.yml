@@ -1,0 +1,32 @@
+uuid: e7af0c4e-6153-4ea6-87eb-49da16dd90f4
+type: word-relation
+group_uuid: e7af0c4e-6153-4ea6-87eb-49da16dd90f4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 78c0672e-a316-45f4-9946-6d938217681f
+  text: 削
+  concept: CUT
+  concept_uuid: 8fc0e3c9-f12b-4c37-9254-34df515d6a17
+  attestation:
+    text_title: 韓非子
+    line_uuid: fb87b25a-4492-475c-aa49-b6513ba5916a
+    line_id: KR3c0005_tls_010-4a.4
+    textline: 則削國之患也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: fb87b25a-4492-475c-aa49-b6513ba5916a
+    line_id: KR3c0005_tls_010-4a.4
+    textline: 則削國之患也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

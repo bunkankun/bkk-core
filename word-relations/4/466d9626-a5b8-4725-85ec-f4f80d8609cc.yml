@@ -1,0 +1,32 @@
+uuid: 466d9626-a5b8-4725-85ec-f4f80d8609cc
+type: word-relation
+group_uuid: 466d9626-a5b8-4725-85ec-f4f80d8609cc
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 49da5aee-5d21-45a8-abc6-68ec535d5493
+  text: 多能
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 論語
+    line_uuid: e5dbae5d-e1fd-4a0f-a981-8fe4c7643372
+    line_id: KR1h0004_tls_009-6a.4
+    textline: 何其多能也
+    offset: 3
+    range: 2
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論語
+    line_uuid: eee8573b-4d1a-48c4-8d78-e21f14878bf8
+    line_id: KR1h0004_tls_009-6a.6
+    textline: 「固天縱之將聖
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

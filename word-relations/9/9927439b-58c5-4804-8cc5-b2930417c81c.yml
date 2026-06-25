@@ -1,0 +1,30 @@
+uuid: 9927439b-58c5-4804-8cc5-b2930417c81c
+type: word-relation
+group_uuid: 9927439b-58c5-4804-8cc5-b2930417c81c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f225f4fb-e205-474f-9d37-0671400736c7
+  text: 醜陋
+  concept: UGLY
+  concept_uuid: ea088569-850d-43cf-bb0e-d4939c2f47ca
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 60ba6959-8f3d-49fb-8266-ffdbd0135736
+    textline: 端正醜陋
+    offset: 3
+    range: 2
+right:
+  word_uuid: 0500c736-dc26-44d0-9a54-f9c44f8ed4f7
+  text: 端正
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 60ba6959-8f3d-49fb-8266-ffdbd0135736
+    textline: 端正醜陋
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

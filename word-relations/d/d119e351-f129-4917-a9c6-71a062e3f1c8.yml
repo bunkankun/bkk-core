@@ -1,0 +1,32 @@
+uuid: d119e351-f129-4917-a9c6-71a062e3f1c8
+type: word-relation
+group_uuid: d119e351-f129-4917-a9c6-71a062e3f1c8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8e70e90d-7ff2-4c8d-8517-49408096dda8
+  text: 介
+  concept: ARMOUR
+  concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+  attestation:
+    text_title: 禮記
+    line_uuid: bce6650e-19e9-4a9e-9267-030c27181e27
+    line_id: KR1d0052_tls_001-35a.20
+    textline: 介冑
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5d96f82a-d74d-4a6f-b853-6abc48abead9
+  text: 冑
+  concept: HELMET
+  concept_uuid: 73acae34-a7b2-492a-803e-30506758304f
+  attestation:
+    text_title: 禮記
+    line_uuid: bce6650e-19e9-4a9e-9267-030c27181e27
+    line_id: KR1d0052_tls_001-35a.20
+    textline: 介冑
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: adf6a173-8ac1-4e6b-9a6e-24ab90a81906
+type: word-relation
+group_uuid: adf6a173-8ac1-4e6b-9a6e-24ab90a81906
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9b1d6fdf-486f-4f7a-8bca-44d82006dfb6
+  text: 聲
+  concept: VOICE
+  concept_uuid: f34baeb7-45e5-4856-a7c0-25d040988c61
+  attestation:
+    text_title: 韓非子
+    line_uuid: cfcf59a8-bd0d-40cd-9587-d7c71c7f586d
+    line_id: KR3c0005_tls_042-2a.8
+    textline: 二君者驅於聲詞
+    offset: 6
+    range: 1
+right:
+  word_uuid: dca5707b-3649-41e7-a364-1873d38e9df8
+  text: 詞
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 韓非子
+    line_uuid: cfcf59a8-bd0d-40cd-9587-d7c71c7f586d
+    line_id: KR3c0005_tls_042-2a.8
+    textline: 二君者驅於聲詞
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

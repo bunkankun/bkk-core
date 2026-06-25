@@ -1,0 +1,32 @@
+uuid: e83621b5-35ea-4d59-ac2e-3568d0f9f997
+type: word-relation
+group_uuid: 36735136-729a-43eb-aaf8-de0f9372c4ac
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d9c1b2fd-fd53-40e5-8875-083a920a9581
+  text: 朋
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 論語
+    line_uuid: bb206ed1-ea41-4449-8403-a2f35a6ce59a
+    line_id: KR1h0004_tls_005-29a.16
+    textline: 朋友信之
+    offset: 1
+    range: 1
+right:
+  word_uuid: bd157ccd-3b12-490e-a90c-b9a58c8b32f4
+  text: 友
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 論語
+    line_uuid: bb206ed1-ea41-4449-8403-a2f35a6ce59a
+    line_id: KR1h0004_tls_005-29a.16
+    textline: 朋友信之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

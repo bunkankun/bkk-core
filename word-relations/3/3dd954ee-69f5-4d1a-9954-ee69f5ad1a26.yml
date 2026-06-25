@@ -1,0 +1,32 @@
+uuid: 3dd954ee-69f5-4d1a-9954-ee69f5ad1a26
+type: word-relation
+group_uuid: cc1becc9-393e-48b6-8e0c-360b74218160
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_006-34a.3
+    textline: 君子博學於文
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1f8c51f8-b94d-4be8-97f5-5588eddeb130
+  text: 博
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_006-34a.3
+    textline: 君子博學於文
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T16:52:58.852+09:00'

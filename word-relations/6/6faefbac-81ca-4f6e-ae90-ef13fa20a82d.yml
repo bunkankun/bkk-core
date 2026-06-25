@@ -1,0 +1,21 @@
+uuid: 6faefbac-81ca-4f6e-ae90-ef13fa20a82d
+type: word-relation
+group_uuid: fa2dde6e-dfd8-5270-b705-c98cdcfe972c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a9bad8a-52b8-479b-a93c-5c0338eed197
+  text: 浸
+  concept: GRADUALLY
+  concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+right:
+  word_uuid: 3c82341c-d4ee-47d3-a72a-7aa1e6c89960
+  text: 漸
+  concept: GRADUALLY
+  concept_uuid: 345ddf94-b29f-4001-a3b4-4238461b7959
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

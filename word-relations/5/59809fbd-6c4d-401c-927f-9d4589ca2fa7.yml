@@ -1,0 +1,35 @@
+uuid: 59809fbd-6c4d-401c-927f-9d4589ca2fa7
+type: word-relation
+group_uuid: 8a394b41-1582-4995-992b-16bc3ef442ff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1146ff34-809f-4892-a715-2a863a460456
+  text: 貨
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 老子
+    line_uuid: 3f9b3f26-714b-4e3e-bcb9-099b38bb22fd
+    line_id: KR5c0057_tls_053-1a.14
+    textline: 財貨有餘
+    offset: 2
+    range: 1
+right:
+  word_uuid: 72d6bba8-9a15-4904-ad47-d953e325ae08
+  text: 財
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 老子
+    line_uuid: 3f9b3f26-714b-4e3e-bcb9-099b38bb22fd
+    line_id: KR5c0057_tls_053-1a.14
+    textline: 財貨有餘
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

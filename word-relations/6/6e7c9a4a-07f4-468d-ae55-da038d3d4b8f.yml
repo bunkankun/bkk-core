@@ -1,0 +1,32 @@
+uuid: 6e7c9a4a-07f4-468d-ae55-da038d3d4b8f
+type: word-relation
+group_uuid: 79f312f2-bf91-40ae-84ec-558bde20a23b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 965c3255-56ae-47b4-948d-6906a49df508
+  text: 舊
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 毛詩
+    line_uuid: ba445376-41c4-4eed-a893-d63ed437d72c
+    line_id: KR1c0001_tls_023-3a.4
+    textline: 周雖舊邦
+    offset: 3
+    range: 1
+right:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 毛詩
+    line_uuid: fbb1adde-907e-4c66-94ee-4eac63d2b4ec
+    line_id: KR1c0001_tls_023-3a.5
+    textline: 其命維新
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

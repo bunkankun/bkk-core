@@ -1,0 +1,32 @@
+uuid: f8ffc361-ac34-465d-bfc3-61ac34c65d0b
+type: word-relation
+group_uuid: 5b2177f7-6136-5141-9335-0974221136c9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.5
+    textline: 順道而行
+    offset: 2
+    range: 1
+right:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.6
+    textline: 循理而言
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-02T03:16:03.571+09:00'

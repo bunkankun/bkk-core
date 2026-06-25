@@ -1,0 +1,21 @@
+uuid: 48e7d0c4-483a-4eef-baab-ecf84e2fb6c6
+type: word-relation
+group_uuid: 021e9685-c847-507e-85c8-97ea91909b8b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

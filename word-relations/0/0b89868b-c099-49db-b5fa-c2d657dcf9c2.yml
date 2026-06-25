@@ -1,0 +1,35 @@
+uuid: 0b89868b-c099-49db-b5fa-c2d657dcf9c2
+type: word-relation
+group_uuid: 0b89868b-c099-49db-b5fa-c2d657dcf9c2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 58530286-3dc9-4a6b-a9dc-4b942a1a5ed0
+  text: 長
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 老子
+    line_uuid: 6e58ffbe-fbc9-40db-a669-5fd72bf6e426
+    line_id: KR5c0057_tls_044-1a.17
+    textline: 可以長久
+    offset: 3
+    range: 1
+right:
+  word_uuid: 254386c6-9fd6-4ff1-a9c1-296e1933854b
+  text: 久
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 老子
+    line_uuid: 6e58ffbe-fbc9-40db-a669-5fd72bf6e426
+    line_id: KR5c0057_tls_044-1a.17
+    textline: 可以長久
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

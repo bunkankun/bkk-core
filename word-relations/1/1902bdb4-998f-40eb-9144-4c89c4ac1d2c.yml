@@ -1,0 +1,32 @@
+uuid: 1902bdb4-998f-40eb-9144-4c89c4ac1d2c
+type: word-relation
+group_uuid: 1902bdb4-998f-40eb-9144-4c89c4ac1d2c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 039aada4-ee20-4b6b-a612-050743341092
+  text: 俎
+  concept: CHOPPING BLOCK
+  concept_uuid: 2a790324-4787-4145-82dd-f309d53bfb83
+  attestation:
+    text_title: 韓非子
+    line_uuid: b83dcd3e-7d55-4499-89e0-110df721d11c
+    line_id: KR3c0005_tls_010-43a.6
+    textline: 破俎豆
+    offset: 2
+    range: 1
+right:
+  word_uuid: 84bfdddb-85a4-488e-ba90-99adf09d9167
+  text: 豆
+  concept: BOWL
+  concept_uuid: cd7f956f-6b2a-4fc6-93d6-b5374a10eb34
+  attestation:
+    text_title: 韓非子
+    line_uuid: b83dcd3e-7d55-4499-89e0-110df721d11c
+    line_id: KR3c0005_tls_010-43a.6
+    textline: 破俎豆
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

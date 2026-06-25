@@ -1,0 +1,21 @@
+uuid: a1047abe-00a8-417b-b425-e079edd36720
+type: word-relation
+group_uuid: 1b303ca4-a86a-5292-ad63-9e7aad82c0e5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 78ecce1a-2f2f-416e-944e-053210aba692
+  text: 沈
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

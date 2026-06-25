@@ -1,0 +1,32 @@
+uuid: 1ecefc53-3c38-467b-9419-0ec86e7e3c55
+type: word-relation
+group_uuid: 1ecefc53-3c38-467b-9419-0ec86e7e3c55
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d487ff41-c9b3-42aa-b780-837d4a845a58
+  text: 飄
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+  attestation:
+    text_title: 老子
+    line_uuid: c133adb1-ebf8-4420-b196-dd500e339742
+    line_id: KR5c0057_tls_023-1a.5
+    textline: 故飄風不終朝
+    offset: 2
+    range: 1
+right:
+  word_uuid: ed0fd511-bb6e-4720-91ed-9b870350a6eb
+  text: 風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 老子
+    line_uuid: c133adb1-ebf8-4420-b196-dd500e339742
+    line_id: KR5c0057_tls_023-1a.5
+    textline: 故飄風不終朝
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

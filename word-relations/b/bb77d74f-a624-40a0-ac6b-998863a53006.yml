@@ -1,0 +1,32 @@
+uuid: bb77d74f-a624-40a0-ac6b-998863a53006
+type: word-relation
+group_uuid: bb77d74f-a624-40a0-ac6b-998863a53006
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8e69447f-64e6-4853-9e18-60dec75b3c30
+  text: 虐
+  concept: OPPRESS
+  concept_uuid: a31b275f-16aa-447e-bc63-0baf8ea67a4c
+  attestation:
+    text_title: 韓非子
+    line_uuid: ec0e8d84-117a-46e1-88b2-ba91fe00055b
+    line_id: KR3c0005_tls_013-9a.7
+    textline: 而下虐民
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: ec0e8d84-117a-46e1-88b2-ba91fe00055b
+    line_id: KR3c0005_tls_013-9a.7
+    textline: 而下虐民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

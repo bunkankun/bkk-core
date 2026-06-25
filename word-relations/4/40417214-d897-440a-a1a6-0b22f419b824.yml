@@ -1,0 +1,32 @@
+uuid: 40417214-d897-440a-a1a6-0b22f419b824
+type: word-relation
+group_uuid: 40417214-d897-440a-a1a6-0b22f419b824
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f8452f8b-95bf-468c-81eb-89d23f4e4385
+  text: 忤
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 韓非子
+    line_uuid: f03a1df8-ccdf-41eb-95fa-713608322437
+    line_id: KR3c0005_tls_003-14a.2
+    textline: 且至言忤於耳而倒於心
+    offset: 4
+    range: 1
+right:
+  word_uuid: b6acda27-5d73-4d32-89d8-81b32a24ee44
+  text: 倒
+  concept: OPPOSE
+  concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+  attestation:
+    text_title: 韓非子
+    line_uuid: f03a1df8-ccdf-41eb-95fa-713608322437
+    line_id: KR3c0005_tls_003-14a.2
+    textline: 且至言忤於耳而倒於心
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

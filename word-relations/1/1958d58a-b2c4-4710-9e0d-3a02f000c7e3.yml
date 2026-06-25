@@ -1,0 +1,35 @@
+uuid: 1958d58a-b2c4-4710-9e0d-3a02f000c7e3
+type: word-relation
+group_uuid: 1958d58a-b2c4-4710-9e0d-3a02f000c7e3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論衡
+    line_uuid: c9fb5248-9646-498d-996b-aed264887dd3
+    line_id: KR3j0080_tls_001-1a.13
+    textline: 或高才潔行
+    offset: 5
+    range: 1
+right:
+  word_uuid: a12b1de7-2b15-4e29-8aa0-349d042394e0
+  text: 操
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論衡
+    line_uuid: b9f96f8b-e8b2-4275-a304-e8c152b0076d
+    line_id: KR3j0080_tls_001-1a.16
+    textline: 薄能濁操
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

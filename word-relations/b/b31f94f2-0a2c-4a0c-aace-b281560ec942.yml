@@ -1,0 +1,32 @@
+uuid: b31f94f2-0a2c-4a0c-aace-b281560ec942
+type: word-relation
+group_uuid: b31f94f2-0a2c-4a0c-aace-b281560ec942
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8b4d4759-8e87-4c4d-aa35-c576efd5b1e4
+    line_id: KR3j0009_tls_024-10a.17
+    textline: 吾將為子游
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d4de920c-9f49-45f8-a475-83188919a445
+    line_id: KR3j0009_tls_024-10a.15
+    textline: 子不如我也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

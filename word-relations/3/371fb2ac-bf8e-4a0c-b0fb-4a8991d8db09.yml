@@ -1,0 +1,32 @@
+uuid: 371fb2ac-bf8e-4a0c-b0fb-4a8991d8db09
+type: word-relation
+group_uuid: 371fb2ac-bf8e-4a0c-b0fb-4a8991d8db09
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 443e7480-82f9-4b64-8789-588ab8ee8a62
+  text: 竅
+  concept: HOLE
+  concept_uuid: b61d34ad-b230-41aa-8333-1b2d2b2a4153
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44d7030e-828e-4fe3-a260-2d4891067177
+    line_id: KR3j0009_tls_002-20a.10
+    textline: 九竅寥寥
+    offset: 2
+    range: 1
+right:
+  word_uuid: 310316f8-a0a1-47e5-85ad-e99d26646f4e
+  text: 九
+  concept: NINE
+  concept_uuid: 144d6bfc-ac7a-4922-a3f5-87df15e259d4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44d7030e-828e-4fe3-a260-2d4891067177
+    line_id: KR3j0009_tls_002-20a.10
+    textline: 九竅寥寥
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 73113424-c8e8-4642-9134-24c8e87642fc
+type: word-relation
+group_uuid: 544045c6-db0e-5f8e-8edd-e8e4e87f5ce6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4d7a7f48-485b-4f9e-9aec-960d83b33e7f
+  text: 大人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.7
+    textline: 大人作而弟子循
+    offset: 1
+    range: 2
+right:
+  word_uuid: 41d3913e-905e-4deb-aeba-4ab0cd624d3e
+  text: 弟子
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.7
+    textline: 大人作而弟子循
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T19:17:23.452+09:00'

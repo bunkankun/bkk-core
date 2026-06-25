@@ -1,0 +1,21 @@
+uuid: 508a8fd8-d91d-4d2a-945d-e926217ed621
+type: word-relation
+group_uuid: 17d7b560-6c83-53fe-a8e2-cf370986d82b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e53750e3-c5b3-4c97-8c33-46f87dbebb53
+  text: 斧
+  concept: AXE
+  concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+right:
+  word_uuid: e18be3a9-dda1-4644-8a2d-36bbd9522edc
+  text: 斤
+  concept: AXE
+  concept_uuid: 0df380f8-f4c4-45cc-bb63-2be16c5f912e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

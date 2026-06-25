@@ -1,0 +1,32 @@
+uuid: 0a0df45c-7798-49b3-8df4-5c779849b374
+type: word-relation
+group_uuid: 4970d2f8-8bf4-50f6-8051-57e7fbcb8a69
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_002-13a.4
+    textline: 則王法不撓矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 中說
+    line_id: KR3a0014_tls_002-13a.4
+    textline: 則王法不撓矣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T05:43:25.671+09:00'

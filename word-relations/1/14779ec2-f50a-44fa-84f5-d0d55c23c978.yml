@@ -1,0 +1,32 @@
+uuid: 14779ec2-f50a-44fa-84f5-d0d55c23c978
+type: word-relation
+group_uuid: 14779ec2-f50a-44fa-84f5-d0d55c23c978
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 96949525-3c8a-4d2a-a5f2-3fcdaa01d04c
+  text: 人主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 荀子
+    line_uuid: 367f3302-5734-47c2-82ac-d05d2122a507
+    line_id: KR3a0002_tls_011-1a.5
+    textline: 人主者
+    offset: 1
+    range: 2
+right:
+  word_uuid: 9ec45957-0619-4f24-a115-61ce76a9ae09
+  text: 匹夫
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 荀子
+    line_uuid: d40bb0c9-9d6c-470f-a1cb-9c0c0b7a026c
+    line_id: KR3a0002_tls_011-7a.4
+    textline: 匹夫者
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

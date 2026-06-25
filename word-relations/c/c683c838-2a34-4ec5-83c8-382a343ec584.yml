@@ -1,0 +1,32 @@
+uuid: c683c838-2a34-4ec5-83c8-382a343ec584
+type: word-relation
+group_uuid: c432489e-d46b-52a4-aff3-068bc3c87ecd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 15b1743c-cc20-495c-9f2a-dc3669f5e392
+  text: 秋
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_008-1a.3
+    textline: 悲哉秋之為氣也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_008-1a.3
+    textline: 悲哉秋之為氣也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T21:58:22.052+09:00'

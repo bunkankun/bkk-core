@@ -1,0 +1,21 @@
+uuid: 49f3f242-339d-4edd-87ea-c76777131bcb
+type: word-relation
+group_uuid: a86fca6e-5c3b-5fc1-bd23-a3a6a0a43cca
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 44dc6080-44f5-4446-ad27-6ae3db0d1c61
+  text: 計
+  concept: ASSESS
+  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+right:
+  word_uuid: 77e2a824-3a7b-47f8-b6b3-bede4b038c66
+  text: 料
+  concept: ASSESS
+  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

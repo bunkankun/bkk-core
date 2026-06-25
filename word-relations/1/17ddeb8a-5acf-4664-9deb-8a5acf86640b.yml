@@ -1,0 +1,32 @@
+uuid: 17ddeb8a-5acf-4664-9deb-8a5acf86640b
+type: word-relation
+group_uuid: ed28a246-7e69-5538-adf3-c16fb7648c5f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ce756123-3003-4ec2-8410-175eae159fc1
+  text: 苛
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_089-6a.15
+    textline: 重之以苛法峻刑
+    offset: 4
+    range: 1
+right:
+  word_uuid: 28b9f122-87f4-4f1a-8c77-1e31ca9f6403
+  text: 峻
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_089-6a.15
+    textline: 重之以苛法峻刑
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-19T21:53:59.395+09:00'

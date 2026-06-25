@@ -1,0 +1,32 @@
+uuid: 187816d1-abe8-4485-a28b-70b036ea37a6
+type: word-relation
+group_uuid: b585276f-3bdb-4e9a-a761-89e90beac4ec
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 論衡
+    line_uuid: b1dc7daa-d6b8-4a30-9d85-822ad721386f
+    line_id: KR3j0080_tls_007-2a.14
+    textline: 立以形體
+    offset: 3
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 論衡
+    line_uuid: b1dc7daa-d6b8-4a30-9d85-822ad721386f
+    line_id: KR3j0080_tls_007-2a.14
+    textline: 立以形體
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

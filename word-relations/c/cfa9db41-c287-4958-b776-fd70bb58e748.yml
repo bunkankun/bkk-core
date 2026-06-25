@@ -1,0 +1,31 @@
+uuid: cfa9db41-c287-4958-b776-fd70bb58e748
+type: word-relation
+group_uuid: cfa9db41-c287-4958-b776-fd70bb58e748
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 326f87d8-76cc-4c0c-8503-3875e02c5a3a
+  text: 奉
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 832acfe9-0be6-4f22-8dda-3969b23f3483
+    line_id: KR3c0005_tls_014-19a.5
+    textline: “我不以清廉方正奉法
+    offset: 9
+    range: 1
+right:
+  word_uuid: 15fa2582-96d0-40d4-969b-f1db21c36b75
+  text: 枉
+  concept: TWIST
+  concept_uuid: 715920da-ff4d-44c1-9419-fb08b87b5846
+  attestation:
+    text_title: 韓非子
+    line_uuid: b01e1b6a-fbc4-463f-916e-c1428d4fee99
+    textline: 乃以貪污之心枉法
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

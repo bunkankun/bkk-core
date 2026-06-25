@@ -1,0 +1,21 @@
+uuid: 8b6cd202-5ff2-4032-97a9-6bb779c3efc1
+type: word-relation
+group_uuid: 43137ce1-0c47-597f-ae20-16a162d30b54
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5b6f56ec-4ba2-42c1-bdd8-88f8a4c131b2
+  text: 就
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+right:
+  word_uuid: 4bc839d0-bebf-4490-948b-cacd6f06148d
+  text: 遂
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

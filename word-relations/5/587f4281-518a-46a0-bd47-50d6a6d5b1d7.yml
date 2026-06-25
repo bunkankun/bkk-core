@@ -1,0 +1,21 @@
+uuid: 587f4281-518a-46a0-bd47-50d6a6d5b1d7
+type: word-relation
+group_uuid: 2371b2d9-99ac-5405-80c0-d77a1d675972
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bb60f3af-cfd1-4cbb-a79d-57bbb70a0353
+  text: 從
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+right:
+  word_uuid: 8565f2fd-0454-4b6c-a9ce-8e0f96256fe0
+  text: 聽聽聼
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

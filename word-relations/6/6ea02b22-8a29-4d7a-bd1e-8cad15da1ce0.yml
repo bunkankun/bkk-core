@@ -1,0 +1,32 @@
+uuid: 6ea02b22-8a29-4d7a-bd1e-8cad15da1ce0
+type: word-relation
+group_uuid: 6ea02b22-8a29-4d7a-bd1e-8cad15da1ce0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9eab30e3-1b77-4866-addb-cb32c15ec792
+    line_id: KR3j0010_tls_011-11a.29
+    textline: 笑可哀者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 25b76420-da62-44ce-ad7b-70e85917e6cd
+  text: 哀
+  concept: GRIEF
+  concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9eab30e3-1b77-4866-addb-cb32c15ec792
+    line_id: KR3j0010_tls_011-11a.29
+    textline: 笑可哀者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

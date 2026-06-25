@@ -1,0 +1,32 @@
+uuid: 79e056da-550d-49ed-9644-ed38d749cc3f
+type: word-relation
+group_uuid: 79e056da-550d-49ed-9644-ed38d749cc3f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0386ceec-1b12-4cfc-995f-5721fccaa5ea
+  text: 闊
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 25993c63-3598-4175-8776-e8a74c75d99b
+    line_id: KR3j0009_tls_003-26a.17
+    textline: 闊大淵深
+    offset: 1
+    range: 1
+right:
+  word_uuid: 438a28a8-f431-4e86-b20f-7e0fca354de4
+  text: 大
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 25993c63-3598-4175-8776-e8a74c75d99b
+    line_id: KR3j0009_tls_003-26a.17
+    textline: 闊大淵深
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

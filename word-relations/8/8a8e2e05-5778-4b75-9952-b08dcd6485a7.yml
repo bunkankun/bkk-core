@@ -1,0 +1,21 @@
+uuid: 8a8e2e05-5778-4b75-9952-b08dcd6485a7
+type: word-relation
+group_uuid: 21331658-6d44-5094-9c5f-bbff402afc76
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 319f2a22-ec36-4a96-a94d-e97b1c9b8455
+  text: 瘠膌
+  concept: SLIM
+  concept_uuid: bf0d319b-e8d6-4cf8-a4c0-b6b79c762698
+right:
+  word_uuid: 0efb7a18-7246-44c9-8c15-35e1d01c2ad8
+  text: 肥
+  concept: FAT
+  concept_uuid: d1fe1333-ad06-4607-945c-1a9c64aba3ed
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 88a55016-bcf4-48f5-97c6-4d0e585cb1ce
+type: word-relation
+group_uuid: bda8aa0b-4f13-43f6-be64-560d982e5249
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 上博。緇衣
+    line_uuid: b6d32f6f-5dfc-47d6-bea1-21e422432769
+    textline: 民以君為心
+    offset: 5
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 上博。緇衣
+    line_uuid: 98bb82d8-4d35-4cc1-8f2b-b1b5ae77512c
+    textline: 君以民為體
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: deeff3e8-96c6-4e13-a35b-cfb07f4bb00f
+type: word-relation
+group_uuid: deeff3e8-96c6-4e13-a35b-cfb07f4bb00f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7d79f47e-2ce6-43fc-962f-1e68d0c58b57
+  text: 薄
+  concept: SLIGHTLY
+  concept_uuid: 04ab2f04-8e86-4176-b0ec-a40e3a6a7129
+  attestation:
+    text_title: 管子
+    line_uuid: c3c35c6c-f79e-4b24-bad4-580b833fedb9
+    line_id: KR3c0001_tls_001-153a.2
+    textline: 故薄施而厚責
+    offset: 2
+    range: 1
+right:
+  word_uuid: fc7d0481-9668-423f-9d97-12be85726a0c
+  text: 厚
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 管子
+    line_uuid: c3c35c6c-f79e-4b24-bad4-580b833fedb9
+    line_id: KR3c0001_tls_001-153a.2
+    textline: 故薄施而厚責
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

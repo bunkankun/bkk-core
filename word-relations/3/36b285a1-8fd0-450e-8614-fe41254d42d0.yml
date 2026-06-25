@@ -1,0 +1,33 @@
+uuid: 36b285a1-8fd0-450e-8614-fe41254d42d0
+type: word-relation
+group_uuid: f9b21f93-0d93-45e4-aaab-3780ac4d0dab
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 81179c21-ea3b-4040-9603-9874473f3e66
+  text: 慈
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 禮記
+    line_uuid: d0bb51c4-b268-46c7-b038-0f6d1bb6a534
+    textline: 民猶薄於孝而厚於慈
+    offset: 9
+    range: 1
+right:
+  word_uuid: 352e2ddc-e5b0-4cdd-9e5c-24a37ce8e50e
+  text: 孝
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 禮記
+    line_uuid: d0bb51c4-b268-46c7-b038-0f6d1bb6a534
+    textline: 民猶薄於孝而厚於慈
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

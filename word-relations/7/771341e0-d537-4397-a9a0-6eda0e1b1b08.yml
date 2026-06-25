@@ -1,0 +1,29 @@
+uuid: 771341e0-d537-4397-a9a0-6eda0e1b1b08
+type: word-relation
+group_uuid: ffd26e96-1acc-4fb0-844d-4a328c3fb96a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 59b6f1a6-a7b9-4742-930d-937be5b31e6c
+  text: 堂
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 孟子
+    line_uuid: e903814f-68ea-4e54-bfc9-89120f2cea21
+    textline: 「夫明堂者王者之堂也
+    range: 1
+right:
+  word_uuid: ffc1107d-020a-447b-bdb2-afa492522d78
+  text: 明
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+  attestation:
+    text_title: 孟子
+    line_uuid: e903814f-68ea-4e54-bfc9-89120f2cea21
+    textline: 「夫明堂者王者之堂也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

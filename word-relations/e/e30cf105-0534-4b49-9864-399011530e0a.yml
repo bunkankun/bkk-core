@@ -1,0 +1,32 @@
+uuid: e30cf105-0534-4b49-9864-399011530e0a
+type: word-relation
+group_uuid: eaa73045-2b02-49b3-a7f8-598ac5aef70d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 06ce3ac6-ff2f-4d41-baef-3eaf5f90f173
+  text: 燒
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: fa298459-88eb-4aa0-99b8-4acc33336c2b
+    line_id: KR3j0009_tls_007-22a.12
+    textline: 不燒積聚
+    offset: 2
+    range: 1
+right:
+  word_uuid: 69c817ac-9f51-4157-a6f0-8e70ebf0a1da
+  text: 焚
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bc933a96-a169-4457-ac5a-472679d47e5d
+    line_id: KR3j0009_tls_007-22a.13
+    textline: 不焚室屋
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

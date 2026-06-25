@@ -1,0 +1,32 @@
+uuid: 283e9b12-fbae-4e1a-b261-d7e2155f3be5
+type: word-relation
+group_uuid: 283e9b12-fbae-4e1a-b261-d7e2155f3be5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a609c631-fb04-43cd-bf69-374c020a2df7
+  text: 血
+  concept: BLOOD
+  concept_uuid: 30c7ee56-1df4-4e57-b2f5-29f1e7e1f9c2
+  attestation:
+    text_title: 論衡
+    line_uuid: 75f386bb-28e1-40c9-a3ac-1b441d06f7b0
+    line_id: KR3j0080_tls_004-4a.40
+    textline: 血氣不殊
+    offset: 1
+    range: 1
+right:
+  word_uuid: 58992b8a-43a9-446e-b917-8f823dcd2c31
+  text: 氣
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 論衡
+    line_uuid: 75f386bb-28e1-40c9-a3ac-1b441d06f7b0
+    line_id: KR3j0080_tls_004-4a.40
+    textline: 血氣不殊
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

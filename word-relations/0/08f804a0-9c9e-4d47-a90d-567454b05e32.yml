@@ -1,0 +1,32 @@
+uuid: 08f804a0-9c9e-4d47-a90d-567454b05e32
+type: word-relation
+group_uuid: 08f804a0-9c9e-4d47-a90d-567454b05e32
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4c533cea-d592-434a-a379-c56308fa321c
+  text: 恐
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: d76323e3-8d59-4a77-97c9-6e5293610408
+    line_id: KR3c0005_tls_008-36a.6
+    textline: 備危恐殆
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0f22730c-9b32-42d3-bc52-4972c748aaf7
+  text: 殆
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 韓非子
+    line_uuid: d76323e3-8d59-4a77-97c9-6e5293610408
+    line_id: KR3c0005_tls_008-36a.6
+    textline: 備危恐殆
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

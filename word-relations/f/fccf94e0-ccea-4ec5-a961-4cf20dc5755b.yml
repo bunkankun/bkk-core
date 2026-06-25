@@ -1,0 +1,32 @@
+uuid: fccf94e0-ccea-4ec5-a961-4cf20dc5755b
+type: word-relation
+group_uuid: fccf94e0-ccea-4ec5-a961-4cf20dc5755b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c0d152f5-533b-450b-a6d5-30bc5d407541
+  text: 事
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 法言
+    line_uuid: 38193479-e614-463f-9bd7-6dadf4498b1b
+    line_id: KR3a0009_tls_002-7a.5
+    textline: 君子事之為尚
+    offset: 3
+    range: 1
+right:
+  word_uuid: c8b5ac57-1325-484f-ad65-928a8e1008bb
+  text: 辭
+  concept: PROSE
+  concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+  attestation:
+    text_title: 法言
+    line_uuid: ae377784-be93-40c4-ad62-d6fd34e7a74f
+    line_id: KR3a0009_tls_002-7a.3
+    textline: 君子尚辭乎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 4999cf99-8f94-4c18-b59f-b1cb53fd873c
+type: word-relation
+group_uuid: 3409958d-991b-57ac-9cd3-d256c5ce1bc1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 48f9065e-d1fb-4c0f-ae90-65c8978c9fcf
+  text: 傲傲敖
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+right:
+  word_uuid: cc4796ef-a79e-4f5b-823a-bb4ac20b60e4
+  text: 慢
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

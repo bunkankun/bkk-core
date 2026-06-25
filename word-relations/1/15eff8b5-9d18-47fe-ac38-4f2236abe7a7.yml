@@ -1,0 +1,21 @@
+uuid: 15eff8b5-9d18-47fe-ac38-4f2236abe7a7
+type: word-relation
+group_uuid: cf961a68-fa48-53ce-b533-93720de356dc
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9958c013-7b8d-461b-b136-8a8309c255ed
+  text: 發
+  concept: ISSUE
+  concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+right:
+  word_uuid: f62a8007-3541-4a14-b7fc-407064b8732a
+  text: 由
+  concept: FROM
+  concept_uuid: a87e4fdd-1585-4e20-8966-8a62682256cf
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

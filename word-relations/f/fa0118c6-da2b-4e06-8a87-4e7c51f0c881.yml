@@ -1,0 +1,21 @@
+uuid: fa0118c6-da2b-4e06-8a87-4e7c51f0c881
+type: word-relation
+group_uuid: fc3e40f4-2f4d-5a1e-8c5b-6fd5ac504fb7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2de7e140-37ca-4428-b5fe-3daaf5ae114c
+  text: 垤
+  concept: HEAP
+  concept_uuid: d9dc605d-0a66-44b9-ade6-c24cf18fdc66
+right:
+  word_uuid: 5a9ad312-3b67-41c4-8200-efd309275fb1
+  text: 山
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

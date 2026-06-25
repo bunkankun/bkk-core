@@ -1,0 +1,32 @@
+uuid: 3bf27b28-b195-4b54-82bd-d80878ce8900
+type: word-relation
+group_uuid: 247427e0-0295-4261-80aa-0acf5427d237
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 04f4789c-1b1c-4077-87de-e89e1002f88a
+    line_id: KR3j0009_tls_024-29a.13
+    textline: 身必日榮
+    offset: 1
+    range: 1
+right:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1c1d5519-e828-4bfb-bdf7-6df9b1fcf629
+    line_id: KR3j0009_tls_024-29a.12
+    textline: 其家必日益
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

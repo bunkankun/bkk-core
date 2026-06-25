@@ -1,0 +1,18 @@
+uuid: 0f04df79-e3ba-42dc-aeec-ae849a6902ec
+type: word-relation
+group_uuid: 929e3000-0df6-5483-8b89-4c5e3fa2f288
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d7fa8c2d-ccc8-4282-a209-8d5ca3c69a71
+  text: 用
+  concept: EMPLOY
+  concept_uuid: 84e0808d-8a35-4cba-b8f9-c73a50261636
+right:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 捨舍
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+source:
+  source_file: word-relations.xml

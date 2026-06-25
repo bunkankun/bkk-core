@@ -1,0 +1,32 @@
+uuid: 12b01100-5d39-4748-80d9-a217b00b6b7a
+type: word-relation
+group_uuid: 12b01100-5d39-4748-80d9-a217b00b6b7a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d431d0c7-67cd-416d-9133-8a457975c4aa
+  text: 捷
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 98457d67-8add-4607-8fa3-8ed9923a4d11
+    line_id: KR3c0005_tls_003-5a.2
+    textline: 捷敏辯給
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3eb76d24-2da5-41fc-8ef2-435cc2b481c0
+  text: 敏
+  concept: SKILLFUL
+  concept_uuid: 07849c40-9af8-4740-ba37-5b5bc4653f06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 98457d67-8add-4607-8fa3-8ed9923a4d11
+    line_id: KR3c0005_tls_003-5a.2
+    textline: 捷敏辯給
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

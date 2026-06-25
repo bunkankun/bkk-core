@@ -1,0 +1,32 @@
+uuid: e0f0f10a-e254-4a3a-93d5-57eaaaa9511b
+type: word-relation
+group_uuid: e0f0f10a-e254-4a3a-93d5-57eaaaa9511b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8a0d9645-f785-4cdf-91e9-deb0b6391177
+  text: 飯
+  concept: FEED
+  concept_uuid: c2cfc239-1666-4ad0-b9ac-0e8fa9c0e9f9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f038c4fa-0c50-493d-a573-4bf342c1e0f6
+    line_id: KR3j0009_tls_002-14a.6
+    textline: 而自飯牛
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1e6222fa-3c15-46c3-9240-f5ea255eb6c0
+  text: 牛
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f038c4fa-0c50-493d-a573-4bf342c1e0f6
+    line_id: KR3j0009_tls_002-14a.6
+    textline: 而自飯牛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

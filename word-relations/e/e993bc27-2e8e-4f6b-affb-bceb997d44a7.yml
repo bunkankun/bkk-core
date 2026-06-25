@@ -1,0 +1,30 @@
+uuid: e993bc27-2e8e-4f6b-affb-bceb997d44a7
+type: word-relation
+group_uuid: e993bc27-2e8e-4f6b-affb-bceb997d44a7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 列女傳
+    line_uuid: c4058db0-48f3-4bf4-a27d-6cfff921ffa1
+    textline: 女子行丈夫心
+    offset: 3
+    range: 1
+right:
+  word_uuid: b25d0405-74aa-4440-a5a2-aa2d061dc726
+  text: 心
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 列女傳
+    line_uuid: c4058db0-48f3-4bf4-a27d-6cfff921ffa1
+    textline: 女子行丈夫心
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

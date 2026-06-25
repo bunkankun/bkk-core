@@ -1,0 +1,32 @@
+uuid: 0359f25e-1ef3-49f6-ba9a-bfb7ccb8f67b
+type: word-relation
+group_uuid: 9d0c71b7-1fae-4044-bd81-52b8f60543fe
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 論衡
+    line_uuid: 03d636f4-35ed-410b-b0cd-e452c831ac77
+    line_id: KR3j0080_tls_001-3a.26
+    textline: 至言難行也
+    offset: 2
+    range: 1
+right:
+  word_uuid: ba5e1fa7-a0f6-429d-aa1f-f50c4d4d3a01
+  text: 至
+  concept: PERFECT
+  concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+  attestation:
+    text_title: 論衡
+    line_uuid: 03d636f4-35ed-410b-b0cd-e452c831ac77
+    line_id: KR3j0080_tls_001-3a.26
+    textline: 至言難行也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

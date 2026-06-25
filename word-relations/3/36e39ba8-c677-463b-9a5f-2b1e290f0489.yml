@@ -1,0 +1,32 @@
+uuid: 36e39ba8-c677-463b-9a5f-2b1e290f0489
+type: word-relation
+group_uuid: 8478a5c9-a0d7-4723-b2c0-eb4212ba8804
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 老子
+    line_uuid: b6f7cc2b-0220-41f1-b8ee-b3f4d6a5f4fa
+    line_id: KR5c0057_tls_049-1a.15
+    textline: 聖人皆孩之
+    offset: 1
+    range: 2
+right:
+  word_uuid: 50ca1bc4-9f97-47cd-af0d-f5a55c7fce32
+  text: 百姓
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 老子
+    line_uuid: 84208463-b91f-44d3-88af-cb50deb29997
+    line_id: KR6r0138_CBETA_005-0121a0401.s3
+    textline: 百姓皆注其耳目
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

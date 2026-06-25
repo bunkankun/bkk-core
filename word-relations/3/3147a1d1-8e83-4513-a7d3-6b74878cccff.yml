@@ -1,0 +1,32 @@
+uuid: 3147a1d1-8e83-4513-a7d3-6b74878cccff
+type: word-relation
+group_uuid: 3147a1d1-8e83-4513-a7d3-6b74878cccff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 226d752a-e576-47d0-9f99-84e91e410df2
+  text: 群臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: 524123ea-20c0-4a8f-8214-6c7cf4d2e3db
+    line_id: KR3c0005_tls_013-7a.9
+    textline: 乃群臣士民之所禍也
+    offset: 2
+    range: 2
+right:
+  word_uuid: 35d3621c-6966-4264-8036-d930398ebe83
+  text: 士民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 524123ea-20c0-4a8f-8214-6c7cf4d2e3db
+    line_id: KR3c0005_tls_013-7a.9
+    textline: 乃群臣士民之所禍也
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

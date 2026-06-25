@@ -1,0 +1,30 @@
+uuid: 8591ba08-bbe7-4b04-b742-ec4c188ed033
+type: word-relation
+group_uuid: 8591ba08-bbe7-4b04-b742-ec4c188ed033
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dcf95b23-4892-4c93-bab4-4c1e21207c6a
+  text: 蜂
+  concept: BEE
+  concept_uuid: 9f93c4c3-828d-4695-9dd0-1a16e691a616
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ab5de0d-0fb0-4b84-af07-586538675436
+    textline: 蜂蠆之黨
+    offset: 1
+    range: 1
+right:
+  word_uuid: ae53cc33-6398-4a2e-977c-0b0b3600a6ea
+  text: 蠆
+  concept: INSECT
+  concept_uuid: b63836dd-3cd4-4685-93f6-2d6289316f99
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ab5de0d-0fb0-4b84-af07-586538675436
+    textline: 蜂蠆之黨
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 11513b7a-5091-4e92-a528-821a067fe7f8
+type: word-relation
+group_uuid: 11513b7a-5091-4e92-a528-821a067fe7f8
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 2e4d21fe-9524-4112-8670-c50ea1ce26cb
+  text: 啞
+  concept: DUMB
+  concept_uuid: bd2fb0c3-9ea9-4bd7-8841-9da413e46e49
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 8b37b5dd-11f6-4684-bc94-e5b7aff7c146
+    line_id: KR6b0059_T_010-0421b.14
+    textline: 啞語僂申
+    offset: 1
+    range: 1
+right:
+  word_uuid: a67ab7b1-849b-4c37-bb24-7aabc826c285
+  text: 語
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 賢愚經
+    line_uuid: 8b37b5dd-11f6-4684-bc94-e5b7aff7c146
+    line_id: KR6b0059_T_010-0421b.14
+    textline: 啞語僂申
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

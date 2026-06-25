@@ -1,0 +1,32 @@
+uuid: 497c2f31-7e0c-45c2-9d28-7af65fc91873
+type: word-relation
+group_uuid: a1ecf154-5648-4105-a925-e300e30f68d0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: 7d08c81d-13db-44d1-b3ad-14f88ea06ccf
+    line_id: KR2a0001_tls_010-574a.36
+    textline: 吾甚自愧
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: ff9859ee-f960-4bb8-b6b1-303640165b08
+    line_id: KR2a0001_tls_010-574a.35
+    textline: 非乃朕德薄而教不明歟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

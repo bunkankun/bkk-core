@@ -1,0 +1,32 @@
+uuid: f912c1e2-a6a1-4ef5-a553-0ec00137b707
+type: word-relation
+group_uuid: 6f025511-d688-4099-a13c-5ba8564e133d
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 873ad220-bc75-4590-9b35-b34c40b6288b
+    line_id: KR3j0009_tls_004-12a.25
+    textline: 故師必勝理行義然後尊
+    offset: 6
+    range: 1
+right:
+  word_uuid: aaa2807b-e572-4f35-b077-3447963a7c17
+  text: 義
+  concept: RECTITUDE
+  concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 873ad220-bc75-4590-9b35-b34c40b6288b
+    line_id: KR3j0009_tls_004-12a.25
+    textline: 故師必勝理行義然後尊
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

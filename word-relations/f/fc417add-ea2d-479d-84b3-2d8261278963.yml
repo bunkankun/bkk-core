@@ -1,0 +1,32 @@
+uuid: fc417add-ea2d-479d-84b3-2d8261278963
+type: word-relation
+group_uuid: fc417add-ea2d-479d-84b3-2d8261278963
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: fc1971fb-64e2-4439-b735-4e37ed6d3d4c
+  text: 約
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 論語
+    line_uuid: 431f2e0c-cf78-4a80-a6fa-588de4ad2867
+    line_id: KR1h0004_tls_007-31a.9
+    textline: 約而為泰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7794d2ec-2504-42bf-bf23-982ab636c3c8
+  text: 泰
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 論語
+    line_uuid: 431f2e0c-cf78-4a80-a6fa-588de4ad2867
+    line_id: KR1h0004_tls_007-31a.9
+    textline: 約而為泰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b445debd-05ed-4471-92c4-a07312e26c37
+type: word-relation
+group_uuid: b445debd-05ed-4471-92c4-a07312e26c37
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c3abe19b-beb6-4350-a2fb-6e8e6b1bd6f6
+  text: 立
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 論衡
+    line_uuid: 2035b83d-8007-47b2-8537-fdd1318e07e6
+    line_id: KR3j0080_tls_016-2a.3
+    textline: 多欲立奇造異
+    offset: 3
+    range: 1
+right:
+  word_uuid: fcdfdd91-1580-4d74-b184-51e5ac003478
+  text: 造
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 論衡
+    line_uuid: 2035b83d-8007-47b2-8537-fdd1318e07e6
+    line_id: KR3j0080_tls_016-2a.3
+    textline: 多欲立奇造異
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: 5d8f7e88-fa99-402f-a958-8ba6b214fc9e
+type: word-relation
+group_uuid: 33c075f0-6ab8-4901-a5c0-9b96bae7fdd0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6f011eae-6136-4810-9889-015a78f7756b
+  text: 疾
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 53e53233-e5a1-46f2-a922-d03960731144
+    line_id: KR3j0009_tls_003-17a.3
+    textline: 故疾病愈來
+    offset: 2
+    range: 1
+right:
+  word_uuid: 91b45a51-620c-4407-9b1a-48707e99449e
+  text: 病
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 53e53233-e5a1-46f2-a922-d03960731144
+    line_id: KR3j0009_tls_003-17a.3
+    textline: 故疾病愈來
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

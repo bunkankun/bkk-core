@@ -1,0 +1,32 @@
+uuid: 200f95c3-a143-4208-8e80-7296ad8d3b66
+type: word-relation
+group_uuid: 200f95c3-a143-4208-8e80-7296ad8d3b66
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 0ea0a71a-b772-493f-9407-382308107984
+  text: 去
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 韓非子
+    line_uuid: febce74c-a132-42d3-a3ec-fae4afac73ce
+    line_id: KR3c0005_tls_005-13a.2
+    textline: 去其智
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4bc1f34a-30bf-43a3-9b33-477c2b470239
+  text: 絕
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 韓非子
+    line_uuid: ae2fa1eb-9e0c-42c2-b6f7-ff74f21b469a
+    line_id: KR3c0005_tls_005-13a.3
+    textline: 絕其能
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 588042fc-f115-4040-9232-394c249c92d1
+type: word-relation
+group_uuid: 588042fc-f115-4040-9232-394c249c92d1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dd610641-8251-402a-8f69-b5c5d4e19244
+  text: 神
+  concept: SUPERNATURAL
+  concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+  attestation:
+    text_title: 論衡
+    line_uuid: 6b77159d-ef90-4095-876c-04c76dbaa551
+    line_id: KR3j0080_tls_009-3a.13
+    textline: 有神靈之命
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7d9d3dd4-bec3-49e0-9df6-1589ec4ced9c
+  text: 靈
+  concept: SUPERNATURAL
+  concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+  attestation:
+    text_title: 論衡
+    line_uuid: 6b77159d-ef90-4095-876c-04c76dbaa551
+    line_id: KR3j0080_tls_009-3a.13
+    textline: 有神靈之命
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

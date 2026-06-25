@@ -1,0 +1,32 @@
+uuid: e6ad3791-3bd1-4327-9b69-d05d5a54f8d0
+type: word-relation
+group_uuid: e6ad3791-3bd1-4327-9b69-d05d5a54f8d0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f3325d0f-a399-4535-90ec-b1bc692256f8
+  text: 鵝
+  concept: BIRDS
+  concept_uuid: 87f2c14f-3890-4762-b7f8-8f3381d49311
+  attestation:
+    text_title: 管子
+    line_uuid: ac18d095-037c-4d33-a47a-eeace6d6ec3d
+    line_id: KR3c0001_tls_024-150a.5
+    textline: 鵝鶩含餘粖
+    offset: 1
+    range: 1
+right:
+  word_uuid: b3213353-9256-4042-a17e-e7c2e74aeead
+  text: 鶩
+  concept: DUCK
+  concept_uuid: 6cc79a28-eefc-46cc-ac1a-2457f16676e2
+  attestation:
+    text_title: 管子
+    line_uuid: ac18d095-037c-4d33-a47a-eeace6d6ec3d
+    line_id: KR3c0001_tls_024-150a.5
+    textline: 鵝鶩含餘粖
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

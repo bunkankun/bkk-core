@@ -1,0 +1,32 @@
+uuid: 6ecd5052-c86b-444b-8cbd-b66b354f35d1
+type: word-relation
+group_uuid: 6ecd5052-c86b-444b-8cbd-b66b354f35d1
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4cfeecda-caf8-4465-9df1-0c9f11c2af06
+  text: 祭
+  concept: SACRIFICE
+  concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e2f7d367-d26e-4d08-a6af-7be4d9386ac5
+    line_id: KR3j0009_tls_005-28a.11
+    textline: 以祭上帝
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6ab2c334-d2c4-4968-a8b2-61434b317a68
+  text: 上帝
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e2f7d367-d26e-4d08-a6af-7be4d9386ac5
+    line_id: KR3j0009_tls_005-28a.11
+    textline: 以祭上帝
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

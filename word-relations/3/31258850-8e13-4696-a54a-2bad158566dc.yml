@@ -1,0 +1,32 @@
+uuid: 31258850-8e13-4696-a54a-2bad158566dc
+type: word-relation
+group_uuid: 31258850-8e13-4696-a54a-2bad158566dc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 70fd3080-5f77-4d9c-b7ae-a578bbb392a6
+  text: 脅
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 史記
+    line_uuid: 6a9c81c9-b93e-4082-a544-02631ad72da4
+    line_id: KR2a0001_tls_096-23a.15
+    textline: 復使人脅恐魏丞相
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8203cde9-65a1-4086-bc29-395980bcb9d1
+  text: 恐
+  concept: FRIGHTEN
+  concept_uuid: 199125e2-f122-463f-8884-b6c6ee5f698f
+  attestation:
+    text_title: 史記
+    line_uuid: 6a9c81c9-b93e-4082-a544-02631ad72da4
+    line_id: KR2a0001_tls_096-23a.15
+    textline: 復使人脅恐魏丞相
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

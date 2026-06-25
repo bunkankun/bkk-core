@@ -1,0 +1,32 @@
+uuid: 9bce9b37-f29e-4c28-9537-b93ebcfc5019
+type: word-relation
+group_uuid: 9bce9b37-f29e-4c28-9537-b93ebcfc5019
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 31764882-9ab7-4559-83ed-7635ffffe8b1
+  text: 述
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+  attestation:
+    text_title: 論語
+    line_uuid: f8099361-4350-4cb2-a616-14297a2f179d
+    line_id: KR1h0004_tls_007-1a.4
+    textline: 「述而不作
+    offset: 2
+    range: 1
+right:
+  word_uuid: d8f152ff-e0f2-48bb-a9f3-f357b441348b
+  text: 作
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 論語
+    line_uuid: f8099361-4350-4cb2-a616-14297a2f179d
+    line_id: KR1h0004_tls_007-1a.4
+    textline: 「述而不作
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

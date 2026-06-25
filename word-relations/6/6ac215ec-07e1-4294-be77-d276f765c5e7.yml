@@ -1,0 +1,32 @@
+uuid: 6ac215ec-07e1-4294-be77-d276f765c5e7
+type: word-relation
+group_uuid: 8c02cfc7-c0b6-4450-a6d9-8da6072b6660
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 老子
+    line_uuid: d617c981-e83d-44cf-bff4-0c99c6463b7e
+    line_id: KR5c0057_tls_057-1a.19
+    textline: 我好靜
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 老子
+    line_uuid: 4c052b86-549c-4d32-add5-c08be5888375
+    line_id: KR5c0057_tls_057-1a.20
+    textline: 而民自正
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

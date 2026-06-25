@@ -1,0 +1,32 @@
+uuid: 11a3f874-5179-4912-8ae2-75f90e6c6e4d
+type: word-relation
+group_uuid: 11a3f874-5179-4912-8ae2-75f90e6c6e4d
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 99b90363-4722-4ea8-84c5-59427a69a5bd
+  text: 為
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 管子
+    line_uuid: 37aea04a-1a10-4cdb-8fe1-baef96131975
+    line_id: KR3c0001_tls_001-15a.2
+    textline: 不為不可成
+    offset: 2
+    range: 1
+right:
+  word_uuid: 97fe5e79-b619-4b4b-b3da-d4265e7ac5a9
+  text: 成
+  concept: SUCCEED
+  concept_uuid: cc3a2279-b740-414f-90be-090ca093384b
+  attestation:
+    text_title: 管子
+    line_uuid: 37aea04a-1a10-4cdb-8fe1-baef96131975
+    line_id: KR3c0001_tls_001-15a.2
+    textline: 不為不可成
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

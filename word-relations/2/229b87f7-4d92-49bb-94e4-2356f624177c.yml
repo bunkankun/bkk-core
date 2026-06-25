@@ -1,0 +1,21 @@
+uuid: 229b87f7-4d92-49bb-94e4-2356f624177c
+type: word-relation
+group_uuid: ed3922e4-226d-52e9-be3e-311f512ac979
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 90b4a8b3-74d9-4edc-b267-6f8a74ebd334
+  text: 恆恆恒
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

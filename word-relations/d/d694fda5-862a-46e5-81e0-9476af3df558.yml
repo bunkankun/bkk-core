@@ -1,0 +1,34 @@
+uuid: d694fda5-862a-46e5-81e0-9476af3df558
+type: word-relation
+group_uuid: 78a8d0bc-aa85-4523-9dd5-566004584980
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 31dd9d64-4acd-49a6-8b1f-635bff504a22
+  text: 入
+  concept: BE AT HOME
+  concept_uuid: d54ee83d-bcf5-44c0-8ac1-66ee701ab3b3
+  attestation:
+    text_title: 論語
+    line_uuid: dfa09799-ee29-4fcc-a7e4-9cea2b02cea9
+    line_id: KR1h0004_tls_001-6a.4
+    textline: 入則孝
+    offset: 1
+    range: 1
+right:
+  word_uuid: a118a503-92d3-4aa0-b967-bf03c0805def
+  text: 出
+  concept: AWAY
+  concept_uuid: 8364b0bd-096f-41e2-8c67-21e23a1fbf8a
+  attestation:
+    text_title: 論語
+    line_uuid: 261b4646-1ba6-4a75-a144-f3f9a86d8316
+    textline: 出則弟
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

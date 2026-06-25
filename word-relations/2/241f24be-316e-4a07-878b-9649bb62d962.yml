@@ -1,0 +1,30 @@
+uuid: 241f24be-316e-4a07-878b-9649bb62d962
+type: word-relation
+group_uuid: bc7554fb-0ddf-4d0b-a4be-afb9e0b73f1d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 248f5330-ec10-4168-9889-f86c2717ad56
+    textline: 肆予大化誘我友君
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 248f5330-ec10-4168-9889-f86c2717ad56
+    textline: 肆予大化誘我友君
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

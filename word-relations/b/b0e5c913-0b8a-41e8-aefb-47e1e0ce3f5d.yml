@@ -1,0 +1,32 @@
+uuid: b0e5c913-0b8a-41e8-aefb-47e1e0ce3f5d
+type: word-relation
+group_uuid: b0e5c913-0b8a-41e8-aefb-47e1e0ce3f5d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 7fdc635e-d19e-4e94-9433-d2866178ec93
+  text: 母
+  concept: MOTHER
+  concept_uuid: 6f50b684-53b3-4f58-8a37-8f47a0a49243
+  attestation:
+    text_title: 老子
+    line_uuid: 672a95c8-0463-4df4-b4a1-56936a778e34
+    line_id: KR5c0057_tls_052-1a.5
+    textline: 既得其母
+    offset: 4
+    range: 1
+right:
+  word_uuid: c8db65b9-7001-4baa-a932-ed8322e242e7
+  text: 子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 老子
+    line_uuid: 595e87ce-c727-4ffc-83ff-e4b664bb8b40
+    line_id: KR5c0057_tls_052-1a.6
+    textline: 以知其子
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

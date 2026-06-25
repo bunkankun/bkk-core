@@ -1,0 +1,30 @@
+uuid: 598ccfe9-851c-4f66-8ccf-e9851c0f662f
+type: word-relation
+group_uuid: 58a59c4a-c153-5a11-b239-c930a460d7a7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.26
+    textline: 背天意而從欲
+    offset: 6
+    range: 1
+right:
+  word_uuid: b6483341-7bb0-41e3-bc25-d382e7c1034a
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 漢書
+    line_id: swl-select
+    offset: 10
+    range: 0
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:49:28.056+09:00'

@@ -1,0 +1,30 @@
+uuid: ede4d993-9d28-4ed3-a64e-f0c99311041f
+type: word-relation
+group_uuid: ede4d993-9d28-4ed3-a64e-f0c99311041f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0da12c3-1276-4f7a-9ef6-571df12f500c
+  text: 巫
+  concept: SHAMAN
+  concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+  attestation:
+    text_title: 管子
+    line_uuid: b0021ca3-efaa-4f1c-8e43-614bf4d2230e
+    textline: 好用巫醫
+    offset: 3
+    range: 1
+right:
+  word_uuid: f6e7d579-229d-4316-bdf8-9ffad71122c9
+  text: 醫
+  concept: PHYSICIAN
+  concept_uuid: 4f3f44a0-2d10-4b09-ac7e-24e804772157
+  attestation:
+    text_title: 管子
+    line_uuid: b0021ca3-efaa-4f1c-8e43-614bf4d2230e
+    textline: 好用巫醫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

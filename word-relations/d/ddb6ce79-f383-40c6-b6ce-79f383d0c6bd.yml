@@ -1,0 +1,32 @@
+uuid: ddb6ce79-f383-40c6-b6ce-79f383d0c6bd
+type: word-relation
+group_uuid: 0bbb5526-3b91-5c33-aac2-07af303e78db
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_004-24a.21
+    textline: 故湛於巧智
+    offset: 4
+    range: 1
+right:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_004-24a.21
+    textline: 故湛於巧智
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-17T18:14:31.862+09:00'

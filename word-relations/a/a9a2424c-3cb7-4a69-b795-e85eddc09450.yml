@@ -1,0 +1,31 @@
+uuid: a9a2424c-3cb7-4a69-b795-e85eddc09450
+type: word-relation
+group_uuid: b31f94f2-0a2c-4a0c-aace-b281560ec942
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 817b6ef7-c3b4-48e8-8401-33ebf36b727f
+    line_id: KR1h0004_tls_005-14a.4
+    textline: 吾亦欲無加諸人
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: eb4736d7-1524-4711-958a-0d1f3be6c3b0
+    line_id: KR1h0004_tls_005-14a.3
+    textline: 「我不欲人之加諸我也
+    range: 1
+source:
+  source_file: word-relations.xml

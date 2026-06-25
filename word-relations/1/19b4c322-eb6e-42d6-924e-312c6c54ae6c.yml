@@ -1,0 +1,21 @@
+uuid: 19b4c322-eb6e-42d6-924e-312c6c54ae6c
+type: word-relation
+group_uuid: 0acb84e5-db21-5515-a29e-98d265115057
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 13db392c-2d54-45d4-9af4-c29fc15baa44
+  text: 不肖
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+right:
+  word_uuid: a692659b-14c0-4ade-a433-439d2a3d9279
+  text: 德
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

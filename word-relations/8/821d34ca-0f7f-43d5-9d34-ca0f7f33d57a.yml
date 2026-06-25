@@ -1,0 +1,32 @@
+uuid: 821d34ca-0f7f-43d5-9d34-ca0f7f33d57a
+type: word-relation
+group_uuid: 297734e3-0064-576b-9662-758d6c9dd55b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c9ce379d-b124-4e9e-ae21-8305ac15798d
+  text: 刑
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_014-28a.18
+    textline: 禮樂 刑法 政俗
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_014-28a.18
+    textline: 禮樂 刑法 政俗
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-15T20:19:03.812+09:00'

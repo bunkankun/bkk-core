@@ -1,0 +1,32 @@
+uuid: 313d24ae-c8eb-4450-9e2e-88697d6e9499
+type: word-relation
+group_uuid: 313d24ae-c8eb-4450-9e2e-88697d6e9499
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: cd209de1-5846-4964-a9ef-bdcf48d2fa3e
+  text: 殺戮
+  concept: EXECUTE
+  concept_uuid: 1f8c72e2-a5ea-47a4-af5e-7883986f8303
+  attestation:
+    text_title: 韓非子
+    line_uuid: f83787a1-e51f-4494-938a-be5174a0e870
+    line_id: KR3c0005_tls_007-7a.6
+    textline: 殺戮刑罰者
+    offset: 1
+    range: 2
+right:
+  word_uuid: 26f8747e-c133-4f2c-bafc-cd34a39d415d
+  text: 刑罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: f83787a1-e51f-4494-938a-be5174a0e870
+    line_id: KR3c0005_tls_007-7a.6
+    textline: 殺戮刑罰者
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

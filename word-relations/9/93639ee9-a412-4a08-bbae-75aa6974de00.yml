@@ -1,0 +1,21 @@
+uuid: 93639ee9-a412-4a08-bbae-75aa6974de00
+type: word-relation
+group_uuid: 2f0ace57-cb43-5dd3-b073-3d758142e412
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7ac154ea-929e-4748-9f51-62e2cb8259a1
+  text: 豐酆
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+right:
+  word_uuid: 70f090e4-9e7f-4950-871e-2de1ed29dc3a
+  text: 虧
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

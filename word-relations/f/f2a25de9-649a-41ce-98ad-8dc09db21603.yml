@@ -1,0 +1,32 @@
+uuid: f2a25de9-649a-41ce-98ad-8dc09db21603
+type: word-relation
+group_uuid: c5cc5466-a07a-4285-83c7-115a137472c4
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 孟子
+    line_uuid: bc255a03-abe9-4c00-819f-aa35701391e7
+    line_id: KR1h0001_tls_001-9a.1
+    textline: 則無望民之多於鄰國也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 11c38c6a-361f-4e4f-9c0f-bafd091af9a6
+  text: 鄰
+  concept: NEIGHBOUR
+  concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+  attestation:
+    text_title: 孟子
+    line_uuid: bc255a03-abe9-4c00-819f-aa35701391e7
+    line_id: KR1h0001_tls_001-9a.1
+    textline: 則無望民之多於鄰國也
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

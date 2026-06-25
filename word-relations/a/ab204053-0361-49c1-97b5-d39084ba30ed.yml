@@ -1,0 +1,31 @@
+uuid: ab204053-0361-49c1-97b5-d39084ba30ed
+type: word-relation
+group_uuid: ab204053-0361-49c1-97b5-d39084ba30ed
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 管子
+    line_uuid: 2560fefd-f90a-46d1-875d-edca6deb6b78
+    textline: 巨錢（吾賤）而天下貴
+    offset: 10
+    range: 1
+right:
+  word_uuid: 144bb688-aca8-4ea8-8480-7cccda6967fd
+  text: 虜
+  concept: SLAVE
+  concept_uuid: 5d1aad28-450c-4d55-9efd-ff4af33e1060
+  attestation:
+    text_title: 管子
+    line_uuid: 7bbc2cf0-6699-4682-b093-de9edc18e1ec
+    line_id: KR3c0001_tls_023-28a.5
+    textline: 然則吾民常為天下虜矣
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

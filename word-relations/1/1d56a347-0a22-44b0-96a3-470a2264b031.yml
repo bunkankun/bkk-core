@@ -1,0 +1,32 @@
+uuid: 1d56a347-0a22-44b0-96a3-470a2264b031
+type: word-relation
+group_uuid: d0af796a-57f9-50bb-8ae7-08a5ae51e641
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 46048a14-cb1c-495a-b50a-6353625243cd
+  text: 縣
+  concept: HANG
+  concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+  attestation:
+    text_title: 周禮
+    line_id: KR1d0001_tls_005-68a.14
+    textline: 以時脩其縣法
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 周禮
+    line_id: KR1d0001_tls_005-68a.14
+    textline: 以時脩其縣法
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T19:20:49.85+09:00'

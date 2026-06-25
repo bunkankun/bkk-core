@@ -1,0 +1,21 @@
+uuid: 65efb0bb-f5f3-43fd-817f-6440c1e58908
+type: word-relation
+group_uuid: ad535a1f-1973-5238-ae17-8329aad44fb6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6abf9878-d322-417b-b607-6abab093647b
+  text: 盡
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+right:
+  word_uuid: 49a8a0b0-b25d-43a7-9329-14c91e11b225
+  text: 索
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

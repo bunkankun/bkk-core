@@ -1,0 +1,32 @@
+uuid: 1941f334-ffa8-4a49-81f3-34ffa83a4918
+type: word-relation
+group_uuid: 3f2198d4-7925-5e17-a31a-b50532347255
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 497e02ff-17d7-47e7-be02-ff17d787e76b
+  text: 員
+  concept: ROUND
+  concept_uuid: 11aec024-937d-4ac6-a54d-a20ffa8ae3d4
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.18
+    textline: 是猶持方柄而周員鑿也
+    offset: 8
+    range: 1
+right:
+  word_uuid: af019603-1f72-4dcd-906f-23439a376067
+  text: 方
+  concept: SQUARE
+  concept_uuid: ff492103-d171-4ff2-bea1-70c36deb3067
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.18
+    textline: 是猶持方柄而周員鑿也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-06T17:05:47.972+09:00'

@@ -1,0 +1,32 @@
+uuid: 7ac87228-c816-48ad-bf35-4f1526ecdb98
+type: word-relation
+group_uuid: 6c90f354-ccb0-4666-9549-c3077830fb85
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ac6f2559-a637-4a23-beba-e5c2939faee8
+  text: 離
+  concept: SCATTER
+  concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+  attestation:
+    text_title: 孟子
+    line_uuid: 209a9397-aea1-4d74-90dd-a0a0a8ce412a
+    line_id: KR1h0001_tls_001-20a.6
+    textline: 兄弟妻子離散
+    offset: 5
+    range: 1
+right:
+  word_uuid: f795b649-a031-4f3f-9465-b4f00ecf16f9
+  text: 散
+  concept: SCATTER
+  concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+  attestation:
+    text_title: 孟子
+    line_uuid: 209a9397-aea1-4d74-90dd-a0a0a8ce412a
+    line_id: KR1h0001_tls_001-20a.6
+    textline: 兄弟妻子離散
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

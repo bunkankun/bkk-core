@@ -1,0 +1,32 @@
+uuid: b058dada-3421-4ad0-aa35-a5f6813f6bb0
+type: word-relation
+group_uuid: 4c15e8c0-707f-4c1d-8a15-ff74e5cf6b61
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: c3b88154-40d2-4132-b07a-c75869418841
+    line_id: KR1e0001_tls_009-723a.10
+    textline: 「君子有遠慮
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3520b67a-1f19-46e4-b91e-6f9b50d88198
+  text: 邇
+  concept: NEAR
+  concept_uuid: dc83b43b-a977-4566-92b5-33c421e80029
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: adb011b5-ca38-477d-bef2-db22b1d7cf51
+    line_id: KR1e0001_tls_009-723a.11
+    textline: 小人從邇
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

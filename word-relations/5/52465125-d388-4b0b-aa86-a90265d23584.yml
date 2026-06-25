@@ -1,0 +1,21 @@
+uuid: 52465125-d388-4b0b-aa86-a90265d23584
+type: word-relation
+group_uuid: fcadc789-3205-58e4-bbc9-e0ac46056f23
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1c4231c6-29e4-4a1c-a2c8-00ea88320d40
+  text: 多
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+right:
+  word_uuid: 48305d34-1a35-4f6c-90d8-8501f72ce08d
+  text: 彌
+  concept: MORE
+  concept_uuid: 956a0ca7-c08b-4a3b-82e6-5284c78770ae
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

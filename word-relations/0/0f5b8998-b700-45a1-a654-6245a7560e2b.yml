@@ -1,0 +1,32 @@
+uuid: 0f5b8998-b700-45a1-a654-6245a7560e2b
+type: word-relation
+group_uuid: 0f5b8998-b700-45a1-a654-6245a7560e2b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 098a20fc-0353-4fa1-a157-37b555e5ab7d
+  text: 保
+  concept: CERTAIN
+  concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+  attestation:
+    text_title: 論衡
+    line_uuid: be7b9f9d-f334-46c6-80e9-daa2673e5482
+    line_id: KR3j0080_tls_003-1a.38
+    textline: 未必保其必富貴
+    offset: 3
+    range: 1
+right:
+  word_uuid: de58e701-aabb-4470-9236-5c060652135d
+  text: 信
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 論衡
+    line_uuid: 5e1ba892-f639-4862-abdd-f11175d4540d
+    line_id: KR3j0080_tls_003-1a.40
+    textline: 未可信其必貧賤
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

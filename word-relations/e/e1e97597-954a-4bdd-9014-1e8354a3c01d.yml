@@ -1,0 +1,18 @@
+uuid: e1e97597-954a-4bdd-9014-1e8354a3c01d
+type: word-relation
+group_uuid: b1fd4d3b-82c8-5f03-bcec-60df3a1c96e7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 003325fc-2ead-4512-92a0-394535f02a5d
+  text: 貪
+  concept: GREEDY
+  concept_uuid: d8800b85-e8cc-4ebc-9e4a-40eecbe350d2
+right:
+  word_uuid: 8f95b689-d273-4673-97bd-26b44c51a9b8
+  text: 漁
+  concept: ROB
+  concept_uuid: 54308afc-6d8a-4aad-9aad-87e1e76d022b
+source:
+  source_file: word-relations.xml

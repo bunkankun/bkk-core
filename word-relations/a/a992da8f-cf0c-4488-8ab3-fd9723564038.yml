@@ -1,0 +1,32 @@
+uuid: a992da8f-cf0c-4488-8ab3-fd9723564038
+type: word-relation
+group_uuid: f494a299-2d23-4247-9090-2425d061167f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 49846acd-a1d5-4936-9796-b073d1419b49
+    line_id: KR3c0005_tls_007-9a.4
+    textline: 子罕徒用刑
+    offset: 5
+    range: 1
+right:
+  word_uuid: 5b5da254-0a51-4e64-9a24-b429ca6c3087
+  text: 德
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78b80809-4012-48a9-af11-070a41d8f99d
+    line_id: KR3c0005_tls_007-9a.2
+    textline: 田常徒用德
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

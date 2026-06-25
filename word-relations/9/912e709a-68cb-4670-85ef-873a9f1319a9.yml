@@ -1,0 +1,32 @@
+uuid: 912e709a-68cb-4670-85ef-873a9f1319a9
+type: word-relation
+group_uuid: 912e709a-68cb-4670-85ef-873a9f1319a9
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 233df6d2-e94c-4952-a34f-c524ac730483
+  text: 危
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61f36e1d-39ce-4471-97d0-7dde32635001
+    line_id: KR3c0005_tls_008-12a.9
+    textline: 其國危亡
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61f36e1d-39ce-4471-97d0-7dde32635001
+    line_id: KR3c0005_tls_008-12a.9
+    textline: 其國危亡
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

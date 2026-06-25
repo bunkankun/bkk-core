@@ -1,0 +1,32 @@
+uuid: 11362b87-74de-4f86-a3d3-f5bc5f59ca1e
+type: word-relation
+group_uuid: 11362b87-74de-4f86-a3d3-f5bc5f59ca1e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9a169d03-0da2-40b1-9619-2d891e9e6347
+  text: 漏
+  concept: LEAK
+  concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7bd23c6a-e825-4cba-a55d-adc3679aebe6
+    line_id: KR3c0005_tls_015-7a.3
+    textline: 漏泄而無藏
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5ccffb44-3605-49c0-8c9d-cf216fe228d5
+  text: 泄
+  concept: LEAK
+  concept_uuid: e0d8f7e5-3de5-4424-8143-7891f2f08701
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7bd23c6a-e825-4cba-a55d-adc3679aebe6
+    line_id: KR3c0005_tls_015-7a.3
+    textline: 漏泄而無藏
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

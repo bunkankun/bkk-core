@@ -1,0 +1,33 @@
+uuid: f32e13db-1ae3-41e4-954e-e1a572a749f2
+type: word-relation
+group_uuid: f32e13db-1ae3-41e4-954e-e1a572a749f2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4ae0d95c-0002-4a0e-8367-c13d80161234
+  text: 皮
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5cd37181-2551-4ac7-a972-dab024b680b9
+    textline: 皮革齒牙骨角毛羽不登於器
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9e100f6d-aeac-4c83-8845-931f9169aa2a
+  text: 革
+  concept: LEATHER
+  concept_uuid: f5ec67c7-9094-410c-a3fc-9514ba62816a
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5cd37181-2551-4ac7-a972-dab024b680b9
+    textline: 皮革齒牙骨角毛羽不登於器
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

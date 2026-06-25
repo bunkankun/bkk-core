@@ -1,0 +1,30 @@
+uuid: 2335afaa-9d58-4f74-abaa-07d070a8623a
+type: word-relation
+group_uuid: 2335afaa-9d58-4f74-abaa-07d070a8623a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e549eea3-8009-40e0-afe8-ee8070ff390b
+  text: 券
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+  attestation:
+    text_title: 慎到
+    line_uuid: af5dbf7c-fa64-4479-b3cf-611947bade14
+    textline: 折券契
+    offset: 2
+    range: 1
+right:
+  word_uuid: 38552fbc-fc8f-455d-897a-d7a017f342c0
+  text: 契
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+  attestation:
+    text_title: 慎到
+    line_uuid: af5dbf7c-fa64-4479-b3cf-611947bade14
+    textline: 折券契
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

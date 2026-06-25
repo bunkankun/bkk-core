@@ -1,0 +1,32 @@
+uuid: 073a9770-882b-4340-8001-ec00c533ceab
+type: word-relation
+group_uuid: 073a9770-882b-4340-8001-ec00c533ceab
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: df6c85af-d09b-40d7-a837-e0e9063afca8
+  text: 罼
+  concept: NET
+  concept_uuid: bfa67505-49aa-4a49-8614-3b1e80fa8b5f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7acf95af-c921-483e-91de-cef0028e4111
+    line_id: KR3j0009_tls_003-5a.11
+    textline: 田獵罼弋
+    offset: 3
+    range: 1
+right:
+  word_uuid: d8624569-71e1-4ad3-81c5-3ff758192895
+  text: 弋
+  concept: ARCHERY
+  concept_uuid: 7dc4196a-d4e9-48ab-9f3a-3cec77f2b637
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7acf95af-c921-483e-91de-cef0028e4111
+    line_id: KR3j0009_tls_003-5a.11
+    textline: 田獵罼弋
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

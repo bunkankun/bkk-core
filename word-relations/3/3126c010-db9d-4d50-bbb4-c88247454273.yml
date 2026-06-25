@@ -1,0 +1,32 @@
+uuid: 3126c010-db9d-4d50-bbb4-c88247454273
+type: word-relation
+group_uuid: 3126c010-db9d-4d50-bbb4-c88247454273
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67b2daa8-1426-4243-91d1-1760704a6abf
+  text: 羽
+  concept: FEATHER
+  concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+  attestation:
+    text_title: 禮記
+    line_uuid: 270d1328-fa32-4a44-af03-d6f5480c9be6
+    line_id: KR1d0052_tls_009-6a.1
+    textline: 衣其羽皮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4ae0d95c-0002-4a0e-8367-c13d80161234
+  text: 皮
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 禮記
+    line_uuid: 270d1328-fa32-4a44-af03-d6f5480c9be6
+    line_id: KR1d0052_tls_009-6a.1
+    textline: 衣其羽皮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

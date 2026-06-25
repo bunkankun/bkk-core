@@ -1,0 +1,32 @@
+uuid: fed84dcb-6181-4ebd-9fef-6011436c2df9
+type: word-relation
+group_uuid: fed84dcb-6181-4ebd-9fef-6011436c2df9
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 119ee334-43f2-4478-8fa7-7972d5541700
+  text: 偉
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+  attestation:
+    text_title: 管子
+    line_uuid: a46876a4-432f-45ab-b94d-5f2ec97294c8
+    line_id: KR3c0001_tls_015-44a.6
+    textline: 無偉服
+    offset: 2
+    range: 1
+right:
+  word_uuid: 25600d18-0efe-43a2-9efd-4988fb58d013
+  text: 奇
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+  attestation:
+    text_title: 管子
+    line_uuid: 22d10418-f6b3-451b-ab0d-9e4dd3db8908
+    line_id: KR3c0001_tls_015-44a.7
+    textline: 無奇行
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

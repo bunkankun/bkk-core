@@ -1,0 +1,21 @@
+uuid: 4f861567-59ae-47d6-8780-bcde62d0651f
+type: word-relation
+group_uuid: 01d0dfbd-7ce2-5ae0-96d8-e6db78e2d520
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b9244375-00b8-4987-bee0-b571daedd370
+  text: 精
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+right:
+  word_uuid: e2528583-3c4e-4ecb-9532-fa6ed540f5e1
+  text: 微
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

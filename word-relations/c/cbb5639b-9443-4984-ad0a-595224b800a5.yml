@@ -1,0 +1,32 @@
+uuid: cbb5639b-9443-4984-ad0a-595224b800a5
+type: word-relation
+group_uuid: 0388e1c6-1470-4dad-8ae5-84263224ca3f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 646b0bfc-62ee-43a7-bbad-58814a966f55
+  text: 效
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: 7cd755ea-91bd-452e-9aea-3941d4526cfd
+    line_id: KR3j0080_tls_023-8a.27
+    textline: 何怒罰有效
+    offset: 5
+    range: 1
+right:
+  word_uuid: 9f102487-1f81-404a-a918-320c1052ebd9
+  text: 驗
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+  attestation:
+    text_title: 論衡
+    line_uuid: 58f61ab0-0889-40cc-88bf-81f6671726df
+    line_id: KR3j0080_tls_023-9a.1
+    textline: 喜賞無驗也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

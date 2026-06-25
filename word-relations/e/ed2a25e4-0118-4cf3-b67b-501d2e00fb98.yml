@@ -1,0 +1,32 @@
+uuid: ed2a25e4-0118-4cf3-b67b-501d2e00fb98
+type: word-relation
+group_uuid: 163370d2-9382-4ec2-be60-31589df1220d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 35315462-2b98-4759-932b-68ed0d7c5cd7
+  text: 劍
+  concept: SWORD
+  concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+  attestation:
+    text_title: 論衡
+    line_uuid: 0a612de5-629b-43a0-8f35-95cbc7f7f0e8
+    line_id: KR3j0080_tls_006-10a.18
+    textline: 當劍戟之鋒
+    offset: 2
+    range: 1
+right:
+  word_uuid: 985b5cd1-610f-4bf8-bda4-cef7059ef428
+  text: 戟
+  concept: LANCE
+  concept_uuid: c9f5fe29-3c76-4bd2-9f55-6342a7152b04
+  attestation:
+    text_title: 論衡
+    line_uuid: 0a612de5-629b-43a0-8f35-95cbc7f7f0e8
+    line_id: KR3j0080_tls_006-10a.18
+    textline: 當劍戟之鋒
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

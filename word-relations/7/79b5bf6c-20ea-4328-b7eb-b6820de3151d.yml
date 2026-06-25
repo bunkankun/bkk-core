@@ -1,0 +1,32 @@
+uuid: 79b5bf6c-20ea-4328-b7eb-b6820de3151d
+type: word-relation
+group_uuid: 79b5bf6c-20ea-4328-b7eb-b6820de3151d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a05ef61f-bc13-49d0-bdc9-8212f1fdafa4
+  text: 肌
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8c80ef6e-32d5-41e9-bda0-4b695617d73a
+    line_id: KR3j0009_tls_003-26a.47
+    textline: 集肌膚
+    offset: 2
+    range: 1
+right:
+  word_uuid: 34ab70f6-c3e9-4ba5-93d2-4478c0e828e3
+  text: 膚
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8c80ef6e-32d5-41e9-bda0-4b695617d73a
+    line_id: KR3j0009_tls_003-26a.47
+    textline: 集肌膚
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

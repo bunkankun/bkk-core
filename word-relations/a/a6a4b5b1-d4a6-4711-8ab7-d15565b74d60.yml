@@ -1,0 +1,30 @@
+uuid: a6a4b5b1-d4a6-4711-8ab7-d15565b74d60
+type: word-relation
+group_uuid: c332cd25-0e1c-4935-afa6-ac9949503321
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: a4a51cd1-291b-4693-862c-ecd7ef0675a0
+    textline: 文行忠信
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: a4a51cd1-291b-4693-862c-ecd7ef0675a0
+    textline: 文行忠信
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

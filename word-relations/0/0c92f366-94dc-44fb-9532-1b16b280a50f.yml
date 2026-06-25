@@ -1,0 +1,21 @@
+uuid: 0c92f366-94dc-44fb-9532-1b16b280a50f
+type: word-relation
+group_uuid: 5e443732-e44e-5940-9535-db71cb73459e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 94f9f21b-56e6-4905-8d5e-a12158b69b5a
+  text: 北
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+right:
+  word_uuid: effc091f-8ecf-408b-9f78-8b3285b640ff
+  text: 南
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

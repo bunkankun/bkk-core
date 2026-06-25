@@ -1,0 +1,32 @@
+uuid: f577bcc5-58f7-4c0f-8eb2-4a42e7ec5d12
+type: word-relation
+group_uuid: 826d0685-4b93-43c9-b518-822fcb539f44
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: a4daf1a4-7925-460f-bf03-8e23fce31d8b
+    line_id: KR3c0005_tls_014-19a.7
+    textline: 以取私利
+    offset: 4
+    range: 1
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: a4daf1a4-7925-460f-bf03-8e23fce31d8b
+    line_id: KR3c0005_tls_014-19a.7
+    textline: 以取私利
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

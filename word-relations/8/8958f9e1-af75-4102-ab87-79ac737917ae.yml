@@ -1,0 +1,32 @@
+uuid: 8958f9e1-af75-4102-ab87-79ac737917ae
+type: word-relation
+group_uuid: 32f401ee-a8a8-4e18-b129-b3c34a88de16
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 論語
+    line_uuid: d8b6fc11-7952-482f-b2a4-563fc31318d6
+    line_id: KR1h0004_tls_001-15a.3
+    textline: 「貧而無諂
+    offset: 2
+    range: 1
+right:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 論語
+    line_uuid: ae5af1eb-80fa-493c-abce-ef7b99cb43a9
+    line_id: KR1h0004_tls_001-15a.4
+    textline: 富而無驕
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

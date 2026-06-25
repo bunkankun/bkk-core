@@ -1,0 +1,32 @@
+uuid: 67b98224-fda4-4041-b142-d4d746701794
+type: word-relation
+group_uuid: e2d2bc13-ab63-4176-8018-201877654d30
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 632557a8-83ae-41d4-87e2-13ec1f8948be
+  text: 天
+  concept: NATURALLY
+  concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+  attestation:
+    text_title: 荀子
+    line_uuid: a1d5c92a-a686-4ede-9641-1f816545f22f
+    line_id: KR3a0002_tls_021-5a.9
+    textline: 莊子蔽於天而不知人
+    offset: 5
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 荀子
+    line_uuid: a1d5c92a-a686-4ede-9641-1f816545f22f
+    line_id: KR3a0002_tls_021-5a.9
+    textline: 莊子蔽於天而不知人
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

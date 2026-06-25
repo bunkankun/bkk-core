@@ -1,0 +1,32 @@
+uuid: 9020254c-ccd0-41c5-b10c-0e0e3dc51736
+type: word-relation
+group_uuid: 9020254c-ccd0-41c5-b10c-0e0e3dc51736
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 289ebdfc-c5a7-4424-9a8c-d8bdfb1bcc21
+  text: 好
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  attestation:
+    text_title: 孟子
+    line_uuid: 48f75af1-1e1c-4f28-ab14-322d648c47a7
+    line_id: KR1h0001_tls_002-37a.1
+    textline: 寡人好貨
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1146ff34-809f-4892-a715-2a863a460456
+  text: 貨
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 孟子
+    line_uuid: 48f75af1-1e1c-4f28-ab14-322d648c47a7
+    line_id: KR1h0001_tls_002-37a.1
+    textline: 寡人好貨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

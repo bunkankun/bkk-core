@@ -1,0 +1,30 @@
+uuid: 1bb2d56a-d0cd-4b2d-8000-334946b25566
+type: word-relation
+group_uuid: 1bb2d56a-d0cd-4b2d-8000-334946b25566
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cab05785-b76b-4300-86ad-a92a06d93f75
+  text: 信
+  concept: CERTAIN
+  concept_uuid: d03f8635-80dc-4b4c-a5d0-e367096493e8
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: b4f6b89c-f125-44d3-8338-5c95e65afbae
+    line_id: KR1e0008_tls_002-30a.9
+    textline: 信以傳信
+    range: 1
+right:
+  word_uuid: 20692132-0404-4634-8ae7-6b03a09af357
+  text: 疑
+  concept: DOUBT
+  concept_uuid: 5ccb5ab8-e88b-488e-b5d3-6a347b0ec606
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 4fe73219-f474-454b-b4bd-28c4c54dc146
+    line_id: KR1e0008_tls_002-30a.10
+    textline: 疑以傳疑
+    range: 1
+source:
+  source_file: word-relations.xml

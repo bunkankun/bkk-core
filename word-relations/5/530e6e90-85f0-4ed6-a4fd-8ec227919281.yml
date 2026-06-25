@@ -1,0 +1,32 @@
+uuid: 530e6e90-85f0-4ed6-a4fd-8ec227919281
+type: word-relation
+group_uuid: 9d324be1-3c05-4328-92a8-4cd4fa44524a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 孟子
+    line_uuid: 734fb873-160a-479f-8f8e-746c144d73a5
+    line_id: KR1h0001_tls_002-70a.5
+    textline: 禮義由賢者出
+    offset: 1
+    range: 1
+right:
+  word_uuid: 318c4644-941b-4f78-99ce-7e1d11dc7e2f
+  text: 義
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 孟子
+    line_uuid: 734fb873-160a-479f-8f8e-746c144d73a5
+    line_id: KR1h0001_tls_002-70a.5
+    textline: 禮義由賢者出
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

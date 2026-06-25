@@ -1,0 +1,21 @@
+uuid: b2d1793c-59d4-405d-9065-b602adb496dc
+type: word-relation
+group_uuid: c800dd8b-d494-58e8-a7a7-83fccf852622
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+right:
+  word_uuid: 2d06494c-0835-41c4-a04c-5dcd84b8f985
+  text: 妄
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

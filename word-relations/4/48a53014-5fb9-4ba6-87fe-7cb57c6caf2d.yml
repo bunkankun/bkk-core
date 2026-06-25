@@ -1,0 +1,35 @@
+uuid: 48a53014-5fb9-4ba6-87fe-7cb57c6caf2d
+type: word-relation
+group_uuid: 48a53014-5fb9-4ba6-87fe-7cb57c6caf2d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8c09fdd3-3033-488d-8fc4-4a23b1c821d4
+  text: 被
+  concept: SUFFER
+  concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+  attestation:
+    text_title: 論衡
+    line_uuid: 2648fefa-ee88-42c7-b5db-0b6294ad380e
+    line_id: KR3j0080_tls_006-2a.32
+    textline: 被災蒙禍之驗也”
+    offset: 1
+    range: 1
+right:
+  word_uuid: cda6860b-cd52-437b-8c2f-c39e6ca1a3f9
+  text: 蒙
+  concept: SUFFER
+  concept_uuid: a199de15-31bc-4e0f-8ed9-848aa83a25a4
+  attestation:
+    text_title: 論衡
+    line_uuid: 2648fefa-ee88-42c7-b5db-0b6294ad380e
+    line_id: KR3j0080_tls_006-2a.32
+    textline: 被災蒙禍之驗也”
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

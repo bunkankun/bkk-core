@@ -1,0 +1,32 @@
+uuid: bd6a5c6f-e52e-43f2-9d1d-9fa22706d5b3
+type: word-relation
+group_uuid: bd6a5c6f-e52e-43f2-9d1d-9fa22706d5b3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: de6ba8c1-3acc-47a9-b279-28dc2c3234a2
+  text: 節
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4bf0d55e-0650-4a01-b5af-008a32a80177
+    line_id: KR3j0009_tls_005-23a.4
+    textline: 有節有侈
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6e0c1770-c243-46e3-94c3-9ea11b2c5541
+  text: 侈
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 4bf0d55e-0650-4a01-b5af-008a32a80177
+    line_id: KR3j0009_tls_005-23a.4
+    textline: 有節有侈
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

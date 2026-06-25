@@ -1,0 +1,32 @@
+uuid: e432c55f-fc2a-4159-bb5d-b125443950e5
+type: word-relation
+group_uuid: e432c55f-fc2a-4159-bb5d-b125443950e5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2b311c68-dca4-4cbb-9faa-3d13bffe0393
+  text: 卻
+  concept: WITHDRAW
+  concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+  attestation:
+    text_title: 韓非子
+    line_uuid: 745ba354-8931-41c1-a297-e4db5f1f5d78
+    line_id: KR3c0005_tls_001-5a.12
+    textline: 而卻走不能死也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 242c081e-f5a8-4791-90b6-f6ecaaa339f1
+  text: 走
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 韓非子
+    line_uuid: 745ba354-8931-41c1-a297-e4db5f1f5d78
+    line_id: KR3c0005_tls_001-5a.12
+    textline: 而卻走不能死也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

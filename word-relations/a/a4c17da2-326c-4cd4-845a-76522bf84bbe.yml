@@ -1,0 +1,21 @@
+uuid: a4c17da2-326c-4cd4-845a-76522bf84bbe
+type: word-relation
+group_uuid: 58c47fe1-cf67-5765-b7a1-b12c10984e2e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 16e6830c-c257-4916-81db-30cc0e19d273
+  text: 集
+  concept: SIT
+  concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+right:
+  word_uuid: 95f418d1-0d7f-4651-adca-3efa123ad2ca
+  text: 止
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

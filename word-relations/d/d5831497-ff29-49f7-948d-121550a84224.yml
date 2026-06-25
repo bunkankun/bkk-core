@@ -1,0 +1,32 @@
+uuid: d5831497-ff29-49f7-948d-121550a84224
+type: word-relation
+group_uuid: d5831497-ff29-49f7-948d-121550a84224
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ab84a1f5-bde9-4595-b325-548afb2c046d
+  text: 狗
+  concept: DOG
+  concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+  attestation:
+    text_title: 孟子
+    line_uuid: 323ab4a2-cf5b-427c-8572-9ec11e412e45
+    line_id: KR1h0001_tls_001-11a.2
+    textline: 狗彘食人食而不知檢
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4a995cde-3cc8-4456-a61f-a02d407c16b3
+  text: 彘
+  concept: PIG
+  concept_uuid: e780a853-9d2a-4088-8c67-978fa2be3515
+  attestation:
+    text_title: 孟子
+    line_uuid: 323ab4a2-cf5b-427c-8572-9ec11e412e45
+    line_id: KR1h0001_tls_001-11a.2
+    textline: 狗彘食人食而不知檢
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

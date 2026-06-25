@@ -1,0 +1,31 @@
+uuid: 5f5c901f-4b73-4293-ab96-feceb02fdc52
+type: word-relation
+group_uuid: dbcb94d5-b491-4fdb-af3b-dbaf5d4e40c8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e276e8a9-6ec3-42f1-b1ec-805c1aae4f85
+    line_id: KR3j0009_tls_004-13a.24
+    textline: 猶曾參之事父也
+    offset: 5
+    range: 1
+right:
+  word_uuid: d8b72e93-fc8e-43a3-a70b-a91e992ca38d
+  text: 師
+  concept: TEACHER
+  concept_uuid: 99d50267-f112-4b2e-ac96-d8a1b59aa1ad
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9d0b3031-81f4-419d-950e-7cf1533b0eee
+    textline: 與其尊師若此
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

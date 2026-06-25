@@ -1,0 +1,21 @@
+uuid: 4b05d616-005a-48e1-9a8c-47524b30d568
+type: word-relation
+group_uuid: def6a21f-ed3b-531b-a15b-1ce72d3edae0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c9c26717-6904-48a6-b6e9-4776358b0431
+  text: 奔奔
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+right:
+  word_uuid: cb00daa3-96e3-4b84-9cb7-11e15a6d2995
+  text: 赴
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

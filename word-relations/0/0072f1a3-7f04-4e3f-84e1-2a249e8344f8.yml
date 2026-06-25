@@ -1,0 +1,32 @@
+uuid: 0072f1a3-7f04-4e3f-84e1-2a249e8344f8
+type: word-relation
+group_uuid: 0072f1a3-7f04-4e3f-84e1-2a249e8344f8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1e35a438-ef6b-488d-a8f8-3753f5d26f6a
+  text: 欺
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 97ca1901-3639-4d95-80f8-f9dccc70a92c
+    line_id: KR3j0009_tls_002-20a.23
+    textline: 胸中欺詐
+    offset: 3
+    range: 1
+right:
+  word_uuid: 50dddd6e-df69-40b3-88e1-3dd3f6254918
+  text: 詐
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 97ca1901-3639-4d95-80f8-f9dccc70a92c
+    line_id: KR3j0009_tls_002-20a.23
+    textline: 胸中欺詐
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

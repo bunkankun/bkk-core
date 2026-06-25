@@ -1,0 +1,21 @@
+uuid: 33336e42-88f9-4325-8a6e-5e7e17e11c44
+type: word-relation
+group_uuid: 18305b12-9dd3-57aa-be53-b169d71ebc04
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 782e9768-6c2e-4973-9a6b-f1964a27a2e3
+  text: 廢
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+right:
+  word_uuid: 2588df26-e727-4805-ab6e-b1939e689f9f
+  text: 起
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

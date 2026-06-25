@@ -1,0 +1,21 @@
+uuid: 4c901469-4c1f-4551-8469-656a9e2ad7c2
+type: word-relation
+group_uuid: e3354976-c883-5c2a-a28c-a0a3156fdaca
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a2689fe3-2289-4bcd-aa67-cf206655afc1
+  text: 燔
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+right:
+  word_uuid: 06ce3ac6-ff2f-4d41-baef-3eaf5f90f173
+  text: 燒
+  concept: BURN
+  concept_uuid: 4fc59acc-0d7d-4858-9dad-b78e359943d7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

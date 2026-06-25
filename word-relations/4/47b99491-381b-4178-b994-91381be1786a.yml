@@ -1,0 +1,32 @@
+uuid: 47b99491-381b-4178-b994-91381be1786a
+type: word-relation
+group_uuid: 9361751b-bacc-475e-82ba-776d498282fc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a0636713-59a2-4d9b-b4f8-99509b19e147
+  text: 不足
+  concept: INSUFFICIENT
+  concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_026-29a.8
+    textline: 無使不足
+    offset: 3
+    range: 2
+right:
+  word_uuid: 40bc85a6-6ed0-4433-bf60-b7b1e56a1955
+  text: 有餘
+  concept: SURPLUS
+  concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_026-29a.9
+    textline: 亦無使有餘
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T04:10:26.144+09:00'

@@ -1,0 +1,30 @@
+uuid: 2177747a-dbbf-4069-8de4-32099a270ac5
+type: word-relation
+group_uuid: 2177747a-dbbf-4069-8de4-32099a270ac5
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b166734b-a481-424c-9bc4-8a70c56bf0fa
+  text: 吟
+  concept: SIGH
+  concept_uuid: 8e70688d-527b-47e0-baa0-aeb5106a05ce
+  attestation:
+    text_title: 楚辭
+    line_uuid: d4471211-3883-4d56-92a8-074d444b85a3
+    textline: 長吟永欷涕究究兮
+    offset: 2
+    range: 1
+right:
+  word_uuid: 58530286-3dc9-4a6b-a9dc-4b942a1a5ed0
+  text: 長
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+  attestation:
+    text_title: 楚辭
+    line_uuid: d4471211-3883-4d56-92a8-074d444b85a3
+    textline: 長吟永欷涕究究兮
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

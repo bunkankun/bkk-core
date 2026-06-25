@@ -1,0 +1,32 @@
+uuid: e404e6a4-9ac7-47d7-baa5-84082581ef2a
+type: word-relation
+group_uuid: e404e6a4-9ac7-47d7-baa5-84082581ef2a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 196d4d5e-a5dc-45a2-af93-828de035b009
+  text: 腰
+  concept: WAIST
+  concept_uuid: 8422d721-632c-4a62-94be-9b198bb373a3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e448de1-dea9-43ec-b247-be9190019f0e
+    line_id: KR3c0005_tls_007-19a.4
+    textline: 楚靈王好細腰
+    offset: 6
+    range: 1
+right:
+  word_uuid: aaf9ed81-75a2-4638-bc05-c98453e1106c
+  text: 細
+  concept: THIN
+  concept_uuid: 1cbfece4-c50d-4a0d-abcc-8ba9b51f86a7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e448de1-dea9-43ec-b247-be9190019f0e
+    line_id: KR3c0005_tls_007-19a.4
+    textline: 楚靈王好細腰
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e1f7bb25-816a-4e60-9291-3ceb2ec522f2
+type: word-relation
+group_uuid: e1f7bb25-816a-4e60-9291-3ceb2ec522f2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f3ece765-c220-48fb-b154-5c8b06920753
+  text: 阿
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 174521b3-e52b-4ef5-a850-7951e0202c4f
+    line_id: KR3c0005_tls_006-38a.4
+    textline: 法不阿貴
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2ca00494-058d-44d4-8a5b-9d288ffb5319
+  text: 貴
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 174521b3-e52b-4ef5-a850-7951e0202c4f
+    line_id: KR3c0005_tls_006-38a.4
+    textline: 法不阿貴
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

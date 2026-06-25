@@ -1,0 +1,32 @@
+uuid: 063423bd-4d53-4dba-b156-5e7b631945ba
+type: word-relation
+group_uuid: 063423bd-4d53-4dba-b156-5e7b631945ba
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: de25938b-29dd-454c-8963-07c05eba5b7f
+  text: 易
+  concept: FRIVOLOUS
+  concept_uuid: d4287549-a2d1-4ddc-81b1-898f7ddac9ea
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7c3172a5-5594-43ab-bc66-f27f92162d2d
+    line_id: KR3c0005_tls_020-37a.3
+    textline: 而易妄舉動者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2d06494c-0835-41c4-a04c-5dcd84b8f985
+  text: 妄
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7c3172a5-5594-43ab-bc66-f27f92162d2d
+    line_id: KR3c0005_tls_020-37a.3
+    textline: 而易妄舉動者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

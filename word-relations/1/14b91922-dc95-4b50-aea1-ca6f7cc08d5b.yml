@@ -1,0 +1,32 @@
+uuid: 14b91922-dc95-4b50-aea1-ca6f7cc08d5b
+type: word-relation
+group_uuid: 14b91922-dc95-4b50-aea1-ca6f7cc08d5b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8ea48a0f-831c-41c4-bea6-fe4ef2b3d40a
+  text: 父兄
+  concept: UNCLE
+  concept_uuid: ae67b4eb-957a-44ce-8084-568833722d45
+  attestation:
+    text_title: 孟子
+    line_uuid: c72525bb-7e1a-42fa-ac9a-a73b36e4ba22
+    line_id: KR1h0001_tls_005-6a.4
+    textline: 父兄百官皆不欲也
+    offset: 1
+    range: 2
+right:
+  word_uuid: 1bb0408e-d8eb-4640-b929-0111894a2e5e
+  text: 百官
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 孟子
+    line_uuid: c72525bb-7e1a-42fa-ac9a-a73b36e4ba22
+    line_id: KR1h0001_tls_005-6a.4
+    textline: 父兄百官皆不欲也
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

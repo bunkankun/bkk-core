@@ -1,0 +1,32 @@
+uuid: 8c8d9a24-c943-4e9a-8d9a-24c9433e9a51
+type: word-relation
+group_uuid: 3b976360-3319-5ef2-9444-1633caf34c98
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: af63a131-0c4a-425e-b51a-0c59091a065c
+  text: 然
+  concept: NONETHELESS
+  concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-73a.4
+    textline: 然申屠狄為之
+    offset: 1
+    range: 1
+right:
+  word_uuid: b2704b5d-be4e-4cd0-851d-47e37bf2f9df
+  text: 而
+  concept: BUT
+  concept_uuid: 6ffc7774-cee8-4b70-8fe5-1ced15a17373
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-73a.9
+    textline: 而君子不貴
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-02T05:19:15.752+09:00'

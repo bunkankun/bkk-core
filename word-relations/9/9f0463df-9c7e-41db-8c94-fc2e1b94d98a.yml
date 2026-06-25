@@ -1,0 +1,32 @@
+uuid: 9f0463df-9c7e-41db-8c94-fc2e1b94d98a
+type: word-relation
+group_uuid: 9f0463df-9c7e-41db-8c94-fc2e1b94d98a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f30229e3-98a7-41dd-b206-de909926a678
+  text: 珍
+  concept: DELICACY
+  concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f44ee45c-c2aa-4b88-8aa2-5d418eea73ac
+    line_id: KR1e0001_tls_006-341a.7
+    textline: 時加羞珍異
+    offset: 4
+    range: 1
+right:
+  word_uuid: f70638fb-12e7-4db6-8087-7c1c46a06d78
+  text: 羞
+  concept: DELICACY
+  concept_uuid: 358477ec-1717-4839-9def-f8dd0b36bb21
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f44ee45c-c2aa-4b88-8aa2-5d418eea73ac
+    line_id: KR1e0001_tls_006-341a.7
+    textline: 時加羞珍異
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: 3a567091-8c65-4ce6-9953-4a86712317d2
+type: word-relation
+group_uuid: 3a567091-8c65-4ce6-9953-4a86712317d2
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0cb8f4e8-7210-4242-aa1b-f8bbf8942306
+  text: 氣
+  concept: AIR
+  concept_uuid: ca0f15b3-4e29-45c8-a9f5-63e308786d16
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 48777f50-e788-4157-88ab-72a2c5776ecf
+    line_id: KR1d0052_tls_006-22a.12
+    textline: 煖氣早來
+    offset: 2
+    range: 1
+right:
+  word_uuid: 25d45e3a-5d32-4bbf-b450-53340520ec38
+  text: 煖
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 48777f50-e788-4157-88ab-72a2c5776ecf
+    line_id: KR1d0052_tls_006-22a.12
+    textline: 煖氣早來
+    range: 1
+source:
+  source_file: word-relations.xml

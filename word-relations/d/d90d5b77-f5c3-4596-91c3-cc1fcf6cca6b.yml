@@ -1,0 +1,31 @@
+uuid: d90d5b77-f5c3-4596-91c3-cc1fcf6cca6b
+type: word-relation
+group_uuid: d90d5b77-f5c3-4596-91c3-cc1fcf6cca6b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0fd05186-ae2e-4d67-8676-7921420d39bb
+  text: 情
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cd304acd-64a0-449f-a522-82b05845c132
+    line_id: KR3j0009_tls_005-16a.4
+    textline: 有情性則必有性養矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: cd304acd-64a0-449f-a522-82b05845c132
+    line_id: KR3j0009_tls_005-16a.4
+    textline: 有情性則必有性養矣
+    range: 1
+source:
+  source_file: word-relations.xml

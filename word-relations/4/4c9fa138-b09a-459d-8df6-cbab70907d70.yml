@@ -1,0 +1,30 @@
+uuid: 4c9fa138-b09a-459d-8df6-cbab70907d70
+type: word-relation
+group_uuid: 4c9fa138-b09a-459d-8df6-cbab70907d70
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6bd3aa7a-5c1b-4d38-be92-81d20e29aec5
+  text: 盥
+  concept: BATHE
+  concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+  attestation:
+    text_title: 禮記
+    line_uuid: bd2fecca-5952-4e73-80de-b45ec7715b6e
+    textline: 盥洗揚觶
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8d7df8fd-bdf7-46cb-b9bd-d2bb14a78f3f
+  text: 洗
+  concept: BATHE
+  concept_uuid: a7cad873-0a8d-4394-b938-cd5465d9f2d8
+  attestation:
+    text_title: 禮記
+    line_uuid: bd2fecca-5952-4e73-80de-b45ec7715b6e
+    textline: 盥洗揚觶
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

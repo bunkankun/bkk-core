@@ -1,0 +1,30 @@
+uuid: 0b6418b8-87af-448f-99a2-d61e85a8919a
+type: word-relation
+group_uuid: 0b6418b8-87af-448f-99a2-d61e85a8919a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 72f484d6-0701-465c-b070-7738f2b1aeda
+  text: 偃
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 楚辭
+    line_uuid: 3430677d-2e48-4ad7-a762-b2d744f5abc6
+    textline: 默順風以偃仰兮
+    offset: 5
+    range: 1
+right:
+  word_uuid: 047f40d8-ce5e-40df-a558-eb857ebdb3a2
+  text: 仰
+  concept: LOOK UP
+  concept_uuid: df3e2b33-735b-4cc6-ab38-c478d4776eed
+  attestation:
+    text_title: 楚辭
+    line_uuid: 3430677d-2e48-4ad7-a762-b2d744f5abc6
+    textline: 默順風以偃仰兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

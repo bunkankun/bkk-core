@@ -1,0 +1,21 @@
+uuid: adcf5500-a59e-476f-be29-47c413cf23ee
+type: word-relation
+group_uuid: 01b1fa38-192c-5281-beab-2025c7bc78b6
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2bd3783c-3278-4f7f-a810-175f04ee038f
+  text: 對
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+right:
+  word_uuid: ab37c0f5-f40f-47bf-947a-5a3b041dc18b
+  text: 應
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

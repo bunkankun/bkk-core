@@ -1,0 +1,32 @@
+uuid: 200da50b-5c3d-49bf-8da5-0b5c3d09bf17
+type: word-relation
+group_uuid: 3efde64b-ddc8-5a25-9b0c-c4c2870de1aa
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 46c064ae-a6b3-40ce-93f9-ccdb5500477a
+  text: 御
+  concept: HINDER
+  concept_uuid: 8d05ae79-df6f-4c15-b57a-a8390a57643a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.16
+    textline: 而民得以掩形御寒
+    offset: 7
+    range: 1
+right:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.16
+    textline: 而民得以掩形御寒
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:12:48.396+09:00'

@@ -1,0 +1,21 @@
+uuid: 344cb6b8-6051-4d26-9001-4ec28600b5dc
+type: word-relation
+group_uuid: 30bb4dd9-6bc8-5bcd-a0b5-c46bac8202cb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 932835ad-2033-4dff-b325-d67ed6a3ce6a
+  text: 馳
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+right:
+  word_uuid: 23e18eda-9af2-45d4-819c-689a669e5547
+  text: 走
+  concept: RUN
+  concept_uuid: 44b13d5e-4eb7-4cf9-a3df-9735aa9fcd89
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

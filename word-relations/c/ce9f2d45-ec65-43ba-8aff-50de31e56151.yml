@@ -1,0 +1,32 @@
+uuid: ce9f2d45-ec65-43ba-8aff-50de31e56151
+type: word-relation
+group_uuid: ce9f2d45-ec65-43ba-8aff-50de31e56151
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 3ab36092-29f5-4a3a-b2d4-b3ec597122a4
+  text: 逐
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 9ff84f24-7ee2-4231-ba7d-c8c8b165a5a4
+    line_id: KR1e0001_tls_009-645a.35
+    textline: 抽戈逐王子圍
+    offset: 3
+    range: 1
+right:
+  word_uuid: a860922f-70ef-4b25-94ea-1a110f373278
+  text: 及
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: c7374ab2-5371-40bf-b88c-b89fccfa4309
+    line_id: KR1e0001_tls_001-201a.6
+    textline: 弗及
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

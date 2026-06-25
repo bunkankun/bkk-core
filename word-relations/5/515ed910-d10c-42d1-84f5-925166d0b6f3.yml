@@ -1,0 +1,30 @@
+uuid: 515ed910-d10c-42d1-84f5-925166d0b6f3
+type: word-relation
+group_uuid: 622fc510-fe29-4dc6-ba96-fb908ba775e4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d9c1b2fd-fd53-40e5-8875-083a920a9581
+  text: 朋
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: 143556ce-4c54-4d88-b7c3-44aa3ad6d58c
+    textline: 朋黨比周以弊（蔽）主
+    offset: 1
+    range: 1
+right:
+  word_uuid: 206052f6-2005-477d-9ffe-c18eb7909d29
+  text: 黨
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 韓非子
+    line_uuid: 143556ce-4c54-4d88-b7c3-44aa3ad6d58c
+    textline: 朋黨比周以弊（蔽）主
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

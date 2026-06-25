@@ -1,0 +1,18 @@
+uuid: afca0463-b74b-46a7-ba5a-9a8b0bd6fb70
+type: word-relation
+group_uuid: 07c0f22f-ac95-5006-a961-a0427d229d03
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e6aab165-d0db-4a74-8d5a-74879d1c02b9
+  text: 即
+  concept: THEN
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+right:
+  word_uuid: 5cbe552c-ce76-450c-909b-5267b22ab9dd
+  text: 則
+  concept: THEN
+  concept_uuid: 1e28e6d2-b3ea-42dc-bcca-a8032ea73c6e
+source:
+  source_file: word-relations.xml

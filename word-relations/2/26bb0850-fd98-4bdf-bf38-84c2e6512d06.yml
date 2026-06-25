@@ -1,0 +1,32 @@
+uuid: 26bb0850-fd98-4bdf-bf38-84c2e6512d06
+type: word-relation
+group_uuid: 26bb0850-fd98-4bdf-bf38-84c2e6512d06
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f7d6167f-412a-48ac-8543-2aae272b9d6a
+  text: 逃
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+  attestation:
+    text_title: 論衡
+    line_uuid: 4f0ddcf1-9030-4fcb-9a3c-442e9ceb355b
+    line_id: KR3j0080_tls_003-10a.7
+    textline: 雖逃富避貴
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2de1569e-6779-4fa5-b7f0-c183180d595c
+  text: 避
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+  attestation:
+    text_title: 論衡
+    line_uuid: 4f0ddcf1-9030-4fcb-9a3c-442e9ceb355b
+    line_id: KR3j0080_tls_003-10a.7
+    textline: 雖逃富避貴
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

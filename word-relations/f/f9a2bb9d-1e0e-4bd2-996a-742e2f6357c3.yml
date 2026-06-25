@@ -1,0 +1,32 @@
+uuid: f9a2bb9d-1e0e-4bd2-996a-742e2f6357c3
+type: word-relation
+group_uuid: f9a2bb9d-1e0e-4bd2-996a-742e2f6357c3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8a9acb3-8d2b-4dd2-b6dd-fa6ce4c77273
+  text: 臥
+  concept: SLEEP
+  concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+  attestation:
+    text_title: 史記
+    line_uuid: bb4f31de-3ede-422e-91de-29d74f2ae5f4
+    line_id: KR2a0007_tls_017-13a.4
+    textline: 病臥五日不寤
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5756e84e-a2a8-423e-8451-7e86d9fc11d8
+  text: 寤
+  concept: WAKE UP
+  concept_uuid: 573bea8a-c3a7-48e3-92b7-60b83a2920b9
+  attestation:
+    text_title: 史記
+    line_uuid: bb4f31de-3ede-422e-91de-29d74f2ae5f4
+    line_id: KR2a0007_tls_017-13a.4
+    textline: 病臥五日不寤
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

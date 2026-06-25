@@ -1,0 +1,18 @@
+uuid: 024850de-c31c-4b5c-92da-554f77b94064
+type: word-relation
+group_uuid: 5b5d13d2-2618-55b4-9f3d-165507e5d865
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 37379dca-72c0-478d-b649-0a4613855909
+  text: 解
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+right:
+  word_uuid: 8c369409-1831-424b-8f6b-34b2029a40a2
+  text: 除
+  concept: REMOVE
+  concept_uuid: 65d0ccb8-5be4-4af5-ba71-86340033f549
+source:
+  source_file: word-relations.xml

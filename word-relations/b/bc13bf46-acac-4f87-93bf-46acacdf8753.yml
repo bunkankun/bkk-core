@@ -1,0 +1,32 @@
+uuid: bc13bf46-acac-4f87-93bf-46acacdf8753
+type: word-relation
+group_uuid: a1085cf2-dc93-51e0-badd-afc84390bf3e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 蔡中郎集
+    line_id: CH1b0946_CHANT_003-7a.56
+    textline: 若夫道術之美
+    offset: 3
+    range: 2
+right:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 蔡中郎集
+    line_id: CH1b0946_CHANT_003-7a.56
+    textline: 若夫道術之美
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:32:43.158+09:00'

@@ -1,0 +1,32 @@
+uuid: e9f2b58d-4d0b-4ca9-9b5e-a7a2b38c51f3
+type: word-relation
+group_uuid: e9f2b58d-4d0b-4ca9-9b5e-a7a2b38c51f3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8d8b815d-dbad-4f8f-a155-c05406d8ae9b
+  text: 謀
+  concept: ADVISE
+  concept_uuid: c2bc9fbb-4965-4acc-9807-9ab30e495efe
+  attestation:
+    text_title: 論語
+    line_uuid: 66301e5a-577d-4d12-a0a1-2124796e1419
+    line_id: KR1h0004_tls_001-4a.4
+    textline: 為人謀而不忠乎
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6c7be674-b766-4ab5-bd0c-9ec0dafa8ae3
+  text: 交
+  concept: INTERACT
+  concept_uuid: 0ed75f4a-1c5b-4a1d-a1de-f7f2df031053
+  attestation:
+    text_title: 論語
+    line_uuid: f0c1c665-7696-4459-b316-bd0736a7fa10
+    line_id: KR1h0004_tls_001-4a.5
+    textline: 與朋友交而不信乎
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

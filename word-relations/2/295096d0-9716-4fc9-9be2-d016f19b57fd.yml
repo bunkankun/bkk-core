@@ -1,0 +1,32 @@
+uuid: 295096d0-9716-4fc9-9be2-d016f19b57fd
+type: word-relation
+group_uuid: 295096d0-9716-4fc9-9be2-d016f19b57fd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d47d85dd-a921-42f3-9822-3092b22c25bf
+    line_id: KR3j0009_tls_002-28a.18
+    textline: 故聖王不務歸之者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d47d85dd-a921-42f3-9822-3092b22c25bf
+    line_id: KR3j0009_tls_002-28a.18
+    textline: 故聖王不務歸之者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

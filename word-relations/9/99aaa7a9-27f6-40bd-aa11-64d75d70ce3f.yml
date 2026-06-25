@@ -1,0 +1,32 @@
+uuid: 99aaa7a9-27f6-40bd-aa11-64d75d70ce3f
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 禮記
+    line_uuid: 1e1700db-458f-4b02-9512-d1a25232ca7e
+    line_id: KR1d0052_tls_034-16a.8
+    textline: 身必安之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 禮記
+    line_uuid: 0173752d-d1c3-48ed-b640-a68e795784a0
+    line_id: KR1d0052_tls_034-16a.7
+    textline: 心好之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

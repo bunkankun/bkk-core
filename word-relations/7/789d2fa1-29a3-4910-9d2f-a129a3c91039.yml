@@ -1,0 +1,32 @@
+uuid: 789d2fa1-29a3-4910-9d2f-a129a3c91039
+type: word-relation
+group_uuid: 6801864b-f5a2-5336-9c5a-70b16bc61111
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9cc0cb59-371a-410c-a2e8-82b6c1028c27
+  text: 逸
+  concept: LEISURE
+  concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_001-70a.22
+    textline: 民罷於逸樂
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_001-70a.22
+    textline: 民罷於逸樂
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-10T23:44:39.772+09:00'

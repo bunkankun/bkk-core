@@ -1,0 +1,32 @@
+uuid: 95bad7f9-bf08-4fd5-841f-01dda645761a
+type: word-relation
+group_uuid: 95bad7f9-bf08-4fd5-841f-01dda645761a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f5e9fc11-f6f5-48a8-b54a-4d481bbff58e
+  text: 勞
+  concept: TIRED
+  concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+  attestation:
+    text_title: 莊子
+    line_uuid: 6a46debf-8fad-45fe-8e09-da235bb6d133
+    line_id: KR5c0126_tls_007-4a.14
+    textline: 勞形怵心者也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 602e90d8-7d82-4450-842b-1d57780338ac
+  text: 怵
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 莊子
+    line_uuid: 6a46debf-8fad-45fe-8e09-da235bb6d133
+    line_id: KR5c0126_tls_007-4a.14
+    textline: 勞形怵心者也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

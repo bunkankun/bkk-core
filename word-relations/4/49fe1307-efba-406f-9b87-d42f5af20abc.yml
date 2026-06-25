@@ -1,0 +1,30 @@
+uuid: 49fe1307-efba-406f-9b87-d42f5af20abc
+type: word-relation
+group_uuid: 75bfd357-ecd5-4aa9-9954-0ff820f54183
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1650c218-317f-4e00-b0c1-b346c869f8c3
+  text: 魚
+  concept: FISH
+  concept_uuid: 9ffb2c11-2835-4d6c-8fec-91d47ef90809
+  attestation:
+    text_title: 孟子
+    line_uuid: 45ff7d7f-b5a6-451e-a46e-99e592c346fb
+    textline: 穀與魚鱉不可勝食
+    offset: 3
+    range: 1
+right:
+  word_uuid: d01eada5-bb2e-4058-82c5-8bc2b8afc5b7
+  text: 鱉
+  concept: TURTLE
+  concept_uuid: 70490d30-b706-4f41-85d9-e2ef24d5ab5e
+  attestation:
+    text_title: 孟子
+    line_uuid: 45ff7d7f-b5a6-451e-a46e-99e592c346fb
+    textline: 穀與魚鱉不可勝食
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

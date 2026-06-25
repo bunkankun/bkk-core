@@ -1,0 +1,32 @@
+uuid: 8b7f686f-d95e-4481-bf68-6fd95e848140
+type: word-relation
+group_uuid: a66ef29f-1ef3-5ea9-942e-6fe9d299bbd2
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3c7115ce-f207-4f8e-8339-1ca0d22e9be7
+  text: 野人
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_011-1a.5
+    textline: 野人也
+    offset: 1
+    range: 2
+right:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_011-1a.7
+    textline: 君子也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-08-05T19:30:40.577+09:00'

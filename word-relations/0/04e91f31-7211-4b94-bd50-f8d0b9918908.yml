@@ -1,0 +1,21 @@
+uuid: 04e91f31-7211-4b94-bd50-f8d0b9918908
+type: word-relation
+group_uuid: dc05a07b-1b79-59ed-b53d-c6c29393d8ee
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: df70ab9d-421b-4c56-b16a-4bb1f9c147b4
+  text: 居
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+right:
+  word_uuid: 50398bb2-f3c7-43bb-96c2-ffa82042f77c
+  text: 在才
+  concept: BE IN
+  concept_uuid: 420dd97c-ab79-472c-acb4-60d330ec595e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

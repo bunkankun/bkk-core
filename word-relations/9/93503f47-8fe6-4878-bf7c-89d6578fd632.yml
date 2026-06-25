@@ -1,0 +1,33 @@
+uuid: 93503f47-8fe6-4878-bf7c-89d6578fd632
+type: word-relation
+group_uuid: 93503f47-8fe6-4878-bf7c-89d6578fd632
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c035da91-fe3d-4f4d-91bb-c7305c644012
+  text: 合
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 論衡
+    line_uuid: 8eb6b722-cbc9-4c79-a216-f79ce41766fc
+    textline: 夫賢聖道同志合趨齊
+    offset: 8
+    range: 1
+right:
+  word_uuid: ebe0725d-f8b0-4f9a-84ee-59d874e1c469
+  text: 違
+  concept: CONTRARY
+  concept_uuid: 3c29b8da-f85a-408f-98cf-fb78991751d5
+  attestation:
+    text_title: 論衡
+    line_uuid: 5daa9064-9876-4833-af48-4175834d913f
+    textline: 許由伯夷操違者
+    offset: 7
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

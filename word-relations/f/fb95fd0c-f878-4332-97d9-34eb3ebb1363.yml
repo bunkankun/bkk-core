@@ -1,0 +1,21 @@
+uuid: fb95fd0c-f878-4332-97d9-34eb3ebb1363
+type: word-relation
+group_uuid: 82f5b821-f4e0-560f-88fb-3bb464fb8fff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2db8c86c-be03-435c-933a-f40e15b44ad9
+  text: 窟
+  concept: CAVE
+  concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+right:
+  word_uuid: 6033ac76-3bc4-43c1-9d8a-a530b2c08ab3
+  text: 穴
+  concept: CAVE
+  concept_uuid: b762f695-ec41-4a27-a33d-688cb6276bf2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

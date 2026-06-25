@@ -1,0 +1,32 @@
+uuid: 8fcf6d65-6aa4-474b-83ae-3151708d21e1
+type: word-relation
+group_uuid: 8fcf6d65-6aa4-474b-83ae-3151708d21e1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a8c5e3dd-d973-4fa3-81ee-943459efa327
+  text: 武
+  concept: WARFARE
+  concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+  attestation:
+    text_title: 管子
+    line_uuid: ce41a8b0-bb8b-4fed-826b-04f97855e5c5
+    line_id: KR3c0001_tls_015-16a.7
+    textline: 而偃武與力
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 管子
+    line_uuid: ce41a8b0-bb8b-4fed-826b-04f97855e5c5
+    line_id: KR3c0001_tls_015-16a.7
+    textline: 而偃武與力
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

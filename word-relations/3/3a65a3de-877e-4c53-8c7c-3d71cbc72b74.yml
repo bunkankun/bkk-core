@@ -1,0 +1,32 @@
+uuid: 3a65a3de-877e-4c53-8c7c-3d71cbc72b74
+type: word-relation
+group_uuid: e42fa191-f331-4885-90ff-02ba87c4a212
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4dd20936-f8b4-4cc3-b629-37def231fde6
+  text: 宗
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 7f60d004-7799-4bd3-ace6-e2e6561e87f8
+    line_id: KR3a0006_tls_002-13a.15
+    textline: 誅及宗族
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4bba8658-ce64-4f09-85ab-babdb61aea3a
+  text: 族
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 7f60d004-7799-4bd3-ace6-e2e6561e87f8
+    line_id: KR3a0006_tls_002-13a.15
+    textline: 誅及宗族
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

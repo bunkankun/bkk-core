@@ -1,0 +1,31 @@
+uuid: 37be60e8-62db-42ad-b326-8603c32002ce
+type: word-relation
+group_uuid: 0f02b122-729f-4447-8bff-bf3dc146e049
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0bf04c1a-7731-4bf4-825b-253e094d67d1
+  text: 質
+  concept: SUBSTANCE
+  concept_uuid: 36e940be-af4b-434e-b637-d9a633782aa4
+  attestation:
+    text_title: 論語
+    line_uuid: b505ab09-8143-4e4c-adfc-98a7d800f53c
+    line_id: KR1h0004_tls_006-24a.3
+    textline: 「質勝文則野
+    offset: 2
+    range: 1
+right:
+  word_uuid: 97c9e8fb-3d1a-45d3-a152-55c6e675eb2b
+  text: 文
+  concept: EMBELLISH
+  concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+  attestation:
+    text_title: 論語
+    line_uuid: 4d49a072-5756-4683-b047-0430f1141942
+    textline: 文質彬彬然後君子
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e241da5d-47b0-4107-bbc0-d7c11e815cc2
+type: word-relation
+group_uuid: e241da5d-47b0-4107-bbc0-d7c11e815cc2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c59fa555-aa64-47a2-b227-8762a12ed615
+  text: 器
+  concept: TOOL
+  concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 17343331-7376-4475-be0f-79020aade0c2
+    line_id: KR1e0001_tls_001-204a.32
+    textline: 「凡而器用財賄
+    offset: 4
+    range: 1
+right:
+  word_uuid: 19d8a69c-78c1-47dd-82d6-527f05519f0c
+  text: 用
+  concept: TOOL
+  concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 17343331-7376-4475-be0f-79020aade0c2
+    line_id: KR1e0001_tls_001-204a.32
+    textline: 「凡而器用財賄
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: f9d3980c-faee-44e7-9cdd-01b556b09609
+type: word-relation
+group_uuid: cae4bb7d-3bb8-5840-9b5a-e3107d3cfb21
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 177c0d92-862f-46f3-a4f4-78014f076c45
+  text: 得
+  concept: CATCH
+  concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+right:
+  word_uuid: 2d93d112-1e6a-487d-a6ef-03a1898b7a0b
+  text: 獲
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

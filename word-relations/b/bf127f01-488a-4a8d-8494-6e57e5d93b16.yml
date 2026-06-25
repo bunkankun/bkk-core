@@ -1,0 +1,30 @@
+uuid: bf127f01-488a-4a8d-8494-6e57e5d93b16
+type: word-relation
+group_uuid: bf127f01-488a-4a8d-8494-6e57e5d93b16
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2ca3802c-5f5f-4e8c-8ea5-b84e7c330372
+  text: 容
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 588ecf33-5a78-412d-9614-594014307ded
+    textline: 容色為先
+    offset: 1
+    range: 1
+right:
+  word_uuid: c87acf29-bfaa-4131-ae44-2d12a7481fd1
+  text: 色
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 588ecf33-5a78-412d-9614-594014307ded
+    textline: 容色為先
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

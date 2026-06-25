@@ -1,0 +1,18 @@
+uuid: 605f1725-78dc-4f16-97c8-0653887631d7
+type: word-relation
+group_uuid: 4f19d942-1c99-5116-b54a-df188c491bb4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 87a7113f-4781-4fd4-9a5c-0a8227625123
+  text: 空
+  concept: UNTRUE
+  concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+right:
+  word_uuid: 6d81945a-38eb-4ac3-a3d2-7745a1a4bf20
+  text: 妄
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+source:
+  source_file: word-relations.xml

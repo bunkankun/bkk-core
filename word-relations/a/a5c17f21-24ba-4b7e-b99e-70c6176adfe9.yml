@@ -1,0 +1,30 @@
+uuid: a5c17f21-24ba-4b7e-b99e-70c6176adfe9
+type: word-relation
+group_uuid: a5c17f21-24ba-4b7e-b99e-70c6176adfe9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f641520d-308b-4db7-b8c6-839cc193c475
+  text: 胸
+  concept: CHEST
+  concept_uuid: aebff601-a3a8-4c54-9f1c-74a9a765a4a7
+  attestation:
+    text_title: 淮南子
+    line_uuid: fd366782-ffe0-4ae8-b99d-1a3bd6aacd3a
+    textline: 正度於胸臆之中
+    offset: 4
+    range: 1
+right:
+  word_uuid: 41671734-29e1-42ee-8891-88250e6bdfba
+  text: 臆
+  concept: CHEST
+  concept_uuid: aebff601-a3a8-4c54-9f1c-74a9a765a4a7
+  attestation:
+    text_title: 淮南子
+    line_uuid: fd366782-ffe0-4ae8-b99d-1a3bd6aacd3a
+    textline: 正度於胸臆之中
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

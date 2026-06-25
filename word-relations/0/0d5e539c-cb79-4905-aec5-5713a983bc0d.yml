@@ -1,0 +1,32 @@
+uuid: 0d5e539c-cb79-4905-aec5-5713a983bc0d
+type: word-relation
+group_uuid: 0d5e539c-cb79-4905-aec5-5713a983bc0d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 375e8fd2-509c-42b4-aad6-f4f3307cd31a
+  text: 積
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 489af229-d0ae-4ff0-b2d3-dba0812d55b5
+    line_id: KR3a0006_tls_001-13a.33
+    textline: 豪吏富商積貨儲物以待其急
+    offset: 5
+    range: 1
+right:
+  word_uuid: eb3d6e27-55db-4009-aba3-f36d15bd4700
+  text: 儲
+  concept: ACCUMULATE
+  concept_uuid: b5d66bf7-7794-4933-ac40-1d42e37eb37e
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 489af229-d0ae-4ff0-b2d3-dba0812d55b5
+    line_id: KR3a0006_tls_001-13a.33
+    textline: 豪吏富商積貨儲物以待其急
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

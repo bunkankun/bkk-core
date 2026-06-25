@@ -1,0 +1,32 @@
+uuid: 057e242e-a271-42e5-9fc4-a49dad3d9746
+type: word-relation
+group_uuid: 057e242e-a271-42e5-9fc4-a49dad3d9746
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: fe7e0491-d837-473a-8d33-d4d6d4c7d888
+  text: 造
+  concept: PRODUCE
+  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+  attestation:
+    text_title: 管子
+    line_uuid: 5b351152-e375-44d9-9c05-12582963c282
+    line_id: KR3c0001_tls_004-82a.11
+    textline: 而不以其國造難生患
+    offset: 6
+    range: 1
+right:
+  word_uuid: aa70e5e5-9235-4034-a96f-c5e3a917b20c
+  text: 生
+  concept: PRODUCE
+  concept_uuid: 1b8d2978-f288-4a2b-9339-558d5046e987
+  attestation:
+    text_title: 管子
+    line_uuid: 5b351152-e375-44d9-9c05-12582963c282
+    line_id: KR3c0001_tls_004-82a.11
+    textline: 而不以其國造難生患
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

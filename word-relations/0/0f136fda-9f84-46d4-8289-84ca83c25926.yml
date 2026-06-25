@@ -1,0 +1,32 @@
+uuid: 0f136fda-9f84-46d4-8289-84ca83c25926
+type: word-relation
+group_uuid: 6bdb17bc-cd7e-4bc2-ad69-17fa92035bca
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4d9ef7f2-0133-43db-a717-00013c741baf
+  text: 心
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 092fd1bb-989e-458b-a3a9-3a8bd31e7a66
+    line_id: KR6q0002_Yan_001-1015a.3
+    textline: 此非我心
+    offset: 4
+    range: 1
+right:
+  word_uuid: e2c570a9-9f2c-4b06-a1e7-6e33b93b5e79
+  text: 意
+  concept: INTEND
+  concept_uuid: dff003d3-a3ba-4c21-ac72-cba899a2b4c5
+  attestation:
+    text_title: 祖堂集
+    line_uuid: a9960a9e-d34f-493a-8852-0045237ab052
+    line_id: KR6q0002_Yan_001-1015a.4
+    textline: 善賢之意”
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

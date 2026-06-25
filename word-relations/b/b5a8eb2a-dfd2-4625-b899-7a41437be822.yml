@@ -1,0 +1,32 @@
+uuid: b5a8eb2a-dfd2-4625-b899-7a41437be822
+type: word-relation
+group_uuid: b5a8eb2a-dfd2-4625-b899-7a41437be822
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ee1fe2bd-e25b-4da5-8162-8a07522a5efb
+  text: 充
+  concept: FILL
+  concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0772b779-0297-45bd-8bc8-d0801f529832
+    line_id: KR3j0009_tls_002-26a.16
+    textline: 充滿天下
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3c6a6f30-255f-415e-857c-06429ddef917
+  text: 滿
+  concept: FILL
+  concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0772b779-0297-45bd-8bc8-d0801f529832
+    line_id: KR3j0009_tls_002-26a.16
+    textline: 充滿天下
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 827782bb-a940-4f2d-9b18-48388bb2dd14
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 楚辭
+    line_uuid: 6bb9678d-446c-438f-9963-df6e9172dea9
+    textline: 身被疾而不閒兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 楚辭
+    line_uuid: 16b32214-8980-4744-8b4d-5839c3c8cfe9
+    textline: 心沸熱其若湯
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

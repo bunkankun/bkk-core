@@ -1,0 +1,21 @@
+uuid: c32f674a-8f0a-4d57-a895-2f138481d932
+type: word-relation
+group_uuid: 73a99dc8-0337-515e-ae49-27491c265a0d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 60bb651e-6cb6-428c-8b8c-f0b36e34142e
+  text: 顧
+  concept: LOOK
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+right:
+  word_uuid: 4645afde-f31d-4072-8537-a3121137e44b
+  text: 睨
+  concept: LOOK SIDEWAYS
+  concept_uuid: 626676ae-b1f1-4794-b898-c628e365c986
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: a525e8c2-7f80-43d9-b661-9879c726d518
+type: word-relation
+group_uuid: 7a1f58a2-db75-51d3-b859-93d3659e4c16
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 20dde62e-738a-4ca9-8879-ab4d63c915c1
+  text: 枯枯㱠
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+right:
+  word_uuid: 4a3832e6-b413-4022-ba4d-2150587a224c
+  text: 濕濕
+  concept: MOIST
+  concept_uuid: 91a8fa93-8cca-4c4a-8a0c-f96805631668
+source:
+  source_file: word-relations.xml

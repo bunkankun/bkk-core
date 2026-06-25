@@ -1,0 +1,18 @@
+uuid: f46ec670-852d-4062-91f2-ec91fdb8bc75
+type: word-relation
+group_uuid: 0ac86cfb-dce1-55e2-932f-f65f82764608
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 571110d0-4a63-42df-a577-deebc0793300
+  text: 合
+  concept: JUXTAPOSE
+  concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+right:
+  word_uuid: 408aa302-276f-43cf-bc34-c0694342a8ba
+  text: 偶
+  concept: JUXTAPOSE
+  concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+source:
+  source_file: word-relations.xml

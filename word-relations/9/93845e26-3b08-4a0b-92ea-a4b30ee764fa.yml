@@ -1,0 +1,30 @@
+uuid: 93845e26-3b08-4a0b-92ea-a4b30ee764fa
+type: word-relation
+group_uuid: 93845e26-3b08-4a0b-92ea-a4b30ee764fa
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f5fa22c7-eda9-466a-a190-b17bdb722a65
+  text: 順
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論衡
+    line_uuid: 61aa69a1-e0a8-481f-a2da-0b67674224f5
+    textline: 則夫順道而觸者為不幸矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 論衡
+    line_uuid: 61aa69a1-e0a8-481f-a2da-0b67674224f5
+    textline: 則夫順道而觸者為不幸矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

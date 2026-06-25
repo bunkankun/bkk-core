@@ -1,0 +1,21 @@
+uuid: 9a851db6-eb16-433a-bb37-71669a46b44e
+type: word-relation
+group_uuid: 2fa82dd9-ceda-5faa-bb70-c174ee9221b0
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: bab0db03-0ca6-480b-af61-29687fcb6d16
+  text: 醉
+  concept: DRUNK
+  concept_uuid: d015c25b-106e-4b88-9ff7-d13f67c0e446
+right:
+  word_uuid: 809ad56b-97b2-4f0b-a441-b8f012bdf1dd
+  text: 醒
+  concept: SOBER UP
+  concept_uuid: feb84455-dd9c-42a5-9c47-c2af8fa5c989
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

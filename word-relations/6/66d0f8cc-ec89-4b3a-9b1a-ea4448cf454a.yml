@@ -1,0 +1,30 @@
+uuid: 66d0f8cc-ec89-4b3a-9b1a-ea4448cf454a
+type: word-relation
+group_uuid: 66d0f8cc-ec89-4b3a-9b1a-ea4448cf454a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1fac6298-fdb1-4a9a-b540-164e762efc93
+  text: 遷
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 楚辭
+    line_uuid: 13f164cc-7fde-4b27-8f47-371238bb08c4
+    textline: 受命不遷生南國兮
+    offset: 4
+    range: 1
+right:
+  word_uuid: 86241fe5-a89e-494e-8d80-a0efb4be8472
+  text: 徙
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 楚辭
+    line_uuid: 1ba613d6-6aa4-4d05-ac72-47e51a90fc35
+    textline: 深固難徙更壹志兮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

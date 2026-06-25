@@ -1,0 +1,32 @@
+uuid: de121694-18d0-4e7d-9216-9418d00e7d7d
+type: word-relation
+group_uuid: 57e52a88-8a41-5145-940f-a44801b53141
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7dcc3ef6-1bd7-4b0a-bf7b-ea0fe3ce22e2
+  text: 瓦
+  concept: TILE
+  concept_uuid: 76cef498-efb8-400d-b48d-a5e7bc154407
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.16
+    textline: 有虞氏用瓦棺
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3151d8aa-789d-459f-abdc-285fb17d0e63
+  text: 棺
+  concept: COFFIN
+  concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.16
+    textline: 有虞氏用瓦棺
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:21:16.207+09:00'

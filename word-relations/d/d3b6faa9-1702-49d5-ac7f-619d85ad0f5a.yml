@@ -1,0 +1,35 @@
+uuid: d3b6faa9-1702-49d5-ac7f-619d85ad0f5a
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論衡
+    line_uuid: f8546c87-440f-4d19-89ce-e68a86d36cc1
+    line_id: KR3j0080_tls_005-4a.3
+    textline: “君子有不幸而無有幸
+    offset: 2
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 論衡
+    line_uuid: e816aa13-a0b4-4107-85e1-3cc8acf033d4
+    line_id: KR3j0080_tls_005-4a.4
+    textline: 小人有幸而無不幸”
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 0ae573b2-87a4-4e7f-a573-b287a4ce7fe6
+type: word-relation
+group_uuid: 83e97cb0-9ac9-5e8c-b7b7-4110b528b9f7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 論語
+    line_id: KR1h0004_tls_005-25a.6
+    textline: 吾黨之小子狂簡
+    offset: 6
+    range: 1
+right:
+  word_uuid: 87be0f3f-d8e9-4d59-989b-d657e7533654
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 論語
+    line_id: def-uuid-442198f4-e370-4e89-8fc5-b88acdfd9128
+    offset: 18
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T02:32:16.881+09:00'

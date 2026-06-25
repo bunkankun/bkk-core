@@ -1,0 +1,32 @@
+uuid: 02757f2a-e8cc-48f2-8aa2-76dc42860abc
+type: word-relation
+group_uuid: 02757f2a-e8cc-48f2-8aa2-76dc42860abc
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: dbb1e575-5582-4252-bf0d-e473649afae0
+  text: 患
+  concept: PROBLEM
+  concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: cc794c8c-3535-4155-aba3-5fd78a4a93fe
+    line_id: KR1e0001_tls_009-571a.15
+    textline: 非無賄之患
+    offset: 5
+    range: 1
+right:
+  word_uuid: 80ea37e1-95b4-446f-90aa-36c8077a5ee9
+  text: 難
+  concept: PROBLEM
+  concept_uuid: de7716e3-bbbf-439b-a54b-f4c50d622309
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 9dbbc6ca-96de-4788-8b27-e388b4518319
+    line_id: KR1e0001_tls_009-571a.16
+    textline: 而無令名之難
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

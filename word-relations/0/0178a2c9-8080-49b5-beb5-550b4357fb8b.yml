@@ -1,0 +1,30 @@
+uuid: 0178a2c9-8080-49b5-beb5-550b4357fb8b
+type: word-relation
+group_uuid: 0178a2c9-8080-49b5-beb5-550b4357fb8b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 饑
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 孟子
+    line_uuid: b52a3c25-904c-4fee-95e4-d52153393c86
+    textline: 黎民不饑不寒
+    offset: 4
+    range: 1
+right:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 孟子
+    line_uuid: b52a3c25-904c-4fee-95e4-d52153393c86
+    textline: 黎民不饑不寒
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

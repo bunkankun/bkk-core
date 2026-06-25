@@ -1,0 +1,32 @@
+uuid: a5b10d16-06c5-42fe-b10d-1606c512fed4
+type: word-relation
+group_uuid: 3bcbf0aa-b82b-5e6b-ab1d-f5d66c45c346
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1a816e18-7dfa-4617-bfbd-9fb09b107899
+  text: 設
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 鹽鐵論
+    line_id: KR3a0006_tls_010-33a.18
+    textline: 法令設而不用
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8038975d-6a3b-426e-99c5-3c7d264d3485
+  text: 用
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 鹽鐵論
+    line_id: KR3a0006_tls_010-33a.18
+    textline: 法令設而不用
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T03:14:00.594+09:00'

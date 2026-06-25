@@ -1,0 +1,30 @@
+uuid: 3601a4d4-a2c9-489d-ab10-517b9474f7dc
+type: word-relation
+group_uuid: 2c1c921e-aa91-4b7c-bf64-6805cf379c62
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 335eb9fe-49b5-4d5b-afa8-dd607998195f
+  text: 清
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 楚辭
+    line_uuid: e49f704d-5b42-40f8-997f-e7732e484984
+    textline: 挫糟凍飲酎清涼些
+    offset: 7
+    range: 1
+right:
+  word_uuid: 7b21b78a-2770-49c3-8861-adf837ca313c
+  text: 涼
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 楚辭
+    line_uuid: e49f704d-5b42-40f8-997f-e7732e484984
+    textline: 挫糟凍飲酎清涼些
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 513778ae-5986-4dcb-b336-a2402026301e
+type: word-relation
+group_uuid: 513778ae-5986-4dcb-b336-a2402026301e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7ac79010-8a35-483d-b416-b75f55a4ae51
+  text: 追
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 楚辭
+    line_uuid: 0a0e68d0-2496-4b1e-948a-1b11906869a5
+    line_id: KR4a0001_tls_001-3a.14
+    textline: 忽馳騖以追逐兮
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3ab36092-29f5-4a3a-b2d4-b3ec597122a4
+  text: 逐
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 楚辭
+    line_uuid: 0a0e68d0-2496-4b1e-948a-1b11906869a5
+    line_id: KR4a0001_tls_001-3a.14
+    textline: 忽馳騖以追逐兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

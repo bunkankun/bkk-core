@@ -1,0 +1,30 @@
+uuid: 0b833814-a33a-4b23-9f6e-f9307d0dd222
+type: word-relation
+group_uuid: 0b833814-a33a-4b23-9f6e-f9307d0dd222
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d98c297d-b518-4ab5-a25e-914ebfd95e07
+  text: 對
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: e44a2a70-380a-4ca0-b82c-650332f1d46c
+    textline: 譬對盲者說五色
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2adcfd42-a4d6-4f2e-a27d-25e15a051ae5
+  text: 為
+  concept: FOR
+  concept_uuid: 413d15bc-eaf0-404e-80c6-25e9b1b5db50
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: d835196d-7628-4148-b33d-41a8e07ce613
+    textline: 為聾者奏五音也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

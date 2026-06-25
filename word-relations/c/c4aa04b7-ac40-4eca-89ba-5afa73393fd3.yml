@@ -1,0 +1,35 @@
+uuid: c4aa04b7-ac40-4eca-89ba-5afa73393fd3
+type: word-relation
+group_uuid: c4aa04b7-ac40-4eca-89ba-5afa73393fd3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 408be19e-57b9-4109-9e8f-90a749b2bc85
+  text: 訛
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論衡
+    line_uuid: d181ae65-e479-4ae8-816b-91554314601e
+    line_id: KR3j0080_tls_002-8a.9
+    textline: 市虎之訛
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7b133ea6-9f34-46b0-bf30-a4829c9569e4
+  text: 誤
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 論衡
+    line_uuid: 7acb3f6c-17b5-412e-8cd7-67188db420a1
+    line_id: KR3j0080_tls_002-8a.10
+    textline: 投杼之誤
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

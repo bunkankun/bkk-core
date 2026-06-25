@@ -1,0 +1,21 @@
+uuid: 2fffb6da-76ee-4889-82d6-8461fd8a040a
+type: word-relation
+group_uuid: deb05c9c-8cae-587c-899b-7d94b8cda17f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+right:
+  word_uuid: 54b11cd0-cd90-4428-b578-938f5d3682df
+  text: 稟
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

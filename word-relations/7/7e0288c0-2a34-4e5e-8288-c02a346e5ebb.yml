@@ -1,0 +1,32 @@
+uuid: 7e0288c0-2a34-4e5e-8288-c02a346e5ebb
+type: word-relation
+group_uuid: cffb068f-2281-583f-a493-a05f1e9e9513
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 62ca09e2-94f9-44b2-9d63-7680ea1e2cc2
+  text: 阼
+  concept: STAIRS
+  concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.12
+    textline: 夏后氏殯於阼階之上
+    offset: 6
+    range: 1
+right:
+  word_uuid: 163f617e-a6c1-4487-97b2-4328f3fb7aa4
+  text: 階
+  concept: STAIRS
+  concept_uuid: 07178f82-5672-4502-9797-85c0c58d141b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.12
+    textline: 夏后氏殯於阼階之上
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:20:43.445+09:00'

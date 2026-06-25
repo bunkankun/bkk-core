@@ -1,0 +1,32 @@
+uuid: 5edeee5c-6b5f-4042-b005-2e896a23ed06
+type: word-relation
+group_uuid: 5edeee5c-6b5f-4042-b005-2e896a23ed06
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 論語
+    line_uuid: 1fbf7546-9b15-44e3-95f9-f81166862a55
+    line_id: KR1h0004_tls_003-29a.1
+    textline: 未盡善也
+    offset: 3
+    range: 1
+right:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 論語
+    line_uuid: 5f1c4a14-f9f3-46a1-bf71-5d067375e334
+    line_id: KR1h0004_tls_003-28a.3
+    textline: 「盡美矣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

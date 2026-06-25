@@ -1,0 +1,32 @@
+uuid: 6c9df63a-7b90-45a6-b098-238636a4223e
+type: word-relation
+group_uuid: dc1163ff-849f-46d4-a86a-8b8c602d8c0b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 67e35ad8-6dad-4361-9403-2f0caa756572
+  text: 躁
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 17523447-5468-414c-887f-30b4738b103a
+    line_id: KR3c0005_tls_020-50a.2
+    textline: 眾人之用神也躁
+    offset: 7
+    range: 1
+right:
+  word_uuid: 96921913-5a46-4041-ae7f-5a65a088ef94
+  text: 靜
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea724faf-b91f-4e54-a780-b1753067e45b
+    line_id: KR3c0005_tls_020-50a.5
+    textline: 聖人之用神也靜
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c8d0531a-1400-4741-9053-1a1400374103
+type: word-relation
+group_uuid: c20b8401-bb9f-42fb-9e24-6283840b6637
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ad2705f3-a065-48b7-a6ed-93b3df1bb3f6
+  text: 征
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-9a.6
+    textline: 然而征伐者不能釋甲兵而制彊暴
+    offset: 3
+    range: 1
+right:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-9a.6
+    textline: 然而征伐者不能釋甲兵而制彊暴
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T19:33:11.491+09:00'

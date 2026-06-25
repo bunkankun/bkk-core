@@ -1,0 +1,18 @@
+uuid: 26bcf9d1-8225-458a-b40d-136a81d85b5c
+type: word-relation
+group_uuid: 86750857-7b88-5b90-96d4-d056e3aa397e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 25694bc2-5d10-43dd-8bab-8a3058c0a53b
+  text: 潔
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+right:
+  word_uuid: b8e024a1-ed59-45a0-95b1-37bf8dedd712
+  text: 廉
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+source:
+  source_file: word-relations.xml

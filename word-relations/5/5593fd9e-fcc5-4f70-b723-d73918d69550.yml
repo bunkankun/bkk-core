@@ -1,0 +1,30 @@
+uuid: 5593fd9e-fcc5-4f70-b723-d73918d69550
+type: word-relation
+group_uuid: 5593fd9e-fcc5-4f70-b723-d73918d69550
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 法言
+    line_uuid: 626932db-6c89-4ffb-b551-8bab688b5d96
+    textline: 曰在德不在星
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0bfecb4c-b850-4220-b1fb-1d03c5550b9d
+  text: 星
+  concept: STAR
+  concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+  attestation:
+    text_title: 法言
+    line_uuid: 626932db-6c89-4ffb-b551-8bab688b5d96
+    textline: 曰在德不在星
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

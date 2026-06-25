@@ -1,0 +1,30 @@
+uuid: 511363e8-6080-495e-99c9-53463f5cff78
+type: word-relation
+group_uuid: 511363e8-6080-495e-99c9-53463f5cff78
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 楚辭
+    line_uuid: 68963a6b-45de-4a38-a185-f260b7972f28
+    textline: 賢良蔽而不群兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 楚辭
+    line_uuid: 68963a6b-45de-4a38-a185-f260b7972f28
+    textline: 賢良蔽而不群兮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

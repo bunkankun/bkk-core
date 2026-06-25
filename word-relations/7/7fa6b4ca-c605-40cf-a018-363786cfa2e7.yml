@@ -1,0 +1,32 @@
+uuid: 7fa6b4ca-c605-40cf-a018-363786cfa2e7
+type: word-relation
+group_uuid: 7fa6b4ca-c605-40cf-a018-363786cfa2e7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0183f92e-15d3-4d39-adef-8e5b0bbe274f
+  text: 朋黨
+  concept: FACTION
+  concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+  attestation:
+    text_title: 管子
+    line_uuid: 5cfb8535-ebca-40d1-a6cf-c43077d8436d
+    line_id: KR3c0001_tls_005-74a.2
+    textline: 以朋黨為友
+    offset: 2
+    range: 2
+right:
+  word_uuid: bd157ccd-3b12-490e-a90c-b9a58c8b32f4
+  text: 友
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 管子
+    line_uuid: 5cfb8535-ebca-40d1-a6cf-c43077d8436d
+    line_id: KR3c0001_tls_005-74a.2
+    textline: 以朋黨為友
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

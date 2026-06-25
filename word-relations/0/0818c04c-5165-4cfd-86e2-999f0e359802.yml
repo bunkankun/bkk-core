@@ -1,0 +1,32 @@
+uuid: 0818c04c-5165-4cfd-86e2-999f0e359802
+type: word-relation
+group_uuid: 0818c04c-5165-4cfd-86e2-999f0e359802
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 7ce8368a-ac1f-4c30-bc81-703444341d0a
+  text: 戰
+  concept: BATTLE
+  concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6202f3af-4b10-4fee-8509-8018525b220b
+    line_id: KR3c0005_tls_001-36a.3
+    textline: 戰一日
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8eaefe75-8115-425d-a2e9-8ad3d05e05f0
+  text: 破
+  concept: DEFEAT
+  concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+  attestation:
+    text_title: 韓非子
+    line_uuid: bec8520e-0b58-48b4-a118-be59a0fef682
+    line_id: KR3c0005_tls_001-36a.4
+    textline: 而破紂之國
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

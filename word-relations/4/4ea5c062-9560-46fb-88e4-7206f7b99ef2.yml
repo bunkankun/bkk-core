@@ -1,0 +1,32 @@
+uuid: 4ea5c062-9560-46fb-88e4-7206f7b99ef2
+type: word-relation
+group_uuid: 4ea5c062-9560-46fb-88e4-7206f7b99ef2
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 34a6af76-e365-4d43-9d74-d03e88d7ba0a
+  text: 鼠
+  concept: RODENTS
+  concept_uuid: 3ee55fa4-47fb-4d5c-a7fc-0ba57a34342b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 207889cd-e353-4147-9394-3bc9299bbea3
+    line_id: KR3j0009_tls_003-2a.19
+    textline: 田鼠化為鴽
+    offset: 2
+    range: 1
+right:
+  word_uuid: 269631ac-2f3f-4591-98ff-b7ad6ea2d672
+  text: 田
+  concept: FIELD
+  concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 207889cd-e353-4147-9394-3bc9299bbea3
+    line_id: KR3j0009_tls_003-2a.19
+    textline: 田鼠化為鴽
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: cf9ceeb3-650f-4b45-9d24-2befe816f99f
+type: word-relation
+group_uuid: 9902504b-70d9-474a-8e29-529a6fdca6c5
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6d006ae4-3e24-4965-b8fe-332ba1eece9a
+  text: 亦
+  concept: ALSO
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  attestation:
+    text_title: 法華經
+    line_uuid: 97cf15d7-2890-4ad9-81f9-cb08b2689d98
+    line_id: KR6d0001_T_005-0037a.48
+    textline: 亦不問訊
+    offset: 1
+    range: 1
+right:
+  word_uuid: d1be7213-132e-49ba-a520-2afd6c07ce01
+  text: 又
+  concept: ALSO
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  attestation:
+    text_title: 法華經
+    line_uuid: 0c570778-1346-478d-bed4-a1ef08ec0a98
+    textline: 又不親近求聲聞比丘比丘尼優婆塞優婆夷
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

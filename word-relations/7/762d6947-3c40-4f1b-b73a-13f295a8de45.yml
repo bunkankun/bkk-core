@@ -1,0 +1,32 @@
+uuid: 762d6947-3c40-4f1b-b73a-13f295a8de45
+type: word-relation
+group_uuid: 762d6947-3c40-4f1b-b73a-13f295a8de45
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: d80a6b7c-e462-4cbd-a7df-f04b371a35c5
+    line_id: KR2a0001_tls_010-577a.22
+    textline: 是重吾不德
+    offset: 3
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: cc581000-c210-4932-b042-89464c33ae52
+    line_id: KR2a0001_tls_010-577a.19
+    textline: 夫以朕不德
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 52f591f0-8294-4ed5-addf-7185d6213515
+type: word-relation
+group_uuid: e9619ceb-68f9-4d8c-a3a4-8366db820806
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6436d398-6c1d-4c72-8eed-d45e95c46815
+  text: 玄
+  concept: OBSCURE
+  concept_uuid: 6d45b3ec-fdf4-4720-8bf2-2994cfcbd88f
+  attestation:
+    text_title: 老子
+    line_uuid: e62c32a5-8061-4dcf-9d00-57013370813b
+    line_id: KR5c0057_tls_010-1a.20
+    textline: 是謂玄德
+    offset: 3
+    range: 1
+right:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 老子
+    line_uuid: e62c32a5-8061-4dcf-9d00-57013370813b
+    line_id: KR5c0057_tls_010-1a.20
+    textline: 是謂玄德
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5b91c3a2-ce1a-4d4c-a07e-2c9e1120d209
+type: word-relation
+group_uuid: d15b4233-2418-47b9-b864-640461b57454
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 24ac5fae-96ac-47d1-b823-937f1f72bcac
+  text: 鬼
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 934b06b8-d94e-48cf-ab7e-17b3101f5b0b
+    line_id: KR3c0005_tls_010-39a.6
+    textline: 昔者黃帝合鬼神
+    offset: 6
+    range: 1
+right:
+  word_uuid: c70cbcd5-4a5f-4e21-be53-8c1a56585356
+  text: 神
+  concept: DEITY
+  concept_uuid: 81633dc1-d872-4962-8ba4-3fec860f2bdd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 934b06b8-d94e-48cf-ab7e-17b3101f5b0b
+    line_id: KR3c0005_tls_010-39a.6
+    textline: 昔者黃帝合鬼神
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

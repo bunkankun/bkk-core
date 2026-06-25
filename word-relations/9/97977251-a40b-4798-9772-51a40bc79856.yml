@@ -1,0 +1,32 @@
+uuid: 97977251-a40b-4798-9772-51a40bc79856
+type: word-relation
+group_uuid: 973d8e60-70f2-537a-b44a-fd6b450fb722
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e34d9ad5-b6b9-4720-9b0d-9fbb6ce895db
+  text: 讒
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_012-56a.15
+    textline: 則讒諂面諛之人至矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5bd88e08-8618-4b13-9979-66dbdf59f063
+  text: 諂
+  concept: FLATTER
+  concept_uuid: 8a8826cd-d98a-4e1e-9d70-cb3036a4686f
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_012-56a.15
+    textline: 則讒諂面諛之人至矣
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T04:57:45.778+09:00'

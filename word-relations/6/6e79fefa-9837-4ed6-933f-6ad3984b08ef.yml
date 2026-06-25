@@ -1,0 +1,32 @@
+uuid: 6e79fefa-9837-4ed6-933f-6ad3984b08ef
+type: word-relation
+group_uuid: 6e79fefa-9837-4ed6-933f-6ad3984b08ef
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ade8ee5d-ef62-4c36-beac-99463c90797c
+  text: 空
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 77c38509-aa56-4166-a63c-b444690bd7fb
+    line_id: KR3c0005_tls_001-5a.3
+    textline: 囷倉空虛
+    offset: 3
+    range: 1
+right:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 77c38509-aa56-4166-a63c-b444690bd7fb
+    line_id: KR3c0005_tls_001-5a.3
+    textline: 囷倉空虛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

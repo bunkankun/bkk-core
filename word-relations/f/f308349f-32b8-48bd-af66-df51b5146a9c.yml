@@ -1,0 +1,21 @@
+uuid: f308349f-32b8-48bd-af66-df51b5146a9c
+type: word-relation
+group_uuid: fbace8a9-ae87-5420-b129-635c30a3215e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ab4268d1-88ff-49b1-8852-a1526a89a796
+  text: 高
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+right:
+  word_uuid: 864fec77-bb15-4708-93b8-9b7185e6cb7f
+  text: 崇
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

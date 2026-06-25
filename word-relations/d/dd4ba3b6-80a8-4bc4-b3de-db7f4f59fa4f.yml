@@ -1,0 +1,21 @@
+uuid: dd4ba3b6-80a8-4bc4-b3de-db7f4f59fa4f
+type: word-relation
+group_uuid: a74241ae-fee8-53a1-971e-a759f427627d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 51f6f4e4-5cbe-4718-a1b7-acdc90d67612
+  text: 谷
+  concept: VALLEY
+  concept_uuid: aec4cc37-a2e4-4cf3-b5df-d7fe714d2734
+right:
+  word_uuid: d9a3a279-66ed-47c4-a314-550ddf50d1d3
+  text: 谿溪
+  concept: MOUNTAIN BROOK
+  concept_uuid: 347a5e50-8487-48e3-a9da-281cf332d42e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

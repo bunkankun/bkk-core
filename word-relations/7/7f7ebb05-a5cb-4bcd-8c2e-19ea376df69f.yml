@@ -1,0 +1,23 @@
+uuid: 7f7ebb05-a5cb-4bcd-8c2e-19ea376df69f
+type: word-relation
+group_uuid: b4a907f8-3d3b-59f6-b0fb-2f0061e2b678
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 102479b8-4bac-4401-a631-9e6ef3e55de5
+  text: 執
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+right:
+  word_uuid: cb4d51e7-e681-48fc-9118-e80545be4c34
+  text: 赦
+  concept: PARDON
+  concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '290'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

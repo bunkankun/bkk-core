@@ -1,0 +1,30 @@
+uuid: 19a94d48-cbd6-44fa-88db-d7820f7d34a9
+type: word-relation
+group_uuid: 19a94d48-cbd6-44fa-88db-d7820f7d34a9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f35f43df-b6c5-4cee-a2f1-2e4e466e9fd7
+  text: 開
+  concept: OPEN
+  concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+  attestation:
+    text_title: 楚辭
+    line_uuid: bd6ed98f-d500-4300-a596-293898e5a479
+    textline: 河伯兮開門
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1003e3f4-0855-4cfa-bf9d-a22f01c7c9cc
+  text: 門
+  concept: GATE
+  concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+  attestation:
+    text_title: 楚辭
+    line_uuid: bd6ed98f-d500-4300-a596-293898e5a479
+    textline: 河伯兮開門
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

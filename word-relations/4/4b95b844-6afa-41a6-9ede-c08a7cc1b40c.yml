@@ -1,0 +1,35 @@
+uuid: 4b95b844-6afa-41a6-9ede-c08a7cc1b40c
+type: word-relation
+group_uuid: 4b95b844-6afa-41a6-9ede-c08a7cc1b40c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 751b0576-62e2-4403-ac6c-e612d1c9c4dc
+    line_id: KR2g0003_tls_007-10a.55
+    textline: 哀樂剛柔
+    offset: 5
+    range: 1
+right:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 751b0576-62e2-4403-ac6c-e612d1c9c4dc
+    line_id: KR2g0003_tls_007-10a.55
+    textline: 哀樂剛柔
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

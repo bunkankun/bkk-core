@@ -1,0 +1,32 @@
+uuid: ff1bea4d-2f26-4870-8915-064488867010
+type: word-relation
+group_uuid: ff1bea4d-2f26-4870-8915-064488867010
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: 984e4ce4-ba8d-488d-87fa-1254cdbfdfed
+    line_id: KR3c0005_tls_027-13a.7
+    textline: 而下無愚拙之誅
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8ac17c2d-7ded-4025-90b0-9bed417c9f40
+  text: 拙
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: 984e4ce4-ba8d-488d-87fa-1254cdbfdfed
+    line_id: KR3c0005_tls_027-13a.7
+    textline: 而下無愚拙之誅
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

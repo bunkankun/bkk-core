@@ -1,0 +1,32 @@
+uuid: 43e33769-5b36-462c-87e1-f648db090f51
+type: word-relation
+group_uuid: 745bcb58-638f-4998-9f06-0aa1dcffea76
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2690dfea-2a3a-4760-b057-ad5cd72ed3e3
+  text: 朝
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: f25f3bbb-aa26-4ab3-bdb1-deb8a38cff08
+    line_id: KR3j0080_tls_002-2a.17
+    textline: 朝廷有三害
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2bfb0ef2-9e3b-4064-9a86-88488d8e104f
+  text: 廷
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: f25f3bbb-aa26-4ab3-bdb1-deb8a38cff08
+    line_id: KR3j0080_tls_002-2a.17
+    textline: 朝廷有三害
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

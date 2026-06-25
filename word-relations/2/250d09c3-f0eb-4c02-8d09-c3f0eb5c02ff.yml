@@ -1,0 +1,32 @@
+uuid: 250d09c3-f0eb-4c02-8d09-c3f0eb5c02ff
+type: word-relation
+group_uuid: f2dc0645-2562-5d79-8fcd-dd43ab1fd904
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_020-174a.3
+    textline: 修道術
+    offset: 2
+    range: 2
+right:
+  word_uuid: 31ac29cc-40a7-4164-8a3a-cd2cd80504aa
+  text: 修
+  concept: CULTIVATE
+  concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_020-174a.3
+    textline: 修道術
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:00:32.055+09:00'

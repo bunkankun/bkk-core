@@ -1,0 +1,32 @@
+uuid: 857bd7a4-ec45-4ec1-b045-d2d7a5774e9b
+type: word-relation
+group_uuid: 6bf97e8b-1788-45a6-bcba-7779bc44f4d7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 337c4afa-91bf-4081-b547-89a20a9a5cd0
+  text: 薄
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 老子
+    line_uuid: f0f1eddb-e714-4c24-b8d3-3fecc704d467
+    line_id: KR5c0057_tls_038-1a.28
+    textline: 不居其薄
+    offset: 4
+    range: 1
+right:
+  word_uuid: 99ad102f-470f-4e79-82c6-c5161bce4176
+  text: 厚
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 老子
+    line_uuid: e712ab1f-5271-47e9-842d-8be0447ef591
+    line_id: KR5c0057_tls_038-1a.27
+    textline: 處其厚
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

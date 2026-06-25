@@ -1,0 +1,30 @@
+uuid: a0f50378-99f7-4d98-b503-7899f7ed98d7
+type: word-relation
+group_uuid: 8cc028ac-e9ff-535c-a538-45975e0c6de3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_048-11a.32
+    textline: 王者承天意以從事
+    offset: 4
+    range: 2
+right:
+  word_uuid: 34f1a278-24f2-4967-8a4d-a1c522c67bef
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+  attestation:
+    text_title: 漢書
+    line_id: uuid-39ae5488-1cb1-46ea-b182-71a22378619d-1-zi
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:27:27.445+09:00'

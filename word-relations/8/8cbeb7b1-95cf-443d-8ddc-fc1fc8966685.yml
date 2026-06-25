@@ -1,0 +1,32 @@
+uuid: 8cbeb7b1-95cf-443d-8ddc-fc1fc8966685
+type: word-relation
+group_uuid: 71be96c0-594c-4c3e-8884-c0c1103b3046
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 346a82e0-c843-4285-8ce3-9e8389ba0187
+  text: 取
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 祖堂集
+    line_uuid: dfd0c043-7272-4d1e-bfa6-8e2892366de8
+    line_id: KR6q0002_Yan_003-1135a.16
+    textline: 無取無捨無憎愛
+    offset: 2
+    range: 1
+right:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 捨
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 祖堂集
+    line_uuid: dfd0c043-7272-4d1e-bfa6-8e2892366de8
+    line_id: KR6q0002_Yan_003-1135a.16
+    textline: 無取無捨無憎愛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

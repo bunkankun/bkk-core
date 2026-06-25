@@ -1,0 +1,21 @@
+uuid: c85c865f-bb64-4ece-95be-57f13d21bc33
+type: word-relation
+group_uuid: 99e41c63-fdfd-51b9-921e-36e655591bda
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4d107c24-43a3-4085-9976-8a00a6500d25
+  text: 貶
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+right:
+  word_uuid: 10e218c2-56a9-48fd-813b-42268f311b29
+  text: 少
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

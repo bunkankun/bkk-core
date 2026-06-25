@@ -1,0 +1,30 @@
+uuid: 4918985e-a5bf-4c76-9a3b-da05f0c5d055
+type: word-relation
+group_uuid: 4918985e-a5bf-4c76-9a3b-da05f0c5d055
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 墨子
+    line_uuid: 605aed05-15a8-4d2e-a661-76f0f5003c9e
+    textline: 則民仁且良
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 墨子
+    line_uuid: c0f3f944-0776-4e8d-b5ed-50677e494b99
+    textline: 則民吝且惡
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

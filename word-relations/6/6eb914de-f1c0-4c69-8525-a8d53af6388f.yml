@@ -1,0 +1,18 @@
+uuid: 6eb914de-f1c0-4c69-8525-a8d53af6388f
+type: word-relation
+group_uuid: 2c3ccb6c-7ca7-57cb-9cef-459049be45b7
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 581593fe-bff1-4600-8640-0440325b542c
+  text: 參
+  concept: CHECK
+  concept_uuid: bb9ab141-adfb-443f-9908-f7485cbd7560
+right:
+  word_uuid: 9f102487-1f81-404a-a918-320c1052ebd9
+  text: 驗
+  concept: PROVE
+  concept_uuid: 803e7403-e547-492f-a325-5f81c415dafd
+source:
+  source_file: word-relations.xml

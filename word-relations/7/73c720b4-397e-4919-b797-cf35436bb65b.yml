@@ -1,0 +1,21 @@
+uuid: 73c720b4-397e-4919-b797-cf35436bb65b
+type: word-relation
+group_uuid: ab600f99-5557-501e-adfe-216504acac6e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eff9587b-5791-4cc0-8a72-d9660aec35cf
+  text: 恥
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+right:
+  word_uuid: f921ea4d-9299-4cdd-ae55-ecbe23941b1a
+  text: 羞
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

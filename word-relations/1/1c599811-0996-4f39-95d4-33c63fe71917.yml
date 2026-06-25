@@ -1,0 +1,35 @@
+uuid: 1c599811-0996-4f39-95d4-33c63fe71917
+type: word-relation
+group_uuid: 39ec4884-830c-44af-b882-2cf4103e46be
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 50593438-52c2-46f6-b9bc-8ffa236fb6b1
+  text: 吉
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+  attestation:
+    text_title: 論衡
+    line_uuid: 47eb5b8f-8939-454f-b3da-ab5a55c89ed4
+    line_id: KR3j0080_tls_006-3a.7
+    textline: 人之有吉凶
+    offset: 4
+    range: 1
+right:
+  word_uuid: aa5cf34d-32db-4f92-a4c4-b1293dc3dfbc
+  text: 凶
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 論衡
+    line_uuid: 47eb5b8f-8939-454f-b3da-ab5a55c89ed4
+    line_id: KR3j0080_tls_006-3a.7
+    textline: 人之有吉凶
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

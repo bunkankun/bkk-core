@@ -1,0 +1,32 @@
+uuid: da93e3a4-efdb-48db-bf7b-8196cd5be065
+type: word-relation
+group_uuid: e0278a4e-e1e3-4651-9596-1c9bc00c69cc
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4bd7e5bc-da1c-4504-819c-ecb437824fc9
+  text: 信
+  concept: TRUST
+  concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+  attestation:
+    text_title: 韓非子
+    line_uuid: fe07ac7e-95b8-4842-b2d5-e7775baaf521
+    line_id: KR3c0005_tls_017-1a.4
+    textline: 信人
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 韓非子
+    line_uuid: fe07ac7e-95b8-4842-b2d5-e7775baaf521
+    line_id: KR3c0005_tls_017-1a.4
+    textline: 信人
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

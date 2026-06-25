@@ -1,0 +1,30 @@
+uuid: d1ffa28d-8d68-4028-abda-0841e4cf6895
+type: word-relation
+group_uuid: d1ffa28d-8d68-4028-abda-0841e4cf6895
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 49f734c6-8972-48e8-9fce-a482c02a85cc
+  text: 辱
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+  attestation:
+    text_title: 韓非子
+    line_uuid: 33906dbc-524a-41f9-a259-b4a7ec12c2bd
+    textline: 虜所辱也
+    offset: 3
+    range: 1
+right:
+  word_uuid: f921ea4d-9299-4cdd-ae55-ecbe23941b1a
+  text: 羞
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+  attestation:
+    text_title: 韓非子
+    line_uuid: d2666f30-d814-4480-9b87-de018bbf246a
+    textline: 宰所羞也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

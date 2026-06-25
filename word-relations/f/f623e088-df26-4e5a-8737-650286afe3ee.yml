@@ -1,0 +1,32 @@
+uuid: f623e088-df26-4e5a-8737-650286afe3ee
+type: word-relation
+group_uuid: 3ac459a3-eecd-46ce-bb38-b273a3219582
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a5c4520d-b189-4562-96ca-8dcdd78c2b0a
+  text: 管
+  concept: PIPE
+  concept_uuid: f6bdf64f-3f6a-4d18-b375-1983d90178d2
+  attestation:
+    text_title: 孟子
+    line_uuid: 6a75839d-0a13-4c71-b6aa-59390073eadd
+    line_id: KR1h0001_tls_002-11a.5
+    textline: 管籥之音
+    offset: 1
+    range: 1
+right:
+  word_uuid: e521ec0b-2a81-444f-82eb-0445bbcf4f46
+  text: 籥
+  concept: PIPE
+  concept_uuid: f6bdf64f-3f6a-4d18-b375-1983d90178d2
+  attestation:
+    text_title: 孟子
+    line_uuid: 6a75839d-0a13-4c71-b6aa-59390073eadd
+    line_id: KR1h0001_tls_002-11a.5
+    textline: 管籥之音
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

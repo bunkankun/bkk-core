@@ -1,0 +1,32 @@
+uuid: 5876a728-df25-421a-b862-1a076402e5be
+type: word-relation
+group_uuid: 5876a728-df25-421a-b862-1a076402e5be
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: fe6eca71-8ea7-4128-b286-7883815c25dc
+  text: 備
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0c6e74a0-893b-40a9-82a7-3b4a8cd59129
+    line_id: KR3c0005_tls_004-12a.7
+    textline: 此明君之所以備不虞者也
+    offset: 7
+    range: 1
+right:
+  word_uuid: 89c8429d-bee0-4a2f-a284-fbe0564df177
+  text: 不虞
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0c6e74a0-893b-40a9-82a7-3b4a8cd59129
+    line_id: KR3c0005_tls_004-12a.7
+    textline: 此明君之所以備不虞者也
+    offset: 8
+    range: 2
+source:
+  source_file: word-relations.xml

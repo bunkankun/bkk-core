@@ -1,0 +1,32 @@
+uuid: 5d37a4e1-566f-4380-b7a4-e1566f63803b
+type: word-relation
+group_uuid: f720671d-8392-542f-beb4-c9cfb044a05c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: dfa8e347-e897-4929-9dd9-1ff31f3127f0
+  text: 然
+  concept: ASSENT
+  concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_021-14a.27
+    textline: 李廣然之
+    offset: 3
+    range: 1
+right:
+  word_uuid: ffc7f90d-922b-445a-b934-973ac09ffa67
+  text: 信
+  concept: BELIEVE
+  concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_021-14a.28
+    textline: 聞者信之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-06-12T16:59:53.031+09:00'

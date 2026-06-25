@@ -1,0 +1,32 @@
+uuid: 4ae38732-22c6-47b3-a387-3222c637b3b3
+type: word-relation
+group_uuid: ef118f4e-7eff-5809-8754-0b95d75eae92
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: f4ac8d5b-3e90-4a36-a102-0975c990b84a
+  text: 學
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_007-6a.49
+    textline: 智不能棲世學之上
+    offset: 6
+    range: 1
+right:
+  word_uuid: ea7f1f39-6ea4-40b0-ae7c-c4976399359e
+  text: 世
+  concept: GENERATION
+  concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_007-6a.49
+    textline: 智不能棲世學之上
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-28T04:24:28.267+09:00'

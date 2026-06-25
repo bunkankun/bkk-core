@@ -1,0 +1,32 @@
+uuid: 149b0319-4def-4b4f-97d9-0664af3680ed
+type: word-relation
+group_uuid: cdb1a355-e7b5-46d0-b199-b7b57e7005c2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4dde2308-2503-4513-b7f3-bfd5a67512c2
+  text: 端
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 651ebbe4-76e4-42c7-805e-b5b67325076d
+    line_id: KR3c0005_tls_020-30a.6
+    textline: 行端直
+    offset: 2
+    range: 1
+right:
+  word_uuid: 64ede978-68c8-4562-80cf-e8ab34fae98f
+  text: 直
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 651ebbe4-76e4-42c7-805e-b5b67325076d
+    line_id: KR3c0005_tls_020-30a.6
+    textline: 行端直
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 975cee3e-cf60-4881-b531-5905db23065c
+type: word-relation
+group_uuid: 975cee3e-cf60-4881-b531-5905db23065c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 285fffea-a511-45e3-972d-ff0b6b673f16
+  text: 玩
+  concept: TOY
+  concept_uuid: 74ff311e-a845-49f3-b5dc-333cf34779ee
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1941f71d-7853-44f0-b64d-6ff822df1643
+    line_id: KR3c0005_tls_009-5a.3
+    textline: 內事之以金玉玩好
+    offset: 7
+    range: 1
+right:
+  word_uuid: 8ac8b797-9808-4c46-8397-28ef9343d3d8
+  text: 好
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1941f71d-7853-44f0-b64d-6ff822df1643
+    line_id: KR3c0005_tls_009-5a.3
+    textline: 內事之以金玉玩好
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

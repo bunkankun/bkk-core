@@ -1,0 +1,32 @@
+uuid: ffbbf259-d570-4c25-affb-abfdcfc64e08
+type: word-relation
+group_uuid: ffbbf259-d570-4c25-affb-abfdcfc64e08
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 53d8c13a-c787-4152-b3dd-970763f48549
+  text: 就
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: c2602b96-e087-4096-8c1b-6b0f9c36fee3
+    line_id: KR3a0006_tls_001-3a.14
+    textline: 是以百姓就本者寡
+    offset: 5
+    range: 1
+right:
+  word_uuid: f38caadd-dff7-4c82-bac8-c483d4ac3862
+  text: 趨
+  concept: CHOOSE
+  concept_uuid: e8c0bafd-4166-403c-af11-7a5b5d318af5
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 65916a53-b758-48a3-8037-5a0200973091
+    line_id: KR3a0006_tls_001-3a.15
+    textline: 趨末者眾
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

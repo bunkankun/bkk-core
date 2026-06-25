@@ -1,0 +1,32 @@
+uuid: 530f388a-3326-4788-a913-a97ef5bb458a
+type: word-relation
+group_uuid: 530f388a-3326-4788-a913-a97ef5bb458a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7a7df26c-65bf-44f7-bd80-e485442ae0c0
+  text: 金
+  concept: METAL
+  concept_uuid: 678eda4e-9edf-42e1-aa07-b5d5c0081ead
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b8205deb-8093-4cc2-aaa0-0a5d78ce144f
+    line_id: KR3j0009_tls_005-14a.17
+    textline: 為金石之聲則若霆
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6b790eb4-1263-47f1-b342-a61026d4287f
+  text: 石
+  concept: STONE
+  concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b8205deb-8093-4cc2-aaa0-0a5d78ce144f
+    line_id: KR3j0009_tls_005-14a.17
+    textline: 為金石之聲則若霆
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

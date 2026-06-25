@@ -1,0 +1,32 @@
+uuid: e6dd67e9-35a3-48f4-aa56-79eab6a9c671
+type: word-relation
+group_uuid: e6dd67e9-35a3-48f4-aa56-79eab6a9c671
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b7e9a6c5-2194-44f6-8b93-d60242087d7f
+  text: 條
+  concept: BRANCH
+  concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 89b28148-87bd-4215-8a75-03d947d42b17
+    line_id: KR1c0066_tls_002-13a.30
+    textline: 延于條枚
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0c0dfafa-afac-4811-9316-acb72f4933ab
+  text: 枚
+  concept: BRANCH
+  concept_uuid: 1d24b94e-dedc-403f-aa77-6588639562e6
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 89b28148-87bd-4215-8a75-03d947d42b17
+    line_id: KR1c0066_tls_002-13a.30
+    textline: 延于條枚
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

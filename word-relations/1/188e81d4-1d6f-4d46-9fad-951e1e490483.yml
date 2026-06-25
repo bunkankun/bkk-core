@@ -1,0 +1,18 @@
+uuid: 188e81d4-1d6f-4d46-9fad-951e1e490483
+type: word-relation
+group_uuid: 29ec237c-d6e9-5159-971a-7a68a2feb18c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9018fe61-fda7-4a71-ad38-a5cf3856f610
+  text: 緩
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+right:
+  word_uuid: 7618a0b6-ef3b-4463-8fc7-8c561e7ec2b4
+  text: 徐
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+source:
+  source_file: word-relations.xml

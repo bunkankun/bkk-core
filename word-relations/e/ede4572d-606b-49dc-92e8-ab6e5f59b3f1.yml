@@ -1,0 +1,30 @@
+uuid: ede4572d-606b-49dc-92e8-ab6e5f59b3f1
+type: word-relation
+group_uuid: ec63cdab-af33-4ba4-81c5-234fafcfc17d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b3756bd9-c8ca-4e1b-9dbd-b636babc9abd
+  text: 往
+  concept: LEAVE
+  concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+  attestation:
+    text_title: 莊子
+    line_uuid: e7d7dfb2-1cf1-487c-8ee6-98a427feb29d
+    textline: 往而不返
+    offset: 1
+    range: 1
+right:
+  word_uuid: e489e581-cc89-48d1-ac5d-7cb87325901e
+  text: 返
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 莊子
+    line_uuid: e7d7dfb2-1cf1-487c-8ee6-98a427feb29d
+    textline: 往而不返
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

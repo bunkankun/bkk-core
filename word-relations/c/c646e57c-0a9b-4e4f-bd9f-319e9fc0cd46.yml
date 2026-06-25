@@ -1,0 +1,21 @@
+uuid: c646e57c-0a9b-4e4f-bd9f-319e9fc0cd46
+type: word-relation
+group_uuid: 900241ab-b5c6-571c-a94a-51c90da24975
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 40dd86be-c451-4c70-a7e9-4ae7c1ca7590
+  text: 促
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+right:
+  word_uuid: 9018fe61-fda7-4a71-ad38-a5cf3856f610
+  text: 緩
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

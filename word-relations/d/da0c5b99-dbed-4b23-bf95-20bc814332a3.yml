@@ -1,0 +1,35 @@
+uuid: da0c5b99-dbed-4b23-bf95-20bc814332a3
+type: word-relation
+group_uuid: da0c5b99-dbed-4b23-bf95-20bc814332a3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5f1b8c0a-331c-4bf5-ad94-2e4d2c067b8d
+  text: 廣
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 禮記
+    line_uuid: 92de4067-de1e-431f-b142-433465195598
+    line_id: KR1d0052_tls_010-3a.22
+    textline: 以地廣狹
+    offset: 3
+    range: 1
+right:
+  word_uuid: 651c8e6e-a808-465a-bb10-6b2fcc936c9a
+  text: 狹
+  concept: NARROW
+  concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+  attestation:
+    text_title: 禮記
+    line_uuid: 92de4067-de1e-431f-b142-433465195598
+    line_id: KR1d0052_tls_010-3a.22
+    textline: 以地廣狹
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

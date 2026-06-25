@@ -1,0 +1,32 @@
+uuid: c5f003ad-7ae6-448f-aff9-905a1606471b
+type: word-relation
+group_uuid: c5f003ad-7ae6-448f-aff9-905a1606471b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 08db52ee-7cb9-4a60-af24-e8752e38c1d0
+  text: 褊
+  concept: NARROW
+  concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+  attestation:
+    text_title: 楚辭
+    line_uuid: 15ceea33-39e8-4f42-9cc8-e89622e2fc00
+    line_id: KR4a0001_tls_008-5a.48
+    textline: 性愚陋以褊淺兮
+    offset: 5
+    range: 1
+right:
+  word_uuid: 6b29ef92-2cf8-4e7b-bf39-b5049f89fce5
+  text: 淺
+  concept: SHALLOW
+  concept_uuid: 9a55881b-7984-4567-aaa9-714e78d66931
+  attestation:
+    text_title: 楚辭
+    line_uuid: 15ceea33-39e8-4f42-9cc8-e89622e2fc00
+    line_id: KR4a0001_tls_008-5a.48
+    textline: 性愚陋以褊淺兮
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

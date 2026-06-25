@@ -1,0 +1,32 @@
+uuid: c0af986b-8a93-4958-91c3-e3c03ef69940
+type: word-relation
+group_uuid: 971e67a1-8512-47cf-b749-8a150fe8a7d8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 34ed9998-66d1-4789-95de-fa0de7e344fd
+  text: 議
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15c353e9-b7e2-4836-be44-2e6147390560
+    line_id: KR3c0005_tls_018-11a.5
+    textline: 不敢議事
+    offset: 3
+    range: 1
+right:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15c353e9-b7e2-4836-be44-2e6147390560
+    line_id: KR3c0005_tls_018-11a.5
+    textline: 不敢議事
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

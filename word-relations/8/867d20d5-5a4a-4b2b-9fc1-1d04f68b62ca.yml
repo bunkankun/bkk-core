@@ -1,0 +1,32 @@
+uuid: 867d20d5-5a4a-4b2b-9fc1-1d04f68b62ca
+type: word-relation
+group_uuid: 867d20d5-5a4a-4b2b-9fc1-1d04f68b62ca
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 46fd1fb6-1618-42b7-84a0-4a7cdbc132e3
+  text: 丘
+  concept: MOUND
+  concept_uuid: c4fdb931-fc00-49a0-9233-4c29137b7b72
+  attestation:
+    text_title: 韓非子
+    line_uuid: b943d41e-40b3-45d2-ba0d-ba1137f8d28e
+    line_id: KR3c0005_tls_021-53a.3
+    textline: 則禍福雖如丘山
+    offset: 6
+    range: 1
+right:
+  word_uuid: 5a9ad312-3b67-41c4-8200-efd309275fb1
+  text: 山
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 韓非子
+    line_uuid: b943d41e-40b3-45d2-ba0d-ba1137f8d28e
+    line_id: KR3c0005_tls_021-53a.3
+    textline: 則禍福雖如丘山
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

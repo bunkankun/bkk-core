@@ -1,0 +1,32 @@
+uuid: ed224062-3f32-402e-92d1-4f4546b4f530
+type: word-relation
+group_uuid: ed224062-3f32-402e-92d1-4f4546b4f530
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 9c6d87b1-7a18-456b-942b-36b900d93302
+  text: 守
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5564d680-63c4-45d6-97f9-51eec33cba3c
+    line_id: KR3c0005_tls_006-30a.5
+    textline: 先王之所守要
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3697ea68-0b6a-45a3-88aa-d5c5c2706c9d
+  text: 要
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5564d680-63c4-45d6-97f9-51eec33cba3c
+    line_id: KR3c0005_tls_006-30a.5
+    textline: 先王之所守要
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

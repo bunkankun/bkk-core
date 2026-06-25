@@ -1,0 +1,32 @@
+uuid: e395eac2-510c-4fdd-a006-6d490b3305f0
+type: word-relation
+group_uuid: afe5ab3f-843f-4bdd-a21e-bb197c6676fb
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8872988d-eb87-470e-bd25-0c32fa6401f7
+    line_id: KR3c0005_tls_020-89a.2
+    textline: 戎馬乏
+    offset: 2
+    range: 1
+right:
+  word_uuid: e5d0deb7-f954-4c81-b8b8-10f3194a45a9
+  text: 戎
+  concept: WARFARE
+  concept_uuid: cb0e1ecf-18e6-47a5-a6e4-c01dcbe9061c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8872988d-eb87-470e-bd25-0c32fa6401f7
+    line_id: KR3c0005_tls_020-89a.2
+    textline: 戎馬乏
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

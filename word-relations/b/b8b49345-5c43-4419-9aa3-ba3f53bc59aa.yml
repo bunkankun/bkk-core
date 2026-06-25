@@ -1,0 +1,30 @@
+uuid: b8b49345-5c43-4419-9aa3-ba3f53bc59aa
+type: word-relation
+group_uuid: b8b49345-5c43-4419-9aa3-ba3f53bc59aa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c74708cf-2a21-4f27-a21e-69b984d260c3
+  text: 行
+  concept: WALK
+  concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+  attestation:
+    text_title: 老子
+    line_uuid: 440e884a-e839-4e79-9ef7-1d3467709c68
+    textline: 夫物或行或隨
+    offset: 4
+    range: 1
+right:
+  word_uuid: e980266b-4c88-4642-a6fe-d17315f4246c
+  text: 隨
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+  attestation:
+    text_title: 老子
+    line_uuid: 440e884a-e839-4e79-9ef7-1d3467709c68
+    textline: 夫物或行或隨
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

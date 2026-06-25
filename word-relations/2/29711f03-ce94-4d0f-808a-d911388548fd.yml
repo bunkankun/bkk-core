@@ -1,0 +1,32 @@
+uuid: 29711f03-ce94-4d0f-808a-d911388548fd
+type: word-relation
+group_uuid: 29711f03-ce94-4d0f-808a-d911388548fd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cf3ddfaf-3538-4816-b5c9-213dc178b1e4
+  text: 同
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 論衡
+    line_uuid: f9521e08-88e1-4042-ba07-d08c1210e5cc
+    line_id: KR3j0080_tls_005-6a.13
+    textline: 同一意也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4faf6c1e-a7e5-4a04-a9df-0f0c5e4dd98d
+  text: 一
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 論衡
+    line_uuid: f9521e08-88e1-4042-ba07-d08c1210e5cc
+    line_id: KR3j0080_tls_005-6a.13
+    textline: 同一意也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

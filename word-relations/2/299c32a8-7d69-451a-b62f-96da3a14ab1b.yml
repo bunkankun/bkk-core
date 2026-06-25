@@ -1,0 +1,32 @@
+uuid: 299c32a8-7d69-451a-b62f-96da3a14ab1b
+type: word-relation
+group_uuid: 299c32a8-7d69-451a-b62f-96da3a14ab1b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e0bd7eab-9665-48f9-a641-0be40efa0c16
+  text: 儉
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 10e700d0-b312-4399-ad88-f39f89539a9b
+    line_id: KR3j0009_tls_001-18a.29
+    textline: 非好儉而惡費也
+    offset: 3
+    range: 1
+right:
+  word_uuid: fe01643b-57d7-4630-a30e-c352e4cdf68d
+  text: 費
+  concept: WASTE
+  concept_uuid: cb68f425-4800-453d-aad6-4177b9106fb8
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 10e700d0-b312-4399-ad88-f39f89539a9b
+    line_id: KR3j0009_tls_001-18a.29
+    textline: 非好儉而惡費也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

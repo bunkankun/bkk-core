@@ -1,0 +1,30 @@
+uuid: f4a28a00-ad35-4666-911e-c8d30511ec58
+type: word-relation
+group_uuid: 187cd014-a278-4a3c-b479-118bdcc859c8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 46e6602e-3321-46c0-bdd6-5fe415a6c1ee
+  text: 睹
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+  attestation:
+    text_title: 法言
+    line_uuid: f8b7739f-8e9c-42fa-ad21-311ec6b284ff
+    textline: 閉之閛然不睹牆之裡
+    offset: 6
+    range: 1
+right:
+  word_uuid: abd9bc1f-6f3c-46b6-8660-fcad1e9153fb
+  text: 見
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+  attestation:
+    text_title: 法言
+    line_uuid: 16ad411c-2323-43ff-a919-8d968341b927
+    textline: 開之廓然見四海
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 0892ecbb-4000-4d9b-bcaa-6c5b1d1a6ef0
+type: word-relation
+group_uuid: 63651f0c-f4e8-507b-a38a-bafeeba894aa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+right:
+  word_uuid: 5bbb4790-f832-44bb-9d31-e45e24cca305
+  text: 除
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

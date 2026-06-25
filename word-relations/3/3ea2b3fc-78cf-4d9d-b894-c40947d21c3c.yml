@@ -1,0 +1,32 @@
+uuid: 3ea2b3fc-78cf-4d9d-b894-c40947d21c3c
+type: word-relation
+group_uuid: 3ea2b3fc-78cf-4d9d-b894-c40947d21c3c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 論語
+    line_uuid: f366e32f-2c3e-496c-a0fa-7d80cd831124
+    line_id: KR1h0004_tls_008-7a.4
+    textline: 任重而道遠
+    offset: 4
+    range: 1
+right:
+  word_uuid: 320a1bc4-47b4-48b6-b7c2-9429b49e590f
+  text: 遠
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 論語
+    line_uuid: f366e32f-2c3e-496c-a0fa-7d80cd831124
+    line_id: KR1h0004_tls_008-7a.4
+    textline: 任重而道遠
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

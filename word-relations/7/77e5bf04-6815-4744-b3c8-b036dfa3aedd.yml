@@ -1,0 +1,32 @@
+uuid: 77e5bf04-6815-4744-b3c8-b036dfa3aedd
+type: word-relation
+group_uuid: 77e5bf04-6815-4744-b3c8-b036dfa3aedd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 443e529e-c199-4d08-a41f-7f000bfec430
+  text: 營
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+  attestation:
+    text_title: 論衡
+    line_uuid: 99aa769a-7fec-40f1-b5fa-6e97054ee32a
+    line_id: KR3j0080_tls_016-35a.8
+    textline: 營衛其身
+    offset: 1
+    range: 1
+right:
+  word_uuid: d8bf2743-ff27-46cb-824c-15454f953220
+  text: 衛
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+  attestation:
+    text_title: 論衡
+    line_uuid: 99aa769a-7fec-40f1-b5fa-6e97054ee32a
+    line_id: KR3j0080_tls_016-35a.8
+    textline: 營衛其身
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

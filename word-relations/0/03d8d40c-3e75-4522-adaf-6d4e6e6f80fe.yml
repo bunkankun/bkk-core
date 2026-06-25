@@ -1,0 +1,32 @@
+uuid: 03d8d40c-3e75-4522-adaf-6d4e6e6f80fe
+type: word-relation
+group_uuid: 03d8d40c-3e75-4522-adaf-6d4e6e6f80fe
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8b5b5a51-6179-4e55-8316-c47a2c8c3a28
+  text: 枉
+  concept: UNJUST
+  concept_uuid: 0cfa0cc2-46fa-46a8-a278-c5ea218e50da
+  attestation:
+    text_title: 論語
+    line_uuid: a7867c8f-abb9-47e5-a544-f342a18783ae
+    line_id: KR1h0004_tls_002-20a.5
+    textline: 「舉直錯諸枉
+    offset: 6
+    range: 1
+right:
+  word_uuid: 2439b222-118f-48cc-a686-0158869c8e90
+  text: 直
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: 4c01118c-8557-4ca0-9659-4e5d910ca8b7
+    line_id: KR1h0004_tls_002-20a.7
+    textline: 舉枉錯諸直
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

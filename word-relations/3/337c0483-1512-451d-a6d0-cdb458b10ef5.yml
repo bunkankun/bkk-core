@@ -1,0 +1,21 @@
+uuid: 337c0483-1512-451d-a6d0-cdb458b10ef5
+type: word-relation
+group_uuid: 7708b55e-9ff2-5f50-bc86-c8a10348da1a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 98b73761-09e4-474d-a793-3084826784f3
+  text: 鬥
+  concept: FIGHT
+  concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+right:
+  word_uuid: 9ed0280f-2a33-4e5d-8b01-efd061cda441
+  text: 戰
+  concept: FIGHT
+  concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

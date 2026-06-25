@@ -1,0 +1,32 @@
+uuid: de968c87-e77a-4a19-90c3-80b8564fe8d4
+type: word-relation
+group_uuid: de968c87-e77a-4a19-90c3-80b8564fe8d4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 55f1d46e-de55-41e5-8ca5-6fe123579c2c
+  text: 如
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 論語
+    line_uuid: 43a20174-27a6-48b0-b304-6b68ecf409e0
+    line_id: KR1h0004_tls_008-17a.3
+    textline: 「學如不及
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1e40b5b0-89d2-4fd9-9b3c-944165da8960
+  text: 猶
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 論語
+    line_uuid: 4deb9e18-2aa4-4266-9c3d-cf3b648e4785
+    line_id: KR1h0004_tls_008-18a.1
+    textline: 猶恐失之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

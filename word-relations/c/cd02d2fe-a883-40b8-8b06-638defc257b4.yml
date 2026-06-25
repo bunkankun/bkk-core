@@ -1,0 +1,18 @@
+uuid: cd02d2fe-a883-40b8-8b06-638defc257b4
+type: word-relation
+group_uuid: 1378f7e9-5607-5ccf-9ecb-d6c3c9ac95b7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2b311c68-dca4-4cbb-9faa-3d13bffe0393
+  text: 卻
+  concept: WITHDRAW
+  concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+right:
+  word_uuid: 242c081e-f5a8-4791-90b6-f6ecaaa339f1
+  text: 走
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 97e8218a-0541-49b3-89c8-dedde7d1a7e3
+type: word-relation
+group_uuid: cdd55c1f-00fb-5ec0-a921-5e3acffc3741
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fb8b7017-4bcc-4aab-bc59-5372ba6857a1
+  text: 策
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+right:
+  word_uuid: ec9b7a1d-87c4-43a9-9bc8-231ea63e7ecc
+  text: 謀
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

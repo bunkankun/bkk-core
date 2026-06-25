@@ -1,0 +1,32 @@
+uuid: 73ae6e20-986a-44a6-ae6e-20986a74a6e8
+type: word-relation
+group_uuid: f302d530-e033-59bd-8678-730c34c4c710
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 965b2aa3-1979-40d1-9af2-ffbbdc481aca
+  text: 號
+  concept: NAME
+  concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_024-4a.3
+    textline: 號乎
+    offset: 1
+    range: 1
+right:
+  word_uuid: 39e814c4-c7c2-476b-9901-0e3a6e7ef779
+  text: 謚
+  concept: NAME
+  concept_uuid: aa314ef9-9a5b-43c6-ae30-73674727ab51
+  attestation:
+    text_title: 論衡
+    line_id: KR3j0080_tls_024-4a.4
+    textline: 謚也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-06-12T22:07:53.772+09:00'

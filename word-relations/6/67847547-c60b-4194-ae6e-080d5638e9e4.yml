@@ -1,0 +1,32 @@
+uuid: 67847547-c60b-4194-ae6e-080d5638e9e4
+type: word-relation
+group_uuid: 67847547-c60b-4194-ae6e-080d5638e9e4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: e8e0f7b8-4a8a-4a4a-bf4a-d28cf22b5591
+    line_id: KR3j0080_tls_006-9a.11
+    textline: 則禍殃乃至
+    offset: 2
+    range: 1
+right:
+  word_uuid: b49bcdb1-28d6-48ac-9986-23244409aa36
+  text: 殃
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 論衡
+    line_uuid: e8e0f7b8-4a8a-4a4a-bf4a-d28cf22b5591
+    line_id: KR3j0080_tls_006-9a.11
+    textline: 則禍殃乃至
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

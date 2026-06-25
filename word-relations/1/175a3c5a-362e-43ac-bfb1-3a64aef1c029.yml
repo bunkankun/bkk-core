@@ -1,0 +1,30 @@
+uuid: 175a3c5a-362e-43ac-bfb1-3a64aef1c029
+type: word-relation
+group_uuid: 175a3c5a-362e-43ac-bfb1-3a64aef1c029
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 62de2824-135d-47ac-87d7-635d53c064cb
+  text: 損
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+  attestation:
+    text_title: 論衡
+    line_uuid: 8a499466-09b0-4eba-9de2-f14f3fbc6dd7
+    textline: 此恩損於親而愛增於子也
+    offset: 3
+    range: 1
+right:
+  word_uuid: c720e417-a271-4b6f-a3c9-0b3edc56a983
+  text: 增
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 論衡
+    line_uuid: 8a499466-09b0-4eba-9de2-f14f3fbc6dd7
+    textline: 此恩損於親而愛增於子也
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

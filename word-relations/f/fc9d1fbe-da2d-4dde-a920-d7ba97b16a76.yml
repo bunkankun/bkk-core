@@ -1,0 +1,18 @@
+uuid: fc9d1fbe-da2d-4dde-a920-d7ba97b16a76
+type: word-relation
+group_uuid: ac2cf04f-18bf-5e6f-8305-4235c374a4bb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+right:
+  word_uuid: 0d609310-7adf-45a1-8d01-645fc58a2123
+  text: 門
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: 167c94b6-8977-48f2-a405-93ce208b543b
+type: word-relation
+group_uuid: 64c29afb-62c5-4f08-bc64-43fc7778cf76
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 論衡
+    line_uuid: 1657eeee-c1e8-4c84-afff-e53bd4097844
+    line_id: KR3j0080_tls_001-4a.37
+    textline: 主行道德
+    offset: 3
+    range: 1
+right:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 論衡
+    line_uuid: 1657eeee-c1e8-4c84-afff-e53bd4097844
+    line_id: KR3j0080_tls_001-4a.37
+    textline: 主行道德
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 1abe9ccd-9f90-4be2-aaea-a78186852901
+type: word-relation
+group_uuid: 1abe9ccd-9f90-4be2-aaea-a78186852901
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 韓非子
+    line_uuid: 93ee2307-9f92-4e6e-840d-d842b89e3cc9
+    line_id: KR3c0005_tls_008-11a.4
+    textline: 毋失其要
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3697ea68-0b6a-45a3-88aa-d5c5c2706c9d
+  text: 要
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 93ee2307-9f92-4e6e-840d-d842b89e3cc9
+    line_id: KR3c0005_tls_008-11a.4
+    textline: 毋失其要
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

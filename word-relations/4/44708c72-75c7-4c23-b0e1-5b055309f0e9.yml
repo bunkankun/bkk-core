@@ -1,0 +1,32 @@
+uuid: 44708c72-75c7-4c23-b0e1-5b055309f0e9
+type: word-relation
+group_uuid: 44708c72-75c7-4c23-b0e1-5b055309f0e9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 9c6d87b1-7a18-456b-942b-36b900d93302
+  text: 守
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 386f268a-f65c-4b78-94ce-f1ef69138fe4
+    line_id: KR3c0005_tls_014-14a.2
+    textline: 若以守法不朋黨治官
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 386f268a-f65c-4b78-94ce-f1ef69138fe4
+    line_id: KR3c0005_tls_014-14a.2
+    textline: 若以守法不朋黨治官
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

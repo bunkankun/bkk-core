@@ -1,0 +1,32 @@
+uuid: ef71ca5d-a782-4ab0-a616-7d82e06abc95
+type: word-relation
+group_uuid: ef71ca5d-a782-4ab0-a616-7d82e06abc95
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 16db2d04-8a7f-4e3a-b354-40a125d04439
+  text: 敬
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9633fc1a-4c3d-4fbc-bc2c-5e462fbd0f74
+    line_id: KR3c0005_tls_049-46a.2
+    textline: 廢敬上畏法之民
+    offset: 2
+    range: 1
+right:
+  word_uuid: de53c3ad-b528-40d9-81e2-321a4a2a1565
+  text: 畏
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9633fc1a-4c3d-4fbc-bc2c-5e462fbd0f74
+    line_id: KR3c0005_tls_049-46a.2
+    textline: 廢敬上畏法之民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: b01c5339-28a4-47de-ad6d-71891b9cefd0
+type: word-relation
+group_uuid: b01c5339-28a4-47de-ad6d-71891b9cefd0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2b22ae20-c449-4235-be65-5a9bdfed837d
+  text: 侵
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 楚辭
+    line_uuid: 283cfcb3-62ad-448e-9033-a08fa792ff0f
+    textline: 孰侵辱之可為
+    offset: 2
+    range: 1
+right:
+  word_uuid: 49f734c6-8972-48e8-9fce-a482c02a85cc
+  text: 辱
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+  attestation:
+    text_title: 楚辭
+    line_uuid: 283cfcb3-62ad-448e-9033-a08fa792ff0f
+    textline: 孰侵辱之可為
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

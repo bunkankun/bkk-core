@@ -1,0 +1,35 @@
+uuid: c6769b47-a9c7-486f-a23d-69fb608836d0
+type: word-relation
+group_uuid: 09cdb6ba-7983-4d24-a740-758baec9272d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: daad64b7-13de-4ab6-b6e1-b29055621fa6
+  text: 曲
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 管子
+    line_uuid: 5c3ba9ba-40df-49b8-97b4-726afd45c6e2
+    line_id: KR3c0001_tls_004-11a.4
+    textline: 可曲可直
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2439b222-118f-48cc-a686-0158869c8e90
+  text: 直
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 管子
+    line_uuid: 5c3ba9ba-40df-49b8-97b4-726afd45c6e2
+    line_id: KR3c0001_tls_004-11a.4
+    textline: 可曲可直
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

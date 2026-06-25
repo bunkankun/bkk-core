@@ -1,0 +1,35 @@
+uuid: 14e39e34-e3f0-48e1-9bce-b4be86eab6f7
+type: word-relation
+group_uuid: 14e39e34-e3f0-48e1-9bce-b4be86eab6f7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2a5c4e4e-268f-4829-877e-08332e0baf0c
+  text: 官
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3d09d19a-76d7-4f17-8611-56b915496850
+    line_id: KR3c0005_tls_006-40a.2
+    textline: 厲官威民
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3d09d19a-76d7-4f17-8611-56b915496850
+    line_id: KR3c0005_tls_006-40a.2
+    textline: 厲官威民
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

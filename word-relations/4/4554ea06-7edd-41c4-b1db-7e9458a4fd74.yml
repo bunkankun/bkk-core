@@ -1,0 +1,32 @@
+uuid: 4554ea06-7edd-41c4-b1db-7e9458a4fd74
+type: word-relation
+group_uuid: 4554ea06-7edd-41c4-b1db-7e9458a4fd74
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 39edbbce-07eb-42fe-ab77-9f8532b9640e
+  text: 麻
+  concept: CLOTH MATERIALS
+  concept_uuid: be1b0859-c516-4c8f-be40-bb65e2643fbf
+  attestation:
+    text_title: 禮記
+    line_uuid: 10681397-057c-4628-bccd-dd8fb6fb9759
+    line_id: KR1d0052_tls_009-5a.11
+    textline: 未有麻絲
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8a4de793-20d6-4901-85b5-d7da111c44f9
+  text: 絲
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 禮記
+    line_uuid: 10681397-057c-4628-bccd-dd8fb6fb9759
+    line_id: KR1d0052_tls_009-5a.11
+    textline: 未有麻絲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 019f7104-3fca-4e43-b76f-b25991447bed
+type: word-relation
+group_uuid: 019f7104-3fca-4e43-b76f-b25991447bed
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 97877721-4a39-4f44-a216-bf98731a6f32
+  text: 所
+  concept: PLACE
+  concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+  attestation:
+    text_title: 戰國策
+    line_uuid: b36b0e1c-0854-4c91-a486-4b310dc97fdf
+    line_id: KR2e0003_tls_023-1a.9
+    textline: 張於無鳥之所
+    offset: 6
+    range: 1
+right:
+  word_uuid: b27421ff-9259-4ba0-9c59-c6fafcb446cf
+  text: 處
+  concept: PLACE
+  concept_uuid: 9ad2188b-a1fe-4493-9868-b5683a3a0606
+  attestation:
+    text_title: 戰國策
+    line_uuid: e549a459-021b-45e5-a550-0f37e0ea9da0
+    line_id: KR2e0003_tls_023-1a.11
+    textline: 張於多鳥處
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

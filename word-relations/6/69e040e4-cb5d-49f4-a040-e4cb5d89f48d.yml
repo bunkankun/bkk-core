@@ -1,0 +1,32 @@
+uuid: 69e040e4-cb5d-49f4-a040-e4cb5d89f48d
+type: word-relation
+group_uuid: 8a8af7b5-2fc1-53b4-9e4a-817376b71768
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c0efbbeb-e4db-4edb-afd4-ef26316dc482
+  text: 德行
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 尸子
+    line_id: KR3j0194_tls_004-1a.37
+    textline: 士亦務其德行 美其道術以輕上
+    offset: 5
+    range: 2
+right:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 尸子
+    line_id: KR3j0194_tls_004-1a.37
+    textline: 士亦務其德行 美其道術以輕上
+    offset: 10
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T17:57:05.465+09:00'

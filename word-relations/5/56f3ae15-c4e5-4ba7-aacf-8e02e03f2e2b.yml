@@ -1,0 +1,32 @@
+uuid: 56f3ae15-c4e5-4ba7-aacf-8e02e03f2e2b
+type: word-relation
+group_uuid: 56f3ae15-c4e5-4ba7-aacf-8e02e03f2e2b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 472ae8d8-aa15-4618-9cc5-8f0b991112e2
+  text: 占
+  concept: DIVINATION
+  concept_uuid: 75cc4c9e-41c1-4420-a0f7-3049e4ae97c9
+  attestation:
+    text_title: 韓非子
+    line_uuid: afd21fde-f7bc-43bb-b137-d2f0f252ba2d
+    line_id: KR3c0005_tls_001-37a.6
+    textline: 襄主鑽龜筮占兆
+    offset: 6
+    range: 1
+right:
+  word_uuid: c60f41b7-9b3a-458e-a277-ca608190ec1a
+  text: 兆
+  concept: OMEN
+  concept_uuid: 8f844d19-d2d4-4733-957f-e161496251e7
+  attestation:
+    text_title: 韓非子
+    line_uuid: afd21fde-f7bc-43bb-b137-d2f0f252ba2d
+    line_id: KR3c0005_tls_001-37a.6
+    textline: 襄主鑽龜筮占兆
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: fe750e57-5bb8-4d0d-a47a-e885ad8ba830
+type: word-relation
+group_uuid: fe750e57-5bb8-4d0d-a47a-e885ad8ba830
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7a3dc458-857a-4690-8bb8-b2fcbe32a83c
+  text: 臭
+  concept: ODOUR
+  concept_uuid: 6ba4659c-d5fd-4f88-a52d-082b394bf90e
+  attestation:
+    text_title: 五行篇 ed. Pang Pu
+    line_uuid: 2e8d1925-244e-4623-892d-19988404472c
+    textline: 悅臭味者也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 278a816e-b964-4dbe-81cf-a6b0307dd745
+  text: 味
+  concept: FLAVOUR
+  concept_uuid: 2521008a-cf88-4177-9e12-db443ab1966f
+  attestation:
+    text_title: 五行篇 ed. Pang Pu
+    line_uuid: 2e8d1925-244e-4623-892d-19988404472c
+    textline: 悅臭味者也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

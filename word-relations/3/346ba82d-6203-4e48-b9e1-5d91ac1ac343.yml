@@ -1,0 +1,30 @@
+uuid: 346ba82d-6203-4e48-b9e1-5d91ac1ac343
+type: word-relation
+group_uuid: 346ba82d-6203-4e48-b9e1-5d91ac1ac343
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: aaaa19df-2e73-402a-a605-1c88c273d29c
+  text: 樞
+  concept: GATE PART
+  concept_uuid: 32ddcbec-831f-4100-b97c-39e1623400f9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8c53e632-fe09-4d00-84e7-83409b0a605c
+    textline: 戶樞不螻動也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9d8a9f59-6a0d-4e81-a425-50f8451164b2
+  text: 戶
+  concept: DOOR
+  concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8c53e632-fe09-4d00-84e7-83409b0a605c
+    textline: 戶樞不螻動也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

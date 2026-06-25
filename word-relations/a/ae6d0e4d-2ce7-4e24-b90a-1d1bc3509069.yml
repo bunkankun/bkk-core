@@ -1,0 +1,31 @@
+uuid: ae6d0e4d-2ce7-4e24-b90a-1d1bc3509069
+type: word-relation
+group_uuid: ae6d0e4d-2ce7-4e24-b90a-1d1bc3509069
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ffb09a7b-fb87-410b-bb8a-a7e99afb9476
+  text: 益
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 論衡
+    line_uuid: a8e3ec3c-b910-4f80-a169-6acba288f77c
+    line_id: KR3j0080_tls_003-11a.14
+    textline: 求之無益”
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5c58beee-db25-45f2-9a93-c48e4d12b7e5
+  text: 無
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 論衡
+    line_uuid: a8e3ec3c-b910-4f80-a169-6acba288f77c
+    line_id: KR3j0080_tls_003-11a.14
+    textline: 求之無益”
+    range: 1
+source:
+  source_file: word-relations.xml

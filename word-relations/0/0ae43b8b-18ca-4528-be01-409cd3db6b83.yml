@@ -1,0 +1,21 @@
+uuid: 0ae43b8b-18ca-4528-be01-409cd3db6b83
+type: word-relation
+group_uuid: c98d0a65-4e1e-5200-84b7-27a6f976c6ca
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7cdeb99a-e2cc-40a4-bf88-69cb7323cf13
+  text: 激
+  concept: STIMULATE
+  concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+right:
+  word_uuid: 08380628-9d22-4304-b160-4725c7e8282c
+  text: 勸
+  concept: ENCOURAGE
+  concept_uuid: 0bfa613e-e3a5-4489-b947-fd71fc381db4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

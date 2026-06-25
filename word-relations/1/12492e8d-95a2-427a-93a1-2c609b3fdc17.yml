@@ -1,0 +1,32 @@
+uuid: 12492e8d-95a2-427a-93a1-2c609b3fdc17
+type: word-relation
+group_uuid: c4355849-368f-4819-a5ae-6a8b74340874
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 289ebdfc-c5a7-4424-9a8c-d8bdfb1bcc21
+  text: 好
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  attestation:
+    text_title: 孟子
+    line_uuid: 2fd660ac-b1db-4a65-be3c-44f30757121c
+    line_id: KR1h0001_tls_002-4a.3
+    textline: 「寡人非能好先王之樂也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 32c60bca-2b81-4ee6-9ee9-9a6ad4e47a3e
+  text: 樂
+  concept: MUSIC
+  concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+  attestation:
+    text_title: 孟子
+    line_uuid: 2fd660ac-b1db-4a65-be3c-44f30757121c
+    line_id: KR1h0001_tls_002-4a.3
+    textline: 「寡人非能好先王之樂也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

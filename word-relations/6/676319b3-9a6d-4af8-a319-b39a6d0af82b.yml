@@ -1,0 +1,32 @@
+uuid: 676319b3-9a6d-4af8-a319-b39a6d0af82b
+type: word-relation
+group_uuid: 8d210687-bc96-549c-a8d6-3e8fbe9dae66
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_015-44a.27
+    textline: 譬之若良醫
+    offset: 4
+    range: 1
+right:
+  word_uuid: f6e7d579-229d-4316-bdf8-9ffad71122c9
+  text: 醫
+  concept: PHYSICIAN
+  concept_uuid: 4f3f44a0-2d10-4b09-ac7e-24e804772157
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_015-44a.27
+    textline: 譬之若良醫
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T01:31:57.682+09:00'

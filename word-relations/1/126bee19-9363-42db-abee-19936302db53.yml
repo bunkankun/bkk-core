@@ -1,0 +1,32 @@
+uuid: 126bee19-9363-42db-abee-19936302db53
+type: word-relation
+group_uuid: 4d969264-9ecf-5f89-8209-192f91b942ea
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c23dc95d-ee54-4ec0-9e45-8e0129d64634
+  text: 後
+  concept: LATE
+  concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.15
+    textline: 後世為之機杼勝複[=滕椱]以便其用，
+    offset: 1
+    range: 1
+right:
+  word_uuid: ea7f1f39-6ea4-40b0-ae7c-c4976399359e
+  text: 世
+  concept: GENERATION
+  concept_uuid: d7c5e93f-9e73-4c12-8c37-1ded54283b48
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.15
+    textline: 後世為之機杼勝複[=滕椱]以便其用，
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:11:23.204+09:00'

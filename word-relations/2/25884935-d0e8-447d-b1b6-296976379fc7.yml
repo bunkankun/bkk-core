@@ -1,0 +1,32 @@
+uuid: 25884935-d0e8-447d-b1b6-296976379fc7
+type: word-relation
+group_uuid: 25884935-d0e8-447d-b1b6-296976379fc7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: c1eb0e6b-a920-4e03-a567-69e40bb2390f
+  text: 有
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2d1efbd5-5949-4547-8b1c-ae6275360f6a
+    line_id: KR3c0005_tls_010-87a.3
+    textline: “臣聞昔者堯有天下
+    offset: 7
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2d1efbd5-5949-4547-8b1c-ae6275360f6a
+    line_id: KR3c0005_tls_010-87a.3
+    textline: “臣聞昔者堯有天下
+    offset: 8
+    range: 2
+source:
+  source_file: word-relations.xml

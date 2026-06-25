@@ -1,0 +1,21 @@
+uuid: c93d5b2e-e513-4001-afc4-a58848e3f894
+type: word-relation
+group_uuid: e66d0461-54ce-50c0-865a-f6c20fb2698a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 81d79e47-33f9-43cf-bf1a-45a85a7e4637
+  text: 將
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+right:
+  word_uuid: b8e48df1-5a7d-4dbf-9c9f-b1880fa82d51
+  text: 帥率
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

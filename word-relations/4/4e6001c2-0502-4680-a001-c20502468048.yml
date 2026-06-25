@@ -1,0 +1,32 @@
+uuid: 4e6001c2-0502-4680-a001-c20502468048
+type: word-relation
+group_uuid: 06089008-ad0b-5415-8fcd-c74859dd8d94
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-3a.7
+    textline: 求之有道
+    offset: 4
+    range: 1
+right:
+  word_uuid: c8f75777-6e95-44f4-8188-6f489bad59c0
+  text: 命
+  concept: FATE
+  concept_uuid: 9803f093-d964-43b1-8883-722218e08099
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-3a.8
+    textline: 得之有命
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-03T02:51:18.918+09:00'

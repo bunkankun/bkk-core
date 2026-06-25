@@ -1,0 +1,30 @@
+uuid: 36c8a5da-319b-4940-bd46-145b48fa06f3
+type: word-relation
+group_uuid: 36c8a5da-319b-4940-bd46-145b48fa06f3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 362d8c14-d5cd-4985-906c-4e03f8c8b1f4
+  text: 筵
+  concept: MAT
+  concept_uuid: 356925e2-2fac-4b9a-ba0e-dee11f871aa4
+  attestation:
+    text_title: 禮記
+    line_uuid: 270ddc34-3c42-4af7-94be-2c35c00f67fc
+    textline: 鋪筵席
+    offset: 2
+    range: 1
+right:
+  word_uuid: cf9d3335-67e2-4879-b76b-340c5dfabaa4
+  text: 席
+  concept: MAT
+  concept_uuid: 356925e2-2fac-4b9a-ba0e-dee11f871aa4
+  attestation:
+    text_title: 禮記
+    line_uuid: 270ddc34-3c42-4af7-94be-2c35c00f67fc
+    textline: 鋪筵席
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 11970a60-bfd1-4fd4-b31e-9749a240bc3a
+type: word-relation
+group_uuid: 11970a60-bfd1-4fd4-b31e-9749a240bc3a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c8db65b9-7001-4baa-a932-ed8322e242e7
+  text: 子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 老子
+    line_uuid: fd78af99-bccd-490f-b52b-534292ef6dbf
+    line_id: KR5c0057_tls_054-1a.5
+    textline: 子孫以祭祀不輟
+    offset: 1
+    range: 1
+right:
+  word_uuid: d03dbc15-95c9-4c30-a42a-120ff1422e2c
+  text: 孫
+  concept: DESCENDANT
+  concept_uuid: 2580f63e-9023-42f1-a359-c9bea7a0e793
+  attestation:
+    text_title: 老子
+    line_uuid: fd78af99-bccd-490f-b52b-534292ef6dbf
+    line_id: KR5c0057_tls_054-1a.5
+    textline: 子孫以祭祀不輟
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

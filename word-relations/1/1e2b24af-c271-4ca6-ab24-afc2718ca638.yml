@@ -1,0 +1,32 @@
+uuid: 1e2b24af-c271-4ca6-ab24-afc2718ca638
+type: word-relation
+group_uuid: e0f91de6-8efd-46ae-a0a1-78a997343bb3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7efb878e-7de7-40ef-9f05-5692e3d8ed9e
+  text: 譬
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.34
+    textline: 譬猶師曠之施瑟柱也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1e40b5b0-89d2-4fd9-9b3c-944165da8960
+  text: 猶
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-3a.34
+    textline: 譬猶師曠之施瑟柱也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:34:38.719+09:00'

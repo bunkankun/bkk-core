@@ -1,0 +1,32 @@
+uuid: e5d97c8e-feb1-4f74-955f-24efba0756e6
+type: word-relation
+group_uuid: e5d97c8e-feb1-4f74-955f-24efba0756e6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 102479b8-4bac-4401-a631-9e6ef3e55de5
+  text: 執
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 論衡
+    line_uuid: ce5b5dc2-e3b8-4e79-b3c2-8ed3d171c66e
+    line_id: KR3j0080_tls_006-12a.8
+    textline: 執拘未久
+    offset: 1
+    range: 1
+right:
+  word_uuid: 18b4d748-85a9-4c2a-9036-44270119431b
+  text: 拘
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 論衡
+    line_uuid: ce5b5dc2-e3b8-4e79-b3c2-8ed3d171c66e
+    line_id: KR3j0080_tls_006-12a.8
+    textline: 執拘未久
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

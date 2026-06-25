@@ -1,0 +1,21 @@
+uuid: 0263ece0-2110-4d5e-a0e6-5ea2c2f9cc17
+type: word-relation
+group_uuid: 7eb7b4d4-c3c4-5459-835f-1a0fe3cef0fe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: be9c1357-b0e2-42c6-93e3-7390457825c6
+  text: 光
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+right:
+  word_uuid: ffc1107d-020a-447b-bdb2-afa492522d78
+  text: 明
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

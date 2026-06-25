@@ -1,0 +1,32 @@
+uuid: de61f485-c21d-423a-9196-70971b7b0209
+type: word-relation
+group_uuid: 58ff8932-4ffd-4bbb-8866-a183c1ca4c2c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f5e9fc11-f6f5-48a8-b54a-4d481bbff58e
+  text: 勞
+  concept: TIRED
+  concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+  attestation:
+    text_title: 管子
+    line_uuid: 58b01510-0a85-45bd-9a78-972505ca4d0e
+    line_id: KR3c0001_tls_001-10a.6
+    textline: 民惡憂勞
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9cc0cb59-371a-410c-a2e8-82b6c1028c27
+  text: 佚
+  concept: LEISURE
+  concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+  attestation:
+    text_title: 管子
+    line_uuid: 1354e5ac-bbc4-448d-a999-0c3451b083b5
+    line_id: KR3c0001_tls_001-10a.7
+    textline: 我佚樂之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

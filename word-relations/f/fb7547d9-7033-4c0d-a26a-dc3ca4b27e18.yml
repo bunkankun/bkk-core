@@ -1,0 +1,32 @@
+uuid: fb7547d9-7033-4c0d-a26a-dc3ca4b27e18
+type: word-relation
+group_uuid: fb7547d9-7033-4c0d-a26a-dc3ca4b27e18
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 50d4bfbc-a363-4623-99c2-9401ff6a787b
+  text: 正報
+  concept: REACT
+  concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+  attestation:
+    text_title: 祖堂集
+    line_uuid: ed8eea15-a6ab-43b7-b036-ed60ad213d87
+    line_id: KR6q0002_Yan_003-1124a.9
+    textline: “有情是正報
+    offset: 5
+    range: 2
+right:
+  word_uuid: 91da6ba1-959d-44de-82da-214c1b8ee910
+  text: 依報
+  concept: REACT
+  concept_uuid: 9a2462eb-1c4f-4f55-bf5c-15e314ec5813
+  attestation:
+    text_title: 祖堂集
+    line_uuid: b2fb85a9-105a-47c3-92cb-9c5dc4b6c2e6
+    line_id: KR6q0002_Yan_003-1124a.15
+    textline: 無情是依報
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

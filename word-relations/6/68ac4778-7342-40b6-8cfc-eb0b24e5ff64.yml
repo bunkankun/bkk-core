@@ -1,0 +1,32 @@
+uuid: 68ac4778-7342-40b6-8cfc-eb0b24e5ff64
+type: word-relation
+group_uuid: 68ac4778-7342-40b6-8cfc-eb0b24e5ff64
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee2d8190-c7ea-4e23-bfb7-110058b5b293
+    line_id: KR3c0005_tls_011-38a.2
+    textline: 是以國地削而私家富
+    offset: 3
+    range: 1
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee2d8190-c7ea-4e23-bfb7-110058b5b293
+    line_id: KR3c0005_tls_011-38a.2
+    textline: 是以國地削而私家富
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 8c1ac421-db30-44fe-b0ca-4f701ad44d67
+type: word-relation
+group_uuid: c3cad73a-284b-449e-ab1d-c996d4a09d5b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c167a295-ca5b-4737-bf5d-6ce9a945255c
+  text: 才
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 論衡
+    line_uuid: 4c1b797d-76ec-4bf9-9c83-5d818dfe4835
+    textline: 命貴之人才智自高
+    offset: 5
+    range: 1
+right:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 論衡
+    line_uuid: 4c1b797d-76ec-4bf9-9c83-5d818dfe4835
+    textline: 命貴之人才智自高
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

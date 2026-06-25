@@ -1,0 +1,32 @@
+uuid: c3858c59-dee8-4799-b279-0aec33d882e8
+type: word-relation
+group_uuid: c3858c59-dee8-4799-b279-0aec33d882e8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fca35c09-b24e-4c98-ab35-6f00c15ef367
+  text: 父母
+  concept: PARENT
+  concept_uuid: c6d90627-45f2-4e7e-888b-7bfb8a894b96
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5c8c4d89-ea04-4f96-915c-562bce8e46b2
+    line_id: KR1e0001_tls_012-301a.7
+    textline: 國人望君如望慈父母焉
+    offset: 8
+    range: 2
+right:
+  word_uuid: 81179c21-ea3b-4040-9603-9874473f3e66
+  text: 慈
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5c8c4d89-ea04-4f96-915c-562bce8e46b2
+    line_id: KR1e0001_tls_012-301a.7
+    textline: 國人望君如望慈父母焉
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

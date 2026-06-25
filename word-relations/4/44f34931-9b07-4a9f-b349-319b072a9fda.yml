@@ -1,0 +1,32 @@
+uuid: 44f34931-9b07-4a9f-b349-319b072a9fda
+type: word-relation
+group_uuid: 337f46f9-8103-5e2f-a7ee-4f2c664f5abf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e0f3a8c2-ce3b-429f-b3a8-c2ce3be29fd5
+  text: 長生
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_001-17a.10
+    textline: 莫不欲長生久視
+    offset: 4
+    range: 2
+right:
+  word_uuid: 852cb289-2592-498e-acb2-892592498e9f
+  text: 久視
+  concept: LIVE
+  concept_uuid: 7921ef00-d94a-45f2-99c2-032eee73eb83
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_001-17a.10
+    textline: 莫不欲長生久視
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-23T20:54:58.746+09:00'

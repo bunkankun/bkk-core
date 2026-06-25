@@ -1,0 +1,21 @@
+uuid: 2cd93c22-b4a3-47c8-8a33-7a2a79adec54
+type: word-relation
+group_uuid: af409464-3f1f-52c5-bf44-c44e6e7e9f62
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0ccd74b8-678c-48b3-a338-b6213248bda2
+  text: 急
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+right:
+  word_uuid: bbe794c3-bc91-456b-a351-05c531ebdd13
+  text: 舒
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

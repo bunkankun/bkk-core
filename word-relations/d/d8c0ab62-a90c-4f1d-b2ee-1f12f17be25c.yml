@@ -1,0 +1,32 @@
+uuid: d8c0ab62-a90c-4f1d-b2ee-1f12f17be25c
+type: word-relation
+group_uuid: d8c0ab62-a90c-4f1d-b2ee-1f12f17be25c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a3fc37d9-42d7-4e40-a4b1-5d5a0c50a979
+  text: 見
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 573d0e9b-3fda-48f5-86be-44641903c6ff
+    line_id: KR3j0009_tls_005-33a.14
+    textline: 以見其善
+    offset: 2
+    range: 1
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 573d0e9b-3fda-48f5-86be-44641903c6ff
+    line_id: KR3j0009_tls_005-33a.14
+    textline: 以見其善
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4f21d4e4-fb04-4aac-a7e0-b2e00120069d
+type: word-relation
+group_uuid: 4f21d4e4-fb04-4aac-a7e0-b2e00120069d
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 80adcc27-0228-4aa2-a110-5c20f3276cc8
+  text: 買
+  concept: BUY
+  concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+  attestation:
+    text_title: 管子
+    line_uuid: eb90fa1d-a680-439c-afca-6bc556a0ca59
+    line_id: KR3c0001_tls_008-67a.6
+    textline: 買賤鬻貴
+    offset: 1
+    range: 1
+right:
+  word_uuid: bd21a309-71c4-44fd-b28f-1190883eb152
+  text: 鬻
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+  attestation:
+    text_title: 管子
+    line_uuid: eb90fa1d-a680-439c-afca-6bc556a0ca59
+    line_id: KR3c0001_tls_008-67a.6
+    textline: 買賤鬻貴
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

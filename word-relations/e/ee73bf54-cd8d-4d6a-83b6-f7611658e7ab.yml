@@ -1,0 +1,18 @@
+uuid: ee73bf54-cd8d-4d6a-83b6-f7611658e7ab
+type: word-relation
+group_uuid: dd63ab72-b1ea-51a9-aefc-62807c80208c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6c400bfe-9912-4d21-9860-48af97cd9c38
+  text: 守
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+right:
+  word_uuid: 24740e18-3bfc-49ed-b09f-7cb0c8f8954f
+  text: 備
+  concept: PROVIDE
+  concept_uuid: f81429a1-b476-4b5c-ac80-6c6efe70d1f9
+source:
+  source_file: word-relations.xml

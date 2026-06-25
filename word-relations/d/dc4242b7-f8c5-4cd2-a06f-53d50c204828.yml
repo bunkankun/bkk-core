@@ -1,0 +1,35 @@
+uuid: dc4242b7-f8c5-4cd2-a06f-53d50c204828
+type: word-relation
+group_uuid: 944a53f3-ba7f-4fc9-b37e-92211b0e0427
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 法句經
+    line_uuid: 2cc1955c-0612-4ac2-94f5-ad6555617aec
+    line_id: KR6b0067_T_001-0562a.27
+    textline: 即言即行
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 法句經
+    line_uuid: 2cc1955c-0612-4ac2-94f5-ad6555617aec
+    line_id: KR6b0067_T_001-0562a.27
+    textline: 即言即行
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

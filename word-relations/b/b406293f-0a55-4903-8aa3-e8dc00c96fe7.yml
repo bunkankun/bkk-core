@@ -1,0 +1,32 @@
+uuid: b406293f-0a55-4903-8aa3-e8dc00c96fe7
+type: word-relation
+group_uuid: b406293f-0a55-4903-8aa3-e8dc00c96fe7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e4af4dc-55a5-4704-af53-d5d2346823e4
+  text: 猛
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 管子
+    line_uuid: 76e2debf-6dc9-45cc-ab9e-6d3b5fffd34d
+    line_id: KR3c0001_tls_006-77a.6
+    textline: 猛毅之君
+    offset: 1
+    range: 1
+right:
+  word_uuid: 920a0f97-ce7b-4293-8346-b0019c7dd937
+  text: 毅
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 管子
+    line_uuid: 76e2debf-6dc9-45cc-ab9e-6d3b5fffd34d
+    line_id: KR3c0001_tls_006-77a.6
+    textline: 猛毅之君
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

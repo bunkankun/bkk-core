@@ -1,0 +1,32 @@
+uuid: d92996b8-dbcc-4d5b-a996-b8dbcc5d5bf1
+type: word-relation
+group_uuid: 89f5c930-d64c-5007-92db-323aef45240f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 新序
+    line_id: CH1a0906_CHANT_009-7a.131
+    textline: 法嚴而酷
+    offset: 1
+    range: 1
+right:
+  word_uuid: e14e6467-f252-4c4b-b5c1-b50c818f786e
+  text: 酷
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+  attestation:
+    text_title: 新序
+    line_id: CH1a0906_CHANT_009-7a.131
+    textline: 法嚴而酷
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-15T21:57:18.644+09:00'

@@ -1,0 +1,32 @@
+uuid: 8c853143-9e8b-47bc-87ec-8b104e0255c9
+type: word-relation
+group_uuid: 8c853143-9e8b-47bc-87ec-8b104e0255c9
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2de1569e-6779-4fa5-b7f0-c183180d595c
+  text: 避
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 18c78e47-ca13-4a57-b9d4-dadc50fd82f7
+    line_id: KR3c0005_tls_006-39a.2
+    textline: 刑過不避大臣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 98737e71-4d16-4b3e-9d8f-c847551833e9
+  text: 遺
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5bd928da-578c-4ee3-ba8d-210f8c60883b
+    line_id: KR3c0005_tls_006-39a.3
+    textline: 賞善不遺匹夫
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 86eeecd7-3ccc-453c-8a8f-dbe764a5cc48
+type: word-relation
+group_uuid: 86eeecd7-3ccc-453c-8a8f-dbe764a5cc48
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3bdcb2ae-f17b-4188-9e82-627d9b38cb41
+  text: 諠
+  concept: CLAMOUR
+  concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+  attestation:
+    text_title: 史記
+    line_uuid: 2541c666-de1b-42a7-ad86-302abf0e353c
+    textline: 諸侯皆諠譁疾朝錯
+    offset: 4
+    range: 1
+right:
+  word_uuid: f8ab100f-9a49-4494-997f-ebd228d629b4
+  text: 譁
+  concept: CLAMOUR
+  concept_uuid: f3f282dd-2db3-4aa5-b113-fa25c9445f1d
+  attestation:
+    text_title: 史記
+    line_uuid: 2541c666-de1b-42a7-ad86-302abf0e353c
+    textline: 諸侯皆諠譁疾朝錯
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c2a9d8d9-8d5b-460c-bfe3-8433afa4bfdc
+type: word-relation
+group_uuid: c2a9d8d9-8d5b-460c-bfe3-8433afa4bfdc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 554ff26e-0b7b-42a6-99e9-fb5b012d1d9c
+  text: 大
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 莊子
+    line_uuid: 15b0530b-25c4-4812-b098-792d080d2446
+    line_id: KR5c0126_tls_029-4a.28
+    textline: 子之罪大極重
+    offset: 4
+    range: 1
+right:
+  word_uuid: efe05145-3331-4a2f-bbb2-50723f8a4100
+  text: 重
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 莊子
+    line_uuid: 15b0530b-25c4-4812-b098-792d080d2446
+    line_id: KR5c0126_tls_029-4a.28
+    textline: 子之罪大極重
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: d10d1989-8fcd-46b9-9f68-7f0a57d3b770
+type: word-relation
+group_uuid: d10d1989-8fcd-46b9-9f68-7f0a57d3b770
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 荀子
+    line_uuid: d2a3b490-5faa-4409-acc8-a81b8a29ea62
+    textline: 言辯而不辭
+    offset: 2
+    range: 1
+right:
+  word_uuid: 51f0b9ae-1cef-4f96-80f9-4f8c812b7f19
+  text: 辭
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 荀子
+    line_uuid: d2a3b490-5faa-4409-acc8-a81b8a29ea62
+    textline: 言辯而不辭
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

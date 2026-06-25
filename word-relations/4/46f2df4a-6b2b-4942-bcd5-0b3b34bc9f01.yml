@@ -1,0 +1,32 @@
+uuid: 46f2df4a-6b2b-4942-bcd5-0b3b34bc9f01
+type: word-relation
+group_uuid: 46f2df4a-6b2b-4942-bcd5-0b3b34bc9f01
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d17a6b1d-e4b5-4a06-8b2a-6367b17c5a1c
+  text: 犬
+  concept: DOG
+  concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+  attestation:
+    text_title: 論語
+    line_uuid: f0448b8d-d115-404a-b96d-4e1623d1260e
+    line_id: KR1h0004_tls_002-8a.6
+    textline: 至於犬馬
+    offset: 3
+    range: 1
+right:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 論語
+    line_uuid: f0448b8d-d115-404a-b96d-4e1623d1260e
+    line_id: KR1h0004_tls_002-8a.6
+    textline: 至於犬馬
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

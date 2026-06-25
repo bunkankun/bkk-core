@@ -1,0 +1,32 @@
+uuid: 83b59883-6efa-474b-b598-836efa974b48
+type: word-relation
+group_uuid: 1f6548e8-4e62-4287-911a-20af4100801b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5fd637bc-ab47-45ca-9eab-be5741566988
+  text: 揖
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.3
+    textline: 盤旋揖讓以脩禮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 79958102-e049-443f-a7be-87f754978264
+  text: 讓
+  concept: YIELD
+  concept_uuid: 29ddc82a-96f0-45ee-89de-915c16472c75
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.3
+    textline: 盤旋揖讓以脩禮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:49:39.479+09:00'

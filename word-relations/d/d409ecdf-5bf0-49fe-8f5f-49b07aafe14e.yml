@@ -1,0 +1,32 @@
+uuid: d409ecdf-5bf0-49fe-8f5f-49b07aafe14e
+type: word-relation
+group_uuid: d409ecdf-5bf0-49fe-8f5f-49b07aafe14e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b80bff6d-0ac3-4af4-b37a-d626b1ad5b97
+  text: 春秋
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 素問
+    line_uuid: a5f93cca-ea38-4b89-bd75-959f14e74b0e
+    line_id: KR3e0001_tls_001-1a.12
+    textline: 春秋皆度百歲
+    offset: 1
+    range: 2
+right:
+  word_uuid: 145d82b0-facf-4c45-a125-6f90b17aff37
+  text: 歲
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 素問
+    line_uuid: a5f93cca-ea38-4b89-bd75-959f14e74b0e
+    line_id: KR3e0001_tls_001-1a.12
+    textline: 春秋皆度百歲
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

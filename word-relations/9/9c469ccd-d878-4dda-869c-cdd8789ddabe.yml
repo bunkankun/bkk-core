@@ -1,0 +1,32 @@
+uuid: 9c469ccd-d878-4dda-869c-cdd8789ddabe
+type: word-relation
+group_uuid: 32ecc9e9-5124-5760-a2b1-60ebac0f8f07
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 613dc0a4-c6ab-4286-affe-56c4d0d4a1a7
+  text: 哲
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_019-56a.5
+    textline: 或哲或謀
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4440c96c-1e88-4fd7-ae82-dc652979ed61
+  text: 謀
+  concept: PLOT
+  concept_uuid: cd999993-9ade-41a9-8786-2cc075afaa5c
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_019-56a.5
+    textline: 或哲或謀
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T16:45:04.67+09:00'

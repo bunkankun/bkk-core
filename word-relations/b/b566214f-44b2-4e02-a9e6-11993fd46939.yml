@@ -1,0 +1,30 @@
+uuid: b566214f-44b2-4e02-a9e6-11993fd46939
+type: word-relation
+group_uuid: b566214f-44b2-4e02-a9e6-11993fd46939
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e3411a8d-6d3f-4e7a-83e3-f81e6bff67cf
+  text: 渴
+  concept: THIRSTY
+  concept_uuid: 8156924d-7de3-4b08-acbe-07d45dff53ac
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ae03357-6f87-4805-9bf6-0ad97b7e7336
+    textline: 桓公渴餒而死南門之寢公守之室
+    offset: 3
+    range: 1
+right:
+  word_uuid: bb4d79f1-0768-495c-8866-11a09a67f0d8
+  text: 餒
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2ae03357-6f87-4805-9bf6-0ad97b7e7336
+    textline: 桓公渴餒而死南門之寢公守之室
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

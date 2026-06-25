@@ -1,0 +1,32 @@
+uuid: acc943e7-6bc1-4713-81bd-d42a970c28ab
+type: word-relation
+group_uuid: acc943e7-6bc1-4713-81bd-d42a970c28ab
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 論語
+    line_uuid: 28405c54-9363-44ed-b104-e3fd55de2c94
+    line_id: KR1h0004_tls_017-26a.3
+    textline: 「道聽而塗說
+    offset: 2
+    range: 1
+right:
+  word_uuid: b543663d-25be-4b16-a4c5-0e99813155ae
+  text: 塗
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 論語
+    line_uuid: 28405c54-9363-44ed-b104-e3fd55de2c94
+    line_id: KR1h0004_tls_017-26a.3
+    textline: 「道聽而塗說
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: df7c148b-ee92-4b20-9bf6-26fe7cbb1c15
+type: word-relation
+group_uuid: df7c148b-ee92-4b20-9bf6-26fe7cbb1c15
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b2f9d8a-059f-4c83-a1b8-3ae0fab27d17
+  text: 過
+  concept: EXCESSIVE
+  concept_uuid: 674f1afc-a1a4-4352-9043-2a7a59905f02
+  attestation:
+    text_title: 論語
+    line_uuid: 73a6feb4-d8c7-46bd-95d7-9ec359206075
+    line_id: KR1h0004_tls_011-18a.5
+    textline: 「師也過
+    offset: 4
+    range: 1
+right:
+  word_uuid: 95703a8f-0a30-42b7-89d3-cc915c10afe8
+  text: 不及
+  concept: INSUFFICIENT
+  concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+  attestation:
+    text_title: 論語
+    line_uuid: e9436e6b-0221-49f8-a867-43a43a16fd11
+    line_id: KR1h0004_tls_011-19a.1
+    textline: 商也不及
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

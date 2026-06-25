@@ -1,0 +1,30 @@
+uuid: 28e39402-2e34-4107-b32d-be63e8fc70c5
+type: word-relation
+group_uuid: 28e39402-2e34-4107-b32d-be63e8fc70c5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 33c5997e-f2c9-4106-8b99-07effdf6d7f4
+  text: 形體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 92553a7a-72c6-41e3-8a6f-54b4cb31946e
+    textline: 夫形體之包心也
+    offset: 2
+    range: 2
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 92553a7a-72c6-41e3-8a6f-54b4cb31946e
+    textline: 夫形體之包心也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

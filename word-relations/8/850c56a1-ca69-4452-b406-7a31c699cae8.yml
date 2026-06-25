@@ -1,0 +1,32 @@
+uuid: 850c56a1-ca69-4452-b406-7a31c699cae8
+type: word-relation
+group_uuid: 850c56a1-ca69-4452-b406-7a31c699cae8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 荀子
+    line_uuid: dcd68e46-cd65-45eb-8bd3-8ad4f10da7f6
+    line_id: KR3a0002_tls_001-4a.24
+    textline: 君子不近
+    offset: 1
+    range: 2
+right:
+  word_uuid: 93b6afff-bfd4-4c2b-942c-21144805c7b2
+  text: 庶人
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 荀子
+    line_uuid: a145c88a-55eb-42ad-a08f-71bb4edfcbb8
+    line_id: KR3a0002_tls_001-4a.25
+    textline: 庶人不服
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: fd94a7a6-5cf3-43a8-87b3-e25a58ca2a3e
+type: word-relation
+group_uuid: fd94a7a6-5cf3-43a8-87b3-e25a58ca2a3e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 157e574c-2f01-48c4-bb99-e5715e495295
+  text: 啄
+  concept: BITE
+  concept_uuid: f339a66f-81fd-4049-836b-6902200f853c
+  attestation:
+    text_title: 論衡
+    line_uuid: b15c1bba-7450-4f5f-b3bf-082fe2768563
+    textline: 啄螫懷操
+    offset: 1
+    range: 1
+right:
+  word_uuid: f917268f-e09f-4c38-b32f-0401f2436831
+  text: 螫
+  concept: STING
+  concept_uuid: 99d8e2bb-e7df-4fac-854e-6869ab62a716
+  attestation:
+    text_title: 論衡
+    line_uuid: b15c1bba-7450-4f5f-b3bf-082fe2768563
+    textline: 啄螫懷操
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

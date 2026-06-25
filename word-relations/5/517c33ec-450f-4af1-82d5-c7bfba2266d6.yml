@@ -1,0 +1,32 @@
+uuid: 517c33ec-450f-4af1-82d5-c7bfba2266d6
+type: word-relation
+group_uuid: 517c33ec-450f-4af1-82d5-c7bfba2266d6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 11762a98-209f-4f58-88a3-dab36f1e046a
+  text: 樂
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 管子
+    line_uuid: 734fa70b-766f-4433-b3df-fc4afa6d9663
+    line_id: KR3c0001_tls_017-56a.9
+    textline: 得所欲則樂
+    offset: 5
+    range: 1
+right:
+  word_uuid: e755ab91-a02f-46a2-9c4f-570c696a5a85
+  text: 憂
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+  attestation:
+    text_title: 管子
+    line_uuid: 1ebbf78c-d77f-405b-8c4e-9d763d189ffd
+    line_id: KR3c0001_tls_017-56a.10
+    textline: 逢所惡則憂
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

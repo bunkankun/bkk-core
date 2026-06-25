@@ -1,0 +1,18 @@
+uuid: 89b5a88a-229c-49cb-bfcd-4c5cdbcc89cd
+type: word-relation
+group_uuid: 45c80529-7b79-53b8-aada-18370b252ece
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 83abe90f-9b12-4205-bf7d-408306a3deb7
+  text: 覆
+  concept: DEFEAT
+  concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+right:
+  word_uuid: fdc26e9d-6eb0-4bf7-b753-b8b61221bc70
+  text: 敗
+  concept: DEFEAT
+  concept_uuid: f40bdb35-2355-40b6-8338-916e7d6d541b
+source:
+  source_file: word-relations.xml

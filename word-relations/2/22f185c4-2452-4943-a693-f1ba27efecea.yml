@@ -1,0 +1,32 @@
+uuid: 22f185c4-2452-4943-a693-f1ba27efecea
+type: word-relation
+group_uuid: 22f185c4-2452-4943-a693-f1ba27efecea
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 史記
+    line_uuid: e3cf52fd-3106-4df2-971d-056e5aa382c1
+    line_id: KR2a0001_tls_005-218a.32
+    textline: 則以仁義怨望於上
+    offset: 5
+    range: 1
+right:
+  word_uuid: 58326a6c-d242-41c5-a8e0-d081c0d32a17
+  text: 望
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 史記
+    line_uuid: e3cf52fd-3106-4df2-971d-056e5aa382c1
+    line_id: KR2a0001_tls_005-218a.32
+    textline: 則以仁義怨望於上
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

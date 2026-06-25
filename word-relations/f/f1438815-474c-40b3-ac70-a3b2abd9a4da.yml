@@ -1,0 +1,37 @@
+uuid: f1438815-474c-40b3-ac70-a3b2abd9a4da
+type: word-relation
+group_uuid: f1438815-474c-40b3-ac70-a3b2abd9a4da
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e0bd7eab-9665-48f9-a641-0be40efa0c16
+  text: 儉
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 65ffc4fa-7258-4ecc-b719-5b8040494749
+    line_id: KR1e0001_tls_003-277a.7
+    textline: 『儉
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6e0c1770-c243-46e3-94c3-9ea11b2c5541
+  text: 侈
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 934a4d72-19a6-470c-8196-b6f185823620
+    line_id: KR1e0001_tls_003-277a.9
+    textline: 侈
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '294'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

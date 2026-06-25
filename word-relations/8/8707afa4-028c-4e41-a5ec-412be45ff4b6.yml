@@ -1,0 +1,18 @@
+uuid: 8707afa4-028c-4e41-a5ec-412be45ff4b6
+type: word-relation
+group_uuid: b6cf589e-cdde-5461-9610-3a2b47391012
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ab37c0f5-f40f-47bf-947a-5a3b041dc18b
+  text: 應
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+right:
+  word_uuid: 2bd3783c-3278-4f7f-a810-175f04ee038f
+  text: 對
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+source:
+  source_file: word-relations.xml

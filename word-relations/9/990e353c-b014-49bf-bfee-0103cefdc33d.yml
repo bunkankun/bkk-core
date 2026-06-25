@@ -1,0 +1,32 @@
+uuid: 990e353c-b014-49bf-bfee-0103cefdc33d
+type: word-relation
+group_uuid: 990e353c-b014-49bf-bfee-0103cefdc33d
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 74686036-b4de-4413-b131-cb2bfd9da694
+  text: 充
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dfac01fc-a136-45f3-974a-0f2824d5b93b
+    line_id: KR3j0009_tls_001-18a.13
+    textline: 味眾珍則胃充
+    offset: 6
+    range: 1
+right:
+  word_uuid: 598a5f52-9c3c-4bcf-b677-15089ad50bf5
+  text: 胃
+  concept: STOMACH
+  concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dfac01fc-a136-45f3-974a-0f2824d5b93b
+    line_id: KR3j0009_tls_001-18a.13
+    textline: 味眾珍則胃充
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

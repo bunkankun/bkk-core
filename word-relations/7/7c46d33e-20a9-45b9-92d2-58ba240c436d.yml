@@ -1,0 +1,32 @@
+uuid: 7c46d33e-20a9-45b9-92d2-58ba240c436d
+type: word-relation
+group_uuid: 7c46d33e-20a9-45b9-92d2-58ba240c436d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 34977fd8-47ee-4eda-a530-1411622429b1
+    line_id: KR3j0009_tls_012-16a.3
+    textline: 天下輕於身
+    offset: 5
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 34977fd8-47ee-4eda-a530-1411622429b1
+    line_id: KR3j0009_tls_012-16a.3
+    textline: 天下輕於身
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

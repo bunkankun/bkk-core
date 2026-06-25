@@ -1,0 +1,30 @@
+uuid: a6029d35-dcae-4e07-998b-fe6cc64df6ab
+type: word-relation
+group_uuid: a6029d35-dcae-4e07-998b-fe6cc64df6ab
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 81179c21-ea3b-4040-9603-9874473f3e66
+  text: 慈
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 32b8cc36-09c5-4594-8b7b-b1451fb44726
+    textline: 慈與害對
+    offset: 1
+    range: 1
+right:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 32b8cc36-09c5-4594-8b7b-b1451fb44726
+    textline: 慈與害對
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

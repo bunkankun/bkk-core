@@ -1,0 +1,32 @@
+uuid: b7144bdd-5fad-4e23-aac8-2b22ab1bd338
+type: word-relation
+group_uuid: b7144bdd-5fad-4e23-aac8-2b22ab1bd338
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8bac5f9b-7e6d-4fbf-8625-94b20442ea70
+  text: 聖君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 荀子
+    line_uuid: 8e84941e-a967-4459-af18-df6308fa8d7b
+    line_id: KR3a0002_tls_013-4a.2
+    textline: 事聖君者
+    offset: 2
+    range: 2
+right:
+  word_uuid: 3a34d04e-fede-4220-90d0-e21b5c50c4d3
+  text: 暴君
+  concept: TYRANT
+  concept_uuid: 6e397ac8-242c-4b7e-aa52-095fc1590f4e
+  attestation:
+    text_title: 荀子
+    line_uuid: 74865859-f098-484e-9c61-bded90f11c06
+    line_id: KR3a0002_tls_013-4a.6
+    textline: 事暴君者
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ff803d29-12d3-4f51-8498-85d01cacf015
+type: word-relation
+group_uuid: ff803d29-12d3-4f51-8498-85d01cacf015
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4b4eda8e-25d8-4902-987b-6423232e9c38
+  text: 實
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6ad03a2d-04bf-419c-8f78-5976cdb9d8a7
+    line_id: KR3c0005_tls_022-17a.5
+    textline: 而以襲秦為實也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 595e04d4-0e6f-4ace-ae89-32e2f5982f3a
+  text: 聲
+  concept: WELL-KNOWN
+  concept_uuid: 641868ca-56d4-4118-b559-cf61d814104c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 29c70573-478e-42fe-acc4-c65920729d5f
+    line_id: KR3c0005_tls_022-17a.4
+    textline: 臣恐其攻齊為聲
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

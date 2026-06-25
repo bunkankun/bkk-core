@@ -1,0 +1,32 @@
+uuid: 8cb282f5-9829-4c5d-b5bf-fd50da2413cb
+type: word-relation
+group_uuid: 8cb282f5-9829-4c5d-b5bf-fd50da2413cb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8a9acb3-8d2b-4dd2-b6dd-fa6ce4c77273
+  text: 臥
+  concept: SLEEP
+  concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+  attestation:
+    text_title: 史記
+    line_uuid: 8b979069-9a13-4f47-b5cc-6931161f4f4d
+    line_id: KR2a0001_tls_125-2a.9
+    textline: 與上臥起
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2588df26-e727-4805-ab6e-b1939e689f9f
+  text: 起
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  attestation:
+    text_title: 史記
+    line_uuid: 8b979069-9a13-4f47-b5cc-6931161f4f4d
+    line_id: KR2a0001_tls_125-2a.9
+    textline: 與上臥起
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ea974769-c741-4470-9747-69c741c47066
+type: word-relation
+group_uuid: fea7d0aa-c3fd-5f05-91cd-de3b17da58e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 836156a7-c6a4-41cc-9079-78b9b845f73b
+  text: 中
+  concept: MIDDLE
+  concept_uuid: 8ef4a581-2f6b-4193-96e5-206b7bed905f
+  attestation:
+    text_title: 春秋公羊傳
+    line_id: CH1e0877_CHANT_012-36a.13
+    textline: 不與夷狄之主中國
+    offset: 7
+    range: 1
+right:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 春秋公羊傳
+    line_id: CH1e0877_CHANT_012-36a.13
+    textline: 不與夷狄之主中國
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#joachim.gentz'
+  date: '2023-01-21T07:23:00.931+09:00'

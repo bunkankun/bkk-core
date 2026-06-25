@@ -1,0 +1,32 @@
+uuid: d11fce2c-2c2e-4c61-9492-756c95db3bec
+type: word-relation
+group_uuid: 32f401ee-a8a8-4e18-b129-b3c34a88de16
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d7c368db-bfc7-47f1-86a5-bed648e605b2
+  text: 貧
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 太平經
+    line_uuid: 04e4e0c3-bfaf-4796-a931-c3901dc6507e
+    line_id: KR5e0001_tls_003-2a.17
+    textline: 少所有者為貧
+    offset: 6
+    range: 1
+right:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+  attestation:
+    text_title: 太平經
+    line_uuid: 21b5afcf-a196-42ea-aba0-f103c4e2d5d9
+    line_id: KR5e0001_tls_003-2a.16
+    textline: 多所有者為富
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

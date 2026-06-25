@@ -1,0 +1,32 @@
+uuid: 9959e00a-2260-4529-836e-cd10afea48a4
+type: word-relation
+group_uuid: 9959e00a-2260-4529-836e-cd10afea48a4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: de3c1ec1-d913-46c0-b413-4dfd8ffb9221
+  text: 牽
+  concept: PULL
+  concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 127adfdf-684e-41b4-9d89-a4ed0dab979f
+    line_id: KR3c0005_tls_010-18a.6
+    textline: 荀息牽馬操璧
+    offset: 3
+    range: 1
+right:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 127adfdf-684e-41b4-9d89-a4ed0dab979f
+    line_id: KR3c0005_tls_010-18a.6
+    textline: 荀息牽馬操璧
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

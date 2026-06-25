@@ -1,0 +1,32 @@
+uuid: f2e7f138-5e7e-4b57-a5ed-f2ff2357bb91
+type: word-relation
+group_uuid: f2e7f138-5e7e-4b57-a5ed-f2ff2357bb91
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: e1a1b3e3-5434-4d37-a9de-0ef90f03db1a
+    line_id: KR3c0005_tls_012-17a.6
+    textline: 而佯不知也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3ffceb84-4d8a-4999-9596-5659d286b58e
+    line_id: KR3c0005_tls_012-17a.7
+    textline: 以資其智
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

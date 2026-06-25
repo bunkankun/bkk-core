@@ -1,0 +1,32 @@
+uuid: fd93a371-c8f0-4618-b701-c7f9e71a1cba
+type: word-relation
+group_uuid: 4cdb264e-8a44-4028-bbce-96ebdcc683ba
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 饑
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 禮記
+    line_uuid: ef79348b-c8d7-4480-9a7a-806bc9b2a303
+    line_id: KR1d0052_tls_009-36a.17
+    textline: 民無凶饑妖孽之疾
+    offset: 4
+    range: 1
+right:
+  word_uuid: aa5cf34d-32db-4f92-a4c4-b1293dc3dfbc
+  text: 凶
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 禮記
+    line_uuid: ef79348b-c8d7-4480-9a7a-806bc9b2a303
+    line_id: KR1d0052_tls_009-36a.17
+    textline: 民無凶饑妖孽之疾
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

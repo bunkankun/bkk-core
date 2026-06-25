@@ -1,0 +1,32 @@
+uuid: 26ed75a6-a583-49ba-8675-8efd97e9eed0
+type: word-relation
+group_uuid: a600f7c5-0b4c-4c68-9f12-aefed192251a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 韓非子
+    line_uuid: b601f6be-370d-4147-997c-ae060fb09bd6
+    line_id: KR3c0005_tls_017-9a.2
+    textline: 以衰美之婦人事好色之丈夫
+    offset: 8
+    range: 1
+right:
+  word_uuid: 0210977e-e9af-4251-a796-d11deb613309
+  text: 色
+  concept: SEXY
+  concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+  attestation:
+    text_title: 韓非子
+    line_uuid: b601f6be-370d-4147-997c-ae060fb09bd6
+    line_id: KR3c0005_tls_017-9a.2
+    textline: 以衰美之婦人事好色之丈夫
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

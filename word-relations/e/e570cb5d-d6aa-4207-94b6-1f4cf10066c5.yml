@@ -1,0 +1,32 @@
+uuid: e570cb5d-d6aa-4207-94b6-1f4cf10066c5
+type: word-relation
+group_uuid: e570cb5d-d6aa-4207-94b6-1f4cf10066c5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 524531b5-f35f-49b3-a530-23d30a86b7ab
+    line_id: KR3c0005_tls_007-7a.5
+    textline: 君自行之
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0bf539d4-26b0-43a3-a7d2-626b7e3f381b
+  text: 當
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: ed0c32a2-7660-4a60-a9a9-5476b3fd5f91
+    line_id: KR3c0005_tls_007-7a.8
+    textline: 臣請當之”
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

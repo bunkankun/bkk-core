@@ -1,0 +1,21 @@
+uuid: 1445ab88-d047-40fc-bd1c-f6daf8deb22d
+type: word-relation
+group_uuid: fb35bf58-c0c1-5c8a-ab32-7354225838c8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f5d642ad-3ea3-4b5c-9dfe-83ef9aa72208
+  text: 穰
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+right:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 饑
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

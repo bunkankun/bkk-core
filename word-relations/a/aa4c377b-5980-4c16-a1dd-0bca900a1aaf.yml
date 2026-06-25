@@ -1,0 +1,32 @@
+uuid: aa4c377b-5980-4c16-a1dd-0bca900a1aaf
+type: word-relation
+group_uuid: aa4c377b-5980-4c16-a1dd-0bca900a1aaf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8c10a299-62af-48fd-8a74-0571d089327f
+  text: 圖
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: f8b2b000-ab26-4a9e-9030-788562f5f6bc
+    line_id: KR3c0005_tls_002-33a.10
+    textline: 願陛下熟圖之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 807f8389-7062-4c59-8210-8a58c2150e11
+  text: 熟
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 韓非子
+    line_uuid: f8b2b000-ab26-4a9e-9030-788562f5f6bc
+    line_id: KR3c0005_tls_002-33a.10
+    textline: 願陛下熟圖之
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

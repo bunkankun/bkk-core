@@ -1,0 +1,21 @@
+uuid: 5969394a-e111-479d-9cf2-92ab471bb504
+type: word-relation
+group_uuid: 0d7c682c-d73a-50e6-a48b-0b6fefb6b639
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+right:
+  word_uuid: 753ae858-9774-4976-be5f-2a2711627f23
+  text: 堅
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

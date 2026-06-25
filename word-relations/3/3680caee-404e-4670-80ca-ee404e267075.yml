@@ -1,0 +1,32 @@
+uuid: 3680caee-404e-4670-80ca-ee404e267075
+type: word-relation
+group_uuid: 2fcba1f1-2b4b-5a72-80d7-7015fd167215
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.22
+    textline: 腹心大臣以為非天意
+    offset: 8
+    range: 2
+right:
+  word_uuid: a2c994fb-c77d-4314-a7c8-9f7c7ccce31b
+  text: 非
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.22
+    textline: 腹心大臣以為非天意
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:48:28.422+09:00'

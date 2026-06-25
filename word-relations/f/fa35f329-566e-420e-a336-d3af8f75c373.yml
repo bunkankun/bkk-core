@@ -1,0 +1,32 @@
+uuid: fa35f329-566e-420e-a336-d3af8f75c373
+type: word-relation
+group_uuid: c0b10a73-c0d2-49a1-b20d-412a84ffda83
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e2b4af83-8a62-4a93-9dc1-f44a6ae8735d
+  text: 智者
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 6b6c61d3-bb3d-4531-bd5f-73e85fc6374f
+    line_id: KR6q0082_T_001-0340a.8
+    textline: 智者心行
+    offset: 1
+    range: 2
+right:
+  word_uuid: 276634cc-c715-4451-96a3-5e0b94d60548
+  text: 迷人
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 2a6e519a-8147-4a8e-833e-1ccf5f8506ee
+    line_id: KR6q0082_T_001-0340a.7
+    textline: 迷人口念
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

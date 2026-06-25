@@ -1,0 +1,32 @@
+uuid: 45a1ae5c-d841-404f-86f5-5bd2ed319bd2
+type: word-relation
+group_uuid: 45a1ae5c-d841-404f-86f5-5bd2ed319bd2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 63f082fa-e1bb-433d-b09f-09d7caa99103
+  text: 愿
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 史記
+    line_uuid: bc6a096b-7ac4-4230-8f67-f36cbb8a71e0
+    line_id: KR2a0001_tls_125-3a.31
+    textline: 通亦愿謹
+    offset: 3
+    range: 1
+right:
+  word_uuid: b547fcf5-5778-4ac1-8ce8-54b3b6f85afd
+  text: 謹
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 史記
+    line_uuid: bc6a096b-7ac4-4230-8f67-f36cbb8a71e0
+    line_id: KR2a0001_tls_125-3a.31
+    textline: 通亦愿謹
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

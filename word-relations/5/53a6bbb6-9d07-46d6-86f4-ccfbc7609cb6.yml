@@ -1,0 +1,32 @@
+uuid: 53a6bbb6-9d07-46d6-86f4-ccfbc7609cb6
+type: word-relation
+group_uuid: 53a6bbb6-9d07-46d6-86f4-ccfbc7609cb6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b1dcf29d-1e1e-469d-98b7-9ab36135604e
+  text: 為
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 老子
+    line_uuid: 685b2f20-e4a5-4d0e-b8fb-184cd257a5d1
+    line_id: KR5c0057_tls_029-1a.7
+    textline: 為者敗之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4354011c-aca1-46f9-8766-cf6a9159e246
+  text: 敗
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 老子
+    line_uuid: 685b2f20-e4a5-4d0e-b8fb-184cd257a5d1
+    line_id: KR5c0057_tls_029-1a.7
+    textline: 為者敗之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

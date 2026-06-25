@@ -1,0 +1,32 @@
+uuid: 999eaa5b-7bfb-46cb-beea-12da82277a5e
+type: word-relation
+group_uuid: d855cd99-daa9-464e-8d56-f0edae48ba6f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 50d5a776-38d4-4b71-9155-4981c4056f6e
+  text: 軒
+  concept: CARRIAGE
+  concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+  attestation:
+    text_title: 管子
+    line_uuid: b2300fba-31d6-465c-a8ca-ac9e5a5ff372
+    line_id: KR3c0001_tls_011-9a.3
+    textline: 治軒冕者不敢讓賞
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3ae85c3c-1e62-42ea-b9f7-7f3250aa771f
+  text: 冕
+  concept: OFFICIAL HAT
+  concept_uuid: 3a73f7de-6879-4f8b-ac62-9d71cecd9cd4
+  attestation:
+    text_title: 管子
+    line_uuid: b2300fba-31d6-465c-a8ca-ac9e5a5ff372
+    line_id: KR3c0001_tls_011-9a.3
+    textline: 治軒冕者不敢讓賞
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

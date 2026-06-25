@@ -1,0 +1,32 @@
+uuid: 848924b9-492b-4f91-a948-e4fd9d19c007
+type: word-relation
+group_uuid: 494399d2-e024-4acd-bdde-2dfe60e70740
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5d855935-efc0-431e-9107-e757abf6b0a4
+    line_id: KR3j0009_tls_004-8a.4
+    textline: 用禮樂
+    offset: 2
+    range: 1
+right:
+  word_uuid: 32c60bca-2b81-4ee6-9ee9-9a6ad4e47a3e
+  text: 樂
+  concept: MUSIC
+  concept_uuid: e0e4d42d-4ff9-4023-8f68-faf7ab3ed78f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5d855935-efc0-431e-9107-e757abf6b0a4
+    line_id: KR3j0009_tls_004-8a.4
+    textline: 用禮樂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

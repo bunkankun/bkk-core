@@ -1,0 +1,32 @@
+uuid: 01c7320e-c37d-4dd2-9e9f-70e14a65994d
+type: word-relation
+group_uuid: 01c7320e-c37d-4dd2-9e9f-70e14a65994d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 14c572d4-cad4-4dc0-a8c2-5c296692a6b4
+  text: 情
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 楚辭
+    line_uuid: 5d13aae7-4b0e-4d66-a373-ffc38b441dc4
+    line_id: KR4a0001_tls_004-33a.6
+    textline: 情與質信可保兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: d0ef8f83-6f0b-4cec-9750-a368ce7d56fb
+  text: 質
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 楚辭
+    line_uuid: 5d13aae7-4b0e-4d66-a373-ffc38b441dc4
+    line_id: KR4a0001_tls_004-33a.6
+    textline: 情與質信可保兮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

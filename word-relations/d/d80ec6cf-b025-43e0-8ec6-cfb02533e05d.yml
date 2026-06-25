@@ -1,0 +1,32 @@
+uuid: d80ec6cf-b025-43e0-8ec6-cfb02533e05d
+type: word-relation
+group_uuid: 8179d2cd-e753-5173-b88a-30adb0de93ab
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_009-20a.4
+    textline: 此非君子之言
+    offset: 6
+    range: 1
+right:
+  word_uuid: a67ab7b1-849b-4c37-bb24-7aabc826c285
+  text: 語
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_009-20a.5
+    textline: 齊東野人之語也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-15T13:57:07.139+09:00'

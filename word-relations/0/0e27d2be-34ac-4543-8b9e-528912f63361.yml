@@ -1,0 +1,30 @@
+uuid: 0e27d2be-34ac-4543-8b9e-528912f63361
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 法華經
+    line_uuid: 7d18d7dc-60ac-4af6-8b22-5f4d2dd9987d
+    textline: 身心不動
+    offset: 1
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 法華經
+    line_uuid: 7d18d7dc-60ac-4af6-8b22-5f4d2dd9987d
+    textline: 身心不動
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

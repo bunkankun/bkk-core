@@ -1,0 +1,32 @@
+uuid: 3a57e70d-42f8-4cd7-97e7-0d42f89cd741
+type: word-relation
+group_uuid: 2f23421f-80e0-5177-a2ce-7c36c2d02fab
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 新語
+    line_id: CH1a0903_CHANT_001-14a.25
+    textline: 道行姦止
+    offset: 1
+    range: 1
+right:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 新語
+    line_id: CH1a0903_CHANT_001-14a.25
+    textline: 道行姦止
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-11-22T05:43:34.558+09:00'

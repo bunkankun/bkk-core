@@ -1,0 +1,32 @@
+uuid: 454288a9-a86d-4c01-aa4a-dcfd4841e775
+type: word-relation
+group_uuid: 454288a9-a86d-4c01-aa4a-dcfd4841e775
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: fec4658b-9eb7-4a6b-a13a-8866dfc71d5e
+  text: 多
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+  attestation:
+    text_title: 老子
+    line_uuid: 42b7eb94-130a-4dd8-8b7a-949dc20eea45
+    line_id: KR5c0057_tls_044-1a.11
+    textline: 多藏
+    offset: 1
+    range: 1
+right:
+  word_uuid: 631aa9f8-04b3-4450-bb6d-f23dfd3b5d99
+  text: 厚
+  concept: ABUNDANT
+  concept_uuid: 2fb5d934-aaa4-41ce-b8a4-4735a84a5345
+  attestation:
+    text_title: 老子
+    line_uuid: 97070633-f03e-4da9-811f-930343466afb
+    line_id: KR5c0057_tls_044-1a.12
+    textline: 必厚亡
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

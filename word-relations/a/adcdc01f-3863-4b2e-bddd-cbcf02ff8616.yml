@@ -1,0 +1,23 @@
+uuid: adcdc01f-3863-4b2e-bddd-cbcf02ff8616
+type: word-relation
+group_uuid: 0166e503-4c80-5686-ae2f-52a2a47d54f7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7a046108-80d1-4a51-ad8b-4e21b8f1858f
+  text: 倫
+  concept: ORDER
+  concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+right:
+  word_uuid: a1f71829-0b3d-45d3-ae9b-a3a58b4773ae
+  text: 序
+  concept: ORDER
+  concept_uuid: 5e4ae920-6541-4e94-a2f4-1bc2f4a826e7
+source_references:
+- bibliography_uuid: abc2f8ad-0bc4-4663-a70c-806e480d7081
+  title: 論衡同義詞研究
+  scope: '1'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

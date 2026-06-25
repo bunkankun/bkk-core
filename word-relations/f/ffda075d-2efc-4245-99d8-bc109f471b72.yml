@@ -1,0 +1,32 @@
+uuid: ffda075d-2efc-4245-99d8-bc109f471b72
+type: word-relation
+group_uuid: 05433446-0b37-4bd1-ae01-ed7488e3758c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8f265e41-a6f9-4026-8c13-bf7ab3a1e344
+  text: 負
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 論衡
+    line_uuid: 9a3bd75b-6cd4-44b6-9d8c-478adb0f0104
+    line_id: KR3j0080_tls_040-3a.14
+    textline: 負荷禮義之重
+    offset: 1
+    range: 1
+right:
+  word_uuid: f64c6f21-1dd5-444e-963d-3b6ac259ddc8
+  text: 荷
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 論衡
+    line_uuid: 9a3bd75b-6cd4-44b6-9d8c-478adb0f0104
+    line_id: KR3j0080_tls_040-3a.14
+    textline: 負荷禮義之重
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 77c9bb72-cf5e-4f41-89bb-72cf5edf416e
+type: word-relation
+group_uuid: e18d93fd-2f11-42e9-a42d-dfc5067f865d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67d1436c-7a93-4c5f-9e71-9fef1120e096
+  text: 夷
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 春秋公羊傳
+    line_id: CH1e0877_CHANT_012-36a.10
+    textline: 不與夷狄之主中國也
+    offset: 3
+    range: 1
+right:
+  word_uuid: b1322625-762d-4bc0-97df-70443fcf0a1c
+  text: 狄
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 春秋公羊傳
+    line_id: CH1e0877_CHANT_012-36a.10
+    textline: 不與夷狄之主中國也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#joachim.gentz'
+  date: '2023-01-21T07:17:52.824+09:00'

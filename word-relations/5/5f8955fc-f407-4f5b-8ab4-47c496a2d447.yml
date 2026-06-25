@@ -1,0 +1,32 @@
+uuid: 5f8955fc-f407-4f5b-8ab4-47c496a2d447
+type: word-relation
+group_uuid: ce0999bb-f149-4f14-a053-c7d73616402a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 知
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論衡
+    line_uuid: 56732f91-f1a7-47e6-89e3-eb9a750ae056
+    line_id: KR3j0080_tls_003-1a.47
+    textline: 故夫臨事知愚
+    offset: 5
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 論衡
+    line_uuid: 56732f91-f1a7-47e6-89e3-eb9a750ae056
+    line_id: KR3j0080_tls_003-1a.47
+    textline: 故夫臨事知愚
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

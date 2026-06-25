@@ -1,0 +1,32 @@
+uuid: bae94a2a-3525-4fa5-bdee-e4f6e017e62b
+type: word-relation
+group_uuid: bae94a2a-3525-4fa5-bdee-e4f6e017e62b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b9195b23-77a1-4c2d-a7dd-dc469891f588
+  text: 毒
+  concept: POISON
+  concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd25263c-40f1-4335-8f7a-85ce9a20b5ae
+    line_id: KR3c0005_tls_017-10a.7
+    textline: 此鴆毒扼昧之所以用也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 730e775a-bf1c-45ea-af75-f8397378b095
+  text: 鴆
+  concept: POISON
+  concept_uuid: 7c0ce838-e16f-42e0-b6c7-96e69f56c72b
+  attestation:
+    text_title: 韓非子
+    line_uuid: bd25263c-40f1-4335-8f7a-85ce9a20b5ae
+    line_id: KR3c0005_tls_017-10a.7
+    textline: 此鴆毒扼昧之所以用也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

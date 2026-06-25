@@ -1,0 +1,32 @@
+uuid: 18d3fa2e-8b0b-4273-a624-357dded632db
+type: word-relation
+group_uuid: 18d3fa2e-8b0b-4273-a624-357dded632db
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2a718f18-a960-47f8-b6c0-22736b0f31c2
+  text: 刀
+  concept: KNIFE
+  concept_uuid: 641c1d3c-1f7f-40a4-aba6-41fb8c9895c3
+  attestation:
+    text_title: 論衡
+    line_uuid: 3eeaf35f-808c-4431-8def-a996c93bda70
+    line_id: KR3j0080_tls_034-10a.7
+    textline: “秦任刀筆小吏
+    offset: 4
+    range: 1
+right:
+  word_uuid: 71a7967a-9077-4370-84e2-04d646baa66e
+  text: 筆
+  concept: BRUSH
+  concept_uuid: 2095bac4-6e1b-4bdb-9876-a012aa10a869
+  attestation:
+    text_title: 論衡
+    line_uuid: 3eeaf35f-808c-4431-8def-a996c93bda70
+    line_id: KR3j0080_tls_034-10a.7
+    textline: “秦任刀筆小吏
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e0f31520-5570-4fe9-8e9c-45d86430edd9
+type: word-relation
+group_uuid: 026a43b8-30c7-4a6e-83fe-1bd0ba1fc71b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3e7b658c-71c0-42cb-9457-daf30fdafaeb
+  text: 度
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: fab4f934-09ac-4419-8930-bf0fdd06d4d4
+    line_id: KR3c0005_tls_009-6a.8
+    textline: 人主之所與度計也
+    offset: 6
+    range: 1
+right:
+  word_uuid: acede607-7859-474a-bf1a-f69fd08ee45c
+  text: 計
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: fab4f934-09ac-4419-8930-bf0fdd06d4d4
+    line_id: KR3c0005_tls_009-6a.8
+    textline: 人主之所與度計也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

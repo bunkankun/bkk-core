@@ -1,0 +1,32 @@
+uuid: 7d232f64-2259-4303-a32f-642259830366
+type: word-relation
+group_uuid: 8af6eaa3-8a89-5982-bbf9-ab06f9796b83
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2148fc96-4a9f-46db-8108-d52e8547fb0d
+  text: 先
+  concept: EARLY
+  concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+  attestation:
+    text_title: 儀禮
+    line_id: CH1e0873_CHANT_002-22a.13
+    textline: 吾子順先典
+    offset: 5
+    range: 1
+right:
+  word_uuid: a3c8ff2f-d19f-48a5-829f-2884fc8d8a89
+  text: 典
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 儀禮
+    line_id: CH1e0873_CHANT_002-22a.13
+    textline: 吾子順先典
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T01:59:03.884+09:00'

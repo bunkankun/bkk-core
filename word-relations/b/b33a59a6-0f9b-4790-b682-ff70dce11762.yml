@@ -1,0 +1,32 @@
+uuid: b33a59a6-0f9b-4790-b682-ff70dce11762
+type: word-relation
+group_uuid: b33a59a6-0f9b-4790-b682-ff70dce11762
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: dd2e70b5-a808-449f-8434-d27e3c92eba7
+  text: 坐
+  concept: SIT
+  concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: d4b4ae64-feac-4294-9186-e08bbcc7c333
+    line_id: KR3c0005_tls_020-24a.6
+    textline: 詹何坐
+    offset: 3
+    range: 1
+right:
+  word_uuid: ddba9f17-1434-4c47-900d-b58d2d3ba4ec
+  text: 侍
+  concept: ACCOMPANY
+  concept_uuid: afef0495-05ea-4377-b526-822dd509173c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 75d4478a-8798-4fe6-9d71-98b149758cca
+    line_id: KR3c0005_tls_020-24a.7
+    textline: 弟子侍
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

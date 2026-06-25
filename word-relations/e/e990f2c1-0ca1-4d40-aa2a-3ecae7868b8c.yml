@@ -1,0 +1,32 @@
+uuid: e990f2c1-0ca1-4d40-aa2a-3ecae7868b8c
+type: word-relation
+group_uuid: e990f2c1-0ca1-4d40-aa2a-3ecae7868b8c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 飢
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 論衡
+    line_uuid: a6d4c7dd-5626-4eca-b465-54583b73ea47
+    textline: 飢饉之歲
+    range: 1
+right:
+  word_uuid: a4bf5ea9-2c0c-4fbf-a1e9-6316b0c904fe
+  text: 饉
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 論衡
+    line_uuid: a6d4c7dd-5626-4eca-b465-54583b73ea47
+    textline: 飢饉之歲
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 199445c9-736e-4a99-aac8-f765a6bb3a9d
+type: word-relation
+group_uuid: 70fe74bc-6645-5b5c-8602-a1636aa756ff
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eccc27a7-cec3-4494-9659-3130e9187413
+  text: 變
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+right:
+  word_uuid: 5389c058-de93-4a0b-b5b0-83f3b0797199
+  text: 災菑
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

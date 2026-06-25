@@ -1,0 +1,32 @@
+uuid: 5852c406-f784-4e6c-bea7-6ae5c7faabc6
+type: word-relation
+group_uuid: 8dd28cdd-3ae9-48f0-a2d6-7d78263f1b79
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aae131cd-ebb1-4935-9db0-f6927337cde9
+  text: 兵
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 孟子
+    line_uuid: 28ca1e65-a965-4c48-838d-cb9a9021ecd6
+    line_id: KR1h0001_tls_001-20a.1
+    textline: 可使制梃以撻秦楚之堅甲利兵矣
+    offset: 13
+    range: 1
+right:
+  word_uuid: b2d2d1d3-13bc-4b93-9be4-2f8d53cc0d7d
+  text: 甲
+  concept: ARMOUR
+  concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+  attestation:
+    text_title: 孟子
+    line_uuid: 28ca1e65-a965-4c48-838d-cb9a9021ecd6
+    line_id: KR1h0001_tls_001-20a.1
+    textline: 可使制梃以撻秦楚之堅甲利兵矣
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

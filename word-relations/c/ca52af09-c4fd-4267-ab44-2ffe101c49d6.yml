@@ -1,0 +1,35 @@
+uuid: ca52af09-c4fd-4267-ab44-2ffe101c49d6
+type: word-relation
+group_uuid: d316585d-d0e5-401d-8cb4-28227811bce9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 管子
+    line_uuid: b7bdcd40-1227-4826-8c7a-24cc1ebf8442
+    line_id: KR3c0001_tls_023-104a.7
+    textline: 無種者貸之新
+    offset: 6
+    range: 1
+right:
+  word_uuid: f61c1267-4429-48cf-a795-8d0634c6ef29
+  text: 陳
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 管子
+    line_uuid: cff8bfb7-1219-44ea-8d69-fc56a944a81e
+    line_id: KR3c0001_tls_023-104a.6
+    textline: 無食者予之陳
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

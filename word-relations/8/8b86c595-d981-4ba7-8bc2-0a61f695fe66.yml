@@ -1,0 +1,32 @@
+uuid: 8b86c595-d981-4ba7-8bc2-0a61f695fe66
+type: word-relation
+group_uuid: 8b86c595-d981-4ba7-8bc2-0a61f695fe66
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7c28d034-15a8-4619-8ded-517ff1eaf136
+  text: 急
+  concept: NEED
+  concept_uuid: e44d0e41-8b87-489a-b351-07289f688957
+  attestation:
+    text_title: 禮記
+    line_uuid: 2ba358dd-5dd3-4239-8914-e8cf567ac688
+    line_id: KR1d0052_tls_026-1a.4
+    textline: 莫急於禮
+    offset: 2
+    range: 1
+right:
+  word_uuid: add924db-054c-4dd6-8829-0064f3365fcc
+  text: 重
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 禮記
+    line_uuid: b572ca7a-aec1-436b-87b6-0338ae3d7760
+    line_id: KR1d0052_tls_026-1a.6
+    textline: 莫重於祭
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

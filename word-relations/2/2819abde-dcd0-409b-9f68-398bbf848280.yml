@@ -1,0 +1,32 @@
+uuid: 2819abde-dcd0-409b-9f68-398bbf848280
+type: word-relation
+group_uuid: 2819abde-dcd0-409b-9f68-398bbf848280
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dddfa333-638e-4b82-9647-3081a701edc4
+  text: 安
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2cdb722-7ad0-42ca-84c0-2161044c5e12
+    line_id: KR3c0005_tls_006-8a.5
+    textline: 民安而國治
+    offset: 2
+    range: 1
+right:
+  word_uuid: 95fa2b31-a7d4-44a1-bf37-33f088288d39
+  text: 治
+  concept: ORDERLY
+  concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2cdb722-7ad0-42ca-84c0-2161044c5e12
+    line_id: KR3c0005_tls_006-8a.5
+    textline: 民安而國治
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

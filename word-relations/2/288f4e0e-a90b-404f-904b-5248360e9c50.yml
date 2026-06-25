@@ -1,0 +1,18 @@
+uuid: 288f4e0e-a90b-404f-904b-5248360e9c50
+type: word-relation
+group_uuid: 84d9f389-db55-5fbb-acca-693f98c2c561
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f1e34c3d-1996-4c8f-97cf-813d84301517
+right:
+  word_uuid: 9f75f975-161f-42e6-888a-29b3572e63c8
+  text: 前
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a1de8cca-9430-4926-8d42-f2dbd9b7dd26
+type: word-relation
+group_uuid: 6154ee5d-aae5-42a6-ad54-4698add0de02
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 史記
+    line_uuid: 7993ac2c-7078-44e2-93c7-ebde8d2634cf
+    line_id: KR2a0001_tls_038-29a.6
+    textline: 「我死
+    offset: 2
+    range: 1
+right:
+  word_uuid: 23bd4002-d494-4648-a4a8-2ef6d1d4c599
+  text: 汝
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 史記
+    line_uuid: 1875a909-1e4c-424f-a649-4b05ca96470d
+    line_id: KR2a0001_tls_126-7a.8
+    textline: 汝必貧困
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

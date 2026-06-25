@@ -1,0 +1,32 @@
+uuid: 64c02bb4-1bf3-462c-802b-b41bf3262c46
+type: word-relation
+group_uuid: e959a6e3-5eb5-558a-bb7c-9650600e4ddd
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_019-6a.7
+    textline: 操舟可學邪
+    offset: 5
+    range: 1
+right:
+  word_uuid: 84815b35-5740-4b67-b134-86b7574a8419
+  text: 操
+  concept: WIELD
+  concept_uuid: c2e76579-86b5-4828-b148-241ccce1f7c9
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_019-6a.7
+    textline: 操舟可學邪
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T18:13:43.589+09:00'

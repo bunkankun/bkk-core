@@ -1,0 +1,18 @@
+uuid: 4769dec5-e515-438a-b4a1-8fd0987b087a
+type: word-relation
+group_uuid: 3326606b-0f2f-56ee-965f-4d87cec95fd8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 11a6c272-714e-4eac-bc81-b89b612eadb9
+  text: 儒
+  concept: SCHOLAR
+  concept_uuid: 3d0ee556-737f-4910-9b12-541696812ce3
+right:
+  word_uuid: 094758c2-1faf-4baf-9c11-50bdb6586a4c
+  text: 俗
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+source:
+  source_file: word-relations.xml

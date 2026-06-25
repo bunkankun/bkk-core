@@ -1,0 +1,32 @@
+uuid: 7882c295-4dca-43af-ad42-5efd5c7262a9
+type: word-relation
+group_uuid: 97f663bc-119c-4615-8de5-4e19d5d24221
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 0b0037ed-eb6e-423d-9b0c-d1e8e8a6ec62
+    line_id: KR1b0001_tls_020-1a.42
+    textline: 今我既羞告爾于朕志
+    offset: 8
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 0b0037ed-eb6e-423d-9b0c-d1e8e8a6ec62
+    line_id: KR1b0001_tls_020-1a.42
+    textline: 今我既羞告爾于朕志
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

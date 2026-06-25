@@ -1,0 +1,33 @@
+uuid: b0b1e5c6-d82a-4a7e-8b0c-056bad5c4958
+type: word-relation
+group_uuid: b0b1e5c6-d82a-4a7e-8b0c-056bad5c4958
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 上博。緇衣
+    line_uuid: 010726aa-79b4-46cd-9d44-98b88b3ccfc7
+    textline: 臣不惑於君.
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6c845646-5508-4718-ae6c-c928d8196104
+  text: 疑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 上博。緇衣
+    line_uuid: 195793d3-b6f7-45f0-ab2c-ffdbc7aab353
+    textline: 則君不疑其臣
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

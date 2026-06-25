@@ -1,0 +1,32 @@
+uuid: 075e2634-c419-4e22-aee5-57ec42761ca6
+type: word-relation
+group_uuid: 075e2634-c419-4e22-aee5-57ec42761ca6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9951307e-e8f3-4623-861e-b835b0e732be
+  text: 知
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a5d856d5-f969-42d0-bab2-7efde9f4b128
+    line_id: KR3j0009_tls_004-22a.30
+    textline: 出則慚於知友邑里
+    offset: 5
+    range: 1
+right:
+  word_uuid: bd157ccd-3b12-490e-a90c-b9a58c8b32f4
+  text: 友
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a5d856d5-f969-42d0-bab2-7efde9f4b128
+    line_id: KR3j0009_tls_004-22a.30
+    textline: 出則慚於知友邑里
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: 8664d89b-c23e-4e3f-a091-2982d1ebe89c
+type: word-relation
+group_uuid: 8664d89b-c23e-4e3f-a091-2982d1ebe89c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3417c4ba-a87d-45a8-a1e0-202b63c34da7
+  text: 宮
+  concept: PALACE
+  concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+  attestation:
+    text_title: 論衡
+    line_uuid: 04923eb3-a217-400e-b50a-0b6e7ad36993
+    line_id: KR3j0080_tls_024-33a.11
+    textline: 或時聞宮殿之內有舊銅器
+    offset: 4
+    range: 1
+right:
+  word_uuid: ac77c503-7e5c-48f2-8840-49c3de02a6ed
+  text: 殿
+  concept: PUBLIC BUILDING
+  concept_uuid: 5650836a-917e-487c-9136-682c9fa52fc6
+  attestation:
+    text_title: 論衡
+    line_uuid: 04923eb3-a217-400e-b50a-0b6e7ad36993
+    line_id: KR3j0080_tls_024-33a.11
+    textline: 或時聞宮殿之內有舊銅器
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

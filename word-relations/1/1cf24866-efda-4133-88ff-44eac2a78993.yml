@@ -1,0 +1,21 @@
+uuid: 1cf24866-efda-4133-88ff-44eac2a78993
+type: word-relation
+group_uuid: cc0c6b4a-bf18-5524-ad99-5b8f8e372c85
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 13db392c-2d54-45d4-9af4-c29fc15baa44
+  text: 不肖
+  concept: INCOMPETENT
+  concept_uuid: a2b97d19-b92f-40ca-8d58-47c2e7ed41f8
+right:
+  word_uuid: e47113ed-4889-4708-b327-4e7dbb2b70c4
+  text: 聖
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

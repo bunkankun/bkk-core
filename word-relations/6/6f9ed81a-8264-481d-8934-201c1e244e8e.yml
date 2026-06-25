@@ -1,0 +1,32 @@
+uuid: 6f9ed81a-8264-481d-8934-201c1e244e8e
+type: word-relation
+group_uuid: 6f9ed81a-8264-481d-8934-201c1e244e8e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5908bd50-9c05-43af-a9f1-7e8a81891120
+    line_id: KR3c0005_tls_006-24a.2
+    textline: 行惠施利
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8c408e85-b6be-4949-8870-e36a3436a4c0
+  text: 惠
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5908bd50-9c05-43af-a9f1-7e8a81891120
+    line_id: KR3c0005_tls_006-24a.2
+    textline: 行惠施利
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

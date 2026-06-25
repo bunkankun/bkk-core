@@ -1,0 +1,32 @@
+uuid: a209c59c-7c9d-4c96-90f3-1555418c85e7
+type: word-relation
+group_uuid: 7857d110-29c0-4792-ba5f-bb3c3a06abb2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 04257c88-a13a-4257-9afd-a9b3ae32c4dd
+  text: 社
+  concept: ALTAR
+  concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6583a759-0ddd-4fe7-90c2-86c981bd75de
+    line_id: KR3c0005_tls_004-10a.9
+    textline: 社稷將危
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6608be12-a3b3-492f-becf-3d974cc91c6c
+  text: 稷
+  concept: ALTAR
+  concept_uuid: 4cb65d30-efe9-4f0d-b986-853952c7af7a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6583a759-0ddd-4fe7-90c2-86c981bd75de
+    line_id: KR3c0005_tls_004-10a.9
+    textline: 社稷將危
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: d3e1f8d1-7817-470b-8c17-0b745eaacae5
+type: word-relation
+group_uuid: 2f0d3744-b93d-5f55-ac14-4be42e26cb33
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5f1b8c0a-331c-4bf5-ad94-2e4d2c067b8d
+  text: 廣
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+right:
+  word_uuid: 3edd9634-c067-49c9-95dc-f9afd88a5cab
+  text: 浩
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

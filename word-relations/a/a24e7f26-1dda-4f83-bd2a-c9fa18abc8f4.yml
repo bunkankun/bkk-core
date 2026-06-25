@@ -1,0 +1,32 @@
+uuid: a24e7f26-1dda-4f83-bd2a-c9fa18abc8f4
+type: word-relation
+group_uuid: 497ee29f-06f9-41a4-a3aa-67a8767653be
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5b5da254-0a51-4e64-9a24-b429ca6c3087
+  text: 德
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 老子
+    line_uuid: aebeb0f7-9dcc-4014-a838-989fd867bd65
+    line_id: KR5c0057_tls_063-1a.7
+    textline: 報怨以德
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 老子
+    line_uuid: aebeb0f7-9dcc-4014-a838-989fd867bd65
+    line_id: KR5c0057_tls_063-1a.7
+    textline: 報怨以德
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

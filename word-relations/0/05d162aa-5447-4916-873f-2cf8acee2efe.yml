@@ -1,0 +1,32 @@
+uuid: 05d162aa-5447-4916-873f-2cf8acee2efe
+type: word-relation
+group_uuid: 41fcb5e0-68d4-4453-a8fb-d43540a6abb4
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 424ba6c4-94ca-4cab-9c05-25db56a621c7
+  text: 主人
+  concept: HOST
+  concept_uuid: e52c9643-b8a7-4bab-953d-ca134baacc1a
+  attestation:
+    text_title: 禮記
+    line_uuid: adcb5756-6d32-4571-914d-592249cbd46d
+    line_id: KR1d0052_tls_001-19a.24
+    textline: 主人不問
+    offset: 1
+    range: 2
+right:
+  word_uuid: 3c70b43c-4082-4063-b4e6-fed6df8b17a0
+  text: 客
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+  attestation:
+    text_title: 禮記
+    line_uuid: 5c798ba8-5e01-4bae-8640-8486a689a950
+    line_id: KR1d0052_tls_001-19a.25
+    textline: 客不先舉
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

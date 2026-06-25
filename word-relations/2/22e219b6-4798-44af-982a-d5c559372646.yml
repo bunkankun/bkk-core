@@ -1,0 +1,32 @@
+uuid: 22e219b6-4798-44af-982a-d5c559372646
+type: word-relation
+group_uuid: 6385f340-c060-4fc4-8e90-08a5173c8536
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 老子
+    line_uuid: c16dad19-1d83-42cf-9500-bfa3929b99b8
+    line_id: KR5c0057_tls_077-1a.4
+    textline: 高者抑之
+    offset: 1
+    range: 1
+right:
+  word_uuid: ff0c2d21-7607-4565-a9e4-0a7148ebf601
+  text: 下
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 老子
+    line_uuid: 3f1d308e-1256-44ba-aef2-5bddbe530941
+    line_id: KR5c0057_tls_077-1a.5
+    textline: 下者舉之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

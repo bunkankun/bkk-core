@@ -1,0 +1,32 @@
+uuid: dc1163ff-849f-46d4-a86a-8b8c602d8c0b
+type: word-relation
+group_uuid: dc1163ff-849f-46d4-a86a-8b8c602d8c0b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 67e35ad8-6dad-4361-9403-2f0caa756572
+  text: 躁
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 老子
+    line_uuid: 05f934fc-ec41-40b0-948c-33d01e1696cf
+    line_id: KR5c0057_tls_026-1a.4
+    textline: 靜為躁君
+    offset: 3
+    range: 1
+right:
+  word_uuid: 96921913-5a46-4041-ae7f-5a65a088ef94
+  text: 靜
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 老子
+    line_uuid: 05f934fc-ec41-40b0-948c-33d01e1696cf
+    line_id: KR5c0057_tls_026-1a.4
+    textline: 靜為躁君
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6d2a9421-db90-429c-9d5e-b8a5853839cc
+type: word-relation
+group_uuid: 6d2a9421-db90-429c-9d5e-b8a5853839cc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 140000c0-8b14-451f-a357-39e08169ee1e
+  text: 精
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 論衡
+    line_uuid: 6bafe903-c44a-452c-8316-34ccc7da810b
+    line_id: KR3j0080_tls_003-9a.7
+    textline: 不須勞精苦形求索之也
+    offset: 4
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 論衡
+    line_uuid: 6bafe903-c44a-452c-8316-34ccc7da810b
+    line_id: KR3j0080_tls_003-9a.7
+    textline: 不須勞精苦形求索之也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

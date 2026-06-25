@@ -1,0 +1,32 @@
+uuid: 677e4f1a-9e3e-428e-b93d-b7b31eba2baf
+type: word-relation
+group_uuid: 677e4f1a-9e3e-428e-b93d-b7b31eba2baf
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b55d084b-5386-4e02-8e29-45f94141dcd2
+  text: 悟
+  concept: ENLIGHTENMENT
+  concept_uuid: 0dcac5e4-8b35-419b-84c3-04a457d21419
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 20c10878-c619-4b62-98ce-aa2934965f0c
+    line_id: KR6q0002_Yan_003-1122a.2
+    textline: 悟人即不別”
+    offset: 1
+    range: 1
+right:
+  word_uuid: 645b026e-4b50-407a-b2f0-96355dccb7b9
+  text: 迷
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 祖堂集
+    line_uuid: b1678278-e17b-4f58-ba21-925f11c248f6
+    line_id: KR6q0002_Yan_003-1122a.1
+    textline: “迷人即別
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

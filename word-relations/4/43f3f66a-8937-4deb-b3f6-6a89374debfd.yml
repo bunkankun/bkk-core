@@ -1,0 +1,32 @@
+uuid: 43f3f66a-8937-4deb-b3f6-6a89374debfd
+type: word-relation
+group_uuid: 169c53ff-7bff-5665-9ac4-74406923511a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b8294f29-1097-4498-a2ff-f8daefb0b4a1
+  text: 邑
+  concept: CITY
+  concept_uuid: 5739abe6-b528-4c38-a547-0e174f756ae6
+  attestation:
+    text_title: 吳越春秋
+    line_id: CH1c0891_CHANT_001-1a.93
+    textline: 一年成邑
+    offset: 4
+    range: 1
+right:
+  word_uuid: d5c15d69-0ee8-4396-a6c6-13ace5a0e6f5
+  text: 都
+  concept: CAPITAL CITY
+  concept_uuid: 6b13f33a-3f2a-427d-9107-924f9efc4ab1
+  attestation:
+    text_title: 吳越春秋
+    line_id: CH1c0891_CHANT_001-1a.94
+    textline: 二年成都
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-18T05:03:47.267+09:00'

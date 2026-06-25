@@ -1,0 +1,31 @@
+uuid: 709072a5-8e84-4280-a34e-c08a4f86eaef
+type: word-relation
+group_uuid: 709072a5-8e84-4280-a34e-c08a4f86eaef
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9a71ce0f-b032-4274-9fdf-ec8822ee88a4
+  text: 賢者
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 法言
+    line_uuid: c67df029-e42e-4e83-8982-41ba723ecf2d
+    textline: 賢者耳擇,口擇
+    offset: 1
+    range: 2
+right:
+  word_uuid: 3fac01de-fe0c-4239-a7dd-8a7857ccbff3
+  text: 眾人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 法言
+    line_uuid: 70af2c72-6532-45f4-88b2-2df033e095dc
+    line_id: KR3a0009_tls_003-21a.5
+    textline: 眾人無擇焉
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

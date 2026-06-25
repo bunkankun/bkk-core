@@ -1,0 +1,21 @@
+uuid: fbec65d8-56a0-4a68-9c3d-88b35d444862
+type: word-relation
+group_uuid: 52a603f2-7cea-5b78-abe5-ffa4420f33e1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0d5029b2-2f30-4555-8655-9624195b2445
+  text: 禱
+  concept: PRAY
+  concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+right:
+  word_uuid: a7cc5cf3-4925-4748-a93d-dd24e470bcef
+  text: 祈
+  concept: PRAY
+  concept_uuid: d046dafb-18ed-4cf3-9a36-c10100d240e7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

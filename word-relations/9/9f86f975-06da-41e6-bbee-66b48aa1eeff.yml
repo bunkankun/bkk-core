@@ -1,0 +1,21 @@
+uuid: 9f86f975-06da-41e6-bbee-66b48aa1eeff
+type: word-relation
+group_uuid: fbf0a882-2c85-59d9-b766-35588efd5a2c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c0790137-1e3d-48ad-ae90-6a5fe6dd19f7
+  text: 光
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+right:
+  word_uuid: f1af2835-00fd-4b9b-9d32-863c0f64643b
+  text: 榮
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

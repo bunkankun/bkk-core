@@ -1,0 +1,32 @@
+uuid: d8d0c088-deab-4adf-9fb1-205ef3972999
+type: word-relation
+group_uuid: d8d0c088-deab-4adf-9fb1-205ef3972999
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 6b6d3dd0-da23-4e97-99cf-faebaafa5119
+  text: 雖
+  concept: EVEN IF
+  concept_uuid: d5258d27-9fb9-4a9e-95e1-06474af76fe6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 99a7cff8-bf5c-4dd8-adc8-82902563edf8
+    line_id: KR1e0001_tls_012-210a.14
+    textline: 吳雖無道
+    offset: 2
+    range: 1
+right:
+  word_uuid: 01ddb500-d150-44d1-a8fa-a5d4e2670fba
+  text: 猶
+  concept: NONETHELESS
+  concept_uuid: 14dac374-e382-474d-b7d7-7bc80e247be6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 67508a8f-731e-4a8c-8e56-2c25397623cf
+    line_id: KR1e0001_tls_012-210a.15
+    textline: 猶足以患衛
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

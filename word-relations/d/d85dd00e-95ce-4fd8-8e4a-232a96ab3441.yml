@@ -1,0 +1,18 @@
+uuid: d85dd00e-95ce-4fd8-8e4a-232a96ab3441
+type: word-relation
+group_uuid: a0323c65-ddf6-54f0-a2b8-377b973c6f6f
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: bdad3f11-6c10-47a7-9565-7d9a30c7c944
+  text: 糶
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+right:
+  word_uuid: afeb5dfb-81ea-4822-81a6-a213e97d3b6f
+  text: 糴
+  concept: BUY
+  concept_uuid: d6c0c43b-5272-4d9e-88f9-f6bbac97e134
+source:
+  source_file: word-relations.xml

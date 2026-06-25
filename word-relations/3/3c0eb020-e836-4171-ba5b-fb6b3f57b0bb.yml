@@ -1,0 +1,32 @@
+uuid: 3c0eb020-e836-4171-ba5b-fb6b3f57b0bb
+type: word-relation
+group_uuid: 3c0eb020-e836-4171-ba5b-fb6b3f57b0bb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 35dca112-713d-4363-b2bd-8112598e6402
+  text: 降
+  concept: DESCEND
+  concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2f59cd4b-898d-494f-b4b8-6555eba32bab
+    line_id: KR3j0009_tls_001-5a.3
+    textline: 天氣下降
+    offset: 4
+    range: 1
+right:
+  word_uuid: a21bb61d-e53b-489c-b320-617014ac9b06
+  text: 騰
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 785fab84-ec40-413f-8007-b87374d296c4
+    line_id: KR3j0009_tls_001-5a.4
+    textline: 地氣上騰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

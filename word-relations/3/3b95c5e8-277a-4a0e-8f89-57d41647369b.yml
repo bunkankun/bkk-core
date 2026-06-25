@@ -1,0 +1,33 @@
+uuid: 3b95c5e8-277a-4a0e-8f89-57d41647369b
+type: word-relation
+group_uuid: 3b95c5e8-277a-4a0e-8f89-57d41647369b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f6ceeee5-bcdd-4091-8706-e7d7228e035c
+  text: 是
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 2b62e8f7-ca41-45a9-bbe0-3aa539cfb9eb
+    textline: 勿得違戾是非
+    offset: 5
+    range: 1
+right:
+  word_uuid: 54a319da-1309-4989-b9ff-07e3eb8b264e
+  text: 非
+  concept: UNTRUE
+  concept_uuid: 7045a1dc-2265-4ffc-9390-4cedb88d2de3
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 2b62e8f7-ca41-45a9-bbe0-3aa539cfb9eb
+    textline: 勿得違戾是非
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

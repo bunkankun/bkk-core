@@ -1,0 +1,32 @@
+uuid: fe9bef88-f9b8-4372-9bef-88f9b8f372e2
+type: word-relation
+group_uuid: 4dfb9161-b788-5544-a0b8-b8b0d66117f9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_019-56a.3
+    textline: 或聖或否
+    offset: 2
+    range: 1
+right:
+  word_uuid: dd138683-b2de-4b04-8dbe-9d2edf5128ff
+  text: 否
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 毛詩
+    line_id: KR1c0001_tls_019-56a.3
+    textline: 或聖或否
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T16:49:30.719+09:00'

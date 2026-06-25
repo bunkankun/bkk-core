@@ -1,0 +1,32 @@
+uuid: 15a0f777-37d6-41c7-a0f7-7737d6f1c75d
+type: word-relation
+group_uuid: 9138d250-ff54-5ee4-852f-e18c53612702
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 86986c51-de30-4b9c-986c-51de30fb9c24
+  text: 自由
+  concept: INDEPENDENT
+  concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+  attestation:
+    text_title: 中阿含經
+    line_id: CH2a1845_CHANT_037-2a.127
+    textline: 自由自在
+    offset: 1
+    range: 2
+right:
+  word_uuid: 767c595c-ac60-478e-896a-5e2c99b521da
+  text: 自在
+  concept: FREE
+  concept_uuid: f036ca69-5150-41bd-9aaa-52bb69ed53b9
+  attestation:
+    text_title: 中阿含經
+    line_id: CH2a1845_CHANT_037-2a.127
+    textline: 自由自在
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-15T00:07:12.396+09:00'

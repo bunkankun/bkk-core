@@ -1,0 +1,32 @@
+uuid: dd8970c9-8542-4595-bb24-1bcb12fd626b
+type: word-relation
+group_uuid: dd8970c9-8542-4595-bb24-1bcb12fd626b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 934b3681-1855-4bca-9db8-9e1655de9525
+  text: 賦
+  concept: TAX
+  concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6d12c142-32be-4b29-95d5-87dcbffb78ad
+    line_id: KR3c0005_tls_009-9a.4
+    textline: 重賦斂
+    offset: 2
+    range: 1
+right:
+  word_uuid: c752a011-49f5-49dc-b8f9-750812c189f5
+  text: 斂
+  concept: TAX
+  concept_uuid: ab5f4647-14ee-40bf-a3f5-a4e8db993b50
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6d12c142-32be-4b29-95d5-87dcbffb78ad
+    line_id: KR3c0005_tls_009-9a.4
+    textline: 重賦斂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

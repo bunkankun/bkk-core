@@ -1,0 +1,18 @@
+uuid: 3f7df129-1087-4223-8b41-3f24f16d3f3b
+type: word-relation
+group_uuid: 92524fa0-e58a-574f-abbf-aaed3c4725c7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5c394d14-69b5-44ae-819a-43210fa23b5e
+  text: 生
+  concept: BEGET
+  concept_uuid: d1f85eeb-ffa2-4816-a491-5ab486545ad4
+right:
+  word_uuid: d4f4566d-64d3-49d6-a104-e3c0a0321ffb
+  text: 有
+  concept: POSSESS
+  concept_uuid: e2d50813-9ac6-4322-b08e-a012794f8856
+source:
+  source_file: word-relations.xml

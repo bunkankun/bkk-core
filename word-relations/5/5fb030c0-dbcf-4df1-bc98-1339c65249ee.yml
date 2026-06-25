@@ -1,0 +1,31 @@
+uuid: 5fb030c0-dbcf-4df1-bc98-1339c65249ee
+type: word-relation
+group_uuid: 5fb030c0-dbcf-4df1-bc98-1339c65249ee
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f86175c1-c120-4f73-82b7-0abe18cf0883
+  text: 是
+  concept: ASSENT
+  concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 347dd043-2d0e-4a3e-a834-ffa0fa0df3c3
+    line_id: KR3c0005_tls_014-2a.3
+    textline: 取舍同者則相是也
+    offset: 7
+    range: 1
+right:
+  word_uuid: 736bbe62-c897-4273-bc04-9d413cc5037d
+  text: 非
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5735a682-1be0-444e-bc4e-0e0b2e696299
+    textline: 取舍異者則相非也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

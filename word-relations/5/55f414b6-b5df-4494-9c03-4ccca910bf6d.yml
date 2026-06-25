@@ -1,0 +1,32 @@
+uuid: 55f414b6-b5df-4494-9c03-4ccca910bf6d
+type: word-relation
+group_uuid: 55f414b6-b5df-4494-9c03-4ccca910bf6d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f247efa1-49a9-4537-ad10-473b87e11741
+  text: 爾
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 5af000fd-5614-46b0-b869-8169b145cf67
+    line_id: KR1e0001_tls_009-387a.8
+    textline: 爾父為厲
+    offset: 1
+    range: 1
+right:
+  word_uuid: e1e53bef-e651-46a4-a4b8-1e95ba32f278
+  text: 而
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 1aee7381-402e-4911-8ee7-7099e5771aa5
+    line_id: KR1e0001_tls_009-387a.7
+    textline: 「親逐而君
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

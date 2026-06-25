@@ -1,0 +1,32 @@
+uuid: 7dfb9d70-988f-44c7-a438-09add2dcfc7f
+type: word-relation
+group_uuid: 7dfb9d70-988f-44c7-a438-09add2dcfc7f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 56582cb8-f1c7-45cd-97ef-5ab699ebbf7e
+  text: 塗
+  concept: MUD
+  concept_uuid: 4010f454-9f59-4984-90be-b1371b7d6c21
+  attestation:
+    text_title: 淮南子
+    line_uuid: 67a089bb-f6be-4208-9330-430513e82d9e
+    line_id: KR3j0010_tls_006-15a.31
+    textline: 泥塗至膝
+    offset: 2
+    range: 1
+right:
+  word_uuid: e9694a03-daf1-418c-9883-6b42e7168e09
+  text: 泥
+  concept: MUD
+  concept_uuid: 4010f454-9f59-4984-90be-b1371b7d6c21
+  attestation:
+    text_title: 淮南子
+    line_uuid: 67a089bb-f6be-4208-9330-430513e82d9e
+    line_id: KR3j0010_tls_006-15a.31
+    textline: 泥塗至膝
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

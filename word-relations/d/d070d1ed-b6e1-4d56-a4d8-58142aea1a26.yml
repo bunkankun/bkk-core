@@ -1,0 +1,32 @@
+uuid: d070d1ed-b6e1-4d56-a4d8-58142aea1a26
+type: word-relation
+group_uuid: 6e0e8fd8-c595-49b6-b596-e96615d8d1cc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 932835ad-2033-4dff-b325-d67ed6a3ce6a
+  text: 馳
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 75c971e8-e3f4-41b4-b078-918731ef778c
+    line_id: KR3j0009_tls_002-22a.7
+    textline: 馳騁弋射
+    offset: 1
+    range: 1
+right:
+  word_uuid: f22a6687-fa66-4520-a258-bbb4eb7b0ddf
+  text: 騁
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 75c971e8-e3f4-41b4-b078-918731ef778c
+    line_id: KR3j0009_tls_002-22a.7
+    textline: 馳騁弋射
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

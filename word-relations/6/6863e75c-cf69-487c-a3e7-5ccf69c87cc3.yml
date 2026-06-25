@@ -1,0 +1,32 @@
+uuid: 6863e75c-cf69-487c-a3e7-5ccf69c87cc3
+type: word-relation
+group_uuid: 9720ca6d-dcd0-5d5c-84dc-730da375a668
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8bc8f877-78f6-46dc-b917-a75022af0771
+  text: 晚
+  concept: LATE
+  concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.32
+    textline: 晚世之兵
+    offset: 1
+    range: 1
+right:
+  word_uuid: a3095b31-08b4-4a89-ab4e-b7b6e1b0ebe7
+  text: 世
+  concept: PERIOD
+  concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.32
+    textline: 晚世之兵
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T02:16:40.678+09:00'

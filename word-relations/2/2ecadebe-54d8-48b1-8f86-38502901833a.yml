@@ -1,0 +1,32 @@
+uuid: 2ecadebe-54d8-48b1-8f86-38502901833a
+type: word-relation
+group_uuid: 2ecadebe-54d8-48b1-8f86-38502901833a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 92431201-5d6f-4beb-8bc3-998bd7a02bf3
+  text: 陰
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5469d5fe-8f55-4ea7-8902-414372572660
+    line_id: KR3c0005_tls_001-3a.3
+    textline: 天下陰燕陽魏
+    offset: 3
+    range: 1
+right:
+  word_uuid: a4cd7d79-370f-4224-a1fc-5a0408e47e70
+  text: 陽
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5469d5fe-8f55-4ea7-8902-414372572660
+    line_id: KR3c0005_tls_001-3a.3
+    textline: 天下陰燕陽魏
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

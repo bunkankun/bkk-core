@@ -1,0 +1,21 @@
+uuid: b77ee54a-d363-4456-bb56-3a395e4c5249
+type: word-relation
+group_uuid: 123134ac-bca9-5c82-b9f0-a8c25b703cdb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+right:
+  word_uuid: d9d803d3-2cfa-46e8-a267-09ee19433986
+  text: 吏
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

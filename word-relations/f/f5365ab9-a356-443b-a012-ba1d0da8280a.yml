@@ -1,0 +1,32 @@
+uuid: f5365ab9-a356-443b-a012-ba1d0da8280a
+type: word-relation
+group_uuid: f5365ab9-a356-443b-a012-ba1d0da8280a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 67d5dad8-f3eb-4f14-b5b2-2aa4ff8ae31e
+  text: 慍
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 32ed9e02-9094-4d21-ac54-465230969f73
+    line_id: KR1c0066_tls_006-20a.109
+    textline: 子路慍怒
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0e287446-a0d6-42bb-bf09-a229ff4ed277
+  text: 怒
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 32ed9e02-9094-4d21-ac54-465230969f73
+    line_id: KR1c0066_tls_006-20a.109
+    textline: 子路慍怒
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

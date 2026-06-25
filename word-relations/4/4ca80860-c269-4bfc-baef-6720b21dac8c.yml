@@ -1,0 +1,35 @@
+uuid: 4ca80860-c269-4bfc-baef-6720b21dac8c
+type: word-relation
+group_uuid: d32addd1-c9d9-4702-9cc6-fff48c7fea65
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 論衡
+    line_uuid: 37409bcf-641e-4931-9ba7-c38110197143
+    line_id: KR3j0080_tls_002-10a.14
+    textline: 水不痛寒
+    offset: 4
+    range: 1
+right:
+  word_uuid: caf98739-222c-4786-b1b1-644b04a17dbe
+  text: 熱
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 論衡
+    line_uuid: b6b45320-2d62-4179-b31e-a1ae0b633b67
+    line_id: KR3j0080_tls_002-10a.13
+    textline: 火不苦熱
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

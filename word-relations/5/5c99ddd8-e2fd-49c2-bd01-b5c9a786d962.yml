@@ -1,0 +1,32 @@
+uuid: 5c99ddd8-e2fd-49c2-bd01-b5c9a786d962
+type: word-relation
+group_uuid: 5c99ddd8-e2fd-49c2-bd01-b5c9a786d962
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9b1ab16c-5a2b-4ce8-a7cf-1c041b0c4e32
+    line_id: KR3j0010_tls_011-10a.46
+    textline: 則動而惑營
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8845d281-f9f9-4ef3-93f9-75e8c2c305c8
+  text: 營
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 淮南子
+    line_uuid: 9b1ab16c-5a2b-4ce8-a7cf-1c041b0c4e32
+    line_id: KR3j0010_tls_011-10a.46
+    textline: 則動而惑營
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

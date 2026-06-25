@@ -1,0 +1,33 @@
+uuid: 9d9c4be9-debb-4e7a-acc8-b9b6811003f0
+type: word-relation
+group_uuid: 9d9c4be9-debb-4e7a-acc8-b9b6811003f0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+  attestation:
+    text_title: 墨子
+    line_uuid: 51c61d03-0a63-4f18-b334-d97974a50505
+    textline: 賢者舉而尚之
+    offset: 3
+    range: 1
+right:
+  word_uuid: bff6ccef-ae84-4605-902e-8d9e4e41ad02
+  text: 抑
+  concept: SQUEEZE
+  concept_uuid: 2a7a2ba8-65c2-4809-9e85-31f394dece9e
+  attestation:
+    text_title: 墨子
+    line_uuid: 3b506d9e-1c83-4cb8-989e-9557601b1934
+    textline: 不肖者抑而廢之
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 2892cd6e-bbb0-48b8-acad-69474e1bf3ac
+type: word-relation
+group_uuid: 6fb19ac7-538b-5659-b3b5-032d66345d60
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d9b154a1-f11f-4c5d-b672-c411db28585d
+  text: 進
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+right:
+  word_uuid: e42271b1-4964-4146-9a45-1b5bfffbfd9b
+  text: 奏
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

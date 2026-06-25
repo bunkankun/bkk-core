@@ -1,0 +1,31 @@
+uuid: bcf477d5-a0f6-4220-be38-c59ef8a8a6c6
+type: word-relation
+group_uuid: e58108cb-5922-4d04-b848-42b6ff916bad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d833acdf-332a-45e1-9d62-9bf4313d65ad
+    textline: 丘聞之『得之於身者得之人
+    offset: 9
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e81e004a-5084-4c2a-9161-6a142c8d952f
+    line_id: KR3j0009_tls_003-23a.11
+    textline: 失之於身者失之人
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

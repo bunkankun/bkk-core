@@ -1,0 +1,21 @@
+uuid: c6e2fd20-197a-49af-8ed6-bada8b113815
+type: word-relation
+group_uuid: ad092426-fd4b-5fe0-b67a-463625c0ed5a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 34df6fda-7a20-4f96-80e1-e026838c4526
+  text: 賓
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+right:
+  word_uuid: 3c70b43c-4082-4063-b4e6-fed6df8b17a0
+  text: 客
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

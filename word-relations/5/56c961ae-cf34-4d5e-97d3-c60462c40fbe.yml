@@ -1,0 +1,32 @@
+uuid: 56c961ae-cf34-4d5e-97d3-c60462c40fbe
+type: word-relation
+group_uuid: 56c961ae-cf34-4d5e-97d3-c60462c40fbe
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f9cd466f-732d-4414-8802-956ae1b70b7b
+  text: 志
+  concept: ASPIRATION
+  concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+  attestation:
+    text_title: 論語
+    line_uuid: 3807f8b4-9a35-442f-97e5-4113e12735e3
+    line_id: KR1h0004_tls_007-6a.3
+    textline: 「志於道
+    offset: 2
+    range: 1
+right:
+  word_uuid: 831bd891-649b-42d1-99d5-fec2f122537a
+  text: 據
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 論語
+    line_uuid: 2b115008-3e55-4c08-a744-119e5c428312
+    line_id: KR1h0004_tls_007-6a.4
+    textline: 據於德
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

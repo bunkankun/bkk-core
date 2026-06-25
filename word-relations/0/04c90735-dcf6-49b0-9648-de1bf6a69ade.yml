@@ -1,0 +1,32 @@
+uuid: 04c90735-dcf6-49b0-9648-de1bf6a69ade
+type: word-relation
+group_uuid: d1b8300d-1eaa-4da9-9325-d9ba21e1c914
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7274124a-7210-40f0-a53f-0bc60b622b08
+  text: 壽
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 論衡
+    line_uuid: ea31fbab-3726-4a15-b653-7a19cc53168e
+    line_id: KR3j0080_tls_004-4a.32
+    textline: 壽夭或一氣
+    offset: 1
+    range: 1
+right:
+  word_uuid: cbdcabdd-23f5-4271-8857-6fe9e0ce622c
+  text: 夭
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 論衡
+    line_uuid: ea31fbab-3726-4a15-b653-7a19cc53168e
+    line_id: KR3j0080_tls_004-4a.32
+    textline: 壽夭或一氣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

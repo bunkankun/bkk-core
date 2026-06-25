@@ -1,0 +1,32 @@
+uuid: 6ca275f1-59af-49f1-a275-f159af09f18d
+type: word-relation
+group_uuid: 2d376fd3-8e53-5752-8607-6850dbaa0d13
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: eed9ce4c-c15f-4409-99ce-4cc15f5409bb
+  text: 一人
+  concept: ONE
+  concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_015-11a.83
+    textline: 然一人唱而天下和之者
+    offset: 2
+    range: 2
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_015-11a.83
+    textline: 然一人唱而天下和之者
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-04T18:38:17.343+09:00'

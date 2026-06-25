@@ -1,0 +1,32 @@
+uuid: b154153d-6c4c-467a-bfbe-87b2fe3a75d7
+type: word-relation
+group_uuid: b154153d-6c4c-467a-bfbe-87b2fe3a75d7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 0acf82e0-0031-47b7-a122-7adf14838e05
+  text: 親
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 論衡
+    line_uuid: 6ff7c4cb-8d29-4d60-ad32-ecc737e66188
+    line_id: KR3j0080_tls_033-10a.33
+    textline: 眾不親
+    offset: 3
+    range: 1
+right:
+  word_uuid: b4200395-4090-42ab-b918-6dd89baa4f97
+  text: 附
+  concept: INTIMATE
+  concept_uuid: d8d78251-525c-4f4c-98a0-9869ad4ed8eb
+  attestation:
+    text_title: 論衡
+    line_uuid: d8e6b107-db1e-40a1-83fa-58da92241114
+    line_id: KR3j0080_tls_033-10a.34
+    textline: 士不附也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

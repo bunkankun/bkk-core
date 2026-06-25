@@ -1,0 +1,32 @@
+uuid: b92f1edb-5dd2-4e79-b2ae-1a0d3a8bb54f
+type: word-relation
+group_uuid: b92f1edb-5dd2-4e79-b2ae-1a0d3a8bb54f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 322d9f52-9bb3-40cd-95cd-ca20e62a5e58
+  text: 暴雨
+  concept: RAIN
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 69de7364-d1fc-46f8-b5fd-f597ecc6081e
+    line_id: KR3j0009_tls_008-25a.17
+    textline: 能決斷則能若雷電飄風暴雨
+    offset: 11
+    range: 2
+right:
+  word_uuid: 04abd3d2-9a06-4d2f-a630-3abb1aee0703
+  text: 飄風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 69de7364-d1fc-46f8-b5fd-f597ecc6081e
+    line_id: KR3j0009_tls_008-25a.17
+    textline: 能決斷則能若雷電飄風暴雨
+    offset: 9
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 8de3362b-5d86-42b1-a9b7-167b8d3ed73a
+type: word-relation
+group_uuid: 8de3362b-5d86-42b1-a9b7-167b8d3ed73a
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 7ce8368a-ac1f-4c30-bc81-703444341d0a
+  text: 戰
+  concept: BATTLE
+  concept_uuid: 6c1afc3e-006e-4519-b6b6-4db9fc468c26
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7427d80b-8bb8-4b50-a9dd-2a21051e1158
+    textline: 是故秦戰未嘗不克
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1bd7a072-fcdd-460c-9902-d3ca769308dd
+  text: 克
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7427d80b-8bb8-4b50-a9dd-2a21051e1158
+    textline: 是故秦戰未嘗不克
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

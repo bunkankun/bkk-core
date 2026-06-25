@@ -1,0 +1,32 @@
+uuid: 151198ee-4867-4b39-9f38-7a9e9ea5b2d5
+type: word-relation
+group_uuid: 46b89fed-4896-4fdd-8de8-7aa73bb9d038
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 72d6bba8-9a15-4904-ad47-d953e325ae08
+  text: 財
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 韓非子
+    line_uuid: de805bde-2837-43bc-8e42-bf01620e011b
+    line_id: KR3c0005_tls_009-31a.2
+    textline: 故財利多者買官以為貴
+    offset: 2
+    range: 1
+right:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: de805bde-2837-43bc-8e42-bf01620e011b
+    line_id: KR3c0005_tls_009-31a.2
+    textline: 故財利多者買官以為貴
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

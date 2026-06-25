@@ -1,0 +1,21 @@
+uuid: 33c1fb2c-277d-4956-9063-74ad70680086
+type: word-relation
+group_uuid: 196af42b-d1d6-5d50-a8ba-591b1cd557ed
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c5f6c657-3015-475e-a380-c36fb406d9c8
+  text: 逢
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+right:
+  word_uuid: 11dd82f6-f9fe-4ec7-ab78-387bf160c583
+  text: 會
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 3816d3a2-475a-4dc8-a112-efc2c7914002
+type: word-relation
+group_uuid: 3816d3a2-475a-4dc8-a112-efc2c7914002
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 7cdc1400-aee1-4929-b6c8-bb697d42afc6
+  text: 威
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 管子
+    line_uuid: 64d3e3ef-bfe8-46f0-bdad-fc4ed5880aed
+    textline: 一曰文二曰武三曰威四曰德
+    offset: 11
+    range: 1
+right:
+  word_uuid: 5b5da254-0a51-4e64-9a24-b429ca6c3087
+  text: 德
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 管子
+    line_uuid: 64d3e3ef-bfe8-46f0-bdad-fc4ed5880aed
+    textline: 一曰文二曰武三曰威四曰德
+    offset: 15
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 9e948d2d-b18a-43ed-bc42-31c9b41cd35e
+type: word-relation
+group_uuid: 9e948d2d-b18a-43ed-bc42-31c9b41cd35e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a19338ff-7f78-42a7-a4c0-28ab84a0536a
+  text: 兄
+  concept: BROTHER
+  concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+  attestation:
+    text_title: 論語
+    line_uuid: 6f59f160-a49d-46ee-a6b1-3e9b571f3391
+    line_id: KR1h0004_tls_002-22a.7
+    textline: 友于兄弟
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6d7b33fe-a360-4f9b-8d42-dd8700903693
+  text: 弟
+  concept: BROTHER
+  concept_uuid: a820bc31-0905-40df-aac0-4882cd13073c
+  attestation:
+    text_title: 論語
+    line_uuid: 6f59f160-a49d-46ee-a6b1-3e9b571f3391
+    line_id: KR1h0004_tls_002-22a.7
+    textline: 友于兄弟
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 3eef142b-e583-4cc1-9c19-2091a8007570
+type: word-relation
+group_uuid: 3eef142b-e583-4cc1-9c19-2091a8007570
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b4b3d2f3-fd7c-42c5-9fde-540d765c71bc
+  text: 制
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2fd6b295-f5ff-4297-bb6f-051b208e259b
+    line_id: KR3c0005_tls_015-22a.5
+    textline: 大臣專制
+    offset: 4
+    range: 1
+right:
+  word_uuid: 88c391df-6ec2-4207-90b9-99d524bc3f32
+  text: 專
+  concept: MONOPOLISE
+  concept_uuid: ea93f967-5e2a-4e4c-be29-542197bf8a35
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2fd6b295-f5ff-4297-bb6f-051b208e259b
+    line_id: KR3c0005_tls_015-22a.5
+    textline: 大臣專制
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 098ffdb7-3026-4087-b8f7-1e854ad3ff73
+type: word-relation
+group_uuid: 098ffdb7-3026-4087-b8f7-1e854ad3ff73
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 891f4993-7c48-41b2-bbbe-e30bf5829512
+  text: 卑
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: a93d1064-393d-4cb4-8468-1fbca080eb09
+    line_id: KR3c0005_tls_006-26a.6
+    textline: 卑主之名以顯其身
+    offset: 1
+    range: 1
+right:
+  word_uuid: d85d9335-9722-410c-9ae9-ac34011919e6
+  text: 顯
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 韓非子
+    line_uuid: a93d1064-393d-4cb4-8468-1fbca080eb09
+    line_id: KR3c0005_tls_006-26a.6
+    textline: 卑主之名以顯其身
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

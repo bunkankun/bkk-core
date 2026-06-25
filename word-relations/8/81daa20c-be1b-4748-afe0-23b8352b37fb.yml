@@ -1,0 +1,32 @@
+uuid: 81daa20c-be1b-4748-afe0-23b8352b37fb
+type: word-relation
+group_uuid: 81daa20c-be1b-4748-afe0-23b8352b37fb
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 韓非子
+    line_uuid: d0502df8-f779-4d3a-9902-d8b57ab059f8
+    line_id: KR3c0005_tls_006-27a.5
+    textline: 先王之法曰
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1ea59152-f83a-4b3e-ad3a-62adea9867c9
+  text: 先
+  concept: PRECEDE
+  concept_uuid: 72a3a242-e901-403c-9d8e-719a962d2f8b
+  attestation:
+    text_title: 韓非子
+    line_uuid: d0502df8-f779-4d3a-9902-d8b57ab059f8
+    line_id: KR3c0005_tls_006-27a.5
+    textline: 先王之法曰
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

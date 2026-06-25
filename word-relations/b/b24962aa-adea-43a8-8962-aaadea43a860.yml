@@ -1,0 +1,32 @@
+uuid: b24962aa-adea-43a8-8962-aaadea43a860
+type: word-relation
+group_uuid: 9bf2a80a-e1e9-56cb-9459-a1974896cb04
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: db86e07b-3317-4085-af0c-fc01d51618ce
+  text: 統
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-32a.14
+    textline: 以統天下
+    offset: 2
+    range: 1
+right:
+  word_uuid: 27213fd2-7226-4d52-9073-e68d3b5104df
+  text: 理
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-32a.15
+    textline: 理萬物
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-05T00:24:15.546+09:00'

@@ -1,0 +1,32 @@
+uuid: 39bb01f4-b32f-4776-b95e-0f3c3fb17a04
+type: word-relation
+group_uuid: 39bb01f4-b32f-4776-b95e-0f3c3fb17a04
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d1be7213-132e-49ba-a520-2afd6c07ce01
+  text: 又
+  concept: ALSO
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  attestation:
+    text_title: 新論
+    line_uuid: 20d1280e-fa02-4df9-b221-e3fab957d72d
+    line_id: KR3j0192_tls_002-29a.5
+    textline: 而師道又復缺然
+    offset: 4
+    range: 1
+right:
+  word_uuid: bc7756b1-8baf-4929-b579-e2e62a01fad5
+  text: 復
+  concept: ALSO
+  concept_uuid: 2dd10736-3bd5-4c17-98b2-985a8bb88994
+  attestation:
+    text_title: 新論
+    line_uuid: 20d1280e-fa02-4df9-b221-e3fab957d72d
+    line_id: KR3j0192_tls_002-29a.5
+    textline: 而師道又復缺然
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

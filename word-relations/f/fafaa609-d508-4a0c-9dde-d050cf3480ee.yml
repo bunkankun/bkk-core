@@ -1,0 +1,30 @@
+uuid: fafaa609-d508-4a0c-9dde-d050cf3480ee
+type: word-relation
+group_uuid: fafaa609-d508-4a0c-9dde-d050cf3480ee
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e650a60f-560b-432a-8753-9e7e4805ef4a
+  text: 曰
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: 6a6b8039-4ece-40b3-89cf-dc04cdfcce70
+    textline: 牟子曰
+    offset: 3
+    range: 1
+right:
+  word_uuid: ca2d18a9-fd8b-4edb-98a9-b5140d5f6aed
+  text: 云
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: 11cc3e8a-20f8-4710-b51a-f9e2cf2f791f
+    textline: 老子云
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8a23dcc7-0400-4ccf-8210-c4206b5fd451
+type: word-relation
+group_uuid: 8a23dcc7-0400-4ccf-8210-c4206b5fd451
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ce552edd-99ff-4918-a80a-4ce698dedc45
+  text: 居
+  concept: DWELL
+  concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+  attestation:
+    text_title: 論語
+    line_uuid: ee5cf833-23f7-466a-b7d5-0e20bec6f25a
+    line_id: KR1h0004_tls_001-14a.4
+    textline: 居無求安
+    offset: 1
+    range: 1
+right:
+  word_uuid: b8744ba9-96e8-4ac1-9f33-23cb28fe8850
+  text: 安
+  concept: COMFORTABLE
+  concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+  attestation:
+    text_title: 論語
+    line_uuid: ee5cf833-23f7-466a-b7d5-0e20bec6f25a
+    line_id: KR1h0004_tls_001-14a.4
+    textline: 居無求安
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

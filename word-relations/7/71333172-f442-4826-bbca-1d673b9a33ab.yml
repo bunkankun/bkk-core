@@ -1,0 +1,30 @@
+uuid: 71333172-f442-4826-bbca-1d673b9a33ab
+type: word-relation
+group_uuid: 9a2b68e3-7070-45b1-a094-7b15e8fe9cd1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 管子
+    line_uuid: 288a017e-e5df-4379-bafb-e44f7fdf059c
+    textline: 美惡賢不肖愚俊之所產也
+    offset: 10
+    range: 1
+right:
+  word_uuid: 40d7dfd0-2711-4535-a34d-8397c66dd45c
+  text: 俊
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 管子
+    line_uuid: 288a017e-e5df-4379-bafb-e44f7fdf059c
+    textline: 美惡賢不肖愚俊之所產也
+    offset: 12
+    range: 1
+source:
+  source_file: word-relations.xml

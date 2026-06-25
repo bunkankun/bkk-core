@@ -1,0 +1,35 @@
+uuid: 615eaa72-ba89-40b9-8a71-3cbc74bd236d
+type: word-relation
+group_uuid: 33c075f0-6ab8-4901-a5c0-9b96bae7fdd0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6f011eae-6136-4810-9889-015a78f7756b
+  text: 疾
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 孟子
+    line_uuid: e5a351af-3f45-4666-ad94-e4ec0c8215d3
+    line_id: KR1h0001_tls_002-12a.6
+    textline: 『吾王庶幾無疾病與
+    offset: 7
+    range: 1
+right:
+  word_uuid: 91b45a51-620c-4407-9b1a-48707e99449e
+  text: 病
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 孟子
+    line_uuid: e5a351af-3f45-4666-ad94-e4ec0c8215d3
+    line_id: KR1h0001_tls_002-12a.6
+    textline: 『吾王庶幾無疾病與
+    offset: 8
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

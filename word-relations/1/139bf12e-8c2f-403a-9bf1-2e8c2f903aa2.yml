@@ -1,0 +1,32 @@
+uuid: 139bf12e-8c2f-403a-9bf1-2e8c2f903aa2
+type: word-relation
+group_uuid: 1891a7d8-097b-5ff7-9308-3515c4633ce9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: f0ca4ad7-60d5-405c-b211-17e1fd1ad918
+  text: 朝
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_004-43a.18
+    textline: 朝不坐
+    offset: 2
+    range: 1
+right:
+  word_uuid: 98409147-7265-47de-b376-e6023e958b7d
+  text: 燕
+  concept: FEAST
+  concept_uuid: c1d0456b-e8a5-4e51-bb67-dee740ea13ae
+  attestation:
+    text_title: 禮記
+    line_id: KR1d0052_tls_004-43a.19
+    textline: 燕不與
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T03:24:02.444+09:00'

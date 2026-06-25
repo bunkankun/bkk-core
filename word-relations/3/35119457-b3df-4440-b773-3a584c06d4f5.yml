@@ -1,0 +1,32 @@
+uuid: 35119457-b3df-4440-b773-3a584c06d4f5
+type: word-relation
+group_uuid: b7ee1adb-7b28-44e6-8003-8b0be109652d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f30a220b-487f-4554-a6e7-8a9d49bb1d84
+  text: 小者
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9e588b08-7917-4007-8fd1-b5ae74d78910
+    line_id: KR3c0005_tls_003-6a.7
+    textline: 則小者以為毀訾誹謗
+    offset: 2
+    range: 2
+right:
+  word_uuid: f8bd3d19-c7fd-4cdf-8a91-d8bf94db97eb
+  text: 大者
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 韓非子
+    line_uuid: f76f1116-9042-4269-98cd-c53db1b4ce6a
+    line_id: KR3c0005_tls_003-6a.8
+    textline: 大者患禍災害死亡及其身
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

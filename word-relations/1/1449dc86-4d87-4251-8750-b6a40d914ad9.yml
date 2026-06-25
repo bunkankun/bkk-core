@@ -1,0 +1,32 @@
+uuid: 1449dc86-4d87-4251-8750-b6a40d914ad9
+type: word-relation
+group_uuid: 1449dc86-4d87-4251-8750-b6a40d914ad9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1c3a6f8e-896e-4745-90ab-a69d273d02bd
+  text: 愛
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 論衡
+    line_uuid: 06dc0d8c-ebc0-4960-9b65-0a2dcb95cb8c
+    line_id: KR3j0080_tls_024-39a.4
+    textline: 養精愛氣
+    offset: 3
+    range: 1
+right:
+  word_uuid: bab397d9-43ca-498c-ac45-311b0805f1aa
+  text: 養
+  concept: REAR
+  concept_uuid: 479e9d4c-36c2-4240-80b0-ad86e1161d5f
+  attestation:
+    text_title: 論衡
+    line_uuid: 06dc0d8c-ebc0-4960-9b65-0a2dcb95cb8c
+    line_id: KR3j0080_tls_024-39a.4
+    textline: 養精愛氣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

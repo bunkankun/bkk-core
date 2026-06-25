@@ -1,0 +1,32 @@
+uuid: 6a96027e-467e-4dd4-9602-7e467e5dd42c
+type: word-relation
+group_uuid: a7d63ebb-bb87-5256-95f5-35d8a0b592cf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-7a.16
+    textline: 天下無虐刑
+    offset: 5
+    range: 1
+right:
+  word_uuid: 967c2661-b8a7-447c-96be-92c22075fe23
+  text: 虐
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-7a.16
+    textline: 天下無虐刑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-03T18:43:06.029+09:00'

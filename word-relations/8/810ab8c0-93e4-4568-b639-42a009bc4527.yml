@@ -1,0 +1,35 @@
+uuid: 810ab8c0-93e4-4568-b639-42a009bc4527
+type: word-relation
+group_uuid: d633e24d-8996-479e-a48b-f652453343fc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8a7ac65-6563-4763-b430-dcd32c23a0d1
+  text: 譽
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+  attestation:
+    text_title: 論衡
+    line_uuid: 16503d96-698d-4157-b349-00dfbe6365c6
+    line_id: KR3j0080_tls_001-9a.28
+    textline: 又就遇而譽之
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3ea1b7c8-e63e-4043-9914-3b81e4cef8db
+  text: 毀
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 論衡
+    line_uuid: c2550dc4-cd55-4cc6-90ea-4737bb9a1baf
+    line_id: KR3j0080_tls_001-9a.29
+    textline: 因不遇而毀之
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

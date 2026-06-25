@@ -1,0 +1,32 @@
+uuid: 4a37bb20-d6c8-40c2-8cad-b1a3ac62a05a
+type: word-relation
+group_uuid: 4a37bb20-d6c8-40c2-8cad-b1a3ac62a05a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3c7115ce-f207-4f8e-8339-1ca0d22e9be7
+  text: 野人
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 論語
+    line_uuid: f80a370b-3f8f-4e94-aa16-f8128b5f0960
+    line_id: KR1h0004_tls_011-1a.5
+    textline: 野人也
+    offset: 1
+    range: 2
+right:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 論語
+    line_uuid: 4eb5acd6-59e0-41d9-9e66-bac8882f4287
+    line_id: KR1h0004_tls_011-1a.7
+    textline: 君子也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

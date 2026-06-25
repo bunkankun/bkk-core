@@ -1,0 +1,35 @@
+uuid: 349e1906-7585-4dee-9cca-0aeb94b2ac58
+type: word-relation
+group_uuid: 349e1906-7585-4dee-9cca-0aeb94b2ac58
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: d069c2d6-62a7-46ff-94c0-1bdac3b2b64f
+    line_id: KR3c0005_tls_019-39a.3
+    textline: 有以則行
+    offset: 4
+    range: 1
+right:
+  word_uuid: 95f418d1-0d7f-4651-adca-3efa123ad2ca
+  text: 止
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 63985154-eaae-4145-8705-283cc2c27962
+    line_id: KR3c0005_tls_019-39a.4
+    textline: 無以則止
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

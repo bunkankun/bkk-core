@@ -1,0 +1,30 @@
+uuid: 7197cefc-cf03-4cee-8eed-f97233fc3a63
+type: word-relation
+group_uuid: 7197cefc-cf03-4cee-8eed-f97233fc3a63
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6297d090-eb77-4ef4-b0b0-e1f7febdf177
+  text: 壯
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 睡虎地
+    line_uuid: 7bf6a342-b527-4239-a431-955370909d6a
+    textline: 壯能衰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 842f94fd-044b-45b1-928e-2d2f5e92ee41
+  text: 衰
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 睡虎地
+    line_uuid: 7bf6a342-b527-4239-a431-955370909d6a
+    textline: 壯能衰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

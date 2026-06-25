@@ -1,0 +1,32 @@
+uuid: 7bd6c242-5a5b-4011-8a90-bd1abf69525d
+type: word-relation
+group_uuid: 7bd6c242-5a5b-4011-8a90-bd1abf69525d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a7e24041-5342-4e9f-b16f-0eb2b2858155
+  text: 溫
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: 3fff0736-3613-4a28-a55f-7c48e37c2bfd
+    line_id: KR2a0001_tls_067-36a.17
+    textline: 「夫子溫良恭儉讓以得之
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6fa4b8f4-101d-4edc-bcce-ec1b65216ea7
+  text: 良
+  concept: DECENT
+  concept_uuid: f518b559-6c15-42d6-9ce2-824acc2b6dfa
+  attestation:
+    text_title: 論語
+    line_uuid: 3fff0736-3613-4a28-a55f-7c48e37c2bfd
+    line_id: KR2a0001_tls_067-36a.17
+    textline: 「夫子溫良恭儉讓以得之
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

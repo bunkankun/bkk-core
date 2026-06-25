@@ -1,0 +1,21 @@
+uuid: 505d2a2d-4cbb-4746-aa85-03ee3eef7cd7
+type: word-relation
+group_uuid: 5e28f290-ff61-5c98-9e68-99908da42b88
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ade8ee5d-ef62-4c36-beac-99463c90797c
+  text: 空
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+right:
+  word_uuid: ad034131-5fcf-4a07-9038-c4204c7cda58
+  text: 實
+  concept: FULL
+  concept_uuid: 1e13f918-b581-43c1-8e41-1c25de2b9c14
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

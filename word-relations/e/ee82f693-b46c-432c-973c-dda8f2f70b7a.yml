@@ -1,0 +1,21 @@
+uuid: ee82f693-b46c-432c-973c-dda8f2f70b7a
+type: word-relation
+group_uuid: 532b642b-7231-5de9-bf76-be93c67fd019
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8f59d5eb-46a0-4764-8bd5-418ba533613f
+  text: 等
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+right:
+  word_uuid: d92e8713-31b2-457c-a869-66a5f39deba3
+  text: 倫
+  concept: CATEGORY
+  concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

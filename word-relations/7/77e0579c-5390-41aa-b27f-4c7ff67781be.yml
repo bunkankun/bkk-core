@@ -1,0 +1,32 @@
+uuid: 77e0579c-5390-41aa-b27f-4c7ff67781be
+type: word-relation
+group_uuid: 77e0579c-5390-41aa-b27f-4c7ff67781be
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e38bf479-af5d-401f-b6fd-2bdec28f0ec3
+  text: 朽
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+  attestation:
+    text_title: 論語
+    line_uuid: c3433057-974f-4d56-9b02-5657b5e192e6
+    line_id: KR1h0004_tls_005-12a.4
+    textline: 「朽木不可雕也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 70a622d2-4c59-4db7-9af7-ef4a262438af
+  text: 木
+  concept: TIMBER
+  concept_uuid: 11cd6fbe-bed3-4543-a06e-b8940820a836
+  attestation:
+    text_title: 論語
+    line_uuid: c3433057-974f-4d56-9b02-5657b5e192e6
+    line_id: KR1h0004_tls_005-12a.4
+    textline: 「朽木不可雕也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

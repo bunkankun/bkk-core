@@ -1,0 +1,32 @@
+uuid: 3f8f22c3-cffe-464c-8f22-c3cffe164c47
+type: word-relation
+group_uuid: 88339939-37ba-5daf-8a61-983e81b35b63
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3417c4ba-a87d-45a8-a1e0-202b63c34da7
+  text: 宮
+  concept: PALACE
+  concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.34
+    textline: 為之宮室臺榭
+    offset: 3
+    range: 1
+right:
+  word_uuid: eb74d647-6fe5-487d-9e68-b8f64da67003
+  text: 室
+  concept: PALACE
+  concept_uuid: 5a052716-4e4a-4eb4-b038-deb633d7595c
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_010-4a.34
+    textline: 為之宮室臺榭
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-20T20:06:56.281+09:00'

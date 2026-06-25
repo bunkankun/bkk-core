@@ -1,0 +1,32 @@
+uuid: bda85db5-2cc2-44f4-940d-00a8ade1aa5b
+type: word-relation
+group_uuid: bda85db5-2cc2-44f4-940d-00a8ade1aa5b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 25978bec-633e-4758-b1d5-86150f493c9f
+  text: 文
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 韓非子
+    line_uuid: 03b4288f-5917-414f-8fb1-c1d5d7891502
+    line_id: KR3c0005_tls_015-6a.7
+    textline: 濫於文麗而不顧其功者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6d4339ce-6bb4-4994-a01f-02e77427cfd0
+  text: 麗
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 韓非子
+    line_uuid: 03b4288f-5917-414f-8fb1-c1d5d7891502
+    line_id: KR3c0005_tls_015-6a.7
+    textline: 濫於文麗而不顧其功者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

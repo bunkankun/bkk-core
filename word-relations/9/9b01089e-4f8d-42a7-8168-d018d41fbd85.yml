@@ -1,0 +1,32 @@
+uuid: 9b01089e-4f8d-42a7-8168-d018d41fbd85
+type: word-relation
+group_uuid: 9b01089e-4f8d-42a7-8168-d018d41fbd85
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ea6eb63f-8fc6-4f8a-ad6d-c3a6cf3de39e
+  text: 吮
+  concept: SUCK
+  concept_uuid: 5f1ebd06-7193-4f09-929b-29861347f401
+  attestation:
+    text_title: 韓非子
+    line_uuid: dadf7b74-bb9d-4e36-a32d-ef5ebc27191e
+    line_id: KR3c0005_tls_017-12a.5
+    textline: 醫善吮人之傷
+    offset: 3
+    range: 1
+right:
+  word_uuid: 638e737a-fa9c-4887-8b52-0527a844d0e6
+  text: 傷
+  concept: INJURY
+  concept_uuid: a81dc54d-3432-4d57-a936-2e1d2987fb41
+  attestation:
+    text_title: 韓非子
+    line_uuid: dadf7b74-bb9d-4e36-a32d-ef5ebc27191e
+    line_id: KR3c0005_tls_017-12a.5
+    textline: 醫善吮人之傷
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e06e0c65-595c-48a2-ba82-c5bc384b5747
+type: word-relation
+group_uuid: e54b0d39-66ea-44e7-9d13-7c225581a9a1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dd7c33bc-3acf-4a23-b0b4-439c85378b42
+    line_id: KR3j0009_tls_005-19a.5
+    textline: 欲壽而惡夭
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dd7c33bc-3acf-4a23-b0b4-439c85378b42
+    line_id: KR3j0009_tls_005-19a.5
+    textline: 欲壽而惡夭
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

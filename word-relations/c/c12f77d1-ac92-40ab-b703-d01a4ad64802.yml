@@ -1,0 +1,35 @@
+uuid: c12f77d1-ac92-40ab-b703-d01a4ad64802
+type: word-relation
+group_uuid: c12f77d1-ac92-40ab-b703-d01a4ad64802
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1202019a-60e5-471f-81d3-c2028b4f4d22
+  text: 別
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 白虎通
+    line_uuid: e41f55c3-fd5d-43f0-8a60-b91c47bd709b
+    line_id: KR3j0023_tls_029-1035a.8
+    textline: 故別稱之也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4cbf6dda-ab1d-4bb5-82c5-31bfb259dbee
+  text: 總
+  concept: SUMMARISE
+  concept_uuid: 95acda11-f087-4154-bf7d-385a4a509c40
+  attestation:
+    text_title: 白虎通
+    line_uuid: 5e6650a3-98fc-445b-a4b9-578ec4d93a8c
+    line_id: KR3j0023_tls_029-1035a.10
+    textline: 故總言之也
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

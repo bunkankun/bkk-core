@@ -1,0 +1,32 @@
+uuid: 4b11ae1c-852a-49c6-91ae-1c852a39c692
+type: word-relation
+group_uuid: 9429ac03-b71c-59bc-896b-feaf04fa669a
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 96845ebb-8521-4cdc-9b35-f3972d293097
+  text: 地
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.5
+    textline: 有地有形
+    offset: 2
+    range: 1
+right:
+  word_uuid: 87cfa289-995f-45a5-b5f8-1143ea757aad
+  text: 形
+  concept: SHAPE
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  attestation:
+    text_title: 郭店楚簡 語叢一
+    line_id: KR2p0028_tls_001-3a.5
+    textline: 有地有形
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-19T20:19:25.494+09:00'

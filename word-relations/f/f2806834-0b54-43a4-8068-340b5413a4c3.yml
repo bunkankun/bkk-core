@@ -1,0 +1,32 @@
+uuid: f2806834-0b54-43a4-8068-340b5413a4c3
+type: word-relation
+group_uuid: 20c76b04-b66d-562a-8047-05160177cde4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1abfe24c-c7f2-49ad-ae90-e16e450deffc
+  text: 葬
+  concept: BURY
+  concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+  attestation:
+    text_title: 周禮
+    line_id: KR1d0001_tls_004-115a.51
+    textline: 及葬
+    offset: 2
+    range: 1
+right:
+  word_uuid: 79a0c26a-de35-4c11-9502-836336f731e5
+  text: 埋
+  concept: BURY
+  concept_uuid: 7f6b1acc-dc55-4b52-bfdb-9cda3dbd3326
+  attestation:
+    text_title: 周禮
+    line_id: KR1d0001_tls_004-115a.52
+    textline: 埋之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-11-05T23:08:11.129+09:00'

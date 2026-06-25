@@ -1,0 +1,32 @@
+uuid: 11dad0dc-f8a6-4d97-9f25-74e53b099617
+type: word-relation
+group_uuid: c20b8401-bb9f-42fb-9e24-6283840b6637
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ad2705f3-a065-48b7-a6ed-93b3df1bb3f6
+  text: 征
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 戰國策
+    line_uuid: 514de87d-fbf7-4f6c-b986-0e34c7fc2102
+    line_id: KR2e0003_tls_084-1a.29
+    textline: 征敵伐國
+    offset: 1
+    range: 1
+right:
+  word_uuid: 28da219c-6446-4f65-93b6-f2dc33f4f7be
+  text: 伐
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 戰國策
+    line_uuid: 514de87d-fbf7-4f6c-b986-0e34c7fc2102
+    line_id: KR2e0003_tls_084-1a.29
+    textline: 征敵伐國
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

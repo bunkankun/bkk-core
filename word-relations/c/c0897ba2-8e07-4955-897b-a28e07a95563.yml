@@ -1,0 +1,32 @@
+uuid: c0897ba2-8e07-4955-897b-a28e07a95563
+type: word-relation
+group_uuid: b24de6c2-cd50-5d3d-a7a0-0fd415e831c6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 37c1df56-421f-4b16-a331-e982429b367b
+  text: 天道
+  concept: LAW OF NATURE
+  concept_uuid: 2b1d35b0-f651-44ba-a4a2-9b654592a0a8
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_017-7a.25
+    textline: 不窺於牖而知天道
+    offset: 7
+    range: 2
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_017-7a.25
+    textline: 不窺於牖而知天道
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-13T00:44:21.688+09:00'

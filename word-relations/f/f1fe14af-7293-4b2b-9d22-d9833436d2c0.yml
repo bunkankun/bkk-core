@@ -1,0 +1,32 @@
+uuid: f1fe14af-7293-4b2b-9d22-d9833436d2c0
+type: word-relation
+group_uuid: 6e213824-ff3e-446e-ad3c-3462541bc2ad
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a39c1a31-d075-4e5c-8127-9b5b793997dc
+  text: 問
+  concept: ASK
+  concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+  attestation:
+    text_title: 荀子
+    line_uuid: 3e530aca-068d-45ff-aa6f-553456c24b5a
+    line_id: KR3a0002_tls_001-10a.9
+    textline: 問一而告二謂之囋
+    offset: 1
+    range: 1
+right:
+  word_uuid: 609a6df8-42ca-49a0-9560-e3e586881e43
+  text: 告
+  concept: REPORT
+  concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+  attestation:
+    text_title: 荀子
+    line_uuid: 3e530aca-068d-45ff-aa6f-553456c24b5a
+    line_id: KR3a0002_tls_001-10a.9
+    textline: 問一而告二謂之囋
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: e9acd2f7-0992-4e16-8662-27871fd63dff
+type: word-relation
+group_uuid: e9acd2f7-0992-4e16-8662-27871fd63dff
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 28aa4878-cd27-470d-b442-9c83c0cdc29e
+  text: 正道
+  concept: DOCTRINE
+  concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+  attestation:
+    text_title: 法言
+    line_uuid: 8f390c31-43e2-4f06-8b5f-547d16111a50
+    line_id: KR3a0009_tls_004-23a.11
+    textline: 由其大者作正道
+    offset: 6
+    range: 2
+right:
+  word_uuid: 38d0f0be-e6a0-4f3b-8deb-13f8b06a38c4
+  text: 奸道
+  concept: DOCTRINE
+  concept_uuid: 8e9a3607-1ac0-4349-b96f-fc37192b3a21
+  attestation:
+    text_title: 法言
+    line_uuid: aa886e34-ae1c-4637-8854-ddbb1db593d1
+    textline: 由其小者作奸道
+    range: 2
+source:
+  source_file: word-relations.xml

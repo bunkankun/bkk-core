@@ -1,0 +1,32 @@
+uuid: 689abedc-46dd-412d-bb3b-de5c10e39b37
+type: word-relation
+group_uuid: 689abedc-46dd-412d-bb3b-de5c10e39b37
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ee84e7d3-2088-4f9c-9f41-9d0b19295ce8
+  text: 治
+  concept: ORDERLY
+  concept_uuid: e9cc1a75-2d2f-4442-9061-a1deb8ac5390
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9f7bfce4-84e5-4794-b387-398bbecb0a04
+    line_id: KR3j0009_tls_011-11a.47
+    textline: 夫忠於治世易
+    offset: 4
+    range: 1
+right:
+  word_uuid: ffc81311-05e2-430d-ba45-9b0828e49300
+  text: 濁
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e496f99e-8ee2-4895-a738-18502aae4e6c
+    line_id: KR3j0009_tls_011-11a.48
+    textline: 忠於濁世難
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

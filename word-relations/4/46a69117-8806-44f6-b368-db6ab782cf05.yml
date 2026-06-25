@@ -1,0 +1,32 @@
+uuid: 46a69117-8806-44f6-b368-db6ab782cf05
+type: word-relation
+group_uuid: 46a69117-8806-44f6-b368-db6ab782cf05
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9215243b-e0d2-4907-b651-9ae89a10ad44
+  text: 庠
+  concept: SCHOOL
+  concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+  attestation:
+    text_title: 孟子
+    line_uuid: 7d8a723b-9a77-4b4c-801e-da3c11bb619e
+    line_id: KR1h0001_tls_001-10a.8
+    textline: 謹庠序之教
+    offset: 2
+    range: 1
+right:
+  word_uuid: dc3b759b-7010-4f82-b534-4dc5452f9e1c
+  text: 序
+  concept: SCHOOL
+  concept_uuid: 8620c59b-7e9a-41b2-a17f-feb7cfd0fc45
+  attestation:
+    text_title: 孟子
+    line_uuid: 7d8a723b-9a77-4b4c-801e-da3c11bb619e
+    line_id: KR1h0001_tls_001-10a.8
+    textline: 謹庠序之教
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

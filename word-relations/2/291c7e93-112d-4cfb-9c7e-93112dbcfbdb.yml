@@ -1,0 +1,32 @@
+uuid: 291c7e93-112d-4cfb-9c7e-93112dbcfbdb
+type: word-relation
+group_uuid: a02446ef-9038-5c9c-b6f9-341691a1510b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d3244d8b-7ad7-44b2-8c38-83d5f729ed9f
+  text: 絕
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.28
+    textline: 使呂氏絕祀而陳氏有國者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 21860d70-5f11-4ed3-8929-3b65cf97f3ff
+  text: 祀
+  concept: SACRIFICE
+  concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.28
+    textline: 使呂氏絕祀而陳氏有國者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:29:13.868+09:00'

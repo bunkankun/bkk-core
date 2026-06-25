@@ -1,0 +1,32 @@
+uuid: d2b6b841-d480-4b38-ba77-23d60dc48c99
+type: word-relation
+group_uuid: d2b6b841-d480-4b38-ba77-23d60dc48c99
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b26e25a7-b970-4725-9e77-e458e945466a
+  text: 穢
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 楚辭
+    line_uuid: 614735f6-a7ff-47b6-af0d-44f96a3f4d56
+    line_id: KR4a0001_tls_005-5a.10
+    textline: 精氣入而麤穢除
+    offset: 6
+    range: 1
+right:
+  word_uuid: 6df05cac-664b-46c8-9bb6-ed34a2ae6088
+  text: 麤
+  concept: COARSE
+  concept_uuid: 6dea5df6-b202-48d5-a38c-53339dce76bf
+  attestation:
+    text_title: 楚辭
+    line_uuid: 614735f6-a7ff-47b6-af0d-44f96a3f4d56
+    line_id: KR4a0001_tls_005-5a.10
+    textline: 精氣入而麤穢除
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

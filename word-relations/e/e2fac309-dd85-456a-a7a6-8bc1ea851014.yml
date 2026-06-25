@@ -1,0 +1,32 @@
+uuid: e2fac309-dd85-456a-a7a6-8bc1ea851014
+type: word-relation
+group_uuid: e2fac309-dd85-456a-a7a6-8bc1ea851014
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bab0db03-0ca6-480b-af61-29687fcb6d16
+  text: 醉
+  concept: DRUNK
+  concept_uuid: d015c25b-106e-4b88-9ff7-d13f67c0e446
+  attestation:
+    text_title: 韓非子
+    line_uuid: ab1a5851-2446-488c-aae7-75ea3e3143c8
+    line_id: KR3c0005_tls_009-2a.3
+    textline: 乘醉飽之時
+    offset: 2
+    range: 1
+right:
+  word_uuid: 97823c1b-71f8-44f2-be0f-26298aeb5686
+  text: 飽
+  concept: SATIATED
+  concept_uuid: b6ab585d-086e-4a4b-ba4d-d95daf2b0f64
+  attestation:
+    text_title: 韓非子
+    line_uuid: ab1a5851-2446-488c-aae7-75ea3e3143c8
+    line_id: KR3c0005_tls_009-2a.3
+    textline: 乘醉飽之時
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

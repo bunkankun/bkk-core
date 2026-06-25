@@ -1,0 +1,35 @@
+uuid: 55fcd884-baf1-445f-ac06-a23f21c76b46
+type: word-relation
+group_uuid: 55fcd884-baf1-445f-ac06-a23f21c76b46
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: fac68483-1c3d-4171-8bd2-51b738fb0bab
+  text: 動
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 管子
+    line_uuid: 8ca22e08-7af4-4b44-91de-ee885725d336
+    line_id: KR3c0001_tls_006-77a.2
+    textline: 動與靜
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6e1c8cfe-4a27-4a8e-9914-bacefd7d614e
+  text: 靜
+  concept: INACTIVE
+  concept_uuid: 6cc02768-d56b-470d-a605-10d4c5fd329f
+  attestation:
+    text_title: 管子
+    line_uuid: 8ca22e08-7af4-4b44-91de-ee885725d336
+    line_id: KR3c0001_tls_006-77a.2
+    textline: 動與靜
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

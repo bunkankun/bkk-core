@@ -1,0 +1,32 @@
+uuid: 11f4d0c4-c623-4947-aa09-41640a16c81c
+type: word-relation
+group_uuid: 11f4d0c4-c623-4947-aa09-41640a16c81c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 87adcb01-dff1-4c49-8c6c-b50d40205769
+  text: 詩
+  concept: SONG
+  concept_uuid: 32113a0e-629b-4c85-b23d-1962b85c9847
+  attestation:
+    text_title: 孟子
+    line_uuid: 2c0bbcaa-f08a-4dc5-8d55-745e5ec7cf43
+    line_id: KR1h0001_tls_010-51a.11
+    textline: 頌其詩
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8bd1a567-ca96-449d-9739-96ba1fb94b5d
+  text: 書
+  concept: DOCUMENT
+  concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+  attestation:
+    text_title: 孟子
+    line_uuid: 7e4612cb-c765-408b-9bb2-efd46c04ad25
+    line_id: KR1h0001_tls_010-51a.12
+    textline: 讀其書
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

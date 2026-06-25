@@ -1,0 +1,32 @@
+uuid: fcf05945-ee82-4ed8-b059-45ee824ed8b7
+type: word-relation
+group_uuid: 09a75084-ec08-5a4b-8906-99e584f79912
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.27
+    textline: 故聖人法與時變
+    offset: 4
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.28
+    textline: 禮與俗化
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:54:28.566+09:00'

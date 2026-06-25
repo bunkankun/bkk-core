@@ -1,0 +1,32 @@
+uuid: 669d95bb-b411-4e7b-9d95-bbb4110e7b52
+type: word-relation
+group_uuid: 3e888117-47fb-5e8c-88b4-5bba7e2b692d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d5682c95-c49f-4d24-bb13-d724a01018b2
+  text: 後
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-380a.3
+    textline: 後功力而進仁義
+    offset: 1
+    range: 1
+right:
+  word_uuid: cf8c3949-6a1c-4e47-8a34-85b86cbc17da
+  text: 進
+  concept: PROMOTE
+  concept_uuid: 16115166-b539-49d4-b358-e61aad68f8a3
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-380a.3
+    textline: 後功力而進仁義
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T17:54:04.706+09:00'

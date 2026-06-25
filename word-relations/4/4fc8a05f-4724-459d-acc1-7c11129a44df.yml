@@ -1,0 +1,21 @@
+uuid: 4fc8a05f-4724-459d-acc1-7c11129a44df
+type: word-relation
+group_uuid: 9094f974-410b-5305-8326-0b585f2e9a60
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4b4a9bc6-446a-4a10-8cab-fd4d47728894
+  text: 畫
+  concept: PAINT
+  concept_uuid: 34110488-5f4f-434c-877d-3c2394ae81ae
+right:
+  word_uuid: cac7b963-790e-4efa-b040-cb08a07d6ea5
+  text: 刻
+  concept: ENGRAVE
+  concept_uuid: 4620f4a0-f713-42d4-aa78-e25719265d79
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

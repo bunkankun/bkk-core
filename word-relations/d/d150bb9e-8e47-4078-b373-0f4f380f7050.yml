@@ -1,0 +1,21 @@
+uuid: d150bb9e-8e47-4078-b373-0f4f380f7050
+type: word-relation
+group_uuid: 1a191a1e-6799-5d4d-abf1-9b0084840646
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d20afec5-e74a-42b1-a6be-e672cda85926
+  text: 工
+  concept: ARTISAN
+  concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+right:
+  word_uuid: 2b476fa8-bb88-4108-b9a5-54de231519b3
+  text: 匠
+  concept: ARTISAN
+  concept_uuid: 493cfb74-f351-44f0-b09c-e39b73f7b747
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

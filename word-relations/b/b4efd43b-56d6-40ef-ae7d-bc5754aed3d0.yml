@@ -1,0 +1,35 @@
+uuid: b4efd43b-56d6-40ef-ae7d-bc5754aed3d0
+type: word-relation
+group_uuid: b4efd43b-56d6-40ef-ae7d-bc5754aed3d0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 85eb701b-793b-4602-818e-e2c1fc918e20
+  text: 蔽
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 論衡
+    line_uuid: ffce0b58-2305-4603-bad5-61df9a56c8b6
+    line_id: KR3j0080_tls_002-8a.20
+    textline: 心知惑蔽
+    offset: 4
+    range: 1
+right:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 論衡
+    line_uuid: ffce0b58-2305-4603-bad5-61df9a56c8b6
+    line_id: KR3j0080_tls_002-8a.20
+    textline: 心知惑蔽
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

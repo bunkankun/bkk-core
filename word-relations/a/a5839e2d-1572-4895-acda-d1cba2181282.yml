@@ -1,0 +1,32 @@
+uuid: a5839e2d-1572-4895-acda-d1cba2181282
+type: word-relation
+group_uuid: a5839e2d-1572-4895-acda-d1cba2181282
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 戰國策
+    line_uuid: 758027cb-e4e5-4bfe-97e3-50d8a3bc366f
+    line_id: KR2e0003_tls_002-1a.32
+    textline: 『公爵為執圭
+    offset: 3
+    range: 1
+right:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 戰國策
+    line_uuid: 6ac884ac-31b1-45da-baa4-a612663697ea
+    line_id: KR2e0003_tls_002-1a.33
+    textline: 官為柱國
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

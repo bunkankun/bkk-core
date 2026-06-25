@@ -1,0 +1,32 @@
+uuid: 1b4dc25a-acb2-4212-905f-a677406d1530
+type: word-relation
+group_uuid: 5392d24d-291c-4571-9630-61bf124dd2d7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cf95cd19-b795-4901-8dd5-54d15bdba73d
+  text: 兵
+  concept: WEAPON
+  concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 04db0145-be47-422b-81d6-b4a034e9735c
+    line_id: KR3c0005_tls_020-129a.2
+    textline: 凡兵革者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 00b31e86-7c1c-481a-9c6f-2713d97c6774
+  text: 革
+  concept: ARMOUR
+  concept_uuid: aefe70c5-eeda-45dd-91d2-b896354a16b9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 04db0145-be47-422b-81d6-b4a034e9735c
+    line_id: KR3c0005_tls_020-129a.2
+    textline: 凡兵革者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

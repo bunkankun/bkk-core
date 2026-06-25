@@ -1,0 +1,32 @@
+uuid: d125c7d7-293a-477a-a5c7-d7293ac77a60
+type: word-relation
+group_uuid: cebe67ff-3bd5-5dc9-b2ef-490a8a984a7f
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.12
+    textline: 神農無制令而民從，
+    offset: 7
+    range: 1
+right:
+  word_uuid: bb60f3af-cfd1-4cbb-a79d-57bbb70a0353
+  text: 從
+  concept: OBEY
+  concept_uuid: 546c67b8-0ce3-44ee-81a4-46b84fb1e028
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.12
+    textline: 神農無制令而民從，
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T01:59:20.604+09:00'

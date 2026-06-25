@@ -1,0 +1,32 @@
+uuid: febeb870-fc47-43cd-ad55-394fcdb8d693
+type: word-relation
+group_uuid: febeb870-fc47-43cd-ad55-394fcdb8d693
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f3dd7f93-5148-41ed-af65-9957770f273d
+  text: 窺
+  concept: PEEP
+  concept_uuid: ffbab81d-d14f-41e4-ae06-9dab9b80596f
+  attestation:
+    text_title: 韓非子
+    line_uuid: c3f13b5b-0019-42d5-9f64-bbe23324ecf0
+    line_id: KR3c0005_tls_017-2a.3
+    textline: 窺覘其君心也無須臾之休
+    offset: 1
+    range: 1
+right:
+  word_uuid: 06925bd2-c17d-4210-8826-843fcf0ba257
+  text: 覘
+  concept: PEEP
+  concept_uuid: ffbab81d-d14f-41e4-ae06-9dab9b80596f
+  attestation:
+    text_title: 韓非子
+    line_uuid: c3f13b5b-0019-42d5-9f64-bbe23324ecf0
+    line_id: KR3c0005_tls_017-2a.3
+    textline: 窺覘其君心也無須臾之休
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

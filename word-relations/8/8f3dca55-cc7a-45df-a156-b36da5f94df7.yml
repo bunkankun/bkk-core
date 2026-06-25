@@ -1,0 +1,35 @@
+uuid: 8f3dca55-cc7a-45df-a156-b36da5f94df7
+type: word-relation
+group_uuid: 8f3dca55-cc7a-45df-a156-b36da5f94df7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 28b9f122-87f4-4f1a-8c77-1e31ca9f6403
+  text: 峻
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 087b4333-9fcf-457d-aabb-52fe0c34069d
+    line_id: KR3c0005_tls_006-34a.7
+    textline: 峻法
+    offset: 1
+    range: 1
+right:
+  word_uuid: f0210b75-1717-4d4a-b182-3390cab68f75
+  text: 嚴
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 韓非子
+    line_uuid: b190d5cb-f536-46d7-8bb5-ba167be3a04f
+    line_id: KR3c0005_tls_006-34a.9
+    textline: 嚴刑
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

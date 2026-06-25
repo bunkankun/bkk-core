@@ -1,0 +1,32 @@
+uuid: db084c02-8979-4b73-b8aa-5b1fec596ae2
+type: word-relation
+group_uuid: db084c02-8979-4b73-b8aa-5b1fec596ae2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 韓非子
+    line_uuid: baa7f8f1-d7e7-450c-9d4d-1f81bbda8713
+    line_id: KR3c0005_tls_009-29a.3
+    textline: 以事其主
+    offset: 2
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: baa7f8f1-d7e7-450c-9d4d-1f81bbda8713
+    line_id: KR3c0005_tls_009-29a.3
+    textline: 以事其主
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

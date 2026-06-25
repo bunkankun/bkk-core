@@ -1,0 +1,30 @@
+uuid: 6e6d67c5-1239-446d-9026-f50088473701
+type: word-relation
+group_uuid: 6810c36e-b5aa-4709-920d-1dd9cdc4b641
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3d0d905e-90c1-4f8f-bc00-4e4f51beb5c8
+  text: 盜
+  concept: THIEF
+  concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+  attestation:
+    text_title: 老子
+    line_uuid: 72674200-08fc-46f8-ab04-48ae2c990c2b
+    textline: 盜賊多有
+    offset: 1
+    range: 1
+right:
+  word_uuid: 510608a6-d392-4e50-b15a-552427422f57
+  text: 賊
+  concept: THIEF
+  concept_uuid: df42c433-050c-4220-a3f0-32f2bbef7619
+  attestation:
+    text_title: 老子
+    line_uuid: 72674200-08fc-46f8-ab04-48ae2c990c2b
+    textline: 盜賊多有
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

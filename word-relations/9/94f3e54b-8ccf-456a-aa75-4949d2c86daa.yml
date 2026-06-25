@@ -1,0 +1,32 @@
+uuid: 94f3e54b-8ccf-456a-aa75-4949d2c86daa
+type: word-relation
+group_uuid: 94f3e54b-8ccf-456a-aa75-4949d2c86daa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 荀子
+    line_uuid: 0bbe6ab9-5462-4ebb-8f51-46b208e3460d
+    line_id: KR3a0002_tls_001-7a.10
+    textline: 為善不積邪
+    offset: 2
+    range: 1
+right:
+  word_uuid: a900660b-a7e6-4c34-8024-ab99b34e7f1c
+  text: 邪
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 荀子
+    line_uuid: 0bbe6ab9-5462-4ebb-8f51-46b208e3460d
+    line_id: KR3a0002_tls_001-7a.10
+    textline: 為善不積邪
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

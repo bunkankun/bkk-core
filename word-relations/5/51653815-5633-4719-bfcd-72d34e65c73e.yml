@@ -1,0 +1,21 @@
+uuid: 51653815-5633-4719-bfcd-72d34e65c73e
+type: word-relation
+group_uuid: 73ba9992-b916-56a2-9555-06ec82ecbbb2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bfa6280f-dfc9-4c7b-91f6-49c77566c28f
+  text: 淡
+  concept: TASTELESS
+  concept_uuid: b4d17781-c995-4917-8aff-aa538f7aae5a
+right:
+  word_uuid: c8bb5ee9-63a8-48ab-922d-5f4023dd67f5
+  text: 鹹
+  concept: SALT
+  concept_uuid: 27a0299e-9842-4f0e-bb86-fd791e8bb1f7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

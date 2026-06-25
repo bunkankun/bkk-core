@@ -1,0 +1,32 @@
+uuid: 9cffaa18-c8b6-4a9a-8b3b-efcbb510440c
+type: word-relation
+group_uuid: 9cffaa18-c8b6-4a9a-8b3b-efcbb510440c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 89638b3c-c8df-4df0-98dd-2497aacb4831
+    line_id: KR1e0001_tls_009-601a.45
+    textline: 我將死
+    offset: 1
+    range: 1
+right:
+  word_uuid: f247efa1-49a9-4537-ad10-473b87e11741
+  text: 爾
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a9bc1f74-a3cf-440a-947a-389518414abc
+    line_id: KR1e0001_tls_009-601a.44
+    textline: 「爾以帑免
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

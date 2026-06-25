@@ -1,0 +1,21 @@
+uuid: 7e489688-8893-4ffa-b267-6a6273adb04f
+type: word-relation
+group_uuid: ffd6ac25-ec9e-5611-9601-8a5ae6419a3e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: de6ba8c1-3acc-47a9-b279-28dc2c3234a2
+  text: 節
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+right:
+  word_uuid: e0bd7eab-9665-48f9-a641-0be40efa0c16
+  text: 儉
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

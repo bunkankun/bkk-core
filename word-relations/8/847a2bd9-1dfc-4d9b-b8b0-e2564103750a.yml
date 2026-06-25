@@ -1,0 +1,32 @@
+uuid: 847a2bd9-1dfc-4d9b-b8b0-e2564103750a
+type: word-relation
+group_uuid: 847a2bd9-1dfc-4d9b-b8b0-e2564103750a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 200715da-bc84-4540-a9d8-585b5a0560ee
+  text: 明主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: a2db2304-19c8-4b95-ae73-f71478418935
+    line_id: KR1c0066_tls_004-15a.70
+    textline: 惟明主能愛其所愛
+    offset: 2
+    range: 2
+right:
+  word_uuid: 6bb3e8f4-59da-4a64-b1b9-6648233c0a62
+  text: 闇主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: fe2f6ce4-27b1-4dbe-9a7e-55b8bcfec80b
+    line_id: KR1c0066_tls_004-15a.43
+    textline: 闇主則必危其所愛
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

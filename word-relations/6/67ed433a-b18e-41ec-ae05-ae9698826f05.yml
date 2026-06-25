@@ -1,0 +1,32 @@
+uuid: 67ed433a-b18e-41ec-ae05-ae9698826f05
+type: word-relation
+group_uuid: 67ed433a-b18e-41ec-ae05-ae9698826f05
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 779f29d2-230d-4e75-af0d-37d45a78f2d6
+  text: 逃
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 管子
+    line_uuid: 2a97e90b-9979-473e-9d38-743fe0aa786f
+    line_id: KR3c0001_tls_024-21a.5
+    textline: 則逃亡而不守
+    offset: 2
+    range: 1
+right:
+  word_uuid: c344b687-d4e5-4a05-9a78-15d98d7658be
+  text: 亡
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 管子
+    line_uuid: 2a97e90b-9979-473e-9d38-743fe0aa786f
+    line_id: KR3c0001_tls_024-21a.5
+    textline: 則逃亡而不守
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

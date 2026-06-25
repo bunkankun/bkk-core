@@ -1,0 +1,21 @@
+uuid: c96b6842-bb83-4d17-b9cb-e9d231f58633
+type: word-relation
+group_uuid: d5a5797b-81a4-53ca-b2e9-b8c7b353790a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 083fab34-6743-4c19-a187-659d3ee7fcc5
+  text: 舉
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+right:
+  word_uuid: b8c0f485-ebb5-4d59-a954-307963da29c0
+  text: 悉
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,33 @@
+uuid: 3a9cadbe-7db6-4577-9176-ef84fffa3585
+type: word-relation
+group_uuid: 3a9cadbe-7db6-4577-9176-ef84fffa3585
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f09fd827-f189-466e-b3f8-e752c8a8a5bc
+  text: 陰
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 論衡
+    line_uuid: 11730ebe-9731-421f-890e-fc0ff34dff5c
+    textline: “韓非公子卬有陰惡伏罪
+    offset: 9
+    range: 1
+right:
+  word_uuid: 1a68861e-9238-4ba2-b7a2-f2529300e741
+  text: 伏
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 論衡
+    line_uuid: 11730ebe-9731-421f-890e-fc0ff34dff5c
+    textline: “韓非公子卬有陰惡伏罪
+    offset: 11
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

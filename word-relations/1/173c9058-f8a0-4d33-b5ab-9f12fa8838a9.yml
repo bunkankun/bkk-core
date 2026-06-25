@@ -1,0 +1,32 @@
+uuid: 173c9058-f8a0-4d33-b5ab-9f12fa8838a9
+type: word-relation
+group_uuid: 173c9058-f8a0-4d33-b5ab-9f12fa8838a9
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 86241fe5-a89e-494e-8d80-a0efb4be8472
+  text: 徙
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 管子
+    line_uuid: 48ba5682-d18b-4ad0-bb35-5173aad8c36b
+    line_id: KR3c0001_tls_012-105a.3
+    textline: 徙邑移市
+    offset: 1
+    range: 1
+right:
+  word_uuid: 17b0f160-402a-42f1-ba5e-380bae6ed8a5
+  text: 移
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 管子
+    line_uuid: 48ba5682-d18b-4ad0-bb35-5173aad8c36b
+    line_id: KR3c0001_tls_012-105a.3
+    textline: 徙邑移市
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

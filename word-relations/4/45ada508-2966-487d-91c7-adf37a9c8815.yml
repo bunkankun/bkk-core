@@ -1,0 +1,32 @@
+uuid: 45ada508-2966-487d-91c7-adf37a9c8815
+type: word-relation
+group_uuid: 45ada508-2966-487d-91c7-adf37a9c8815
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f09fd827-f189-466e-b3f8-e752c8a8a5bc
+  text: 陰
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 戰國策
+    line_uuid: e0a3ee05-cead-406f-a8bd-1eabda4d07ac
+    line_id: KR2e0003_tls_223-2a.4
+    textline: 陽親而陰疏
+    offset: 4
+    range: 1
+right:
+  word_uuid: 18d7b864-7a2c-4ccd-b78f-1dbab89af1bd
+  text: 陽
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+  attestation:
+    text_title: 戰國策
+    line_uuid: e0a3ee05-cead-406f-a8bd-1eabda4d07ac
+    line_id: KR2e0003_tls_223-2a.4
+    textline: 陽親而陰疏
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: d5ed2427-0302-43c4-83d2-e5562bb44754
+type: word-relation
+group_uuid: d5ed2427-0302-43c4-83d2-e5562bb44754
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 75add126-ff59-4089-878b-153f2d7c32b0
+  text: 誨
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 論語
+    line_uuid: 7934e3ee-75f5-403f-ac30-27e6c2a6d3ba
+    line_id: KR1h0004_tls_002-18a.4
+    textline: 誨女知之乎
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論語
+    line_uuid: 7934e3ee-75f5-403f-ac30-27e6c2a6d3ba
+    line_id: KR1h0004_tls_002-18a.4
+    textline: 誨女知之乎
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

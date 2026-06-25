@@ -1,0 +1,32 @@
+uuid: c7829d31-c6dd-4102-8053-c46e6b444b2f
+type: word-relation
+group_uuid: c7829d31-c6dd-4102-8053-c46e6b444b2f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9fe57d1d-7610-4266-860a-e0879d134fc6
+  text: 計
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3aa81245-f16c-442c-9787-306b890b5275
+    line_id: KR3c0005_tls_046-9a.3
+    textline: 猶用計算之心
+    offset: 3
+    range: 1
+right:
+  word_uuid: dcd627c3-a373-4f57-9401-bb5902316aa5
+  text: 算
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3aa81245-f16c-442c-9787-306b890b5275
+    line_id: KR3c0005_tls_046-9a.3
+    textline: 猶用計算之心
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

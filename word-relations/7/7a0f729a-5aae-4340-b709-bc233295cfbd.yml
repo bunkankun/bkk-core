@@ -1,0 +1,32 @@
+uuid: 7a0f729a-5aae-4340-b709-bc233295cfbd
+type: word-relation
+group_uuid: 7a0f729a-5aae-4340-b709-bc233295cfbd
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 50ca1bc4-9f97-47cd-af0d-f5a55c7fce32
+  text: 百姓
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 荀子
+    line_uuid: 6664b23b-1a5f-4f48-83b3-63922fe4c18c
+    line_id: KR3a0002_tls_013-1a.10
+    textline: 百姓不親
+    offset: 1
+    range: 2
+right:
+  word_uuid: b7190dd9-26cc-4617-a5db-d56c86cae705
+  text: 諸侯
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 荀子
+    line_uuid: 8a8a6999-829b-41fe-ae41-4647d6327616
+    line_id: KR3a0002_tls_013-1a.11
+    textline: 諸侯不信
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

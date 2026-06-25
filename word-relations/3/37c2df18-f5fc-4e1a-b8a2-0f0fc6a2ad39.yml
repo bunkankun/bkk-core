@@ -1,0 +1,32 @@
+uuid: 37c2df18-f5fc-4e1a-b8a2-0f0fc6a2ad39
+type: word-relation
+group_uuid: 37c2df18-f5fc-4e1a-b8a2-0f0fc6a2ad39
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d7522cbf-2499-485c-941d-6185687375e9
+  text: 爪
+  concept: CLAWS
+  concept_uuid: 3e010b68-9b90-458f-842f-adcc37c19ab8
+  attestation:
+    text_title: 韓非子
+    line_uuid: f8eb2c5a-f9d4-40a9-b484-b6badd6df4ae
+    line_id: KR3c0005_tls_047-38a.2
+    textline: 虎豹必不用其爪牙
+    offset: 7
+    range: 1
+right:
+  word_uuid: a656a9a5-0c34-4cab-998c-3ff894ab78b8
+  text: 牙
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 韓非子
+    line_uuid: f8eb2c5a-f9d4-40a9-b484-b6badd6df4ae
+    line_id: KR3c0005_tls_047-38a.2
+    textline: 虎豹必不用其爪牙
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

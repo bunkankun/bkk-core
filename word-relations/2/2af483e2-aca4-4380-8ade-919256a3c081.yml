@@ -1,0 +1,32 @@
+uuid: 2af483e2-aca4-4380-8ade-919256a3c081
+type: word-relation
+group_uuid: 2af483e2-aca4-4380-8ade-919256a3c081
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 33afd56c-8885-4fc8-982f-1b38aa858f70
+  text: 自
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 7065b54c-c35f-4826-bae4-5c297a73c6dc
+    line_id: KR6q0002_Yan_003-1125a.42
+    textline: 終自不飽”
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1c737cb0-eb21-45b6-a5a7-043bf190fc67
+  text: 他
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 08e8dfd2-3cf0-458f-9c40-b2d63f47e790
+    line_id: KR6q0002_Yan_003-1125a.41
+    textline: 看他人食
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

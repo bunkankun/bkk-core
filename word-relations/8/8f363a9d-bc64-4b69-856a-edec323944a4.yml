@@ -1,0 +1,18 @@
+uuid: 8f363a9d-bc64-4b69-856a-edec323944a4
+type: word-relation
+group_uuid: 6741bfab-4af8-5a08-9c42-d11df4fffe16
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a3faa599-4822-408c-ae7f-d3f21d31549b
+  text: 襲
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+right:
+  word_uuid: 59d2056e-0886-41d9-8c7f-465c76f45e7b
+  text: 取
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+source:
+  source_file: word-relations.xml

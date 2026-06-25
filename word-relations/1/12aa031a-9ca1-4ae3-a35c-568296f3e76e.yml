@@ -1,0 +1,21 @@
+uuid: 12aa031a-9ca1-4ae3-a35c-568296f3e76e
+type: word-relation
+group_uuid: 7c7a15c2-a5fd-5d5d-8fb1-4ea4f59adfaf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9fe57d1d-7610-4266-860a-e0879d134fc6
+  text: 計
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+right:
+  word_uuid: 879a8c3d-f6e1-4bcf-8ccf-6cb1890a69e2
+  text: 數
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

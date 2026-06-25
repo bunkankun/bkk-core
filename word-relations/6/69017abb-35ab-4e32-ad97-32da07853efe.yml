@@ -1,0 +1,32 @@
+uuid: 69017abb-35ab-4e32-ad97-32da07853efe
+type: word-relation
+group_uuid: 5a7d624a-32b7-45c4-b764-d70919cbbd88
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 269631ac-2f3f-4591-98ff-b7ad6ea2d672
+  text: 田
+  concept: FIELD
+  concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0f759129-a4f5-46f5-a854-54580f224609
+    line_id: KR3c0005_tls_020-86a.5
+    textline: 所積力唯田疇
+    offset: 5
+    range: 1
+right:
+  word_uuid: c8615447-d9ef-4b68-93df-49d3996a02d5
+  text: 疇
+  concept: FIELD
+  concept_uuid: 8e583f49-407d-4881-9bef-8636adbd04f1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0f759129-a4f5-46f5-a854-54580f224609
+    line_id: KR3c0005_tls_020-86a.5
+    textline: 所積力唯田疇
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 4e8f4e39-8ddb-42fb-8762-0f6961c21f0e
+type: word-relation
+group_uuid: 4e8f4e39-8ddb-42fb-8762-0f6961c21f0e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a0f9b6bb-5fff-41ad-bb8f-12c7aead732d
+  text: 蛟
+  concept: DRAGON
+  concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+  attestation:
+    text_title: 韓非子
+    line_uuid: b54fcac0-1c15-40c1-8199-30e2b291144b
+    line_id: KR3c0005_tls_010-39a.8
+    textline: 駕象車而六蛟龍
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7c6e379a-6183-4c60-a20f-a5477f2a5e3d
+  text: 龍
+  concept: DRAGON
+  concept_uuid: 6e479dca-a4ba-4a17-8223-429d1850ffb5
+  attestation:
+    text_title: 韓非子
+    line_uuid: b54fcac0-1c15-40c1-8199-30e2b291144b
+    line_id: KR3c0005_tls_010-39a.8
+    textline: 駕象車而六蛟龍
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

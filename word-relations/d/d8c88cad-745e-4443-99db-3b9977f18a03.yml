@@ -1,0 +1,32 @@
+uuid: d8c88cad-745e-4443-99db-3b9977f18a03
+type: word-relation
+group_uuid: d8c88cad-745e-4443-99db-3b9977f18a03
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 434f9b1e-6cb9-434e-858f-ab73d224de25
+  text: 吠
+  concept: BARK
+  concept_uuid: 9fc10e85-2df3-42a9-b2b7-1316c509e4d6
+  attestation:
+    text_title: 孟子
+    line_uuid: 7c12bf4b-baf4-452a-a52b-087f05d06271
+    line_id: KR1h0001_tls_003-6a.29
+    textline: 雞鳴狗吠相聞
+    offset: 4
+    range: 1
+right:
+  word_uuid: ab84a1f5-bde9-4595-b325-548afb2c046d
+  text: 狗
+  concept: DOG
+  concept_uuid: 1ee841e0-f4ab-4603-9f30-3a0fb7147045
+  attestation:
+    text_title: 孟子
+    line_uuid: 7c12bf4b-baf4-452a-a52b-087f05d06271
+    line_id: KR1h0001_tls_003-6a.29
+    textline: 雞鳴狗吠相聞
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

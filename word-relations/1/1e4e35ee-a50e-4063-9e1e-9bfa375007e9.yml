@@ -1,0 +1,21 @@
+uuid: 1e4e35ee-a50e-4063-9e1e-9bfa375007e9
+type: word-relation
+group_uuid: 283ae310-7604-559e-83af-c12595eda3bf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 90b6f979-8ace-4430-a409-19e32b02ec4b
+  text: 驕
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+right:
+  word_uuid: ef720bdd-f5c0-4617-bcf5-bac020e662ca
+  text: 矜
+  concept: PROUD
+  concept_uuid: 49d1dbd2-e468-492a-ab93-a26cc7486a4c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a0fcdf57-e67e-4f27-a6a2-312d779bf526
+type: word-relation
+group_uuid: a0fcdf57-e67e-4f27-a6a2-312d779bf526
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 28998dbc-f1f9-4b0a-998b-cc1f352b48cb
+  text: 禦
+  concept: FEND OFF
+  concept_uuid: 3619c72c-f176-44ec-82c9-4ccd7bfd1ad5
+  attestation:
+    text_title: 史記
+    line_uuid: 8336fd79-e358-4586-a0f8-ee915e6e3a02
+    line_id: KR2a0001_tls_005-199a.11
+    textline: 以狗禦蠱
+    offset: 3
+    range: 1
+right:
+  word_uuid: b58bdd7d-7e53-4c26-ab48-58541eb1b00e
+  text: 蠱
+  concept: BEWITCH
+  concept_uuid: 1ee60420-95ac-4599-af8f-06ebedd89b80
+  attestation:
+    text_title: 史記
+    line_uuid: 8336fd79-e358-4586-a0f8-ee915e6e3a02
+    line_id: KR2a0001_tls_005-199a.11
+    textline: 以狗禦蠱
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

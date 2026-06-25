@@ -1,0 +1,32 @@
+uuid: 89814dc5-f7ec-440c-889b-08abffd5b5f5
+type: word-relation
+group_uuid: f3b7e6d8-322a-4a1b-b907-36712ac8ae98
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8783cbb3-c95f-4df0-92cf-9725a8c4dfc4
+  text: 假
+  concept: BORROW
+  concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a2db189-bfcf-4582-af9c-eea4a4f6e1bd
+    line_id: KR3c0005_tls_010-12a.6
+    textline: 必假我道”
+    offset: 2
+    range: 1
+right:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4a2db189-bfcf-4582-af9c-eea4a4f6e1bd
+    line_id: KR3c0005_tls_010-12a.6
+    textline: 必假我道”
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

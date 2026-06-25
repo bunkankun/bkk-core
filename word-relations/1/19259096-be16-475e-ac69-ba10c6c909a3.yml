@@ -1,0 +1,32 @@
+uuid: 19259096-be16-475e-ac69-ba10c6c909a3
+type: word-relation
+group_uuid: 19259096-be16-475e-ac69-ba10c6c909a3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64ede978-68c8-4562-80cf-e8ab34fae98f
+  text: 直
+  concept: STRAIGHT
+  concept_uuid: 291a3a3e-c422-4979-a414-aafbc35b3ec9
+  attestation:
+    text_title: 老子
+    line_uuid: 37bba5ac-a599-4af1-a422-1b1cce85ab2e
+    line_id: KR5c0057_tls_045-1a.7
+    textline: 大直若屈
+    offset: 2
+    range: 1
+right:
+  word_uuid: e4efde33-24f2-4de7-b7e0-dd94612d6fe4
+  text: 屈
+  concept: BOW DOWN
+  concept_uuid: 6ad20ed2-43fd-499d-a5e2-f028d389d5a0
+  attestation:
+    text_title: 老子
+    line_uuid: 37bba5ac-a599-4af1-a422-1b1cce85ab2e
+    line_id: KR5c0057_tls_045-1a.7
+    textline: 大直若屈
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

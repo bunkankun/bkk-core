@@ -1,0 +1,31 @@
+uuid: f2ba9863-d141-4368-9439-12f9649c0e7b
+type: word-relation
+group_uuid: f2ba9863-d141-4368-9439-12f9649c0e7b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 論衡
+    line_uuid: 0a5f48d2-defd-4b4e-821a-99ce7fe36ecd
+    line_id: KR3j0080_tls_002-11a.32
+    textline: 夫采玉者破石拔玉
+    range: 1
+right:
+  word_uuid: 6b790eb4-1263-47f1-b342-a61026d4287f
+  text: 石
+  concept: STONE
+  concept_uuid: 4a3ff01e-b3ed-4980-b8c8-ff65f3a076ed
+  attestation:
+    text_title: 論衡
+    line_uuid: 0a5f48d2-defd-4b4e-821a-99ce7fe36ecd
+    line_id: KR3j0080_tls_002-11a.32
+    textline: 夫采玉者破石拔玉
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

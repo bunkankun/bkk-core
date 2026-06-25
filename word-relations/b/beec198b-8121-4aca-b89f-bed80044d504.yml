@@ -1,0 +1,32 @@
+uuid: beec198b-8121-4aca-b89f-bed80044d504
+type: word-relation
+group_uuid: beec198b-8121-4aca-b89f-bed80044d504
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5dead75c-6311-4625-9ae2-1ee9b9d7798a
+  text: 士
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c0bb52af-c84b-4b7c-a513-edb698d4d702
+    line_id: KR3j0009_tls_020-4a.40
+    textline: 故忠臣廉士
+    offset: 5
+    range: 1
+right:
+  word_uuid: b8e024a1-ed59-45a0-95b1-37bf8dedd712
+  text: 廉
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c0bb52af-c84b-4b7c-a513-edb698d4d702
+    line_id: KR3j0009_tls_020-4a.40
+    textline: 故忠臣廉士
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b894ca0b-0372-46e8-bb09-9b84b071db0d
+type: word-relation
+group_uuid: b894ca0b-0372-46e8-bb09-9b84b071db0d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7a276356-fd07-4dd4-a266-9822cc257f4b
+  text: 叛
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 712fd2b9-efab-4ea1-aeee-d8cf13360fca
+    line_id: KR1e0001_tls_005-436a.3
+    textline: 叛楚即晉
+    offset: 1
+    range: 1
+right:
+  word_uuid: c4f9778f-50ef-4a01-bb7b-ecb748ae0717
+  text: 即
+  concept: APPROACH
+  concept_uuid: a17a8271-f263-48b0-94aa-73ebe97641b3
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 712fd2b9-efab-4ea1-aeee-d8cf13360fca
+    line_id: KR1e0001_tls_005-436a.3
+    textline: 叛楚即晉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

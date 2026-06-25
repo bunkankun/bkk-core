@@ -1,0 +1,21 @@
+uuid: 3063e4ad-6118-4b29-b6d2-6c7ee0200ad2
+type: word-relation
+group_uuid: 87cc853f-1f35-5865-b514-076c623e910b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 11dd82f6-f9fe-4ec7-ab78-387bf160c583
+  text: 會
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+right:
+  word_uuid: 12069bdc-4def-4cff-9894-8394438a5628
+  text: 遇
+  concept: MEET
+  concept_uuid: e3e7cd5b-e60e-439d-ac8a-d6bab704184f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

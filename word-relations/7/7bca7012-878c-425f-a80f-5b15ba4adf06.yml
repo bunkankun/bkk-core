@@ -1,0 +1,21 @@
+uuid: 7bca7012-878c-425f-a80f-5b15ba4adf06
+type: word-relation
+group_uuid: 2fd4c75c-905c-583e-be79-c8bb0f0ed452
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 221a3d02-b26b-4a58-85c5-1dc4d4f444af
+  text: 乾
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+right:
+  word_uuid: 687b63b0-8a69-4f10-a6d6-a1228fd85147
+  text: 燥
+  concept: DRY
+  concept_uuid: d80cad45-2ee1-42d4-bbe5-9f2410b4708d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8a5392a2-2001-4447-a07d-5ac6ed1f3eb6
+type: word-relation
+group_uuid: 8a5392a2-2001-4447-a07d-5ac6ed1f3eb6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7b47dd10-cb4a-439a-8ec0-754563538bc5
+  text: 尋
+  concept: LENGTH MEASURES
+  concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 69c56953-5b2c-4248-9edc-8e8d749fab0a
+    line_id: KR3c0005_tls_008-35a.3
+    textline: 下得尋常
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5d9ffa66-4d7a-498c-afa0-f069717e83be
+  text: 常
+  concept: LENGTH MEASURES
+  concept_uuid: 32bca9a8-1a22-42ff-a2df-fc5833e0b11a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 69c56953-5b2c-4248-9edc-8e8d749fab0a
+    line_id: KR3c0005_tls_008-35a.3
+    textline: 下得尋常
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

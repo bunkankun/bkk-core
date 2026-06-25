@@ -1,0 +1,32 @@
+uuid: b91ed8b6-6de0-461d-bd33-484419c130ca
+type: word-relation
+group_uuid: 5b37cbc0-bdaa-4400-9096-af3c8d9c5f12
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 20ce3800-8a9c-4021-944e-ea84a5a9f1d2
+  text: 慮
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 史記
+    line_uuid: df2d4d08-9f89-4615-9d8e-599e239f1def
+    line_id: KR2a0001_tls_068-3a.13
+    textline: 民不可與慮始
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0f323fb4-0759-432a-a6ea-40ac7b8bf706
+  text: 樂
+  concept: ENJOY
+  concept_uuid: b2d4f9f1-5b02-4cb3-bdb8-863eb65675af
+  attestation:
+    text_title: 史記
+    line_uuid: 44150947-05ea-499c-af1b-e458fcd62e63
+    line_id: KR2a0001_tls_068-3a.14
+    textline: 而可與樂成
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 2de6d164-2b94-487b-88bf-20d09fa33720
+type: word-relation
+group_uuid: 2de6d164-2b94-487b-88bf-20d09fa33720
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: f330eb2c-64b3-453b-a538-924bab457309
+    line_id: KR3c0005_tls_014-14a.7
+    textline: 能無廢法行私
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: f330eb2c-64b3-453b-a538-924bab457309
+    line_id: KR3c0005_tls_014-14a.7
+    textline: 能無廢法行私
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

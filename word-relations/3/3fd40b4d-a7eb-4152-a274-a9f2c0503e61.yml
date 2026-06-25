@@ -1,0 +1,21 @@
+uuid: 3fd40b4d-a7eb-4152-a274-a9f2c0503e61
+type: word-relation
+group_uuid: 374e3fae-75a7-5b10-a6f6-9ecf8f30dc05
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ef9aeb77-e3c6-4dde-842e-09b3df05e950
+  text: 貫貫
+  concept: PIERCE
+  concept_uuid: 4adf63ee-1f5b-4ac5-95fc-b91b8331dc93
+right:
+  word_uuid: 8dc4c3c7-af52-4c80-9f25-9acfa57a4014
+  text: 穿
+  concept: DRILL
+  concept_uuid: 66925e4a-f4df-498b-9361-388edc15134c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

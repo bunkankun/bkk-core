@@ -1,0 +1,37 @@
+uuid: a4ed9909-9657-4413-8ebc-ada2da32c512
+type: word-relation
+group_uuid: 110b4f36-2ae7-40ba-b915-834ce61a5317
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2ddc5f20-543c-4c13-9c95-82b3e6eed186
+  text: 老
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 論衡
+    line_uuid: 6f97e479-9e94-45c6-9c16-36460c2cec43
+    line_id: KR3j0080_tls_024-12a.8
+    textline: 其老也髮白
+    offset: 2
+    range: 1
+right:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 論衡
+    line_uuid: 188fb4cf-0b13-46d2-ad45-2acc48e5e014
+    line_id: KR3j0080_tls_024-12a.7
+    textline: 人之少也髮黑
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '284'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

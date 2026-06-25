@@ -1,0 +1,32 @@
+uuid: 713f21a4-d7cf-4cb1-bd10-e1d7e74281f0
+type: word-relation
+group_uuid: 30de90ae-7635-4e47-b732-8506d34f20f6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3619ed5c-8ab9-4357-8b37-edc6f3278de2
+  text: 朝
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44d85483-1b9f-4391-b771-113765bb09b3
+    line_id: KR3j0009_tls_001-22a.12
+    textline: 今病在於朝夕之中
+    offset: 5
+    range: 1
+right:
+  word_uuid: cebfb215-a04d-4a3c-bde2-1b99f016ece3
+  text: 夕
+  concept: EVENING
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 44d85483-1b9f-4391-b771-113765bb09b3
+    line_id: KR3j0009_tls_001-22a.12
+    textline: 今病在於朝夕之中
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

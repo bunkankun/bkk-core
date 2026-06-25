@@ -1,0 +1,21 @@
+uuid: e9995c99-4a2d-4f7b-bb72-c37a13e59143
+type: word-relation
+group_uuid: 72cc8b26-f0b0-54a0-bccc-e02140f882c0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ac763bab-260a-44e5-b1a1-e56960eca524
+  text: 旨
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+right:
+  word_uuid: def34781-31ef-4b3c-bf4a-59491fb76dc3
+  text: 嘉
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

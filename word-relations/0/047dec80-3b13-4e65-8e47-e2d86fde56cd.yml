@@ -1,0 +1,32 @@
+uuid: 047dec80-3b13-4e65-8e47-e2d86fde56cd
+type: word-relation
+group_uuid: 047dec80-3b13-4e65-8e47-e2d86fde56cd
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1fe70274-ce84-4009-a705-67e76239fc4d
+  text: 量
+  concept: MEASURE
+  concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+  attestation:
+    text_title: 韓非子
+    line_uuid: aa92059d-e4c0-47b6-98d3-df1e009065db
+    line_id: KR3c0005_tls_009-28a.9
+    textline: 官賢者量其能
+    offset: 4
+    range: 1
+right:
+  word_uuid: 34f33548-5f1d-4a79-ad78-eb140fe5d749
+  text: 能
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 韓非子
+    line_uuid: aa92059d-e4c0-47b6-98d3-df1e009065db
+    line_id: KR3c0005_tls_009-28a.9
+    textline: 官賢者量其能
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

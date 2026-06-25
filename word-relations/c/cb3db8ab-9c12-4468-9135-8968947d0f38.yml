@@ -1,0 +1,31 @@
+uuid: cb3db8ab-9c12-4468-9135-8968947d0f38
+type: word-relation
+group_uuid: 5e5e2a18-4375-4886-856a-28692307135b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9e500949-6a36-4f8e-99a0-f5be542c4e33
+  text: 針
+  concept: NEEDLE
+  concept_uuid: 31a8226c-d5cc-439f-bcfd-ba9e070309dd
+  attestation:
+    text_title: 論衡
+    line_uuid: 4d9ae8fb-73ea-4447-a07f-72533639e06e
+    line_id: KR3j0080_tls_040-2a.25
+    textline: 使針錐末方
+    offset: 2
+    range: 1
+right:
+  word_uuid: cb57141d-5b41-495f-aeba-e72f078829cb
+  text: 錐
+  concept: AWL
+  concept_uuid: 4551927e-d2ba-45f6-8ac6-2accc318406e
+  attestation:
+    text_title: 論衡
+    line_uuid: f39cf9dc-2c7b-49a5-a242-e89a6e0e39af
+    textline: 無鍼錐之銳
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

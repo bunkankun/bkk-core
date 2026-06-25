@@ -1,0 +1,18 @@
+uuid: 642e198a-e1ff-4c1f-9ca0-50c7ef719aee
+type: word-relation
+group_uuid: b29b4b56-81ef-54a2-98c6-6b471646956b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c4282d8d-3591-40e7-bb44-d7cdd4b41db2
+  text: 醜
+  concept: CATEGORY
+  concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+right:
+  word_uuid: 05c287a4-199f-4ad1-94ea-166af38238cc
+  text: 類
+  concept: CATEGORY
+  concept_uuid: 1600632e-cd7e-4c6c-ae3e-5a7e14b8f904
+source:
+  source_file: word-relations.xml

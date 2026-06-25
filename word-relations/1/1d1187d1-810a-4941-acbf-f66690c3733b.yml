@@ -1,0 +1,21 @@
+uuid: 1d1187d1-810a-4941-acbf-f66690c3733b
+type: word-relation
+group_uuid: 7ec6bbf5-9a96-5a1e-bc38-1fe2e0db7071
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 13808986-a234-484d-a412-862d3e387251
+  text: 大
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+right:
+  word_uuid: 5f44de94-34d7-4594-b66c-7f8293bb92c6
+  text: 洪
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

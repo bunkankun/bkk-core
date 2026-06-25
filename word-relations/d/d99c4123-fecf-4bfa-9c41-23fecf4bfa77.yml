@@ -1,0 +1,32 @@
+uuid: d99c4123-fecf-4bfa-9c41-23fecf4bfa77
+type: word-relation
+group_uuid: d8deff6e-8ddd-53b0-b735-6e426ce4b2ed
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6317527a-ae73-45ed-b8fa-c2c0c833d402
+  text: 繩
+  concept: LINE
+  concept_uuid: 55398f68-e847-4fe6-bf78-c6654eb75e96
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_001-1a.9
+    textline: 木直中繩
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7c96920c-0343-4a53-b670-92f1aebb5d7f
+  text: 規
+  concept: COMPASS
+  concept_uuid: a9eeabab-bbce-41b7-8f65-be82c0f421eb
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_001-1a.11
+    textline: 其曲中規
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#zadrapa'
+  date: '2023-02-14T22:56:19.663+09:00'

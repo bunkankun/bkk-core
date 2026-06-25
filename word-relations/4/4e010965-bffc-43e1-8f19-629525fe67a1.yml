@@ -1,0 +1,32 @@
+uuid: 4e010965-bffc-43e1-8f19-629525fe67a1
+type: word-relation
+group_uuid: 4e010965-bffc-43e1-8f19-629525fe67a1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 老子
+    line_uuid: 97702741-7731-4003-8c6d-39f5fa5d4ce1
+    line_id: KR5c0057_tls_055-1a.8
+    textline: 骨弱筋柔而握固
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8fe2c389-1878-401a-ab09-cb9c67976c6a
+  text: 弱
+  concept: WEAK
+  concept_uuid: 322fce0c-8393-4268-a95d-15a08ce2a77f
+  attestation:
+    text_title: 老子
+    line_uuid: 97702741-7731-4003-8c6d-39f5fa5d4ce1
+    line_id: KR5c0057_tls_055-1a.8
+    textline: 骨弱筋柔而握固
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

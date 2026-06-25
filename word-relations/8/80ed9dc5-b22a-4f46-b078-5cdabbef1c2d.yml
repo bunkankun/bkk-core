@@ -1,0 +1,32 @@
+uuid: 80ed9dc5-b22a-4f46-b078-5cdabbef1c2d
+type: word-relation
+group_uuid: 80ed9dc5-b22a-4f46-b078-5cdabbef1c2d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9e67a0fd-2a38-4b9c-a64d-bf15a0413d99
+  text: 阿
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 莊子
+    line_uuid: 1094c067-cf01-4447-992e-5048c721c75a
+    line_id: KR5c0126_tls_012-11a.11
+    textline: 而无阿私
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8006edf3-93d2-403a-9b2c-0b463fd87543
+  text: 私
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 莊子
+    line_uuid: 1094c067-cf01-4447-992e-5048c721c75a
+    line_id: KR5c0126_tls_012-11a.11
+    textline: 而无阿私
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

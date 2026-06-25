@@ -1,0 +1,32 @@
+uuid: 80a8cc8b-b060-4be8-adbd-3dd566284982
+type: word-relation
+group_uuid: 80a8cc8b-b060-4be8-adbd-3dd566284982
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c3bd3e90-32d7-425f-ac3b-0b6dc9fa185b
+    line_id: KR3j0009_tls_014-25a.10
+    textline: 「寡人之國危
+    offset: 5
+    range: 1
+right:
+  word_uuid: 27a8f4b4-3852-4322-b902-52c0f1497fcb
+  text: 社稷
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 75d8d470-a495-4169-90d0-c118a5f8b7a7
+    line_id: KR3j0009_tls_014-25a.11
+    textline: 社稷殆
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

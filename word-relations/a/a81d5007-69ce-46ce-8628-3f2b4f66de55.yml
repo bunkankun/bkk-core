@@ -1,0 +1,32 @@
+uuid: a81d5007-69ce-46ce-8628-3f2b4f66de55
+type: word-relation
+group_uuid: a81d5007-69ce-46ce-8628-3f2b4f66de55
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d0e5fefb-5cf3-4db3-8c81-5a4f987894ef
+  text: 童
+  concept: BOY
+  concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+  attestation:
+    text_title: 白虎通
+    line_uuid: 46738177-0166-46ee-ada5-dae74309d15f
+    line_id: KR3j0023_tls_015-672a.9
+    textline: 「匪我求童蒙
+    offset: 5
+    range: 1
+right:
+  word_uuid: b825f673-66fc-459a-864b-78e761a5c296
+  text: 蒙
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 白虎通
+    line_uuid: 46738177-0166-46ee-ada5-dae74309d15f
+    line_id: KR3j0023_tls_015-672a.9
+    textline: 「匪我求童蒙
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

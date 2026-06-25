@@ -1,0 +1,21 @@
+uuid: 7d705502-0635-4407-9f16-c0a9de87e226
+type: word-relation
+group_uuid: 0d5e56cc-d4e4-5e5b-9adf-73a288099ed6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ade8ee5d-ef62-4c36-beac-99463c90797c
+  text: 空
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+right:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

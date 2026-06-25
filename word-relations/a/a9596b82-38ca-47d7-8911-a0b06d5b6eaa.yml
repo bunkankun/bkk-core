@@ -1,0 +1,32 @@
+uuid: a9596b82-38ca-47d7-8911-a0b06d5b6eaa
+type: word-relation
+group_uuid: a9431471-b91a-4300-97f4-3415ecd8de9d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 列子
+    line_uuid: 4e0a6cfd-e674-4858-a46d-b49ae3f2ac27
+    line_id: KR5c0124_tls_003-6a.27
+    textline: 何用知彼夢我夢邪
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 列子
+    line_uuid: 4e0a6cfd-e674-4858-a46d-b49ae3f2ac27
+    line_id: KR5c0124_tls_003-6a.27
+    textline: 何用知彼夢我夢邪
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

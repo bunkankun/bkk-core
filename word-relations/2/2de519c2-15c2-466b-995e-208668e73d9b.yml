@@ -1,0 +1,33 @@
+uuid: 2de519c2-15c2-466b-995e-208668e73d9b
+type: word-relation
+group_uuid: fab486fb-b5a8-467f-b310-37f7958b8848
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 722cec04-c366-4d28-be06-6c9acc7d00eb
+  text: 眾
+  concept: MANY
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  attestation:
+    text_title: 墨子
+    line_uuid: 0e8e1145-8c1e-4a61-a712-5d017e27e205
+    textline: 不得眾而得寡
+    offset: 3
+    range: 1
+right:
+  word_uuid: 64b231da-1d27-459a-a12f-c4b81f906d44
+  text: 寡
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 墨子
+    line_uuid: 0e8e1145-8c1e-4a61-a712-5d017e27e205
+    textline: 不得眾而得寡
+    offset: 6
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

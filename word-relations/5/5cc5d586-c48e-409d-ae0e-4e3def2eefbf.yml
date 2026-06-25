@@ -1,0 +1,18 @@
+uuid: 5cc5d586-c48e-409d-ae0e-4e3def2eefbf
+type: word-relation
+group_uuid: 888ab33b-5ea8-5276-8b72-aedc3e608004
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 06894900-325a-468a-8442-990ce818a33c
+  text: 壯
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+right:
+  word_uuid: 6d4339ce-6bb4-4994-a01f-02e77427cfd0
+  text: 麗
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+source:
+  source_file: word-relations.xml

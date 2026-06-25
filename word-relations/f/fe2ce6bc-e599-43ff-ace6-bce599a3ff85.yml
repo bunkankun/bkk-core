@@ -1,0 +1,32 @@
+uuid: fe2ce6bc-e599-43ff-ace6-bce599a3ff85
+type: word-relation
+group_uuid: 1a50784e-fcc1-5fdb-8813-00d758152480
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 47dd2ea8-6386-4b23-b3f3-d11074f5d095
+  text: 寬
+  concept: LENIENT
+  concept_uuid: 0c1ab628-9e6f-4e65-9592-50cc98e3f561
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.13
+    textline: 寬而栗
+    offset: 1
+    range: 1
+right:
+  word_uuid: dcdb4627-f019-4e87-9b46-27f0193e8759
+  text: 栗
+  concept: STERN
+  concept_uuid: 51fc63c2-f53d-48a9-8b03-042ce0863a2c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.13
+    textline: 寬而栗
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-07T02:54:13.52+09:00'

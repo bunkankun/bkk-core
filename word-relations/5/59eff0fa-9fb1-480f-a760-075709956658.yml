@@ -1,0 +1,31 @@
+uuid: 59eff0fa-9fb1-480f-a760-075709956658
+type: word-relation
+group_uuid: 59eff0fa-9fb1-480f-a760-075709956658
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6769bb06-0f5c-49bf-9072-a46b26aca5b6
+  text: 願
+  concept: HOPE
+  concept_uuid: 526a1682-7cfe-4e61-8aa8-c0df89af5120
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a31dfd2f-9c2c-4cd3-b906-c99ea8c8eb84
+    textline: 人子人臣不得其所願
+    offset: 9
+    range: 1
+right:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2834d164-fae4-4082-ad40-d54bc54f449d
+    line_id: KR3j0009_tls_004-11a.6
+    textline: 人君人親之所甚欲也
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

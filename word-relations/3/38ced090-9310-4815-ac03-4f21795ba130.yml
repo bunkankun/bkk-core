@@ -1,0 +1,21 @@
+uuid: 38ced090-9310-4815-ac03-4f21795ba130
+type: word-relation
+group_uuid: d8010389-e763-556e-b043-207005df59c0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b522d01d-2cec-4d2e-80af-6f8e883b9427
+  text: 聰
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+right:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧惠
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

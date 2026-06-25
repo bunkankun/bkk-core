@@ -1,0 +1,18 @@
+uuid: 60867322-1a30-450e-abd4-ae75365eb48a
+type: word-relation
+group_uuid: 35141197-16a2-567a-a657-c1bcbaf1b59b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 36f9e2f6-5a22-4c99-ac10-8f0babdfd06b
+  text: 定
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+right:
+  word_uuid: 4b4eda8e-25d8-4902-987b-6423232e9c38
+  text: 實
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+source:
+  source_file: word-relations.xml

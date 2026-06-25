@@ -1,0 +1,21 @@
+uuid: 2d8f942f-07a5-4a47-8dd7-63ce72ad44c3
+type: word-relation
+group_uuid: 21d5dcfd-14a8-5b4b-8947-9a6a175b2d44
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e6539a0b-720a-4e13-8941-7c2f3b34632b
+  text: 存
+  concept: PERSIST
+  concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+right:
+  word_uuid: 907af027-1577-458c-ad82-0bed389975b0
+  text: 在
+  concept: PERSIST
+  concept_uuid: 5af4ba44-87c3-44c6-97d9-6ef94667b06f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

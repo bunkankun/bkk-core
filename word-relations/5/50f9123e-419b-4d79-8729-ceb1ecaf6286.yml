@@ -1,0 +1,32 @@
+uuid: 50f9123e-419b-4d79-8729-ceb1ecaf6286
+type: word-relation
+group_uuid: 50f9123e-419b-4d79-8729-ceb1ecaf6286
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 99ab1293-0099-4ce3-b4cf-8e2fd2abb37b
+  text: 篤
+  concept: EARNEST
+  concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+  attestation:
+    text_title: 論語
+    line_uuid: 0081c614-a4db-483f-8e72-b2a76c50df7b
+    line_id: KR1h0004_tls_008-13a.3
+    textline: 「篤信好學
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: 0081c614-a4db-483f-8e72-b2a76c50df7b
+    line_id: KR1h0004_tls_008-13a.3
+    textline: 「篤信好學
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

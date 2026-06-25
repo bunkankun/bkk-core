@@ -1,0 +1,35 @@
+uuid: 8a9764a2-d604-4a5e-baea-4bb6b816d0b1
+type: word-relation
+group_uuid: 8a9764a2-d604-4a5e-baea-4bb6b816d0b1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 老子
+    line_uuid: 5baf9ab6-cb39-4d22-b38d-cf04dd83016f
+    line_id: KR5c0057_tls_039-1a.18
+    textline: 高以下為基
+    offset: 1
+    range: 1
+right:
+  word_uuid: f35680ef-b9a3-4a4f-9d5a-b956daa7c25b
+  text: 下
+  concept: BELOW
+  concept_uuid: 62252aba-6452-4ee9-aeb4-3b50862a8170
+  attestation:
+    text_title: 老子
+    line_uuid: 5baf9ab6-cb39-4d22-b38d-cf04dd83016f
+    line_id: KR5c0057_tls_039-1a.18
+    textline: 高以下為基
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

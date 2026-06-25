@@ -1,0 +1,32 @@
+uuid: 30a6f426-5f02-4625-a229-68ea39bf9bd4
+type: word-relation
+group_uuid: 1c02c8ba-a9dc-41f5-a4c9-501f04b574cd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3a8c93aa-fdde-474d-9dc5-d0f99a719123
+  text: 刃
+  concept: BLADE
+  concept_uuid: b07122d1-ef97-4299-8da9-77edb2d5d287
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c118f0f-9016-4832-9a68-7d4ae210025c
+    line_id: KR3c0005_tls_001-7a.8
+    textline: 犯白刃
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8c9cc707-6c56-40c7-aaf3-3cfc48011d40
+  text: 白
+  concept: NAKED
+  concept_uuid: e033744f-13da-488e-915f-3944c0edac4b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c118f0f-9016-4832-9a68-7d4ae210025c
+    line_id: KR3c0005_tls_001-7a.8
+    textline: 犯白刃
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

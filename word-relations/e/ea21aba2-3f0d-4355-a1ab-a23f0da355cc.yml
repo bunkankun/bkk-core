@@ -1,0 +1,32 @@
+uuid: ea21aba2-3f0d-4355-a1ab-a23f0da355cc
+type: word-relation
+group_uuid: 750deeb0-7abd-5914-bc31-25fe293b66ae
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 767b920e-6940-43a4-b554-9774e2392cca
+  text: 身
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_020-30a.18
+    textline: 身弗能治
+    offset: 1
+    range: 1
+right:
+  word_uuid: d735a6b9-e662-4276-98cc-49c3c5cf2e7b
+  text: 天下
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_020-30a.19
+    textline: 奈天下何
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-05T18:04:23.685+09:00'

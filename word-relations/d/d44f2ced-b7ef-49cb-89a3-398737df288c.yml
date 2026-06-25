@@ -1,0 +1,32 @@
+uuid: d44f2ced-b7ef-49cb-89a3-398737df288c
+type: word-relation
+group_uuid: d44f2ced-b7ef-49cb-89a3-398737df288c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ac462827-792d-4768-aa81-6c5be9993931
+  text: 測
+  concept: ASSESS
+  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+  attestation:
+    text_title: 文子
+    line_uuid: 9e52c728-7eb4-4c16-a336-59b63f28cb84
+    line_id: KR5c0118_tls_001-1a.14
+    textline: 深不可測
+    offset: 4
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 文子
+    line_uuid: 9e52c728-7eb4-4c16-a336-59b63f28cb84
+    line_id: KR5c0118_tls_001-1a.14
+    textline: 深不可測
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: 78a8d0bc-aa85-4523-9dd5-566004584980
+type: word-relation
+group_uuid: 78a8d0bc-aa85-4523-9dd5-566004584980
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 31dd9d64-4acd-49a6-8b1f-635bff504a22
+  text: 入
+  concept: BE AT HOME
+  concept_uuid: d54ee83d-bcf5-44c0-8ac1-66ee701ab3b3
+  attestation:
+    text_title: 楚辭
+    line_uuid: 42b9c130-2758-4ecd-b9f7-56c9999c6d89
+    line_id: KR4a0001_tls_002-20a.12
+    textline: 出不入兮往不反
+    offset: 3
+    range: 1
+right:
+  word_uuid: a118a503-92d3-4aa0-b967-bf03c0805def
+  text: 出
+  concept: AWAY
+  concept_uuid: 8364b0bd-096f-41e2-8c67-21e23a1fbf8a
+  attestation:
+    text_title: 楚辭
+    line_uuid: 42b9c130-2758-4ecd-b9f7-56c9999c6d89
+    line_id: KR4a0001_tls_002-20a.12
+    textline: 出不入兮往不反
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

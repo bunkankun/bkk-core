@@ -1,0 +1,32 @@
+uuid: db03bed5-b31e-40f5-8ec8-b30f5f8b92ce
+type: word-relation
+group_uuid: db03bed5-b31e-40f5-8ec8-b30f5f8b92ce
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 636f0900-8560-432f-bcaf-0640bbda6b97
+  text: 聾
+  concept: DEAF
+  concept_uuid: 7b5bef5c-952b-48de-bc22-838bfdc4c6e9
+  attestation:
+    text_title: 賢愚經
+    line_uuid: a39834d2-ec47-4fcb-84f8-6800d7560174
+    line_id: KR6b0059_T_006-0393a.1
+    textline: 盲視聾聽
+    offset: 3
+    range: 1
+right:
+  word_uuid: b096ad4d-aa5b-4dda-9c66-463a07f2fa7a
+  text: 聽
+  concept: LISTEN
+  concept_uuid: 236f9c74-0205-40b8-96f6-1e3802f13803
+  attestation:
+    text_title: 賢愚經
+    line_uuid: a39834d2-ec47-4fcb-84f8-6800d7560174
+    line_id: KR6b0059_T_006-0393a.1
+    textline: 盲視聾聽
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

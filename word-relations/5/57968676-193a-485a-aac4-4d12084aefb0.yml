@@ -1,0 +1,21 @@
+uuid: 57968676-193a-485a-aac4-4d12084aefb0
+type: word-relation
+group_uuid: c1e6438c-0f9b-59d6-8fc9-b1869a9d2efd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a8a4e9e5-1e4a-40e2-b1e9-81bc8c367dec
+  text: 殫
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+right:
+  word_uuid: 55614ef6-1408-47e5-b609-8469ede00218
+  text: 滅
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

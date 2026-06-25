@@ -1,0 +1,32 @@
+uuid: a46f595b-131f-4ff5-8ba6-bdff2a39d139
+type: word-relation
+group_uuid: 4ddf37da-3633-4c66-85fd-4246c29ea21b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a6db2497-033b-407f-897a-a966d07980ce
+  text: 賄
+  concept: BRIBE
+  concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+  attestation:
+    text_title: 管子
+    line_uuid: 02d5c8f8-f964-4e07-9ec9-ec3400c451c9
+    line_id: KR3c0001_tls_011-102a.2
+    textline: 尊其貨賄
+    offset: 4
+    range: 1
+right:
+  word_uuid: 19fdeb84-bc98-48ed-aecc-17419378fa02
+  text: 貨
+  concept: BRIBE
+  concept_uuid: 6309fae2-a71b-4620-84ca-f80bbd8eae6d
+  attestation:
+    text_title: 管子
+    line_uuid: 02d5c8f8-f964-4e07-9ec9-ec3400c451c9
+    line_id: KR3c0001_tls_011-102a.2
+    textline: 尊其貨賄
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

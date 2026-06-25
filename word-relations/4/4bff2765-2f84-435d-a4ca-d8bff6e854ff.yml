@@ -1,0 +1,21 @@
+uuid: 4bff2765-2f84-435d-a4ca-d8bff6e854ff
+type: word-relation
+group_uuid: 0fabcb82-1641-5c86-96d0-7ae51712815e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5903b334-7bbe-4e84-821a-588e5398462e
+  text: 觸
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+right:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

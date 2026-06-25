@@ -1,0 +1,21 @@
+uuid: 82394464-2839-457f-b3e0-128015d35190
+type: word-relation
+group_uuid: d59b31a9-0a61-505e-b7c8-cc5b414ae3ec
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 86bad0cf-cf31-45c5-906d-50a888c0ab79
+  text: 節
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+right:
+  word_uuid: 4ffd0b80-8021-462c-bdcf-fe1b554a8aa9
+  text: 時
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

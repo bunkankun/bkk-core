@@ -1,0 +1,35 @@
+uuid: 78fb7ccc-5159-400f-a6a8-009583701b26
+type: word-relation
+group_uuid: 78fb7ccc-5159-400f-a6a8-009583701b26
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: aafb194d-eb53-4884-afdd-1e13cf5d562d
+  text: 加
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 論衡
+    line_uuid: ba78404a-5c68-431b-bf84-d16655edc402
+    line_id: KR3j0080_tls_007-1a.17
+    textline: 命不可減加
+    offset: 5
+    range: 1
+right:
+  word_uuid: d28b2555-9be7-4055-9193-89fcea39835f
+  text: 減
+  concept: REDUCE
+  concept_uuid: 92fa2817-a5e8-4390-93f0-d0b348317481
+  attestation:
+    text_title: 論衡
+    line_uuid: ba78404a-5c68-431b-bf84-d16655edc402
+    line_id: KR3j0080_tls_007-1a.17
+    textline: 命不可減加
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

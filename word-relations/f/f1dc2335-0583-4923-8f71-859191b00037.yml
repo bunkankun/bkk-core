@@ -1,0 +1,32 @@
+uuid: f1dc2335-0583-4923-8f71-859191b00037
+type: word-relation
+group_uuid: f1dc2335-0583-4923-8f71-859191b00037
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 196571aa-4c85-4d58-8053-1e6e16873e30
+  text: 冠
+  concept: WEAR
+  concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+  attestation:
+    text_title: 韓非子
+    line_uuid: b15b357d-22d8-44b1-89a2-a7ff84202d0d
+    line_id: KR3c0005_tls_006-5a.7
+    textline: 威行於冠帶之國
+    offset: 4
+    range: 1
+right:
+  word_uuid: c5e6e17d-d510-4bc6-97eb-1331bc8f243e
+  text: 帶
+  concept: WEAR
+  concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+  attestation:
+    text_title: 韓非子
+    line_uuid: b15b357d-22d8-44b1-89a2-a7ff84202d0d
+    line_id: KR3c0005_tls_006-5a.7
+    textline: 威行於冠帶之國
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

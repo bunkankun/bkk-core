@@ -1,0 +1,32 @@
+uuid: 4933ed74-e149-4ccb-94c4-c9dadf8f4090
+type: word-relation
+group_uuid: 4933ed74-e149-4ccb-94c4-c9dadf8f4090
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c177dc21-65aa-41b9-a446-b4853f9840ad
+  text: 姦
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 商君書
+    line_uuid: c6960b6f-d1b0-4f29-a058-d93b2f599fbe
+    line_id: KR3c0004_tls_001-76a.6
+    textline: 國以姦民治善民者
+    offset: 3
+    range: 1
+right:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 商君書
+    line_uuid: c6960b6f-d1b0-4f29-a058-d93b2f599fbe
+    line_id: KR3c0004_tls_001-76a.6
+    textline: 國以姦民治善民者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

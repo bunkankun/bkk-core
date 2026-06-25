@@ -1,0 +1,18 @@
+uuid: 8a911da4-77e0-4b52-9e42-19ce7d1cbd06
+type: word-relation
+group_uuid: 8732330f-a51e-51b1-8f76-e8935e92e427
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: df4e231f-2fab-4072-9bc3-f67870657803
+  text: 家
+  concept: FAMILY
+  concept_uuid: 55be2fa8-f34c-4f62-831c-7cd779c1279c
+right:
+  word_uuid: a34146e3-3a7f-41ee-a167-c15d8463fe9a
+  text: 朝
+  concept: DYNASTY
+  concept_uuid: fc81707f-f70d-4b91-abc2-096275b30d34
+source:
+  source_file: word-relations.xml

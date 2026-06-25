@@ -1,0 +1,32 @@
+uuid: ac3e0292-d671-4e63-8e4d-6f5ab540fdbc
+type: word-relation
+group_uuid: 45647b36-4e5f-48c9-99d2-b7e79e399579
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 675fc93e-aea2-4369-a00e-f4aed74471b2
+  text: 泣
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 論衡
+    line_uuid: 7f588e0a-4ca7-4789-87cb-8f8d11a287da
+    line_id: KR3j0080_tls_001-8a.41
+    textline: 泣涕於塗者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 51b3ae06-8191-42b3-bf29-6c23b8709bab
+  text: 涕
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 論衡
+    line_uuid: 7f588e0a-4ca7-4789-87cb-8f8d11a287da
+    line_id: KR3j0080_tls_001-8a.41
+    textline: 泣涕於塗者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

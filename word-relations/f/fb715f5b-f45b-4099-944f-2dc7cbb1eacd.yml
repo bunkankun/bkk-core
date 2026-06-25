@@ -1,0 +1,32 @@
+uuid: fb715f5b-f45b-4099-944f-2dc7cbb1eacd
+type: word-relation
+group_uuid: fb715f5b-f45b-4099-944f-2dc7cbb1eacd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 52de6752-0f62-4d8e-9f38-52b2db3298d1
+  text: 嬾惰
+  concept: LAZY
+  concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  attestation:
+    text_title: 法華經
+    line_uuid: dc4c08eb-51ed-4219-a031-771c1fe06be2
+    line_id: KR6d0001_T_005-0038a.44
+    textline: 除嬾惰意
+    offset: 2
+    range: 2
+right:
+  word_uuid: 98f08179-07f7-4667-ab8b-111ad6e5b7cc
+  text: 懈怠
+  concept: LAZY
+  concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  attestation:
+    text_title: 法華經
+    line_uuid: 45b70c08-3a0c-4aa0-ab05-1b485842447c
+    line_id: KR6d0001_T_005-0038a.45
+    textline: 及懈怠想
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

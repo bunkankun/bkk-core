@@ -1,0 +1,30 @@
+uuid: 6a5148b8-3454-47f8-8dba-da41af4eb84c
+type: word-relation
+group_uuid: 6a5148b8-3454-47f8-8dba-da41af4eb84c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 332574da-def8-4947-b4b6-56c3d7b96720
+  text: 棄
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8f4f1d4e-65bb-4704-a1c7-70839e515b45
+    textline: 棄德崇姦
+    offset: 1
+    range: 1
+right:
+  word_uuid: 03b83004-8a84-4bb0-939b-9acc9f4aceb7
+  text: 崇
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8f4f1d4e-65bb-4704-a1c7-70839e515b45
+    textline: 棄德崇姦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a7d0b68c-4f7f-41ef-90b6-8c4f7f61ef9c
+type: word-relation
+group_uuid: 2b080037-f650-597e-8be4-fb36269fb7dd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 84b97005-fa29-4396-b0c3-b345176c03c3
+  text: 氣
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_004-8a.69
+    textline: 氣息茀然
+    offset: 1
+    range: 1
+right:
+  word_uuid: b418f553-0b9e-4d66-a0fb-ccad71335dd5
+  text: 息
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_004-8a.69
+    textline: 氣息茀然
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T16:53:50.032+09:00'

@@ -1,0 +1,31 @@
+uuid: 490f519e-efe1-4638-bbfc-cd2cae6b2e29
+type: word-relation
+group_uuid: 490f519e-efe1-4638-bbfc-cd2cae6b2e29
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 55b98b3c-286c-4e53-8b49-ee53d25c0029
+  text: 本
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 管子
+    line_uuid: e4007c7a-43c9-4dff-9b1b-c5f254b1c588
+    textline: 修行則不以親為本
+    offset: 8
+    range: 1
+right:
+  word_uuid: 6222eb84-0f86-43f3-af7a-9dc2534f3cec
+  text: 主
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 管子
+    line_uuid: 7f9f393c-4c21-4fd8-b70c-49eb9607a1b4
+    line_id: KR3c0001_tls_005-66a.3
+    textline: 治事則不以官為主
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

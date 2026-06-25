@@ -1,0 +1,32 @@
+uuid: b4e96ff9-ac9a-4551-8ef7-545bfceb9820
+type: word-relation
+group_uuid: 454a48ee-44c7-4c59-89a1-069a5f38c60d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3a7be0ae-95ae-4728-8d6d-0034b7529798
+  text: 誓
+  concept: PUBLICISE
+  concept_uuid: e0e5decd-d012-4a63-bcc6-6d669fa2c85e
+  attestation:
+    text_title: 尚書
+    line_uuid: 74a6b88a-75c3-49a3-acb7-824670b9b368
+    line_id: KR1b0001_tls_007-2a.6
+    textline: 予誓告汝
+    offset: 2
+    range: 1
+right:
+  word_uuid: 609a6df8-42ca-49a0-9560-e3e586881e43
+  text: 告
+  concept: REPORT
+  concept_uuid: a0565ad5-b3d5-4bcf-97f7-90ae00999356
+  attestation:
+    text_title: 尚書
+    line_uuid: 74a6b88a-75c3-49a3-acb7-824670b9b368
+    line_id: KR1b0001_tls_007-2a.6
+    textline: 予誓告汝
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

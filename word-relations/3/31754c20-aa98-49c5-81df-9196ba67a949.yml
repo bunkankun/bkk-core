@@ -1,0 +1,30 @@
+uuid: 31754c20-aa98-49c5-81df-9196ba67a949
+type: word-relation
+group_uuid: 31754c20-aa98-49c5-81df-9196ba67a949
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 615dd0d2-ea76-40f6-b8a6-17f90cca7833
+  text: 瑕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 20360f6c-32a3-4367-b21b-fea53b964858
+    textline: 而瑕過隱塞
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6ec70f7e-2668-4a4a-b78d-c142f8ab7d4b
+  text: 過
+  concept: MISTAKE
+  concept_uuid: 0afde884-7a1d-43f1-9b2c-69fedf653c8c
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 20360f6c-32a3-4367-b21b-fea53b964858
+    textline: 而瑕過隱塞
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

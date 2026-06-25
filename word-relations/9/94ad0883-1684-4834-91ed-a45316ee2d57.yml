@@ -1,0 +1,21 @@
+uuid: 94ad0883-1684-4834-91ed-a45316ee2d57
+type: word-relation
+group_uuid: b2bbe32d-99e3-5ed6-b4fc-d552d91fb936
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9c3371fd-695f-44d8-9de4-96d0e883b18b
+  text: 傳
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+right:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

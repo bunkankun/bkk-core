@@ -1,0 +1,21 @@
+uuid: 69bb4203-91b9-41d5-9e34-4fe57c61b346
+type: word-relation
+group_uuid: 4291c657-cd4e-5a0f-91fb-91eb7345742f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f2e426bf-e92a-47ee-be19-005dcb0d2a55
+  text: 勤
+  concept: EFFORT
+  concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+right:
+  word_uuid: db9d8a83-cd0f-45de-8bd4-7bf87946ca5f
+  text: 苦
+  concept: EFFORT
+  concept_uuid: 42331f40-8d52-4267-8334-556540841f9e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

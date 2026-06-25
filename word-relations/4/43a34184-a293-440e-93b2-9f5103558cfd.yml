@@ -1,0 +1,32 @@
+uuid: 43a34184-a293-440e-93b2-9f5103558cfd
+type: word-relation
+group_uuid: 43a34184-a293-440e-93b2-9f5103558cfd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 103307d6-7964-435a-b4a4-258d10bb2888
+  text: 臥
+  concept: LIE DOWN
+  concept_uuid: 7eca4eb6-7f7e-49c0-93f0-b8d392f45e6a
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: f4529d41-8eb0-4d67-90fd-3e69dbe2e31e
+    line_id: KR3a0006_tls_004-2a.18
+    textline: 而中國恬臥者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 71212d48-f468-4ba7-a9d5-48d11840f774
+  text: 恬
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: f4529d41-8eb0-4d67-90fd-3e69dbe2e31e
+    line_id: KR3a0006_tls_004-2a.18
+    textline: 而中國恬臥者
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 45025cde-2a01-4396-8a37-a36714ec2f17
+type: word-relation
+group_uuid: 45025cde-2a01-4396-8a37-a36714ec2f17
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4a4f04f6-6585-4576-9d9b-14c28cd526ee
+  text: 喪
+  concept: MOURNING
+  concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+  attestation:
+    text_title: 論語
+    line_uuid: 60b3c826-fe1d-43b9-bd6d-186fde73a7f9
+    line_id: KR1h0004_tls_003-29a.5
+    textline: 臨喪不哀
+    offset: 2
+    range: 1
+right:
+  word_uuid: 25b76420-da62-44ce-ad7b-70e85917e6cd
+  text: 哀
+  concept: GRIEF
+  concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+  attestation:
+    text_title: 論語
+    line_uuid: 60b3c826-fe1d-43b9-bd6d-186fde73a7f9
+    line_id: KR1h0004_tls_003-29a.5
+    textline: 臨喪不哀
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

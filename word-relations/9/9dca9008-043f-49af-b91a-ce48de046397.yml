@@ -1,0 +1,18 @@
+uuid: 9dca9008-043f-49af-b91a-ce48de046397
+type: word-relation
+group_uuid: a0e897d5-80df-531c-9536-c3964417a12b
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+right:
+  word_uuid: 37ea60fc-d7a5-4b44-a9ea-2cbbdc23f8d8
+  text: 帥
+  concept: GENERAL
+  concept_uuid: 28015ba4-ad05-4a94-91a6-4772f7efd10a
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 43c343de-a999-44a7-86eb-936246d363d7
+type: word-relation
+group_uuid: 43c343de-a999-44a7-86eb-936246d363d7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0f177dec-b064-4ff8-85b3-10ecb11f95cb
+  text: 塵
+  concept: DUST
+  concept_uuid: 33c110e0-d2f6-41f0-be53-a74361ee3f69
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 525c52bc-d2f3-4a26-ae94-5f919f6db1cf
+    textline: 盥浣塵穢
+    offset: 3
+    range: 1
+right:
+  word_uuid: b26e25a7-b970-4725-9e77-e458e945466a
+  text: 穢
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: 525c52bc-d2f3-4a26-ae94-5f919f6db1cf
+    textline: 盥浣塵穢
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

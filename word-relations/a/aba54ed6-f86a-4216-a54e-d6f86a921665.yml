@@ -1,0 +1,32 @@
+uuid: aba54ed6-f86a-4216-a54e-d6f86a921665
+type: word-relation
+group_uuid: 40e616ad-1585-556a-a6d2-47ea680a47f7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 周易
+    line_id: KR1a0001_tls_065-1a.38
+    textline: 天下之理得
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 周易
+    line_id: KR1a0001_tls_065-1a.38
+    textline: 天下之理得
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-06T01:43:05.225+09:00'

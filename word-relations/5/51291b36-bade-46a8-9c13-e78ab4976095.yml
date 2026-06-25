@@ -1,0 +1,32 @@
+uuid: 51291b36-bade-46a8-9c13-e78ab4976095
+type: word-relation
+group_uuid: 51291b36-bade-46a8-9c13-e78ab4976095
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 4cf493d2-3825-48c7-a99c-e0018cae205e
+  text: 飢
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 孟子
+    line_uuid: 0026cf66-da52-4c12-87fc-d5d8b99ad9b7
+    line_id: KR1h0001_tls_001-18a.1
+    textline: 其使斯民飢而死也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 32114c6e-8aad-48ae-9277-9615a4fd7f6c
+  text: 死
+  concept: DIE
+  concept_uuid: 1d86462a-713f-475a-8fd0-b94d02bcb7ee
+  attestation:
+    text_title: 孟子
+    line_uuid: 0026cf66-da52-4c12-87fc-d5d8b99ad9b7
+    line_id: KR1h0001_tls_001-18a.1
+    textline: 其使斯民飢而死也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

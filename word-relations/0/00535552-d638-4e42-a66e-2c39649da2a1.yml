@@ -1,0 +1,31 @@
+uuid: 00535552-d638-4e42-a66e-2c39649da2a1
+type: word-relation
+group_uuid: 00535552-d638-4e42-a66e-2c39649da2a1
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a6be56cd-51ed-4410-8a54-8f469205af86
+  text: 溺
+  concept: URINATE
+  concept_uuid: 5f99fd10-1b29-4143-91af-d675b606fba7
+  attestation:
+    text_title: 莊子
+    line_uuid: bd6d8975-93a3-4fae-bcdd-c962c51d16d7
+    line_id: KR5c0126_tls_022-12a.1
+    textline: 在屎溺
+    range: 1
+right:
+  word_uuid: a394f723-a956-4a23-825d-49c83a5bcf84
+  text: 屎
+  concept: EXCREMENT
+  concept_uuid: ed12cb69-ffb9-4e99-ba16-f44c8369aa82
+  attestation:
+    text_title: 莊子
+    line_uuid: bd6d8975-93a3-4fae-bcdd-c962c51d16d7
+    line_id: KR5c0126_tls_022-12a.1
+    textline: 在屎溺
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

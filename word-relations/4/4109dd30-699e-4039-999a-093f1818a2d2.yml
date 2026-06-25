@@ -1,0 +1,32 @@
+uuid: 4109dd30-699e-4039-999a-093f1818a2d2
+type: word-relation
+group_uuid: 4109dd30-699e-4039-999a-093f1818a2d2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0f177dec-b064-4ff8-85b3-10ecb11f95cb
+  text: 塵
+  concept: DUST
+  concept_uuid: 33c110e0-d2f6-41f0-be53-a74361ee3f69
+  attestation:
+    text_title: 莊子
+    line_uuid: 57231e43-7540-4dd5-8476-36c125ad5bd6
+    line_id: KR5c0126_tls_001-2a.10
+    textline: 塵埃也
+    offset: 1
+    range: 1
+right:
+  word_uuid: ce831b63-3041-4f0e-95e4-210490d43ea2
+  text: 埃
+  concept: DUST
+  concept_uuid: 33c110e0-d2f6-41f0-be53-a74361ee3f69
+  attestation:
+    text_title: 莊子
+    line_uuid: 57231e43-7540-4dd5-8476-36c125ad5bd6
+    line_id: KR5c0126_tls_001-2a.10
+    textline: 塵埃也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

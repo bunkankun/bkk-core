@@ -1,0 +1,30 @@
+uuid: 844a4d34-64f2-426b-bc4a-4d131724270e
+type: word-relation
+group_uuid: 844a4d34-64f2-426b-bc4a-4d131724270e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6eff3384-609e-4bcd-a623-10136fec8177
+  text: 霸
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 孟子
+    line_uuid: 13ce2cf2-024a-4670-95b6-88743f032c65
+    textline: 雖由此霸王不異矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 17ba503e-bc73-431a-92f1-af87650318c9
+  text: 王
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 孟子
+    line_uuid: 13ce2cf2-024a-4670-95b6-88743f032c65
+    textline: 雖由此霸王不異矣
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

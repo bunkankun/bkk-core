@@ -1,0 +1,21 @@
+uuid: bc680bab-d571-4e6c-947a-5880eb49c573
+type: word-relation
+group_uuid: 98fefbd8-09b9-5717-a8e9-dc39bd1fcf4a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3a084cb8-d778-4c0c-a9f3-c6e705014cac
+  text: 惡
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+right:
+  word_uuid: 6a54f5ba-2159-406b-9762-1c935f75a95f
+  text: 過
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

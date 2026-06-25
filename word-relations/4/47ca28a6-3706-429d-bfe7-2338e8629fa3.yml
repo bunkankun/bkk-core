@@ -1,0 +1,32 @@
+uuid: 47ca28a6-3706-429d-bfe7-2338e8629fa3
+type: word-relation
+group_uuid: 47ca28a6-3706-429d-bfe7-2338e8629fa3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 7c9e276a-a33b-45af-8495-44fa9b60a141
+  text: 伏
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: bdefffc7-a7a8-4696-b37d-beee0f69c46d
+    line_id: KR1e0001_tls_009-553a.10
+    textline: 晝伏夜動
+    offset: 2
+    range: 1
+right:
+  word_uuid: fac68483-1c3d-4171-8bd2-51b738fb0bab
+  text: 動
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: bdefffc7-a7a8-4696-b37d-beee0f69c46d
+    line_id: KR1e0001_tls_009-553a.10
+    textline: 晝伏夜動
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

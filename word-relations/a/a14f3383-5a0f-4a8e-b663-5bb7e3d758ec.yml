@@ -1,0 +1,32 @@
+uuid: a14f3383-5a0f-4a8e-b663-5bb7e3d758ec
+type: word-relation
+group_uuid: a14f3383-5a0f-4a8e-b663-5bb7e3d758ec
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3d55a8f2-aadd-4499-83ab-7914fbc276ab
+  text: 鳳
+  concept: PHENIX
+  concept_uuid: e1ece3e9-9dad-4c59-9233-8ca3616ca2a8
+  attestation:
+    text_title: 淮南子
+    line_uuid: b16ddf6e-a46f-4f1e-8d2a-d9923322d926
+    line_id: KR3j0010_tls_001-1a.36
+    textline: 鳳以之翔
+    offset: 1
+    range: 1
+right:
+  word_uuid: 46852e00-aad8-4321-b62b-6b05719b69d1
+  text: 翔
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 淮南子
+    line_uuid: b16ddf6e-a46f-4f1e-8d2a-d9923322d926
+    line_id: KR3j0010_tls_001-1a.36
+    textline: 鳳以之翔
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

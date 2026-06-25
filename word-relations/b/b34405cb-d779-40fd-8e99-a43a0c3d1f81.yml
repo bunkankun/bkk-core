@@ -1,0 +1,32 @@
+uuid: b34405cb-d779-40fd-8e99-a43a0c3d1f81
+type: word-relation
+group_uuid: b34405cb-d779-40fd-8e99-a43a0c3d1f81
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ac77b0f5-c9ba-4c54-ba70-ac47499005a0
+  text: 審
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 論衡
+    line_uuid: b721d230-6097-4d5e-9885-58ebea4837b3
+    line_id: KR3j0080_tls_002-8a.40
+    textline: 審己也
+    offset: 1
+    range: 1
+right:
+  word_uuid: cfd2fc4f-824d-4498-8c9b-50036105763f
+  text: 己
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 論衡
+    line_uuid: b721d230-6097-4d5e-9885-58ebea4837b3
+    line_id: KR3j0080_tls_002-8a.40
+    textline: 審己也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

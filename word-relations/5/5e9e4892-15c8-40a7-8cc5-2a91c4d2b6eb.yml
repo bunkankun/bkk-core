@@ -1,0 +1,32 @@
+uuid: 5e9e4892-15c8-40a7-8cc5-2a91c4d2b6eb
+type: word-relation
+group_uuid: 2e8f3388-2a19-44a3-acfb-4072e804dff4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 老子
+    line_uuid: 76244f90-8d32-452a-9919-9454c85222db
+    line_id: KR5c0057_tls_052-1a.17
+    textline: 守柔曰強
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4ff8ae36-f0b6-490e-8149-8f3dedceaea8
+  text: 柔
+  concept: SOFT
+  concept_uuid: 4ec4c8fc-fbdb-4955-8e9c-798bec4ab624
+  attestation:
+    text_title: 老子
+    line_uuid: 76244f90-8d32-452a-9919-9454c85222db
+    line_id: KR5c0057_tls_052-1a.17
+    textline: 守柔曰強
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

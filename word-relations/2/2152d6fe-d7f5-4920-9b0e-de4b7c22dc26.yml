@@ -1,0 +1,32 @@
+uuid: 2152d6fe-d7f5-4920-9b0e-de4b7c22dc26
+type: word-relation
+group_uuid: 3bfdaefd-3ce6-4094-9f69-d35bbfa9f157
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 29d2fba8-e229-4eb3-bed0-c06e2af41540
+    line_id: KR3c0005_tls_015-19a.5
+    textline: 殺戮不辜者
+    offset: 1
+    range: 1
+right:
+  word_uuid: afa2998f-b866-40bd-b0e6-ba16d63bda6a
+  text: 戮
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 29d2fba8-e229-4eb3-bed0-c06e2af41540
+    line_id: KR3c0005_tls_015-19a.5
+    textline: 殺戮不辜者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

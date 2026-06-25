@@ -1,0 +1,30 @@
+uuid: ce83f3cf-31dc-4a6d-93c9-908b3c541500
+type: word-relation
+group_uuid: ce83f3cf-31dc-4a6d-93c9-908b3c541500
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8b79c2d-df37-4677-b27b-bea0f4c6f52f
+  text: 勇
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+  attestation:
+    text_title: 睡虎地
+    line_uuid: a09181e2-15f6-48c2-bafc-8c0af6c37f05
+    textline: 勇能屈
+    offset: 1
+    range: 1
+right:
+  word_uuid: 18255cc6-a5fd-402d-92f3-e86fd862a2da
+  text: 屈
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 睡虎地
+    line_uuid: a09181e2-15f6-48c2-bafc-8c0af6c37f05
+    textline: 勇能屈
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

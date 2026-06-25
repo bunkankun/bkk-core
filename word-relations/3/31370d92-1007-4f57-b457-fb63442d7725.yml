@@ -1,0 +1,32 @@
+uuid: 31370d92-1007-4f57-b457-fb63442d7725
+type: word-relation
+group_uuid: 31370d92-1007-4f57-b457-fb63442d7725
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 75ff850c-dbed-49bb-b8d4-0f6bfe1680bf
+  text: 邈
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 史記
+    line_uuid: 6cce5a1b-4957-4c10-a593-6f81d1043c60
+    line_id: KR2a0001_tls_012-626a.24
+    textline: 「三代邈絕
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0a3dccb8-627a-4f4d-acce-92b739b5e83f
+  text: 絕
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+  attestation:
+    text_title: 史記
+    line_uuid: 6cce5a1b-4957-4c10-a593-6f81d1043c60
+    line_id: KR2a0001_tls_012-626a.24
+    textline: 「三代邈絕
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

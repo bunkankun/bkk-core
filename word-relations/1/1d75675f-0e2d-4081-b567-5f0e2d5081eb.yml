@@ -1,0 +1,32 @@
+uuid: 1d75675f-0e2d-4081-b567-5f0e2d5081eb
+type: word-relation
+group_uuid: 71bcba67-9959-54a4-850b-d79ce090fcdc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7905be86-427d-4e09-8070-264ba67c63c1
+  text: 幼
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-6a.13
+    textline: 成王幼少
+    offset: 3
+    range: 1
+right:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-6a.13
+    textline: 成王幼少
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T19:08:39.872+09:00'

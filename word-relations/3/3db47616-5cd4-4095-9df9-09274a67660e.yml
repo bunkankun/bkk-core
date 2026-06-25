@@ -1,0 +1,29 @@
+uuid: 3db47616-5cd4-4095-9df9-09274a67660e
+type: word-relation
+group_uuid: 3db47616-5cd4-4095-9df9-09274a67660e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5baab9b8-863c-4031-b011-41cd1f7f6380
+  text: 闕
+  concept: TOWER
+  concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+  attestation:
+    text_title: 盧照鄰
+    line_uuid: 3773a01f-f12f-4d2e-a483-306686e3fa8a
+    textline: 高闕銀為闕
+    range: 1
+right:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 盧照鄰
+    line_uuid: 3773a01f-f12f-4d2e-a483-306686e3fa8a
+    textline: 高闕銀為闕
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

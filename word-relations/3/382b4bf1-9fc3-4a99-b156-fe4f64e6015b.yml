@@ -1,0 +1,21 @@
+uuid: 382b4bf1-9fc3-4a99-b156-fe4f64e6015b
+type: word-relation
+group_uuid: ef5839d1-e03a-5c9f-9cb9-e12b3e803b59
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 1a283762-dee4-4a19-b157-f7c33fa44b8c
+  text: 寘
+  concept: PUT
+  concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+right:
+  word_uuid: 120436a6-4c8e-46cb-b8b1-bf75d9bd132e
+  text: 捨舍
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

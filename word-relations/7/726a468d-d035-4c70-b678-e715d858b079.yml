@@ -1,0 +1,32 @@
+uuid: 726a468d-d035-4c70-b678-e715d858b079
+type: word-relation
+group_uuid: 726a468d-d035-4c70-b678-e715d858b079
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 25b76420-da62-44ce-ad7b-70e85917e6cd
+  text: 哀
+  concept: GRIEF
+  concept_uuid: 5e4d38bc-091c-4464-a5fb-5f44f7f62df0
+  attestation:
+    text_title: 論語
+    line_uuid: 07038470-e6ec-41cd-b515-a0543fe71863
+    line_id: KR1h0004_tls_003-22a.1
+    textline: 哀而不傷
+    offset: 1
+    range: 1
+right:
+  word_uuid: 11ee4cd4-a138-4c65-8294-1a81daf1f483
+  text: 傷
+  concept: DISTRESS
+  concept_uuid: 3f421246-b7ee-4295-9e78-7e1c5a583ab5
+  attestation:
+    text_title: 論語
+    line_uuid: 07038470-e6ec-41cd-b515-a0543fe71863
+    line_id: KR1h0004_tls_003-22a.1
+    textline: 哀而不傷
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 35b20e49-207f-4391-9fc3-ff8abb145c06
+type: word-relation
+group_uuid: 294430de-8511-5015-89a0-6e0dd0fd81e3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5e851a68-7bb7-461c-8bd2-05ce55e52136
+  text: 通
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+right:
+  word_uuid: 29dc08a0-3572-4f6b-9549-712677609029
+  text: 暗闇
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

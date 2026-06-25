@@ -1,0 +1,32 @@
+uuid: ee53da24-1df0-4301-81a7-484fb1075b2e
+type: word-relation
+group_uuid: 104a15ca-493a-4f01-b232-12d94b108fac
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fd308f63-3774-4211-911b-b94b8a36e649
+  text: 予
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: be7245a9-1321-4aa9-adc1-2afefce6b960
+    line_id: KR1b0001_tls_010-2a.28
+    textline: 爾尚輔予一人
+    offset: 4
+    range: 1
+right:
+  word_uuid: b4a9bbab-c224-4ed0-944e-0b052f85b64a
+  text: 朕
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 尚書
+    line_uuid: 0aa625f2-44d9-47b4-935f-97610dafca42
+    line_id: KR1b0001_tls_010-2a.32
+    textline: 朕不食言
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

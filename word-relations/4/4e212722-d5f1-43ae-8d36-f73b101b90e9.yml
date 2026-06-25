@@ -1,0 +1,32 @@
+uuid: 4e212722-d5f1-43ae-8d36-f73b101b90e9
+type: word-relation
+group_uuid: a5a5b3d8-dcfa-4020-82fd-8c8592d6c6c5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 72550bd6-202a-492c-abe9-daa7e7ed2741
+  text: 兕
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 韓非子
+    line_uuid: d435a708-721e-46c9-8b39-ab58e42f62b4
+    line_id: KR3c0005_tls_020-128a.2
+    textline: 兕虎有域
+    offset: 1
+    range: 1
+right:
+  word_uuid: b1a62539-2f69-4862-91ca-6f70cf157f2d
+  text: 虎
+  concept: TIGER
+  concept_uuid: ab2882c3-b19a-4c96-a878-853f5c64461f
+  attestation:
+    text_title: 韓非子
+    line_uuid: d435a708-721e-46c9-8b39-ab58e42f62b4
+    line_id: KR3c0005_tls_020-128a.2
+    textline: 兕虎有域
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

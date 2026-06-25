@@ -1,0 +1,32 @@
+uuid: 782ce1f2-c452-431d-ad5e-5eaf58d7a8ad
+type: word-relation
+group_uuid: 782ce1f2-c452-431d-ad5e-5eaf58d7a8ad
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0fd1b7f-b0a6-4967-a0e0-8d2d50d2db74
+  text: 聲
+  concept: SOUND
+  concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+  attestation:
+    text_title: 荀子
+    line_uuid: ef57dd15-0de1-4402-8614-b4dd74b90955
+    line_id: KR3a0002_tls_023-1a.15
+    textline: 有好聲色焉
+    offset: 3
+    range: 1
+right:
+  word_uuid: a4ce10eb-dd81-4f5d-bb0e-b026ae95513f
+  text: 色
+  concept: COLOUR
+  concept_uuid: dd43aa0b-c0f6-450f-8fb9-d2c5dae7673d
+  attestation:
+    text_title: 荀子
+    line_uuid: ef57dd15-0de1-4402-8614-b4dd74b90955
+    line_id: KR3a0002_tls_023-1a.15
+    textline: 有好聲色焉
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

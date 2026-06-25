@@ -1,0 +1,32 @@
+uuid: 342b616a-682f-4cc7-b0a4-6217cad8fc5e
+type: word-relation
+group_uuid: e58108cb-5922-4d04-b848-42b6ff916bad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 莊子
+    line_uuid: 8412cb41-9a20-4e30-81f1-409bd06ca842
+    line_id: KR5c0126_tls_029-9a.30
+    textline: 上无以為身
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 莊子
+    line_uuid: cb2617b1-2a3d-48ae-8344-a9e98e947180
+    line_id: KR5c0126_tls_029-9a.31
+    textline: 下无以為人
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

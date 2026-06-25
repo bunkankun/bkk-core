@@ -1,0 +1,32 @@
+uuid: ea54276f-0ad6-4b16-be60-9036f480bba7
+type: word-relation
+group_uuid: 2bd1ecb0-5945-428b-a29d-6721fdb6afe3
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c022373f-9043-4faa-bd84-5eb6efa686a2
+  text: 讎
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 80e8bc08-77f7-4b01-9c78-46b723e2f25e
+    line_id: KR3c0005_tls_015-25a.6
+    textline: 以攻怨讎
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 80e8bc08-77f7-4b01-9c78-46b723e2f25e
+    line_id: KR3c0005_tls_015-25a.6
+    textline: 以攻怨讎
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

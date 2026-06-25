@@ -1,0 +1,32 @@
+uuid: 601b46c3-04b0-4bb0-a049-a80c1d51edd9
+type: word-relation
+group_uuid: 601b46c3-04b0-4bb0-a049-a80c1d51edd9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1caf68fe-cbac-4099-b4de-97665ca258e4
+  text: 事
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 656db393-130c-4cc2-8904-d634797c3622
+    line_id: KR3c0005_tls_002-18a.7
+    textline: 因不詳察事情
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0fd05186-ae2e-4d67-8676-7921420d39bb
+  text: 情
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 656db393-130c-4cc2-8904-d634797c3622
+    line_id: KR3c0005_tls_002-18a.7
+    textline: 因不詳察事情
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 893de5ac-57c6-403a-a434-73730a305f88
+type: word-relation
+group_uuid: 445e8fdc-df37-5b2f-ae45-3d0921caf85c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 89a70475-b5d1-4b61-b306-36ffba25fafa
+  text: 隱
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+right:
+  word_uuid: b8de84a9-cc71-4e05-a4ab-b0f0ee361b83
+  text: 蔽
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

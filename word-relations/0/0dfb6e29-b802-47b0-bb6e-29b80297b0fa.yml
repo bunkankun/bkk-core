@@ -1,0 +1,32 @@
+uuid: 0dfb6e29-b802-47b0-bb6e-29b80297b0fa
+type: word-relation
+group_uuid: d3d2ce64-5580-571b-a76c-6a546dc7eb47
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 墨子
+    line_id: CH1a0938_CHANT_002-3a.12
+    textline: 博乎道術者乎
+    offset: 3
+    range: 2
+right:
+  word_uuid: 1f8c51f8-b94d-4be8-97f5-5588eddeb130
+  text: 博
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 墨子
+    line_id: CH1a0938_CHANT_002-3a.12
+    textline: 博乎道術者乎
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T19:29:19.572+09:00'

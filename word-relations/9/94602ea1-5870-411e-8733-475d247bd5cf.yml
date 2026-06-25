@@ -1,0 +1,32 @@
+uuid: 94602ea1-5870-411e-8733-475d247bd5cf
+type: word-relation
+group_uuid: 94602ea1-5870-411e-8733-475d247bd5cf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 709a2b7a-52b1-4669-b0b0-8fe35db39c91
+  text: 還
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 文子
+    line_uuid: acf5ed8c-3a1a-4e17-a826-a84a6d589240
+    line_id: KR5c0118_tls_001-1a.52
+    textline: 還復於樸
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8645ba9d-7ef4-4244-8809-ac6d11681de6
+  text: 復
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 文子
+    line_uuid: acf5ed8c-3a1a-4e17-a826-a84a6d589240
+    line_id: KR5c0118_tls_001-1a.52
+    textline: 還復於樸
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: b0a3bd51-c612-4295-b23a-d4831ccdf253
+type: word-relation
+group_uuid: b0a3bd51-c612-4295-b23a-d4831ccdf253
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0182f188-4809-4fc9-9e6d-087d18e65cdc
+  text: 齒
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f5d47409-9e5b-4e1f-8cf3-dbd6fb20815e
+    line_id: KR3j0009_tls_001-14a.14
+    textline: 靡曼皓齒
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3a998286-2551-4b6e-ab50-43002eaf9545
+  text: 皓
+  concept: WHITE
+  concept_uuid: 98e9c5fd-7b72-4718-8205-2d7eda251c25
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f5d47409-9e5b-4e1f-8cf3-dbd6fb20815e
+    line_id: KR3j0009_tls_001-14a.14
+    textline: 靡曼皓齒
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

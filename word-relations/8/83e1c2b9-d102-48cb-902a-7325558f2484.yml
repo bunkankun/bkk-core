@@ -1,0 +1,32 @@
+uuid: 83e1c2b9-d102-48cb-902a-7325558f2484
+type: word-relation
+group_uuid: 83e1c2b9-d102-48cb-902a-7325558f2484
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e5ce617b-cbf2-4742-98a5-325f052baa88
+  text: 米
+  concept: RICE
+  concept_uuid: 06e4ca50-1b08-43b4-be40-f18d0a447520
+  attestation:
+    text_title: 孟子
+    line_uuid: 72dd6b6f-9367-4dfd-ad89-b2ec933b8e61
+    line_id: KR1h0001_tls_004-1a.16
+    textline: 米粟非不多也
+    offset: 1
+    range: 1
+right:
+  word_uuid: a6aa0291-8803-400a-ba89-62acab00c2b5
+  text: 粟
+  concept: MILLET
+  concept_uuid: 9f4be71d-0522-4b3d-a2ab-2ed4255a2f9d
+  attestation:
+    text_title: 孟子
+    line_uuid: 72dd6b6f-9367-4dfd-ad89-b2ec933b8e61
+    line_id: KR1h0001_tls_004-1a.16
+    textline: 米粟非不多也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 394d8f0f-7079-4617-b332-26a902c419de
+type: word-relation
+group_uuid: 394d8f0f-7079-4617-b332-26a902c419de
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4946969a-c740-4171-bcb4-b3cf5015c2fa
+  text: 匿
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4bbc4155-166e-4139-af92-db69ed3983a3
+    line_id: KR3c0005_tls_008-33a.8
+    textline: 下匿其私
+    offset: 2
+    range: 1
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4bbc4155-166e-4139-af92-db69ed3983a3
+    line_id: KR3c0005_tls_008-33a.8
+    textline: 下匿其私
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

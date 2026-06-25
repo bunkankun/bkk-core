@@ -1,0 +1,32 @@
+uuid: 0ca36ce7-d3f3-43bd-bc38-a30c49b75b60
+type: word-relation
+group_uuid: 1421ecb8-5b69-4644-a259-cb3597ab5ec8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5a9ad312-3b67-41c4-8200-efd309275fb1
+  text: 山
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 39d1b7a9-b2ab-4cc8-82f2-76e7b8efd200
+    line_id: KR3j0009_tls_005-6a.6
+    textline: 可以登山陵
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3e4634cc-8499-4e0a-a736-477f113d06e6
+  text: 陵
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 39d1b7a9-b2ab-4cc8-82f2-76e7b8efd200
+    line_id: KR3j0009_tls_005-6a.6
+    textline: 可以登山陵
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

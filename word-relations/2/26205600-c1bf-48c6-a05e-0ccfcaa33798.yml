@@ -1,0 +1,34 @@
+uuid: 26205600-c1bf-48c6-a05e-0ccfcaa33798
+type: word-relation
+group_uuid: 26205600-c1bf-48c6-a05e-0ccfcaa33798
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: d37706b5-0192-4647-b6ac-db35ee9d83cd
+  text: 比
+  concept: RESEMBLE
+  concept_uuid: 031779e4-5e29-4947-9e9f-b5edc803c7be
+  attestation:
+    text_title: 論衡
+    line_uuid: b2bed024-6a4e-42b5-8a63-3d406bd07d9e
+    line_id: KR3j0080_tls_037-13a.23
+    textline: 則比蕭何於獵人
+    offset: 2
+    range: 1
+right:
+  word_uuid: cf3ddfaf-3538-4816-b5c9-213dc178b1e4
+  text: 同
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 論衡
+    line_uuid: cafd7623-646b-49ac-a8b8-e6ee2b703d62
+    textline: 同樊酈於獵犬也
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 2259aba6-68db-4311-99ab-a668db1311c6
+type: word-relation
+group_uuid: 579444b7-e3e0-58f0-8941-4d1b0153f199
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 99b90363-4722-4ea8-84c5-59427a69a5bd
+  text: 為
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-34a.42
+    textline: 非仁無為也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_008-34a.43
+    textline: 非禮無行也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-04-15T13:42:01.392+09:00'

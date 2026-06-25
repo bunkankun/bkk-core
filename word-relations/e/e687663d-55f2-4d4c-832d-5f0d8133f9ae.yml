@@ -1,0 +1,31 @@
+uuid: e687663d-55f2-4d4c-832d-5f0d8133f9ae
+type: word-relation
+group_uuid: e687663d-55f2-4d4c-832d-5f0d8133f9ae
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2eb5f4ca-2441-4019-ab9b-29cfe71dd606
+  text: 吞
+  concept: SWALLOW
+  concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+  attestation:
+    text_title: 論衡
+    line_uuid: b9ffb668-1ddf-415a-852d-cdb18d373ea4
+    line_id: KR3j0080_tls_015-5a.15
+    textline: 禹母吞薏苡
+    offset: 3
+    range: 1
+right:
+  word_uuid: bdeb08a3-b8b6-479e-9cb7-97f3aef738df
+  text: 咽
+  concept: SWALLOW
+  concept_uuid: 136a1d1c-bcbc-4fe0-bbf6-a3b35728a371
+  attestation:
+    text_title: 論衡
+    line_uuid: 95c7daba-01f6-40a5-a00d-1bcf6697c55d
+    textline: 契母咽燕卵
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

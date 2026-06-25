@@ -1,0 +1,21 @@
+uuid: 86c15794-492a-46e2-a39c-ac12245098fb
+type: word-relation
+group_uuid: d7eacd08-a6b7-59d5-a87a-49c52662b116
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3293f952-a73b-4ea3-848d-d4acb786a9a0
+  text: 病
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+right:
+  word_uuid: 5b9643b8-d143-4c17-be6c-930cba76131b
+  text: 傷
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

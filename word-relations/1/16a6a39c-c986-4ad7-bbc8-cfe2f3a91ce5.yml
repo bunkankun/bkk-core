@@ -1,0 +1,32 @@
+uuid: 16a6a39c-c986-4ad7-bbc8-cfe2f3a91ce5
+type: word-relation
+group_uuid: 16a6a39c-c986-4ad7-bbc8-cfe2f3a91ce5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5d7fa136-01d7-4340-bd27-153c72d02e6a
+  text: 技
+  concept: CRAFT
+  concept_uuid: d3cbb229-6196-444e-b9bf-4ad1932f6dd4
+  attestation:
+    text_title: 管子
+    line_uuid: c41e17cd-aa87-4943-9bc0-4f8a60824790
+    line_id: KR3c0001_tls_015-39a.3
+    textline: 奇術技藝之人
+    offset: 3
+    range: 1
+right:
+  word_uuid: 57f7d7b2-f2a9-4c73-83ea-40104cdd6d0b
+  text: 藝
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 管子
+    line_uuid: c41e17cd-aa87-4943-9bc0-4f8a60824790
+    line_id: KR3c0001_tls_015-39a.3
+    textline: 奇術技藝之人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

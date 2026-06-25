@@ -1,0 +1,32 @@
+uuid: 11e8cfae-ce16-43a9-8509-958de515cf40
+type: word-relation
+group_uuid: 11e8cfae-ce16-43a9-8509-958de515cf40
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cf71f1bb-cd65-43b0-a222-be7690d95474
+  text: 子
+  concept: BOY
+  concept_uuid: 2a6b7eca-e5b8-4ed3-88fe-7b492c127b97
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 3858f54a-250f-4317-92f8-463c8cb3718e
+    line_id: KR1e0008_tls_005-248a.14
+    textline: 亂人子女之教
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0d5d9640-e656-493f-8c74-e1d3be8012c4
+  text: 女
+  concept: GIRL
+  concept_uuid: e90baee3-dd79-4f70-9764-9d79d55bc244
+  attestation:
+    text_title: 春秋穀梁傳
+    line_uuid: 3858f54a-250f-4317-92f8-463c8cb3718e
+    line_id: KR1e0008_tls_005-248a.14
+    textline: 亂人子女之教
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

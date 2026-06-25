@@ -1,0 +1,32 @@
+uuid: ed9734f5-e209-475f-b00c-0b1feb14d3c7
+type: word-relation
+group_uuid: ed9734f5-e209-475f-b00c-0b1feb14d3c7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e2abec89-2584-419f-aa53-c970ab1df64d
+  text: 布
+  concept: ISSUE
+  concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1e6b4a0b-98e7-462c-b707-cde98c119ce2
+    line_id: KR3j0009_tls_003-4a.8
+    textline: 天子布德行惠
+    offset: 3
+    range: 1
+right:
+  word_uuid: 5b5da254-0a51-4e64-9a24-b429ca6c3087
+  text: 德
+  concept: GENEROUS
+  concept_uuid: b4700a09-fdca-4ff2-93cc-1c0726d4897d
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 1e6b4a0b-98e7-462c-b707-cde98c119ce2
+    line_id: KR3j0009_tls_003-4a.8
+    textline: 天子布德行惠
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

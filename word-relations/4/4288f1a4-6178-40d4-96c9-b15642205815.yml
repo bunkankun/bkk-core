@@ -1,0 +1,30 @@
+uuid: 4288f1a4-6178-40d4-96c9-b15642205815
+type: word-relation
+group_uuid: 4288f1a4-6178-40d4-96c9-b15642205815
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: fe9c654d-ad83-4fc8-9717-e6be073523d9
+  text: 惰
+  concept: LAZY
+  concept_uuid: bd429ab3-170f-470a-a8f2-289a09cf0944
+  attestation:
+    text_title: 睡虎地
+    line_uuid: b38703a2-2141-48dc-a80f-b4cdc15aee83
+    textline: 四曰善言惰行
+    offset: 5
+    range: 1
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 睡虎地
+    line_uuid: b38703a2-2141-48dc-a80f-b4cdc15aee83
+    textline: 四曰善言惰行
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

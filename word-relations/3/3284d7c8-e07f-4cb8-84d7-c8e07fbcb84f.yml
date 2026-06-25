@@ -1,0 +1,32 @@
+uuid: 3284d7c8-e07f-4cb8-84d7-c8e07fbcb84f
+type: word-relation
+group_uuid: 3a0a8a61-c2b1-5923-9698-5ed339635498
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_004-43a.8
+    textline: 心鞿羈而不形兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 84b97005-fa29-4396-b0c3-b345176c03c3
+  text: 氣
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_004-43a.9
+    textline: 氣繚轉而自締
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T21:45:33.955+09:00'

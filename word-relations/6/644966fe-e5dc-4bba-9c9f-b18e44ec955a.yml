@@ -1,0 +1,32 @@
+uuid: 644966fe-e5dc-4bba-9c9f-b18e44ec955a
+type: word-relation
+group_uuid: 644966fe-e5dc-4bba-9c9f-b18e44ec955a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7ac79010-8a35-483d-b416-b75f55a4ae51
+  text: 追
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7ec86be6-0c9c-4489-b757-241beb9fd360
+    line_id: KR1e0001_tls_005-416a.18
+    textline: 楚令尹子玉追秦師
+    offset: 6
+    range: 1
+right:
+  word_uuid: 44f3c8d8-3d17-494a-ac7b-8bcdab59691f
+  text: 及
+  concept: CATCH UP
+  concept_uuid: 333c0f68-fc44-4b75-86aa-60163e40d917
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: d51b0eba-7b77-44dd-a021-d3ff228d018a
+    line_id: KR1e0001_tls_001-201a.6
+    textline: 弗及
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

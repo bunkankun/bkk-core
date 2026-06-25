@@ -1,0 +1,32 @@
+uuid: cb419645-e7e9-4e0c-9d00-be54b6be2577
+type: word-relation
+group_uuid: cb419645-e7e9-4e0c-9d00-be54b6be2577
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4c59e6a0-0038-4178-8ed2-7e84a9149139
+  text: 決
+  concept: DISTINGUISH
+  concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 13520659-9d7e-4848-9376-97303f699978
+    line_id: KR3c0005_tls_020-47a.2
+    textline: 目不能決黑白之色
+    offset: 4
+    range: 1
+right:
+  word_uuid: ba973757-fdb8-4daa-a3b6-7a67f12df2b0
+  text: 別
+  concept: DISTINGUISH
+  concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2778314-5c47-4438-a29a-05bf7958798e
+    line_id: KR3c0005_tls_020-47a.4
+    textline: 耳不能別清濁之聲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

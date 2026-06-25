@@ -1,0 +1,32 @@
+uuid: 0414c1a0-8624-47d8-8bde-c4a2dddf74b3
+type: word-relation
+group_uuid: 0414c1a0-8624-47d8-8bde-c4a2dddf74b3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 554ff26e-0b7b-42a6-99e9-fb5b012d1d9c
+  text: 大
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 69a018f1-7123-4e02-96b3-2d672f2c6105
+    line_id: KR3c0005_tls_012-12a.2
+    textline: 故與之論大人
+    offset: 5
+    range: 1
+right:
+  word_uuid: 26a5163e-3f40-4502-ad0d-a5bb9e999982
+  text: 細
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 11ca4a32-a41a-4752-9d4a-e43eeb9a2a15
+    line_id: KR3c0005_tls_012-12a.4
+    textline: 與之論細人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

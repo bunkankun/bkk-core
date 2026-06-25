@@ -1,0 +1,32 @@
+uuid: 54fd580e-bddf-4d93-8b4f-ca8e7a9fe200
+type: word-relation
+group_uuid: 54fd580e-bddf-4d93-8b4f-ca8e7a9fe200
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 孟子
+    line_uuid: 18373acc-91a8-4f5b-94cf-4517c8df192e
+    line_id: KR1h0001_tls_002-63a.12
+    textline: 若夫成功
+    offset: 3
+    range: 1
+right:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 孟子
+    line_uuid: 18373acc-91a8-4f5b-94cf-4517c8df192e
+    line_id: KR1h0001_tls_002-63a.12
+    textline: 若夫成功
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

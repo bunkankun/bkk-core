@@ -1,0 +1,32 @@
+uuid: 2c7df418-1a8b-4ff0-b0ee-8ab7f3950da3
+type: word-relation
+group_uuid: 2c7df418-1a8b-4ff0-b0ee-8ab7f3950da3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 01d972be-07fc-4bc6-b24d-92fe082034af
+  text: 耆
+  concept: OLD MAN
+  concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+  attestation:
+    text_title: 孟子
+    line_uuid: e7ac4932-276b-4069-8018-6b8a455ac42f
+    line_id: KR1h0001_tls_002-65a.11
+    textline: 乃屬其耆老而告之曰
+    offset: 4
+    range: 1
+right:
+  word_uuid: a37fcb41-c04a-4b93-ab45-6df1f6c5dcba
+  text: 老
+  concept: OLD MAN
+  concept_uuid: c75a2593-054a-4caa-aace-c7e852307831
+  attestation:
+    text_title: 孟子
+    line_uuid: e7ac4932-276b-4069-8018-6b8a455ac42f
+    line_id: KR1h0001_tls_002-65a.11
+    textline: 乃屬其耆老而告之曰
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

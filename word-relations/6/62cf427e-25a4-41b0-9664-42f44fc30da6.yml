@@ -1,0 +1,32 @@
+uuid: 62cf427e-25a4-41b0-9664-42f44fc30da6
+type: word-relation
+group_uuid: 62cf427e-25a4-41b0-9664-42f44fc30da6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c1d7c6a1-0c72-48ad-9a94-a499efeea296
+  text: 悁
+  concept: DISSATISFIED
+  concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 23898787-4037-4b5b-848d-3bf75f715edb
+    line_id: KR3c0005_tls_015-24a.4
+    textline: 心悁忿而不訾前後者
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8ad7111f-9988-443d-bf27-f204d7ca344b
+  text: 忿
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 韓非子
+    line_uuid: 23898787-4037-4b5b-848d-3bf75f715edb
+    line_id: KR3c0005_tls_015-24a.4
+    textline: 心悁忿而不訾前後者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

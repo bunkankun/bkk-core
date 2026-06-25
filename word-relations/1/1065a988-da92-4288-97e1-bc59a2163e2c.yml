@@ -1,0 +1,32 @@
+uuid: 1065a988-da92-4288-97e1-bc59a2163e2c
+type: word-relation
+group_uuid: 1065a988-da92-4288-97e1-bc59a2163e2c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: b97645e3-02dd-4ed7-ae8e-da285b8ab821
+  text: 色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 孟子
+    line_uuid: 239b7ee6-62ee-411a-9214-96c7a2a0d468
+    line_id: KR1h0001_tls_002-12a.5
+    textline: 舉欣欣然有喜色而相告曰
+    offset: 7
+    range: 1
+right:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 孟子
+    line_uuid: 239b7ee6-62ee-411a-9214-96c7a2a0d468
+    line_id: KR1h0001_tls_002-12a.5
+    textline: 舉欣欣然有喜色而相告曰
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

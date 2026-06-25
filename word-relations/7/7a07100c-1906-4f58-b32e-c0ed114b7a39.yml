@@ -1,0 +1,35 @@
+uuid: 7a07100c-1906-4f58-b32e-c0ed114b7a39
+type: word-relation
+group_uuid: 7a07100c-1906-4f58-b32e-c0ed114b7a39
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 16a7d184-29aa-43cf-9202-b1d7b503be0b
+  text: 睹
+  concept: SEE
+  concept_uuid: 9e93e685-9ba1-4641-8574-5dbec4b244cd
+  attestation:
+    text_title: 論衡
+    line_uuid: 9e12a033-90e8-4ff5-a6b3-c13168599ae0
+    line_id: KR3j0080_tls_038-14a.12
+    textline: 董仲舒睹重常之鳥
+    offset: 4
+    range: 1
+right:
+  word_uuid: 98707de9-23e9-4e80-9356-3a6f57d21ec3
+  text: 曉
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 論衡
+    line_uuid: a0c35b1f-ab10-4e07-9f27-e51c38a17d05
+    line_id: KR3j0080_tls_038-14a.13
+    textline: 劉子政曉貳負之尸
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: b00b11d7-210a-478f-9986-b2d92e123ae8
+type: word-relation
+group_uuid: b00b11d7-210a-478f-9986-b2d92e123ae8
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 408a2d76-2c68-4101-8e48-88cc12f6c6b3
+  text: 聚落
+  concept: VILLAGE
+  concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+  attestation:
+    text_title: 百喻經
+    line_uuid: a1378c43-82d9-48ce-b3d2-0df7809ed7ca
+    line_id: KR6b0066_T_002-0548a.54
+    textline: 昔有一聚落
+    offset: 4
+    range: 2
+right:
+  word_uuid: 661da664-4fae-472e-be5b-df7781cfac27
+  text: 村
+  concept: VILLAGE
+  concept_uuid: d00e5efd-6c89-45a1-adad-cbc53b11aa70
+  attestation:
+    text_title: 百喻經
+    line_uuid: d8c5a313-6e16-4f08-a95d-24062fa1d314
+    textline: 王勅村人常使日日送其美水
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

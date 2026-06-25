@@ -1,0 +1,18 @@
+uuid: 721db73d-221c-465e-b485-1622c6a334f2
+type: word-relation
+group_uuid: 4917844e-6e54-565b-80be-2fe3697743ea
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3e9e7cca-934f-4d6a-adfb-3a34632ec096
+  text: 主人
+  concept: CITIZEN
+  concept_uuid: 6c360266-1a79-4f76-9a18-003b8220bb6a
+right:
+  word_uuid: cef86b85-7c93-4b91-80cb-82fb2c3c0358
+  text: 客人
+  concept: FOREIGNER
+  concept_uuid: b395c4c7-2b4a-4ea7-b418-05b315260940
+source:
+  source_file: word-relations.xml

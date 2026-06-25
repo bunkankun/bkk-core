@@ -1,0 +1,21 @@
+uuid: 2e859b4c-d795-487b-af4a-15d8decd66d6
+type: word-relation
+group_uuid: 4f1f5f3c-573d-586f-a0e7-7b26fe58834b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8e569eb3-9154-4a85-a372-1782d6e5cc4e
+  text: 端
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+right:
+  word_uuid: c60f41b7-9b3a-458e-a277-ca608190ec1a
+  text: 兆
+  concept: OMEN
+  concept_uuid: 8f844d19-d2d4-4733-957f-e161496251e7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

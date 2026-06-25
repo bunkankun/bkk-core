@@ -1,0 +1,32 @@
+uuid: 2e514368-4393-41b0-8976-c9c3901fc5fa
+type: word-relation
+group_uuid: bda8aa0b-4f13-43f6-be64-560d982e5249
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 論衡
+    line_uuid: 80962d49-5ec6-4e08-adf1-6fbe609e2b00
+    line_id: KR3j0080_tls_039-6a.22
+    textline: 心平體正
+    offset: 1
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 論衡
+    line_uuid: 80962d49-5ec6-4e08-adf1-6fbe609e2b00
+    line_id: KR3j0080_tls_039-6a.22
+    textline: 心平體正
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

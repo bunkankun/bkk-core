@@ -1,0 +1,18 @@
+uuid: ce12ef43-6c02-413f-95fb-fc02b39e8fac
+type: word-relation
+group_uuid: 8b5c6156-82a9-5e52-a197-ce231a54449c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e8bbc2a9-e851-49ae-96b7-38df5a721589
+  text: 壅
+  concept: BLOCK
+  concept_uuid: 4df597c6-1a43-478c-a52b-4f00197bb240
+right:
+  word_uuid: 0350d42c-3e83-4975-89f5-bece7b6e71ba
+  text: 勒
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+source:
+  source_file: word-relations.xml

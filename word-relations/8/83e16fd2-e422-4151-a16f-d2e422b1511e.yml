@@ -1,0 +1,32 @@
+uuid: 83e16fd2-e422-4151-a16f-d2e422b1511e
+type: word-relation
+group_uuid: c3951173-3466-5ebc-ac6f-4f1e3fddfd61
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bc2739d5-c55d-4d96-9ff2-07c3a16b43d6
+  text: 舒
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.19
+    textline: 舒之幎於六合
+    offset: 1
+    range: 1
+right:
+  word_uuid: fadad999-77ba-461b-9ad9-9977ba561ba6
+  text: 卷
+  concept: BEND
+  concept_uuid: 7011cb92-a8e1-4dd0-937b-78e6e25d3238
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-1a.20
+    textline: 卷之不盈於一握
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-24T05:00:10.876+09:00'

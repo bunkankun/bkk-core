@@ -1,0 +1,21 @@
+uuid: 554513c7-de2c-4b8c-98d4-130f0e08b3fa
+type: word-relation
+group_uuid: d5db41c5-e324-581c-975d-5e616de80dae
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+right:
+  word_uuid: 85eb701b-793b-4602-818e-e2c1fc918e20
+  text: 蔽弊
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

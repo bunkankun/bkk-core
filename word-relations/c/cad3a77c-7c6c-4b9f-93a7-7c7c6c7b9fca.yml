@@ -1,0 +1,32 @@
+uuid: cad3a77c-7c6c-4b9f-93a7-7c7c6c7b9fca
+type: word-relation
+group_uuid: d9115b70-b61a-547a-bef2-5a5026b9b773
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ea2c0053-db43-491a-ac00-53db43091aa3
+  text: 皇天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_006-4a.5
+    textline: 以供皇天上帝
+    offset: 3
+    range: 2
+right:
+  word_uuid: 6ab2c334-d2c4-4968-a8b2-61434b317a68
+  text: 上帝
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_006-4a.5
+    textline: 以供皇天上帝
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-30T03:26:06.838+09:00'

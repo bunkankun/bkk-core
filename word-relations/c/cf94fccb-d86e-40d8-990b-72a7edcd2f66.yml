@@ -1,0 +1,32 @@
+uuid: cf94fccb-d86e-40d8-990b-72a7edcd2f66
+type: word-relation
+group_uuid: cf94fccb-d86e-40d8-990b-72a7edcd2f66
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1a5fa35e-99bb-48d1-91cc-e6071b41495f
+  text: 飯
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論語
+    line_uuid: c946d3bb-d6db-4859-b554-130fb27dd5a8
+    line_id: KR1h0004_tls_007-20a.3
+    textline: 「飯疏食飲水
+    offset: 2
+    range: 1
+right:
+  word_uuid: 826a1579-ef3e-4410-8b17-edf76e7d8b19
+  text: 飲
+  concept: DRINK
+  concept_uuid: cfe57339-a557-415e-851a-7177133437f9
+  attestation:
+    text_title: 論語
+    line_uuid: c946d3bb-d6db-4859-b554-130fb27dd5a8
+    line_id: KR1h0004_tls_007-20a.3
+    textline: 「飯疏食飲水
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

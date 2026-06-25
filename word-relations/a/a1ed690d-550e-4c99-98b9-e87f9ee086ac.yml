@@ -1,0 +1,21 @@
+uuid: a1ed690d-550e-4c99-98b9-e87f9ee086ac
+type: word-relation
+group_uuid: 18c13a4b-4d98-5311-a686-29a755595636
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4ab80934-e34a-4664-9f84-68c626dca3c1
+  text: 著
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+right:
+  word_uuid: b5ad772d-ea06-446e-a37d-d3cdd2376315
+  text: 暗
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

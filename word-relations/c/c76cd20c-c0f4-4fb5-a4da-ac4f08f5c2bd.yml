@@ -1,0 +1,32 @@
+uuid: c76cd20c-c0f4-4fb5-a4da-ac4f08f5c2bd
+type: word-relation
+group_uuid: c76cd20c-c0f4-4fb5-a4da-ac4f08f5c2bd
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4c2ff68f-bd34-4b62-8227-55c11144cc35
+    line_id: KR3c0005_tls_011-39a.5
+    textline: 此人臣之所以譎主便私也
+    offset: 8
+    range: 1
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4c2ff68f-bd34-4b62-8227-55c11144cc35
+    line_id: KR3c0005_tls_011-39a.5
+    textline: 此人臣之所以譎主便私也
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

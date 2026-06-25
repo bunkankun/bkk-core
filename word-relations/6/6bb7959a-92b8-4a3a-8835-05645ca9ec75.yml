@@ -1,0 +1,30 @@
+uuid: 6bb7959a-92b8-4a3a-8835-05645ca9ec75
+type: word-relation
+group_uuid: bae1da81-7a67-45bd-a05c-cd571cd973e9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c5ef4469-8908-4e7b-9b38-e101f20184dc
+  text: 年
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 楚辭
+    line_uuid: f0b73217-20b5-45d8-b9c3-4254fe08523b
+    textline: 年齒盡兮命迫促
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7aa673c4-4e92-4bdc-8f9e-c0e1f68bbc3b
+  text: 齒
+  concept: AGE
+  concept_uuid: 468ef7da-844c-4b4a-8f9b-6f326461413f
+  attestation:
+    text_title: 楚辭
+    line_uuid: f0b73217-20b5-45d8-b9c3-4254fe08523b
+    textline: 年齒盡兮命迫促
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

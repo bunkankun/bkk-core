@@ -1,0 +1,30 @@
+uuid: 533edb49-3bc2-47fe-86d7-81fede4c2077
+type: word-relation
+group_uuid: 533edb49-3bc2-47fe-86d7-81fede4c2077
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3bcf8c86-c5f2-4028-8634-ca2d7ad69f9a
+  text: 轍
+  concept: RUT
+  concept_uuid: 6b22c3be-21ac-4c55-92a5-97cc2d59318b
+  attestation:
+    text_title: 老子
+    line_uuid: 3578a2cc-ae30-45f9-9b6a-e3e29eaa8897
+    textline: 善行無轍跡
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3b293384-f84b-4f4c-9911-8c0a93d65cef
+  text: 跡
+  concept: FOOTPRINT
+  concept_uuid: 87210bed-6567-4fdf-b137-a04e0cc14f83
+  attestation:
+    text_title: 老子
+    line_uuid: 3578a2cc-ae30-45f9-9b6a-e3e29eaa8897
+    textline: 善行無轍跡
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

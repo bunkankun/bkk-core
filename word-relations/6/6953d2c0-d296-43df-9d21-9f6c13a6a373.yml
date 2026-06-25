@@ -1,0 +1,23 @@
+uuid: 6953d2c0-d296-43df-9d21-9f6c13a6a373
+type: word-relation
+group_uuid: 93de4304-a28a-5a5a-ba9c-91e266393639
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d87aa65f-ed39-4671-9676-0b6d0a2046ad
+  text: 快
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+right:
+  word_uuid: a7b65f39-f613-4f47-aa61-d6da73e77c4b
+  text: 娛虞
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+  scope: '217'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

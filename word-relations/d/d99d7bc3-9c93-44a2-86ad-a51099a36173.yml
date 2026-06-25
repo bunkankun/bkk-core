@@ -1,0 +1,35 @@
+uuid: d99d7bc3-9c93-44a2-86ad-a51099a36173
+type: word-relation
+group_uuid: d99d7bc3-9c93-44a2-86ad-a51099a36173
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 5bac74ea-4694-4b77-a96d-3e9bed7ee1cb
+  text: 奢
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+  attestation:
+    text_title: 論語
+    line_uuid: 0e4a24de-737d-4258-aab1-6b0a5a7bf18d
+    line_id: KR1h0004_tls_003-4a.6
+    textline: 與其奢也
+    offset: 3
+    range: 1
+right:
+  word_uuid: e0bd7eab-9665-48f9-a641-0be40efa0c16
+  text: 儉
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 論語
+    line_uuid: 79fddcf6-3e78-4f0a-b227-9024e1016b9d
+    line_id: KR1h0004_tls_003-4a.7
+    textline: 寧儉
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

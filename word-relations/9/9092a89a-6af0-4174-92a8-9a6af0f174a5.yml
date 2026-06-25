@@ -1,0 +1,32 @@
+uuid: 9092a89a-6af0-4174-92a8-9a6af0f174a5
+type: word-relation
+group_uuid: fb2bc9ca-81fb-5379-97bb-d6d36e66a9f3
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_004-2a.24
+    textline: 未達人氣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 58992b8a-43a9-446e-b917-8f823dcd2c31
+  text: 氣
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_004-2a.24
+    textline: 未達人氣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:03:49.654+09:00'

@@ -1,0 +1,32 @@
+uuid: defd2ed9-0f07-4c1a-b7bd-db35f71f4326
+type: word-relation
+group_uuid: defd2ed9-0f07-4c1a-b7bd-db35f71f4326
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 43ce5cde-799d-4668-9320-03c314a71b17
+  text: 慚
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a5d856d5-f969-42d0-bab2-7efde9f4b128
+    line_id: KR3j0009_tls_004-22a.30
+    textline: 出則慚於知友邑里
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8cec9621-f1fd-42e2-ad0e-134c2f104f43
+  text: 愧
+  concept: SHAME
+  concept_uuid: cd09cddd-d12d-4847-ad72-e3f9eec74920
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 00e43f81-8d44-4b56-88d1-b70ccd47ca26
+    line_id: KR3j0009_tls_004-22a.29
+    textline: 歸則愧於父母兄弟
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

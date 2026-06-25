@@ -1,0 +1,18 @@
+uuid: 4d92563a-840a-4b84-ad74-5a44fa03224a
+type: word-relation
+group_uuid: 3bb48554-4623-5b40-ace0-6a9e75e17ce1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a024a64b-21bc-4b80-b4d8-6dee2aefe82e
+  text: 單
+  concept: ALONE
+  concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+right:
+  word_uuid: 0f491a06-6fbd-41e6-9e90-1183f841daa0
+  text: 複
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6d72c4d5-6b1d-4b40-8152-1125ba41cbce
+type: word-relation
+group_uuid: 564b0e05-9233-489d-b28a-dcad458ea7a4
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 25daa79e-d892-4ea3-beec-d7b3c585d1b0
+    line_id: KR3c0001_tls_001-10a.8
+    textline: 民惡貧賤
+    offset: 1
+    range: 1
+right:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 管子
+    line_uuid: cee78dd1-3c62-43ea-a4a8-d7c96faeff55
+    line_id: KR3c0001_tls_001-10a.9
+    textline: 我富貴之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 78ea7554-d1f1-45c3-8a58-15d521840528
+type: word-relation
+group_uuid: 78ea7554-d1f1-45c3-8a58-15d521840528
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 白虎通
+    line_uuid: 61ca5878-5d4f-4813-a403-2355822234d6
+    line_id: KR3j0023_tls_006-258a.5
+    textline: 君子上德而下功
+    offset: 4
+    range: 1
+right:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 白虎通
+    line_uuid: 61ca5878-5d4f-4813-a403-2355822234d6
+    line_id: KR3j0023_tls_006-258a.5
+    textline: 君子上德而下功
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

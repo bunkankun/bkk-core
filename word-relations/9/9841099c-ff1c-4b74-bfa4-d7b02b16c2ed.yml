@@ -1,0 +1,33 @@
+uuid: 9841099c-ff1c-4b74-bfa4-d7b02b16c2ed
+type: word-relation
+group_uuid: b0b1e5c6-d82a-4a7e-8b0c-056bad5c4958
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 31f38424-f666-48ac-861d-a75cc24d5fbd
+  text: 惑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 上博。緇衣
+    line_uuid: 33f0486d-9c93-477c-9f27-e37ca1ae14f9
+    textline: 則百姓惑
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6c845646-5508-4718-ae6c-c928d8196104
+  text: 疑
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 上博。緇衣
+    line_uuid: c21050a0-9897-4b59-84ed-d087c3ee7a5f
+    textline: 上人疑
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

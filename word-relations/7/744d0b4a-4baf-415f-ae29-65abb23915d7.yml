@@ -1,0 +1,32 @@
+uuid: 744d0b4a-4baf-415f-ae29-65abb23915d7
+type: word-relation
+group_uuid: 744d0b4a-4baf-415f-ae29-65abb23915d7
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f831749-b8cd-4250-ac65-e6577126e618
+  text: 判
+  concept: JUDGE
+  concept_uuid: 61e8b386-a6ae-4eff-8bd7-b714a35b5aa8
+  attestation:
+    text_title: 莊子
+    line_uuid: b62c56ea-dad1-4008-a5d6-e2a253295d87
+    line_id: KR5c0126_tls_033-3a.16
+    textline: 判天地之美
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8468dda5-1568-4ec1-8d24-4eeace26199d
+  text: 析
+  concept: DISTINGUISH
+  concept_uuid: 1fe8eefc-3167-45e1-ae40-a1e45c48cb6a
+  attestation:
+    text_title: 莊子
+    line_uuid: f5be74ef-861b-497b-b54f-795d6a53d29d
+    line_id: KR5c0126_tls_033-3a.17
+    textline: 析萬物之理
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

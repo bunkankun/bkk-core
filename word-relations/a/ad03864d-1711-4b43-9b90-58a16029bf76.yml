@@ -1,0 +1,21 @@
+uuid: ad03864d-1711-4b43-9b90-58a16029bf76
+type: word-relation
+group_uuid: 2a9005d4-a36e-5e77-92d8-c19d8ac8d605
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: f9e88797-668c-4931-97a4-129ec0d033d5
+  text: 得
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+right:
+  word_uuid: 8bbe21af-3214-4b17-8a2d-6e3e02661c9e
+  text: 見
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

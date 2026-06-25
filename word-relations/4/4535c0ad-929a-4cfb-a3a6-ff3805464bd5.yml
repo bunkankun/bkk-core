@@ -1,0 +1,21 @@
+uuid: 4535c0ad-929a-4cfb-a3a6-ff3805464bd5
+type: word-relation
+group_uuid: bbc40fc6-13aa-52bb-9f13-950337c95254
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+right:
+  word_uuid: 6c400bfe-9912-4d21-9860-48af97cd9c38
+  text: 守
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

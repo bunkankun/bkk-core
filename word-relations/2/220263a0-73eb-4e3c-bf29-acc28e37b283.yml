@@ -1,0 +1,21 @@
+uuid: 220263a0-73eb-4e3c-bf29-acc28e37b283
+type: word-relation
+group_uuid: 6a0945ff-3e11-536e-a6ad-91546f60ca2d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 40a9658c-4b5e-4952-82c0-37e84b877bf3
+  text: 疾
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+right:
+  word_uuid: 8280ac35-d647-41ba-a6e2-67363c1fb83a
+  text: 迅
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

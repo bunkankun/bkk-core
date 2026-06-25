@@ -1,0 +1,31 @@
+uuid: 7f432f58-5138-411f-9881-b9416fd1a4fc
+type: word-relation
+group_uuid: 7f432f58-5138-411f-9881-b9416fd1a4fc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: f4c5353b-1f8d-400b-b3ff-455e08f58700
+  text: 大人
+  concept: BODHISATTVAS
+  concept_uuid: 141b5c68-55de-42c7-86a8-8b52954348a6
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 27ce3b68-e246-4c1d-98b0-360af404142a
+    textline: “此蓋是普賢文殊大人之境界
+    offset: 10
+    range: 2
+right:
+  word_uuid: 0a501f98-5ecb-449f-8d4d-b198d0dcb327
+  text: 凡小
+  concept: SECULAR
+  concept_uuid: a9cd9b55-25a4-4c86-bc18-185e30a540b8
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 1c66a99c-94e0-42d4-8abc-79c8d126f22d
+    line_id: KR6q0002_Yan_003-1126a.5
+    textline: 非諸凡小而能信受
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

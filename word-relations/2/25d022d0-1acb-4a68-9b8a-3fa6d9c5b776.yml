@@ -1,0 +1,32 @@
+uuid: 25d022d0-1acb-4a68-9b8a-3fa6d9c5b776
+type: word-relation
+group_uuid: 25d022d0-1acb-4a68-9b8a-3fa6d9c5b776
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: d8a30d93-05c3-4504-8aea-6bdf44d80325
+  text: 號
+  concept: SHOUT
+  concept_uuid: 43301ee0-76a6-4734-a758-7be4ded906f5
+  attestation:
+    text_title: 老子
+    line_uuid: eb7d1aa1-045e-4b41-9655-e9dd4d65364b
+    line_id: KR5c0057_tls_055-1a.12
+    textline: 終日號而不嗄
+    offset: 3
+    range: 1
+right:
+  word_uuid: 31f26136-fc77-4230-b62f-8659c0febb25
+  text: 嗄
+  concept: DUMB
+  concept_uuid: bd2fb0c3-9ea9-4bd7-8841-9da413e46e49
+  attestation:
+    text_title: 老子
+    line_uuid: eb7d1aa1-045e-4b41-9655-e9dd4d65364b
+    line_id: KR5c0057_tls_055-1a.12
+    textline: 終日號而不嗄
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

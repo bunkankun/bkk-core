@@ -1,0 +1,32 @@
+uuid: 1ab1c8b1-5fe4-48ad-b2f2-bbe2ad5a064c
+type: word-relation
+group_uuid: 1ab1c8b1-5fe4-48ad-b2f2-bbe2ad5a064c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e650a60f-560b-432a-8753-9e7e4805ef4a
+  text: 曰
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7c830551-12e6-4fde-855c-4593fd9d5947
+    line_id: KR3c0005_tls_007-14a.8
+    textline: 左右對曰
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2bd3783c-3278-4f7f-a810-175f04ee038f
+  text: 對
+  concept: ANSWER
+  concept_uuid: bf206c81-dab6-4521-82c0-02dc94b8dc79
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7c830551-12e6-4fde-855c-4593fd9d5947
+    line_id: KR3c0005_tls_007-14a.8
+    textline: 左右對曰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

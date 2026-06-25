@@ -1,0 +1,32 @@
+uuid: 9154197d-2137-4871-8f63-d2508d79b0a7
+type: word-relation
+group_uuid: 9154197d-2137-4871-8f63-d2508d79b0a7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d9051961-01f8-4c41-8c12-4dca56d4a226
+  text: 弘
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 21552012-d4c5-4de2-907f-5864f330cc5a
+    line_id: KR3c0005_tls_008-14a.3
+    textline: 弘大而無形
+    offset: 1
+    range: 1
+right:
+  word_uuid: 554ff26e-0b7b-42a6-99e9-fb5b012d1d9c
+  text: 大
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 21552012-d4c5-4de2-907f-5864f330cc5a
+    line_id: KR3c0005_tls_008-14a.3
+    textline: 弘大而無形
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 85743333-a75b-4893-aeec-8aafb47e4672
+type: word-relation
+group_uuid: f17e94ad-b54b-41d6-b45f-1da885944d90
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1a60b24c-feb7-473b-819e-0302f272fb11
+  text: 體
+  concept: LIMB
+  concept_uuid: 9635dd9b-58b6-454f-9cb5-77dd3486c43b
+  attestation:
+    text_title: 白虎通
+    line_uuid: 1195e359-5352-4a98-b582-6294442b3e4b
+    line_id: KR3j0023_tls_013-644a.6
+    textline: 心平體正
+    offset: 3
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 白虎通
+    line_uuid: 1195e359-5352-4a98-b582-6294442b3e4b
+    line_id: KR3j0023_tls_013-644a.6
+    textline: 心平體正
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

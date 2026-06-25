@@ -1,0 +1,30 @@
+uuid: 378c4d6c-01d7-4446-b3d6-730169071e07
+type: word-relation
+group_uuid: 766d3915-8a36-4986-83a3-792f3cc0b091
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  text: 邦
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 老子
+    line_uuid: 2efc679a-7a4d-4db2-8b66-d1a5cb825a01
+    line_id: KR5c0057_tls_054-1a.19
+    textline: 以邦觀邦
+    range: 1
+right:
+  word_uuid: 8ddaa9af-02e9-4509-8c0b-7af0cd34b6d5
+  text: 天下
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+  attestation:
+    text_title: 老子
+    line_uuid: bf4b45b5-f833-4742-bd21-819f0031ed54
+    line_id: KR5c0057_tls_054-1a.20
+    textline: 以天下觀天下
+    range: 2
+source:
+  source_file: word-relations.xml

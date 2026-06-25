@@ -1,0 +1,30 @@
+uuid: 3bb1ecb2-4c23-410c-8aeb-3d36f417150e
+type: word-relation
+group_uuid: 3bb1ecb2-4c23-410c-8aeb-3d36f417150e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 1a7f36b2-7e20-4ee0-afc6-2b10eececd1e
+  text: 沂
+  concept: RIVERS
+  concept_uuid: 2aebb8d2-d973-4b14-81eb-51139f60b396
+  attestation:
+    text_title: 陶淵明詩
+    line_uuid: 93627266-a9b1-4913-a866-592a72602aa4
+    textline: 悠想清沂
+    offset: 4
+    range: 1
+right:
+  word_uuid: 219ebe48-fe1e-4fd0-aede-cca5f38a2ff6
+  text: 清
+  concept: CLEAN
+  concept_uuid: fe5ca2eb-7ff7-4868-8849-baa0f8a91339
+  attestation:
+    text_title: 陶淵明詩
+    line_uuid: 93627266-a9b1-4913-a866-592a72602aa4
+    textline: 悠想清沂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 46e6207e-5646-49c3-bea5-30b39e79c6e6
+type: word-relation
+group_uuid: 306efbca-d0fb-4770-9551-5e63d9abeebd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 829f0104-d6e2-4d8f-b91c-d8e8b987d1a5
+    line_id: KR3c0005_tls_051-5a.10
+    textline: 明王賢臣而弗易也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5000a604-9042-4595-b410-64c5ab0e54e3
+  text: 賢
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 829f0104-d6e2-4d8f-b91c-d8e8b987d1a5
+    line_id: KR3c0005_tls_051-5a.10
+    textline: 明王賢臣而弗易也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

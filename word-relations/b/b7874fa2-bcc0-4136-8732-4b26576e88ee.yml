@@ -1,0 +1,18 @@
+uuid: b7874fa2-bcc0-4136-8732-4b26576e88ee
+type: word-relation
+group_uuid: af0292a0-6993-5373-8bdc-44430e4d8c55
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 831bd891-649b-42d1-99d5-fec2f122537a
+  text: 據
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+right:
+  word_uuid: 7fbff062-637d-4cd4-86a2-a35fd07b1dc7
+  text: 案
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+source:
+  source_file: word-relations.xml

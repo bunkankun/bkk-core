@@ -1,0 +1,33 @@
+uuid: ccfe9e27-e46a-4935-9a33-4b51ee1004de
+type: word-relation
+group_uuid: ccfe9e27-e46a-4935-9a33-4b51ee1004de
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 972af1bd-15e5-4c4e-8ed9-525d929b3bc0
+  text: 歡
+  concept: HAPPY
+  concept_uuid: f4622c23-c8f6-4d2c-bf42-efee4f34a1ba
+  attestation:
+    text_title: 楚辭
+    line_uuid: 935401e2-d302-4901-a2da-220af02ff6d6
+    textline: 迎余兮歡欣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 81b51043-ec8c-401e-b351-060ff4fdfa50
+  text: 欣
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 楚辭
+    line_uuid: 935401e2-d302-4901-a2da-220af02ff6d6
+    textline: 迎余兮歡欣
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

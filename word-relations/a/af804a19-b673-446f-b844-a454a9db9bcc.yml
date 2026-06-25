@@ -1,0 +1,32 @@
+uuid: af804a19-b673-446f-b844-a454a9db9bcc
+type: word-relation
+group_uuid: af804a19-b673-446f-b844-a454a9db9bcc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 571d0fa2-2d3b-48a0-a2c3-798b9616a43a
+  text: 逢
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: f7b7c57d-8577-404b-8d55-9f9a5b59e47d
+    line_id: KR3c0005_tls_042-5a.10
+    textline: 逢遇不可必也
+    offset: 1
+    range: 1
+right:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: f7b7c57d-8577-404b-8d55-9f9a5b59e47d
+    line_id: KR3c0005_tls_042-5a.10
+    textline: 逢遇不可必也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: dbba11f1-4980-45a8-b73f-580024daaeef
+type: word-relation
+group_uuid: d5774f60-5c88-51c1-80e3-c5661b8dc010
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9e6e1fe9-c77c-4ca4-b142-e4a9f10b09cc
+  text: 操
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+right:
+  word_uuid: e863a51b-36f6-4aa2-a9b6-8300c219a917
+  text: 執
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

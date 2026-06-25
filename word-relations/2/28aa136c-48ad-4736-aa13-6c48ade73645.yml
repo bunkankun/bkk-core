@@ -1,0 +1,32 @@
+uuid: 28aa136c-48ad-4736-aa13-6c48ade73645
+type: word-relation
+group_uuid: f9f20ffd-b6dd-51e0-8eea-2b6b5183abdb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0ca421c2-e6cd-4f69-8516-7b6d749d14f3
+  text: 亂
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-74a.5
+    textline: 不受亂君之祿
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-74a.5
+    textline: 不受亂君之祿
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T04:39:48.508+09:00'

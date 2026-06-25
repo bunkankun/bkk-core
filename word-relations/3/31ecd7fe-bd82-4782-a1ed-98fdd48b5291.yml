@@ -1,0 +1,32 @@
+uuid: 31ecd7fe-bd82-4782-a1ed-98fdd48b5291
+type: word-relation
+group_uuid: 9cffaa18-c8b6-4a9a-8b3b-efcbb510440c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: 792684f4-fa4f-4c29-820b-a8f7e710d9b9
+    line_id: KR1h0004_tls_003-19a.1
+    textline: 我愛其禮
+    offset: 1
+    range: 1
+right:
+  word_uuid: f247efa1-49a9-4537-ad10-473b87e11741
+  text: 爾
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 論語
+    line_uuid: 427d79de-2658-4332-a054-7f6356f21f83
+    line_id: KR1h0004_tls_003-18a.5
+    textline: 爾愛其羊
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

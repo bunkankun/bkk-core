@@ -1,0 +1,29 @@
+uuid: 7677a8b5-eae0-4198-b7a8-b5eae0b198db
+type: word-relation
+group_uuid: 8cb6192a-e231-5999-a4b0-3eda398734f2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: And yet I can't seem to avoid d
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    line_id: KR5c0126_tls_020-3a.12-tr
+    offset: 1
+    range: 31
+right:
+  word_uuid: 31ac29cc-40a7-4164-8a3a-cd2cd80504aa
+  text: 脩
+  concept: CULTIVATE
+  concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+  attestation:
+    line_id: KR5c0126_tls_020-3a.8
+    textline: 脩先君之業
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T20:39:12.334+09:00'

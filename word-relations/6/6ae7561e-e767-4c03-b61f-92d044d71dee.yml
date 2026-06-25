@@ -1,0 +1,35 @@
+uuid: 6ae7561e-e767-4c03-b61f-92d044d71dee
+type: word-relation
+group_uuid: 6ae7561e-e767-4c03-b61f-92d044d71dee
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7a276356-fd07-4dd4-a266-9822cc257f4b
+  text: 叛
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: ef9c4f93-529b-4c5e-b41c-aabd17ddb2df
+    line_id: KR1e0001_tls_005-316a.2
+    textline: 滑人叛鄭
+    offset: 3
+    range: 1
+right:
+  word_uuid: a05f9f6f-4ab1-4179-b476-6292b6e974b0
+  text: 服
+  concept: SURRENDER
+  concept_uuid: 53f39fc4-2ea8-4ac1-af0a-f0cbfeac7e8f
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 86ab7ec9-6a7a-4b72-8de4-b56392a41988
+    line_id: KR1e0001_tls_005-316a.3
+    textline: 而服於衛
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

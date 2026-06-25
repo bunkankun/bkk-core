@@ -1,0 +1,18 @@
+uuid: 3433aae6-727a-40f1-ad00-42b4435b131d
+type: word-relation
+group_uuid: 17f69d08-f206-500a-aaf7-755b7277eede
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 67237990-f1fb-4115-8cbc-7b55d5727436
+  text: 搜
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+right:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+source:
+  source_file: word-relations.xml

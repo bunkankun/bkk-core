@@ -1,0 +1,32 @@
+uuid: 5c281c7f-7da2-40d1-a81c-7f7da200d107
+type: word-relation
+group_uuid: b0961cff-b601-537a-be89-d221a5d8ec38
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 21b4a72e-dfc0-4aa8-854a-876d59bc0839
+  text: 學
+  concept: LEARN
+  concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_003-7a.16
+    textline: 其子弟之學不勞而能
+    offset: 5
+    range: 1
+right:
+  word_uuid: 34f33548-5f1d-4a79-ad78-eb140fe5d749
+  text: 能
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_003-7a.16
+    textline: 其子弟之學不勞而能
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-24T16:28:42.593+09:00'

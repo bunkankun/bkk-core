@@ -1,0 +1,32 @@
+uuid: 8645685e-ac3f-4617-8568-5eac3f9617ba
+type: word-relation
+group_uuid: 332576c9-929c-5598-95a8-5c28d4444e7e
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ae753169-eafb-4a34-ae87-0d0bdd2e0c2e
+  text: 覆
+  concept: COVER
+  concept_uuid: 034a355a-2b9d-4b18-a495-48944fa2dbfa
+  attestation:
+    text_title: 莊子集釋
+    line_id: KR5c0386_tls_008-172a.2
+    textline: 覆載無偏，
+    offset: 1
+    range: 1
+right:
+  word_uuid: 443db1ea-550d-4d93-8858-cab2f8e6cd9d
+  text: 載
+  concept: SUPPORT
+  concept_uuid: 462ddcf8-d511-4451-a5ad-e15002ac42ed
+  attestation:
+    text_title: 莊子集釋
+    line_id: KR5c0386_tls_008-172a.2
+    textline: 覆載無偏，
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-11T17:19:29.484+09:00'

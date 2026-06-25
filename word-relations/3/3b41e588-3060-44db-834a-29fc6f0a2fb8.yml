@@ -1,0 +1,32 @@
+uuid: 3b41e588-3060-44db-834a-29fc6f0a2fb8
+type: word-relation
+group_uuid: 3b41e588-3060-44db-834a-29fc6f0a2fb8
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 29000d38-0522-4590-a2da-a8003aa648ed
+  text: 矜
+  concept: BOAST
+  concept_uuid: cb7c9367-3450-498c-abd8-0214184d6428
+  attestation:
+    text_title: 韓非子
+    line_uuid: e0cd5a3f-0e89-4d24-a194-d14593a59936
+    line_id: KR3c0005_tls_046-40a.12
+    textline: 矜誣之行不飾矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: 98abeb99-61e3-420b-93f6-3751653cf0f7
+  text: 誣
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 韓非子
+    line_uuid: e0cd5a3f-0e89-4d24-a194-d14593a59936
+    line_id: KR3c0005_tls_046-40a.12
+    textline: 矜誣之行不飾矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: f64491e8-b0b2-44e7-a269-4e0c5071432f
+type: word-relation
+group_uuid: f64491e8-b0b2-44e7-a269-4e0c5071432f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a39c1a31-d075-4e5c-8127-9b5b793997dc
+  text: 問
+  concept: ASK
+  concept_uuid: 3d43f68e-3945-471c-8f28-42b152565baa
+  attestation:
+    text_title: 論語
+    line_uuid: c9a7727f-0aed-404c-afa9-1f78fa6ce369
+    line_id: KR1h0004_tls_005-17a.7
+    textline: 不恥下問
+    offset: 4
+    range: 1
+right:
+  word_uuid: ba01ff39-1dfb-4621-a248-a23b5bce45cf
+  text: 下
+  concept: INFERIOR
+  concept_uuid: 6557e5a6-3bf5-4df5-b39a-e80ffa163024
+  attestation:
+    text_title: 論語
+    line_uuid: c9a7727f-0aed-404c-afa9-1f78fa6ce369
+    line_id: KR1h0004_tls_005-17a.7
+    textline: 不恥下問
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

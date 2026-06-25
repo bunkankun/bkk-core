@@ -1,0 +1,35 @@
+uuid: 740034a0-8020-4f65-8404-c5386878a591
+type: word-relation
+group_uuid: 740034a0-8020-4f65-8404-c5386878a591
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f929b6a3-39e7-42d6-b446-1d9be4662aa9
+  text: 二
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 31684906-1494-4049-962c-1d61832ebc42
+    line_id: KR3c0005_tls_031-40a.7
+    textline: 二子皆將
+    offset: 1
+    range: 1
+right:
+  word_uuid: c0b4b2af-c287-4511-8b91-a22879b8e9c9
+  text: 兩
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 579d6d6a-324b-4c70-b511-86dc0e1fb5c6
+    line_id: KR3c0005_tls_031-40a.6
+    textline: 兩國搆難
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

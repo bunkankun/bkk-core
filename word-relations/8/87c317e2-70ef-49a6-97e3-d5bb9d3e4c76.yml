@@ -1,0 +1,32 @@
+uuid: 87c317e2-70ef-49a6-97e3-d5bb9d3e4c76
+type: word-relation
+group_uuid: 87c317e2-70ef-49a6-97e3-d5bb9d3e4c76
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a8b8c49b-26c2-41ab-ad99-3cf50aaf666f
+  text: 勢
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: 49bc9038-91e8-47ac-b786-a938b20ccbee
+    line_id: KR3c0005_tls_020-35a.5
+    textline: 大能成天子之勢尊
+    offset: 7
+    range: 1
+right:
+  word_uuid: 023451ce-93c3-4ff6-ab5d-d2836e0252f2
+  text: 尊
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 49bc9038-91e8-47ac-b786-a938b20ccbee
+    line_id: KR3c0005_tls_020-35a.5
+    textline: 大能成天子之勢尊
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

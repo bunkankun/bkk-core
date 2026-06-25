@@ -1,0 +1,18 @@
+uuid: 6134bdda-c9a4-489e-9853-2ec959350a81
+type: word-relation
+group_uuid: 64063609-893a-5b93-9e67-bf91e1989cb4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d2e223c1-de4e-4586-97b2-6e5908fb313a
+  text: 開
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+right:
+  word_uuid: 6caaf498-bb70-469d-87de-3e54a4fa98bb
+  text: 地
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+source:
+  source_file: word-relations.xml

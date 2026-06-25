@@ -1,0 +1,32 @@
+uuid: ba0fa8c1-cbe0-45b6-9767-a0302ca038a2
+type: word-relation
+group_uuid: ba0fa8c1-cbe0-45b6-9767-a0302ca038a2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 244fb9b6-3dfb-4df8-976b-f0134e6b498c
+  text: 盲
+  concept: BLIND
+  concept_uuid: dcd7baf9-6457-4e34-ac1b-0f2a93a99019
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ef7f36c-596a-4829-8327-a2114623703f
+    line_id: KR3c0005_tls_020-48a.12
+    textline: 則盲聾悖狂之禍至
+    offset: 2
+    range: 1
+right:
+  word_uuid: 636f0900-8560-432f-bcaf-0640bbda6b97
+  text: 聾
+  concept: DEAF
+  concept_uuid: 7b5bef5c-952b-48de-bc22-838bfdc4c6e9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7ef7f36c-596a-4829-8327-a2114623703f
+    line_id: KR3c0005_tls_020-48a.12
+    textline: 則盲聾悖狂之禍至
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

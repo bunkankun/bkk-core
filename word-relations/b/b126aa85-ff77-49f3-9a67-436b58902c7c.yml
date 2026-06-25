@@ -1,0 +1,32 @@
+uuid: b126aa85-ff77-49f3-9a67-436b58902c7c
+type: word-relation
+group_uuid: f35c2025-aef8-4751-9e1d-78aa39e18262
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3f4518e6-9e24-4ecc-afcb-0f972d8c42df
+  text: 怯
+  concept: COWARDLY
+  concept_uuid: 15831024-bfe8-489b-b701-e1a0143abdd6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1f4abe5a-5f6f-490d-b89f-8c81c8433a67
+    line_id: KR3c0005_tls_015-15a.2
+    textline: 怯懾而弱守
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8be3929d-277d-4784-a8b9-eab1a6a63fe6
+  text: 懾
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1f4abe5a-5f6f-490d-b89f-8c81c8433a67
+    line_id: KR3c0005_tls_015-15a.2
+    textline: 怯懾而弱守
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

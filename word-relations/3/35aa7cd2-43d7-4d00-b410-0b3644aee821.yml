@@ -1,0 +1,32 @@
+uuid: 35aa7cd2-43d7-4d00-b410-0b3644aee821
+type: word-relation
+group_uuid: 35aa7cd2-43d7-4d00-b410-0b3644aee821
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8783cbb3-c95f-4df0-92cf-9725a8c4dfc4
+  text: 假
+  concept: BORROW
+  concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+  attestation:
+    text_title: 管子
+    line_uuid: eb5a18d7-3bec-4bd6-954c-1f1fd72b24e0
+    line_id: KR3c0001_tls_014-46a.7
+    textline: 以假貸
+    offset: 2
+    range: 1
+right:
+  word_uuid: b306a7a9-b7e2-4c81-8d73-5e835dafca3f
+  text: 貸
+  concept: BORROW
+  concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+  attestation:
+    text_title: 管子
+    line_uuid: eb5a18d7-3bec-4bd6-954c-1f1fd72b24e0
+    line_id: KR3c0001_tls_014-46a.7
+    textline: 以假貸
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

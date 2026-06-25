@@ -1,0 +1,35 @@
+uuid: 850e56d9-67c5-42ba-aef4-268ce35ea722
+type: word-relation
+group_uuid: 850e56d9-67c5-42ba-aef4-268ce35ea722
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: caf98739-222c-4786-b1b1-644b04a17dbe
+  text: 熱
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 論衡
+    line_uuid: b408025a-c57c-4c4a-9930-574bc3cba98b
+    line_id: KR3j0080_tls_042-10a.46
+    textline: 寒溫猶熱冷也
+    offset: 4
+    range: 1
+right:
+  word_uuid: a23669d1-820e-4c4b-9184-e6270079fd80
+  text: 冷
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 論衡
+    line_uuid: b408025a-c57c-4c4a-9930-574bc3cba98b
+    line_id: KR3j0080_tls_042-10a.46
+    textline: 寒溫猶熱冷也
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

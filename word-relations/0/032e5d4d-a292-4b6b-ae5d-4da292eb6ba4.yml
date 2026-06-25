@@ -1,0 +1,35 @@
+uuid: 032e5d4d-a292-4b6b-ae5d-4da292eb6ba4
+type: word-relation
+group_uuid: 74b4e444-d2dd-5990-a916-f025c17916bb
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b461981b-4761-4815-a327-e0df4e34a4e4
+  text: 畏
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_003-12a.21
+    textline: 是畏三軍者也
+    offset: 2
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_003-12a.23
+    textline: 能無懼而已矣
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-12T02:25:58.901+09:00'

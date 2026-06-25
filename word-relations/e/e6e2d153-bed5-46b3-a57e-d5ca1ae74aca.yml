@@ -1,0 +1,32 @@
+uuid: e6e2d153-bed5-46b3-a57e-d5ca1ae74aca
+type: word-relation
+group_uuid: e6e2d153-bed5-46b3-a57e-d5ca1ae74aca
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a28608f1-7726-4eb7-8492-359bae82c166
+  text: 身體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 管子
+    line_uuid: cdfc08dc-cf90-44b4-9b4c-1566fef12801
+    line_id: KR3c0001_tls_015-37a.4
+    textline: 利身體
+    offset: 2
+    range: 2
+right:
+  word_uuid: 4ecf22b8-2bfc-4c46-b163-2c59742535ed
+  text: 形軀
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 管子
+    line_uuid: f78e6e39-ea50-42f2-ad92-1e1adcc0c4d5
+    line_id: KR3c0001_tls_015-37a.5
+    textline: 便形軀
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

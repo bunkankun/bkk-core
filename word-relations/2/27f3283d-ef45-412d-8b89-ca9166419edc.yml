@@ -1,0 +1,32 @@
+uuid: 27f3283d-ef45-412d-8b89-ca9166419edc
+type: word-relation
+group_uuid: 27f3283d-ef45-412d-8b89-ca9166419edc
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 法言
+    line_uuid: 7421bafb-d377-471f-9bb8-69d4ddc70dbc
+    line_id: KR3a0009_tls_002-9a.11
+    textline: 委大聖而好乎諸子者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 11044dca-d6fd-4875-a2ee-3c4d439379f9
+  text: 嗜
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 法言
+    line_uuid: 77a863e3-d255-4005-9960-372429e5554f
+    line_id: KR3a0009_tls_002-9a.9
+    textline: 棄常珍而嗜乎異饌者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

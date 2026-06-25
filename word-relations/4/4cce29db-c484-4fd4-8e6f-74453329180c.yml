@@ -1,0 +1,21 @@
+uuid: 4cce29db-c484-4fd4-8e6f-74453329180c
+type: word-relation
+group_uuid: 682eb749-213b-5b3a-802f-eeb7b2343ae7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3832456c-8dbf-4b8e-938a-f874038bd5f6
+  text: 成
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+right:
+  word_uuid: 18185828-61b4-43b6-9bd2-7d2841b590dc
+  text: 就
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

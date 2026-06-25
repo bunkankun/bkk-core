@@ -1,0 +1,18 @@
+uuid: c34dd848-9f3b-442a-bf27-a31290edfb14
+type: word-relation
+group_uuid: 9d7188fc-fa3a-56e1-91db-9098a6f78205
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 5c76e0a6-4aac-4a75-bf49-76989a1fc5c6
+  text: 臣
+  concept: SERVANT
+  concept_uuid: 24546ca4-fd38-41a7-9c33-555b63244cae
+right:
+  word_uuid: 2a5c4e4e-268f-4829-877e-08332e0baf0c
+  text: 官
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+source:
+  source_file: word-relations.xml

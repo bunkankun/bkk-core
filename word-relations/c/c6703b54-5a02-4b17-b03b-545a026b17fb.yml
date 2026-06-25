@@ -1,0 +1,32 @@
+uuid: c6703b54-5a02-4b17-b03b-545a026b17fb
+type: word-relation
+group_uuid: 5cd59280-bcc9-5860-990b-f4a7739ca560
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 48a39062-d8d7-4f30-9b6b-b9bd0dea7fdb
+  text: 鑄
+  concept: FORGE
+  concept_uuid: 10acfb82-1363-4740-be12-ab43658d40c7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.39
+    textline: 而作為之鑄金鍛鐵
+    offset: 5
+    range: 1
+right:
+  word_uuid: 7a7df26c-65bf-44f7-bd80-e485442ae0c0
+  text: 金
+  concept: METAL
+  concept_uuid: 678eda4e-9edf-42e1-aa07-b5d5c0081ead
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.39
+    textline: 而作為之鑄金鍛鐵
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:34:16.657+09:00'

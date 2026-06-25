@@ -1,0 +1,32 @@
+uuid: 5afca0fc-6200-44bf-88c3-50795e716592
+type: word-relation
+group_uuid: 5afca0fc-6200-44bf-88c3-50795e716592
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c8b5ac57-1325-484f-ad65-928a8e1008bb
+  text: 辭
+  concept: PROSE
+  concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+  attestation:
+    text_title: 韓非子
+    line_uuid: d88dadf8-7ea9-416a-a280-ac32a53e65f1
+    line_id: KR3c0005_tls_009-13a.6
+    textline: 施屬虛辭以壞其主
+    offset: 4
+    range: 1
+right:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 韓非子
+    line_uuid: d88dadf8-7ea9-416a-a280-ac32a53e65f1
+    line_id: KR3c0005_tls_009-13a.6
+    textline: 施屬虛辭以壞其主
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 73187164-64b4-43f3-afde-a9b91e88ee3d
+type: word-relation
+group_uuid: eb7dd117-8c42-45ae-810f-e8328a5cc846
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 779f29d2-230d-4e75-af0d-37d45a78f2d6
+  text: 逃
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: cb766acf-3cbe-4813-af11-a89e33d2bf67
+    line_id: KR1e0001_tls_007-309a.8
+    textline: 於是晉國之盜逃奔于秦
+    offset: 7
+    range: 1
+right:
+  word_uuid: c9c26717-6904-48a6-b6e9-4776358b0431
+  text: 奔
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: cb766acf-3cbe-4813-af11-a89e33d2bf67
+    line_id: KR1e0001_tls_007-309a.8
+    textline: 於是晉國之盜逃奔于秦
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

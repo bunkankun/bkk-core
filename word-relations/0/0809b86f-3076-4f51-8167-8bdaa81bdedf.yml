@@ -1,0 +1,32 @@
+uuid: 0809b86f-3076-4f51-8167-8bdaa81bdedf
+type: word-relation
+group_uuid: 71b4a095-c8f6-44d4-b80c-f2f5eb577d46
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3dbe0016-4922-4f66-955a-f88e4e8e55fd
+    line_id: KR3c0005_tls_018-13a.7
+    textline: 則人臣莫敢妄言矣
+    offset: 7
+    range: 1
+right:
+  word_uuid: 2d06494c-0835-41c4-a04c-5dcd84b8f985
+  text: 妄
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 3dbe0016-4922-4f66-955a-f88e4e8e55fd
+    line_id: KR3c0005_tls_018-13a.7
+    textline: 則人臣莫敢妄言矣
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

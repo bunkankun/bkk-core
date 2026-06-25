@@ -1,0 +1,30 @@
+uuid: 494cedaa-253b-4fdf-9a2c-edf1fdc675c4
+type: word-relation
+group_uuid: 494cedaa-253b-4fdf-9a2c-edf1fdc675c4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 9a31814f-077e-4261-8c8f-807e10b0d8fb
+  text: 奪
+  concept: TAKE
+  concept_uuid: 91d9a879-afbf-470b-9a01-b61b695defc7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 53a71467-be0a-482d-8d26-a88a2e586a6c
+    textline: 奪褫(遞)之資在子之也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8e92fb19-49b1-45c3-a5d1-533cbdb1c98f
+  text: 遞
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 韓非子
+    line_uuid: 53a71467-be0a-482d-8d26-a88a2e586a6c
+    textline: 奪褫(遞)之資在子之也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 05d8085f-9979-40bf-be79-5aa088c4f745
+type: word-relation
+group_uuid: 05d8085f-9979-40bf-be79-5aa088c4f745
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: be9c1357-b0e2-42c6-93e3-7390457825c6
+  text: 光
+  concept: BRIGHT
+  concept_uuid: 8b103529-f6b9-4c91-b915-42effb59b490
+  attestation:
+    text_title: 老子
+    line_uuid: e063a6cd-0088-47a5-98c2-ba2ddf632cd1
+    line_id: KR5c0057_tls_058-1a.17
+    textline: 光而不燿
+    offset: 5
+    range: 1
+right:
+  word_uuid: 4209da86-1abe-4b3e-8338-f8e4f854e9a7
+  text: 燿
+  concept: SHINE
+  concept_uuid: c783dd65-2a30-47cf-96c0-1334b69cb44a
+  attestation:
+    text_title: 老子
+    line_uuid: e063a6cd-0088-47a5-98c2-ba2ddf632cd1
+    line_id: KR5c0057_tls_058-1a.17
+    textline: 光而不燿
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

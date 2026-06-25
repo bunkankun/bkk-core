@@ -1,0 +1,32 @@
+uuid: 77db5ba5-5625-4272-9b5b-a55625e2725e
+type: word-relation
+group_uuid: 85545a1b-ecf4-52f3-b46b-d2cc21ed81e9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f43615eb-03b3-414f-adca-cc525521fd59
+  text: 異
+  concept: DIFFERENT
+  concept_uuid: ca045057-e00e-453b-80b6-5514649846a6
+  attestation:
+    text_title: 景德傳燈錄
+    line_id: KR6q0003_T_029-0449b.49
+    textline: 若言眾生異佛
+    offset: 5
+    range: 1
+right:
+  word_uuid: 18462ac6-f900-4996-8f26-9fef6529e839
+  text: 常
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 景德傳燈錄
+    line_id: KR6q0003_T_029-0449b.50
+    textline: 迢迢與佛常疎
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#chris'
+  date: '2023-01-19T21:37:56.294+09:00'

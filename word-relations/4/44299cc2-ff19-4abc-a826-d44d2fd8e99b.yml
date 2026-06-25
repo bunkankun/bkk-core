@@ -1,0 +1,35 @@
+uuid: 44299cc2-ff19-4abc-a826-d44d2fd8e99b
+type: word-relation
+group_uuid: 44299cc2-ff19-4abc-a826-d44d2fd8e99b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d907ad91-e2c8-414c-a5ab-643e34de3d3d
+  text: 前
+  concept: IN FRONT
+  concept_uuid: 415fced0-30f9-4b77-b3dc-911f42b3ddb7
+  attestation:
+    text_title: 白虎通
+    line_uuid: 1e12b44f-06ff-4658-ac88-32b3386c9e5c
+    line_id: KR3j0023_tls_006-208a.9
+    textline: 「前歌後舞
+    offset: 2
+    range: 1
+right:
+  word_uuid: a07bcc65-aada-41ab-bbc8-a341602518a4
+  text: 後
+  concept: BEHIND
+  concept_uuid: 50ade220-8612-4161-acfb-dbdc53249ed1
+  attestation:
+    text_title: 白虎通
+    line_uuid: 1e12b44f-06ff-4658-ac88-32b3386c9e5c
+    line_id: KR3j0023_tls_006-208a.9
+    textline: 「前歌後舞
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

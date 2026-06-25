@@ -1,0 +1,32 @@
+uuid: dbe2d3ab-db8a-4916-a2d3-abdb8a4916bc
+type: word-relation
+group_uuid: 2087050a-8e60-59bb-a3e3-b524ee1a0e22
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-26a.12
+    textline: 不在於彼而在於我
+    offset: 4
+    range: 1
+right:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-26a.12
+    textline: 不在於彼而在於我
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-05-10T21:11:03.84+09:00'

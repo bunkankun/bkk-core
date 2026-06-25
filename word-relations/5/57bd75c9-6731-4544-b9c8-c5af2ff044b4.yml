@@ -1,0 +1,18 @@
+uuid: 57bd75c9-6731-4544-b9c8-c5af2ff044b4
+type: word-relation
+group_uuid: 1d24dcbd-cd3c-5466-8f8c-cdec82a0dfdb
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7ea74424-02c7-4288-b60e-971a29beeb1f
+  text: 凹
+  concept: CONCAVE
+  concept_uuid: f41050cf-420d-4a3c-8fe8-891cf12ffe57
+right:
+  word_uuid: fc27d3af-5bf8-4aa7-be12-a748d012f0c8
+  text: 凸
+  concept: ROUND
+  concept_uuid: 11aec024-937d-4ac6-a54d-a20ffa8ae3d4
+source:
+  source_file: word-relations.xml

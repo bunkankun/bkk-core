@@ -1,0 +1,32 @@
+uuid: de046867-3a66-4018-8fe6-4b9d8b276ed2
+type: word-relation
+group_uuid: de046867-3a66-4018-8fe6-4b9d8b276ed2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 9c3371fd-695f-44d8-9de4-96d0e883b18b
+  text: 傳
+  concept: TRANSMIT
+  concept_uuid: 17840308-f823-4860-a828-a902c9e83fa9
+  attestation:
+    text_title: 論語
+    line_uuid: cec5e6c3-719a-4128-8cca-43222ec09207
+    line_id: KR1h0004_tls_001-5a.1
+    textline: 傳不習乎
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4f2faef4-c884-4ea3-ac7b-c358b33e08b8
+  text: 習
+  concept: REPEAT
+  concept_uuid: e03e06fd-c039-47fc-a9b4-b439babd78a0
+  attestation:
+    text_title: 論語
+    line_uuid: cec5e6c3-719a-4128-8cca-43222ec09207
+    line_id: KR1h0004_tls_001-5a.1
+    textline: 傳不習乎
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

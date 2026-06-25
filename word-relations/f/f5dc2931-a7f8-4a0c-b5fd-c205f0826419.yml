@@ -1,0 +1,21 @@
+uuid: f5dc2931-a7f8-4a0c-b5fd-c205f0826419
+type: word-relation
+group_uuid: 5e31d2b1-f854-5457-84c2-a6bd5033246e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4d6c3992-debb-4204-9926-8d03e3c26d41
+  text: 和
+  concept: HARMONY
+  concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+right:
+  word_uuid: 95639b41-3926-48e3-a867-58545122f20a
+  text: 變
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

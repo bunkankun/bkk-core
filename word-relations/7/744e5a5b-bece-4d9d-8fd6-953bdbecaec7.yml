@@ -1,0 +1,31 @@
+uuid: 744e5a5b-bece-4d9d-8fd6-953bdbecaec7
+type: word-relation
+group_uuid: d3ddc8f3-8f2c-4a8b-ad58-ca11381cf0a7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 列子
+    line_uuid: 339ccbdc-fcb2-4c46-af65-a65da341eea8
+    line_id: KR5c0124_tls_006-2a.95
+    textline: 在我也
+    offset: 2
+    range: 1
+right:
+  word_uuid: a6a70e6d-c41b-4af3-ae55-b32acda0e24d
+  text: 彼
+  concept: THAT
+  concept_uuid: 28da57be-e713-40d9-bc3d-600e018beb26
+  attestation:
+    text_title: 列子
+    line_uuid: f27b4183-1fba-4297-a34e-2975d0319127
+    textline: 不知榮辰之在彼也
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cbeeb70a-10cb-4bc2-aeb7-0a10cbdbc24b
+type: word-relation
+group_uuid: 3bb753b1-8aff-4536-88de-76ee768c22bb
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_015-44a.26
+    textline: 變法宜矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_015-44a.26
+    textline: 變法宜矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T01:30:59.317+09:00'

@@ -1,0 +1,30 @@
+uuid: 7363327c-9f76-4865-92ed-a33912649ba8
+type: word-relation
+group_uuid: 7363327c-9f76-4865-92ed-a33912649ba8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 睡虎地
+    line_uuid: c4bd257a-1075-4a07-8658-f082aae7ad7f
+    textline: 政之本也
+    offset: 1
+    range: 1
+right:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 睡虎地
+    line_uuid: 80bc5dd1-aebf-4c92-9a10-ccb350c6c7e1
+    textline: 治之紀也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ba59ffee-e2aa-4b38-99ff-eee2aa6b3874
+type: word-relation
+group_uuid: c4f862e3-2a1e-50b4-a694-cf59263d6e2a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 39b873d6-8060-412e-b4f2-4bc625a4c8b8
+  text: 移
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.49
+    textline: 則先王之法度有移易者矣
+    offset: 8
+    range: 1
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.49
+    textline: 則先王之法度有移易者矣
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:18:53.894+09:00'

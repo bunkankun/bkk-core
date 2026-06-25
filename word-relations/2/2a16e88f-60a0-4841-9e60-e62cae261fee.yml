@@ -1,0 +1,21 @@
+uuid: 2a16e88f-60a0-4841-9e60-e62cae261fee
+type: word-relation
+group_uuid: 7d7000fa-fd95-5985-a053-363e0826169c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a691fe69-bdf4-4b60-819b-ac6a8c0d567e
+  text: 疾
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+right:
+  word_uuid: e2528583-3c4e-4ecb-9532-fa6ed540f5e1
+  text: 微
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

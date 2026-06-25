@@ -1,0 +1,32 @@
+uuid: 92a732c2-76e7-4d4a-a732-c276e76d4a9f
+type: word-relation
+group_uuid: 4e7af56f-3541-5cff-983a-0d8f07eb825e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: be85cd1e-586b-48b3-85cd-1e586b48b3e7
+  text: 天心
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-53a.508
+    textline: 無失天心
+    offset: 3
+    range: 2
+right:
+  word_uuid: 0b143784-e284-46e5-9437-84e28406e512
+  text: 失
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-53a.508
+    textline: 無失天心
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T10:45:39.672+09:00'

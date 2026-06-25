@@ -1,0 +1,32 @@
+uuid: 73465a42-dafc-44e3-892f-10f8ab51bd07
+type: word-relation
+group_uuid: c332cd25-0e1c-4935-afa6-ac9949503321
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 荀子
+    line_uuid: d96a5b34-e4c8-479c-8336-b42303fea7cf
+    line_id: KR3a0002_tls_023-1a.13
+    textline: 而忠信亡焉
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 荀子
+    line_uuid: d96a5b34-e4c8-479c-8336-b42303fea7cf
+    line_id: KR3a0002_tls_023-1a.13
+    textline: 而忠信亡焉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

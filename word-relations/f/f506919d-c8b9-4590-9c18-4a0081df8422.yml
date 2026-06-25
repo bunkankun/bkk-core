@@ -1,0 +1,32 @@
+uuid: f506919d-c8b9-4590-9c18-4a0081df8422
+type: word-relation
+group_uuid: f506919d-c8b9-4590-9c18-4a0081df8422
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0a10db5c-9e6d-4c64-9ba2-e4a2bb9bc460
+  text: 使
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 商君書
+    line_uuid: fea970c9-16a5-4e58-b356-d92f456520ed
+    line_id: KR3c0004_tls_001-1a.5
+    textline: 求使民之道
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 商君書
+    line_uuid: fea970c9-16a5-4e58-b356-d92f456520ed
+    line_id: KR3c0004_tls_001-1a.5
+    textline: 求使民之道
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

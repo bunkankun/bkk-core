@@ -1,0 +1,32 @@
+uuid: 9a5a3881-7afa-44d3-9a38-817afa84d3ab
+type: word-relation
+group_uuid: be873b83-85b2-52ec-af49-0fdcd61c97f5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_027-3a.17
+    textline: 利義陳乎前
+    offset: 1
+    range: 1
+right:
+  word_uuid: aaa2807b-e572-4f35-b077-3447963a7c17
+  text: 義
+  concept: RECTITUDE
+  concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_027-3a.17
+    textline: 利義陳乎前
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T00:16:17.041+09:00'

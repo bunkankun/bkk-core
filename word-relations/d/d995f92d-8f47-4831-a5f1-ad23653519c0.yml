@@ -1,0 +1,30 @@
+uuid: d995f92d-8f47-4831-a5f1-ad23653519c0
+type: word-relation
+group_uuid: d995f92d-8f47-4831-a5f1-ad23653519c0
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 04e341a0-153d-4e9b-8fda-981bb4e459af
+  text: 唇
+  concept: LIP
+  concept_uuid: 9adfdb03-e3b8-49dc-833a-2b05c92224a7
+  attestation:
+    text_title: 韓非子
+    line_uuid: a016089c-e961-44cb-b749-d292d5d24e3b
+    textline: ‘唇亡則齒寒’
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0182f188-4809-4fc9-9e6d-087d18e65cdc
+  text: 齒
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 韓非子
+    line_uuid: a016089c-e961-44cb-b749-d292d5d24e3b
+    textline: ‘唇亡則齒寒’
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

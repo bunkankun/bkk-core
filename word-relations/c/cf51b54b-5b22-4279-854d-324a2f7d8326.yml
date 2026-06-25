@@ -1,0 +1,32 @@
+uuid: cf51b54b-5b22-4279-854d-324a2f7d8326
+type: word-relation
+group_uuid: 3fc98542-ece8-4c35-aac1-f8fe8382cf34
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: ee3a9d85-3444-4057-8a0b-87ea7e21165d
+  text: 注
+  concept: POUR
+  concept_uuid: d9357a33-2751-4c25-8d0c-e8b6c133684f
+  attestation:
+    text_title: 莊子
+    line_uuid: b675a3c9-3743-42c8-a3dc-65f5bffc6ae0
+    line_id: KR5c0126_tls_002-10a.44
+    textline: 注焉而不滿
+    offset: 1
+    range: 1
+right:
+  word_uuid: 456f232a-9b02-45b0-840f-2d50df10cb94
+  text: 酌
+  concept: LADLE
+  concept_uuid: b4e10029-452b-4cf1-90e1-39bb34d71164
+  attestation:
+    text_title: 莊子
+    line_uuid: 1097d2b4-0c05-4abd-984f-0ea16d31573e
+    line_id: KR5c0126_tls_002-10a.45
+    textline: 酌焉而不竭
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

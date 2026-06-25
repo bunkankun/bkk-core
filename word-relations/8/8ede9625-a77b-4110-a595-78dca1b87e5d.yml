@@ -1,0 +1,18 @@
+uuid: 8ede9625-a77b-4110-a595-78dca1b87e5d
+type: word-relation
+group_uuid: f6b9ac1f-b0e9-5cdf-ae07-5f2f2ba37e52
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: acdb16d1-c89b-442b-9c0e-1a3653209b86
+  text: 父
+  concept: FATHER
+  concept_uuid: 460c4b0c-2501-4339-882e-93ae444cb8d4
+right:
+  word_uuid: c8db65b9-7001-4baa-a932-ed8322e242e7
+  text: 子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+source:
+  source_file: word-relations.xml

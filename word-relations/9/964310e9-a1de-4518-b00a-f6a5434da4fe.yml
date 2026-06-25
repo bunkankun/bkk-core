@@ -1,0 +1,32 @@
+uuid: 964310e9-a1de-4518-b00a-f6a5434da4fe
+type: word-relation
+group_uuid: 964310e9-a1de-4518-b00a-f6a5434da4fe
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 65feb179-bbed-4c04-9fc8-ab762794062b
+    line_id: KR3j0009_tls_003-19a.10
+    textline: 必先治身
+    offset: 4
+    range: 1
+right:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d74bbadf-fc75-40fd-af72-67e42fc017f6
+    line_id: KR3j0009_tls_003-19a.9
+    textline: 凡事之本
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

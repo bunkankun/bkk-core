@@ -1,0 +1,32 @@
+uuid: 4c32db0e-46e5-44e4-a6b8-3b2cae35674f
+type: word-relation
+group_uuid: 4c32db0e-46e5-44e4-a6b8-3b2cae35674f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f1b3c35d-b78b-452e-a380-e1ece50a7109
+  text: 拔
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9bcba66e-5b79-4048-8271-c15ede247b89
+    line_id: KR3c0005_tls_001-19a.6
+    textline: 則梁可拔
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7f15ec66-eeaf-4b2d-9a41-aedf8f1c1a9e
+  text: 舉
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 441a5a91-1027-4285-b554-61df6d85725d
+    line_id: KR3c0005_tls_001-19a.8
+    textline: 則魏可舉
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

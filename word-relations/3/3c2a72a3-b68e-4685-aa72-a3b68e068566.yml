@@ -1,0 +1,32 @@
+uuid: 3c2a72a3-b68e-4685-aa72-a3b68e068566
+type: word-relation
+group_uuid: 84ecab3a-b1e1-568a-8bbb-55716c54e0e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3d60756c-20e3-422b-a075-6c20e3522be5
+  text: 鍪
+  concept: HAT
+  concept_uuid: 817bf10f-8ece-4d05-8cda-9cac1519f21e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.3
+    textline: 古者有鍪而綣領以王天下者矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 982f30d6-1b52-4213-af30-d61b52d21388
+  text: 綣領
+  concept: COLLAR
+  concept_uuid: 3450870a-0c3b-4be9-b792-6cb9f889afcc
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.3
+    textline: 古者有鍪而綣領以王天下者矣
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T20:48:51.395+09:00'

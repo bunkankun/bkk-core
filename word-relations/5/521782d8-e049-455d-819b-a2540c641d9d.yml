@@ -1,0 +1,21 @@
+uuid: 521782d8-e049-455d-819b-a2540c641d9d
+type: word-relation
+group_uuid: 948b6eca-8f5e-5890-a9bf-101f3ab73bcc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+right:
+  word_uuid: 29dc08a0-3572-4f6b-9549-712677609029
+  text: 暗闇
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

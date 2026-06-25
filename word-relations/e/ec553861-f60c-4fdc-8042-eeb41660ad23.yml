@@ -1,0 +1,32 @@
+uuid: ec553861-f60c-4fdc-8042-eeb41660ad23
+type: word-relation
+group_uuid: ec553861-f60c-4fdc-8042-eeb41660ad23
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 18b2207e-2ce2-4346-b3be-480f9e0fb2e6
+  text: 漆
+  concept: LACQUER
+  concept_uuid: d5fd8b9f-1b6d-4cfa-beb2-9b572beaf25d
+  attestation:
+    text_title: 韓非子
+    line_uuid: d6c55dbf-2d14-4e8b-b503-8ccab4bb2d40
+    line_id: KR3c0005_tls_010-88a.7
+    textline: 流漆墨其上
+    offset: 2
+    range: 1
+right:
+  word_uuid: 86b5cac3-18e8-4c86-a526-03b7b64e3345
+  text: 墨
+  concept: INK
+  concept_uuid: 3ce4fa1c-e7b3-45b5-8239-485587bb3ff8
+  attestation:
+    text_title: 韓非子
+    line_uuid: d6c55dbf-2d14-4e8b-b503-8ccab4bb2d40
+    line_id: KR3c0005_tls_010-88a.7
+    textline: 流漆墨其上
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

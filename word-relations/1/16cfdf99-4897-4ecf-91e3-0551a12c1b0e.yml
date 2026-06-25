@@ -1,0 +1,21 @@
+uuid: 16cfdf99-4897-4ecf-91e3-0551a12c1b0e
+type: word-relation
+group_uuid: 2cba39c7-c19f-559b-87b5-a6baf4d01f2c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 00ba3fb8-23d1-4d87-84d7-bdb0e3de5a78
+  text: 拔
+  concept: UPROOT
+  concept_uuid: 9a320bad-a656-4724-8fed-cd48b8c47e9e
+right:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

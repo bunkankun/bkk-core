@@ -1,0 +1,32 @@
+uuid: 60ae8bdf-4ac4-42aa-bddf-0969e4b28df7
+type: word-relation
+group_uuid: 60ae8bdf-4ac4-42aa-bddf-0969e4b28df7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 776cc7dc-498d-4b96-a932-b81ed16cf09e
+  text: 離
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+  attestation:
+    text_title: 韓非子
+    line_uuid: e15f7dab-9177-4d51-b63b-c646d64f11a0
+    line_id: KR3c0005_tls_006-24a.5
+    textline: 離俗隱居
+    offset: 1
+    range: 1
+right:
+  word_uuid: 094758c2-1faf-4baf-9c11-50bdb6586a4c
+  text: 俗
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 韓非子
+    line_uuid: e15f7dab-9177-4d51-b63b-c646d64f11a0
+    line_id: KR3c0005_tls_006-24a.5
+    textline: 離俗隱居
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

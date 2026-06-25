@@ -1,0 +1,32 @@
+uuid: 0c211780-f659-44b4-92ad-ee47375e4f16
+type: word-relation
+group_uuid: 0c211780-f659-44b4-92ad-ee47375e4f16
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0870b526-e9f5-4f64-9d85-27159efe3055
+  text: 溝
+  concept: CANAL
+  concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+  attestation:
+    text_title: 管子
+    line_uuid: 57347eba-4957-4e88-b1d3-8fb4992f2f2c
+    line_id: KR3c0001_tls_023-149a.8
+    textline: 勿使赴於溝澮之中
+    offset: 5
+    range: 1
+right:
+  word_uuid: ede561a1-0757-417e-b186-8602c20ded69
+  text: 澮
+  concept: CANAL
+  concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+  attestation:
+    text_title: 管子
+    line_uuid: 57347eba-4957-4e88-b1d3-8fb4992f2f2c
+    line_id: KR3c0001_tls_023-149a.8
+    textline: 勿使赴於溝澮之中
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

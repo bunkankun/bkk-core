@@ -1,0 +1,35 @@
+uuid: 2f2f4e98-00a4-4192-8fb2-d947f0552b66
+type: word-relation
+group_uuid: c4a14cf1-519c-4797-b779-135e707d8dc0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8527cde9-78fa-475f-8448-3d635bd3a780
+  text: 壞
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+  attestation:
+    text_title: 管子
+    line_uuid: efd4c0e5-09f0-4031-b27e-0fa41aa645f3
+    line_id: KR3c0001_tls_001-328a.8
+    textline: 則城郭毀壞
+    offset: 5
+    range: 1
+right:
+  word_uuid: 397932c0-5587-4f18-b32b-e4e6fb7113b8
+  text: 毀
+  concept: DESTROY
+  concept_uuid: 25118dda-1ad5-474a-bfb1-f766ef011637
+  attestation:
+    text_title: 管子
+    line_uuid: efd4c0e5-09f0-4031-b27e-0fa41aa645f3
+    line_id: KR3c0001_tls_001-328a.8
+    textline: 則城郭毀壞
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

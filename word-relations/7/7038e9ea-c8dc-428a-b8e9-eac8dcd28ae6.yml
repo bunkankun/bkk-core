@@ -1,0 +1,32 @@
+uuid: 7038e9ea-c8dc-428a-b8e9-eac8dcd28ae6
+type: word-relation
+group_uuid: 06423a3d-09fc-5619-96fd-d8d6ac44a547
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1d43843a-b986-49cd-bec4-e75d727e883b
+  text: 圓
+  concept: PERFECT
+  concept_uuid: 1eee4d96-6927-4e2e-addb-a3b7e515ef4d
+  attestation:
+    text_title: 宗鏡錄
+    line_id: KR6q0092_CBETA_000-0415b2801.s292
+    textline: 指掌而念念 圓明
+    offset: 6
+    range: 1
+right:
+  word_uuid: fbc6670d-1780-492e-bc1a-03318fc40918
+  text: 明
+  concept: CLEAR
+  concept_uuid: b32a5865-e513-42da-874a-a6d2fe200479
+  attestation:
+    text_title: 宗鏡錄
+    line_id: KR6q0092_CBETA_000-0415b2801.s292
+    textline: 指掌而念念 圓明
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#chris'
+  date: '2023-02-10T21:32:02.687+09:00'

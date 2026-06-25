@@ -1,0 +1,18 @@
+uuid: fb12f6d0-1ab2-4694-8e46-f1a16e12572c
+type: word-relation
+group_uuid: b99a0696-4389-5c2f-b199-3d29b1877ba7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4b1757ea-c990-4ae2-a308-08e9c40671c0
+  text: 世間
+  concept: WORLD
+  concept_uuid: c58cabd3-f323-43ec-a15b-c77a6888da2a
+right:
+  word_uuid: 16f8e54c-ef29-417e-8f3b-9892eedb78bd
+  text: 佛國
+  concept: SKY
+  concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+source:
+  source_file: word-relations.xml

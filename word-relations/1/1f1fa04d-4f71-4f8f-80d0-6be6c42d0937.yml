@@ -1,0 +1,21 @@
+uuid: 1f1fa04d-4f71-4f8f-80d0-6be6c42d0937
+type: word-relation
+group_uuid: fe3075d6-4e66-5c93-a894-e73ec0298e6d
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6588a1b2-4eb8-40bf-82ce-7c4c50ad444e
+  text: 產
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+right:
+  word_uuid: d45d72db-4b7e-43eb-ac7e-9d07b1a07b78
+  text: 生
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

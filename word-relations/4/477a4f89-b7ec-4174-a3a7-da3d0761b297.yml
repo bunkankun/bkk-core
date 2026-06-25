@@ -1,0 +1,32 @@
+uuid: 477a4f89-b7ec-4174-a3a7-da3d0761b297
+type: word-relation
+group_uuid: 6295d623-d5ad-4cd6-ace2-c11a864aecfd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0068e61-a227-49bd-9395-c186eb0bad27
+  text: 智
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 韓非子
+    line_uuid: c8edf568-f744-4df4-a8ec-c1a63e39921a
+    line_id: KR3c0005_tls_008-12a.4
+    textline: 智巧不去
+    offset: 1
+    range: 1
+right:
+  word_uuid: b8a2bddf-29ce-4701-ae0c-a6eff98f01cb
+  text: 巧
+  concept: CRAFTY
+  concept_uuid: 645579a2-89d5-4d43-881c-a69981039238
+  attestation:
+    text_title: 韓非子
+    line_uuid: c8edf568-f744-4df4-a8ec-c1a63e39921a
+    line_id: KR3c0005_tls_008-12a.4
+    textline: 智巧不去
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

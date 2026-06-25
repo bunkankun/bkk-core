@@ -1,0 +1,29 @@
+uuid: 5bd480d6-1a63-4218-9480-d61a634218de
+type: word-relation
+group_uuid: 6cc3bb6d-8427-575e-99f1-4fe11f6b14ec
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8744ba9-96e8-4ac1-9f33-23cb28fe8850
+  text: be on inti
+  concept: COMFORTABLE
+  concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+  attestation:
+    line_id: def-uuid-8c364f67-8c82-4c78-a79f-3a2f67e8f9dd
+    offset: 1
+    range: 10
+right:
+  word_uuid: e5d2b3d7-a586-4ed4-8c30-5ddbb82dad1b
+  text: 違
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    line_id: KR3a0002_tls_023-2a.27
+    textline: 安恣睢而違禮義者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-20T21:10:21.479+09:00'

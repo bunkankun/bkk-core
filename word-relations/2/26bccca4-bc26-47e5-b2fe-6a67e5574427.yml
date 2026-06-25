@@ -1,0 +1,30 @@
+uuid: 26bccca4-bc26-47e5-b2fe-6a67e5574427
+type: word-relation
+group_uuid: 26bccca4-bc26-47e5-b2fe-6a67e5574427
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 720a0530-36fc-462b-8f03-41048c5627ef
+    textline: 使構造怨仇
+    offset: 4
+    range: 1
+right:
+  word_uuid: 21c58be0-342b-4544-b041-3773a789da1b
+  text: 仇
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 720a0530-36fc-462b-8f03-41048c5627ef
+    textline: 使構造怨仇
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

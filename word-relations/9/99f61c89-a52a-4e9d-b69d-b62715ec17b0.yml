@@ -1,0 +1,35 @@
+uuid: 99f61c89-a52a-4e9d-b69d-b62715ec17b0
+type: word-relation
+group_uuid: 99f61c89-a52a-4e9d-b69d-b62715ec17b0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 13808986-a234-484d-a412-862d3e387251
+  text: 大
+  concept: BIG
+  concept_uuid: 4f5a4eb2-575b-4ec1-a41d-5977f43709e6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 68cc2eb5-0776-4dfe-875d-b4f2e6118df2
+    line_id: KR1e0001_tls_009-77a.8
+    textline: 吾子舍其大
+    offset: 5
+    range: 1
+right:
+  word_uuid: 166663c4-78df-452a-8659-42c870c817c2
+  text: 細
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 8248d1bc-1604-429f-bb1c-600f6c8413a6
+    line_id: KR1e0001_tls_009-77a.9
+    textline: 而重拜其細
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 1abb8dde-7e08-43c1-82a3-009ac1833fe5
+type: word-relation
+group_uuid: 1abb8dde-7e08-43c1-82a3-009ac1833fe5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f1af2835-00fd-4b9b-9d32-863c0f64643b
+  text: 榮
+  concept: FAMOUS
+  concept_uuid: 02b22c02-0ce8-450f-8f59-a3515ed392ef
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: cf5a7a09-499d-407d-8d87-2d7a0028c1b9
+    textline: 斯乃榮辱之本
+    offset: 3
+    range: 1
+right:
+  word_uuid: 49f734c6-8972-48e8-9fce-a482c02a85cc
+  text: 辱
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+  attestation:
+    text_title: 班昭:女戒
+    line_uuid: cf5a7a09-499d-407d-8d87-2d7a0028c1b9
+    textline: 斯乃榮辱之本
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

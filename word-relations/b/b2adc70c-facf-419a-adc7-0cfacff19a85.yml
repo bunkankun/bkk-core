@@ -1,0 +1,32 @@
+uuid: b2adc70c-facf-419a-adc7-0cfacff19a85
+type: word-relation
+group_uuid: 9a99f254-b908-51bb-8e88-aac0e554a4f7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a450c79f-e957-4f7f-8823-7e399bd55373
+  text: 一
+  concept: ONE
+  concept_uuid: 0c8f538a-2376-4b09-9e23-7661be9f74f4
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_006-3a.28
+    textline: 一淵不兩蛟
+    offset: 1
+    range: 1
+right:
+  word_uuid: c0b4b2af-c287-4511-8b91-a22879b8e9c9
+  text: 兩
+  concept: TWO
+  concept_uuid: c4a2e239-0e1f-4a1b-8b9e-02a7fc557e6e
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_006-3a.28
+    textline: 一淵不兩蛟
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T08:08:38.936+09:00'

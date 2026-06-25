@@ -1,0 +1,32 @@
+uuid: 4647d8b4-c3a5-403b-a8d2-c6900f58b717
+type: word-relation
+group_uuid: 4647d8b4-c3a5-403b-a8d2-c6900f58b717
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 53e4eca2-7e9b-427b-8210-fe05cbef1e39
+  text: 心開
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 百喻經
+    line_uuid: a1bb6c25-80ad-4561-847f-6b95e1c55b0a
+    line_id: KR6b0066_T_001-0546b.29
+    textline: 五百梵志心開意解
+    offset: 5
+    range: 2
+right:
+  word_uuid: 1d7afebc-f3cf-480d-8847-fb7cb13f2287
+  text: 意解
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 百喻經
+    line_uuid: a1bb6c25-80ad-4561-847f-6b95e1c55b0a
+    line_id: KR6b0066_T_001-0546b.29
+    textline: 五百梵志心開意解
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml

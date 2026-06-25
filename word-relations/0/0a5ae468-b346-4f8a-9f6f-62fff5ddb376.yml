@@ -1,0 +1,30 @@
+uuid: 0a5ae468-b346-4f8a-9f6f-62fff5ddb376
+type: word-relation
+group_uuid: 0a5ae468-b346-4f8a-9f6f-62fff5ddb376
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e755ab91-a02f-46a2-9c4f-570c696a5a85
+  text: 憂
+  concept: WORRY
+  concept_uuid: 9da5ed45-227f-46c1-a1c5-9207060d3f10
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a108a071-f449-48ae-a987-03ee7c0449d2
+    textline: 雖然我適有幽憂之病
+    offset: 8
+    range: 1
+right:
+  word_uuid: 73750594-beaf-4580-88f0-efa078170178
+  text: 幽
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a108a071-f449-48ae-a987-03ee7c0449d2
+    textline: 雖然我適有幽憂之病
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

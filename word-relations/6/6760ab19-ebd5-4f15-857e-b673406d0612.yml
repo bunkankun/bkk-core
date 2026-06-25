@@ -1,0 +1,21 @@
+uuid: 6760ab19-ebd5-4f15-857e-b673406d0612
+type: word-relation
+group_uuid: a9f227b9-6aca-5620-93dc-2db4f7b3d4ab
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 66dbc644-ac33-435d-9bad-91d471e68877
+  text: 稱
+  concept: WEIGH
+  concept_uuid: b45e662d-6dad-402b-9a85-10cc63424951
+right:
+  word_uuid: 9dfbc447-e476-461d-bb57-3de6f930f9e4
+  text: 量
+  concept: ASSESS
+  concept_uuid: 61b7cc2a-3b06-462f-88f7-4f1c0ca92e64
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

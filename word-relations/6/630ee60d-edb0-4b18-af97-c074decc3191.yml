@@ -1,0 +1,21 @@
+uuid: 630ee60d-edb0-4b18-af97-c074decc3191
+type: word-relation
+group_uuid: cfe94fc8-91dc-590f-ae34-5685de7ae697
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: c3f26b7b-dd70-4baf-841d-5afd8d051659
+  text: 薄
+  concept: TENUOUS
+  concept_uuid: 731a609c-2d26-44fe-9262-e30add30bc02
+right:
+  word_uuid: ab057f53-73f1-4cf1-9bad-02ee06916aff
+  text: 疏
+  concept: DISTANT
+  concept_uuid: 2f82079e-afca-4f46-be9a-15d3981ed027
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

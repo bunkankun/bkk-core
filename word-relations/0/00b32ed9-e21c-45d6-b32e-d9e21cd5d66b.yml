@@ -1,0 +1,32 @@
+uuid: 00b32ed9-e21c-45d6-b32e-d9e21cd5d66b
+type: word-relation
+group_uuid: 16a4589c-4f6f-5344-b080-d2f4dcf95728
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-28a.9
+    textline: 則民好善
+    offset: 4
+    range: 1
+right:
+  word_uuid: 94494611-f261-4be6-9ec4-642a7e9c5185
+  text: 暴
+  concept: VIOLENT
+  concept_uuid: 8e76f173-1932-4031-a197-9af14197a8f2
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-28a.11
+    textline: 則民好暴
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-16T21:21:37.593+09:00'

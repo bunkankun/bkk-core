@@ -1,0 +1,33 @@
+uuid: bc29e55c-ebf0-4b34-af21-330e1fa70198
+type: word-relation
+group_uuid: bc29e55c-ebf0-4b34-af21-330e1fa70198
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: af8919a7-26c5-4e0b-bda3-1321ae40074d
+  text: 土
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  attestation:
+    text_title: 孟子
+    line_uuid: 87471984-4ffe-4280-b81a-de77dd456613
+    textline: 『狄人之所欲者吾土地也
+    offset: 9
+    range: 1
+right:
+  word_uuid: 6caaf498-bb70-469d-87de-3e54a4fa98bb
+  text: 地
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  attestation:
+    text_title: 孟子
+    line_uuid: 87471984-4ffe-4280-b81a-de77dd456613
+    textline: 『狄人之所欲者吾土地也
+    offset: 10
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

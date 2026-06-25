@@ -1,0 +1,32 @@
+uuid: a0afeae7-a126-40ee-9d31-6b19de3db093
+type: word-relation
+group_uuid: 823a5fc1-9662-4794-8e43-a3ab7f63a4ea
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8bf96ccb-49d3-4970-b889-35fc786017c6
+  text: 淵
+  concept: LAKE
+  concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 25993c63-3598-4175-8776-e8a74c75d99b
+    line_id: KR3j0009_tls_003-26a.17
+    textline: 闊大淵深
+    offset: 3
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 25993c63-3598-4175-8776-e8a74c75d99b
+    line_id: KR3j0009_tls_003-26a.17
+    textline: 闊大淵深
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

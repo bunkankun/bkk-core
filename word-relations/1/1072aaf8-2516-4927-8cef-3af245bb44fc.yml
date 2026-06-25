@@ -1,0 +1,32 @@
+uuid: 1072aaf8-2516-4927-8cef-3af245bb44fc
+type: word-relation
+group_uuid: 1072aaf8-2516-4927-8cef-3af245bb44fc
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: c971a8c0-ffbf-4ea8-83cb-5537b877b1a2
+    line_id: KR1e0001_tls_009-318a.24
+    textline: 公使歌之
+    offset: 3
+    range: 1
+right:
+  word_uuid: ee262ce1-ebed-4117-ad81-07f8b0d0b643
+  text: 誦
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 04408e9a-2ba5-4bc6-b090-a112e89700c1
+    line_id: KR1e0001_tls_009-318a.25
+    textline: 遂誦之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

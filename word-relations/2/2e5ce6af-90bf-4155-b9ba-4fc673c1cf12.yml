@@ -1,0 +1,32 @@
+uuid: 2e5ce6af-90bf-4155-b9ba-4fc673c1cf12
+type: word-relation
+group_uuid: f0b6723d-ec5b-4f48-a7f2-456fb222b5d7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 孟子
+    line_uuid: 07a970bb-e945-4eaa-86de-b5d47daffdaf
+    line_id: KR1h0001_tls_001-17a.4
+    textline: 廄有肥馬
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0efb7a18-7246-44c9-8c15-35e1d01c2ad8
+  text: 肥
+  concept: FAT
+  concept_uuid: d1fe1333-ad06-4607-945c-1a9c64aba3ed
+  attestation:
+    text_title: 孟子
+    line_uuid: 07a970bb-e945-4eaa-86de-b5d47daffdaf
+    line_id: KR1h0001_tls_001-17a.4
+    textline: 廄有肥馬
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

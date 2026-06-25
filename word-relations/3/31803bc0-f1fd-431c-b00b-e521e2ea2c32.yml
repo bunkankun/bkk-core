@@ -1,0 +1,32 @@
+uuid: 31803bc0-f1fd-431c-b00b-e521e2ea2c32
+type: word-relation
+group_uuid: 1c95a8e7-09a9-4297-9c8a-488fdf0cb713
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 206052f6-2005-477d-9ffe-c18eb7909d29
+  text: 黨
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+  attestation:
+    text_title: 孟子
+    line_uuid: 1e6db043-7177-4c65-a103-e1cee654077d
+    line_id: KR1h0001_tls_004-13a.19
+    textline: 鄉黨莫如齒
+    offset: 2
+    range: 1
+right:
+  word_uuid: e3b701f5-313b-4893-80e9-e1083f881604
+  text: 鄉
+  concept: NEIGHBOUR
+  concept_uuid: ce4a43a9-9d44-4eb9-9f1a-dfee0608e137
+  attestation:
+    text_title: 孟子
+    line_uuid: 1e6db043-7177-4c65-a103-e1cee654077d
+    line_id: KR1h0001_tls_004-13a.19
+    textline: 鄉黨莫如齒
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

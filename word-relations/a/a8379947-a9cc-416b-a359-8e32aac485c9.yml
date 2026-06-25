@@ -1,0 +1,31 @@
+uuid: a8379947-a9cc-416b-a359-8e32aac485c9
+type: word-relation
+group_uuid: a8379947-a9cc-416b-a359-8e32aac485c9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 老子
+    line_uuid: e80ccb51-d3e8-4b22-9179-9619976cc763
+    textline: 我獨昏昏
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7337225c-9088-4f1d-b833-e298bb3609ca
+  text: 俗人
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 老子
+    line_uuid: a012e387-9ba9-4856-a3a3-d0a8c24421c2
+    line_id: KR5c0057_tls_020-1a.22
+    textline: 俗人昭昭,
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 32e7c8e4-7648-4f09-9e88-50d4b046d24f
+type: word-relation
+group_uuid: 32e7c8e4-7648-4f09-9e88-50d4b046d24f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 848967fb-96b0-4737-9dc7-a870db13a43b
+  text: 賜
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 管子
+    line_uuid: 31ea7a53-5b9d-4b97-8ee7-8a60200dae62
+    line_id: KR3c0001_tls_003-32a.4
+    textline: 賜予
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 予
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 管子
+    line_uuid: 31ea7a53-5b9d-4b97-8ee7-8a60200dae62
+    line_id: KR3c0001_tls_003-32a.4
+    textline: 賜予
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

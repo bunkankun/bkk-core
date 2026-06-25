@@ -1,0 +1,32 @@
+uuid: 71a0d17e-9df6-4791-9fef-31ca50beac02
+type: word-relation
+group_uuid: 3f46f27c-509a-4262-b243-4afa7fa14a50
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 95e999bb-96ea-4167-bef2-08e51bf2f923
+    line_id: KR3c0005_tls_014-61a.2
+    textline: 託於犀車良馬之上
+    offset: 6
+    range: 1
+right:
+  word_uuid: 9d78f24b-f2d7-4fea-9ff7-dd98635385f2
+  text: 良
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 95e999bb-96ea-4167-bef2-08e51bf2f923
+    line_id: KR3c0005_tls_014-61a.2
+    textline: 託於犀車良馬之上
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

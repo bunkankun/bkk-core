@@ -1,0 +1,23 @@
+uuid: c14c462f-f906-4927-9f39-b97e7bb92fdd
+type: word-relation
+group_uuid: b7c6656b-5bf9-5a12-97df-c3be9999ec26
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 06db6c90-97b9-4aa1-aa5d-4e515c417edb
+  text: 合
+  concept: COMBINE
+  concept_uuid: 57bfb426-56b5-44b8-8b75-0f68077feea8
+right:
+  word_uuid: f3953ddd-64d0-4254-8b8b-0680c89a2c88
+  text: 離
+  concept: DIVIDE
+  concept_uuid: 3762c04a-9ca0-4fd6-b04e-2e24b1f91682
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

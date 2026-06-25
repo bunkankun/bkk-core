@@ -1,0 +1,32 @@
+uuid: 63a3dda4-a483-48c5-8083-5b02278b6113
+type: word-relation
+group_uuid: 63a3dda4-a483-48c5-8083-5b02278b6113
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a65aac17-f406-4524-82ed-082459d98976
+  text: 贈
+  concept: GIFT
+  concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4d7f2666-a781-4a3b-bf8a-8dc7a668f167
+    line_id: KR1e0001_tls_010-138a.34
+    textline: 出有贈賄
+    offset: 3
+    range: 1
+right:
+  word_uuid: 58c9c450-d6ac-4364-b6d0-0343f756986a
+  text: 賄
+  concept: GIFT
+  concept_uuid: 748fc726-746d-44e1-9a60-bc5853203054
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 4d7f2666-a781-4a3b-bf8a-8dc7a668f167
+    line_id: KR1e0001_tls_010-138a.34
+    textline: 出有贈賄
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

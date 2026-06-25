@@ -1,0 +1,32 @@
+uuid: 8e31ce75-a448-49b4-ac32-108c9d91c1e6
+type: word-relation
+group_uuid: 8e31ce75-a448-49b4-ac32-108c9d91c1e6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: e905fe55-e6af-4db8-8b10-b0f051e399eb
+  text: 逮
+  concept: REACH
+  concept_uuid: 68e6aef4-6b8e-43bc-8276-28706936c1fe
+  attestation:
+    text_title: 楚辭
+    line_uuid: 50eb5d29-2561-40d1-a188-47b274ae8e07
+    line_id: KR4a0001_tls_006-1a.59
+    textline: 數有所不逮
+    offset: 5
+    range: 1
+right:
+  word_uuid: 5e851a68-7bb7-461c-8bd2-05ce55e52136
+  text: 通
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 楚辭
+    line_uuid: ee9b2338-8def-4cf9-8c5f-c6e0809220f7
+    line_id: KR4a0001_tls_006-1a.60
+    textline: 神有所不通
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

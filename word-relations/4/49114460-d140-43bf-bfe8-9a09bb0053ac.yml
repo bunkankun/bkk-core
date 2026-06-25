@@ -1,0 +1,32 @@
+uuid: 49114460-d140-43bf-bfe8-9a09bb0053ac
+type: word-relation
+group_uuid: 49114460-d140-43bf-bfe8-9a09bb0053ac
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1675a666-ba16-46e7-ab07-e25ba6e6c68a
+  text: 薦
+  concept: HAY
+  concept_uuid: 850a98f1-b50e-4008-9410-ad92c84e0d32
+  attestation:
+    text_title: 韓非子
+    line_uuid: c1551c05-199a-43c9-972e-96eaf9a2cb9e
+    line_id: KR3c0005_tls_030-82a.12
+    textline: 唯薦草而就”
+    offset: 2
+    range: 1
+right:
+  word_uuid: 622acb76-3c92-4f58-a934-7246aa0053f8
+  text: 草
+  concept: GRASS
+  concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+  attestation:
+    text_title: 韓非子
+    line_uuid: c1551c05-199a-43c9-972e-96eaf9a2cb9e
+    line_id: KR3c0005_tls_030-82a.12
+    textline: 唯薦草而就”
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

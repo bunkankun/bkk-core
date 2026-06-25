@@ -1,0 +1,32 @@
+uuid: 5e9a4286-8a1a-4441-8ca7-39c9e05a459e
+type: word-relation
+group_uuid: a9431471-b91a-4300-97f4-3415ecd8de9d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4dd7c20a-33cb-4be6-8b52-d04e205d6f74
+  text: 彼
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 戰國策
+    line_uuid: d817f5cb-fbfa-4308-9a2f-14af093a0b67
+    line_id: KR2e0003_tls_058-2a.34
+    textline: ‘居彼人之所
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 戰國策
+    line_uuid: 207e45a4-bbbf-44ac-acb0-ac231b633439
+    line_id: KR2e0003_tls_058-2a.35
+    textline: 則欲其許我也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

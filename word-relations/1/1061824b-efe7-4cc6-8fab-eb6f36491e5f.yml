@@ -1,0 +1,35 @@
+uuid: 1061824b-efe7-4cc6-8fab-eb6f36491e5f
+type: word-relation
+group_uuid: 6e466742-9f2b-4c2f-9e8a-eadd0b349688
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 老子
+    line_uuid: e3a4ae63-0b9c-43a2-ad8e-860ffe4ae5b7
+    line_id: KR5c0057_tls_020-1a.6
+    textline: 善之與惡
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 老子
+    line_uuid: e3a4ae63-0b9c-43a2-ad8e-860ffe4ae5b7
+    line_id: KR5c0057_tls_020-1a.6
+    textline: 善之與惡
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

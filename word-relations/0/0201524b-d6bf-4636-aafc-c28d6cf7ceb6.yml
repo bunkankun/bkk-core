@@ -1,0 +1,32 @@
+uuid: 0201524b-d6bf-4636-aafc-c28d6cf7ceb6
+type: word-relation
+group_uuid: 0201524b-d6bf-4636-aafc-c28d6cf7ceb6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論衡
+    line_uuid: 709fdceb-e75d-4822-8970-b5d19a8bad32
+    line_id: KR3j0080_tls_006-5a.43
+    textline: 行善於內
+    offset: 1
+    range: 1
+right:
+  word_uuid: b420976b-03d3-468c-bb65-fe59e77f04a5
+  text: 遭
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 37f0a220-d535-4602-bc10-6571accf5196
+    line_id: KR3j0080_tls_006-5a.44
+    textline: 遭凶於外也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

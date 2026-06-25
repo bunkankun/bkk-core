@@ -1,0 +1,32 @@
+uuid: faa77a4d-1484-4d76-93f0-cf1c9094b75a
+type: word-relation
+group_uuid: faa77a4d-1484-4d76-93f0-cf1c9094b75a
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 495686e2-663d-4f3e-ba5a-e5ade2a38902
+  text: 術
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 40c87444-6df3-40ab-81b9-14f76ad33247
+    line_id: KR3c0005_tls_014-61a.7
+    textline: 操法術之數
+    offset: 3
+    range: 1
+right:
+  word_uuid: df0833ed-a86b-4610-ae6a-67dbbade12d6
+  text: 數
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 40c87444-6df3-40ab-81b9-14f76ad33247
+    line_id: KR3c0005_tls_014-61a.7
+    textline: 操法術之數
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

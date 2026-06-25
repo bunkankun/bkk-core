@@ -1,0 +1,32 @@
+uuid: ce56cf1a-8cd0-450f-96cf-1a8cd0550fc8
+type: word-relation
+group_uuid: f184486b-09d4-5aed-bf69-070e6333357c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: ce268665-e360-4da2-80a4-135b0d4cab60
+  text: 道術
+  concept: PHILOSOPHY
+  concept_uuid: 8c2ae63d-8a36-49de-9537-3ed8ca39a4b5
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_006-33a.188
+    textline: 會聾暗不知道術
+    offset: 6
+    range: 2
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_006-33a.188
+    textline: 會聾暗不知道術
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-12T18:54:41.204+09:00'

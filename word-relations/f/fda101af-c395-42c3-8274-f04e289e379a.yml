@@ -1,0 +1,30 @@
+uuid: fda101af-c395-42c3-8274-f04e289e379a
+type: word-relation
+group_uuid: fda101af-c395-42c3-8274-f04e289e379a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8198167b-2460-43f4-bb04-ffbb14bafc8e
+  text: 妾
+  concept: CONCUBINE
+  concept_uuid: e66a37a1-4ef4-418b-a9af-e2d448ee5c4a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61affede-9112-4487-86d9-894c45a87c5e
+    textline: 有愛妾曰餘
+    offset: 3
+    range: 1
+right:
+  word_uuid: eda90c89-ab4f-4357-9e6f-c261396f96e9
+  text: 愛
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 61affede-9112-4487-86d9-894c45a87c5e
+    textline: 有愛妾曰餘
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

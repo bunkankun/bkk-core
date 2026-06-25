@@ -1,0 +1,32 @@
+uuid: 29cb8ad4-480f-4bd5-ae72-240c272c173b
+type: word-relation
+group_uuid: 29cb8ad4-480f-4bd5-ae72-240c272c173b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 98abeb99-61e3-420b-93f6-3751653cf0f7
+  text: 誣
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 韓非子
+    line_uuid: e9a5c4e5-5b9e-461c-8476-afe3d8a3f16a
+    line_id: KR3c0005_tls_050-4a.13
+    textline: 誣也
+    offset: 1
+    range: 1
+right:
+  word_uuid: a1b4bbf3-47f4-4117-9755-261cc0f20f45
+  text: 愚
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓非子
+    line_uuid: b8a3611f-a315-49e5-a9a0-a519f0dde458
+    line_id: KR3c0005_tls_050-4a.11
+    textline: 愚也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

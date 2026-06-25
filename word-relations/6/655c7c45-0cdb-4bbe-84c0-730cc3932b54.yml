@@ -1,0 +1,21 @@
+uuid: 655c7c45-0cdb-4bbe-84c0-730cc3932b54
+type: word-relation
+group_uuid: ba27b6c0-f097-5718-b991-fbc0d4d9de1a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9933eebd-fba3-4248-be15-678aea21a76f
+  text: 佳
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+right:
+  word_uuid: 5dfc3d28-f35f-45f7-bdec-821c1c840c15
+  text: 嫻閑
+  concept: SEXY
+  concept_uuid: 597a5622-81bd-43a3-a91a-ab18a335f73d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

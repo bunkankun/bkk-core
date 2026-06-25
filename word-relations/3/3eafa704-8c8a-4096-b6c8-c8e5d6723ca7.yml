@@ -1,0 +1,32 @@
+uuid: 3eafa704-8c8a-4096-b6c8-c8e5d6723ca7
+type: word-relation
+group_uuid: 3eafa704-8c8a-4096-b6c8-c8e5d6723ca7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: cb9fd03b-1c15-48e5-aa2e-a815f586ef42
+  text: 國君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b62423b1-de33-4b64-92c2-14b61e296768
+    line_id: KR1e0001_tls_005-386a.19
+    textline: 國君而讎匹夫
+    offset: 1
+    range: 2
+right:
+  word_uuid: 9ec45957-0619-4f24-a115-61ce76a9ae09
+  text: 匹夫
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: b62423b1-de33-4b64-92c2-14b61e296768
+    line_id: KR1e0001_tls_005-386a.19
+    textline: 國君而讎匹夫
+    offset: 5
+    range: 2
+source:
+  source_file: word-relations.xml

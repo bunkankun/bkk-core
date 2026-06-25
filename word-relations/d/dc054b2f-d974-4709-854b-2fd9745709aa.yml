@@ -1,0 +1,32 @@
+uuid: dc054b2f-d974-4709-854b-2fd9745709aa
+type: word-relation
+group_uuid: 93cd66c1-0dbc-5a59-a95f-b317a06a59f8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 11c3c4c9-3acf-4055-83c4-c93acf305511
+  text: 皇
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_001-5a.38
+    textline: 皇天無私阿兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 474629fb-821e-4bcc-95f3-a5915b87a6d3
+  text: 天
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_001-5a.38
+    textline: 皇天無私阿兮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-10-13T00:56:19.287+09:00'

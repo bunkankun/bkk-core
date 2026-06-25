@@ -1,0 +1,32 @@
+uuid: d5e99777-e697-4e2c-a6cd-851116cc7e53
+type: word-relation
+group_uuid: d5e99777-e697-4e2c-a6cd-851116cc7e53
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e22fd12d-aa2f-41e6-a2df-7bc0e62cd5fe
+  text: 譴
+  concept: ACCUSE
+  concept_uuid: 876bb1f3-4a64-44d4-a352-38216cb8f038
+  attestation:
+    text_title: 論衡
+    line_uuid: 7f959ee0-abb9-40ef-a54d-58f25c5b118e
+    line_id: KR3j0080_tls_042-10a.7
+    textline: 欲行譴告之教
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6215f536-657c-4ddd-9236-8731647c9817
+  text: 告
+  concept: COMPLAIN
+  concept_uuid: 62e49b6c-d875-4431-bcae-3d46cf50229c
+  attestation:
+    text_title: 論衡
+    line_uuid: 7f959ee0-abb9-40ef-a54d-58f25c5b118e
+    line_id: KR3j0080_tls_042-10a.7
+    textline: 欲行譴告之教
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

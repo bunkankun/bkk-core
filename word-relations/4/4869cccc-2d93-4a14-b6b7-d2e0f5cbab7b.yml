@@ -1,0 +1,33 @@
+uuid: 4869cccc-2d93-4a14-b6b7-d2e0f5cbab7b
+type: word-relation
+group_uuid: 4869cccc-2d93-4a14-b6b7-d2e0f5cbab7b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 00137c12-2c43-4aab-92c4-8534bafeec02
+  text: 旦
+  concept: MORNING
+  concept_uuid: ec058287-9706-49fa-bcce-137e993d9c48
+  attestation:
+    text_title: 孔雀東南飛
+    line_uuid: f41c78ca-67cf-44a3-9b23-d3e51033e5dd
+    textline: 便作旦夕間
+    offset: 3
+    range: 1
+right:
+  word_uuid: cebfb215-a04d-4a3c-bde2-1b99f016ece3
+  text: 夕
+  concept: EVENING
+  concept_uuid: 5237cab8-ce48-463e-b3bc-278495674da5
+  attestation:
+    text_title: 孔雀東南飛
+    line_uuid: f41c78ca-67cf-44a3-9b23-d3e51033e5dd
+    textline: 便作旦夕間
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

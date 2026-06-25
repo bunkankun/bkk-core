@@ -1,0 +1,32 @@
+uuid: fa6ce347-dc4b-4eb7-ba59-4be71f214bf0
+type: word-relation
+group_uuid: fa6ce347-dc4b-4eb7-ba59-4be71f214bf0
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 論語
+    line_uuid: c560dc99-bdf8-4337-a7fa-98364a31271b
+    line_id: KR1h0004_tls_006-37a.7
+    textline: 「何事於仁
+    offset: 5
+    range: 1
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論語
+    line_uuid: 1f05159a-c327-4b1f-824b-9087421a5003
+    line_id: KR1h0004_tls_006-37a.8
+    textline: 必也聖乎
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

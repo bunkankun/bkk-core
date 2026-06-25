@@ -1,0 +1,32 @@
+uuid: 01f19224-616d-40b4-843d-f66e9d9a1bd3
+type: word-relation
+group_uuid: 01f19224-616d-40b4-843d-f66e9d9a1bd3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 46f67ada-938a-4836-bba0-3da33f972d9f
+  text: 察
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22216d90-e789-4150-aced-8ce026d074da
+    line_id: KR3c0005_tls_002-35a.6
+    textline: 願陛下幸復察圖之
+    offset: 6
+    range: 1
+right:
+  word_uuid: 8c10a299-62af-48fd-8a74-0571d089327f
+  text: 圖
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22216d90-e789-4150-aced-8ce026d074da
+    line_id: KR3c0005_tls_002-35a.6
+    textline: 願陛下幸復察圖之
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

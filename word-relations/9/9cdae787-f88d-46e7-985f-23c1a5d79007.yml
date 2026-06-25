@@ -1,0 +1,32 @@
+uuid: 9cdae787-f88d-46e7-985f-23c1a5d79007
+type: word-relation
+group_uuid: 9cdae787-f88d-46e7-985f-23c1a5d79007
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: c8a4d0bd-3691-43a1-bdc1-962c04e4e580
+  text: 弒
+  concept: MURDER
+  concept_uuid: b9645fd1-f199-4879-9b96-f638a137c54f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9d7b1280-cfde-4662-936c-c99dc98a3831
+    line_id: KR3c0005_tls_008-34a.6
+    textline: 臣之所不弒其君者
+    offset: 5
+    range: 1
+right:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9d7b1280-cfde-4662-936c-c99dc98a3831
+    line_id: KR3c0005_tls_008-34a.6
+    textline: 臣之所不弒其君者
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

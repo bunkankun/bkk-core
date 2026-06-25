@@ -1,0 +1,32 @@
+uuid: 13d3329e-b8fd-4ccc-8e1e-11619333ad52
+type: word-relation
+group_uuid: 13d3329e-b8fd-4ccc-8e1e-11619333ad52
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8753b65e-f4f7-4c8d-a3bc-9a92e8cb23fe
+    line_id: KR3c0005_tls_014-10a.5
+    textline: “我以忠信事上
+    offset: 6
+    range: 1
+right:
+  word_uuid: 8ab91c33-abec-4ac3-a9b0-52a2bc854210
+  text: 上
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8753b65e-f4f7-4c8d-a3bc-9a92e8cb23fe
+    line_id: KR3c0005_tls_014-10a.5
+    textline: “我以忠信事上
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

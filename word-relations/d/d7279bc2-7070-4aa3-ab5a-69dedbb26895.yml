@@ -1,0 +1,21 @@
+uuid: d7279bc2-7070-4aa3-ab5a-69dedbb26895
+type: word-relation
+group_uuid: 63f623fa-f429-57e9-8827-b4070ade835c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+right:
+  word_uuid: f8b5ce77-5ffb-4fb7-a840-fb79ed5e27af
+  text: 挈
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 42b56fa3-1461-4589-a067-d96540974fd7
+type: word-relation
+group_uuid: 42b56fa3-1461-4589-a067-d96540974fd7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3a808020-0c3b-4454-96e3-bc9225a2bd44
+  text: 諸子
+  concept: PHILOSOPHER
+  concept_uuid: d255d9f9-e541-497f-98dc-6a9978a19d90
+  attestation:
+    text_title: 法言
+    line_uuid: a1dad844-857e-41d1-a0f9-917fc563183b
+    line_id: KR3a0009_tls_004-12a.6
+    textline: 吾見諸子之小禮樂也
+    offset: 3
+    range: 2
+right:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 法言
+    line_uuid: e9937de6-fb51-4de6-a9a7-e074a8be87b7
+    line_id: KR3a0009_tls_004-12a.7
+    textline: 不見聖人之小禮樂也
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

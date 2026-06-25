@@ -1,0 +1,32 @@
+uuid: f453a7db-4c5b-4f44-9c9d-6a5c5fb6f897
+type: word-relation
+group_uuid: f453a7db-4c5b-4f44-9c9d-6a5c5fb6f897
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b36654-cf47-401f-b0fd-217cba8b031e
+  text: 去
+  concept: LEAVE
+  concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+  attestation:
+    text_title: 百喻經
+    line_uuid: 898744d7-ff9f-45d8-be7c-93281f729aba
+    line_id: KR6b0066_T_003-0550b.75
+    textline: 如是去來是為愚惑
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0ce79600-cd30-4c65-8bad-2ccceef398f4
+  text: 來
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 百喻經
+    line_uuid: 898744d7-ff9f-45d8-be7c-93281f729aba
+    line_id: KR6b0066_T_003-0550b.75
+    textline: 如是去來是為愚惑
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

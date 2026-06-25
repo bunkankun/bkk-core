@@ -1,0 +1,32 @@
+uuid: 1f46e8e0-fdc8-4955-a124-408ee95b7c7b
+type: word-relation
+group_uuid: 1f46e8e0-fdc8-4955-a124-408ee95b7c7b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e8033401-afc8-4acd-86b7-1333e4027785
+  text: 賣
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+  attestation:
+    text_title: 淮南子
+    line_uuid: 7b33d09a-a431-4d65-8e13-807693a424f7
+    line_id: KR3j0010_tls_011-36a.38
+    textline: 林中不賣薪
+    offset: 4
+    range: 1
+right:
+  word_uuid: bd21a309-71c4-44fd-b28f-1190883eb152
+  text: 鬻
+  concept: SELL
+  concept_uuid: d7e3f861-c3e0-4b4c-8bc7-3781a10eeb61
+  attestation:
+    text_title: 淮南子
+    line_uuid: 6d57d7f1-5c27-433a-9dcf-b6b20e19d9e8
+    line_id: KR3j0010_tls_011-36a.39
+    textline: 湖上不鬻魚
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

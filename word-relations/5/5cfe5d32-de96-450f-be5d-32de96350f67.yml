@@ -1,0 +1,32 @@
+uuid: 5cfe5d32-de96-450f-be5d-32de96350f67
+type: word-relation
+group_uuid: f3754af2-0eef-5e47-b002-dfc65235db57
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: be4a7711-ef33-4ff0-8d62-4a9d24b222ad
+  text: 弦
+  concept: STRING
+  concept_uuid: cb1283bf-ff17-4816-8711-21cff46b1a89
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.2
+    textline: 夫弦歌鼓舞以為樂
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.2
+    textline: 夫弦歌鼓舞以為樂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:48:05.676+09:00'

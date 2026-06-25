@@ -1,0 +1,32 @@
+uuid: 53ee2ca6-cf32-44c1-acbb-9ade44bb54e3
+type: word-relation
+group_uuid: 53ee2ca6-cf32-44c1-acbb-9ade44bb54e3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: f9cd466f-732d-4414-8802-956ae1b70b7b
+  text: 志
+  concept: ASPIRATION
+  concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+  attestation:
+    text_title: 老子
+    line_uuid: 0d0afce2-94dc-4843-95bb-c6f3fc364372
+    line_id: KR5c0057_tls_003-1a.12
+    textline: 弱其志
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7080c7ba-17bb-451f-958b-d9e13a781210
+  text: 骨
+  concept: BONE
+  concept_uuid: 2312b29a-5a48-43e6-a532-93aaa34b9e36
+  attestation:
+    text_title: 老子
+    line_uuid: c1cb7a9f-9129-4272-a0e8-c03d1d60aec0
+    line_id: KR5c0057_tls_003-1a.13
+    textline: 強其骨
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

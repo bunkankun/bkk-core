@@ -1,0 +1,31 @@
+uuid: 0c0d7908-b2da-4dd3-b0e7-ce4f41dd8629
+type: word-relation
+group_uuid: a93ac4db-b76f-4bd9-aeff-4615bc625842
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 尚書
+    line_uuid: 26691841-7be6-4906-8b6c-00ada36b24b5
+    line_id: KR1b0001_tls_043-2a.73
+    textline: 厥享國五十年
+    offset: 3
+    range: 1
+right:
+  word_uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  text: 邦
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 尚書
+    line_uuid: 6bbb21c6-4873-4b81-9a78-1e025dc45b7a
+    textline: 以庶邦惟正(＝政)之供
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

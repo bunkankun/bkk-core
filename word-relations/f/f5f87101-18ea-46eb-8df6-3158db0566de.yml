@@ -1,0 +1,32 @@
+uuid: f5f87101-18ea-46eb-8df6-3158db0566de
+type: word-relation
+group_uuid: f5f87101-18ea-46eb-8df6-3158db0566de
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b6483341-7bb0-41e3-bc25-d382e7c1034a
+  text: 從
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 論語
+    line_uuid: c3629817-cdd8-4ae5-8412-b0f763f32146
+    line_id: KR1h0004_tls_007-15a.1
+    textline: 從吾所好
+    offset: 1
+    range: 1
+right:
+  word_uuid: dce060bf-c0a1-43c8-9276-6822b7d34235
+  text: 好
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 論語
+    line_uuid: c3629817-cdd8-4ae5-8412-b0f763f32146
+    line_id: KR1h0004_tls_007-15a.1
+    textline: 從吾所好
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

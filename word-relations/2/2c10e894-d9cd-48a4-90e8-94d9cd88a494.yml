@@ -1,0 +1,32 @@
+uuid: 2c10e894-d9cd-48a4-90e8-94d9cd88a494
+type: word-relation
+group_uuid: fd42fea8-31ee-5215-b211-36ca88e12681
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_028-14a.25
+    textline: 學以為人
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_028-14a.26
+    textline: 教以為己
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T21:35:21.327+09:00'

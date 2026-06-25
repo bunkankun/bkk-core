@@ -1,0 +1,32 @@
+uuid: 8ff8ba2d-a93c-467b-ba80-94b25ddcb175
+type: word-relation
+group_uuid: 8ff8ba2d-a93c-467b-ba80-94b25ddcb175
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+  attestation:
+    text_title: 韓非子
+    line_uuid: ef9e0fba-e4cb-4c3c-bc0e-771700c432ff
+    line_id: KR3c0005_tls_030-96a.9
+    textline: 吾聞明主之愛一嚬一笑
+    offset: 10
+    range: 1
+right:
+  word_uuid: 13e1a516-eb5a-4b78-8c40-b749e2feef54
+  text: 嚬
+  concept: FROWN
+  concept_uuid: c5fc615d-935b-4b15-a3b8-9a9c73f226cd
+  attestation:
+    text_title: 韓非子
+    line_uuid: ef9e0fba-e4cb-4c3c-bc0e-771700c432ff
+    line_id: KR3c0005_tls_030-96a.9
+    textline: 吾聞明主之愛一嚬一笑
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

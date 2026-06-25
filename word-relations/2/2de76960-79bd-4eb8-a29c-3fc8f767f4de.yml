@@ -1,0 +1,32 @@
+uuid: 2de76960-79bd-4eb8-a29c-3fc8f767f4de
+type: word-relation
+group_uuid: 2de76960-79bd-4eb8-a29c-3fc8f767f4de
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論衡
+    line_uuid: 6f5f78dc-6936-41e5-94b4-0b74ac0bb18e
+    line_id: KR3j0080_tls_003-3a.2
+    textline: 世俗見人節行高
+    offset: 6
+    range: 1
+right:
+  word_uuid: 5d8ae826-94ba-46fa-b5f3-997a2c2abfa5
+  text: 節
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 論衡
+    line_uuid: 6f5f78dc-6936-41e5-94b4-0b74ac0bb18e
+    line_id: KR3j0080_tls_003-3a.2
+    textline: 世俗見人節行高
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

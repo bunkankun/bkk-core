@@ -1,0 +1,32 @@
+uuid: 7ef29e92-ea18-463c-b29e-92ea18663c3a
+type: word-relation
+group_uuid: 83ae471b-dd58-5ea6-8f89-ab606a511631
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 519d42ac-7238-4729-b58d-d4398f3bfbe1
+  text: 循
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.47
+    textline: 常故不可循
+    offset: 5
+    range: 1
+right:
+  word_uuid: 59bbd1ca-af61-4a1d-8795-5d854080ecfa
+  text: 因
+  concept: RELY ON
+  concept_uuid: 97510283-af73-45e3-97a7-942029408956
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.48
+    textline: 器械不可因也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:16:12.58+09:00'

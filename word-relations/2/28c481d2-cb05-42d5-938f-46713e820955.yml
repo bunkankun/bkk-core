@@ -1,0 +1,32 @@
+uuid: 28c481d2-cb05-42d5-938f-46713e820955
+type: word-relation
+group_uuid: feb42e93-eea0-4687-b947-e50e0fbdc32a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 54eedcd4-0628-4221-aba5-290f7de5e906
+    line_id: KR3j0009_tls_003-19a.8
+    textline: 身將先取
+    offset: 1
+    range: 1
+right:
+  word_uuid: cd132a8f-f847-4cd2-977a-c7707856afb0
+  text: 天下
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a51f320e-83c5-49de-bf34-1bc7d7fd1eef
+    line_id: KR3j0009_tls_003-19a.6
+    textline: 天下不可取
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

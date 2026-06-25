@@ -1,0 +1,18 @@
+uuid: aae169ee-d9f0-4f4d-b421-570a0be5482b
+type: word-relation
+group_uuid: de6f95f9-73a8-5f4d-b370-947f66db9f86
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 5bfac0dc-5da9-44fc-9e49-950c30514e8c
+  text: 祖
+  concept: ANCESTOR
+  concept_uuid: f295dbbf-7887-449e-8ede-ca9911287be4
+right:
+  word_uuid: b9dc1ea7-d258-4b08-8886-a92261615ebd
+  text: 初
+  concept: BEGIN
+  concept_uuid: 69b04ab6-8d57-4b12-b773-1f922acd117d
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,37 @@
+uuid: 3dfb5d62-a216-4cb1-956e-be8c903016a6
+type: word-relation
+group_uuid: 3dfb5d62-a216-4cb1-956e-be8c903016a6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 34df6fda-7a20-4f96-80e1-e026838c4526
+  text: 賓
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+  attestation:
+    text_title: 戰國策
+    line_uuid: ca20b2d8-d2e2-4a17-8e30-6b5a857d4eaa
+    line_id: KR2e0003_tls_083-1a.12
+    textline: 敬執賓主之禮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4f864fcc-f21b-4e7a-97b7-eec680728dd2
+  text: 主
+  concept: HOST
+  concept_uuid: e52c9643-b8a7-4bab-953d-ca134baacc1a
+  attestation:
+    text_title: 戰國策
+    line_uuid: ca20b2d8-d2e2-4a17-8e30-6b5a857d4eaa
+    line_id: KR2e0003_tls_083-1a.12
+    textline: 敬執賓主之禮
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '296'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

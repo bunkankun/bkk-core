@@ -1,0 +1,32 @@
+uuid: de1bf457-886f-4d3a-b002-ea74c53aea87
+type: word-relation
+group_uuid: de1bf457-886f-4d3a-b002-ea74c53aea87
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6ef7ca04-ea46-4db7-8f42-c8bb7823b8e6
+  text: 致
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 論衡
+    line_uuid: 4f7e1d1f-5ce9-4bc0-b260-df2548afc0d0
+    line_id: KR3j0080_tls_003-10a.12
+    textline: 勉力勤事以致富
+    offset: 6
+    range: 1
+right:
+  word_uuid: 346a82e0-c843-4285-8ce3-9e8389ba0187
+  text: 取
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 論衡
+    line_uuid: 04e3a2cc-f5e3-4962-aec1-60204e7f0e09
+    line_id: KR3j0080_tls_003-10a.13
+    textline: 砥才明操以取貴
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: eec14b27-f601-4d7d-8701-f0b518b8c80f
+type: word-relation
+group_uuid: eec14b27-f601-4d7d-8701-f0b518b8c80f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 760a0b3c-b829-4546-9474-813588fba9d6
+  text: 池
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 淮南子
+    line_uuid: d16e0cee-4b7b-4ce8-afda-ceb27372357d
+    line_id: KR3j0010_tls_009-26a.21
+    textline: 人主好高臺深池
+    offset: 7
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 淮南子
+    line_uuid: d16e0cee-4b7b-4ce8-afda-ceb27372357d
+    line_id: KR3j0010_tls_009-26a.21
+    textline: 人主好高臺深池
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

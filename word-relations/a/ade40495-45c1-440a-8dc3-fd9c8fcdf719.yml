@@ -1,0 +1,32 @@
+uuid: ade40495-45c1-440a-8dc3-fd9c8fcdf719
+type: word-relation
+group_uuid: 55c67e90-6137-45d4-8173-ee69a5657d38
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 莊子
+    line_uuid: 9a6a1e02-2d30-4134-9a8e-f1d96178653d
+    line_id: KR5c0126_tls_025-10a.16
+    textline: 理其心
+    offset: 3
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 莊子
+    line_uuid: 8d37309b-4d94-4f46-9533-24d873e93b66
+    line_id: KR5c0126_tls_025-10a.15
+    textline: 今人之治其形
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

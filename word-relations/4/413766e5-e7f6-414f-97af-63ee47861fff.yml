@@ -1,0 +1,35 @@
+uuid: 413766e5-e7f6-414f-97af-63ee47861fff
+type: word-relation
+group_uuid: 413766e5-e7f6-414f-97af-63ee47861fff
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a6a70e6d-c41b-4af3-ae55-b32acda0e24d
+  text: 彼
+  concept: THAT
+  concept_uuid: 28da57be-e713-40d9-bc3d-600e018beb26
+  attestation:
+    text_title: 老子
+    line_uuid: be7dd65f-faed-4cac-8868-3305a2a96227
+    line_id: KR5c0057_tls_012-1a.13
+    textline: 故去彼取此
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6e61be18-7634-4731-a92c-7d79978ee6df
+  text: 此
+  concept: THIS
+  concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+  attestation:
+    text_title: 老子
+    line_uuid: be7dd65f-faed-4cac-8868-3305a2a96227
+    line_id: KR5c0057_tls_012-1a.13
+    textline: 故去彼取此
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

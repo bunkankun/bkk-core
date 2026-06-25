@@ -1,0 +1,32 @@
+uuid: 08980a60-f32c-4833-8290-1f19fb5052f3
+type: word-relation
+group_uuid: 08980a60-f32c-4833-8290-1f19fb5052f3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ed16262f-e4b4-4b40-9fd7-f79befda90bd
+  text: 煢
+  concept: LONELY
+  concept_uuid: 5c5932c4-e2c8-4a1b-93e4-f98e57c9886d
+  attestation:
+    text_title: 孟子
+    line_uuid: 0d473321-2908-4d8d-aa43-be1a49eb0edc
+    line_id: KR1h0001_tls_002-34a.1
+    textline: 哀此煢獨
+    offset: 3
+    range: 1
+right:
+  word_uuid: 03adcb9a-72c7-4a52-986d-c6491ab45bd7
+  text: 獨
+  concept: ALONE
+  concept_uuid: ba2b0fa5-4ae4-4fce-8241-7b14dc9a80e8
+  attestation:
+    text_title: 孟子
+    line_uuid: 0d473321-2908-4d8d-aa43-be1a49eb0edc
+    line_id: KR1h0001_tls_002-34a.1
+    textline: 哀此煢獨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

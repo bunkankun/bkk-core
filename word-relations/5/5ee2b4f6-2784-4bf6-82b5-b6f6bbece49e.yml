@@ -1,0 +1,32 @@
+uuid: 5ee2b4f6-2784-4bf6-82b5-b6f6bbece49e
+type: word-relation
+group_uuid: 0fb1c2ac-8a3c-4e01-9777-96a9cdea857d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 0454e931-7ec7-4bf4-ae94-322b8fc2dab0
+    line_id: KR3c0005_tls_022-12a.4
+    textline: 鄰國必恐
+    offset: 2
+    range: 1
+right:
+  word_uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  text: 邦
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7f8fa62a-ac0b-46cd-a68c-5feabb1cebde
+    line_id: KR3c0005_tls_022-12a.9
+    textline: 鄰邦必懼而相親
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5bf12d50-2a17-4618-b2b0-7eda266f7be4
+type: word-relation
+group_uuid: 5bf12d50-2a17-4618-b2b0-7eda266f7be4
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 941d0de9-1f71-4c1f-a5e7-9b2a36afe44e
+    line_id: KR3j0009_tls_019-13a.33
+    textline: 身隱而功著
+    offset: 1
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: dfbd8633-7117-4f9c-b8ee-f4f4d175fbdd
+    line_id: KR3j0009_tls_019-13a.34
+    textline: 形息而名彰
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

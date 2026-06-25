@@ -1,0 +1,32 @@
+uuid: d97bb418-612c-4c37-af0c-f1a05e9aac52
+type: word-relation
+group_uuid: d97bb418-612c-4c37-af0c-f1a05e9aac52
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: b8b79c2d-df37-4677-b27b-bea0f4c6f52f
+  text: 勇
+  concept: COURAGE
+  concept_uuid: a7ff15f7-f653-4867-b03e-3f546e065fd2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7d553b01-3b19-402f-97c2-4d2b9ac5a6da
+    line_id: KR3c0005_tls_005-6a.6
+    textline: 有勇而不以怒
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0e287446-a0d6-42bb-bf09-a229ff4ed277
+  text: 怒
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7d553b01-3b19-402f-97c2-4d2b9ac5a6da
+    line_id: KR3c0005_tls_005-6a.6
+    textline: 有勇而不以怒
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: bc83a7ee-435d-42dd-bfee-aeb5ca0f375d
+type: word-relation
+group_uuid: bc83a7ee-435d-42dd-bfee-aeb5ca0f375d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8e285e8f-6694-4080-ba9f-7b67f2fb8ecf
+  text: 利
+  concept: SHARP
+  concept_uuid: 11c629f4-b7c5-4617-a97d-a2d76292def6
+  attestation:
+    text_title: 老子
+    line_uuid: 61a48570-d195-476b-a5e5-234f80cceb2c
+    textline: 國之利器不可以示人
+    offset: 3
+    range: 1
+right:
+  word_uuid: fe0fb4b5-9222-4e72-b9ff-43ae76b7f622
+  text: 器
+  concept: WEAPON
+  concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+  attestation:
+    text_title: 老子
+    line_uuid: 61a48570-d195-476b-a5e5-234f80cceb2c
+    textline: 國之利器不可以示人
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

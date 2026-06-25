@@ -1,0 +1,32 @@
+uuid: bcecb0d9-81f1-49d2-acb0-d981f1f9d2cf
+type: word-relation
+group_uuid: 6d6a0c6b-3584-5d18-8ad2-f3123f87242e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.24
+    textline: 即以為誠天意也
+    offset: 5
+    range: 2
+right:
+  word_uuid: ae0b519f-3ced-4086-8638-1df8aec4ca29
+  text: 誠
+  concept: GENUINE
+  concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_079-15a.24
+    textline: 即以為誠天意也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:47:52.102+09:00'

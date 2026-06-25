@@ -1,0 +1,32 @@
+uuid: d1e9dc9b-eeb2-4864-8da5-74fb0a3dcc1d
+type: word-relation
+group_uuid: d1e9dc9b-eeb2-4864-8da5-74fb0a3dcc1d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 483f1152-a0a2-4c15-9db6-7c3559aaab1d
+  text: 封
+  concept: BOUNDARY
+  concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7d02d0e0-8090-49de-bf69-80bbc295b9b0
+    line_id: KR1e0001_tls_010-163a.11
+    textline: 作封洫
+    offset: 2
+    range: 1
+right:
+  word_uuid: e0398ecd-8d1a-4d5b-bef2-ed257b53e1e7
+  text: 洫
+  concept: BOUNDARY
+  concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7d02d0e0-8090-49de-bf69-80bbc295b9b0
+    line_id: KR1e0001_tls_010-163a.11
+    textline: 作封洫
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

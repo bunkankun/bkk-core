@@ -1,0 +1,32 @@
+uuid: d2c85837-dd7a-434c-bdc0-7d1c5cbcd44d
+type: word-relation
+group_uuid: d2c85837-dd7a-434c-bdc0-7d1c5cbcd44d
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6abf9878-d322-417b-b607-6abab093647b
+  text: 盡
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2895d7e5-9829-4d98-82a9-7340acbd483d
+    line_id: KR3c0005_tls_009-6a.9
+    textline: 此皆盡力畢議
+    offset: 3
+    range: 1
+right:
+  word_uuid: e300a5ef-a5f9-46b1-8dfb-98552e569034
+  text: 力
+  concept: ENERGY
+  concept_uuid: e3082cff-a920-442c-8305-9ebf5db87712
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2895d7e5-9829-4d98-82a9-7340acbd483d
+    line_id: KR3c0005_tls_009-6a.9
+    textline: 此皆盡力畢議
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

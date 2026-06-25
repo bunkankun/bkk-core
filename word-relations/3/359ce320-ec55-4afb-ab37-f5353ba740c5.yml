@@ -1,0 +1,32 @@
+uuid: 359ce320-ec55-4afb-ab37-f5353ba740c5
+type: word-relation
+group_uuid: 359ce320-ec55-4afb-ab37-f5353ba740c5
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1e35a438-ef6b-488d-a8f8-3753f5d26f6a
+  text: 欺
+  concept: CHEAT
+  concept_uuid: ff36de29-e1d3-4536-b491-1e98b592c635
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6183dd0a-70e7-4dbd-9be8-6e90b12f6573
+    line_id: KR3c0005_tls_011-41a.6
+    textline: 而羞與姦臣欺其主
+    offset: 6
+    range: 1
+right:
+  word_uuid: 66a0aa0c-1da1-4011-88e2-a21405e9111c
+  text: 主
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6183dd0a-70e7-4dbd-9be8-6e90b12f6573
+    line_id: KR3c0005_tls_011-41a.6
+    textline: 而羞與姦臣欺其主
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

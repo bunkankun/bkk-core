@@ -1,0 +1,32 @@
+uuid: ea3d6e74-fc85-4f33-a1ed-87e53b979846
+type: word-relation
+group_uuid: 2bcfa5d0-72d9-43c4-b6ea-a2972dce7b30
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dddfa333-638e-4b82-9647-3081a701edc4
+  text: 安
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 41d64d27-650b-41cc-b611-86043617fa4b
+    line_id: KR1e0001_tls_009-267a.38
+    textline: 『居安思危
+    offset: 3
+    range: 1
+right:
+  word_uuid: 233df6d2-e94c-4952-a34f-c524ac730483
+  text: 危
+  concept: DANGER
+  concept_uuid: 47910624-ae84-4398-8070-d1f7cd6110a6
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 41d64d27-650b-41cc-b611-86043617fa4b
+    line_id: KR1e0001_tls_009-267a.38
+    textline: 『居安思危
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

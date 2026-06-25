@@ -1,0 +1,32 @@
+uuid: 46b89fed-4896-4fdd-8de8-7aa73bb9d038
+type: word-relation
+group_uuid: 46b89fed-4896-4fdd-8de8-7aa73bb9d038
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 72d6bba8-9a15-4904-ad47-d953e325ae08
+  text: 財
+  concept: PROPERTY
+  concept_uuid: b311695f-8d7a-4670-82c7-f4d8cf5e54cb
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea76144d-eafc-4863-bc0a-4487d5fecd80
+    line_id: KR3c0005_tls_005-17a.4
+    textline: 臣制財利曰壅
+    offset: 3
+    range: 1
+right:
+  word_uuid: 42590264-ce8b-41f7-911c-2503349bb36c
+  text: 利
+  concept: PROFIT
+  concept_uuid: ae13492f-bea9-4193-bb02-b91510c7937f
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea76144d-eafc-4863-bc0a-4487d5fecd80
+    line_id: KR3c0005_tls_005-17a.4
+    textline: 臣制財利曰壅
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

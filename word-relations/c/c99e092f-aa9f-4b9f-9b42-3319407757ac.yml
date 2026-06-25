@@ -1,0 +1,32 @@
+uuid: c99e092f-aa9f-4b9f-9b42-3319407757ac
+type: word-relation
+group_uuid: c99e092f-aa9f-4b9f-9b42-3319407757ac
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 2fd13c98-0dcf-4bae-a214-b8b1c9d7391a
+  text: 慾
+  concept: LEWD
+  concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+  attestation:
+    text_title: 論語
+    line_uuid: 9668a939-b004-4207-ac17-d40edbc2c35c
+    line_id: KR1h0004_tls_005-13a.7
+    textline: 「棖也慾
+    offset: 4
+    range: 1
+right:
+  word_uuid: a1bd3ba9-4384-4174-b952-90110c03e6fa
+  text: 剛
+  concept: HARD
+  concept_uuid: f57afac9-049d-4821-9242-23366c95d5a3
+  attestation:
+    text_title: 論語
+    line_uuid: f60a0255-9579-4335-b8f2-5fb49b6a240f
+    line_id: KR1h0004_tls_005-14a.1
+    textline: 焉得剛
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

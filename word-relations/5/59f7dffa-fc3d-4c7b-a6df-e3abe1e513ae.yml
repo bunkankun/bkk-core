@@ -1,0 +1,32 @@
+uuid: 59f7dffa-fc3d-4c7b-a6df-e3abe1e513ae
+type: word-relation
+group_uuid: 59f7dffa-fc3d-4c7b-a6df-e3abe1e513ae
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 96921913-5a46-4041-ae7f-5a65a088ef94
+  text: 靜
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22d60bdf-8d78-48f9-9c96-464178a2cbf1
+    line_id: KR3c0005_tls_005-20a.3
+    textline: 靜退以為寶
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b9a7202-f882-4d6f-8579-1d313ca8ae8a
+  text: 退
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22d60bdf-8d78-48f9-9c96-464178a2cbf1
+    line_id: KR3c0005_tls_005-20a.3
+    textline: 靜退以為寶
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

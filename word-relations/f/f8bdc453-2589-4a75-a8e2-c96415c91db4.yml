@@ -1,0 +1,32 @@
+uuid: f8bdc453-2589-4a75-a8e2-c96415c91db4
+type: word-relation
+group_uuid: f8bdc453-2589-4a75-a8e2-c96415c91db4
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0bfecb4c-b850-4220-b1fb-1d03c5550b9d
+  text: 星
+  concept: STAR
+  concept_uuid: bf301515-c684-47f8-b319-8f21825ff7af
+  attestation:
+    text_title: 論語
+    line_uuid: 640eb6f2-ab19-49a2-9589-b27656f83cc1
+    line_id: KR1h0004_tls_002-2a.1
+    textline: 居其所而眾星共之
+    offset: 6
+    range: 1
+right:
+  word_uuid: d946e34b-e4a2-48ff-9b6d-97522baabfbb
+  text: 眾
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 論語
+    line_uuid: 640eb6f2-ab19-49a2-9589-b27656f83cc1
+    line_id: KR1h0004_tls_002-2a.1
+    textline: 居其所而眾星共之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

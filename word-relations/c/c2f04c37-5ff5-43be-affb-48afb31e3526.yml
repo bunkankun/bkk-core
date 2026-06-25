@@ -1,0 +1,32 @@
+uuid: c2f04c37-5ff5-43be-affb-48afb31e3526
+type: word-relation
+group_uuid: c2f04c37-5ff5-43be-affb-48afb31e3526
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: aa28629b-5e40-4995-84ce-cd11036b3e86
+  text: 緣
+  concept: CRAWL
+  concept_uuid: c97a3f3b-e73f-4c50-9d5d-127ef1b37dd8
+  attestation:
+    text_title: 孟子
+    line_uuid: b44f3912-7294-4779-857a-f7aac5ebbc17
+    line_id: KR1h0001_tls_001-56a.1
+    textline: 猶緣木而求魚也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 53136896-b4a1-4c4e-b37b-3ef5c8c714bb
+  text: 木
+  concept: TREE
+  concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+  attestation:
+    text_title: 孟子
+    line_uuid: b44f3912-7294-4779-857a-f7aac5ebbc17
+    line_id: KR1h0001_tls_001-56a.1
+    textline: 猶緣木而求魚也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

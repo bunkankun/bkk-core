@@ -1,0 +1,32 @@
+uuid: d0fc72cb-7a5f-4346-ba3f-c9e81b8ce5dc
+type: word-relation
+group_uuid: d0fc72cb-7a5f-4346-ba3f-c9e81b8ce5dc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0c41c95e-657f-47e0-b35c-0c2c10126a7b
+  text: 方
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 韓非子
+    line_uuid: 832acfe9-0be6-4f22-8dda-3969b23f3483
+    line_id: KR3c0005_tls_014-19a.5
+    textline: “我不以清廉方正奉法
+    offset: 7
+    range: 1
+right:
+  word_uuid: 3d571fb4-96c8-4bd3-9345-35d1a0c8100c
+  text: 正
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 韓非子
+    line_uuid: 832acfe9-0be6-4f22-8dda-3969b23f3483
+    line_id: KR3c0005_tls_014-19a.5
+    textline: “我不以清廉方正奉法
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

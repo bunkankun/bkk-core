@@ -1,0 +1,32 @@
+uuid: 57c4ed46-417f-4a3d-be59-eff2ee112f7e
+type: word-relation
+group_uuid: 57c4ed46-417f-4a3d-be59-eff2ee112f7e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 33f5f1e6-5495-4048-8695-8aacee409aca
+  text: 舉
+  concept: APPOINT
+  concept_uuid: 670b2228-6982-4556-83d8-4e54c70ba265
+  attestation:
+    text_title: 論語
+    line_uuid: a7867c8f-abb9-47e5-a544-f342a18783ae
+    line_id: KR1h0004_tls_002-20a.5
+    textline: 「舉直錯諸枉
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0e5dd3fc-447e-47a0-8905-951ef425441c
+  text: 錯
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 論語
+    line_uuid: a7867c8f-abb9-47e5-a544-f342a18783ae
+    line_id: KR1h0004_tls_002-20a.5
+    textline: 「舉直錯諸枉
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

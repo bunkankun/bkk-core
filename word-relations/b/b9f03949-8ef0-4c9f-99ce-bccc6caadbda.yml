@@ -1,0 +1,32 @@
+uuid: b9f03949-8ef0-4c9f-99ce-bccc6caadbda
+type: word-relation
+group_uuid: 24a3ea10-e253-4135-b2c0-4bab5d09eebd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73750594-beaf-4580-88f0-efa078170178
+  text: 幽
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 2c000e08-4e65-4a5c-9708-5d975754e598
+    line_id: KR1c0066_tls_005-12a.16
+    textline: 山川幽深
+    offset: 3
+    range: 1
+right:
+  word_uuid: bd05cf39-41d1-4b41-a6e4-6015335a8d44
+  text: 深
+  concept: DEEP
+  concept_uuid: 13dc9c56-c3b7-4216-9dc9-c1715ab2c27c
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 2c000e08-4e65-4a5c-9708-5d975754e598
+    line_id: KR1c0066_tls_005-12a.16
+    textline: 山川幽深
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

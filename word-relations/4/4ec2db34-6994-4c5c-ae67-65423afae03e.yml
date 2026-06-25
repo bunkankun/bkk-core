@@ -1,0 +1,21 @@
+uuid: 4ec2db34-6994-4c5c-ae67-65423afae03e
+type: word-relation
+group_uuid: 9ed2f77f-e073-510c-b959-5e61501de803
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: de5dd56d-8f96-4764-8f13-f35479548440
+  text: 東
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+right:
+  word_uuid: 6563122c-3829-4d51-b872-df372a9b85ac
+  text: 西
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

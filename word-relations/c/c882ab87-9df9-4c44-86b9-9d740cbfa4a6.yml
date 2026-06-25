@@ -1,0 +1,21 @@
+uuid: c882ab87-9df9-4c44-86b9-9d740cbfa4a6
+type: word-relation
+group_uuid: 2517cd61-9ff4-51d8-8345-ef8421c99e22
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 206052f6-2005-477d-9ffe-c18eb7909d29
+  text: 黨
+  concept: FRIEND
+  concept_uuid: 739263b4-9ea6-4c1e-acc2-cd7bec17ff50
+right:
+  word_uuid: f20ea719-e3fa-45c9-bdb1-e284b3d52cc9
+  text: 徒
+  concept: STUDENT
+  concept_uuid: de68ed0b-f6e2-477b-ae4b-2f58005a6f91
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: 65989164-05ef-418f-b287-6d4aec2f6135
+type: word-relation
+group_uuid: 65989164-05ef-418f-b287-6d4aec2f6135
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 87cfa289-995f-45a5-b5f8-1143ea757aad
+  text: 形
+  concept: SHAPE
+  concept_uuid: 03ffe31c-9043-4993-a122-3b614ac558c0
+  attestation:
+    text_title: 老子
+    line_uuid: c415f067-2e51-4955-890b-2b6669237454
+    line_id: KR5c0057_tls_051-1a.5
+    textline: 物形之
+    offset: 2
+    range: 1
+right:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 老子
+    line_uuid: 728a7c18-c454-4ba0-b109-5f1dd5e42323
+    textline: 勢成之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

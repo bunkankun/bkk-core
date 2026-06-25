@@ -1,0 +1,35 @@
+uuid: 111eb18d-be7d-4f37-9006-61273afc3ec3
+type: word-relation
+group_uuid: 3ff304de-40db-4ea0-9476-496a0ac31cad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ef094a63-4d8c-4d37-be81-5ed61ad9383b
+  text: 君子
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 白虎通
+    line_uuid: 4bc442a4-ee35-4418-99f7-1445c5720034
+    line_id: KR3j0023_tls_006-196a.7
+    textline: 君子樂得其道
+    offset: 1
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 白虎通
+    line_uuid: fb1d48cb-f998-4daf-91b1-058c015a2835
+    line_id: KR3j0023_tls_006-196a.8
+    textline: 小人樂得其欲
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

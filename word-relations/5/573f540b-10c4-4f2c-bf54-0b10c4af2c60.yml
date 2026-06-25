@@ -1,0 +1,32 @@
+uuid: 573f540b-10c4-4f2c-bf54-0b10c4af2c60
+type: word-relation
+group_uuid: 1824e829-4d9e-5e1c-890f-49e25c4e5cbd
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 440d755d-6e25-497a-8d75-5d6e25d97acd
+  text: 縣法
+  concept: HANG
+  concept_uuid: 7472e76e-7322-4060-b8f7-5add17c4966d
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_002-12a.3
+    textline: 縣法設賞而不能移風易俗者
+    offset: 1
+    range: 2
+right:
+  word_uuid: 46cc3325-638c-4dc4-8c33-25638c6dc459
+  text: 設賞
+  concept: REWARD
+  concept_uuid: 5ce24b12-fec8-4cc4-9434-ad80be0a345b
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_002-12a.3
+    textline: 縣法設賞而不能移風易俗者
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T19:36:20.205+09:00'

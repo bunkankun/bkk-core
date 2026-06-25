@@ -1,0 +1,35 @@
+uuid: 5aad5c49-2aa1-49d3-8991-6c4171eb09c6
+type: word-relation
+group_uuid: 5aad5c49-2aa1-49d3-8991-6c4171eb09c6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e189d5a-d41c-4cf9-b9e9-e69352a6f4b4
+  text: 號
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 論衡
+    line_uuid: 8eb94aa0-affe-4d46-9425-98f99be88262
+    line_id: KR3j0080_tls_004-3a.20
+    textline: 號啼之聲鴻朗高暢者壽
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6c834e56-89eb-4eb9-94be-351f6fb7fe40
+  text: 啼
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 論衡
+    line_uuid: 8eb94aa0-affe-4d46-9425-98f99be88262
+    line_id: KR3j0080_tls_004-3a.20
+    textline: 號啼之聲鴻朗高暢者壽
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

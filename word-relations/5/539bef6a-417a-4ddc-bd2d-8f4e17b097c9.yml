@@ -1,0 +1,32 @@
+uuid: 539bef6a-417a-4ddc-bd2d-8f4e17b097c9
+type: word-relation
+group_uuid: 539bef6a-417a-4ddc-bd2d-8f4e17b097c9
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9f2b448a-9b28-4228-8685-c9b22dbe863d
+    line_id: KR3c0005_tls_006-4a.8
+    textline: 攻韓拔管
+    offset: 1
+    range: 1
+right:
+  word_uuid: 566b7752-c546-4a80-8a6f-ee8343f3eb2f
+  text: 勝
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: e0ec7fe0-3367-49f5-aaaf-84382d8c9aec
+    line_id: KR3c0005_tls_006-4a.9
+    textline: 勝於淇下
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

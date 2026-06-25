@@ -1,0 +1,32 @@
+uuid: 66b1feb5-c60a-4a46-a68c-ea3a3efe0d6a
+type: word-relation
+group_uuid: 66b1feb5-c60a-4a46-a68c-ea3a3efe0d6a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 891f4993-7c48-41b2-bbbe-e30bf5829512
+  text: 卑
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: f19f0ba6-adb4-45f7-b8fd-1dda32b70ed1
+    line_id: KR3c0005_tls_017-23a.8
+    textline: 常於卑賤
+    offset: 3
+    range: 1
+right:
+  word_uuid: 59c38938-a539-41c3-8f9d-603c1a64feee
+  text: 賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: f19f0ba6-adb4-45f7-b8fd-1dda32b70ed1
+    line_id: KR3c0005_tls_017-23a.8
+    textline: 常於卑賤
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

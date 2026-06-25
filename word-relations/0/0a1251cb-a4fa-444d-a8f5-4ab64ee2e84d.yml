@@ -1,0 +1,32 @@
+uuid: 0a1251cb-a4fa-444d-a8f5-4ab64ee2e84d
+type: word-relation
+group_uuid: e3dc888a-2052-482b-a54a-43af8559ca74
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4d9ef7f2-0133-43db-a717-00013c741baf
+  text: 心
+  concept: ATTITUDE
+  concept_uuid: 4d8242a6-9753-4ee4-994b-a3b01b8173c4
+  attestation:
+    text_title: 管子
+    line_uuid: 09ac927e-07f6-47ac-be1f-c54c1a9bc8a0
+    line_id: KR3c0001_tls_001-10a.5
+    textline: 在逆民心
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 09ac927e-07f6-47ac-be1f-c54c1a9bc8a0
+    line_id: KR3c0001_tls_001-10a.5
+    textline: 在逆民心
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

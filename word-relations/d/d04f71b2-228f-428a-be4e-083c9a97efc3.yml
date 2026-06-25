@@ -1,0 +1,32 @@
+uuid: d04f71b2-228f-428a-be4e-083c9a97efc3
+type: word-relation
+group_uuid: 7704f0f6-fa75-427c-a157-d7c6d764d307
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ed0fd511-bb6e-4720-91ed-9b870350a6eb
+  text: 風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5cd87124-c013-4645-8b12-55019d993a59
+    line_id: KR3j0009_tls_006-2a.17
+    textline: 涼風始至
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7b21b78a-2770-49c3-8861-adf837ca313c
+  text: 涼
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5cd87124-c013-4645-8b12-55019d993a59
+    line_id: KR3j0009_tls_006-2a.17
+    textline: 涼風始至
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

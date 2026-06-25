@@ -1,0 +1,32 @@
+uuid: 29773e88-1c9d-41ac-87eb-7f600d01eb67
+type: word-relation
+group_uuid: 29773e88-1c9d-41ac-87eb-7f600d01eb67
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 35315462-2b98-4759-932b-68ed0d7c5cd7
+  text: 劍
+  concept: SWORD
+  concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+  attestation:
+    text_title: 韓非子
+    line_uuid: 703a721c-8a48-44bb-be8d-16de770ee735
+    line_id: KR3c0005_tls_011-16a.5
+    textline: 以私劍而窮之
+    offset: 3
+    range: 1
+right:
+  word_uuid: a85d54d3-e88a-45ce-a19c-b815042eb851
+  text: 私
+  concept: PRIVATE
+  concept_uuid: 7a1309e4-d7b3-4520-9eff-6c66032db69b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 703a721c-8a48-44bb-be8d-16de770ee735
+    line_id: KR3c0005_tls_011-16a.5
+    textline: 以私劍而窮之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 14f99716-0c4e-4cec-b997-160c4e5cec80
+type: word-relation
+group_uuid: a6423977-ef01-5805-82a3-315af0f56542
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-17a.3
+    textline: 人之所不學而能者
+    offset: 6
+    range: 1
+right:
+  word_uuid: 34f33548-5f1d-4a79-ad78-eb140fe5d749
+  text: 能
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_013-17a.3
+    textline: 人之所不學而能者
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-26T16:59:32.513+09:00'

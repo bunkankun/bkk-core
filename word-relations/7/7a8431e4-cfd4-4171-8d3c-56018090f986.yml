@@ -1,0 +1,30 @@
+uuid: 7a8431e4-cfd4-4171-8d3c-56018090f986
+type: word-relation
+group_uuid: 2d58422c-8c9c-405e-8668-0cc49acc247c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 71a7967a-9077-4370-84e2-04d646baa66e
+  text: 筆
+  concept: BRUSH
+  concept_uuid: 2095bac4-6e1b-4bdb-9876-a012aa10a869
+  attestation:
+    text_title: 論衡
+    line_uuid: 98ae08ca-e9ca-423d-9631-dae8dccfa499
+    textline: 并用筆墨
+    offset: 3
+    range: 1
+right:
+  word_uuid: 86b5cac3-18e8-4c86-a526-03b7b64e3345
+  text: 墨
+  concept: INK
+  concept_uuid: 3ce4fa1c-e7b3-45b5-8239-485587bb3ff8
+  attestation:
+    text_title: 論衡
+    line_uuid: 98ae08ca-e9ca-423d-9631-dae8dccfa499
+    textline: 并用筆墨
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

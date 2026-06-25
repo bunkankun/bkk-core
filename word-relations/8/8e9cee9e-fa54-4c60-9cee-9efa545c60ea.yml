@@ -1,0 +1,32 @@
+uuid: 8e9cee9e-fa54-4c60-9cee-9efa545c60ea
+type: word-relation
+group_uuid: de0fbdd2-0f36-5072-b309-feeaae8c6928
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c5834f9f-5cc8-49bd-aa3d-d6e8f8c4179f
+  text: 釋
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_006-42a.3
+    textline: 人主釋法用私
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1f981234-8738-4b1d-b7bf-6671d221be39
+  text: 用
+  concept: DEPLOY
+  concept_uuid: ccce4829-2cdd-475e-9148-075ffe0f3556
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_006-42a.3
+    textline: 人主釋法用私
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T17:56:12.686+09:00'

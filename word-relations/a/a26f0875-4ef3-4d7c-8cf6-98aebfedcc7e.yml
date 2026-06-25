@@ -1,0 +1,32 @@
+uuid: a26f0875-4ef3-4d7c-8cf6-98aebfedcc7e
+type: word-relation
+group_uuid: a26f0875-4ef3-4d7c-8cf6-98aebfedcc7e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: efa1f5f7-9949-444f-8f35-fb02f5f06cf6
+  text: 仁
+  concept: BENEVOLENCE
+  concept_uuid: 5e75dc54-3874-416e-a1b1-480a937ef9b5
+  attestation:
+    text_title: 論語
+    line_uuid: dd7fa751-50e5-4479-a1e0-f73891a30595
+    line_id: KR1h0004_tls_007-6a.5
+    textline: 依於仁
+    offset: 3
+    range: 1
+right:
+  word_uuid: 57f7d7b2-f2a9-4c73-83ea-40104cdd6d0b
+  text: 藝
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 論語
+    line_uuid: c8f40faf-89f0-47b0-b4ce-70f98799a459
+    line_id: KR1h0004_tls_007-7a.1
+    textline: 遊於藝
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

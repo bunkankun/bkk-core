@@ -1,0 +1,21 @@
+uuid: 0be4fca3-3583-4538-af7a-d9edbdfb5473
+type: word-relation
+group_uuid: b46cd610-febb-5859-8127-f7f51b2e7062
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 451a115e-f9cc-41b4-bc6b-ff8be89b71f9
+  text: 諱
+  concept: TABOO
+  concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+right:
+  word_uuid: 6478b356-338d-4a4e-8a04-10d5f25e4268
+  text: 忌
+  concept: AVOID
+  concept_uuid: 9097ca31-10f7-4435-b048-8d1668b1460a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

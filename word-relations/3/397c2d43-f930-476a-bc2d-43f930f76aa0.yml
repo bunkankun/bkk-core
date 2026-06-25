@@ -1,0 +1,32 @@
+uuid: 397c2d43-f930-476a-bc2d-43f930f76aa0
+type: word-relation
+group_uuid: 63d8c1f1-7d22-5cb2-a94b-2f93dafe4621
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 26845234-b501-4a76-8aea-505ca14c9eec
+  text: 繼
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-27a.14
+    textline: 欲以存亡繼絕
+    offset: 5
+    range: 1
+right:
+  word_uuid: d3244d8b-7ad7-44b2-8c38-83d5f729ed9f
+  text: 絕
+  concept: STOP
+  concept_uuid: 6f413584-adaf-4fe7-b0e9-c9b428555e40
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_021-27a.14
+    textline: 欲以存亡繼絕
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-09-22T23:47:30.01+09:00'

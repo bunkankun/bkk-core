@@ -1,0 +1,32 @@
+uuid: 3105aac7-810c-4bae-85aa-c7810cdbae01
+type: word-relation
+group_uuid: df96ab4f-2566-568e-afe5-ae587f769dcf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b805b757-0785-454d-b637-104a38cec47f
+  text: 川
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.26
+    textline: 古者大川名谷
+    offset: 4
+    range: 1
+right:
+  word_uuid: 51f6f4e4-5cbe-4718-a1b7-acdc90d67612
+  text: 谷
+  concept: VALLEY
+  concept_uuid: aec4cc37-a2e4-4cf3-b5df-d7fe714d2734
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.26
+    textline: 古者大川名谷
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:18:59.041+09:00'

@@ -1,0 +1,32 @@
+uuid: 999fdcf1-1de9-4616-88db-ce4ebe4e1499
+type: word-relation
+group_uuid: 999fdcf1-1de9-4616-88db-ce4ebe4e1499
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3ab881b4-5a0f-414e-b34b-0abfe2731476
+  text: 信
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: a1787ffd-c505-4ea1-a009-80e7f2e6c282
+    line_id: KR1h0004_tls_001-13a.3
+    textline: 「信近於義
+    offset: 2
+    range: 1
+right:
+  word_uuid: 631ff222-ac9a-4107-a3ef-bdfa1b59d2b4
+  text: 恭
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 論語
+    line_uuid: 8fccc6d5-a0ef-4a79-bf86-1617ee017354
+    line_id: KR1h0004_tls_001-13a.5
+    textline: 恭近於禮
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

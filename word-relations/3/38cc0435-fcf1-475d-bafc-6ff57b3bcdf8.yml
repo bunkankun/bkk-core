@@ -1,0 +1,32 @@
+uuid: 38cc0435-fcf1-475d-bafc-6ff57b3bcdf8
+type: word-relation
+group_uuid: 38cc0435-fcf1-475d-bafc-6ff57b3bcdf8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1008ffdc-e50c-4043-aa6e-0134635f5672
+  text: 咎
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 老子
+    line_uuid: 3fca39ec-ad4e-49f0-a18b-f83683e5dee5
+    line_id: KR5c0057_tls_046-1a.9
+    textline: 咎莫大於欲得
+    offset: 1
+    range: 1
+right:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 老子
+    line_uuid: e7dfa711-7f47-4c5f-95dd-1575db1bd7c8
+    line_id: KR5c0057_tls_046-1a.8
+    textline: 禍莫大於不知足
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

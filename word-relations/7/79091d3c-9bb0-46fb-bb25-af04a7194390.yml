@@ -1,0 +1,21 @@
+uuid: 79091d3c-9bb0-46fb-bb25-af04a7194390
+type: word-relation
+group_uuid: c61a7c73-4eb9-50a0-a342-36e76b311652
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4e0fb7e0-50e8-48a5-95f2-66cde679ad79
+  text: 匡
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+right:
+  word_uuid: 352ba9c2-b361-439d-b6cf-9b6b53133225
+  text: 救
+  concept: RESCUE
+  concept_uuid: b0145f9d-5101-41b1-a2b3-7b96db8b1446
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

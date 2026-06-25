@@ -1,0 +1,35 @@
+uuid: 35e50523-c95e-4656-b01b-f85bb6832b6c
+type: word-relation
+group_uuid: d633e24d-8996-479e-a48b-f652453343fc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8a7ac65-6563-4763-b430-dcd32c23a0d1
+  text: 譽
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 60ef9a00-5d53-41a9-86a0-ed7bcf11ff30
+    line_id: KR3c0005_tls_011-33a.5
+    textline: 決於毀譽
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3ea1b7c8-e63e-4043-9914-3b81e4cef8db
+  text: 毀
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 60ef9a00-5d53-41a9-86a0-ed7bcf11ff30
+    line_id: KR3c0005_tls_011-33a.5
+    textline: 決於毀譽
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7281b8d6-6c76-4e5c-84e8-0750f0893c44
+type: word-relation
+group_uuid: 7281b8d6-6c76-4e5c-84e8-0750f0893c44
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 48bb0a5a-1411-4ce8-90d1-2f25999b7103
+  text: 容
+  concept: PUT
+  concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+  attestation:
+    text_title: 韓非子
+    line_uuid: 70a6df7f-5d57-4e08-b92a-2362f8f9c440
+    line_id: KR3c0005_tls_020-131a.10
+    textline: 兵無所容其刃”
+    offset: 4
+    range: 1
+right:
+  word_uuid: d356bc3f-9e79-4710-9fb8-be1dd4f1c2f8
+  text: 錯
+  concept: PUT
+  concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5b33c314-326b-4f84-bb53-1246f19ee6d1
+    line_id: KR3c0005_tls_020-131a.9
+    textline: 虎無所錯其爪
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

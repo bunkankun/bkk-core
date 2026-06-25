@@ -1,0 +1,18 @@
+uuid: 32005633-df1e-4618-9b72-4972a1bcca92
+type: word-relation
+group_uuid: 026e140e-5a31-54a3-a0f3-f6c3eba0ca24
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+right:
+  word_uuid: 5903b334-7bbe-4e84-821a-588e5398462e
+  text: 觸
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source:
+  source_file: word-relations.xml

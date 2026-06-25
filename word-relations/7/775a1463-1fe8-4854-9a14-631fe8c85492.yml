@@ -1,0 +1,32 @@
+uuid: 775a1463-1fe8-4854-9a14-631fe8c85492
+type: word-relation
+group_uuid: 2f515e85-fb0e-5c53-a7ad-d9b0de957848
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 7f177bdc-9539-4580-b138-6be11a5197d1
+  text: 守
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_015-44a.23
+    textline: 守法而弗變則悖
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_015-44a.23
+    textline: 守法而弗變則悖
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T01:29:21.601+09:00'

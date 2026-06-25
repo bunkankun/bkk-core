@@ -1,0 +1,32 @@
+uuid: b6537efb-0150-409d-9789-ccbb91b2184d
+type: word-relation
+group_uuid: b6537efb-0150-409d-9789-ccbb91b2184d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 209861e0-d2e4-4fc0-b331-809d3201d3ca
+    line_id: KR3c0005_tls_020-46a.7
+    textline: 則智識亂
+    offset: 2
+    range: 1
+right:
+  word_uuid: dbb959ed-207b-4f79-9d89-e417416c539a
+  text: 識
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 209861e0-d2e4-4fc0-b331-809d3201d3ca
+    line_id: KR3c0005_tls_020-46a.7
+    textline: 則智識亂
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

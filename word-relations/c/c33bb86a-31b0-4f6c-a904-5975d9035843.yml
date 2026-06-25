@@ -1,0 +1,32 @@
+uuid: c33bb86a-31b0-4f6c-a904-5975d9035843
+type: word-relation
+group_uuid: c33bb86a-31b0-4f6c-a904-5975d9035843
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 淮南子
+    line_uuid: 5766c92a-8e4d-45c5-a90f-744e5a069636
+    line_id: KR3j0010_tls_011-10a.50
+    textline: “吾服汝也忘
+    offset: 2
+    range: 1
+right:
+  word_uuid: 23bd4002-d494-4648-a4a8-2ef6d1d4c599
+  text: 汝
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 淮南子
+    line_uuid: 5766c92a-8e4d-45c5-a90f-744e5a069636
+    line_id: KR3j0010_tls_011-10a.50
+    textline: “吾服汝也忘
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

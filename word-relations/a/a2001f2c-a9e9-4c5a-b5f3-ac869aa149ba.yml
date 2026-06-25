@@ -1,0 +1,32 @@
+uuid: a2001f2c-a9e9-4c5a-b5f3-ac869aa149ba
+type: word-relation
+group_uuid: a2001f2c-a9e9-4c5a-b5f3-ac869aa149ba
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: add02074-3c6a-42eb-99b9-369afca393a8
+    line_id: KR1e0001_tls_009-689a.11
+    textline: 敏以事君
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 87be317e-2dcd-4a79-9606-642fe31e2361
+    line_id: KR1e0001_tls_009-689a.12
+    textline: 必能養民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

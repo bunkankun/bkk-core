@@ -1,0 +1,35 @@
+uuid: 63bd7238-dbbc-4ef7-b9e2-164ecead7197
+type: word-relation
+group_uuid: 63bd7238-dbbc-4ef7-b9e2-164ecead7197
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 30b954ac-db65-4aab-a3e9-26e298ce3b2c
+  text: 處
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: d971343f-9cd9-42f4-8542-db56207386a8
+    line_id: KR3j0009_tls_005-10a.25
+    textline: 父子失處
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6a3ad022-049e-455a-bcae-8eafb4ddffe5
+  text: 位
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 163e5b7d-ec56-4d23-a3a2-7b0366192660
+    line_id: KR3j0009_tls_005-10a.24
+    textline: 君臣失位
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: ea0789f2-bf5f-4ea0-afa7-e94476ab82ee
+type: word-relation
+group_uuid: 42e76794-0421-562e-948f-2f7fa193e87c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+right:
+  word_uuid: ed7f5cff-0e5f-4c3a-935a-088f5d399a98
+  text: 殖
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a93ac4db-b76f-4bd9-aeff-4615bc625842
+type: word-relation
+group_uuid: a93ac4db-b76f-4bd9-aeff-4615bc625842
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 孟子
+    line_uuid: 0aee61e7-58f8-4b5c-b8f7-1819581813a4
+    line_id: KR1h0001_tls_005-18a.1
+    textline: 亦以新子之國
+    offset: 6
+    range: 1
+right:
+  word_uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  text: 邦
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 孟子
+    line_uuid: bac84682-1980-4275-8a51-11338bd0fdae
+    line_id: KR1h0001_tls_005-17a.3
+    textline: 『周雖舊邦
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

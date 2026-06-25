@@ -1,0 +1,30 @@
+uuid: 573376e9-d7ea-462b-b376-e9d7eaf62bea
+type: word-relation
+group_uuid: 9c00829c-b5ab-5eeb-8981-81d98b1b91d5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 64ff411c-5d5d-4b3e-9333-fa37e05e7ace
+  text: 人
+  concept: LEAD
+  concept_uuid: 70cd50b6-aa7d-4ffd-b4d1-55dfc2b46d02
+  attestation:
+    text_title: 韓非子
+    line_id: KR3c0005_tls_001-18a.2
+    textline: 令荊人得收亡國
+    offset: 3
+    range: 1
+right:
+  word_uuid: d1d6be69-e6a1-41b2-a835-4d085ad8b75f
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_id: select-synfunc-group
+    offset: 1
+    range: 0
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-10T19:52:18.315+09:00'

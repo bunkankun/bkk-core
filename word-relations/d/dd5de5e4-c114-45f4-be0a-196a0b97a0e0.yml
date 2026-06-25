@@ -1,0 +1,21 @@
+uuid: dd5de5e4-c114-45f4-be0a-196a0b97a0e0
+type: word-relation
+group_uuid: 268b75cb-04ee-5d4e-9a73-71fdf1b87632
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d3e70e87-ddae-46a6-98e2-1039213c7bf0
+  text: 穀谷
+  concept: GRAIN
+  concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+right:
+  word_uuid: 64176734-e1e3-491d-8815-79ca2cca12f0
+  text: 食
+  concept: FOOD
+  concept_uuid: 0a5fe84c-54dd-4e85-9fdb-25fe8a30c5a7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

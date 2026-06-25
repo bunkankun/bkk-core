@@ -1,0 +1,32 @@
+uuid: 16ca14bf-e207-4a13-87d3-4ebe24f32c6f
+type: word-relation
+group_uuid: 7479982e-ea32-479b-874c-edb473f5fd44
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee9e47b0-cbca-4551-ba73-b8619a1dc125
+    line_id: KR3c0005_tls_008-21a.2
+    textline: 喜之
+    offset: 1
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5f812db3-d40b-4a95-a07e-d1590e492aec
+    line_id: KR3c0005_tls_008-21a.4
+    textline: 惡之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

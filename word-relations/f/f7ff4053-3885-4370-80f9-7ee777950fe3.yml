@@ -1,0 +1,30 @@
+uuid: f7ff4053-3885-4370-80f9-7ee777950fe3
+type: word-relation
+group_uuid: f7ff4053-3885-4370-80f9-7ee777950fe3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: e41ba4b9-0bc6-4bfe-ba60-da8a91d19cba
+  text: 美
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 列女傳
+    line_uuid: 2dfd5f15-9fd3-4ac6-997f-d8fb36224f2c
+    textline: 美於色
+    offset: 1
+    range: 1
+right:
+  word_uuid: 337c4afa-91bf-4081-b547-89a20a9a5cd0
+  text: 薄
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 列女傳
+    line_uuid: 61a513aa-57a1-40c7-b668-d6cc0d054197
+    textline: 薄於德
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

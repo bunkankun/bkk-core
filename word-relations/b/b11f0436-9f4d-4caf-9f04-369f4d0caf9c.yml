@@ -1,0 +1,32 @@
+uuid: b11f0436-9f4d-4caf-9f04-369f4d0caf9c
+type: word-relation
+group_uuid: 21b038f9-54a9-50b9-8002-de9490fea8a9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1caf68fe-cbac-4099-b4de-97665ca258e4
+  text: 事
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 新語
+    line_id: CH1a0903_CHANT_001-10a.16
+    textline: 窮事察微
+    offset: 2
+    range: 1
+right:
+  word_uuid: eab4e309-fe69-4445-841b-c14769b9e703
+  text: 微
+  concept: PROFOUND
+  concept_uuid: d1aaddeb-1c44-44aa-9522-6c2c8307f5ea
+  attestation:
+    text_title: 新語
+    line_id: CH1a0903_CHANT_001-10a.16
+    textline: 窮事察微
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-11-21T18:47:24.3+09:00'

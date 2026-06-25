@@ -1,0 +1,18 @@
+uuid: 8d1cd78b-5249-4e81-b283-a9210db9766f
+type: word-relation
+group_uuid: e154632a-9cee-5d9c-9ad3-d05139cdfb35
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d4cb582b-6ee8-49b5-ac72-974bb4208333
+  text: 感
+  concept: STIMULATE
+  concept_uuid: ac3cbc8d-7c83-4620-b066-899d1933b31d
+right:
+  word_uuid: 6af51390-ea48-4fb4-8af8-f772c84e7de8
+  text: 起
+  concept: ARISE
+  concept_uuid: 5e5aa9da-b3bb-474e-8a8f-77c6a4b3c1db
+source:
+  source_file: word-relations.xml

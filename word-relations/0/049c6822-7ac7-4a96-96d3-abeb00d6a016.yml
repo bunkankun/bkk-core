@@ -1,0 +1,32 @@
+uuid: 049c6822-7ac7-4a96-96d3-abeb00d6a016
+type: word-relation
+group_uuid: 9d324be1-3c05-4328-92a8-4cd4fa44524a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 韓非子
+    line_uuid: 767c93ec-7651-4b4b-b27e-24c5fe3f3d6a
+    line_id: KR3c0005_tls_020-84a.4
+    textline: 遇諸侯有禮義
+    offset: 5
+    range: 1
+right:
+  word_uuid: 318c4644-941b-4f78-99ce-7e1d11dc7e2f
+  text: 義
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 767c93ec-7651-4b4b-b27e-24c5fe3f3d6a
+    line_id: KR3c0005_tls_020-84a.4
+    textline: 遇諸侯有禮義
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

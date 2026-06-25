@@ -1,0 +1,32 @@
+uuid: aa983d9b-31a5-4cae-8d15-aff8cd51b6bd
+type: word-relation
+group_uuid: aa983d9b-31a5-4cae-8d15-aff8cd51b6bd
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a424b053-2a4d-49b1-9d5f-2fe5dd6944a2
+  text: 言
+  concept: PROMISE
+  concept_uuid: cb9fb7d3-752e-4db2-82df-7d0eacac269d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 170b104e-29d5-4cc4-ab41-38c67ca2e87f
+    line_id: KR3c0005_tls_007-13a.2
+    textline: 故群臣其言大而功小者
+    offset: 5
+    range: 1
+right:
+  word_uuid: fab01125-fa80-41e0-921b-23e02ef4809d
+  text: 功
+  concept: ACHIEVE
+  concept_uuid: 855480b1-b14e-49df-918f-a59082139414
+  attestation:
+    text_title: 韓非子
+    line_uuid: 170b104e-29d5-4cc4-ab41-38c67ca2e87f
+    line_id: KR3c0005_tls_007-13a.2
+    textline: 故群臣其言大而功小者
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

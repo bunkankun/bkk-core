@@ -1,0 +1,32 @@
+uuid: 832fb75e-3e3e-4185-afb7-5e3e3ea18567
+type: word-relation
+group_uuid: 3d0bbba1-b68e-4a37-971c-5fa7d3efc687
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2312e186-562c-478b-a1b8-6aeed3023199
+  text: 一
+  concept: UNITE
+  concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-22a.70
+    textline: 一匡天下
+    offset: 1
+    range: 1
+right:
+  word_uuid: e7d1a3a5-b5f6-4f03-ac99-deb528e68e04
+  text: 匡
+  concept: UNITE
+  concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-22a.70
+    textline: 一匡天下
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T04:09:33.492+09:00'

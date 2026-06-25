@@ -1,0 +1,30 @@
+uuid: cf0689e9-7b8c-4121-92fe-d31db19b6632
+type: word-relation
+group_uuid: cf0689e9-7b8c-4121-92fe-d31db19b6632
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f2a8b709-953b-4ccf-983c-2b7ead13b9ea
+  text: 補
+  concept: FILL
+  concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+  attestation:
+    text_title: 管子
+    line_uuid: 93a81525-80f5-4d14-a23a-77bc40a21f9d
+    textline: 四政曰補缺塞坼
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2dfcd466-7a6b-4bef-8a0c-2682a1dbc83a
+  text: 塞
+  concept: FILL
+  concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+  attestation:
+    text_title: 管子
+    line_uuid: 93a81525-80f5-4d14-a23a-77bc40a21f9d
+    textline: 四政曰補缺塞坼
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 8d16c62b-ef77-4e7c-8ed6-94150345bae4
+type: word-relation
+group_uuid: 8d16c62b-ef77-4e7c-8ed6-94150345bae4
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e489e581-cc89-48d1-ac5d-7cb87325901e
+  text: 反
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c9c7cd90-1be2-465b-b5db-ea31f49f40e5
+    line_id: KR3j0009_tls_004-17a.19
+    textline: 必反其本
+    offset: 2
+    range: 1
+right:
+  word_uuid: 3fc0016a-84f8-4f54-a791-790a0cacacd6
+  text: 本
+  concept: BASIS
+  concept_uuid: 944d3103-a488-4c50-954c-88f86919a1e9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: c9c7cd90-1be2-465b-b5db-ea31f49f40e5
+    line_id: KR3j0009_tls_004-17a.19
+    textline: 必反其本
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

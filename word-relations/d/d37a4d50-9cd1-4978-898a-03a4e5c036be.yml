@@ -1,0 +1,21 @@
+uuid: d37a4d50-9cd1-4978-898a-03a4e5c036be
+type: word-relation
+group_uuid: a6d05fc4-9142-5cbb-a609-6350e17c0477
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d21e6421-ff50-4db7-a1bd-f85ed26aed05
+  text: 替
+  concept: REPLACE
+  concept_uuid: e7f93319-7a2e-4d9b-8d33-566b0c0ca60d
+right:
+  word_uuid: d9db02e9-9221-41bb-b3ac-2ffa233c2aac
+  text: 興
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

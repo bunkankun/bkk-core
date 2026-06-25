@@ -1,0 +1,32 @@
+uuid: f8822bd1-a039-41af-822b-d1a039b1af2e
+type: word-relation
+group_uuid: efe3077c-8a39-5ef3-8612-b59b119f02e7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: e8728619-2951-4598-b516-7f7f864a0269
+  text: 全
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.11
+    textline: 全性保真
+    offset: 1
+    range: 1
+right:
+  word_uuid: d5b04397-9d6e-4405-91a8-b115b65df680
+  text: 保
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.11
+    textline: 全性保真
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-23T03:26:47.074+09:00'

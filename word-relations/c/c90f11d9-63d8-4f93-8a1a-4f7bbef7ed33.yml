@@ -1,0 +1,31 @@
+uuid: c90f11d9-63d8-4f93-8a1a-4f7bbef7ed33
+type: word-relation
+group_uuid: c90f11d9-63d8-4f93-8a1a-4f7bbef7ed33
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 013c9890-d6fa-4810-b12b-47b1a5bf3ad7
+  text: 侵
+  concept: ARROGATE
+  concept_uuid: 70f6343c-f8b1-4c1d-a8b2-274a8edcc8d2
+  attestation:
+    text_title: 管子
+    line_uuid: f067067d-18a1-4364-a926-fa14fbe96cd5
+    line_id: KR3c0001_tls_010-119a.3
+    textline: 其大者有侵偪殺上之禍
+    offset: 5
+    range: 1
+right:
+  word_uuid: ab4a539d-5db5-4959-953f-4c0fa920c80d
+  text: 偪
+  concept: THREATEN
+  concept_uuid: 6d860436-c2a8-4c2b-a5f4-cc409cde9fca
+  attestation:
+    text_title: 管子
+    line_uuid: f067067d-18a1-4364-a926-fa14fbe96cd5
+    line_id: KR3c0001_tls_010-119a.3
+    textline: 其大者有侵偪殺上之禍
+    range: 1
+source:
+  source_file: word-relations.xml

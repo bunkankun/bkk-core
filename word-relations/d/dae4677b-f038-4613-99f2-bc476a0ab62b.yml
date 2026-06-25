@@ -1,0 +1,32 @@
+uuid: dae4677b-f038-4613-99f2-bc476a0ab62b
+type: word-relation
+group_uuid: dae4677b-f038-4613-99f2-bc476a0ab62b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 22756c3c-0aa6-4051-80d4-dbfc3cb8c3fb
+    line_id: KR3c0005_tls_019-53a.2
+    textline: 明主在上
+    offset: 1
+    range: 1
+right:
+  word_uuid: cb75dcef-6882-4d79-9a67-def66084fa4d
+  text: 亂
+  concept: CONFUSED
+  concept_uuid: 21ebf3ea-9dad-4d42-a418-52a70056ca06
+  attestation:
+    text_title: 韓非子
+    line_uuid: 82f44823-56cf-4198-8a93-768480e2ae42
+    line_id: KR3c0005_tls_019-53a.5
+    textline: 亂主在上
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

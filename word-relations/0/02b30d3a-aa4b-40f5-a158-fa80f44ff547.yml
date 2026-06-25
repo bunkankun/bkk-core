@@ -1,0 +1,32 @@
+uuid: 02b30d3a-aa4b-40f5-a158-fa80f44ff547
+type: word-relation
+group_uuid: 55c67e90-6137-45d4-8173-ee69a5657d38
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: d15cc8ae-aab3-4a0a-94c2-adf5b28aaee9
+    line_id: KR1c0066_tls_004-25a.77
+    textline: 心之憂勞
+    offset: 1
+    range: 1
+right:
+  word_uuid: bb3d2679-0b97-4a44-9ed5-ed25379a3364
+  text: 形
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 8701316f-410a-43ff-8df1-6afb546c47b2
+    line_id: KR1c0066_tls_004-25a.78
+    textline: 形之苦痛
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

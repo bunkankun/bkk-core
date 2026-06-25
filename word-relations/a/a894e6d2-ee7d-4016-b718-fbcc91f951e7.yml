@@ -1,0 +1,21 @@
+uuid: a894e6d2-ee7d-4016-b718-fbcc91f951e7
+type: word-relation
+group_uuid: 88c7abaf-7fa2-5d19-bcef-0c9b7d165f93
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 0cea11b4-039a-4f10-a5c7-49e9744e682e
+  text: 把
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+right:
+  word_uuid: b18fd34f-fcd4-482e-90e2-900d057048b6
+  text: 持
+  concept: HOLD
+  concept_uuid: 83bbf4e7-9b35-478d-beeb-3610a4f33976
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

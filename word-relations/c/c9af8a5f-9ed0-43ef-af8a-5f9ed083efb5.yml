@@ -1,0 +1,32 @@
+uuid: c9af8a5f-9ed0-43ef-af8a-5f9ed083efb5
+type: word-relation
+group_uuid: e553407f-436b-504e-bb54-b63daec1084f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-11a.1
+    textline: 又況於執法施令乎
+    offset: 5
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_009-11a.1
+    textline: 又況於執法施令乎
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-18T18:49:28.945+09:00'

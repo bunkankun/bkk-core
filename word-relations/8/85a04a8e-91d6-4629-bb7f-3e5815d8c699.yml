@@ -1,0 +1,18 @@
+uuid: 85a04a8e-91d6-4629-bb7f-3e5815d8c699
+type: word-relation
+group_uuid: 5cc35a52-811f-538a-8402-800f9da2ed5a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4bd7e5bc-da1c-4504-819c-ecb437824fc9
+  text: 信
+  concept: TRUST
+  concept_uuid: 10f10c1a-b39a-4ec9-a081-0f80223c8056
+right:
+  word_uuid: 963495b9-f1a2-4b1c-881c-c46e2c79583a
+  text: 向
+  concept: RALLY
+  concept_uuid: dcc38429-471a-4f41-aaa2-a22659487ac0
+source:
+  source_file: word-relations.xml

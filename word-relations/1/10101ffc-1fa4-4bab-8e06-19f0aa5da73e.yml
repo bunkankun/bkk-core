@@ -1,0 +1,35 @@
+uuid: 10101ffc-1fa4-4bab-8e06-19f0aa5da73e
+type: word-relation
+group_uuid: 10101ffc-1fa4-4bab-8e06-19f0aa5da73e
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 管子
+    line_uuid: 9425b81a-6db5-47c4-981e-3a4bd4bcf8ab
+    line_id: KR3c0001_tls_011-44a.2
+    textline: 君子行於禮
+    offset: 1
+    range: 2
+right:
+  word_uuid: 975ad5f1-ed73-4fcf-94db-33e0e6ce8391
+  text: 小民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: d1180d29-c5ab-4a3b-9db6-4b6a71173e9e
+    line_id: KR3c0001_tls_011-44a.4
+    textline: 小民篤於農
+    offset: 1
+    range: 2
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

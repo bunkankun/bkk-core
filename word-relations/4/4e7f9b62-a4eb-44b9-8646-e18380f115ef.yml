@@ -1,0 +1,32 @@
+uuid: 4e7f9b62-a4eb-44b9-8646-e18380f115ef
+type: word-relation
+group_uuid: 08df8aeb-d63f-4b15-b995-fe9569838e50
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 08fd71f8-92fa-4754-9208-04a3e43202bf
+  text: 倉
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: 02322464-e7d9-4c59-a175-fe94e1b98948
+    line_id: KR3c0005_tls_010-60a.4
+    textline: 倉不容粟
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9ada0487-b1e9-4814-a81f-b795f9317d2d
+  text: 府
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: d9285f0d-c5ff-4612-b367-40e634633478
+    line_id: KR3c0005_tls_010-60a.5
+    textline: 府無積錢
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

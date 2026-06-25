@@ -1,0 +1,32 @@
+uuid: 3a5cefdb-a880-4876-8bfa-cd31079a6df8
+type: word-relation
+group_uuid: 3a5cefdb-a880-4876-8bfa-cd31079a6df8
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 性情論
+    line_uuid: 3e808725-3ea1-4eaa-b94f-33b76802c8e6
+    line_id: KR2p0034_tls_001-1a.1
+    textline: 凡人雖有性
+    offset: 5
+    range: 1
+right:
+  word_uuid: f9cd466f-732d-4414-8802-956ae1b70b7b
+  text: 志
+  concept: ASPIRATION
+  concept_uuid: 3309fe3e-9917-4c2b-992a-a28709e0ba45
+  attestation:
+    text_title: 性情論
+    line_uuid: 48ed05ac-2630-40ca-a62d-23707bc4cbed
+    line_id: KR2p0034_tls_001-1a.2
+    textline: 心亡定志
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

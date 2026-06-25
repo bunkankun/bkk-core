@@ -1,0 +1,32 @@
+uuid: baacd361-6045-4423-acd3-6160456423af
+type: word-relation
+group_uuid: ce56fe5e-f05d-5ac5-a2a6-4aedc5fef1e2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1162404a-8c14-4645-8cea-803f1a31e2e8
+  text: 憎
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_004-15a.10
+    textline: 憎慍惀之脩美兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 67d5dad8-f3eb-4f14-b5b2-2aa4ff8ae31e
+  text: 慍
+  concept: ANGER
+  concept_uuid: 58343a1a-8cf0-4be2-a65d-c8e4f9392722
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_004-15a.10
+    textline: 憎慍惀之脩美兮
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-24T00:43:40.744+09:00'

@@ -1,0 +1,32 @@
+uuid: 7bfa996a-e7b0-4713-ba99-6ae7b0a71361
+type: word-relation
+group_uuid: 566bb712-1f2d-5822-afee-10c3c89f069e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ed815a67-a9b3-45ce-bf94-7a65526fb4b4
+  text: 弓
+  concept: BOW
+  concept_uuid: 627ef940-0fa4-40c1-95f6-2b853df4e150
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.29
+    textline: 弓劍而已矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: 35315462-2b98-4759-932b-68ed0d7c5cd7
+  text: 劍
+  concept: SWORD
+  concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.29
+    textline: 弓劍而已矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T02:15:33.33+09:00'

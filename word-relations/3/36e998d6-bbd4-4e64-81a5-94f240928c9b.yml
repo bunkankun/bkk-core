@@ -1,0 +1,32 @@
+uuid: 36e998d6-bbd4-4e64-81a5-94f240928c9b
+type: word-relation
+group_uuid: 779af34c-b073-41ec-99f3-a640c80d50e5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 612128ef-a9f3-4e19-b784-9cc3dae7076a
+    line_id: KR3j0009_tls_002-25a.36
+    textline: 故國皆殘亡
+    offset: 2
+    range: 1
+right:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 8d83487a-c102-406d-84c3-b413eebea4e4
+    line_id: KR3j0009_tls_002-25a.37
+    textline: 身或死辱
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

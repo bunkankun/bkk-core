@@ -1,0 +1,21 @@
+uuid: 2ddd7825-3966-43c5-a31e-21d068f845fb
+type: word-relation
+group_uuid: cf970ffe-c379-527a-929b-c27f9e4a2d9a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 86bad0cf-cf31-45c5-906d-50a888c0ab79
+  text: 節
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+right:
+  word_uuid: 000312c4-ad25-44b6-ac24-b208cdd7db3d
+  text: 期
+  concept: PERIOD
+  concept_uuid: 09bf9428-74e7-44d2-a157-bce88ac98879
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

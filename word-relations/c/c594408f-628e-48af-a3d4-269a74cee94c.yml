@@ -1,0 +1,21 @@
+uuid: c594408f-628e-48af-a3d4-269a74cee94c
+type: word-relation
+group_uuid: 7b24aabd-74bb-5172-884b-39fdcace5657
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 796890ee-1059-4594-b490-8aa7810d1f8a
+  text: 貴
+  concept: APPRECIATE
+  concept_uuid: c7e0bb77-9db0-42e0-8391-3b3099b4601d
+right:
+  word_uuid: dc77e559-33d9-448d-8c7a-76f745f956cf
+  text: 易
+  concept: DESPISE
+  concept_uuid: 8da4c067-ea7b-48fb-a129-52f4917f0436
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

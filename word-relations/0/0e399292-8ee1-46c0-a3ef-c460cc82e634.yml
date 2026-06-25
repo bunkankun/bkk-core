@@ -1,0 +1,21 @@
+uuid: 0e399292-8ee1-46c0-a3ef-c460cc82e634
+type: word-relation
+group_uuid: fc2c4b23-0c83-5d8b-96e5-3f5b64f05239
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 85b80993-b48f-4f7f-8603-ae54f6571db0
+  text: 殘
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+right:
+  word_uuid: 1019e90a-a32e-4605-8193-fb0914e1eb96
+  text: 暴
+  concept: CRUEL
+  concept_uuid: c5e87be9-ad27-478b-9f6e-e93d3798745f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 463c4a4e-8bee-4146-9d54-fe48e53084e7
+type: word-relation
+group_uuid: 7843352e-2e5c-4f88-9302-2cd5584fb1ca
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 67afbe08-e5d6-423f-b8f3-66fb3ff71ab4
+  text: 蚤
+  concept: EARLY
+  concept_uuid: e104da1d-e517-40e3-b531-dd9815399daa
+  attestation:
+    text_title: 墨子
+    line_uuid: df4e062a-96c2-4a84-ba30-df3ac79f09c7
+    textline: 蚤朝晏退
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d7e4e37-75e2-42b1-8884-5ebf7ef53b50
+  text: 晏
+  concept: LATE
+  concept_uuid: 8623833b-543a-4e6e-9ddb-4b013daeb370
+  attestation:
+    text_title: 墨子
+    line_uuid: df4e062a-96c2-4a84-ba30-df3ac79f09c7
+    textline: 蚤朝晏退
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

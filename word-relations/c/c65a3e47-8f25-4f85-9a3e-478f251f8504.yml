@@ -1,0 +1,32 @@
+uuid: c65a3e47-8f25-4f85-9a3e-478f251f8504
+type: word-relation
+group_uuid: 7cac7324-67f0-5152-b654-6e9b31c48eb7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 94bf8563-4876-4a0d-b9ff-898cf766ce05
+  text: 法令
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 戰國策
+    line_id: KR2e0003_tls_046-1a.8
+    textline: 法令至行
+    offset: 1
+    range: 2
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 戰國策
+    line_id: KR2e0003_tls_046-1a.8
+    textline: 法令至行
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-16T02:13:06.457+09:00'

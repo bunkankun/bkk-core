@@ -1,0 +1,32 @@
+uuid: a7a00d0f-e5f1-4ca2-b8c4-c25a7f0c1bdd
+type: word-relation
+group_uuid: a7a00d0f-e5f1-4ca2-b8c4-c25a7f0c1bdd
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6261dbfe-ea82-4fca-813a-5f13b07f22e5
+  text: 事
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 韓非子
+    line_uuid: 390206e4-1d28-4eba-80df-6298b7a88f66
+    line_id: KR3c0005_tls_014-15a.3
+    textline: 而以法事君者少矣
+    offset: 4
+    range: 1
+right:
+  word_uuid: 10d0e800-15b1-4aa6-97e4-9a8431b8d408
+  text: 為
+  concept: SERVE
+  concept_uuid: 322fa762-969f-4157-8b01-103f552f0006
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5ca24968-b0c5-4023-9236-e23315b1887e
+    line_id: KR3c0005_tls_014-15a.2
+    textline: 故以私為重人者眾
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

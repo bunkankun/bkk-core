@@ -1,0 +1,32 @@
+uuid: 6bfd36bc-7ffd-4939-8aa7-1b2acf5a37c2
+type: word-relation
+group_uuid: 17cd6eac-e44c-4538-81e7-42954f2cd794
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 43af470e-bd80-475e-abd8-e2e327d3e557
+    line_id: KR3j0009_tls_016-8a.36
+    textline: 身已賢矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5e63d0d8-788e-46c9-a6ab-56a713b10d83
+    line_id: KR3j0009_tls_016-8a.37
+    textline: 行已高矣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

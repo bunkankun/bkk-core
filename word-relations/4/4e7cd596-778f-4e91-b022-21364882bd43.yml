@@ -1,0 +1,21 @@
+uuid: 4e7cd596-778f-4e91-b022-21364882bd43
+type: word-relation
+group_uuid: c61182c4-2fb8-5e2b-ad5c-04247cc130b0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 88b235df-c432-49cb-aa0f-ca4a0fc96be3
+  text: 送
+  concept: FAREWELL
+  concept_uuid: 133f96fe-214c-4eba-9485-6452871fb48b
+right:
+  word_uuid: 0450574a-8da5-4952-bdaa-70fc542a3ce9
+  text: 迎
+  concept: WELCOME
+  concept_uuid: b30fe395-c9c0-42fa-8e8c-3da8e4c9f654
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

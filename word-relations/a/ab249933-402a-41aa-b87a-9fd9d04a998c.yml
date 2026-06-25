@@ -1,0 +1,32 @@
+uuid: ab249933-402a-41aa-b87a-9fd9d04a998c
+type: word-relation
+group_uuid: ab249933-402a-41aa-b87a-9fd9d04a998c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bebe1821-5036-4f98-b814-2bc835eb6796
+  text: 平
+  concept: FLAT
+  concept_uuid: 9312ff59-945c-4d81-85a8-2eb958345e85
+  attestation:
+    text_title: 荀子
+    line_uuid: 19e45e5f-f2f9-4b52-af18-75cccf19f4fa
+    line_id: KR3a0002_tls_003-1a.12
+    textline: 「山淵平
+    offset: 4
+    range: 1
+right:
+  word_uuid: 104e3dfa-947b-4391-9aaf-2ed02245064c
+  text: 比
+  concept: JUXTAPOSE
+  concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+  attestation:
+    text_title: 荀子
+    line_uuid: 4b83af1f-1a06-468c-b330-a40ebc57e5c3
+    line_id: KR3a0002_tls_003-1a.13
+    textline: 「天地比
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

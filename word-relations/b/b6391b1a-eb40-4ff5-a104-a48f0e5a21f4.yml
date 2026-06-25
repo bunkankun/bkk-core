@@ -1,0 +1,32 @@
+uuid: b6391b1a-eb40-4ff5-a104-a48f0e5a21f4
+type: word-relation
+group_uuid: d0836ada-6a57-4c65-a8b5-cffdaed2f5ee
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: 30c8b956-a821-4b80-a750-dadd5311af52
+    line_id: KR3c0005_tls_009-23a.7
+    textline: 不使人臣私其德
+    offset: 4
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 30c8b956-a821-4b80-a750-dadd5311af52
+    line_id: KR3c0005_tls_009-23a.7
+    textline: 不使人臣私其德
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 30289a6e-1a79-4d6e-8332-ba5d5e389248
+type: word-relation
+group_uuid: 2073ea08-b75c-4860-bfd2-fc1755be1fe1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c0ecba53-6ca7-462a-a84a-92eb9e2190a7
+  text: 誹
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 淮南子
+    line_uuid: eecd9749-0fe9-4a31-9aa5-832737a4ae74
+    line_id: KR3j0010_tls_011-11a.22
+    textline: 聽失於誹譽
+    offset: 4
+    range: 1
+right:
+  word_uuid: b8a7ac65-6563-4763-b430-dcd32c23a0d1
+  text: 譽
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+  attestation:
+    text_title: 淮南子
+    line_uuid: eecd9749-0fe9-4a31-9aa5-832737a4ae74
+    line_id: KR3j0010_tls_011-11a.22
+    textline: 聽失於誹譽
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

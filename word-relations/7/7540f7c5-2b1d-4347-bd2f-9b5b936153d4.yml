@@ -1,0 +1,32 @@
+uuid: 7540f7c5-2b1d-4347-bd2f-9b5b936153d4
+type: word-relation
+group_uuid: ccbd4630-0460-4f4b-b660-4b34231491cf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: c669b97f-9e86-46f1-9dc8-a1f4fb29f0e3
+    line_id: KR3c0005_tls_006-9a.4
+    textline: 加以群臣之上
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0043c020-0a24-4441-bf4e-b7cdd6d7315a
+  text: 群
+  concept: ALL
+  concept_uuid: 78fc2812-4bf3-4e0a-8efe-78907250d397
+  attestation:
+    text_title: 韓非子
+    line_uuid: c669b97f-9e86-46f1-9dc8-a1f4fb29f0e3
+    line_id: KR3c0005_tls_006-9a.4
+    textline: 加以群臣之上
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: ff6952f7-ee87-468a-a536-e74b79d9975b
+type: word-relation
+group_uuid: ff6952f7-ee87-468a-a536-e74b79d9975b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4df3904a-7e98-4f17-ada2-c6ab46e7b5a1
+  text: 牝
+  concept: FEMALE
+  concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+  attestation:
+    text_title: 老子
+    line_uuid: 0c1f1ace-4b3c-4f95-b4d7-7d9281f2236e
+    line_id: KR5c0057_tls_055-1a.9
+    textline: 未知牝牡之合
+    offset: 3
+    range: 1
+right:
+  word_uuid: b3af54eb-14ef-44ca-a296-7ecc17f3435f
+  text: 牡
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+  attestation:
+    text_title: 老子
+    line_uuid: 0c1f1ace-4b3c-4f95-b4d7-7d9281f2236e
+    line_id: KR5c0057_tls_055-1a.9
+    textline: 未知牝牡之合
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

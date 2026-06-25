@@ -1,0 +1,32 @@
+uuid: 5bbc35ac-da77-4752-b393-1602d6e9426a
+type: word-relation
+group_uuid: 5bbc35ac-da77-4752-b393-1602d6e9426a
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 843fb5a7-465f-4811-a3e2-2da038c8feca
+  text: 笑
+  concept: SMILE
+  concept_uuid: 8b0231ab-2843-4bdb-8123-9195937dfc8f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 2f7fb080-660a-45d2-86b8-4496b046d878
+    line_id: KR1c0066_tls_008-14a.11
+    textline: 景公嘻然而笑曰
+    offset: 6
+    range: 1
+right:
+  word_uuid: 2493ec5e-aee9-4659-a70a-255934a3fb20
+  text: 嘻然
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 2f7fb080-660a-45d2-86b8-4496b046d878
+    line_id: KR1c0066_tls_008-14a.11
+    textline: 景公嘻然而笑曰
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

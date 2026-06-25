@@ -1,0 +1,21 @@
+uuid: 1369ce49-44cf-4871-baa8-4a8a9c9121a9
+type: word-relation
+group_uuid: 65c08342-17fe-5ae2-9a27-335686747e82
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 138621dc-2700-4c5e-aae3-50ca93e2e454
+  text: 往往迋
+  concept: GO TO
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+right:
+  word_uuid: 709a2b7a-52b1-4669-b0b0-8fe35db39c91
+  text: 還
+  concept: RETURN
+  concept_uuid: 912ab80f-4a8e-4cb4-b2c9-e5c0322c9d61
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

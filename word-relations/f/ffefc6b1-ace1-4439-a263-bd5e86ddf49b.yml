@@ -1,0 +1,32 @@
+uuid: ffefc6b1-ace1-4439-a263-bd5e86ddf49b
+type: word-relation
+group_uuid: ffefc6b1-ace1-4439-a263-bd5e86ddf49b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 論語
+    line_uuid: 97350fcf-16e7-4e6b-a75d-aabe43d4dc08
+    line_id: KR1h0004_tls_002-3a.6
+    textline: 道之以德
+    offset: 4
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 論語
+    line_uuid: a85064cf-5717-4695-99c6-b949f30841dc
+    line_id: KR1h0004_tls_002-3a.7
+    textline: 齊之以禮
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

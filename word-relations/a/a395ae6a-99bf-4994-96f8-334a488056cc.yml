@@ -1,0 +1,32 @@
+uuid: a395ae6a-99bf-4994-96f8-334a488056cc
+type: word-relation
+group_uuid: a395ae6a-99bf-4994-96f8-334a488056cc
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 70bf1bb0-153c-4091-b51d-343fe01e96ff
+  text: 臣
+  concept: MINISTER
+  concept_uuid: ebcfdb81-b800-430b-93fa-bd19e1e371ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6774ea12-c249-4d0e-bba7-70fe0a397e07
+    line_id: KR3c0005_tls_002-29a.5
+    textline: 豈陛下所以逆賤臣者邪
+    offset: 8
+    range: 1
+right:
+  word_uuid: 59c38938-a539-41c3-8f9d-603c1a64feee
+  text: 賤
+  concept: HUMBLE
+  concept_uuid: 937b3ebb-47b1-46c0-ac49-a2ef30faa3d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6774ea12-c249-4d0e-bba7-70fe0a397e07
+    line_id: KR3c0005_tls_002-29a.5
+    textline: 豈陛下所以逆賤臣者邪
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

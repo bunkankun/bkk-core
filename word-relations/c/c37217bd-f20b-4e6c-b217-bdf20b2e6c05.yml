@@ -1,0 +1,32 @@
+uuid: c37217bd-f20b-4e6c-b217-bdf20b2e6c05
+type: word-relation
+group_uuid: 2d51276f-4956-50af-a04f-c177ee00a8f5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dd22ee1b-596f-477a-a677-4f779bc2b8c1
+  text: 缺
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-5a.17
+    textline: 夫道其缺也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5dd845be-d726-4e6f-8b5a-dc348313706d
+  text: 全
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-5a.18
+    textline: 不若道其全也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T19:05:53.477+09:00'

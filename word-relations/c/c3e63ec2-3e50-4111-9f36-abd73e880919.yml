@@ -1,0 +1,21 @@
+uuid: c3e63ec2-3e50-4111-9f36-abd73e880919
+type: word-relation
+group_uuid: a0ceecc7-a502-5373-8176-0a820c1455e2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+right:
+  word_uuid: df0833ed-a86b-4610-ae6a-67dbbade12d6
+  text: 數
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 952cc54d-aec8-49fe-9fa1-cd5f06726b78
+type: word-relation
+group_uuid: 952cc54d-aec8-49fe-9fa1-cd5f06726b78
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 33c5997e-f2c9-4106-8b99-07effdf6d7f4
+  text: 形體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 孔子家語
+    line_uuid: f45ef2db-4184-4a2a-aff7-f630e807f80d
+    textline: 形體則降
+    offset: 1
+    range: 2
+right:
+  word_uuid: 5395a010-174d-41bc-a164-dba6de33015d
+  text: 魂氣
+  concept: SOUL
+  concept_uuid: a9a73f59-74aa-4d13-9af2-1a1eb87d0c98
+  attestation:
+    text_title: 孔子家語
+    line_uuid: 18ef9abc-ef2e-461b-86e9-baf580f165e3
+    textline: 魂氣則上
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

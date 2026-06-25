@@ -1,0 +1,30 @@
+uuid: 6984e790-6cea-4bfb-a064-a11bd9fe36bb
+type: word-relation
+group_uuid: 6984e790-6cea-4bfb-a064-a11bd9fe36bb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4be5ef54-69b7-45ea-b45d-d5a65f5370b0
+  text: 方
+  concept: DRUG
+  concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+  attestation:
+    text_title: 新論
+    line_uuid: 73a343db-d8ed-4a48-b870-4ffea06339a5
+    textline: 維鍼艾方藥者
+    offset: 4
+    range: 1
+right:
+  word_uuid: a7cc995b-aefc-4bc2-b4cc-e6186b192d0b
+  text: 藥
+  concept: DRUG
+  concept_uuid: 6f428244-f5ad-4f76-b75c-a630dfefe5ff
+  attestation:
+    text_title: 新論
+    line_uuid: 73a343db-d8ed-4a48-b870-4ffea06339a5
+    textline: 維鍼艾方藥者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

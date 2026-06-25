@@ -1,0 +1,32 @@
+uuid: a917bf6f-daaf-4738-8131-c5ee99faeff6
+type: word-relation
+group_uuid: a917bf6f-daaf-4738-8131-c5ee99faeff6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 法言
+    line_uuid: bfe77c6a-2cf7-4154-bac8-c959237337ae
+    line_id: KR3a0009_tls_008-4a.2
+    textline: 聖人重其道而輕其祿
+    offset: 5
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 法言
+    line_uuid: ff06f43a-5f2e-4129-8395-36a63f89b024
+    line_id: KR3a0009_tls_008-4a.3
+    textline: 眾人重其祿而輕其道
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

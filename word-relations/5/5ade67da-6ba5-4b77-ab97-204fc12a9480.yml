@@ -1,0 +1,30 @@
+uuid: 5ade67da-6ba5-4b77-ab97-204fc12a9480
+type: word-relation
+group_uuid: 5ade67da-6ba5-4b77-ab97-204fc12a9480
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: c3ead4eb-9454-440a-a9b7-584026dbfeb5
+  text: 刺
+  concept: STAB
+  concept_uuid: 3a56af4e-c91b-45ac-8a04-e95bdb19d0e3
+  attestation:
+    text_title: 孟子
+    line_uuid: 82ad1528-7b8d-43a3-b817-fd22a8c1907c
+    textline: 是何異於刺人而殺之曰
+    offset: 5
+    range: 1
+right:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 孟子
+    line_uuid: 82ad1528-7b8d-43a3-b817-fd22a8c1907c
+    textline: 是何異於刺人而殺之曰
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

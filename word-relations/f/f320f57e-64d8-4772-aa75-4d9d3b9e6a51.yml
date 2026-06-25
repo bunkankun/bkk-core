@@ -1,0 +1,21 @@
+uuid: f320f57e-64d8-4772-aa75-4d9d3b9e6a51
+type: word-relation
+group_uuid: 0420fa57-fcb0-5927-a04d-0850f1f3a617
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3192ae44-ba04-44e4-bc68-0c99fd774616
+  text: 列
+  concept: JUXTAPOSE
+  concept_uuid: 7b33e360-2ba3-41bc-a96e-1ce7ea29eca4
+right:
+  word_uuid: b8ccfe89-07da-4d13-83a0-a3fbb3c98aab
+  text: 陳
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

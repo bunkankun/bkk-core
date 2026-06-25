@@ -1,0 +1,21 @@
+uuid: cad351a6-b65c-436f-b5b7-801e88fe40ce
+type: word-relation
+group_uuid: 51b49178-8711-5201-81b0-30d1aa8ec241
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f63711d7-fa86-4e87-83c4-33152e4d86e8
+  text: 輔
+  concept: HELP
+  concept_uuid: 230d02c8-2e1f-4e89-9c2f-f81cbfe0bde3
+right:
+  word_uuid: 85f02e87-a21d-47d5-8d51-4188106e4b3d
+  text: 保
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

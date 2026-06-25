@@ -1,0 +1,21 @@
+uuid: 522f13c5-b1f3-408d-9c00-e2c8dcb2e507
+type: word-relation
+group_uuid: 87d85f4e-a920-5301-b508-80bdb04643f6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+right:
+  word_uuid: 495686e2-663d-4f3e-ba5a-e5ade2a38902
+  text: 術
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

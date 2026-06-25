@@ -1,0 +1,31 @@
+uuid: ec82c2d5-7a04-4d97-b9d7-582034d14688
+type: word-relation
+group_uuid: ec82c2d5-7a04-4d97-b9d7-582034d14688
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2bd4071c-6230-4b18-93ca-59882a9337de
+  text: 夷狄
+  concept: BARBARIAN
+  concept_uuid: 7886441a-3747-4a31-9432-28601e29f941
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: c3b63799-626d-4fe8-9e1d-55b0d4529f31
+    textline: 夷狄之有君
+    offset: 1
+    range: 2
+right:
+  word_uuid: bfc981c3-5730-41b1-bd43-1a23189afa10
+  text: 諸夏
+  concept: CHINA
+  concept_uuid: fb6c27a9-581b-4a02-8730-b23dceed30a3
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: be7ae710-7168-41db-bcd1-43f76336fbeb
+    line_id: KR1h0004_tls_003-6a.1
+    textline: 不如諸夏之亡也
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

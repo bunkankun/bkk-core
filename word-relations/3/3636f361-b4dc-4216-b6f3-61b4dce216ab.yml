@@ -1,0 +1,32 @@
+uuid: 3636f361-b4dc-4216-b6f3-61b4dce216ab
+type: word-relation
+group_uuid: ffb752a1-480b-5d29-9a64-b536702ce358
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 039058c4-76a9-458d-ad2d-9f3899345430
+  text: 狂
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_004-3a.55
+    textline: 我欲屬之狂惑疾病邪
+    offset: 5
+    range: 1
+right:
+  word_uuid: 79eddf14-e0c0-46ec-bc37-9a929ac00810
+  text: 惑
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_004-3a.55
+    textline: 我欲屬之狂惑疾病邪
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T02:48:40.15+09:00'

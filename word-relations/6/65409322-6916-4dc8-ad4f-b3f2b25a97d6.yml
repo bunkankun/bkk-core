@@ -1,0 +1,35 @@
+uuid: 65409322-6916-4dc8-ad4f-b3f2b25a97d6
+type: word-relation
+group_uuid: 65409322-6916-4dc8-ad4f-b3f2b25a97d6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 902c8485-1ab7-49e6-b808-f7163a28510e
+  text: 居
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 4327473e-83f5-4cff-b76d-55ba105ae987
+    line_id: KR1h0004_tls_012-25a.4
+    textline: 「居之無倦
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: 851f8077-4e6d-4a7e-8fd6-3e0c0b6af9a4
+    line_id: KR1h0004_tls_012-26a.1
+    textline: 行之以忠
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

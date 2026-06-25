@@ -1,0 +1,32 @@
+uuid: a38f967d-a2b4-48c0-8a98-b074c63b620a
+type: word-relation
+group_uuid: c5b79773-65b6-4aea-b645-9ce9ed52cb87
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 46f67ada-938a-4836-bba0-3da33f972d9f
+  text: 察
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c86c2a2-e4d6-4d53-8b2c-7ae007796216
+    line_id: KR3c0005_tls_011-1a.4
+    textline: 必遠見而明察
+    offset: 6
+    range: 1
+right:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5c86c2a2-e4d6-4d53-8b2c-7ae007796216
+    line_id: KR3c0005_tls_011-1a.4
+    textline: 必遠見而明察
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

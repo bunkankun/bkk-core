@@ -1,0 +1,32 @@
+uuid: d69d9589-5018-444e-9384-3a070cba297d
+type: word-relation
+group_uuid: d69d9589-5018-444e-9384-3a070cba297d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: c0fad5c5-4295-4cf1-bf9f-e7e2af19369b
+    line_id: KR1h0004_tls_004-17a.1
+    textline: 忠恕而已矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: df677435-803f-48db-88b9-8d4e016b7a83
+  text: 恕
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論語
+    line_uuid: c0fad5c5-4295-4cf1-bf9f-e7e2af19369b
+    line_id: KR1h0004_tls_004-17a.1
+    textline: 忠恕而已矣
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

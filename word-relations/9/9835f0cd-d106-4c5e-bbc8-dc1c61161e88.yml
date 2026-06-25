@@ -1,0 +1,21 @@
+uuid: 9835f0cd-d106-4c5e-bbc8-dc1c61161e88
+type: word-relation
+group_uuid: 04864972-3e2d-5532-999b-8cfd6988a76e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7ed28880-653f-4cbd-8e6b-394d34f184d5
+  text: 褒
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+right:
+  word_uuid: 2fe34566-c827-4802-b350-d3aaaa06d216
+  text: 頌
+  concept: PRAISE
+  concept_uuid: 69026a4a-550e-4b08-be94-0b5717050be4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

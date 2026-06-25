@@ -1,0 +1,21 @@
+uuid: 1c000f29-d92a-4e23-94d3-73bc84f25f02
+type: word-relation
+group_uuid: 3b556677-ac14-5bdc-87f8-8121f004228b
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7a651474-4bc0-4ea0-9050-ceac80e29258
+  text: 痴癡
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+right:
+  word_uuid: 039058c4-76a9-458d-ad2d-9f3899345430
+  text: 狂
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

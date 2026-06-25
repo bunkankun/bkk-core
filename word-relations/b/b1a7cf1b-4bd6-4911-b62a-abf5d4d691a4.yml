@@ -1,0 +1,30 @@
+uuid: b1a7cf1b-4bd6-4911-b62a-abf5d4d691a4
+type: word-relation
+group_uuid: b1a7cf1b-4bd6-4911-b62a-abf5d4d691a4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 94b4d403-5d00-4aef-9104-784c921d3384
+  text: 今
+  concept: NOW
+  concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+  attestation:
+    text_title: 墨經 ed. Graham
+    line_uuid: 2ecaabee-72ed-478a-a2d9-31f3fe4aebae
+    textline: 今古(今)*合旦莫
+    range: 1
+right:
+  word_uuid: f1e34c3d-1996-4c8f-97cf-813d84301517
+  text: 古
+  attestation:
+    text_title: 墨經 ed. Graham
+    line_uuid: 2ecaabee-72ed-478a-a2d9-31f3fe4aebae
+    textline: 今古(今)*合旦莫
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

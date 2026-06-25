@@ -1,0 +1,32 @@
+uuid: ad2a2215-ecf5-4d0f-8831-30dfdf1c2631
+type: word-relation
+group_uuid: ad2a2215-ecf5-4d0f-8831-30dfdf1c2631
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 禮記
+    line_uuid: 0497121d-f6de-4ca9-9aeb-daf01b5516c9
+    line_id: KR1d0052_tls_003-58a.3
+    textline: 「謀人之軍師
+    offset: 5
+    range: 1
+right:
+  word_uuid: eb725433-e847-4d90-a781-00b907da6576
+  text: 師
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+  attestation:
+    text_title: 禮記
+    line_uuid: 0497121d-f6de-4ca9-9aeb-daf01b5516c9
+    line_id: KR1d0052_tls_003-58a.3
+    textline: 「謀人之軍師
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

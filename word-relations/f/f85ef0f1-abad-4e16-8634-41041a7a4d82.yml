@@ -1,0 +1,32 @@
+uuid: f85ef0f1-abad-4e16-8634-41041a7a4d82
+type: word-relation
+group_uuid: f85ef0f1-abad-4e16-8634-41041a7a4d82
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5d0eba96-bf2e-441a-8e24-8e0726d95994
+  text: 淫
+  concept: LEWD
+  concept_uuid: f7462177-ee5b-47d1-944c-ac2cc40cced0
+  attestation:
+    text_title: 荀子
+    line_uuid: d64b5bb3-2a39-44fb-b5ad-396048eb4d61
+    line_id: KR3a0002_tls_023-1a.17
+    textline: 故淫亂生
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0ca421c2-e6cd-4f69-8516-7b6d749d14f3
+  text: 亂
+  concept: REVOLT
+  concept_uuid: 34357b6e-bbf2-4b03-b8ce-33ad566a8083
+  attestation:
+    text_title: 荀子
+    line_uuid: d64b5bb3-2a39-44fb-b5ad-396048eb4d61
+    line_id: KR3a0002_tls_023-1a.17
+    textline: 故淫亂生
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

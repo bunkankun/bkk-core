@@ -1,0 +1,32 @@
+uuid: 0ed01b7b-2f43-452c-901b-7b2f43452c1d
+type: word-relation
+group_uuid: db8adca5-046c-5421-bc1f-b61448608a4f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c0b83551-739e-4a98-bc95-c92396f7990b
+  text: 內
+  concept: INSIDE
+  concept_uuid: 44bc3830-f8a2-4b83-b546-021006639a3c
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-11a.6
+    textline: 內也
+    offset: 1
+    range: 1
+right:
+  word_uuid: fbfb9f53-bbff-4ed5-9e34-c5245a9d37e2
+  text: 外
+  concept: OUTSIDE
+  concept_uuid: 4f78b164-ca2d-4980-b978-2c2f8aff2317
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_011-11a.7
+    textline: 非外也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-02-15T18:09:13.354+09:00'

@@ -1,0 +1,30 @@
+uuid: e79078c9-34fb-4f0d-a8c0-02d9add9d2ce
+type: word-relation
+group_uuid: e79078c9-34fb-4f0d-a8c0-02d9add9d2ce
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e61c7481-75d9-4185-a98d-71f84071a39e
+  text: 勞倦
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: a14cdb8f-5237-42be-a448-5804e7992d93
+    textline: 樂歡逸而憚勞倦
+    offset: 6
+    range: 2
+right:
+  word_uuid: 74b68ae0-42a0-4310-bb11-43941028b748
+  text: 歡逸
+  concept: LEISURE
+  concept_uuid: 729a57d0-5998-4529-bd38-9945388d0a7a
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: a14cdb8f-5237-42be-a448-5804e7992d93
+    textline: 樂歡逸而憚勞倦
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

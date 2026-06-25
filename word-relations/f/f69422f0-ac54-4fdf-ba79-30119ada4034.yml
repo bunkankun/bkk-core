@@ -1,0 +1,18 @@
+uuid: f69422f0-ac54-4fdf-ba79-30119ada4034
+type: word-relation
+group_uuid: ded01f76-e095-55a5-8f4d-26426ab102c1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: bb0ab759-63f5-4646-bfcd-302d5567f482
+  text: 出家
+  concept: MONK
+  concept_uuid: df69e081-ccd2-424f-81cf-dc7c94dbf764
+right:
+  word_uuid: 36bc425e-960b-4d62-971c-00483e1851af
+  text: 有家
+  concept: SECULAR
+  concept_uuid: a9cd9b55-25a4-4c86-bc18-185e30a540b8
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 7a7f25b9-d5bc-428c-b355-7d64859b5da2
+type: word-relation
+group_uuid: 7a7f25b9-d5bc-428c-b355-7d64859b5da2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b5998c31-7651-447e-870b-12941e664fba
+  text: 省
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 孟子
+    line_uuid: c8d8536c-9920-48ff-a577-70a10ce40374
+    line_id: KR1h0001_tls_001-19a.6
+    textline: 省刑罰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7d79f47e-2ce6-43fc-962f-1e68d0c58b57
+  text: 薄
+  concept: SLIGHTLY
+  concept_uuid: 04ab2f04-8e86-4176-b0ec-a40e3a6a7129
+  attestation:
+    text_title: 孟子
+    line_uuid: 57dcf10c-40ff-4430-8636-a3e66cb1fa46
+    line_id: KR1h0001_tls_001-19a.7
+    textline: 薄稅斂
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

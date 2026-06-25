@@ -1,0 +1,32 @@
+uuid: 56b8c719-1f5b-4745-83c2-8f5c4817d135
+type: word-relation
+group_uuid: 56b8c719-1f5b-4745-83c2-8f5c4817d135
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 382e89f8-3e4e-43b8-be3d-a9f98cb5989d
+  text: 俯
+  concept: LOOK DOWN
+  concept_uuid: a16f4ee7-cd5e-4297-b5ab-9306a5a4ed25
+  attestation:
+    text_title: 孟子
+    line_uuid: e0bfe30c-91e6-495c-afcb-c9210da529d4
+    line_id: KR1h0001_tls_001-65a.4
+    textline: 俯不足以畜妻子
+    offset: 1
+    range: 1
+right:
+  word_uuid: 047f40d8-ce5e-40df-a558-eb857ebdb3a2
+  text: 仰
+  concept: LOOK UP
+  concept_uuid: df3e2b33-735b-4cc6-ab38-c478d4776eed
+  attestation:
+    text_title: 孟子
+    line_uuid: 491d4248-ee0c-42ab-ba46-4bc35d8961cd
+    line_id: KR1h0001_tls_001-65a.3
+    textline: 仰不足以事父母
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

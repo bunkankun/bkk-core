@@ -1,0 +1,32 @@
+uuid: 2b377d76-404f-4036-a052-8031c597ecc1
+type: word-relation
+group_uuid: 2b377d76-404f-4036-a052-8031c597ecc1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b0da12c3-1276-4f7a-9ef6-571df12f500c
+  text: 巫
+  concept: SHAMAN
+  concept_uuid: 93cda151-3c49-4069-9e1a-659419c8ed27
+  attestation:
+    text_title: 孟子
+    line_uuid: 52ae517e-3575-4dd4-813e-95cd3d0ed85e
+    line_id: KR1h0001_tls_003-39a.6
+    textline: 巫匠亦然
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3b66186e-d81e-4da0-956a-426ca5bc0688
+  text: 匠
+  concept: CARPENTER
+  concept_uuid: 95a05433-8265-4179-aae6-831617ad0037
+  attestation:
+    text_title: 孟子
+    line_uuid: 52ae517e-3575-4dd4-813e-95cd3d0ed85e
+    line_id: KR1h0001_tls_003-39a.6
+    textline: 巫匠亦然
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

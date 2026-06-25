@@ -1,0 +1,32 @@
+uuid: 1e6f6b53-e86b-485d-952f-e2da4419443d
+type: word-relation
+group_uuid: 1e6f6b53-e86b-485d-952f-e2da4419443d
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 4cc9470a-7a09-4e96-a40f-a8a1dc3893d5
+  text: 鳴
+  concept: SOUND
+  concept_uuid: b5b456c9-7718-4f55-b20f-df79449d9820
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5448c97f-7ebd-415e-a511-84aa5e798766
+    line_id: KR3c0005_tls_020-24a.8
+    textline: 牛鳴於門外
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1e6222fa-3c15-46c3-9240-f5ea255eb6c0
+  text: 牛
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5448c97f-7ebd-415e-a511-84aa5e798766
+    line_id: KR3c0005_tls_020-24a.8
+    textline: 牛鳴於門外
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

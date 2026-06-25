@@ -1,0 +1,32 @@
+uuid: 2984664f-4797-4f5c-a1c1-cd10f6547d90
+type: word-relation
+group_uuid: b7a577d1-dd01-47da-93ab-8d4107c80d8d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 老子
+    line_uuid: 1a6fc528-cab8-4266-8e43-4293ad56756a
+    line_id: KR5c0057_tls_044-1a.7
+    textline: 得與亡
+    offset: 1
+    range: 1
+right:
+  word_uuid: af017aef-6581-4560-9233-043cdede1d6a
+  text: 亡
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 老子
+    line_uuid: 1a6fc528-cab8-4266-8e43-4293ad56756a
+    line_id: KR5c0057_tls_044-1a.7
+    textline: 得與亡
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

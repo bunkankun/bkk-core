@@ -1,0 +1,21 @@
+uuid: 4e7e9767-201e-4096-a137-22e9f189f99d
+type: word-relation
+group_uuid: becd5cd0-c66a-5c42-a135-0a9e39651321
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 62557396-2051-43a3-a111-f450581f0799
+  text: 行
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+right:
+  word_uuid: e0328c25-5d9a-42d5-b147-6de7ffb744bd
+  text: 處
+  concept: DWELL
+  concept_uuid: b84fc9a7-bc9d-4554-9546-1fc3a21015b7
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

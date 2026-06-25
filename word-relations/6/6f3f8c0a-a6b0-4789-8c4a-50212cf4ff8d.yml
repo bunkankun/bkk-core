@@ -1,0 +1,31 @@
+uuid: 6f3f8c0a-a6b0-4789-8c4a-50212cf4ff8d
+type: word-relation
+group_uuid: 6f3f8c0a-a6b0-4789-8c4a-50212cf4ff8d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1650c218-317f-4e00-b0c1-b346c869f8c3
+  text: 魚
+  concept: FISH
+  concept_uuid: 9ffb2c11-2835-4d6c-8fec-91d47ef90809
+  attestation:
+    text_title: 淮南子
+    line_uuid: 03311ccc-0611-4f59-a66d-344395a6182c
+    line_id: KR3j0010_tls_011-2a.13
+    textline: 夫水積則生相食之魚
+    offset: 9
+    range: 1
+right:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 淮南子
+    line_uuid: 06198758-a5c9-4dbc-9cec-427724b5cbf7
+    textline: 土積則生自穴之獸
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

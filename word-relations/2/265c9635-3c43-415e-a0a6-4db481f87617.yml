@@ -1,0 +1,32 @@
+uuid: 265c9635-3c43-415e-a0a6-4db481f87617
+type: word-relation
+group_uuid: bac983fd-4b0c-44a9-81f7-d9426c0affe8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0c4f9114-3cb8-4cb9-9d8d-c0b3f3164a00
+  text: 厭
+  concept: DISSATISFIED
+  concept_uuid: 02cd789e-eb94-43e6-abd9-4961d192210a
+  attestation:
+    text_title: 孟子
+    line_uuid: a86db92f-1310-4625-a90a-9f2943af7164
+    line_id: KR1h0001_tls_003-24a.11
+    textline: 『學不厭
+    offset: 4
+    range: 1
+right:
+  word_uuid: d1a04abf-6dbb-4ae4-9c40-71abb582af36
+  text: 倦
+  concept: BOREDOM
+  concept_uuid: 387eed32-5d90-48c1-a537-c77ac5444eac
+  attestation:
+    text_title: 孟子
+    line_uuid: fd9042d6-0771-429c-9c41-5a2740148311
+    line_id: KR1h0001_tls_003-24a.13
+    textline: 教不倦
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

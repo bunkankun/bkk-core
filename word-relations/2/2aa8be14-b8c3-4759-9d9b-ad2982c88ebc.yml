@@ -1,0 +1,32 @@
+uuid: 2aa8be14-b8c3-4759-9d9b-ad2982c88ebc
+type: word-relation
+group_uuid: 2aa8be14-b8c3-4759-9d9b-ad2982c88ebc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4f3c5e80-3bdb-4696-8759-0daada877bec
+  text: 事
+  concept: SITUATION
+  concept_uuid: cfaabb15-fd61-42c3-b40f-86f40fb3f85e
+  attestation:
+    text_title: 韓非子
+    line_uuid: e6440aa9-d952-4526-acc9-abf3047d4aaa
+    line_id: KR3c0005_tls_002-34a.2
+    textline: 若臣斯之所言有不應事實者
+    offset: 10
+    range: 1
+right:
+  word_uuid: 4b4eda8e-25d8-4902-987b-6423232e9c38
+  text: 實
+  concept: REALITY
+  concept_uuid: fd2ccb7b-536c-4569-87bd-40536d6fdf9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: e6440aa9-d952-4526-acc9-abf3047d4aaa
+    line_id: KR3c0005_tls_002-34a.2
+    textline: 若臣斯之所言有不應事實者
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

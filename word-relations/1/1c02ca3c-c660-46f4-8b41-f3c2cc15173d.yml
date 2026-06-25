@@ -1,0 +1,21 @@
+uuid: 1c02ca3c-c660-46f4-8b41-f3c2cc15173d
+type: word-relation
+group_uuid: f14da271-d15a-57d2-a110-d0ca0acf7582
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 35198074-b7aa-4148-91f1-5e5437cb4b67
+  text: 軍
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+right:
+  word_uuid: eb725433-e847-4d90-a781-00b907da6576
+  text: 師
+  concept: ARMY
+  concept_uuid: 82e84859-f76f-44cd-be74-020f2a4fb6a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

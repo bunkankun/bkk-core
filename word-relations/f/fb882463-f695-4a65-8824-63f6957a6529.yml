@@ -1,0 +1,32 @@
+uuid: fb882463-f695-4a65-8824-63f6957a6529
+type: word-relation
+group_uuid: 8cc028ac-e9ff-535c-a538-45975e0c6de3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-97a.43
+    textline: 欲承天意
+    offset: 3
+    range: 2
+right:
+  word_uuid: 34f1a278-24f2-4967-8a4d-a1c522c67bef
+  text: 承
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+  attestation:
+    text_title: 太平經
+    line_id: KR5e0001_tls_007-97a.43
+    textline: 欲承天意
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T10:57:30.306+09:00'

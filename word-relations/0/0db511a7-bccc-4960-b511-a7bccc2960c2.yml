@@ -1,0 +1,32 @@
+uuid: 0db511a7-bccc-4960-b511-a7bccc2960c2
+type: word-relation
+group_uuid: 8e7ad6c4-fc41-55f5-b284-df62c9f8a465
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6e61be18-7634-4731-a92c-7d79978ee6df
+  text: 此
+  concept: THIS
+  concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.33
+    textline: 此之是
+    offset: 1
+    range: 1
+right:
+  word_uuid: a6a70e6d-c41b-4af3-ae55-b32acda0e24d
+  text: 彼
+  concept: THAT
+  concept_uuid: 28da57be-e713-40d9-bc3d-600e018beb26
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-14a.34
+    textline: 非彼之是也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-23T03:30:18.097+09:00'

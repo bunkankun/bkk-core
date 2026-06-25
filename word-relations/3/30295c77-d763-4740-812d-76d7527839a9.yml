@@ -1,0 +1,21 @@
+uuid: 30295c77-d763-4740-812d-76d7527839a9
+type: word-relation
+group_uuid: 7e8b92ad-b452-5267-ba11-8bdd6a9fccb0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 170407ca-401a-4c64-93b2-53e713b349dd
+  text: 止
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+right:
+  word_uuid: 63a7b17c-66b0-490d-8780-7e84ebf3dc2c
+  text: 釋
+  concept: RELEASE
+  concept_uuid: 45ee31ac-ac96-41b5-8f8d-02c2b88daf18
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

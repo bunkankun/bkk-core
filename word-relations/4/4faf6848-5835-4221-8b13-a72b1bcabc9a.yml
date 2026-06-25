@@ -1,0 +1,21 @@
+uuid: 4faf6848-5835-4221-8b13-a72b1bcabc9a
+type: word-relation
+group_uuid: 7f749f1f-c9c5-569c-9a4b-836f033bda3a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6725adda-6f7f-4193-813d-322d49a22ee9
+  text: 邊
+  concept: BORDER AREA
+  concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+right:
+  word_uuid: e2d93791-f34d-4080-bf08-8e995ad644d0
+  text: 陲
+  concept: BORDER AREA
+  concept_uuid: c67976ab-7cf0-44ad-89a8-c9425a9f1eb8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: b313f43b-def1-4f50-a07e-c02e91c9407e
+type: word-relation
+group_uuid: b5eb3296-2a70-5423-b76a-ba88958f2489
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ac77b0f5-c9ba-4c54-ba70-ac47499005a0
+  text: 審
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+right:
+  word_uuid: 704dc3aa-44ec-4eab-8777-4f794f02ac38
+  text: 察
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

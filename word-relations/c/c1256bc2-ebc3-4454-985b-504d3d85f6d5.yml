@@ -1,0 +1,32 @@
+uuid: c1256bc2-ebc3-4454-985b-504d3d85f6d5
+type: word-relation
+group_uuid: c1256bc2-ebc3-4454-985b-504d3d85f6d5
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f1e6ea09-4b5f-4124-bd0c-01b3dca21452
+  text: 執
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2b9d9516-810a-4b75-9181-d9219d107e1e
+    line_id: KR3c0005_tls_011-25a.2
+    textline: 今大臣執柄獨斷
+    offset: 4
+    range: 1
+right:
+  word_uuid: 858f1839-ebca-4a26-8160-cce901071e6e
+  text: 柄
+  concept: HANDLE
+  concept_uuid: 7279726c-2c19-46b1-b97d-7fc8e5e606c9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2b9d9516-810a-4b75-9181-d9219d107e1e
+    line_id: KR3c0005_tls_011-25a.2
+    textline: 今大臣執柄獨斷
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

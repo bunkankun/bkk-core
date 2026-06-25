@@ -1,0 +1,32 @@
+uuid: da362d50-024e-4526-a6e5-cc8111852113
+type: word-relation
+group_uuid: da362d50-024e-4526-a6e5-cc8111852113
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 老子
+    line_uuid: 62294c96-710f-4eb5-a9fd-2cafb04f7a2d
+    line_id: KR5c0057_tls_009-1a.11
+    textline: 功遂身退
+    offset: 3
+    range: 1
+right:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 老子
+    line_uuid: 62294c96-710f-4eb5-a9fd-2cafb04f7a2d
+    line_id: KR5c0057_tls_009-1a.11
+    textline: 功遂身退
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

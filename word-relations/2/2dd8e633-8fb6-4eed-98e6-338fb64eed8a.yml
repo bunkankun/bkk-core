@@ -1,0 +1,32 @@
+uuid: 2dd8e633-8fb6-4eed-98e6-338fb64eed8a
+type: word-relation
+group_uuid: 2c8b988a-3290-5de0-bea1-0550559fb40c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 721a9856-21fb-4caa-8f4c-df5ad560c86d
+  text: 法
+  concept: IMITATE
+  concept_uuid: 1f2a34fc-cddc-4464-8ec6-0d91a3064271
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.19
+    textline: 不必法古
+    offset: 3
+    range: 1
+right:
+  word_uuid: 519d42ac-7238-4729-b58d-d4398f3bfbe1
+  text: 循
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.21
+    textline: 不必循舊
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:50:18.355+09:00'

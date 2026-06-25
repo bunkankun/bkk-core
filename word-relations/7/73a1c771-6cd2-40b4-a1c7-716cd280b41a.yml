@@ -1,0 +1,32 @@
+uuid: 73a1c771-6cd2-40b4-a1c7-716cd280b41a
+type: word-relation
+group_uuid: d5de3435-128c-5f58-90c1-61106434dd02
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 30b79ec4-c4f0-47b1-9259-8fb8994c860c
+  text: 勞
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.29
+    textline: 勞形竭智而無補於主也。
+    offset: 1
+    range: 1
+right:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.29
+    textline: 勞形竭智而無補於主也。
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-06T17:39:44.423+09:00'

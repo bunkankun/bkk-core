@@ -1,0 +1,35 @@
+uuid: 3fc74780-6373-4233-927b-540d1f0b21c3
+type: word-relation
+group_uuid: 3fc74780-6373-4233-927b-540d1f0b21c3
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0200e06a-f9c2-4315-bf60-90e60e672e2e
+    line_id: KR3j0009_tls_001-23a.2
+    textline: 人之少也愚
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1411ef38-1423-40d7-a03c-4f414974c458
+  text: 長
+  concept: GROW
+  concept_uuid: 350a96d2-57a3-49f4-a7eb-0e54e4bc9ca6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e90c9d15-1a92-4bff-a61b-62a4e15e0a98
+    line_id: KR3j0009_tls_001-23a.3
+    textline: 其長也智
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: c68e4bbd-ff4b-4005-bd8b-75abfc4aeda6
+type: word-relation
+group_uuid: c68e4bbd-ff4b-4005-bd8b-75abfc4aeda6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8783cbb3-c95f-4df0-92cf-9725a8c4dfc4
+  text: 假
+  concept: BORROW
+  concept_uuid: 1c314fb6-7546-41cb-9bf2-49708a8ee9b1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f860ccd7-01ae-4315-a92f-e92665d51337
+    line_id: KR1e0001_tls_010-16a.17
+    textline: 「假不反矣
+    offset: 2
+    range: 1
+right:
+  word_uuid: 04e8ad4e-9382-416f-8dbe-0043b002a329
+  text: 反
+  concept: GIVE BACK
+  concept_uuid: 12f19d58-0d79-449e-a19f-00c7befa7656
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: f860ccd7-01ae-4315-a92f-e92665d51337
+    line_id: KR1e0001_tls_010-16a.17
+    textline: 「假不反矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

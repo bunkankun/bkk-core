@@ -1,0 +1,32 @@
+uuid: 3d8b5353-41dd-4aa0-8b53-5341dd7aa0bd
+type: word-relation
+group_uuid: 62ff297c-52ea-59aa-9a2c-452bfeb5920c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d8f152ff-e0f2-48bb-a9f3-f357b441348b
+  text: 作
+  concept: CREATE
+  concept_uuid: 4d56e4a6-f21a-4924-bb27-a74805a1c342
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-10a.2
+    textline: 夫聖人作法而萬物制焉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-10a.2
+    textline: 夫聖人作法而萬物制焉
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T18:58:25.977+09:00'

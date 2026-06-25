@@ -1,0 +1,32 @@
+uuid: 0fd4c9ca-d5c5-4410-b6ed-bb8a54a816dc
+type: word-relation
+group_uuid: 0fd4c9ca-d5c5-4410-b6ed-bb8a54a816dc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0a496880-42c3-412f-ab63-62d52a7b3a5e
+  text: 闕
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 論衡
+    line_uuid: e565dfe3-26f3-49e8-8309-c9ec99fde758
+    line_id: KR3j0080_tls_036-19a.14
+    textline: 俱有闕遺
+    offset: 3
+    range: 1
+right:
+  word_uuid: a4e0227f-221c-42c0-b2c0-7af7ac0fb6a5
+  text: 遺
+  concept: DEFECT
+  concept_uuid: 0511394e-2438-4e40-8415-954d264c1a22
+  attestation:
+    text_title: 論衡
+    line_uuid: e565dfe3-26f3-49e8-8309-c9ec99fde758
+    line_id: KR3j0080_tls_036-19a.14
+    textline: 俱有闕遺
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

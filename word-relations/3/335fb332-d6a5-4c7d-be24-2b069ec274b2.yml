@@ -1,0 +1,32 @@
+uuid: 335fb332-d6a5-4c7d-be24-2b069ec274b2
+type: word-relation
+group_uuid: 335fb332-d6a5-4c7d-be24-2b069ec274b2
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bcaa221d-d7c9-4338-b326-b27751c78b4f
+  text: 御
+  concept: DRIVE
+  concept_uuid: 0d0c9fac-6b83-49a6-ab51-982001f18933
+  attestation:
+    text_title: 論語
+    line_uuid: a1fe1015-adec-4836-9bee-1d1aead011db
+    line_id: KR1h0004_tls_009-3a.1
+    textline: 吾執御矣
+    offset: 3
+    range: 1
+right:
+  word_uuid: f707e37b-3358-4f21-8852-4c4a4fb6297e
+  text: 射
+  concept: ARCHERY
+  concept_uuid: 7dc4196a-d4e9-48ab-9f3a-3cec77f2b637
+  attestation:
+    text_title: 論語
+    line_uuid: ca940a9d-1fb3-4edc-abf1-91465382544a
+    line_id: KR1h0004_tls_009-2a.9
+    textline: 執射乎
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,35 @@
+uuid: 9d72bd41-854b-4657-bb99-303f6dbf1731
+type: word-relation
+group_uuid: 9d72bd41-854b-4657-bb99-303f6dbf1731
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 64b231da-1d27-459a-a12f-c4b81f906d44
+  text: 寡
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 老子
+    line_uuid: b5d39ddb-831f-4e93-9c0e-37206bf9d6a3
+    line_id: KR5c0057_tls_019-1a.13
+    textline: 少私寡欲
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1319d698-e581-4436-a88f-c18e3e5a5ada
+  text: 少
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 老子
+    line_uuid: b5d39ddb-831f-4e93-9c0e-37206bf9d6a3
+    line_id: KR5c0057_tls_019-1a.13
+    textline: 少私寡欲
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

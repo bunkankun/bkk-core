@@ -1,0 +1,32 @@
+uuid: 155fcfa4-e6d8-48e2-9675-fa5736398862
+type: word-relation
+group_uuid: 155fcfa4-e6d8-48e2-9675-fa5736398862
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ac77b0f5-c9ba-4c54-ba70-ac47499005a0
+  text: 審
+  concept: INVESTIGATE
+  concept_uuid: 87a99ba5-8590-458f-8458-7b526681bf19
+  attestation:
+    text_title: 韓非子
+    line_uuid: bbd9d906-ef6d-494e-980c-a523077e36de
+    line_id: KR3c0005_tls_007-11a.3
+    textline: 則審合刑名
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1e5be9a4-2af6-4f69-9eb2-a32997a4b29b
+  text: 合
+  concept: COMPARE
+  concept_uuid: f8d6eafb-b004-498e-939e-ff44c31dc420
+  attestation:
+    text_title: 韓非子
+    line_uuid: bbd9d906-ef6d-494e-980c-a523077e36de
+    line_id: KR3c0005_tls_007-11a.3
+    textline: 則審合刑名
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

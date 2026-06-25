@@ -1,0 +1,21 @@
+uuid: 9210775c-d30c-409f-b32c-643a51a901b2
+type: word-relation
+group_uuid: cc7d754c-358d-59b4-ad18-e745f0b96d4f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 375fea10-e61f-453f-9c98-6f375dab4abd
+  text: 進
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+right:
+  word_uuid: 1c0ee874-b1f1-466d-b434-aac289f59a8b
+  text: 升
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

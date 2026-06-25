@@ -1,0 +1,32 @@
+uuid: 7a21fd77-b3ec-483a-a1fd-77b3ec983a0f
+type: word-relation
+group_uuid: 19db967a-4bdb-4e8d-9969-1f7a468eba6e
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7644db0e-2ec7-4cd8-9970-043e74a271ae
+  text: 弗
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.40
+    textline: 聖王弗行
+    offset: 3
+    range: 1
+right:
+  word_uuid: d608d387-682c-410d-8dbe-7314d5603a2b
+  text: 不
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-11a.42
+    textline: 聖王不聽也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-27T18:12:22.748+09:00'

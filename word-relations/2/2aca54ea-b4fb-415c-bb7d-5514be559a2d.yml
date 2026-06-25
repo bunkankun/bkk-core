@@ -1,0 +1,21 @@
+uuid: 2aca54ea-b4fb-415c-bb7d-5514be559a2d
+type: word-relation
+group_uuid: a2050d1d-8ad0-57f3-af1a-b52782e73af3
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d4d3e615-4cf5-4ea1-beea-1e9020570cbb
+  text: 弔弔吊
+  concept: MOURNING
+  concept_uuid: ad4975ff-83da-495f-b716-7742248e11bc
+right:
+  word_uuid: ec53da17-19aa-4c10-b193-4088d3a37012
+  text: 問
+  concept: CONSOLE
+  concept_uuid: eb92a2b9-4604-47c7-82ee-537847e42682
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

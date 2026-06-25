@@ -1,0 +1,32 @@
+uuid: f05c998d-9c63-4768-9c99-8d9c630768fa
+type: word-relation
+group_uuid: 416784b1-5f2e-5d13-9040-43c48f224ab2
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: a981f4d1-7bd5-450e-9cdc-e093e92c5ab4
+  text: 質
+  concept: ESSENCE
+  concept_uuid: 5b3e6a36-152b-43fd-aff8-ebca3d199a49
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-12a.11
+    textline: 曰 羊質而虎皮
+    offset: 6
+    range: 1
+right:
+  word_uuid: 4ae0d95c-0002-4a0e-8367-c13d80161234
+  text: 皮
+  concept: SKIN
+  concept_uuid: 4cbccd08-cb77-4a7d-9ef3-6ead7e0d5ece
+  attestation:
+    text_title: 法言
+    line_id: KR3a0009_tls_002-12a.11
+    textline: 曰 羊質而虎皮
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-06-07T03:26:00.592+09:00'

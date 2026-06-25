@@ -1,0 +1,32 @@
+uuid: 919ded5d-9db5-484d-86b4-b3a98288c089
+type: word-relation
+group_uuid: 919ded5d-9db5-484d-86b4-b3a98288c089
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 819d25cb-66bb-4ff3-ae47-20b6940130a5
+  text: 草
+  concept: WEED
+  concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3fddd7c0-b666-4c7e-b57f-cc3a8ec21434
+    line_id: KR3j0009_tls_024-23a.3
+    textline: 草與稼不能兩成
+    offset: 1
+    range: 1
+right:
+  word_uuid: a6f1cf65-080c-43b9-a0ab-ccb8ee5bff40
+  text: 稼
+  concept: GRAIN
+  concept_uuid: d732b167-d7c6-45ba-ae37-915d69f4fb15
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3fddd7c0-b666-4c7e-b57f-cc3a8ec21434
+    line_id: KR3j0009_tls_024-23a.3
+    textline: 草與稼不能兩成
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

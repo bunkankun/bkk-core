@@ -1,0 +1,39 @@
+uuid: a0721a65-12f0-4e07-b06c-857c913373ec
+type: word-relation
+group_uuid: a0721a65-12f0-4e07-b06c-857c913373ec
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4cf493d2-3825-48c7-a99c-e0018cae205e
+  text: 飢
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ed101b0b-4a44-4ae2-933b-9ee0f0bf3b66
+    line_id: KR3j0009_tls_003-16a.8
+    textline: 無飢無飽
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8acadea3-08d1-4772-bad5-e7b9a6fbabc4
+  text: 飽
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ed101b0b-4a44-4ae2-933b-9ee0f0bf3b66
+    line_id: KR3j0009_tls_003-16a.8
+    textline: 無飢無飽
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '292'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

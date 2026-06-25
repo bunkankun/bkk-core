@@ -1,0 +1,32 @@
+uuid: 0a81febe-87e3-4227-b92e-73ad493f8498
+type: word-relation
+group_uuid: 35d2f2d6-2b14-4ed5-9f95-0849ff565047
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a349b0d9-6362-430d-8b94-2492b4a473c1
+  text: 臺
+  concept: TOWER
+  concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f6a418c8-01f6-478d-b52f-96362bc34e3d
+    line_id: KR3j0009_tls_001-18a.19
+    textline: 其為宮室臺榭也
+    offset: 5
+    range: 1
+right:
+  word_uuid: da3c3579-5273-4211-ad99-0e40d62bbdb9
+  text: 榭
+  concept: TOWER
+  concept_uuid: 80c0d6f9-b12a-4bfe-b59a-c61318caa722
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f6a418c8-01f6-478d-b52f-96362bc34e3d
+    line_id: KR3j0009_tls_001-18a.19
+    textline: 其為宮室臺榭也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

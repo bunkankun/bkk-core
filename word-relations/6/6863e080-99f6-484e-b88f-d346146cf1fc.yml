@@ -1,0 +1,32 @@
+uuid: 6863e080-99f6-484e-b88f-d346146cf1fc
+type: word-relation
+group_uuid: ce779c6b-6ea2-41f7-9b27-1a0fde23cdf8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6297d090-eb77-4ef4-b0b0-e1f7febdf177
+  text: 壯
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 禮記
+    line_uuid: d6605d2c-66c3-4ac1-878f-bb6afc19613e
+    line_id: KR1d0052_tls_009-1a.23
+    textline: 壯有所用
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2ddc5f20-543c-4c13-9c95-82b3e6eed186
+  text: 老
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 禮記
+    line_uuid: 9a6b9e14-09fa-48cb-90f6-7e182d83e932
+    line_id: KR1d0052_tls_009-1a.22
+    textline: 使老有所終
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

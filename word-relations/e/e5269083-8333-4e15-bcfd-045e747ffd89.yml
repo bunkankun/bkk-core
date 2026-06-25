@@ -1,0 +1,32 @@
+uuid: e5269083-8333-4e15-bcfd-045e747ffd89
+type: word-relation
+group_uuid: e5269083-8333-4e15-bcfd-045e747ffd89
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 5db6555a-ca7b-4708-a4a8-14b28bab76d7
+  text: 閉
+  concept: SHUT
+  concept_uuid: ca902a67-5941-4ef1-8e70-0c455dd0040f
+  attestation:
+    text_title: 韓非子
+    line_uuid: e36f7081-e635-45bc-bac1-94b6d4f8afc8
+    line_id: KR3c0005_tls_005-15a.8
+    textline: 閉其門
+    offset: 1
+    range: 1
+right:
+  word_uuid: 1003e3f4-0855-4cfa-bf9d-a22f01c7c9cc
+  text: 門
+  concept: GATE
+  concept_uuid: 1874c354-c565-45dd-9a66-e8d63df066c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: e36f7081-e635-45bc-bac1-94b6d4f8afc8
+    line_id: KR3c0005_tls_005-15a.8
+    textline: 閉其門
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 65e2514a-8200-42dd-a251-4a820032dd7f
+type: word-relation
+group_uuid: 44fb9d2a-c769-4314-830d-dbbc51298a47
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5c5b2978-674f-49c5-9f7f-26b2aa5c0cbe
+  text: 衣
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.29
+    textline: 衣服器械各便其用
+    offset: 1
+    range: 1
+right:
+  word_uuid: b1d11bf5-dc52-4d72-9ac0-5054d11f01df
+  text: 服
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-4a.29
+    textline: 衣服器械各便其用
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-08T18:55:14.184+09:00'

@@ -1,0 +1,32 @@
+uuid: a692f841-9777-4299-92f8-419777d29904
+type: word-relation
+group_uuid: 3d725069-10bb-5db5-a9bb-d6950694d52b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_023-4a.30
+    textline: 行法
+    offset: 2
+    range: 1
+right:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 呂氏春秋
+    line_id: KR3j0009_tls_023-4a.30
+    textline: 行法
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-15T00:53:18.304+09:00'

@@ -1,0 +1,32 @@
+uuid: f2a81ca5-9d94-4c9e-833e-f90d270061db
+type: word-relation
+group_uuid: f2a81ca5-9d94-4c9e-833e-f90d270061db
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: f1f2d39f-06f7-4073-85bd-862f27d16f52
+  text: 躬
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 列女傳
+    line_uuid: 52e02332-8a5e-45ac-8e0e-503574b5ee7b
+    line_id: KR2g0017_CHANT_002-47a.33
+    textline: 夫躬仁義
+    offset: 2
+    range: 1
+right:
+  word_uuid: 438ca5da-154c-40b3-bbf2-7a7c931d97bf
+  text: 事
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 列女傳
+    line_uuid: 9a6f6f12-b593-4aac-908b-54151b4c45ec
+    line_id: KR2g0017_CHANT_002-47a.34
+    textline: 事明主
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

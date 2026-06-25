@@ -1,0 +1,32 @@
+uuid: b71ac6e2-479c-4084-9e8f-7873e404bb40
+type: word-relation
+group_uuid: b71ac6e2-479c-4084-9e8f-7873e404bb40
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d9ff9c55-c5ab-4347-8914-a7aca9177374
+  text: 君
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6a4ec6d0-3119-4ae8-8907-cf9ad4942564
+    line_id: KR3c0005_tls_009-14a.5
+    textline: 君人者
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6a4ec6d0-3119-4ae8-8907-cf9ad4942564
+    line_id: KR3c0005_tls_009-14a.5
+    textline: 君人者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

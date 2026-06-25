@@ -1,0 +1,32 @@
+uuid: 6f39b898-dcbb-4a17-b9b8-98dcbb2a1715
+type: word-relation
+group_uuid: d77fee54-d34c-52ea-a6aa-f341370f7a3f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 86986c51-de30-4b9c-986c-51de30fb9c24
+  text: 自由
+  concept: INDEPENDENT
+  concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+  attestation:
+    text_title: 五燈會元
+    line_id: KR6q0012_Z_003-135.183-s11-seg1
+    textline: 卽有自由獨立分
+    offset: 5
+    range: 2
+right:
+  word_uuid: debbda49-d92f-43f3-bbda-49d92ff3f352
+  text: 獨立
+  concept: INDEPENDENT
+  concept_uuid: fc817b0d-2976-49d8-9dc2-875df1daec4d
+  attestation:
+    text_title: 五燈會元
+    line_id: KR6q0012_Z_003-135.183-s11-seg1
+    textline: 卽有自由獨立分
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-15T21:03:44.478+09:00'

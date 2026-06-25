@@ -1,0 +1,21 @@
+uuid: dc9fb5c6-613b-4064-bddd-23c28ddb8983
+type: word-relation
+group_uuid: 07d99d27-1b17-5636-8525-b488fd197b14
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3dc14f98-4a8d-40ad-bf0d-a1765ed24184
+  text: 鰥
+  concept: WIDOWER
+  concept_uuid: 98234129-2fe6-4429-ae12-ab9a37b72f69
+right:
+  word_uuid: c936f101-c7a1-448e-892d-e6f3a9643636
+  text: 寡
+  concept: WIDOW
+  concept_uuid: 48c2b3cc-4c9c-47a7-ad1b-f0274f8c2850
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

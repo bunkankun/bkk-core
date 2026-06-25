@@ -1,0 +1,32 @@
+uuid: 299e167a-77e7-49c9-b57f-fd702832ce67
+type: word-relation
+group_uuid: 299e167a-77e7-49c9-b57f-fd702832ce67
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 338c8faa-dd32-4bb0-a695-07fcc380f939
+  text: 感
+  concept: FEEL
+  concept_uuid: 6d1bc654-c6d3-47a2-800b-ae2825418fd2
+  attestation:
+    text_title: 論衡
+    line_uuid: d29ea846-6ed4-4fd0-8927-01426d2216a6
+    line_id: KR3j0080_tls_004-3a.43
+    textline: 則易感傷
+    offset: 3
+    range: 1
+right:
+  word_uuid: 092d54f8-817f-4360-be48-9e5d71a1d11a
+  text: 傷
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+  attestation:
+    text_title: 論衡
+    line_uuid: d29ea846-6ed4-4fd0-8927-01426d2216a6
+    line_id: KR3j0080_tls_004-3a.43
+    textline: 則易感傷
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

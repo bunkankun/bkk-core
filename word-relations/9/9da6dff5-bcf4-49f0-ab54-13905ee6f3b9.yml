@@ -1,0 +1,32 @@
+uuid: 9da6dff5-bcf4-49f0-ab54-13905ee6f3b9
+type: word-relation
+group_uuid: 4872fe94-aeae-44cd-b99f-e6b8eaf0ed77
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a92bd4fd-e395-4a54-b371-a25b5638862f
+  text: 真
+  concept: GENUINE
+  concept_uuid: 9c54b593-754c-4d3a-8087-f9de1759d444
+  attestation:
+    text_title: 論衡
+    line_uuid: 6767e3ff-fe5b-4fa7-90e3-e67e1a17aeb5
+    line_id: KR3j0080_tls_007-4a.14
+    textline: 人所受之真性也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 論衡
+    line_uuid: 6767e3ff-fe5b-4fa7-90e3-e67e1a17aeb5
+    line_id: KR3j0080_tls_007-4a.14
+    textline: 人所受之真性也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

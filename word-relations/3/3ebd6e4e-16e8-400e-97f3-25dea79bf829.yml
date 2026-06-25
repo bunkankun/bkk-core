@@ -1,0 +1,32 @@
+uuid: 3ebd6e4e-16e8-400e-97f3-25dea79bf829
+type: word-relation
+group_uuid: f436b7bd-da93-4c82-b08d-9d0f07c73065
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1eb300c0-126a-4251-9d7a-bc4657ce56ba
+  text: 囷
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: 216a0960-d0a4-4e7a-892e-eb38b427937e
+    line_id: KR3c0005_tls_037-10a.9
+    textline: 且夫發囷倉而賜貧窮者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 08fd71f8-92fa-4754-9208-04a3e43202bf
+  text: 倉
+  concept: STOREHOUSE
+  concept_uuid: c21dd129-0e36-4830-af66-24f8bf2c0d91
+  attestation:
+    text_title: 韓非子
+    line_uuid: 216a0960-d0a4-4e7a-892e-eb38b427937e
+    line_id: KR3c0005_tls_037-10a.9
+    textline: 且夫發囷倉而賜貧窮者
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

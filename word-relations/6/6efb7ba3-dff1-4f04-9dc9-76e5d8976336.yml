@@ -1,0 +1,32 @@
+uuid: 6efb7ba3-dff1-4f04-9dc9-76e5d8976336
+type: word-relation
+group_uuid: 6bf97e8b-1788-45a6-bcba-7779bc44f4d7
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 337c4afa-91bf-4081-b547-89a20a9a5cd0
+  text: 薄
+  concept: UNIMPORTANT
+  concept_uuid: 6221d7fe-348d-491b-a358-e05815f9c3bd
+  attestation:
+    text_title: 禮記
+    line_uuid: db576089-ea89-440d-bca8-166be31fbca1
+    line_id: KR1d0052_tls_043-1a.40
+    textline: 而其所薄者厚
+    offset: 4
+    range: 1
+right:
+  word_uuid: 99ad102f-470f-4e79-82c6-c5161bce4176
+  text: 厚
+  concept: IMPORTANT
+  concept_uuid: a18377db-3157-4d79-a2b7-aeef810be33f
+  attestation:
+    text_title: 禮記
+    line_uuid: db576089-ea89-440d-bca8-166be31fbca1
+    line_id: KR1d0052_tls_043-1a.40
+    textline: 而其所薄者厚
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

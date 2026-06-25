@@ -1,0 +1,32 @@
+uuid: f70c4018-f461-4c60-8c40-18f4613c60d7
+type: word-relation
+group_uuid: 4bf194b5-a493-5af6-ad4d-58af011dc97f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4e433768-44e7-4eb8-beb3-4a2bd1c38973
+  text: 立
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-9a.4
+    textline: 然而立政者不能廢法而治民
+    offset: 3
+    range: 1
+right:
+  word_uuid: 1737fc40-6e73-4a31-b1e2-22e982c6f9a6
+  text: 政
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-9a.4
+    textline: 然而立政者不能廢法而治民
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T20:50:48.524+09:00'

@@ -1,0 +1,21 @@
+uuid: e872cc6c-fb05-4daa-8cc7-b5d31a60bce0
+type: word-relation
+group_uuid: 97e5573b-2215-578c-92bd-88bd5733f864
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: cba82bcf-3f89-4dde-be62-a9cbe30ab41e
+  text: 髮
+  concept: HAIR
+  concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+right:
+  word_uuid: bdb60b9b-a34a-487c-9113-b5510082d111
+  text: 毛
+  concept: HAIR
+  concept_uuid: 09e54118-487c-4e27-a067-c7d9975c8e18
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: d44b6cf8-82b4-4aa8-b803-b234a0dffbc8
+type: word-relation
+group_uuid: 24928d99-af36-5d1e-b029-369ec4078814
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a30bb333-b3a1-4ace-ba7b-c6c29e2b40b2
+  text: 登
+  concept: ASCEND
+  concept_uuid: 7bba3edc-7d1e-4a79-9f3b-35418aec9f80
+right:
+  word_uuid: 35dca112-713d-4363-b2bd-8112598e6402
+  text: 降
+  concept: DESCEND
+  concept_uuid: 56a4fe82-6179-4f8d-9dda-609d86d3efa1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

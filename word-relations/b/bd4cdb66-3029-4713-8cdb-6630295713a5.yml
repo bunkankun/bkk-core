@@ -1,0 +1,32 @@
+uuid: bd4cdb66-3029-4713-8cdb-6630295713a5
+type: word-relation
+group_uuid: 9154c74e-6c0c-5cd4-a28c-e3d2a92fc8fc
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_006-14a.6
+    textline: 推蹶三王之法籍
+    offset: 6
+    range: 1
+right:
+  word_uuid: 688eec54-0833-467f-a3ff-61944cd8874f
+  text: 籍
+  concept: DOCUMENT
+  concept_uuid: 42b11726-0033-4229-8329-4e0e443f1fa9
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_006-14a.6
+    textline: 推蹶三王之法籍
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-10-10T20:01:49.564+09:00'

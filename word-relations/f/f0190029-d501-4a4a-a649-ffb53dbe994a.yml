@@ -1,0 +1,32 @@
+uuid: f0190029-d501-4a4a-a649-ffb53dbe994a
+type: word-relation
+group_uuid: dc6707e2-1c1b-41aa-9ceb-23bbe998f072
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d4aa3a7b-72b5-4c14-8924-11e0a887cdcd
+  text: 秦
+  concept: STATES
+  concept_uuid: 7fd842b0-a38a-40b0-8332-f9bf6b059650
+  attestation:
+    text_title: 韓非子
+    line_uuid: 47e72ff8-e88f-4c99-9050-0f9a24092884
+    line_id: KR3c0005_tls_002-1a.9
+    textline: 功歸於強秦
+    offset: 5
+    range: 1
+right:
+  word_uuid: 280d27d6-e4e9-4f61-9d6e-76530a24d1f2
+  text: 強
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 47e72ff8-e88f-4c99-9050-0f9a24092884
+    line_id: KR3c0005_tls_002-1a.9
+    textline: 功歸於強秦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

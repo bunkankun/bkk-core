@@ -1,0 +1,21 @@
+uuid: 22bfd5c5-e7c6-42e8-a7b6-5f4c9e2c5896
+type: word-relation
+group_uuid: 4983dad7-8e56-5504-ad17-14aa5be0561e
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 5e9bca36-5e47-4924-a7c1-7be10d2fa6bd
+  text: 服
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+right:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

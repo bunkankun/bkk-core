@@ -1,0 +1,18 @@
+uuid: b78c3ae2-6491-4f2f-8a21-389be3cc8e57
+type: word-relation
+group_uuid: 64de619b-d15d-5b01-876a-52d1ecea5301
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ad8dd6bb-21f1-4d9f-b350-d8af35fe3ba1
+  text: 方
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+right:
+  word_uuid: cf2ef745-f2dc-4ed6-bfc9-076169c580e9
+  text: 伎技
+  concept: ABLE
+  concept_uuid: 3eb2c600-e234-4c6b-bb79-40e8eff9ee14
+source:
+  source_file: word-relations.xml

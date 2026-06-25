@@ -1,0 +1,32 @@
+uuid: a0ea0323-1d7f-4de1-aa03-231d7f9de16b
+type: word-relation
+group_uuid: a3c58edc-609e-5c5f-961f-dd6ec1019a31
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c5834f9f-5cc8-49bd-aa3d-d6e8f8c4179f
+  text: 釋
+  concept: DISCARD
+  concept_uuid: 2aa87a64-bc2b-49a7-88d4-99361624b20c
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-218a.3
+    textline: 君臣釋法任私
+    offset: 3
+    range: 1
+right:
+  word_uuid: 8c75e1f5-c134-4336-a223-6b994205d0cc
+  text: 任
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 商君書
+    line_id: KR3c0004_tls_001-218a.3
+    textline: 君臣釋法任私
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-20T17:47:26.537+09:00'

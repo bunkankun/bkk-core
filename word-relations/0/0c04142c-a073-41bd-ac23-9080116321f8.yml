@@ -1,0 +1,31 @@
+uuid: 0c04142c-a073-41bd-ac23-9080116321f8
+type: word-relation
+group_uuid: 16d2c98c-8b65-4c0a-909c-e409ec6633ae
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 荀子
+    line_uuid: a3228355-468a-4fa4-b4ec-052ba3d890c2
+    line_id: KR3a0002_tls_013-3a.11
+    textline: 明主尚賢使能而饗其盛
+    offset: 1
+    range: 1
+right:
+  word_uuid: 29dc08a0-3572-4f6b-9549-712677609029
+  text: 闇
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 荀子
+    line_uuid: 613bfcad-8acf-4039-bcf4-6ee5440b18bc
+    textline: 闇主妒賢畏能而滅其功
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

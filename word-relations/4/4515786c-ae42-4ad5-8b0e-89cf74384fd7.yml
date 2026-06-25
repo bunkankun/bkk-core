@@ -1,0 +1,32 @@
+uuid: 4515786c-ae42-4ad5-8b0e-89cf74384fd7
+type: word-relation
+group_uuid: 4515786c-ae42-4ad5-8b0e-89cf74384fd7
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ddf03015-f596-4b98-bd0c-44a808a125e1
+  text: 室
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+  attestation:
+    text_title: 百喻經
+    line_uuid: 84e3711b-c284-4be6-956b-9e498add2f8c
+    line_id: KR6b0066_T_003-0552c.4
+    textline: 人謂此室常有惡鬼
+    offset: 4
+    range: 1
+right:
+  word_uuid: f3407755-032b-405c-937f-a5f742defe71
+  text: 屋
+  concept: DWELLING
+  concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+  attestation:
+    text_title: 百喻經
+    line_uuid: 29abe7c6-bea2-48c6-952f-955477338f35
+    line_id: KR6b0066_T_003-0552c.3
+    textline: 昔有故屋
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

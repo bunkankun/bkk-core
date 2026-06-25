@@ -1,0 +1,21 @@
+uuid: 75bbdc73-6f4c-4035-8dfd-a1d9c407156e
+type: word-relation
+group_uuid: 26c8ff80-1099-532f-899e-f5579c496998
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a0c46cb5-4c22-465b-8b1b-35e27d666d5a
+  text: 腐
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+right:
+  word_uuid: 4a289240-2294-4588-9a55-83e6950cd108
+  text: 敗
+  concept: ROTTEN
+  concept_uuid: 49af399e-a2b0-445a-9111-ff81a56ecddf
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

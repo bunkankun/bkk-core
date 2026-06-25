@@ -1,0 +1,32 @@
+uuid: 176f7f68-969b-4303-92cc-8aa5d7b8e7f0
+type: word-relation
+group_uuid: bb3facb5-c868-495f-8a9c-9dba4dd9c896
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 尚書
+    line_uuid: e939393c-7c66-43e0-9e1e-f7f4471694eb
+    line_id: KR1b0001_tls_026-2a.37
+    textline: 召敵讎不怠
+    offset: 2
+    range: 1
+right:
+  word_uuid: c022373f-9043-4faa-bd84-5eb6efa686a2
+  text: 讎
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 尚書
+    line_uuid: e939393c-7c66-43e0-9e1e-f7f4471694eb
+    line_id: KR1b0001_tls_026-2a.37
+    textline: 召敵讎不怠
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

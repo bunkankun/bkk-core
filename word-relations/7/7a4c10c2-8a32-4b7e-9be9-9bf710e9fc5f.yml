@@ -1,0 +1,23 @@
+uuid: 7a4c10c2-8a32-4b7e-9be9-9bf710e9fc5f
+type: word-relation
+group_uuid: 6455e28b-298d-582d-9d1b-2adf14a588bc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6c834e56-89eb-4eb9-94be-351f6fb7fe40
+  text: 啼
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+right:
+  word_uuid: b146aeeb-28c1-4c4c-8180-8f95bf87c308
+  text: 笑
+  concept: LAUGH
+  concept_uuid: 845cf331-d6eb-4576-8153-61a9f7a2e4f5
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+  scope: '290'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

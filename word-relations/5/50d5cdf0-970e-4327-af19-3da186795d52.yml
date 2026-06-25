@@ -1,0 +1,32 @@
+uuid: 50d5cdf0-970e-4327-af19-3da186795d52
+type: word-relation
+group_uuid: 50d5cdf0-970e-4327-af19-3da186795d52
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 7aa57cc2-d1c8-4266-82d2-0a972a406e6d
+  text: 有
+  concept: EXIST
+  concept_uuid: 4e810ca6-b1a1-4a3b-9725-cb8db802651d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78f9d613-0de7-4afd-9914-76613061416d
+    line_id: KR3c0005_tls_019-45a.5
+    textline: 又好言天下之所希有
+    offset: 9
+    range: 1
+right:
+  word_uuid: 649bfb54-a392-4d5d-9663-4fc2224d276d
+  text: 希
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 78f9d613-0de7-4afd-9914-76613061416d
+    line_id: KR3c0005_tls_019-45a.5
+    textline: 又好言天下之所希有
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

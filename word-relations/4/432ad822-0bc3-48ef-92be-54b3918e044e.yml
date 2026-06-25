@@ -1,0 +1,30 @@
+uuid: 432ad822-0bc3-48ef-92be-54b3918e044e
+type: word-relation
+group_uuid: 432ad822-0bc3-48ef-92be-54b3918e044e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9fa75a27-9e7b-4e34-96f2-2819d28fce98
+  text: 洿
+  concept: LAKE
+  concept_uuid: 87e6da35-ec45-4ace-b5d3-b7cf67a82118
+  attestation:
+    text_title: 孟子
+    line_uuid: a3d743b6-7b89-4a2a-b656-4b9077fa3e00
+    textline: 數罟不入洿池魚鱉不可勝食也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 760a0b3c-b829-4546-9474-813588fba9d6
+  text: 池
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 孟子
+    line_uuid: a3d743b6-7b89-4a2a-b656-4b9077fa3e00
+    textline: 數罟不入洿池魚鱉不可勝食也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

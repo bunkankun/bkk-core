@@ -1,0 +1,32 @@
+uuid: 2658667a-1454-4a97-8062-0d1715dd49f6
+type: word-relation
+group_uuid: 2658667a-1454-4a97-8062-0d1715dd49f6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b916faf1-aecd-4dc3-ad41-dc0e9d2ea590
+  text: 平
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 901373c6-5d0c-427a-8edd-0e184c83fc39
+    line_id: KR3j0009_tls_005-21a.14
+    textline: 平和者是也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4d6c3992-debb-4204-9926-8d03e3c26d41
+  text: 和
+  concept: HARMONY
+  concept_uuid: 142ca304-9e1a-41b2-ae48-d440f254e712
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 901373c6-5d0c-427a-8edd-0e184c83fc39
+    line_id: KR3j0009_tls_005-21a.14
+    textline: 平和者是也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

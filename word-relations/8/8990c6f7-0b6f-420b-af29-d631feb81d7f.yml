@@ -1,0 +1,21 @@
+uuid: 8990c6f7-0b6f-420b-af29-d631feb81d7f
+type: word-relation
+group_uuid: 7ac7646d-f55c-599a-b5e8-1fe06e2779a2
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+right:
+  word_uuid: c82b86a5-2178-432a-825d-436b01eb1c6f
+  text: 詠
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 39672763-745d-46fe-9ae0-98c90b611de8
+type: word-relation
+group_uuid: 39672763-745d-46fe-9ae0-98c90b611de8
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c50ea4e-6039-4dd8-be09-c6c2511b689d
+  text: 天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 論語
+    line_uuid: 7a99b480-8820-4db3-b478-a350b3fa8e74
+    line_id: KR1h0004_tls_002-4a.6
+    textline: 五十而知天命
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2f14ac18-a9e4-4a44-bb2a-afa8aa0d733d
+  text: 命
+  concept: DECREE
+  concept_uuid: 02bc69ac-89a2-4565-9bbb-bd62c0062881
+  attestation:
+    text_title: 論語
+    line_uuid: 7a99b480-8820-4db3-b478-a350b3fa8e74
+    line_id: KR1h0004_tls_002-4a.6
+    textline: 五十而知天命
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

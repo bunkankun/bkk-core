@@ -1,0 +1,32 @@
+uuid: 946ffcf0-ab96-42bc-affc-f0ab96d2bc19
+type: word-relation
+group_uuid: 893fc905-fbe4-5900-bbf3-9c39e4f5cc35
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-10a.3
+    textline: 賢者立禮而不肖者拘焉
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4e433768-44e7-4eb8-beb3-4a2bd1c38973
+  text: 立
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-10a.3
+    textline: 賢者立禮而不肖者拘焉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-06T15:00:38.359+09:00'

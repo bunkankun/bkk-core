@@ -1,0 +1,32 @@
+uuid: b861b501-b1c4-49fb-b9f6-ba88e25cf3ba
+type: word-relation
+group_uuid: b861b501-b1c4-49fb-b9f6-ba88e25cf3ba
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: eba6682b-cce1-4f51-91f7-df7b0ad88eef
+  text: 憤
+  concept: ANGUISH
+  concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+  attestation:
+    text_title: 論語
+    line_uuid: 4cae4bc2-212d-4cdb-b2ec-f503160fdb1d
+    line_id: KR1h0004_tls_007-23a.7
+    textline: 發憤忘食
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9ffeafcb-5b66-49d0-9a1e-f74d6f88e197
+  text: 樂
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+  attestation:
+    text_title: 論語
+    line_uuid: d972a5a1-293e-4611-b25a-c0e670031641
+    line_id: KR1h0004_tls_007-23a.8
+    textline: 樂以忘憂
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

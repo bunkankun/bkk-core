@@ -1,0 +1,30 @@
+uuid: 8b10fd48-ab16-4b8d-8b94-1835631e3291
+type: word-relation
+group_uuid: 8b10fd48-ab16-4b8d-8b94-1835631e3291
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 41d93fc0-336f-42b3-871f-ca1cbdad3f90
+  text: 江
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 73843958-aa24-4287-8265-7e64599857ce
+    textline: 疏三江五湖
+    offset: 3
+    range: 1
+right:
+  word_uuid: 16526974-fb05-48fa-ac42-3c15042ab0c0
+  text: 三
+  concept: THREE
+  concept_uuid: 373de8d0-0d58-4780-ae06-8270d91edc3a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 73843958-aa24-4287-8265-7e64599857ce
+    textline: 疏三江五湖
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

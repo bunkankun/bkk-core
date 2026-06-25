@@ -1,0 +1,32 @@
+uuid: cd35b1ed-306f-4437-894e-b2fd81118ebb
+type: word-relation
+group_uuid: cd35b1ed-306f-4437-894e-b2fd81118ebb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 90b6f979-8ace-4430-a409-19e32b02ec4b
+  text: 驕
+  concept: ARROGANT
+  concept_uuid: a53a5705-cac6-47f2-81e4-52ef30fd783f
+  attestation:
+    text_title: 論語
+    line_uuid: 1e5ddd3e-ba93-4b7b-8241-d42e005eab4f
+    line_id: KR1h0004_tls_008-11a.4
+    textline: 使驕且吝
+    offset: 2
+    range: 1
+right:
+  word_uuid: 83637fe3-e9f0-4644-99f0-082e1029b6a9
+  text: 吝
+  concept: STINGY
+  concept_uuid: 3f903e72-ea71-4120-bc16-594130386daa
+  attestation:
+    text_title: 論語
+    line_uuid: 1e5ddd3e-ba93-4b7b-8241-d42e005eab4f
+    line_id: KR1h0004_tls_008-11a.4
+    textline: 使驕且吝
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 45c1d0d2-214a-4bee-b9e0-010d0ca33c33
+type: word-relation
+group_uuid: 45c1d0d2-214a-4bee-b9e0-010d0ca33c33
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b32abcf9-90dd-4a72-8a6c-33135c6284b4
+  text: 幣
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 禮記
+    line_uuid: 84e387df-3f09-464d-9dd6-34cd2b841945
+    textline: 必以幣帛皮圭告于祖禰
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2f0f487c-cb2c-4470-98f1-0705a2c7aaa4
+  text: 帛
+  concept: SILK
+  concept_uuid: 03c4dc56-8dd0-4fd6-adfa-d5d97f87be83
+  attestation:
+    text_title: 禮記
+    line_uuid: 84e387df-3f09-464d-9dd6-34cd2b841945
+    textline: 必以幣帛皮圭告于祖禰
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

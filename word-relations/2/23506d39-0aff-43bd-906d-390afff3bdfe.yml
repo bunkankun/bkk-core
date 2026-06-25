@@ -1,0 +1,35 @@
+uuid: 23506d39-0aff-43bd-906d-390afff3bdfe
+type: word-relation
+group_uuid: a07ddd91-499e-5053-a2bb-11b6daf07d8d
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 7fc224e8-4658-4c1c-8dbc-26e1d4584173
+  text: 教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_004-42a.6
+    textline: 敬教 勸學
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0c597bb2-b2af-4897-bb2e-a318e344cff8
+  text: 學
+  concept: STUDY
+  concept_uuid: d9df8931-313a-4dee-ab85-bb9f90342b11
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_004-42a.6
+    textline: 敬教 勸學
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-22T23:15:23.964+09:00'

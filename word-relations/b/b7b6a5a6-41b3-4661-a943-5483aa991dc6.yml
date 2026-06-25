@@ -1,0 +1,32 @@
+uuid: b7b6a5a6-41b3-4661-a943-5483aa991dc6
+type: word-relation
+group_uuid: b7b6a5a6-41b3-4661-a943-5483aa991dc6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4e433768-44e7-4eb8-beb3-4a2bd1c38973
+  text: 立
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5d0830b4-aea6-4596-8a4c-b173973e96c9
+    line_id: KR3c0005_tls_009-29a.5
+    textline: 故事成功立
+    offset: 5
+    range: 1
+right:
+  word_uuid: e3002edd-38c2-4206-9436-5d30c524611d
+  text: 功
+  concept: MERIT
+  concept_uuid: df5906d7-dfa7-406e-99b2-2904640ecafe
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5d0830b4-aea6-4596-8a4c-b173973e96c9
+    line_id: KR3c0005_tls_009-29a.5
+    textline: 故事成功立
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

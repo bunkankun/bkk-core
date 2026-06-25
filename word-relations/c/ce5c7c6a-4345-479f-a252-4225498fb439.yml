@@ -1,0 +1,30 @@
+uuid: ce5c7c6a-4345-479f-a252-4225498fb439
+type: word-relation
+group_uuid: ce5c7c6a-4345-479f-a252-4225498fb439
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8c75e1f5-c134-4336-a223-6b994205d0cc
+  text: 任
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4fdfe5c0-b081-4243-a4e7-bf9a3ed371e0
+    textline: 賢材者處厚祿任大官
+    offset: 7
+    range: 1
+right:
+  word_uuid: 504ac534-02e9-4cc2-91b9-6f27e2e76e0d
+  text: 官
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4fdfe5c0-b081-4243-a4e7-bf9a3ed371e0
+    textline: 賢材者處厚祿任大官
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

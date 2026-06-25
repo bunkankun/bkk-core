@@ -1,0 +1,32 @@
+uuid: 42197e7e-4a57-4e2b-9eb3-f1259775b6c2
+type: word-relation
+group_uuid: 42197e7e-4a57-4e2b-9eb3-f1259775b6c2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ccbcd9bf-f4b6-44c0-88a6-17812d927968
+  text: 墝
+  concept: BARREN
+  concept_uuid: 43934f3e-e760-4a2a-b3fd-7ed7f6a89e81
+  attestation:
+    text_title: 荀子
+    line_uuid: 4239b84e-aaf9-4543-9302-1788047f6740
+    line_id: KR3a0002_tls_008-5a.23
+    textline: 視墝肥
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7a802ee2-4b1f-4034-b4cb-63d4d0d4fc47
+  text: 肥
+  concept: FERTILE
+  concept_uuid: 4ba683a6-974f-4812-a94a-6b5ae8818e19
+  attestation:
+    text_title: 荀子
+    line_uuid: 4239b84e-aaf9-4543-9302-1788047f6740
+    line_id: KR3a0002_tls_008-5a.23
+    textline: 視墝肥
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

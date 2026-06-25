@@ -1,0 +1,32 @@
+uuid: 62f285ae-4688-48e5-9f3b-15d2005b2f3b
+type: word-relation
+group_uuid: 62f285ae-4688-48e5-9f3b-15d2005b2f3b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 141907ec-fe5f-4bd3-9dc8-f3b2d590cfd2
+  text: 流
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 管子
+    line_uuid: 797046ef-6d24-4e10-9ecf-f763745e1f81
+    line_id: KR3c0001_tls_019-6a.8
+    textline: 流徙
+    offset: 1
+    range: 1
+right:
+  word_uuid: 86241fe5-a89e-494e-8d80-a0efb4be8472
+  text: 徙
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+  attestation:
+    text_title: 管子
+    line_uuid: 797046ef-6d24-4e10-9ecf-f763745e1f81
+    line_id: KR3c0001_tls_019-6a.8
+    textline: 流徙
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

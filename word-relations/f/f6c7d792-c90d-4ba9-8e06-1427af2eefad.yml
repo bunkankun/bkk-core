@@ -1,0 +1,35 @@
+uuid: f6c7d792-c90d-4ba9-8e06-1427af2eefad
+type: word-relation
+group_uuid: f6c7d792-c90d-4ba9-8e06-1427af2eefad
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b6783827-8fd8-4ff1-b107-3279e8a693f0
+  text: 更
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 商君書
+    line_uuid: 6f17e166-b873-4c15-b426-b1bd7860cce2
+    line_id: KR3c0004_tls_001-2a.7
+    textline: 更禮以教百姓
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 商君書
+    line_uuid: 9faa815a-71da-479f-b9e9-a49e43f6dcf5
+    line_id: KR3c0004_tls_001-2a.6
+    textline: 今吾欲變法以治
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 59039e79-beb9-4825-bfa1-16c2e5fdc497
+type: word-relation
+group_uuid: 8f81cafd-c0ad-51de-a3df-5c0edec1a166
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 23763890-9ec1-49f5-be0f-fceb8918767a
+  text: 寬
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+right:
+  word_uuid: 651c8e6e-a808-465a-bb10-6b2fcc936c9a
+  text: 狹
+  concept: NARROW
+  concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

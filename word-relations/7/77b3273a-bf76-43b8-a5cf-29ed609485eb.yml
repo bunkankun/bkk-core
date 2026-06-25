@@ -1,0 +1,32 @@
+uuid: 77b3273a-bf76-43b8-a5cf-29ed609485eb
+type: word-relation
+group_uuid: 77b3273a-bf76-43b8-a5cf-29ed609485eb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7ccf990e-b8cf-43ec-b06b-bfa159c1e7a3
+  text: 吞
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論衡
+    line_uuid: 6d9cf378-5b6c-4e11-8888-3dbc61f78857
+    line_id: KR3j0080_tls_037-11a.19
+    textline: 遞相吞食
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 論衡
+    line_uuid: 6d9cf378-5b6c-4e11-8888-3dbc61f78857
+    line_id: KR3j0080_tls_037-11a.19
+    textline: 遞相吞食
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

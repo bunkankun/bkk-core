@@ -1,0 +1,32 @@
+uuid: 3e04119a-8a3d-469e-8241-3ede04dff194
+type: word-relation
+group_uuid: 3e04119a-8a3d-469e-8241-3ede04dff194
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d0f852c1-cb21-4db0-8493-640492a3b43a
+  text: 沼
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 管子
+    line_uuid: cde70609-6c53-415c-ae58-35bf80c055b0
+    line_id: KR3c0001_tls_023-174a.4
+    textline: 大夫立沼池
+    offset: 4
+    range: 1
+right:
+  word_uuid: 760a0b3c-b829-4546-9474-813588fba9d6
+  text: 池
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 管子
+    line_uuid: cde70609-6c53-415c-ae58-35bf80c055b0
+    line_id: KR3c0001_tls_023-174a.4
+    textline: 大夫立沼池
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

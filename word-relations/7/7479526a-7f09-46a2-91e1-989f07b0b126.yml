@@ -1,0 +1,32 @@
+uuid: 7479526a-7f09-46a2-91e1-989f07b0b126
+type: word-relation
+group_uuid: 7479526a-7f09-46a2-91e1-989f07b0b126
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 999044f5-afdf-4b73-b1f9-bace069a91f4
+  text: 攻
+  concept: ATTACK
+  concept_uuid: 60797be8-f22b-4d40-b23f-99aa77e5aab2
+  attestation:
+    text_title: 韓非子
+    line_uuid: fd0a6d79-589c-41a0-a2f0-3249fb699a34
+    line_id: KR3c0005_tls_001-30a.5
+    textline: 乃復悉士卒以攻邯鄲
+    offset: 7
+    range: 1
+right:
+  word_uuid: f1b3c35d-b78b-452e-a380-e1ece50a7109
+  text: 拔
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 5fbcde1f-7e73-4d7e-8e43-a77ae827b332
+    line_id: KR3c0005_tls_001-30a.6
+    textline: 不能拔也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

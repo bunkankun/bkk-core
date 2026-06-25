@@ -1,0 +1,32 @@
+uuid: 206a13be-9e48-40f7-8379-5e5491e4db6e
+type: word-relation
+group_uuid: 206a13be-9e48-40f7-8379-5e5491e4db6e
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 89fa9133-5e3b-46d6-890d-00021623a847
+    line_id: KR3j0009_tls_001-22a.10
+    textline: 「昔者臣盡力竭智
+    offset: 7
+    range: 1
+right:
+  word_uuid: ef3ed60f-083d-4a01-a93a-a89a504fb351
+  text: 智
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 89fa9133-5e3b-46d6-890d-00021623a847
+    line_id: KR3j0009_tls_001-22a.10
+    textline: 「昔者臣盡力竭智
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

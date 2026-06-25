@@ -1,0 +1,21 @@
+uuid: 33b9add8-a804-4974-b2ee-c805299143d1
+type: word-relation
+group_uuid: f12745ca-4a60-50c0-8e0f-c645b9429f40
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 34f1a278-24f2-4967-8a4d-a1c522c67bef
+  text: 承
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+right:
+  word_uuid: 74ea11ee-92da-44ea-9393-d21440d1810a
+  text: 襲
+  concept: CONTINUE
+  concept_uuid: bf236491-24df-4502-b928-cea735658b61
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

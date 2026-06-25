@@ -1,0 +1,32 @@
+uuid: c1c3a1c6-9de4-49c5-9ff6-4f46d0d1882a
+type: word-relation
+group_uuid: c1c3a1c6-9de4-49c5-9ff6-4f46d0d1882a
+rel_type: Conv
+rel_type_uuid: a49c5878-7e4e-46ac-817e-87ca64e150c6
+rel_label: converse (與 - 受)
+left:
+  word_uuid: 7c3e97a4-9aa4-4fb7-bf36-49604d43f1ed
+  text: 禪
+  concept: ABDICATE
+  concept_uuid: 552752b4-3ee4-4a11-8e6d-6d7c422994d1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9126e710-56d8-4c65-b777-f26f8d8f16f1
+    line_id: KR3c0005_tls_010-88a.2
+    textline: 堯禪天下
+    offset: 2
+    range: 1
+right:
+  word_uuid: c52fa1cb-f6ac-434e-a2a5-6d9922291da5
+  text: 受
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+  attestation:
+    text_title: 韓非子
+    line_uuid: ad1377dd-9eef-41e8-b762-7d22d5725864
+    line_id: KR3c0005_tls_010-88a.3
+    textline: 虞舜受之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

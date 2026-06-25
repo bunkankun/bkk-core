@@ -1,0 +1,32 @@
+uuid: 0cbe25d8-04c5-4596-b6b7-90b6ac16362b
+type: word-relation
+group_uuid: 22ba3017-f994-42a1-b531-aa26ea6807c2
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 5f1b8c0a-331c-4bf5-ad94-2e4d2c067b8d
+  text: 廣
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15f55954-c807-4d5f-9b91-4745386536e3
+    line_id: KR3c0005_tls_014-65a.9
+    textline: 地以廣
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6caaf498-bb70-469d-87de-3e54a4fa98bb
+  text: 地
+  concept: TERRITORY
+  concept_uuid: f86b1c37-9359-4168-b055-97c6cd092ad3
+  attestation:
+    text_title: 韓非子
+    line_uuid: 15f55954-c807-4d5f-9b91-4745386536e3
+    line_id: KR3c0005_tls_014-65a.9
+    textline: 地以廣
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

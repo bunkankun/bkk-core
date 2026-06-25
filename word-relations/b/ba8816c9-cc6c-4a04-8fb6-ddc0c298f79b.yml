@@ -1,0 +1,21 @@
+uuid: ba8816c9-cc6c-4a04-8fb6-ddc0c298f79b
+type: word-relation
+group_uuid: 04476c7b-ab9a-50f5-9cc0-73a1d0ec3f91
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 68e4f578-7d72-43e2-988e-cfde2f11abc7
+  text: 怪
+  concept: STRANGE
+  concept_uuid: 8f5f7463-eb3e-45a8-86e9-944698dd565d
+right:
+  word_uuid: dd610641-8251-402a-8f69-b5c5d4e19244
+  text: 神
+  concept: SUPERNATURAL
+  concept_uuid: 3f45142e-c852-4205-b5b2-a76ceb5e42f5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

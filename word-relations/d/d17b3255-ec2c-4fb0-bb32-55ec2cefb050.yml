@@ -1,0 +1,32 @@
+uuid: d17b3255-ec2c-4fb0-bb32-55ec2cefb050
+type: word-relation
+group_uuid: e81e78f4-24e4-5521-964a-cf65e240ddf5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b4c205db-1210-42e8-8a2b-1a47b8d20f6e
+  text: 邪
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.64
+    textline: 邪婬心盛
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4c205db-1210-42e8-8a2b-1a47b8d20f6e
+  text: 婬
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 百喻經
+    line_id: KR6b0066_T_001-0543b.64
+    textline: 邪婬心盛
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2025-03-14T22:27:41.278+09:00'

@@ -1,0 +1,32 @@
+uuid: e79032e5-c23a-4281-9c0d-eead7afaf870
+type: word-relation
+group_uuid: e79032e5-c23a-4281-9c0d-eead7afaf870
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1f76b772-6648-427f-b71c-a2387bc0453e
+  text: 窮
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: aee13ba9-6319-4351-bd7b-cfa71321c7d3
+    line_id: KR1e0001_tls_006-386a.40
+    textline: 不恤窮匱
+    offset: 3
+    range: 1
+right:
+  word_uuid: 06f78dfe-735e-4d83-9c6d-93d2e442d3e4
+  text: 匱
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: aee13ba9-6319-4351-bd7b-cfa71321c7d3
+    line_id: KR1e0001_tls_006-386a.40
+    textline: 不恤窮匱
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

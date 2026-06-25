@@ -1,0 +1,32 @@
+uuid: bd6ca719-ca3e-4158-aa4b-7ebbc97d2fc3
+type: word-relation
+group_uuid: 909b0ce9-0ef4-4f9b-bffd-79fb0be1278d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 莊子
+    line_uuid: 8644b5af-6e0e-4c15-9107-83fe3b22065c
+    line_id: KR5c0126_tls_011-11a.1
+    textline: 而我獨存乎
+    offset: 2
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 莊子
+    line_uuid: 66ff58c3-e12b-4741-abb6-1635e23aeae1
+    line_id: KR5c0126_tls_011-10a.21
+    textline: 人其盡死
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

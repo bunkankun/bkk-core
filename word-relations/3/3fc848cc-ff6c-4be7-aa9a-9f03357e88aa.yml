@@ -1,0 +1,21 @@
+uuid: 3fc848cc-ff6c-4be7-aa9a-9f03357e88aa
+type: word-relation
+group_uuid: 57e5a422-f52b-5e75-943a-e661007eac4d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0eabca30-e073-4308-a0ae-6500e37b7e71
+  text: 鄉
+  concept: DIRECTION
+  concept_uuid: ff74f281-81b5-454e-974e-a2b5646d87db
+right:
+  word_uuid: 0894119c-5b6a-4c9d-aae5-792a74eb544d
+  text: 背
+  concept: SPINE
+  concept_uuid: 7d3a14a0-d3e8-4197-8e0c-2c8a387eaa03
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 0c11f008-1f4b-40ad-85d4-b0c4c35f4fc1
+type: word-relation
+group_uuid: 0c11f008-1f4b-40ad-85d4-b0c4c35f4fc1
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a3c480ff-5a6e-47e6-ab16-6c46e7ed2d92
+  text: 耕
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6790f438-2c7c-4b37-8a33-6a0b85e58bca
+    line_id: KR3j0009_tls_004-18a.16
+    textline: 力耕耘
+    offset: 2
+    range: 1
+right:
+  word_uuid: 5a0a3886-0303-4ed5-99fb-acbd36620224
+  text: 耘
+  concept: WEED
+  concept_uuid: e502914d-eee4-4cb3-b213-80eccfb0f4f7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 6790f438-2c7c-4b37-8a33-6a0b85e58bca
+    line_id: KR3j0009_tls_004-18a.16
+    textline: 力耕耘
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

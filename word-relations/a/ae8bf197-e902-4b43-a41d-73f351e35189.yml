@@ -1,0 +1,32 @@
+uuid: ae8bf197-e902-4b43-a41d-73f351e35189
+type: word-relation
+group_uuid: ae8bf197-e902-4b43-a41d-73f351e35189
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 76d67cea-b128-4912-868b-df9a424bee77
+  text: 切
+  concept: GRIND
+  concept_uuid: 3218ebc2-c0a1-41af-959a-4b75bacd9355
+  attestation:
+    text_title: 論語
+    line_uuid: 7ee2507e-380f-41ad-8b4e-57f07109ae7c
+    line_id: KR1h0004_tls_001-16a.4
+    textline: 『如切如磋
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0f8d6070-adc0-4709-8428-8d34433f5059
+  text: 磋
+  concept: POLISH
+  concept_uuid: e4f27013-ca16-4fdf-b7a1-075d72b062cb
+  attestation:
+    text_title: 論語
+    line_uuid: 7ee2507e-380f-41ad-8b4e-57f07109ae7c
+    line_id: KR1h0004_tls_001-16a.4
+    textline: 『如切如磋
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

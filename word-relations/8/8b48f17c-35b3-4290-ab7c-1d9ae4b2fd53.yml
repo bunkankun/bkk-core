@@ -1,0 +1,21 @@
+uuid: 8b48f17c-35b3-4290-ab7c-1d9ae4b2fd53
+type: word-relation
+group_uuid: 892d02bd-0f68-5fa8-97cf-1937504a44ae
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d356bc3f-9e79-4710-9fb8-be1dd4f1c2f8
+  text: 措錯
+  concept: PUT
+  concept_uuid: 87b573e3-6ad6-4677-bf8a-28a70fa67654
+right:
+  word_uuid: beb699b3-7a4d-429e-abdf-42bab93e0c28
+  text: 舉
+  concept: LIFT
+  concept_uuid: 6dd6b9ea-8a88-4085-ac31-45a5c87af898
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

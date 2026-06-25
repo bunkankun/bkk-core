@@ -1,0 +1,32 @@
+uuid: 21589214-35ce-49de-bc48-13bf6b37b20d
+type: word-relation
+group_uuid: 2ab1d496-ac74-4089-b899-9230a23f881c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 73793f5a-3b08-4ee0-a60c-aca4588e86ba
+  text: 言
+  concept: DISCUSS
+  concept_uuid: c5280909-0367-44d7-b6e2-5a9280a661f6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 608ec9ec-ae30-4f83-a158-37ca3eaad2e1
+    line_id: KR3c0005_tls_049-79a.8
+    textline: 其言談者
+    offset: 2
+    range: 1
+right:
+  word_uuid: d0b36663-0383-4c4d-8172-90ffa6aab00f
+  text: 談
+  concept: DIALOGUE
+  concept_uuid: 24caf902-af72-4494-a2c3-c08f3dbaec4d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 608ec9ec-ae30-4f83-a158-37ca3eaad2e1
+    line_id: KR3c0005_tls_049-79a.8
+    textline: 其言談者
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

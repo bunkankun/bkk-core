@@ -1,0 +1,21 @@
+uuid: 80b50728-724d-4b07-a686-e757a7f4d464
+type: word-relation
+group_uuid: dbd9e98e-8ebc-5a58-9083-9e6f6245485d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0cf8a5e2-af7a-4c37-b972-69cd2e3e2266
+  text: 定
+  concept: FIX
+  concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+right:
+  word_uuid: 4f8b8aea-d581-49cf-a033-41ffb70ce45e
+  text: 制
+  concept: ESTABLISH
+  concept_uuid: efd1fd05-29ec-4a5c-b7cc-244693eb7fa5
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

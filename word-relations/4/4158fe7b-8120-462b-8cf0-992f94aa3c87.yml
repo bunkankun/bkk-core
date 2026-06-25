@@ -1,0 +1,18 @@
+uuid: 4158fe7b-8120-462b-8cf0-992f94aa3c87
+type: word-relation
+group_uuid: ffd185e9-02b3-5560-aad9-2579431935a5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b461981b-4761-4815-a327-e0df4e34a4e4
+  text: 畏
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+right:
+  word_uuid: a6d278a5-d7ef-4129-b0e2-000e630a35ea
+  text: 利
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 43f7463d-3940-4d23-a0a7-4cf65e9af011
+type: word-relation
+group_uuid: 43f7463d-3940-4d23-a0a7-4cf65e9af011
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2690dfea-2a3a-4760-b057-ad5cd72ed3e3
+  text: 朝
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: 4756c4a7-ef7f-4fe0-bcd2-b55b727105f3
+    line_id: KR3j0080_tls_001-1a.31
+    textline: 尊於桀之朝
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2bfb0ef2-9e3b-4064-9a86-88488d8e104f
+  text: 廷
+  concept: COURT
+  concept_uuid: af579b49-5316-40fa-b7c7-155e16b10c04
+  attestation:
+    text_title: 論衡
+    line_uuid: d248d53d-0700-4f78-95e6-4df5510abc66
+    line_id: KR3j0080_tls_001-1a.34
+    textline: 卑於堯之廷
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

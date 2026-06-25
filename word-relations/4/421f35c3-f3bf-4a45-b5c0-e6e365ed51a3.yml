@@ -1,0 +1,21 @@
+uuid: 421f35c3-f3bf-4a45-b5c0-e6e365ed51a3
+type: word-relation
+group_uuid: 5c43f225-4d42-5ac7-b3b7-d5a65ec63b49
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 97823c1b-71f8-44f2-be0f-26298aeb5686
+  text: 飽
+  concept: SATIATED
+  concept_uuid: b6ab585d-086e-4a4b-ba4d-d95daf2b0f64
+right:
+  word_uuid: f652a52d-5335-4858-8925-5c0c5b646681
+  text: 饜
+  concept: SATIATED
+  concept_uuid: b6ab585d-086e-4a4b-ba4d-d95daf2b0f64
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

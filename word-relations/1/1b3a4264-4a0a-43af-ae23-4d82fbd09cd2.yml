@@ -1,0 +1,35 @@
+uuid: 1b3a4264-4a0a-43af-ae23-4d82fbd09cd2
+type: word-relation
+group_uuid: 1b3a4264-4a0a-43af-ae23-4d82fbd09cd2
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 79ef1fec-84aa-4d79-b783-8faa62870014
+  text: 降
+  concept: FALL
+  concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 077cf7c4-efbb-44db-8c3d-25b9c07fb1f1
+    line_id: KR1e0001_tls_009-749a.1
+    textline: 其以宋升降乎
+    offset: 5
+    range: 1
+right:
+  word_uuid: 1c0ee874-b1f1-466d-b434-aac289f59a8b
+  text: 升
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 077cf7c4-efbb-44db-8c3d-25b9c07fb1f1
+    line_id: KR1e0001_tls_009-749a.1
+    textline: 其以宋升降乎
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 2e46e6dc-391c-46b6-9816-32f542cf43fa
+type: word-relation
+group_uuid: 2e46e6dc-391c-46b6-9816-32f542cf43fa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e12f4133-8980-42f8-aa8d-5f1a3f2fdf06
+  text: 精
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2de12e39-b237-4f95-9656-84eb650d895a
+    line_id: KR3j0009_tls_003-19a.15
+    textline: 精氣日新
+    offset: 1
+    range: 1
+right:
+  word_uuid: b4c205db-1210-42e8-8a2b-1a47b8d20f6e
+  text: 邪
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3ebc8169-7f41-46d0-a344-73da5c752f7a
+    line_id: KR3j0009_tls_003-19a.16
+    textline: 邪氣盡去
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

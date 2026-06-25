@@ -1,0 +1,30 @@
+uuid: bb0fe7c5-18cb-41bb-8c31-5359e9164da6
+type: word-relation
+group_uuid: bb0fe7c5-18cb-41bb-8c31-5359e9164da6
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 論語
+    line_uuid: 5a4eaca8-11f5-4436-9f15-b54314a19b2b
+    textline: 事父母能竭其力
+    offset: 7
+    range: 1
+right:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 論語
+    line_uuid: 5a4eaca8-11f5-4436-9f15-b54314a19b2b
+    textline: 事父母能竭其力
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

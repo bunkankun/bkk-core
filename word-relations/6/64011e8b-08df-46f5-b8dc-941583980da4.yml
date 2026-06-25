@@ -1,0 +1,32 @@
+uuid: 64011e8b-08df-46f5-b8dc-941583980da4
+type: word-relation
+group_uuid: 64011e8b-08df-46f5-b8dc-941583980da4
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 62557396-2051-43a3-a111-f450581f0799
+  text: 行
+  concept: TRAVEL
+  concept_uuid: fe11212f-7647-4701-ad44-a0001ca63041
+  attestation:
+    text_title: 韓非子
+    line_uuid: 42b88d52-591a-4c37-b726-709627fb7c6d
+    line_id: KR3c0005_tls_020-130a.9
+    textline: “陸行不遇兕虎”
+    offset: 3
+    range: 1
+right:
+  word_uuid: dec3edd9-2e62-42c9-8878-95795b901815
+  text: 陸
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 韓非子
+    line_uuid: 42b88d52-591a-4c37-b726-709627fb7c6d
+    line_id: KR3c0005_tls_020-130a.9
+    textline: “陸行不遇兕虎”
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,34 @@
+uuid: 5f96b132-a9de-454c-92ca-03de3e84ec2c
+type: word-relation
+group_uuid: 5f96b132-a9de-454c-92ca-03de3e84ec2c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: aadfbb37-3ed1-4273-a88c-03f7f332cb16
+  text: 暗
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 論衡
+    line_uuid: 03f1a931-61a0-4a65-a563-39ced66abc97
+    textline: 何能見人暗過
+    offset: 5
+    range: 1
+right:
+  word_uuid: f09fd827-f189-466e-b3f8-e752c8a8a5bc
+  text: 陰
+  concept: SECRET
+  concept_uuid: df94b38b-5f75-4f11-832a-57dd30631e00
+  attestation:
+    text_title: 論衡
+    line_uuid: 05520adf-b073-4578-83b5-9538dadeec7b
+    line_id: KR3j0080_tls_023-14a.9
+    textline: 不知人之陰惡
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

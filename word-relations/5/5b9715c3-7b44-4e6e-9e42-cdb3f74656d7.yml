@@ -1,0 +1,21 @@
+uuid: 5b9715c3-7b44-4e6e-9e42-cdb3f74656d7
+type: word-relation
+group_uuid: 693b0016-8309-5c90-85a9-1e7a4166e15f
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 782e9768-6c2e-4973-9a6b-f1964a27a2e3
+  text: 廢
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+right:
+  word_uuid: 34c4db54-3bd5-4d46-a815-a3fa6fb6e190
+  text: 仆
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

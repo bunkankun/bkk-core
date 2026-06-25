@@ -1,0 +1,32 @@
+uuid: aac2a28b-b1e4-4bdb-a03b-cc0e7aa76af9
+type: word-relation
+group_uuid: aac2a28b-b1e4-4bdb-a03b-cc0e7aa76af9
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+  attestation:
+    text_title: 論語
+    line_uuid: 0430a358-a716-4de7-8d34-a98827553b6b
+    line_id: KR1h0004_tls_001-3a.3
+    textline: 「巧言令色
+    offset: 3
+    range: 1
+right:
+  word_uuid: b97645e3-02dd-4ed7-ae8e-da285b8ab821
+  text: 色
+  concept: FACE
+  concept_uuid: 65a2593a-15f1-4093-be94-6399d8749221
+  attestation:
+    text_title: 論語
+    line_uuid: 0430a358-a716-4de7-8d34-a98827553b6b
+    line_id: KR1h0004_tls_001-3a.3
+    textline: 「巧言令色
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 4478d133-da20-4f41-a8ff-c8af53ad6d0e
+type: word-relation
+group_uuid: bc077a2f-92cf-41b4-b398-5d207668e6ba
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 63faf8ce-c0df-4f61-86b5-3dfd393546f1
+  text: 鄉
+  concept: REGION
+  concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+  attestation:
+    text_title: 老子
+    line_uuid: d0ead683-9f98-42d4-ba06-ea0c1f93dc49
+    line_id: KR5c0057_tls_054-1a.18
+    textline: 以鄉觀鄉
+    range: 1
+right:
+  word_uuid: c183e025-bbe3-46a5-ba4d-e3e07f4e5ecd
+  text: 邦
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 老子
+    line_uuid: 2efc679a-7a4d-4db2-8b66-d1a5cb825a01
+    line_id: KR5c0057_tls_054-1a.19
+    textline: 以邦觀邦
+    range: 1
+source:
+  source_file: word-relations.xml

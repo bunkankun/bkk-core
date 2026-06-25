@@ -1,0 +1,32 @@
+uuid: 7ee2be37-2b74-44c9-a2be-372b7494c9d7
+type: word-relation
+group_uuid: 0da9a9f3-e5d8-5765-9d8f-7d2a236a0b2b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 970f5a97-6554-4f01-9247-dc73d48abd32
+  text: 傷
+  concept: INJURE
+  concept_uuid: c62a7113-5160-455e-b93e-d9af30f0190c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.38
+    textline: 為鷙禽猛獸之害傷人而无以禁御也
+    offset: 8
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.38
+    textline: 為鷙禽猛獸之害傷人而无以禁御也
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:32:21.811+09:00'

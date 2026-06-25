@@ -1,0 +1,21 @@
+uuid: cb86de1c-1030-43d0-9633-0c247d03d4e2
+type: word-relation
+group_uuid: 2e713f1d-8627-5107-839d-83cf165bd1db
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dddfa333-638e-4b82-9647-3081a701edc4
+  text: 安
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+right:
+  word_uuid: 96921913-5a46-4041-ae7f-5a65a088ef94
+  text: 靜
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

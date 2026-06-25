@@ -1,0 +1,32 @@
+uuid: 65c674fa-8dd6-4782-8b82-ed3906d0fbd4
+type: word-relation
+group_uuid: 65c674fa-8dd6-4782-8b82-ed3906d0fbd4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 34df6fda-7a20-4f96-80e1-e026838c4526
+  text: 賓
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+  attestation:
+    text_title: 論語
+    line_uuid: 4992313c-a38b-474e-abf9-8a3f08db5a29
+    line_id: KR1h0004_tls_005-10a.5
+    textline: 可使與賓客言也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3c70b43c-4082-4063-b4e6-fed6df8b17a0
+  text: 客
+  concept: GUEST
+  concept_uuid: 374533d0-8162-42e9-b525-20722ffb0355
+  attestation:
+    text_title: 論語
+    line_uuid: 4992313c-a38b-474e-abf9-8a3f08db5a29
+    line_id: KR1h0004_tls_005-10a.5
+    textline: 可使與賓客言也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

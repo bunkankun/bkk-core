@@ -1,0 +1,31 @@
+uuid: a6244b2f-f60e-4755-b933-1434af7895f8
+type: word-relation
+group_uuid: a6244b2f-f60e-4755-b933-1434af7895f8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a2dd9999-66ee-4732-b5e2-e218b6cf7717
+  text: 竭
+  concept: EXHAUST
+  concept_uuid: 503b0148-c045-4023-94e0-3b90956d3fbe
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 80f3564e-fa2f-48a3-bb59-a2984d78d5a1
+    line_id: KR3j0009_tls_003-30a.23
+    textline: 上不竭
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3c6a6f30-255f-415e-857c-06429ddef917
+  text: 滿
+  concept: FILL
+  concept_uuid: 3560cf5e-3a01-4d01-a865-d1a9ef2d33ef
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2e5ea42b-c38d-4f50-aa3d-d613900f6a51
+    textline: 下不滿
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

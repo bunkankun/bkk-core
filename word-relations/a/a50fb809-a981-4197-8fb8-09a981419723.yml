@@ -1,0 +1,32 @@
+uuid: a50fb809-a981-4197-8fb8-09a981419723
+type: word-relation
+group_uuid: acbaeb94-7081-5468-ba57-847b59d0d9be
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f61b2eab-d8ad-4693-8da3-9517fcd6aeb1
+  text: 善
+  concept: LIKE
+  concept_uuid: 454cc118-6569-4ea6-8aaa-05114d05cf76
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_004-17a.16
+    textline: 善怒者必多怨
+    offset: 1
+    range: 1
+right:
+  word_uuid: c3fe890b-d04f-4ae5-ab0b-4a15342aa0b5
+  text: 多
+  concept: OFTEN
+  concept_uuid: 7f6b310e-3908-4735-9453-529445663919
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_004-17a.16
+    textline: 善怒者必多怨
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-06T13:32:00.097+09:00'

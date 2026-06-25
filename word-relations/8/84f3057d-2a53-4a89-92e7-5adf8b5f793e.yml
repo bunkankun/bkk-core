@@ -1,0 +1,30 @@
+uuid: 84f3057d-2a53-4a89-92e7-5adf8b5f793e
+type: word-relation
+group_uuid: 84f3057d-2a53-4a89-92e7-5adf8b5f793e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c384494b-c309-4ff1-a254-b06284e485a5
+  text: 敬
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+  attestation:
+    text_title: 論語
+    line_uuid: dc90595b-0e6f-4593-addc-4bd11c69e935
+    textline: 「使民敬忠以勸
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7e137936-ed15-4872-ae43-c05f6c2b2658
+  text: 忠
+  concept: FAITHFUL
+  concept_uuid: 2bb571aa-4731-4d39-adb2-4a5e604300a5
+  attestation:
+    text_title: 論語
+    line_uuid: dc90595b-0e6f-4593-addc-4bd11c69e935
+    textline: 「使民敬忠以勸
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

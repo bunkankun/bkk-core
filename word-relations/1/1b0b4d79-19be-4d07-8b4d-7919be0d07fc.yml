@@ -1,0 +1,32 @@
+uuid: 1b0b4d79-19be-4d07-8b4d-7919be0d07fc
+type: word-relation
+group_uuid: c5c3f742-ac66-5437-9c5c-8b39f2add38b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 009aa936-0d9b-4f6f-a829-949ee6933d63
+  text: 日
+  concept: DAYTIME
+  concept_uuid: 23374601-0e1f-4530-98fe-d16101c0875b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.6
+    textline: 日夜分
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8b48b4fd-c16f-4229-b145-3c0078b6e9f9
+  text: 夜
+  concept: NIGHT
+  concept_uuid: 3cd96736-2a00-463b-834c-e4f0c76319cf
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-12a.6
+    textline: 日夜分
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T20:24:48.66+09:00'

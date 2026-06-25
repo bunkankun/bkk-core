@@ -1,0 +1,32 @@
+uuid: f0002319-ceb3-42c6-8965-0f2f5ac48dd0
+type: word-relation
+group_uuid: f77f9896-1544-4960-9a0b-6c6e5b0d90e3
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e9921121-76f8-44f6-8bc3-2f6c7a810f94
+  text: 腸
+  concept: INNARDS
+  concept_uuid: 014fa5f4-7c1d-4572-b8bf-d7b634e19c0c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 03310fdd-75bc-4192-a0bb-7ffd8c83cfed
+    line_id: KR3c0005_tls_020-100a.2
+    textline: 苦痛雜於腸胃之間
+    offset: 5
+    range: 1
+right:
+  word_uuid: 598a5f52-9c3c-4bcf-b677-15089ad50bf5
+  text: 胃
+  concept: STOMACH
+  concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 03310fdd-75bc-4192-a0bb-7ffd8c83cfed
+    line_id: KR3c0005_tls_020-100a.2
+    textline: 苦痛雜於腸胃之間
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

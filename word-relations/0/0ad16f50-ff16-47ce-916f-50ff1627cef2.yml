@@ -1,0 +1,32 @@
+uuid: 0ad16f50-ff16-47ce-916f-50ff1627cef2
+type: word-relation
+group_uuid: ee648fcf-bd0e-5a7c-888a-56f545beed8c
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_069-18a.38
+    textline: 唯陛下毋難還臣而易逆天意
+    offset: 11
+    range: 2
+right:
+  word_uuid: 547f6e92-68b0-4e6a-be39-d4b2d554d33f
+  text: 逆
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_069-18a.38
+    textline: 唯陛下毋難還臣而易逆天意
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:41:22.29+09:00'

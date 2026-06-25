@@ -1,0 +1,32 @@
+uuid: d4ead869-25aa-4cac-aee5-a16c717121dc
+type: word-relation
+group_uuid: 16d2c98c-8b65-4c0a-909c-e409ec6633ae
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a5353c77-59a8-424b-9ec4-86cc3de63fd3
+  text: 明
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: a2db2304-19c8-4b95-ae73-f71478418935
+    line_id: KR1c0066_tls_004-15a.70
+    textline: 惟明主能愛其所愛
+    offset: 2
+    range: 1
+right:
+  word_uuid: 29dc08a0-3572-4f6b-9549-712677609029
+  text: 闇
+  concept: STUPID
+  concept_uuid: 38615e26-10fe-40fc-ae6c-85b20d705350
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: fe2f6ce4-27b1-4dbe-9a7e-55b8bcfec80b
+    line_id: KR1c0066_tls_004-15a.43
+    textline: 闇主則必危其所愛
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

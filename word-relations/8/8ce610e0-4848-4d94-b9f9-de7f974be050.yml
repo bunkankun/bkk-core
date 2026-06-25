@@ -1,0 +1,30 @@
+uuid: 8ce610e0-4848-4d94-b9f9-de7f974be050
+type: word-relation
+group_uuid: d3fc4167-1be7-4816-8e11-79703ce023b9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e88e76fb-79c6-4d22-af1c-cd2dde952b7a
+  text: 鍾
+  concept: BELL
+  concept_uuid: 16328064-e594-499b-b1bf-0e23ffa9f926
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ed7ace43-c207-4160-849f-cbb5ad020a14
+    textline: 有倕作為鼙鼓鐘磬吹苓管壎箎鞀椎鍾
+    offset: 16
+    range: 1
+right:
+  word_uuid: 304763f2-1d21-4bde-b3ce-c2b431d708d4
+  text: 磬
+  concept: STONE MUSICAL INSTRUMENTS
+  concept_uuid: 7aa759ee-1c1d-45b2-a333-98c8588fc388
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ed7ace43-c207-4160-849f-cbb5ad020a14
+    textline: 有倕作為鼙鼓鐘磬吹苓管壎箎鞀椎鍾
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

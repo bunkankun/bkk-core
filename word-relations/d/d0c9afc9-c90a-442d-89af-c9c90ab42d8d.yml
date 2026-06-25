@@ -1,0 +1,32 @@
+uuid: d0c9afc9-c90a-442d-89af-c9c90ab42d8d
+type: word-relation
+group_uuid: e5d5a62b-9100-5160-9b3a-38220ece52a6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3182c714-a393-4af2-8b72-20b227937796
+  text: 得
+  concept: OBTAIN
+  concept_uuid: 1c8899d4-cf5f-45c4-a4df-32d345c95491
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_007-3a.3
+    textline: 三代之得天下也以仁
+    offset: 5
+    range: 1
+right:
+  word_uuid: 3bea5bda-57b4-4d28-947c-22c1ccc4c071
+  text: 失
+  concept: LOSE
+  concept_uuid: 51879394-c456-43cb-b877-ec241b593a75
+  attestation:
+    text_title: 孟子
+    line_id: KR1h0001_tls_007-3a.4
+    textline: 其失天下也以不仁
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-05T17:00:56.757+09:00'

@@ -1,0 +1,32 @@
+uuid: 33c4c171-7ccd-450b-84c1-717ccdc50b44
+type: word-relation
+group_uuid: 77e4b634-6098-5d51-80b9-e5d732334a11
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6cf54208-9ba2-4211-9d60-6f0cbfb18e01
+  text: 曲
+  concept: PART
+  concept_uuid: 61019542-32da-4339-bda4-12ddb7f7dbcb
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_022-1a.3
+    textline: 曲則全
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5dd845be-d726-4e6f-8b5a-dc348313706d
+  text: 全
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 老子
+    line_id: KR5c0057_tls_022-1a.3
+    textline: 曲則全
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-01T02:30:06.782+09:00'

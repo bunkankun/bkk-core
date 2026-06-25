@@ -1,0 +1,31 @@
+uuid: 4590fb98-9b69-47ab-af72-96336b9b0294
+type: word-relation
+group_uuid: 4590fb98-9b69-47ab-af72-96336b9b0294
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8fa3fdcd-4454-48cb-a12c-59ab4f6a5f6a
+  text: 天子
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e5171cb3-d265-4c05-b6a8-9378f2904cd7
+    line_id: KR3j0009_tls_001-13a.27
+    textline: 上為天子而不驕
+    offset: 3
+    range: 2
+right:
+  word_uuid: 9ec45957-0619-4f24-a115-61ce76a9ae09
+  text: 匹夫
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f021a24d-4cb3-484f-9be8-fe40c2590803
+    textline: 下為匹夫而不惛
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

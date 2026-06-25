@@ -1,0 +1,21 @@
+uuid: 62bbad80-4ab8-44f8-9a0b-f3346a846c2b
+type: word-relation
+group_uuid: 0753c10c-cd59-54bb-a343-94f337dfe322
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 511d051a-5989-424a-98e3-35efaf6adaa6
+  text: 咎
+  concept: BLAME
+  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+right:
+  word_uuid: 890dcdb7-923c-4f56-894b-75fdb848859e
+  text: 怪
+  concept: BLAME
+  concept_uuid: 905c9129-3533-429c-98da-91d01635f2c9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

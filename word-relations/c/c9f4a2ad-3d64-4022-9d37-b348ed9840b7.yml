@@ -1,0 +1,32 @@
+uuid: c9f4a2ad-3d64-4022-9d37-b348ed9840b7
+type: word-relation
+group_uuid: c9f4a2ad-3d64-4022-9d37-b348ed9840b7
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b4c84e3f-db24-4764-8c9a-c310a2538b31
+  text: 此
+  concept: HERE
+  concept_uuid: 04482dbe-a266-41c0-b7f0-e0ba31a4763f
+  attestation:
+    text_title: 百喻經
+    line_uuid: d4845ae5-647d-4975-a336-79d7571830f5
+    line_id: KR6b0066_T_001-0545c.62
+    textline: 而於此覓
+    offset: 3
+    range: 1
+right:
+  word_uuid: 2c022ab4-ba26-472e-936d-836b827d6652
+  text: 彼
+  concept: THERE
+  concept_uuid: 5a2cd1f0-f6a3-4fc7-829d-632dfc3ca043
+  attestation:
+    text_title: 百喻經
+    line_uuid: 7695da84-e498-4cff-ab1e-ebcf86bc087d
+    line_id: KR6b0066_T_001-0545c.61
+    textline: 失釪於彼
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

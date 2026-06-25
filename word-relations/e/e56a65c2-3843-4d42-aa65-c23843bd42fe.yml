@@ -1,0 +1,32 @@
+uuid: e56a65c2-3843-4d42-aa65-c23843bd42fe
+type: word-relation
+group_uuid: c4a5a290-0679-57b4-9538-0c76fdba6dcf
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2312e186-562c-478b-a1b8-6aeed3023199
+  text: 一
+  concept: UNITE
+  concept_uuid: 7c0ddc2c-5c2c-47bd-872b-4e48a0a76758
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_009-9a.19
+    textline: 一和乎四時
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2958e1ef-23c4-4be2-a2ef-ed81ed180ea9
+  text: 和
+  concept: CONFORM
+  concept_uuid: f9e3551f-7344-4e58-99fc-c99d8c3d3944
+  attestation:
+    text_title: 文子
+    line_id: KR5c0118_tls_009-9a.19
+    textline: 一和乎四時
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-01-12T17:26:33.865+09:00'

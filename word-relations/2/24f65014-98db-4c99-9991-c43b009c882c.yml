@@ -1,0 +1,32 @@
+uuid: 24f65014-98db-4c99-9991-c43b009c882c
+type: word-relation
+group_uuid: 24f65014-98db-4c99-9991-c43b009c882c
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 6e52339c-2c31-484a-84c4-ae56923a0ff3
+  text: 無辜
+  concept: INNOCENT
+  concept_uuid: be5f23cb-ca41-467a-9907-bc24126ac1cc
+  attestation:
+    text_title: 尚書
+    line_uuid: 9e8a0dad-f104-4f5f-bc69-44f1adb84c41
+    line_id: KR1b0001_tls_043-2a.118
+    textline: 殺無辜
+    offset: 2
+    range: 2
+right:
+  word_uuid: 008ce8ee-7473-4732-8931-5068d691a0d3
+  text: 無罪
+  concept: INNOCENT
+  concept_uuid: be5f23cb-ca41-467a-9907-bc24126ac1cc
+  attestation:
+    text_title: 尚書
+    line_uuid: 8ffbbeaa-7082-43f8-ae72-fd3de62a008b
+    line_id: KR1b0001_tls_043-2a.117
+    textline: 亂罰無罪
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

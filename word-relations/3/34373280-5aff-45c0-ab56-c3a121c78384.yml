@@ -1,0 +1,32 @@
+uuid: 34373280-5aff-45c0-ab56-c3a121c78384
+type: word-relation
+group_uuid: aa4b4935-a95a-46bf-9ecf-91a151567282
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: ea724faf-b91f-4e54-a780-b1753067e45b
+    line_id: KR3c0005_tls_020-50a.5
+    textline: 聖人之用神也靜
+    offset: 1
+    range: 2
+right:
+  word_uuid: 8ad61837-a872-46fb-aa2f-9c62b3188d3b
+  text: 眾人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 17523447-5468-414c-887f-30b4738b103a
+    line_id: KR3c0005_tls_020-50a.2
+    textline: 眾人之用神也躁
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

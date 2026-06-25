@@ -1,0 +1,32 @@
+uuid: c07598e2-fd12-4622-b598-e2fd12462210
+type: word-relation
+group_uuid: f3d9753f-3948-5ada-99b2-db537a6034b1
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_004-7a.25
+    textline: 治法猶存
+    offset: 1
+    range: 1
+right:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_004-7a.25
+    textline: 治法猶存
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T06:07:10.911+09:00'

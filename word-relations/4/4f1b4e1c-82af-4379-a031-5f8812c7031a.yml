@@ -1,0 +1,32 @@
+uuid: 4f1b4e1c-82af-4379-a031-5f8812c7031a
+type: word-relation
+group_uuid: 4f1b4e1c-82af-4379-a031-5f8812c7031a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d5c005a1-e581-43de-91f5-0d1332449727
+  text: 瘧
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e0c36a72-0e5e-4521-bdc3-705247d7dedc
+    line_id: KR1e0001_tls_009-158a.20
+    textline: 而以瘧疾赴于諸侯
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6f011eae-6136-4810-9889-015a78f7756b
+  text: 疾
+  concept: ILLNESS
+  concept_uuid: b1da0fff-9261-4ff0-a8cf-b163acef96ee
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e0c36a72-0e5e-4521-bdc3-705247d7dedc
+    line_id: KR1e0001_tls_009-158a.20
+    textline: 而以瘧疾赴于諸侯
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

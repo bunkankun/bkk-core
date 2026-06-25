@@ -1,0 +1,32 @@
+uuid: b8f386fd-ef7e-40cf-a7ce-c6ab11acee8c
+type: word-relation
+group_uuid: bb29dcef-cd66-40cf-98e7-9b1a60f48e4d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9d8a9f59-6a0d-4e81-a425-50f8451164b2
+  text: 戶
+  concept: DOOR
+  concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7dc4e473-e2b0-4668-b2fb-4ab7a601421f
+    line_id: KR3c0005_tls_021-52a.3
+    textline: 神明之戶牖也
+    offset: 4
+    range: 1
+right:
+  word_uuid: bdc96261-69b3-493e-b576-45da4c549254
+  text: 牖
+  concept: WINDOW
+  concept_uuid: 7fd63da8-31ea-4727-89b9-e5cca359f424
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7dc4e473-e2b0-4668-b2fb-4ab7a601421f
+    line_id: KR3c0005_tls_021-52a.3
+    textline: 神明之戶牖也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

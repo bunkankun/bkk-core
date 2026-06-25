@@ -1,0 +1,32 @@
+uuid: 3380e6fe-be59-4f87-80e6-febe593f87cb
+type: word-relation
+group_uuid: baa4a991-8606-5cf0-913f-a4c6dda55b81
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ebaa5e67-cb86-4059-9f28-240450140e6b
+  text: 陰陽
+  concept: DEVELOPMENT
+  concept_uuid: 18041b84-6283-43f5-be85-45c6e4adfb0c
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_006-9a.10
+    textline: 陰陽之氣有沴
+    offset: 1
+    range: 2
+right:
+  word_uuid: 48ddf426-6274-4616-a2a7-7c957ee344e8
+  text: 氣
+  concept: COSMIC FORCE
+  concept_uuid: 7d1cad9e-c289-4065-a2e5-e21cbd3e33df
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_006-9a.10
+    textline: 陰陽之氣有沴
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:07:05.682+09:00'

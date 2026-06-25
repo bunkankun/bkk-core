@@ -1,0 +1,21 @@
+uuid: c2813302-35da-4f5e-98ac-e63e51c1e84e
+type: word-relation
+group_uuid: 4ea96d06-0d0c-5280-b0b5-ff4d00f79e1d
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 2277132e-d2d6-4a89-9cdd-e8d4006e233f
+  text: 崩
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+right:
+  word_uuid: 8527cde9-78fa-475f-8448-3d635bd3a780
+  text: 壞
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

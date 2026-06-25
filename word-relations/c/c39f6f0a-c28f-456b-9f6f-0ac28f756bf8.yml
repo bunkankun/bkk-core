@@ -1,0 +1,32 @@
+uuid: c39f6f0a-c28f-456b-9f6f-0ac28f756bf8
+type: word-relation
+group_uuid: 9f487aec-87ad-54a8-8dc5-8d0833619f67
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c17e1f93-022f-49c7-9d24-ccdcac68f9ab
+  text: 輓
+  concept: PULL
+  concept_uuid: 29ad8ba0-0a56-48ae-86a3-7620075fb02e
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_009-327a.19
+    textline: 或輓之
+    offset: 2
+    range: 1
+right:
+  word_uuid: ad504677-2211-4e69-a2e5-bf971cdbfa19
+  text: 推
+  concept: PUSH
+  concept_uuid: a6434ef5-1e04-465f-b059-a4d2e2145552
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_009-327a.20
+    textline: 或推之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-01-19T21:14:45.519+09:00'

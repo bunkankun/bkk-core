@@ -1,0 +1,21 @@
+uuid: 6917420a-c726-4e64-a32e-e78526f109f1
+type: word-relation
+group_uuid: 3aca47e2-917b-5893-a0dd-2589178a70f8
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b5f3ee17-c8dc-4e59-9ead-7d7f3329ce43
+  text: 居
+  concept: SIT
+  concept_uuid: d20180cb-e413-46ea-b0f7-cc847c2423a8
+right:
+  word_uuid: 2588df26-e727-4805-ab6e-b1939e689f9f
+  text: 起
+  concept: RISE
+  concept_uuid: a7f925e3-d34f-475e-8f70-05c476625af7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

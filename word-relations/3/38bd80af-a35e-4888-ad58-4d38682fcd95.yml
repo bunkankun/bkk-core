@@ -1,0 +1,32 @@
+uuid: 38bd80af-a35e-4888-ad58-4d38682fcd95
+type: word-relation
+group_uuid: 38bd80af-a35e-4888-ad58-4d38682fcd95
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 5389c058-de93-4a0b-b5b0-83f3b0797199
+  text: 災
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: f76f1116-9042-4269-98cd-c53db1b4ce6a
+    line_id: KR3c0005_tls_003-6a.8
+    textline: 大者患禍災害死亡及其身
+    offset: 5
+    range: 1
+right:
+  word_uuid: 35eeb778-cd03-4680-97ba-db88c9ab6e2b
+  text: 害
+  concept: DAMAGE
+  concept_uuid: 3c521172-fd8c-405e-b8d5-5b78a4eeb944
+  attestation:
+    text_title: 韓非子
+    line_uuid: f76f1116-9042-4269-98cd-c53db1b4ce6a
+    line_id: KR3c0005_tls_003-6a.8
+    textline: 大者患禍災害死亡及其身
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

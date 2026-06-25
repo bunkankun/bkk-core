@@ -1,0 +1,32 @@
+uuid: 0a2e786f-1f13-4813-910b-32690cdac520
+type: word-relation
+group_uuid: 8ff8b68c-c8fa-44e6-a51b-4a7365e32b1f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: aaff8c01-54af-4605-969e-366d1baefd38
+  text: 珠
+  concept: PEARL
+  concept_uuid: c750e177-6b9a-48c1-8b4b-ec61d5ad3992
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 47163090-7b01-4e8a-8418-4c18b6d6585b
+    line_id: KR3j0009_tls_005-14a.10
+    textline: 多以珠玉戈劍為寶
+    offset: 3
+    range: 1
+right:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 47163090-7b01-4e8a-8418-4c18b6d6585b
+    line_id: KR3j0009_tls_005-14a.10
+    textline: 多以珠玉戈劍為寶
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

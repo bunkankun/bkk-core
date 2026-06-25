@@ -1,0 +1,32 @@
+uuid: a782f5e2-d7ff-4c70-ba45-8203802da369
+type: word-relation
+group_uuid: 2cc222fa-c537-4463-a3d2-603dd8bdb4d2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: df60db55-d49c-4cca-a5b1-d4b5d24c88de
+  text: 囹
+  concept: PRISON
+  concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: da695328-b316-4570-8ece-f77bba1466a4
+    line_id: KR3j0009_tls_002-3a.9
+    textline: 省囹圄
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1dd9b222-fc1c-4e26-b442-e2e58172f9c6
+  text: 圄
+  concept: PRISON
+  concept_uuid: 30545a8c-2827-4271-a287-3725e3eb9874
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: da695328-b316-4570-8ece-f77bba1466a4
+    line_id: KR3j0009_tls_002-3a.9
+    textline: 省囹圄
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

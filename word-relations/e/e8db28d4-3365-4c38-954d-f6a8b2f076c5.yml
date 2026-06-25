@@ -1,0 +1,18 @@
+uuid: e8db28d4-3365-4c38-954d-f6a8b2f076c5
+type: word-relation
+group_uuid: 6e878f90-1cf1-5149-a1fa-dacd127d0382
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 58530286-3dc9-4a6b-a9dc-4b942a1a5ed0
+  text: 長
+  concept: ENDURING
+  concept_uuid: e9c55783-9eeb-4233-ad5f-5a8126185a47
+right:
+  word_uuid: 1e4dcc36-483f-4348-947a-4f5cc4cc9e22
+  text: 短
+  concept: BRIEF
+  concept_uuid: 6a39e8d4-8e37-43ee-a09f-56b121cd95ea
+source:
+  source_file: word-relations.xml

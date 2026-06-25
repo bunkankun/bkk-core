@@ -1,0 +1,30 @@
+uuid: a4a2dd69-183a-408d-b438-8003c0e7e8bb
+type: word-relation
+group_uuid: a4a2dd69-183a-408d-b438-8003c0e7e8bb
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 170635d6-a68d-4415-887c-5fadd9e7808a
+  text: 餓
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 韓非子
+    line_uuid: db2ab05d-7d77-4176-b495-003d2ce1f01c
+    textline: 雖饑不餓
+    offset: 4
+    range: 1
+right:
+  word_uuid: 5839d692-9e70-447f-9c77-61427ce5b465
+  text: 饑
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 韓非子
+    line_uuid: db2ab05d-7d77-4176-b495-003d2ce1f01c
+    textline: 雖饑不餓
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

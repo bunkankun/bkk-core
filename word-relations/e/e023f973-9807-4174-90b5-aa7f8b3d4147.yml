@@ -1,0 +1,32 @@
+uuid: e023f973-9807-4174-90b5-aa7f8b3d4147
+type: word-relation
+group_uuid: e023f973-9807-4174-90b5-aa7f8b3d4147
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 2ca3802c-5f5f-4e8c-8ea5-b84e7c330372
+  text: 容
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 禮記
+    line_uuid: bc0e3c1d-f55e-4468-a925-5abb81456c29
+    line_id: KR1d0052_tls_019-15a.15
+    textline: 舞動其容也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 禮記
+    line_uuid: b45a5970-264b-441f-8b47-a8a6a0a7cca5
+    line_id: KR1d0052_tls_019-15a.16
+    textline: 三者本於心
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

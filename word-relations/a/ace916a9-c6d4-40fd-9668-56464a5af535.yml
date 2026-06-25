@@ -1,0 +1,32 @@
+uuid: ace916a9-c6d4-40fd-9668-56464a5af535
+type: word-relation
+group_uuid: ace916a9-c6d4-40fd-9668-56464a5af535
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: d651fd91-945b-486b-8234-27bfc2494cd5
+  text: 功
+  concept: WORK
+  concept_uuid: 774430bc-d50c-4b45-a8e5-e4edb72dbce1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7efd6128-74f9-465e-bdad-ef8b8c63e191
+    line_id: KR3j0009_tls_002-6a.7
+    textline: 以妨農功
+    offset: 4
+    range: 1
+right:
+  word_uuid: c67031e5-5810-43a6-a496-20fd80ac0586
+  text: 農
+  concept: AGRICULTURE
+  concept_uuid: 59ca81ce-e357-48fd-a522-d627c0d9f6a3
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 7efd6128-74f9-465e-bdad-ef8b8c63e191
+    line_id: KR3j0009_tls_002-6a.7
+    textline: 以妨農功
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

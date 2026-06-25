@@ -1,0 +1,32 @@
+uuid: a147225c-3c35-4c9e-8722-5c3c359c9edc
+type: word-relation
+group_uuid: 4cd326d3-e479-51c3-aacb-1a22ced4aee1
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 8df479cd-237c-4298-8b88-37b2f2157422
+  text: 猖
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-4a.29
+    textline: 猖狂妄行
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_020-4a.29
+    textline: 猖狂妄行
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T00:48:15.431+09:00'

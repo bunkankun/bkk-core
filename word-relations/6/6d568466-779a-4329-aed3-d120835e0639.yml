@@ -1,0 +1,31 @@
+uuid: 6d568466-779a-4329-aed3-d120835e0639
+type: word-relation
+group_uuid: 6d568466-779a-4329-aed3-d120835e0639
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d96557e3-d6c5-4885-b672-30e6a86e75f1
+  text: 并
+  concept: ANNEX
+  concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+  attestation:
+    text_title: 史記
+    line_uuid: 2eb22383-9272-47f4-858d-988d2c23a300
+    line_id: KR2a0001_tls_006-323a.8
+    textline: 并吞八荒之心
+    range: 1
+right:
+  word_uuid: c77fb72b-9e62-4ee4-9301-c2f9ab89c521
+  text: 吞
+  concept: ANNEX
+  concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+  attestation:
+    text_title: 史記
+    line_uuid: 2eb22383-9272-47f4-858d-988d2c23a300
+    line_id: KR2a0001_tls_006-323a.8
+    textline: 并吞八荒之心
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

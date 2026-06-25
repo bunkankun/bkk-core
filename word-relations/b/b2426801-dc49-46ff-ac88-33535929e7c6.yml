@@ -1,0 +1,32 @@
+uuid: b2426801-dc49-46ff-ac88-33535929e7c6
+type: word-relation
+group_uuid: b2426801-dc49-46ff-ac88-33535929e7c6
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9bc82e2d-a151-4cb5-b850-a86c1089f500
+  text: 紀
+  concept: RULE
+  concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e04ea333-e4f9-48d4-9d97-733be362ba6e
+    line_id: KR3j0009_tls_019-21a.16
+    textline: 用民有紀有綱
+    offset: 4
+    range: 1
+right:
+  word_uuid: 784aab82-a5f4-4fd7-83d5-e028b177fc49
+  text: 綱
+  concept: RULE
+  concept_uuid: 8e9a16c9-fe98-42df-a8e1-a6aec791f760
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e04ea333-e4f9-48d4-9d97-733be362ba6e
+    line_id: KR3j0009_tls_019-21a.16
+    textline: 用民有紀有綱
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

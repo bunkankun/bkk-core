@@ -1,0 +1,32 @@
+uuid: 3dd95e46-c943-452a-83ab-15dfa350fb32
+type: word-relation
+group_uuid: 6b111520-9d74-499a-848e-9568c72572a4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 208fe1c0-e377-4388-930c-ffb8e6fa9362
+  text: 私
+  concept: SELFISH
+  concept_uuid: b529dff9-8086-477b-a944-b20d491f749e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9ea8c978-bdcc-4ca3-a24b-5508de002bd3
+    line_id: KR3c0005_tls_016-10a.7
+    textline: 行私道而不效公忠
+    offset: 2
+    range: 1
+right:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9ea8c978-bdcc-4ca3-a24b-5508de002bd3
+    line_id: KR3c0005_tls_016-10a.7
+    textline: 行私道而不效公忠
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

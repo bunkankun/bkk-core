@@ -1,0 +1,21 @@
+uuid: d8fbee5e-1124-4b3f-adec-c7d44c41e352
+type: word-relation
+group_uuid: c5231b0e-b0e5-5ce6-8f46-447968c14309
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: dd9c6b61-9fc2-42be-a5cb-d5d5d2a43186
+  text: 潔絜潔絜洁
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+right:
+  word_uuid: 9311bfc5-f1af-4849-9096-4885889fcd3b
+  text: 墨
+  concept: DARK
+  concept_uuid: be9faf1d-9f70-4d06-9e4a-2764f0d2d4ab
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

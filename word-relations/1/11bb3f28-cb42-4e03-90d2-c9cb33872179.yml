@@ -1,0 +1,35 @@
+uuid: 11bb3f28-cb42-4e03-90d2-c9cb33872179
+type: word-relation
+group_uuid: 11bb3f28-cb42-4e03-90d2-c9cb33872179
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 61c1c50e-cfd4-4eff-8ee2-4dbdff0ebd61
+  text: 患
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 93e8dda3-95ab-415e-aae1-c350259a7a64
+    line_id: KR3c0005_tls_042-5a.11
+    textline: 患禍不可斥也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 93e8dda3-95ab-415e-aae1-c350259a7a64
+    line_id: KR3c0005_tls_042-5a.11
+    textline: 患禍不可斥也
+    offset: 2
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: ba168307-d732-4b29-afe2-8fd11abf08ca
+type: word-relation
+group_uuid: 668789e8-7123-5ef8-a71f-3f530a490721
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: c192b20d-3176-4308-b452-0a4be22ecf03
+  text: 雌
+  concept: FEMALE
+  concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+right:
+  word_uuid: b3af54eb-14ef-44ca-a296-7ecc17f3435f
+  text: 牡
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

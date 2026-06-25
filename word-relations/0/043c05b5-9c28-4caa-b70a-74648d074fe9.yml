@@ -1,0 +1,32 @@
+uuid: 043c05b5-9c28-4caa-b70a-74648d074fe9
+type: word-relation
+group_uuid: 043c05b5-9c28-4caa-b70a-74648d074fe9
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e0685339-63c0-4688-80ee-55651b4d5bd0
+  text: 肆
+  concept: UNRESTRAINED
+  concept_uuid: c4f93107-fffa-48b8-b468-e12e83bac180
+  attestation:
+    text_title: 法言
+    line_uuid: 22df558a-6b3c-4f76-9687-cdf9b10fa8ba
+    line_id: KR3a0009_tls_008-19a.8
+    textline: 周之士也肆
+    offset: 5
+    range: 1
+right:
+  word_uuid: 25c3da72-2c0d-4a3b-b57a-c27c453edd68
+  text: 拘
+  concept: RESTRAIN
+  concept_uuid: 73c62092-97fb-4ac4-a59f-a871a7bee485
+  attestation:
+    text_title: 法言
+    line_uuid: a789373c-cc14-4cec-9fb8-52c32ae8a2ed
+    line_id: KR3a0009_tls_008-19a.9
+    textline: 秦之士也拘
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: a9159aee-67fa-4d9c-91a0-157332cc790f
+type: word-relation
+group_uuid: a9159aee-67fa-4d9c-91a0-157332cc790f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f979bd6d-cf04-40fc-92ac-26a8c17bbe42
+  text: 糞
+  concept: MANURE
+  concept_uuid: 4062d68e-aecc-4ee8-be1d-111426f08c8a
+  attestation:
+    text_title: 論語
+    line_uuid: f3485225-9b80-4534-8b52-c2172fe55d0f
+    line_id: KR1h0004_tls_005-12a.5
+    textline: 糞土之牆不可杇也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 40d6701e-748d-419b-8f08-59c0e6fd4871
+  text: 土
+  concept: SOIL
+  concept_uuid: 3dd3d754-af50-4538-ba7c-f879ac0240d0
+  attestation:
+    text_title: 論語
+    line_uuid: f3485225-9b80-4534-8b52-c2172fe55d0f
+    line_id: KR1h0004_tls_005-12a.5
+    textline: 糞土之牆不可杇也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

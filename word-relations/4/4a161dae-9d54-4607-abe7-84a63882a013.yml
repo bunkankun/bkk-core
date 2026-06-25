@@ -1,0 +1,32 @@
+uuid: 4a161dae-9d54-4607-abe7-84a63882a013
+type: word-relation
+group_uuid: b6be876f-1832-4554-9a01-6823e553c2ce
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: bacd037d-6d6b-4992-9fff-bf9f8ccd1a53
+  text: 識
+  concept: KNOW
+  concept_uuid: 297bd4cc-f53e-42a5-b51f-5150aa0f4795
+  attestation:
+    text_title: 韓非子
+    line_uuid: 31991a3c-1ae9-4429-9a23-2b79f2497875
+    line_id: KR3c0005_tls_038-1a.10
+    textline: 是細人之所識也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 7ad60f4a-885d-4319-a573-b553b40a7912
+  text: 知
+  concept: UNDERSTAND
+  concept_uuid: 1a85cf98-1f53-4d3f-8f63-7e3acd73bcbe
+  attestation:
+    text_title: 韓非子
+    line_uuid: c157039f-b706-443d-bf62-7b2c30133b63
+    line_id: KR3c0005_tls_038-1a.11
+    textline: 臣不知也”
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

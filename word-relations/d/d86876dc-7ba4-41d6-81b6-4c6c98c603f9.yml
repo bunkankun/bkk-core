@@ -1,0 +1,32 @@
+uuid: d86876dc-7ba4-41d6-81b6-4c6c98c603f9
+type: word-relation
+group_uuid: d86876dc-7ba4-41d6-81b6-4c6c98c603f9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 547f6e92-68b0-4e6a-be39-d4b2d554d33f
+  text: 逆
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 韓非子
+    line_uuid: e462bbf8-6272-4302-aa7b-c99293440d02
+    line_id: KR3c0005_tls_006-23a.6
+    textline: 詐說逆法
+    offset: 3
+    range: 1
+right:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: e462bbf8-6272-4302-aa7b-c99293440d02
+    line_id: KR3c0005_tls_006-23a.6
+    textline: 詐說逆法
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

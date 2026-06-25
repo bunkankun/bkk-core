@@ -1,0 +1,32 @@
+uuid: d2e4a076-5ff4-4bbe-ada6-b0a252653ad0
+type: word-relation
+group_uuid: d2e4a076-5ff4-4bbe-ada6-b0a252653ad0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6e517ac8-ef8e-4b75-92bb-7eba9afef8f2
+  text: 芬
+  concept: FRAGRANT
+  concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f674e6c0-ac6f-40d4-b060-7d21cecf20f0
+    line_id: KR3j0009_tls_005-18a.8
+    textline: 鼻之情欲芬香
+    offset: 5
+    range: 1
+right:
+  word_uuid: e6531707-27d4-4287-9596-1851f38f81d6
+  text: 香
+  concept: FRAGRANT
+  concept_uuid: b530e69b-a55e-405a-bcc4-fd5cabd7416b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: f674e6c0-ac6f-40d4-b060-7d21cecf20f0
+    line_id: KR3j0009_tls_005-18a.8
+    textline: 鼻之情欲芬香
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

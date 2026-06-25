@@ -1,0 +1,32 @@
+uuid: 9924bab3-2e45-4fcc-a1f4-f3fc48dbf4a3
+type: word-relation
+group_uuid: 9924bab3-2e45-4fcc-a1f4-f3fc48dbf4a3
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 6a6a5b4a-a9ec-4b50-9e80-15440bcdff29
+  text: 兩
+  concept: BOTH
+  concept_uuid: c5eafb9d-92b0-463e-97d0-e70b6df4c821
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 3107ce58-20fb-483f-9632-f6fc30929f76
+    line_id: KR6q0002_Yan_003-1137a.45
+    textline: 佛道兩亡
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3a652ebe-e062-48b1-958e-d6a12b7951b7
+  text: 雙
+  concept: BOTH
+  concept_uuid: c5eafb9d-92b0-463e-97d0-e70b6df4c821
+  attestation:
+    text_title: 祖堂集
+    line_uuid: dedd4223-9819-4799-be32-7a2feca702e9
+    line_id: KR6q0002_Yan_003-1137a.44
+    textline: 真妄雙泯
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

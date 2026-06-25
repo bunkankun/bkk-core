@@ -1,0 +1,30 @@
+uuid: cb6ab91f-7142-463c-b0c8-31456e4fc46d
+type: word-relation
+group_uuid: cb6ab91f-7142-463c-b0c8-31456e4fc46d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 4cf493d2-3825-48c7-a99c-e0018cae205e
+  text: 飢
+  concept: HUNGRY
+  concept_uuid: 7bee5662-2a76-4e8e-a56a-0f8b2f193f07
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: 262b9a5b-6d8e-4ce3-81d2-0eeac76e1750
+    textline: 飢者不必待廒倉而飽
+    offset: 1
+    range: 1
+right:
+  word_uuid: e3411a8d-6d3f-4e7a-83e3-f81e6bff67cf
+  text: 渴
+  concept: THIRSTY
+  concept_uuid: 8156924d-7de3-4b08-acbe-07d45dff53ac
+  attestation:
+    text_title: 牟子：理惑論
+    line_uuid: 8b87a633-02e6-4411-a8bf-e4fbe2d2e77e
+    textline: 渴者不必須江海飲
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

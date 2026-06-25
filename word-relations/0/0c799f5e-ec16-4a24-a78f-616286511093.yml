@@ -1,0 +1,21 @@
+uuid: 0c799f5e-ec16-4a24-a78f-616286511093
+type: word-relation
+group_uuid: fe691a05-d4c6-58b5-b63f-60f01a2e8c22
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 56ffe06e-8270-4f43-86f2-920d6408b5ec
+  text: 貶
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+right:
+  word_uuid: 2301dc12-17c8-451b-aaaf-9ef0f2ead331
+  text: 譏
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

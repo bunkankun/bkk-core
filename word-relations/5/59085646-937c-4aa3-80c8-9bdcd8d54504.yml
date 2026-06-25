@@ -1,0 +1,32 @@
+uuid: 59085646-937c-4aa3-80c8-9bdcd8d54504
+type: word-relation
+group_uuid: 9b8d3fad-bf68-4bbc-bd0d-fb529a873494
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 797dd064-545d-46b1-b607-0c5e58fa332a
+  text: 慕
+  concept: LOVE
+  concept_uuid: 298d9710-caa5-43f5-a9f7-85ca84e7815c
+  attestation:
+    text_title: 白虎通
+    line_uuid: 0fe34bca-99ad-4c90-9db7-503b8da258db
+    line_id: KR3j0023_tls_042-1394a.2
+    textline: 思慕盡情也
+    offset: 2
+    range: 1
+right:
+  word_uuid: fba4ee6d-63a5-4be7-a87a-482921e31ea6
+  text: 思
+  concept: YEARN
+  concept_uuid: e60975b7-4311-45d7-9c00-d4cd48a398a0
+  attestation:
+    text_title: 白虎通
+    line_uuid: 0fe34bca-99ad-4c90-9db7-503b8da258db
+    line_id: KR3j0023_tls_042-1394a.2
+    textline: 思慕盡情也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

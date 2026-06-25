@@ -1,0 +1,21 @@
+uuid: c9fd2d86-4490-4e6a-8f22-6e0792aee802
+type: word-relation
+group_uuid: 0884d201-62c4-5b69-b012-341e18eb0a14
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 9964ce2d-af21-43f9-9f5d-033aa362bbdd
+  text: 就
+  concept: GO TO
+  concept_uuid: 6b4e349a-a643-4404-97da-0687e3043fe3
+right:
+  word_uuid: cf4a039d-c70d-4717-ac87-1b79c3620ffc
+  text: 至
+  concept: ARRIVE
+  concept_uuid: cc6b65e3-aca1-4d5d-922c-27dd4881ebb4
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

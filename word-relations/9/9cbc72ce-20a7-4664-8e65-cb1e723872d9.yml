@@ -1,0 +1,32 @@
+uuid: 9cbc72ce-20a7-4664-8e65-cb1e723872d9
+type: word-relation
+group_uuid: 6aa22fd6-4c70-4520-8583-438c092b75bb
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 文中子:中說
+    line_uuid: b4a5f2f4-4685-47f3-bd5c-dccd0697d42d
+    line_id: KR3a0014_tls_003-54a.10
+    textline: 我則不恥也”
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3df529a4-56f0-4b75-ab91-6597150f851f
+  text: 今人
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 文中子:中說
+    line_uuid: 6bda0ecf-df5f-41d7-b2a9-062094503bb8
+    line_id: KR3a0014_tls_003-54a.9
+    textline: 今人以為恥
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

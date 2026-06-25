@@ -1,0 +1,32 @@
+uuid: 580aa5ea-b586-48a8-b70e-1f6fe8665aaf
+type: word-relation
+group_uuid: 580aa5ea-b586-48a8-b70e-1f6fe8665aaf
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 33baaa6c-8f9d-4cb3-8e08-c1e6298def70
+  text: 鉶
+  concept: PLATE
+  concept_uuid: 80c57d2f-e1af-4db3-9bf4-a6a8bf57b5e5
+  attestation:
+    text_title: 韓非子
+    line_uuid: a618c3ed-e94a-46c4-b520-fc63681e3a31
+    line_id: KR3c0005_tls_010-87a.5
+    textline: 飲於土鉶
+    offset: 4
+    range: 1
+right:
+  word_uuid: 59185bee-a4b2-4422-97d1-0b114acaeb5f
+  text: 土
+  concept: EARTHENWARE
+  concept_uuid: 07f162ec-bb01-4fe1-846b-ad21059b44ed
+  attestation:
+    text_title: 韓非子
+    line_uuid: a618c3ed-e94a-46c4-b520-fc63681e3a31
+    line_id: KR3c0005_tls_010-87a.5
+    textline: 飲於土鉶
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: e44510f5-bb0a-47fd-a00b-c4c916c70e08
+type: word-relation
+group_uuid: 16694d07-a76b-4609-b942-914bdc9d0aa2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: cb4d51e7-e681-48fc-9118-e80545be4c34
+  text: 赦
+  concept: PARDON
+  concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+  attestation:
+    text_title: 韓非子
+    line_uuid: 084764d4-1419-40a7-92dc-cd41ce2e88e4
+    line_id: KR3c0005_tls_019-27a.6
+    textline: 則必將赦罪以相愛
+    offset: 4
+    range: 1
+right:
+  word_uuid: 00a29dac-f836-4e64-a13a-6c3a15ef547c
+  text: 罪
+  concept: CRIME
+  concept_uuid: c5ff4bc7-d691-4101-a732-86b0ebb9ac9a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 084764d4-1419-40a7-92dc-cd41ce2e88e4
+    line_id: KR3c0005_tls_019-27a.6
+    textline: 則必將赦罪以相愛
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

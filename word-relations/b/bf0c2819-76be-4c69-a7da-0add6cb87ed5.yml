@@ -1,0 +1,32 @@
+uuid: bf0c2819-76be-4c69-a7da-0add6cb87ed5
+type: word-relation
+group_uuid: bf0c2819-76be-4c69-a7da-0add6cb87ed5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c167a295-ca5b-4737-bf5d-6ce9a945255c
+  text: 才
+  concept: TALENT
+  concept_uuid: 563cc3c0-15db-4662-af96-106605854bd3
+  attestation:
+    text_title: 論語
+    line_uuid: 7c8fae5c-5268-4c2a-a8b0-70c79e2ee3f5
+    line_id: KR1h0004_tls_008-11a.3
+    textline: 「如有周公之才之美
+    offset: 7
+    range: 1
+right:
+  word_uuid: 20e5b7a0-90d8-45e3-9862-84ba0d3c2c21
+  text: 美
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 論語
+    line_uuid: 7c8fae5c-5268-4c2a-a8b0-70c79e2ee3f5
+    line_id: KR1h0004_tls_008-11a.3
+    textline: 「如有周公之才之美
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

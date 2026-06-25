@@ -1,0 +1,18 @@
+uuid: b93971c5-630f-450a-a00e-921bc8d1080c
+type: word-relation
+group_uuid: b7740ac7-3d1a-58b7-8c58-2e2e14595ead
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+right:
+  word_uuid: 2e56aafa-54c1-44b8-8628-059a5cde43cd
+  text: 筋骨
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+source:
+  source_file: word-relations.xml

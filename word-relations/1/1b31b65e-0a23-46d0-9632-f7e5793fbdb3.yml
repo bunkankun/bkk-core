@@ -1,0 +1,32 @@
+uuid: 1b31b65e-0a23-46d0-9632-f7e5793fbdb3
+type: word-relation
+group_uuid: 1b31b65e-0a23-46d0-9632-f7e5793fbdb3
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a95eb0df-0038-45eb-ae08-d11a1b7f7bc4
+  text: 彰
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+  attestation:
+    text_title: 韓非子
+    line_uuid: c03b8128-563e-4ee5-9f2c-99e67e8f77cc
+    line_id: KR3c0005_tls_009-16a.5
+    textline: 以彰其威
+    offset: 2
+    range: 1
+right:
+  word_uuid: 7cdc1400-aee1-4929-b6c8-bb697d42afc6
+  text: 威
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: c03b8128-563e-4ee5-9f2c-99e67e8f77cc
+    line_id: KR3c0005_tls_009-16a.5
+    textline: 以彰其威
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

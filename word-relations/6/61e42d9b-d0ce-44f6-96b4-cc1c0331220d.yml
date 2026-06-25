@@ -1,0 +1,33 @@
+uuid: 61e42d9b-d0ce-44f6-96b4-cc1c0331220d
+type: word-relation
+group_uuid: 61e42d9b-d0ce-44f6-96b4-cc1c0331220d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f4388c3d-6d75-4b01-90b0-0f344ddcd836
+  text: 淡
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 老子
+    line_uuid: f9d59c45-1ebc-4059-935e-ac81ab053315
+    textline: 恬淡為上
+    offset: 2
+    range: 1
+right:
+  word_uuid: 71212d48-f468-4ba7-a9d5-48d11840f774
+  text: 恬
+  concept: PEACEFUL
+  concept_uuid: e5801a73-4e38-4280-97cd-12d91ada17c6
+  attestation:
+    text_title: 老子
+    line_uuid: f9d59c45-1ebc-4059-935e-ac81ab053315
+    textline: 恬淡為上
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

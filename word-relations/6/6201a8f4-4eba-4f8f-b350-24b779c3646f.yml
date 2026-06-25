@@ -1,0 +1,35 @@
+uuid: 6201a8f4-4eba-4f8f-b350-24b779c3646f
+type: word-relation
+group_uuid: a5d01d99-4725-46cb-a59f-6d74f35fb37b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 700a2774-f601-4540-9511-c7b960012109
+  text: 福
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e6ce39f-d4b9-4354-bec2-3e827109c9e4
+    line_id: KR3c0005_tls_016-11a.4
+    textline: 險言禍福得失之形
+    offset: 4
+    range: 1
+right:
+  word_uuid: 27b3ea10-43ac-4583-9d77-f105452669e1
+  text: 禍
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1e6ce39f-d4b9-4354-bec2-3e827109c9e4
+    line_id: KR3c0005_tls_016-11a.4
+    textline: 險言禍福得失之形
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

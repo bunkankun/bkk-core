@@ -1,0 +1,30 @@
+uuid: e63961b7-afec-4df3-8baf-e5f9bf865385
+type: word-relation
+group_uuid: e63961b7-afec-4df3-8baf-e5f9bf865385
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: afa2998f-b866-40bd-b0e6-ba16d63bda6a
+  text: 戮
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7cf9e746-4719-43a2-9122-33086b4a8312
+    textline: 然則雖賢聖不能逃死亡避戮辱者何也
+    offset: 12
+    range: 1
+right:
+  word_uuid: 49f734c6-8972-48e8-9fce-a482c02a85cc
+  text: 辱
+  concept: DISGRACE
+  concept_uuid: a41db1ff-370e-44b7-a0a8-c9aec19eb577
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7cf9e746-4719-43a2-9122-33086b4a8312
+    textline: 然則雖賢聖不能逃死亡避戮辱者何也
+    offset: 13
+    range: 1
+source:
+  source_file: word-relations.xml

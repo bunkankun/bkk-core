@@ -1,0 +1,32 @@
+uuid: d8748589-5671-4c9b-8367-c40e282b5c3a
+type: word-relation
+group_uuid: d8748589-5671-4c9b-8367-c40e282b5c3a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 4e34a85c-44c2-4434-ab96-b1cf41dccf87
+  text: 改
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 莊子
+    line_uuid: 40d6d309-3cd4-4bf6-a09d-79fae5ac3407
+    line_id: KR5c0126_tls_005-5a.29
+    textline: 改容更貌曰
+    offset: 1
+    range: 1
+right:
+  word_uuid: b6783827-8fd8-4ff1-b107-3279e8a693f0
+  text: 更
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 莊子
+    line_uuid: 40d6d309-3cd4-4bf6-a09d-79fae5ac3407
+    line_id: KR5c0126_tls_005-5a.29
+    textline: 改容更貌曰
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

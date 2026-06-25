@@ -1,0 +1,32 @@
+uuid: 33057b36-3562-4ef8-857b-363562cef883
+type: word-relation
+group_uuid: ffeb28b1-5d97-58dd-a906-3aff63369150
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  text: 禮
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-5a.5
+    textline: 周室廢，禮義壞
+    offset: 5
+    range: 1
+right:
+  word_uuid: aaa2807b-e572-4f35-b077-3447963a7c17
+  text: 義
+  concept: RECTITUDE
+  concept_uuid: 3216da4e-3898-43b0-bf62-1e9ac706ea5b
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-5a.5
+    textline: 周室廢，禮義壞
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-21T00:09:58.112+09:00'

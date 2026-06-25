@@ -1,0 +1,18 @@
+uuid: ac77fd13-258c-484a-846a-929adeb93c93
+type: word-relation
+group_uuid: a14a259e-67c5-52cb-a292-9604e7d2c6db
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: f1becac1-c86a-4f6d-9b19-17c85ef4cb61
+  text: 盛
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+right:
+  word_uuid: 2618fe62-eab8-4ed2-8ca6-4e7f454d1e46
+  text: 茂
+  concept: FLOURISH
+  concept_uuid: f33da289-fabe-4816-bdee-d93bf0d376d1
+source:
+  source_file: word-relations.xml

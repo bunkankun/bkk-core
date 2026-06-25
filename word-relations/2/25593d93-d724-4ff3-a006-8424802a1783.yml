@@ -1,0 +1,32 @@
+uuid: 25593d93-d724-4ff3-a006-8424802a1783
+type: word-relation
+group_uuid: 4ff19c52-96fe-41a6-a751-cc93fa1290fa
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0c85777a-f0f2-4bcf-bc86-c53401ceaffd
+  text: 易
+  concept: EASY
+  concept_uuid: 8dc674e1-08bb-4e4b-9421-7df5b7bbf66e
+  attestation:
+    text_title: 老子
+    line_uuid: 90249b4f-712b-4482-b13e-dbfe16b9cea2
+    line_id: KR5c0057_tls_063-1a.11
+    textline: 必作於易
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1db62518-f462-4ae9-895c-98e2b6d06225
+  text: 難
+  concept: DIFFICULT
+  concept_uuid: d395a3e9-4398-4dab-86ce-1668c8081d8f
+  attestation:
+    text_title: 老子
+    line_uuid: a3e11131-ab51-4f00-9eab-ed30469e1e77
+    line_id: KR5c0057_tls_063-1a.10
+    textline: 天下難事
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

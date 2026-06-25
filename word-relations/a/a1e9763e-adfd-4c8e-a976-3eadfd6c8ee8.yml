@@ -1,0 +1,32 @@
+uuid: a1e9763e-adfd-4c8e-a976-3eadfd6c8ee8
+type: word-relation
+group_uuid: f519d934-b802-5ad1-85d3-0ba44cf40d04
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ea2c0053-db43-491a-ac00-53db43091aa3
+  text: 皇天
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_008-34a.9
+    textline: 皇天后土
+    offset: 1
+    range: 2
+right:
+  word_uuid: 79cb973e-aacf-4810-8b97-3eaacf881083
+  text: 后土
+  concept: GOD
+  concept_uuid: d2173e07-9946-432f-913e-27cffbf34fc8
+  attestation:
+    text_title: 國語
+    line_id: KR2e0001_tls_008-34a.9
+    textline: 皇天后土
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-30T03:24:43.543+09:00'

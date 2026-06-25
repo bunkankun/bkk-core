@@ -1,0 +1,21 @@
+uuid: 5d1bfbb1-e82b-4de0-bc1b-f12360b25a52
+type: word-relation
+group_uuid: 408f588e-c47e-51a2-b44f-4285b6e47fe4
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3d4ba55e-ab6a-49f5-bfa3-c073f0ca45b4
+  text: 長
+  concept: SENIOR
+  concept_uuid: a61fc5b5-95b3-4cd7-8f5f-3da19cf6429a
+right:
+  word_uuid: ba80bf49-98cd-416e-ba00-6aea41be6937
+  text: 少
+  concept: YOUNG
+  concept_uuid: 9018c625-ec0a-475a-97cb-3f4c42e57f96
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

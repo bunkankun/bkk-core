@@ -1,0 +1,32 @@
+uuid: 1be42a10-d29a-4cbb-8aae-1a483d23cba4
+type: word-relation
+group_uuid: 1be42a10-d29a-4cbb-8aae-1a483d23cba4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: ffc7f90d-922b-445a-b934-973ac09ffa67
+  text: 信
+  concept: BELIEVE
+  concept_uuid: 18d48e82-a2fa-4945-8258-1cf886fc50c3
+  attestation:
+    text_title: 論衡
+    line_uuid: e8e55cf9-4327-4ee6-9433-e1692d398c47
+    line_id: KR3j0080_tls_015-2a.17
+    textline: 故人信其說
+    offset: 3
+    range: 1
+right:
+  word_uuid: dfa8e347-e897-4929-9dd9-1ff31f3127f0
+  text: 然
+  concept: ASSENT
+  concept_uuid: b4f91d33-15db-4b95-b0d8-5d582cee3f1a
+  attestation:
+    text_title: 論衡
+    line_uuid: e067c551-f1bd-48b5-a60b-e589f61a3c1c
+    line_id: KR3j0080_tls_015-2a.19
+    textline: 故人然其文
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

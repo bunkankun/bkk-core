@@ -1,0 +1,32 @@
+uuid: 5e9488f0-e80a-4e68-9488-f0e80a1e68f4
+type: word-relation
+group_uuid: ae045254-8094-54ff-a308-18d4b5306b2f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 96845ebb-8521-4cdc-9b35-f3972d293097
+  text: 地
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 靈樞經
+    line_id: CH1d0952_CHANT_012-2a.13
+    textline: 地之廣也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 5f1b8c0a-331c-4bf5-ad94-2e4d2c067b8d
+  text: 廣
+  concept: BROAD
+  concept_uuid: a4182723-2f8d-4d30-954a-144b538de6bd
+  attestation:
+    text_title: 靈樞經
+    line_id: CH1d0952_CHANT_012-2a.13
+    textline: 地之廣也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-09T22:54:56.125+09:00'

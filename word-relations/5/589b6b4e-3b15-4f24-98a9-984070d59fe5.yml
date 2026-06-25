@@ -1,0 +1,30 @@
+uuid: 589b6b4e-3b15-4f24-98a9-984070d59fe5
+type: word-relation
+group_uuid: 589b6b4e-3b15-4f24-98a9-984070d59fe5
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 64806866-a2f2-4d3e-93ba-4fe98be68ad2
+  text: 善
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e3834b74-0ef3-4dea-807b-7b492a38601f
+    textline: 救乏賀善弔災
+    offset: 5
+    range: 1
+right:
+  word_uuid: 5389c058-de93-4a0b-b5b0-83f3b0797199
+  text: 災
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: e3834b74-0ef3-4dea-807b-7b492a38601f
+    textline: 救乏賀善弔災
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

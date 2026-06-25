@@ -1,0 +1,32 @@
+uuid: 79b5abdc-3660-4ad1-be18-ae7d1eb90ebb
+type: word-relation
+group_uuid: 79b5abdc-3660-4ad1-be18-ae7d1eb90ebb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1305d08a-efa6-4551-b42e-3a6a95044145
+  text: 貢
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 985ea9b6-9bbe-4bef-91c5-e8768ca5c694
+    line_id: KR3a0006_tls_003-14a.5
+    textline: 四方各以土地所生貢獻
+    offset: 9
+    range: 1
+right:
+  word_uuid: e932b785-c253-49c3-b80f-d2399d7beb71
+  text: 獻
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 985ea9b6-9bbe-4bef-91c5-e8768ca5c694
+    line_id: KR3a0006_tls_003-14a.5
+    textline: 四方各以土地所生貢獻
+    offset: 10
+    range: 1
+source:
+  source_file: word-relations.xml

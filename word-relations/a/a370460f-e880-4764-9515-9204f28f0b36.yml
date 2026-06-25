@@ -1,0 +1,32 @@
+uuid: a370460f-e880-4764-9515-9204f28f0b36
+type: word-relation
+group_uuid: a370460f-e880-4764-9515-9204f28f0b36
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 631ff222-ac9a-4107-a3ef-bdfa1b59d2b4
+  text: 恭
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 論語
+    line_uuid: 36cf8a96-be41-4276-9043-3497ded573b5
+    line_id: KR1h0004_tls_007-45a.4
+    textline: 恭而安
+    offset: 1
+    range: 1
+right:
+  word_uuid: b8744ba9-96e8-4ac1-9f33-23cb28fe8850
+  text: 安
+  concept: COMFORTABLE
+  concept_uuid: e214726b-3350-439c-891a-9f5fe7fc35e1
+  attestation:
+    text_title: 論語
+    line_uuid: 36cf8a96-be41-4276-9043-3497ded573b5
+    line_id: KR1h0004_tls_007-45a.4
+    textline: 恭而安
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

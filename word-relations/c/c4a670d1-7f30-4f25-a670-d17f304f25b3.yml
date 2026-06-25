@@ -1,0 +1,32 @@
+uuid: c4a670d1-7f30-4f25-a670-d17f304f25b3
+type: word-relation
+group_uuid: 463bd676-e82d-5588-9019-acf0189aefbe
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 238d1af4-f9a3-4c90-a8fe-45ea41352f5a
+  text: 法制
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_043-58a.16
+    textline: 省法制
+    offset: 2
+    range: 2
+right:
+  word_uuid: 26f8747e-c133-4f2c-bafc-cd34a39d415d
+  text: 刑罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 漢書
+    line_id: KR2a0007_tls_043-58a.17
+    textline: 寬刑罰
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-11T00:12:03.401+09:00'

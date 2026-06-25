@@ -1,0 +1,32 @@
+uuid: 483d4d74-6e5b-4d99-ba41-56bff5867064
+type: word-relation
+group_uuid: 26472d75-2552-4d17-ba73-ed0b5942814f
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: bf1e282b-bc1c-46ab-b4e6-991beb682b93
+  text: 雨
+  concept: RAIN
+  concept_uuid: 75581bc4-54ed-40db-afac-153e22d9226c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 33086264-87cf-483e-9f65-ce693d3b02a9
+    line_id: KR3j0009_tls_003-5a.3
+    textline: 「時雨將降
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4ffd0b80-8021-462c-bdcf-fe1b554a8aa9
+  text: 時
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 33086264-87cf-483e-9f65-ce693d3b02a9
+    line_id: KR3j0009_tls_003-5a.3
+    textline: 「時雨將降
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

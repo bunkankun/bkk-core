@@ -1,0 +1,32 @@
+uuid: e9d364f1-fdd0-4bbc-b1ae-bc89a4115276
+type: word-relation
+group_uuid: 17d92e26-4cdd-469a-b540-55e330dc0070
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 25694bc2-5d10-43dd-8bab-8a3058c0a53b
+  text: 潔
+  concept: GOOD
+  concept_uuid: 04ab421a-05e3-4379-8782-3b7022ec584b
+  attestation:
+    text_title: 論衡
+    line_uuid: c9fb5248-9646-498d-996b-aed264887dd3
+    line_id: KR3j0080_tls_001-1a.13
+    textline: 或高才潔行
+    offset: 4
+    range: 1
+right:
+  word_uuid: 2c784faa-2f45-4393-a118-a48090d44b36
+  text: 濁
+  concept: DIRTY
+  concept_uuid: 72782a78-78a0-40c5-adbc-e7a918a073a6
+  attestation:
+    text_title: 論衡
+    line_uuid: b9f96f8b-e8b2-4275-a304-e8c152b0076d
+    line_id: KR3j0080_tls_001-1a.16
+    textline: 薄能濁操
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

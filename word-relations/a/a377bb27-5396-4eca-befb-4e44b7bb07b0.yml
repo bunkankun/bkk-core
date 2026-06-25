@@ -1,0 +1,32 @@
+uuid: a377bb27-5396-4eca-befb-4e44b7bb07b0
+type: word-relation
+group_uuid: a377bb27-5396-4eca-befb-4e44b7bb07b0
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: ab58561b-3aef-4542-aa9d-fd41e5cfa76e
+  text: 盜賊
+  concept: VILLAIN
+  concept_uuid: 6288915e-93df-4704-aef4-b3329fc8a127
+  attestation:
+    text_title: 管子
+    line_uuid: 8d7a4369-b5a4-4c59-b36d-9eb8a990b83b
+    line_id: KR3c0001_tls_015-119a.6
+    textline: 盜賊弗誅
+    offset: 1
+    range: 2
+right:
+  word_uuid: 18b4f85a-d680-458e-bb98-586cd6d75b45
+  text: 良民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 31f40231-45a7-48e1-9a54-741e8e4db241
+    line_id: KR3c0001_tls_015-119a.7
+    textline: 則傷良民
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

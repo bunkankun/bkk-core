@@ -1,0 +1,32 @@
+uuid: 8e063c13-dfc6-4799-a23a-4c520dc12246
+type: word-relation
+group_uuid: c571a255-6015-428f-bc29-272dca972487
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 列子
+    line_uuid: 4b5a8180-4889-4b95-bcd3-0e6e3e1e2e8e
+    line_id: KR5c0124_tls_004-9a.20
+    textline: 楊朱望其門而歌
+    offset: 7
+    range: 1
+right:
+  word_uuid: 4f1979ae-12cd-4fd9-af29-59b50224a7c3
+  text: 哭
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 列子
+    line_uuid: 936b2a84-c6c9-4752-a690-7c89914c1e46
+    line_id: KR5c0124_tls_004-9a.22
+    textline: 楊朱撫其尸而哭
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 716c8e03-8cdd-41b5-b58e-15bde725d9b8
+type: word-relation
+group_uuid: 4a3a454a-547a-4bd8-a3c7-4bc8561c795d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: bb3c5341-c83e-4664-ab21-3f5fd8b53aea
+  text: 實
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 老子
+    line_uuid: 9f4a718d-82df-4f05-9bc0-fb9e52136564
+    line_id: KR5c0057_tls_038-1a.29
+    textline: 處其實
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6caea74a-8df7-417e-ac2e-6f6efba0e99c
+  text: 華
+  concept: BEAUTIFUL
+  concept_uuid: 2bce4874-cfcd-4fdd-a8be-b28c739a5824
+  attestation:
+    text_title: 老子
+    line_uuid: e8766e1b-92bb-4232-8b34-64687e22b691
+    line_id: KR5c0057_tls_038-1a.30
+    textline: 不居其華
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 53ae2e2f-2d10-48a9-9744-08676c882454
+type: word-relation
+group_uuid: 53ae2e2f-2d10-48a9-9744-08676c882454
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1c3a6f8e-896e-4745-90ab-a69d273d02bd
+  text: 愛
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+  attestation:
+    text_title: 老子
+    line_uuid: 920a3f61-4172-4f93-8982-ae25c6635f64
+    line_id: KR5c0057_tls_010-1a.10
+    textline: 愛民治國
+    offset: 1
+    range: 1
+right:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 老子
+    line_uuid: 920a3f61-4172-4f93-8982-ae25c6635f64
+    line_id: KR5c0057_tls_010-1a.10
+    textline: 愛民治國
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

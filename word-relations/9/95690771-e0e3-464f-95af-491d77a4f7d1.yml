@@ -1,0 +1,21 @@
+uuid: 95690771-e0e3-464f-95af-491d77a4f7d1
+type: word-relation
+group_uuid: 7343526d-1e2a-5ede-ad99-39c7ee1adc64
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 328096e6-4d25-4f7f-8304-c84d59ed154d
+  text: 乏
+  concept: LACK
+  concept_uuid: fee58381-6fd2-4dd0-a69b-413207f908ef
+right:
+  word_uuid: 06f78dfe-735e-4d83-9c6d-93d2e442d3e4
+  text: 匱
+  concept: POOR
+  concept_uuid: 06430532-9be0-424e-b5e0-9f05557d67af
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

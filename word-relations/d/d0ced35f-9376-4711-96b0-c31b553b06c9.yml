@@ -1,0 +1,32 @@
+uuid: d0ced35f-9376-4711-96b0-c31b553b06c9
+type: word-relation
+group_uuid: d0ced35f-9376-4711-96b0-c31b553b06c9
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d8dd60a5-3cf7-4eb7-96fe-f9c72340d878
+  text: 撫
+  concept: PLUCK STRINGS
+  concept_uuid: e4852e93-cd49-4c4d-80b4-0756d6abcb2a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9158d0ba-da8f-4048-9cd5-f4e99255d849
+    line_id: KR3c0005_tls_010-26a.4
+    textline: 因靜坐撫琴而寫之
+    offset: 4
+    range: 1
+right:
+  word_uuid: e2582819-d8da-43c4-a98b-45b96c63ead5
+  text: 琴
+  concept: STRING INSTRUMENTS
+  concept_uuid: 398777d4-410c-4d90-aeb1-06724d179f23
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9158d0ba-da8f-4048-9cd5-f4e99255d849
+    line_id: KR3c0005_tls_010-26a.4
+    textline: 因靜坐撫琴而寫之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

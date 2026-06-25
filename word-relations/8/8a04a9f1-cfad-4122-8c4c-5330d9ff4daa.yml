@@ -1,0 +1,32 @@
+uuid: 8a04a9f1-cfad-4122-8c4c-5330d9ff4daa
+type: word-relation
+group_uuid: 8a04a9f1-cfad-4122-8c4c-5330d9ff4daa
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6ebdb8cc-5b42-4267-8958-016aa6611937
+  text: 休
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 史記
+    line_uuid: 5f04006e-a241-4b49-98b5-0df264c07e03
+    line_id: KR2a0001_tls_084-27a.3
+    textline: 固無休息
+    offset: 3
+    range: 1
+right:
+  word_uuid: bb0705f9-1fc1-4db6-b158-177d489dad96
+  text: 息
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+  attestation:
+    text_title: 史記
+    line_uuid: 5f04006e-a241-4b49-98b5-0df264c07e03
+    line_id: KR2a0001_tls_084-27a.3
+    textline: 固無休息
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

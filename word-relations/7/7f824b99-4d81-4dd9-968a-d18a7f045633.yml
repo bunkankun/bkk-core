@@ -1,0 +1,35 @@
+uuid: 7f824b99-4d81-4dd9-968a-d18a7f045633
+type: word-relation
+group_uuid: 90f636a4-5ac8-489a-8e17-632b39f1c0bd
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 110f45f6-8901-4755-b978-040470385627
+  text: 宦
+  concept: EUNUCH
+  concept_uuid: 8e2698e7-f5b9-4557-b90a-76d8e6b19e74
+  attestation:
+    text_title: 論衡
+    line_uuid: 3ab8e169-386e-4ea0-abc7-05faf773a388
+    line_id: KR3j0080_tls_001-8a.65
+    textline: 仕宦有時
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8c7c13af-2460-4736-8987-bb2cc2f42d34
+  text: 仕
+  concept: OFFICIAL
+  concept_uuid: 16162a7a-d95c-41c6-ac81-ef4825c7368d
+  attestation:
+    text_title: 論衡
+    line_uuid: 3ab8e169-386e-4ea0-abc7-05faf773a388
+    line_id: KR3j0080_tls_001-8a.65
+    textline: 仕宦有時
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

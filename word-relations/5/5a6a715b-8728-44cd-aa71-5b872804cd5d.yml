@@ -1,0 +1,32 @@
+uuid: 5a6a715b-8728-44cd-aa71-5b872804cd5d
+type: word-relation
+group_uuid: 80ed9dc5-b22a-4f46-b078-5cdabbef1c2d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8006edf3-93d2-403a-9b2c-0b463fd87543
+  text: 私
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_001-5a.38
+    textline: 皇天無私阿兮
+    offset: 4
+    range: 1
+right:
+  word_uuid: 9e67a0fd-2a38-4b9c-a64d-bf15a0413d99
+  text: 阿
+  concept: FAVOURITE
+  concept_uuid: 8384ba47-01ec-46db-908e-2b598e544d14
+  attestation:
+    text_title: 楚辭
+    line_id: KR4a0001_tls_001-5a.38
+    textline: 皇天無私阿兮
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-29T22:36:29.811+09:00'

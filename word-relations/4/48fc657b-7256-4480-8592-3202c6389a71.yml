@@ -1,0 +1,30 @@
+uuid: 48fc657b-7256-4480-8592-3202c6389a71
+type: word-relation
+group_uuid: 48fc657b-7256-4480-8592-3202c6389a71
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7cf9e746-4719-43a2-9122-33086b4a8312
+    textline: 然則雖賢聖不能逃死亡避戮辱者何也
+    offset: 4
+    range: 1
+right:
+  word_uuid: 491f1042-0d99-4359-9b66-3f327719a855
+  text: 聖
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 韓非子
+    line_uuid: 7cf9e746-4719-43a2-9122-33086b4a8312
+    textline: 然則雖賢聖不能逃死亡避戮辱者何也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

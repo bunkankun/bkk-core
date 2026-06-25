@@ -1,0 +1,32 @@
+uuid: 0e92e2b9-61be-454b-9428-d6b343c7b924
+type: word-relation
+group_uuid: 0e92e2b9-61be-454b-9428-d6b343c7b924
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 6f4436b3-9a77-4ee4-9e5c-dc32107abbe2
+  text: 上
+  concept: HEAVEN
+  concept_uuid: 82a4e62d-aefc-4d38-94a8-5be0b6bc2dee
+  attestation:
+    text_title: 尚書
+    line_uuid: b9e9a43b-56e7-4a79-91b0-7ad4939e7472
+    line_id: KR1b0001_tls_026-2a.6
+    textline: 我祖厎遂陳于上
+    offset: 7
+    range: 1
+right:
+  word_uuid: 9937dea2-65c2-4c9c-94c6-3ae3e4f53956
+  text: 下
+  concept: EARTH
+  concept_uuid: 47283ec6-ca29-4467-aee5-2e59b3691981
+  attestation:
+    text_title: 尚書
+    line_uuid: fd1e4913-f989-47a5-8033-2118bc330eb9
+    line_id: KR1b0001_tls_026-2a.8
+    textline: 用亂敗厥德于下
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

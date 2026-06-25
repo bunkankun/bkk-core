@@ -1,0 +1,32 @@
+uuid: 38acf2af-165a-49a1-8769-a4eeb13c99b3
+type: word-relation
+group_uuid: e2d2bc13-ab63-4176-8018-201877654d30
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 632557a8-83ae-41d4-87e2-13ec1f8948be
+  text: 天
+  concept: NATURALLY
+  concept_uuid: c70c3cf3-d096-404b-8801-23ea419d1d9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 383310be-b239-42df-a5ae-1f7919784cd3
+    line_id: KR3c0005_tls_008-1a.3
+    textline: 天有大命
+    offset: 1
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 98f4feb2-7964-49ac-81ff-4b63b2f50a4a
+    line_id: KR3c0005_tls_008-1a.4
+    textline: 人有大命
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

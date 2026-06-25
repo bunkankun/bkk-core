@@ -1,0 +1,32 @@
+uuid: 1fcb852a-7789-4b35-b2ab-8a6b059368d7
+type: word-relation
+group_uuid: 1fcb852a-7789-4b35-b2ab-8a6b059368d7
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 14c572d4-cad4-4dc0-a8c2-5c296692a6b4
+  text: 情
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2d4a47b-c291-4de0-b25e-6ca184a581d9
+    line_id: KR3c0005_tls_011-4a.4
+    textline: 且燭重人之陰情
+    offset: 7
+    range: 1
+right:
+  word_uuid: ee792487-275a-4018-99b2-689bd008b888
+  text: 陰
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 韓非子
+    line_uuid: a2d4a47b-c291-4de0-b25e-6ca184a581d9
+    line_id: KR3c0005_tls_011-4a.4
+    textline: 且燭重人之陰情
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

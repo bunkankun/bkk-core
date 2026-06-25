@@ -1,0 +1,21 @@
+uuid: 8b7e32ad-4526-4051-a994-af93a6609152
+type: word-relation
+group_uuid: 68bb2bd8-bab6-55a2-8f81-70fdacd93b84
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 3aaaed2c-6897-4af1-8513-458a4dfaf7fc
+  text: 貸
+  concept: LEND OUT
+  concept_uuid: 53ff44cc-869d-42cc-9fbf-e31581bcfc31
+right:
+  word_uuid: 037c6058-9009-4931-8d09-e526bae6cbef
+  text: 收
+  concept: RECEIVE
+  concept_uuid: 178d0e00-bad0-4692-b215-571a38a096a8
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

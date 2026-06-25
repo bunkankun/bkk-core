@@ -1,0 +1,21 @@
+uuid: d4d0f7de-204f-4114-9969-94521fad3034
+type: word-relation
+group_uuid: f535c9bc-c21a-5cb2-9c66-e054145008dd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 45b076cc-acbe-45f3-8e5d-25b92b5e810c
+  text: 反
+  concept: OPPOSE
+  concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+right:
+  word_uuid: e980266b-4c88-4642-a6fe-d17315f4246c
+  text: 隨
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

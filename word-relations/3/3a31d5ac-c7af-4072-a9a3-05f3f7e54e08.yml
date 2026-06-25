@@ -1,0 +1,18 @@
+uuid: 3a31d5ac-c7af-4072-a9a3-05f3f7e54e08
+type: word-relation
+group_uuid: e4f54750-bcc7-5efe-9459-a24372506bc3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d8c80923-0520-4874-af6d-cadac117386e
+  text: 此
+  concept: NOW
+  concept_uuid: 9415a841-f38e-46d5-ac7e-d43b2b635447
+right:
+  word_uuid: 14a2c6e4-1937-4df5-8e5d-4c5b483c8754
+  text: 來
+  concept: FUTURE
+  concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+source:
+  source_file: word-relations.xml

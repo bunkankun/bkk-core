@@ -1,0 +1,32 @@
+uuid: 9bcdab37-561e-47ab-8dab-37561ea7aba1
+type: word-relation
+group_uuid: b53ce9c9-306b-5623-b84e-4adcdee0ad30
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 6572f0d8-9a20-475f-8643-563928f0b935
+  text: 失
+  concept: NEGLECT
+  concept_uuid: 6509b976-754b-48bc-84f8-8f4172b18a80
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_002-14a.35
+    textline: 臣不能失法
+    offset: 4
+    range: 1
+right:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 韓詩外傳
+    line_id: KR1c0066_tls_002-14a.35
+    textline: 臣不能失法
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T00:53:02.465+09:00'

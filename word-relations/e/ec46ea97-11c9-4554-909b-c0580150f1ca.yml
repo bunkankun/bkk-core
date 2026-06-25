@@ -1,0 +1,32 @@
+uuid: ec46ea97-11c9-4554-909b-c0580150f1ca
+type: word-relation
+group_uuid: ec46ea97-11c9-4554-909b-c0580150f1ca
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 1fe70274-ce84-4009-a705-67e76239fc4d
+  text: 量
+  concept: MEASURE
+  concept_uuid: 63622794-bba4-46f5-8a75-d29ffca7b9ad
+  attestation:
+    text_title: 韓非子
+    line_uuid: 67437dad-2ba8-4085-bb05-87ad6c253f0b
+    line_id: KR3c0005_tls_010-4a.2
+    textline: 九曰內不量力
+    offset: 6
+    range: 1
+right:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 67437dad-2ba8-4085-bb05-87ad6c253f0b
+    line_id: KR3c0005_tls_010-4a.2
+    textline: 九曰內不量力
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

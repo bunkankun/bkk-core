@@ -1,0 +1,18 @@
+uuid: 9099ebf3-081d-43dd-9d58-8fe8e62efcf1
+type: word-relation
+group_uuid: dd20850e-256d-5b98-b8b7-75625b6e28ea
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ad00b987-a275-455c-a141-f904511279d3
+  text: 市
+  concept: MARKET
+  concept_uuid: 79636050-c918-45fa-b583-0e766a50060e
+right:
+  word_uuid: a66cb443-4307-4f23-882d-509fea9e7bff
+  text: 井
+  concept: WELL
+  concept_uuid: c9d57235-3ad4-4d03-b0e6-a90777082a37
+source:
+  source_file: word-relations.xml

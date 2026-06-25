@@ -1,0 +1,18 @@
+uuid: 12e02a0b-247a-4ae5-935f-454609789fb9
+type: word-relation
+group_uuid: 8543ef38-c19d-529d-bb07-75fb451ced2c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: ddf03015-f596-4b98-bd0c-44a808a125e1
+  text: 室
+  concept: BUILDING
+  concept_uuid: e109fd21-43a6-45b6-b6f0-908360d08218
+right:
+  word_uuid: 95470881-aeed-41ab-8134-033235421f67
+  text: 宅
+  concept: DWELLING
+  concept_uuid: 56bf35ea-dd91-4992-b06d-79f679208295
+source:
+  source_file: word-relations.xml

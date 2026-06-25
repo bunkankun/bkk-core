@@ -1,0 +1,32 @@
+uuid: bc974567-560b-43a7-9ca0-88ceaa8b6616
+type: word-relation
+group_uuid: bc974567-560b-43a7-9ca0-88ceaa8b6616
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: b8de84a9-cc71-4e05-a4ab-b0f0ee361b83
+  text: 蔽
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 管子
+    line_uuid: ebab6acc-49b0-4063-9e2a-acf262dbec66
+    line_id: KR3c0001_tls_001-340a.7
+    textline: 蔽美揚惡
+    offset: 1
+    range: 1
+right:
+  word_uuid: e5e3bb0f-1bca-447e-9483-bfb1a5750e8f
+  text: 揚
+  concept: SHOW
+  concept_uuid: 929119f9-2b7c-4c30-8587-9b0f5acb4567
+  attestation:
+    text_title: 管子
+    line_uuid: ebab6acc-49b0-4063-9e2a-acf262dbec66
+    line_id: KR3c0001_tls_001-340a.7
+    textline: 蔽美揚惡
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

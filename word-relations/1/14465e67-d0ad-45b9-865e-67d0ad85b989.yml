@@ -1,0 +1,32 @@
+uuid: 14465e67-d0ad-45b9-865e-67d0ad85b989
+type: word-relation
+group_uuid: 7d17a8f7-5c75-5d6a-8c7e-70f3e283be09
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a2c3ba35-4fad-4d32-883d-6e99dd9306a9
+  text: 馬
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.36
+    textline: 駕馬服牛
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1e6222fa-3c15-46c3-9240-f5ea255eb6c0
+  text: 牛
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.36
+    textline: 駕馬服牛
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:26:39.816+09:00'

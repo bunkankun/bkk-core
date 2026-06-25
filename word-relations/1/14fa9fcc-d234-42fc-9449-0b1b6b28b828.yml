@@ -1,0 +1,32 @@
+uuid: 14fa9fcc-d234-42fc-9449-0b1b6b28b828
+type: word-relation
+group_uuid: 14fa9fcc-d234-42fc-9449-0b1b6b28b828
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0183f92e-15d3-4d39-adef-8e5b0bbe274f
+  text: 朋黨
+  concept: FACTION
+  concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+  attestation:
+    text_title: 韓非子
+    line_uuid: dd414ca1-6e4b-42bb-bfe2-cc0900e271e1
+    line_id: KR3c0005_tls_011-43a.5
+    textline: 朋黨比周
+    offset: 1
+    range: 2
+right:
+  word_uuid: d811198f-12f7-4cf1-bc9b-a53bcd511077
+  text: 比周
+  concept: FACTION
+  concept_uuid: cb9e32ed-9291-4d69-b76d-e10217aae46b
+  attestation:
+    text_title: 韓非子
+    line_uuid: dd414ca1-6e4b-42bb-bfe2-cc0900e271e1
+    line_id: KR3c0005_tls_011-43a.5
+    textline: 朋黨比周
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml

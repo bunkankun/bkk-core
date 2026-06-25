@@ -1,0 +1,32 @@
+uuid: 9361751b-bacc-475e-82ba-776d498282fc
+type: word-relation
+group_uuid: 9361751b-bacc-475e-82ba-776d498282fc
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: a0636713-59a2-4d9b-b4f8-99509b19e147
+  text: 不足
+  concept: INSUFFICIENT
+  concept_uuid: 669552f4-edd6-469a-aaac-23b32582a1fd
+  attestation:
+    text_title: 白虎通
+    line_uuid: fe7facf6-7c15-4cae-8c26-f56778999b2b
+    line_id: KR3j0023_tls_006-209a.3
+    textline: 盛不足
+    offset: 2
+    range: 2
+right:
+  word_uuid: 40bc85a6-6ed0-4433-bf60-b7b1e56a1955
+  text: 有餘
+  concept: SURPLUS
+  concept_uuid: 97bf6ee5-0f0f-43d9-8910-dc9c4bef4e21
+  attestation:
+    text_title: 白虎通
+    line_uuid: 228a6c93-1365-4d56-9bff-8213ed53f943
+    line_id: KR3j0023_tls_006-209a.4
+    textline: 節有餘
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

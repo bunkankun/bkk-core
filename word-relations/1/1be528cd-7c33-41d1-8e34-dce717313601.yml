@@ -1,0 +1,21 @@
+uuid: 1be528cd-7c33-41d1-8e34-dce717313601
+type: word-relation
+group_uuid: f2e6448e-e3ab-5724-9ab2-61c2ea88c58a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 30102a30-f985-4d8e-b0c4-55c323cc18ba
+  text: 誠
+  concept: EARNEST
+  concept_uuid: f5710eb1-3fea-4aed-a300-c4f242751c1a
+right:
+  word_uuid: 9fe39c37-ee77-4713-a36c-a06c6915f5b7
+  text: 純
+  concept: PURE
+  concept_uuid: 4091ce30-e968-4f2f-9c7c-3e7ea5532e70
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

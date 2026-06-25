@@ -1,0 +1,32 @@
+uuid: 3e5a9e43-e42e-43b1-84c1-2b75c0ce4c3e
+type: word-relation
+group_uuid: 3e5a9e43-e42e-43b1-84c1-2b75c0ce4c3e
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 6caf7dac-4774-461b-b64f-f7bea93307f9
+  text: 蛇
+  concept: SNAKE
+  concept_uuid: 92a331ef-692c-4ff2-b974-dc1d6c57c485
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9ecfb83c-fefc-49e5-9b0e-812a137dc5b0
+    line_id: KR3c0005_tls_010-40a.7
+    textline: 騰蛇伏地
+    offset: 2
+    range: 1
+right:
+  word_uuid: a21bb61d-e53b-489c-b320-617014ac9b06
+  text: 騰
+  concept: FLY
+  concept_uuid: 63288664-c58a-4e17-afda-36e93e09794b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9ecfb83c-fefc-49e5-9b0e-812a137dc5b0
+    line_id: KR3c0005_tls_010-40a.7
+    textline: 騰蛇伏地
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

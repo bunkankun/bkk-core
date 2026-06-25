@@ -1,0 +1,21 @@
+uuid: 7c8e0504-8fde-4eb2-89f5-cab3e784226d
+type: word-relation
+group_uuid: d05fbc3b-9c16-58ed-af3a-14215345468f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1319d698-e581-4436-a88f-c18e3e5a5ada
+  text: 少
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+right:
+  word_uuid: 66c6db22-9dd1-4dc6-a144-76aedea921bf
+  text: 泊
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

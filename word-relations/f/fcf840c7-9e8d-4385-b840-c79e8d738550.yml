@@ -1,0 +1,32 @@
+uuid: fcf840c7-9e8d-4385-b840-c79e8d738550
+type: word-relation
+group_uuid: 02088356-9c7e-59f2-b6e3-34231000eaef
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 4af93b50-20bc-48ca-92ae-70d9de9167ba
+  text: 華
+  concept: ORNAMENT
+  concept_uuid: e072198f-43d4-477f-90b1-9047d635a5ce
+  attestation:
+    text_title: 西京雜記
+    line_id: CH1a0936_CHANT_001-4a.7
+    textline: 籠上皆散華文
+    offset: 5
+    range: 1
+right:
+  word_uuid: 2def47de-b9df-49ff-93e7-5691c35aa830
+  text: 文
+  concept: PATTERN
+  concept_uuid: 9512076b-cf5f-4c10-9450-2ea86b97cf48
+  attestation:
+    text_title: 西京雜記
+    line_id: CH1a0936_CHANT_001-4a.7
+    textline: 籠上皆散華文
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-23T00:43:16.863+09:00'

@@ -1,0 +1,32 @@
+uuid: 3e2891d1-e769-4c69-928e-38b3a524a2b2
+type: word-relation
+group_uuid: 3e2891d1-e769-4c69-928e-38b3a524a2b2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a2d4c1ff-bdbd-4351-9267-5ae6837e6ab7
+  text: 甚
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 老子
+    line_uuid: 1e1a8a5c-08be-4540-9c2b-40e47213a56d
+    line_id: KR5c0057_tls_044-1a.9
+    textline: 是故甚愛
+    offset: 3
+    range: 1
+right:
+  word_uuid: cccca165-8f82-4bc5-9c1d-980a0c3ade41
+  text: 大
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 老子
+    line_uuid: ffaef55b-26a6-4998-b133-4734100f8294
+    line_id: KR5c0057_tls_044-1a.10
+    textline: 必大費
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

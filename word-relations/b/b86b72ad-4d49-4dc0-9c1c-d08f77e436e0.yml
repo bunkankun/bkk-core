@@ -1,0 +1,32 @@
+uuid: b86b72ad-4d49-4dc0-9c1c-d08f77e436e0
+type: word-relation
+group_uuid: b86b72ad-4d49-4dc0-9c1c-d08f77e436e0
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 01c2c6ca-cdfc-461b-8e0e-2e9c881f7b25
+  text: 理
+  concept: PRINCIPLE
+  concept_uuid: ba6d8245-6621-4a82-a4c9-bcc8cdb03e80
+  attestation:
+    text_title: 韓非子
+    line_uuid: f4a9e5a9-fff2-4261-a614-81d132a544cb
+    line_id: KR3c0005_tls_018-14a.9
+    textline: 任理去欲
+    offset: 2
+    range: 1
+right:
+  word_uuid: 6c43ec88-26dd-43ff-8d13-9e4cabc452e8
+  text: 欲
+  concept: DESIRE
+  concept_uuid: 6b4424f4-b853-49e8-a3f4-a53969e93564
+  attestation:
+    text_title: 韓非子
+    line_uuid: f4a9e5a9-fff2-4261-a614-81d132a544cb
+    line_id: KR3c0005_tls_018-14a.9
+    textline: 任理去欲
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

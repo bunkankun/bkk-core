@@ -1,0 +1,35 @@
+uuid: 6bad5fb2-263f-4447-a9c0-163e7afee26d
+type: word-relation
+group_uuid: 776c577e-e72d-45c6-8a8a-8b92ab647938
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6d69b878-868b-4bae-9dbc-404fa3b2f6af
+  text: 忌
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 史記
+    line_uuid: 20a3c0ac-a767-4182-ae2d-00950700ecea
+    line_id: KR2a0001_tls_006-300a.30
+    textline: 畏忌諱諛
+    offset: 2
+    range: 1
+right:
+  word_uuid: b461981b-4761-4815-a327-e0df4e34a4e4
+  text: 畏
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 史記
+    line_uuid: 20a3c0ac-a767-4182-ae2d-00950700ecea
+    line_id: KR2a0001_tls_006-300a.30
+    textline: 畏忌諱諛
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

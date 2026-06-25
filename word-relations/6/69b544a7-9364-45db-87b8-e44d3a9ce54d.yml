@@ -1,0 +1,30 @@
+uuid: 69b544a7-9364-45db-87b8-e44d3a9ce54d
+type: word-relation
+group_uuid: 69b544a7-9364-45db-87b8-e44d3a9ce54d
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 9ed0280f-2a33-4e5d-8b01-efd061cda441
+  text: 戰
+  concept: FIGHT
+  concept_uuid: 1bc82b48-48b1-4d9c-879f-714019e8cbd1
+  attestation:
+    text_title: 老子
+    line_uuid: 63a60888-e117-43cf-9e64-c223fcb17797
+    textline: 夫慈以戰則勝
+    offset: 4
+    range: 1
+right:
+  word_uuid: 566b7752-c546-4a80-8a6f-ee8343f3eb2f
+  text: 勝
+  concept: WIN
+  concept_uuid: 75227bb6-49a5-469d-a414-dd7ba14340c8
+  attestation:
+    text_title: 老子
+    line_uuid: 63a60888-e117-43cf-9e64-c223fcb17797
+    textline: 夫慈以戰則勝
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

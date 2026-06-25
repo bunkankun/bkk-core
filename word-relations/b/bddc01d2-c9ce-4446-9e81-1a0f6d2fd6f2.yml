@@ -1,0 +1,18 @@
+uuid: bddc01d2-c9ce-4446-9e81-1a0f6d2fd6f2
+type: word-relation
+group_uuid: c4ea3645-e5ae-5176-85a5-a17db33312cc
+rel_type: Relat
+rel_type_uuid: 61d2468a-51a2-4992-8c73-5e3035d4e3a3
+rel_label: related systematically related as yet unlabelled relation
+left:
+  word_uuid: 160208b8-b4f0-48b8-b0f9-7578de8ea2c0
+  text: 富
+  concept: RICH
+  concept_uuid: e626aa33-5b49-458a-a950-0d5873c195fd
+right:
+  word_uuid: d4ccd799-cad6-438b-bb51-22410b4c32c5
+  text: 求
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+source:
+  source_file: word-relations.xml

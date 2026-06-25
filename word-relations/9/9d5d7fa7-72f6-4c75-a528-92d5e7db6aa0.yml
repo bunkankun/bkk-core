@@ -1,0 +1,32 @@
+uuid: 9d5d7fa7-72f6-4c75-a528-92d5e7db6aa0
+type: word-relation
+group_uuid: 9d5d7fa7-72f6-4c75-a528-92d5e7db6aa0
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 71a7967a-9077-4370-84e2-04d646baa66e
+  text: 筆
+  concept: BRUSH
+  concept_uuid: 2095bac4-6e1b-4bdb-9876-a012aa10a869
+  attestation:
+    text_title: 論衡
+    line_uuid: 229aef33-6084-4817-b601-4f7799b110c6
+    line_id: KR3j0080_tls_039-10a.14
+    textline: 竭筆牘之力
+    offset: 2
+    range: 1
+right:
+  word_uuid: 53535060-12d9-41d8-a5a0-36f87f59ac00
+  text: 牘
+  concept: STATIONARY
+  concept_uuid: 9d7dc2f9-088b-44a7-ae21-76412bb88dd5
+  attestation:
+    text_title: 論衡
+    line_uuid: 229aef33-6084-4817-b601-4f7799b110c6
+    line_id: KR3j0080_tls_039-10a.14
+    textline: 竭筆牘之力
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

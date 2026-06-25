@@ -1,0 +1,32 @@
+uuid: c530d9ca-0266-49ef-8f42-f860da08e538
+type: word-relation
+group_uuid: c530d9ca-0266-49ef-8f42-f860da08e538
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0a9474da-c0e2-49f9-9390-78358848d9da
+  text: 君
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: 228b6e2f-f4ed-4f8c-9f38-1d3d83bad187
+    line_id: KR3c0005_tls_007-21a.11
+    textline: 人君以情借臣之患也
+    offset: 2
+    range: 1
+right:
+  word_uuid: bcc7235d-db9c-4b9e-ab09-ce044bcf9955
+  text: 人
+  concept: HUMAN
+  concept_uuid: 3343a3a4-6b7d-4191-b12b-6fa22edb755c
+  attestation:
+    text_title: 韓非子
+    line_uuid: 228b6e2f-f4ed-4f8c-9f38-1d3d83bad187
+    line_id: KR3c0005_tls_007-21a.11
+    textline: 人君以情借臣之患也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

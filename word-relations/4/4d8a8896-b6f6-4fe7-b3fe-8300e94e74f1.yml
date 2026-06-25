@@ -1,0 +1,32 @@
+uuid: 4d8a8896-b6f6-4fe7-b3fe-8300e94e74f1
+type: word-relation
+group_uuid: 779af34c-b073-41ec-99f3-a640c80d50e5
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 3f3f86f6-52d9-4eb0-9ae1-4019133dbcce
+  text: 國
+  concept: STATE
+  concept_uuid: 723efc5a-352b-43ce-b8eb-e92ff5302db9
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9759abe6-1050-435b-b9a1-7d9d8197f153
+    line_id: KR3j0009_tls_014-41a.8
+    textline: 外使治其國
+    offset: 5
+    range: 1
+right:
+  word_uuid: 470abd4a-af4f-4117-a343-1047dfa6c00d
+  text: 身
+  concept: SELF
+  concept_uuid: eb838b61-6aa5-4255-8c00-4196789a449a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 66fe92d3-708d-4795-b780-f53074f22aae
+    line_id: KR3j0009_tls_014-41a.9
+    textline: 內使制其身
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: cdea2c6a-7ae2-4ff0-aa2c-6a7ae20ff05a
+type: word-relation
+group_uuid: 1dd64d11-437a-57fc-a46c-946060ce7afe
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 1c4a4ef2-0ae8-4fe0-8c71-4dd8dc48c3ac
+  text: 歌
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 周禮
+    line_id: KR1d0001_tls_003-117a.9
+    textline: 歌哭而請
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4f1979ae-12cd-4fd9-af29-59b50224a7c3
+  text: 哭
+  concept: WEEP
+  concept_uuid: f8bc427b-163a-407a-8029-c8f83ebe6f1d
+  attestation:
+    text_title: 周禮
+    line_id: KR1d0001_tls_003-117a.9
+    textline: 歌哭而請
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-12-10T01:25:18.358+09:00'

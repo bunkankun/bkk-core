@@ -1,0 +1,32 @@
+uuid: 14389d21-dc04-4f82-b89d-21dc04af8227
+type: word-relation
+group_uuid: f2d57f8e-0cb0-5651-9060-5c2918b9a4bf
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 69a76c76-34ba-4faf-bb40-9063b35e1208
+  text: 臨
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-1a.2
+    textline: 王者知所以臨下而治眾
+    offset: 11
+    range: 1
+right:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-1a.2
+    textline: 王者知所以臨下而治眾
+    offset: 14
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#dsehnal'
+  date: '2023-04-30T15:40:36.484+09:00'

@@ -1,0 +1,30 @@
+uuid: f6b55d60-8016-4572-8f69-1788ba34486b
+type: word-relation
+group_uuid: f6b55d60-8016-4572-8f69-1788ba34486b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: f1e34c3d-1996-4c8f-97cf-813d84301517
+  text: 古
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5c9f80a7-3cb6-4cbe-80dd-90caac7365fa
+    line_id: KR3j0009_tls_011-23a.10
+    textline: 知古則可知後
+    offset: 2
+    range: 1
+right:
+  word_uuid: 9f5daf73-9204-4db8-b983-e93393c6c538
+  text: 後
+  concept: FUTURE
+  concept_uuid: 490650da-7c93-476d-8ef3-98b78bea51c0
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5c9f80a7-3cb6-4cbe-80dd-90caac7365fa
+    line_id: KR3j0009_tls_011-23a.10
+    textline: 知古則可知後
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

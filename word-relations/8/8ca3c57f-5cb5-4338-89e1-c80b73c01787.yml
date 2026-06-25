@@ -1,0 +1,21 @@
+uuid: 8ca3c57f-5cb5-4338-89e1-c80b73c01787
+type: word-relation
+group_uuid: 8686c5e7-2428-5d4a-bdfb-f3fdd645c17f
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: f3d189c1-e3bd-4933-a2ba-a8e49c57be54
+  text: 顧
+  concept: SAFEGUARD
+  concept_uuid: daccce11-6d27-4bc1-921d-a80f38ef2b2f
+right:
+  word_uuid: 6f18f78e-4390-43fd-9fab-4d1ff22c3db0
+  text: 眷
+  concept: LOOK
+  concept_uuid: 17a8f308-dca1-4db9-8cbb-de2d495a577f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

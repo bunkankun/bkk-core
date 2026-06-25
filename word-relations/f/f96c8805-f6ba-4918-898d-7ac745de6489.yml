@@ -1,0 +1,32 @@
+uuid: f96c8805-f6ba-4918-898d-7ac745de6489
+type: word-relation
+group_uuid: f96c8805-f6ba-4918-898d-7ac745de6489
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: ec4b7e2d-35bb-4233-8142-e4ac7264fb32
+  text: 公
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 論語
+    line_uuid: 1ddd7bc4-e68a-4584-b89c-a31588c5486a
+    line_id: KR1h0004_tls_003-2a.4
+    textline: 「『相維辟公
+    offset: 6
+    range: 1
+right:
+  word_uuid: 8fa3fdcd-4454-48cb-a12c-59ab4f6a5f6a
+  text: 天子
+  concept: KING
+  concept_uuid: eb501015-384f-45b3-9603-06fd2f743e8b
+  attestation:
+    text_title: 論語
+    line_uuid: 31d69670-2abb-40f3-b745-c75532d09b75
+    line_id: KR1h0004_tls_003-2a.5
+    textline: 天子穆穆
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml

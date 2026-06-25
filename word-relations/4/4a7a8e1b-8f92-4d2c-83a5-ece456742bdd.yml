@@ -1,0 +1,21 @@
+uuid: 4a7a8e1b-8f92-4d2c-83a5-ece456742bdd
+type: word-relation
+group_uuid: 86adccc1-92ca-5375-bf8f-58c82648bef6
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 1305d08a-efa6-4551-b42e-3a6a95044145
+  text: 貢
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+right:
+  word_uuid: e932b785-c253-49c3-b80f-d2399d7beb71
+  text: 獻
+  concept: HAND UP
+  concept_uuid: 0ec5e516-7549-4985-bfe3-c44f344e574b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

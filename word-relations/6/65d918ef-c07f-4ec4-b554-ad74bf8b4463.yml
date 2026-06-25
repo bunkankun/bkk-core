@@ -1,0 +1,32 @@
+uuid: 65d918ef-c07f-4ec4-b554-ad74bf8b4463
+type: word-relation
+group_uuid: 65d918ef-c07f-4ec4-b554-ad74bf8b4463
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 論衡
+    line_uuid: 11da3e9b-349f-4517-8dab-a42fb1171a3a
+    line_id: KR3j0080_tls_003-3a.8
+    textline: “辯慧如此
+    offset: 2
+    range: 1
+right:
+  word_uuid: c61e42b7-9731-4dde-a358-e4010c1bc428
+  text: 慧
+  concept: WISE
+  concept_uuid: 48f5a682-489c-474f-9cc0-5163daf55a19
+  attestation:
+    text_title: 論衡
+    line_uuid: 11da3e9b-349f-4517-8dab-a42fb1171a3a
+    line_id: KR3j0080_tls_003-3a.8
+    textline: “辯慧如此
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: a7af8e76-3282-4ff8-b48d-208cd4b291e8
+type: word-relation
+group_uuid: a7af8e76-3282-4ff8-b48d-208cd4b291e8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+  attestation:
+    text_title: 論語
+    line_uuid: 3a7792ec-01ff-4dc8-9f31-9af9dbbe42b7
+    textline: 「其為人也孝弟而好犯上者
+    offset: 10
+    range: 1
+right:
+  word_uuid: c8b1d719-3632-4492-9341-f17c75e6a9e6
+  text: 上
+  concept: SUPERIOR
+  concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+  attestation:
+    text_title: 論語
+    line_uuid: 3a7792ec-01ff-4dc8-9f31-9af9dbbe42b7
+    textline: 「其為人也孝弟而好犯上者
+    offset: 11
+    range: 1
+source:
+  source_file: word-relations.xml

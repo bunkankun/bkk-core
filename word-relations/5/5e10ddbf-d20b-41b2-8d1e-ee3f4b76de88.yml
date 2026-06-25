@@ -1,0 +1,32 @@
+uuid: 5e10ddbf-d20b-41b2-8d1e-ee3f4b76de88
+type: word-relation
+group_uuid: 5e10ddbf-d20b-41b2-8d1e-ee3f4b76de88
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1eef7183-e6ee-4835-b2fb-3ff0ea551472
+    line_id: KR3c0005_tls_006-41a.2
+    textline: 刑重
+    offset: 1
+    range: 1
+right:
+  word_uuid: efe05145-3331-4a2f-bbb2-50723f8a4100
+  text: 重
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1eef7183-e6ee-4835-b2fb-3ff0ea551472
+    line_id: KR3c0005_tls_006-41a.2
+    textline: 刑重
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

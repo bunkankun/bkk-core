@@ -1,0 +1,18 @@
+uuid: 17ea9aef-9c61-459f-a429-ab3f709864f2
+type: word-relation
+group_uuid: 7af87a60-a742-53b4-9d95-dc8e7c29fc75
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: aa3fbc27-188a-4b4c-b661-75a7998f10a7
+  text: 鳴
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+right:
+  word_uuid: 32edca3e-58a7-4303-bf17-059fa3ad9f4c
+  text: 雞
+  concept: COCK
+  concept_uuid: 61a59ec4-9322-4176-a5d4-521f57c0fd43
+source:
+  source_file: word-relations.xml

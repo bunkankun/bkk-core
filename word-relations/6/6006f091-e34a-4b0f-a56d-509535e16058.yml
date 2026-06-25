@@ -1,0 +1,30 @@
+uuid: 6006f091-e34a-4b0f-a56d-509535e16058
+type: word-relation
+group_uuid: 9aff3261-76fd-454c-8032-ebab2b05715d
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 622acb76-3c92-4f58-a934-7246aa0053f8
+  text: 草
+  concept: GRASS
+  concept_uuid: 856d203f-5d4f-4d33-98ec-546e0b930124
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a77d6045-8d41-4941-87b9-f5137a9590c4
+    textline: 三曰遂草木
+    offset: 5
+    range: 1
+right:
+  word_uuid: 53136896-b4a1-4c4e-b37b-3ef5c8c714bb
+  text: 木
+  concept: TREE
+  concept_uuid: 046c80e0-ee93-48c4-bb59-af509d3c60ae
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: a77d6045-8d41-4941-87b9-f5137a9590c4
+    textline: 三曰遂草木
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

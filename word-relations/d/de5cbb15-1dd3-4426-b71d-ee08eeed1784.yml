@@ -1,0 +1,31 @@
+uuid: de5cbb15-1dd3-4426-b71d-ee08eeed1784
+type: word-relation
+group_uuid: de5cbb15-1dd3-4426-b71d-ee08eeed1784
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 44c4f984-3c7a-475d-8453-5d64ed11511f
+  text: 眾山
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+  attestation:
+    text_title: 法言
+    line_uuid: 079b948e-38a9-4a07-86d3-a2ce63d7f9cf
+    textline: 升東岳而知眾山之邐迤也
+    offset: 6
+    range: 2
+right:
+  word_uuid: 62380f0a-2bb2-4c16-995b-8d2602a5977c
+  text: 江河
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+  attestation:
+    text_title: 法言
+    line_uuid: 95187908-c5db-49ce-ba82-34698e3a8b6c
+    line_id: KR3a0009_tls_002-9a.5
+    textline: 浮滄海而知江河之惡沱也
+    offset: 6
+    range: 2
+source:
+  source_file: word-relations.xml

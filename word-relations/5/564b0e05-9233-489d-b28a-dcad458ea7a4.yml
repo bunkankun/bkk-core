@@ -1,0 +1,32 @@
+uuid: 564b0e05-9233-489d-b28a-dcad458ea7a4
+type: word-relation
+group_uuid: 564b0e05-9233-489d-b28a-dcad458ea7a4
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9f0bf669-70b2-4e7f-8535-95d051b39bd1
+  text: 民
+  concept: PEOPLE
+  concept_uuid: 629bb732-27e7-4839-8142-6e9da1c72b98
+  attestation:
+    text_title: 管子
+    line_uuid: 58b01510-0a85-45bd-9a78-972505ca4d0e
+    line_id: KR3c0001_tls_001-10a.6
+    textline: 民惡憂勞
+    offset: 1
+    range: 1
+right:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 管子
+    line_uuid: 1354e5ac-bbc4-448d-a999-0c3451b083b5
+    line_id: KR3c0001_tls_001-10a.7
+    textline: 我佚樂之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

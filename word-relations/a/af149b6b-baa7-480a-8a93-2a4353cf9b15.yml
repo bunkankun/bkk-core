@@ -1,0 +1,32 @@
+uuid: af149b6b-baa7-480a-8a93-2a4353cf9b15
+type: word-relation
+group_uuid: af149b6b-baa7-480a-8a93-2a4353cf9b15
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 61862bcc-9c03-4b48-b373-4b30b4d32fb6
+  text: 纓
+  concept: RIBBON
+  concept_uuid: 2c1b9e8c-9b60-47a2-bd66-ab3e56cf5c0f
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee7e2d15-18f9-4cb3-9f2a-22ae1bb4cde5
+    line_id: KR3c0005_tls_014-74a.7
+    textline: 以其冠纓絞王而殺之
+    offset: 4
+    range: 1
+right:
+  word_uuid: bb08d051-08fc-4d25-a906-31866a044f51
+  text: 冠
+  concept: OFFICIAL HAT
+  concept_uuid: 3a73f7de-6879-4f8b-ac62-9d71cecd9cd4
+  attestation:
+    text_title: 韓非子
+    line_uuid: ee7e2d15-18f9-4cb3-9f2a-22ae1bb4cde5
+    line_id: KR3c0005_tls_014-74a.7
+    textline: 以其冠纓絞王而殺之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

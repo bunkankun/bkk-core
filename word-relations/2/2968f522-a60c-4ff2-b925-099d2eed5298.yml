@@ -1,0 +1,30 @@
+uuid: 2968f522-a60c-4ff2-b925-099d2eed5298
+type: word-relation
+group_uuid: cca16b81-eed3-4db4-bb6d-9fade39d9efa
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: d74b6391-a26d-4870-8897-a1987ffd5497
+  text: 身
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 楚辭
+    line_uuid: bf831f77-c51b-44af-a8e5-870450a68fc8
+    textline: 欲卑身而下體兮
+    offset: 3
+    range: 1
+right:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 楚辭
+    line_uuid: 83a04ce8-0430-4070-a504-38002cd8e33d
+    textline: 心隱惻而不置
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,21 @@
+uuid: 95449645-3032-4fb2-b11a-16daedca9315
+type: word-relation
+group_uuid: a99b1231-a4c1-5acb-96e3-52acc063d3c4
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 932835ad-2033-4dff-b325-d67ed6a3ce6a
+  text: 馳
+  concept: HURRY
+  concept_uuid: 2c769882-a868-4e65-bb7d-d513edabd94d
+right:
+  word_uuid: 2cc76f3a-df42-411a-9c84-19c09436b70f
+  text: 驅
+  concept: GALLOP
+  concept_uuid: 06e0eefe-b216-47cb-919c-aceb22a66c32
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

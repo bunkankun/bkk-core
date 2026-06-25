@@ -1,0 +1,18 @@
+uuid: 804ac9af-b471-4813-bd86-797177e2a1e6
+type: word-relation
+group_uuid: 9d6bbcd3-88c5-53f5-a4c2-fc449578934a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b547fcf5-5778-4ac1-8ce8-54b3b6f85afd
+  text: 謹
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+right:
+  word_uuid: 0ad2e8e0-4724-4954-8899-a6aae9c5287b
+  text: 慎
+  concept: DILIGENT
+  concept_uuid: 581711c4-9e65-4128-bfd5-8a2dc56a6e38
+source:
+  source_file: word-relations.xml

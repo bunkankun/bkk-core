@@ -1,0 +1,32 @@
+uuid: 82029540-a64b-4fc1-8295-40a64b1fc1ce
+type: word-relation
+group_uuid: f560e07a-bc27-5d80-a0fa-07562f931847
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 2fe86724-f9dd-4862-a867-24f9ddd862e3
+  text: 肉
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_105-11a.26
+    textline: 此歲中亦除肉刑法
+    offset: 6
+    range: 1
+right:
+  word_uuid: 29bb2c4c-3d22-4265-8df7-ae7ce7548642
+  text: 刑法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_105-11a.26
+    textline: 此歲中亦除肉刑法
+    offset: 7
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T17:59:15.764+09:00'

@@ -1,0 +1,18 @@
+uuid: 0af97af8-6c8d-4aa0-9f64-f00f72d84a76
+type: word-relation
+group_uuid: f3fc47d3-c0ab-5cef-ae2d-9a6388e8b638
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 7e7243c8-4671-4642-9c19-2665b5ad7096
+  text: 稱
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+right:
+  word_uuid: 7f411e5e-a3de-4464-b4b5-f02f98adef36
+  text: 合
+  concept: TALLY
+  concept_uuid: 6568cb68-3bfc-4d81-8afd-30cce8007938
+source:
+  source_file: word-relations.xml

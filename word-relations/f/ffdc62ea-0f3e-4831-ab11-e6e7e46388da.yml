@@ -1,0 +1,31 @@
+uuid: ffdc62ea-0f3e-4831-ab11-e6e7e46388da
+type: word-relation
+group_uuid: 358fe578-95cd-49ab-a365-798fe54417b6
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: e25005b3-2467-418d-a30c-503954f1df0e
+  text: 毀
+  concept: SLANDER
+  concept_uuid: f28f17dd-220d-4410-813a-811361c4a269
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6e9ff27e-d4ba-4ab0-a497-67b76b66a218
+    line_id: KR3c0005_tls_009-24a.4
+    textline: 毀疵者所惡
+    offset: 1
+    range: 1
+right:
+  word_uuid: 972ca091-9b67-4c16-8d31-e46b949152e5
+  text: 疵
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 6e9ff27e-d4ba-4ab0-a497-67b76b66a218
+    line_id: KR3c0005_tls_009-24a.4
+    textline: 毀疵者所惡
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 476ef8c3-56cf-4da3-aef8-c356cf7da3d4
+type: word-relation
+group_uuid: 070b55a0-105e-5312-abe7-cac1af030c2e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4ef2fc9c-8b83-49c0-befb-578d6eb943fc
+  text: 與
+  concept: WITH
+  concept_uuid: c08190df-f269-41d6-b698-8f159db25c98
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_063-13a.9
+    textline: 與李斯俱事荀卿
+    offset: 1
+    range: 1
+right:
+  word_uuid: 426e4868-7721-49af-9231-cc065af0cf21
+  text: 俱
+  concept: TOGETHER
+  concept_uuid: 2f3abab6-3df8-4acf-9599-078f7b053513
+  attestation:
+    text_title: 史記
+    line_id: KR2a0001_tls_063-13a.9
+    textline: 與李斯俱事荀卿
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#Valerie.Kiel'
+  date: '2023-03-16T06:15:48.811+09:00'

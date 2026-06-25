@@ -1,0 +1,30 @@
+uuid: 7318a33d-3fec-4242-aa37-290d78c5bc84
+type: word-relation
+group_uuid: 7318a33d-3fec-4242-aa37-290d78c5bc84
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: af622cf5-d3a3-4f22-ac09-f2695cf9f070
+  text: 鼓
+  concept: DRUM
+  concept_uuid: a3fbcd2f-2422-4324-a7eb-7387fce35b10
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ed7ace43-c207-4160-849f-cbb5ad020a14
+    textline: 有倕作為鼙鼓鐘磬吹苓管壎箎鞀椎鍾
+    offset: 6
+    range: 1
+right:
+  word_uuid: 0a40edee-6003-425d-93ed-5ba6076950ad
+  text: 鼙
+  concept: DRUM
+  concept_uuid: a3fbcd2f-2422-4324-a7eb-7387fce35b10
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ed7ace43-c207-4160-849f-cbb5ad020a14
+    textline: 有倕作為鼙鼓鐘磬吹苓管壎箎鞀椎鍾
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

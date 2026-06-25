@@ -1,0 +1,32 @@
+uuid: 8f11bcfd-c21d-4327-91bc-fdc21d63279a
+type: word-relation
+group_uuid: 36708a13-0c73-53a9-b6c3-082366a94157
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2a57c91a-d614-414f-9b28-8a0f423b4973
+  text: 政教
+  concept: TEACH
+  concept_uuid: afbdd6b9-b5e4-42ff-a8ae-7bf4522b1f4f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.4
+    textline: 是以政教易化
+    offset: 3
+    range: 2
+right:
+  word_uuid: ffc04cd1-e1ca-435e-8461-2aac762ce5ae
+  text: 風俗
+  concept: CUSTOM
+  concept_uuid: 383a6bfa-e979-422b-a4f0-8271df3a6563
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-8a.5
+    textline: 風俗易移也
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-10-10T05:16:38.921+09:00'

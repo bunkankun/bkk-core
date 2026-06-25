@@ -1,0 +1,32 @@
+uuid: 34f7f703-3208-4583-b7f7-0332089583d1
+type: word-relation
+group_uuid: ac3519ee-f3b5-5c8a-bd8e-b13baeafd7f2
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 427d63e5-a319-47f7-9537-d293a5946755
+  text: 順
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.5
+    textline: 順道而行
+    offset: 1
+    range: 1
+right:
+  word_uuid: 519d42ac-7238-4729-b58d-d4398f3bfbe1
+  text: 循
+  concept: FOLLOW
+  concept_uuid: c43f4c45-617b-4e09-8cb1-17917eb759fb
+  attestation:
+    text_title: 說苑
+    line_id: CH1a0907_CHANT_016-79a.6
+    textline: 循理而言
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-02T03:17:52.931+09:00'

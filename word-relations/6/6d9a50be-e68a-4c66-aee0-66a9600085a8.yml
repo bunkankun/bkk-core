@@ -1,0 +1,31 @@
+uuid: 6d9a50be-e68a-4c66-aee0-66a9600085a8
+type: word-relation
+group_uuid: 6d9a50be-e68a-4c66-aee0-66a9600085a8
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 3ab36092-29f5-4a3a-b2d4-b3ec597122a4
+  text: 逐
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: a6ab9fe0-a72c-4dd5-ab1c-f3b0cc83ac5b
+    line_id: KR1e0001_tls_002-54a.7
+    textline: 逐翼侯于汾隰
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4dec1ac0-0275-4703-80fe-82fc8abbe591
+  text: 獲
+  concept: ARREST
+  concept_uuid: ef84d7b1-b2c6-4085-a31c-d270d9770f9b
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 58c8b90e-0d1d-4f7d-872b-60e0e12cef87
+    textline: 夜獲之及欒共叔
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

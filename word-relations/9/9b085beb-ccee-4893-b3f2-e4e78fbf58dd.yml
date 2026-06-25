@@ -1,0 +1,32 @@
+uuid: 9b085beb-ccee-4893-b3f2-e4e78fbf58dd
+type: word-relation
+group_uuid: 8ba3c2b1-aaf3-4cfd-879b-79f2ecb31a94
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8f23f8a1-819f-4fcc-bf11-fe04d14d7994
+  text: 吾
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 莊子
+    line_uuid: da095242-c294-4308-a6d3-54d8c47ec116
+    line_id: KR5c0126_tls_021-4a.11
+    textline: 吾固告子矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: 75ae2de0-8654-4d5a-be05-36fbb5ea6908
+  text: 子
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 莊子
+    line_uuid: da095242-c294-4308-a6d3-54d8c47ec116
+    line_id: KR5c0126_tls_021-4a.11
+    textline: 吾固告子矣
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

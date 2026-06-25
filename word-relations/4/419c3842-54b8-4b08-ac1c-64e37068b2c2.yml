@@ -1,0 +1,21 @@
+uuid: 419c3842-54b8-4b08-ac1c-64e37068b2c2
+type: word-relation
+group_uuid: 765673f3-82cc-56cd-8cd1-c96875b056b7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b00356cd-bf71-4e79-bd9a-85e9186d58f5
+  text: 交
+  concept: EXCHANGE
+  concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+right:
+  word_uuid: b073fe59-9e2d-430d-a8c7-b1110f6d7cc4
+  text: 易
+  concept: EXCHANGE
+  concept_uuid: 5703a6ca-d9b6-4f5c-9872-f3fca9de7fc9
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

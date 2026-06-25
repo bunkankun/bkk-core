@@ -1,0 +1,32 @@
+uuid: b54ba73f-37fb-4677-a43d-6f11888a24f8
+type: word-relation
+group_uuid: b54ba73f-37fb-4677-a43d-6f11888a24f8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 291cbf50-1f17-4cc5-8f1d-ae0648577492
+  text: 尊
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 357d7df8-857b-4377-94ef-38e6dcad44ac
+    line_id: KR3j0009_tls_003-21a.16
+    textline: 尊賢使能
+    offset: 1
+    range: 1
+right:
+  word_uuid: 03f3b78e-98f1-499f-b5ee-881ffe4da9e9
+  text: 賢
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 357d7df8-857b-4377-94ef-38e6dcad44ac
+    line_id: KR3j0009_tls_003-21a.16
+    textline: 尊賢使能
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

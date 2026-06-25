@@ -1,0 +1,32 @@
+uuid: 48ee7f50-73b1-439b-ae18-c7bff66c5605
+type: word-relation
+group_uuid: 48ee7f50-73b1-439b-ae18-c7bff66c5605
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 18d6f730-3b02-4f98-bc17-2ca742e4d322
+  text: 鳥
+  concept: BIRD
+  concept_uuid: 4148f2d2-0889-4921-bdca-23481d1099a6
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bab3958f-1223-443d-baf7-68c7d4346a07
+    line_id: KR3j0009_tls_003-13a.3
+    textline: 集於羽鳥與為飛揚
+    offset: 4
+    range: 1
+right:
+  word_uuid: 67b2daa8-1426-4243-91d1-1760704a6abf
+  text: 羽
+  concept: FEATHER
+  concept_uuid: 57882f64-0692-4b93-9cae-a2581611b913
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bab3958f-1223-443d-baf7-68c7d4346a07
+    line_id: KR3j0009_tls_003-13a.3
+    textline: 集於羽鳥與為飛揚
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

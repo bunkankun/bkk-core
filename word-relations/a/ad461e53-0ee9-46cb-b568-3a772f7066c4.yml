@@ -1,0 +1,32 @@
+uuid: ad461e53-0ee9-46cb-b568-3a772f7066c4
+type: word-relation
+group_uuid: ad461e53-0ee9-46cb-b568-3a772f7066c4
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: be2ce9a5-6609-49ad-925b-9b6bd5bac6df
+  text: 克
+  concept: CONQUER
+  concept_uuid: a3e906b7-c7fd-4ce9-b57f-f9ec9f049843
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: dd783b3f-f50d-4493-9282-c920fd51fa06
+    line_id: KR1e0001_tls_009-661a.12
+    textline: 克而取之
+    offset: 1
+    range: 1
+right:
+  word_uuid: 3cafc5f6-3cda-49d2-a0de-83398000a0ff
+  text: 取
+  concept: ANNEX
+  concept_uuid: 941aa399-8b26-40be-8afb-9eef7222e74c
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: dd783b3f-f50d-4493-9282-c920fd51fa06
+    line_id: KR1e0001_tls_009-661a.12
+    textline: 克而取之
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

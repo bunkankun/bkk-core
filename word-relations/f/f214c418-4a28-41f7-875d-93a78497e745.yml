@@ -1,0 +1,21 @@
+uuid: f214c418-4a28-41f7-875d-93a78497e745
+type: word-relation
+group_uuid: dd874bdc-47d2-5998-9ba4-c2f5d7b37b86
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 40a9658c-4b5e-4952-82c0-37e84b877bf3
+  text: 疾
+  concept: QUICK
+  concept_uuid: df0bdfe7-5860-4d80-bcad-ffd73f57b886
+right:
+  word_uuid: 9018fe61-fda7-4a71-ad38-a5cf3856f610
+  text: 緩
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

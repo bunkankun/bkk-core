@@ -1,0 +1,32 @@
+uuid: a5073929-4476-4605-9c4d-363e17f96dcf
+type: word-relation
+group_uuid: a5073929-4476-4605-9c4d-363e17f96dcf
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 44b0cba6-2a0d-44d7-9458-2899ee17b6b9
+  text: 君子
+  concept: GENTLEMAN
+  concept_uuid: 36efaebe-58a9-4106-9ace-5dbcedf69de5
+  attestation:
+    text_title: 論語
+    line_uuid: c687aadf-43ca-4f66-8e2c-bc65461c79a2
+    line_id: KR1h0004_tls_002-14a.1
+    textline: 「君子不器
+    offset: 2
+    range: 2
+right:
+  word_uuid: c59fa555-aa64-47a2-b227-8762a12ed615
+  text: 器
+  concept: TOOL
+  concept_uuid: 403b2f16-b0b3-487b-905b-dd6a0a609f57
+  attestation:
+    text_title: 論語
+    line_uuid: c687aadf-43ca-4f66-8e2c-bc65461c79a2
+    line_id: KR1h0004_tls_002-14a.1
+    textline: 「君子不器
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

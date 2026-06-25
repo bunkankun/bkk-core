@@ -1,0 +1,32 @@
+uuid: 49294ea2-1ec0-43ef-a94e-a21ec0d3ef57
+type: word-relation
+group_uuid: a8783ce2-acc4-5824-a150-dbbebe8e8756
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0cf8a5e2-af7a-4c37-b972-69cd2e3e2266
+  text: 定
+  concept: FIX
+  concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_030-6a.26
+    textline: 大王安坐定氣
+    offset: 6
+    range: 1
+right:
+  word_uuid: 84b97005-fa29-4396-b0c3-b345176c03c3
+  text: 氣
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_030-6a.26
+    textline: 大王安坐定氣
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-04-08T17:49:41.609+09:00'

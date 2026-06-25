@@ -1,0 +1,21 @@
+uuid: c16aae4d-8c33-4625-992b-4fa3de02a47f
+type: word-relation
+group_uuid: aeed70e5-fb39-5efa-9da3-6ea2a84a624c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 64b231da-1d27-459a-a12f-c4b81f906d44
+  text: 寡
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+right:
+  word_uuid: 009f6cda-0bcf-4392-8948-968ba660578a
+  text: 鮮
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

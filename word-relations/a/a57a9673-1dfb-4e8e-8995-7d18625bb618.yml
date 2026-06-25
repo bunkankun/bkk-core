@@ -1,0 +1,32 @@
+uuid: a57a9673-1dfb-4e8e-8995-7d18625bb618
+type: word-relation
+group_uuid: a57a9673-1dfb-4e8e-8995-7d18625bb618
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2f07b0ee-da99-49b1-a959-3e454fe57b28
+  text: 蟲
+  concept: INSECTS
+  concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3971c761-d1f2-4c91-8308-bcc4ac897e7a
+    line_id: KR3j0009_tls_002-9a.13
+    textline: 蟲螟為害
+    offset: 1
+    range: 1
+right:
+  word_uuid: 471ffc32-4117-4de1-9ed5-f2002befc573
+  text: 螟
+  concept: INSECTS
+  concept_uuid: 3f2a3b34-d169-4ea5-9ed7-4ff01a24e316
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3971c761-d1f2-4c91-8308-bcc4ac897e7a
+    line_id: KR3j0009_tls_002-9a.13
+    textline: 蟲螟為害
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

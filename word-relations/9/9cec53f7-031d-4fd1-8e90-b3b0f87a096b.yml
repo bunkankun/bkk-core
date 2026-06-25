@@ -1,0 +1,32 @@
+uuid: 9cec53f7-031d-4fd1-8e90-b3b0f87a096b
+type: word-relation
+group_uuid: 93fddc17-be10-4b81-8389-da952bc01300
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: a2863dc3-73d1-439d-9fc2-5c3ed1b23f2f
+  text: 治
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 27f98fe9-8ba6-445c-baf6-3ba18823d602
+    line_id: KR3j0009_tls_005-12a.27
+    textline: 能以一治其身者
+    offset: 4
+    range: 1
+right:
+  word_uuid: 1f0212a0-7efc-4521-90e8-07448a6db90b
+  text: 身
+  concept: PERSON
+  concept_uuid: 83603e65-d4fc-40b1-a27d-6d89262fde06
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 27f98fe9-8ba6-445c-baf6-3ba18823d602
+    line_id: KR3j0009_tls_005-12a.27
+    textline: 能以一治其身者
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 123db18a-8716-4388-8f05-a485a680d2b7
+type: word-relation
+group_uuid: 123db18a-8716-4388-8f05-a485a680d2b7
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: bc2739d5-c55d-4d96-9ff2-07c3a16b43d6
+  text: 舒
+  concept: STRETCH OUT
+  concept_uuid: 03c42392-847b-477f-a5d7-2826857c12ce
+  attestation:
+    text_title: 韓非子
+    line_uuid: 99978b50-f9b2-4a87-9271-715773265846
+    line_id: KR3c0005_tls_010-37a.4
+    textline: 舒翼而舞
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8858d36f-7a24-4641-9024-12c46017d929
+  text: 翼
+  concept: WINGS
+  concept_uuid: ce803475-ab64-4def-b475-4d3ca199c513
+  attestation:
+    text_title: 韓非子
+    line_uuid: 99978b50-f9b2-4a87-9271-715773265846
+    line_id: KR3c0005_tls_010-37a.4
+    textline: 舒翼而舞
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

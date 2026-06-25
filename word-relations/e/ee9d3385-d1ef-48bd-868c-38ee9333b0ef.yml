@@ -1,0 +1,35 @@
+uuid: ee9d3385-d1ef-48bd-868c-38ee9333b0ef
+type: word-relation
+group_uuid: ee9d3385-d1ef-48bd-868c-38ee9333b0ef
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d89589c9-2880-4937-81fd-e89bde511484
+  text: 進
+  concept: ADVANCE
+  concept_uuid: 10b26f7e-7741-4cc6-a19a-c4abc44337b5
+  attestation:
+    text_title: 淮南子
+    line_uuid: fb97d02e-132e-4d2e-89c9-199dda1215e6
+    line_id: KR3j0010_tls_009-33a.10
+    textline: 是故能進退履繩
+    offset: 4
+    range: 1
+right:
+  word_uuid: d029ab23-a1cd-4121-b9a7-0fafa9457b51
+  text: 退
+  concept: WITHDRAW
+  concept_uuid: e732a131-a134-47a5-9d42-53b7a9cd1660
+  attestation:
+    text_title: 淮南子
+    line_uuid: fb97d02e-132e-4d2e-89c9-199dda1215e6
+    line_id: KR3j0010_tls_009-33a.10
+    textline: 是故能進退履繩
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

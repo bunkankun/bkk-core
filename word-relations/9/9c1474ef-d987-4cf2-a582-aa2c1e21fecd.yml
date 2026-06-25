@@ -1,0 +1,32 @@
+uuid: 9c1474ef-d987-4cf2-a582-aa2c1e21fecd
+type: word-relation
+group_uuid: 9c1474ef-d987-4cf2-a582-aa2c1e21fecd
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 8bad50f3-3ac9-41d0-ab4c-8501a3e032e3
+  text: 赤
+  concept: NAKED
+  concept_uuid: e033744f-13da-488e-915f-3944c0edac4b
+  attestation:
+    text_title: 老子
+    line_uuid: cd212769-85b8-44f5-adaf-1487fe01f8ca
+    line_id: KR5c0057_tls_055-1a.4
+    textline: 比於赤子
+    offset: 3
+    range: 1
+right:
+  word_uuid: c8db65b9-7001-4baa-a932-ed8322e242e7
+  text: 子
+  concept: CHILD
+  concept_uuid: 94f154a1-a5ab-4794-947d-dbc1acbb6ec7
+  attestation:
+    text_title: 老子
+    line_uuid: cd212769-85b8-44f5-adaf-1487fe01f8ca
+    line_id: KR5c0057_tls_055-1a.4
+    textline: 比於赤子
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

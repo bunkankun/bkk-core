@@ -1,0 +1,32 @@
+uuid: 6e16433d-5970-40ea-ba03-81d8c84d1a90
+type: word-relation
+group_uuid: c7deb671-eca9-4cd6-99b0-6d48fa8a9212
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: e807793f-38ab-4277-8323-b6ba2dafe868
+  text: 嘗
+  concept: PAST
+  concept_uuid: 3f2acc5c-4d45-4bf5-aad2-3e2139642177
+  attestation:
+    text_title: 論衡
+    line_uuid: 5131b2bc-c598-41d9-86af-12f44caf7988
+    line_id: KR3j0080_tls_002-8a.3
+    textline: 未嘗絕也
+    offset: 2
+    range: 1
+right:
+  word_uuid: e5e33897-adf7-418a-a6fd-99eb8d996a21
+  text: 未
+  concept: NOT
+  concept_uuid: 2785bda2-fc81-4400-bfbe-53a6bee057b7
+  attestation:
+    text_title: 論衡
+    line_uuid: 5131b2bc-c598-41d9-86af-12f44caf7988
+    line_id: KR3j0080_tls_002-8a.3
+    textline: 未嘗絕也
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

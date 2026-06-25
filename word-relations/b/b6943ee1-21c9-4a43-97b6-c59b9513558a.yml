@@ -1,0 +1,30 @@
+uuid: b6943ee1-21c9-4a43-97b6-c59b9513558a
+type: word-relation
+group_uuid: b6943ee1-21c9-4a43-97b6-c59b9513558a
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c73975b1-a5f2-40b5-be59-47056986ce92
+  text: 謠
+  concept: SING
+  concept_uuid: f30a70cf-cbce-46e7-a48e-814ec680b91c
+  attestation:
+    text_title: 楚辭
+    line_uuid: 7447fd3e-ad84-4815-a68d-fd4c51df5ee6
+    textline: 謠吟兮中野
+    offset: 1
+    range: 1
+right:
+  word_uuid: 8a5f4619-157f-49bb-b28b-e5bfc2679a77
+  text: 吟
+  concept: CHANT
+  concept_uuid: 27a34cec-04db-4cf1-9d79-fad0e99e5b09
+  attestation:
+    text_title: 楚辭
+    line_uuid: 7447fd3e-ad84-4815-a68d-fd4c51df5ee6
+    textline: 謠吟兮中野
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,31 @@
+uuid: b7cba50e-2dee-4e5b-ace2-e825ac7732d4
+type: word-relation
+group_uuid: b7cba50e-2dee-4e5b-ace2-e825ac7732d4
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 20ce3800-8a9c-4021-944e-ea84a5a9f1d2
+  text: 慮
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: 23d8122b-8329-49b4-8d47-f78cf0d9065a
+    line_id: KR3c0005_tls_006-14a.8
+    textline: 百慮私家之便
+    offset: 2
+    range: 1
+right:
+  word_uuid: 8c10a299-62af-48fd-8a74-0571d089327f
+  text: 圖
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 韓非子
+    line_uuid: 10fa883e-b4a3-4455-a0cc-cbd516e8defe
+    textline: 不一圖主之國
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

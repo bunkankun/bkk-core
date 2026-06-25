@@ -1,0 +1,30 @@
+uuid: b8afba46-afdb-42d6-96d1-01d257422c7b
+type: word-relation
+group_uuid: b8afba46-afdb-42d6-96d1-01d257422c7b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 3151d8aa-789d-459f-abdc-285fb17d0e63
+  text: 棺
+  concept: COFFIN
+  concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+  attestation:
+    text_title: 孟子
+    line_uuid: 0f7036f7-34d4-4f07-8618-7d25a13e9b13
+    textline: 謂棺槨衣衾之美也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 1968c072-0e4b-41f4-9517-8548ca77cb8e
+  text: 槨
+  concept: COFFIN
+  concept_uuid: efee83e7-88ce-45f3-9123-b68933c89c71
+  attestation:
+    text_title: 孟子
+    line_uuid: 0f7036f7-34d4-4f07-8618-7d25a13e9b13
+    textline: 謂棺槨衣衾之美也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

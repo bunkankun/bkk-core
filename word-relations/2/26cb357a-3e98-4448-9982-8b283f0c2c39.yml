@@ -1,0 +1,21 @@
+uuid: 26cb357a-3e98-4448-9982-8b283f0c2c39
+type: word-relation
+group_uuid: adcc110d-d0f8-5650-92b3-a39e17cfb7bb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d52674c7-de47-490f-8abc-912c040f2ec6
+  text: 稽
+  concept: REMAIN
+  concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+right:
+  word_uuid: 4a67f65c-1e71-431a-8493-e081437a9fff
+  text: 留
+  concept: REMAIN
+  concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

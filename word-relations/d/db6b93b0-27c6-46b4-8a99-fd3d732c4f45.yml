@@ -1,0 +1,21 @@
+uuid: db6b93b0-27c6-46b4-8a99-fd3d732c4f45
+type: word-relation
+group_uuid: 8a5a3019-a4a7-5464-9e00-69270636a95e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: be0369c5-799d-4985-ba55-c063670bc02c
+  text: 燔
+  concept: ROAST
+  concept_uuid: 4f2633ae-88e7-4aef-9c5d-facfb9485cf6
+right:
+  word_uuid: 9edfb749-8a31-4d7f-a7d7-267df69cba9d
+  text: 爍
+  concept: GRILL
+  concept_uuid: 9a909e97-b33d-4e8a-977d-8cfaec2a833d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

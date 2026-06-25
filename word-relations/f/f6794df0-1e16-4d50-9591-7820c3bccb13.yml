@@ -1,0 +1,32 @@
+uuid: f6794df0-1e16-4d50-9591-7820c3bccb13
+type: word-relation
+group_uuid: f6794df0-1e16-4d50-9591-7820c3bccb13
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7c96920c-0343-4a53-b670-92f1aebb5d7f
+  text: 規
+  concept: COMPASS
+  concept_uuid: a9eeabab-bbce-41b7-8f65-be82c0f421eb
+  attestation:
+    text_title: 韓非子
+    line_uuid: 00549f1e-ca5f-405a-916e-8371ce44256f
+    line_id: KR3c0005_tls_006-36a.4
+    textline: 然必先以規矩為度
+    offset: 5
+    range: 1
+right:
+  word_uuid: c837d00f-80d6-42f7-8865-be9e67ce6fb3
+  text: 矩
+  concept: SQUARE-TOOL
+  concept_uuid: 2acb28a6-9a96-4833-a492-cd355964728f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 00549f1e-ca5f-405a-916e-8371ce44256f
+    line_id: KR3c0005_tls_006-36a.4
+    textline: 然必先以規矩為度
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

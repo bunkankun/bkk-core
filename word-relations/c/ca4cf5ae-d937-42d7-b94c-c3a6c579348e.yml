@@ -1,0 +1,31 @@
+uuid: ca4cf5ae-d937-42d7-b94c-c3a6c579348e
+type: word-relation
+group_uuid: ca4cf5ae-d937-42d7-b94c-c3a6c579348e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 23c1fd28-399e-42d1-8889-5a56b87701b9
+  text: 踰
+  concept: LEAP OVER
+  concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+  attestation:
+    text_title: 韓非子
+    line_uuid: 274dc302-671b-45cd-a53b-fcad4f57c6be
+    line_id: KR3c0005_tls_006-31a.8
+    textline: 不敢相踰越
+    range: 1
+right:
+  word_uuid: 7c1c068c-c872-40d3-8349-d2c9967af597
+  text: 越
+  concept: LEAP OVER
+  concept_uuid: d11454bb-8d1f-4710-9b7a-c14b81ca4bea
+  attestation:
+    text_title: 韓非子
+    line_uuid: 274dc302-671b-45cd-a53b-fcad4f57c6be
+    line_id: KR3c0005_tls_006-31a.8
+    textline: 不敢相踰越
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

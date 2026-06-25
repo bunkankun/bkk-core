@@ -1,0 +1,21 @@
+uuid: c2204554-3c22-49e7-b3c9-b8c0cf3e307f
+type: word-relation
+group_uuid: f282cd66-1651-5592-882b-b53fc17f60aa
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: fe6eca71-8ea7-4128-b286-7883815c25dc
+  text: 備
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+right:
+  word_uuid: e4d9ce19-2a42-4c34-93dc-5c85eca3b65f
+  text: 防
+  concept: DEFEND
+  concept_uuid: d9f31a63-0a98-43ec-982c-93bad6827b82
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

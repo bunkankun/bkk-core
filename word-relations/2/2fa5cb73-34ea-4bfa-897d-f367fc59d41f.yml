@@ -1,0 +1,18 @@
+uuid: 2fa5cb73-34ea-4bfa-897d-f367fc59d41f
+type: word-relation
+group_uuid: cb0f0f92-dc0c-5405-b493-0efb30fcd102
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 2c48950a-fa1e-4dfd-9de5-a9a05f5e9e7c
+  text: 按
+  concept: CONTROL
+  concept_uuid: dfc9d96d-84c1-4c62-a62d-02d46f969149
+right:
+  word_uuid: c6891bfb-04ca-44b8-8cf0-bc523adb850c
+  text: 興
+  concept: MOBILISE
+  concept_uuid: c0052f5f-cd0d-436b-9a8f-1544ade747cd
+source:
+  source_file: word-relations.xml

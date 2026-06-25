@@ -1,0 +1,32 @@
+uuid: 57020742-c619-4e53-85b8-2eaf73e515a8
+type: word-relation
+group_uuid: 57020742-c619-4e53-85b8-2eaf73e515a8
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e2abec89-2584-419f-aa53-c970ab1df64d
+  text: 布
+  concept: ISSUE
+  concept_uuid: 9791e09f-66ae-43f2-b3f6-a3989c2a30ca
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1058944d-6d6d-4b36-a398-124b1b5330d0
+    line_id: KR3c0005_tls_010-101a.3
+    textline: “寡人布令曰
+    offset: 4
+    range: 1
+right:
+  word_uuid: d491683b-a8e9-4a47-9137-6cc27eec0841
+  text: 令
+  concept: COMMAND
+  concept_uuid: c5fa7e5d-c8f8-40b5-935b-4b83b70448e9
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1058944d-6d6d-4b36-a398-124b1b5330d0
+    line_id: KR3c0005_tls_010-101a.3
+    textline: “寡人布令曰
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

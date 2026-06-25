@@ -1,0 +1,32 @@
+uuid: 96976269-6370-41c7-9762-69637081c770
+type: word-relation
+group_uuid: b236e962-0281-52e4-9f5b-827130a69300
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 78c58bd2-ac0a-4a03-8edb-a03424fa94b7
+  text: 我
+  concept: ONESELF
+  concept_uuid: 47b0c3c6-2806-40eb-928f-afdff59802b0
+  attestation:
+    text_title: 孫子
+    line_id: KR3b0003_tls_011-1a.32
+    textline: 我無出也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 355783dc-e8bf-401d-b83d-01434d47acf9
+  text: 敵
+  concept: ENEMY
+  concept_uuid: f2255f9d-53ec-4ff8-b8b3-971c28fdd77c
+  attestation:
+    text_title: 孫子
+    line_id: KR3b0003_tls_011-1a.34
+    textline: 令敵半出而擊之
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-10-23T20:46:34.585+09:00'

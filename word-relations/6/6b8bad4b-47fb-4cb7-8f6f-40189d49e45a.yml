@@ -1,0 +1,32 @@
+uuid: 6b8bad4b-47fb-4cb7-8f6f-40189d49e45a
+type: word-relation
+group_uuid: 79f312f2-bf91-40ae-84ec-558bde20a23b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 965c3255-56ae-47b4-948d-6906a49df508
+  text: 舊
+  concept: OLD
+  concept_uuid: bcf8bcdd-f03c-4eca-a77a-7cb184c1bbc1
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 5f1b6cf1-4cb0-4ff8-a813-acd9a9896f18
+    line_id: KR3j0009_tls_005-34a.10
+    textline: 周雖舊邦
+    offset: 3
+    range: 1
+right:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: e98bbd9e-730a-4961-b554-9f746dee21fe
+    line_id: KR3j0009_tls_005-34a.11
+    textline: 其命維新
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

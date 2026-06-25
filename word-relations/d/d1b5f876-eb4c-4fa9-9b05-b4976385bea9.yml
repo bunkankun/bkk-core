@@ -1,0 +1,18 @@
+uuid: d1b5f876-eb4c-4fa9-9b05-b4976385bea9
+type: word-relation
+group_uuid: 8179d2cd-e753-5173-b88a-30adb0de93ab
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: a67ab7b1-849b-4c37-bb24-7aabc826c285
+  text: 語
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+right:
+  word_uuid: 4fa92be2-e2ea-479d-a3e6-46f7ae6f8928
+  text: 言
+  concept: SPEAK
+  concept_uuid: 07855030-3463-472d-bd01-1c7ceebbfb3d
+source:
+  source_file: word-relations.xml

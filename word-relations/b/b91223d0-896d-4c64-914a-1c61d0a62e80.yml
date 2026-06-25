@@ -1,0 +1,32 @@
+uuid: b91223d0-896d-4c64-914a-1c61d0a62e80
+type: word-relation
+group_uuid: b91223d0-896d-4c64-914a-1c61d0a62e80
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: cf3ddfaf-3538-4816-b5c9-213dc178b1e4
+  text: 同
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 論衡
+    line_uuid: ff7fd6b9-b642-4304-8f8e-f5217a8d3ca8
+    line_id: KR3j0080_tls_005-5a.22
+    textline: 文德與仁義同
+    offset: 6
+    range: 1
+right:
+  word_uuid: d7e8ac65-aa15-48a5-acf0-8071c253ef9e
+  text: 等
+  concept: SAME
+  concept_uuid: 106e9a2c-1d41-4d78-9eb0-ec0cd3f7882e
+  attestation:
+    text_title: 論衡
+    line_uuid: 14fa2152-4e03-4501-a69b-0e62c15451ee
+    line_id: KR3j0080_tls_005-5a.23
+    textline: 不走與不恐等
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

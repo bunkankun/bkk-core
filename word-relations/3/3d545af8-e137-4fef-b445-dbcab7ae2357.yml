@@ -1,0 +1,21 @@
+uuid: 3d545af8-e137-4fef-b445-dbcab7ae2357
+type: word-relation
+group_uuid: 7a4e56ce-6607-56a4-b862-ee404c448105
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 451a115e-f9cc-41b4-bc6b-ff8be89b71f9
+  text: 諱
+  concept: TABOO
+  concept_uuid: 50d38d26-cdbb-449d-bc6e-d8c9b9c98226
+right:
+  word_uuid: 54626d44-8001-4da6-890c-cbcf21a44aa7
+  text: 禁
+  concept: FORBID
+  concept_uuid: ae0f45f9-f415-4072-8647-dc01d9190674
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

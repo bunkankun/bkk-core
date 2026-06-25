@@ -1,0 +1,32 @@
+uuid: 61d571d3-e758-4c4e-bc93-41d19e0ffaef
+type: word-relation
+group_uuid: 61d571d3-e758-4c4e-bc93-41d19e0ffaef
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 05d692ea-13aa-487a-88a1-13a455bece0d
+  text: 干
+  concept: SEEK
+  concept_uuid: 08f62a42-0871-4eb7-a6e1-92e00657c53e
+  attestation:
+    text_title: 論語
+    line_uuid: 5c1b3efa-47cd-46a8-b4f2-390f9871692e
+    line_id: KR1h0004_tls_002-19a.2
+    textline: 子張學干祿
+    offset: 4
+    range: 1
+right:
+  word_uuid: d2a3747b-743b-4392-a5d3-21459a1556c5
+  text: 祿
+  concept: SALARY
+  concept_uuid: c2f20d19-79ad-4d96-b7c0-0421d08cfc56
+  attestation:
+    text_title: 論語
+    line_uuid: 5c1b3efa-47cd-46a8-b4f2-390f9871692e
+    line_id: KR1h0004_tls_002-19a.2
+    textline: 子張學干祿
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

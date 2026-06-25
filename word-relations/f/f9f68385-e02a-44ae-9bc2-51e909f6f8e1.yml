@@ -1,0 +1,32 @@
+uuid: f9f68385-e02a-44ae-9bc2-51e909f6f8e1
+type: word-relation
+group_uuid: 7fa41d7e-2d89-4384-8f07-31b507736669
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0182f188-4809-4fc9-9e6d-087d18e65cdc
+  text: 齒
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 論衡
+    line_uuid: 2fc4bcb0-d599-44e1-99d7-17934ef0a2b1
+    line_id: KR3j0080_tls_014-14a.5
+    textline: 自以齒牙頓利
+    offset: 3
+    range: 1
+right:
+  word_uuid: a656a9a5-0c34-4cab-998c-3ff894ab78b8
+  text: 牙
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 論衡
+    line_uuid: 2fc4bcb0-d599-44e1-99d7-17934ef0a2b1
+    line_id: KR3j0080_tls_014-14a.5
+    textline: 自以齒牙頓利
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

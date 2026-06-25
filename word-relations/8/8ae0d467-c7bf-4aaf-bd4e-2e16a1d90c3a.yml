@@ -1,0 +1,32 @@
+uuid: 8ae0d467-c7bf-4aaf-bd4e-2e16a1d90c3a
+type: word-relation
+group_uuid: 3d3027c0-d8b7-426b-bcfb-fc90a21fe4eb
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0cb7eff2-872d-495e-b9ce-51b94bd4a24a
+  text: 盟
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 管子
+    line_uuid: e3ddd670-d0c0-4ae1-851d-ba43a3d90f13
+    line_id: KR3c0001_tls_010-23a.2
+    textline: 於是管仲與桓公盟誓為令曰
+    offset: 8
+    range: 1
+right:
+  word_uuid: 241953c8-8c18-41e3-9640-c04bd4d249aa
+  text: 誓
+  concept: CONTRACT
+  concept_uuid: 4cc865ac-b950-4e3f-b6ee-236c70abae56
+  attestation:
+    text_title: 管子
+    line_uuid: e3ddd670-d0c0-4ae1-851d-ba43a3d90f13
+    line_id: KR3c0001_tls_010-23a.2
+    textline: 於是管仲與桓公盟誓為令曰
+    offset: 9
+    range: 1
+source:
+  source_file: word-relations.xml

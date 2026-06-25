@@ -1,0 +1,32 @@
+uuid: ea2d0d71-0f76-438f-ad0d-710f76d38f4b
+type: word-relation
+group_uuid: 37e787a7-2b57-5690-b1bb-7773a8913d79
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2356296c-bc7c-4637-af8e-39f362301a15
+  text: 耰
+  concept: HOE
+  concept_uuid: eccb969b-d1db-4fb1-b450-b15e305865f3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.22
+    textline: 後世為之耒耜耰鋤
+    offset: 7
+    range: 1
+right:
+  word_uuid: d7e804a1-7f12-4ab5-b3a7-6a04d47391b0
+  text: 鋤
+  concept: HOE
+  concept_uuid: eccb969b-d1db-4fb1-b450-b15e305865f3
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.22
+    textline: 後世為之耒耜耰鋤
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T06:43:40.137+09:00'

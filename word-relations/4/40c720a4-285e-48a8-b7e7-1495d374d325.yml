@@ -1,0 +1,30 @@
+uuid: 40c720a4-285e-48a8-b7e7-1495d374d325
+type: word-relation
+group_uuid: a35764e7-972d-44bd-85cd-529baa7d7736
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6936d062-4f0b-4b0e-9e87-d7b47d208a5a
+  text: 污
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4011aa85-1476-4d6c-b50f-106362ce9727
+    textline: 污穢為私者必知
+    offset: 1
+    range: 1
+right:
+  word_uuid: d2bae2ed-fa8d-48db-a974-c7329555b258
+  text: 穢
+  concept: WICKED
+  concept_uuid: 9dac739b-a566-4517-81f2-92ec535f7571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4011aa85-1476-4d6c-b50f-106362ce9727
+    textline: 污穢為私者必知
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

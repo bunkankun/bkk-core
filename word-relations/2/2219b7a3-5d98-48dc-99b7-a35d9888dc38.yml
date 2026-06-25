@@ -1,0 +1,32 @@
+uuid: 2219b7a3-5d98-48dc-99b7-a35d9888dc38
+type: word-relation
+group_uuid: 2d503cb0-587b-59a8-853d-f4302627e263
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: bd21b8e7-c681-4cb1-9c28-12575274f661
+  text: 長
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 北堂書鈔
+    line_id: CH7x2013_CHANT_069-1a.119
+    textline: 既長於書記
+    offset: 2
+    range: 1
+right:
+  word_uuid: 94ed0e3f-658f-4853-9da7-317621b44bda
+  text: 善
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 北堂書鈔
+    line_id: CH7x2013_CHANT_069-1a.120
+    textline: 又善詩賦
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-11-06T15:59:51.063+09:00'

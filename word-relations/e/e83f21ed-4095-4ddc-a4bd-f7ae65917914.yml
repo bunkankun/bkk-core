@@ -1,0 +1,18 @@
+uuid: e83f21ed-4095-4ddc-a4bd-f7ae65917914
+type: word-relation
+group_uuid: 4ac8d097-6b19-59ba-83f7-32526b1f8f38
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cf95cd19-b795-4901-8dd5-54d15bdba73d
+  text: 兵
+  concept: WEAPON
+  concept_uuid: dfee7b4f-9d31-49ff-9db4-83547b318ab2
+right:
+  word_uuid: a3b541bb-ee1c-4db8-ab80-21c6bcd1c739
+  text: 頓
+  concept: BLUNT
+  concept_uuid: e1867ebb-a782-407a-a31b-f46b0901920b
+source:
+  source_file: word-relations.xml

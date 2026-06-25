@@ -1,0 +1,32 @@
+uuid: eb94086b-b47d-4bb7-8538-62dfa5e12220
+type: word-relation
+group_uuid: eb94086b-b47d-4bb7-8538-62dfa5e12220
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d156e0dd-47b5-40db-b471-a62994570f49
+  text: 肝
+  concept: LIVER
+  concept_uuid: 9ac61259-d211-4399-87f0-29fc35144a9b
+  attestation:
+    text_title: 史記
+    line_uuid: 3eb0ffa8-6479-43de-b519-3f6f7bd85e62
+    line_id: KR2a0001_tls_099-2a.68
+    textline: 肝腦塗地
+    offset: 1
+    range: 1
+right:
+  word_uuid: 549650be-ad96-4fd3-9b3c-5175608c21a8
+  text: 腦
+  concept: BRAIN
+  concept_uuid: cc4b8d1f-2c38-46f0-8de8-dd4436d9ef4a
+  attestation:
+    text_title: 史記
+    line_uuid: 3eb0ffa8-6479-43de-b519-3f6f7bd85e62
+    line_id: KR2a0001_tls_099-2a.68
+    textline: 肝腦塗地
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

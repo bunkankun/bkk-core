@@ -1,0 +1,31 @@
+uuid: 64a95610-4440-4ec7-bdbf-817a2e6eee13
+type: word-relation
+group_uuid: c6c9ad5b-0f34-40c3-b556-bc6bb05e5a03
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: cdda801b-b5d2-4f84-80e5-42dac6d847c5
+  text: 美
+  concept: EXCELLENT
+  concept_uuid: ae257525-1a92-45db-8b05-d5f95447c246
+  attestation:
+    text_title: 老子
+    line_uuid: a0faeaa5-a7b5-47cc-aaaf-1380a3f85da2
+    line_id: KR5c0057_tls_002-1a.3
+    textline: 天下皆知美之為美
+    range: 1
+right:
+  word_uuid: 3c907f88-9cb5-4124-ab58-9844404e4756
+  text: 惡
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 老子
+    line_uuid: 536465e0-1a28-4d9e-9299-edbeea1d2547
+    line_id: KR5c0057_tls_002-1a.4
+    textline: 斯惡已
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

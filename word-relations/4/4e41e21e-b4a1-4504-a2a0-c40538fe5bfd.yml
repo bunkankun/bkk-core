@@ -1,0 +1,21 @@
+uuid: 4e41e21e-b4a1-4504-a2a0-c40538fe5bfd
+type: word-relation
+group_uuid: 80a21dfd-b15c-5c9c-92d5-e0f1af49fa86
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 0a937b8a-2b12-41be-9b1a-59998db56547
+  text: 苦
+  concept: BITTER
+  concept_uuid: fcc234bb-1a60-43b9-bc4f-fa2406ed8c3a
+right:
+  word_uuid: abccfc09-0a86-49bf-a77d-a7d0ca4627ee
+  text: 痛
+  concept: PAIN
+  concept_uuid: 1babfc6a-dc73-4072-bb8a-21a58f671735
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

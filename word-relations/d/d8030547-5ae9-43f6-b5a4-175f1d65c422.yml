@@ -1,0 +1,21 @@
+uuid: d8030547-5ae9-43f6-b5a4-175f1d65c422
+type: word-relation
+group_uuid: 9251d0a1-1710-5368-9ae1-161f42fa1fd1
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 1a5fa35e-99bb-48d1-91cc-e6071b41495f
+  text: 飯
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+right:
+  word_uuid: be91d23d-f8a5-4b11-886a-aea66aa1d961
+  text: 餐
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

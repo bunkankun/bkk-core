@@ -1,0 +1,32 @@
+uuid: 006e6058-b82c-49fe-9a3c-d89be37b8654
+type: word-relation
+group_uuid: 006e6058-b82c-49fe-9a3c-d89be37b8654
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 9fe57d1d-7610-4266-860a-e0879d134fc6
+  text: 計
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 韓非子
+    line_uuid: 112b3c6d-685b-417b-b421-a00a90f4da4a
+    line_id: KR3c0005_tls_036-31a.8
+    textline: 計數之所出也
+    offset: 1
+    range: 1
+right:
+  word_uuid: 879a8c3d-f6e1-4bcf-8ccf-6cb1890a69e2
+  text: 數
+  concept: CALCULATE
+  concept_uuid: d6bcfb2f-af3b-49e2-9fce-98c0546bd1ab
+  attestation:
+    text_title: 韓非子
+    line_uuid: 112b3c6d-685b-417b-b421-a00a90f4da4a
+    line_id: KR3c0005_tls_036-31a.8
+    textline: 計數之所出也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

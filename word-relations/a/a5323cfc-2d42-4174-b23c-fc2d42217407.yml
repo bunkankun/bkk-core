@@ -1,0 +1,32 @@
+uuid: a5323cfc-2d42-4174-b23c-fc2d42217407
+type: word-relation
+group_uuid: 75bfebf3-02bf-5be9-bcee-8bc498fda90a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 8f265e41-a6f9-4026-8c13-bf7ab3a1e344
+  text: 負
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.34
+    textline: 肩負儋之勤也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4cd82c23-ef7b-4a65-982c-23ef7bea6569
+  text: 儋
+  concept: BURDEN
+  concept_uuid: be050ecf-05c0-433c-89d1-b00ebfe58e34
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-2a.34
+    textline: 肩負儋之勤也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-07T21:25:53.232+09:00'

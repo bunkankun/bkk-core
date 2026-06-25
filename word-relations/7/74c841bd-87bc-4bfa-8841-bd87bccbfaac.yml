@@ -1,0 +1,32 @@
+uuid: 74c841bd-87bc-4bfa-8841-bd87bccbfaac
+type: word-relation
+group_uuid: d60bc4b2-aeb8-5baa-a356-f884858641f9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 8df479cd-237c-4298-8b88-37b2f2157422
+  text: 猖
+  concept: MAD
+  concept_uuid: ecead991-337d-467d-8e12-0c2e721992b7
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_011-12a.4
+    textline: 猖狂 不知所往
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2817cf7c-db5e-4b86-beed-cd8ef2badc4b
+  text: 狂
+  concept: CRAZY
+  concept_uuid: c5361b77-b89a-4b8d-b019-7def414347b7
+  attestation:
+    text_title: 莊子
+    line_id: KR5c0126_tls_011-12a.4
+    textline: 猖狂 不知所往
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-06-19T00:45:31.385+09:00'

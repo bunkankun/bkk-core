@@ -1,0 +1,32 @@
+uuid: 47a2e686-53b9-416d-8311-8d6e3d50661d
+type: word-relation
+group_uuid: 47a2e686-53b9-416d-8311-8d6e3d50661d
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 6e0c1770-c243-46e3-94c3-9ea11b2c5541
+  text: 侈
+  concept: EXTRAVAGANT
+  concept_uuid: 636d3620-76d1-47af-9231-37328a508b4a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 9a620335-0106-4a47-a49f-6bdb731ac5c0
+    line_id: KR3c0005_tls_020-50a.4
+    textline: 多費之謂侈
+    offset: 5
+    range: 1
+right:
+  word_uuid: 64094588-d874-43d7-8c24-3013e22b9d90
+  text: 嗇
+  concept: FRUGAL
+  concept_uuid: 2c434270-d314-4481-9087-bd8e0a7a846d
+  attestation:
+    text_title: 韓非子
+    line_uuid: fcc7f164-b725-4af9-8202-feded8869653
+    line_id: KR3c0005_tls_020-50a.7
+    textline: 少費之謂嗇
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

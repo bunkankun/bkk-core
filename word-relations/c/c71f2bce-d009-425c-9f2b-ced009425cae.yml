@@ -1,0 +1,32 @@
+uuid: c71f2bce-d009-425c-9f2b-ced009425cae
+type: word-relation
+group_uuid: 393ab066-2b54-507b-ac1d-e1b8b4ecd98e
+rel_type: Inconsist
+rel_type_uuid: e531479e-07ea-4e89-9879-7f3b02ed815b
+rel_label: inconsistent with (美 - 亂)
+left:
+  word_uuid: 3f1af156-4ca7-430d-9fc3-986d52293f78
+  text: 至道
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.25
+    textline: 曲士不可與語至道
+    offset: 7
+    range: 2
+right:
+  word_uuid: 094758c2-1faf-4baf-9c11-50bdb6586a4c
+  text: 俗
+  concept: VULGAR
+  concept_uuid: 4ab5d090-c2ec-4d28-8451-dfa829fe558a
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_001-11a.26
+    textline: 拘於俗
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-05-23T00:27:16.666+09:00'

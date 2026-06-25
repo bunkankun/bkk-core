@@ -1,0 +1,32 @@
+uuid: 6ad72f8e-eeff-47b1-972f-8eeeff17b16d
+type: word-relation
+group_uuid: 88123b15-a51d-5935-833d-9b3b0a2898e2
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: cb658faf-8f6b-4bbc-a58f-af8f6b6bbcf7
+  text: 天意
+  concept: PLAN
+  concept_uuid: 8bed01e5-7f3e-47ee-8296-6f90c3f31f37
+  attestation:
+    text_title: 忠經
+    line_id: KR1f0014_tls_016-4a.9
+    textline: 天意無咎
+    offset: 1
+    range: 2
+right:
+  word_uuid: 0c532ad9-577b-4e34-932a-d9577b5e34c9
+  text: 無咎
+  concept: CORRECT
+  concept_uuid: 9ab78015-0fad-44a9-a51a-a870f5602d88
+  attestation:
+    text_title: 忠經
+    line_id: KR1f0014_tls_016-4a.9
+    textline: 天意無咎
+    offset: 3
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-20T16:59:15.539+09:00'

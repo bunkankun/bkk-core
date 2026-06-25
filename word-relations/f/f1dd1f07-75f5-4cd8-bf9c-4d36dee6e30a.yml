@@ -1,0 +1,32 @@
+uuid: f1dd1f07-75f5-4cd8-bf9c-4d36dee6e30a
+type: word-relation
+group_uuid: f1dd1f07-75f5-4cd8-bf9c-4d36dee6e30a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f35f43df-b6c5-4cee-a2f1-2e4e466e9fd7
+  text: 開
+  concept: OPEN
+  concept_uuid: 988c5f71-9685-4900-8be3-a087cdc44c96
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 76f8871d-e2bf-4448-8407-93d6368cfd45
+    line_id: KR3j0009_tls_002-5a.7
+    textline: 開戶始出
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9d8a9f59-6a0d-4e81-a425-50f8451164b2
+  text: 戶
+  concept: DOOR
+  concept_uuid: 4ff8f120-1ced-4b04-9387-adadacffb15b
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 76f8871d-e2bf-4448-8407-93d6368cfd45
+    line_id: KR3j0009_tls_002-5a.7
+    textline: 開戶始出
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

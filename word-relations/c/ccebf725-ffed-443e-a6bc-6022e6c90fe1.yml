@@ -1,0 +1,23 @@
+uuid: ccebf725-ffed-443e-a6bc-6022e6c90fe1
+type: word-relation
+group_uuid: 4624cb9a-4b99-5451-b2ce-f98db12b36c5
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 76924dc2-b8f1-44f6-a28d-80d145d69645
+  text: 寬
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+right:
+  word_uuid: 9018fe61-fda7-4a71-ad38-a5cf3856f610
+  text: 緩
+  concept: SLOW
+  concept_uuid: 41672630-f2c9-4525-8173-8dd61f5131d0
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+  scope: '217'
+  scope_unit: page
+source:
+  source_file: word-relations.xml

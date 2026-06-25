@@ -1,0 +1,32 @@
+uuid: f979b689-f8c7-4c84-accf-d7484c53edb8
+type: word-relation
+group_uuid: f979b689-f8c7-4c84-accf-d7484c53edb8
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3ec95e2e-87c8-4ceb-9866-d9ab5cd8deab
+  text: 幸
+  concept: COPULATE
+  concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+  attestation:
+    text_title: 論衡
+    line_uuid: 9221c77a-0342-4bc2-9351-25389bda08e9
+    line_id: KR3j0080_tls_001-6a.20
+    textline: 籍孺幸於孝惠
+    offset: 3
+    range: 1
+right:
+  word_uuid: 3f33b11c-94bb-4a97-a78c-0b3b86d37acb
+  text: 愛
+  concept: COPULATE
+  concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+  attestation:
+    text_title: 論衡
+    line_uuid: c94ee692-7d78-4268-9a42-d00f5ab00eae
+    line_id: KR3j0080_tls_001-6a.21
+    textline: 鄧通愛於孝文
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

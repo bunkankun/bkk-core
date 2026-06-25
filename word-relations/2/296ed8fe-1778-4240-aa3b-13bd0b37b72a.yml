@@ -1,0 +1,32 @@
+uuid: 296ed8fe-1778-4240-aa3b-13bd0b37b72a
+type: word-relation
+group_uuid: 09ae06d2-a2b1-4346-a654-242c90eb3000
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 170fe039-021f-48ae-a9e8-283cdd71dcd2
+    line_id: KR3c0005_tls_018-18a.4
+    textline: “無變古
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 韓非子
+    line_uuid: 55a9bcc7-493f-43d4-a0d0-a4ae2a8bc4a4
+    line_id: KR3c0005_tls_018-18a.5
+    textline: 毋易常”
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

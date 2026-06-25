@@ -1,0 +1,32 @@
+uuid: ac3085f7-e476-41ad-a9f3-2aba5c565a1b
+type: word-relation
+group_uuid: ac3085f7-e476-41ad-a9f3-2aba5c565a1b
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: e242ee95-f8b0-4489-b8de-490a4b9e05eb
+  text: 服
+  concept: WEAR
+  concept_uuid: 58bcb546-2331-4d32-ab47-f845c76aeb20
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0a1067b4-0b79-4b63-8c54-cbe93c4db82a
+    line_id: KR3j0009_tls_004-2a.28
+    textline: 服赤玉
+    offset: 1
+    range: 1
+right:
+  word_uuid: 79d82ba8-50cd-409a-a33b-1c106a58d9cf
+  text: 玉
+  concept: JADE
+  concept_uuid: aec3663d-9597-47ef-8aa6-52fef30fa9bc
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0a1067b4-0b79-4b63-8c54-cbe93c4db82a
+    line_id: KR3j0009_tls_004-2a.28
+    textline: 服赤玉
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

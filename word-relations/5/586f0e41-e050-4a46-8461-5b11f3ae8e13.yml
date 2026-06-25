@@ -1,0 +1,32 @@
+uuid: 586f0e41-e050-4a46-8461-5b11f3ae8e13
+type: word-relation
+group_uuid: 1ae619f0-6a7d-4b6c-be6a-871291c6fb3f
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 894f5efd-e8d3-48e8-a729-28267e601cec
+  text: 新
+  concept: NEW
+  concept_uuid: 38dfb9f4-a0d6-4055-8643-f81dbf39562f
+  attestation:
+    text_title: 法言
+    line_uuid: 648e2a7c-a505-49ec-b641-10a13028e2a5
+    line_id: KR3a0009_tls_004-19a.4
+    textline: 新則襲之
+    offset: 1
+    range: 1
+right:
+  word_uuid: f1f63d7b-add1-4577-ad23-49563a4d85a0
+  text: 敝
+  concept: TATTERED
+  concept_uuid: 83b720d9-c260-4f83-9557-ebcf5d5a06f8
+  attestation:
+    text_title: 法言
+    line_uuid: ecf9f8dd-5e3d-4410-b85f-946d147ee773
+    line_id: KR3a0009_tls_004-20a.1
+    textline: 敝則益損之
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

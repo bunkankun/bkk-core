@@ -1,0 +1,21 @@
+uuid: 31764a02-b65e-4cc9-899b-dfd84cfb989b
+type: word-relation
+group_uuid: e83f529e-9120-56fd-9a1d-f5b3054743e9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 9d102359-d70d-4261-b5a5-4b45590f44e3
+  text: 抵
+  concept: OPPOSE
+  concept_uuid: 28273da6-e729-4c02-95de-7806b910f168
+right:
+  word_uuid: 68b3701e-6a78-4733-9b82-7211cb4c95fa
+  text: 犯
+  concept: OFFEND
+  concept_uuid: 9944ce13-74d9-4e33-9a35-c7a074c69c9c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

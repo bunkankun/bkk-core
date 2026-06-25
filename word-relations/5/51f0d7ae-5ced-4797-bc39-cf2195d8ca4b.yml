@@ -1,0 +1,32 @@
+uuid: 51f0d7ae-5ced-4797-bc39-cf2195d8ca4b
+type: word-relation
+group_uuid: 51f0d7ae-5ced-4797-bc39-cf2195d8ca4b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7f71f0e6-36b5-4a51-b10e-17b21462e025
+  text: 與
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 戰國策
+    line_uuid: 670da8b3-b92e-4449-932f-198182a29543
+    line_id: KR2e0003_tls_001-1a.15
+    textline: 與秦
+    offset: 1
+    range: 1
+right:
+  word_uuid: d024552d-f025-444a-9ff2-5d3ab5f7516d
+  text: 歸
+  concept: GIVE
+  concept_uuid: ed1aeb49-abff-4167-a18e-60c0f2202d63
+  attestation:
+    text_title: 戰國策
+    line_uuid: cd74a5e2-1d81-4558-9a0b-aa695e0f9e03
+    line_id: KR2e0003_tls_001-1a.16
+    textline: 不若歸之大國
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

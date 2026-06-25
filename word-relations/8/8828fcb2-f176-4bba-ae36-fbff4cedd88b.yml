@@ -1,0 +1,32 @@
+uuid: 8828fcb2-f176-4bba-ae36-fbff4cedd88b
+type: word-relation
+group_uuid: 8828fcb2-f176-4bba-ae36-fbff4cedd88b
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 08db52ee-7cb9-4a60-af24-e8752e38c1d0
+  text: 褊
+  concept: NARROW
+  concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+  attestation:
+    text_title: 孟子
+    line_uuid: 23aa5000-ad46-4cbd-9408-793092938784
+    line_id: KR1h0001_tls_001-37a.5
+    textline: 齊國雖褊小
+    offset: 4
+    range: 1
+right:
+  word_uuid: 045bfc58-b263-4015-9321-d8f8da117073
+  text: 小
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+  attestation:
+    text_title: 孟子
+    line_uuid: 23aa5000-ad46-4cbd-9408-793092938784
+    line_id: KR1h0001_tls_001-37a.5
+    textline: 齊國雖褊小
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

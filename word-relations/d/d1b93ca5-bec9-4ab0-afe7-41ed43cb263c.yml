@@ -1,0 +1,30 @@
+uuid: d1b93ca5-bec9-4ab0-afe7-41ed43cb263c
+type: word-relation
+group_uuid: d1b93ca5-bec9-4ab0-afe7-41ed43cb263c
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 23a8db88-af85-4363-8137-aeff54285419
+  text: 國家
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 墨子
+    line_uuid: 893c4c7c-e360-49fc-97c4-7802e76ff681
+    textline: 此固國家之珍
+    offset: 3
+    range: 2
+right:
+  word_uuid: 27a8f4b4-3852-4322-b902-52c0f1497fcb
+  text: 社稷
+  concept: NATION
+  concept_uuid: b9f924c7-0540-4b4a-9c1f-67770bea8241
+  attestation:
+    text_title: 墨子
+    line_uuid: 5abca630-0f12-4629-9135-3de378d1cb1f
+    textline: 而社稷之佐也
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

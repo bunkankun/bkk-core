@@ -1,0 +1,32 @@
+uuid: dbd427b7-1f7a-42d1-bc21-903d440bf577
+type: word-relation
+group_uuid: dbd427b7-1f7a-42d1-bc21-903d440bf577
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 60b16f10-80cb-4d3d-ba1b-244ef3326f8e
+  text: 孽
+  concept: DISASTER
+  concept_uuid: 6cb198c0-7d4d-4e90-9168-d3e1e5743bf2
+  attestation:
+    text_title: 禮記
+    line_uuid: 72de7369-c811-4346-ac08-c1e709f12077
+    line_id: KR1d0052_tls_032-22a.7
+    textline: 必有妖孽
+    offset: 4
+    range: 1
+right:
+  word_uuid: 6502dc34-657a-48eb-aa2b-d8742ba14777
+  text: 妖
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 禮記
+    line_uuid: 72de7369-c811-4346-ac08-c1e709f12077
+    line_id: KR1d0052_tls_032-22a.7
+    textline: 必有妖孽
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

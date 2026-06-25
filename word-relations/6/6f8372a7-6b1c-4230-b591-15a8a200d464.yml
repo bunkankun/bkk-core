@@ -1,0 +1,18 @@
+uuid: 6f8372a7-6b1c-4230-b591-15a8a200d464
+type: word-relation
+group_uuid: 436f1caf-1a72-5657-a6c1-4d8ee6ae088f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: f529bbcf-a197-41f5-a966-ede00c325d83
+  text: 出
+  concept: LEAVE
+  concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+right:
+  word_uuid: b24fc379-2141-45ba-8e45-5e61a6dbca3b
+  text: 境竟
+  concept: BOUNDARY
+  concept_uuid: f5b07647-0bf8-491a-8bf6-63515c9354b5
+source:
+  source_file: word-relations.xml

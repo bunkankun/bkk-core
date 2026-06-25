@@ -1,0 +1,32 @@
+uuid: b0277907-f3d9-4bab-acbd-b416b1186386
+type: word-relation
+group_uuid: b0277907-f3d9-4bab-acbd-b416b1186386
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 7ac79010-8a35-483d-b416-b75f55a4ae51
+  text: 追
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 韓非子
+    line_uuid: c2efafab-96f8-420f-b4cf-8690251a29ad
+    line_id: KR3c0005_tls_033-15a.7
+    textline: 吏追不得
+    offset: 2
+    range: 1
+right:
+  word_uuid: 177c0d92-862f-46f3-a4f4-78014f076c45
+  text: 得
+  concept: CATCH
+  concept_uuid: 0fcefcb8-12d1-4f3b-8a98-61549a676b3f
+  attestation:
+    text_title: 韓非子
+    line_uuid: c2efafab-96f8-420f-b4cf-8690251a29ad
+    line_id: KR3c0005_tls_033-15a.7
+    textline: 吏追不得
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

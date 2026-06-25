@@ -1,0 +1,30 @@
+uuid: 46e56654-8d57-46a6-b128-5520ab720253
+type: word-relation
+group_uuid: 46e56654-8d57-46a6-b128-5520ab720253
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: c3f8d6eb-e147-438b-bd36-db7b3fc5853c
+  text: 裂
+  concept: TEAR APART
+  concept_uuid: 4b52ff5c-1df0-4b58-abf4-ff314b28293f
+  attestation:
+    text_title: 老子
+    line_uuid: d4982517-4bec-4637-a7ec-e24785241a03
+    textline: 天無以清將恐裂
+    offset: 7
+    range: 1
+right:
+  word_uuid: 9796824b-595a-4ceb-9588-1d31b9f13176
+  text: 廢
+  concept: DECLINE
+  concept_uuid: 39b408aa-ec1f-43d1-b89a-5d654dfb862f
+  attestation:
+    text_title: 老子
+    line_uuid: 14849214-9896-4571-9b82-491e0b145919
+    textline: 地無以寧將恐廢
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5232a704-0ffd-489e-b457-cc516ef77ef2
+type: word-relation
+group_uuid: 5232a704-0ffd-489e-b457-cc516ef77ef2
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: d8bab597-3497-4cd4-b37b-6dabbaaed3e5
+  text: 守
+  concept: GOVERN
+  concept_uuid: 6e22b016-6b73-4e15-912c-79e55857f160
+  attestation:
+    text_title: 韓非子
+    line_uuid: dc399311-48db-4307-ad01-d7b4f43c5a6a
+    line_id: KR3c0005_tls_014-20a.6
+    textline: 下得守其職而不怨
+    offset: 3
+    range: 1
+right:
+  word_uuid: 18d8a4fe-b607-403c-bbbd-bffc7e1ca089
+  text: 職
+  concept: OFFICE
+  concept_uuid: adcf9f11-47b3-4e8f-8238-8921ed8bf721
+  attestation:
+    text_title: 韓非子
+    line_uuid: dc399311-48db-4307-ad01-d7b4f43c5a6a
+    line_id: KR3c0005_tls_014-20a.6
+    textline: 下得守其職而不怨
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

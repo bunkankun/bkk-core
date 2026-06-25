@@ -1,0 +1,21 @@
+uuid: 06674667-a9ba-4c92-a491-669c30224351
+type: word-relation
+group_uuid: fbd5f2fa-4ab9-5486-b183-8214d048edfd
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 17eff37c-2b03-4dee-9554-e24d11808d35
+  text: 本
+  concept: ORIGINALLY
+  concept_uuid: a8d8545b-dbfa-4288-a9c9-09add1af816a
+right:
+  word_uuid: 1ed87f78-6e35-4d37-86bb-08d57b30fa64
+  text: 後
+  concept: THEREUPON
+  concept_uuid: e2238b7f-7662-4f5b-bdda-26ff3fb1bf7f
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

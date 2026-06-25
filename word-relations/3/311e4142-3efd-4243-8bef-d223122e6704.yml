@@ -1,0 +1,32 @@
+uuid: 311e4142-3efd-4243-8bef-d223122e6704
+type: word-relation
+group_uuid: 311e4142-3efd-4243-8bef-d223122e6704
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0a96082a-8c8f-45d7-93df-a4ae38542738
+  text: 惆
+  concept: SAD
+  concept_uuid: 5b70198e-c7bf-4f27-9c6c-b564199d1c12
+  attestation:
+    text_title: 論衡
+    line_uuid: a02ab5c6-53a4-41d4-b70e-aef89884c8a9
+    line_id: KR3j0080_tls_002-7a.45
+    textline: 孟軻所以惆悵也
+    offset: 5
+    range: 1
+right:
+  word_uuid: 8a08f6f1-8af8-4043-948e-503c7fac147f
+  text: 悵
+  concept: ANGUISH
+  concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+  attestation:
+    text_title: 論衡
+    line_uuid: a02ab5c6-53a4-41d4-b70e-aef89884c8a9
+    line_id: KR3j0080_tls_002-7a.45
+    textline: 孟軻所以惆悵也
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

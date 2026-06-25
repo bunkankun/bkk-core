@@ -1,0 +1,32 @@
+uuid: ba4f0b5d-4196-4a13-a726-2bb494f6c18e
+type: word-relation
+group_uuid: ba4f0b5d-4196-4a13-a726-2bb494f6c18e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c2402621-a011-4e4f-a031-65de2e3f2a2f
+  text: 僻
+  concept: COUNTRYSIDE
+  concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+  attestation:
+    text_title: 韓非子
+    line_uuid: c9ca07d0-989f-42dc-8b49-874e5b845e9b
+    line_id: KR3c0005_tls_010-94a.4
+    textline: 僻陋而道遠
+    offset: 1
+    range: 1
+right:
+  word_uuid: 9b30c123-4af8-4ea7-88aa-3f337915e8d1
+  text: 陋
+  concept: COUNTRYSIDE
+  concept_uuid: 9ff56b45-9f0a-4e1c-9687-01e4a4ed37e4
+  attestation:
+    text_title: 韓非子
+    line_uuid: c9ca07d0-989f-42dc-8b49-874e5b845e9b
+    line_id: KR3c0005_tls_010-94a.4
+    textline: 僻陋而道遠
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

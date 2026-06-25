@@ -1,0 +1,32 @@
+uuid: 84078e29-7f60-45c1-89d4-d14b00ccd98b
+type: word-relation
+group_uuid: 66aa5f26-e1ed-4778-9b64-df3f2689e50c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c69f8617-3cf4-4f68-9118-c423266ab959
+  text: 陂
+  concept: DIKE
+  concept_uuid: 41cdc672-56fc-4fb2-8ffe-5f49c62833ba
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 94eac604-371f-4dae-a7ea-4fc91393fd24
+    line_id: KR3j0009_tls_002-7a.4
+    textline: 無漉陂池
+    offset: 3
+    range: 1
+right:
+  word_uuid: 760a0b3c-b829-4546-9474-813588fba9d6
+  text: 池
+  concept: POND
+  concept_uuid: 06b1cfae-3bed-4939-9de0-0afd5dc5f2a4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 94eac604-371f-4dae-a7ea-4fc91393fd24
+    line_id: KR3j0009_tls_002-7a.4
+    textline: 無漉陂池
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

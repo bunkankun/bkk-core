@@ -1,0 +1,32 @@
+uuid: 11bb4a33-d5eb-4eb5-a915-7b4b1b9218a4
+type: word-relation
+group_uuid: d714a95d-ef7d-4011-b2bb-f5ba25f63919
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: e0322117-d2c3-4d6a-8d4f-de6045dd2cfb
+  text: 聚
+  concept: GATHER
+  concept_uuid: a7eb66f9-56fd-45d1-bfcb-2c63f8d6569c
+  attestation:
+    text_title: 戰國策
+    line_uuid: cd5c5f91-e832-4018-a697-55fc0d0fa6ea
+    line_id: KR2e0003_tls_050-4a.26
+    textline: 聚散民
+    offset: 1
+    range: 1
+right:
+  word_uuid: f795b649-a031-4f3f-9465-b4f00ecf16f9
+  text: 散
+  concept: SCATTER
+  concept_uuid: e72d961f-f3c8-4c9b-815e-a716365c3e14
+  attestation:
+    text_title: 戰國策
+    line_uuid: cd5c5f91-e832-4018-a697-55fc0d0fa6ea
+    line_id: KR2e0003_tls_050-4a.26
+    textline: 聚散民
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

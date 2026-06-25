@@ -1,0 +1,32 @@
+uuid: 16b29d3b-af9a-4bbc-b639-1730e07a3b0e
+type: word-relation
+group_uuid: 16b29d3b-af9a-4bbc-b639-1730e07a3b0e
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 722cec04-c366-4d28-be06-6c9acc7d00eb
+  text: 眾
+  concept: MANY
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  attestation:
+    text_title: 韓非子
+    line_uuid: ae8034b7-4ecb-4b85-9108-c6d710cc092f
+    line_id: KR3c0005_tls_006-12a.5
+    textline: 交眾與多
+    offset: 2
+    range: 1
+right:
+  word_uuid: abdd2677-cba0-4ae7-8231-21e0600842dd
+  text: 多
+  concept: MANY
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  attestation:
+    text_title: 韓非子
+    line_uuid: ae8034b7-4ecb-4b85-9108-c6d710cc092f
+    line_id: KR3c0005_tls_006-12a.5
+    textline: 交眾與多
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

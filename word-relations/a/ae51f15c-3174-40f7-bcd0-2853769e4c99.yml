@@ -1,0 +1,31 @@
+uuid: ae51f15c-3174-40f7-bcd0-2853769e4c99
+type: word-relation
+group_uuid: 50b6ca7c-e752-4e25-8522-bd920f3f4315
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 00496e4e-de44-486d-8ac8-69faa76ba429
+  text: 聖人
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+  attestation:
+    text_title: 荀子
+    line_uuid: 387d3c05-9cee-4e02-a7df-cc7e08dcf9c0
+    line_id: KR3a0002_tls_018-2a.139
+    textline: 非聖人莫之能有也
+    offset: 2
+    range: 2
+right:
+  word_uuid: c0cd2665-fdc1-45cd-b976-65ab8975f856
+  text: 小人
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 荀子
+    line_uuid: 546e3651-fe4a-4dee-949a-546a0203688e
+    textline: 國者小人可以有之
+    offset: 4
+    range: 2
+source:
+  source_file: word-relations.xml

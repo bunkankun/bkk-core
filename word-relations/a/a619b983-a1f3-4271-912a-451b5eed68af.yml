@@ -1,0 +1,32 @@
+uuid: a619b983-a1f3-4271-912a-451b5eed68af
+type: word-relation
+group_uuid: a619b983-a1f3-4271-912a-451b5eed68af
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0ef062e6-7656-4e41-b095-9b2ee7fff5a4
+  text: 懷
+  concept: CHEST
+  concept_uuid: aebff601-a3a8-4c54-9f1c-74a9a765a4a7
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2e832d60-afbe-42f8-9cca-7036d200a23b
+    line_id: KR3c0005_tls_001-7a.4
+    textline: 出其父母懷衽之中
+    offset: 5
+    range: 1
+right:
+  word_uuid: c761074f-1da0-4e69-aa6b-133328099c58
+  text: 衽
+  concept: COLLAR
+  concept_uuid: 3450870a-0c3b-4be9-b792-6cb9f889afcc
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2e832d60-afbe-42f8-9cca-7036d200a23b
+    line_id: KR3c0005_tls_001-7a.4
+    textline: 出其父母懷衽之中
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

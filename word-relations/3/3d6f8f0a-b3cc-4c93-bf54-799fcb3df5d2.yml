@@ -1,0 +1,32 @@
+uuid: 3d6f8f0a-b3cc-4c93-bf54-799fcb3df5d2
+type: word-relation
+group_uuid: 3d6f8f0a-b3cc-4c93-bf54-799fcb3df5d2
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: de53c3ad-b528-40d9-81e2-321a4a2a1565
+  text: 畏
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: e3cd1860-0eb0-4d53-8b75-e1dedb262753
+    line_id: KR3c0005_tls_047-38a.9
+    textline: 索人欲畏重己
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8149a785-9c7f-4c38-8420-3c77f7910943
+  text: 重
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+  attestation:
+    text_title: 韓非子
+    line_uuid: e3cd1860-0eb0-4d53-8b75-e1dedb262753
+    line_id: KR3c0005_tls_047-38a.9
+    textline: 索人欲畏重己
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

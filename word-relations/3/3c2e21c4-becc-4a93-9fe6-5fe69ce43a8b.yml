@@ -1,0 +1,18 @@
+uuid: 3c2e21c4-becc-4a93-9fe6-5fe69ce43a8b
+type: word-relation
+group_uuid: 14a3d536-5ec8-5fb2-a363-c5c62624eef3
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 9742e047-a652-4a1f-adc1-378c518b4873
+  text: 怨
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+right:
+  word_uuid: 6677bc9c-9584-465e-a19c-a3535d32a1c8
+  text: 德
+  concept: PARTIAL
+  concept_uuid: 23434714-b59e-411f-a91d-9690c2a07c01
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 6a9e19de-1ed2-44c5-8e31-819e16e8806c
+type: word-relation
+group_uuid: 6a9e19de-1ed2-44c5-8e31-819e16e8806c
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 637f9caa-ad86-4219-af73-b41bb04bd6c1
+  text: 性
+  concept: BASIC NATURE
+  concept_uuid: a82b79ed-1d39-419f-8753-88e311fcd8e7
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 15b78732-bcf5-47a9-a5ff-92616750010e
+    line_id: KR6q0082_T_001-0343b.90
+    textline: 性與相對
+    offset: 1
+    range: 1
+right:
+  word_uuid: 7d0d206c-6b4a-4599-93c6-39a82e8d39f3
+  text: 相
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 六祖壇經
+    line_uuid: 15b78732-bcf5-47a9-a5ff-92616750010e
+    line_id: KR6q0082_T_001-0343b.90
+    textline: 性與相對
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

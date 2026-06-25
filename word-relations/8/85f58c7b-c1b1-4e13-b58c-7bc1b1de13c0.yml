@@ -1,0 +1,32 @@
+uuid: 85f58c7b-c1b1-4e13-b58c-7bc1b1de13c0
+type: word-relation
+group_uuid: 0edbd43a-ef0a-59ea-ab4e-001ec166938b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: b1d11bf5-dc52-4d72-9ac0-5054d11f01df
+  text: 服
+  concept: GARMENT
+  concept_uuid: de8e33db-0f66-48cc-8cb8-c9c783477528
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.6
+    textline: 天下不非其服
+    offset: 6
+    range: 1
+right:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-1a.7
+    textline: 同懷其德
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-20T05:03:54.788+09:00'

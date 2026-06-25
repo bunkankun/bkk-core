@@ -1,0 +1,32 @@
+uuid: 37107841-97cf-460c-a93c-81486fad314b
+type: word-relation
+group_uuid: 484ea619-81fe-48de-84fd-08e504de254a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 75ae2de0-8654-4d5a-be05-36fbb5ea6908
+  text: 子
+  concept: YOU
+  concept_uuid: 1cd544ac-9d88-4038-abd5-45912cc6e154
+  attestation:
+    text_title: 孟子
+    line_uuid: b8f167ca-4463-49e2-888c-f8fad8708db4
+    line_id: KR1h0001_tls_007-39a.5
+    textline: 我不意子學古之道
+    offset: 4
+    range: 1
+right:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 孟子
+    line_uuid: b8f167ca-4463-49e2-888c-f8fad8708db4
+    line_id: KR1h0001_tls_007-39a.5
+    textline: 我不意子學古之道
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

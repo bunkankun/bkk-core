@@ -1,0 +1,32 @@
+uuid: b3d19233-61c8-4298-a8e3-2507dc5e4d4a
+type: word-relation
+group_uuid: b3d19233-61c8-4298-a8e3-2507dc5e4d4a
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4f088788-91ef-4bca-8676-eccb7334c141
+  text: 帶
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2892d746-43eb-474c-b614-b52f824e2199
+    line_id: KR3c0005_tls_009-16a.3
+    textline: 聚帶劍之客
+    offset: 2
+    range: 1
+right:
+  word_uuid: 35315462-2b98-4759-932b-68ed0d7c5cd7
+  text: 劍
+  concept: SWORD
+  concept_uuid: a72f053d-caf7-49ae-a6e3-4f46084ca762
+  attestation:
+    text_title: 韓非子
+    line_uuid: 2892d746-43eb-474c-b614-b52f824e2199
+    line_id: KR3c0005_tls_009-16a.3
+    textline: 聚帶劍之客
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

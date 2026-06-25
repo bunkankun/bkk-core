@@ -1,0 +1,32 @@
+uuid: 3d9df00e-9f55-46f8-bf57-102fe9bfed22
+type: word-relation
+group_uuid: 3d9df00e-9f55-46f8-bf57-102fe9bfed22
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 009f6cda-0bcf-4392-8948-968ba660578a
+  text: 鮮
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 論語
+    line_uuid: 9d6701fb-b776-423c-b009-9b679ac61f47
+    line_id: KR1h0004_tls_001-2a.4
+    textline: 鮮矣
+    offset: 1
+    range: 1
+right:
+  word_uuid: d66a4d63-93bc-47ed-b30d-3c97326e0c91
+  text: 未之有
+  concept: NEVER
+  concept_uuid: 77f765a8-fb37-4e34-94e1-7e10c2e3aea6
+  attestation:
+    text_title: 論語
+    line_uuid: e153729b-bba3-4f1d-b95c-37211841580a
+    line_id: KR1h0004_tls_001-2a.6
+    textline: 未之有也
+    offset: 1
+    range: 3
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 5250ad96-a9d1-4f83-91b1-a0d10ef2ce20
+type: word-relation
+group_uuid: f2b87747-2003-4fac-9688-1b85c64872fa
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 808cd2b7-3e09-4d8a-8b59-1269ce70fda2
+  text: 智
+  concept: INTELLIGENT
+  concept_uuid: db1f8199-0a87-45c6-a829-56c8893b29f8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c456f96-9cf7-47f0-9924-f63dced4ca0b
+    line_id: KR3c0005_tls_019-56a.5
+    textline: 盡智竭力
+    offset: 2
+    range: 1
+right:
+  word_uuid: 4a8bb4ac-c5b4-4620-ab48-4c8ed6fbd41a
+  text: 力
+  concept: STRONG
+  concept_uuid: 2c36a24e-9820-491a-9de1-d4d48bca9cd1
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c456f96-9cf7-47f0-9924-f63dced4ca0b
+    line_id: KR3c0005_tls_019-56a.5
+    textline: 盡智竭力
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

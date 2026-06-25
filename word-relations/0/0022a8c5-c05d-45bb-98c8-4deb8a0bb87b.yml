@@ -1,0 +1,21 @@
+uuid: 0022a8c5-c05d-45bb-98c8-4deb8a0bb87b
+type: word-relation
+group_uuid: 6ed8637d-e603-5f42-bd71-f16a5b953be9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 6dde393e-73b5-4abc-b635-191e2e71bc4c
+  text: 斷
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+right:
+  word_uuid: 90a6eed7-64e2-4731-a973-e658fa0e5076
+  text: 決
+  concept: DECIDE
+  concept_uuid: 358920f0-23f8-49e4-98ee-4a85aad03f0d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

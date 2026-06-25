@@ -1,0 +1,32 @@
+uuid: f1473d24-3bba-4111-b992-2605185400c0
+type: word-relation
+group_uuid: 78e5c388-4a4e-49da-87d9-2d6cedd413a5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 58737d1a-f11f-4323-96ab-3d35a4b2f87a
+  text: 虛
+  concept: EMPTY
+  concept_uuid: e711369f-d210-47c5-9fea-a8ca115a014e
+  attestation:
+    text_title: 韓非子
+    line_uuid: d29c0713-f093-46ab-8d0b-bc7b4d1ef7fe
+    line_id: KR3c0005_tls_005-11a.4
+    textline: 虛靜無事
+    offset: 1
+    range: 1
+right:
+  word_uuid: 6e1c8cfe-4a27-4a8e-9914-bacefd7d614e
+  text: 靜
+  concept: INACTIVE
+  concept_uuid: 6cc02768-d56b-470d-a605-10d4c5fd329f
+  attestation:
+    text_title: 韓非子
+    line_uuid: d29c0713-f093-46ab-8d0b-bc7b4d1ef7fe
+    line_id: KR3c0005_tls_005-11a.4
+    textline: 虛靜無事
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: a3263809-2a61-4474-8a8a-dd6b3c10c14b
+type: word-relation
+group_uuid: a3263809-2a61-4474-8a8a-dd6b3c10c14b
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c6a2e435-a2e5-47f6-9ce8-59a2af59f930
+  text: 爵
+  concept: RANK
+  concept_uuid: 782a7680-7172-4053-8716-d5a8f2f8029b
+  attestation:
+    text_title: 孟子
+    line_uuid: 2a6ac2f0-c50f-4ac8-a96a-24e32ecd6ba5
+    textline: 夫仁天之尊爵也
+    offset: 6
+    range: 1
+right:
+  word_uuid: 023451ce-93c3-4ff6-ab5d-d2836e0252f2
+  text: 尊
+  concept: NOBLE
+  concept_uuid: ddb8ae45-16cf-4034-896a-882bbfb664a8
+  attestation:
+    text_title: 孟子
+    line_uuid: 2a6ac2f0-c50f-4ac8-a96a-24e32ecd6ba5
+    textline: 夫仁天之尊爵也
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: f0e9beee-d2c3-4a1e-9b50-37905ae47bec
+type: word-relation
+group_uuid: f0e9beee-d2c3-4a1e-9b50-37905ae47bec
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 741c2ea0-f53c-4878-bedb-d3e924e231cf
+  text: 腹
+  concept: STOMACH
+  concept_uuid: a7504ae9-7e2f-4f5d-9e34-0677ef86457c
+  attestation:
+    text_title: 老子
+    line_uuid: 72e7f396-37b5-473a-b80c-34d214034ca1
+    line_id: KR5c0057_tls_012-1a.11
+    textline: 為腹
+    offset: 2
+    range: 1
+right:
+  word_uuid: 081fc31e-9e3b-44b7-b629-bc240777d5b9
+  text: 目
+  concept: EYE
+  concept_uuid: 4a10ce28-f866-4a84-8b59-5dd6ebb37101
+  attestation:
+    text_title: 老子
+    line_uuid: 35289f70-22d0-4e68-83bd-333a005ec0aa
+    line_id: KR5c0057_tls_012-1a.12
+    textline: 不為目
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

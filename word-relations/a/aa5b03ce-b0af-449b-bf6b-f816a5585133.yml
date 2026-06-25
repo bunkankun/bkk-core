@@ -1,0 +1,32 @@
+uuid: aa5b03ce-b0af-449b-bf6b-f816a5585133
+type: word-relation
+group_uuid: aa5b03ce-b0af-449b-bf6b-f816a5585133
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ab33a3c5-49d6-4580-bf07-73e5b0c894c6
+  text: 時
+  concept: MOMENT
+  concept_uuid: 474af96a-b5b6-4fbc-913a-fff6ee8f851d
+  attestation:
+    text_title: 孟子
+    line_uuid: 515e34fc-104f-41c4-a53c-56b3a01b3e49
+    line_id: KR1h0001_tls_002-39a.9
+    textline: 當是時也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 4b316d3a-fa31-41ca-acd1-1a80f18575e2
+  text: 是
+  concept: THIS
+  concept_uuid: 6106f200-6c09-483d-b636-68f140442ca0
+  attestation:
+    text_title: 孟子
+    line_uuid: 515e34fc-104f-41c4-a53c-56b3a01b3e49
+    line_id: KR1h0001_tls_002-39a.9
+    textline: 當是時也
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 35458af1-8a62-4d80-858a-f18a622d8006
+type: word-relation
+group_uuid: b8baf8f3-0b55-5ab7-a2fa-5092896e008a
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c8b1d719-3632-4492-9341-f17c75e6a9e6
+  text: 上
+  concept: SUPERIOR
+  concept_uuid: 46ee4dcc-8da4-4927-b07c-9a338de70bf8
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_011-6a.8
+    textline: 上賢為天子
+    offset: 1
+    range: 1
+right:
+  word_uuid: 701c8062-6eed-4e27-bced-10d1e854b858
+  text: 次
+  concept: BAD
+  concept_uuid: 4cf48d88-0f2f-45a7-9c21-d2c4986153e7
+  attestation:
+    text_title: 鶡冠子
+    line_id: KR3j0006_tls_011-6a.9
+    textline: 次賢為三公
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-28T04:31:54.634+09:00'

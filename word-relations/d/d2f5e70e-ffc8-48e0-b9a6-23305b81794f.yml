@@ -1,0 +1,32 @@
+uuid: d2f5e70e-ffc8-48e0-b9a6-23305b81794f
+type: word-relation
+group_uuid: 903183b1-f73a-4024-bde5-5e8fb97a9c12
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 76d8d024-6b18-4489-8300-99a3168aa337
+  text: 寒
+  concept: COLD
+  concept_uuid: 761ae21c-3456-4f23-90b6-6f38c842f6fc
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9591c682-cd13-4ac8-83c7-46b9ca4cf553
+    line_id: KR3j0009_tls_005-16a.5
+    textline: 寒溫勞逸饑飽
+    offset: 1
+    range: 1
+right:
+  word_uuid: 91c7ba45-e9f6-45d7-8f75-b028b12a7b69
+  text: 溫
+  concept: HOT
+  concept_uuid: 370d8440-a6ee-4de6-87e0-88a5219b7c6c
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 9591c682-cd13-4ac8-83c7-46b9ca4cf553
+    line_id: KR3j0009_tls_005-16a.5
+    textline: 寒溫勞逸饑飽
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,30 @@
+uuid: 5424e714-f067-4be0-aca4-aafb5fd4fff6
+type: word-relation
+group_uuid: 5424e714-f067-4be0-aca4-aafb5fd4fff6
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 44b36654-cf47-401f-b0fd-217cba8b031e
+  text: 去
+  concept: LEAVE
+  concept_uuid: 96881deb-8b80-42c1-8bc9-c8815cd3517b
+  attestation:
+    text_title: 蕭繹
+    line_uuid: bdf67a37-6f85-436a-bf22-734d44adce48
+    textline: 征人分去留
+    offset: 4
+    range: 1
+right:
+  word_uuid: 4a67f65c-1e71-431a-8493-e081437a9fff
+  text: 留
+  concept: REMAIN
+  concept_uuid: 127c2866-7ec7-45f1-a578-d644961df079
+  attestation:
+    text_title: 蕭繹
+    line_uuid: bdf67a37-6f85-436a-bf22-734d44adce48
+    textline: 征人分去留
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

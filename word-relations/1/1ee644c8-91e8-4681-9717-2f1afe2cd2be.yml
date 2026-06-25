@@ -1,0 +1,35 @@
+uuid: 1ee644c8-91e8-4681-9717-2f1afe2cd2be
+type: word-relation
+group_uuid: 1ee644c8-91e8-4681-9717-2f1afe2cd2be
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 4cfeecda-caf8-4465-9df1-0c9f11c2af06
+  text: 祭
+  concept: SACRIFICE
+  concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+  attestation:
+    text_title: 老子
+    line_uuid: fd78af99-bccd-490f-b52b-534292ef6dbf
+    line_id: KR5c0057_tls_054-1a.5
+    textline: 子孫以祭祀不輟
+    offset: 4
+    range: 1
+right:
+  word_uuid: 21860d70-5f11-4ed3-8929-3b65cf97f3ff
+  text: 祀
+  concept: SACRIFICE
+  concept_uuid: e4738d63-a0e5-4aab-a996-54143e1fa54e
+  attestation:
+    text_title: 老子
+    line_uuid: fd78af99-bccd-490f-b52b-534292ef6dbf
+    line_id: KR5c0057_tls_054-1a.5
+    textline: 子孫以祭祀不輟
+    offset: 5
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 39ee24f7-2de2-4c3e-a3b5-1385897c8abe
+type: word-relation
+group_uuid: 39ee24f7-2de2-4c3e-a3b5-1385897c8abe
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c8b5ac57-1325-484f-ad65-928a8e1008bb
+  text: 辭
+  concept: PROSE
+  concept_uuid: 31075dea-a6fb-49ce-bb8f-d716958d0e44
+  attestation:
+    text_title: 韓非子
+    line_uuid: 90401b87-7d0d-4f1e-b940-6bd69fa43028
+    line_id: KR3c0005_tls_015-36a.2
+    textline: 辭辯而不法
+    offset: 1
+    range: 1
+right:
+  word_uuid: d45c1923-8be6-4f00-b56f-deae08971b29
+  text: 辯
+  concept: ELOQUENT
+  concept_uuid: dbb7c061-a1a8-4169-a448-cdf7cd5b9b99
+  attestation:
+    text_title: 韓非子
+    line_uuid: 90401b87-7d0d-4f1e-b940-6bd69fa43028
+    line_id: KR3c0005_tls_015-36a.2
+    textline: 辭辯而不法
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

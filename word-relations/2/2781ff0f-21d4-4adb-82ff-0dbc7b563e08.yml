@@ -1,0 +1,32 @@
+uuid: 2781ff0f-21d4-4adb-82ff-0dbc7b563e08
+type: word-relation
+group_uuid: 2781ff0f-21d4-4adb-82ff-0dbc7b563e08
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d804bfc7-0b21-4f9d-8ab7-45ccf0d7105d
+  text: 郡
+  concept: REGION
+  concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c36fd90-a798-42f0-b4fc-5039e2045029
+    line_id: KR3c0005_tls_002-1a.11
+    textline: 與郡縣無異也
+    offset: 2
+    range: 1
+right:
+  word_uuid: 680abf90-edd3-4c34-b138-e73d5553b856
+  text: 縣
+  concept: REGION
+  concept_uuid: d2308761-87e9-44b9-8b7d-1e24876a5924
+  attestation:
+    text_title: 韓非子
+    line_uuid: 8c36fd90-a798-42f0-b4fc-5039e2045029
+    line_id: KR3c0005_tls_002-1a.11
+    textline: 與郡縣無異也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

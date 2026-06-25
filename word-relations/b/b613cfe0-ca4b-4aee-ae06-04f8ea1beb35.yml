@@ -1,0 +1,32 @@
+uuid: b613cfe0-ca4b-4aee-ae06-04f8ea1beb35
+type: word-relation
+group_uuid: b613cfe0-ca4b-4aee-ae06-04f8ea1beb35
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 04013178-ab20-4c64-b95c-aa29c68bf4ed
+  text: 嬪
+  concept: WIFE
+  concept_uuid: 2e5052ba-eeae-43da-a981-d5df0d42d603
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 921614fc-956d-41ad-81db-942f705436db
+    line_id: KR3j0009_tls_002-4a.7
+    textline: 后妃率九嬪御
+    offset: 5
+    range: 1
+right:
+  word_uuid: f0f40e0f-8634-46fd-81a7-1438ab8ddb4a
+  text: 御
+  concept: COPULATE
+  concept_uuid: 93469b85-2043-47c9-ab38-2fd6e7e4b3cf
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 921614fc-956d-41ad-81db-942f705436db
+    line_id: KR3j0009_tls_002-4a.7
+    textline: 后妃率九嬪御
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

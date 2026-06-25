@@ -1,0 +1,21 @@
+uuid: 9f4f7144-fe84-4d07-a24d-872cf95e91f4
+type: word-relation
+group_uuid: a5376a8c-187b-5054-91cd-5e1a94ea454a
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: a691fe69-bdf4-4b60-819b-ac6a8c0d567e
+  text: 疾
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+right:
+  word_uuid: a2d4c1ff-bdbd-4351-9267-5ae6837e6ab7
+  text: 甚
+  concept: INTENSELY
+  concept_uuid: bdfb27cd-d480-466a-a54f-e011967ed13e
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

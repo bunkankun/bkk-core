@@ -1,0 +1,32 @@
+uuid: 5c222430-807c-4d5f-a224-30807c1d5fa9
+type: word-relation
+group_uuid: d6561af2-52b6-5a02-a9a9-70e393f37d5b
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 7e9289c0-0666-49ad-b165-bc49731b8946
+  text: 博學
+  concept: LEARNED
+  concept_uuid: f5297627-12cb-43a5-86a8-4f655e954227
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_028-8a.53
+    textline: 故君子博學 深謀
+    offset: 4
+    range: 2
+right:
+  word_uuid: 12ade892-82cc-454c-a641-fbceeb674e92
+  text: 修身
+  concept: CULTIVATE
+  concept_uuid: 5eeef510-bca3-47fc-8669-f2d2929c0162
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_028-8a.54
+    textline: 修身 端行
+    offset: 1
+    range: 2
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-28T16:24:42.73+09:00'

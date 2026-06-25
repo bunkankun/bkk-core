@@ -1,0 +1,21 @@
+uuid: 70af7a3c-eb6e-4bfa-998e-7aee062f1cd9
+type: word-relation
+group_uuid: 9ed7320c-89d0-58ba-9c77-c0b639b5a859
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 2ae8d014-5734-4c18-b8bc-f107dc25e5c8
+  text: 當
+  concept: APPROPRIATE
+  concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+right:
+  word_uuid: 96ab827b-3e3a-4a35-92e8-eb8da0f5ae8c
+  text: 宜
+  concept: APPROPRIATE
+  concept_uuid: b6b4247d-c769-4256-a59b-4e5f1c4d04b7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

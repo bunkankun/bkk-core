@@ -1,0 +1,32 @@
+uuid: c0308338-f41e-4bd4-adbf-b7900514d4fe
+type: word-relation
+group_uuid: 64e34818-a634-4deb-96dd-5e1b8d4364ab
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 4b054088-6dd1-4abf-9938-d5d4c3048071
+  text: 食
+  concept: EAT
+  concept_uuid: 59092856-c3ad-43b3-86b0-68731f137a6f
+  attestation:
+    text_title: 孟子
+    line_uuid: b306065c-71e7-4b66-a2e8-9c24fc5e69ac
+    line_id: KR1h0001_tls_001-66a.13
+    textline: 老者衣帛食肉
+    offset: 5
+    range: 1
+right:
+  word_uuid: fa306955-ab34-48a8-9453-a15c35962ec4
+  text: 肉
+  concept: MEAT
+  concept_uuid: 4da96288-8f84-4ef3-ae20-deb79b5d960e
+  attestation:
+    text_title: 孟子
+    line_uuid: b306065c-71e7-4b66-a2e8-9c24fc5e69ac
+    line_id: KR1h0001_tls_001-66a.13
+    textline: 老者衣帛食肉
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

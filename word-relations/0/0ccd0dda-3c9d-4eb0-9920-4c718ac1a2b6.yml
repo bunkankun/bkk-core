@@ -1,0 +1,21 @@
+uuid: 0ccd0dda-3c9d-4eb0-9920-4c718ac1a2b6
+type: word-relation
+group_uuid: 53970a4c-15a4-5d45-8770-b351dc79dcbd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b5abe4fb-ab4a-476c-b6dc-06c548e62109
+  text: 傑杰
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+right:
+  word_uuid: 29e3eb44-d8ef-4d00-b28d-a9682a4f5a8d
+  text: 英
+  concept: HERO
+  concept_uuid: 9bf52f91-bcdb-4158-84d2-cbea220676d7
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

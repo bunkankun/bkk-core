@@ -1,0 +1,32 @@
+uuid: 51740288-aa2e-4014-b64c-a03a197df25f
+type: word-relation
+group_uuid: 51740288-aa2e-4014-b64c-a03a197df25f
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8f265e41-a6f9-4026-8c13-bf7ab3a1e344
+  text: 負
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 9d99c0aa-c5df-464d-9a7f-459f24e46f9c
+    line_id: KR1c0066_tls_002-21a.29
+    textline: 乃夫負釜甑
+    offset: 3
+    range: 1
+right:
+  word_uuid: 6b9e6bc4-eb16-4ded-9a15-5edd4df2ee46
+  text: 戴
+  concept: CARRY
+  concept_uuid: c34b4d25-90f6-4193-93ab-b64cd297753f
+  attestation:
+    text_title: 韓詩外傳
+    line_uuid: 13563ae4-79ac-47a5-8d6b-5109745f2e46
+    line_id: KR2g0017_CHANT_002-51a.52
+    textline: 妻戴紝器
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

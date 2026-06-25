@@ -1,0 +1,32 @@
+uuid: f144817d-f060-4d7f-8593-bc7f13d2de31
+type: word-relation
+group_uuid: 34fa3422-b430-4002-8cae-39c52216f359
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: abdd2677-cba0-4ae7-8231-21e0600842dd
+  text: 多
+  concept: MANY
+  concept_uuid: 3c07668a-0d1d-4f4c-9422-a9c8f5b38b6d
+  attestation:
+    text_title: 韓非子
+    line_uuid: d8b0e1e5-b5c9-47b4-bbca-186efd1b5360
+    line_id: KR3c0005_tls_049-78a.5
+    textline: 而商賈之民多矣
+    offset: 6
+    range: 1
+right:
+  word_uuid: 64b231da-1d27-459a-a12f-c4b81f906d44
+  text: 寡
+  concept: FEW
+  concept_uuid: f0aebdd7-e62a-4288-9996-5426f374799f
+  attestation:
+    text_title: 韓非子
+    line_uuid: a7642507-776a-41db-8101-777850aa5498
+    line_id: KR3c0005_tls_049-78a.4
+    textline: 則耿介之士寡
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

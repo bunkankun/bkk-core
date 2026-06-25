@@ -1,0 +1,30 @@
+uuid: e918e568-5c84-42b8-b9b7-2bcc09d8d23c
+type: word-relation
+group_uuid: 34f97f98-5b45-49ff-9912-78db5a3562d9
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b420976b-03d3-468c-bb65-fe59e77f04a5
+  text: 遭
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 244c35af-562f-41e3-8709-62912e03aed4
+    textline: 故夫遭遇幸偶
+    offset: 3
+    range: 1
+right:
+  word_uuid: a83497e9-14be-4532-8b49-71eb32c9403c
+  text: 遇
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 論衡
+    line_uuid: 244c35af-562f-41e3-8709-62912e03aed4
+    textline: 故夫遭遇幸偶
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

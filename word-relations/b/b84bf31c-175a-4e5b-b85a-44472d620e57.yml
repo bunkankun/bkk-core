@@ -1,0 +1,21 @@
+uuid: b84bf31c-175a-4e5b-b85a-44472d620e57
+type: word-relation
+group_uuid: 0f8339c2-9b28-5725-b46e-a014f0c37b38
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 95f418d1-0d7f-4651-adca-3efa123ad2ca
+  text: 止
+  concept: REST
+  concept_uuid: b29fa301-deb7-4b72-8e41-962e5c79a9e7
+right:
+  word_uuid: fac68483-1c3d-4171-8bd2-51b738fb0bab
+  text: 動
+  concept: MOVE
+  concept_uuid: f4b49563-d339-4cd5-8026-1dc51d1f99da
+source_references:
+- bibliography_uuid: 7bc81713-191b-46bd-9b25-89a9fc359a86
+  title: 左傳詞彙研究
+source:
+  source_file: word-relations.xml

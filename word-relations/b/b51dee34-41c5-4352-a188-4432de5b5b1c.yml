@@ -1,0 +1,35 @@
+uuid: b51dee34-41c5-4352-a188-4432de5b5b1c
+type: word-relation
+group_uuid: b51dee34-41c5-4352-a188-4432de5b5b1c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 662ef08e-fa20-4f84-9145-896a6302eb4d
+  text: 道
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 孟子
+    line_uuid: f000bd43-db61-48e9-8d12-24818b319aff
+    line_id: KR1h0001_tls_001-10a.10
+    textline: 頒白者不負戴於道路矣
+    offset: 8
+    range: 1
+right:
+  word_uuid: 909d9041-8701-425e-8cf5-1a290fba6701
+  text: 路
+  concept: WAY
+  concept_uuid: 73de36c6-0b6d-4bba-aecc-f8b3b950fb9e
+  attestation:
+    text_title: 孟子
+    line_uuid: f000bd43-db61-48e9-8d12-24818b319aff
+    line_id: KR1h0001_tls_001-10a.10
+    textline: 頒白者不負戴於道路矣
+    offset: 9
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

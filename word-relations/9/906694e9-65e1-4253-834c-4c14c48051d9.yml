@@ -1,0 +1,32 @@
+uuid: 906694e9-65e1-4253-834c-4c14c48051d9
+type: word-relation
+group_uuid: bda8aa0b-4f13-43f6-be64-560d982e5249
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 274552a0-8ba1-46fc-b0cd-bcde69b5255c
+  text: 心
+  concept: MIND
+  concept_uuid: 5ead37a8-2dc0-4c82-8ced-86144e93b480
+  attestation:
+    text_title: 韓非子
+    line_uuid: ab736457-f6f8-40e3-aa62-985d45b15457
+    line_id: KR3c0005_tls_025-12a.10
+    textline: 故小逆在心
+    offset: 5
+    range: 1
+right:
+  word_uuid: 049d59f4-7e6e-4632-a19b-0ddce4f9df57
+  text: 體
+  concept: BODY
+  concept_uuid: 7e9fb14e-1faf-484f-bec9-6b8e6223f571
+  attestation:
+    text_title: 韓非子
+    line_uuid: 25e90770-bf19-4c33-ae20-763731aaf221
+    line_id: KR3c0005_tls_025-12a.7
+    textline: 故小痛在體
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

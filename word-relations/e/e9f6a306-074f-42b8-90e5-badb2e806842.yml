@@ -1,0 +1,21 @@
+uuid: e9f6a306-074f-42b8-90e5-badb2e806842
+type: word-relation
+group_uuid: 73dc0e04-80e2-590b-8934-4e7801e6e9ea
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 3ea1b7c8-e63e-4043-9914-3b81e4cef8db
+  text: 毀譭
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+right:
+  word_uuid: 972ca091-9b67-4c16-8d31-e46b949152e5
+  text: 訾
+  concept: CRITICISE
+  concept_uuid: 55128168-da10-4764-be8d-400c8756d7a1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

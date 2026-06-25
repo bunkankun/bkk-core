@@ -1,0 +1,35 @@
+uuid: 75218d53-108d-45e6-ba85-1b152c769aab
+type: word-relation
+group_uuid: 39ec4884-830c-44af-b882-2cf4103e46be
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 50593438-52c2-46f6-b9bc-8ffa236fb6b1
+  text: 吉
+  concept: AUSPICIOUS
+  concept_uuid: ba18de87-6974-46e1-a8ea-9614843f6d13
+  attestation:
+    text_title: 老子
+    line_uuid: fc54b085-96b1-42f2-8d5d-20ad108cc5b3
+    line_id: KR5e0001_tls_007-113a.158
+    textline: 吉事尚左
+    offset: 1
+    range: 1
+right:
+  word_uuid: aa5cf34d-32db-4f92-a4c4-b1293dc3dfbc
+  text: 凶
+  concept: INAUSPICIOUS
+  concept_uuid: a624022b-81ca-47cf-914c-df1082b7f5b5
+  attestation:
+    text_title: 老子
+    line_uuid: 936741c1-98a0-49c2-95b4-77186426b89b
+    line_id: KR5c0057_tls_031-1a.18
+    textline: 凶事尚右
+    offset: 1
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

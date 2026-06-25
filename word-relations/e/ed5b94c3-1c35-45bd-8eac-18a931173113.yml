@@ -1,0 +1,32 @@
+uuid: ed5b94c3-1c35-45bd-8eac-18a931173113
+type: word-relation
+group_uuid: ed5b94c3-1c35-45bd-8eac-18a931173113
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 7cdc1400-aee1-4929-b6c8-bb697d42afc6
+  text: 威
+  concept: POWER
+  concept_uuid: 01af7f12-b067-4e6f-b5c5-af05a36fc9fa
+  attestation:
+    text_title: 韓非子
+    line_uuid: e9d71aee-e044-4012-85b8-0ead648f62bf
+    line_id: KR3c0005_tls_014-50a.4
+    textline: “乘威嚴之勢
+    offset: 3
+    range: 1
+right:
+  word_uuid: f0210b75-1717-4d4a-b182-3390cab68f75
+  text: 嚴
+  concept: SEVERE
+  concept_uuid: 6e44c6ec-4c82-4895-9eb1-7dcbf14dcaf1
+  attestation:
+    text_title: 韓非子
+    line_uuid: e9d71aee-e044-4012-85b8-0ead648f62bf
+    line_id: KR3c0005_tls_014-50a.4
+    textline: “乘威嚴之勢
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

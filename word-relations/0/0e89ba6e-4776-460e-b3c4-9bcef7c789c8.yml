@@ -1,0 +1,32 @@
+uuid: 0e89ba6e-4776-460e-b3c4-9bcef7c789c8
+type: word-relation
+group_uuid: a8309438-166b-4101-acb8-48cb21edfb4d
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 3668071e-9d75-4d86-8108-7c49061ac1a4
+  text: 王
+  concept: RULER
+  concept_uuid: 88a748c1-e429-41e7-9d8c-19cdd16f6202
+  attestation:
+    text_title: 韓非子
+    line_uuid: cef5a0e8-13f5-4208-80ba-ffd4f0b7e8ef
+    line_id: KR3c0005_tls_002-19a.7
+    textline: 大王見
+    offset: 2
+    range: 1
+right:
+  word_uuid: 554ff26e-0b7b-42a6-99e9-fb5b012d1d9c
+  text: 大
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+  attestation:
+    text_title: 韓非子
+    line_uuid: cef5a0e8-13f5-4208-80ba-ffd4f0b7e8ef
+    line_id: KR3c0005_tls_002-19a.7
+    textline: 大王見
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

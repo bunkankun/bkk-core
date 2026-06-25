@@ -1,0 +1,21 @@
+uuid: 61bffb0b-aaac-4899-bc89-8b825ca45a5d
+type: word-relation
+group_uuid: ab985153-3fee-52b2-a9ee-ff3bbba73d42
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c1ca486d-2ef1-4123-8f8d-dc459a920236
+  text: 呼
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+right:
+  word_uuid: 23dc56c4-a8e9-49ef-9ad7-317dcabdd576
+  text: 吸
+  concept: BREATHE
+  concept_uuid: 91630209-c3bc-4857-889d-045daa04ef1d
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

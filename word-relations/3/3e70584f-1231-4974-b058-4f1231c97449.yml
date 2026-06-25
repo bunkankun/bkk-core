@@ -1,0 +1,30 @@
+uuid: 3e70584f-1231-4974-b058-4f1231c97449
+type: word-relation
+group_uuid: 55f803d2-eed6-5b49-8d67-82f82678fa0f
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 21b4a72e-dfc0-4aa8-854a-876d59bc0839
+  text: 學
+  concept: LEARN
+  concept_uuid: c6f560f3-a5ca-40a3-bea3-268a0ddcfcd0
+  attestation:
+    text_title: 春秋左傳
+    line_id: KR1e0001_tls_010-200a.39
+    textline: 而學禮焉
+    offset: 2
+    range: 1
+right:
+  word_uuid: bc2e7bc7-a416-40dd-ba1a-5699cf37896f
+  concept: RITUAL
+  concept_uuid: 47b2ee40-362a-4b33-8fe8-d9c0520eca15
+  attestation:
+    text_title: 春秋左傳
+    line_id: swl-select
+    offset: 11
+    range: 0
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-07-24T15:57:21.124+09:00'

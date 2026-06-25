@@ -1,0 +1,21 @@
+uuid: d12e0a5e-de07-412b-9434-76f4680e3ed6
+type: word-relation
+group_uuid: cd982434-e975-576f-8023-db4dd61e5a9b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 13801b36-7530-4547-83a8-d9fb608e701c
+  text: 鴻
+  concept: GREAT
+  concept_uuid: 6d4d135c-a85a-47f6-899d-ac44660ba15d
+right:
+  word_uuid: 147d9836-3c89-4615-bc75-ffb2807383c4
+  text: 細
+  concept: SMALL
+  concept_uuid: 77cefc4a-c55a-4607-8c7f-95f2a2112877
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

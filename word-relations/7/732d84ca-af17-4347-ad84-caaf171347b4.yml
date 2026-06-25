@@ -1,0 +1,32 @@
+uuid: 732d84ca-af17-4347-ad84-caaf171347b4
+type: word-relation
+group_uuid: 3f5c58ec-5beb-51d3-ba71-a7a86435b2ac
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: c82c5735-d7b2-44c5-9690-d4030b6ad922
+  text: 天
+  concept: SKY
+  concept_uuid: 96cef6b3-c174-4fc1-b8d0-a9ab7cbb961c
+  attestation:
+    text_title: 靈樞經
+    line_id: CH1d0952_CHANT_012-2a.12
+    textline: 此天之高
+    offset: 2
+    range: 1
+right:
+  word_uuid: 52778fb0-2b00-4233-9712-0c7cce31fd24
+  text: 高
+  concept: HIGH
+  concept_uuid: 986ba27f-5bd8-4ada-8f92-981caff877e1
+  attestation:
+    text_title: 靈樞經
+    line_id: CH1d0952_CHANT_012-2a.12
+    textline: 此天之高
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-08-09T22:54:21.991+09:00'

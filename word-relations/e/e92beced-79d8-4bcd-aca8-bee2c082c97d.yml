@@ -1,0 +1,18 @@
+uuid: e92beced-79d8-4bcd-aca8-bee2c082c97d
+type: word-relation
+group_uuid: 2806c0c0-a9b3-5c44-914b-44cef14eff54
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 12228064-5d95-40bc-b643-42716efabc09
+  text: 吉
+  concept: LUCK
+  concept_uuid: 6ad730e2-d52e-4485-b2f9-b5aed7df88b5
+right:
+  word_uuid: d57eebf9-7218-46d5-95bc-4ac4591b81ed
+  text: 喜
+  concept: DELIGHT
+  concept_uuid: 1c7bf322-c905-41e0-9145-7d4b01da86a1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,18 @@
+uuid: a27c9850-7324-4565-83eb-71d85cc2559d
+type: word-relation
+group_uuid: 127da66a-f7b6-5d48-aac8-d2cfd106aeec
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 5a9ad312-3b67-41c4-8200-efd309275fb1
+  text: 山
+  concept: MOUNTAIN
+  concept_uuid: 9347f5d1-57f6-4bfc-9512-76304d31721a
+right:
+  word_uuid: d5f02ddf-3fe9-41c4-af6d-5a884a0b16bf
+  text: 水
+  concept: RIVER
+  concept_uuid: 07f604ec-81f7-4287-8d78-501707918787
+source:
+  source_file: word-relations.xml

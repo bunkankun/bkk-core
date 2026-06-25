@@ -1,0 +1,21 @@
+uuid: 1ed53c0b-02da-4467-9798-250a6b7b0ddf
+type: word-relation
+group_uuid: 78bf46b3-6a67-5ccb-aada-1b5ed1ca5c4b
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 92b783f9-23cb-4f56-b1c5-fe7116b7783a
+  text: 金
+  concept: GOLD
+  concept_uuid: 61e61a06-c53a-47aa-a60b-1634acd93f2c
+right:
+  word_uuid: f979bd6d-cf04-40fc-92ac-26a8c17bbe42
+  text: 糞
+  concept: MANURE
+  concept_uuid: 4062d68e-aecc-4ee8-be1d-111426f08c8a
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

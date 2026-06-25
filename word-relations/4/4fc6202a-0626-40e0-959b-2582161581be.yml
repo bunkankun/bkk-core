@@ -1,0 +1,32 @@
+uuid: 4fc6202a-0626-40e0-959b-2582161581be
+type: word-relation
+group_uuid: 4fc6202a-0626-40e0-959b-2582161581be
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 08b2c834-68e6-4222-ae20-d0bc9b2b263d
+  text: 獸
+  concept: BEAST
+  concept_uuid: ce2731ff-8f9e-442a-9d28-67660ed1f104
+  attestation:
+    text_title: 韓非子
+    line_uuid: 988abf0a-ff62-4e69-a988-1ecce255f100
+    line_id: KR3c0005_tls_030-82a.11
+    textline: 猶獸鹿也
+    offset: 2
+    range: 1
+right:
+  word_uuid: e05c6793-c234-4bc9-8108-4e48a753a31e
+  text: 鹿
+  concept: DEER
+  concept_uuid: 829657bb-b554-4258-9f39-962754f06d4a
+  attestation:
+    text_title: 韓非子
+    line_uuid: 988abf0a-ff62-4e69-a988-1ecce255f100
+    line_id: KR3c0005_tls_030-82a.11
+    textline: 猶獸鹿也
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

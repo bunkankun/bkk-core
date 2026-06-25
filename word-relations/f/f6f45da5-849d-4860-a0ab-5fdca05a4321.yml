@@ -1,0 +1,32 @@
+uuid: f6f45da5-849d-4860-a0ab-5fdca05a4321
+type: word-relation
+group_uuid: f6f45da5-849d-4860-a0ab-5fdca05a4321
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: b48677ed-25fd-4c81-8eb9-7496abcd8fea
+  text: 車
+  concept: VEHICLE
+  concept_uuid: 604ecf48-648a-478b-8b29-f1a6a9ef4e78
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ee02a3d1-aa47-4375-b73d-ec26d83025d9
+    line_id: KR3j0009_tls_001-14a.7
+    textline: 出則以車
+    offset: 4
+    range: 1
+right:
+  word_uuid: 3181cc42-ee62-4114-b59b-3e77e7812980
+  text: 輦
+  concept: CARRIAGE
+  concept_uuid: 18fcfd06-f31f-4905-a250-04ff7ff3acb4
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: ab78329a-0727-4a5e-8735-5d304c2fd3d3
+    line_id: KR3j0009_tls_001-14a.8
+    textline: 入則以輦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

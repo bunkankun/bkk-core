@@ -1,0 +1,32 @@
+uuid: 375ea9de-0d28-4294-82f9-47b1ca242282
+type: word-relation
+group_uuid: 375ea9de-0d28-4294-82f9-47b1ca242282
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 858dd415-bcea-4895-bd7b-41accf1c4d4f
+  text: 寢
+  concept: SLEEP
+  concept_uuid: a9fd2251-e044-4c8f-85c5-23950bfa7741
+  attestation:
+    text_title: 莊子
+    line_uuid: 7c89907c-c9f6-46a6-92a2-f386a64a69ba
+    line_id: KR5c0126_tls_001-16a.19
+    textline: 逍遙乎寢臥其下
+    offset: 4
+    range: 1
+right:
+  word_uuid: 103307d6-7964-435a-b4a4-258d10bb2888
+  text: 臥
+  concept: LIE DOWN
+  concept_uuid: 7eca4eb6-7f7e-49c0-93f0-b8d392f45e6a
+  attestation:
+    text_title: 莊子
+    line_uuid: 7c89907c-c9f6-46a6-92a2-f386a64a69ba
+    line_id: KR5c0126_tls_001-16a.19
+    textline: 逍遙乎寢臥其下
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

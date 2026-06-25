@@ -1,0 +1,32 @@
+uuid: 08b2019c-27b2-43dd-827d-42ce39a8a2e8
+type: word-relation
+group_uuid: 37c2df18-f5fc-4e1a-b8a2-0f0fc6a2ad39
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: d7522cbf-2499-485c-941d-6185687375e9
+  text: 爪
+  concept: CLAWS
+  concept_uuid: 3e010b68-9b90-458f-842f-adcc37c19ab8
+  attestation:
+    text_title: 韓非子
+    line_uuid: 74fcc79c-548f-4832-892a-6205b7e528b0
+    line_id: KR3c0005_tls_052-4a.3
+    textline: 簡公失其爪牙於田常
+    offset: 5
+    range: 1
+right:
+  word_uuid: a656a9a5-0c34-4cab-998c-3ff894ab78b8
+  text: 牙
+  concept: TOOTH
+  concept_uuid: 151bb426-967a-4048-b112-aadda275b7de
+  attestation:
+    text_title: 韓非子
+    line_uuid: c8e6c9f6-4c3a-421d-a50f-394c7b51da15
+    line_id: KR3c0005_tls_052-4a.2
+    textline: 宋君失其爪牙於子罕
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

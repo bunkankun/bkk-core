@@ -1,0 +1,30 @@
+uuid: cebfb689-714c-4c0a-856c-84b0dab5bbfd
+type: word-relation
+group_uuid: cebfb689-714c-4c0a-856c-84b0dab5bbfd
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: b420976b-03d3-468c-bb65-fe59e77f04a5
+  text: 遭
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 楚辭
+    line_uuid: 1509ccff-1db8-444d-bd62-df674799dc80
+    textline: 遭紛逢凶蹇離尤兮
+    offset: 1
+    range: 1
+right:
+  word_uuid: 571d0fa2-2d3b-48a0-a2c3-798b9616a43a
+  text: 逢
+  concept: ENCOUNTER
+  concept_uuid: 52d76290-51b3-4442-80f2-b5686d5faab2
+  attestation:
+    text_title: 楚辭
+    line_uuid: 1509ccff-1db8-444d-bd62-df674799dc80
+    textline: 遭紛逢凶蹇離尤兮
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

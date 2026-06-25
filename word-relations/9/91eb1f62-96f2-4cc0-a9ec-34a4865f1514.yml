@@ -1,0 +1,32 @@
+uuid: 91eb1f62-96f2-4cc0-a9ec-34a4865f1514
+type: word-relation
+group_uuid: 91eb1f62-96f2-4cc0-a9ec-34a4865f1514
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 5054c394-e57f-405d-bdfe-2e7d2a3b41fd
+  text: 酒
+  concept: LIQUOR
+  concept_uuid: f3bcf43f-3ac6-4a12-85b6-269d640bd781
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1140181b-5554-4258-b79f-14cc7b385613
+    line_id: KR3c0005_tls_010-5a.10
+    textline: 豎穀陽操觴酒而進之
+    offset: 6
+    range: 1
+right:
+  word_uuid: 78f0c57a-a1e6-401a-b110-955ddc054916
+  text: 觴
+  concept: CUP
+  concept_uuid: 4e6d6168-ef29-4b00-8ae1-bdb23e84ed4f
+  attestation:
+    text_title: 韓非子
+    line_uuid: 1140181b-5554-4258-b79f-14cc7b385613
+    line_id: KR3c0005_tls_010-5a.10
+    textline: 豎穀陽操觴酒而進之
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

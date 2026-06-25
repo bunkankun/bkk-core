@@ -1,0 +1,21 @@
+uuid: cf96f964-2836-4580-b6dc-16f31fa4ea0a
+type: word-relation
+group_uuid: 44f4e9b6-18b5-54f1-9862-b9fd67fdd9ae
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 8dc4c3c7-af52-4c80-9f25-9acfa57a4014
+  text: 穿
+  concept: DRILL
+  concept_uuid: 66925e4a-f4df-498b-9361-388edc15134c
+right:
+  word_uuid: 5a84aeda-4ee2-471e-abc7-4f805bf4ac66
+  text: 鑿
+  concept: DRILL
+  concept_uuid: 66925e4a-f4df-498b-9361-388edc15134c
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

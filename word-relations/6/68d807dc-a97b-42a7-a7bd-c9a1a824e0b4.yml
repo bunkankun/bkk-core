@@ -1,0 +1,21 @@
+uuid: 68d807dc-a97b-42a7-a7bd-c9a1a824e0b4
+type: word-relation
+group_uuid: dabf79c6-16b1-5201-afd1-7752f00236ae
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 0cf8a5e2-af7a-4c37-b972-69cd2e3e2266
+  text: 定
+  concept: FIX
+  concept_uuid: 90d520c9-6f4f-4abe-8b6a-e01e79f80aa2
+right:
+  word_uuid: 38cc8202-2ec1-49e8-8d89-4aefbc6d3967
+  text: 擾
+  concept: DISTURB
+  concept_uuid: 59007c08-4ecf-4f74-8427-680c3f86344b
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

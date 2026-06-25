@@ -1,0 +1,33 @@
+uuid: 8412aa63-5e8d-4e09-9215-f462c630ede5
+type: word-relation
+group_uuid: 8412aa63-5e8d-4e09-9215-f462c630ede5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 39d287b8-a35a-44bf-b689-6b3276a3ae0e
+  text: 德
+  concept: VIRTUE
+  concept_uuid: 9700afcb-142a-4626-a4b8-d809156fb76e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7eae5478-bcf7-4645-b3aa-7271446abe2e
+    line_id: KR6r0138_CBETA_021-0249a1501.s9
+    textline: 德義
+    offset: 1
+    range: 1
+right:
+  word_uuid: c5b56f13-5db3-4b75-8e54-8c26bb8a22dd
+  text: 義
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 7eae5478-bcf7-4645-b3aa-7271446abe2e
+    line_id: KR6r0138_CBETA_021-0249a1501.s9
+    textline: 德義
+    offset: 3
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

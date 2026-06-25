@@ -1,0 +1,32 @@
+uuid: da317d48-e8cc-4a19-b2b2-059a8832d1da
+type: word-relation
+group_uuid: 00c50493-228f-40b8-82be-877800218bd6
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: 0c522ffe-1310-43b4-bc8d-08f67956ab41
+  text: 法
+  concept: LAW
+  concept_uuid: 699a94f6-628b-44ba-be7a-3454a439b2a0
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4da3f494-09c5-45fe-9cf9-4b1f735c04b8
+    line_id: KR3c0005_tls_006-28a.5
+    textline: 奉公法
+    offset: 3
+    range: 1
+right:
+  word_uuid: ff93479d-5897-4b3e-843a-23c53ab4ee1d
+  text: 公
+  concept: JUSTICE
+  concept_uuid: c3c8ff09-ebd7-4a88-b401-4cf934e7aed6
+  attestation:
+    text_title: 韓非子
+    line_uuid: 4da3f494-09c5-45fe-9cf9-4b1f735c04b8
+    line_id: KR3c0005_tls_006-28a.5
+    textline: 奉公法
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

@@ -1,0 +1,32 @@
+uuid: 67938b74-b569-46c0-97c5-45af0450c9f5
+type: word-relation
+group_uuid: 67938b74-b569-46c0-97c5-45af0450c9f5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: a7281f99-cf1d-4069-a0aa-98372de668b1
+  text: 戒
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 1bf30d4e-bbc9-4eba-8844-e2b4749a4166
+    line_id: KR1e0001_tls_002-28a.41
+    textline: 百官於是乎戒懼
+    offset: 6
+    range: 1
+right:
+  word_uuid: c0c6aaef-cc70-480b-bc4b-fe205112551d
+  text: 懼
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: 1bf30d4e-bbc9-4eba-8844-e2b4749a4166
+    line_id: KR1e0001_tls_002-28a.41
+    textline: 百官於是乎戒懼
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml

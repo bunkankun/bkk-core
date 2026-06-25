@@ -1,0 +1,32 @@
+uuid: 24e7e200-9b00-4944-83e3-587dd9853f9f
+type: word-relation
+group_uuid: 24e7e200-9b00-4944-83e3-587dd9853f9f
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: eebf6ce7-cb6e-43d3-8701-95b31e957fd8
+  text: 真諦
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 02d3eada-65a2-4163-acb8-ab69dc076fd4
+    line_id: KR6q0002_Yan_001-1026a.36
+    textline: 表真諦不壞也
+    offset: 2
+    range: 2
+right:
+  word_uuid: 932b28db-0f73-4cf4-ab16-fa84b74edff2
+  text: 俗諦
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+  attestation:
+    text_title: 祖堂集
+    line_uuid: 9dd0d445-aafc-4f0d-ad03-f9f7541483bd
+    line_id: KR6q0002_Yan_001-1026a.34
+    textline: 表俗諦存焉
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

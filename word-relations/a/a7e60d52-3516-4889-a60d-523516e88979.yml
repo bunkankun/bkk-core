@@ -1,0 +1,32 @@
+uuid: a7e60d52-3516-4889-a60d-523516e88979
+type: word-relation
+group_uuid: f7489fd2-87c9-5b7f-b09c-80af7336f0de
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 541f0450-df8b-4a5e-8bed-c5016fca3a96
+  text: 法
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_005-6a.34
+    textline: 守法數之有司
+    offset: 2
+    range: 1
+right:
+  word_uuid: df0833ed-a86b-4610-ae6a-67dbbade12d6
+  text: 數
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 荀子
+    line_id: KR3a0002_tls_005-6a.34
+    textline: 守法數之有司
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2023-02-13T06:10:54.047+09:00'

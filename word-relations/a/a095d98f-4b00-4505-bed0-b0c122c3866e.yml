@@ -1,0 +1,32 @@
+uuid: a095d98f-4b00-4505-bed0-b0c122c3866e
+type: word-relation
+group_uuid: d16ef383-d72b-48d5-b34f-e6ee95720166
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 2554d952-4e0d-432c-b533-6de9b19465a2
+  text: 刑
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 管子
+    line_uuid: cab30c0b-1b53-4ea6-be53-69f36e4bfe40
+    line_id: KR3c0001_tls_001-13a.2
+    textline: 故刑罰繁而意不恐
+    offset: 2
+    range: 1
+right:
+  word_uuid: ff2936bd-7279-4b82-aab6-8466cfda83c2
+  text: 罰
+  concept: PUNISH
+  concept_uuid: 2d18de2c-a840-4747-84dd-8f8d08b67620
+  attestation:
+    text_title: 管子
+    line_uuid: cab30c0b-1b53-4ea6-be53-69f36e4bfe40
+    line_id: KR3c0001_tls_001-13a.2
+    textline: 故刑罰繁而意不恐
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

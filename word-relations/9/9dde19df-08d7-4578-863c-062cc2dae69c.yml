@@ -1,0 +1,32 @@
+uuid: 9dde19df-08d7-4578-863c-062cc2dae69c
+type: word-relation
+group_uuid: 9dde19df-08d7-4578-863c-062cc2dae69c
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 14c572d4-cad4-4dc0-a8c2-5c296692a6b4
+  text: 情
+  concept: FEELING
+  concept_uuid: f170669d-cdeb-4b7d-811a-e32d9fa5a33e
+  attestation:
+    text_title: 韓非子
+    line_uuid: fa190782-7a55-471b-8807-56a35e538357
+    line_id: KR3c0005_tls_020-18a.2
+    textline: 禮為情貌者也
+    offset: 3
+    range: 1
+right:
+  word_uuid: 9a3d64b9-578c-49cc-9307-b5aca93c2e9a
+  text: 貌
+  concept: APPEARANCE
+  concept_uuid: c8c50293-f8c7-4e59-be5c-c38efa72c6d7
+  attestation:
+    text_title: 韓非子
+    line_uuid: fa190782-7a55-471b-8807-56a35e538357
+    line_id: KR3c0005_tls_020-18a.2
+    textline: 禮為情貌者也
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

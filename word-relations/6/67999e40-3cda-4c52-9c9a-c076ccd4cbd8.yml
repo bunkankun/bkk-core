@@ -1,0 +1,32 @@
+uuid: 67999e40-3cda-4c52-9c9a-c076ccd4cbd8
+type: word-relation
+group_uuid: 67999e40-3cda-4c52-9c9a-c076ccd4cbd8
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: c5fef6e9-2d1e-431c-af80-028403026eca
+  text: 弊
+  concept: CONCEAL
+  concept_uuid: 1cf699b4-4663-4e18-8dc7-c37ab3bb1edd
+  attestation:
+    text_title: 韓非子
+    line_uuid: cb4e852d-8bc7-441e-8829-77bfdbd0c21b
+    line_id: KR3c0005_tls_006-18a.2
+    textline: 能者不可弊
+    offset: 5
+    range: 1
+right:
+  word_uuid: b61e4ee3-c29f-4632-b476-6dab0e614350
+  text: 飾
+  concept: EMBELLISH
+  concept_uuid: 65fe2524-856e-4241-bb45-238a24605d72
+  attestation:
+    text_title: 韓非子
+    line_uuid: b0ad0b25-a0f9-402f-81b5-b756153c1545
+    line_id: KR3c0005_tls_006-18a.3
+    textline: 敗者不可飾
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

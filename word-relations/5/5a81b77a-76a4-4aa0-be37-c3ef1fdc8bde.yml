@@ -1,0 +1,32 @@
+uuid: 5a81b77a-76a4-4aa0-be37-c3ef1fdc8bde
+type: word-relation
+group_uuid: 5a81b77a-76a4-4aa0-be37-c3ef1fdc8bde
+rel_type: Object
+rel_type_uuid: 17d4cabf-2364-4fcc-92a7-16f8cfe4658c
+rel_label: typical idiomatic object (罪 - 得)
+left:
+  word_uuid: 0acc0b68-a7e1-4604-95c1-9781cd8ca950
+  text: 道
+  concept: METHOD
+  concept_uuid: 0a955378-7787-4695-b9d0-15e4f4f22c3e
+  attestation:
+    text_title: 論語
+    line_uuid: cbdaa83b-00a1-4b44-b6b6-a5f81024c548
+    line_id: KR1h0004_tls_005-7a.3
+    textline: 「道不行
+    offset: 2
+    range: 1
+right:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: cbdaa83b-00a1-4b44-b6b6-a5f81024c548
+    line_id: KR1h0004_tls_005-7a.3
+    textline: 「道不行
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

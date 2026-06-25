@@ -1,0 +1,32 @@
+uuid: 9ffbc04d-28ab-4bc1-9dbc-01255b39d44a
+type: word-relation
+group_uuid: 9ffbc04d-28ab-4bc1-9dbc-01255b39d44a
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 93ecfd2b-0bbe-4ad0-bcdf-944836e1ce5f
+  text: 殺
+  concept: KILL
+  concept_uuid: 16de396a-482f-44f4-bc0a-dd073c887f9b
+  attestation:
+    text_title: 論語
+    line_uuid: 476de85c-6525-4e21-a064-dffd14114ee1
+    line_id: KR1h0004_tls_015-10a.1
+    textline: 有殺身以成仁
+    offset: 2
+    range: 1
+right:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 論語
+    line_uuid: 476de85c-6525-4e21-a064-dffd14114ee1
+    line_id: KR1h0004_tls_015-10a.1
+    textline: 有殺身以成仁
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

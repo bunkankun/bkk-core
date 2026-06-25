@@ -1,0 +1,32 @@
+uuid: 011d8fb6-6024-42af-93a6-8a0b9e5799e7
+type: word-relation
+group_uuid: 011d8fb6-6024-42af-93a6-8a0b9e5799e7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: c6cdf2af-8d5b-4191-9af6-8cc62050fb21
+  text: 戰
+  concept: TREMBLE
+  concept_uuid: b237081d-2ffa-4cc5-bb3e-04792610663b
+  attestation:
+    text_title: 韓非子
+    line_uuid: 37b0c557-11cf-4898-8d8b-9fb0f03e550d
+    line_id: KR3c0005_tls_001-30a.8
+    textline: 戰竦而卻
+    offset: 1
+    range: 1
+right:
+  word_uuid: 4751a98c-f7c4-4c04-ac90-bc3376da10d6
+  text: 竦
+  concept: FEAR
+  concept_uuid: 8ab808df-97f3-40fd-9b35-a9fc0a7aee53
+  attestation:
+    text_title: 韓非子
+    line_uuid: 37b0c557-11cf-4898-8d8b-9fb0f03e550d
+    line_id: KR3c0005_tls_001-30a.8
+    textline: 戰竦而卻
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

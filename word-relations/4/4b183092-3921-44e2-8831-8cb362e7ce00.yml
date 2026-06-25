@@ -1,0 +1,32 @@
+uuid: 4b183092-3921-44e2-8831-8cb362e7ce00
+type: word-relation
+group_uuid: 4b183092-3921-44e2-8831-8cb362e7ce00
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 062d268c-7abf-42c3-99e8-0e2c5a11a878
+  text: 宥
+  concept: FORGIVE
+  concept_uuid: a7781b07-2b28-4722-910c-4465de00a1ef
+  attestation:
+    text_title: 管子
+    line_uuid: cc9a403e-30e1-43c6-a457-dabef28108eb
+    line_id: KR3c0001_tls_001-303a.7
+    textline: 一再則宥
+    offset: 4
+    range: 1
+right:
+  word_uuid: cb4d51e7-e681-48fc-9118-e80545be4c34
+  text: 赦
+  concept: PARDON
+  concept_uuid: 247311de-b762-4cdf-92db-b006cb9fdf7d
+  attestation:
+    text_title: 管子
+    line_uuid: b6ce497d-f301-410f-b935-6315be8e1126
+    line_id: KR3c0001_tls_001-303a.8
+    textline: 三則不赦
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

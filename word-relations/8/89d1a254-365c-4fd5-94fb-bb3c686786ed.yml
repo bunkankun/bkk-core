@@ -1,0 +1,32 @@
+uuid: 89d1a254-365c-4fd5-94fb-bb3c686786ed
+type: word-relation
+group_uuid: 6dd92055-2b2d-4861-865f-9b3b1f6b35d5
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: eb46ce03-e277-4c24-b840-b20978f2a5f5
+  text: 加
+  concept: ADD
+  concept_uuid: 92df29bf-6817-4406-82af-15188498b600
+  attestation:
+    text_title: 論衡
+    line_uuid: f82a6e39-3477-4d89-ad09-3daa56b5f010
+    line_id: KR3j0080_tls_007-2a.17
+    textline: 命可加增”
+    offset: 3
+    range: 1
+right:
+  word_uuid: c720e417-a271-4b6f-a3c9-0b3edc56a983
+  text: 增
+  concept: INCREASE
+  concept_uuid: c90eea1d-bfc4-4e5c-a200-588b325b4a6f
+  attestation:
+    text_title: 論衡
+    line_uuid: f82a6e39-3477-4d89-ad09-3daa56b5f010
+    line_id: KR3j0080_tls_007-2a.17
+    textline: 命可加增”
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

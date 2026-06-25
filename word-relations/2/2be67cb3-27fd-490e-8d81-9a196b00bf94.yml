@@ -1,0 +1,35 @@
+uuid: 2be67cb3-27fd-490e-8d81-9a196b00bf94
+type: word-relation
+group_uuid: 2be67cb3-27fd-490e-8d81-9a196b00bf94
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: d8d26bc1-de5e-4a45-9b5b-35f40a517df7
+  text: 適
+  concept: HEIR
+  concept_uuid: e19f8c53-e05f-4333-8fc1-91ff6c0bc00e
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: dac74bb3-c174-415e-9a55-4973b84e4bf2
+    line_id: KR1e0001_tls_006-383a.9
+    textline: 殺適立庶
+    offset: 2
+    range: 1
+right:
+  word_uuid: a8669be5-2522-490c-8e2c-df96ba688d23
+  text: 庶
+  concept: ORDINARY
+  concept_uuid: 56973850-4909-4c69-95b8-66002ca50cba
+  attestation:
+    text_title: 春秋左傳
+    line_uuid: dac74bb3-c174-415e-9a55-4973b84e4bf2
+    line_id: KR1e0001_tls_006-383a.9
+    textline: 殺適立庶
+    offset: 4
+    range: 1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

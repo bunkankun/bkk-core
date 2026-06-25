@@ -1,0 +1,32 @@
+uuid: fd87f5b4-7ea1-4135-b895-4e62771ae0aa
+type: word-relation
+group_uuid: 09ae06d2-a2b1-4346-a654-242c90eb3000
+rel_type: Synon
+rel_type_uuid: 88f8362b-a49d-4145-b935-69c507b8915e
+rel_label: synonymously used in parallelistic contexts (哭 - 泣)
+left:
+  word_uuid: 8b3e7ccf-e5c6-4e9e-9dca-9e096e5a4b9c
+  text: 變
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: b9a17b25-185f-4357-a502-9b6030369204
+    line_id: KR3j0009_tls_005-11a.13
+    textline: 不可變
+    offset: 3
+    range: 1
+right:
+  word_uuid: 7830354e-16b6-4620-9dee-0a900c2f7e1f
+  text: 易
+  concept: CHANGE
+  concept_uuid: 2cc99b20-f085-497b-a131-2dc43a6e4c9e
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 3382aa37-8b87-441a-80b2-25e0f64d07e7
+    line_id: KR3j0009_tls_005-11a.14
+    textline: 不可易
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

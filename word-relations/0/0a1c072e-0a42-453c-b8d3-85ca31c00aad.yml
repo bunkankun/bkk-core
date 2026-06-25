@@ -1,0 +1,32 @@
+uuid: 0a1c072e-0a42-453c-b8d3-85ca31c00aad
+type: word-relation
+group_uuid: 0a1c072e-0a42-453c-b8d3-85ca31c00aad
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 7ac79010-8a35-483d-b416-b75f55a4ae51
+  text: 追
+  concept: PURSUE
+  concept_uuid: 98abac13-a01c-4d97-a840-00b8498b74ac
+  attestation:
+    text_title: 孟子
+    line_uuid: d2722107-1a05-42ff-9b81-7911fbdfe35a
+    line_id: KR1h0001_tls_014-44a.5
+    textline: 往者不追
+    offset: 4
+    range: 1
+right:
+  word_uuid: 7755dba2-0b74-482a-b897-2f279cf1febd
+  text: 拒
+  concept: REFUSE
+  concept_uuid: b2e0f94f-7c60-4b0b-b533-e9872d391ade
+  attestation:
+    text_title: 孟子
+    line_uuid: 9e152423-6c2c-484f-b4da-0143e1d9adcd
+    line_id: KR1h0001_tls_014-44a.6
+    textline: 來者不拒
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

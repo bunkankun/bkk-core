@@ -1,0 +1,32 @@
+uuid: afa1452b-0e18-4cfc-a7d9-4e5bbad31881
+type: word-relation
+group_uuid: bd10f23b-99d0-4fad-954d-9ea1339dc662
+rel_type: Contrast
+rel_type_uuid: 25c91efb-6203-4e98-8d2f-4c91938ccf8f
+rel_label: explicitly contrasted (賢人 －聖人)
+left:
+  word_uuid: 17adfe52-bf70-42e3-bbb1-f18843da3f7e
+  text: 生
+  concept: BIRTH
+  concept_uuid: e76f2b01-d6e2-49e6-b961-8469e70fb108
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 2287adcf-16f3-4557-8cce-f44cff6f585a
+    line_id: KR3j0009_tls_001-10a.2
+    textline: 始生之者
+    offset: 2
+    range: 1
+right:
+  word_uuid: c4f7f0dd-c998-498f-91eb-8a3c11d4c50e
+  text: 成
+  concept: COMPLETE
+  concept_uuid: 208622a2-42d2-4786-a937-38a3f3ea9b07
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 0248cdaa-14c8-4d6c-8ebd-feb60a4f2af7
+    line_id: KR3j0009_tls_001-10a.4
+    textline: 養成之者
+    offset: 2
+    range: 1
+source:
+  source_file: word-relations.xml

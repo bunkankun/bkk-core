@@ -1,0 +1,32 @@
+uuid: cb80d4a7-8eec-4d1c-ad8e-f1866d41bbd2
+type: word-relation
+group_uuid: cb80d4a7-8eec-4d1c-ad8e-f1866d41bbd2
+rel_type: Result
+rel_type_uuid: e24a9d1f-2b24-4d62-a0b2-5c18a505b96c
+rel_label: result of (殺 - 死)
+left:
+  word_uuid: 84807d47-3d96-486c-857c-2b32ad27c085
+  text: 老
+  concept: TIRED
+  concept_uuid: adbb6adb-d61a-4335-9146-b7c020dcbeeb
+  attestation:
+    text_title: 韓非子
+    line_uuid: 789ae371-aa6a-422d-a6cb-738e5d0882ab
+    line_id: KR3c0005_tls_006-5a.3
+    textline: 荊軍老而走
+    offset: 3
+    range: 1
+right:
+  word_uuid: 242c081e-f5a8-4791-90b6-f6ecaaa339f1
+  text: 走
+  concept: FLEE
+  concept_uuid: 2f29a73e-417d-4d37-b137-647c994f8594
+  attestation:
+    text_title: 韓非子
+    line_uuid: 789ae371-aa6a-422d-a6cb-738e5d0882ab
+    line_id: KR3c0005_tls_006-5a.3
+    textline: 荊軍老而走
+    offset: 5
+    range: 1
+source:
+  source_file: word-relations.xml

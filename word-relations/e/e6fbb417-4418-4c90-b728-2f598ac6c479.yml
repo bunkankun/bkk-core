@@ -1,0 +1,18 @@
+uuid: e6fbb417-4418-4c90-b728-2f598ac6c479
+type: word-relation
+group_uuid: c7ce0762-a980-50af-a62c-a4e45f0131dc
+rel_type: Subject
+rel_type_uuid: aff8dd79-0573-4ea2-8000-09c4bb506ed3
+rel_label: typical subject of (治 - 國)
+left:
+  word_uuid: 09e24adc-d3e7-4a75-a18b-7aaf272b9f9b
+  text: 當
+  concept: 'TRUE'
+  concept_uuid: 5dfd2084-459d-4bd3-9a20-ca0f2f78db51
+right:
+  word_uuid: 20f8291e-5b9a-4e34-9e13-47e033027d79
+  text: 言
+  concept: SENTENCE
+  concept_uuid: 1a4793cc-5ea5-4976-a6d9-76f951c94a59
+source:
+  source_file: word-relations.xml

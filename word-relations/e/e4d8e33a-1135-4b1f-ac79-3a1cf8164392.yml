@@ -1,0 +1,32 @@
+uuid: e4d8e33a-1135-4b1f-ac79-3a1cf8164392
+type: word-relation
+group_uuid: e4d8e33a-1135-4b1f-ac79-3a1cf8164392
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: ed0fd511-bb6e-4720-91ed-9b870350a6eb
+  text: 風
+  concept: WIND
+  concept_uuid: 61395670-a2bd-4fa9-aa78-00a19be1c3dd
+  attestation:
+    text_title: 韓非子
+    line_uuid: f7a5168d-f61f-43db-aafa-5b13c20616d8
+    line_id: KR3c0005_tls_008-43a.5
+    textline: 將不勝春風
+    offset: 5
+    range: 1
+right:
+  word_uuid: 327449d8-c55e-4b1a-bf8c-e2d09099766b
+  text: 春
+  concept: SEASON
+  concept_uuid: a35c3945-885d-4e7c-9f9a-4c952c047661
+  attestation:
+    text_title: 韓非子
+    line_uuid: f7a5168d-f61f-43db-aafa-5b13c20616d8
+    line_id: KR3c0005_tls_008-43a.5
+    textline: 將不勝春風
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml

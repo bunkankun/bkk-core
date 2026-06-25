@@ -1,0 +1,32 @@
+uuid: 192b7b04-4d74-46b0-97f6-710d9b840b50
+type: word-relation
+group_uuid: 192b7b04-4d74-46b0-97f6-710d9b840b50
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4eb3c15c-db38-43d0-9d37-834df7ad57af
+  text: 騏驥
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 楚辭
+    line_uuid: ffacebd2-ae38-4410-a4dd-3b10dead9d06
+    line_id: KR4a0001_tls_008-5a.4
+    textline: 卻騏驥而不乘兮
+    offset: 2
+    range: 2
+right:
+  word_uuid: 3de9848c-f625-4512-a302-8c7b082ad03d
+  text: 駑駘
+  concept: HORSE
+  concept_uuid: d3a9c31d-0807-49c8-961a-48170d11a3e1
+  attestation:
+    text_title: 楚辭
+    line_uuid: 9e65cf43-835d-41d0-8036-da55bb730344
+    line_id: KR4a0001_tls_008-5a.5
+    textline: 策駑駘而取路
+    offset: 2
+    range: 2
+source:
+  source_file: word-relations.xml

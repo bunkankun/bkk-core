@@ -1,0 +1,32 @@
+uuid: dca68b87-37ce-46b8-858b-74eeafcd640e
+type: word-relation
+group_uuid: 909b0ce9-0ef4-4f9b-bffd-79fb0be1278d
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 8d34c341-8345-4188-ae02-795881acad84
+  text: 我
+  concept: EGO
+  concept_uuid: 5a6418f0-0044-439d-a1eb-858537fd25e2
+  attestation:
+    text_title: 論語
+    line_uuid: b271cdfd-aac4-4309-b46b-e5a2baf5598c
+    line_id: KR1h0004_tls_019-5a.8
+    textline: 我之不賢與
+    offset: 1
+    range: 1
+right:
+  word_uuid: 2886d630-6bda-4fc5-87f0-dfa9fb820c97
+  text: 人
+  concept: OTHER
+  concept_uuid: cd080c03-5f07-465e-990f-59979f187aa4
+  attestation:
+    text_title: 論語
+    line_uuid: 1288cdb8-9074-45f5-ab17-cee94b161589
+    line_id: KR1h0004_tls_019-5a.9
+    textline: 人將拒我
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

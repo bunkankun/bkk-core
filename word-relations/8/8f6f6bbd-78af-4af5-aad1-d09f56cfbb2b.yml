@@ -1,0 +1,21 @@
+uuid: 8f6f6bbd-78af-4af5-aad1-d09f56cfbb2b
+type: word-relation
+group_uuid: fc4dc708-0b62-5075-8aec-37a0fe6d539c
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 03b83004-8a84-4bb0-939b-9acc9f4aceb7
+  text: 崇
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+right:
+  word_uuid: 291cbf50-1f17-4cc5-8f1d-ae0648577492
+  text: 尊
+  concept: RESPECT
+  concept_uuid: 4dcf2bfe-c795-4f49-9ee6-74279db399c2
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

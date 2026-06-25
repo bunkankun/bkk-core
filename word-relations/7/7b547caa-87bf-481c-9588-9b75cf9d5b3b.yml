@@ -1,0 +1,32 @@
+uuid: 7b547caa-87bf-481c-9588-9b75cf9d5b3b
+type: word-relation
+group_uuid: 7b547caa-87bf-481c-9588-9b75cf9d5b3b
+rel_type: Ant
+rel_type_uuid: 12bfc268-0a4c-455d-9a1c-4d635dc0d215
+rel_label: antonym (善 - 惡)
+left:
+  word_uuid: 4d2550aa-2c7a-4bc8-9bec-42cdaf2d6087
+  text: 雄
+  concept: MALE
+  concept_uuid: 4c81d2b0-8edf-4b50-9e94-601df3ed0bc8
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 880d59f9-09a6-4317-b3c2-c4df5a7f8f86
+    line_id: KR3j0009_tls_005-27a.14
+    textline: 其雄鳴為六
+    offset: 2
+    range: 1
+right:
+  word_uuid: c192b20d-3176-4308-b452-0a4be22ecf03
+  text: 雌
+  concept: FEMALE
+  concept_uuid: 8c035489-a7fc-403e-873b-9bc358d1545a
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: bf17ba3e-5e9d-40b6-9f45-cb6969aa9c5a
+    line_id: KR3j0009_tls_005-27a.15
+    textline: 雌鳴亦六
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

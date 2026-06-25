@@ -1,0 +1,21 @@
+uuid: a7720348-d9d2-4f5b-a79f-f7b90b14a12e
+type: word-relation
+group_uuid: dc4750cf-8ea9-5802-a49a-7dff0aa4a461
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 62db34ac-d02c-4c79-aa9a-c944ab095911
+  text: 隳墮
+  concept: COLLAPSE
+  concept_uuid: 45e0d256-2b91-493a-82eb-cb8bfd50a1c6
+right:
+  word_uuid: c8c7463d-2392-405a-a85a-f2081e0cc1aa
+  text: 落
+  concept: FALL
+  concept_uuid: e054a8e7-fb11-450a-94ab-d51d290376e1
+source_references:
+- bibliography_uuid: de60297d-fa9c-4dec-83cf-e012bf311207
+  title: 論衡訓詁資料纂輯
+source:
+  source_file: word-relations.xml

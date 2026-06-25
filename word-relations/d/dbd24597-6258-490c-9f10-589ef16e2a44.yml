@@ -1,0 +1,30 @@
+uuid: dbd24597-6258-490c-9f10-589ef16e2a44
+type: word-relation
+group_uuid: dbd24597-6258-490c-9f10-589ef16e2a44
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: b3bc6239-90e3-4e9d-84a5-6b85f36e3247
+  text: 坑
+  concept: PIT
+  concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+  attestation:
+    text_title: 論衡
+    line_uuid: d22fc756-07b4-4ca9-9840-a34bdf572445
+    textline: 入坑坎之啼
+    offset: 2
+    range: 1
+right:
+  word_uuid: fa9ea3fd-94cd-4921-83c6-5816c74bba17
+  text: 坎
+  concept: PIT
+  concept_uuid: e3f3a0c3-065a-4842-947f-c667cc11e51d
+  attestation:
+    text_title: 論衡
+    line_uuid: d22fc756-07b4-4ca9-9840-a34bdf572445
+    textline: 入坑坎之啼
+    offset: 3
+    range: 1
+source:
+  source_file: word-relations.xml

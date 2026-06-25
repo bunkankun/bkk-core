@@ -1,0 +1,30 @@
+uuid: 75a81c18-a55c-47a2-ae43-45376dec4772
+type: word-relation
+group_uuid: 2c8a12b6-4222-4da6-b297-be4585dbda84
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: 0b67e31e-3e5e-4598-9814-5a9f79ae3033
+  text: 行
+  concept: ACT
+  concept_uuid: abfdc4bb-445b-44d8-a4e9-f9f114a2beba
+  attestation:
+    text_title: 論語
+    line_uuid: a4a51cd1-291b-4693-862c-ecd7ef0675a0
+    textline: 文行忠信
+    offset: 3
+    range: 1
+right:
+  word_uuid: b8cdc227-0ade-4596-ae55-a6abda84a6bf
+  text: 文
+  concept: ARTS
+  concept_uuid: 1d8c8c1e-9712-456b-b344-dc96bfe26701
+  attestation:
+    text_title: 論語
+    line_uuid: a4a51cd1-291b-4693-862c-ecd7ef0675a0
+    textline: 文行忠信
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

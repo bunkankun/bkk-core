@@ -1,0 +1,32 @@
+uuid: fc34905a-930d-4de7-abba-0a124892433c
+type: word-relation
+group_uuid: fc34905a-930d-4de7-abba-0a124892433c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: dd0cdeb9-0425-4444-9845-efb30df63bb8
+  text: 尾
+  concept: TAIL
+  concept_uuid: f9403b9d-aec6-4063-b05e-5afa0cfc3797
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 03a4e563-2797-4bde-8038-4588309a6f6d
+    line_id: KR3j0009_tls_001-17a.2
+    textline: 使烏獲疾引牛尾
+    offset: 7
+    range: 1
+right:
+  word_uuid: 1e6222fa-3c15-46c3-9240-f5ea255eb6c0
+  text: 牛
+  concept: BOVINE
+  concept_uuid: 568a4e8e-83ce-42e5-a3f1-f78ad275e212
+  attestation:
+    text_title: 呂氏春秋
+    line_uuid: 03a4e563-2797-4bde-8038-4588309a6f6d
+    line_id: KR3j0009_tls_001-17a.2
+    textline: 使烏獲疾引牛尾
+    offset: 6
+    range: 1
+source:
+  source_file: word-relations.xml

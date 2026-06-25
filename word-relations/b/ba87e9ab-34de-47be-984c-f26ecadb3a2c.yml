@@ -1,0 +1,32 @@
+uuid: ba87e9ab-34de-47be-984c-f26ecadb3a2c
+type: word-relation
+group_uuid: ba87e9ab-34de-47be-984c-f26ecadb3a2c
+rel_type: Epithet
+rel_type_uuid: 1b69eaef-3e06-4b9f-a9ff-6fc033147cf9
+rel_label: typical idiomatic adjective (良 - 臣)
+left:
+  word_uuid: fa4f4d27-3b83-4d0b-b1b2-ef7cc22c9d5f
+  text: 廬
+  concept: HUT
+  concept_uuid: d10affc9-c77e-4d25-8cac-c6da4d3342bf
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 73502da2-e12f-4112-b91d-cf63540699fb
+    line_id: KR3a0006_tls_004-12a.9
+    textline: 而不能自為專屋狹廬
+    offset: 9
+    range: 1
+right:
+  word_uuid: 651c8e6e-a808-465a-bb10-6b2fcc936c9a
+  text: 狹
+  concept: NARROW
+  concept_uuid: cb3f8b09-f87e-4f8c-a78a-eef4c346f87a
+  attestation:
+    text_title: 鹽鐵論
+    line_uuid: 73502da2-e12f-4112-b91d-cf63540699fb
+    line_id: KR3a0006_tls_004-12a.9
+    textline: 而不能自為專屋狹廬
+    offset: 8
+    range: 1
+source:
+  source_file: word-relations.xml

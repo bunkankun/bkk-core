@@ -1,0 +1,32 @@
+uuid: a446770f-dadc-4a09-91b4-d764d7ad79bc
+type: word-relation
+group_uuid: a446770f-dadc-4a09-91b4-d764d7ad79bc
+rel_type: Oppos
+rel_type_uuid: 667a2aba-0b40-455d-ac05-0f6d0fe89dca
+rel_label: semantically opposed but not opposite (幾“some” - 多“many”)
+left:
+  word_uuid: eaca45b7-ee43-4b09-adb6-e09782ba698e
+  text: 立
+  concept: STAND
+  concept_uuid: f4c85ba5-22c0-4c20-a115-e42b01f616e7
+  attestation:
+    text_title: 論語
+    line_uuid: 64774e16-29e2-4307-867a-d249a01ecdc6
+    line_id: KR1h0004_tls_010-5a.2
+    textline: 立不中門
+    offset: 1
+    range: 1
+right:
+  word_uuid: c74708cf-2a21-4f27-a21e-69b984d260c3
+  text: 行
+  concept: WALK
+  concept_uuid: 4b00487c-ebb4-4816-99ce-3386839737e2
+  attestation:
+    text_title: 論語
+    line_uuid: ea4d20fb-bf95-48f6-96d4-8f24af01c893
+    line_id: KR1h0004_tls_010-5a.3
+    textline: 行不履閾
+    offset: 1
+    range: 1
+source:
+  source_file: word-relations.xml

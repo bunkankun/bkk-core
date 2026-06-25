@@ -1,0 +1,32 @@
+uuid: 00151a03-58d5-4a78-951a-0358d5ca78b4
+type: word-relation
+group_uuid: 257c3f26-c8ca-5fd4-8f4b-1106c7fb10d7
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: 0870b526-e9f5-4f64-9d85-27159efe3055
+  text: 溝
+  concept: CANAL
+  concept_uuid: 565ea53a-7762-4513-bd64-023a47f68637
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.64
+    textline: 遇小人則陷溝壑
+    offset: 6
+    range: 1
+right:
+  word_uuid: f1c17a4d-93dd-4a41-8823-bb1e10aefbce
+  text: 壑
+  concept: MOUNTAIN BROOK
+  concept_uuid: 347a5e50-8487-48e3-a9da-281cf332d42e
+  attestation:
+    text_title: 淮南子
+    line_id: KR3j0010_tls_013-13a.64
+    textline: 遇小人則陷溝壑
+    offset: 7
+    range: 1
+source:
+  source_file: word-relations.xml
+  resp: '#CH'
+  date: '2024-03-22T23:45:49.88+09:00'

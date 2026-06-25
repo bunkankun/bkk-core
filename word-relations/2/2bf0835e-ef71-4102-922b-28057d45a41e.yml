@@ -1,0 +1,32 @@
+uuid: 2bf0835e-ef71-4102-922b-28057d45a41e
+type: word-relation
+group_uuid: 2bf0835e-ef71-4102-922b-28057d45a41e
+rel_type: Assoc
+rel_type_uuid: 8f828167-d77f-4885-b400-ccf432bdb4a0
+rel_label: regularly cooccurring with (逍 - 遙)
+left:
+  word_uuid: dbf882ab-b12d-4dea-846d-e7e41c99bfee
+  text: 慍
+  concept: ANGUISH
+  concept_uuid: 9ffdb5f7-0725-4f17-803f-262657fad272
+  attestation:
+    text_title: 管子
+    line_uuid: e4e8f344-89e6-4c0f-bcc4-f4723bb0ae21
+    line_id: KR3c0001_tls_024-215a.6
+    textline: 民無慍惡不服
+    offset: 3
+    range: 1
+right:
+  word_uuid: ec6ad293-df37-4a38-b192-be0c75614a3d
+  text: 惡
+  concept: HATE
+  concept_uuid: b61cfea3-cee5-41ca-8b35-911615c0a81a
+  attestation:
+    text_title: 管子
+    line_uuid: e4e8f344-89e6-4c0f-bcc4-f4723bb0ae21
+    line_id: KR3c0001_tls_024-215a.6
+    textline: 民無慍惡不服
+    offset: 4
+    range: 1
+source:
+  source_file: word-relations.xml
